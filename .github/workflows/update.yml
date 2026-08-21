@@ -68,6 +68,10 @@ jobs:
               if secret in path.read_text(encoding="utf-8"):
                   raise SystemExit(f"LAW_OC leaked into {path}")
           PY
+      - name: Fetch MFDS permit data
+        env:
+          DATA_GO_KEY: ${{ secrets.DATA_GO_KEY }}
+        run: python fetch_mfds.py
       - name: Normalize and build SQLite
         run: python ingest.py
       - name: Verify candidate publication
@@ -88,6 +92,7 @@ jobs:
             data/normalized
             data/versions.json
             data/criteria.db
+            data/mfds
           retention-days: 1
           if-no-files-found: error
       - uses: actions/upload-pages-artifact@v5
@@ -114,11 +119,13 @@ jobs:
         id: commit
         shell: bash
         run: |
-          mkdir -p data/raw data/normalized
+          mkdir -p data/raw data/normalized data/mfds
           cp -a candidate/raw/. data/raw/
           cp -a candidate/normalized/. data/normalized/
+          if [ -d candidate/mfds ]; then cp -a candidate/mfds/. data/mfds/; fi
           cp candidate/versions.json data/versions.json
           git add data/normalized
+          if [ -d data/mfds/items ]; then git add data/mfds; fi
           git add -f data/versions.json data/raw/*/meta.json data/raw/*/[0-9][0-9][0-9]_*
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"

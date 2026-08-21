@@ -10,6 +10,7 @@ from pathlib import Path
 from common import DATA, DB_PATH, RAW
 
 NORMALIZED = DATA / "normalized"
+MFDS_ITEMS = DATA / "mfds" / "items"
 SENSITIVE_KEYS = {"oc", "law_oc", "api_key", "apikey", "key", "token", "access_token"}
 
 
@@ -25,6 +26,39 @@ def digest(path: Path) -> tuple[int, str]:
 
 def safe_url(url: str) -> bool:
     return not any(key.casefold() in SENSITIVE_KEYS for key, _ in urllib.parse.parse_qsl(urllib.parse.urlsplit(url).query))
+
+
+def validate_mfds_items(items_dir: Path = MFDS_ITEMS) -> list[str]:
+    errors: list[str] = []
+    for path in sorted(items_dir.glob("*.json")) if items_dir.exists() else []:
+        try:
+            item = json.loads(path.read_text(encoding="utf-8"))
+            sequence = str(item["item_seq"])
+            if item.get("schema_version") != 1 or item.get("complete") is not True:
+                raise ValueError("완전한 schema-v1 MFDS 품목이 아닙니다")
+            if path.stem != sequence:
+                raise ValueError("파일명과 품목기준코드가 다릅니다")
+            if not safe_url(item["source_url"]):
+                raise ValueError("출처 URL에 인증정보가 포함되었습니다")
+            revisions = item["revisions"]
+            if not isinstance(revisions, list) or not revisions:
+                raise ValueError("효능·효과 관찰 이력이 없습니다")
+            seen: set[str] = set()
+            for revision in revisions:
+                text = revision["ee_text"]
+                content_hash = revision["content_sha256"]
+                if hashlib.sha256(text.encode("utf-8")).hexdigest() != content_hash:
+                    raise ValueError("효능·효과 SHA-256이 일치하지 않습니다")
+                if revision["revision_id"] != f"{sequence}-{content_hash[:8]}":
+                    raise ValueError("허가사항 개정 식별자가 일치하지 않습니다")
+                if content_hash in seen:
+                    raise ValueError("같은 효능·효과 개정이 중복되었습니다")
+                seen.add(content_hash)
+                if not revision["first_observed_at"] or not revision["last_observed_at"]:
+                    raise ValueError("관찰 시각이 없습니다")
+        except (OSError, KeyError, TypeError, ValueError, json.JSONDecodeError) as exc:
+            errors.append(f"{path}: {exc}")
+    return errors
 
 
 def validate() -> list[str]:
@@ -81,6 +115,8 @@ def validate() -> list[str]:
         missing = sorted(set(metas) - set(normalized))
         extra = sorted(set(normalized) - set(metas))
         errors.append(f"정규화 문서 범위가 일치하지 않습니다: 누락={missing} 추가={extra}")
+
+    errors.extend(validate_mfds_items())
 
     if not DB_PATH.is_file():
         errors.append(f"데이터베이스가 없습니다: {DB_PATH}")
