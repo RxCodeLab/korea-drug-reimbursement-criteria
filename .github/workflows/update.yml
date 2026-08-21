@@ -1,0 +1,127 @@
+name: Update drug criteria
+
+on:
+  workflow_dispatch:
+    inputs:
+      reconcile:
+        description: Re-download and verify every upstream attachment
+        type: boolean
+        default: false
+  schedule:
+    - cron: "17 20 * * *"
+
+concurrency:
+  group: drug-criteria-publication
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
+      - name: Fetch and validate upstream archive
+        env:
+          LAW_OC: ${{ secrets.LAW_OC }}
+          RECONCILE: ${{ inputs.reconcile && '--reconcile' || '' }}
+        run: |
+          test -n "$LAW_OC" || { echo "LAW_OC repository secret is required"; exit 1; }
+          python fetch.py $RECONCILE
+          python - <<'PY'
+          import os
+          from pathlib import Path
+          secret = os.environ["LAW_OC"]
+          for path in [Path("data/versions.json"), *Path("data/raw").glob("*/meta.json")]:
+              if secret in path.read_text(encoding="utf-8"):
+                  raise SystemExit(f"LAW_OC leaked into {path}")
+          PY
+      - name: Normalize and build SQLite
+        run: python ingest.py
+      - name: Verify candidate publication
+        run: python verify.py
+      - name: Build static search
+        run: python build_site.py
+      - uses: actions/upload-artifact@v7
+        with:
+          name: publication-candidate
+          path: |
+            data/raw
+            data/normalized
+            data/versions.json
+            data/criteria.db
+          retention-days: 1
+          if-no-files-found: error
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: public
+
+  publish-data:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+      tag: ${{ steps.commit.outputs.tag }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/download-artifact@v8
+        with:
+          name: publication-candidate
+          path: candidate
+      - name: Promote canonical data and commit
+        id: commit
+        shell: bash
+        run: |
+          mkdir -p data/raw data/normalized
+          cp -a candidate/raw/. data/raw/
+          cp -a candidate/normalized/. data/normalized/
+          cp candidate/versions.json data/versions.json
+          git add data/normalized
+          git add -f data/versions.json data/raw/*/meta.json data/raw/*/[0-9][0-9][0-9]_*
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "drug-criteria-bot"
+          git config user.email "drug-criteria-bot@users.noreply.github.com"
+          git commit -m "data: update drug criteria"
+          git push
+          tag="data-${GITHUB_RUN_ID}"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "tag=$tag" >> "$GITHUB_OUTPUT"
+      - name: Publish downloadable SQLite snapshot
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.commit.outputs.tag }}
+        run: |
+          sha256sum candidate/criteria.db > candidate/criteria.db.sha256
+          gh release create "$TAG" candidate/criteria.db candidate/criteria.db.sha256 --target "$(git rev-parse HEAD)" --title "$TAG" --notes "Verified automated drug-criteria snapshot."
+
+  deploy-pages:
+    needs: [build, publish-data]
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Deploy verified static search
+        id: deployment
+        uses: actions/deploy-pages@v5
