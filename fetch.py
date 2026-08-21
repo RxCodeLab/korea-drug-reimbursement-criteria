@@ -32,7 +32,7 @@ def attachment_role(name: str) -> str:
         ("transition", ("경과", "transition")),
         ("reason", ("개정이유", "제개정이유", "이유서", "reason")),
         ("qa", ("질의", "응답", "q&a", "qa", "문답")),
-        ("annex", ("별지", "별첨", "부록", "붙임", "annex")),
+        ("annex", ("별지", "별첨", "부록", "annex")),
         ("notice", ("고시", "공고", "notice")),
     )
     return next((role for role, terms in checks if any(term in normalized for term in terms)), "other")

@@ -22,6 +22,7 @@ def test_urls_redact_or_remove_query_secrets():
     ("개정이유서.pdf", "reason"),
     ("질의응답.hwp", "qa"),
     ("고시문.pdf", "notice"),
+    ("붙임_성인 ADHD 소견서.hwp", "other"),
     ("첨부자료.txt", "other"),
 ])
 def test_attachment_role_is_deterministic(name, expected):
