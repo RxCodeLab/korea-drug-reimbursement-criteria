@@ -1,62 +1,172 @@
 from __future__ import annotations
 
+import json
+import os
 import re
 import subprocess
-import tempfile
-import zipfile
 from pathlib import Path
-from xml.etree import ElementTree
 
-PARSER_VERSION = "documents-2"
-_MAX_ZIP_MEMBERS = 256
-_MAX_SECTION_BYTES = 16 * 1024 * 1024
-_MAX_HWP_OUTPUT = 32 * 1024 * 1024
-_SECTION = re.compile(r"Contents/section(\d+)\.xml\Z")
+PARSER_VERSION = "documents-4-rhwp-0.8.4"
+_MAX_RHWP_OUTPUT = 128 * 1024 * 1024
+_MAX_STDERR = 8 * 1024
+_HEADER = re.compile(r"^\[(?:\d{3}|일반원칙)\](?:\s+\S.*)?$")
+_ACTION = re.compile(r"\[\s*(신\s*설|변\s*경|삭\s*제)\s*\]")
 
 
 class ExtractionError(RuntimeError):
     pass
 
 
-def extract_hwpx(path: Path) -> str:
-    try:
-        with zipfile.ZipFile(path) as archive:
-            infos = archive.infolist()
-            if len(infos) > _MAX_ZIP_MEMBERS:
-                raise ExtractionError("HWPX에 ZIP 항목이 너무 많습니다")
-            sections: list[tuple[int, zipfile.ZipInfo]] = []
-            for info in infos:
-                if info.flag_bits & 1:
-                    raise ExtractionError("HWPX에 암호화된 ZIP 항목이 포함되어 있습니다")
-                match = _SECTION.fullmatch(info.filename)
-                if match:
-                    if info.file_size > _MAX_SECTION_BYTES:
-                        raise ExtractionError(f"HWPX 섹션이 {_MAX_SECTION_BYTES}바이트 제한을 초과했습니다")
-                    sections.append((int(match.group(1)), info))
-            if not sections:
-                raise ExtractionError("HWPX에 번호가 있는 Contents/sectionN.xml 항목이 없습니다")
-            if len({number for number, _ in sections}) != len(sections):
-                raise ExtractionError("HWPX에 중복된 섹션 번호가 있습니다")
+def _bounded_stderr(stderr: bytes | str | None) -> str:
+    if isinstance(stderr, bytes):
+        message = stderr.decode("utf-8", errors="replace")
+    else:
+        message = stderr or ""
+    return message[-_MAX_STDERR:].strip()
 
-            paragraphs: list[str] = []
-            for _, info in sorted(sections, key=lambda pair: pair[0]):
-                with archive.open(info) as member:
-                    xml = member.read(_MAX_SECTION_BYTES + 1)
-                if len(xml) > _MAX_SECTION_BYTES:
-                    raise ExtractionError("HWPX 섹션이 읽기 제한을 초과했습니다")
-                try:
-                    root = ElementTree.fromstring(xml)
-                except ElementTree.ParseError as exc:
-                    raise ExtractionError(f"HWPX XML이 잘못되었습니다: {info.filename}") from exc
-                for paragraph in root.iter():
-                    if not paragraph.tag.endswith("}p"):
-                        continue
-                    text = "".join(node.text or "" for node in paragraph.iter() if node.tag.endswith("}t")).strip()
-                    if text:
-                        paragraphs.append(text)
-            return "\n".join(paragraphs)
-    except (OSError, zipfile.BadZipFile) as exc:
-        raise ExtractionError(f"HWPX ZIP 파일이 잘못되었습니다: {path.name}") from exc
+
+def _rhwp_json(path: Path, command: str) -> dict[str, object]:
+    executable = os.environ.get("RHWP_BIN", "rhwp")
+    arguments = [executable, command, str(path), "--json"]
+    if command == "export-text":
+        arguments.extend(["--max-chars", "32000000"])
+    try:
+        result = subprocess.run(
+            arguments,
+            check=False,
+            stdin=subprocess.DEVNULL,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            timeout=120,
+        )
+    except FileNotFoundError as exc:
+        raise ExtractionError("HWP/HWPX를 처리하려면 rhwp 0.8.4 명령이 설치되어 있어야 합니다") from exc
+    except subprocess.TimeoutExpired as exc:
+        raise ExtractionError(f"rhwp {command} 시간이 초과되었습니다: {path.name}: {_bounded_stderr(exc.stderr)}") from exc
+
+    if result.returncode:
+        detail = _bounded_stderr(result.stderr)
+        suffix = f": {detail}" if detail else ""
+        raise ExtractionError(f"rhwp {command} 실패: {path.name} (exit {result.returncode}){suffix}")
+    if len(result.stdout) > _MAX_RHWP_OUTPUT:
+        raise ExtractionError("rhwp JSON 출력이 용량 제한을 초과했습니다")
+    try:
+        payload = json.loads(result.stdout)
+    except (TypeError, UnicodeDecodeError, json.JSONDecodeError) as exc:
+        raise ExtractionError(f"rhwp JSON 출력이 잘못되었습니다: {path.name}") from exc
+    if not isinstance(payload, dict) or payload.get("schemaVersion") != "1.0":
+        raise ExtractionError("rhwp JSON 스키마 버전이 지원되지 않습니다")
+    return payload
+
+
+def _extract_text_payload(path: Path) -> str:
+    payload = _rhwp_json(path, "export-text")
+    if payload.get("truncated") is not False:
+        raise ExtractionError("rhwp 텍스트 출력이 잘렸습니다")
+    page_count = payload.get("pageCount")
+    pages = payload.get("pages")
+    if isinstance(page_count, bool) or not isinstance(page_count, int) or page_count < 0:
+        raise ExtractionError("rhwp JSON 페이지 수가 잘못되었습니다")
+    if not isinstance(pages, list) or page_count != len(pages):
+        raise ExtractionError("rhwp JSON 페이지 수와 페이지 목록이 일치하지 않습니다")
+    previous_page: int | None = None
+    texts: list[str] = []
+    for entry in pages:
+        if not isinstance(entry, dict):
+            raise ExtractionError("rhwp JSON 페이지 항목이 잘못되었습니다")
+        page = entry.get("page")
+        text = entry.get("text")
+        if isinstance(page, bool) or not isinstance(page, int) or (previous_page is not None and page <= previous_page):
+            raise ExtractionError("rhwp JSON 페이지 순서가 잘못되었습니다")
+        if not isinstance(text, str):
+            raise ExtractionError("rhwp JSON 페이지 텍스트가 잘못되었습니다")
+        previous_page = page
+        texts.append(text)
+    output = "\n".join(texts).strip()
+    if not output:
+        raise ExtractionError("rhwp에서 비어 있는 텍스트를 반환했습니다")
+    return output
+
+
+def _table_lines(table: object) -> list[str]:
+    if not isinstance(table, dict):
+        raise ExtractionError("rhwp JSON 표 항목이 잘못되었습니다")
+    rows = table.get("rows")
+    cols = table.get("cols")
+    cells = table.get("cells")
+    cell_count = table.get("cellCount")
+    if (isinstance(rows, bool) or not isinstance(rows, int) or rows < 0
+            or isinstance(cols, bool) or not isinstance(cols, int) or cols < 0
+            or not isinstance(cells, list) or cell_count != len(cells)):
+        raise ExtractionError("rhwp JSON 표 구조가 잘못되었습니다")
+    grouped: dict[int, list[tuple[int, bool, str]]] = {}
+    seen: set[tuple[int, int]] = set()
+    for cell in cells:
+        if not isinstance(cell, dict):
+            raise ExtractionError("rhwp JSON 표 셀이 잘못되었습니다")
+        row, column, text, is_header = cell.get("row"), cell.get("col"), cell.get("text"), cell.get("isHeader")
+        row_span, col_span = cell.get("rowSpan"), cell.get("colSpan")
+        if (isinstance(row, bool) or not isinstance(row, int) or not 0 <= row < rows
+                or isinstance(column, bool) or not isinstance(column, int) or not 0 <= column < cols
+                or isinstance(row_span, bool) or not isinstance(row_span, int) or row_span < 1
+                or isinstance(col_span, bool) or not isinstance(col_span, int) or col_span < 1
+                or not isinstance(is_header, bool) or not isinstance(text, str)
+                or (row, column) in seen):
+            raise ExtractionError("rhwp JSON 표 셀 필드가 잘못되었습니다")
+        seen.add((row, column))
+        grouped.setdefault(row, []).append((column, is_header, text))
+    lines: list[str] = []
+    for _, row_cells in sorted(grouped.items()):
+        if all(is_header for _, is_header, _ in row_cells):
+            continue
+        lines.extend(text.strip() for _, _, text in sorted(row_cells) if text.strip())
+    return lines
+
+
+def _reconstruct_tables(tables_payload: dict[str, object], structure_payload: dict[str, object]) -> str | None:
+    table_count = tables_payload.get("tableCount")
+    tables = tables_payload.get("tables")
+    if isinstance(table_count, bool) or not isinstance(table_count, int) or table_count < 0 or not isinstance(tables, list):
+        raise ExtractionError("rhwp JSON 표 목록이 잘못되었습니다")
+    if table_count != len(tables):
+        raise ExtractionError("rhwp JSON 표 수와 표 목록이 일치하지 않습니다")
+    structure = structure_payload.get("structure")
+    if not isinstance(structure, dict):
+        raise ExtractionError("rhwp JSON 구조 preamble이 잘못되었습니다")
+    preamble = structure["preamble"]
+    if not isinstance(preamble, list) or not all(isinstance(line, str) for line in preamble):
+        raise ExtractionError("rhwp JSON 구조 preamble이 잘못되었습니다")
+    table_lines = [_table_lines(table) for table in tables]
+    headers = [line.strip() for line in preamble if _HEADER.fullmatch(line.strip())]
+    if table_count == 0 or len(headers) != table_count:
+        return None
+
+    action = ""
+    header_actions: list[str] = []
+    for line in preamble:
+        marker = _ACTION.search(line)
+        if marker:
+            action = re.sub(r"\s", "", marker.group(1))
+        elif _HEADER.fullmatch(line.strip()):
+            header_actions.append(action)
+
+    lines: list[str] = []
+    emitted_action = ""
+    for header, header_action, lines_for_table in zip(headers, header_actions, table_lines, strict=True):
+        if header_action and header_action != emitted_action:
+            lines.append(f"[{header_action}]")
+            emitted_action = header_action
+        lines.append(header)
+        lines.extend(lines_for_table)
+    output = "\n".join(lines).strip()
+    return output or None
+
+
+def extract_rhwp(path: Path) -> str:
+    text = _extract_text_payload(path)
+    tables = _rhwp_json(path, "export-tables")
+    structure = _rhwp_json(path, "export-structure")
+    return _reconstruct_tables(tables, structure) or text
 
 
 def extract_pdf(path: Path) -> str:
@@ -69,38 +179,8 @@ def extract_pdf(path: Path) -> str:
         raise ExtractionError(f"PDF 텍스트 추출 실패: {path.name}: {exc}") from exc
 
 
-def extract_hwp(path: Path) -> str:
-    try:
-        with tempfile.TemporaryDirectory(prefix="hwp-extract-") as output:
-            subprocess.run(
-                ["hwp5html", "--output", output, str(path)],
-                check=True,
-                stdin=subprocess.DEVNULL,
-                stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE,
-                timeout=120,
-            )
-            xhtml = Path(output) / "index.xhtml"
-            if not xhtml.is_file() or xhtml.stat().st_size > _MAX_HWP_OUTPUT:
-                raise ExtractionError("구형 HWP HTML 출력이 없거나 용량 제한을 초과했습니다")
-            try:
-                root = ElementTree.parse(xhtml).getroot()
-            except ElementTree.ParseError as exc:
-                raise ExtractionError("구형 HWP HTML 출력이 잘못되었습니다") from exc
-            paragraphs = [
-                "".join(node.itertext()).strip()
-                for node in root.iter()
-                if node.tag.endswith("}p") and "".join(node.itertext()).strip()
-            ]
-            return "\n".join(paragraphs)
-    except FileNotFoundError as exc:
-        raise ExtractionError("구형 HWP를 처리하려면 hwp5html 명령(pyhwp)이 설치되어 있어야 합니다") from exc
-    except (subprocess.CalledProcessError, subprocess.TimeoutExpired) as exc:
-        raise ExtractionError(f"구형 HWP 텍스트 추출 실패: {path.name}: {exc}") from exc
-
-
 def extract_document(path: Path, document_format: str) -> str:
-    dispatch = {"hwpx": extract_hwpx, "hwp": extract_hwp, "pdf": extract_pdf}
+    dispatch = {"hwpx": extract_rhwp, "hwp": extract_rhwp, "pdf": extract_pdf}
     try:
         return dispatch[document_format.lower()](path)
     except KeyError as exc:

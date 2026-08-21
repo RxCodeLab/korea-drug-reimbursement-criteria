@@ -23,6 +23,7 @@ RE_CLASS_HEADER = re.compile(r"^\[(\d{3}|일반원칙)\]\s*(\S.*)$")
 RE_ITEM_NO = re.compile(r"^\[(\d{3}|일반원칙)\]$")
 RE_ACTION = re.compile(r"\[\s*(신\s*설|변\s*경|삭\s*제)\s*\]")
 RE_PUMMYEONG = re.compile(r"\(품명\s*[::]")
+RE_NUMBERED_CONDITION = re.compile(r"^\d+[.)]")
 
 
 def _canonical(value: Any) -> bytes:
@@ -109,10 +110,11 @@ def split_blocks(text: str) -> list[dict[str, str]]:
             j = i + 1
             while j < len(lines) and len(title_lines) < 8:
                 candidate = lines[j].strip()
-                if RE_ITEM_NO.match(candidate):
+                if RE_ITEM_NO.match(candidate) or RE_NUMBERED_CONDITION.match(candidate):
                     break
                 title_lines.append(candidate)
-                if RE_PUMMYEONG.search(candidate) and candidate.endswith(")"):
+                title = " ".join(title_lines)
+                if RE_PUMMYEONG.search(title) and title.endswith(")"):
                     j += 1
                     break
                 if item.group(1) == "일반원칙" and candidate:
@@ -133,7 +135,8 @@ def split_blocks(text: str) -> list[dict[str, str]]:
     for block in blocks:
         title = re.sub(r"\s+", " ", block["title"]).strip()
         body = "\n".join(block["body_lines"]).strip()
-        if not title or title in {"구분", "품명", "성분명"} or (not body and not RE_PUMMYEONG.search(title)):
+        compact_title = re.sub(r"\s+", "", title)
+        if not title or compact_title in {"구분", "품명", "성분명"} or (not body and not RE_PUMMYEONG.search(title)):
             continue
         result.append({"action": block["action"], "class_no": block["class_no"],
                        "class_header": block["class_header"], "title": title, "body": body})
