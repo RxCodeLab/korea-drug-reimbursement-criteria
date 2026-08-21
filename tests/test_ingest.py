@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import sqlite3
 import subprocess
 from pathlib import Path
 
@@ -239,3 +240,54 @@ def test_normalized_output_is_deterministic(tmp_path: Path, monkeypatch: pytest.
     second = ingest._parse_version(raw, ingest._validate_meta(raw / "meta.json"))
     assert first == second
     assert contents == (tmp_path / "normalized" / "1.json").read_bytes()
+
+
+def test_database_keeps_distinct_attachments_with_same_content(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    digest = "a" * 64
+    attachments = [
+        {
+            "ordinal": ordinal,
+            "source_url": f"https://www.law.go.kr/file/{ordinal}",
+            "original_name": name,
+            "stored_name": name,
+            "format": "hwpx",
+            "role": role,
+            "size": 10,
+            "sha256": digest,
+            "status": "complete",
+            "parser_version": documents.PARSER_VERSION,
+            "parser_status": status,
+        }
+        for ordinal, name, role, status in [
+            (1, "별지.hwpx", "annex", "complete"),
+            (2, "고시.hwpx", "notice", "not_selected"),
+        ]
+    ]
+    document = {
+        "version": {
+            "시행일자": "20260101",
+            "발령번호": "1",
+            "발령일자": "20251231",
+            "행정규칙일련번호": "1",
+            "행정규칙명": "약제",
+        },
+        "attachments": attachments,
+        "entries": [{
+            "action": "신설",
+            "class_no": "219",
+            "class_header": "[219] 기타",
+            "title": "성분명(품명: 제품)",
+            "body": "급여 기준",
+            "attachment_ordinal": 1,
+            "attachment_sha256": digest,
+            "block_identity": "[219]성분명",
+        }],
+    }
+    database = tmp_path / "criteria.db"
+    monkeypatch.setattr(ingest, "DB_PATH", database)
+    assert ingest._rebuild_database([document]) == (1, 1)
+    connection = sqlite3.connect(database)
+    assert connection.execute("SELECT count(*) FROM attachments").fetchone()[0] == 2
+    connection.close()

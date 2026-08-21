@@ -241,7 +241,7 @@ def _rebuild_database(documents: list[dict[str, Any]]) -> tuple[int, int]:
           role TEXT NOT NULL CHECK(role IN ('annex','notice','qa','transition','reason','comparison','other')),
           size INTEGER NOT NULL CHECK(size >= 0), sha256 TEXT NOT NULL CHECK(length(sha256) = 64),
           parser_version TEXT NOT NULL, parser_status TEXT NOT NULL CHECK(parser_status IN ('complete','failed','not_selected')),
-          UNIQUE(ver_id, ordinal), UNIQUE(ver_id, sha256));
+          UNIQUE(ver_id, ordinal));
         CREATE TABLE entries(
           id INTEGER PRIMARY KEY, ver_id INTEGER NOT NULL REFERENCES versions(ver_id),
           attachment_id INTEGER NOT NULL REFERENCES attachments(attachment_id), action TEXT NOT NULL,
