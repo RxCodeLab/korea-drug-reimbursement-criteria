@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "version": {
+  "행정규칙일련번호": "2100000115750",
+  "시행일자": "20180301",
+  "발령일자": "20180223",
+  "발령번호": "2018-28",
+  "행정규칙명": "요양급여의 적용기준 및 방법에 관한 세부사항(약제)"
+ },
+ "attachments": [
+  {
+   "ordinal": 1,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=33463488",
+   "original_name": "요양급여의 적용기준 및 방법에 관한 세부사항(약제) 고시 제개정(3.1 시행) 이유서 1부.hwp",
+   "stored_name": "001_요양급여의 적용기준 및 방법에 관한 세부사항(약제) 고시 제개정(3.1 시행) 이유서 1부.hwp",
+   "format": "hwp",
+   "role": "reason",
+   "size": 17920,
+   "sha256": "e3333785a3f63cf22a2b1ebe33eb61dec7bd0e018b895cbcd6f6bc5ac8331cc3",
+   "status": "complete"
+  },
+  {
+   "ordinal": 2,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=33463489",
+   "original_name": "180223_18년 2월 약제 급여기준 고시 개정안 변경대비표 1부.hwp",
+   "stored_name": "002_180223_18년 2월 약제 급여기준 고시 개정안 변경대비표 1부.hwp",
+   "format": "hwp",
+   "role": "comparison",
+   "size": 45056,
+   "sha256": "0ee397765203b98216069a699b72c3e4e951a6720fd384a373061b36580131b9",
+   "status": "complete"
+  },
+  {
+   "ordinal": 3,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=33463490",
+   "original_name": "고시개정문 1부.hwp",
+   "stored_name": "003_고시개정문 1부.hwp",
+   "format": "hwp",
+   "role": "notice",
+   "size": 20992,
+   "sha256": "15ba3c39d088a30c97665f03e5670dc7e386f9f67ac436ec48474a010e5f03ed",
+   "status": "complete"
+  }
+ ]
+}

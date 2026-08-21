@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "version": {
+  "행정규칙일련번호": "2100000214220",
+  "시행일자": "20220901",
+  "발령일자": "20220901",
+  "발령번호": "2022-211",
+  "행정규칙명": "요양급여의 적용기준 및 방법에 관한 세부사항(약제)"
+ },
+ "attachments": [
+  {
+   "ordinal": 1,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=119271731",
+   "original_name": "「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」 일부개정고시.hwp",
+   "stored_name": "001_「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」 일부개정고시.hwp",
+   "format": "hwp",
+   "role": "notice",
+   "size": 37376,
+   "sha256": "b6075a99f5500b597e42fe04a5ea0fe58d1aeaeb6c0ce0ebe95313ef699940d9",
+   "status": "complete"
+  },
+  {
+   "ordinal": 2,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=119271733",
+   "original_name": "별지. 변경 급여기준.hwp",
+   "stored_name": "002_별지. 변경 급여기준.hwp",
+   "format": "hwp",
+   "role": "annex",
+   "size": 56832,
+   "sha256": "30ad93867101df987cc65c1bcf89be9900e779c022535c4197e3246c676772b0",
+   "status": "complete"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "version": {
+  "행정규칙일련번호": "2100000112432",
+  "시행일자": "20180201",
+  "발령일자": "20180130",
+  "발령번호": "2018-18",
+  "행정규칙명": "요양급여의 적용기준 및 방법에 관한 세부사항(약제)"
+ },
+ "attachments": [
+  {
+   "ordinal": 1,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=33251112",
+   "original_name": "요양급여의 적용기준 및 방법에 관한 세부사항(약제) 고시 제개정(2.1 시행) 이유서 1부.hwp",
+   "stored_name": "001_요양급여의 적용기준 및 방법에 관한 세부사항(약제) 고시 제개정(2.1 시행) 이유서 1부.hwp",
+   "format": "hwp",
+   "role": "reason",
+   "size": 18944,
+   "sha256": "d2fc756af17371c710477162a9009769f3a4f6f3643407a9c2c4794d73f54e70",
+   "status": "complete"
+  },
+  {
+   "ordinal": 2,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=33251113",
+   "original_name": "별지1.신설 급여기준 1부.hwp",
+   "stored_name": "002_별지1.신설 급여기준 1부.hwp",
+   "format": "hwp",
+   "role": "annex",
+   "size": 17920,
+   "sha256": "26ed1affd90f65afcce6001fb9c505690d728a43159ae957de0032dff6eb9aae",
+   "status": "complete"
+  },
+  {
+   "ordinal": 3,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=33251114",
+   "original_name": "별지2.변경 급여기준 1부.hwp",
+   "stored_name": "003_별지2.변경 급여기준 1부.hwp",
+   "format": "hwp",
+   "role": "annex",
+   "size": 58368,
+   "sha256": "d01c5d4595c9b3429be9392749c882b75ac903c694ddd7d91b6eda5d4b3cd75f",
+   "status": "complete"
+  },
+  {
+   "ordinal": 4,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=33251115",
+   "original_name": "고시개정문 1부.hwp",
+   "stored_name": "004_고시개정문 1부.hwp",
+   "format": "hwp",
+   "role": "notice",
+   "size": 11264,
+   "sha256": "80c63c2522f94921b8b46b5b50e6dd55ac7d6003d5ff1762a959a07c66cda8e1",
+   "status": "complete"
+  },
+  {
+   "ordinal": 5,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=33251116",
+   "original_name": "180129_18년 1월 변경대비표 1부(약제).hwp",
+   "stored_name": "005_180129_18년 1월 변경대비표 1부(약제).hwp",
+   "format": "hwp",
+   "role": "comparison",
+   "size": 71680,
+   "sha256": "cab6f12e01c25b298495611c48476907d8cd1b038c97999a364cffb2ff336abd",
+   "status": "complete"
+  }
+ ]
+}

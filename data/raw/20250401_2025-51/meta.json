@@ -1,0 +1,57 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "version": {
+  "행정규칙일련번호": "2100000256952",
+  "시행일자": "20250401",
+  "발령일자": "20250325",
+  "발령번호": "2025-51",
+  "행정규칙명": "요양급여의 적용기준 및 방법에 관한 세부사항(약제)"
+ },
+ "attachments": [
+  {
+   "ordinal": 1,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=150423191",
+   "original_name": "「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」 일부개정고시.hwpx",
+   "stored_name": "001_「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」 일부개정고시.hwpx",
+   "format": "hwpx",
+   "role": "notice",
+   "size": 76340,
+   "sha256": "b9aa0f027e2159faec552dfb4d3f23b2e1f8c1b1cb650e64caf1dd36ab050493",
+   "status": "complete"
+  },
+  {
+   "ordinal": 2,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=150423193",
+   "original_name": "별지. 변경 급여기준.hwpx",
+   "stored_name": "002_별지. 변경 급여기준.hwpx",
+   "format": "hwpx",
+   "role": "annex",
+   "size": 98288,
+   "sha256": "dd818b07a396f743ef1b58426bdc6924fe2dfb484d46993a2ec77013c750ab5e",
+   "status": "complete"
+  },
+  {
+   "ordinal": 3,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=150441725",
+   "original_name": "교체투여 관련 질의응답.hwpx",
+   "stored_name": "003_교체투여 관련 질의응답.hwpx",
+   "format": "hwpx",
+   "role": "qa",
+   "size": 71987,
+   "sha256": "ef5a39ceb5116f8f7ce8f7fb07c7fa36bf7323b90b1b1e21d87db07ad00b5d3f",
+   "status": "complete"
+  },
+  {
+   "ordinal": 4,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=150441729",
+   "original_name": "교체투여 관련 질의응답.pdf",
+   "stored_name": "004_교체투여 관련 질의응답.pdf",
+   "format": "pdf",
+   "role": "qa",
+   "size": 121960,
+   "sha256": "7c577c46dea890568d7f5f5495519d12bf58555750fb71a74c10f93b8393ad7c",
+   "status": "complete"
+  }
+ ]
+}

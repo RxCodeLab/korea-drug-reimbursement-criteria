@@ -124,9 +124,9 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          git config user.name "drug-criteria-bot"
-          git config user.email "drug-criteria-bot@users.noreply.github.com"
-          git commit -m "data: update drug criteria"
+          git config user.name "RxCodeLab"
+          git config user.email "40620480+RxCodeLab@users.noreply.github.com"
+          git commit -m "급여기준 데이터 갱신"
           git push
           tag="data-${GITHUB_RUN_ID}"
           echo "changed=true" >> "$GITHUB_OUTPUT"

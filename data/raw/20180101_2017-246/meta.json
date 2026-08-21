@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "version": {
+  "행정규칙일련번호": "2100000107740",
+  "시행일자": "20180101",
+  "발령일자": "20171227",
+  "발령번호": "2017-246",
+  "행정규칙명": "요양급여의 적용기준 및 방법에 관한 세부사항(약제)"
+ },
+ "attachments": [
+  {
+   "ordinal": 1,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=32744424",
+   "original_name": "고시개정문 1부(약제).hwp",
+   "stored_name": "001_고시개정문 1부(약제).hwp",
+   "format": "hwp",
+   "role": "notice",
+   "size": 11264,
+   "sha256": "0fdf56f638e8c203d1ba52d0457fd185d9c2b0c2d13cf0b304266855fb59053c",
+   "status": "complete"
+  },
+  {
+   "ordinal": 2,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=32744425",
+   "original_name": "171227 제개정이유서(약제).hwp",
+   "stored_name": "002_171227 제개정이유서(약제).hwp",
+   "format": "hwp",
+   "role": "reason",
+   "size": 17920,
+   "sha256": "7cf1a28ba3bba317188f42eb38ccc9f84bee92e590991914d8f17ef3ab20d725",
+   "status": "complete"
+  },
+  {
+   "ordinal": 3,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=32744426",
+   "original_name": "171226_17년 12월 변경대비표 1부(약제).hwp",
+   "stored_name": "003_171226_17년 12월 변경대비표 1부(약제).hwp",
+   "format": "hwp",
+   "role": "comparison",
+   "size": 65536,
+   "sha256": "b29c0dd677c992800fe042ed16cb04652f861f8765a647313d086799adcaf60b",
+   "status": "complete"
+  }
+ ]
+}

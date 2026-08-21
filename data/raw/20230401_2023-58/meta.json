@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "version": {
+  "행정규칙일련번호": "2100000221440",
+  "시행일자": "20230401",
+  "발령일자": "20230331",
+  "발령번호": "2023-58",
+  "행정규칙명": "요양급여의 적용기준 및 방법에 관한 세부사항(약제)"
+ },
+ "attachments": [
+  {
+   "ordinal": 1,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=126761635",
+   "original_name": "「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」 일부개정고시.hwpx",
+   "stored_name": "001_「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」 일부개정고시.hwpx",
+   "format": "hwpx",
+   "role": "notice",
+   "size": 91345,
+   "sha256": "cfa8694f38f8c31e7aeccef1c52268ffefbd568325be75c31f0a9cbbc9e5a4c8",
+   "status": "complete"
+  },
+  {
+   "ordinal": 2,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=126761637",
+   "original_name": "별지. 변경 급여기준.hwpx",
+   "stored_name": "002_별지. 변경 급여기준.hwpx",
+   "format": "hwpx",
+   "role": "annex",
+   "size": 81897,
+   "sha256": "2b67992ca372b6d57cfa5e26feb2843c43588c7a7133de5fd07ee2a7a2560633",
+   "status": "complete"
+  },
+  {
+   "ordinal": 3,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=126761639",
+   "original_name": "듀피젠트_린버크_소아 및 청소년 급여기준 관련 경과규정.hwpx",
+   "stored_name": "003_듀피젠트_린버크_소아 및 청소년 급여기준 관련 경과규정.hwpx",
+   "format": "hwpx",
+   "role": "transition",
+   "size": 69805,
+   "sha256": "e300c84ac60193c0683f836c408a465d527023ed297b4b9152d068b4fd7ce21d",
+   "status": "complete"
+  }
+ ]
+}

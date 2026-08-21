@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "version": {
+  "행정규칙일련번호": "2100000203379",
+  "시행일자": "20210801",
+  "발령일자": "20210730",
+  "발령번호": "2021-207",
+  "행정규칙명": "요양급여의 적용기준 및 방법에 관한 세부사항(약제)"
+ },
+ "attachments": [
+  {
+   "ordinal": 1,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=105967833",
+   "original_name": "「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」 일부개정고시(안)_제2021-207호.hwp",
+   "stored_name": "001_「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」 일부개정고시(안)_제2021-207호.hwp",
+   "format": "hwp",
+   "role": "notice",
+   "size": 51200,
+   "sha256": "2bc4d67971084054669bfd04f3bee6d840921db619eef6f56891b87cd02fd057",
+   "status": "complete"
+  },
+  {
+   "ordinal": 2,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=105967835",
+   "original_name": "(제2021-207호) 개정이유서.hwp",
+   "stored_name": "002_(제2021-207호) 개정이유서.hwp",
+   "format": "hwp",
+   "role": "reason",
+   "size": 34816,
+   "sha256": "d186ff69c93f5333d59521514e66c1d24760c134fbeb18be2d7edb5c4f8ee1cc",
+   "status": "complete"
+  },
+  {
+   "ordinal": 3,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=105967837",
+   "original_name": "별지2.변경 급여기준 1부.hwp",
+   "stored_name": "003_별지2.변경 급여기준 1부.hwp",
+   "format": "hwp",
+   "role": "annex",
+   "size": 73216,
+   "sha256": "2b69fabeec6ec08ef3fbdf757bdc5b27845316ecff8d70d37c397f201742512c",
+   "status": "complete"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "version": {
+  "행정규칙일련번호": "2100000234010",
+  "시행일자": "20240101",
+  "발령일자": "20231229",
+  "발령번호": "2023-296",
+  "행정규칙명": "요양급여의 적용기준 및 방법에 관한 세부사항(약제)"
+ },
+ "attachments": [
+  {
+   "ordinal": 1,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=136149245",
+   "original_name": "「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」 일부개정고시.hwpx",
+   "stored_name": "001_「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」 일부개정고시.hwpx",
+   "format": "hwpx",
+   "role": "notice",
+   "size": 127682,
+   "sha256": "170a69c54f4b4127000c3c71fa1b0317626804d7445002d5c8ef6729d50b775a",
+   "status": "complete"
+  },
+  {
+   "ordinal": 2,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=136149249",
+   "original_name": "질의응답(코셀루고캡슐 급여기준).hwpx",
+   "stored_name": "002_질의응답(코셀루고캡슐 급여기준).hwpx",
+   "format": "hwpx",
+   "role": "qa",
+   "size": 67912,
+   "sha256": "6cbf46fc99252e62ae2993012bba7835df9ce3f5c9257817767a65e37db1f6d0",
+   "status": "complete"
+  },
+  {
+   "ordinal": 3,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=136400489",
+   "original_name": "별지. 신설 및 변경 급여기준.hwpx",
+   "stored_name": "003_별지. 신설 및 변경 급여기준.hwpx",
+   "format": "hwpx",
+   "role": "annex",
+   "size": 206412,
+   "sha256": "b5ceb71022fa10b03945a00f2ddf247b2e6c2273ddd729510eb136d7a669c12c",
+   "status": "complete"
+  },
+  {
+   "ordinal": 4,
+   "source_url": "https://law.go.kr/flDownload.do?flSeq=136400493",
+   "original_name": "별지. 신설 및 변경 급여기준.pdf",
+   "stored_name": "004_별지. 신설 및 변경 급여기준.pdf",
+   "format": "pdf",
+   "role": "annex",
+   "size": 3337054,
+   "sha256": "4370e76db4107d4c2e6fee2303a86a7951654975bcf32842d87104f386736f2b",
+   "status": "complete"
+  }
+ ]
+}
