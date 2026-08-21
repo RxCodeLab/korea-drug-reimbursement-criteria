@@ -99,7 +99,7 @@ def _table_lines(table: object) -> list[str]:
             or isinstance(cols, bool) or not isinstance(cols, int) or cols < 0
             or not isinstance(cells, list) or cell_count != len(cells)):
         raise ExtractionError("rhwp JSON 표 구조가 잘못되었습니다")
-    grouped: dict[int, list[tuple[int, bool, str]]] = {}
+    grouped: dict[int, list[tuple[int, bool, str, int]]] = {}
     seen: set[tuple[int, int]] = set()
     for cell in cells:
         if not isinstance(cell, dict):
@@ -114,12 +114,38 @@ def _table_lines(table: object) -> list[str]:
                 or (row, column) in seen):
             raise ExtractionError("rhwp JSON 표 셀 필드가 잘못되었습니다")
         seen.add((row, column))
-        grouped.setdefault(row, []).append((column, is_header, text))
+        grouped.setdefault(row, []).append((column, is_header, text, col_span))
+
+    headers = [
+        (column, re.sub(r"\s+", "", text), col_span)
+        for row_cells in grouped.values()
+        for column, is_header, text, col_span in row_cells
+        if is_header
+    ]
+    current = any(text.startswith("현행") for _, text, _ in headers)
+    reason = any(text == "사유" for _, text, _ in headers)
+    revision = next(
+        ((column, col_span) for column, text, col_span in headers if text.startswith("개정")),
+        None,
+    )
+    selected_columns: set[int] | None = None
+    if current and reason and revision:
+        revision_column, revision_span = revision
+        selected_columns = set(range(revision_column, revision_column + revision_span))
+        if revision_span == 1:
+            division_columns = [column for column, text, _ in headers if text == "구분"]
+            if division_columns:
+                selected_columns.add(min(division_columns))
+
     lines: list[str] = []
     for _, row_cells in sorted(grouped.items()):
-        if all(is_header for _, is_header, _ in row_cells):
+        if all(is_header for _, is_header, _, _ in row_cells):
             continue
-        lines.extend(text.strip() for _, _, text in sorted(row_cells) if text.strip())
+        for column, _, text, col_span in sorted(row_cells):
+            if selected_columns is not None and (column not in selected_columns or col_span == cols):
+                continue
+            if text.strip():
+                lines.append(text.strip())
     return lines
 
 
@@ -138,8 +164,42 @@ def _reconstruct_tables(tables_payload: dict[str, object], structure_payload: di
         raise ExtractionError("rhwp JSON 구조 preamble이 잘못되었습니다")
     table_lines = [_table_lines(table) for table in tables]
     headers = [line.strip() for line in preamble if _HEADER.fullmatch(line.strip())]
-    if table_count == 0 or len(headers) != table_count:
+    if table_count == 0:
         return None
+    if len(headers) != table_count:
+        comparison_tables: list[tuple[str, list[str]]] = []
+        for table, lines_for_table in zip(tables, table_lines, strict=True):
+            cells = table["cells"]
+            header_texts = [
+                cell["text"]
+                for cell in cells
+                if cell["isHeader"]
+            ]
+            compact_headers = {re.sub(r"\s+", "", text) for text in header_texts}
+            if not (
+                any(text.startswith("현행") for text in compact_headers)
+                and any(text.startswith("개정") for text in compact_headers)
+                and "사유" in compact_headers
+            ):
+                continue
+            class_header = next(
+                (
+                    line.strip()
+                    for text in header_texts
+                    for line in text.splitlines()
+                    if _HEADER.fullmatch(line.strip())
+                ),
+                None,
+            )
+            if class_header:
+                comparison_tables.append((class_header, lines_for_table))
+        if not comparison_tables:
+            return None
+        lines = ["[변경]"]
+        for class_header, lines_for_table in comparison_tables:
+            lines.append(class_header)
+            lines.extend(lines_for_table)
+        return "\n".join(lines).strip()
 
     action = ""
     header_actions: list[str] = []

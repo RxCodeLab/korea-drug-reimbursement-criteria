@@ -128,6 +128,70 @@ def test_rhwp_reconstructs_structured_tables_in_order(tmp_path: Path, monkeypatc
     assert blocks[0]["body"] == "1. 첫 조건"
 
 
+@pytest.mark.parametrize(
+    ("cols", "cells", "expected"),
+    [
+        (
+            4,
+            [
+                {"row": 0, "col": 0, "rowSpan": 1, "colSpan": 4, "isHeader": True, "text": "[일반원칙]"},
+                {"row": 1, "col": 0, "rowSpan": 2, "colSpan": 1, "isHeader": True, "text": "구 분"},
+                {"row": 1, "col": 1, "rowSpan": 1, "colSpan": 2, "isHeader": True, "text": "세부인정기준"},
+                {"row": 1, "col": 3, "rowSpan": 2, "colSpan": 1, "isHeader": True, "text": "사유"},
+                {"row": 2, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "현 행"},
+                {"row": 2, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "개 정(안)"},
+                {"row": 3, "col": 0, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "[일반원칙]\n새 제목"},
+                {"row": 3, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "현행 본문"},
+                {"row": 3, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "개정 본문"},
+                {"row": 3, "col": 3, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "변경 사유"},
+                {"row": 4, "col": 0, "rowSpan": 1, "colSpan": 4, "isHeader": False, "text": "관련 근거"},
+            ],
+            ["[일반원칙]\n새 제목", "개정 본문"],
+        ),
+        (
+            5,
+            [
+                {"row": 0, "col": 0, "rowSpan": 1, "colSpan": 5, "isHeader": True, "text": "[232] 소화성궤양용제"},
+                {"row": 1, "col": 0, "rowSpan": 1, "colSpan": 2, "isHeader": True, "text": "현 행"},
+                {"row": 1, "col": 2, "rowSpan": 1, "colSpan": 2, "isHeader": True, "text": "개 정(안)"},
+                {"row": 1, "col": 4, "rowSpan": 2, "colSpan": 1, "isHeader": True, "text": "사유"},
+                {"row": 2, "col": 0, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "구 분"},
+                {"row": 2, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "세부인정기준"},
+                {"row": 2, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "구 분"},
+                {"row": 2, "col": 3, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "세부인정기준"},
+                {"row": 3, "col": 0, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "기존 제목"},
+                {"row": 3, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "기존 본문"},
+                {"row": 3, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "개정 제목"},
+                {"row": 3, "col": 3, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "개정 본문"},
+                {"row": 3, "col": 4, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "변경 사유"},
+            ],
+            ["개정 제목", "개정 본문"],
+        ),
+    ],
+)
+def test_rhwp_comparison_tables_keep_only_revised_criteria(
+    cols: int, cells: list[dict[str, object]], expected: list[str]
+) -> None:
+    table = {"rows": max(cell["row"] for cell in cells) + 1, "cols": cols, "cellCount": len(cells), "cells": cells}
+    assert documents._table_lines(table) == expected
+
+
+def test_rhwp_reconstructs_comparison_table_without_preamble_headers() -> None:
+    cells = [
+        {"row": 0, "col": 0, "rowSpan": 1, "colSpan": 5, "isHeader": True, "text": "[232] 소화성궤양용제"},
+        {"row": 1, "col": 0, "rowSpan": 1, "colSpan": 2, "isHeader": True, "text": "현 행"},
+        {"row": 1, "col": 2, "rowSpan": 1, "colSpan": 2, "isHeader": True, "text": "개 정(안)"},
+        {"row": 1, "col": 4, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "사유"},
+        {"row": 2, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "[232]\nTegoprazan(품명: 개정 제품 등)"},
+        {"row": 2, "col": 3, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "개정 본문"},
+    ]
+    table = {"rows": 3, "cols": 5, "cellCount": len(cells), "cells": cells}
+    tables = {"tableCount": 1, "tables": [table]}
+    structure = {"structure": {"preamble": ["변경대비표", "[별지 2]"]}}
+    text = documents._reconstruct_tables(tables, structure)
+    assert text == "[변경]\n[232] 소화성궤양용제\n[232]\nTegoprazan(품명: 개정 제품 등)\n개정 본문"
+
+
 def test_split_blocks_joins_multiline_pummyeong_title_before_numbered_body() -> None:
     text = "\n".join([
         "[219]",
