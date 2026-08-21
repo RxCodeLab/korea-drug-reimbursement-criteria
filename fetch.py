@@ -95,6 +95,8 @@ def completed_meta_valid(meta_path: Path, item: dict) -> bool:
                 return False
             if credential_free_url(attachment["source_url"]) != attachment["source_url"]:
                 return False
+            if attachment["role"] != attachment_role(attachment["original_name"]):
+                return False
             stored_name = attachment["stored_name"]
             if not isinstance(stored_name, str) or Path(stored_name).name != stored_name:
                 return False

@@ -68,6 +68,10 @@ def test_completed_meta_validation_rejects_corrupt_payload(tmp_path):
     assert completed_meta_valid(meta_path, version)
     file_path.write_bytes(b"not a PDF")
     assert not completed_meta_valid(meta_path, version)
+    file_path.write_bytes(payload)
+    meta["attachments"][0]["role"] = "annex"
+    meta_path.write_text(json.dumps(meta), encoding="utf-8")
+    assert not completed_meta_valid(meta_path, version)
 
 
 def test_fetch_skips_only_a_revalidated_completed_meta(tmp_path, monkeypatch):
