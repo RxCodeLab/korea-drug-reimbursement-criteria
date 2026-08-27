@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201109274",
+ "item_name": "가바뉴로캡슐75밀리그램(프레가발린)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20111031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102323]프레가발린",
+ "main_item_ingr_eng": "Pregabalin",
+ "edi_code": "645304380",
+ "atc_code": "N02BF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109274",
+ "revisions": [
+  {
+   "revision_id": "201109274-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "34",
+   "first_observed_at": "2026-08-27T10:29:00Z",
+   "last_observed_at": "2026-08-27T10:29:00Z",
+   "official_revision_date": "2023-07-31"
+  },
+  {
+   "revision_id": "201109274-3418403c",
+   "content_sha256": "3418403c7accba227b79dcdeb8fa1e064c6af8f3f906bf02c537711750404d8b",
+   "ee_text": "성인에서 이차적 전신증상을 동반하거나 동반하지 않은 부분발작의 보조제\" />",
+   "ee_doc_id": "19",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T10:29:00Z",
+   "last_observed_at": "2026-08-27T10:29:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:29:00Z"
+}

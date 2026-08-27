@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004043",
+ "item_name": "코텐파워연질캡슐",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20100616",
+ "cancel_date": "20240603",
+ "status": "취하",
+ "main_item_ingr": "[M040133]리보플라빈|[M223262]티아민질산염|[M223289]폴산|[M204304]피리독신염산염|[M255994]시아노코발라민1000배산|[M203450]아스코르브산|[M040064]니코틴산아미드|[M222991]레티놀팔미테이트|[M040262]산화마그네슘|[M246028]황산망간수화물|[M257024]황산제이구리|[M223240]토코페롤아세테이트|[M245627]농축콜레칼시페롤유|[M051233]유비데카레논|[M040679]판토텐산칼슘|[M051783]푸마르산철|[M089702]셀레늄함유건조효모|[M082909]크롬함유건조효모|[M099839]산화아연",
+ "main_item_ingr_eng": "Ascorbic Acid/Calcium Pantothenate/Cholecalciferol Concentrate Oil/Chromium in Dried Yeast/Cupric Sulfate Hydrate/Cyanocobalamin Powder 0.1%/Ferrous Fumarate/Folic Acid/Magnesium Oxide/Manganese Sulfate Hydrate/Nicotinamide/Pyridoxine Hydrochloride/Retinol Palmitate/Riboflavin/Selenium In Dried Yeast/Thiamine Nitrate/Tocopherol Acetate/Ubidecarenone/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004043",
+ "revisions": [
+  {
+   "revision_id": "201004043-ac984989",
+   "content_sha256": "ac984989669a3f1a944cffaaf6a8b9675e505d3a72fc7c9eefad0f9095ed58a9",
+   "ee_text": "- 육체피로 - 임신·수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력 저하시 - 발육기, 노년기 - 다음 증상의 완화 : 눈의 건조감의 완화, 야맹증(밤에 잘 못보는 증상) 뼈, 이의 발육불량, 구루병의 예방",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T10:32:35Z",
+   "last_observed_at": "2026-08-27T10:32:35Z",
+   "official_revision_date": "2018-09-04"
+  },
+  {
+   "revision_id": "201004043-7231ad76",
+   "content_sha256": "7231ad768c1b66c03c3cf4c369d2b568e74fb9ff95128d057246af4b85db8f2c",
+   "ee_text": "- 육체피로 - 수유기 - 병중ㆍ병후의 체력 저하시 - 발육기, 노년기 - 다음 증상의 완화 : 눈의 건조감의 완화, 야맹증 뼈, 이의 발육불량, 구루병의 예방",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T10:32:35Z",
+   "last_observed_at": "2026-08-27T10:32:35Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:32:35Z"
+}

@@ -177,6 +177,147 @@ def test_rhwp_comparison_tables_keep_only_revised_criteria(
     assert documents._table_lines(table) == expected
 
 
+def test_rhwp_reconstructs_nested_table_inside_criterion_body() -> None:
+    nested = {
+        "rows": 2,
+        "cols": 3,
+        "cellCount": 6,
+        # containerPath의 문단 번호가 표가 있던 자리(빈 줄)를 가리킨다
+        "containerPath": [{"kind": "tableCell", "cell": 3, "control": 0, "paragraph": 1}],
+        "cells": [
+            {"row": 0, "col": 0, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "구 분"},
+            {"row": 0, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "Metformin"},
+            {"row": 0, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "SGLT-2 inhibitor"},
+            {"row": 1, "col": 0, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "Metformin"},
+            {"row": 1, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": ""},
+            {"row": 1, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "인정"},
+        ],
+    }
+    table = {
+        "rows": 2,
+        "cols": 2,
+        "cellCount": 4,
+        "cells": [
+            {"row": 0, "col": 0, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "구 분"},
+            {"row": 0, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "세부인정기준 및 방법"},
+            {"row": 1, "col": 0, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "[일반원칙]\n당뇨병용제"},
+            {
+                "row": 1,
+                "col": 1,
+                "rowSpan": 1,
+                "colSpan": 1,
+                "isHeader": False,
+                "text": "(3) 인정 가능 2제 요법\n\n(4) 다음 조건",
+                "nested": [nested],
+            },
+        ],
+    }
+
+    lines = documents._table_lines(table)
+
+    assert lines[0] == "[일반원칙]\n당뇨병용제"
+    # 앵커 문단(빈 줄) 자리에 표가 들어가 원문 위치를 유지한다
+    assert "(3) 인정 가능 2제 요법\n[표]" in lines[1]
+    assert lines[1].index("[표]") < lines[1].index("(4) 다음 조건")
+    # 표시형 매트릭스는 조합별로 전개해 원문 의도를 보존한다
+    assert "Metformin + SGLT-2 inhibitor: 인정" in lines[1]
+    assert "Metformin + Metformin" not in lines[1]  # 빈 셀(자기 조합)은 전개하지 않는다
+
+
+def test_rhwp_expands_span_matrix_with_compound_headers() -> None:
+    """2단 헤더·병합 라벨 매트릭스가 원문 조합 그대로 전개되어야 한다."""
+    cells = [
+        {"row": 0, "col": 0, "rowSpan": 2, "colSpan": 2, "isHeader": True, "text": "구 분"},
+        {"row": 0, "col": 2, "rowSpan": 2, "colSpan": 1, "isHeader": True, "text": "Metformin"},
+        {"row": 0, "col": 3, "rowSpan": 1, "colSpan": 2, "isHeader": True, "text": "SGLT-2 inhibitor"},
+        {"row": 1, "col": 3, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "dapagliflozin"},
+        {"row": 1, "col": 4, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "ipragliflozin"},
+        {"row": 2, "col": 0, "rowSpan": 1, "colSpan": 2, "isHeader": False, "text": "Metformin"},
+        {"row": 2, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": ""},
+        {"row": 2, "col": 3, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "인정"},
+        {"row": 2, "col": 4, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": ""},
+        {"row": 3, "col": 0, "rowSpan": 2, "colSpan": 1, "isHeader": False, "text": "SGLT-2 inhibitor"},
+        {"row": 3, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "dapagliflozin"},
+        {"row": 3, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "인정"},
+        {"row": 4, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "ipragliflozin"},
+        {"row": 4, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "인정"},
+    ]
+    table = {"rows": 5, "cols": 5, "cellCount": len(cells), "cells": cells}
+
+    rendered = documents._render_table_grid(table)
+
+    assert rendered.splitlines() == [
+        "[표]",
+        "Metformin + SGLT-2 inhibitor dapagliflozin: 인정",
+        "SGLT-2 inhibitor dapagliflozin + Metformin: 인정",
+        "SGLT-2 inhibitor ipragliflozin + Metformin: 인정",
+    ]
+
+
+def test_rhwp_keeps_list_table_with_short_sublabels_as_grid() -> None:
+    """짧은 부분류 라벨(DHP, loop 등)이 있는 목록 표는 전개하지 않고 격자를 유지한다."""
+    cells = [
+        {"row": 0, "col": 0, "rowSpan": 1, "colSpan": 2, "isHeader": True, "text": "성분군"},
+        {"row": 0, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "성분명"},
+        {"row": 1, "col": 0, "rowSpan": 2, "colSpan": 1, "isHeader": False, "text": "칼슘 채널 차단제"},
+        {"row": 1, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "DHP"},
+        {"row": 1, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "Amlodipine 등"},
+        {"row": 2, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "non-DHP"},
+        {"row": 2, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "Diltiazem 등"},
+        {"row": 3, "col": 0, "rowSpan": 1, "colSpan": 2, "isHeader": False, "text": "혈관확장제"},
+        {"row": 3, "col": 2, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "Cadralazine 등"},
+    ]
+    table = {"rows": 4, "cols": 3, "cellCount": len(cells), "cells": cells}
+
+    rendered = documents._render_table_grid(table).splitlines()
+
+    assert rendered == [
+        "[표]",
+        "성분군 | 성분명",
+        "칼슘 채널 차단제 | DHP | Amlodipine 등",  # rowSpan 라벨은 행마다 복원
+        "칼슘 채널 차단제 | non-DHP | Diltiazem 등",
+        "혈관확장제 | Cadralazine 등",  # colSpan 중복은 한 번만
+    ]
+
+
+def test_rhwp_renders_plain_list_table_as_grid() -> None:
+    """표시형이 아닌 목록 표는 격자 그대로 유지한다."""
+    cells = [
+        {"row": 0, "col": 0, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "성분군"},
+        {"row": 0, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": True, "text": "성분명"},
+        {"row": 1, "col": 0, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "Biguanide계"},
+        {"row": 1, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "Metformin HCl"},
+    ]
+    table = {"rows": 2, "cols": 2, "cellCount": len(cells), "cells": cells}
+
+    rendered = documents._render_table_grid(table)
+
+    assert rendered == "[표]" + chr(10) + "성분군 | 성분명" + chr(10) + "Biguanide계 | Metformin HCl"
+
+
+def test_rhwp_keeps_nested_tables_with_their_owning_cells() -> None:
+    """서로 다른 셀의 중첩 표는 각자 자기 셀 뒤에 남아야 한다."""
+    def small(text):
+        return {
+            "rows": 1, "cols": 1, "cellCount": 1,
+            "cells": [{"row": 0, "col": 0, "rowSpan": 1, "colSpan": 1,
+                       "isHeader": False, "text": text}],
+        }
+    table = {
+        "rows": 2, "cols": 1, "cellCount": 2,
+        "cells": [
+            {"row": 0, "col": 0, "rowSpan": 1, "colSpan": 1, "isHeader": False,
+             "text": "첫 셀", "nested": [small("첫 표")]},
+            {"row": 1, "col": 0, "rowSpan": 1, "colSpan": 1, "isHeader": False,
+             "text": "둘째 셀", "nested": [small("둘째 표")]},
+        ],
+    }
+
+    lines = documents._table_lines(table)
+
+    assert lines == ["첫 셀", "[표]\n첫 표", "둘째 셀", "[표]\n둘째 표"]
+
+
 def test_rhwp_reconstructs_comparison_table_without_preamble_headers() -> None:
     cells = [
         {"row": 0, "col": 0, "rowSpan": 1, "colSpan": 5, "isHeader": True, "text": "[232] 소화성궤양용제"},
@@ -211,6 +352,28 @@ def test_split_blocks_joins_multiline_pummyeong_title_before_numbered_body() -> 
         "title": "Lanadelumab 주사제 (품명 : 탁자이로프리필드시린지주)",
         "body": "1. 유전성 혈관부종 환자에게 투여한다.\n2. 추가 조건",
     }]
+
+
+def test_split_blocks_moves_general_principle_subtitle_into_title_and_removes_page_headers() -> None:
+    text = "\n".join([
+        "[일반원칙]",
+        "경구용 항혈전제",
+        "(항혈소판제 및",
+        "Heparinoid 제제)",
+        "각 약제의 기준",
+        "- 7 -",
+        "구  분",
+        "세부인정기준 및 방법",
+        "[일반원칙]",
+        "경구용 항혈전제",
+        "계속되는 기준",
+    ])
+
+    (block,) = ingest.split_blocks(text)
+
+    assert block["title"] == "경구용 항혈전제 (항혈소판제 및 Heparinoid 제제)"
+    assert block["class_header"] == "[일반원칙] 경구용 항혈전제 (항혈소판제 및 Heparinoid 제제)"
+    assert block["body"] == "각 약제의 기준\n계속되는 기준"
 
 
 def test_split_blocks_rejects_gu_bun_pseudo_item() -> None:

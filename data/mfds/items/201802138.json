@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802138",
+ "item_name": "프레가린캡슐50밀리그램(프레가발린)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20180521",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102323]프레가발린",
+ "main_item_ingr_eng": "Pregabalin",
+ "edi_code": "642803090",
+ "atc_code": "N03AX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802138",
+ "revisions": [
+  {
+   "revision_id": "201802138-950078d1",
+   "content_sha256": "950078d1e0d3a53154a38f5ce35c6f8e608a61b0c69b8687d6c1f5985d6c4aa5",
+   "ee_text": "1. 성인에서 말초와 중추 신경병증성 통증의 치료 2. 뇌전증 성인에서 이차적 전신증상을 동반하거나 동반하지 않은 부분발작의 보조제 3. 섬유근육통의 치료",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T10:30:09Z",
+   "last_observed_at": "2026-08-27T10:30:09Z",
+   "official_revision_date": "2023-03-15"
+  },
+  {
+   "revision_id": "201802138-8ce44d45",
+   "content_sha256": "8ce44d4501b1202e884d37bb88fd98b92c6184cddccfa5466666f5c8f4c0ad94",
+   "ee_text": "1. 성인에서 말초와 중추 신경병증성 통증의 치료 2. 간질 성인에서 이차적 전신증상을 동반하거나 동반하지 않은 부분발작의 보조제 3. 섬유근육통의 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-05-21",
+   "first_observed_at": "2026-08-27T10:30:09Z",
+   "last_observed_at": "2026-08-27T10:30:09Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:30:09Z"
+}

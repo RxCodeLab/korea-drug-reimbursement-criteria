@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201100273",
+ "item_name": "실버셉트오디정10밀리그램(도네페질염산염수화물)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20110118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256941]도네페질염산염수화물",
+ "main_item_ingr_eng": "Donepezil Hydrochloride Hydrate",
+ "edi_code": "651903480",
+ "atc_code": "N06DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100273",
+ "revisions": [
+  {
+   "revision_id": "201100273-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "24",
+   "first_observed_at": "2026-08-27T08:00:46Z",
+   "last_observed_at": "2026-08-27T08:00:46Z",
+   "official_revision_date": "2019-07-21"
+  },
+  {
+   "revision_id": "201100273-0e1c8d53",
+   "content_sha256": "0e1c8d53b3baa7cef657f919a8d6fe1e2ba041c142db2e5ecc6f98d31e65d8c5",
+   "ee_text": "혈관성 치매(뇌혈관질환을 동반한 치매)증상의 개선 ☆ ☆ : 국내임상시험결과 추가제출",
+   "ee_doc_id": "20",
+   "official_revision_date": "2012-01-29",
+   "first_observed_at": "2026-08-27T08:00:46Z",
+   "last_observed_at": "2026-08-27T08:00:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T08:00:46Z"
+}

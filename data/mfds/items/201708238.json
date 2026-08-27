@@ -1,0 +1,54 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708238",
+ "item_name": "탈츠오토인젝터주(익세키주맙,유전자재조합)",
+ "entp_name": "한국릴리(유)",
+ "permit_date": "20171205",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267084]익세키주맙",
+ "main_item_ingr_eng": "Ixekizumab",
+ "edi_code": "670801111",
+ "atc_code": "L04AC13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708238",
+ "revisions": [
+  {
+   "revision_id": "201708238-398851ae",
+   "content_sha256": "398851ae505b0f6a50c31b1fa6deb5b21f551eb74ac79925667bcec611755a11",
+   "ee_text": "성인 1) 판상 건선 : 광선 요법 또는 전신치료요법을 필요로 하는 중등도에서 중증의 판상 건선의 치료 2) 건선성 관절염 : 이전에 DMARDs(disease-modifying anti-rheumatic drug)에 대한 반응이 적절하지 않거나, 내약성이 없는 활동성 건선성 관절염의 치료 3) 강직성 척추염 : 기존 치료에 대한 반응이 적절하지 않은 활동성 강직성 척추염의 치료 4) 비-방사선성 축방향 척추관절염 : 비스테로이드성 항염증 약물(NSAIDs)에 대한 반응이 적절하지 않고 상승된 CRP 수치 및/또는 MRI상 객관적인 염증의 징후를 보이는 활동성 비-방사선성 축방향 척추관절염 환자의 치료",
+   "ee_doc_id": "22",
+   "first_observed_at": "2026-08-27T07:58:56Z",
+   "last_observed_at": "2026-08-27T07:58:56Z",
+   "official_revision_date": "2021-11-29"
+  },
+  {
+   "revision_id": "201708238-7e1b6ae0",
+   "content_sha256": "7e1b6ae09393406d052f9dfde6bbbb56aac0bf247bf2b1a3a15f84ee25e113d1",
+   "ee_text": "성인 1) 판상 건선 : 광선 요법 또는 전신치료요법을 필요로 하는 중등도에서 중증의 판상 건선의 치료 2) 건선성 관절염 : 이전에 DMARDs(disease-modifying anti-rheumatic drug)에 대한 반응이 적절하지 않거나, 내약성이 없는 활동성 건선성 관절염의 치료. 3) 강직성 척추염 : 기존 치료에 대한 반응이 적절하지 않은 활동성 강직성 척추염의 치료.",
+   "ee_doc_id": "16",
+   "official_revision_date": "2020-02-27",
+   "first_observed_at": "2026-08-27T07:58:56Z",
+   "last_observed_at": "2026-08-27T07:58:56Z"
+  },
+  {
+   "revision_id": "201708238-dd89a4ea",
+   "content_sha256": "dd89a4eae5d295e35d480562f7b0329d1054d2cd49f5b774d1a75e4e629a5c5d",
+   "ee_text": "1) 판상 건선 : 광선 요법 또는 전신치료요법을 필요로 하는 중등도에서 중증의 성인 판상 건선의 치료 2) 건선성 관절염 : 이전에 DMARDs(diseas- modifying anti-rheumatic drug)에 대한 반응이 적절하지 않거나, 내약성이 없는 활동성 건선성 관절염을 가진 성인 환자의 치료. 이 약은 단독 또는 다른 DMARDs(예, 메토트렉세이트)와 병용 투여 할 수 있다.",
+   "ee_doc_id": "6",
+   "official_revision_date": "2018-12-28",
+   "first_observed_at": "2026-08-27T07:58:56Z",
+   "last_observed_at": "2026-08-27T07:58:56Z"
+  },
+  {
+   "revision_id": "201708238-ad8aed86",
+   "content_sha256": "ad8aed860811846f5ff8d3ef190cb49dfebd7baeed486042a3e131d94c09df9d",
+   "ee_text": "광선 요법 또는 전신치료요법을 필요로 하는 중등도에서 중증의 성인 판상 건선",
+   "ee_doc_id": "2",
+   "official_revision_date": "2017-12-06",
+   "first_observed_at": "2026-08-27T07:58:56Z",
+   "last_observed_at": "2026-08-27T07:58:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T07:58:56Z"
+}

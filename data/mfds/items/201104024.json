@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201104024",
+ "item_name": "모다닐정200밀리그램(모다피닐)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20110629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100572]모다피닐",
+ "main_item_ingr_eng": "Modafinil",
+ "edi_code": "643505960",
+ "atc_code": "N06BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104024",
+ "revisions": [
+  {
+   "revision_id": "201104024-c3d611b1",
+   "content_sha256": "c3d611b14367c57f98bc00c5b4552b6ead737fd20f1704a49a54cd31c10e2403",
+   "ee_text": "성인에 있어서, 기면증과 관련한 과다졸음",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T07:57:26Z",
+   "last_observed_at": "2026-08-27T07:57:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T07:57:26Z"
+}

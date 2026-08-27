@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200612312",
+ "item_name": "에이프로젠유비데카레논정10mg(수출용)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20061212",
+ "cancel_date": "20251016",
+ "status": "취하",
+ "main_item_ingr": "[M051233]유비데카레논",
+ "main_item_ingr_eng": "Ubidecarenone",
+ "edi_code": "",
+ "atc_code": "C01EB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200612312",
+ "revisions": [
+  {
+   "revision_id": "200612312-6f3929af",
+   "content_sha256": "6f3929afc62d39a3310d6c2852fed50ed9a363fc901a7a7a1e5a59f7f6b1d573",
+   "ee_text": "울혈성심부전 (경증-중등도)",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T10:32:26Z",
+   "last_observed_at": "2026-08-27T10:32:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:32:26Z"
+}

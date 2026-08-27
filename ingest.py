@@ -5,6 +5,7 @@ import json
 import os
 import re
 import sqlite3
+import tempfile
 import unicodedata
 from pathlib import Path
 from typing import Any
@@ -24,6 +25,7 @@ RE_ITEM_NO = re.compile(r"^\[(\d{3}|일반원칙)\]$")
 RE_ACTION = re.compile(r"\[\s*(신\s*설|변\s*경|삭\s*제)\s*\]")
 RE_PUMMYEONG = re.compile(r"\(품명\s*[::]")
 RE_NUMBERED_CONDITION = re.compile(r"^\d+[.)]")
+RE_PAGE_NUMBER = re.compile(r"^-\s*\d+\s*-$")
 
 
 def _canonical(value: Any) -> bytes:
@@ -85,6 +87,32 @@ def select_renditions(attachments: list[dict[str, Any]]) -> list[dict[str, Any]]
     ]
 
 
+def _clean_body(lines: list[str], class_no: str, title: str) -> str:
+    compact_title = re.sub(r"\s+", "", title)
+    compact_base_title = re.sub(r"\s+", "", title.split("(", 1)[0])
+    artifacts = {
+        f"[{class_no}]",
+        compact_title,
+        compact_base_title,
+        f"[{class_no}]{compact_title}",
+        f"[{class_no}]{compact_base_title}",
+        "구분",
+        "세부인정기준및방법",
+    }
+    cleaned: list[str] = []
+    for line in lines:
+        stripped = line.strip()
+        compact = re.sub(r"\s+", "", stripped)
+        if RE_PAGE_NUMBER.fullmatch(stripped) or compact in artifacts:
+            continue
+        if not stripped and (not cleaned or not cleaned[-1]):
+            continue
+        cleaned.append(line.rstrip())
+    while cleaned and not cleaned[-1]:
+        cleaned.pop()
+    return "\n".join(cleaned).strip()
+
+
 def split_blocks(text: str) -> list[dict[str, str]]:
     lines = text.split("\n")
     blocks: list[dict[str, Any]] = []
@@ -104,6 +132,18 @@ def split_blocks(text: str) -> list[dict[str, str]]:
             class_header = line
         item = RE_ITEM_NO.match(line)
         if item:
+            if current and item.group(1) == current["class_no"] and i + 1 < len(lines):
+                repeated_title = re.sub(r"\s+", "", lines[i + 1])
+                current_base = re.sub(r"\s+", "", current["title"].split("(", 1)[0])
+                if repeated_title and current_base and repeated_title == current_base:
+                    i += 2
+                    while i < len(lines) and lines[i].strip().startswith("("):
+                        balance = lines[i].count("(") - lines[i].count(")")
+                        i += 1
+                        while balance > 0 and i < len(lines):
+                            balance += lines[i].count("(") - lines[i].count(")")
+                            i += 1
+                    continue
             if current:
                 blocks.append(current)
             title_lines: list[str] = []
@@ -119,10 +159,21 @@ def split_blocks(text: str) -> list[dict[str, str]]:
                     break
                 if item.group(1) == "일반원칙" and candidate:
                     j += 1
+                    while j < len(lines):
+                        continuation = lines[j].strip()
+                        if not continuation.startswith("("):
+                            break
+                        title_lines.append(continuation)
+                        j += 1
+                        while title_lines[-1].count("(") > title_lines[-1].count(")") and j < len(lines):
+                            title_lines.append(lines[j].strip())
+                            j += 1
                     break
                 j += 1
-            current = {"action": action, "class_no": item.group(1), "class_header": class_header,
-                       "title": " ".join(title_lines).strip(), "body_lines": []}
+            title = " ".join(title_lines).strip()
+            item_header = f"[일반원칙] {title}" if item.group(1) == "일반원칙" else class_header
+            current = {"action": action, "class_no": item.group(1), "class_header": item_header,
+                       "title": title, "body_lines": []}
             i = j
             continue
         if current is not None:
@@ -134,7 +185,7 @@ def split_blocks(text: str) -> list[dict[str, str]]:
     result: list[dict[str, str]] = []
     for block in blocks:
         title = re.sub(r"\s+", " ", block["title"]).strip()
-        body = "\n".join(block["body_lines"]).strip()
+        body = _clean_body(block["body_lines"], block["class_no"], title)
         compact_title = re.sub(r"\s+", "", title)
         if not title or compact_title in {"구분", "품명", "성분명"} or (not body and not RE_PUMMYEONG.search(title)):
             continue
@@ -218,7 +269,11 @@ def _parse_version(version_dir: Path, meta: dict[str, Any]) -> dict[str, Any]:
                   "parser_version": PARSER_VERSION, "version": meta["version"],
                   "attachments": output_attachments, "entries": entries}
     NORMALIZED.mkdir(parents=True, exist_ok=True)
-    output_path.write_bytes(_canonical(normalized) + b"\n")
+    with tempfile.NamedTemporaryFile("wb", dir=NORMALIZED, prefix=".normalized-",
+                                     suffix=".tmp", delete=False) as tmp:
+        tmp.write(_canonical(normalized) + b"\n")
+        temp_name = tmp.name
+    os.replace(temp_name, output_path)
     return normalized
 
 

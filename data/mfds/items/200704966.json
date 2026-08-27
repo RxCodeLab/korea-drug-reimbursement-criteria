@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200704966",
+ "item_name": "한림도네페질정10밀리그램(도네페질염산염수화물)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20070430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256941]도네페질염산염수화물",
+ "main_item_ingr_eng": "Donepezil Hydrochloride Hydrate",
+ "edi_code": "645302290",
+ "atc_code": "N06DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704966",
+ "revisions": [
+  {
+   "revision_id": "200704966-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-27T08:00:28Z",
+   "last_observed_at": "2026-08-27T08:00:28Z",
+   "official_revision_date": "2019-07-21"
+  },
+  {
+   "revision_id": "200704966-5518272f",
+   "content_sha256": "5518272fbea38380194a0b89f479bd020c24898fd302c972fbf1bb6450ca29bf",
+   "ee_text": "☆ : 국내임상시험결과 추가제출",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T08:00:28Z",
+   "last_observed_at": "2026-08-27T08:00:28Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T08:00:28Z"
+}

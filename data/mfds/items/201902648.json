@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902648",
+ "item_name": "리프렌캡슐50밀리그램(프레가발린)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20190425",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102323]프레가발린",
+ "main_item_ingr_eng": "Pregabalin",
+ "edi_code": "621803610",
+ "atc_code": "N03AX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902648",
+ "revisions": [
+  {
+   "revision_id": "201902648-da7593b7",
+   "content_sha256": "da7593b772338f572654a81f724a36333b163a8cd3a2e0e974ac142166ee28a8",
+   "ee_text": "1. 성인에서 말초와 중추 신경병증성 통증의 치료 2. 뇌전증 성인에서 이차적 전신증상을 동반하거나 동반하지 않는 부분발작의 보조제 3. 섬유근육통의 치료",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T10:30:46Z",
+   "last_observed_at": "2026-08-27T10:30:46Z",
+   "official_revision_date": "2023-11-14"
+  },
+  {
+   "revision_id": "201902648-b458b151",
+   "content_sha256": "b458b1513afece031e1b4a5751b6fa8bb7670ed8bbfba6ce728439fe3b64d5b0",
+   "ee_text": "1. 성인에서 말초와 중추 신경병증성 통증의 치료 2. 간질 성인에서 이차적 전신증상을 동반하거나 동반하지 않는 부분발작의 보조제 3. 섬유근육통의 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-04-25",
+   "first_observed_at": "2026-08-27T10:30:46Z",
+   "last_observed_at": "2026-08-27T10:30:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:30:46Z"
+}

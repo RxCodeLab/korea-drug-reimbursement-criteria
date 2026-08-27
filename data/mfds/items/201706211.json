@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706211",
+ "item_name": "알츠케어정10밀리그램(도네페질염산염수화물)",
+ "entp_name": "메딕스제약(주)",
+ "permit_date": "20170728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256941]도네페질염산염수화물",
+ "main_item_ingr_eng": "Donepezil Hydrochloride Hydrate",
+ "edi_code": "625800400",
+ "atc_code": "N06DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706211",
+ "revisions": [
+  {
+   "revision_id": "201706211-9f426fa1",
+   "content_sha256": "9f426fa1ed8b6229740fe8f1a36ff9d60501a1c17a6ffe386a0f6b5d0acd47fa",
+   "ee_text": "알츠하이머형 치매증상의 치료",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-27T08:01:20Z",
+   "last_observed_at": "2026-08-27T08:01:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T08:01:20Z"
+}

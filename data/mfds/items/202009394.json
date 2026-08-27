@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202009394",
+ "item_name": "프리카린캡슐150밀리그램(프레가발린)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20201231",
+ "cancel_date": "20251231",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M102323]프레가발린",
+ "main_item_ingr_eng": "Pregabalin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009394",
+ "revisions": [
+  {
+   "revision_id": "202009394-3781897c",
+   "content_sha256": "3781897cd3160dd70480ceac234c6e5085652ab71f4284c96bd172ccb166e33b",
+   "ee_text": "성인에서 이차적 전신증상을 동반하거나 동반하지 않은 부분발작의 보조제",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T10:31:52Z",
+   "last_observed_at": "2026-08-27T10:31:52Z",
+   "official_revision_date": "2020-12-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:31:52Z"
+}

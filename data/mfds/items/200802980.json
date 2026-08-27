@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200802980",
+ "item_name": "아리셉트에비스정10밀리그램(도네페질염산염)",
+ "entp_name": "(주)한독",
+ "permit_date": "20080319",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M232855]도네페질염산염",
+ "main_item_ingr_eng": "Donepezil Hydrochloride",
+ "edi_code": "652105790",
+ "atc_code": "N06DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802980",
+ "revisions": [
+  {
+   "revision_id": "200802980-9f426fa1",
+   "content_sha256": "9f426fa1ed8b6229740fe8f1a36ff9d60501a1c17a6ffe386a0f6b5d0acd47fa",
+   "ee_text": "알츠하이머형 치매증상의 치료",
+   "ee_doc_id": "22",
+   "first_observed_at": "2026-08-27T08:00:40Z",
+   "last_observed_at": "2026-08-27T08:00:40Z",
+   "official_revision_date": "2019-07-21"
+  },
+  {
+   "revision_id": "200802980-c8cdd925",
+   "content_sha256": "c8cdd9252faaf4e425303925e0130aee489b25342d51443b11c91301d80d4427",
+   "ee_text": "알츠하이머형 치매증상의 치료 혈관성 치매(뇌혈관질환을 동반한 치매)증상의 개선 ☆ ☆ : 국내임상시험결과 추가제출",
+   "ee_doc_id": "17",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T08:00:40Z",
+   "last_observed_at": "2026-08-27T08:00:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T08:00:40Z"
+}

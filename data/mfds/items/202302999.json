@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302999",
+ "item_name": "싸이시맙주(리툭시맙)(단클론항체, 유전자재조합)",
+ "entp_name": "싸이젠코리아(주)",
+ "permit_date": "20231027",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088506]리툭시맙|[M088506]리툭시맙",
+ "main_item_ingr_eng": "Rituximab",
+ "edi_code": "667200101,667200111",
+ "atc_code": "L01FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302999",
+ "revisions": [
+  {
+   "revision_id": "202302999-e2b04e49",
+   "content_sha256": "e2b04e49467a1cd7c7c222bbb221e7b0b40f32489743493b730348a45fd3346a",
+   "ee_text": "O 림프종 · 재발성 또는 화학요법 내성인 여포형 림프종(B세포 비호지킨 림프종 IWF분류중 B, C, D형) · 이전에 치료받은 적이 없는 여포형 림프종에서 화학요법과 병용투여 · 여포형 림프종에서 유도요법 실시 후 유지요법 · CD20 양성의 미만형 대형 B세포 비호지킨 림프종(DLCL)[CHOP 화학요법(cyclophosphamide, doxorubicin, vincristine, prednisolone으로 구성, 8주기 투여)과 병용하여 투여해야한다.] O 만성 림프구성 백혈병 · 이전에 치료받은 적이 없거나 재발성/불응성인 만성 림프구성 백혈병에서 화학요법과 병용투여 O 류마티스 관절염 · 1회 이상의 TNF길항제 요법에 대해 반응이 불충분한 중등도 내지 중증 활성형 류마티스 관절염에서 메토트렉세이트와 병용요법 · 메토트렉세이트와 병용하여, 관절손상 진행속도 감소 (X-ray 측정) 및 신체 기능 개선 O 베게너육아종증 및 현미경적 다발혈관염 · 성인의 베게너육아종증(WG) 및 현미경적 다발혈관염(MPA)에서 글루코코르티코이드와 병용투여",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T07:56:46Z",
+   "last_observed_at": "2026-08-27T07:56:46Z",
+   "official_revision_date": "2023-10-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T07:56:46Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201506496",
+ "item_name": "소발디정(소포스부비르)",
+ "entp_name": "길리어드사이언스코리아(유)",
+ "permit_date": "20150910",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M262752]소포스부비르",
+ "main_item_ingr_eng": "Sofosbuvir",
+ "edi_code": "",
+ "atc_code": "J05AP08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506496",
+ "revisions": [
+  {
+   "revision_id": "201506496-b59ecf9a",
+   "content_sha256": "b59ecf9a904bf186ab6fe61305991b47f479a44c997c499467adc3451edef951",
+   "ee_text": "다른 약물과 병용하여 성인의 유전자형 1, 2, 3, 4형 만성 C형 간염 치료 및 만12세 이상 만18세 미만 소아의 유전자형 2, 3형 만성 C형 간염 치료",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-27T07:57:07Z",
+   "last_observed_at": "2026-08-27T07:57:07Z",
+   "official_revision_date": "2019-01-30"
+  },
+  {
+   "revision_id": "201506496-6c874c96",
+   "content_sha256": "6c874c965f413b1ca15e831287bf122dfae3a001e2c296bf72463fcc3e80574b",
+   "ee_text": "다른 약물과 병용하여 성인의 유전자형 1, 2, 3, 4형 만성 C형 간염 치료",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T07:57:07Z",
+   "last_observed_at": "2026-08-27T07:57:07Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T07:57:07Z"
+}

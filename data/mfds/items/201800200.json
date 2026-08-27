@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800200",
+ "item_name": "마비렛정",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20180112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267082]글레카프레비르|[M267076]피브렌타스비르",
+ "main_item_ingr_eng": "Glecaprevir/Pibrentasvir",
+ "edi_code": "624900290",
+ "atc_code": "J05AP57",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800200",
+ "revisions": [
+  {
+   "revision_id": "201800200-645bae7b",
+   "content_sha256": "645bae7b0326355faaa9438a570df85a2bcad8e6cf55a36ecaffd0b940b55b92",
+   "ee_text": "만성 C형 간염 바이러스(hepatitis C virus; HCV) 유전자형 1, 2, 3, 4, 5, 또는 6 형에 감염된 성인 및 만 12세 이상 청소년 환자의 치료",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-27T07:58:49Z",
+   "last_observed_at": "2026-08-27T07:58:49Z",
+   "official_revision_date": "2019-11-04"
+  },
+  {
+   "revision_id": "201800200-8c469148",
+   "content_sha256": "8c4691481fe42cd35e1f8ad4f1ad7e62d4c5f7e0ad00e5896a604c24d06dd86e",
+   "ee_text": "만성 C형 간염 바이러스(hepatitis C virus; HCV) 유전자형 1, 2, 3, 4, 5, 또는 6 형에 감염된 성인 환자의 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-01-12",
+   "first_observed_at": "2026-08-27T07:58:49Z",
+   "last_observed_at": "2026-08-27T07:58:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T07:58:49Z"
+}

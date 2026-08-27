@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200608182",
+ "item_name": "광동큐디액",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20060707",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222996]리보플라빈포스페이트나트륨|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M223240]토코페롤아세테이트|[M051233]유비데카레논|[M200412]로얄젤리",
+ "main_item_ingr_eng": "Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Royal Jelly/Tocopherol Acetate/Ubidecarenone",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608182",
+ "revisions": [
+  {
+   "revision_id": "200608182-7076b25b",
+   "content_sha256": "7076b25ba0d3dfd1c689744652a6de6e8945a79b3659c8ce447aa26dc301c65e",
+   "ee_text": "- 육체피로 - 임신·수유기 - 병중·병후의 체력저하시 - 노년기 - 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염),습진, 피부염",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-27T10:32:25Z",
+   "last_observed_at": "2026-08-27T10:32:25Z",
+   "official_revision_date": "2021-06-01"
+  },
+  {
+   "revision_id": "200608182-4acd2487",
+   "content_sha256": "4acd2487896f10f1fa017dc1d02521a023318fd9f2f5a2a6dff5ead4dc4b724f",
+   "ee_text": "- 육체피로 - 임신⦁수유기 - 병중⦁병후의 체력저하시 - 노년기 - 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염),습진, 피부염",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T10:32:25Z",
+   "last_observed_at": "2026-08-27T10:32:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:32:25Z"
+}

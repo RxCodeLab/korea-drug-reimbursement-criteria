@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307766",
+ "item_name": "경남데일리디츄어블정",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20130620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099907]콜레칼시페롤과립|[M051233]유비데카레논",
+ "main_item_ingr_eng": "Cholecalciferol Granules/Ubidecarenone",
+ "edi_code": "",
+ "atc_code": "A11CC55",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307766",
+ "revisions": [
+  {
+   "revision_id": "201307766-0d61d7dd",
+   "content_sha256": "0d61d7dd433b105173b30ca1e42689185784dc77d01b99ebecddb49ed539cb2d",
+   "ee_text": "다음경우의 비타민 D의 보급 - 임신ㆍ수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. * 비타민D 1. 뼈, 이의 발육불량 2. 구루병의 예방",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T10:32:42Z",
+   "last_observed_at": "2026-08-27T10:32:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:32:42Z"
+}

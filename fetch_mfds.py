@@ -14,6 +14,7 @@ import re
 import tempfile
 import time
 import urllib.parse
+import xml.etree.ElementTree as ET
 from collections.abc import Iterable
 from datetime import datetime, timezone
 from pathlib import Path
@@ -22,12 +23,15 @@ from common import DATA, http_get, redact_text
 
 API_URL = "https://apis.data.go.kr/1471000/DrugPrdtPrmsnInfoService07/getDrugPrdtPrmsnDtlInq06"
 DETAIL_URL = "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail"
+HISTORY_URL = "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemChangeHistList"
 NORMALIZED_DIR = DATA / "normalized"
 ITEMS_DIR = DATA / "mfds" / "items"
 SCHEMA_VERSION = 1
 DEFAULT_PAGE_SIZE = 100
 REQUEST_SLEEP = 0.3
 RESULT_OK = "00"
+HISTORY_FAILURE_LIMIT = 5
+TERM_FAILURE_LIMIT = 10
 
 CLASS_HEADER = re.compile(r"^\[[^\]]*\]\s*")
 PUMMYEONG = re.compile(r"\(\s*품명\s*[:∶]?\s*([^)]*)\)")
@@ -39,6 +43,11 @@ DATE_YYYYMMDD = re.compile(r"^\d{8}$")
 FORM_SUFFIX = re.compile(
     r"\s+(?:경구제|주사제|외용제|흡입제|점안제|비강분무제|좌제|연고제|액제|패취제|서방형제제)$"
 )
+INGR_CODE = re.compile(r"^\[[^\]]*\]\s*")
+HISTORY_ENTRY = re.compile(
+    r'data-docdata="(.*?)"\s+onclick="detailHist\(&#39;([^&]+)&#39;, &#39;(\d{4}-\d{2}-\d{2})&#39;',
+    re.DOTALL,
+)
 
 
 def now_utc() -> str:
@@ -47,6 +56,11 @@ def now_utc() -> str:
 
 def normalize_ee(raw: object) -> str:
     text = html.unescape(str(raw or ""))
+    if text.lstrip().startswith("<?xml") or text.lstrip().startswith("<DOC"):
+        try:
+            text = " ".join(ET.fromstring(text).itertext())
+        except ET.ParseError:
+            pass
     text = TAG.sub(" ", text)
     return WHITESPACE.sub(" ", text).strip()
 
@@ -122,8 +136,10 @@ def fetch_page(service_key: str, search_param: str, term: str, page_no: int, pag
         payload = json.loads(raw.decode("utf-8-sig"))
     except (UnicodeDecodeError, ValueError) as exc:
         raise RuntimeError(f"MFDS API 응답 파싱 실패: {redact_message(service_key, exc)}") from exc
-    envelope = payload.get("response") if isinstance(payload, dict) else None
-    header = (envelope or {}).get("header") or {}
+    envelope = payload if isinstance(payload, dict) else {}
+    if isinstance(envelope.get("response"), dict):
+        envelope = envelope["response"]
+    header = envelope.get("header") or {}
     if header.get("resultCode") != RESULT_OK:
         raise RuntimeError(
             "MFDS API 오류: 코드={}, 메시지={}".format(
@@ -131,7 +147,7 @@ def fetch_page(service_key: str, search_param: str, term: str, page_no: int, pag
                 redact_message(service_key, header.get("resultMsg", "")),
             )
         )
-    body = (envelope or {}).get("body")
+    body = envelope.get("body")
     return body if isinstance(body, dict) else {}
 
 
@@ -144,6 +160,37 @@ def body_items(body: dict) -> list[dict]:
     if isinstance(items, list):
         return [item for item in items if isinstance(item, dict)]
     return []
+
+
+def parse_history(raw: bytes, item_seq: str, observed_at: str) -> list[dict]:
+    try:
+        source = raw.decode("utf-8")
+    except UnicodeDecodeError as exc:
+        raise RuntimeError(f"MFDS 허가이력 응답 파싱 실패: {exc}") from exc
+    revisions: list[dict] = []
+    seen: set[str] = set()
+    for document, official_id, official_date in HISTORY_ENTRY.findall(source):
+        text = normalize_ee(html.unescape(document))
+        digest = content_sha256(text)
+        if digest in seen:
+            continue
+        seen.add(digest)
+        revisions.append({
+            "revision_id": f"{item_seq}-{digest[:8]}",
+            "content_sha256": digest,
+            "ee_text": text,
+            "ee_doc_id": official_id,
+            "official_revision_date": official_date,
+            "first_observed_at": observed_at,
+            "last_observed_at": observed_at,
+        })
+    return revisions
+
+
+def fetch_history(item_seq: str, observed_at: str) -> list[dict]:
+    raw = http_get(HISTORY_URL, {"itemSeq": item_seq, "docType": "EE", "page": "1"})
+    time.sleep(REQUEST_SLEEP)
+    return parse_history(raw, item_seq, observed_at)
 
 
 def collect_pages(
@@ -168,6 +215,58 @@ def collect_pages(
         page_no += 1
 
 
+# 한글 성분명 끝의 염·수화물·에스터류 접미어. 기본 성분명을 얻을 때 반복 제거한다.
+SALT_SUFFIXES = (
+    "수화물", "무수물", "반수화물", "일수화물", "이수화물", "삼수화물",
+    "프로판디올", "포르메이트", "베실산염", "캄실산염", "토실산염", "메실산염",
+    "푸마르산염", "타르타르산염", "말레산염", "옥살산염", "숙신산염", "아세트산염",
+    "시트르산염", "시트르산", "염산염", "브롬화수소산염", "황산염", "인산염", "질산염",
+    "나트륨", "칼륨", "칼슘", "마그네슘",
+)
+TRAILING_PAREN = re.compile(r"\([^)]*\)$")
+
+
+def base_ingredient(name: str) -> str:
+    """염·수화물 접미어를 벗겨 기본 성분명을 얻는다. 예) 다파글리플로진포르메이트 → 다파글리플로진"""
+    name = TRAILING_PAREN.sub("", name.strip())
+    changed = True
+    while changed and len(name) > 3:
+        changed = False
+        for suffix in SALT_SUFFIXES:
+            if name.endswith(suffix) and len(name) - len(suffix) > 2:
+                name = name[: -len(suffix)].strip()
+                changed = True
+    return name
+
+
+def base_ingredient_set(row: dict) -> frozenset[str]:
+    """품목의 MAIN_ITEM_INGR을 기본 성분명 집합으로 정규화한다."""
+    return frozenset(
+        base for part in str(row.get("MAIN_ITEM_INGR") or "").split("|")
+        if (base := base_ingredient(INGR_CODE.sub("", part.strip())))
+    )
+
+
+def expand_by_ingredient(
+    service_key: str, rows: list[dict], page_size: int, max_items: int | None,
+) -> list[dict]:
+    """품명으로 찾은 품목의 한글 성분명으로 재검색해 다른 염의 제네릭까지 넓힌다.
+
+    성분 검색은 한글명만 매칭되고 고시 제목의 성분명은 영문이라, 품명 검색이
+    성공하면 그 품목의 기본 성분명(염·수화물 접미어 제거)으로 확장한다. 성분
+    조합마다 가장 긴(가장 특이적인) 성분 하나만 조회해 메트포르민 같은 범용
+    성분 전체를 쓸어오지 않게 하고, 시드 조합을 포함하는 품목만 채택한다.
+    """
+    merged = {str(row.get("ITEM_SEQ") or ""): row for row in rows}
+    for seed in {base_ingredient_set(row) for row in rows} - {frozenset()}:
+        probe = max(seed, key=len)
+        for row in collect_pages(service_key, "main_item_ingr", probe, page_size, max_items):
+            if seed <= base_ingredient_set(row):
+                merged.setdefault(str(row.get("ITEM_SEQ") or ""), row)
+    expanded = list(merged.values())
+    return expanded[:max_items] if max_items is not None else expanded
+
+
 def collect_term(
     service_key: str, head: str, fallbacks: list[str], page_size: int, max_items: int | None,
 ) -> tuple[list[dict], str | None]:
@@ -177,6 +276,8 @@ def collect_term(
     for search_param, term in attempts:
         rows = collect_pages(service_key, search_param, term, page_size, max_items)
         if rows:
+            if search_param == "item_name":
+                rows = expand_by_ingredient(service_key, rows, page_size, max_items)
             return rows, search_param
     return [], None
 
@@ -197,6 +298,7 @@ def scalar_fields(item: dict, seq: str) -> dict:
         "cancel_date": cancel_date,
         "status": cancel_name or ("취소" if cancel_date else "정상"),
         "main_item_ingr": str(item.get("MAIN_ITEM_INGR") or "").strip(),
+        "main_item_ingr_eng": str(item.get("MAIN_INGR_ENG") or "").strip(),
         "edi_code": str(item.get("EDI_CODE") or "").strip(),
         "atc_code": str(item.get("ATC_CODE") or "").strip(),
         "source_url": f"{DETAIL_URL}?itemSeq={seq}",
@@ -255,9 +357,58 @@ def merge_item(item: dict, items_dir: Path, observed_at: str) -> str:
     else:
         revisions = [revision]
     record = scalar_fields(item, seq)
+    history_fetched_at = str((existing or {}).get("history_fetched_at") or "").strip()
+    if history_fetched_at:
+        record["history_fetched_at"] = history_fetched_at
     record["revisions"] = revisions
     atomic_json(path, record)
     return status
+
+
+def merge_history(
+    item_seq: str, history: list[dict], items_dir: Path, observed_at: str | None = None,
+) -> int:
+    """허가이력을 병합한다.
+
+    API가 현재로 보고한 개정에는 official_revision_date가 없어 날짜 역순 정렬에서
+    과거 개정에 밀리므로, 정렬 뒤에도 맨 앞에 오도록 고정한다. 수집 시각을
+    history_fetched_at에 남겨 다음 실행이 재수집 대상을 판단하게 한다.
+    """
+    path = items_dir / f"{item_seq}.json"
+    item = json.loads(path.read_text(encoding="utf-8"))
+    revisions = item["revisions"]
+    current_hash = revisions[0]["content_sha256"] if revisions else ""
+    by_hash = {revision["content_sha256"]: revision for revision in revisions}
+    added = 0
+    for official in history:
+        existing = by_hash.get(official["content_sha256"])
+        if existing is not None:
+            existing["ee_doc_id"] = official["ee_doc_id"]
+            existing["official_revision_date"] = official["official_revision_date"]
+            continue
+        revisions.append(official)
+        by_hash[official["content_sha256"]] = official
+        added += 1
+    revisions.sort(
+        key=lambda revision: (
+            revision["content_sha256"] == current_hash,
+            revision.get("official_revision_date", ""),
+            revision["first_observed_at"],
+        ),
+        reverse=True,
+    )
+    item["history_fetched_at"] = observed_at or now_utc()
+    atomic_json(path, item)
+    return added
+
+
+def history_pending(item_seq: str, items_dir: Path) -> bool:
+    """허가이력을 아직 한 번도 수집하지 않은 품목이면 True를 반환한다."""
+    try:
+        item = json.loads((items_dir / f"{item_seq}.json").read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return True
+    return not str(item.get("history_fetched_at") or "").strip()
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -265,6 +416,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--max-terms", type=int, default=None, help="검색어 상한(기본: 전체)")
     parser.add_argument("--max-items", type=int, default=None, help="저장 항목 상한(기본: 제한 없음)")
     parser.add_argument("--page-size", type=int, default=DEFAULT_PAGE_SIZE, help="페이지당 건수")
+    parser.add_argument("--skip-history", action="store_true", help="의약품안전나라 효능·효과 변경이력 수집 생략")
     args = parser.parse_args(argv)
     for name in ("max-terms", "max-items", "page-size"):
         value = getattr(args, name.replace("-", "_"))
@@ -281,13 +433,27 @@ def main(argv: list[str] | None = None) -> int:
     if args.max_terms is not None:
         groups = groups[: args.max_terms]
 
-    fetched = new_revisions = unchanged = 0
+    fetched = new_revisions = history_revisions = unchanged = history_skipped = 0
+    history_enabled = not args.skip_history
+    history_failures = term_failures = consecutive_term_failures = 0
     seen: set[str] = set()
     for head, fallbacks in groups:
         if args.max_items is not None and fetched >= args.max_items:
             break
         budget = args.max_items - fetched if args.max_items is not None else None
-        rows, _search_param = collect_term(service_key, head, fallbacks, args.page_size, budget)
+        # 검색 실패도 검색어 단위로 넘긴다. 실패한 검색어는 다음 실행에서
+        # 다시 시도되고, 연속 실패가 이어지면 지금까지 저장분을 지키며 멈춘다.
+        try:
+            rows, _search_param = collect_term(service_key, head, fallbacks, args.page_size, budget)
+            consecutive_term_failures = 0
+        except RuntimeError as exc:
+            term_failures += 1
+            consecutive_term_failures += 1
+            print(f"검색어 수집 실패({head}): {exc}")
+            if consecutive_term_failures >= TERM_FAILURE_LIMIT:
+                print("연속 실패로 수집을 중단합니다. 지금까지 저장한 품목은 유지됩니다.")
+                break
+            continue
         for row in rows:
             seq = str(row.get("ITEM_SEQ") or "").strip()
             if not seq or seq in seen:
@@ -295,13 +461,39 @@ def main(argv: list[str] | None = None) -> int:
             if args.max_items is not None and fetched >= args.max_items:
                 break
             seen.add(seq)
-            result = merge_item(row, ITEMS_DIR, now_utc())
+            observed_at = now_utc()
+            result = merge_item(row, ITEMS_DIR, observed_at)
             fetched += 1
             if result == "unchanged":
                 unchanged += 1
             else:
                 new_revisions += 1
-    print(f"[MFDS] 수집 항목={fetched}건, 신규 개정={new_revisions}건, 변동 없음={unchanged}건")
+            if history_enabled and (
+                result != "unchanged" or history_pending(seq, ITEMS_DIR)
+            ):
+                # 허가이력 실패는 품목 단위로 넘긴다. 마커가 남지 않으므로
+                # 해당 품목은 다음 실행에서 백필되고, 연속 실패가 이어지면
+                # 이번 실행의 이력 수집만 중단해 품목 수집을 지킨다.
+                try:
+                    history_revisions += merge_history(
+                        seq, fetch_history(seq, observed_at), ITEMS_DIR, observed_at,
+                    )
+                    history_failures = 0
+                except RuntimeError as exc:
+                    history_failures += 1
+                    history_skipped += 1
+                    print(f"허가이력 수집 실패({seq}): {exc}")
+                    if history_failures >= HISTORY_FAILURE_LIMIT:
+                        history_enabled = False
+                        print("연속 실패로 이번 실행의 허가이력 수집을 중단합니다. "
+                              "미수집 품목은 다음 실행에서 백필합니다.")
+    print(
+        f"[MFDS] 수집 항목={fetched}건, 신규 개정={new_revisions}건, "
+        f"과거 허가이력={history_revisions}건, 변동 없음={unchanged}건, "
+        f"이력 미수집={history_skipped}건, 검색 실패={term_failures}건"
+    )
+    if fetched == 0 and term_failures:
+        return 1  # 아무것도 수집하지 못한 채 실패만 났다면 크게 실패한다
     return 0
 
 

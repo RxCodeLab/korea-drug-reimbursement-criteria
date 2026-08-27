@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403910",
+ "item_name": "모디핀주(니모디핀)(수출용)[수출명:DAEHANMODIFINInj.]",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20040630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081634]니모디핀|[M081634]니모디핀",
+ "main_item_ingr_eng": "Nimodipine",
+ "edi_code": "",
+ "atc_code": "C08CA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403910",
+ "revisions": [
+  {
+   "revision_id": "200403910-a62245c9",
+   "content_sha256": "a62245c9bcb509406aed4e74f892503d4a46b39cd0b37e7113348ffc23e1f3f8",
+   "ee_text": "동맥류성 지주막하출혈후의 뇌혈관경련에 의한 허혈성 신경장애의 예방 및 치료",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T07:59:19Z",
+   "last_observed_at": "2026-08-27T07:59:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T07:59:19Z"
+}

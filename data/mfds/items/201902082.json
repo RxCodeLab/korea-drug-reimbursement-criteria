@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902082",
+ "item_name": "가바투캡슐300밀리그램(가바펜틴)",
+ "entp_name": "코스맥스파마(주)",
+ "permit_date": "20190405",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264220]가바펜틴",
+ "main_item_ingr_eng": "Gabapentin",
+ "edi_code": "055101160",
+ "atc_code": "N03AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902082",
+ "revisions": [
+  {
+   "revision_id": "201902082-2e869c61",
+   "content_sha256": "2e869c61baf1bda92d7ef5cacd4ddfa4cf4206ac8a2cc160fe8bab0bd1d4f14a",
+   "ee_text": "1) 단독요법(새롭게 발작으로 진단된 환자의 치료 포함) : 만 13세 이상 청소년 혹은 성인에서의 2차적 전신증상을 동반하거나 동반하지 않은 단순/복합 부분발작 2) 부가요법 : 만 3세 이상 어린이 혹은 성인에서의 2차적 전신증상을 동반하거나 동반하지 않은 부분발작",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T10:26:18Z",
+   "last_observed_at": "2026-08-27T10:26:18Z",
+   "official_revision_date": "2023-12-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:26:18Z"
+}

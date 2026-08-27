@@ -20,7 +20,9 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 350
+    outputs:
+      law_fetch: ${{ steps.fetch_law.outcome }}
     steps:
       - uses: actions/checkout@v7
         with:
@@ -53,7 +55,11 @@ jobs:
           cache: pip
       - name: Install dependencies
         run: python -m pip install --disable-pip-version-check -r requirements.txt
+      # 법제처 장애(해외 IP 시간대 제한 등) 시에도 뒤 단계를 막지 않는다.
+      # 급여기준 신규분만 다음 성공 런으로 미뤄지고, 불완전 자료는 ingest/verify가 걸러낸다.
       - name: Fetch and validate upstream archive
+        id: fetch_law
+        continue-on-error: true
         env:
           LAW_OC: ${{ secrets.LAW_OC }}
           RECONCILE: ${{ inputs.reconcile && '--reconcile' || '' }}
@@ -146,6 +152,16 @@ jobs:
         run: |
           sha256sum candidate/criteria.db > candidate/criteria.db.sha256
           gh release create "$TAG" candidate/criteria.db candidate/criteria.db.sha256 --target "$(git rev-parse HEAD)" --title "$TAG" --notes "Verified automated drug-criteria snapshot."
+
+  report-upstream:
+    needs: build
+    if: needs.build.outputs.law_fetch == 'failure'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mark upstream fetch failure
+        run: |
+          echo "::error::법제처 수집이 실패해 기존 자료로 진행했습니다. 급여기준 신규분은 반영되지 않았습니다."
+          exit 1
 
   deploy-pages:
     needs: [build, publish-data]

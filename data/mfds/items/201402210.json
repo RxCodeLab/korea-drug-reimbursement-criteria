@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402210",
+ "item_name": "앱스트랄설하정300마이크로그램(펜타닐시트르산염)",
+ "entp_name": "한국메나리니(주)",
+ "permit_date": "20140513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259588]펜타닐시트르산염(미분화)",
+ "main_item_ingr_eng": "Fentanyl Citrate Micronized",
+ "edi_code": "674900500",
+ "atc_code": "N02AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402210",
+ "revisions": [
+  {
+   "revision_id": "201402210-b7e1c1bd",
+   "content_sha256": "b7e1c1bd6f633f32adcb6aeafa7f6ad3a5e05588e5220a4c61e73303946d9c21",
+   "ee_text": "만 18세이상 성인 : 현재 지속성통증에 대한 아편양제제 약물 치료를 받고 있으며, 이에 대한 내약성을 가진 암 환자의 돌발성 통증",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T10:23:46Z",
+   "last_observed_at": "2026-08-27T10:23:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:23:46Z"
+}

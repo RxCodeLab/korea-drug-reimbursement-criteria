@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002264",
+ "item_name": "레가바정75밀리그램(프레가발린)",
+ "entp_name": "위더스제약(주)",
+ "permit_date": "20200331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102323]프레가발린",
+ "main_item_ingr_eng": "Pregabalin",
+ "edi_code": "660703410",
+ "atc_code": "N03AX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002264",
+ "revisions": [
+  {
+   "revision_id": "202002264-950078d1",
+   "content_sha256": "950078d1e0d3a53154a38f5ce35c6f8e608a61b0c69b8687d6c1f5985d6c4aa5",
+   "ee_text": "1. 성인에서 말초와 중추 신경병증성 통증의 치료 2. 뇌전증 성인에서 이차적 전신증상을 동반하거나 동반하지 않은 부분발작의 보조제 3. 섬유근육통의 치료",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T10:31:36Z",
+   "last_observed_at": "2026-08-27T10:31:36Z",
+   "official_revision_date": "2022-08-22"
+  },
+  {
+   "revision_id": "202002264-8ce44d45",
+   "content_sha256": "8ce44d4501b1202e884d37bb88fd98b92c6184cddccfa5466666f5c8f4c0ad94",
+   "ee_text": "1. 성인에서 말초와 중추 신경병증성 통증의 치료 2. 간질 성인에서 이차적 전신증상을 동반하거나 동반하지 않은 부분발작의 보조제 3. 섬유근육통의 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-03-31",
+   "first_observed_at": "2026-08-27T10:31:36Z",
+   "last_observed_at": "2026-08-27T10:31:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:31:36Z"
+}

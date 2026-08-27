@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601448",
+ "item_name": "도네펜타정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+ "entp_name": "에스에스팜(주)",
+ "permit_date": "20260519",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256941]도네페질염산염수화물|[M242614]메만틴염산염",
+ "main_item_ingr_eng": "Donepezil Hydrochloride Hydrate/Memantine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601448",
+ "revisions": [
+  {
+   "revision_id": "202601448-45a0e31d",
+   "content_sha256": "45a0e31dd1339d6f7fd4dd6d1b5c57931bc157c362294573a5e286bc9db044e7",
+   "ee_text": "증도에서 중증 알츠하이머병 치료를 위한 도네페질과 메만틴 병용요법 대체",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T08:02:42Z",
+   "last_observed_at": "2026-08-27T08:02:42Z",
+   "official_revision_date": "2026-05-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T08:02:42Z"
+}

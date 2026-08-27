@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106513",
+ "item_name": "디케이정",
+ "entp_name": "미래바이오제약(주)",
+ "permit_date": "20210913",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051233]유비데카레논|[M223167]우르소데옥시콜산|[M040262]산화마그네슘|[M091374]무수인산수소칼슘|[M051962]황산망간|[M202029]피토나디온|[M102050]콜레칼시페롤농축분말",
+ "main_item_ingr_eng": "Anhydrous Dibasic Calcium Phosphate/Cholecalciferol Concentrate Powder/Magnesium Oxide/Manganese Sulfate/Phytonadione/Ubidecarenone/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106513",
+ "revisions": [
+  {
+   "revision_id": "202106513-34bf31ff",
+   "content_sha256": "34bf31ff954bc55731daaddd92c21461d610c831fde21844cdef77638763621a",
+   "ee_text": "○ 다음 경우의 비타민 D의 보급 - 임신․수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. ․ 뼈, 이의 발육불량 ․ 구루병의 예방",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T10:33:24Z",
+   "last_observed_at": "2026-08-27T10:33:24Z",
+   "official_revision_date": "2021-09-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:33:24Z"
+}

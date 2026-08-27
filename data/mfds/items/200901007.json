@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200901007",
+ "item_name": "디멘셉트정5밀리그램(도네페질염산염수화물)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20090202",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256941]도네페질염산염수화물",
+ "main_item_ingr_eng": "Donepezil Hydrochloride Hydrate",
+ "edi_code": "642903080",
+ "atc_code": "N06DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901007",
+ "revisions": [
+  {
+   "revision_id": "200901007-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-27T08:00:44Z",
+   "last_observed_at": "2026-08-27T08:00:44Z",
+   "official_revision_date": "2019-07-21"
+  },
+  {
+   "revision_id": "200901007-0e1c8d53",
+   "content_sha256": "0e1c8d53b3baa7cef657f919a8d6fe1e2ba041c142db2e5ecc6f98d31e65d8c5",
+   "ee_text": "혈관성 치매(뇌혈관질환을 동반한 치매)증상의 개선 ☆ ☆ : 국내임상시험결과 추가제출",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T08:00:44Z",
+   "last_observed_at": "2026-08-27T08:00:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T08:00:44Z"
+}

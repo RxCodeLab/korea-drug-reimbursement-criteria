@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907398",
+ "item_name": "도네페진정5밀리그램(도네페질염산염수화물)",
+ "entp_name": "(주)엘앤씨바이오",
+ "permit_date": "20191022",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256941]도네페질염산염수화물",
+ "main_item_ingr_eng": "Donepezil Hydrochloride Hydrate",
+ "edi_code": "060500190",
+ "atc_code": "N06DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907398",
+ "revisions": [
+  {
+   "revision_id": "201907398-814c471a",
+   "content_sha256": "814c471a041b1271e8e62cbb3f3e8e567b97a16b49d95b65e16f9a79cd616cf0",
+   "ee_text": "알츠하이머형 치매 증상의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T08:01:54Z",
+   "last_observed_at": "2026-08-27T08:01:54Z",
+   "official_revision_date": "2019-10-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T08:01:54Z"
+}

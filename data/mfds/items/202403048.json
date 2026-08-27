@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202403048",
+ "item_name": "뉴로셉트듀오정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20241223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256941]도네페질염산염수화물|[M242614]메만틴염산염",
+ "main_item_ingr_eng": "Donepezil Hydrochloride Hydrate/Memantine Hydrochloride",
+ "edi_code": "642803530",
+ "atc_code": "N06DA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403048",
+ "revisions": [
+  {
+   "revision_id": "202403048-5d0a705a",
+   "content_sha256": "5d0a705ab3c40e4324af33e073f3cd4c0025164c58bfefc6a3fa3c3210944a6e",
+   "ee_text": "중등도에서 중증의 알츠하이머병 치료를 위한 도네페질과 메만틴 병용요법 대체",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T08:02:34Z",
+   "last_observed_at": "2026-08-27T08:02:34Z",
+   "official_revision_date": "2024-12-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T08:02:34Z"
+}

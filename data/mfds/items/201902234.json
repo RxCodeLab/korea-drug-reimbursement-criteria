@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902234",
+ "item_name": "프레딘캡슐150밀리그램(프레가발린)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20190411",
+ "cancel_date": "20240411",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M102323]프레가발린",
+ "main_item_ingr_eng": "Pregabalin",
+ "edi_code": "",
+ "atc_code": "N03AX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902234",
+ "revisions": [
+  {
+   "revision_id": "201902234-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T10:30:39Z",
+   "last_observed_at": "2026-08-27T10:30:39Z",
+   "official_revision_date": "2022-11-10"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:30:39Z"
+}

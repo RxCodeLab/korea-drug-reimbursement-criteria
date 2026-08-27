@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203018",
+ "item_name": "케이캡정25밀리그램(테고프라잔)",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20220720",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267790]테고프라잔",
+ "main_item_ingr_eng": "Tegoprazan",
+ "edi_code": "640007800",
+ "atc_code": "A02BC09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203018",
+ "revisions": [
+  {
+   "revision_id": "202203018-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "31",
+   "first_observed_at": "2026-08-27T10:34:31Z",
+   "last_observed_at": "2026-08-27T10:34:31Z",
+   "official_revision_date": "2026-07-22"
+  },
+  {
+   "revision_id": "202203018-f3bafe33",
+   "content_sha256": "f3bafe33da907c84465c7c14c764f98de79da1f472e74246e76899c414b99988",
+   "ee_text": "- 소화성궤양 및/또는 만성 위축성 위염 환자에서의 헬리코박터파일로리 제균을 위한 항생제 병용요법",
+   "ee_doc_id": "1",
+   "official_revision_date": "2022-07-20",
+   "first_observed_at": "2026-08-27T10:34:31Z",
+   "last_observed_at": "2026-08-27T10:34:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:34:31Z"
+}

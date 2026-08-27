@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102919",
+ "item_name": "도네틴정23밀리그램(도네페질염산염수화물)",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20210405",
+ "cancel_date": "20260405",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M256941]도네페질염산염수화물",
+ "main_item_ingr_eng": "Donepezil Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "N06DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102919",
+ "revisions": [
+  {
+   "revision_id": "202102919-5847dcc0",
+   "content_sha256": "5847dcc022443997dddca714ab3b5fe567898f8d9105ca5d732fbcce040b7f7c",
+   "ee_text": "중등도에서 중증의 알츠하이머형 치매증상의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T08:02:19Z",
+   "last_observed_at": "2026-08-27T08:02:19Z",
+   "official_revision_date": "2021-04-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T08:02:19Z"
+}

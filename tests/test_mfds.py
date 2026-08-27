@@ -73,6 +73,19 @@ def test_content_hash_is_sha256_of_normalized_text():
     assert fetch_mfds.content_sha256(text) == hashlib.sha256("두통".encode("utf-8")).hexdigest()
 
 
+def test_parse_history_extracts_official_revision():
+    source = """
+    <a data-docdata="&lt;DOC title=&quot;효능효과&quot;&gt;&lt;PARAGRAPH&gt;&lt;![CDATA[과거 적응증]]&gt;&lt;/PARAGRAPH&gt;&lt;/DOC&gt;"
+       onclick="detailHist(&#39;52&#39;, &#39;2023-06-16&#39;, this); return false;">2023-06-16</a>
+    """.encode()
+
+    (revision,) = fetch_mfds.parse_history(source, "201310308", "2026-08-21T00:00:00Z")
+
+    assert revision["ee_text"] == "과거 적응증"
+    assert revision["ee_doc_id"] == "52"
+    assert revision["official_revision_date"] == "2023-06-16"
+
+
 def test_search_terms_drop_class_words_filenames_and_duplicates(tmp_path):
     titles = [
         "Clonazepam 경구제 (품명: 리보트릴정 등)",
@@ -178,7 +191,64 @@ def test_item_name_fallback_after_empty_primary(monkeypatch):
         ("main_item_ingr", "Clonazepam"),
         ("item_name", "Clonazepam"),
         ("item_name", "리보트릴정"),
+        ("main_item_ingr", "성분"),  # 품명 검색 성공 시 한글 성분명으로 확장
     ]
+
+
+def test_flat_envelope_without_response_wrapper(monkeypatch):
+    """실제 DrugPrdtPrmsnInfoService07은 response 래퍼 없이 {header, body}를 반환한다."""
+    flat = json.dumps({
+        "header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."},
+        "body": {"totalCount": "1", "items": [api_item(8)]},
+    }, ensure_ascii=False).encode("utf-8")
+    monkeypatch.setattr(fetch_mfds, "http_get", FakeApi(lambda params: flat))
+    collected = fetch_mfds.collect_pages(SERVICE_KEY, "main_item_ingr", "다파글리플로진", 100, None)
+    assert [item["ITEM_SEQ"] for item in collected] == ["8"]
+
+
+def test_item_name_hit_expands_to_base_ingredient_generics(monkeypatch):
+    """품명 검색 성공 시 염·수화물을 벗긴 기본 성분명으로 다른 염 제네릭까지 수집한다."""
+    branded = api_item(91, ITEM_NAME="포시가정", MAIN_ITEM_INGR="[M258339]다파글리플로진프로판디올수화물")
+    other_salt = api_item(92, ITEM_NAME="다파프로정", MAIN_ITEM_INGR="[M279811]다파글리플로진포르메이트")
+    combo = api_item(93, ITEM_NAME="직듀오서방정",
+                     MAIN_ITEM_INGR="[M244179]메트포르민염산염|[M258339]다파글리플로진프로판디올수화물")
+
+    def respond(params):
+        if params.get("item_name") == "포시가정":
+            return envelope({"totalCount": "1", "items": [branded]})
+        if params.get("main_item_ingr") == "다파글리플로진":
+            return envelope({"totalCount": "3", "items": [branded, other_salt, combo]})
+        return envelope({"totalCount": "0"})
+
+    monkeypatch.setattr(fetch_mfds, "http_get", FakeApi(respond))
+    rows, search_param = fetch_mfds.collect_term(
+        SERVICE_KEY, "Dapagliflozin", ["포시가정"], 100, None,
+    )
+    assert search_param == "item_name"
+    # 시드({다파글리플로진}) 조합을 포함하는 품목만 채택: 다른 염·복합제 포함
+    assert sorted(item["ITEM_NAME"] for item in rows) == ["다파프로정", "직듀오서방정", "포시가정"]
+
+
+def test_expand_probes_most_specific_ingredient_only(monkeypatch):
+    """복합제 시드는 가장 긴 성분 하나만 조회해 범용 성분 전체 수집을 피한다."""
+    combo = api_item(94, ITEM_NAME="직듀오서방정",
+                     MAIN_ITEM_INGR="[M244179]메트포르민염산염|[M258339]다파글리플로진프로판디올수화물")
+    metformin_only = api_item(95, ITEM_NAME="다이아벡스정", MAIN_ITEM_INGR="[M244179]메트포르민염산염")
+    probed = []
+
+    def respond(params):
+        if params.get("item_name") == "직듀오서방정":
+            return envelope({"totalCount": "1", "items": [combo]})
+        ingr = params.get("main_item_ingr")
+        if ingr and not ingr.isascii():  # 영문 성분 검색은 실제 API처럼 0건
+            probed.append(ingr)
+            return envelope({"totalCount": "2", "items": [combo, metformin_only]})
+        return envelope({"totalCount": "0"})
+
+    monkeypatch.setattr(fetch_mfds, "http_get", FakeApi(respond))
+    rows, _ = fetch_mfds.collect_term(SERVICE_KEY, "Dapagliflozin + Metformin", ["직듀오서방정"], 100, None)
+    assert probed == ["다파글리플로진"]  # 메트포르민 단독 조회 없음
+    assert [item["ITEM_NAME"] for item in rows] == ["직듀오서방정"]  # 시드 조합 미포함 품목 제외
 
 
 def test_first_capture_creates_revision(tmp_path):
@@ -343,3 +413,202 @@ def test_verify_mfds_items_rejects_changed_text_without_new_hash(tmp_path):
     path.write_text(json.dumps(item, ensure_ascii=False), encoding="utf-8")
 
     assert any("SHA-256" in error for error in verify.validate_mfds_items(items))
+
+
+def test_merge_history_adds_past_revision_and_annotates_current(tmp_path):
+    observed = "2026-08-21T00:00:00Z"
+    current_item = api_item(51, ee="<DOC><P>현재 적응증</P></DOC>")
+    fetch_mfds.merge_item(current_item, tmp_path, observed)
+    current_text = fetch_mfds.normalize_ee(current_item["EE_DOC_DATA"])
+    current_hash = fetch_mfds.content_sha256(current_text)
+    past_text = "과거 적응증"
+    past_hash = fetch_mfds.content_sha256(past_text)
+    history = [
+        {
+            "revision_id": f"51-{current_hash[:8]}",
+            "content_sha256": current_hash,
+            "ee_text": current_text,
+            "ee_doc_id": "new",
+            "official_revision_date": "2023-06-16",
+            "first_observed_at": observed,
+            "last_observed_at": observed,
+        },
+        {
+            "revision_id": f"51-{past_hash[:8]}",
+            "content_sha256": past_hash,
+            "ee_text": past_text,
+            "ee_doc_id": "old",
+            "official_revision_date": "2020-02-11",
+            "first_observed_at": observed,
+            "last_observed_at": observed,
+        },
+    ]
+
+    assert fetch_mfds.merge_history("51", history, tmp_path) == 1
+    item = json.loads((tmp_path / "51.json").read_text(encoding="utf-8"))
+    assert [revision["ee_text"] for revision in item["revisions"]] == [current_text, past_text]
+    assert item["revisions"][0]["official_revision_date"] == "2023-06-16"
+
+
+def test_merge_history_keeps_undated_current_revision_first(tmp_path):
+    """허가이력에 현재 개정이 없으면 현재 개정은 날짜가 없어 뒤로 밀린다."""
+    observed = "2026-08-21T00:00:00Z"
+    fetch_mfds.merge_item(api_item(52, ee="<DOC><P>현재 적응증</P></DOC>"), tmp_path, observed)
+    past_text = "과거 적응증"
+    past_hash = fetch_mfds.content_sha256(past_text)
+    history = [{
+        "revision_id": f"52-{past_hash[:8]}",
+        "content_sha256": past_hash,
+        "ee_text": past_text,
+        "ee_doc_id": "old",
+        "official_revision_date": "2099-01-01",
+        "first_observed_at": observed,
+        "last_observed_at": observed,
+    }]
+
+    assert fetch_mfds.merge_history("52", history, tmp_path, observed) == 1
+    item = json.loads((tmp_path / "52.json").read_text(encoding="utf-8"))
+    assert [revision["ee_text"] for revision in item["revisions"]] == ["현재 적응증", past_text]
+    assert "official_revision_date" not in item["revisions"][0]
+    assert item["history_fetched_at"] == observed
+
+
+HISTORY_PAGE = (
+    '<a data-docdata="&lt;DOC&gt;&lt;PARAGRAPH&gt;&lt;![CDATA[과거 적응증]]&gt;'
+    '&lt;/PARAGRAPH&gt;&lt;/DOC&gt;" '
+    'onclick="detailHist(&#39;7&#39;, &#39;2023-06-16&#39;, this); return false;">2023-06-16</a>'
+).encode("utf-8")
+
+
+def test_main_backfills_history_for_unchanged_item_missing_it(monkeypatch, tmp_path):
+    """허가이력 없이 저장된 기존 품목은 내용이 그대로여도 한 번은 백필한다."""
+    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
+    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
+        tmp_path / "normalized", ["Clonazepam 경구제"],
+    ))
+    items = tmp_path / "items"
+    items.mkdir()
+    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
+    fetch_mfds.merge_item(api_item(61), items, "2026-08-01T00:00:00Z")
+    history_calls: list[str] = []
+
+    def respond(url, params=None, retries=3):
+        if url == fetch_mfds.HISTORY_URL:
+            history_calls.append((params or {})["itemSeq"])
+            return HISTORY_PAGE
+        return envelope({"totalCount": "1", "items": [api_item(61)]})
+
+    monkeypatch.setattr(fetch_mfds, "http_get", respond)
+    buffer = io.StringIO()
+    with contextlib.redirect_stdout(buffer):
+        assert fetch_mfds.main(["--max-terms", "1"]) == 0
+
+    assert history_calls == ["61"]
+    assert "변동 없음=1건" in buffer.getvalue()
+    assert "과거 허가이력=1건" in buffer.getvalue()
+    item = json.loads((items / "61.json").read_text(encoding="utf-8"))
+    assert [revision["ee_text"] for revision in item["revisions"]] == [
+        "이 약은 두통에 사용", "과거 적응증",
+    ]
+
+    history_calls.clear()
+    with contextlib.redirect_stdout(io.StringIO()):
+        assert fetch_mfds.main(["--max-terms", "1"]) == 0
+    assert history_calls == []
+
+
+def test_history_failure_skips_item_and_disables_after_streak(monkeypatch, tmp_path, capsys):
+    """허가이력 실패는 품목 단위로 넘기고, 연속 실패가 쌓이면 이력 수집만 중단한다."""
+    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
+    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
+        tmp_path / "normalized", ["Clonazepam 경구제"],
+    ))
+    items = tmp_path / "items"
+    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
+    monkeypatch.setattr(fetch_mfds, "HISTORY_FAILURE_LIMIT", 2)
+    rows = [api_item(80 + i) for i in range(4)]
+    history_calls: list[str] = []
+
+    def respond(url, params=None, retries=3):
+        if url == fetch_mfds.HISTORY_URL:
+            history_calls.append((params or {})["itemSeq"])
+            raise RuntimeError("Remote end closed connection without response")
+        return envelope({"totalCount": str(len(rows)), "items": rows})
+
+    monkeypatch.setattr(fetch_mfds, "http_get", respond)
+    assert fetch_mfds.main(["--max-terms", "1"]) == 0
+
+    out = capsys.readouterr().out
+    assert "이력 수집을 중단합니다" in out
+    assert "이력 미수집=2건" in out
+    assert history_calls == ["80", "81"]  # 연속 2회 실패 후 중단
+    # 품목 수집은 계속되고, 이력은 전부 백필 대상으로 남는다
+    assert sorted(p.stem for p in items.glob("*.json")) == ["80", "81", "82", "83"]
+    for seq in ("80", "81", "82", "83"):
+        assert fetch_mfds.history_pending(seq, items) is True
+
+
+def test_search_failure_skips_term_and_keeps_collected_items(monkeypatch, tmp_path, capsys):
+    """검색 실패는 검색어 단위로 넘기고, 저장한 품목은 유지한 채 성공 종료한다."""
+    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
+    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
+        tmp_path / "normalized",
+        ["Alpha 경구제", "Beta 경구제", "Gamma 경구제"],
+    ))
+    items = tmp_path / "items"
+    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
+
+    def respond(url, params=None, retries=3):
+        term = (params or {}).get("main_item_ingr") or (params or {}).get("item_name")
+        if term == "Beta":
+            raise RuntimeError("MFDS API 오류: 코드=01, 메시지=System Error!!")
+        if term == "Alpha":
+            return envelope({"totalCount": "1", "items": [api_item(71)]})
+        if term == "Gamma":
+            return envelope({"totalCount": "1", "items": [api_item(72)]})
+        return envelope({"totalCount": "0"})
+
+    monkeypatch.setattr(fetch_mfds, "http_get", respond)
+    assert fetch_mfds.main(["--skip-history"]) == 0
+
+    out = capsys.readouterr().out
+    assert "검색어 수집 실패(Beta)" in out
+    assert "검색 실패=1건" in out
+    # 실패한 검색어 앞뒤의 품목은 모두 저장된다
+    assert sorted(p.stem for p in items.glob("*.json")) == ["71", "72"]
+
+
+def test_all_search_failures_exit_nonzero(monkeypatch, tmp_path):
+    """수집이 0건인데 실패만 있으면 크게 실패해 조용한 빈 수집을 막는다."""
+    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
+    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
+        tmp_path / "normalized", ["Alpha 경구제"],
+    ))
+    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", tmp_path / "items")
+
+    def respond(url, params=None, retries=3):
+        raise RuntimeError("MFDS API 오류: 코드=01, 메시지=System Error!!")
+
+    monkeypatch.setattr(fetch_mfds, "http_get", respond)
+    import contextlib, io
+    with contextlib.redirect_stdout(io.StringIO()):
+        assert fetch_mfds.main(["--skip-history"]) == 1
+
+
+def test_main_skip_history_leaves_item_pending_backfill(monkeypatch, tmp_path):
+    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
+    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
+        tmp_path / "normalized", ["Clonazepam 경구제"],
+    ))
+    items = tmp_path / "items"
+    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
+
+    def bomb(url, params=None, retries=3):
+        assert url != fetch_mfds.HISTORY_URL, "--skip-history에서는 허가이력을 받지 않습니다"
+        return envelope({"totalCount": "1", "items": [api_item(71)]})
+
+    monkeypatch.setattr(fetch_mfds, "http_get", bomb)
+    with contextlib.redirect_stdout(io.StringIO()):
+        assert fetch_mfds.main(["--max-terms", "1", "--skip-history"]) == 0
+
+    assert fetch_mfds.history_pending("71", items) is True

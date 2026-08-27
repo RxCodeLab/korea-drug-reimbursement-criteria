@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601936",
+ "item_name": "하나구연산펜타닐주사(수출용)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20260702",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223286]펜타닐시트르산염",
+ "main_item_ingr_eng": "Fentanyl Citrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601936",
+ "revisions": [
+  {
+   "revision_id": "202601936-8624d187",
+   "content_sha256": "8624d187486548f87af9cbc659dc4356a31c43147332a425dd60353f041875f5",
+   "ee_text": "1. 다음과 같은 경우의 단시간 진통제 : 마취 시, 마취전 투약, 마취유도, 마취유지 및 수술직후(회복실) 2. 전신 또는 국소마취시 마약성 진통보조제 3. 드로페리돌과 같은 신경이완제와 병용할 경우 마취유도, 마취유지를 위한 마취전 투약제 4. 다음과 같은 고위험환자군에 산소와 병행하여 마취 : 개심술, 복잡한 신경계 및 정형외과 수술",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T08:44:43Z",
+   "last_observed_at": "2026-08-27T08:44:43Z",
+   "official_revision_date": "2026-07-02"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T08:44:43Z"
+}

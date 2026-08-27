@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005388",
+ "item_name": "그로트로핀투주사액(소마트로핀)(수출용)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20200724",
+ "cancel_date": "20260120",
+ "status": "취하",
+ "main_item_ingr": "[M086646]소마트로핀",
+ "main_item_ingr_eng": "Somatropin",
+ "edi_code": "",
+ "atc_code": "H01AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005388",
+ "revisions": [
+  {
+   "revision_id": "202005388-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-27T07:57:48Z",
+   "last_observed_at": "2026-08-27T07:57:48Z",
+   "official_revision_date": "2021-01-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T07:57:48Z"
+}

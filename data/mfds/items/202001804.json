@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001804",
+ "item_name": "보령가바펜틴캡슐100밀리그램",
+ "entp_name": "(주)보령",
+ "permit_date": "20200316",
+ "cancel_date": "20250316",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M264220]가바펜틴",
+ "main_item_ingr_eng": "Gabapentin",
+ "edi_code": "",
+ "atc_code": "N03AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001804",
+ "revisions": [
+  {
+   "revision_id": "202001804-efbe0703",
+   "content_sha256": "efbe0703fa00c2d31d817187a2854b1ca8ff0ba5a68f2d80664e340cf0342ba2",
+   "ee_text": "1. 뇌전증 1) 단독요법(새롭게 발작으로 진단된 환자의 치료 포함) : 만 13세 이상 청소년 혹은 성인에서의 2차적 전신증상을 동반하거나 동반하지 않은 단순/복합 부분발작 2) 부가요법 : 만 3세 이상 어린이 혹은 성인에서의 2차적 전신증상을 동반하거나 동반하지 않은 부분발작 2. 신경병증성 통증",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T10:26:53Z",
+   "last_observed_at": "2026-08-27T10:26:53Z",
+   "official_revision_date": "2023-12-18"
+  },
+  {
+   "revision_id": "202001804-a25858f2",
+   "content_sha256": "a25858f23c418aa3842a57c4ecb471af82857a6696e56e0eba964ca2c3280be6",
+   "ee_text": "1. 간질 1) 단독요법(새롭게 발작으로 진단된 환자의 치료 포함) : 만 13세 이상 청소년 혹은 성인에서의 2차적 전신증상을 동반하거나 동반하지 않은 단순/복합 부분발작 2) 부가요법 : 만 3세 이상 어린이 혹은 성인에서의 2차적 전신증상을 동반하거나 동반하지 않은 부분발작 2. 신경병증성 통증",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-03-16",
+   "first_observed_at": "2026-08-27T10:26:53Z",
+   "last_observed_at": "2026-08-27T10:26:53Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:26:53Z"
+}

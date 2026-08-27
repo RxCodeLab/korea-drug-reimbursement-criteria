@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200704407",
+ "item_name": "코큐텐비타알부정",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20070417",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255994]시아노코발라민1000배산|[M040064]니코틴산아미드|[M241190]피리독신염산염3배산|[M100456]리보플라빈3배산|[M241191]티아민질산염3배산|[M236177]아스코르브산 90%과립|[M255819]토코페롤아세테이트 2배산|[M083515]에르고칼시페롤과립|[M249996]무수황산제이구리|[M247651]건조레티놀아세테이트분말|[M051233]유비데카레논|[M051783]푸마르산철|[M040262]산화마그네슘|[M246028]황산망간수화물|[M243785]산화아연",
+ "main_item_ingr_eng": "Anhydrous Cupric Sulfate/Ascorbic Acid Granules 90%/Cyanocobalamin Powder 0.1%/Dried Retinol Acetate Powder/Ergocalciferol Granules/Ferrous Fumarate/Magnesium Oxide/Manganese Sulfate Hydrate/Nicotinamide/Pyridoxine Hydrochloride Powder 33.3%/Riboflavin Powder 33.3%/Thiamine Nitrate Powder 33.3%/Tocopherol Acetate Powder 50%/Ubidecarenone/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704407",
+ "revisions": [
+  {
+   "revision_id": "200704407-58112a4d",
+   "content_sha256": "58112a4d2bda9f17c22dac377e425483c84c01662dfa65f793e148b37457c451",
+   "ee_text": "- 육체피로, 임신·수유기, 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하 시, 발육기, 노년기 - 눈의 건조감의 완화, 야맹증(밤에 잘 못보는 증상) - 뼈, 이의 발육불량, 구루병의 예방",
+   "ee_doc_id": "24",
+   "first_observed_at": "2026-08-27T10:32:28Z",
+   "last_observed_at": "2026-08-27T10:32:28Z",
+   "official_revision_date": "2021-08-09"
+  },
+  {
+   "revision_id": "200704407-ab8bb254",
+   "content_sha256": "ab8bb2548919c54561feed5b745e41d6d643c6618d3a4c7378d6efd3579c979b",
+   "ee_text": "- 육체피로, 수유기, 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하 시, 발육기, 노년기 - 눈의 건조감의 완화, 야맹증(밤에 잘 못보는 증상) - 뼈, 이의 발육불량, 구루병의 예방",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T10:32:28Z",
+   "last_observed_at": "2026-08-27T10:32:28Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:32:28Z"
+}

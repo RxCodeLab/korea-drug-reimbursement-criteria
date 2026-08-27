@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202100399",
+ "item_name": "펜타덤패취50μg/h(펜타닐)(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20210114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M230151]펜타닐",
+ "main_item_ingr_eng": "Fentanyl",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100399",
+ "revisions": [
+  {
+   "revision_id": "202100399-8c0010c4",
+   "content_sha256": "8c0010c45b769c64661cb7df970b164b107e37f0df5a9bb19b034563b21d43dd",
+   "ee_text": "(서방성 경피 흡수제) 장시간 지속적인 마약성 진통제 투여를 필요로 하는 만성 통증의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T10:24:11Z",
+   "last_observed_at": "2026-08-27T10:24:11Z",
+   "official_revision_date": "2021-01-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:24:11Z"
+}

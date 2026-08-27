@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200809576",
+ "item_name": "라모티진정25밀리그램\n(라모트리진)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20080917",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085586]라모트리진",
+ "main_item_ingr_eng": "Lamotrigine",
+ "edi_code": "642202540",
+ "atc_code": "N03AX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809576",
+ "revisions": [
+  {
+   "revision_id": "200809576-791d787d",
+   "content_sha256": "791d787d39a1daf3ee1a1d36664a50873111d3d9511073dc6155074890c673cc",
+   "ee_text": "1) 단독요법 및 부가요법 : 부분발작 및 전신 강직간대발작 2) 부가요법 : 레녹스-가스토 증후군에 의한 발작",
+   "ee_doc_id": "25",
+   "first_observed_at": "2026-08-27T10:27:24Z",
+   "last_observed_at": "2026-08-27T10:27:24Z",
+   "official_revision_date": "2022-10-07"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:27:24Z"
+}

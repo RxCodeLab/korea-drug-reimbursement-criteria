@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800768",
+ "item_name": "윈리카캡슐75밀리그램(프레가발린)",
+ "entp_name": "한화제약(주)",
+ "permit_date": "20180209",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102323]프레가발린",
+ "main_item_ingr_eng": "Pregabalin",
+ "edi_code": "651602340",
+ "atc_code": "N03AX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800768",
+ "revisions": [
+  {
+   "revision_id": "201800768-94c03faa",
+   "content_sha256": "94c03faad7a830aafb25af60e1df149b40d1a0c010bdf695ecf416eb7438a63d",
+   "ee_text": "1. 성인에서 말초와 중추 신경병증성 통증의 치료 2. 뇌전증 성인에서 이차적 전신증상을 동반하거나 동반하지 않은 부분 발작의 보조제 3. 섬유근육통의 치료",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-27T10:30:06Z",
+   "last_observed_at": "2026-08-27T10:30:06Z",
+   "official_revision_date": "2023-01-26"
+  },
+  {
+   "revision_id": "201800768-52dfb11b",
+   "content_sha256": "52dfb11bf69d4e75e6ea1b633c3f7e924a9a8013eed5c0fd5cdfe13b20cd0cc0",
+   "ee_text": "1. 성인에서 말초와 중추 신경병증성 통증의 치료 2. 간질 성인에서 이차적 전신증상을 동반하거나 동반하지 않은 부분 발작의 보조제 3. 섬유근육통의 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-02-09",
+   "first_observed_at": "2026-08-27T10:30:06Z",
+   "last_observed_at": "2026-08-27T10:30:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:30:06Z"
+}

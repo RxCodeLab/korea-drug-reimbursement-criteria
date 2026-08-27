@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900139",
+ "item_name": "젤리프서방정300밀리그램(프레가발린)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20190111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102323]프레가발린|[M102323]프레가발린|[M102323]프레가발린",
+ "main_item_ingr_eng": "Pregabalin",
+ "edi_code": "668903270",
+ "atc_code": "N03AX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900139",
+ "revisions": [
+  {
+   "revision_id": "201900139-4eba21e3",
+   "content_sha256": "4eba21e37f3bab27af1db4682f73c800a1b12072767fc4a58673fdd04e9bff03",
+   "ee_text": "성인에서 말초 신경병증성 통증의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T10:30:23Z",
+   "last_observed_at": "2026-08-27T10:30:23Z",
+   "official_revision_date": "2019-01-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:30:23Z"
+}

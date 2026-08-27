@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201112307",
+ "item_name": "동광프레가발린캡슐75밀리그램",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20111229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102323]프레가발린",
+ "main_item_ingr_eng": "Pregabalin",
+ "edi_code": "645905350",
+ "atc_code": "N03AX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201112307",
+ "revisions": [
+  {
+   "revision_id": "201112307-3781897c",
+   "content_sha256": "3781897cd3160dd70480ceac234c6e5085652ab71f4284c96bd172ccb166e33b",
+   "ee_text": "성인에서 이차적 전신증상을 동반하거나 동반하지 않은 부분발작의 보조제",
+   "ee_doc_id": "35",
+   "first_observed_at": "2026-08-27T10:29:12Z",
+   "last_observed_at": "2026-08-27T10:29:12Z",
+   "official_revision_date": "2023-10-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:29:12Z"
+}

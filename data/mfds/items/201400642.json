@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400642",
+ "item_name": "인스타닐나잘스프레이100마이크로그램(펜타닐시트르산염)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20140213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223286]펜타닐시트르산염",
+ "main_item_ingr_eng": "Fentanyl Citrate",
+ "edi_code": "641605781",
+ "atc_code": "N02AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400642",
+ "revisions": [
+  {
+   "revision_id": "201400642-eb2ffa7c",
+   "content_sha256": "eb2ffa7c944b4eb88e6309b4dc350ae387ee6eed988859167c648ed0b9eebe20",
+   "ee_text": "18세 이상 성인 : 현재 지속성통증에 대한 아편양 제제 약물 치료를 받고 있으며, 이에 대한 내약성을 가진 암 환자의 돌발성 통증",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T10:23:44Z",
+   "last_observed_at": "2026-08-27T10:23:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:23:44Z"
+}

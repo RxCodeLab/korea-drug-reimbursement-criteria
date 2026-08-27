@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603899",
+ "item_name": "크렉산주(에녹사파린나트륨)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20060420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M201201]에녹사파린나트륨",
+ "main_item_ingr_eng": "Enoxaparin Sodium",
+ "edi_code": "652000461,652000471,652000481,652000491",
+ "atc_code": "B01AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603899",
+ "revisions": [
+  {
+   "revision_id": "200603899-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-27T07:58:15Z",
+   "last_observed_at": "2026-08-27T07:58:15Z",
+   "official_revision_date": "2019-10-28"
+  },
+  {
+   "revision_id": "200603899-8779a04e",
+   "content_sha256": "8779a04e21e04c1d209b4bddf4920793f75161894ce18f3526362331d577bd43",
+   "ee_text": "1) 심부전(NYHA class Ⅲ or Ⅳ) 2) 급성호흡부전 3) 아래의 한가지 이상 정맥 혈전색전의 위험인자가 동반된 급성감염 혹은 급성 류마티스 질환 - 75세 이상 - 암 - 정맥 혈전색전 질환의 병력 - 비만 - 호르몬 치료 - 심부전 - 만성 호흡부전",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T07:58:15Z",
+   "last_observed_at": "2026-08-27T07:58:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T07:58:15Z"
+}

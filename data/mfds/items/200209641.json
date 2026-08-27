@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200209641",
+ "item_name": "라믹탈정25밀리그램,50밀리그램,100밀리그램(라모트리진)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20021230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085586]라모트리진|[M085586]라모트리진|[M085586]라모트리진",
+ "main_item_ingr_eng": "Lamotrigine",
+ "edi_code": "650000170,650000180,650000190",
+ "atc_code": "N03AX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200209641",
+ "revisions": [
+  {
+   "revision_id": "200209641-791d787d",
+   "content_sha256": "791d787d39a1daf3ee1a1d36664a50873111d3d9511073dc6155074890c673cc",
+   "ee_text": "1) 단독요법 및 부가요법 : 부분발작 및 전신 강직간대발작 2) 부가요법 : 레녹스-가스토 증후군에 의한 발작",
+   "ee_doc_id": "29",
+   "first_observed_at": "2026-08-27T10:27:16Z",
+   "last_observed_at": "2026-08-27T10:27:16Z",
+   "official_revision_date": "2019-07-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:27:16Z"
+}
