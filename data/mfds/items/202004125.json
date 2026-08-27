@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004125",
+ "item_name": "뉴로리진주(돼지뇌펩티드)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20200529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247478]돼지뇌펩티드",
+ "main_item_ingr_eng": "Cerebrolysin",
+ "edi_code": "670608571,670608581",
+ "atc_code": "N06BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004125",
+ "revisions": [
+  {
+   "revision_id": "202004125-1b9c0a17",
+   "content_sha256": "1b9c0a17e1110b10ee100079dda6c13a0bda3268f35bdb093ed13fc077b5442a",
+   "ee_text": "다음 질환의 증상개선 - 노인성 치매(알츠하이머 및 혈관성 치매) - 뇌졸중 후 뇌기능 장애 - 외상성 뇌손상(뇌진탕, 뇌좌상)",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T11:08:27Z",
+   "last_observed_at": "2026-08-27T11:08:27Z",
+   "official_revision_date": "2023-06-05"
+  },
+  {
+   "revision_id": "202004125-a4d12e57",
+   "content_sha256": "a4d12e579e8f55367d01d20447836acb4f26f5986061848817b46c05c3a9a394",
+   "ee_text": "(주사제) (215.2mg/mL) 알츠하이머형 노인성치매, 뇌졸중 후 뇌기능장애, 두개골의 외상(뇌진탕, 뇌좌상, 수술 후 외상)",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-05-29",
+   "first_observed_at": "2026-08-27T11:08:27Z",
+   "last_observed_at": "2026-08-27T11:08:27Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:08:27Z"
+}

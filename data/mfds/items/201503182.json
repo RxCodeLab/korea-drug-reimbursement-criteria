@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503182",
+ "item_name": "울트라핀세미정",
+ "entp_name": "에스피씨(주)",
+ "permit_date": "20150527",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222893]트라마돌염산염|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Tramadol Hydrochloride",
+ "edi_code": "669700200",
+ "atc_code": "N02AJ13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503182",
+ "revisions": [
+  {
+   "revision_id": "201503182-cedb3555",
+   "content_sha256": "cedb3555979bcf3702881887e4cef8bf53c325fce6aac0f6c8ba647a15997a29",
+   "ee_text": "중등도-중증의 급·만성 통증",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T13:00:34Z",
+   "last_observed_at": "2026-08-27T13:00:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:00:34Z"
+}

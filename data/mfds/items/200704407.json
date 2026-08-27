@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "A11AB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704407",
+ "history_fetched_at": "2026-08-27T10:32:28Z",
  "revisions": [
   {
    "revision_id": "200704407-58112a4d",
    "content_sha256": "58112a4d2bda9f17c22dac377e425483c84c01662dfa65f793e148b37457c451",
    "ee_text": "- 육체피로, 임신·수유기, 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하 시, 발육기, 노년기 - 눈의 건조감의 완화, 야맹증(밤에 잘 못보는 증상) - 뼈, 이의 발육불량, 구루병의 예방",
-   "ee_doc_id": "24",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200704407/EE",
    "first_observed_at": "2026-08-27T10:32:28Z",
-   "last_observed_at": "2026-08-27T10:32:28Z",
-   "official_revision_date": "2021-08-09"
+   "last_observed_at": "2026-08-27T10:53:05Z"
   },
   {
    "revision_id": "200704407-ab8bb254",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T10:32:28Z",
    "last_observed_at": "2026-08-27T10:32:28Z"
   }
- ],
- "history_fetched_at": "2026-08-27T10:32:28Z"
+ ]
 }

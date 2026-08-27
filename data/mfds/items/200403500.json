@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403500",
+ "item_name": "엔테론정150밀리그램(포도씨건조엑스)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20040721",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256395]포도씨건조엑스",
+ "main_item_ingr_eng": "Grape Seed Oil Dried Extract",
+ "edi_code": "645301210",
+ "atc_code": "C05CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403500",
+ "revisions": [
+  {
+   "revision_id": "200403500-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "30",
+   "first_observed_at": "2026-08-27T13:37:56Z",
+   "last_observed_at": "2026-08-27T13:37:56Z",
+   "official_revision_date": "2022-02-07"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:37:56Z"
+}

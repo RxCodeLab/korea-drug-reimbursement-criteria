@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600079",
+ "item_name": "터비나플러스크림",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20160105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089404]우레아|[M215133]에녹솔론|[M279284]L-멘톨|[M051499]크로타미톤|[M245869]테르비나핀염산염",
+ "main_item_ingr_eng": "Crotamiton/Enoxolone/L-Menthol/Terbinafine Hydrochloride/Urea",
+ "edi_code": "",
+ "atc_code": "D01AE20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600079",
+ "revisions": [
+  {
+   "revision_id": "201600079-4d40d6ed",
+   "content_sha256": "4d40d6ed3baa404246d658f6bcff3be62ee2b7886efa443daf93ea6dbba906e4",
+   "ee_text": "피부사상균에 의한 피부진균(곰팡이)감염증 : 무좀, 완선(사타구니 백선), 백선",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T12:43:54Z",
+   "last_observed_at": "2026-08-27T12:43:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:43:54Z"
+}

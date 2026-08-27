@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006680",
+ "item_name": "네비레트엠정5밀리그램(네비보롤염산염)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20200928",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254774]네비보롤염산염",
+ "main_item_ingr_eng": "Nebivolol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C07AB12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006680",
+ "revisions": [
+  {
+   "revision_id": "202006680-704f3a80",
+   "content_sha256": "704f3a806d11e9be036a5f3b26c8f20c02c53bdc1de8d94a44ad229d93a4c17b",
+   "ee_text": "1. 본태성 고혈압 2. 만성 심부전(경증~중등증의 만성 안정형 심부전이 있는 70세 이상 노인 환자에서 표준치료시 보조치료)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:34:23Z",
+   "last_observed_at": "2026-08-27T12:34:23Z",
+   "official_revision_date": "2020-09-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:34:23Z"
+}

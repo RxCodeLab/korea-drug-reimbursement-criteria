@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200606257",
+ "item_name": "베네픽스주(혈액응고인자IX, 노나코그-알파 (유전자재조합))",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20060615",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261355]혈액응고인자IX, 노나코그-알파(유전자재조합)(숙주:CHODUKX-B11세포)(발현벡터:pMT2-IX,pEA-PACE-SOL)",
+ "main_item_ingr_eng": "Blood Coagulation Factor Ⅸ, Nonacog Gamma (rDNA, Host:CHODUKX-B11, Vector:pMT2-IX,pEA-PACE-SOL)",
+ "edi_code": "648902161,648902162,648902163,648902164,648902165",
+ "atc_code": "B02BD04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606257",
+ "revisions": [
+  {
+   "revision_id": "200606257-216d46ad",
+   "content_sha256": "216d46ad018ab93708ece709ad6e2f9fc1ac59f5315f6d76924e980310f0da61",
+   "ee_text": "혈우병 B(선천성 IX인자 결핍증 또는 크리스마스병(Christmas disease)) 환자의, - 출혈 에피소드(episodes)의 억제 및 예방(외과적 수술시 출혈억제 및 예방 포함) - 일상적 예방요법(routine prophylaxis)으로서 출혈 에피소드의 빈도 감소",
+   "ee_doc_id": "63",
+   "first_observed_at": "2026-08-27T11:08:18Z",
+   "last_observed_at": "2026-08-27T11:08:18Z",
+   "official_revision_date": "2021-02-17"
+  },
+  {
+   "revision_id": "200606257-69eb7fb6",
+   "content_sha256": "69eb7fb6cef3fab504a8a062b72b4c39994ad30ac0adbb64b832c8fc5163afcc",
+   "ee_text": "혈우병 B(선천성 IX인자 결핍증 또는 크리스마스병(Christmas disease) 환자의 출혈 에피소드(episodes)의 억제 및 예방(외과적 수술시 출혈억제 및 예방 포함)",
+   "ee_doc_id": "55",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T11:08:18Z",
+   "last_observed_at": "2026-08-27T11:08:18Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:08:18Z"
+}

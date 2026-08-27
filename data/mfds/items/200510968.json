@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200510968",
+ "item_name": "레스타시스점안액0.05%(사이클로스포린)(1회용)",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20050602",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085282]사이클로스포린",
+ "main_item_ingr_eng": "Cyclosporine",
+ "edi_code": "624900531",
+ "atc_code": "S01XA18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200510968",
+ "revisions": [
+  {
+   "revision_id": "200510968-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200510968/EE",
+   "first_observed_at": "2026-08-27T12:28:52Z",
+   "last_observed_at": "2026-08-27T12:28:52Z"
+  },
+  {
+   "revision_id": "200510968-7a445de0",
+   "content_sha256": "7a445de0740e3a1a006ee8fc01c0a5f36dbb3f69c6788beb599c2768072d1ff8",
+   "ee_text": ": 건조각막결막염과 관련된 안염증",
+   "ee_doc_id": "17",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:28:52Z",
+   "last_observed_at": "2026-08-27T12:28:52Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:28:52Z"
+}

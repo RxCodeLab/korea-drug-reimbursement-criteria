@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201506154",
+ "item_name": "바헬바레스피맷",
+ "entp_name": "한국베링거인겔하임(주)",
+ "permit_date": "20150831",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M262661]올로다테롤염산염|[M260630]티오트로퓸브롬화물수화물",
+ "main_item_ingr_eng": "Olodaterol Hydrochloride/Tiotropium Bromide Hydrate",
+ "edi_code": "653501492,653501493",
+ "atc_code": "R03AL06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506154",
+ "revisions": [
+  {
+   "revision_id": "201506154-e7d4941a",
+   "content_sha256": "e7d4941ab1ac964fbda2d8f2f8f4e997978650fc56c41251f4accffe792eeac1",
+   "ee_text": "기관지확장제로서 성인의 만성폐쇄성폐질환의 증상 완화를 위한 유지요법제",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T11:56:49Z",
+   "last_observed_at": "2026-08-27T11:56:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:56:49Z"
+}

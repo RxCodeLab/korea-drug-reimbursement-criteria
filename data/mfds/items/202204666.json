@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204666",
+ "item_name": "듀나브정30/2.5밀리그램(피마사르탄칼륨, 에스암로디핀)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20221227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M226654]에스암로디핀베실산염이수화물|[M258703]피마사르탄칼륨삼수화물",
+ "main_item_ingr_eng": "Fimasartan Potassium Trihydrate/S-Amlodipine Besylate Dihydrate",
+ "edi_code": "649105670",
+ "atc_code": "C09DB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204666",
+ "revisions": [
+  {
+   "revision_id": "202204666-bb639570",
+   "content_sha256": "bb63957035f08e19d317d27103fd77284313568314747ff1ba061d4762b16340",
+   "ee_text": "피마사르탄칼륨 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:33:59Z",
+   "last_observed_at": "2026-08-27T12:33:59Z",
+   "official_revision_date": "2022-12-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:59Z"
+}

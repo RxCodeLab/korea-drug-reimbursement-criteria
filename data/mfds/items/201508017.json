@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508017",
+ "item_name": "비스크로텍주(히알루론산나트륨)(프리필드)",
+ "entp_name": "(주)비앤씨코리아",
+ "permit_date": "20151130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222910]히알루론산나트륨",
+ "main_item_ingr_eng": "Sodium Hyaluronate",
+ "edi_code": "657307431",
+ "atc_code": "S01KA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508017",
+ "revisions": [
+  {
+   "revision_id": "201508017-23cd551f",
+   "content_sha256": "23cd551f8a9b7b9964c4708983539a88ce9730c8b5db3007834b6a618bf194cd",
+   "ee_text": "백내장수술(수정체이식), 각막이식수술, 녹내장수술 등 각종 안과 수술 보조제",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T11:04:35Z",
+   "last_observed_at": "2026-08-27T11:04:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:04:35Z"
+}

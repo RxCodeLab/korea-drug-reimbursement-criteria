@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201207301",
+ "item_name": "파텐션정20밀리그램(실데나필시트르산염)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20121018",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252789]실데나필시트르산염",
+ "main_item_ingr_eng": "Sildenafil Citrate",
+ "edi_code": "643506380",
+ "atc_code": "C01CE",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207301",
+ "revisions": [
+  {
+   "revision_id": "201207301-e7410507",
+   "content_sha256": "e741050724c34514c356040b302710ffa47cf3864c8e7996e97ba52a5f3ffecb",
+   "ee_text": "WHO 기능분류 단계 Ⅱ, Ⅲ에 해당하는 폐동맥고혈압(WHO Group Ⅰ) 환자의 운동능력 개선. (보센탄을 투여중인 환자에 대한 이 약의 유효성은 평가되지 않았다.)",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:34:47Z",
+   "last_observed_at": "2026-08-27T12:34:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:34:47Z"
+}

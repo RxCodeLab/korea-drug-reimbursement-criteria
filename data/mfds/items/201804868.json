@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804868",
+ "item_name": "달라트정12.5mg(카르베딜롤)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20181130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085731]카르베딜롤",
+ "main_item_ingr_eng": "Carvedilol",
+ "edi_code": "649104150",
+ "atc_code": "C07AG02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804868",
+ "revisions": [
+  {
+   "revision_id": "201804868-d92ae30d",
+   "content_sha256": "d92ae30d6cad9deb81b7d01ed4b09ff8b1cfe7b07faf6ea6436bafa055c2461f",
+   "ee_text": "1. 본태고혈압 2. 만성 안정협심증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:27:54Z",
+   "last_observed_at": "2026-08-27T12:27:54Z",
+   "official_revision_date": "2018-11-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:27:54Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002680",
+ "item_name": "레보피리정25밀리그램(레보설피리드)",
+ "entp_name": "일성아이에스(주)",
+ "permit_date": "20200416",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099905]레보설피리드",
+ "main_item_ingr_eng": "Levosulpiride",
+ "edi_code": "655404290",
+ "atc_code": "A03FA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002680",
+ "revisions": [
+  {
+   "revision_id": "202002680-c90f74d7",
+   "content_sha256": "c90f74d7763a78950600719a3ca37621b9ffb28032cd2642de3f4c7f24c34aa0",
+   "ee_text": "기능성소화불량으로 인한 다음 증상의 완화 : 복부팽만감, 상복부불쾌감, 속쓰림, 트림, 구역, 구토",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:25:18Z",
+   "last_observed_at": "2026-08-27T12:25:18Z",
+   "official_revision_date": "2020-04-16"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:25:18Z"
+}

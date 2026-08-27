@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201103996",
+ "item_name": "레피졸정15밀리그램(아리피프라졸)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20110628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096829]아리피프라졸",
+ "main_item_ingr_eng": "Aripiprazole",
+ "edi_code": "651903530",
+ "atc_code": "N05AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103996",
+ "revisions": [
+  {
+   "revision_id": "201103996-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "32",
+   "first_observed_at": "2026-08-27T13:27:04Z",
+   "last_observed_at": "2026-08-27T13:27:04Z",
+   "official_revision_date": "2022-07-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:04Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004690",
+ "item_name": "알레지온점안액0.05%(에피나스틴염산염)",
+ "entp_name": "한국산텐제약(주)",
+ "permit_date": "20200626",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256607]에피나스틴염산염",
+ "main_item_ingr_eng": "Epinastine Hydrochloride",
+ "edi_code": "665600321",
+ "atc_code": "S01GX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004690",
+ "revisions": [
+  {
+   "revision_id": "202004690-f85bdccc",
+   "content_sha256": "f85bdccc095c730293e9375304870438155a39dbc0f8540c73637d15e119f9c8",
+   "ee_text": "알레르기성 결막염의 가려움증 예방 및 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:09:13Z",
+   "last_observed_at": "2026-08-27T13:09:13Z",
+   "official_revision_date": "2020-06-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:09:13Z"
+}

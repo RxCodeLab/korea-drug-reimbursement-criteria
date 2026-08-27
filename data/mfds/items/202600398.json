@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600398",
+ "item_name": "엠파린정10/5밀리그램(엠파글리플로진,리나글립틴)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20260212",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260057]엠파글리플로진|[M252996]리나글립틴",
+ "main_item_ingr_eng": "Empagliflozin/Linagliptin",
+ "edi_code": "654006300",
+ "atc_code": "A10BD19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600398",
+ "revisions": [
+  {
+   "revision_id": "202600398-de66d64a",
+   "content_sha256": "de66d64a80595b548f2ee90244149a6b14b46b9d031672f6fcbc8516d3c947ef",
+   "ee_text": "이 약은 엠파글리플로진과 리나글립틴의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:40:41Z",
+   "last_observed_at": "2026-08-27T12:40:41Z",
+   "official_revision_date": "2026-02-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:40:41Z"
+}

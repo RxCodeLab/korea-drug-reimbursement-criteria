@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500148",
+ "item_name": "타발리스정100밀리그램(포스타마티닙나트륨수화물)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20250120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285160]포스타마티닙나트륨수화물",
+ "main_item_ingr_eng": "Fostamatinib Disodium Hexahydrate",
+ "edi_code": "644915270",
+ "atc_code": "B02BX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500148",
+ "revisions": [
+  {
+   "revision_id": "202500148-ad45ce19",
+   "content_sha256": "ad45ce1989637d21ae1bf90f32f069035dfd5c786627600013933c641b0cd322",
+   "ee_text": "이전 치료(예 : 코르티코스테로이드, 면역글로불린, 엘트롬보팍올라민, 로미플로스팀 또는 비장절제술 포함)에 불충분한 반응을 보인 성인 만성 면역 혈소판 감소증(ITP) 환자의 혈소판 감소증 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:48:41Z",
+   "last_observed_at": "2026-08-27T13:48:41Z",
+   "official_revision_date": "2025-01-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:48:41Z"
+}

@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503041",
+ "item_name": "칼스본정",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "20251121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247470]시트르산칼슘수화물|[M086116]농축콜레칼시페롤|[M204304]피리독신염산염|[M223262]티아민질산염",
+ "main_item_ingr_eng": "Calcium Citrate Hydrate/Cholecalciferol Concentrate/Pyridoxine Hydrochloride/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503041",
+ "history_fetched_at": "2026-08-27T10:38:30Z",
+ "revisions": [
+  {
+   "revision_id": "202503041-ba864c9e",
+   "content_sha256": "ba864c9eaae20973aeec18a777e2bced94b7ba40fe8d0d401953540c7880d675",
+   "ee_text": "1. 다음 경우의 비타민 B 1 , B6, 비타민D의 보급 - 육체피로 - 임신 · 수유기 - 병중·병후의 (병을 앓는 동안이나 회복 후)의 체력저하 시 - 발육기 - 노년기 2. 이 약에 함유된 비타민 등의 효능·효과 - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202503041/EE",
+   "first_observed_at": "2026-08-27T10:38:30Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

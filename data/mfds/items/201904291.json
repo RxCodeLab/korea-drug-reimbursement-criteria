@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904291",
+ "item_name": "코로잘탄정5/100밀리그램(암로디핀, 로사르탄칼륨)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20190621",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249673]로사르탄칼륨|[M222875]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate/Losartan Potassium",
+ "edi_code": "698505030",
+ "atc_code": "C09DB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904291",
+ "revisions": [
+  {
+   "revision_id": "201904291-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:07:51Z",
+   "last_observed_at": "2026-08-27T13:07:51Z",
+   "official_revision_date": "2019-06-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:07:51Z"
+}

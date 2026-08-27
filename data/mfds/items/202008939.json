@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008939",
+ "item_name": "뮤코트라서방정150밀리그램(레바미피드)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20201216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083925]레바미피드",
+ "main_item_ingr_eng": "Rebamipide",
+ "edi_code": "641607470",
+ "atc_code": "A02BX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008939",
+ "revisions": [
+  {
+   "revision_id": "202008939-62660dad",
+   "content_sha256": "62660dad2ee55eb6d0a6c2ec8bd5a0007f85542ce2fbea34b28178c5d8430e18",
+   "ee_text": "다음 질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:39:19Z",
+   "last_observed_at": "2026-08-27T13:39:19Z",
+   "official_revision_date": "2020-12-17"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:39:19Z"
+}

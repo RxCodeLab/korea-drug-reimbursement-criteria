@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200704307",
+ "item_name": "미니린멜트설하정60마이크로그램(데스모프레신아세트산염)",
+ "entp_name": "한국페링제약(주)",
+ "permit_date": "20070412",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250270]데스모프레신아세트산염",
+ "main_item_ingr_eng": "Desmopressin Acetate",
+ "edi_code": "652500100",
+ "atc_code": "H01BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704307",
+ "revisions": [
+  {
+   "revision_id": "200704307-b2e86696",
+   "content_sha256": "b2e86696b72246d20b40a17ec89e76fb5843078ec27302920646aff3fe2a3f22",
+   "ee_text": "일차성야뇨증 (5세이상), 야간다뇨와 관련이 있는 야간뇨증상의 치료 (성인에 한함)",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T11:07:11Z",
+   "last_observed_at": "2026-08-27T11:07:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:07:11Z"
+}

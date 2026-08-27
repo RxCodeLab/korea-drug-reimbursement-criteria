@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600976",
+ "item_name": "비스원정",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20160222",
+ "cancel_date": "20260222",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M262279]비스무트시트르산염칼륨|[M223077]수크랄페이트수화물|[M222983]라니티딘염산염",
+ "main_item_ingr_eng": "Ranitidine Hydrochloride/Sucralfate Hydrate/Tripotassium Bismuth Dicitrate",
+ "edi_code": "",
+ "atc_code": "A02BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600976",
+ "revisions": [
+  {
+   "revision_id": "201600976-e709f027",
+   "content_sha256": "e709f027a3e08778a5c68196995bd95dd029f122909f5b430da12baca06a1996",
+   "ee_text": "위·십이지장궤양, 위염, 졸링거-엘리슨증후군, 역류성식도염, 마취전 투약(멘델슨증후군 예방), 수술후 궤양, 비스테로이드소염진통제(NSAID)로 인한 위·십이지장궤양",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T11:57:24Z",
+   "last_observed_at": "2026-08-27T11:57:24Z",
+   "official_revision_date": "2020-12-01"
+  },
+  {
+   "revision_id": "201600976-90afc4d6",
+   "content_sha256": "90afc4d6df94b6368b5edd260b29cfc683e38f4810c9b1c9ce548d5679dc0dea",
+   "ee_text": "위궤양, 위염, 십이지장궤양, 졸링거엘리슨 증후군, 역류성 식도염, 마취전 투약(멘델슨 증후군예방), 수술후 궤양, 비스테로이성 소염진통제(NSAID)로 인한 위ㆍ십이지장궤양",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T11:57:24Z",
+   "last_observed_at": "2026-08-27T11:57:24Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:57:24Z"
+}

@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604150",
+ "item_name": "씨디에스씨산",
+ "entp_name": "(주)팜젠사이언스",
+ "permit_date": "20160704",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M251286]염화마그네슘수화물|[M217500]염화칼슘수화물|[M040438]염화칼륨|[M040702]포도당|[M223090]시트르산수화물",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Citric Acid Hydrate/Glucose/Magnesium Chloride Hydrate/Potassium Chloride/Sodium Chloride",
+ "edi_code": "670104051",
+ "atc_code": "B05ZA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604150",
+ "history_fetched_at": "2026-08-27T10:37:23Z",
+ "revisions": [
+  {
+   "revision_id": "201604150-1ee5f225",
+   "content_sha256": "1ee5f225dcca7fcf8b5e4c36ceecf4f8aa8747660de190649a2ef6992d0e4eef",
+   "ee_text": "만성신부전 환자에 사용되는 인공신장 투석액",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201604150/EE",
+   "first_observed_at": "2026-08-27T10:37:23Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

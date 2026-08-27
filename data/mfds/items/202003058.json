@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003058",
+ "item_name": "아자티맥정25밀리그램(아자티오프린)",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20200427",
+ "cancel_date": "20250427",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223108]아자티오프린",
+ "main_item_ingr_eng": "Azathioprine",
+ "edi_code": "",
+ "atc_code": "L04AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003058",
+ "revisions": [
+  {
+   "revision_id": "202003058-f7193262",
+   "content_sha256": "f719326297736bcf8f6e85a35cc627e15e03cd6f7833300614d26ca2b4ffc376",
+   "ee_text": "신장이식 후 거부반응억제, 자가 면역 질환",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:25:19Z",
+   "last_observed_at": "2026-08-27T12:25:19Z",
+   "official_revision_date": "2020-04-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:25:19Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500142",
+ "item_name": "자이카디아캡슐150밀리그램(세리티닙)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20150112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261400]세리티닙",
+ "main_item_ingr_eng": "Ceritinib",
+ "edi_code": "653602530",
+ "atc_code": "L01ED02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500142",
+ "revisions": [
+  {
+   "revision_id": "201500142-ef01d903",
+   "content_sha256": "ef01d90335e74d1f057bd18b938e9a9121cc41d70ae27bd8b66a2e4679ad4b93",
+   "ee_text": "역형성 림프종 인산화효소 (ALK) 양성 국소 진행성 또는 전이성 비소세포폐암의 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201500142/EE",
+   "first_observed_at": "2026-08-27T13:38:36Z",
+   "last_observed_at": "2026-08-27T13:38:36Z"
+  },
+  {
+   "revision_id": "201500142-8183da43",
+   "content_sha256": "8183da4397555f12890b5e59ba262b59bdd4e5e3235e58159434ab77cc7de04d",
+   "ee_text": "이전에 크리조티닙으로 치료 받은 적이 있는 ALK 양성 국소 진행성 또는 전이성 비소세포폐암 환자의 치료 이 약의 유효성은 반응률 및 반응기간에 근거하였으며, 생존기간의 개선을 입증한 자료는 없다.",
+   "ee_doc_id": "20",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:38:36Z",
+   "last_observed_at": "2026-08-27T13:38:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:36Z"
+}

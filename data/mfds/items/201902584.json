@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902584",
+ "item_name": "레보펜정150밀리그램(덱시부프로펜)",
+ "entp_name": "안국뉴팜(주)",
+ "permit_date": "20190424",
+ "cancel_date": "20240424",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M254719]덱시부프로펜",
+ "main_item_ingr_eng": "Dexibuprofen",
+ "edi_code": "",
+ "atc_code": "M01AE14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902584",
+ "revisions": [
+  {
+   "revision_id": "201902584-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:38:58Z",
+   "last_observed_at": "2026-08-27T13:38:58Z",
+   "official_revision_date": "2019-04-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:58Z"
+}

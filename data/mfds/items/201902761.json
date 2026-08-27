@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902761",
+ "item_name": "퍼고베리스펜주300/150IU",
+ "entp_name": "머크(주)",
+ "permit_date": "20190429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M110981]폴리트로핀알파(재조합인간난포자극호르몬)|[M100817]루트로핀알파(인황체형성호르몬)(유전자재조합)",
+ "main_item_ingr_eng": "Follitropin-Alpha (Recombinant)/Lutropin Alpha (Human Luteinizing Hormone, rDNA)",
+ "edi_code": "",
+ "atc_code": "G03GA30",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902761",
+ "revisions": [
+  {
+   "revision_id": "201902761-73cf0352",
+   "content_sha256": "73cf03526f95dc359507458b290929c045a0c6926d9bf3e6b12028f553fa64d2",
+   "ee_text": "중증의 황체형성호르몬(LH)과 난포자극호르몬(FSH) 결핍 여성에서 난포 발달의 자극",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-27T13:09:37Z",
+   "last_observed_at": "2026-08-27T13:09:37Z",
+   "official_revision_date": "2022-10-04"
+  },
+  {
+   "revision_id": "201902761-2043c328",
+   "content_sha256": "2043c32848028a4e8488eff466c0b1beff1ef703861542744924ca66be204f6f",
+   "ee_text": "내인성 혈청 황체형성호르몬(LH) 농도 1.2IU/L 미만인 중증의 황체형성호르몬(LH)과 난포자극호르몬(FSH) 결핍 여성에서 난포 발달의 자극",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-04-29",
+   "first_observed_at": "2026-08-27T13:09:37Z",
+   "last_observed_at": "2026-08-27T13:09:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:09:37Z"
+}

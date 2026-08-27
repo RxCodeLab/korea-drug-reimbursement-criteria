@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804546",
+ "item_name": "제이트란캡슐150밀리그램(다비가트란에텍실레이트)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20181115",
+ "cancel_date": "20231115",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M265645]다비가트란에텍실레이트",
+ "main_item_ingr_eng": "Dabigatran Etexilate",
+ "edi_code": "",
+ "atc_code": "B01AE07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804546",
+ "revisions": [
+  {
+   "revision_id": "201804546-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:38:53Z",
+   "last_observed_at": "2026-08-27T13:38:53Z",
+   "official_revision_date": "2018-11-15"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:53Z"
+}

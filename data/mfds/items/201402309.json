@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402309",
+ "item_name": "웰다운비정",
+ "entp_name": "(주)팜젠사이언스",
+ "permit_date": "20140520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223155]에페드린염산염|[M223183]카페인무수물|[M040353]아세트아미노펜|[M241191]티아민질산염3배산",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Ephedrine Hydrochloride/Thiamine Nitrate Powder 33.3%",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402309",
+ "revisions": [
+  {
+   "revision_id": "201402309-5052c1f1",
+   "content_sha256": "5052c1f154eb5d26443e2210e7e7f494773d734ac680825a9981811ee627ad70",
+   "ee_text": "감기의 제증상(인후[목구멍]통, 기침, 가래, 오한[춥고 떨리는 증상], 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-27T13:00:09Z",
+   "last_observed_at": "2026-08-27T13:00:09Z",
+   "official_revision_date": "2022-03-07"
+  },
+  {
+   "revision_id": "201402309-f97af0db",
+   "content_sha256": "f97af0dbfcd7e4e05c6275aa2cbd0a5b675e8775b5b21255473e9df6bad6f026",
+   "ee_text": "감기의 제증상(인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:00:09Z",
+   "last_observed_at": "2026-08-27T13:00:09Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:00:09Z"
+}

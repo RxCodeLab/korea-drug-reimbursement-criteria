@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008730",
+ "item_name": "후릭소타이드네뷸2밀리그램(플루티카손프로피오네이트(미분화))",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20000207",
+ "cancel_date": "20231221",
+ "status": "취하",
+ "main_item_ingr": "[M241930]플루티카손프로피오네이트(미분화)",
+ "main_item_ingr_eng": "Fluticasone Propionate Micronized",
+ "edi_code": "",
+ "atc_code": "R03BA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008730",
+ "revisions": [
+  {
+   "revision_id": "200008730-4cd3b7d0",
+   "content_sha256": "4cd3b7d07941ed798fc63ce4a79c7cd83fe63f3f6dab658e5f6e693aa9ada8ca",
+   "ee_text": "중증 만성 천식의 예방적 치료(고용량의 흡입용 또는 경구용 코르티코스테로이드 투여를 필요로 하는 환자)",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-27T13:15:10Z",
+   "last_observed_at": "2026-08-27T13:15:10Z",
+   "official_revision_date": "2019-12-26"
+  },
+  {
+   "revision_id": "200008730-90e37271",
+   "content_sha256": "90e37271a914cca977b9338d50fe2fa453fb8a8547eee8b6f6bea956b40ab6d6",
+   "ee_text": "중증 만성 천식의 예방적 치료(고용량의 흡입용 또는 경구용 코르티코스테로이드 투여를 필요로 하는 환자) 천식의 경증～중등도의 급성 악화기 치료",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:15:10Z",
+   "last_observed_at": "2026-08-27T13:15:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:15:10Z"
+}

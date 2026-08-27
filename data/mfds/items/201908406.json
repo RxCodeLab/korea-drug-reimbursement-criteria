@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908406",
+ "item_name": "슈페젠정",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20191213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223155]에페드린염산염|[M223183]카페인무수물|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Chlorpheniramine Maleate/Ephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908406",
+ "revisions": [
+  {
+   "revision_id": "201908406-a98e3c92",
+   "content_sha256": "a98e3c920648db45ced08b49a783f34c35daa3f32e48730de026554a439a114f",
+   "ee_text": "감기의 제증상(여러 증상)(콧물, 코막힘, 재채기, 인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:02:40Z",
+   "last_observed_at": "2026-08-27T13:02:40Z",
+   "official_revision_date": "2019-12-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:02:40Z"
+}

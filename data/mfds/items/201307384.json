@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307384",
+ "item_name": "아티라타정300/12.5밀리그램(수출용)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20130520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223356]히드로클로로티아지드|[M251853]이르베사르탄",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Irbesartan",
+ "edi_code": "",
+ "atc_code": "C09DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307384",
+ "revisions": [
+  {
+   "revision_id": "201307384-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201307384/EE",
+   "first_observed_at": "2026-08-27T13:43:49Z",
+   "last_observed_at": "2026-08-27T13:43:49Z"
+  },
+  {
+   "revision_id": "201307384-ba95b825",
+   "content_sha256": "ba95b82578042e9f1c3444fda44427a520be97e420eea9cefe2ee394c7a93bc6",
+   "ee_text": "본태고혈압",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:43:49Z",
+   "last_observed_at": "2026-08-27T13:43:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:43:49Z"
+}

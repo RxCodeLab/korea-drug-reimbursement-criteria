@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400930",
+ "item_name": "알카파워정",
+ "entp_name": "익수제약(주)",
+ "permit_date": "20140228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040631]탄산수소나트륨|[M096666]시트르산|[M040355]아스피린",
+ "main_item_ingr_eng": "Anhydrous Citric Acid/Aspirin/Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "N02BA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400930",
+ "history_fetched_at": "2026-08-27T10:37:16Z",
+ "revisions": [
+  {
+   "revision_id": "201400930-ca101d79",
+   "content_sha256": "ca101d7988fc389e57eb7189a7d994da16cb12ca577bb4759c9687eb7c9b7f94",
+   "ee_text": "두통, 몸살, 기타 통증 및 이를 수반하는 가슴쓰림, 위산과다성 소화불량, 위산과다",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201400930/EE",
+   "first_observed_at": "2026-08-27T10:37:16Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

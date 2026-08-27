@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802270",
+ "item_name": "내간애액",
+ "entp_name": "초당약품공업(주)",
+ "permit_date": "20180531",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223090]시트르산수화물|[M241790]베타인염산염|[M050571]베타인|[M103077]L-아르기닌",
+ "main_item_ingr_eng": "Betaine/Betaine Hydrochloride/Citric Acid Hydrate/L-Arginine",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802270",
+ "history_fetched_at": "2026-08-27T10:37:29Z",
+ "revisions": [
+  {
+   "revision_id": "201802270-05453bc6",
+   "content_sha256": "05453bc666d9e1f5adf965de5d21aacdd0c03066f131077d5119ab7de80e8435",
+   "ee_text": "간질환의 보조 치료제",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201802270/EE",
+   "first_observed_at": "2026-08-27T10:37:29Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800791",
+ "item_name": "엘소펜정60밀리그램(록소프로펜나트륨수화물)",
+ "entp_name": "코스맥스파마(주)",
+ "permit_date": "20180209",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222839]록소프로펜나트륨수화물",
+ "main_item_ingr_eng": "Loxoprofen Sodium Hydrate",
+ "edi_code": "055102250",
+ "atc_code": "M01AE19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800791",
+ "revisions": [
+  {
+   "revision_id": "201800791-2b0868d3",
+   "content_sha256": "2b0868d36d03bd2897b78290adb12f528b4fc39f9d7ebf127cb5a7b2d811ec97",
+   "ee_text": "만성 류마티스관절염, 골관절염(퇴행관절염), 요통, 견관절주위염, 경견완증후군 급성 상기도염(급성기관지염을 수반한 급성 상기도염을 포함)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201800791/EE",
+   "first_observed_at": "2026-08-27T12:15:20Z",
+   "last_observed_at": "2026-08-27T12:15:20Z"
+  },
+  {
+   "revision_id": "201800791-6c8015e7",
+   "content_sha256": "6c8015e73a42d0dc476b5dbcb7602ddccbfdbeeef97fe45d764ceb7cd2be9b84",
+   "ee_text": "1. 다음 질환 및 증상의 소염 ㆍ진통 만성 류마티스관절염, 골관절염(퇴행관절염), 요통, 견관절주위염, 경견완증후군 2. 수술후, 외상후 및 발치후의 소염ㆍ진통 3. 다음 질환의 해열ㆍ 진통 급성 상기도염(급성기관지염을 수반한 급성 상기도염을 포함)",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-02-09",
+   "first_observed_at": "2026-08-27T12:15:20Z",
+   "last_observed_at": "2026-08-27T12:15:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:15:20Z"
+}

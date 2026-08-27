@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603927",
+ "item_name": "아데노코주사(아데노신)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "19930518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050911]아데노신",
+ "main_item_ingr_eng": "Adenosine",
+ "edi_code": "652000271",
+ "atc_code": "C01EB10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603927",
+ "revisions": [
+  {
+   "revision_id": "200603927-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T12:03:55Z",
+   "last_observed_at": "2026-08-27T12:03:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:03:55Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008743",
+ "item_name": "알카펜네이잘에이연질캡슐(수출용)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "20201214",
+ "cancel_date": "20250812",
+ "status": "취하",
+ "main_item_ingr": "[M050058]구아이페네신|[M223211]클로르페니라민말레산염|[M222865]수도에페드린염산염|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Chlorpheniramine Maleate/Guaifenesin/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008743",
+ "revisions": [
+  {
+   "revision_id": "202008743-dace01c3",
+   "content_sha256": "dace01c38e0478652ee77772cb20b1ba091e71d68ba4d5624e6c3985aa1e393f",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후통, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:03:20Z",
+   "last_observed_at": "2026-08-27T13:03:20Z",
+   "official_revision_date": "2020-12-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:03:20Z"
+}

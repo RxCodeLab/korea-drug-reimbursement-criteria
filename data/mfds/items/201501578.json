@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501578",
+ "item_name": "마리부틴정150mg(트리메부틴말레산염)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20150325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252787]트리메부틴말레산염",
+ "main_item_ingr_eng": "Trimebutine Maleate",
+ "edi_code": "661304630",
+ "atc_code": "A03AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501578",
+ "revisions": [
+  {
+   "revision_id": "201501578-dab7dd67",
+   "content_sha256": "dab7dd67b59521e07d404869342f04272ae6acc46f7ef778abe21f13823cab2e",
+   "ee_text": "1) 식도역류 및 열공헤르니아 , 위·십이지장염, 위·십이지장궤양에 있어서의 소화기능이상 (복통, 소화불량,구역, 구토) 2) 과민성대장증후군 및 경련성 결장 3) 소아 질환 : 습관성 구토, 비감염성 장관통과장애 (변비, 설사)",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T13:41:02Z",
+   "last_observed_at": "2026-08-27T13:41:02Z",
+   "official_revision_date": "2020-09-30"
+  },
+  {
+   "revision_id": "201501578-5f19002e",
+   "content_sha256": "5f19002e0cdf104506702ffe3d071a51dc9acdf555c7cb5eb0a48db18db67093",
+   "ee_text": "1) 식도역류 및 열공헤르니아 , 위·십이지장염, 위·십이지장궤양에 있어서의 소화기능이상 (복통, 소화불량,구역, 구토) 2) 과민성대장증후군 및 경련성 결장 3) 소아 질환 : 습관성 구토, 비감염성 장관통과장애 (변비, 설사), 동요자극,수면장애",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:41:02Z",
+   "last_observed_at": "2026-08-27T13:41:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:41:02Z"
+}

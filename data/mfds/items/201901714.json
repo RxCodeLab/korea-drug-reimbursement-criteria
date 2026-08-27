@@ -12,15 +12,15 @@
  "edi_code": "646004710",
  "atc_code": "N05AH04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901714",
+ "history_fetched_at": "2026-08-27T07:55:53Z",
  "revisions": [
   {
    "revision_id": "201901714-66ea6300",
    "content_sha256": "66ea6300bfba914ee6a45967c2abb90d000b1650462135ea21bc77c9355f2666",
    "ee_text": "1. 조현병 2. 양극성장애 - 양극성장애 1형과 관련된 조증삽화의 급성 치료 - 양극성장애의 우울삽화의 급성 치료 - 쿠에티아핀 투여로 조증, 혼재 또는 우울삽화에 반응을 보인 환자들에 있어서, 양극성장애의 재발방지",
-   "ee_doc_id": "6",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201901714/EE",
    "first_observed_at": "2026-08-27T07:55:53Z",
-   "last_observed_at": "2026-08-27T07:55:53Z",
-   "official_revision_date": "2022-12-23"
+   "last_observed_at": "2026-08-27T10:46:26Z"
   },
   {
    "revision_id": "201901714-ac4e34ec",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T07:55:53Z",
    "last_observed_at": "2026-08-27T07:55:53Z"
   }
- ],
- "history_fetched_at": "2026-08-27T07:55:53Z"
+ ]
 }

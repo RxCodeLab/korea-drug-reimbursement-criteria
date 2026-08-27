@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200902331",
+ "item_name": "베베락스액",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20090331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207845]D-소르비톨액 70%|[M040044]농글리세린|[M222565]시트르산나트륨수화물",
+ "main_item_ingr_eng": "Concentrated Glycerin/D-Sorbitol Solution 70%/Sodium Citrate Hydrate",
+ "edi_code": "",
+ "atc_code": "A06AG20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902331",
+ "history_fetched_at": "2026-08-27T10:37:06Z",
+ "revisions": [
+  {
+   "revision_id": "200902331-8ff00411",
+   "content_sha256": "8ff00411e105f07b7dfcee63f3cbc142be0532eb0e36e59eb1e7bae65cec8d1c",
+   "ee_text": "변비",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200902331/EE",
+   "first_observed_at": "2026-08-27T10:37:06Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

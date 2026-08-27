@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201301619",
+ "item_name": "타크로벨캡슐5밀리그램(타크로리무스수화물)(수출용)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20130118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089193]타크로리무스수화물",
+ "main_item_ingr_eng": "Tacrolimus Hydrate",
+ "edi_code": "",
+ "atc_code": "L04AD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301619",
+ "revisions": [
+  {
+   "revision_id": "201301619-b27c6073",
+   "content_sha256": "b27c6073fc74765f364585054a4acd8376375d11e06d17dc03c62d8a51a21e89",
+   "ee_text": "- 신이식에서의 거부반응의 억제 - 간이식에서의 거부반응의 억제 - 골수이식: 골수이식 후에 따르는 조직이식 거부반응과 이식편-숙주반응 (graft versus-host disease) 질환",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:33:35Z",
+   "last_observed_at": "2026-08-27T12:33:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:35Z"
+}

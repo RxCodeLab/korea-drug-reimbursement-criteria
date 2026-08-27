@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804378",
+ "item_name": "하벤허브에프캡슐",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20181102",
+ "cancel_date": "20240809",
+ "status": "취하",
+ "main_item_ingr": "[M223262]티아민질산염|[M040133]리보플라빈|[M232771]감초건조엑스(5→1)|[M238263]길경50%에탄올건조엑스(10→1)|[M223211]클로르페니라민말레산염|[M222890]클로페라스틴염산염|[M203364]슈도에페드린염산염|[M050058]구아이페네신|[M217366]계피건조엑스(31.3→1)|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Chlorpheniramine Maleate/Cinnamon Bark Dried Extract (31.3→1)/Cloperastine Hydrochloride/Glycyrrhiza Dried Extract (5→1)/Guaifenesin/Platycodon Root 50% Ethanol Dried Extract (10→1)/Pseudoephedrine Hydrochloride/Riboflavin/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804378",
+ "revisions": [
+  {
+   "revision_id": "201804378-11ce06ce",
+   "content_sha256": "11ce06cea9a164a48d2204c78915d8a52b81dfbcdd15434f7525b2087b33da07",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:01:40Z",
+   "last_observed_at": "2026-08-27T13:01:40Z",
+   "official_revision_date": "2018-11-02"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:01:40Z"
+}

@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700269",
+ "item_name": "옵티코솔액",
+ "entp_name": "이연제약(주)",
+ "permit_date": "19971027",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222565]시트르산나트륨수화물|[M227966]아세트산나트륨수화물|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Magnesium Chloride/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride/Sodium Citrate Hydrate",
+ "edi_code": "658601042",
+ "atc_code": "S01KX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700269",
+ "history_fetched_at": "2026-08-27T10:36:54Z",
+ "revisions": [
+  {
+   "revision_id": "199700269-0664205f",
+   "content_sha256": "0664205fa9a70643c18574e1114892aeda0d22ecd968001a50d37c7496436185",
+   "ee_text": "최대 60분내의 안과영역 수술시 관류액",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199700269/EE",
+   "first_observed_at": "2026-08-27T10:36:54Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

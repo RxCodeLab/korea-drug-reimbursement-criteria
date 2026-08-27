@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603864",
+ "item_name": "써티칸정0.75밀리그램(에베로리무스)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20060424",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255713]에베로리무스",
+ "main_item_ingr_eng": "Everolimus",
+ "edi_code": "653600650",
+ "atc_code": "L04AH02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603864",
+ "revisions": [
+  {
+   "revision_id": "200603864-bae13a6b",
+   "content_sha256": "bae13a6b163150e69ce55f8e4834c27ed24227645e06a1aa88dd104c3c0ccc43",
+   "ee_text": "경도 내지 중등도의 면역학적 위험을 가진 동종 신장 또는 심장 이식을 받은 성인 환자에서 이식 후 장기 이식 거부 반응의 예방. 신장 및 심장 이식에서 사용 시 이 약은 마이크로에멀젼 제형의 사이클로스포린 및 코르티코스테로이드와 병용하여 투여한다. 간 이식을 받은 성인 환자에서 이식 후 장기 이식 거부 반응의 예방. 간 이식에서 사용 시, 이 약은 타크로리무스 및 코르티코스테로이드와 병용해서 투여한다.",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-27T11:58:22Z",
+   "last_observed_at": "2026-08-27T11:58:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:58:22Z"
+}

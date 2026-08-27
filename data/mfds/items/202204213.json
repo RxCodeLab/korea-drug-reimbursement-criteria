@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204213",
+ "item_name": "이지엔6나이트연질캡슐",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20221122",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜|[M222973]디펜히드라민염산염",
+ "main_item_ingr_eng": "Diphenhydramine Hydrochloride/Ibuprofen",
+ "edi_code": "",
+ "atc_code": "M01AE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204213",
+ "revisions": [
+  {
+   "revision_id": "202204213-80064dcb",
+   "content_sha256": "80064dcb9d3d60c00be98f9e9edd103e94f88677f7402beb7a1f74ba6e5183a6",
+   "ee_text": "통증으로 인한 일시적인 불면을 동반하는 급성 야간 통증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:30:24Z",
+   "last_observed_at": "2026-08-27T12:30:24Z",
+   "official_revision_date": "2022-11-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:30:24Z"
+}

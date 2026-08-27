@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198601210",
+ "item_name": "신일트리메부틴말레산염정",
+ "entp_name": "신일제약(주)",
+ "permit_date": "19860526",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252787]트리메부틴말레산염",
+ "main_item_ingr_eng": "Trimebutine Maleate",
+ "edi_code": "653801090",
+ "atc_code": "A03AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198601210",
+ "revisions": [
+  {
+   "revision_id": "198601210-410b62aa",
+   "content_sha256": "410b62aa55af78d08d31985cf55eda405c3c80d2cf8b3fe06ae6debd4da72c18",
+   "ee_text": "1) 식도역류 및 열공(구멍)헤르니아, 위·십이지장염, 위·십이지장궤양에 있어서의 소화기능이상(복통, 소화 불량, 구역, 구토) 2) 과민성대장증후군 및 경련성 결장 3) 소아질환 : 습관성 구토, 비감염성 장관(창자)통과장애(변비, 설사)",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T13:40:32Z",
+   "last_observed_at": "2026-08-27T13:40:32Z",
+   "official_revision_date": "2020-09-30"
+  },
+  {
+   "revision_id": "198601210-1699650a",
+   "content_sha256": "1699650a48916719b2376881c7f88c74275b0af8230697f418aefe0082c15bda",
+   "ee_text": "1) 식도역류 및 열공(구멍)헤르니아, 위·십이지장염, 위·십이지장궤양에 있어서의 소화 기능이상(복통, 소화 불량, 구역, 구토) 2) 과민성대장증후군 및 경련성 결장 3) 소아질환 : 습관성 구토, 비감염성 장관(창자)통과장애(변비, 설사), 동요(안절부절) 자극, 수면장애.",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:40:32Z",
+   "last_observed_at": "2026-08-27T13:40:32Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:40:32Z"
+}

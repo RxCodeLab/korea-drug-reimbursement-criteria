@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707880",
+ "item_name": "경동디클로페낙주(디클로페낙나트륨)(수출용)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20171113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050288]디클로페낙나트륨",
+ "main_item_ingr_eng": "Diclofenac Sodium",
+ "edi_code": "",
+ "atc_code": "M01AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707880",
+ "revisions": [
+  {
+   "revision_id": "201707880-3dc0092b",
+   "content_sha256": "3dc0092b811d239a19315ba232349bfff9b71cd47ae352da9720e4255071d503",
+   "ee_text": ". 외상후 염증 및 동통, 급성통풍,]]>",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:41:37Z",
+   "last_observed_at": "2026-08-27T12:41:37Z",
+   "official_revision_date": "2017-11-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:41:37Z"
+}

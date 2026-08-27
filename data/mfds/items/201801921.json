@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801921",
+ "item_name": "피엠쿨에어로솔",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20180504",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215133]에녹솔론|[M040108]디펜히드라민|[M040131]리도카인|[M252342]테르비나핀염산염",
+ "main_item_ingr_eng": "Diphenhydramine/Enoxolone/Lidocaine/Terbinafine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "D01AE20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801921",
+ "revisions": [
+  {
+   "revision_id": "201801921-ab78ebc5",
+   "content_sha256": "ab78ebc5a77f25b964892230d6700a7c027880e9035bea18553b5d399f4d0dbe",
+   "ee_text": "무좀, 완선(사타구니백선), 백선",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:30:07Z",
+   "last_observed_at": "2026-08-27T12:30:07Z",
+   "official_revision_date": "2018-05-04"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:30:07Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606651",
+ "item_name": "네오팻정50밀리그램(라코사미드)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "20161117",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250562]라코사미드",
+ "main_item_ingr_eng": "Lacosamide",
+ "edi_code": "657202960",
+ "atc_code": "N03AX18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606651",
+ "revisions": [
+  {
+   "revision_id": "201606651-dbeb2ceb",
+   "content_sha256": "dbeb2ceb6921335272bf2488b091c68510a96dfa8bb21245e2c84818d89b85fa",
+   "ee_text": "16세 이상의 뇌전증 환자에서 2차성 전신발작을 동반하거나 동반하지 않는 부분발작 치료의 부가요법",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-27T13:44:03Z",
+   "last_observed_at": "2026-08-27T13:44:03Z",
+   "official_revision_date": "2023-11-30"
+  },
+  {
+   "revision_id": "201606651-ebfd4450",
+   "content_sha256": "ebfd445009a8e0e5c0b5580bf062fbe06deff58b039c4858fce5fce511738fe0",
+   "ee_text": "16세 이상의 간질 환자에서 2차성 전신발작을 동반하거나 동반하지 않는 부분발작 치료의 부가요법",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-22",
+   "first_observed_at": "2026-08-27T13:44:03Z",
+   "last_observed_at": "2026-08-27T13:44:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:44:03Z"
+}

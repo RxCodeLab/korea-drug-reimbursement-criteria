@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308605",
+ "item_name": "파메졸캡슐50밀리그램(플루코나졸)",
+ "entp_name": "건일바이오팜주식회사",
+ "permit_date": "20130731",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084154]플루코나졸",
+ "main_item_ingr_eng": "Fluconazole",
+ "edi_code": "073001350",
+ "atc_code": "J02AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308605",
+ "revisions": [
+  {
+   "revision_id": "201308605-2b0ca38b",
+   "content_sha256": "2b0ca38b0cf5f55bfcea0c2bd476a69f25844217aec72be7620641b44f03146e",
+   "ee_text": "감염증",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T13:46:14Z",
+   "last_observed_at": "2026-08-27T13:46:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:46:14Z"
+}

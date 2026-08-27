@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500812",
+ "item_name": "본에이디정",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20250407",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223258]티아민염산염|[M096429]시아노코발라민|[M086116]농축콜레칼시페롤|[M247470]시트르산칼슘수화물",
+ "main_item_ingr_eng": "Calcium Citrate Hydrate/Cholecalciferol Concentrate/Cyanocobalamin/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500812",
+ "history_fetched_at": "2026-08-27T10:38:14Z",
+ "revisions": [
+  {
+   "revision_id": "202500812-349aaedf",
+   "content_sha256": "349aaedf527a96da2fd549562ebcf453f75273715f633c876fac06d530c0cf9c",
+   "ee_text": "1. 다음 경우의 비타민 B 1 ,비타민D의 보급 - 육체피로 - 임신 · 수유기 - 병중·병후의 (병을 앓는 동안이나 회복 후)의 체력저하 시 - 발육기 - 노년기 2. 이 약에 함유된 비타민 등의 효능·효과 - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202500812/EE",
+   "first_observed_at": "2026-08-27T10:38:14Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601027",
+ "item_name": "에포원프리필드주2000유니트/0.5밀리리터(재조합인에리스로포이에틴)",
+ "entp_name": "(주)보령",
+ "permit_date": "20260410",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091670]재조합인에리스로포이에틴",
+ "main_item_ingr_eng": "Recombinant Human Erythropoietin",
+ "edi_code": "",
+ "atc_code": "B03XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601027",
+ "revisions": [
+  {
+   "revision_id": "202601027-19eeba4f",
+   "content_sha256": "19eeba4f88f647a303d08639749bfb8793a2905bfd17e5e0fe5069be1bdfff16",
+   "ee_text": "1) 증후성 빈혈 2) 수혈이 필요한 빈혈 1) 저 헤모글로빈 농도 2) 많은 양의 혈액(여성 : 4 units 이상의 혈액, 남성 : 5 units 이상의 혈액)이 필요한 대수술이 예정된 경우 3) 필요한 자가혈액량을 채혈하기 위한 수술 전 기간이 너무 짧은 경우",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:54:29Z",
+   "last_observed_at": "2026-08-27T13:54:29Z",
+   "official_revision_date": "2026-04-10"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:54:29Z"
+}

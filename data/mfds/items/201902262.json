@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902262",
+ "item_name": "록소정(록소프로펜나트륨수화물)",
+ "entp_name": "(주)중헌제약",
+ "permit_date": "20190412",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222839]록소프로펜나트륨수화물",
+ "main_item_ingr_eng": "Loxoprofen Sodium Hydrate",
+ "edi_code": "053300610",
+ "atc_code": "M01AE19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902262",
+ "revisions": [
+  {
+   "revision_id": "201902262-6c8015e7",
+   "content_sha256": "6c8015e73a42d0dc476b5dbcb7602ddccbfdbeeef97fe45d764ceb7cd2be9b84",
+   "ee_text": "1. 다음 질환 및 증상의 소염 ㆍ진통 만성 류마티스관절염, 골관절염(퇴행관절염), 요통, 견관절주위염, 경견완증후군 2. 수술후, 외상후 및 발치후의 소염ㆍ진통 3. 다음 질환의 해열ㆍ 진통 급성 상기도염(급성기관지염을 수반한 급성 상기도염을 포함)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:15:25Z",
+   "last_observed_at": "2026-08-27T12:15:25Z",
+   "official_revision_date": "2019-04-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:15:25Z"
+}

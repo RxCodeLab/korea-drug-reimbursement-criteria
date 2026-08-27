@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804553",
+ "item_name": "에페카정",
+ "entp_name": "(주)메디카코리아",
+ "permit_date": "20181116",
+ "cancel_date": "20231116",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223155]에페드린염산염|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Ephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804553",
+ "revisions": [
+  {
+   "revision_id": "201804553-c95fb60c",
+   "content_sha256": "c95fb60c28050c6ca9024ad721ed1282f3f961ddbdeebf90c36c5269bba9561a",
+   "ee_text": "감기의 제증상(여러증상)(인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T13:01:42Z",
+   "last_observed_at": "2026-08-27T13:01:42Z",
+   "official_revision_date": "2021-07-20"
+  },
+  {
+   "revision_id": "201804553-7560a431",
+   "content_sha256": "7560a4319bef6895b79f2b2a486f653e531bef5472c890cb915c1b553850d892",
+   "ee_text": "감기의 제증상(인후통,기침,가래,오한,발열,두통,관절통,근육통)의 완화",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-11-16",
+   "first_observed_at": "2026-08-27T13:01:42Z",
+   "last_observed_at": "2026-08-27T13:01:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:01:42Z"
+}

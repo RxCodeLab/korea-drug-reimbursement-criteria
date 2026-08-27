@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707333",
+ "item_name": "푸록스캡슐50밀리그램(플루코나졸)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20170929",
+ "cancel_date": "20260820",
+ "status": "취하",
+ "main_item_ingr": "[M084154]플루코나졸",
+ "main_item_ingr_eng": "Fluconazole",
+ "edi_code": "645305620",
+ "atc_code": "J02AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707333",
+ "revisions": [
+  {
+   "revision_id": "201707333-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201707333/EE",
+   "first_observed_at": "2026-08-27T13:46:31Z",
+   "last_observed_at": "2026-08-27T13:46:31Z"
+  },
+  {
+   "revision_id": "201707333-ab2cd774",
+   "content_sha256": "ab2cd774889293a061562883ef36019d203ac809e3562e4571907e991a8e6171",
+   "ee_text": "\">",
+   "ee_doc_id": "2",
+   "official_revision_date": "2017-10-10",
+   "first_observed_at": "2026-08-27T13:46:31Z",
+   "last_observed_at": "2026-08-27T13:46:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:46:31Z"
+}

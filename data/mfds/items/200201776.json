@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201776",
+ "item_name": "하벤목에스캡슐",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20020710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M238263]길경50%에탄올건조엑스(10→1)|[M267319]황련건조엑스(8.93→1)|[M222957]덱스트로메토르판브롬화수소산염수화물|[M223211]클로르페니라민말레산염|[M050058]구아이페네신|[M040417]에텐자미드|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Chlorpheniramine Maleate/Coptis Rhizome Dried Extract (8.93→1)/Dextromethorphan Hydrobromide Hydrate/Ethenzamide/Guaifenesin/Platycodon Root 50% Ethanol Dried Extract (10→1)",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201776",
+ "revisions": [
+  {
+   "revision_id": "200201776-11ce06ce",
+   "content_sha256": "11ce06cea9a164a48d2204c78915d8a52b81dfbcdd15434f7525b2087b33da07",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-27T12:57:16Z",
+   "last_observed_at": "2026-08-27T12:57:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:16Z"
+}

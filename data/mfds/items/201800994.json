@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800994",
+ "item_name": "카펜에스정",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20180227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223155]에페드린염산염|[M223183]카페인무수물|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Ephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800994",
+ "revisions": [
+  {
+   "revision_id": "201800994-51aa55f1",
+   "content_sha256": "51aa55f181bc4c28ab9d8fc297cda753a0a50f3ba3985e1779404439c6946f43",
+   "ee_text": "감기의 제증상(여러 증상)(인후통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T13:01:27Z",
+   "last_observed_at": "2026-08-27T13:01:27Z",
+   "official_revision_date": "2019-07-11"
+  },
+  {
+   "revision_id": "201800994-a625f29d",
+   "content_sha256": "a625f29dda859334623cdff383726932a3ce34bc2006e33e0b06d96cbf3114f1",
+   "ee_text": "감기의 제증상 (인후(목구멍)통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-02-27",
+   "first_observed_at": "2026-08-27T13:01:27Z",
+   "last_observed_at": "2026-08-27T13:01:27Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:01:27Z"
+}

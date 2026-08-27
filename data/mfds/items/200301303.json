@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301303",
+ "item_name": "알프로딜주(알프로스타딜)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20030903",
+ "cancel_date": "20241127",
+ "status": "취하",
+ "main_item_ingr": "[M086790]알프로스타딜",
+ "main_item_ingr_eng": "Alprostadil",
+ "edi_code": "",
+ "atc_code": "C01EA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301303",
+ "revisions": [
+  {
+   "revision_id": "200301303-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-27T11:55:46Z",
+   "last_observed_at": "2026-08-27T11:55:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:55:46Z"
+}

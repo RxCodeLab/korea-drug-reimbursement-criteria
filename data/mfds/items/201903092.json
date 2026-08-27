@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903092",
+ "item_name": "레바원정(레바미피드)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20190513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083925]레바미피드",
+ "main_item_ingr_eng": "Rebamipide",
+ "edi_code": "671806940",
+ "atc_code": "A02BX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903092",
+ "revisions": [
+  {
+   "revision_id": "201903092-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:48:26Z",
+   "last_observed_at": "2026-08-27T13:48:26Z",
+   "official_revision_date": "2019-05-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:48:26Z"
+}

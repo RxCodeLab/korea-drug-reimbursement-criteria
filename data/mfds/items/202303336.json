@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303336",
+ "item_name": "투키사정50밀리그램(투카티닙헤미에탄올레이트)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20231214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283833]투카티닙헤미에탄올레이트",
+ "main_item_ingr_eng": "Tucatinib hemiethanolate",
+ "edi_code": "",
+ "atc_code": "L01EH03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303336",
+ "revisions": [
+  {
+   "revision_id": "202303336-2374f6cf",
+   "content_sha256": "2374f6cf6ed94c8565e64ae9c0a9ad966ad7ccf8ae1de89150d913d15e92d076",
+   "ee_text": "이전에 최소 2회 이상의 항-HER2 요법으로 치료를 받은 적이 있는 HER2 양성인 절제 불가능한 국소 진행성 또는 전이성 유방암 성인 환자의 치료로서 트라스투주맙 및 카페시타빈과의 병용 요법",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202303336/EE",
+   "first_observed_at": "2026-08-27T13:47:28Z",
+   "last_observed_at": "2026-08-27T13:47:28Z"
+  },
+  {
+   "revision_id": "202303336-21d6e701",
+   "content_sha256": "21d6e70100e1ecd60370cb69760f92f6287583a161409194566ec7376c7bc76b",
+   "ee_text": "이전에 최소 2회 이상의 항-HER2 요법으로 치료를 받은 적이 있는 HER2 양성인 국소 진행성 또는 전이성 유방암 성인 환자의 치료로서 트라스투주맙 및 카페시타빈과의 병용 요법",
+   "ee_doc_id": "1",
+   "official_revision_date": "2023-12-14",
+   "first_observed_at": "2026-08-27T13:47:28Z",
+   "last_observed_at": "2026-08-27T13:47:28Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:47:28Z"
+}

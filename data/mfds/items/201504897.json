@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201504897",
+ "item_name": "시타폴민엑스알서방정50/1000밀리그램",
+ "entp_name": "(주)종근당",
+ "permit_date": "20150716",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251915]시타글립틴인산염수화물|[M223014]메트포르민염산염",
+ "main_item_ingr_eng": "Metformin Hydrochloride/Sitagliptin Phosphate Hydrate",
+ "edi_code": "643307380",
+ "atc_code": "A10BD07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504897",
+ "revisions": [
+  {
+   "revision_id": "201504897-7209f5a3",
+   "content_sha256": "7209f5a3b645daf843f0193470bac91a61c7991411bd7e02a956e1138bf474f3",
+   "ee_text": "이 약은 시타글립틴과 메트포르민 서방정의 병용투여가 적절한 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T12:51:49Z",
+   "last_observed_at": "2026-08-27T12:51:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:51:49Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200204346",
+ "item_name": "노페인정(수출용)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20020820",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223015]DL-메티오닌",
+ "main_item_ingr_eng": "Acetaminophen/DL-Methionine",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200204346",
+ "revisions": [
+  {
+   "revision_id": "200204346-0d19b56d",
+   "content_sha256": "0d19b56dccbd9d0a724de9366deb7d031af4660058a4e525a44782f3044530a5",
+   "ee_text": "- 두통, 치통, 발치(이를뽑음)후 동통(통증), 인후통, 귀의 통증, 관절통, 신경통, 요통,근육통, 견통(어깨결림), 타박통, 골절통, 염좌통(삔 통증), 월경통(생리통), 외상통의 진통. - 오한, 발열시의 해열",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T12:57:22Z",
+   "last_observed_at": "2026-08-27T12:57:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:22Z"
+}

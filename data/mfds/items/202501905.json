@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501905",
+ "item_name": "옵신비정10/20밀리그램(마시텐탄,타다라필)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20250724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254919]타다라필|[M260639]마시텐탄(미분화)",
+ "main_item_ingr_eng": "Macitentan Micronized/Tadalafil",
+ "edi_code": "646902830,646902840",
+ "atc_code": "C02KX54",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501905",
+ "revisions": [
+  {
+   "revision_id": "202501905-22440010",
+   "content_sha256": "224400106173173d54716c6649402dd7eefc6b39246910c24b853754446fe553",
+   "ee_text": "이 약은 마시텐탄과 타다라필의 복합제로써 WHO 기능분류 Ⅱ~Ⅲ 단계에 해당하는 폐동맥고혈압(WHO Group Ⅰ) 성인 환자의 장기 치료에 사용된다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:53:43Z",
+   "last_observed_at": "2026-08-27T13:53:43Z",
+   "official_revision_date": "2025-07-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:53:43Z"
+}

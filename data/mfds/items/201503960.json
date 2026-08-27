@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503960",
+ "item_name": "콜대원코프시럽",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20150618",
+ "cancel_date": "20250618",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223287]펜톡시베린시트르산염|[M204422]dl-메틸에페드린염산염|[M050058]구아이페네신|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/DL-Methylephedrine Hydrochloride/Guaifenesin/Pentoxyverine Citrate",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503960",
+ "revisions": [
+  {
+   "revision_id": "201503960-5052c1f1",
+   "content_sha256": "5052c1f154eb5d26443e2210e7e7f494773d734ac680825a9981811ee627ad70",
+   "ee_text": "감기의 제증상(인후[목구멍]통, 기침, 가래, 오한[춥고 떨리는 증상], 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T13:00:37Z",
+   "last_observed_at": "2026-08-27T13:00:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:00:37Z"
+}

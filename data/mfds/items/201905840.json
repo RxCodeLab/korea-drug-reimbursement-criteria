@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905840",
+ "item_name": "덱브펜정300밀리그램(덱시부프로펜)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "20190819",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254719]덱시부프로펜",
+ "main_item_ingr_eng": "Dexibuprofen",
+ "edi_code": "658603860",
+ "atc_code": "M01AE14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905840",
+ "revisions": [
+  {
+   "revision_id": "201905840-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:40:21Z",
+   "last_observed_at": "2026-08-27T13:40:21Z",
+   "official_revision_date": "2019-08-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:40:21Z"
+}

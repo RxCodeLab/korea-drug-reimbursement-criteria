@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903118",
+ "item_name": "디세렌캡슐(디아세레인)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20190514",
+ "cancel_date": "20240514",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M082697]디아세레인",
+ "main_item_ingr_eng": "Diacerein",
+ "edi_code": "",
+ "atc_code": "M01AX21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903118",
+ "revisions": [
+  {
+   "revision_id": "201903118-8b4fc8a4",
+   "content_sha256": "8b4fc8a413ac3601b97022fe45cfe6ecf8ecf3346ffc9faa2e671971476c78a6",
+   "ee_text": "골(고관절, 슬관절) 관절염(관절증, 퇴행성 관절질환)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:37:13Z",
+   "last_observed_at": "2026-08-27T12:37:13Z",
+   "official_revision_date": "2019-05-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:37:13Z"
+}

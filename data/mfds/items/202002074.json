@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002074",
+ "item_name": "페인엔젤키즈시럽(덱시부프로펜)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20200325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254719]덱시부프로펜|[M254719]덱시부프로펜",
+ "main_item_ingr_eng": "Dexibuprofen",
+ "edi_code": "",
+ "atc_code": "M01AE14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002074",
+ "revisions": [
+  {
+   "revision_id": "202002074-849e548a",
+   "content_sha256": "849e548a4d62cf93ea52e34cfe5498cd9715b3b36cba61aa1579fb7b4c3ac9c8",
+   "ee_text": "급성 상기도 감염으로 인한 발열시 해열",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:40:24Z",
+   "last_observed_at": "2026-08-27T13:40:24Z",
+   "official_revision_date": "2020-03-25"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:40:24Z"
+}

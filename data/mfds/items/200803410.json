@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200803410",
+ "item_name": "에이론플러스주(히알루론산나트륨)(프리필드)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20080327",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222910]히알루론산나트륨",
+ "main_item_ingr_eng": "Sodium Hyaluronate",
+ "edi_code": "642102911",
+ "atc_code": "M09AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803410",
+ "revisions": [
+  {
+   "revision_id": "200803410-b4ee1df7",
+   "content_sha256": "b4ee1df70163daec85a5ef42f96dab8f6c9de302b2568e8a97dcc097d8d6d7c4",
+   "ee_text": "슬관절의 골관절염 견관절주위염 치료",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T11:03:40Z",
+   "last_observed_at": "2026-08-27T11:03:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:03:40Z"
+}

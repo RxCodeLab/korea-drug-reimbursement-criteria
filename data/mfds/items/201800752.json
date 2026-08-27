@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800752",
+ "item_name": "렉설티정3밀리그램(브렉스피프라졸)(수출용)",
+ "entp_name": "한국오츠카제약(주)",
+ "permit_date": "20180207",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267359]브렉스피프라졸",
+ "main_item_ingr_eng": "Brexpiprazole",
+ "edi_code": "",
+ "atc_code": "N05AX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800752",
+ "revisions": [
+  {
+   "revision_id": "201800752-5d8cc973",
+   "content_sha256": "5d8cc9737974b44d564669e2cd4873afbc7a966365905638749a11b424422984",
+   "ee_text": "1. 주요우울장애 치료의 부가요법제 2. 정신분열병(조현병)의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:48:02Z",
+   "last_observed_at": "2026-08-27T12:48:02Z",
+   "official_revision_date": "2018-02-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:48:02Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705686",
+ "item_name": "아모잘탄큐정5/100/20밀리그램(암로디핀,로사르탄,로수바스타틴)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20170714",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246033]암로디핀캄실산염|[M095744]로수바스타틴칼슘|[M249673]로사르탄칼륨",
+ "main_item_ingr_eng": "Amlodipine Camsylate/Losartan Potassium/Rosuvastatin Calcium",
+ "edi_code": "643507820",
+ "atc_code": "C10BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705686",
+ "revisions": [
+  {
+   "revision_id": "201705686-ad0d234f",
+   "content_sha256": "ad0d234f9eaca10f1af39c56bd7f5c02ab52a26c45aa37d38cbe38a5cf3d4fe9",
+   "ee_text": "이 약은 암로디핀/로사르탄 복합제와 로수바스타틴을 동시에 투여하여야 하는 환자에만 사용한다. - 뇌졸중에 대한 위험성 감소 - 심근경색에 대한 위험성 감소 - 동맥 혈관재형성술에 대한 위험성 감소",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T13:07:39Z",
+   "last_observed_at": "2026-08-27T13:07:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:07:39Z"
+}

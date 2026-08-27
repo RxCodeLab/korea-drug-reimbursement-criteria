@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201110121",
+ "item_name": "휴온스에이씨디액",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20111118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096666]시트르산|[M222565]시트르산나트륨수화물|[M044300]포도당일수화물",
+ "main_item_ingr_eng": "Anhydrous Citric Acid/Glucose Monohydrate/Sodium Citrate Hydrate",
+ "edi_code": "",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110121",
+ "history_fetched_at": "2026-08-27T10:37:12Z",
+ "revisions": [
+  {
+   "revision_id": "201110121-ebd9d13c",
+   "content_sha256": "ebd9d13c4a5dedddeeef5d367da392e2882cdf51d765d800c031751de7afce0d",
+   "ee_text": "저장혈액의 응고방지",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201110121/EE",
+   "first_observed_at": "2026-08-27T10:37:12Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

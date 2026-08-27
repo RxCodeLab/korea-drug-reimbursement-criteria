@@ -12,15 +12,15 @@
  "edi_code": "648201721,648202091,648202101,648202111,648203701",
  "atc_code": "B01AB05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700538",
+ "history_fetched_at": "2026-08-27T07:58:16Z",
  "revisions": [
   {
    "revision_id": "200700538-7cd474af",
    "content_sha256": "7cd474aff9320f8b7783eab5fb53798ae954058f2078dbb85e89048a48990fbf",
    "ee_text": "1. 혈전색전증의 중등도 또는 고위험군 환자의 외과 영역의 수술(암 수술 포함) 후 발생하는 정맥의 혈전색전증 예방 2. 혈액투석 시 체외 혈액순환 회로에서의 혈액 응고 방지 3. 폐색전증 유무와 상관없이, 심재성 정맥 혈전증의 치료 4.아스피린과의 병용 투여 : 불안정 협심증과 비Q파 심근 경색증(NQMI)의 치료 5. 혈전색전증의 위험인자가 동반된 급성내과 질환(심부전, 호흡부전, 감염, 류마티스 질환 등)으로 활동부적상태 환자에서의 심재성 정맥 혈전색전증 예방 6. 급성 ST 분절상승 심근경색증(STEMI)의 치료, 경피적 관상동맥중재술 시행여부와 관계없이 혈전용해제와 병용 가능",
-   "ee_doc_id": "32",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200700538/EE",
    "first_observed_at": "2026-08-27T07:58:16Z",
-   "last_observed_at": "2026-08-27T07:58:16Z",
-   "official_revision_date": "2025-02-14"
+   "last_observed_at": "2026-08-27T10:47:57Z"
   },
   {
    "revision_id": "200700538-8779a04e",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T07:58:16Z",
    "last_observed_at": "2026-08-27T07:58:16Z"
   }
- ],
- "history_fetched_at": "2026-08-27T07:58:16Z"
+ ]
 }

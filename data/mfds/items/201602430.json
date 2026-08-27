@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602430",
+ "item_name": "콘트라브서방정",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20160429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233238]부프로피온염산염|[M254702]날트렉손염산염",
+ "main_item_ingr_eng": "Bupropion Hydrochloride/Naltrexone Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A08AA62",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602430",
+ "revisions": [
+  {
+   "revision_id": "201602430-8e144918",
+   "content_sha256": "8e14491890c87d49ba8923e4da7f453a9fb4d814c14cd7ae2e389a028d25ace8",
+   "ee_text": "체질량지수(BMI) 30kg/m 2 이상의 비만환자 또는 다른 위험인자(예. 제2형 당뇨, 이상지질혈증, 고혈압)가 있는 체질량지수(BMI) 27kg/m 2 이상 30kg/m 2 미만인 과체중 환자의 체중조절을 위한 식이 및 운동요법의 보조요법",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T12:44:26Z",
+   "last_observed_at": "2026-08-27T12:44:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:44:26Z"
+}

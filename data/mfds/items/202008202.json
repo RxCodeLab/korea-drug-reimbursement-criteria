@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008202",
+ "item_name": "사이클로제스트질좌제400밀리그램(프로게스테론)",
+ "entp_name": "지피테라퓨틱스코리아주식회사",
+ "permit_date": "20201125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040719]프로게스테론",
+ "main_item_ingr_eng": "Progesterone",
+ "edi_code": "",
+ "atc_code": "G03DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008202",
+ "revisions": [
+  {
+   "revision_id": "202008202-2aba13ad",
+   "content_sha256": "2aba13ad8a1a9e6c1ed3a6d6c596fc79dfac09feacb9c75b5fb43e63a43342fc",
+   "ee_text": "여성의 ART(Assisted Reproductive Technology) 한 부분으로서 황체기 보충요법",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:40:59Z",
+   "last_observed_at": "2026-08-27T12:40:59Z",
+   "official_revision_date": "2020-11-25"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:40:59Z"
+}

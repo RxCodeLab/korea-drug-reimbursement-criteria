@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401967",
+ "item_name": "마이렙트현탁용분말1g/5ml(미코페놀레이트모페틸)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20140423",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089670]미코페놀레이트모페틸",
+ "main_item_ingr_eng": "Mycophenolate Mofetil",
+ "edi_code": "643306751",
+ "atc_code": "L04AA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401967",
+ "history_fetched_at": "2026-08-27T10:42:53Z",
+ "revisions": [
+  {
+   "revision_id": "201401967-34c087b2",
+   "content_sha256": "34c087b2e65c6eecb29aa712c43ec7294d5f124c128790e73bdf1c52e8920d1f",
+   "ee_text": "동종 신장, 심장, 간장 이식환자에 대한 급성 장기 거부반응 방지 이 약은 신장, 심장 또는 간장 이식에서 시클로스포린 및 코르티코스테로이드와 병용 투여해야 한다.",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201401967/EE",
+   "first_observed_at": "2026-08-27T10:42:53Z",
+   "last_observed_at": "2026-08-27T10:58:16Z"
+  }
+ ]
+}

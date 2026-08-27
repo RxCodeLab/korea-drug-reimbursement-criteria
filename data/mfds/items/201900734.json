@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900734",
+ "item_name": "프루칼로정2밀리그램(프루칼로프라이드숙신산염)",
+ "entp_name": "(주)메디카코리아",
+ "permit_date": "20190130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255643]프루칼로프라이드숙신산염",
+ "main_item_ingr_eng": "Prucalopride Succinate",
+ "edi_code": "",
+ "atc_code": "A06AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900734",
+ "revisions": [
+  {
+   "revision_id": "201900734-148fa858",
+   "content_sha256": "148fa858e4958a2a2f7c1464592f60db6876ad1ddffc490555e80daf875c75ee",
+   "ee_text": "완하제 투여로 증상완화에 실패한 성인에서 만성변비 증상의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:02:22Z",
+   "last_observed_at": "2026-08-27T11:02:22Z",
+   "official_revision_date": "2019-01-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:02:22Z"
+}

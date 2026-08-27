@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905370",
+ "item_name": "엘리사반정5밀리그램(아픽사반)",
+ "entp_name": "삼익제약(주)",
+ "permit_date": "20190729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253531]아픽사반",
+ "main_item_ingr_eng": "Apixaban",
+ "edi_code": "",
+ "atc_code": "B01AF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905370",
+ "revisions": [
+  {
+   "revision_id": "201905370-bb3a9a24",
+   "content_sha256": "bb3a9a245b7e6b139d57490a94a63d254657a95364b2cb6f8769742957dd87e0",
+   "ee_text": "1. 고관절 또는 슬관절 치환술을 받은 성인 환자에서 정맥혈전색전증의 예방 2. 비판막성 심방세동 환자에서 뇌졸중 및 전신 색전증의 위험 감소 3. 심재성 정맥혈전증 및 폐색전증의 치료 4. 심재성 정맥혈전증 및 폐색전증의 재발 위험 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:02:56Z",
+   "last_observed_at": "2026-08-27T12:02:56Z",
+   "official_revision_date": "2019-07-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:02:56Z"
+}

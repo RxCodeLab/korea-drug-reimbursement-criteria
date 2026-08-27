@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502454",
+ "item_name": "아리피졸정2밀리그램(아리피프라졸)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "20150427",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096829]아리피프라졸",
+ "main_item_ingr_eng": "Aripiprazole",
+ "edi_code": "657202800",
+ "atc_code": "N05AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502454",
+ "revisions": [
+  {
+   "revision_id": "201502454-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "24",
+   "first_observed_at": "2026-08-27T13:16:06Z",
+   "last_observed_at": "2026-08-27T13:16:06Z",
+   "official_revision_date": "2022-04-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:16:06Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400305",
+ "item_name": "마파람쿨과립",
+ "entp_name": "삼익제약(주)",
+ "permit_date": "20240208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050059]구아야콜설폰산칼륨|[M110372]길경 가루|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Platycodon Root Powder/Potassium Guaiacolsulfonate",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400305",
+ "revisions": [
+  {
+   "revision_id": "202400305-d8ff6ed0",
+   "content_sha256": "d8ff6ed049c692a35f1e58abf608f0f26f78a4c55c6c1ec1b1acf28e933fb4db",
+   "ee_text": "감기의 제증상(인후통, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:04:56Z",
+   "last_observed_at": "2026-08-27T13:04:56Z",
+   "official_revision_date": "2024-02-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:04:56Z"
+}

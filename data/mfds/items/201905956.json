@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905956",
+ "item_name": "트루셋정40/5/12.5밀리그램",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20190823",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040615]클로르탈리돈|[M222875]암로디핀베실산염|[M090395]텔미사르탄",
+ "main_item_ingr_eng": "Amlodipine Besylate/Chlorthalidone/Telmisartan",
+ "edi_code": "642105480",
+ "atc_code": "C09DX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905956",
+ "revisions": [
+  {
+   "revision_id": "201905956-fa7a61d0",
+   "content_sha256": "fa7a61d0bb843f6367f42f29c376065ebdfb8c1809644b18414d68df727272d7",
+   "ee_text": "텔미사르탄과 암로디핀의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:27:09Z",
+   "last_observed_at": "2026-08-27T12:27:09Z",
+   "official_revision_date": "2019-08-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:27:09Z"
+}

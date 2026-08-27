@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503975",
+ "item_name": "킨텔레스주(베돌리주맙)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20150619",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M262255]베돌리주맙",
+ "main_item_ingr_eng": "Vedolizumab",
+ "edi_code": "696300351",
+ "atc_code": "L04AA33",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503975",
+ "revisions": [
+  {
+   "revision_id": "201503975-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "35",
+   "first_observed_at": "2026-08-27T11:10:15Z",
+   "last_observed_at": "2026-08-27T11:10:15Z",
+   "official_revision_date": "2023-06-01"
+  },
+  {
+   "revision_id": "201503975-4d9cbcb9",
+   "content_sha256": "4d9cbcb9238bc5c53ce6d3644dac81b1a80fd56c64596368b4abf9097d61ae33",
+   "ee_text": "보편적 치료(코르티코스테로이드제나 면역억제제 등의 치료) 또는 종양괴사인자 알파(Tumor Necrosis Factor-α) 억제제 치료에 반응을 나타내지 않거나, 반응이 없어지거나, 또는 내약성이 없는 중등도에서 중증의 활성 궤양성 대장염의 치료 보편적 치료(코르티코스테로이드제나 면역억제제 등의 치료) 또는 종양괴사인자 알파(Tumor Necrosis Factor-α) 억제제 치료에 반응을 나타내지 않거나, 반응이 없어지거나, 또는 내약성이 없는 중등도에서 중증의 활성 크론병의 치료",
+   "ee_doc_id": "16",
+   "official_revision_date": "2020-01-15",
+   "first_observed_at": "2026-08-27T11:10:15Z",
+   "last_observed_at": "2026-08-27T11:10:15Z"
+  },
+  {
+   "revision_id": "201503975-07b15377",
+   "content_sha256": "07b153775d102bcda12b2bb0e5540c0d8b1506227e96545c2b7a90dc8175046c",
+   "ee_text": "1) 종양괴사인자 알파(Tumor Necrosis Factor-α) 억제제 치료에 반응을 나타내지 않거나, 반응이 없어지거나, 또는 내약성이 없는 성인 환자에서 중등도에서 중증의 활성 궤양성 대장염의 치료 2) 종양괴사인자 알파(Tumor Necrosis Factor-α) 억제제 치료에 반응을 나타내지 않거나, 반응이 없어지거나, 또는 내약성이 없는 성인 환자에서 중등도에서 중증의 활성 크론병의 치료",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T11:10:15Z",
+   "last_observed_at": "2026-08-27T11:10:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:10:15Z"
+}

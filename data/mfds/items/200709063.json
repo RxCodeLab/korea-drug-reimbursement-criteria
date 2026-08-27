@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200709063",
+ "item_name": "알파레보설피리드정(수출용)",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20070803",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099905]레보설피리드",
+ "main_item_ingr_eng": "Levosulpiride",
+ "edi_code": "",
+ "atc_code": "A03FA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709063",
+ "revisions": [
+  {
+   "revision_id": "200709063-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200709063/EE",
+   "first_observed_at": "2026-08-27T12:32:38Z",
+   "last_observed_at": "2026-08-27T12:32:38Z"
+  },
+  {
+   "revision_id": "200709063-49ed29f8",
+   "content_sha256": "49ed29f87c7b6a9679e692083d06332dddd56c7b89808b4253962b2fd5dac4cc",
+   "ee_text": ": 복부팽만감, 상복부 불쾌감, 속쓰림, 트림, 구역, 구토",
+   "ee_doc_id": "2",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:32:38Z",
+   "last_observed_at": "2026-08-27T12:32:38Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:32:38Z"
+}

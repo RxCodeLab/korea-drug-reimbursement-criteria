@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300073",
+ "item_name": "이연날록손염산염주",
+ "entp_name": "이연제약(주)",
+ "permit_date": "19831221",
+ "cancel_date": "20240123",
+ "status": "취하",
+ "main_item_ingr": "[M222939]날록손염산염",
+ "main_item_ingr_eng": "Naloxone Hydrochloride",
+ "edi_code": "",
+ "atc_code": "V03AB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300073",
+ "revisions": [
+  {
+   "revision_id": "198300073-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T13:27:39Z",
+   "last_observed_at": "2026-08-27T13:27:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:39Z"
+}

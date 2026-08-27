@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199300960",
+ "item_name": "코디핀정8밀리그램(베니디핀염산염)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "19931216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M237685]베니디핀염산염",
+ "main_item_ingr_eng": "Benidipine Hydrochloride",
+ "edi_code": "642401340",
+ "atc_code": "C08CA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199300960",
+ "revisions": [
+  {
+   "revision_id": "199300960-fc09aeca",
+   "content_sha256": "fc09aeca6baca9dbb0b3934ebb4d4aad9aec7d7daae77310d1d7d48c21c077d7",
+   "ee_text": "고혈압, 협심증",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-27T13:27:27Z",
+   "last_observed_at": "2026-08-27T13:27:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:27Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402427",
+ "item_name": "환인날트렉손정25밀리그램(날트렉손염산염)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "20140529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254702]날트렉손염산염",
+ "main_item_ingr_eng": "Naltrexone Hydrochloride",
+ "edi_code": "657202700",
+ "atc_code": "N07BB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402427",
+ "revisions": [
+  {
+   "revision_id": "201402427-536342e8",
+   "content_sha256": "536342e849d271e0642a83469dc6c531545871cdad874d7c4054d30ce5ad0a15",
+   "ee_text": "적정 관리 프로그램과 병행하여 알코올 의존성 치료 및 외인성 아편류의 효과 차단",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T12:24:10Z",
+   "last_observed_at": "2026-08-27T12:24:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:24:10Z"
+}

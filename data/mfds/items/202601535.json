@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601535",
+ "item_name": "마그릭칼콘스피드액",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20260527",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247470]시트르산칼슘수화물|[M081871]글리세로인산마그네슘|[M256191]콘드로이틴설페이트나트륨|[M217501]황산아연수화물|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Calcium Citrate Hydrate/Magnesium Glycerophosphate/Pyridoxine Hydrochloride/Sodium Chondroitin Sulfate/Zinc Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601535",
+ "history_fetched_at": "2026-08-27T10:38:35Z",
+ "revisions": [
+  {
+   "revision_id": "202601535-ba42df93",
+   "content_sha256": "ba42df930d0907a0ec5488b8c2bd33ced8dd18a8ae3c306e3312cba64b7074b7",
+   "ee_text": "○ 다음경우의 비타민 B6의 보급 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시 ○ 칼슘결핍 및 기타 칼슘의 보급 ○ 아연의 보급 ○ 마그네슘결핍으로 인한 근육경련",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601535/EE",
+   "first_observed_at": "2026-08-27T10:38:35Z",
+   "last_observed_at": "2026-08-27T10:54:53Z"
+  }
+ ]
+}

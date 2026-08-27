@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201006206",
+ "item_name": "아모잘탄정10/50밀리그램",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20101015",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249673]로사르탄칼륨|[M246033]암로디핀캄실산염|[M249673]로사르탄칼륨|[M246033]암로디핀캄실산염",
+ "main_item_ingr_eng": "Amlodipine Camsylate/Losartan Potassium",
+ "edi_code": "643505670",
+ "atc_code": "C09DB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006206",
+ "revisions": [
+  {
+   "revision_id": "201006206-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "29",
+   "first_observed_at": "2026-08-27T13:07:05Z",
+   "last_observed_at": "2026-08-27T13:07:05Z",
+   "official_revision_date": "2020-08-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:07:05Z"
+}

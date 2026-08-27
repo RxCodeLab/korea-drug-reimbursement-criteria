@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199602310",
+ "item_name": "파비스염산메클리진정",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "19961210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223008]메클리진염산염수화물",
+ "main_item_ingr_eng": "Meclizine Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "R06AE05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602310",
+ "revisions": [
+  {
+   "revision_id": "199602310-69c40099",
+   "content_sha256": "69c400990021cb6292422b98f9ce48c57d3a359224595a6474d54da1739670b5",
+   "ee_text": "멀미에 의한 구역·구토·어지러움 미로염·메니에르증후군·방사선 숙취에 따르는 구역, 구토, 어지러움",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:48:38Z",
+   "last_observed_at": "2026-08-27T12:48:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:48:38Z"
+}

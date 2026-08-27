@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108739",
+ "item_name": "콩코르정2.5밀리그램(비소프롤롤푸마르산염)",
+ "entp_name": "머크(주)",
+ "permit_date": "20010518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222856]비소프롤롤푸마르산염",
+ "main_item_ingr_eng": "Bisoprolol Fumarate",
+ "edi_code": "661700390",
+ "atc_code": "C07AB07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108739",
+ "revisions": [
+  {
+   "revision_id": "200108739-8ebb226f",
+   "content_sha256": "8ebb226f3dc5e62d172b2aced41905cb7af73ec8cae1f1927fdcb9821c3eb3ab",
+   "ee_text": "좌심실 수축기능이 저하된 안정형 만성 심부전의 치료 : 이 약은 ACE저해제 및 이뇨제, 그리고 필요에 따라 강심배당체와 병용한다.",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T12:27:27Z",
+   "last_observed_at": "2026-08-27T12:27:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:27:27Z"
+}

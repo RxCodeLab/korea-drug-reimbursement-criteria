@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307338",
+ "item_name": "레써니정(레보설피리드)",
+ "entp_name": "화일약품(주)",
+ "permit_date": "20130514",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099905]레보설피리드",
+ "main_item_ingr_eng": "Levosulpiride",
+ "edi_code": "684500820",
+ "atc_code": "A03FA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307338",
+ "revisions": [
+  {
+   "revision_id": "201307338-d2984326",
+   "content_sha256": "d2984326c524b11478da86e5d0840d48fbb6a2c9b17571721a26448206ce24bd",
+   "ee_text": "기능성 소화불량으로 인한 다음 증상의 완화:복부팽만감,상복부불쾌감,속쓰림,트림,구역,구토",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T12:32:39Z",
+   "last_observed_at": "2026-08-27T12:32:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:32:39Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201202525",
+ "item_name": "리도넬디정(리세드론산,콜레칼시페롤)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20120403",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249411]리세드론산나트륨2.5수화물|[M040594]콜레칼시페롤",
+ "main_item_ingr_eng": "Cholecalciferol/Risedronate Sodium 2.5 Hydrate",
+ "edi_code": "643506260",
+ "atc_code": "M05BB07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201202525",
+ "revisions": [
+  {
+   "revision_id": "201202525-1d00323f",
+   "content_sha256": "1d00323f5bf3171cd8deff98396e33156764eaa7a33e15509ac93415077c401f",
+   "ee_text": "폐경후 여성의 골다공증 치료와 예방",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-27T13:47:07Z",
+   "last_observed_at": "2026-08-27T13:47:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:47:07Z"
+}

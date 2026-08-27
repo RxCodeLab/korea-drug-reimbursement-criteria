@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605178",
+ "item_name": "웰서방정(부프로피온염산염)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20160830",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233238]부프로피온염산염",
+ "main_item_ingr_eng": "Bupropion Hydrochloride",
+ "edi_code": "649507320",
+ "atc_code": "N06AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605178",
+ "revisions": [
+  {
+   "revision_id": "201605178-ea413b49",
+   "content_sha256": "ea413b49f0be17dd480aa9500fab52e64f40f50491f41f42a7facadf89d62a8e",
+   "ee_text": "- 금연시 니코틴 의존을 치료하기 위한 단기간의 보조요법 - 우울증",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T13:47:32Z",
+   "last_observed_at": "2026-08-27T13:47:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:47:32Z"
+}

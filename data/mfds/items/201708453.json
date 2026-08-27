@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708453",
+ "item_name": "사메주(S-아데노실-L-메티오닌황산토실산염)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20171220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250944]S-아데노실-L-메티오닌황산토실산염",
+ "main_item_ingr_eng": "S-Adenosyl-L-Methionine Sulfate Tosilate",
+ "edi_code": "",
+ "atc_code": "N06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708453",
+ "revisions": [
+  {
+   "revision_id": "201708453-0ece1994",
+   "content_sha256": "0ece199462f8d16720658ab22622183281373feb0ac06b9512ced03b8786d473",
+   "ee_text": "우울증",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-27T11:58:03Z",
+   "last_observed_at": "2026-08-27T11:58:03Z",
+   "official_revision_date": "2017-12-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:58:03Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201854",
+ "item_name": "아루탈삼중정(수출용)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20021018",
+ "cancel_date": "20240429",
+ "status": "취하",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M040631]탄산수소나트륨|[M216095]규산알루민산마그네슘|[M080221]스코폴리아엑스|[M070009]감초가루|[M260674]리파아제Ⅱ|[M096619]비오디아스타제2000Ⅳ|[M245102]트리메부틴말레산염",
+ "main_item_ingr_eng": "Biodiastase 2000 IV/Glycyrrhiza Powder/Lipase II/Magnesium Aluminosilicate/Precipitated Calcium Carbonate/Scopolia Extract/Sodium Bicarbonate/Trimebutine Maleate",
+ "edi_code": "",
+ "atc_code": "A02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201854",
+ "revisions": [
+  {
+   "revision_id": "200201854-fc385fc0",
+   "content_sha256": "fc385fc0e6e9e7cdf43e08f34d780b735e96a2918b026c7a8920aab8a9396a52",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 식체(위체), 구역, 구토, 위통, 신트림, 소화불량, 식욕감퇴(식욕부진), 과식, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T13:40:44Z",
+   "last_observed_at": "2026-08-27T13:40:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:40:44Z"
+}

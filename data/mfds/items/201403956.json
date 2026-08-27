@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403956",
+ "item_name": "탐신서방정0.2밀리그램(탐스로신염산염)",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "20140825",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M241531]탐스로신염산염",
+ "main_item_ingr_eng": "Tamsulosin Hydrochloride",
+ "edi_code": "648602710",
+ "atc_code": "G04CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403956",
+ "revisions": [
+  {
+   "revision_id": "201403956-0747867b",
+   "content_sha256": "0747867b0dc6df1e1a84615fada25aefd3386ec3c82fbe8af46fc82ae103189f",
+   "ee_text": "양성 전립샘비대증에 따른 배뇨장애",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201403956/EE",
+   "first_observed_at": "2026-08-27T13:16:01Z",
+   "last_observed_at": "2026-08-27T13:16:01Z"
+  },
+  {
+   "revision_id": "201403956-309ee3fa",
+   "content_sha256": "309ee3fa4ce164fd1d7280122a0a85927f39d86d9dd03d1a336bfaf8f6c509a2",
+   "ee_text": "(서방정)(구강붕해정)(캡슐제) 양성 전립샘비대증에 따른 배뇨장애",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:16:01Z",
+   "last_observed_at": "2026-08-27T13:16:01Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:16:01Z"
+}

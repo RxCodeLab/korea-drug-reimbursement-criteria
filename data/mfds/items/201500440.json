@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500440",
+ "item_name": "피코프리산",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20150128",
+ "cancel_date": "20250328",
+ "status": "취하",
+ "main_item_ingr": "[M096666]시트르산|[M086039]경질산화마그네슘|[M223336]피코설페이트나트륨수화물",
+ "main_item_ingr_eng": "Anhydrous Citric Acid/Light Magnesium Oxide/Sodium Picosulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "A06AB58",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500440",
+ "history_fetched_at": "2026-08-27T10:37:21Z",
+ "revisions": [
+  {
+   "revision_id": "201500440-6548a5ee",
+   "content_sha256": "6548a5ee6bd96885877af49c1179e565ada1130e56e957a52efa339b01f4a6bd",
+   "ee_text": "대장 X선 검사, 대장내시경 검사, 수술시의 전처치용 하제",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201500440/EE",
+   "first_observed_at": "2026-08-27T10:37:21Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

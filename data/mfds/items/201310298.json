@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310298",
+ "item_name": "동광아리피프라졸정10mg",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20131126",
+ "cancel_date": "20231126",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M096829]아리피프라졸",
+ "main_item_ingr_eng": "Aripiprazole",
+ "edi_code": "",
+ "atc_code": "N05AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310298",
+ "revisions": [
+  {
+   "revision_id": "201310298-b825dd31",
+   "content_sha256": "b825dd317e318535a91354f762250625d37ac5f7be56ed7dc56c80edd1a96687",
+   "ee_text": "정신분열병",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T13:27:08Z",
+   "last_observed_at": "2026-08-27T13:27:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:08Z"
+}

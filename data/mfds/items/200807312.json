@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200807312",
+ "item_name": "마메이드정",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20080701",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070865]알긴산|[M244062]카르복시메틸셀룰로오스나트륨",
+ "main_item_ingr_eng": "Alginic Acid/Carboxymethylcellulose Sodium",
+ "edi_code": "",
+ "atc_code": "A08AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807312",
+ "revisions": [
+  {
+   "revision_id": "200807312-c493dbbf",
+   "content_sha256": "c493dbbf1973592431f28ab09b4f57432231f479a0785873a37604517979170c",
+   "ee_text": "음식물 섭취 감소를 통한 체중감량의 보조요법 ☆ 국내임상시험결과 추가제출(의약품 재평가 진행 중)",
+   "ee_doc_id": "31",
+   "first_observed_at": "2026-08-27T12:06:40Z",
+   "last_observed_at": "2026-08-27T12:06:40Z",
+   "official_revision_date": "2022-09-25"
+  },
+  {
+   "revision_id": "200807312-f08e93f0",
+   "content_sha256": "f08e93f025b88324b6b2fb028e52390744d03165a35ce553c7c57ac126a79d79",
+   "ee_text": "음식물 섭취 감소를 통한 체중감량의 보조요법",
+   "ee_doc_id": "19",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:06:40Z",
+   "last_observed_at": "2026-08-27T12:06:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:06:40Z"
+}

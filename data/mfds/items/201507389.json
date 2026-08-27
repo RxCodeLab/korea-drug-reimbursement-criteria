@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507389",
+ "item_name": "명인탄산리튬정150밀리그램",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20151027",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040628]탄산리튬",
+ "main_item_ingr_eng": "Lithium Carbonate",
+ "edi_code": "651904260",
+ "atc_code": "N05AN01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507389",
+ "revisions": [
+  {
+   "revision_id": "201507389-54d79019",
+   "content_sha256": "54d7901937c74723e1e3ef373c4d86e19c650b7acfd723b13ccafbd2c2f6ee64",
+   "ee_text": "조증·조울증의 치료 및 예방적 유지치료",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T13:38:41Z",
+   "last_observed_at": "2026-08-27T13:38:41Z",
+   "official_revision_date": "2019-03-19"
+  },
+  {
+   "revision_id": "201507389-cbd69f8b",
+   "content_sha256": "cbd69f8be15c6ecfee6b24502f027dd72fb8fb1a6109f9d014c41d22fabb7bdd",
+   "ee_text": "조증·조울증의 예방과 치료",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:38:41Z",
+   "last_observed_at": "2026-08-27T13:38:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:41Z"
+}

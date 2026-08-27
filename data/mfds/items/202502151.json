@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502151",
+ "item_name": "리셀톤멀티데이패취25.92밀리그램(리바스티그민)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20250819",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M220029]리바스티그민",
+ "main_item_ingr_eng": "Rivastigmine",
+ "edi_code": "",
+ "atc_code": "N06DA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502151",
+ "revisions": [
+  {
+   "revision_id": "202502151-ed55c0db",
+   "content_sha256": "ed55c0db7db22f06fd65d58432e8cd247123923842ad943954d2698660dca29d",
+   "ee_text": "● 경도 내지 중등도의 알츠하이머형 치매 또는 파킨슨병과 관련된 치매의 대증적 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:17:35Z",
+   "last_observed_at": "2026-08-27T13:17:35Z",
+   "official_revision_date": "2025-08-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:17:35Z"
+}

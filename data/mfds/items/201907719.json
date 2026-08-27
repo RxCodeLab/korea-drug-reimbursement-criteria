@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907719",
+ "item_name": "다미탁정",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20191105",
+ "cancel_date": "20231004",
+ "status": "취하",
+ "main_item_ingr": "[M040614]클로르족사존|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Chlorzoxazone",
+ "edi_code": "",
+ "atc_code": "M03BB53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907719",
+ "revisions": [
+  {
+   "revision_id": "201907719-83adf585",
+   "content_sha256": "83adf585ffb82d543decc08911d7f1a2ee729ee927f79b7e7750b3e2d6d5835e",
+   "ee_text": "신경통, 근육통, 관절통, 요(허리)통, 염좌통(삔 통증), 견통(어깨결림), 근경련(근육경련), 근경직등 근육의 이상 긴장을 수반하는 제질환(여러 질환)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:02:35Z",
+   "last_observed_at": "2026-08-27T13:02:35Z",
+   "official_revision_date": "2019-11-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:02:35Z"
+}

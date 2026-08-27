@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002247",
+ "item_name": "미라벡서방정50밀리그램(미라베그론)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20200331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258610]미라베그론",
+ "main_item_ingr_eng": "Mirabegron",
+ "edi_code": "643508220",
+ "atc_code": "G04BD12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002247",
+ "revisions": [
+  {
+   "revision_id": "202002247-fb1effc5",
+   "content_sha256": "fb1effc50e9bfbffa59eb67a13d5fbee8a85c8ff9c4c6031eab6755d378f55cb",
+   "ee_text": "성인: 과민성 방광 환자에서 발생할 수 있는 절박뇨, 빈뇨 및/또는 절박요실금 증상의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:07:54Z",
+   "last_observed_at": "2026-08-27T11:07:54Z",
+   "official_revision_date": "2020-03-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:07:54Z"
+}

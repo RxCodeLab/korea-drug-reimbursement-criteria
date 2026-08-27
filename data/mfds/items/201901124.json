@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901124",
+ "item_name": "넥스펜정",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20190222",
+ "cancel_date": "20240202",
+ "status": "취하",
+ "main_item_ingr": "[M051415]푸르설티아민|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Fursultiamine",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901124",
+ "revisions": [
+  {
+   "revision_id": "201901124-6588dd34",
+   "content_sha256": "6588dd3459ae08b9b107424d6124cb396516da192c8304617c5ab8bc159c2710",
+   "ee_text": "1. 주효능, 효과 : 감기로 인한 발열 및 통증, 치통 2. 다음 질환에도 사용할 수 있다. : 두통, 신경통, 근육통, 월경통, 관절통, 류마티스성 통증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:01:53Z",
+   "last_observed_at": "2026-08-27T13:01:53Z",
+   "official_revision_date": "2019-02-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:01:53Z"
+}

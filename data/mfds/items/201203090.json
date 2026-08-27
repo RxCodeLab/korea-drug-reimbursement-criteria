@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201203090",
+ "item_name": "헤파멘드주(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20120420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096429]시아노코발라민|[M204304]피리독신염산염|[M050911]아데노신|[M081379]항독성간장엑스|[M246203]DL-카르니틴염산염|[M081378]오로트산카르니틴",
+ "main_item_ingr_eng": "Adenosine/Antitoxic Liver Extract/Carnitine Orotate/Cyanocobalamin/DL-Carnitine Hydrochloride/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201203090",
+ "revisions": [
+  {
+   "revision_id": "201203090-c97373ae",
+   "content_sha256": "c97373aecf9a5fb7417460fe5525c33b44f9e44f33dffbe8fd287529c296c73f",
+   "ee_text": "다음 질환의 치료 보조 : 급ㆍ만성간염, 지방간, 간경변, 중독성간질환",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-27T12:03:57Z",
+   "last_observed_at": "2026-08-27T12:03:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:03:57Z"
+}

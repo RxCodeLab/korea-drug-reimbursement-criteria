@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501316",
+ "item_name": "암데시아배합정HD(수출용)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20150312",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089055]칸데사르탄실렉세틸|[M222875]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate/Candesartan Cilexetil",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501316",
+ "revisions": [
+  {
+   "revision_id": "201501316-8d6a3229",
+   "content_sha256": "8d6a3229795e561e35fe235eba88331802848fc3ad7aacdf31ec9ade8e6ebe69",
+   "ee_text": "고혈압의 치료에 사용. 안지오텐신 II 수용체에 대한 길항 작용 및 혈관 평활근의 칼슘 채널을 차단하여 말초 혈관 저항을 감소시킴으로써 혈압을 낮춘다. (암로디핀 또는 칸데사르탄 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압)",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T13:19:35Z",
+   "last_observed_at": "2026-08-27T13:19:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:19:35Z"
+}

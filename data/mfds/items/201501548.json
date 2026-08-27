@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501548",
+ "item_name": "테로핀정2밀리그램(테라조신염산염수화물)",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20150324",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250456]테라조신염산염수화물",
+ "main_item_ingr_eng": "Terazosin Hydrochloride Hydrate",
+ "edi_code": "669604340",
+ "atc_code": "G04CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501548",
+ "revisions": [
+  {
+   "revision_id": "201501548-740ac324",
+   "content_sha256": "740ac324bcf13148ad02f9d15352fbe14b2bcccb1c9ee0efc9eab147e26ccbb7",
+   "ee_text": "양성전립선비대에 의한 배뇨장애, 고혈압(경증-중등도)",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-27T13:16:05Z",
+   "last_observed_at": "2026-08-27T13:16:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:16:05Z"
+}

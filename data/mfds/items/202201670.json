@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201670",
+ "item_name": "파록스정10밀리그램(파록세틴염산염수화물)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20220425",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222896]파록세틴염산염수화물",
+ "main_item_ingr_eng": "Paroxetine Hydrochloride Hydrate",
+ "edi_code": "651905180",
+ "atc_code": "N06AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201670",
+ "revisions": [
+  {
+   "revision_id": "202201670-43a7a928",
+   "content_sha256": "43a7a928c7688d8b0bb751cd010a8ca42885acad2af242ec2121a08a40c367ec",
+   "ee_text": "1. 주요우울증 2. 강박장애 3. 공황장애 4. 범불안장애(GAD) 5. 외상후 스트레스장애(PTSD) 6. 사회불안장애/사회공포증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:28:36Z",
+   "last_observed_at": "2026-08-27T12:28:36Z",
+   "official_revision_date": "2022-04-25"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:28:36Z"
+}

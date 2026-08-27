@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500481",
+ "item_name": "마카이드주(트리암시놀론아세토니드)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20150130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040662]트리암시놀론아세토니드",
+ "main_item_ingr_eng": "Triamcinolone Acetonide",
+ "edi_code": "643507101",
+ "atc_code": "S01BA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500481",
+ "revisions": [
+  {
+   "revision_id": "201500481-3324f010",
+   "content_sha256": "3324f010a46e42c9b10a4796abbf8338b8f1df409d3b036b08e20e91877ec622",
+   "ee_text": "1. 유리체 수술 시의 유리체 가시화 2. 당뇨병성 황반부종의 치료",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T12:07:16Z",
+   "last_observed_at": "2026-08-27T12:07:16Z",
+   "official_revision_date": "2018-07-26"
+  },
+  {
+   "revision_id": "201500481-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:07:16Z",
+   "last_observed_at": "2026-08-27T12:07:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:07:16Z"
+}

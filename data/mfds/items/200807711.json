@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200807711",
+ "item_name": "이베르탄듀오정300/12.5mg",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "20080711",
+ "cancel_date": "20240701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223356]히드로클로로티아지드|[M251853]이르베사르탄",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Irbesartan",
+ "edi_code": "",
+ "atc_code": "C09DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807711",
+ "revisions": [
+  {
+   "revision_id": "200807711-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T13:43:41Z",
+   "last_observed_at": "2026-08-27T13:43:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:43:41Z"
+}

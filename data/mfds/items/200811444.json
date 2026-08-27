@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200811444",
+ "item_name": "스피리바레스피맷(티오트로퓸브롬화물수화물)",
+ "entp_name": "한국베링거인겔하임(주)",
+ "permit_date": "20081205",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260630]티오트로퓸브롬화물수화물",
+ "main_item_ingr_eng": "Tiotropium Bromide Hydrate",
+ "edi_code": "653500862,653500863",
+ "atc_code": "R03BB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811444",
+ "revisions": [
+  {
+   "revision_id": "200811444-9a49f938",
+   "content_sha256": "9a49f938fa5aafcc6fffb246a0e1f8ab47204904a7b953a5585b1ca20883eae0",
+   "ee_text": "1. 기관지확장제로 만성폐쇄성 폐질환의 유지요법 2. 중증 악화 경험이 있는 6세 이상 소아 및 성인에서 중증 천식환자 유지치료의 부가요법",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200811444/EE",
+   "first_observed_at": "2026-08-27T11:56:48Z",
+   "last_observed_at": "2026-08-27T11:56:48Z"
+  },
+  {
+   "revision_id": "200811444-fdfa2c60",
+   "content_sha256": "fdfa2c6000477bd17379166a0623928542311340f64e6b47dee0671a646296ba",
+   "ee_text": "1. 기관지확장제로 만성폐쇄성 폐질환의 유지요법 2. 기관지확장제로 중증의 악화 경험이 있는 6세 이상 중증 천식환자의 병용 유지요법",
+   "ee_doc_id": "13",
+   "official_revision_date": "2018-07-25",
+   "first_observed_at": "2026-08-27T11:56:48Z",
+   "last_observed_at": "2026-08-27T11:56:48Z"
+  },
+  {
+   "revision_id": "200811444-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T11:56:48Z",
+   "last_observed_at": "2026-08-27T11:56:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:56:48Z"
+}

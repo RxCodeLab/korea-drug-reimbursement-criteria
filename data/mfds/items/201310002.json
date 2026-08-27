@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310002",
+ "item_name": "잘트랩주25mg/mL(애플리버셉트)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20131101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256584]애플리버셉트|[M256584]애플리버셉트",
+ "main_item_ingr_eng": "Aflibercept",
+ "edi_code": "652000931,652000941",
+ "atc_code": "L01XX44",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310002",
+ "revisions": [
+  {
+   "revision_id": "201310002-f5c9e130",
+   "content_sha256": "f5c9e13000dd83a60d015c153236c0635f01f15f6a49060e3243f2129a5f46aa",
+   "ee_text": "이리노테칸 및 5-FU를 기본으로 하는 화학요법(FOLFIRI)과 병용하여, 옥살리플라틴을 포함하는 화학요법 치료에 저항성이거나 이후 진행된 전이성 결장직장암의 치료",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T11:58:55Z",
+   "last_observed_at": "2026-08-27T11:58:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:58:55Z"
+}

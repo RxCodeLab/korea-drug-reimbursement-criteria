@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200202342",
+ "item_name": "하디콜정",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20020620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096710]갈근탕건조엑스[10→1]|[M258994]아스코르브산|[M050058]구아이페네신|[M203364]슈도에페드린염산염|[M223183]카페인무수물|[M222957]덱스트로메토르판브롬화수소산염수화물|[M223211]클로르페니라민말레산염|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Ascorbic Acid/Chlorpheniramine Maleate/Dextromethorphan Hydrobromide Hydrate/Galgeuntang Dried Extract (10→1)/Guaifenesin/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202342",
+ "revisions": [
+  {
+   "revision_id": "200202342-322de244",
+   "content_sha256": "322de24465f741816b6905f8f9d18a3e45aa59569d509e8931e74ca2b9660bf3",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-27T12:57:19Z",
+   "last_observed_at": "2026-08-27T12:57:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:19Z"
+}

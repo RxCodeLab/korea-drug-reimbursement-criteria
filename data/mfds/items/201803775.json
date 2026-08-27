@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803775",
+ "item_name": "셀프나졸캡슐(플루코나졸)",
+ "entp_name": "엔비케이제약(주)",
+ "permit_date": "20180920",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084154]플루코나졸",
+ "main_item_ingr_eng": "Fluconazole",
+ "edi_code": "",
+ "atc_code": "J02AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803775",
+ "revisions": [
+  {
+   "revision_id": "201803775-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:46:33Z",
+   "last_observed_at": "2026-08-27T13:46:33Z",
+   "official_revision_date": "2018-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:46:33Z"
+}

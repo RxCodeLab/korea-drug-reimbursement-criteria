@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502783",
+ "item_name": "로디엔셋정80/2.5/25밀리그램(텔미사르탄, 에스암로디핀니코틴산염, 클로르탈리돈)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20251028",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040615]클로르탈리돈|[M251686]에스암로디핀니코틴산염|[M090395]텔미사르탄",
+ "main_item_ingr_eng": "Chlorthalidone/S-Amlodipine Nicotinate/Telmisartan",
+ "edi_code": "645307300",
+ "atc_code": "C09DX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502783",
+ "revisions": [
+  {
+   "revision_id": "202502783-c6d99e90",
+   "content_sha256": "c6d99e9059a8eafb60d32b1be259f35919d326fd473417f5761446f7e2e08b5c",
+   "ee_text": "텔미사르탄과 에스암로디핀(암로디핀)의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:26:50Z",
+   "last_observed_at": "2026-08-27T12:26:50Z",
+   "official_revision_date": "2025-10-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:26:50Z"
+}

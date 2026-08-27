@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503969",
+ "item_name": "콜펜시럽(수출용)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20150618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050058]구아이페네신|[M204422]dl-메틸에페드린염산염|[M222957]덱스트로메토르판브롬화수소산염수화물|[M223211]클로르페니라민말레산염|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate/Guaifenesin",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503969",
+ "revisions": [
+  {
+   "revision_id": "201503969-a62ce6b6",
+   "content_sha256": "a62ce6b6fcef106c60d3ded06b8d8768195701ffc71a9d4c3535e991989ca292",
+   "ee_text": "감기 제증상 (콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T13:00:38Z",
+   "last_observed_at": "2026-08-27T13:00:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:00:38Z"
+}

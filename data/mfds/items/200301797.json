@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301797",
+ "item_name": "히아로겔(히알루론산나트륨)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20030318",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222910]히알루론산나트륨",
+ "main_item_ingr_eng": "Sodium Hyaluronate",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301797",
+ "revisions": [
+  {
+   "revision_id": "200301797-5a56bc0b",
+   "content_sha256": "5a56bc0b8cf3043a47e35d20c62bf38b837c24f1266bedfa870ca38b9c1a0b41",
+   "ee_text": "치육점막이 상승된 히알루론산 농도를 필요로 하는 치은염, 잇몸출혈과 같은 염증상태와 스케일링, 박리, 발치, 외과적 처치후와 같은 외상성 상태의 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200301797/EE",
+   "first_observed_at": "2026-08-27T11:03:20Z",
+   "last_observed_at": "2026-08-27T11:03:20Z"
+  },
+  {
+   "revision_id": "200301797-62758eb1",
+   "content_sha256": "62758eb12304b853aa04e639cfd6eee0806643bb96445a04ba07dc15400695d5",
+   "ee_text": "(겔제)(액제) 치육점막이 상승된 히알루론산 농도를 필요로 하는 치은염, 잇몸출혈과 같은 염증상태와 스케일링, 박리, 발치, 외과적 처치후와 같은 외상성 상태의 치료",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T11:03:20Z",
+   "last_observed_at": "2026-08-27T11:03:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:03:20Z"
+}

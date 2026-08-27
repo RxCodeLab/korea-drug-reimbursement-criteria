@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500837",
+ "item_name": "칼디민정",
+ "entp_name": "풍림무약(주)",
+ "permit_date": "20250409",
+ "cancel_date": "20251210",
+ "status": "취하",
+ "main_item_ingr": "[M223258]티아민염산염|[M096429]시아노코발라민|[M086116]농축콜레칼시페롤|[M247470]시트르산칼슘수화물",
+ "main_item_ingr_eng": "Calcium Citrate Hydrate/Cholecalciferol Concentrate/Cyanocobalamin/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500837",
+ "history_fetched_at": "2026-08-27T10:38:14Z",
+ "revisions": [
+  {
+   "revision_id": "202500837-bad15fef",
+   "content_sha256": "bad15fefd33c2b1b3c72cfc9a2a109604ef34abc930f9255f19f11a0117a924e",
+   "ee_text": "1 ,비타민D의 보급\">",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202500837/EE",
+   "first_observed_at": "2026-08-27T10:38:14Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901799",
+ "item_name": "노브디핀에스정2.5mg(에스암로디핀베실산염이수화물)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20190326",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M226654]에스암로디핀베실산염이수화물",
+ "main_item_ingr_eng": "S-Amlodipine Besylate Dihydrate",
+ "edi_code": "649104330",
+ "atc_code": "C08CA17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901799",
+ "revisions": [
+  {
+   "revision_id": "201901799-b360e542",
+   "content_sha256": "b360e5422266e28a39878d87a7edc4cde1c4b2708b8bf2ef2b3c74e33e4cb5db",
+   "ee_text": "고혈압, 관상동맥의 고정폐쇄(안정협심증) 또는 관상혈관계의 혈관경련수축(이형협심증)에 의한 심근성허혈증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:33:50Z",
+   "last_observed_at": "2026-08-27T12:33:50Z",
+   "official_revision_date": "2019-03-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:50Z"
+}

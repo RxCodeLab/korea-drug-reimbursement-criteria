@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405790",
+ "item_name": "리버솔액",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20141208",
+ "cancel_date": "20240328",
+ "status": "취하",
+ "main_item_ingr": "[M103077]L-아르기닌|[M223090]시트르산수화물|[M241790]베타인염산염|[M050571]베타인",
+ "main_item_ingr_eng": "Betaine/Betaine Hydrochloride/Citric Acid Hydrate/L-Arginine",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405790",
+ "history_fetched_at": "2026-08-27T10:37:20Z",
+ "revisions": [
+  {
+   "revision_id": "201405790-af50c0f7",
+   "content_sha256": "af50c0f7a0cf575b1db51490e7cb36d77f7555984a63c96396ab05318e9f7684",
+   "ee_text": "간질환의 보조치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201405790/EE",
+   "first_observed_at": "2026-08-27T10:37:20Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

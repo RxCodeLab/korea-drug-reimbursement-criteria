@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202009329",
+ "item_name": "아리졸정5밀리그램(아리피프라졸(미분화))",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20201229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270799]아리피프라졸(미분화)",
+ "main_item_ingr_eng": "Aripiprazole Micronized",
+ "edi_code": "671706750",
+ "atc_code": "N05AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009329",
+ "revisions": [
+  {
+   "revision_id": "202009329-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T13:27:21Z",
+   "last_observed_at": "2026-08-27T13:27:21Z",
+   "official_revision_date": "2022-08-29"
+  },
+  {
+   "revision_id": "202009329-7b80ea17",
+   "content_sha256": "7b80ea17995ec77569a3a38d637f74317ea5c9e89b06e445f47616312ef68f61",
+   "ee_text": "1. 정신분열병 2. 뚜렛장애",
+   "ee_doc_id": "5",
+   "official_revision_date": "2021-02-03",
+   "first_observed_at": "2026-08-27T13:27:21Z",
+   "last_observed_at": "2026-08-27T13:27:21Z"
+  },
+  {
+   "revision_id": "202009329-29f9610e",
+   "content_sha256": "29f9610ec790eb8a362955e99de6309825ebdcaf042a23ee215f42a10351bec2",
+   "ee_text": "1. 정신분열병 2. 양극성 장애와 관련된 급성 조증 및 혼재 삽화의 치료 3. 뚜렛장애",
+   "ee_doc_id": "2",
+   "official_revision_date": "2020-12-30",
+   "first_observed_at": "2026-08-27T13:27:21Z",
+   "last_observed_at": "2026-08-27T13:27:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:21Z"
+}

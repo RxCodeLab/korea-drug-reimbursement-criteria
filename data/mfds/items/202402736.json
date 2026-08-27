@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402736",
+ "item_name": "애드민디에스정",
+ "entp_name": "(주)한국피엠지제약",
+ "permit_date": "20241120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223289]폴산|[M050436]메코발라민|[M086116]농축콜레칼시페롤|[M247470]시트르산칼슘수화물",
+ "main_item_ingr_eng": "Calcium Citrate Hydrate/Cholecalciferol Concentrate/Folic Acid/Mecobalamin",
+ "edi_code": "697101070",
+ "atc_code": "A11JB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402736",
+ "history_fetched_at": "2026-08-27T10:37:58Z",
+ "revisions": [
+  {
+   "revision_id": "202402736-c5ed9174",
+   "content_sha256": "c5ed91742c4627ca796a4372aad815a03ef56c3f9bf55191c2bd8edefad71436",
+   "ee_text": "1. 다음 경우의 비타민D의 보급 - 임신·수유기 - 발육기 - 노년기 2. 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202402736/EE",
+   "first_observed_at": "2026-08-27T10:37:58Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300196",
+ "item_name": "화이트다파글립틴정10/100밀리그램",
+ "entp_name": "(주)화이트생명과학",
+ "permit_date": "20230111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251915]시타글립틴인산염수화물|[M258339]다파글리플로진프로판디올수화물",
+ "main_item_ingr_eng": "Dapagliflozin Propanediol Hydrate/Sitagliptin Phosphate Hydrate",
+ "edi_code": "625202300",
+ "atc_code": "A10BD29",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300196",
+ "revisions": [
+  {
+   "revision_id": "202300196-e6437141",
+   "content_sha256": "e6437141f57ef7b19e02c169c80b2d395092e0155c02b16df7e9864c26312182",
+   "ee_text": "이 약은 시타글립틴과 다파글리플로진의 병용투여가 적합한 제2형 당뇨병 환자의 혈당 조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:55:10Z",
+   "last_observed_at": "2026-08-27T12:55:10Z",
+   "official_revision_date": "2023-01-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:55:10Z"
+}

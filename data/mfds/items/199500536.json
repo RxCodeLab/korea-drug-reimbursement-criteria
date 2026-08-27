@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199500536",
+ "item_name": "셀라펜정",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "19950420",
+ "cancel_date": "20230920",
+ "status": "취하",
+ "main_item_ingr": "[M040614]클로르족사존|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Chlorzoxazone",
+ "edi_code": "",
+ "atc_code": "M03BB53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500536",
+ "revisions": [
+  {
+   "revision_id": "199500536-da1d84da",
+   "content_sha256": "da1d84daa39c2e0470a87c426e6171e1ed75919c9e71c3e9c86038a86c9d823a",
+   "ee_text": "신경통, 근육통, 관절통, 요(허리)통, 염좌(삠)통, 견통(어깨결림), 근경련(근육경련), 근경직 등 근육의 이상 긴장을 수반하는 제질환(여러 질환)",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-27T12:56:50Z",
+   "last_observed_at": "2026-08-27T12:56:50Z",
+   "official_revision_date": "2019-09-01"
+  },
+  {
+   "revision_id": "199500536-0c144e51",
+   "content_sha256": "0c144e517c806ccf1f939a24da15805af9cc0c3d5e1eef2838865f9549d058a4",
+   "ee_text": "신경통, 근육통, 관절통, 요통, 염좌통, 견통, 근경련, 근경직 등 근육의 이상 긴장을 수반하는 제질환",
+   "ee_doc_id": "20",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:56:50Z",
+   "last_observed_at": "2026-08-27T12:56:50Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:56:50Z"
+}

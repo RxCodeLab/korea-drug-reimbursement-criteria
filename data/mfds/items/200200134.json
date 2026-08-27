@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200134",
+ "item_name": "향감캡슐",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20021204",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M223184]카페인수화물|[M222957]덱스트로메토르판브롬화수소산염수화물|[M223211]클로르페니라민말레산염|[M204422]dl-메틸에페드린염산염|[M040417]에텐자미드|[M040353]아세트아미노펜|[M087324]향소산엑스",
+ "main_item_ingr_eng": "Acetaminophen/Caffeine Hydrate/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate/Ethenzamide/Hyangsosan Extract",
+ "edi_code": "",
+ "atc_code": "R05DA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200134",
+ "revisions": [
+  {
+   "revision_id": "200200134-33d1f4f5",
+   "content_sha256": "33d1f4f53f7ba89be50712a0ac9015c1a492a779143a5bfb3f74ac6d66260499",
+   "ee_text": "감기의 제증상 (콧물, 코막힘, 재채기, 인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T12:57:12Z",
+   "last_observed_at": "2026-08-27T12:57:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:12Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908133",
+ "item_name": "라이트아테놀롤정50밀리그램(아테놀롤)",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20191128",
+ "cancel_date": "20241128",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M201140]아테놀롤",
+ "main_item_ingr_eng": "Atenolol",
+ "edi_code": "",
+ "atc_code": "C07AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908133",
+ "revisions": [
+  {
+   "revision_id": "201908133-fc09aeca",
+   "content_sha256": "fc09aeca6baca9dbb0b3934ebb4d4aad9aec7d7daae77310d1d7d48c21c077d7",
+   "ee_text": "고혈압, 협심증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:29:13Z",
+   "last_observed_at": "2026-08-27T12:29:13Z",
+   "official_revision_date": "2019-11-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:13Z"
+}

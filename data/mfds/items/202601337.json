@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601337",
+ "item_name": "엑스듀오플러스정2.5/160/2.5밀리그램(에스암로디핀,발사르탄,인다파미드)",
+ "entp_name": "국제약품(주)",
+ "permit_date": "20260506",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263840]S-암로디핀베실산염2.5수화물|[M090403]발사르탄|[M051280]인다파미드",
+ "main_item_ingr_eng": "Indapamide/S-Amlodipine Besylate 2.5 Hydrate/Valsartan",
+ "edi_code": "",
+ "atc_code": "C09DX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601337",
+ "revisions": [
+  {
+   "revision_id": "202601337-c49dc3b2",
+   "content_sha256": "c49dc3b294cdad5aeed8b9c141d487c282e2afb79efcb528938c25fe721d9664",
+   "ee_text": "에스암로디핀(암로디핀)과 발사르탄의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:29:22Z",
+   "last_observed_at": "2026-08-27T12:29:22Z",
+   "official_revision_date": "2026-05-06"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:22Z"
+}

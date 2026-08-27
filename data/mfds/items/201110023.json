@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201110023",
+ "item_name": "람세트오디정0.1밀리그램(라모세트론염산염)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20111115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255325]라모세트론염산염",
+ "main_item_ingr_eng": "Ramosetron Hydrochloride",
+ "edi_code": "657804810",
+ "atc_code": "A04AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110023",
+ "revisions": [
+  {
+   "revision_id": "201110023-c6ed040d",
+   "content_sha256": "c6ed040d54650161398a0f94e6648233ec64ef92f4f7c3c0c776422aedc945d4",
+   "ee_text": "항암제(시스플라틴 등) 투여로 인한 구역 및 구토의 방지",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T11:01:03Z",
+   "last_observed_at": "2026-08-27T11:01:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:01:03Z"
+}

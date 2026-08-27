@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201029",
+ "item_name": "리페리돈정2밀리그램(리스페리돈)(수출명:Riperidone Tab.2mg)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "20021031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086310]리스페리돈",
+ "main_item_ingr_eng": "Risperidone",
+ "edi_code": "657200240",
+ "atc_code": "N05AX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201029",
+ "revisions": [
+  {
+   "revision_id": "200201029-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "39",
+   "first_observed_at": "2026-08-27T12:47:09Z",
+   "last_observed_at": "2026-08-27T12:47:09Z",
+   "official_revision_date": "2024-04-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:47:09Z"
+}

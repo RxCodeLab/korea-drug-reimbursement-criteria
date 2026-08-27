@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405342",
+ "item_name": "한풍노즈액",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20141117",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260766]소청룡탕연조엑스(1.67→1)|[M040353]아세트아미노펜|[M223183]카페인무수물|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Chlorpheniramine Maleate/Socheongryongtang Soft Extract (1.67→1)",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405342",
+ "revisions": [
+  {
+   "revision_id": "201405342-088c60c9",
+   "content_sha256": "088c60c91221734b1566ab4c7abfe731efd73f3185a465ed057d93075d052af9",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후통, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T13:00:23Z",
+   "last_observed_at": "2026-08-27T13:00:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:00:23Z"
+}

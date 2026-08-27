@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201005076",
+ "item_name": "카베피아정25밀리그램(카르베딜롤)(수출용)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20100819",
+ "cancel_date": "20231206",
+ "status": "취하",
+ "main_item_ingr": "[M085731]카르베딜롤",
+ "main_item_ingr_eng": "Carvedilol",
+ "edi_code": "",
+ "atc_code": "C07AG02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005076",
+ "revisions": [
+  {
+   "revision_id": "201005076-482dbde8",
+   "content_sha256": "482dbde812e5fafdd07e30329976867eba52e52f2aeae36e9bdb8fb09ada529d",
+   "ee_text": "- 본태성 고혈압 - 만성 안정형 협심증",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T12:23:52Z",
+   "last_observed_at": "2026-08-27T12:23:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:23:52Z"
+}

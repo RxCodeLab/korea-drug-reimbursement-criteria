@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302831",
+ "item_name": "나노펜정",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20030318",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223184]카페인수화물|[M040417]에텐자미드|[M040353]아세트아미노펜|[M070009]감초가루|[M082518]작약가루",
+ "main_item_ingr_eng": "Acetaminophen/Caffeine Hydrate/Ethenzamide/Glycyrrhiza Powder/Peony Root Powder",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302831",
+ "revisions": [
+  {
+   "revision_id": "200302831-a174db90",
+   "content_sha256": "a174db9049e53e6d1cd26761768ca95fddf40accccc1ce25854973ad8062d3b2",
+   "ee_text": "1. 두통, 치통, 발치(이를 뽑음)후 동통(통증), 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요통, 근육통, 견통(어깨결림, 어깨통증), 타박통, 골절통, 염좌통(삔 통증), 월경통(생리통), 외상(상처)통의 진통 2. 오한(춥고 떨리는 증상), 발열시의 해열",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-27T12:57:29Z",
+   "last_observed_at": "2026-08-27T12:57:29Z",
+   "official_revision_date": "2020-04-09"
+  },
+  {
+   "revision_id": "200302831-be13915d",
+   "content_sha256": "be13915da5e03a66c2d55bd2234d2e659112eef40af4d8594d68a59e49384d3f",
+   "ee_text": "1. 두통, 치통, 발치(이를 뽑음)후 동통, 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요통, 근육통, 견통(어깨결림), 타박통, 골절통, 염좌(삔 통증)통, 월경통(생리통), 외상(상처)통의 진통 2. 오한(춥고 떨리는 증상), 발열시의 해열",
+   "ee_doc_id": "12",
+   "official_revision_date": "2019-04-22",
+   "first_observed_at": "2026-08-27T12:57:29Z",
+   "last_observed_at": "2026-08-27T12:57:29Z"
+  },
+  {
+   "revision_id": "200302831-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:57:29Z",
+   "last_observed_at": "2026-08-27T12:57:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:29Z"
+}

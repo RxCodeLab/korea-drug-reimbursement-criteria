@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197700525",
+ "item_name": "대원디아제팜정2밀리그램(수출명:디아잠정2밀리그램)(수출명2:트레즈콘정2밀리그램)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "19770512",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040102]디아제팜",
+ "main_item_ingr_eng": "Diazepam",
+ "edi_code": "671800270",
+ "atc_code": "N05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197700525",
+ "revisions": [
+  {
+   "revision_id": "197700525-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T13:15:01Z",
+   "last_observed_at": "2026-08-27T13:15:01Z",
+   "official_revision_date": "2018-11-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:15:01Z"
+}

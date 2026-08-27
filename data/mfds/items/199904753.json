@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199904753",
+ "item_name": "니시콜펜정(수출용)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "19990922",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223015]DL-메티오닌",
+ "main_item_ingr_eng": "Acetaminophen/DL-Methionine",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199904753",
+ "revisions": [
+  {
+   "revision_id": "199904753-8a4c8113",
+   "content_sha256": "8a4c81139deac7805520846df11c55fd0d4fbbbd2101287602b5f2b6d9209246",
+   "ee_text": "*두통,치통,발치후 동통,인후통,귀의 통증,관절통,신경통,요통,근육통,견통,타박통,골절통,염좌통,월경통(생리통),외상통의 진통 *오한,발열시의 해열",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T12:56:58Z",
+   "last_observed_at": "2026-08-27T12:56:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:56:58Z"
+}

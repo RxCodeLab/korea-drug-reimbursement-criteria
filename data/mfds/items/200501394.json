@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501394",
+ "item_name": "바리드정(레바미피드)",
+ "entp_name": "삼남제약(주)",
+ "permit_date": "20050530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083925]레바미피드",
+ "main_item_ingr_eng": "Rebamipide",
+ "edi_code": "653700300",
+ "atc_code": "A02BX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501394",
+ "revisions": [
+  {
+   "revision_id": "200501394-b6bf58a1",
+   "content_sha256": "b6bf58a14cb138fd65bf676c9974009ee7eb99384eb7180d2cb1e733dbd9ebc5",
+   "ee_text": ": 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T13:47:55Z",
+   "last_observed_at": "2026-08-27T13:47:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:47:55Z"
+}

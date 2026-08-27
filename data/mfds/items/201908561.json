@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908561",
+ "item_name": "리버픽스정(비페닐디메틸디카르복실레이트)",
+ "entp_name": "건일바이오팜주식회사",
+ "permit_date": "20191220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256672]비페닐디메틸디카르복실레이트",
+ "main_item_ingr_eng": "Biphenyl Dimethyl Dicarboxylate",
+ "edi_code": "073000920",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908561",
+ "revisions": [
+  {
+   "revision_id": "201908561-1daf28f4",
+   "content_sha256": "1daf28f44eb3cba602814bbd981a8890e5450cd0b6350a2466c3b70a5766c039",
+   "ee_text": "지속적으로 ALT가 상승되어 있는 만성간염",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:31:59Z",
+   "last_observed_at": "2026-08-27T12:31:59Z",
+   "official_revision_date": "2019-12-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:31:59Z"
+}

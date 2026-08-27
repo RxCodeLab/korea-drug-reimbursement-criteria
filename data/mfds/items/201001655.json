@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201001655",
+ "item_name": "메디톡신주 50단위(클로스트리디움보툴리눔독소A형)[수출명:뉴로녹스주 50단위(클로스트리디움보툴리눔독소A형), 시악스주 50단위(클로스트리디움보툴리눔독소A형), 에복시아주 50단위(클로스트리디움보툴리눔독소A형), 아이록신주 50단위(클로스트리디움보툴리눔독소A형), 보타넥스주 50단위(클로스트리디움보툴리눔독소A형), 큐녹스주 50단위(클로스트리디움보툴리눔독소A형), 보툴리프트주 50단위(클로스트리디움보툴리눔독소A형)]",
+ "entp_name": "(주)메디톡스",
+ "permit_date": "20100224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M237131]클로스트리디움 보툴리눔 독소 A형 (Hall 균주)|[M237131]클로스트리디움 보툴리눔 독소 A형 (Hall 균주)",
+ "main_item_ingr_eng": "Clostridium Botulinum Toxin Type A (Strain: Hall)",
+ "edi_code": "",
+ "atc_code": "M03AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001655",
+ "revisions": [
+  {
+   "revision_id": "201001655-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "59",
+   "first_observed_at": "2026-08-27T10:59:14Z",
+   "last_observed_at": "2026-08-27T10:59:14Z",
+   "official_revision_date": "2024-05-16"
+  },
+  {
+   "revision_id": "201001655-eef54137",
+   "content_sha256": "eef54137b8014b3694e77bfc3c21a01f95ffc1ad8312bbc1649a3334a4600614",
+   "ee_text": ": 20세 이상 성인의 뇌졸중과 관련된 상지 국소 근육 경직",
+   "ee_doc_id": "25",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T10:59:14Z",
+   "last_observed_at": "2026-08-27T10:59:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T10:59:14Z"
+}

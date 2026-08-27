@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201200958",
+ "item_name": "바이클로스포린점안액(사이클로스포린)(1회용)",
+ "entp_name": "(주)바이넥스",
+ "permit_date": "20120215",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085282]사이클로스포린",
+ "main_item_ingr_eng": "Cyclosporine",
+ "edi_code": "643103491",
+ "atc_code": "S01XA18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200958",
+ "revisions": [
+  {
+   "revision_id": "201200958-369ba08c",
+   "content_sha256": "369ba08c1e0448b71f5fbb42bc11dd6c4ae36426c41006d7f17bf61d87dc4c42",
+   "ee_text": "다음 질환으로 인해 눈물 생성이 억제된 환자에 있어 눈물 생성의 증가 : 건조각결막염과 관련된 안염증",
+   "ee_doc_id": "27",
+   "first_observed_at": "2026-08-27T12:28:54Z",
+   "last_observed_at": "2026-08-27T12:28:54Z",
+   "official_revision_date": "2026-07-03"
+  },
+  {
+   "revision_id": "201200958-8264f5db",
+   "content_sha256": "8264f5db1b8efdff458582023b14bda0ae08765435386cf41b6881d9f4f60479",
+   "ee_text": "다음 질환으로 인해 눈물 생성이 억제된 환자에 있어 눈물 생성의 증가: 건조각막결막염과 관련된 안염증",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:28:54Z",
+   "last_observed_at": "2026-08-27T12:28:54Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:28:54Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200608345",
+ "item_name": "코러스염산테라조신정(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20061108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249200]테라조신염산염",
+ "main_item_ingr_eng": "Terazosin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "G04CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608345",
+ "revisions": [
+  {
+   "revision_id": "200608345-00adc994",
+   "content_sha256": "00adc994bc61898f8f8d900f7f1d015acb88d5aa47a9a4a827775b853e7d1bb7",
+   "ee_text": "고혈압(경증-중등도), 양성전립선비대에 의한 배뇨장애",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T13:24:10Z",
+   "last_observed_at": "2026-08-27T13:24:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:24:10Z"
+}

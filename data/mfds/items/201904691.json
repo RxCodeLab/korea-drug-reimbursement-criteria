@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904691",
+ "item_name": "알리무스점안액0.1%(타크로리무스수화물)",
+ "entp_name": "(주)태준제약",
+ "permit_date": "20190711",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M227652]타크로리무스 수화물",
+ "main_item_ingr_eng": "Tacrolimus Hydrate",
+ "edi_code": "",
+ "atc_code": "S01XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904691",
+ "revisions": [
+  {
+   "revision_id": "201904691-7ce00dcf",
+   "content_sha256": "7ce00dcfced67c2daa3b1f06d42a3c81d2c2707bc8d547ba57de450b9f23b111",
+   "ee_text": "눈꺼풀 결막에 거대 유두 증식이 있는 봄철각결막염(항알레르기제의 효과가 불충분한 경우)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:33:43Z",
+   "last_observed_at": "2026-08-27T12:33:43Z",
+   "official_revision_date": "2019-07-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:43Z"
+}

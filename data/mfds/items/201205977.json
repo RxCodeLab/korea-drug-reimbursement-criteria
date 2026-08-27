@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201205977",
+ "item_name": "에이콜연질캡슐",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20120629",
+ "cancel_date": "20250219",
+ "status": "취하",
+ "main_item_ingr": "[M050058]구아이페네신|[M222957]덱스트로메토르판브롬화수소산염수화물|[M203364]슈도에페드린염산염|[M223211]클로르페니라민말레산염|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Chlorpheniramine Maleate/Dextromethorphan Hydrobromide Hydrate/Guaifenesin/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205977",
+ "revisions": [
+  {
+   "revision_id": "201205977-11ce06ce",
+   "content_sha256": "11ce06cea9a164a48d2204c78915d8a52b81dfbcdd15434f7525b2087b33da07",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T12:59:29Z",
+   "last_observed_at": "2026-08-27T12:59:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:59:29Z"
+}

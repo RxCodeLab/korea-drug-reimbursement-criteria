@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201002798",
+ "item_name": "슈퍼시프로점안액(시프로플록사신염산염)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20100416",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223091]시프로플록사신염산염수화물",
+ "main_item_ingr_eng": "Ciprofloxacin Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "S01AE03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002798",
+ "revisions": [
+  {
+   "revision_id": "201002798-5e58d111",
+   "content_sha256": "5e58d1112a7f891bd8e053682e62ca9abafd4f46683e6356ea57703756c377af",
+   "ee_text": "* 이 균종에 대한 효능연구는 10개 이하 경우에서 실시됨.",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T13:22:27Z",
+   "last_observed_at": "2026-08-27T13:22:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:22:27Z"
+}

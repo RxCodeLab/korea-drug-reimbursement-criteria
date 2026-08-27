@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502216",
+ "item_name": "독사존엑스엘서방정4밀리그램(독사조신메실산염)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20050325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252421]독사조신메실산염",
+ "main_item_ingr_eng": "Doxazosin Mesylate",
+ "edi_code": "643500350",
+ "atc_code": "C02CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502216",
+ "revisions": [
+  {
+   "revision_id": "200502216-252a49e3",
+   "content_sha256": "252a49e3d29cd69d0a7127592eedc75a7e746f7937deb7303681961335714825",
+   "ee_text": "고혈압, 양성전립선 비대에 의한 뇨폐색 및 배뇨장애",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T13:25:05Z",
+   "last_observed_at": "2026-08-27T13:25:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:25:05Z"
+}

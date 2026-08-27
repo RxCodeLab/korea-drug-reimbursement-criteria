@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003373",
+ "item_name": "뮤펙손정(에페리손염산염)",
+ "entp_name": "(주)보령바이오파마",
+ "permit_date": "20200509",
+ "cancel_date": "20250509",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M232172]에페리손염산염",
+ "main_item_ingr_eng": "Eperisone Hydrochloride",
+ "edi_code": "",
+ "atc_code": "M03BX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003373",
+ "revisions": [
+  {
+   "revision_id": "202003373-0d0d23b4",
+   "content_sha256": "0d0d23b4b723a3f64a7098b6d68461e3f4f9f2a0be7e61ced7126b25287649ba",
+   "ee_text": "1. 근골격계질환에 수반하는 동통성 근육연축 : 경견완증후군, 견관절주위염, 요통 2. 신경계 질환에 의한 경직성 마비 : 뇌혈관장애, 경직성 척수마비, 경부척추증, 수술후 후유증(뇌·척수종양 포함), 외상후유증(척수손상, 두부외상), 근위축성 축색경화증, 뇌성마비, 척수소뇌변성증, 척수혈관장애, 아급성 척수시신경병변, 기타의 뇌척수질환",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:06:27Z",
+   "last_observed_at": "2026-08-27T12:06:27Z",
+   "official_revision_date": "2020-05-09"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:06:27Z"
+}

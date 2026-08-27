@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003574",
+ "item_name": "네오카프주(카페인시트르산염)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20100518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222565]시트르산나트륨수화물|[M223090]시트르산수화물|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Citric Acid Hydrate/Sodium Citrate Hydrate",
+ "edi_code": "659900440,659900530",
+ "atc_code": "R07AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003574",
+ "history_fetched_at": "2026-08-27T10:37:11Z",
+ "revisions": [
+  {
+   "revision_id": "201003574-c0d3505f",
+   "content_sha256": "c0d3505f995d657516d08fbf41b0afa3032c0846ef3367c15fdd906665e77c35",
+   "ee_text": "미숙아의 무호흡증에 대한 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201003574/EE",
+   "first_observed_at": "2026-08-27T10:37:11Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

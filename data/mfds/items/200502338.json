@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502338",
+ "item_name": "광동탕골드액",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20050627",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M102829]진광탕연조엑스",
+ "main_item_ingr_eng": "Acetaminophen/Jinkwangtang Extract",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502338",
+ "revisions": [
+  {
+   "revision_id": "200502338-b8385c9f",
+   "content_sha256": "b8385c9f8783f40142067ee9632d7f9c2dc0cd0030b8e7ad40cd8ea561330ca4",
+   "ee_text": "감기의 제증상 (두통, 인후통, 오한, 발열, 관절통, 근육통)의 완화",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:57:41Z",
+   "last_observed_at": "2026-08-27T12:57:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:41Z"
+}

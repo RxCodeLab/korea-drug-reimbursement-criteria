@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200604208",
+ "item_name": "감콜캡슐(수출용)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20060519",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M230816]감초엑스산(5→1)|[M101406]길경엑스산(10→1)|[M222957]덱스트로메토르판브롬화수소산염수화물|[M204422]dl-메틸에페드린염산염|[M040353]아세트아미노펜|[M223211]클로르페니라민말레산염|[M050448]메타규산알루민산마그네슘|[M223262]티아민질산염|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate/Glycyrrhiza Extract Powder (5→1)/Magnesium Aluminometasilicate/Platycodon Root Extract Powder (10→1)/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604208",
+ "revisions": [
+  {
+   "revision_id": "200604208-8707b93f",
+   "content_sha256": "8707b93f00c7c0f4d766a5aa64605eed450dbb0377fae1f7670d9f7dd639f8ba",
+   "ee_text": "감기 제증상 (콧물, 코막힘, 재채기, 인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T12:57:44Z",
+   "last_observed_at": "2026-08-27T12:57:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:44Z"
+}

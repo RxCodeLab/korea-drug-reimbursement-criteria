@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801836",
+ "item_name": "페릭신정(클로닉신리시네이트)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20080215",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080375]클로닉신리시네이트",
+ "main_item_ingr_eng": "Clonixin Lysinate",
+ "edi_code": "",
+ "atc_code": "M01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801836",
+ "revisions": [
+  {
+   "revision_id": "200801836-2825c583",
+   "content_sha256": "2825c583f4caea4cb6b875d9de4ff1a8e2dd1cd0ea4523fa7f5c88ac094456c0",
+   "ee_text": ": 근육통, 신경통, 외상후 및 수술후 통증, 두통, 치통, 귀통증",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T12:45:54Z",
+   "last_observed_at": "2026-08-27T12:45:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:45:54Z"
+}

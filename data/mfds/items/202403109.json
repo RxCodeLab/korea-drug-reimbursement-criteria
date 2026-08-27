@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202403109",
+ "item_name": "브이콜드시럽",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20241231",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223211]클로르페니라민말레산염|[M223287]펜톡시베린시트르산염|[M050058]구아이페네신|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Chlorpheniramine Maleate/Guaifenesin/Pentoxyverine Citrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403109",
+ "revisions": [
+  {
+   "revision_id": "202403109-44737ea7",
+   "content_sha256": "44737ea7c37a8e436cd59526d477855d4b6a655aa5bc7f63ec371432dfad569e",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후[목구멍]통, 기침, 가래, 오한[춥고 떨리는 증상], 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:05:31Z",
+   "last_observed_at": "2026-08-27T13:05:31Z",
+   "official_revision_date": "2024-12-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:05:31Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002454",
+ "item_name": "데팍신서방정100밀리그램(데스벤라팍신)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "20200407",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268885]데스벤라팍신",
+ "main_item_ingr_eng": "Desvenlafaxine",
+ "edi_code": "657203570",
+ "atc_code": "N06AX23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002454",
+ "revisions": [
+  {
+   "revision_id": "202002454-cf12792b",
+   "content_sha256": "cf12792bdcc39b7d393fa41a10419696c6a134ddf983f933b1d5869114761ea5",
+   "ee_text": "주요 우울증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:32:58Z",
+   "last_observed_at": "2026-08-27T12:32:58Z",
+   "official_revision_date": "2020-04-07"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:32:58Z"
+}

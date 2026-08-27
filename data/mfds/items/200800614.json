@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200800614",
+ "item_name": "아클린정",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20080115",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M040614]클로르족사존",
+ "main_item_ingr_eng": "Acetaminophen/Chlorzoxazone",
+ "edi_code": "",
+ "atc_code": "M03BB53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800614",
+ "revisions": [
+  {
+   "revision_id": "200800614-7c5a028f",
+   "content_sha256": "7c5a028f4ad9a8fe820715e429d1c3398221cab40ccdce9fb6129f9786adacc0",
+   "ee_text": "신경통, 근육통, 관절통, 요통, 염좌통(삔 통증), 견통(어깨결림), 근경련(근육경련), 근경직등 근육의 이상 긴장을 수반하는 제질환",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:58:25Z",
+   "last_observed_at": "2026-08-27T12:58:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:58:25Z"
+}

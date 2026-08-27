@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197300084",
+ "item_name": "리팜핀캡슐150밀리그램(리팜피신)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "19730611",
+ "cancel_date": "20260507",
+ "status": "취하",
+ "main_item_ingr": "[M020042]리팜피신",
+ "main_item_ingr_eng": "Rifampicin",
+ "edi_code": "642100420",
+ "atc_code": "J04AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197300084",
+ "revisions": [
+  {
+   "revision_id": "197300084-aabe9864",
+   "content_sha256": "aabe986444718b29a86959ed6059a4b6641bfea3a4c97465e53d2b66497f2cf5",
+   "ee_text": "결핵균, 수막염균 결핵, 무증후성 수막염균 보균자",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T13:37:41Z",
+   "last_observed_at": "2026-08-27T13:37:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:37:41Z"
+}

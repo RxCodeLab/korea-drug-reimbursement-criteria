@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700084",
+ "item_name": "리포믹스캅셀(리팜피신,이소니코틴산히드라짓캅셀)(수출용)",
+ "entp_name": "(주)종근당",
+ "permit_date": "19870318",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040493]이소니코틴산히드라짓|[M020042]리팜피신",
+ "main_item_ingr_eng": "Isoniazid/Rifampicin",
+ "edi_code": "",
+ "atc_code": "J04AM02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700084",
+ "revisions": [
+  {
+   "revision_id": "198700084-67898127",
+   "content_sha256": "678981273d234a51b83eb39b11e99679a35d116a6737544ff3ebb3ceea9bd987",
+   "ee_text": "유효균종 : 본제에 감수성인 결핵균 적응증 : 폐결핵(초기요법이나 예방요법으로는 적당하지 않음)",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T13:41:36Z",
+   "last_observed_at": "2026-08-27T13:41:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:41:36Z"
+}

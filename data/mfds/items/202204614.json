@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204614",
+ "item_name": "자비쎄프타주 2g/0.5g (세프타지딤/아비박탐)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20221222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267822]아비박탐나트륨|[M245860]세프타지딤수화물·건조탄산나트륨",
+ "main_item_ingr_eng": "Avibactam Sodium/Ceftazidime Hydrate Dried Sodium Carbonate",
+ "edi_code": "648903771",
+ "atc_code": "J01DD52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204614",
+ "revisions": [
+  {
+   "revision_id": "202204614-85eab4c3",
+   "content_sha256": "85eab4c33af150b51500e0113e2ac8d2280b892d5ad6f53e8a19874a0b3b1cbb",
+   "ee_text": "1. 적응증 • 성인 및 생후 3개월 이상 소아 환자에서 복잡성 복강내 감염(cIAI) 치료(메트로니다졸과 병용 가능) • 성인 및 생후 3개월 이상 소아 환자에서 신우신염을 포함한 복잡성 요로 감염(cUTI) 치료 • 18세 이상 성인 환자에서 인공호흡기 관련 폐렴(VAP)을 포함한 원내감염 폐렴(HAP) 치료 2. 유효균종 • 복잡성 복강내 감염: 그람-음성균: Citrobacter freundii, Enterobacter cloacae, Escherichia coli, Klebsiella oxytoca, Klebsiella pneumoniae, Pseudomonas aeruginosa. • 복잡성 요로감염: 그람-음성균: Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Enterobacter cloacae, Pseudomonas aeruginosa. • 인공호흡기 관련 폐렴을 포함한 원내 폐렴: 그람-음성균: Enterobacter cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Serratia marcescens, Pseudomonas aeruginosa. 내성균의 발현을 줄이고 이 약과 다른 항생제의 효과를 유지하기 위해, 이 약은 유효 균종에 의한 감염임이 확인되거나 또는 유효 균종에 의한 것이라고 의심되는 감염 시에만 사용한다. 배양이나 감수성 정보가 있다면 항생제 치료의 선택 및 변경에 참고해야 한다. 정보가 없는 경우라면, 항생제의 경험적 선택을 위해 역학자료 또는 감수성 패턴을 참고할 수 있다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:49:05Z",
+   "last_observed_at": "2026-08-27T13:49:05Z",
+   "official_revision_date": "2022-12-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:49:05Z"
+}

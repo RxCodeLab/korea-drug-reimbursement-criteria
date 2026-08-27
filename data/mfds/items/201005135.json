@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201005135",
+ "item_name": "곰디셀캡슐(비페닐디메틸디카르복실레이트)(수출용)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20100824",
+ "cancel_date": "20231018",
+ "status": "취하",
+ "main_item_ingr": "[M256672]비페닐디메틸디카르복실레이트",
+ "main_item_ingr_eng": "Biphenyl Dimethyl Dicarboxylate",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005135",
+ "revisions": [
+  {
+   "revision_id": "201005135-4853df7a",
+   "content_sha256": "4853df7ae9689f35d866064aa144280668ee189d2af8dd89aedd4ff4111fde4f",
+   "ee_text": "지속적으로 ALT가 상승되어 있는 만성간염 및 약물로 인해 트란스아미나제(Transaminase)가 상승된 간염",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T12:31:41Z",
+   "last_observed_at": "2026-08-27T12:31:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:31:41Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302045",
+ "item_name": "아렉스알파정",
+ "entp_name": "주식회사 노바엠헬스케어",
+ "permit_date": "20230703",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051415]푸르설티아민|[M040262]산화마그네슘|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Fursultiamine/Magnesium Oxide",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302045",
+ "revisions": [
+  {
+   "revision_id": "202302045-7c0453f3",
+   "content_sha256": "7c0453f36ebbb2190574146c1664e30cfd0a7d83aab76d56c31f589d0bed89c0",
+   "ee_text": "1) 두통, 치통, 발치후 동통(통증), 인후통, 귀의 통증, 관절통, 신경통, 요통, 근육통, 견통(어깨결림), 타박통, 골절통, 염좌통(삔 통증), 월경통(생리통), 외상통의 진통 2) 오한, 발열시의 해열",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:04:38Z",
+   "last_observed_at": "2026-08-27T13:04:38Z",
+   "official_revision_date": "2023-07-03"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:04:38Z"
+}

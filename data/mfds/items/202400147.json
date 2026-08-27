@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400147",
+ "item_name": "에피스클리주(에쿨리주맙)",
+ "entp_name": "삼성바이오에피스(주)",
+ "permit_date": "20240119",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M248875]에쿨리주맙",
+ "main_item_ingr_eng": "Eculizumab",
+ "edi_code": "051500131",
+ "atc_code": "L04AJ01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400147",
+ "revisions": [
+  {
+   "revision_id": "202400147-65c53b4d",
+   "content_sha256": "65c53b4dc08831d6b3ee756a2db1bc43070e925823432200eedfb33530a812cc",
+   "ee_text": "용혈을 감소시키기 위한 발작성 야간 혈색소뇨증(PNH : Paroxysmal Nocturnal Hemoglobinuria) 환자의 치료. 수혈 이력과 관계없이, 높은 질병 활성을 의미하는 임상 증상이 있는 환자의 용혈에 임상적 이익이 확립되었다. 보체 매개성 혈전성 미세혈관병증을 억제하기 위한 비정형 용혈성 요독 증후군(aHUS : atypical Hemolytic Uremic Syndrome) 환자의 치료 시가(Shiga) 톡신 생성 대장균에 의한 용혈성 요독 증후군(STEC-HUS) 환자 대상의 적용을 권장하지 않는다. 항아쿠아포린-4(AQP-4) 항체 양성인 환자의 시신경 척수염 범주 질환 (NMOSD: Neuromyelitis Optica Spectrum Disorder)의 치료",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T11:55:58Z",
+   "last_observed_at": "2026-08-27T11:55:58Z",
+   "official_revision_date": "2025-02-21"
+  },
+  {
+   "revision_id": "202400147-84a0e1fd",
+   "content_sha256": "84a0e1fd05d527478f00f8f3782ab693051c156fb069d414137f20df9ebc5b92",
+   "ee_text": "용혈을 감소시키기 위한 발작성 야간 혈색소뇨증(PNH : Paroxysmal Nocturnal Hemoglobinuria) 환자의 치료. 수혈 이력과 관계없이, 높은 질병 활성을 의미하는 임상 증상이 있는 환자의 용혈에 임상적 이익이 확립되었다. 보체 매개성 혈전성 미세혈관병증을 억제하기 위한 비정형 용혈성 요독 증후군(aHUS : atypical Hemolytic Uremic Syndrome) 환자의 치료 시가(Shiga) 톡신 생성 대장균에 의한 용혈성 요독 증후군(STEC-HUS) 환자 대상의 적용을 권장하지 않는다.",
+   "ee_doc_id": "1",
+   "official_revision_date": "2024-01-19",
+   "first_observed_at": "2026-08-27T11:55:58Z",
+   "last_observed_at": "2026-08-27T11:55:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:55:58Z"
+}

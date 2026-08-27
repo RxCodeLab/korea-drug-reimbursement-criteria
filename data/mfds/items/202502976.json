@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502976",
+ "item_name": "코투스정50밀리그램(프란루카스트수화물(미분화))",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20251118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284969]프란루카스트수화물(미분화)",
+ "main_item_ingr_eng": "Pranlukast Hydrate",
+ "edi_code": "670305170",
+ "atc_code": "R03DC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502976",
+ "revisions": [
+  {
+   "revision_id": "202502976-0f416b3a",
+   "content_sha256": "0f416b3ae8dc6021f2436fb132fe72c081ccf620c0925f561b63f52fdba2a1e6",
+   "ee_text": "1. 기관지 천식 2. 알레르기성 비염",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:23:56Z",
+   "last_observed_at": "2026-08-27T13:23:56Z",
+   "official_revision_date": "2025-11-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:23:56Z"
+}

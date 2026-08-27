@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303144",
+ "item_name": "슬리나이토미니서방정1밀리그램(멜라토닌)",
+ "entp_name": "건일제약(주)",
+ "permit_date": "20231115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284262]멜라토닌(미분화)",
+ "main_item_ingr_eng": "Melatonin Micronized",
+ "edi_code": "",
+ "atc_code": "N05CH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303144",
+ "revisions": [
+  {
+   "revision_id": "202303144-d0a798e1",
+   "content_sha256": "d0a798e1672e2eb49f716f93dbf7ace3404dd67d0dc3bc5e7a716d0e9aa94c5a",
+   "ee_text": "1. 수면 위생 개선으로 증상이 호전되지 않은 자폐스펙트럼 장애 및/또는 멜라토닌 분비 이상 및/또는 야간 각성을 동반한 신경유전학적 장애(스미스-마제니스 증후군, 엔젤만 증후군, 레트 증후군, 결절성 경화증, 윌리엄스 증후군)를 가진 2-18세 소아 및 청소년의 불면증 치료 2. 수면 위생 개선으로 증상이 호전되지 않은 주의력결핍 과잉행동장애(ADHD)를 가진 6세~17세 소아 및 청소년의 불면증 치료",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T13:25:11Z",
+   "last_observed_at": "2026-08-27T13:25:11Z",
+   "official_revision_date": "2026-07-28"
+  },
+  {
+   "revision_id": "202303144-88b38231",
+   "content_sha256": "88b38231330d2a2eefff9e1c106fe2c59e6d2edddb82e14e775dccb77feec9c0",
+   "ee_text": "수면 위생 개선으로 증상이 호전되지 않은 자폐스펙트럼 장애 및/또는 스미스-마제니스 증후군을 가진 2-18세 소아 및 청소년의 불면증 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2023-11-15",
+   "first_observed_at": "2026-08-27T13:25:11Z",
+   "last_observed_at": "2026-08-27T13:25:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:25:11Z"
+}

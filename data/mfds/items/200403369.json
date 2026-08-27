@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403369",
+ "item_name": "녹십자-알부민주5%(사람혈청알부민)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20041115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M010062]사람혈청알부민",
+ "main_item_ingr_eng": "Human Normal Serum Albumin",
+ "edi_code": "643600491,643600501",
+ "atc_code": "B05AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403369",
+ "revisions": [
+  {
+   "revision_id": "200403369-a21b8ab6",
+   "content_sha256": "a21b8ab6ea75606a0f1085c9ad03aba44a3962cc9f3b3ea7ea6d27f140176029",
+   "ee_text": "알부민의 상실(화상, 신증후군 등) 및 알부민 합성저하(간경변증 등) 에 의한 저알부민혈증, 출혈성 쇽",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-27T13:30:44Z",
+   "last_observed_at": "2026-08-27T13:30:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:30:44Z"
+}

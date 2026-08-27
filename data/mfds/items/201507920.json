@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507920",
+ "item_name": "에포틴프리필드주10000IU/mL(재조합인에리스로포이에틴)",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20151125",
+ "cancel_date": "20250611",
+ "status": "취하",
+ "main_item_ingr": "[M207837]재조합인에리스로포이에틴(숙주:CHO,벡터:pSVEp2neo)",
+ "main_item_ingr_eng": "Recombinant Human Erythropoietin (Host: CHO, Vector: pSVEp2neo)",
+ "edi_code": "",
+ "atc_code": "B03XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507920",
+ "revisions": [
+  {
+   "revision_id": "201507920-9bfb5472",
+   "content_sha256": "9bfb54724008369cf696c14e9ccd1e86b39f25e93e3fb7f33cd0f873cce65cec",
+   "ee_text": "1) 증후성 빈혈 2) 수혈이 필요한 빈혈 적용례 : 1) 저 헤모글로빈 농도 2) 많은 양의 혈액(여성 : 4 units 이상의 혈액, 남성 : 5 units 이상의 혈액)이 필요한 대수술이 예정된 경우 3) 필요한 자가혈액량을 채혈하기 위한 수술 전 기간이 너무 짧은 경우",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T13:54:28Z",
+   "last_observed_at": "2026-08-27T13:54:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:54:28Z"
+}

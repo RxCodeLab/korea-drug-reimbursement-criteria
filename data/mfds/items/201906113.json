@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906113",
+ "item_name": "마파람과립",
+ "entp_name": "삼익제약(주)",
+ "permit_date": "20190828",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268718]진피건조엑스(5→1) |[M040353]아세트아미노펜|[M270039]dl-메틸에페드린염산염|[M223211]클로르페니라민말레산염|[M040059]노스카핀|[M223184]카페인수화물",
+ "main_item_ingr_eng": "Acetaminophen/Caffeine Hydrate/Chlorpheniramine Maleate/Citrus Unshiu Peel Dried Extract (5→1)/DL-Methylephedrine Hydrochloride/Noscapine",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906113",
+ "revisions": [
+  {
+   "revision_id": "201906113-322de244",
+   "content_sha256": "322de24465f741816b6905f8f9d18a3e45aa59569d509e8931e74ca2b9660bf3",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:02:24Z",
+   "last_observed_at": "2026-08-27T13:02:24Z",
+   "official_revision_date": "2019-08-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:02:24Z"
+}

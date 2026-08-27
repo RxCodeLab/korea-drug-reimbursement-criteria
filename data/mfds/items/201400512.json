@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400512",
+ "item_name": "스킨앤쿨액",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20140205",
+ "cancel_date": "20240205",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M070611]살리실산글리콜|[M230875]l-멘톨|[M202582]D-판테놀|[M040108]디펜히드라민|[M051499]크로타미톤|[M040131]리도카인",
+ "main_item_ingr_eng": "Crotamiton/Dexpanthenol/Diphenhydramine/Glycol Salicylate/L-Menthol/Lidocaine",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400512",
+ "revisions": [
+  {
+   "revision_id": "201400512-668a70ea",
+   "content_sha256": "668a70eacf30ca866b38911ecc0dd0567b4773bd2526d49315c4984625f4dbad",
+   "ee_text": "습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물림, 두드러기, 동창",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T12:29:50Z",
+   "last_observed_at": "2026-08-27T12:29:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:50Z"
+}

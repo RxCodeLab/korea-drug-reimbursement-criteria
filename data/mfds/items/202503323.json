@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503323",
+ "item_name": "암로칸데정16/2.5밀리그램(칸데사르탄실렉세틸,에스암로디핀베실산염)",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20251219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263840]S-암로디핀베실산염2.5수화물|[M089055]칸데사르탄실렉세틸",
+ "main_item_ingr_eng": "Candesartan Cilexetil/S-Amlodipine Besylate 2.5 Hydrate",
+ "edi_code": "656005920",
+ "atc_code": "C09DB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503323",
+ "revisions": [
+  {
+   "revision_id": "202503323-4c076462",
+   "content_sha256": "4c076462ce17e1c61a75538235705bff84690a921d6ad9948d12f99b28666c2b",
+   "ee_text": "칸데사르탄실렉세틸 또는 에스암로디핀(암로디핀) 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:48:15Z",
+   "last_observed_at": "2026-08-27T12:48:15Z",
+   "official_revision_date": "2025-12-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:48:15Z"
+}

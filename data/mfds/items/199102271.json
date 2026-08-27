@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199102271",
+ "item_name": "암타나정(수출용)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "19910423",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083466]만델산벤질|[M040353]아세트아미노펜|[M040499]이소프로필안티피린|[M090611]카페인",
+ "main_item_ingr_eng": "Acetaminophen/Benzyl Mandelate/Caffeine/Isopropylantipyrine",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199102271",
+ "revisions": [
+  {
+   "revision_id": "199102271-81ff5aa7",
+   "content_sha256": "81ff5aa7901f57bf71acf201b4e294df4922212fa0ed18e9acd8b7716ddc729e",
+   "ee_text": "- 두통, 치통, 발치후 동통, 인후통, 귀의 통증, 관절통, 신경통, 요통, 근육통,견통,타박통,골절통,염좌통,월경통(생리통),외상통의 진통 - 오한, 발열시의 해열",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T12:56:42Z",
+   "last_observed_at": "2026-08-27T12:56:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:56:42Z"
+}

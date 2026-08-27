@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505122",
+ "item_name": "유레릭스주0.25밀리그램(세트로렐릭스아세트산염)",
+ "entp_name": "(주)베키오바이오젠",
+ "permit_date": "20150728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250438]세트로렐릭스아세트산염",
+ "main_item_ingr_eng": "Cetrorelix Acetate",
+ "edi_code": "626200031",
+ "atc_code": "H01CC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505122",
+ "revisions": [
+  {
+   "revision_id": "201505122-7d94170b",
+   "content_sha256": "7d94170b37800e1c88908502c368028794ce6d688918aa435310b352986b17b3",
+   "ee_text": "난모세포 채취 및 보조생식술을 수반하는 체외수정시술시 과배란 유도 (Controlled Ovarian Stimulation)에서 미성숙난자의 배란방지",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201505122/EE",
+   "first_observed_at": "2026-08-27T12:24:24Z",
+   "last_observed_at": "2026-08-27T12:24:24Z"
+  },
+  {
+   "revision_id": "201505122-ff7c6215",
+   "content_sha256": "ff7c621560aee929c4868bed6b363f61b919a99402f9ee078b2e8bf63fdc0271",
+   "ee_text": "체외수정시술시 과배란 유도 (Controlled Ovarian Stimulation)에서 미성숙난자의 배란방지",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:24:24Z",
+   "last_observed_at": "2026-08-27T12:24:24Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:24:24Z"
+}

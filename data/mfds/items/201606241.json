@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606241",
+ "item_name": "오페브연질캡슐150밀리그램(닌테다닙에실산염)",
+ "entp_name": "한국베링거인겔하임(주)",
+ "permit_date": "20161021",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M118354]닌테다닙에실산염",
+ "main_item_ingr_eng": "Nintedanib Esilate",
+ "edi_code": "653501580",
+ "atc_code": "L01EX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606241",
+ "revisions": [
+  {
+   "revision_id": "201606241-04dfe414",
+   "content_sha256": "04dfe4146897ccf3277021fe82a09b99a6717dc852bcc29f4f716268f8774759",
+   "ee_text": "특발성폐섬유증의 치료 전신경화증 연관 간질성폐질환 환자의 폐기능 감소 지연 진행성 표현형을 나타내는 만성 섬유성 간질성폐질환의 치료",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-27T13:38:46Z",
+   "last_observed_at": "2026-08-27T13:38:46Z",
+   "official_revision_date": "2020-08-06"
+  },
+  {
+   "revision_id": "201606241-24388c2b",
+   "content_sha256": "24388c2b7daa980f69ba1d10fd95a226f8e561f4e720b5ba1e4fd8b47d1452b5",
+   "ee_text": "특발성폐섬유증의 치료 전신경화증 연관 간질성폐질환 환자의 폐기능 감소 지연",
+   "ee_doc_id": "16",
+   "official_revision_date": "2020-02-12",
+   "first_observed_at": "2026-08-27T13:38:46Z",
+   "last_observed_at": "2026-08-27T13:38:46Z"
+  },
+  {
+   "revision_id": "201606241-bb5efbcb",
+   "content_sha256": "bb5efbcb319281966e4a2736afff113f5012c34aabbdb5a040afeb5023b9cdd1",
+   "ee_text": "특발성폐섬유증의 치료",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:38:46Z",
+   "last_observed_at": "2026-08-27T13:38:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:46Z"
+}

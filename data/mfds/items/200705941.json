@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200705941",
+ "item_name": "썬리듬캡슐25밀리그램(필시카이니드염산염수화물)",
+ "entp_name": "한국다이이찌산쿄(주)",
+ "permit_date": "20070522",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266957]필시카이니드염산염수화물",
+ "main_item_ingr_eng": "Pilsicainide Hydrochloride Hydrate",
+ "edi_code": "680900010",
+ "atc_code": "C01BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705941",
+ "revisions": [
+  {
+   "revision_id": "200705941-b27d47cf",
+   "content_sha256": "b27d47cf7035a66ee20f7bb8eaf629ae0c00e5d158addddcda2aa27a41c4ae1a",
+   "ee_text": "효능·효과 : 다른 부정맥치료제를 사용할 수 없거나, 효과가 없는 빈맥성 부정맥",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-27T12:23:43Z",
+   "last_observed_at": "2026-08-27T12:23:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:23:43Z"
+}

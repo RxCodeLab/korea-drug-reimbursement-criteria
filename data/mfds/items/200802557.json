@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200802557",
+ "item_name": "오니롤정0.25밀리그램(로피니롤염산염)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20080305",
+ "cancel_date": "20231207",
+ "status": "취하",
+ "main_item_ingr": "[M088897]염산로피니롤",
+ "main_item_ingr_eng": "Ropinirole Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N04BC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802557",
+ "revisions": [
+  {
+   "revision_id": "200802557-6c38799a",
+   "content_sha256": "6c38799a9e8d7911f34140f8a30c3cc4194613b3dc5c6f33059f4cee5258079c",
+   "ee_text": "ㆍ 특발성 파킨슨씨병 치료에 단독 요법으로 사용가능하다. ㆍ 레보도파와의 병용 투여는 on-off 현상을 억제하고 레보도파의 1일 투여량을 줄일 수 있다.",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T12:23:45Z",
+   "last_observed_at": "2026-08-27T12:23:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:23:45Z"
+}

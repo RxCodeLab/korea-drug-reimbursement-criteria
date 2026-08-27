@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200202131",
+ "item_name": "아테논정",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20020311",
+ "cancel_date": "20240322",
+ "status": "취하",
+ "main_item_ingr": "[M201140]아테놀롤|[M040615]클로르탈리돈",
+ "main_item_ingr_eng": "Atenolol/Chlorthalidone",
+ "edi_code": "",
+ "atc_code": "C07CB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202131",
+ "revisions": [
+  {
+   "revision_id": "200202131-f5de4319",
+   "content_sha256": "f5de43194093da461a59c6b7b7985e7ba1927c86ac648c5766f5eeea5afba976",
+   "ee_text": "고혈압",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T12:27:07Z",
+   "last_observed_at": "2026-08-27T12:27:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:27:07Z"
+}

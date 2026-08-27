@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500750",
+ "item_name": "이리스탑정5마이크로그램(라모세트론염산염)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20250331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255325]라모세트론염산염",
+ "main_item_ingr_eng": "Ramosetron Hydrochloride",
+ "edi_code": "659902030",
+ "atc_code": "A03AE",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500750",
+ "revisions": [
+  {
+   "revision_id": "202500750-6036eedf",
+   "content_sha256": "6036eedf87fa7e9e2b50e0f7a3649fbb49a6445026807427978759b3527ef19a",
+   "ee_text": "설사형 과민성 대장증후군",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:01:16Z",
+   "last_observed_at": "2026-08-27T11:01:16Z",
+   "official_revision_date": "2025-03-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:01:16Z"
+}

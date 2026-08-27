@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200703074",
+ "item_name": "헤파니친주(L-아스파르트산-L-오르니틴수화물)(수출명:KORULIVE INJ.)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20070313",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249854]L-아스파르트산-L-오르니틴수화물|[M249854]L-아스파르트산-L-오르니틴수화물",
+ "main_item_ingr_eng": "L-Ornithine-L-Aspartate Hydrate",
+ "edi_code": "",
+ "atc_code": "A05BA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703074",
+ "revisions": [
+  {
+   "revision_id": "200703074-acca38da",
+   "content_sha256": "acca38daa7a545cbd16dc547a40ac8509db1af9b65d16aa2a48ca91354ef4e7d",
+   "ee_text": "* 100 mg/mL 다음의 중증의 간질환 해독의 보조 치료 : 간염, 간염 후유증, 간경변",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200703074/EE",
+   "first_observed_at": "2026-08-27T13:52:36Z",
+   "last_observed_at": "2026-08-27T13:52:36Z"
+  },
+  {
+   "revision_id": "200703074-865c8da3",
+   "content_sha256": "865c8da3b1d9ef84a5ba3fb586ad2f38ff5f5ad37de52de006cf2e17e227cb93",
+   "ee_text": "* 500 mg/mL, 5 g/10 mL 다음의 중증의 간질환 해독 : 간성뇌증(혼수 전단계•혼수포함) * 100 mg/mL 다음의 중증의 간질환 해독의 보조 치료 : 간염, 감염 후유증, 간경변",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:52:36Z",
+   "last_observed_at": "2026-08-27T13:52:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:52:36Z"
+}

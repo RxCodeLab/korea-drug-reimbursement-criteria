@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105597",
+ "item_name": "로비큐아정100밀리그램(롤라티닙)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20210729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281233]롤라티닙",
+ "main_item_ingr_eng": "Lorlatinib",
+ "edi_code": "648903620",
+ "atc_code": "L01ED05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105597",
+ "revisions": [
+  {
+   "revision_id": "202105597-d9fb57e0",
+   "content_sha256": "d9fb57e0e12abafac14beed5db9ec4b5b2503ff5f0e777713b4decc972b4581d",
+   "ee_text": "역형성 림프종 인산화효소(ALK)-양성 전이성 비소세포폐암(NSCLC) 성인 환자의 치료",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T12:40:44Z",
+   "last_observed_at": "2026-08-27T12:40:44Z",
+   "official_revision_date": "2022-05-11"
+  },
+  {
+   "revision_id": "202105597-6298bab7",
+   "content_sha256": "6298bab73d72e6d3598c2dfa7cf1800b150b2f68c9546219bf9a6fcc0d137731",
+   "ee_text": "역형성 림프종 인산화효소(ALK)-양성 진행성 비소세포폐암(NSCLC) 성인 환자의 치료에 단독요법으로, 이전에 아래의 요법을 받았으나 진행된 경우에 사용. - 알렉티닙 또는 세리티닙을 1차 ALK 저해제로 치료받은 경우; 또는 - 크리조티닙 및 적어도 다른 1개의 ALK 저해제로 치료받은 경우 이 약의 유효성은 반응률 및 반응기간에 근거하였으며, 생존기간의 개선을 입증한 자료는 없다.",
+   "ee_doc_id": "1",
+   "official_revision_date": "2021-07-29",
+   "first_observed_at": "2026-08-27T12:40:44Z",
+   "last_observed_at": "2026-08-27T12:40:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:40:44Z"
+}

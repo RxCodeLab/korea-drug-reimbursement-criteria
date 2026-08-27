@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307715",
+ "item_name": "피엠트리플크림",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20130614",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245869]테르비나핀염산염|[M089404]우레아|[M051499]크로타미톤|[M279284]L-멘톨|[M215133]에녹솔론",
+ "main_item_ingr_eng": "Crotamiton/Enoxolone/L-Menthol/Terbinafine Hydrochloride/Urea",
+ "edi_code": "",
+ "atc_code": "D01AE20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307715",
+ "revisions": [
+  {
+   "revision_id": "201307715-577a43a3",
+   "content_sha256": "577a43a3060181a2cc7f6edff51017917bde6117acd7f9b7db7eb040c3abf24e",
+   "ee_text": "피부사상균에 의한 피부진균(곰팡이)감염증 : 무좀, 완선(사타구니백선), 백선",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T12:43:46Z",
+   "last_observed_at": "2026-08-27T12:43:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:43:46Z"
+}

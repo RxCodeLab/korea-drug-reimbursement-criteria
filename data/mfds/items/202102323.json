@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102323",
+ "item_name": "뉴아미노펜프리믹스주(아세트아미노펜)",
+ "entp_name": "신라젠주식회사",
+ "permit_date": "20210315",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen",
+ "edi_code": "",
+ "atc_code": "N02BE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102323",
+ "revisions": [
+  {
+   "revision_id": "202102323-f06a2360",
+   "content_sha256": "f06a236009d9033d14839136b8f7d61fac902c7250c2bc1e427237463a8f69fc",
+   "ee_text": "통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중등도의 통증(특히 수술 후)의 단기간 치료 - 발열의 단기간 치료 통증으로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중증도 통증(특히 수술 후)의 단기간 치료",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-27T13:03:26Z",
+   "last_observed_at": "2026-08-27T13:03:26Z",
+   "official_revision_date": "2021-04-16"
+  },
+  {
+   "revision_id": "202102323-b0b2d277",
+   "content_sha256": "b0b2d277b4ebd1e68f62942bbeaed5d25abb2eec33cfc730e06fe599e95180d8",
+   "ee_text": "통증으로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중증도 통증(특히 수술 후)의 단기간 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2021-03-15",
+   "first_observed_at": "2026-08-27T13:03:26Z",
+   "last_observed_at": "2026-08-27T13:03:26Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:03:26Z"
+}

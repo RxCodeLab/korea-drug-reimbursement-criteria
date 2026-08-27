@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901254",
+ "item_name": "로나큐정2밀리그램(블로난세린)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "20190227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247117]블로난세린",
+ "main_item_ingr_eng": "Blonanserin",
+ "edi_code": "657203470",
+ "atc_code": "N05AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901254",
+ "revisions": [
+  {
+   "revision_id": "201901254-b9eed1f7",
+   "content_sha256": "b9eed1f779e6b5f3e9540eeecb3a5076c707133530d58720e8bf425621929172",
+   "ee_text": "조현병",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T13:16:29Z",
+   "last_observed_at": "2026-08-27T13:16:29Z",
+   "official_revision_date": "2024-02-23"
+  },
+  {
+   "revision_id": "201901254-e45afba9",
+   "content_sha256": "e45afba9eeff03fc063b96fa9551a40137b73ec2ef22018af7433bf5ea4b4949",
+   "ee_text": "정신분열증",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-02-27",
+   "first_observed_at": "2026-08-27T13:16:29Z",
+   "last_observed_at": "2026-08-27T13:16:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:16:29Z"
+}

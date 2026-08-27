@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901425",
+ "item_name": "트라밍엔정",
+ "entp_name": "지엘파마(주)",
+ "permit_date": "20190308",
+ "cancel_date": "20230901",
+ "status": "취하",
+ "main_item_ingr": "[M223183]카페인무수물|[M223081]스코폴라민브롬화수소산염수화물|[M223008]메클리진염산염수화물",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Meclizine Hydrochloride Hydrate/Scopolamine Hydrobromide Hydrate",
+ "edi_code": "",
+ "atc_code": "A04AD51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901425",
+ "revisions": [
+  {
+   "revision_id": "201901425-9e10f901",
+   "content_sha256": "9e10f901d2b9184459e96c8289a126a62981700e95a89f9abfb8d8d54c113b30",
+   "ee_text": "멀미에 의한 어지러움·구토·두통의 예방 및 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:48:40Z",
+   "last_observed_at": "2026-08-27T12:48:40Z",
+   "official_revision_date": "2019-03-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:48:40Z"
+}

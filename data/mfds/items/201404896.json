@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404896",
+ "item_name": "네시나액트정25/15밀리그램",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20141024",
+ "cancel_date": "20241030",
+ "status": "취하",
+ "main_item_ingr": "[M235069]피오글리타존염산염|[M257113]알로글립틴 벤조산염",
+ "main_item_ingr_eng": "Alogliptin Benzoate/Pioglitazone Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A10BD09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404896",
+ "revisions": [
+  {
+   "revision_id": "201404896-c978dcf1",
+   "content_sha256": "c978dcf12f9cc862931f93a8b45c6636041d1717dd947d7bfd308c8de615c45c",
+   "ee_text": "이 약은 알로글립틴과 피오글리타존의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201404896/EE",
+   "first_observed_at": "2026-08-27T12:46:03Z",
+   "last_observed_at": "2026-08-27T12:46:03Z"
+  },
+  {
+   "revision_id": "201404896-71b963ea",
+   "content_sha256": "71b963eaa9f6758553dfa34726b55705fef717209011e1005de8efd95762126c",
+   "ee_text": "이 약은 알로글립틴과 피오글리타존의 병용투여가 적절한 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "23",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:46:03Z",
+   "last_observed_at": "2026-08-27T12:46:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:46:03Z"
+}

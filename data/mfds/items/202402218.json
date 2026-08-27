@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402218",
+ "item_name": "디칼본큐정",
+ "entp_name": "엔비케이제약(주)",
+ "permit_date": "20240911",
+ "cancel_date": "20251120",
+ "status": "취하",
+ "main_item_ingr": "[M247470]시트르산칼슘수화물|[M086116]농축콜레칼시페롤|[M096429]시아노코발라민|[M223289]폴산",
+ "main_item_ingr_eng": "Calcium Citrate Hydrate/Cholecalciferol Concentrate/Cyanocobalamin/Folic Acid",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402218",
+ "history_fetched_at": "2026-08-27T10:37:56Z",
+ "revisions": [
+  {
+   "revision_id": "202402218-59c64dfe",
+   "content_sha256": "59c64dfe48f8ef7c313e4e56b0397111dd3453bc0b0c09447ebf9ac7fbf7fe15",
+   "ee_text": "1. 다음경우의 비타민 D의 보급 - 임신ㆍ수유기, 발육기, 노년기 2. 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다 - 비타민D(농축콜레칼시페롤): 뼈, 이의 발육불량, 구루병의 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202402218/EE",
+   "first_observed_at": "2026-08-27T10:37:56Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003828",
+ "item_name": "아리피코정5밀리그램(아리피프라졸(미분화))",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20200526",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270799]아리피프라졸(미분화)",
+ "main_item_ingr_eng": "Aripiprazole Micronized",
+ "edi_code": "642707370",
+ "atc_code": "N05AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003828",
+ "revisions": [
+  {
+   "revision_id": "202003828-9c290d1a",
+   "content_sha256": "9c290d1a04933931cd1e7c5f2dee8e5477df1a556fcb67d3564f7aa0f0a3d086",
+   "ee_text": "1. 조현병 2. 양극성 장애와 관련된 급성 조증 및 혼재 삽화의 치료 3. 주요우울장애 치료의 부가요법제 4. 자폐장애와 관련된 과민증 5. 뚜렛장애",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-27T13:27:21Z",
+   "last_observed_at": "2026-08-27T13:27:21Z",
+   "official_revision_date": "2022-07-18"
+  },
+  {
+   "revision_id": "202003828-29f9610e",
+   "content_sha256": "29f9610ec790eb8a362955e99de6309825ebdcaf042a23ee215f42a10351bec2",
+   "ee_text": "1. 정신분열병 2. 양극성 장애와 관련된 급성 조증 및 혼재 삽화의 치료 3. 뚜렛장애",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-05-26",
+   "first_observed_at": "2026-08-27T13:27:21Z",
+   "last_observed_at": "2026-08-27T13:27:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:21Z"
+}

@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500056",
+ "item_name": "헤모크린씨플러스액50%(시트르산수화물)",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20250107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223090]시트르산수화물",
+ "main_item_ingr_eng": "Citric Acid Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500056",
+ "history_fetched_at": "2026-08-27T10:37:59Z",
+ "revisions": [
+  {
+   "revision_id": "202500056-eed64e98",
+   "content_sha256": "eed64e9896c29d169c3a44e9a3e0361756c32f796d2888070773e7545b787f38",
+   "ee_text": "인공신장기의 투석액 통로로부터 칼슘 및 마그네슘 침전물을 제거 및 소독",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202500056/EE",
+   "first_observed_at": "2026-08-27T10:37:59Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

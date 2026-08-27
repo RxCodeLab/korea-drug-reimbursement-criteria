@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908640",
+ "item_name": "다산아세트아미노펜정500밀리그램",
+ "entp_name": "(주)다산제약",
+ "permit_date": "20191226",
+ "cancel_date": "20241226",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen",
+ "edi_code": "",
+ "atc_code": "N02BE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908640",
+ "revisions": [
+  {
+   "revision_id": "201908640-6bad4b45",
+   "content_sha256": "6bad4b45333267a95241962b5ad89fb43c9d2025618db22088de0ade7a13e275",
+   "ee_text": "감기로 인한 발열 및 동통(통증), 두통, 신경통, 근육통, 월경통, 염좌통(삔 통증) 치통, 관절통, 류마티양 동통(통증)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:02:42Z",
+   "last_observed_at": "2026-08-27T13:02:42Z",
+   "official_revision_date": "2019-12-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:02:42Z"
+}

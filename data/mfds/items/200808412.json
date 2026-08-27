@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200808412",
+ "item_name": "디디비정(비페닐디메틸디카르복실레이트)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20080806",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256672]비페닐디메틸디카르복실레이트",
+ "main_item_ingr_eng": "Biphenyl Dimethyl Dicarboxylate",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808412",
+ "revisions": [
+  {
+   "revision_id": "200808412-e875d330",
+   "content_sha256": "e875d33078bad7e40c237885e7b225ed902cbd187b12c77daf05fd43c7829c3a",
+   "ee_text": "간질환",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:31:39Z",
+   "last_observed_at": "2026-08-27T12:31:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:31:39Z"
+}

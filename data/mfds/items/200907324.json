@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200907324",
+ "item_name": "라모난크림(테르비나핀염산염)(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20091008",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245869]테르비나핀염산염",
+ "main_item_ingr_eng": "Terbinafine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "D01AE15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907324",
+ "revisions": [
+  {
+   "revision_id": "200907324-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200907324/EE",
+   "first_observed_at": "2026-08-27T12:43:44Z",
+   "last_observed_at": "2026-08-27T12:43:44Z"
+  },
+  {
+   "revision_id": "200907324-97aa1f82",
+   "content_sha256": "97aa1f82c16d06af0ae950374755512b368766676c2ffb5989e21d8df619a33f",
+   "ee_text": ": 족부백선, 고부백선(완선), 체부백선",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:43:44Z",
+   "last_observed_at": "2026-08-27T12:43:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:43:44Z"
+}

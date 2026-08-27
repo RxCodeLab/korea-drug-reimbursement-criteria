@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605161",
+ "item_name": "입랜스캡슐75mg(팔보시클립)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20160829",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263856]팔보시클립",
+ "main_item_ingr_eng": "Palbociclib",
+ "edi_code": "648902930",
+ "atc_code": "L01EF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605161",
+ "revisions": [
+  {
+   "revision_id": "201605161-a6541d09",
+   "content_sha256": "a6541d09a80785abd26493f9446cff21d2cc765faa577432eafe294581c25aaa",
+   "ee_text": "이 약은 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체2(HER2)-음성인 진행성 또는 전이성 유방암 치료에 아래와 같이 병용한다: · 여성에서 일차 내분비 요법으로서 아로마타제 억제제와 병용 또는 · 내분비요법 후 질환이 진행된 여성에서 풀베스트란트와 병용",
+   "ee_doc_id": "30",
+   "first_observed_at": "2026-08-27T12:37:36Z",
+   "last_observed_at": "2026-08-27T12:37:36Z",
+   "official_revision_date": "2023-07-04"
+  },
+  {
+   "revision_id": "201605161-f236b181",
+   "content_sha256": "f236b181719c7fc17ca549e8bc3f812370fb99219fdbdec86bc1c29dbe948921",
+   "ee_text": "이 약은 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체2(HER2)-음성인 진행성 또는 전이성 유방암 치료에 아래와 같이 병용한다: · 폐경 후 여성에서 일차 내분비 요법으로서 아로마타제 억제제와 병용 또는 · 내분비요법 후 질환이 진행된 여성에서 풀베스트란트와 병용",
+   "ee_doc_id": "9",
+   "official_revision_date": "2018-08-01",
+   "first_observed_at": "2026-08-27T12:37:36Z",
+   "last_observed_at": "2026-08-27T12:37:36Z"
+  },
+  {
+   "revision_id": "201605161-d9a23073",
+   "content_sha256": "d9a23073f88ec8cbf6f7743cbb30f4f6e2a0dceacf1ae8647ad4221620960598",
+   "ee_text": "이 약은 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체2(HER2)-음성인 진행성 또는 전이성 유방암 치료에 아래와 같이 병용한다: · 폐경 후 여성에서 일차 내분비 요법으로서 레트로졸과 병용 · 내분비요법 후 질환이 진행된 여성에서 풀베스트란트와 병용 레트로졸 병용요법에서 이 약의 무진행생존기간(progression-free survival; PFS) 연장은 탐색적으로 평가되었다.",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:37:36Z",
+   "last_observed_at": "2026-08-27T12:37:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:37:36Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001535",
+ "item_name": "슬림제이정",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20200305",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223155]에페드린염산염|[M223183]카페인무수물|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Ephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001535",
+ "revisions": [
+  {
+   "revision_id": "202001535-c95fb60c",
+   "content_sha256": "c95fb60c28050c6ca9024ad721ed1282f3f961ddbdeebf90c36c5269bba9561a",
+   "ee_text": "감기의 제증상(여러증상)(인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T13:02:51Z",
+   "last_observed_at": "2026-08-27T13:02:51Z",
+   "official_revision_date": "2022-01-06"
+  },
+  {
+   "revision_id": "202001535-f97af0db",
+   "content_sha256": "f97af0dbfcd7e4e05c6275aa2cbd0a5b675e8775b5b21255473e9df6bad6f026",
+   "ee_text": "감기의 제증상(인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-03-05",
+   "first_observed_at": "2026-08-27T13:02:51Z",
+   "last_observed_at": "2026-08-27T13:02:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:02:51Z"
+}

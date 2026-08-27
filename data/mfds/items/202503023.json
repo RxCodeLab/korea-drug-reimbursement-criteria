@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503023",
+ "item_name": "칼앤디세미정",
+ "entp_name": "엔비케이제약(주)",
+ "permit_date": "20251119",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247470]시트르산칼슘수화물|[M086116]농축콜레칼시페롤",
+ "main_item_ingr_eng": "Calcium Citrate Hydrate/Cholecalciferol Concentrate",
+ "edi_code": "054801650",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503023",
+ "history_fetched_at": "2026-08-27T10:38:29Z",
+ "revisions": [
+  {
+   "revision_id": "202503023-dbad5564",
+   "content_sha256": "dbad55644b5bf07db60943a7564722d734d47d86dcbebeb40b6418e0dcf11195",
+   "ee_text": "1. 다음 경우의 비타민D의 보급 - 임신 · 수유기 - 발육기 - 노년기 2. 이 약에 함유된 비타민 등의 효능·효과 - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202503023/EE",
+   "first_observed_at": "2026-08-27T10:38:29Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

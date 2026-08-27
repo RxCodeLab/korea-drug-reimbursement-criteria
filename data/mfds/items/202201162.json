@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201162",
+ "item_name": "오뉴렉정300밀리그램(아자시티딘)",
+ "entp_name": "(유)한국비엠에스제약",
+ "permit_date": "20220323",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M248237]아자시티딘",
+ "main_item_ingr_eng": "Azacitidine",
+ "edi_code": "658700710",
+ "atc_code": "L01BC07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201162",
+ "revisions": [
+  {
+   "revision_id": "202201162-efa97cd0",
+   "content_sha256": "efa97cd0655e1b52d1a5cf8bf2dba1be46adfe766d47d5898ebce2e100234ea3",
+   "ee_text": "공고요법 시행 유무와 관계없이 유도요법 이후 완전 관해(CR) 또는 불완전한 혈액학적 회복을 동반한 완전관해(CRi)를 달성하고, 조혈모세포이식(HSCT)이 적합하지 않은 급성 골수성 백혈병 성인 환자에서의 유지요법",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:46:58Z",
+   "last_observed_at": "2026-08-27T13:46:58Z",
+   "official_revision_date": "2022-03-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:46:58Z"
+}

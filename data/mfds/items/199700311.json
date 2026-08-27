@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700311",
+ "item_name": "에포론주2000IU/mL(재조합인에리스로포이에틴)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "19971216",
+ "cancel_date": "20240415",
+ "status": "취하",
+ "main_item_ingr": "[M091670]재조합인에리스로포이에틴",
+ "main_item_ingr_eng": "Recombinant Human Erythropoietin",
+ "edi_code": "",
+ "atc_code": "B03XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700311",
+ "revisions": [
+  {
+   "revision_id": "199700311-06cc2c3b",
+   "content_sha256": "06cc2c3b4c8137e785f67536cedc94d189f714be5e93629281ec86ad8fc5506a",
+   "ee_text": "1. 증후성 빈혈 2. 수혈이 필요한 빈혈",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T13:54:16Z",
+   "last_observed_at": "2026-08-27T13:54:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:54:16Z"
+}

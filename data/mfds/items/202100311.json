@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202100311",
+ "item_name": "비디디셀정25밀리그램(비페닐디메틸디카르복실레이트)",
+ "entp_name": "(주)아리제약",
+ "permit_date": "20210111",
+ "cancel_date": "20260111",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M256672]비페닐디메틸디카르복실레이트",
+ "main_item_ingr_eng": "Biphenyl Dimethyl Dicarboxylate",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100311",
+ "revisions": [
+  {
+   "revision_id": "202100311-1daf28f4",
+   "content_sha256": "1daf28f44eb3cba602814bbd981a8890e5450cd0b6350a2466c3b70a5766c039",
+   "ee_text": "지속적으로 ALT가 상승되어 있는 만성간염",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:25:42Z",
+   "last_observed_at": "2026-08-27T12:25:42Z",
+   "official_revision_date": "2021-01-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:25:42Z"
+}

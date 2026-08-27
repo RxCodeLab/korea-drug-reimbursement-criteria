@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008963",
+ "item_name": "메탈라제주사40mg(테넥테플라제)",
+ "entp_name": "한국베링거인겔하임(주)",
+ "permit_date": "20001124",
+ "cancel_date": "20241001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M105078]테넥테플라제(숙주세포:CHO-DP-12,벡터:pSV16B.TNK,pSV15D,YL1)",
+ "main_item_ingr_eng": "Tenecteplase",
+ "edi_code": "",
+ "atc_code": "B01AD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008963",
+ "revisions": [
+  {
+   "revision_id": "200008963-05e91141",
+   "content_sha256": "05e911419c6afd55bbfe2a38671e74b50c135f0842d95790d094835cf92119c8",
+   "ee_text": "급성심근경색에 의한 혈전용해",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T12:41:03Z",
+   "last_observed_at": "2026-08-27T12:41:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:41:03Z"
+}

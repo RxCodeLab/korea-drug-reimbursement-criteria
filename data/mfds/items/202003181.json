@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003181",
+ "item_name": "타미로신서방캡슐0.2밀리그램(탐스로신염산염)",
+ "entp_name": "한국프라임제약(주)",
+ "permit_date": "20200429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243979]탐스로신염산염",
+ "main_item_ingr_eng": "Tamsulosin Hydrochloride",
+ "edi_code": "663608160",
+ "atc_code": "G04CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003181",
+ "revisions": [
+  {
+   "revision_id": "202003181-0747867b",
+   "content_sha256": "0747867b0dc6df1e1a84615fada25aefd3386ec3c82fbe8af46fc82ae103189f",
+   "ee_text": "양성 전립샘비대증에 따른 배뇨장애",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:17:01Z",
+   "last_observed_at": "2026-08-27T13:17:01Z",
+   "official_revision_date": "2020-04-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:17:01Z"
+}

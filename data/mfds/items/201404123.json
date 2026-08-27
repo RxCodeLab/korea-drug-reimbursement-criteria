@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404123",
+ "item_name": "물드라민에스겔",
+ "entp_name": "시믹씨엠오코리아주식회사",
+ "permit_date": "20140904",
+ "cancel_date": "20240904",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040108]디펜히드라민|[M222965]디부카인염산염|[M051499]크로타미톤|[M204434]L-멘톨|[M204423]dl-캄파|[M215133]에녹솔론",
+ "main_item_ingr_eng": "Crotamiton/DL-Camphor/Dibucaine Hydrochloride/Diphenhydramine/Enoxolone/L-Menthol",
+ "edi_code": "",
+ "atc_code": "D04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404123",
+ "revisions": [
+  {
+   "revision_id": "201404123-668a70ea",
+   "content_sha256": "668a70eacf30ca866b38911ecc0dd0567b4773bd2526d49315c4984625f4dbad",
+   "ee_text": "습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물림, 두드러기, 동창",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T12:29:51Z",
+   "last_observed_at": "2026-08-27T12:29:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:51Z"
+}

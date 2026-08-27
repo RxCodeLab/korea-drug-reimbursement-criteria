@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604015",
+ "item_name": "옥사제핀정600밀리그램(옥스카르바제핀)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20160628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086765]옥스카르바제핀",
+ "main_item_ingr_eng": "Oxcarbazepine",
+ "edi_code": "651904400",
+ "atc_code": "N03AF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604015",
+ "revisions": [
+  {
+   "revision_id": "201604015-b44f8c8f",
+   "content_sha256": "b44f8c8f190fd6ef06f86fe26a1462d4ad400a8784f912a482386ba9951164c8",
+   "ee_text": "뇌전증",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-27T13:41:42Z",
+   "last_observed_at": "2026-08-27T13:41:42Z",
+   "official_revision_date": "2022-12-21"
+  },
+  {
+   "revision_id": "201604015-7c8c192d",
+   "content_sha256": "7c8c192d8486622040dddc1109a71f36ad548f2bfd2ee75558a26eff6ac4e0d9",
+   "ee_text": "간질",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:41:42Z",
+   "last_observed_at": "2026-08-27T13:41:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:41:42Z"
+}

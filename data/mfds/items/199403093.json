@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403093",
+ "item_name": "후릭소나제코약(플루티카손프로피오네이트(미분화))",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "19941008",
+ "cancel_date": "20231222",
+ "status": "취하",
+ "main_item_ingr": "[M241930]플루티카손프로피오네이트(미분화)",
+ "main_item_ingr_eng": "Fluticasone Propionate Micronized",
+ "edi_code": "",
+ "atc_code": "R01AD08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403093",
+ "revisions": [
+  {
+   "revision_id": "199403093-4fc07ac6",
+   "content_sha256": "4fc07ac62e4035761c37d47da2d24acb6a6d30e3d08f5d579f1844be4f6dcdab",
+   "ee_text": "다음 질환의 예방 및 치료 : 계절성 알레르기성 비염, 고초열, 다년성 비염",
+   "ee_doc_id": "28",
+   "first_observed_at": "2026-08-27T13:21:27Z",
+   "last_observed_at": "2026-08-27T13:21:27Z",
+   "official_revision_date": "2000-01-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:21:27Z"
+}

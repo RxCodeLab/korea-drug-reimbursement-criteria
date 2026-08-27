@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006034",
+ "item_name": "반코진캡슐125밀리그램(반코마이신염산염)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "20200827",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223574]반코마이신염산염",
+ "main_item_ingr_eng": "Vancomycin Hydrochloride",
+ "edi_code": "644309560",
+ "atc_code": "A07AA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006034",
+ "revisions": [
+  {
+   "revision_id": "202006034-ce6a7718",
+   "content_sha256": "ce6a7718cd5aea0c433144c251e75df02394e5c4371c18dd0afee2b50c95781e",
+   "ee_text": "포도구균에 의한 소장결장염 및 클로스트리듐 다이피셀에 의한 항생물질 관련 위막성대장염",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:25:37Z",
+   "last_observed_at": "2026-08-27T12:25:37Z",
+   "official_revision_date": "2020-08-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:25:37Z"
+}

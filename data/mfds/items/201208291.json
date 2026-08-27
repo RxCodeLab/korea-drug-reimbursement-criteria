@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201208291",
+ "item_name": "트라젠타듀오정2.5/850밀리그램",
+ "entp_name": "한국베링거인겔하임(주)",
+ "permit_date": "20121115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223014]메트포르민염산염|[M252996]리나글립틴",
+ "main_item_ingr_eng": "Linagliptin/Metformin Hydrochloride",
+ "edi_code": "653501400",
+ "atc_code": "A10BD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208291",
+ "revisions": [
+  {
+   "revision_id": "201208291-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "34",
+   "first_observed_at": "2026-08-27T13:32:47Z",
+   "last_observed_at": "2026-08-27T13:32:47Z",
+   "official_revision_date": "2021-03-22"
+  },
+  {
+   "revision_id": "201208291-411971f5",
+   "content_sha256": "411971f58411412ee949ee962cf2cc04eebe1e011814a3f5277d6e5f344854fc",
+   "ee_text": "이 약은 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 이전 당뇨병 약물치료를 받은 경험이 없으며 단독요법으로 충분한 혈당조절이 어려운 경우 투여한다. 2. 메트포르민 단독요법으로 충분한 혈당조절을 할 수 없는 경우 투여한다. 3. 리나글립틴과 메트포르민 병용요법을 대체하는 경우 투여한다. 4. 최대 내성용량의 메트포르민과 설포닐우레아 병용요법으로 충분한 혈당 조절을 할 수 없는 경우 설포닐우레아와 이 약을 병용투여한다. 5. 인슐린과 메트포르민 병용요법으로 충분한 혈당조절을 할 수 없는 경우 인슐린과 이 약을 병용투여한다. 6. 최대 내성용량의 메트포르민과 엠파글리플로진 병용요법으로 충분한 혈당 조절을 할 수 없는 경우 엠파글리플로진과 이 약을 병용투여한다.",
+   "ee_doc_id": "25",
+   "official_revision_date": "2018-09-10",
+   "first_observed_at": "2026-08-27T13:32:47Z",
+   "last_observed_at": "2026-08-27T13:32:47Z"
+  },
+  {
+   "revision_id": "201208291-164866e1",
+   "content_sha256": "164866e137f7e048fb1ae20ac6c10a9c3a699f3239325e357b388c7b18623f95",
+   "ee_text": "이 약은 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:32:47Z",
+   "last_observed_at": "2026-08-27T13:32:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:32:47Z"
+}

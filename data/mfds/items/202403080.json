@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202403080",
+ "item_name": "아고틴정25밀리그램(아고멜라틴)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "20241226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251166]아고멜라틴",
+ "main_item_ingr_eng": "Agomelatine",
+ "edi_code": "657204230",
+ "atc_code": "N06AX22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403080",
+ "revisions": [
+  {
+   "revision_id": "202403080-44a74bd2",
+   "content_sha256": "44a74bd2e773b438410f1e4ddf32b335ee0382f2e44742549b0a3a80177aa284",
+   "ee_text": "주요 우울증, 범불안장애",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:26:40Z",
+   "last_observed_at": "2026-08-27T12:26:40Z",
+   "official_revision_date": "2024-12-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:26:40Z"
+}

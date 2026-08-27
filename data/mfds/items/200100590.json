@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100590",
+ "item_name": "온세란정8mg(온단세트론염산염)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20010129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257638]온단세트론염산염",
+ "main_item_ingr_eng": "Ondansetron Hydrochloride",
+ "edi_code": "642101290",
+ "atc_code": "A04AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100590",
+ "revisions": [
+  {
+   "revision_id": "200100590-9fd48b89",
+   "content_sha256": "9fd48b8966dfb408bb92de79efc66bba8b42a7b819afca9a247f30128f4a0914",
+   "ee_text": "세포독성을 유발하는 화학요법 또는 방사선요법에 의한 구역과 구토, 수술후 구역과 구토의 예방 및 치료",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T13:25:48Z",
+   "last_observed_at": "2026-08-27T13:25:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:25:48Z"
+}

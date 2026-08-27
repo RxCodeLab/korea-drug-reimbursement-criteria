@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201001199",
+ "item_name": "대웅레바미피드정(수출용)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20100204",
+ "cancel_date": "20231201",
+ "status": "취하",
+ "main_item_ingr": "[M083925]레바미피드|[M083925]레바미피드",
+ "main_item_ingr_eng": "Rebamipide",
+ "edi_code": "",
+ "atc_code": "A02BX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001199",
+ "revisions": [
+  {
+   "revision_id": "201001199-46f4f78a",
+   "content_sha256": "46f4f78a27f044271dc291de32efc3e0a75e84024fa97b55bac8cc6be2ec1763",
+   "ee_text": "급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T13:47:58Z",
+   "last_observed_at": "2026-08-27T13:47:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:47:58Z"
+}

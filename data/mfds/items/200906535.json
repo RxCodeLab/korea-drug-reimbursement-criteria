@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906535",
+ "item_name": "경보세파클러서방정500mg(세파클러)(수출용)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20090826",
+ "cancel_date": "20240708",
+ "status": "취하",
+ "main_item_ingr": "[M020221]세파클러",
+ "main_item_ingr_eng": "Cefaclor",
+ "edi_code": "",
+ "atc_code": "J01DC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906535",
+ "revisions": [
+  {
+   "revision_id": "200906535-d1d14cd1",
+   "content_sha256": "d1d14cd145b8be7b09b7c1fa84699327e16357c920be46f186d17029b7912cee",
+   "ee_text": ": 폐렴연쇄구균, 인플루엔자균(베타락타마제 생성균 포함), 파라인플루엔자균, 모락셀라 카타랄리스(베타락타마제 생성균 포함), 황색포도구균 : 스트렙토콕쿠스 피오게네스(그룹A-베타용혈성) : 대장균, 폐렴간균, 프로테우스 미라빌리스, 스타필로콕쿠스 사프로피티쿠스 : 스트렙토콕쿠스 피오게네스(그룹A-베타용혈성), 황색포도구균(베타락타마제 생성균 포함), 표피포도구균(베타락타마제 생성균 포함)",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-27T12:36:20Z",
+   "last_observed_at": "2026-08-27T12:36:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:36:20Z"
+}

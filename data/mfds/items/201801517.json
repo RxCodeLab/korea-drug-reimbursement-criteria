@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801517",
+ "item_name": "유한아픽사반정2.5mg(아픽사반)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20180406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253531]아픽사반",
+ "main_item_ingr_eng": "Apixaban",
+ "edi_code": "",
+ "atc_code": "B01AF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801517",
+ "revisions": [
+  {
+   "revision_id": "201801517-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:02:38Z",
+   "last_observed_at": "2026-08-27T12:02:38Z",
+   "official_revision_date": "2018-04-06"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:02:38Z"
+}

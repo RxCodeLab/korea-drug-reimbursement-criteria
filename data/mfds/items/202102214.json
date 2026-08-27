@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102214",
+ "item_name": "물린쿨에프겔",
+ "entp_name": "(주)시어스제약",
+ "permit_date": "20210310",
+ "cancel_date": "20260310",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M230875]l-멘톨|[M223240]토코페롤아세테이트|[M040131]리도카인|[M215133]에녹솔론|[M051499]크로타미톤|[M040108]디펜히드라민",
+ "main_item_ingr_eng": "Crotamiton/Diphenhydramine/Enoxolone/L-Menthol/Lidocaine/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "D04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102214",
+ "revisions": [
+  {
+   "revision_id": "202102214-506d7568",
+   "content_sha256": "506d7568c4539c4fb8857718f134ef176256101e2dc58212d1d2937455577146",
+   "ee_text": "습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물림, 두드러기, 동창(언 상처)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:30:22Z",
+   "last_observed_at": "2026-08-27T12:30:22Z",
+   "official_revision_date": "2021-03-10"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:30:22Z"
+}

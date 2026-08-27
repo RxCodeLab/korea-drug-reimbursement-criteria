@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403052",
+ "item_name": "메부틴정(트리메부틴말레산염)(수출명: Supertrim Tab.)",
+ "entp_name": "구주제약(주)",
+ "permit_date": "20040603",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252787]트리메부틴말레산염|[M252787]트리메부틴말레산염",
+ "main_item_ingr_eng": "Trimebutine Maleate",
+ "edi_code": "669801030",
+ "atc_code": "A03AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403052",
+ "revisions": [
+  {
+   "revision_id": "200403052-b0d2e806",
+   "content_sha256": "b0d2e80666dfe0df854ffbbb6b43c1b3d9f92cd41f7e3989c22efc6f1ea57d5d",
+   "ee_text": "1) 식도역류 및 열공헤르니아(틈새 탈장) , 위 십이지장염, 위 십이지장궤양에 있어서의 소화기능이상 (복통, 소화불량,구역, 구토) 2) 과민성대장증후군 및 경련성 결장 3) 소아 질환 : 습관성 구토, 비감염성 장관통과장애 (변비, 설사)",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T13:40:52Z",
+   "last_observed_at": "2026-08-27T13:40:52Z",
+   "official_revision_date": "2020-09-30"
+  },
+  {
+   "revision_id": "200403052-87c7c601",
+   "content_sha256": "87c7c601d9d290c296a7a01999bd838943bd8edb5ee0e59afe54339314ff3c82",
+   "ee_text": "1) 식도역류 및 열공헤르니아(틈새 탈장) , 위 십이지장염, 위 십이지장궤양에 있어서의 소화기능이상 (복통, 소화불량,구역, 구토) 2) 과민성대장증후군 및 경련성 결장 3) 소아 질환 : 습관성 구토, 비감염성 장관통과장애 (변비, 설사), 동요자극(안절부절), 수면장애",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:40:52Z",
+   "last_observed_at": "2026-08-27T13:40:52Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:40:52Z"
+}

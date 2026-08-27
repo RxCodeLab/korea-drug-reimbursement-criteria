@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903614",
+ "item_name": "파마이르소글라딘말레산염정4mg",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20190531",
+ "cancel_date": "20240531",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M255066]이르소글라딘말레산염",
+ "main_item_ingr_eng": "Irsogladine Maleate",
+ "edi_code": "",
+ "atc_code": "A02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903614",
+ "revisions": [
+  {
+   "revision_id": "201903614-088ec67a",
+   "content_sha256": "088ec67a70b3f80d1a87d3252ec80e79b721871a95978d121cb77682acbb7bfc",
+   "ee_text": "1) 위궤양 2) 하기 질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염 및 만성위염의 급성악화기",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:25:24Z",
+   "last_observed_at": "2026-08-27T13:25:24Z",
+   "official_revision_date": "2019-05-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:25:24Z"
+}

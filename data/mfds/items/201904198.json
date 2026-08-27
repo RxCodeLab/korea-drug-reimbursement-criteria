@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904198",
+ "item_name": "히스탑정10mg(에피나스틴염산염)",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20190617",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256607]에피나스틴염산염",
+ "main_item_ingr_eng": "Epinastine Hydrochloride",
+ "edi_code": "645906630",
+ "atc_code": "R06AX24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904198",
+ "revisions": [
+  {
+   "revision_id": "201904198-93889c80",
+   "content_sha256": "93889c8005a305c3cb5a1a94319931fbaaddd55cc606bf07d1e69b83cd1cbcce",
+   "ee_text": "1. 기관지천식 2. 알레르기비염 3. 두드러기, 습진•피부염, 피부가려움, 가려움발진(痒疹), 가려움을 동반한 보통건선",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201904198/EE",
+   "first_observed_at": "2026-08-27T13:08:56Z",
+   "last_observed_at": "2026-08-27T13:08:56Z"
+  },
+  {
+   "revision_id": "201904198-bb0e734a",
+   "content_sha256": "bb0e734a7fcc0a29a4b353007aba1d80f7b690b7dcdf03b973ac02ae231df6ef",
+   "ee_text": "1. 기관지천식 2. 알레르기비염 3. 두드러기, 습진․피부염, 피부가려움, 가려움발진(痒疹), 가려움을 동반한 보통건선",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-06-17",
+   "first_observed_at": "2026-08-27T13:08:56Z",
+   "last_observed_at": "2026-08-27T13:08:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:08:56Z"
+}

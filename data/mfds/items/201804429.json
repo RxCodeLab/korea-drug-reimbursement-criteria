@@ -1,0 +1,54 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804429",
+ "item_name": "아세트펜프리믹스주(아세트아미노펜)",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20181107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen",
+ "edi_code": "",
+ "atc_code": "N02BE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804429",
+ "revisions": [
+  {
+   "revision_id": "201804429-13d28c10",
+   "content_sha256": "13d28c10dd45839baec691cb2b13a142562380a011d70ae0080925ceab579cd1",
+   "ee_text": "성인 및 체중 33kg(약 11세) 이상인 소아 : 통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중등도의 통증(특히 수술 후)의 단기간 치료 - 발열의 단기간 치료 체중 10kg 이상 33kg 미만(만 2세 이상 11세 미만)인 소아 : 통증으로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중등도 통증(특히 수술 후)의 단기간 치료",
+   "ee_doc_id": "31",
+   "first_observed_at": "2026-08-27T13:01:40Z",
+   "last_observed_at": "2026-08-27T13:01:40Z",
+   "official_revision_date": "2026-08-20"
+  },
+  {
+   "revision_id": "201804429-5380e279",
+   "content_sha256": "5380e279580fcaf14212e784c5850186b905fa04598ce96feccaf803fbc46821",
+   "ee_text": "1. 중등도의 통증(특히 수술 후)의 단기간 치료 2. 발열의 단기간 치료",
+   "ee_doc_id": "20",
+   "official_revision_date": "2025-07-02",
+   "first_observed_at": "2026-08-27T13:01:40Z",
+   "last_observed_at": "2026-08-27T13:01:40Z"
+  },
+  {
+   "revision_id": "201804429-ff4ed445",
+   "content_sha256": "ff4ed445e9de6a8d3ec9d470422990d7ebc8c2e757bfe848e7962cc830f672f8",
+   "ee_text": "성인 및 체중 33kg(약 11세) 이상인 소아 : 통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중등도의 통증(특히 수술 후)의 단기간 치료 - 발열의 단기간 치료 체중 10kg 이상 33kg 미만(만 2세 이상 11세 미만)인 소아 : 통증으로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중증도 통증(특히 수술 후)의 단기간 치료",
+   "ee_doc_id": "18",
+   "official_revision_date": "2025-04-17",
+   "first_observed_at": "2026-08-27T13:01:40Z",
+   "last_observed_at": "2026-08-27T13:01:40Z"
+  },
+  {
+   "revision_id": "201804429-ba0a6b65",
+   "content_sha256": "ba0a6b65fa0c02eb295e3ea8d3b0c7850f2e8ee74a5fd771cf4eed7c136c90a3",
+   "ee_text": "통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우, 1. 중등도의 통증(특히 수술 후)의 단기간 치료 2. 발열의 단기간 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-11-07",
+   "first_observed_at": "2026-08-27T13:01:40Z",
+   "last_observed_at": "2026-08-27T13:01:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:01:40Z"
+}

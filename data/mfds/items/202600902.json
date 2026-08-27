@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600902",
+ "item_name": "프롤루텍스프리필드주25밀리그램(프로게스테론)",
+ "entp_name": "(주)아이젠파마코리아",
+ "permit_date": "20260331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040719]프로게스테론",
+ "main_item_ingr_eng": "Progesterone",
+ "edi_code": "",
+ "atc_code": "G03DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600902",
+ "revisions": [
+  {
+   "revision_id": "202600902-8d0ccae9",
+   "content_sha256": "8d0ccae9a517d7c0d85f126e7f6528c5e42e3faf4b3e2e7695e46c4afd01159c",
+   "ee_text": "질적용 제제 사용이 불가능하거나 내약하기 어려운 불임여성의 ART(Assisted Reproductive Technique)의 한 부분으로서 황체기 보조 요법",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:26:59Z",
+   "last_observed_at": "2026-08-27T12:26:59Z",
+   "official_revision_date": "2026-03-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:26:59Z"
+}

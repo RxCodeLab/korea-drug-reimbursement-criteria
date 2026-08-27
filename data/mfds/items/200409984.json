@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200409984",
+ "item_name": "아릭스트라주(폰다파리눅스나트륨)",
+ "entp_name": "(주)한독",
+ "permit_date": "20041002",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M097628]폰다파리눅스나트륨",
+ "main_item_ingr_eng": "Fondaparinux Sodium",
+ "edi_code": "652105361",
+ "atc_code": "B01AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200409984",
+ "history_fetched_at": "2026-08-27T10:38:55Z",
+ "revisions": [
+  {
+   "revision_id": "200409984-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200409984/EE",
+   "first_observed_at": "2026-08-27T10:38:55Z",
+   "last_observed_at": "2026-08-27T10:55:06Z"
+  }
+ ]
+}

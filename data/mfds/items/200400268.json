@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400268",
+ "item_name": "에스펜겔(디클로페낙나트륨)",
+ "entp_name": "삼성제약(주)",
+ "permit_date": "20041210",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050288]디클로페낙나트륨",
+ "main_item_ingr_eng": "Diclofenac Sodium",
+ "edi_code": "",
+ "atc_code": "M02AA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400268",
+ "revisions": [
+  {
+   "revision_id": "200400268-1f77ad8a",
+   "content_sha256": "1f77ad8a63d72aaeaa80007d1809b47e946bb0940583232b680840dc456d55fa",
+   "ee_text": "1. 건, 인대, 근육 및 관절의 외상성 염증(삠, 타박상 등) 2. 연조직 류마티스의 국소형(건초염, 어깨손증후군, 점액낭염, 관절주위염 등) 3. 류마티스 질환의 국소형(말초관절 및 척추의 골관절증 등)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200400268/EE",
+   "first_observed_at": "2026-08-27T12:41:28Z",
+   "last_observed_at": "2026-08-27T12:41:28Z"
+  },
+  {
+   "revision_id": "200400268-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:41:28Z",
+   "last_observed_at": "2026-08-27T12:41:28Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:41:28Z"
+}

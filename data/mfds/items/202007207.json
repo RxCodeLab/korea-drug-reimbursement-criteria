@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007207",
+ "item_name": "에프레논정50밀리그램(에플레레논)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20201021",
+ "cancel_date": "20240514",
+ "status": "취하",
+ "main_item_ingr": "[M279775]에플레레논",
+ "main_item_ingr_eng": "Eplerenone",
+ "edi_code": "",
+ "atc_code": "C03DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007207",
+ "revisions": [
+  {
+   "revision_id": "202007207-dba0b41c",
+   "content_sha256": "dba0b41cdd0bbd673946d5f84212a0876be9410f9ec3f8461f1e573844b9a18a",
+   "ee_text": "고혈압 만성 심부전 (안지오텐신 전환효소 억제제 또는 안지오텐신Ⅱ 수용체 길항제, β 차단제, 이뇨제 등의 기초 치료를 받는 경우)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:32:58Z",
+   "last_observed_at": "2026-08-27T12:32:58Z",
+   "official_revision_date": "2020-10-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:32:58Z"
+}

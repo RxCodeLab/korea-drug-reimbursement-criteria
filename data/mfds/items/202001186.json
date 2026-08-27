@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001186",
+ "item_name": "텔미로우플러스정80/12.5밀리그램",
+ "entp_name": "(주)텔콘알에프제약",
+ "permit_date": "20200219",
+ "cancel_date": "20250219",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M090395]텔미사르탄|[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Telmisartan",
+ "edi_code": "",
+ "atc_code": "C09DA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001186",
+ "revisions": [
+  {
+   "revision_id": "202001186-c92c19c7",
+   "content_sha256": "c92c19c7fe24a77411b5ce9535a00db0c63a5ab7accac3e65a76bc3a05d413b0",
+   "ee_text": "본태성 고혈압의 치료 이 약은 텔미사르탄 단독투여로 혈압이 적절히 조절되지 않는 환자에게 투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:42:56Z",
+   "last_observed_at": "2026-08-27T12:42:56Z",
+   "official_revision_date": "2020-02-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:42:56Z"
+}

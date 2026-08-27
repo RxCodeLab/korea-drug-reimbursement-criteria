@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200905411",
+ "item_name": "칼비타디정",
+ "entp_name": "(주)서울제약",
+ "permit_date": "20090715",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M110035]시트르산칼슘|[M099907]콜레칼시페롤과립",
+ "main_item_ingr_eng": "Calcium Citrate/Cholecalciferol Granules",
+ "edi_code": "652902370",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905411",
+ "history_fetched_at": "2026-08-27T10:37:08Z",
+ "revisions": [
+  {
+   "revision_id": "200905411-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200905411/EE",
+   "first_observed_at": "2026-08-27T10:37:08Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201506022",
+ "item_name": "호쿠나패취0.5밀리그램(툴로부테롤)",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20150826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099457]툴로부테롤",
+ "main_item_ingr_eng": "Tulobuterol",
+ "edi_code": "656003960",
+ "atc_code": "R03CC11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506022",
+ "revisions": [
+  {
+   "revision_id": "201506022-d9914978",
+   "content_sha256": "d99149781e5971e645401e5333c5f8e12f5b151ffae4e2efe026a447f5685791",
+   "ee_text": "다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지 천식, 급성 기관지염, 만성 기관지염, 폐기종",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T13:24:47Z",
+   "last_observed_at": "2026-08-27T13:24:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:24:47Z"
+}

@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102087",
+ "item_name": "가네톡액",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20210305",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223090]시트르산수화물|[M241790]베타인염산염|[M050571]베타인|[M103077]L-아르기닌",
+ "main_item_ingr_eng": "Betaine/Betaine Hydrochloride/Citric Acid Hydrate/L-Arginine",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102087",
+ "history_fetched_at": "2026-08-27T10:37:38Z",
+ "revisions": [
+  {
+   "revision_id": "202102087-e671057a",
+   "content_sha256": "e671057a92195185fbf8a6abab3203524adb8f3e45197df1114678d3e60a4e58",
+   "ee_text": "간질환의 보조 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202102087/EE",
+   "first_observed_at": "2026-08-27T10:37:38Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

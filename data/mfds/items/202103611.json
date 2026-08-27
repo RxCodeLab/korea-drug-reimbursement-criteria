@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103611",
+ "item_name": "파인큐아세트펜시럽(아세트아미노펜)",
+ "entp_name": "대원바이오텍주식회사",
+ "permit_date": "20210503",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen",
+ "edi_code": "",
+ "atc_code": "N02BE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103611",
+ "revisions": [
+  {
+   "revision_id": "202103611-28cf2578",
+   "content_sha256": "28cf2578ff05e157427b6af886c2b367d7f64d21194a3bfb9038232eb54d856b",
+   "ee_text": "감기로 인한 발열 및 동통[통증], 두통, 신경통, 근육통, 월경통, 염좌통[삔 통증] 치통, 관절통, 류마티양 동통[통증]",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:03:30Z",
+   "last_observed_at": "2026-08-27T13:03:30Z",
+   "official_revision_date": "2021-05-03"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:03:30Z"
+}

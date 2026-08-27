@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906216",
+ "item_name": "글리엔티정4밀리그램(글리메피리드)",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20190902",
+ "cancel_date": "20240902",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M086024]글리메피리드",
+ "main_item_ingr_eng": "Glimepiride",
+ "edi_code": "",
+ "atc_code": "A10BB12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906216",
+ "revisions": [
+  {
+   "revision_id": "201906216-cb0cd62d",
+   "content_sha256": "cb0cd62ddb2015df7f67cf32216c730fd19f617cc4658bc65f690640c5f4e064",
+   "ee_text": "1. 이 약은 단독요법으로 투여한다. 2. 이 약은 다음의 경우 병용요법으로 투여한다. 1) 경구용 혈당강하제로 혈당조절이 적절하게 이루어지지 않는 경우, 인슐린과 병용투여 2) 설포닐우레아계 또는 메트포르민 단독요법으로 혈당조절이 적절하게 이루어지지 않는 경우, 메트포르민과 이 약을 병용투여",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:29:18Z",
+   "last_observed_at": "2026-08-27T13:29:18Z",
+   "official_revision_date": "2019-09-02"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:29:18Z"
+}

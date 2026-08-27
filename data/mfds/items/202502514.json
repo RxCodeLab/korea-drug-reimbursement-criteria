@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502514",
+ "item_name": "브리베타정100밀리그램(브리바라세탐)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20250923",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267686]브리바라세탐",
+ "main_item_ingr_eng": "Brivaracetam",
+ "edi_code": "643310120",
+ "atc_code": "N03AX23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502514",
+ "revisions": [
+  {
+   "revision_id": "202502514-7666a3f1",
+   "content_sha256": "7666a3f1cce0f0c11b216f37faf147caf9c83056b2bb24cbd1ed12c30bed08a8",
+   "ee_text": "16세 이상의 뇌전증 환자에서 2차성 전신발작을 동반하거나 동반하지 않는 부분 발작치료의 부가요법",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-27T12:28:23Z",
+   "last_observed_at": "2026-08-27T12:28:23Z",
+   "official_revision_date": "2025-09-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:28:23Z"
+}

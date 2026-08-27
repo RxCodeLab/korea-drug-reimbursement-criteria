@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302313",
+ "item_name": "수벡스정",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20230801",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246956]수마트립탄숙신산염|[M070724]나프록센나트륨",
+ "main_item_ingr_eng": "Naproxen Sodium/Sumatriptan Succinate",
+ "edi_code": "644704980",
+ "atc_code": "N02CC51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302313",
+ "revisions": [
+  {
+   "revision_id": "202302313-96cee285",
+   "content_sha256": "96cee285b8023d2b4c636a5cfdbe494843b8e963be42991b3fbc650bb777a256",
+   "ee_text": "18세 이상의 성인 환자에서 전조증상을 수반하거나 수반하지 않는 편두통의 급성 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:32:55Z",
+   "last_observed_at": "2026-08-27T12:32:55Z",
+   "official_revision_date": "2023-08-01"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:32:55Z"
+}

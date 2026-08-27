@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309260",
+ "item_name": "아세라노세미정",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "20130909",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222893]트라마돌염산염|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Tramadol Hydrochloride",
+ "edi_code": "648602570",
+ "atc_code": "N02AJ13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309260",
+ "revisions": [
+  {
+   "revision_id": "201309260-c13edcff",
+   "content_sha256": "c13edcffaf649ffa7ce4b821a2a64e5a37fe65b09bd2f401f537b077be2198e8",
+   "ee_text": "중증도-중증의 급·만성 통증",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T12:59:51Z",
+   "last_observed_at": "2026-08-27T12:59:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:59:51Z"
+}

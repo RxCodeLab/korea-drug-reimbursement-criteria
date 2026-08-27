@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200708444",
+ "item_name": "로피맥스정2밀리그램(로피니롤염산염)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20070723",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234950]로피니롤염산염",
+ "main_item_ingr_eng": "Ropinirole Hydrochloride",
+ "edi_code": "642800450",
+ "atc_code": "N04BC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708444",
+ "revisions": [
+  {
+   "revision_id": "200708444-332ce459",
+   "content_sha256": "332ce4591314fe3ebec9d876321d180d46e0d2cf55a743f4058687e826e99a00",
+   "ee_text": "- 특발성 파킨슨씨병 치료에 단독 요법으로 사용가능하다. - 레보도파와의 병용 투여는 on-off 현상을 억제하고 레보도파의 1일 투여량을 줄 일 수 있다.",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-27T12:34:04Z",
+   "last_observed_at": "2026-08-27T12:34:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:34:04Z"
+}

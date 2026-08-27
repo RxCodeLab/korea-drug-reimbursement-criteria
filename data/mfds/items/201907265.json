@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907265",
+ "item_name": "셀로펜정60밀리그램(록소프로펜나트륨수화물)",
+ "entp_name": "(주)텔콘알에프제약",
+ "permit_date": "20191015",
+ "cancel_date": "20241015",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222839]록소프로펜나트륨수화물",
+ "main_item_ingr_eng": "Loxoprofen Sodium Hydrate",
+ "edi_code": "",
+ "atc_code": "M01AE19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907265",
+ "revisions": [
+  {
+   "revision_id": "201907265-781ce5a8",
+   "content_sha256": "781ce5a8a63950391218681c42245fb781a9d3b6b2dfd1da63a91ae88a540e30",
+   "ee_text": "만성관절류마티스, 변형성관절증, 요통, 견관절주위염, 경견완증후군 급성상기도염(급성기관지염을 수반한 급성상기도염을 포함)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:15:30Z",
+   "last_observed_at": "2026-08-27T12:15:30Z",
+   "official_revision_date": "2019-10-15"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:15:30Z"
+}

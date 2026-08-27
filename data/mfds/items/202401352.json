@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401352",
+ "item_name": "올메비카에이치씨티정5/40/12.5밀리그램(에스암로디핀베실산염이수화물,올메사르탄메독소밀,히드로클로로티아지드)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20240531",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M226654]에스암로디핀베실산염이수화물|[M223356]히드로클로로티아지드|[M269761]올메사르탄메독소밀",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Olmesartan Medoxomil/S-Amlodipine Besylate Dihydrate",
+ "edi_code": "653405740",
+ "atc_code": "C09DX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401352",
+ "revisions": [
+  {
+   "revision_id": "202401352-c24a8c48",
+   "content_sha256": "c24a8c4878f0d90e71b6cf1a4ee0065fc5dd68516389d8daf145e0566b550391",
+   "ee_text": "에스암로디핀(암로디핀)과 올메사르탄메독소밀의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:34:01Z",
+   "last_observed_at": "2026-08-27T12:34:01Z",
+   "official_revision_date": "2024-05-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:34:01Z"
+}

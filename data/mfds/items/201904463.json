@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904463",
+ "item_name": "리나탑듀오정2.5/850밀리그램(리나글립틴,메트포르민염산염)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20190628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252996]리나글립틴|[M244179]메트포르민염산염",
+ "main_item_ingr_eng": "Linagliptin/Metformin Hydrochloride",
+ "edi_code": "657308950",
+ "atc_code": "A10BD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904463",
+ "revisions": [
+  {
+   "revision_id": "201904463-8946655e",
+   "content_sha256": "8946655ee5636ce7e034c346f06c98ca0658e9c33ec880161411602c68949aa9",
+   "ee_text": "이 약은 리나글립틴과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201904463/EE",
+   "first_observed_at": "2026-08-27T13:33:11Z",
+   "last_observed_at": "2026-08-27T13:33:11Z"
+  },
+  {
+   "revision_id": "201904463-411971f5",
+   "content_sha256": "411971f58411412ee949ee962cf2cc04eebe1e011814a3f5277d6e5f344854fc",
+   "ee_text": "이 약은 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 이전 당뇨병 약물치료를 받은 경험이 없으며 단독요법으로 충분한 혈당조절이 어려운 경우 투여한다. 2. 메트포르민 단독요법으로 충분한 혈당조절을 할 수 없는 경우 투여한다. 3. 리나글립틴과 메트포르민 병용요법을 대체하는 경우 투여한다. 4. 최대 내성용량의 메트포르민과 설포닐우레아 병용요법으로 충분한 혈당 조절을 할 수 없는 경우 설포닐우레아와 이 약을 병용투여한다. 5. 인슐린과 메트포르민 병용요법으로 충분한 혈당조절을 할 수 없는 경우 인슐린과 이 약을 병용투여한다. 6. 최대 내성용량의 메트포르민과 엠파글리플로진 병용요법으로 충분한 혈당 조절을 할 수 없는 경우 엠파글리플로진과 이 약을 병용투여한다.",
+   "ee_doc_id": "12",
+   "official_revision_date": "2024-01-11",
+   "first_observed_at": "2026-08-27T13:33:11Z",
+   "last_observed_at": "2026-08-27T13:33:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:33:11Z"
+}

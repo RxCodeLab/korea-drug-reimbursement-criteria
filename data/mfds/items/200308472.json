@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308472",
+ "item_name": "딜리드주2밀리그람(히드로모르폰염산염)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20030412",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247991]히드로모르폰염산염",
+ "main_item_ingr_eng": "Hydromorphone Hydrochloride",
+ "edi_code": "657800411",
+ "atc_code": "N02AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308472",
+ "revisions": [
+  {
+   "revision_id": "200308472-51b15ffa",
+   "content_sha256": "51b15ffa1f4444dca54238ca34549bd6ceca909d017faae79fb7ed9ce862c0cb",
+   "ee_text": "(주사제) * 1, 2, 4 mg/mL 마약성 진통제 사용이 필요한 심한 통증의 완화",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T13:25:44Z",
+   "last_observed_at": "2026-08-27T13:25:44Z",
+   "official_revision_date": "2018-08-02"
+  },
+  {
+   "revision_id": "200308472-70e6ef2f",
+   "content_sha256": "70e6ef2fd535a7be050c75b05a4380f4dadd7077af970306de9ffd73adfe0720",
+   "ee_text": "다음으로 인한 심한 통증의 완화 : 수술, 암, 외상(연조직 및 뼈), 담석산통, 심근경색, 화상, 신산통",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:25:44Z",
+   "last_observed_at": "2026-08-27T13:25:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:25:44Z"
+}

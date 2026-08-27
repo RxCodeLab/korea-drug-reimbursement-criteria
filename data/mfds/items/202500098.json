@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500098",
+ "item_name": "엠플로엠서방정25/1000밀리그램(엠파글리플로진,메트포르민)",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20250113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260057]엠파글리플로진|[M244179]메트포르민염산염",
+ "main_item_ingr_eng": "Empagliflozin/Metformin Hydrochloride",
+ "edi_code": "645907570",
+ "atc_code": "A10BD20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500098",
+ "revisions": [
+  {
+   "revision_id": "202500098-1640566c",
+   "content_sha256": "1640566c81995e96ace4064fd14d021329905618676e10cd6c44ef67ecab0372",
+   "ee_text": "이 약은 엠파글리플로진과 메트포르민의 병용투여가 적합한 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 혈당이 충분히 조절되지 않는 성인 제2형 당뇨병 환자 중 심혈관계 질환이 확인된 환자에서 심혈관계 사건 발생에 대한 영향은 ‘사용상의 주의사항 12. 전문가를 위한 정보 2) 임상시험 정보’항을 참고한다.",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202500098/EE",
+   "first_observed_at": "2026-08-27T12:39:50Z",
+   "last_observed_at": "2026-08-27T12:39:50Z"
+  },
+  {
+   "revision_id": "202500098-5756ddfe",
+   "content_sha256": "5756ddfe1a30c0e433b710c49c753f7768f552af19e2dc8ad848953a23520ded",
+   "ee_text": "이 약은 엠패글리플로진과 메트포르민의 병용투여가 적합한 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 혈당이 충분히 조절되지 않는 성인 제2형 당뇨별 환자 중 심혈관계 질환이 확인된 환자에서 심혈관계 사전 발생에 대한 영향은 ‘사용상의 주의사항 12. 전문가를 위한 정보 3) 임상시험 정보’항을 참고한다.",
+   "ee_doc_id": "6",
+   "official_revision_date": "2025-12-01",
+   "first_observed_at": "2026-08-27T12:39:50Z",
+   "last_observed_at": "2026-08-27T12:39:50Z"
+  },
+  {
+   "revision_id": "202500098-dfd81edb",
+   "content_sha256": "dfd81edb02cd57e8a9a99af9e2f82b65b8df54b588099014b93b7920606f7698",
+   "ee_text": "이 약은 엠파글리플로진과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 혈당이 충분히 조절되지 않는 제2형 당뇨병 환자 중 심혈관계 질환이 확인된 환자에서 심혈관계 사건 발생에 대한 영향은 ‘사용상의 주의사항 12. 전문가를 위한 정보 3) 임상시험 정보’항을 참고한다.",
+   "ee_doc_id": "1",
+   "official_revision_date": "2025-01-13",
+   "first_observed_at": "2026-08-27T12:39:50Z",
+   "last_observed_at": "2026-08-27T12:39:50Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:39:50Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200102255",
+ "item_name": "투윈콜캡슐(수출용)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20010203",
+ "cancel_date": "20251211",
+ "status": "취하",
+ "main_item_ingr": "[M040133]리보플라빈|[M223262]티아민질산염|[M099414]세라티오펩티다제|[M222890]클로페라스틴염산염|[M223183]카페인무수물|[M204422]dl-메틸에페드린염산염|[M223211]클로르페니라민말레산염|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Chlorpheniramine Maleate/Cloperastine Hydrochloride/DL-Methylephedrine Hydrochloride/Riboflavin/Serratiopeptidase/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102255",
+ "revisions": [
+  {
+   "revision_id": "200102255-322de244",
+   "content_sha256": "322de24465f741816b6905f8f9d18a3e45aa59569d509e8931e74ca2b9660bf3",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-27T12:57:07Z",
+   "last_observed_at": "2026-08-27T12:57:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:07Z"
+}

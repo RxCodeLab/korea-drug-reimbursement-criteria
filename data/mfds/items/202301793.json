@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301793",
+ "item_name": "듀비에에스정",
+ "entp_name": "(주)종근당",
+ "permit_date": "20230609",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255021]로베글리타존황산염|[M251915]시타글립틴인산염수화물",
+ "main_item_ingr_eng": "Lobeglitazone Sulfate/Sitagliptin Phosphate Hydrate",
+ "edi_code": "643309380",
+ "atc_code": "A10BD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301793",
+ "revisions": [
+  {
+   "revision_id": "202301793-6f8518f2",
+   "content_sha256": "6f8518f299fae9fd227ba01a82c7c7c2fa809b43978dc044a34ad964d6603f8a",
+   "ee_text": "이 약은 로베글리타존과 시타글립틴의 병용투여가 적합한 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:56:01Z",
+   "last_observed_at": "2026-08-27T12:56:01Z",
+   "official_revision_date": "2023-06-09"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:56:01Z"
+}

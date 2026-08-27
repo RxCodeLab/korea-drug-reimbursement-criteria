@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805247",
+ "item_name": "카르베타정12.5밀리그램(카르베딜롤)",
+ "entp_name": "에이치엘비제약(주)",
+ "permit_date": "20181226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085731]카르베딜롤",
+ "main_item_ingr_eng": "Carvedilol",
+ "edi_code": "647303570",
+ "atc_code": "C07AG02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805247",
+ "revisions": [
+  {
+   "revision_id": "201805247-8f739bc4",
+   "content_sha256": "8f739bc433f3469392ffbd01c45d5d28e446176e4fd899412cf6cbcf6b1a2878",
+   "ee_text": "이뇨제, 디기탈리스 제제, ACE억제제, 기타 혈관확장제 투여시 보조치료",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-27T12:27:55Z",
+   "last_observed_at": "2026-08-27T12:27:55Z",
+   "official_revision_date": "2020-01-21"
+  },
+  {
+   "revision_id": "201805247-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-12-26",
+   "first_observed_at": "2026-08-27T12:27:55Z",
+   "last_observed_at": "2026-08-27T12:27:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:27:55Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202100309",
+ "item_name": "미유린정0.1밀리그램(데스모프레신아세트산염)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "20210111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270447]데스모프레신아세트산염",
+ "main_item_ingr_eng": "Desmopressin Acetate",
+ "edi_code": "658604740",
+ "atc_code": "H01BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100309",
+ "revisions": [
+  {
+   "revision_id": "202100309-aaa978e9",
+   "content_sha256": "aaa978e9d05f1349d7102be6c8e4244af9a5f01137f3e686bcf1aab43789995c",
+   "ee_text": "일차성 야뇨증(5세이상), 야간다뇨와 관련이 있는 야간뇨증상의 치료(성인에 한함)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:07:37Z",
+   "last_observed_at": "2026-08-27T11:07:37Z",
+   "official_revision_date": "2021-01-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:07:37Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604170",
+ "item_name": "테바엘로티닙정100mg(엘로티닙염산염)",
+ "entp_name": "(주)한독테바",
+ "permit_date": "20160705",
+ "cancel_date": "20260705",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M250547]엘로티닙염산염",
+ "main_item_ingr_eng": "Erlotinib Hydrochloride",
+ "edi_code": "",
+ "atc_code": "L01XE03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604170",
+ "revisions": [
+  {
+   "revision_id": "201604170-3062ce65",
+   "content_sha256": "3062ce650fe8caa8948cac94bb60b13652f7b88d6d462d8c5397eb0887db0b28",
+   "ee_text": "○ 이전 화학요법에 실패한 국소 진행성 또는 전이성 비소세포폐암 ○ EGFR 활성 변이가 있는 국소진행성 또는 전이성 비소세포폐암의 1차 치료 ○ 젬시타빈과 병용하여 국소 진행성, 수술불가능 또는 전이성 췌장암의 1차 치료",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-27T12:44:59Z",
+   "last_observed_at": "2026-08-27T12:44:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:44:59Z"
+}

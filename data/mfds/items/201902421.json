@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902421",
+ "item_name": "알트리정",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20190418",
+ "cancel_date": "20240418",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222983]라니티딘염산염|[M251061]비스무트시트르산염칼륨|[M223077]수크랄페이트수화물",
+ "main_item_ingr_eng": "Ranitidine Hydrochloride/Sucralfate Hydrate/Tripotassium Bismuth Dicitrate",
+ "edi_code": "",
+ "atc_code": "A02BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902421",
+ "revisions": [
+  {
+   "revision_id": "201902421-3f946805",
+   "content_sha256": "3f946805265ed760319a4f9c7f62c85986a22957fe5ac428681245feab768766",
+   "ee_text": "위·십이지장궤양, 위염, 졸링거-엘리슨증후군, 역류성식도염, 마취전 투약(멘델슨증후군 예방), 수술후 궤양, 비스테로이드소염진통제(NSAID)로 인한 위·십이지장 궤양",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:57:34Z",
+   "last_observed_at": "2026-08-27T11:57:34Z",
+   "official_revision_date": "2019-04-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:57:34Z"
+}

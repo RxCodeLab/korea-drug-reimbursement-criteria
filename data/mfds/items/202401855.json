@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401855",
+ "item_name": "온트론주2밀리그램/밀리리터(바이알)(온단세트론염산염)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20240731",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257638]온단세트론염산염",
+ "main_item_ingr_eng": "Ondansetron Hydrochloride",
+ "edi_code": "647205941,647205991",
+ "atc_code": "A04AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401855",
+ "revisions": [
+  {
+   "revision_id": "202401855-a974b264",
+   "content_sha256": "a974b264112f069162254c4f143f3145a96962c5a0638ca6be61bfe4a961109a",
+   "ee_text": "세포독성을 유발하는 화학요법 또는 방사선요법에 의한 구역과 구토, 수술 후 구역과 구토의 예방 및 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:17:29Z",
+   "last_observed_at": "2026-08-27T13:17:29Z",
+   "official_revision_date": "2024-07-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:17:29Z"
+}

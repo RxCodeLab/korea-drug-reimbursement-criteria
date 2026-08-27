@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903264",
+ "item_name": "씬지로이드정0.025밀리그램(레보티록신나트륨수화물)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20190521",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222989]레보티록신나트륨수화물",
+ "main_item_ingr_eng": "Levothyroxine Sodium Hydrate",
+ "edi_code": "642204420",
+ "atc_code": "H03AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903264",
+ "revisions": [
+  {
+   "revision_id": "201903264-f2b5bf34",
+   "content_sha256": "f2b5bf347aefd4c1b9284e246995c5b891a2001af013aaebf7c1f3cba13f16e4",
+   "ee_text": "갑상선기능저하증, 점액부종, 크레틴병",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T12:24:57Z",
+   "last_observed_at": "2026-08-27T12:24:57Z",
+   "official_revision_date": "2022-04-21"
+  },
+  {
+   "revision_id": "201903264-f88c7fac",
+   "content_sha256": "f88c7faca4ae20bdd277dc26a3a495657e95be125dfdec6a1dc6a3938789fee5",
+   "ee_text": "갑상선기능저하증, 점액부종, 크레틴병, 단순성 갑상선종",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-05-21",
+   "first_observed_at": "2026-08-27T12:24:57Z",
+   "last_observed_at": "2026-08-27T12:24:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:24:57Z"
+}

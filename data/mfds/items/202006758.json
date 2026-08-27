@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006758",
+ "item_name": "캐롤나이트정",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20201006",
+ "cancel_date": "20250306",
+ "status": "취하",
+ "main_item_ingr": "[M254160]디펜히드라민시트르산염|[M051259]이부프로펜",
+ "main_item_ingr_eng": "Diphenhydramine Citrate/Ibuprofen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006758",
+ "revisions": [
+  {
+   "revision_id": "202006758-80064dcb",
+   "content_sha256": "80064dcb9d3d60c00be98f9e9edd103e94f88677f7402beb7a1f74ba6e5183a6",
+   "ee_text": "통증으로 인한 일시적인 불면을 동반하는 급성 야간 통증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:30:19Z",
+   "last_observed_at": "2026-08-27T12:30:19Z",
+   "official_revision_date": "2020-10-06"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:30:19Z"
+}

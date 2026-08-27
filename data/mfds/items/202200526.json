@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200526",
+ "item_name": "레캄비스주사(릴피비린)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20220203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281993]릴피비린(미분화)",
+ "main_item_ingr_eng": "Rilpivirine Micronized",
+ "edi_code": "646902801",
+ "atc_code": "J05AG05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200526",
+ "revisions": [
+  {
+   "revision_id": "202200526-aa45aa9d",
+   "content_sha256": "aa45aa9d3c49caa3050367b340e2e18a9f85ae6e2779fd660e0b6132b0626d63",
+   "ee_text": "바이러스학적으로 억제되어 있고 (HIV-1 RNA < 50 copies/mL), 치료 실패 이력이 없으며 릴피비린 또는 카보테그라비르에 알려진 또는 의심되는 내성이 없는 성인 환자에서 HIV-1 감염 치료를 위한 카보테그라비르 주사와의 병용요법",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:32:52Z",
+   "last_observed_at": "2026-08-27T12:32:52Z",
+   "official_revision_date": "2022-02-03"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:32:52Z"
+}

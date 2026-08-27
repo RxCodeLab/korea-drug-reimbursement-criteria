@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402591",
+ "item_name": "아멜리부프리필드시린지(0.5mg/0.05mL)(라니비주맙)",
+ "entp_name": "삼성바이오에피스(주)",
+ "permit_date": "20241104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215125]라니비주맙",
+ "main_item_ingr_eng": "Ranibizumab",
+ "edi_code": "051500181",
+ "atc_code": "S01LA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402591",
+ "revisions": [
+  {
+   "revision_id": "202402591-aa29e37a",
+   "content_sha256": "aa29e37aa7ee423fdf9c1b84ff989b92e7529df8fb8123cc1173197932f8e38a",
+   "ee_text": "신생혈관성 (습성) 연령관련 황반변성의 치료 당뇨병성 황반부종에 의한 시력 손상의 치료 증식성 당뇨성 망막병증의 치료 망막정맥폐쇄성 황반부종에 의한 시력 손상의 치료 맥락막 신생혈관 형성에 따른 시력 손상의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:59:07Z",
+   "last_observed_at": "2026-08-27T11:59:07Z",
+   "official_revision_date": "2024-11-04"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:59:07Z"
+}

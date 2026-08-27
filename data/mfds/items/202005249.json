@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005249",
+ "history_fetched_at": "2026-08-27T10:33:10Z",
  "revisions": [
   {
    "revision_id": "202005249-b16107b5",
    "content_sha256": "b16107b54f1d74cd327ae6a1311588278e2d61cfed5de03601c206393a1a29aa",
    "ee_text": "- 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 발육기 - 노년기 - 뼈, 이의 발육불량 - 구루병의 예방 - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등), 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 - 각기 - 눈의피로",
-   "ee_doc_id": "9",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202005249/EE",
    "first_observed_at": "2026-08-27T10:33:10Z",
-   "last_observed_at": "2026-08-27T10:33:10Z",
-   "official_revision_date": "2023-03-07"
+   "last_observed_at": "2026-08-27T10:53:05Z"
   },
   {
    "revision_id": "202005249-ecd260df",
@@ -40,6 +40,5 @@
    "first_observed_at": "2026-08-27T10:33:10Z",
    "last_observed_at": "2026-08-27T10:33:10Z"
   }
- ],
- "history_fetched_at": "2026-08-27T10:33:10Z"
+ ]
 }

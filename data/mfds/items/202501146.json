@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501146",
+ "item_name": "본갈근탕플러스액",
+ "entp_name": "익수제약(주)",
+ "permit_date": "20250512",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M040007]건강|[M040071]대추|[M040135]마황|[M040004]갈근|[M040006]감초|[M050036]육계|[M040523]작약",
+ "main_item_ingr_eng": "Acetaminophen/Cinnamon Bark/Ephedra Herb/Ginger/Jujube/Licorice/Peony Root/Pueraria Root",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501146",
+ "revisions": [
+  {
+   "revision_id": "202501146-07bc74d5",
+   "content_sha256": "07bc74d5b300b4a0e032776c522c6d0cd3b4918a6754c74ca0ee60090d73ad1f",
+   "ee_text": "감기의 제증상(여러증상)(인후(목구멍)통, 오한(춥고떨리는증상), 발열, 두통, 관절통, 근육통의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:05:39Z",
+   "last_observed_at": "2026-08-27T13:05:39Z",
+   "official_revision_date": "2025-05-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:05:39Z"
+}

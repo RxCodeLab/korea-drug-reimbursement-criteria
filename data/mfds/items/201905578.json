@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905578",
+ "item_name": "로자듀오정10/50mg",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20190807",
+ "cancel_date": "20240222",
+ "status": "취하",
+ "main_item_ingr": "[M222875]암로디핀베실산염|[M249673]로사르탄칼륨",
+ "main_item_ingr_eng": "Amlodipine Besylate/Losartan Potassium",
+ "edi_code": "",
+ "atc_code": "C09DB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905578",
+ "revisions": [
+  {
+   "revision_id": "201905578-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:07:56Z",
+   "last_observed_at": "2026-08-27T13:07:56Z",
+   "official_revision_date": "2019-08-07"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:07:56Z"
+}

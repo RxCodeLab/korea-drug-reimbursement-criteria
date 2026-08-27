@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000299",
+ "item_name": "하이루주(프리필드)(히알루론산나트륨)",
+ "entp_name": "(주)유앤생명과학",
+ "permit_date": "20200120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222910]히알루론산나트륨",
+ "main_item_ingr_eng": "Sodium Hyaluronate",
+ "edi_code": "",
+ "atc_code": "M09AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000299",
+ "revisions": [
+  {
+   "revision_id": "202000299-5d314dee",
+   "content_sha256": "5d314dee349efd2f5724e683886c0f295a6be1c816b2b8024fa14a183ee3e46c",
+   "ee_text": "슬관절의 골관절염, 견관절주위염 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:05:40Z",
+   "last_observed_at": "2026-08-27T11:05:40Z",
+   "official_revision_date": "2020-01-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:05:40Z"
+}

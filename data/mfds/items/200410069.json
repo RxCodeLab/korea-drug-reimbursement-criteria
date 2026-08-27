@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410069",
+ "item_name": "씨뮬렉트주사(바실릭시맙)(단클론항체,유전자재조합)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20041222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088655]바실릭시맙",
+ "main_item_ingr_eng": "Basiliximab",
+ "edi_code": "653600671",
+ "atc_code": "L04AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410069",
+ "history_fetched_at": "2026-08-27T10:42:41Z",
+ "revisions": [
+  {
+   "revision_id": "200410069-b6952026",
+   "content_sha256": "b69520260e03e81476f8661fdf6302fc2bee96d03b82d13f5e12a5d231f83801",
+   "ee_text": "신장 이식 시 사이클로스포린 및 코르티코스테로이드 등의 면역억제제와 병용하거나 사이클로스포린, 코르티코스테로이드 및 아자티오프린 또는 미코페놀레이트모페틸 등의 3종 면역억제제와 병용하여 급성 장기 거부반응 예방 신장 이식 시 사이클로스포린 및 코르티코스테로이드 등의 면역억제제와 병용하여 급성 장기 거부반응 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200410069/EE",
+   "first_observed_at": "2026-08-27T10:42:41Z",
+   "last_observed_at": "2026-08-27T10:58:07Z"
+  }
+ ]
+}

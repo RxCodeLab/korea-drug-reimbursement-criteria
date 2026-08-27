@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902305",
+ "item_name": "데페라시스확산정500밀리그램(데페라시록스)(수출용)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20190415",
+ "cancel_date": "20231018",
+ "status": "취하",
+ "main_item_ingr": "[M102737]데페라시록스",
+ "main_item_ingr_eng": "Deferasirox",
+ "edi_code": "",
+ "atc_code": "V03AC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902305",
+ "revisions": [
+  {
+   "revision_id": "201902305-98df4097",
+   "content_sha256": "98df40970636beb065aba576465dfcc691a9b28dfd6f01f17ea52a82ff549b87",
+   "ee_text": "수혈의존성 헤모시데린침착증의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:47:53Z",
+   "last_observed_at": "2026-08-27T12:47:53Z",
+   "official_revision_date": "2019-04-15"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:47:53Z"
+}

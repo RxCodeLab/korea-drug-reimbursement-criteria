@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200411009",
+ "item_name": "알베롤정(카르베딜롤)",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20040914",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085731]카르베딜롤",
+ "main_item_ingr_eng": "Carvedilol",
+ "edi_code": "656001200",
+ "atc_code": "C07AG02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200411009",
+ "revisions": [
+  {
+   "revision_id": "200411009-7d2b65cc",
+   "content_sha256": "7d2b65ccdcb2a1f175a5e1bab056d904a92e86a825333293687c58be5794b9f0",
+   "ee_text": "1. 본태고혈압 2. 만성 안정협심증 3. 울혈심부전 이뇨제, 디기탈리스 제제, ACE억제제, 기타 혈관확장제 투여시 보조치료",
+   "ee_doc_id": "22",
+   "first_observed_at": "2026-08-27T12:27:44Z",
+   "last_observed_at": "2026-08-27T12:27:44Z",
+   "official_revision_date": "2025-05-14"
+  },
+  {
+   "revision_id": "200411009-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:27:44Z",
+   "last_observed_at": "2026-08-27T12:27:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:27:44Z"
+}

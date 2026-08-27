@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906674",
+ "item_name": "트라세타정(아세트아미노펜,트라마돌)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20190924",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M222893]트라마돌염산염",
+ "main_item_ingr_eng": "Acetaminophen/Tramadol Hydrochloride",
+ "edi_code": "641606950",
+ "atc_code": "N02AJ13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906674",
+ "revisions": [
+  {
+   "revision_id": "201906674-93085d39",
+   "content_sha256": "93085d39695f90fe0a6afb9a0606551ff1727686443bd1f6cbfa5189e4c2fce1",
+   "ee_text": "중등도-중증의 급ㆍ만성 통증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:02:27Z",
+   "last_observed_at": "2026-08-27T13:02:27Z",
+   "official_revision_date": "2019-09-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:02:27Z"
+}

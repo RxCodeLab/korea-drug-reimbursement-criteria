@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402713",
+ "item_name": "안티센크림",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20040508",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215133]에녹솔론|[M222965]디부카인염산염|[M230875]l-멘톨|[M204423]dl-캄파|[M040108]디펜히드라민",
+ "main_item_ingr_eng": "DL-Camphor/Dibucaine Hydrochloride/Diphenhydramine/Enoxolone/L-Menthol",
+ "edi_code": "",
+ "atc_code": "D04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402713",
+ "revisions": [
+  {
+   "revision_id": "200402713-0f62409c",
+   "content_sha256": "0f62409c627e5ed8d05cd68374e3fb530b1be23e268b86b344b4d7f2144eace3",
+   "ee_text": "습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움 , 벌레물림, 두드러기, 동창(언 상처)",
+   "ee_doc_id": "24",
+   "first_observed_at": "2026-08-27T12:29:37Z",
+   "last_observed_at": "2026-08-27T12:29:37Z",
+   "official_revision_date": "2025-09-19"
+  },
+  {
+   "revision_id": "200402713-85742864",
+   "content_sha256": "85742864348bfa5456769393b16621c5265fd3aec43c2484fc777510dfc94ca4",
+   "ee_text": "벌레 물린데, 피부가려움, 습진, 두드러기, 피부염, 땀띠, 동창",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:29:37Z",
+   "last_observed_at": "2026-08-27T12:29:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:37Z"
+}

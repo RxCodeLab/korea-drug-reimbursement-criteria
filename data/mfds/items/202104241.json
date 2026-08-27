@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104241",
+ "item_name": "코셀루고캡슐25밀리그램(셀루메티닙황산염)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20210528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280861]셀루메티닙황산염",
+ "main_item_ingr_eng": "Selumetinib hydrogen sulfate",
+ "edi_code": "650701150",
+ "atc_code": "L01EE04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104241",
+ "revisions": [
+  {
+   "revision_id": "202104241-3c7e4fdb",
+   "content_sha256": "3c7e4fdbdfbff2a41c3b1bbb13e11fb83b22b518b02d1bb1b815610b2840e703",
+   "ee_text": "증상이 있고 수술이 불가능한 총상 신경섬유종 (plexiform neurofibroma)을 동반한 신경섬유종증 1형인 만 3세 이상 소아 및 성인 환자의 치료",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T12:26:13Z",
+   "last_observed_at": "2026-08-27T12:26:13Z",
+   "official_revision_date": "2025-12-11"
+  },
+  {
+   "revision_id": "202104241-edd7639f",
+   "content_sha256": "edd7639f5431ce77c4747618300d8a4854af769a07da978a9110703bd93022d6",
+   "ee_text": "증상이 있고 수술이 불가능한 총상 신경섬유종 (plexiform neurofibroma)을 동반한 신경섬유종증 1형인 만 3세 이상 소아 환자의 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2021-05-28",
+   "first_observed_at": "2026-08-27T12:26:13Z",
+   "last_observed_at": "2026-08-27T12:26:13Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:26:13Z"
+}

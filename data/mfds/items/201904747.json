@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904747",
+ "item_name": "세팔록캡슐500밀리그램(세파드록실수화물)",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20190716",
+ "cancel_date": "20240716",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222858]세파드록실수화물",
+ "main_item_ingr_eng": "Cefadroxil Hydrate",
+ "edi_code": "",
+ "atc_code": "J01DB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904747",
+ "revisions": [
+  {
+   "revision_id": "201904747-fd3cfde5",
+   "content_sha256": "fd3cfde55805c76158905d068729a918fed846981709ffd6c6c25df5edf73584",
+   "ee_text": "베타용혈성연쇄구균, 포도구균(페니실리나제 생성균 포함), 폐렴연쇄구균, 대장균, 프로테우스 미라빌리스, 클레브시엘라 - 신우신염, 방광염, 요도염 - 피부 및 피부조직 감염증 - 인두염, 편도염",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:33:23Z",
+   "last_observed_at": "2026-08-27T12:33:23Z",
+   "official_revision_date": "2019-07-16"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:23Z"
+}

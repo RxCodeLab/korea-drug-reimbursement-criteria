@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901968",
+ "item_name": "위앤탁더블액션현탁액",
+ "entp_name": "구주제약(주)",
+ "permit_date": "20190401",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051564]탄산칼슘|[M040631]탄산수소나트륨|[M040385]알긴산나트륨",
+ "main_item_ingr_eng": "Calcium Carbonate/Sodium Alginate/Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "A02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901968",
+ "revisions": [
+  {
+   "revision_id": "201901968-1fbc603a",
+   "content_sha256": "1fbc603abffcad5ebf152d707f4d615d2f1e6c275e80a8382d9d41efe1b6269e",
+   "ee_text": "다음의 위식도 역류의 증상 개선 : ○ 산 역류 ○ 속쓰림 ○ 위 내용물의 역류로 인한 소화불량 (예를 들어 식사 후, 임신 중, 역류성 식도염과 동반하는 경우의)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:07:02Z",
+   "last_observed_at": "2026-08-27T12:07:02Z",
+   "official_revision_date": "2019-04-01"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:07:02Z"
+}

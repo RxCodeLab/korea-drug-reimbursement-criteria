@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701737",
+ "item_name": "저박사주",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "20170407",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M117355]타조박탐나트륨|[M264866]세프톨로잔황산염",
+ "main_item_ingr_eng": "Ceftolozane Sulfate/Tazobactam Sodium",
+ "edi_code": "655501961",
+ "atc_code": "J01DI54",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701737",
+ "revisions": [
+  {
+   "revision_id": "201701737-d4dcab82",
+   "content_sha256": "d4dcab82eb1a072bfd9f4405518fafb2306c7d707be8351ff801881c8da3d04f",
+   "ee_text": "18세 이상의 성인에서 다음의 유효 균종에 의한 감염의 치료에 사용한다. 1. 적응증 - 복잡성 복강내 감염(이 약과 메트로니다졸 병용 투여) - 복잡성 요로 감염(신우신염 포함) - 원내 감염 폐렴(인공호흡기 관련 폐렴 포함) 2. 유효 균종 - 복잡성 복강내 감염: Enterobacter cloacae, Escherichia coli, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Bacteroides fragilis, Streptococcus anginosus, Streptococcus constellatus, Streptococcus salivarius. - 복잡성 요로 감염: Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa. - 원내 감염 폐렴(인공호흡기 관련 폐렴 포함): Enterobacter cloacae, Escherichia coli, Haemophilus influenzae, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Serratia marcescens 내성균의 발현을 줄이고 이 약과 다른 항생제의 효과를 유지하기 위해, 이 약은 유효 균종에 의한 감염임이 확인되거나 또는 유효 균종에 의한 것이라고 의심되는 감염 시에만 사용한다. 배양이나 감수성 정보가 있다면 항생제 치료의 선택 및 변경에 참고해야 한다. 정보가 없는 경우라면, 항생제의 경험적 선택을 위해 역학자료 또는 감수성 패턴을 참고할 수 있다.",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-27T12:04:36Z",
+   "last_observed_at": "2026-08-27T12:04:36Z",
+   "official_revision_date": "2019-10-29"
+  },
+  {
+   "revision_id": "201701737-914752b6",
+   "content_sha256": "914752b607833958eb6b77f5021de66d5707e96f7fd9f00c4020cbf18d2464f9",
+   "ee_text": "18세 이상의 성인에서 다음의 유효 균종에 의한 감염의 치료에 사용한다. - 복잡성 복강내 감염(이 약과 메트로니다졸 병용 투여) - 복잡성 요로 감염(신우신염 포함) - 복잡성 복강내 감염: Enterobacter cloacae, Escherichia coli, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Bacteroides fragilis, Streptococcus anginosus, Streptococcus constellatus, Streptococcus salivarius. - 복잡성 요로 감염: Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa. 내성균의 발현을 줄이고 이 약과 다른 항생제의 효과를 유지하기 위해, 이 약은 유효 균종에 의한 감염임이 확인되거나 또는 유효 균종에 의한 것이라고 의심되는 감염 시에만 사용한다. 배양이나 감수성 정보가 있다면 항생제 치료의 선택 및 변경에 참고해야 한다. 정보가 없는 경우라면, 항생제의 경험적 선택을 위해 역학자료 또는 감수성 패턴을 참고할 수 있다.",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:04:36Z",
+   "last_observed_at": "2026-08-27T12:04:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:04:36Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805767",
+ "item_name": "바이나민주",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20080523",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222531]L-류신|[M222530]L-이소류신|[M218567]L-메티오닌|[M204442]L-페닐알라닌|[M103060]L-트레오닌|[M214274]L-트리프토판|[M209360]L-발린|[M209366]L-알라닌|[M222996]리보플라빈포스페이트나트륨|[M040064]니코틴산아미드|[M222998]L-리신염산염|[M103077]L-아르기닌|[M202249]L-히스티딘염산염|[M214861]L-프롤린|[M088656]글리신|[M254056]L-아스파르트산-L-오르니틴|[M204410]D-소르비톨|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "D-Sorbitol/Glycine/L-Alanine/L-Arginine/L-Histidine Hydrochloride/L-Isoleucine/L-Leucine/L-Lysine Hydrochloride/L-Methionine/L-Ornithine-L-Aspartate/L-Phenylalanine/L-Proline/L-Threonine/L-Tryptophan/L-Valine/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate",
+ "edi_code": "",
+ "atc_code": "B05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805767",
+ "revisions": [
+  {
+   "revision_id": "200805767-4bf25cb5",
+   "content_sha256": "4bf25cb5d6ef7b5116829a8629855003a0a131569fc23e12f3b04d0ece723129",
+   "ee_text": "다음 상태시의 아미노산 보급 : 저단백혈증, 저영양 상태, 수술전후",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-27T13:52:38Z",
+   "last_observed_at": "2026-08-27T13:52:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:52:38Z"
+}

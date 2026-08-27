@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508016",
+ "item_name": "디클렉틴장용정",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20151130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279125]독실아민숙신산염|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Doxylamine Succinate/Pyridoxine Hydrochloride",
+ "edi_code": "642003810",
+ "atc_code": "A04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508016",
+ "revisions": [
+  {
+   "revision_id": "201508016-e5b97458",
+   "content_sha256": "e5b974580bf658969afec19fc63e8b03ae4e126303a5a2d0872db7cc935111b1",
+   "ee_text": "보존적 요법에 반응하지 않는 임부의 구역 및 구토 조절",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T13:10:43Z",
+   "last_observed_at": "2026-08-27T13:10:43Z",
+   "official_revision_date": "2017-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:10:43Z"
+}

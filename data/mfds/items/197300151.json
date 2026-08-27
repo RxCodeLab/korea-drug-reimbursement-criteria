@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197300151",
+ "item_name": "센시발정25밀리그램(염산노르트립틸린)",
+ "entp_name": "일성아이에스(주)",
+ "permit_date": "19730117",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050132]염산노르트립틸린",
+ "main_item_ingr_eng": "Nortriptyline Hydrochloride",
+ "edi_code": "655400780",
+ "atc_code": "N06AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197300151",
+ "revisions": [
+  {
+   "revision_id": "197300151-0d11a2f3",
+   "content_sha256": "0d11a2f35cb8b88f4fe66a942a5628e8f9e39e92203b68c8b00c272bd53788a3",
+   "ee_text": "우울증 또는 우울상태(내인성 우울증, 반응성 우울증, 퇴행성 우울증, 신경증적 우울증, 뇌기질성 정신장애의 우울상태)",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-27T12:22:53Z",
+   "last_observed_at": "2026-08-27T12:22:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:22:53Z"
+}

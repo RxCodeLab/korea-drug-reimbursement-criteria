@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201110512",
+ "item_name": "라사르정4밀리그램(라시디핀)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20111130",
+ "cancel_date": "20240701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M090313]라시디핀",
+ "main_item_ingr_eng": "Lacidipine",
+ "edi_code": "",
+ "atc_code": "C08CA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110512",
+ "revisions": [
+  {
+   "revision_id": "201110512-f1f7e4d7",
+   "content_sha256": "f1f7e4d7844a9eb23750c4ecbe25cb8730a6822d94fc7851211c8669a96196e7",
+   "ee_text": "단독투여 또는 다른 혈압강하제(예, 베타차단제, 이뇨제)와의 병용투여에 의한 고혈압의 치료",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T13:27:35Z",
+   "last_observed_at": "2026-08-27T13:27:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:35Z"
+}

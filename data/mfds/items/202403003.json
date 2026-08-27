@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202403003",
+ "item_name": "케어콜정",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20241218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051415]푸르설티아민|[M223183]카페인무수물|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Fursultiamine",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403003",
+ "revisions": [
+  {
+   "revision_id": "202403003-f5b92717",
+   "content_sha256": "f5b9271775fbe009e93397aac96defca1ded6a81b36e2967ccfce28fe9ce90f9",
+   "ee_text": "감기의 제증상(인후통, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:05:28Z",
+   "last_observed_at": "2026-08-27T13:05:28Z",
+   "official_revision_date": "2024-12-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:05:28Z"
+}

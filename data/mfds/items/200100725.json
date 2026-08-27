@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100725",
+ "item_name": "엘프리드정(레보설피리드)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20010116",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099905]레보설피리드",
+ "main_item_ingr_eng": "Levosulpiride",
+ "edi_code": "654001390",
+ "atc_code": "A03FA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100725",
+ "revisions": [
+  {
+   "revision_id": "200100725-64fa4cae",
+   "content_sha256": "64fa4caed4f1108c1349dc6291305627a2d231ffe91d101384e15f8fb0259921",
+   "ee_text": "기능성소화불량으로 인한 다음 증상의 완화: 복부팽만감, 상복부불쾌감, 속쓰림, 트림, 구역, 구토",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T12:32:21Z",
+   "last_observed_at": "2026-08-27T12:32:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:32:21Z"
+}

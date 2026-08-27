@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400417",
+ "item_name": "젤카타빈정150밀리그램(카페시타빈)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20140129",
+ "cancel_date": "20240129",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M089886]카페시타빈",
+ "main_item_ingr_eng": "Capecitabine",
+ "edi_code": "",
+ "atc_code": "L01BC06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400417",
+ "revisions": [
+  {
+   "revision_id": "201400417-ccd7694b",
+   "content_sha256": "ccd7694b4ef8dd2ad53522d469956e5ef032cf8c160e4991c68359b2cb82fa7c",
+   "ee_text": "- 전이성 결장직장암 - stage III(Dukes'C)의 결장암의 수술 후 보조요법(adjuvant treatment) ⦁stage III(Dukes'C)의 결장암 환자에서 원발 종양을 수술로 완전히 절제(complete resection)하고 fluoropyrimidine치료요법이 우선 선택되는 경우 단독으로 사용 ⦁stage III(Dukes'C) 결장암 원발 종양을 완전히 절제(complete resection)하고 옥살리플라틴과 병용하여 사용 - Taxanes(파클리탁셀 또는 도세탁셀) 및 anthracycline계 약물포함 화학요법치료 모두에 실패하였거나 Taxanes(파클리탁셀 또는 도세탁셀) 요법에 실패한 환자로서 더 이상 anthracycline 치료계획이 없는(예, 누적량으로 독소루비신 400mg/m 2 또는 이에 상당하는 독소루비신 유도체를 투여한 환자) 국소진행성 또는 전이성 유방암 치료 - docetaxel과 병용(combination)하여, anthracycline계 약물을 포함한 세포독성화학요법에 실패한 국소진행성 또는 전이성 유방암 치료 - 수술이 불가능한 진행성 또는 전이성 위암 - 백금계 약물을 기본으로 하는 요법과 병용하여 진행성 위암의 1차 치료 - 옥살리플라틴과 병용하여 stageⅡ, Ⅲ 환자의 위암 수술 후 보조 요법",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T13:38:31Z",
+   "last_observed_at": "2026-08-27T13:38:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:31Z"
+}

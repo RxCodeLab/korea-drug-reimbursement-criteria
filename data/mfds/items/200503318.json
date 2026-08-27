@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200503318",
+ "item_name": "리소톤과립(수출용)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20050922",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223090]시트르산수화물|[M247036]시트르산칼륨수화물",
+ "main_item_ingr_eng": "Citric Acid Hydrate/Potassium Citrate Hydrate",
+ "edi_code": "",
+ "atc_code": "G04BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503318",
+ "history_fetched_at": "2026-08-27T10:37:00Z",
+ "revisions": [
+  {
+   "revision_id": "200503318-49965241",
+   "content_sha256": "49965241b539a372555111e1ab1c3ddb2ef571baf9fe530a33cf683240c9215e",
+   "ee_text": "·요로결석 등과 같이 장기간 알칼리성 뇨의 유지를 필요로 하는 질환 ·통풍치료시 uricosuric agent의 보조요법 ·신 세뇨관 이상으로 인한 산성증의 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200503318/EE",
+   "first_observed_at": "2026-08-27T10:37:00Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402444",
+ "item_name": "주사용후탄50(나파모스타트메실산염)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20040601",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M262090]나파모스타트메실산염",
+ "main_item_ingr_eng": "Nafamostat Mesylate",
+ "edi_code": "644701951",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402444",
+ "history_fetched_at": "2026-08-27T10:39:03Z",
+ "revisions": [
+  {
+   "revision_id": "200402444-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200402444/EE",
+   "first_observed_at": "2026-08-27T10:39:03Z",
+   "last_observed_at": "2026-08-27T10:55:16Z"
+  }
+ ]
+}

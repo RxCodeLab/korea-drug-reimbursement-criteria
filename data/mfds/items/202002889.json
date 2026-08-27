@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002889",
+ "item_name": "팜스로신서방캡슐0.4밀리그램(탐스로신염산염)",
+ "entp_name": "건일바이오팜주식회사",
+ "permit_date": "20200422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243979]탐스로신염산염",
+ "main_item_ingr_eng": "Tamsulosin Hydrochloride",
+ "edi_code": "073001040",
+ "atc_code": "G04CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002889",
+ "revisions": [
+  {
+   "revision_id": "202002889-0747867b",
+   "content_sha256": "0747867b0dc6df1e1a84615fada25aefd3386ec3c82fbe8af46fc82ae103189f",
+   "ee_text": "양성 전립샘비대증에 따른 배뇨장애",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:23:33Z",
+   "last_observed_at": "2026-08-27T13:23:33Z",
+   "official_revision_date": "2020-04-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:23:33Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603651",
+ "item_name": "판피린큐액(수출용)",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20160620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M050058]구아이페네신|[M222724]페닐레프린염산염",
+ "main_item_ingr_eng": "Acetaminophen/Guaifenesin/Phenylephrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603651",
+ "revisions": [
+  {
+   "revision_id": "201603651-dace01c3",
+   "content_sha256": "dace01c38e0478652ee77772cb20b1ba091e71d68ba4d5624e6c3985aa1e393f",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후통, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-27T13:01:01Z",
+   "last_observed_at": "2026-08-27T13:01:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:01:01Z"
+}

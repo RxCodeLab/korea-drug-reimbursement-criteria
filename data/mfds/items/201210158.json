@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201210158",
+ "item_name": "마이오자임주(알글루코시다제알파)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20121220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222824]알글루코시다제 알파(재조합 인간 효소 산성 알파-글루코시다제)",
+ "main_item_ingr_eng": "Alglucosidase Alpha",
+ "edi_code": "652001301",
+ "atc_code": "A16AB07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201210158",
+ "revisions": [
+  {
+   "revision_id": "201210158-ff1d206e",
+   "content_sha256": "ff1d206ef54259e56b7a63704143932f5788fae9473e125bcea5a2e4c0bb80fa",
+   "ee_text": "폼페병(산성 알파-글루코시다제 결핍)으로 확진된 환자의 장기 효소 대체 요법에 사용한다.",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T12:12:50Z",
+   "last_observed_at": "2026-08-27T12:12:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:12:50Z"
+}

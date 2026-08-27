@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502703",
+ "item_name": "히루안주(히알루론산나트륨)(수출명: 엘지히루안주, 오스플렉스주, 콘드록스)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20050215",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222910]히알루론산나트륨",
+ "main_item_ingr_eng": "Sodium Hyaluronate",
+ "edi_code": "",
+ "atc_code": "M09AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502703",
+ "revisions": [
+  {
+   "revision_id": "200502703-586ac9c7",
+   "content_sha256": "586ac9c7dbd48ae5829cb3cb0b4d12460a1b72f4dfda2ba64a8bf7fb12f5b031",
+   "ee_text": "변형성 슬관절증, 견관절주위염",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T11:03:26Z",
+   "last_observed_at": "2026-08-27T11:03:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:03:26Z"
+}

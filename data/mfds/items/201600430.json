@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600430",
+ "item_name": "레니신정0.2밀리그램(데스모프레신아세트산염)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20160125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250270]데스모프레신아세트산염",
+ "main_item_ingr_eng": "Desmopressin Acetate",
+ "edi_code": "641705120",
+ "atc_code": "H01BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600430",
+ "revisions": [
+  {
+   "revision_id": "201600430-aaa978e9",
+   "content_sha256": "aaa978e9d05f1349d7102be6c8e4244af9a5f01137f3e686bcf1aab43789995c",
+   "ee_text": "일차성 야뇨증(5세이상), 야간다뇨와 관련이 있는 야간뇨증상의 치료(성인에 한함)",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-27T11:07:22Z",
+   "last_observed_at": "2026-08-27T11:07:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:07:22Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004245",
+ "item_name": "에이프로젠리세드론산나트륨정150밀리그램(리세드론산나트륨2.5수화물)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20100630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249411]리세드론산나트륨2.5수화물",
+ "main_item_ingr_eng": "Risedronate Sodium 2.5 Hydrate",
+ "edi_code": "645207300",
+ "atc_code": "M05BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004245",
+ "revisions": [
+  {
+   "revision_id": "201004245-0fbe2d23",
+   "content_sha256": "0fbe2d23472e5f19041e309225910a116c9c28e62ea051200acba82908d09fd3",
+   "ee_text": "(정제) * 75, 150 mg 폐경 후 여성의 골다공증 치료와 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201004245/EE",
+   "first_observed_at": "2026-08-27T13:38:18Z",
+   "last_observed_at": "2026-08-27T13:38:18Z"
+  },
+  {
+   "revision_id": "201004245-defc36e5",
+   "content_sha256": "defc36e544c2b7839accafb802c7c19f36a2dc5341b21770e904271d774f1977",
+   "ee_text": "폐경 후 여성의 골다공증 치료와 예방",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:38:18Z",
+   "last_observed_at": "2026-08-27T13:38:18Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:18Z"
+}

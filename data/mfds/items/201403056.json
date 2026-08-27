@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403056",
+ "item_name": "탐슬로서방정0.2밀리그램(탐스로신염산염)",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20140710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M241531]탐스로신염산염",
+ "main_item_ingr_eng": "Tamsulosin Hydrochloride",
+ "edi_code": "661604390",
+ "atc_code": "G04CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403056",
+ "revisions": [
+  {
+   "revision_id": "201403056-309ee3fa",
+   "content_sha256": "309ee3fa4ce164fd1d7280122a0a85927f39d86d9dd03d1a336bfaf8f6c509a2",
+   "ee_text": "(서방정)(구강붕해정)(캡슐제) 양성 전립샘비대증에 따른 배뇨장애",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T13:15:58Z",
+   "last_observed_at": "2026-08-27T13:15:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:15:58Z"
+}

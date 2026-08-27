@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307951",
+ "item_name": "리레보점안액(레보플록사신수화물)",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20130628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251128]레보플록사신수화물",
+ "main_item_ingr_eng": "Levofloxacin Hydrate",
+ "edi_code": "670400471",
+ "atc_code": "S01AE05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307951",
+ "revisions": [
+  {
+   "revision_id": "201307951-a68bc3a3",
+   "content_sha256": "a68bc3a3902262f8bd2558c489819c7b6dfdd2fa9cf10b6f1fde3b481a3a0b61",
+   "ee_text": "이 약에 감수성이 있는 포도구균속, 연쇄상구균속, 폐렴구균, 소구균속, 장구균속, 코리네박테리움속, 슈도모나스속, 스테노트로포모나스 (산토모나스) 말토필리아, 녹농균, 혈호균속[인플루엔자균, Haemophilus aegyptius (Koch-Weeks)], 모락셀라속, 세라티아속, 클렙시엘라속, 프로테우스속, 모르가넬라-모르가니, 아시네토박터속, 엔테로박터속, 아크네균 안검염, 맥립종, 누낭염, 결막염, 검판선염, 각막염, 각막궤양, 안과 수술시의 무균화요법",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201307951/EE",
+   "first_observed_at": "2026-08-27T12:00:06Z",
+   "last_observed_at": "2026-08-27T12:00:06Z"
+  },
+  {
+   "revision_id": "201307951-2d56c6f6",
+   "content_sha256": "2d56c6f6518dcb37328855a198a5acf9cf643f67df789a183215deb5f48b5d41",
+   "ee_text": "이 약에 감수성이 있는 포도구균속, 연쇄상구균속, 폐렴구균, 소구균속, 장구균속, 코리네박테리움속, 슈도모나스속, 스테노트로포모나스 (산토모나스) 말토필리아, 녹농균, 혈호균속[인플루엔자균, Haemophilus aegyptius (Koch-Weeks)], 모락셀라속, 세라티아속, 클렙시엘라속, 프로테우스속, 모르 가넬라-모르가니, 아시네토박터속, 엔테로박터속, 아크네균 안검염, 맥립종, 누낭염, 결막염, 검판선염, 각막염, 각막궤양, 안과 수술시의 무균화요법",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:00:06Z",
+   "last_observed_at": "2026-08-27T12:00:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:00:06Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507025",
+ "item_name": "두두엔액",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20151005",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249662]프레드니솔론발레로아세테이트|[M279284]L-멘톨|[M204423]dl-캄파|[M223254]티몰|[M222973]디펜히드라민염산염",
+ "main_item_ingr_eng": "DL-Camphor/Diphenhydramine Hydrochloride/L-Menthol/Prednisolone Valeroacetate/Thymol",
+ "edi_code": "",
+ "atc_code": "D04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507025",
+ "revisions": [
+  {
+   "revision_id": "201507025-2bdb3ec1",
+   "content_sha256": "2bdb3ec131895c7c4628ad7f6c5091d51814b5246070c2d815ebe08147aa5fe5",
+   "ee_text": "습진, 피부염, 땀띠, 가려움, 벌레물린데, 두드러기",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T12:29:56Z",
+   "last_observed_at": "2026-08-27T12:29:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:56Z"
+}

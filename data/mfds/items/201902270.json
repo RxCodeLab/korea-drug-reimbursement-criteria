@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902270",
+ "item_name": "유마프론캡슐3밀리그램(리바스티그민타르타르산염)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20190412",
+ "cancel_date": "20240412",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M252069]리바스티그민타르타르산염",
+ "main_item_ingr_eng": "Rivastigmine Tartarate",
+ "edi_code": "",
+ "atc_code": "N06DA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902270",
+ "revisions": [
+  {
+   "revision_id": "201902270-d862f055",
+   "content_sha256": "d862f055671032ed1e84a6c7f8e85e1420ea2d253260eeee728e250e1060cf9c",
+   "ee_text": "1. 경증～중등도 알츠하이머형 치매증상의 치료 2. 경증～중등도 파킨슨병 관련 치매증상의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:18:50Z",
+   "last_observed_at": "2026-08-27T13:18:50Z",
+   "official_revision_date": "2019-04-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:18:50Z"
+}

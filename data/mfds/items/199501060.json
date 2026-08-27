@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501060",
+ "item_name": "일성이솦틴서방정180밀리그람(베라파밀염산염)",
+ "entp_name": "일성아이에스(주)",
+ "permit_date": "19951016",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203207]베라파밀염산염",
+ "main_item_ingr_eng": "Verapamil Hydrochloride",
+ "edi_code": "655401550",
+ "atc_code": "C08DA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501060",
+ "revisions": [
+  {
+   "revision_id": "199501060-324cfd76",
+   "content_sha256": "324cfd761c24326a2f0843d9ab08b946f9011d89ed0a73eba4ee28aa40137f56",
+   "ee_text": "협심증, 부정맥, 본태성고혈압(경증-중등도), 신성고혈압 협심증, 부정맥, 응급성고혈압(고혈압성발증)",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-27T12:03:49Z",
+   "last_observed_at": "2026-08-27T12:03:49Z",
+   "official_revision_date": "2019-11-14"
+  },
+  {
+   "revision_id": "199501060-8c8a40f3",
+   "content_sha256": "8c8a40f3a4fa8c08274454cf7efc2c60a198f73c58f78d28439836a286c56a1c",
+   "ee_text": "협심증, 관경화증, 부정맥, 본태성고혈압(경증-중등도), 신성고혈압 협심증, 부정맥, 응급성고혈압(고혈압성발증)",
+   "ee_doc_id": "18",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:03:49Z",
+   "last_observed_at": "2026-08-27T12:03:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:03:49Z"
+}

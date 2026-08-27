@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801224",
+ "item_name": "엘러큐어정(에피나스틴염산염)",
+ "entp_name": "아이큐어(주)",
+ "permit_date": "20180320",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256607]에피나스틴염산염",
+ "main_item_ingr_eng": "Epinastine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AX24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801224",
+ "revisions": [
+  {
+   "revision_id": "201801224-6478d8a7",
+   "content_sha256": "6478d8a768f86a0abcf49d8718a2f323b8a41a7eb84a585466ca1b6a3bb3721e",
+   "ee_text": "(정제) 1. 기관지천식 2. 알레르기비염 3. 두드러기, 습진․피부염, 피부가려움, 가려움발진(痒疹), 가려움을 동반한 보통건선",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:08:44Z",
+   "last_observed_at": "2026-08-27T13:08:44Z",
+   "official_revision_date": "2018-03-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:08:44Z"
+}

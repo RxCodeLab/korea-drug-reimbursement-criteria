@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200607841",
+ "item_name": "엑스칠플러스연고",
+ "entp_name": "시믹씨엠오코리아주식회사",
+ "permit_date": "20060830",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223240]토코페롤아세테이트|[M113747]레티놀팔미테이트 유|[M051015]알란토인|[M222973]디펜히드라민염산염|[M203915]클로르헥시딘염산염|[M223353]히드로코르티손아세테이트|[M204422]dl-메틸에페드린염산염|[M040131]리도카인",
+ "main_item_ingr_eng": "Allantoin/Chlorhexidine Hydrochloride/DL-Methylephedrine Hydrochloride/Diphenhydramine Hydrochloride/Hydrocortisone Acetate/Lidocaine/Retinol Palmitate Oil/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "C05AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607841",
+ "revisions": [
+  {
+   "revision_id": "200607841-29228f4a",
+   "content_sha256": "29228f4a39fc156550635892185e640588f028e474980191f71332ba2939f8cf",
+   "ee_text": "치열․치핵의 아픔․가려움․부종(부기)․출혈의 일시적 완화",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-27T12:29:40Z",
+   "last_observed_at": "2026-08-27T12:29:40Z",
+   "official_revision_date": "2021-03-11"
+  },
+  {
+   "revision_id": "200607841-267b1cd4",
+   "content_sha256": "267b1cd44f53d2cac5d5479bc77f5aa5ad967b196ce95f08b4f293844615dfa1",
+   "ee_text": "다음 경우의 일시적 완화 : 치열, 치핵, 가려움, 부종, 출혈",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:29:40Z",
+   "last_observed_at": "2026-08-27T12:29:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:40Z"
+}

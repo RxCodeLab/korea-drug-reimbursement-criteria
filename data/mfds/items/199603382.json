@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199603382",
+ "item_name": "보인에이.씨.디.에이액",
+ "entp_name": "제이더블유생명과학(주)",
+ "permit_date": "19960509",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M044300]포도당일수화물|[M222565]시트르산나트륨수화물|[M259522]시트르산",
+ "main_item_ingr_eng": "Anhydrous Citric Acid/Glucose Monohydrate/Sodium Citrate Hydrate",
+ "edi_code": "050700020",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199603382",
+ "history_fetched_at": "2026-08-27T10:36:52Z",
+ "revisions": [
+  {
+   "revision_id": "199603382-ebd9d13c",
+   "content_sha256": "ebd9d13c4a5dedddeeef5d367da392e2882cdf51d765d800c031751de7afce0d",
+   "ee_text": "저장혈액의 응고방지",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199603382/EE",
+   "first_observed_at": "2026-08-27T10:36:52Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

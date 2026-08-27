@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402642",
+ "item_name": "메모라임정240밀리그램(은행엽건조엑스)",
+ "entp_name": "성원애드콕제약(주)",
+ "permit_date": "20241108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M273892]은행엽 건조엑스",
+ "main_item_ingr_eng": "Ginkgo Biloba Leaf Dried Extract",
+ "edi_code": "",
+ "atc_code": "N06DX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402642",
+ "revisions": [
+  {
+   "revision_id": "202402642-9c7cff94",
+   "content_sha256": "9c7cff9486dce30d20ada1f75124983421a589c30515cc104fe10e7bfe83435f",
+   "ee_text": "집중력 저하, 기억력 감퇴, 현기증(동맥 경화 증상)과 같은 증상이 동반되는 정신 기능 저하",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:35:26Z",
+   "last_observed_at": "2026-08-27T13:35:26Z",
+   "official_revision_date": "2024-11-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:35:26Z"
+}

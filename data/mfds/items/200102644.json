@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200102644",
+ "item_name": "나무졸정(테르비나핀염산염)",
+ "entp_name": "제이더블유신약(주)",
+ "permit_date": "20010110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245869]테르비나핀염산염",
+ "main_item_ingr_eng": "Terbinafine Hydrochloride",
+ "edi_code": "644100040",
+ "atc_code": "D01BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102644",
+ "revisions": [
+  {
+   "revision_id": "200102644-06839f78",
+   "content_sha256": "06839f7893d0785dd1f647d158a59785d76554ae0583526d2bdbd44cbe43a3c1",
+   "ee_text": "1. 성인 1) 피부사상균에 의한 다음의 피부진균증 : 족부백선, 체부백선, 고부백선(완선) 2) 손․발톱진균증 2. 소아 두부백선",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200102644/EE",
+   "first_observed_at": "2026-08-27T12:43:25Z",
+   "last_observed_at": "2026-08-27T12:43:25Z"
+  },
+  {
+   "revision_id": "200102644-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "22",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:43:25Z",
+   "last_observed_at": "2026-08-27T12:43:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:43:25Z"
+}

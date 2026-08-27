@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000797",
+ "item_name": "소부날에이정",
+ "entp_name": "진양제약(주)",
+ "permit_date": "20200210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080308]소브레롤|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Sobrerol",
+ "edi_code": "650304020",
+ "atc_code": "R05CB10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000797",
+ "revisions": [
+  {
+   "revision_id": "202000797-e12c3f02",
+   "content_sha256": "e12c3f027b47859625a292dcdf33bf34709fc75f7fe79d1c8a0185e255ea3742",
+   "ee_text": "열을 수반하는 급성 호흡기 장애",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:02:47Z",
+   "last_observed_at": "2026-08-27T13:02:47Z",
+   "official_revision_date": "2020-02-10"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:02:47Z"
+}

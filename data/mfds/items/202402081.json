@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402081",
+ "item_name": "파발타캡슐200밀리그램(입타코판염산염수화물)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20240829",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284808]입타코판염산염수화물",
+ "main_item_ingr_eng": "Iptacopan Hydrochloride Monohydrate",
+ "edi_code": "653603580",
+ "atc_code": "L04AJ08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402081",
+ "revisions": [
+  {
+   "revision_id": "202402081-2b2ba006",
+   "content_sha256": "2b2ba006112d5347106a819c24eff6955893bb1ca32f78b1afa5061b18291a8e",
+   "ee_text": "1. 성인의 발작성 야간 혈색소뇨증(PNH: Paroxysmal Nocturnal Hemoglobinuria)의 치료 2. 성인의 C3 사구체병증(C3G: Complement 3 Glomerulopathy)의 치료",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T13:50:28Z",
+   "last_observed_at": "2026-08-27T13:50:28Z",
+   "official_revision_date": "2025-11-18"
+  },
+  {
+   "revision_id": "202402081-35569bd2",
+   "content_sha256": "35569bd29040930bb98a3abe17a04c04853d896966c397ea13e6af9f32c50870",
+   "ee_text": "성인의 발작성 야간 혈색소뇨증(PNH: Paroxysmal Nocturnal Hemoglobinuria)의 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2024-08-29",
+   "first_observed_at": "2026-08-27T13:50:28Z",
+   "last_observed_at": "2026-08-27T13:50:28Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:50:28Z"
+}

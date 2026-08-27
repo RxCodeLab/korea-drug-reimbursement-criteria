@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511002",
+ "item_name": "박사르정6밀리그램(라시디핀)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20051013",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090313]라시디핀",
+ "main_item_ingr_eng": "Lacidipine",
+ "edi_code": "650000380",
+ "atc_code": "C08CA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511002",
+ "revisions": [
+  {
+   "revision_id": "200511002-20be9d76",
+   "content_sha256": "20be9d76ae6cb6fa5ba57e4fe06dc6f9741b17a326f6394e09cb2d30b5845963",
+   "ee_text": "(정제) 단독 투여 또는 타 항고혈압제(예 : 베타차단제, 이뇨제)와의 병용투여에 의한 고혈압의 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200511002/EE",
+   "first_observed_at": "2026-08-27T13:27:33Z",
+   "last_observed_at": "2026-08-27T13:27:33Z"
+  },
+  {
+   "revision_id": "200511002-763b0a38",
+   "content_sha256": "763b0a38f74800b821217cb104aa49120c9fda3d9f02a66f46b631a9d8deebf5",
+   "ee_text": "단독 투여 또는 타 항고혈압제(예 : 베타차단제, 이뇨제)와의 병용투여에 의한 고혈압의 치료",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:27:33Z",
+   "last_observed_at": "2026-08-27T13:27:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:33Z"
+}

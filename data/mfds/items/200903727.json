@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200903727",
+ "item_name": "속콜파워연질캡슐(수출용)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20090526",
+ "cancel_date": "20240503",
+ "status": "취하",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M222865]수도에페드린염산염|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Chlorpheniramine Maleate/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903727",
+ "revisions": [
+  {
+   "revision_id": "200903727-d2783f5c",
+   "content_sha256": "d2783f5ce681c3b66771ff698e1f784c6ac8795087549555ab1938c7c8010e99",
+   "ee_text": "감기의 제증상(여러 증상)(콧물, 비충혈(코막힘), 두통, 통증, 재채기, 발열, 인후(목구멍)통)의 완화",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T12:59:11Z",
+   "last_observed_at": "2026-08-27T12:59:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:59:11Z"
+}

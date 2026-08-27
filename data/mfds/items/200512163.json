@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200512163",
+ "item_name": "타코펜캡슐",
+ "entp_name": "구주제약(주)",
+ "permit_date": "20050105",
+ "cancel_date": "20251230",
+ "status": "취하",
+ "main_item_ingr": "[M223188]코데인인산염수화물|[M051259]이부프로펜|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Codeine Phosphate Hydrate/Ibuprofen",
+ "edi_code": "",
+ "atc_code": "N02AJ09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512163",
+ "revisions": [
+  {
+   "revision_id": "200512163-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T12:57:44Z",
+   "last_observed_at": "2026-08-27T12:57:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:44Z"
+}

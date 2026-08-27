@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000601",
+ "item_name": "고덱스캡슐",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20000105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256672]비페닐디메틸디카르복실레이트|[M096429]시아노코발라민|[M040133]리보플라빈|[M204304]피리독신염산염|[M253171]아데닌염산염|[M081379]항독성간장엑스|[M081378]오로트산카르니틴",
+ "main_item_ingr_eng": "Adenine Hydrochloride/Antitoxic Liver Extract/Biphenyl Dimethyl Dicarboxylate/Carnitine Orotate/Cyanocobalamin/Pyridoxine Hydrochloride/Riboflavin",
+ "edi_code": "693900080",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000601",
+ "revisions": [
+  {
+   "revision_id": "200000601-3837c64d",
+   "content_sha256": "3837c64dd39e908186f2bcf4dbf1fd41cbcfcad3f7df4ab4618c7b512f7a236b",
+   "ee_text": "트란스아미나제(SGPT)가 상승된 간질환",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-27T12:31:34Z",
+   "last_observed_at": "2026-08-27T12:31:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:31:34Z"
+}

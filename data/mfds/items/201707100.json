@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707100",
+ "item_name": "제일메토트렉세이트정4밀리그램(수출용)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20170915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040168]메토트렉세이트",
+ "main_item_ingr_eng": "Methotrexate",
+ "edi_code": "",
+ "atc_code": "L04AX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707100",
+ "revisions": [
+  {
+   "revision_id": "201707100-92a9d9f5",
+   "content_sha256": "92a9d9f5236b183e2d5099de1e9047682227f21d0efba445518ab55511df911b",
+   "ee_text": "류마티스 관절염, 관절증상을 동반하는 약년성 특발성 관절염",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-27T12:51:14Z",
+   "last_observed_at": "2026-08-27T12:51:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:51:14Z"
+}

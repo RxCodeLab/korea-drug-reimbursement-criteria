@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200807633",
+ "item_name": "코사탄플러스정",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20080710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249673]로사르탄칼륨|[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Losartan Potassium",
+ "edi_code": "657803190",
+ "atc_code": "C09DA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807633",
+ "revisions": [
+  {
+   "revision_id": "200807633-37c4e775",
+   "content_sha256": "37c4e7759140cd1d7b7999937d92d38da7727583dec980374d4cdd5191d789e5",
+   "ee_text": "(정제) 단일요법으로 혈압이 적절히 조절되지 않는 고혈압",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200807633/EE",
+   "first_observed_at": "2026-08-27T12:46:39Z",
+   "last_observed_at": "2026-08-27T12:46:39Z"
+  },
+  {
+   "revision_id": "200807633-3e4bb5cb",
+   "content_sha256": "3e4bb5cba66c0eafc1af40f11c1a4f9b42cddd7c08fb630917bbc31984822c57",
+   "ee_text": "고혈압의 치료",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:46:39Z",
+   "last_observed_at": "2026-08-27T12:46:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:46:39Z"
+}

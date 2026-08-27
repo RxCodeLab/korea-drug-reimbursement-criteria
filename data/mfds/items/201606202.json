@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606202",
+ "item_name": "구구탐스캡슐(타다라필,탐스로신)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20161020",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243979]탐스로신염산염|[M095435]타다라필",
+ "main_item_ingr_eng": "Tadalafil/Tamsulosin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "G04CA54",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606202",
+ "revisions": [
+  {
+   "revision_id": "201606202-cb16edef",
+   "content_sha256": "cb16edef8fae674ef86c62061727e9c9fc313972ec2c32d42e9fe243b309c8e7",
+   "ee_text": "양성 전립선 비대증과 발기부전 치료를 위해 탐스로신염산염과 타다라필의 병용투여를 대체하는 경우에 사용한다.",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T13:23:11Z",
+   "last_observed_at": "2026-08-27T13:23:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:23:11Z"
+}

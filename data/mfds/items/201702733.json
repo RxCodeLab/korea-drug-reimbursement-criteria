@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702733",
+ "item_name": "세파클리캡슐(세파클러수화물)",
+ "entp_name": "오스템파마주식회사",
+ "permit_date": "20170530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222859]세파클러수화물",
+ "main_item_ingr_eng": "Cefaclor Hydrate",
+ "edi_code": "053500040",
+ "atc_code": "J01DC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702733",
+ "revisions": [
+  {
+   "revision_id": "201702733-eaf2be14",
+   "content_sha256": "eaf2be14b8f7eb1c7e7d7c762d3ec1d575cf2c95e4d90453080fd744e02b4ab3",
+   "ee_text": "폐렴연쇄구균, 인플루엔자균, 포도구균, 스트렙토콕쿠스 피오게네스(그룹A-베타용혈성), 대장균, 프로테우스 미라빌리스, 클레브시엘라, 임균 - 중이염 - 폐렴, 인후두염, 편도염, 기관지염 - 신우신염, 방광염, 요도염 - 부스럼, 옹종, 모낭염, 연조직염, 감염성 죽종, 피하농양, 생인손, 창상감염",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201702733/EE",
+   "first_observed_at": "2026-08-27T12:36:36Z",
+   "last_observed_at": "2026-08-27T12:36:36Z"
+  },
+  {
+   "revision_id": "201702733-5bb70531",
+   "content_sha256": "5bb70531b61232e4530601147fbbd86c76f0b927cba7d95f1fcf90238ce21d8c",
+   "ee_text": "○ 유효균종 폐렴연쇄구균, 인플루엔자균, 포도구균, 스트렙토콕쿠스 피오게네스(그룹A-베타용혈성), 대장균, 프로테우스 미라빌리스, 클레브시엘라, 임균 ○ 적응증 - 중이염 - 폐렴, 인후두염, 편도염, 기관지염 - 신우신염, 방광염, 요도염 - 부스럼, 옹종, 모낭염, 연조직염, 감염성 죽종, 피하농양, 생인손, 창상감염",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:36:36Z",
+   "last_observed_at": "2026-08-27T12:36:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:36:36Z"
+}

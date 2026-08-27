@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403265",
+ "item_name": "미니린나잘스프레이(데스모프레신아세트산염)",
+ "entp_name": "한국페링제약(주)",
+ "permit_date": "19941216",
+ "cancel_date": "20260401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M250270]데스모프레신아세트산염",
+ "main_item_ingr_eng": "Desmopressin Acetate",
+ "edi_code": "",
+ "atc_code": "H01BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403265",
+ "revisions": [
+  {
+   "revision_id": "199403265-ce19c5ee",
+   "content_sha256": "ce19c5eee888013fbf73a1e6e81ec0cf06ecb9a5c49cf946d2353380c2f07666",
+   "ee_text": "1) 바소프레신 감수성 요붕증, 뇌하수체 절제술 후의 다뇨 및 번갈 다음, 중추성 요붕증의 감별진단 및 신장 농축 능력의 측정",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T11:07:08Z",
+   "last_observed_at": "2026-08-27T11:07:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:07:08Z"
+}

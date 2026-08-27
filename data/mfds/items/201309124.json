@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309124",
+ "item_name": "히알루미니점안액0.3%(히알루론산나트륨)(1회용)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20130830",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222910]히알루론산나트륨",
+ "main_item_ingr_eng": "Sodium Hyaluronate",
+ "edi_code": "643507991",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309124",
+ "revisions": [
+  {
+   "revision_id": "201309124-1794fa62",
+   "content_sha256": "1794fa6239b040bca154c1088b4b331edab55354af7bcbec97d1446c057536ed",
+   "ee_text": "다음 질환에 의한 각결막 상피장애 : - 쇼그렌증후군, 피부점막안증후군(스티븐스-존슨증후군), 건성안증후군과 같은 내인성 질환 - 수술 후, 약제성, 외상, 콘텍트렌즈 착용 등에 의한 외인성 질환",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201309124/EE",
+   "first_observed_at": "2026-08-27T11:04:01Z",
+   "last_observed_at": "2026-08-27T11:04:01Z"
+  },
+  {
+   "revision_id": "201309124-7e7b15e4",
+   "content_sha256": "7e7b15e400ae6537497c7777dee1525c080b2a81dce7425ce043c2da5c7c2488",
+   "ee_text": "(점안제) 다음 질환에 의한 각결막 상피장애 : - 쇼그렌증후군, 피부점막안증후군(스티븐스-존슨증후군), 건성안증후군과 같은 내인성 질환 - 수술 후, 약제성, 외상, 콘텍트렌즈 착용 등에 의한 외인성 질환",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T11:04:01Z",
+   "last_observed_at": "2026-08-27T11:04:01Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:04:01Z"
+}

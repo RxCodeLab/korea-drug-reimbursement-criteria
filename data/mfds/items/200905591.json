@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200905591",
+ "item_name": "판토마그정",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20090717",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258486]시트르산마그네슘|[M243439]판토텐산칼슘|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Calcium Pantothenate/Magnesium Citrate/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A12CC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905591",
+ "history_fetched_at": "2026-08-27T10:37:09Z",
+ "revisions": [
+  {
+   "revision_id": "200905591-f06522b3",
+   "content_sha256": "f06522b348406cd8b74b756ea479eadc7753e7953ee68735bd7dad547bfc615f",
+   "ee_text": "- 임신ㆍ수유기 - 병중ㆍ병후의 체력저하시 - 마그네슘결핍으로 인한 근육경련",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200905591/EE",
+   "first_observed_at": "2026-08-27T10:37:09Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

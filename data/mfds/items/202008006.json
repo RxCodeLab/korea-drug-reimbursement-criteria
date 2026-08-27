@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008006",
+ "item_name": "리버큐액(L-아스파르트산-L-오르니틴)(수출명: HEPAHELE Solution)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20201119",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M271841]L-아스파르트산-L-오르니틴",
+ "main_item_ingr_eng": "L-Ornithine-L-Aspartate",
+ "edi_code": "",
+ "atc_code": "A05BA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008006",
+ "revisions": [
+  {
+   "revision_id": "202008006-00a9da18",
+   "content_sha256": "00a9da18aa92920e3d934ba729c3642af4cc9818d36895fd77817e962e929e9a",
+   "ee_text": "중증의 간질환 해독의 보조 치료(예: 간경변)",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T13:52:52Z",
+   "last_observed_at": "2026-08-27T13:52:52Z",
+   "official_revision_date": "2021-06-07"
+  },
+  {
+   "revision_id": "202008006-16423b66",
+   "content_sha256": "16423b663f0cce6445a0d909358e201b552d35673a0bdff94c1dfbbd0d1f3cc6",
+   "ee_text": "다음의 중증의 간질환 해독의 보조 치료 : 간경변, 만성간염",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-11-19",
+   "first_observed_at": "2026-08-27T13:52:52Z",
+   "last_observed_at": "2026-08-27T13:52:52Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:52:52Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199802244",
+ "item_name": "몰시톤정4밀리그램(몰시도민)",
+ "entp_name": "에리슨제약(주)",
+ "permit_date": "19980507",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070605]몰시도민",
+ "main_item_ingr_eng": "Molsidomine",
+ "edi_code": "620500050",
+ "atc_code": "C01DX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802244",
+ "revisions": [
+  {
+   "revision_id": "199802244-4764252b",
+   "content_sha256": "4764252b70266a34d95ce43c27de4818157481ba649611bec1cff4920eb71176",
+   "ee_text": "협심증의 예방 및 유지요법(단, 급성협심증 발작시 응급처치 제외)",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-27T13:27:36Z",
+   "last_observed_at": "2026-08-27T13:27:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:36Z"
+}

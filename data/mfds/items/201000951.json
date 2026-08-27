@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201000951",
+ "item_name": "리드로퀸정150밀리그램(리세드론산나트륨일수화물)",
+ "entp_name": "(주)씨티씨바이오",
+ "permit_date": "20100128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M221599]리세드론산나트륨일수화물",
+ "main_item_ingr_eng": "Risedronate Sodium Monohydrate",
+ "edi_code": "669501060",
+ "atc_code": "M05BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000951",
+ "revisions": [
+  {
+   "revision_id": "201000951-0fbe2d23",
+   "content_sha256": "0fbe2d23472e5f19041e309225910a116c9c28e62ea051200acba82908d09fd3",
+   "ee_text": "(정제) * 75, 150 mg 폐경 후 여성의 골다공증 치료와 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201000951/EE",
+   "first_observed_at": "2026-08-27T13:38:11Z",
+   "last_observed_at": "2026-08-27T13:38:11Z"
+  },
+  {
+   "revision_id": "201000951-defc36e5",
+   "content_sha256": "defc36e544c2b7839accafb802c7c19f36a2dc5341b21770e904271d774f1977",
+   "ee_text": "폐경 후 여성의 골다공증 치료와 예방",
+   "ee_doc_id": "22",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:38:11Z",
+   "last_observed_at": "2026-08-27T13:38:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:11Z"
+}

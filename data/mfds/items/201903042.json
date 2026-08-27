@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903042",
+ "item_name": "서울테르비나핀염산염정",
+ "entp_name": "(주)서울제약",
+ "permit_date": "20190510",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252342]테르비나핀염산염",
+ "main_item_ingr_eng": "Terbinafine Hydrochloride",
+ "edi_code": "652904390",
+ "atc_code": "D01BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903042",
+ "revisions": [
+  {
+   "revision_id": "201903042-9dca124b",
+   "content_sha256": "9dca124bbdccd8a5e4cd220046678351f1bb15682165f338d14efa441442a7b2",
+   "ee_text": "1) 피부사상균에 의한 다음의 피부진균증 : 족부백선, 체부백선, 고부백선(완선) 2) 손.발톱진균증 두부백선",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201903042/EE",
+   "first_observed_at": "2026-08-27T12:44:05Z",
+   "last_observed_at": "2026-08-27T12:44:05Z"
+  },
+  {
+   "revision_id": "201903042-d3d5601e",
+   "content_sha256": "d3d5601e264eeca422dc71918a6d4e3435b71679b256a5431944f36bee3ef3aa",
+   "ee_text": "1) 피부사상균에 의한 다음의 피부진균증 : 족부백선, 체부백선, 고부백선(완선) 2) 손․발톱진균증 두부백선",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-05-10",
+   "first_observed_at": "2026-08-27T12:44:05Z",
+   "last_observed_at": "2026-08-27T12:44:05Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:44:05Z"
+}

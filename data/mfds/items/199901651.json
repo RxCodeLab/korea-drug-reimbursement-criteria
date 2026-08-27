@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199901651",
+ "item_name": "오르필서방정600밀리그램(발프로산나트륨)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19990325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070676]발프로산나트륨",
+ "main_item_ingr_eng": "Sodium Valproate",
+ "edi_code": "642201720",
+ "atc_code": "N03AG01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901651",
+ "revisions": [
+  {
+   "revision_id": "199901651-2a31b34f",
+   "content_sha256": "2a31b34faf7ae92deebb14675b90237cf4f6e50c8fb48fd779af3a27a413c41e",
+   "ee_text": "뇌전증[결신발작(소발작), 부분발작(초점발작), 정신운동성발작 및 혼합발작]과 뇌전증에 뒤따르는 성격·행동장애의 예방과 치료",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-27T13:42:31Z",
+   "last_observed_at": "2026-08-27T13:42:31Z",
+   "official_revision_date": "2019-04-21"
+  },
+  {
+   "revision_id": "199901651-86672101",
+   "content_sha256": "86672101d511ed617c70f6d88c2574324e3c977bccf7207c3317645606a52da0",
+   "ee_text": "간질[결신발작(소발작), 부분발작(초점발작), 정신운동성발작 및 혼합발작)]과 간질에 뒤따르는 성격, 행동장애의 예방과 치료 1. 간질[결신발작(소발작), 부분발작(초점발작), 정신운동성발작 및 혼합발작)]과 간질에 뒤따르는 성격, 행동장애의 예방과 치료 2. 수술후 및 외상후의 발작",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:42:31Z",
+   "last_observed_at": "2026-08-27T13:42:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:42:31Z"
+}

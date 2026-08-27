@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500679",
+ "item_name": "누칼라오토인젝터주(메폴리주맙)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20250324",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263770]메폴리주맙",
+ "main_item_ingr_eng": "Mepolizumab",
+ "edi_code": "650003321",
+ "atc_code": "R03DX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500679",
+ "revisions": [
+  {
+   "revision_id": "202500679-e0fbefad",
+   "content_sha256": "e0fbefadfb81b2d43cdbe1c6bc5c5084f985e392464f662751914a758513a5b8",
+   "ee_text": "- 치료 시작 시 혈중 호산구 150cells/㎕ 이상 또는 - 치료 시작 전 12개월 이내에 혈중 호산구 300cells/㎕ 이상",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:13:53Z",
+   "last_observed_at": "2026-08-27T12:13:53Z",
+   "official_revision_date": "2025-03-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:13:53Z"
+}

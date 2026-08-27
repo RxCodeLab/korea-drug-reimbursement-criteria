@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108701",
+ "item_name": "리큅정5밀리그램(로피니롤염산염)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20010906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234950]로피니롤염산염",
+ "main_item_ingr_eng": "Ropinirole Hydrochloride",
+ "edi_code": "650000300",
+ "atc_code": "N04BC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108701",
+ "revisions": [
+  {
+   "revision_id": "200108701-1a519e02",
+   "content_sha256": "1a519e02f76e995e7787a24a49d1476aee8353c096674ff4dec809132f38c779",
+   "ee_text": "특발성 파킨슨씨병의 치료 특발성 파킨슨씨병 치료에 단독 요법으로 사용가능하다 레보도파와의 병용 투여는 on-off 현상을 억제하고 레보도파의 1일 투여량을 줄일 수 있다.",
+   "ee_doc_id": "26",
+   "first_observed_at": "2026-08-27T12:34:03Z",
+   "last_observed_at": "2026-08-27T12:34:03Z",
+   "official_revision_date": "2019-07-12"
+  },
+  {
+   "revision_id": "200108701-7ebfc9be",
+   "content_sha256": "7ebfc9bec1e2eddb1365d7cfc347f2a2e315e8355cf7a0cda6664ea03cc605b6",
+   "ee_text": "특발성 파킨슨씨병의 치료 특발성 파킨스씨병 치료에 단독 요법으로 사용가능하다 레보도파와의 병용 투여는 on-off현상을 억제하고 레보도파의 1일 투여량을 줄일수 있다.",
+   "ee_doc_id": "22",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:34:03Z",
+   "last_observed_at": "2026-08-27T12:34:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:34:03Z"
+}

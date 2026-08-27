@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604940",
+ "item_name": "에스알비디정",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20160812",
+ "cancel_date": "20260812",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222983]라니티딘염산염|[M251061]비스무트시트르산염칼륨|[M223077]수크랄페이트수화물",
+ "main_item_ingr_eng": "Ranitidine Hydrochloride/Sucralfate Hydrate/Tripotassium Bismuth Dicitrate",
+ "edi_code": "",
+ "atc_code": "A02BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604940",
+ "revisions": [
+  {
+   "revision_id": "201604940-7212a608",
+   "content_sha256": "7212a608204a661484e39b4c4023a9fa2ee1b46e8e53b7cf430da7f9f2fa6077",
+   "ee_text": "위궤양, 위염, 십이지장궤양, 졸링거엘리슨 증후군, 역류성 식도염, 마취전 투약(멘델슨 증후군 예방), 수술후 궤양, 비스테로이드성 소염진통제(NSAID)로 인한 위ㆍ십이지장궤양",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-27T11:57:26Z",
+   "last_observed_at": "2026-08-27T11:57:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:57:26Z"
+}

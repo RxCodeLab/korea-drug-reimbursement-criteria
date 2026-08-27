@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200210231",
+ "item_name": "화이자메토트렉세이트주25mg/mL",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20020715",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040168]메토트렉세이트",
+ "main_item_ingr_eng": "Methotrexate",
+ "edi_code": "648903011,648903013",
+ "atc_code": "L01BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210231",
+ "revisions": [
+  {
+   "revision_id": "200210231-2fb4131d",
+   "content_sha256": "2fb4131d0e49fc58aba7924018fb5008380237249a58f1453e1de5038b1e4701",
+   "ee_text": "1) 급성백혈병, 비호지킨림프종, 육종(연부육종, 골육종) 2) 유방암, 폐암, 두경부암, 방광암의 고형암, 융모질환(융모암, 파괴포상기태, 포상기태)",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-27T12:51:09Z",
+   "last_observed_at": "2026-08-27T12:51:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:51:09Z"
+}

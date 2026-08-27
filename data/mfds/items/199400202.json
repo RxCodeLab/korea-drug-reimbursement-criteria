@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199400202",
+ "item_name": "판피린티정",
+ "entp_name": "동아제약(주)",
+ "permit_date": "19940903",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223183]카페인무수물|[M223211]클로르페니라민말레산염|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Chlorpheniramine Maleate",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400202",
+ "revisions": [
+  {
+   "revision_id": "199400202-40f67552",
+   "content_sha256": "40f6755228d5634f73a2f2de916e8538d0cafbf672ec16b5b8b2e237eb352400",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후통, 오한, 발열, 관절통, 두통, 근육통)의 완화",
+   "ee_doc_id": "24",
+   "first_observed_at": "2026-08-27T12:56:46Z",
+   "last_observed_at": "2026-08-27T12:56:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:56:46Z"
+}

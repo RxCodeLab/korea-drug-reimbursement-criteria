@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502263",
+ "item_name": "레바미서방정(레바미피드)",
+ "entp_name": "(주)이든파마",
+ "permit_date": "20250828",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083925]레바미피드",
+ "main_item_ingr_eng": "Rebamipide",
+ "edi_code": "628902550",
+ "atc_code": "A02BX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502263",
+ "revisions": [
+  {
+   "revision_id": "202502263-62660dad",
+   "content_sha256": "62660dad2ee55eb6d0a6c2ec8bd5a0007f85542ce2fbea34b28178c5d8430e18",
+   "ee_text": "다음 질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:48:40Z",
+   "last_observed_at": "2026-08-27T13:48:40Z",
+   "official_revision_date": "2025-08-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:48:40Z"
+}

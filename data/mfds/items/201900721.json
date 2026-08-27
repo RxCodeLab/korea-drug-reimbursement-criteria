@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900721",
+ "item_name": "마이그란정50밀리그램(수마트립탄숙신산염)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20190130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246956]수마트립탄숙신산염",
+ "main_item_ingr_eng": "Sumatriptan Succinate",
+ "edi_code": "644502620",
+ "atc_code": "N02CC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900721",
+ "revisions": [
+  {
+   "revision_id": "201900721-b4093235",
+   "content_sha256": "b409323562e1f5c804d0035e5db2c07697710859f085e20e6f80773370d7a1dc",
+   "ee_text": "1. 전조증상을 수반하거나 수반하지 않는 편두통의 조속한 완화 2. 여성의 생리주기와 관련한 편두통의 조속한 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:32:54Z",
+   "last_observed_at": "2026-08-27T12:32:54Z",
+   "official_revision_date": "2019-01-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:32:54Z"
+}

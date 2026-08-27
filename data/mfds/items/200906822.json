@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906822",
+ "item_name": "헤파니드주(L-아스파르트산-L-오르니틴)(수출명 : Z-PIN Injection)(수출용)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20090910",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254056]L-아스파르트산-L-오르니틴",
+ "main_item_ingr_eng": "L-Ornithine-L-Aspartate",
+ "edi_code": "",
+ "atc_code": "A05BA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906822",
+ "revisions": [
+  {
+   "revision_id": "200906822-ab132c0a",
+   "content_sha256": "ab132c0af2a4589b16b0399148708419a584cb31a76b530bb3f3df10ae086632",
+   "ee_text": "(정맥주사) 다음의 중증의 간질환 해독 : 간염, 간염후유증, 조직손상, 간경변",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T13:52:41Z",
+   "last_observed_at": "2026-08-27T13:52:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:52:41Z"
+}

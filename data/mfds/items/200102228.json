@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200102228",
+ "item_name": "프론티오정",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20010216",
+ "cancel_date": "20230905",
+ "status": "취하",
+ "main_item_ingr": "[M040615]클로르탈리돈|[M080475]아테놀올",
+ "main_item_ingr_eng": "Atenolol/Chlorthalidone",
+ "edi_code": "",
+ "atc_code": "C07CB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102228",
+ "revisions": [
+  {
+   "revision_id": "200102228-f5de4319",
+   "content_sha256": "f5de43194093da461a59c6b7b7985e7ba1927c86ac648c5766f5eeea5afba976",
+   "ee_text": "고혈압",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T12:27:06Z",
+   "last_observed_at": "2026-08-27T12:27:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:27:06Z"
+}

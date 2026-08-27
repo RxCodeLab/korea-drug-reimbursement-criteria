@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801877",
+ "item_name": "아나리바정",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "19980907",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223015]DL-메티오닌",
+ "main_item_ingr_eng": "Acetaminophen/DL-Methionine",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801877",
+ "revisions": [
+  {
+   "revision_id": "199801877-ca3b8de2",
+   "content_sha256": "ca3b8de23ff09a9038dc8518986edd7c7d8fc14dc7161af39fcbec3e9befc905",
+   "ee_text": "두통, 치통, 관절통, 신경통, 근육통, 염좌통(삔 통증), 월경통(생리통)",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T12:56:55Z",
+   "last_observed_at": "2026-08-27T12:56:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:56:55Z"
+}

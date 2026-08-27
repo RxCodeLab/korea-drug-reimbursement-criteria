@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204679",
+ "item_name": "울토미리스주100mg/mL(라불리주맙)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20221228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278743]라불리주맙|[M278743]라불리주맙",
+ "main_item_ingr_eng": "Ravulizumab",
+ "edi_code": "650701301,650701311",
+ "atc_code": "L04AJ02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204679",
+ "revisions": [
+  {
+   "revision_id": "202204679-709c6ed1",
+   "content_sha256": "709c6ed11d810063796778988a47ed29eb3fbde89274ad892aa4a733a2693dbe",
+   "ee_text": "사용제한 시가(Shiga) 톡신 생성 대장균에 의한 용혈성 요독 증후군(STEC-HUS) 환자에는 허가되지 않았다.",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T11:10:48Z",
+   "last_observed_at": "2026-08-27T11:10:48Z",
+   "official_revision_date": "2024-07-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:10:48Z"
+}

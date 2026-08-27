@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603090",
+ "item_name": "하이소린정2mg(테라조신염산염수화물)",
+ "entp_name": "대웅바이오(주)",
+ "permit_date": "20160531",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250456]테라조신염산염수화물",
+ "main_item_ingr_eng": "Terazosin Hydrochloride Hydrate",
+ "edi_code": "694001120",
+ "atc_code": "G04CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603090",
+ "revisions": [
+  {
+   "revision_id": "201603090-3e1394e8",
+   "content_sha256": "3e1394e80208041d5989b259662101196c5015f753047f458fba05b167c4a0a1",
+   "ee_text": "양성전립샘비대에 의한 배뇨장애, 고혈압(경증-중등도)",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T13:24:11Z",
+   "last_observed_at": "2026-08-27T13:24:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:24:11Z"
+}

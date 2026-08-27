@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600202",
+ "item_name": "레피졸정20밀리그램(아리피프라졸)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20260123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096829]아리피프라졸",
+ "main_item_ingr_eng": "Aripiprazole",
+ "edi_code": "651905500",
+ "atc_code": "N05AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600202",
+ "revisions": [
+  {
+   "revision_id": "202600202-129ae733",
+   "content_sha256": "129ae733591506720f12f0c4abb4990568666f5b14d23268e2ecc70c12be7737",
+   "ee_text": "1. 조현병 2. 양극성 장애와 관련된 급성 조증 및 혼재 삽화의 치료 3. 뚜렛장애",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:27:26Z",
+   "last_observed_at": "2026-08-27T13:27:26Z",
+   "official_revision_date": "2026-01-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:26Z"
+}

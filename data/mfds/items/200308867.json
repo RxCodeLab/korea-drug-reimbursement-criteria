@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308867",
+ "item_name": "슈라스정",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20030204",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M223077]수크랄페이트수화물|[M251061]비스무트시트르산염칼륨|[M222983]라니티딘염산염|[M251061]비스무트시트르산염칼륨|[M223077]수크랄페이트수화물|[M222983]라니티딘염산염",
+ "main_item_ingr_eng": "Ranitidine Hydrochloride/Sucralfate Hydrate/Tripotassium Bismuth Dicitrate",
+ "edi_code": "",
+ "atc_code": "A02BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308867",
+ "revisions": [
+  {
+   "revision_id": "200308867-e709f027",
+   "content_sha256": "e709f027a3e08778a5c68196995bd95dd029f122909f5b430da12baca06a1996",
+   "ee_text": "위·십이지장궤양, 위염, 졸링거-엘리슨증후군, 역류성식도염, 마취전 투약(멘델슨증후군 예방), 수술후 궤양, 비스테로이드소염진통제(NSAID)로 인한 위·십이지장궤양",
+   "ee_doc_id": "27",
+   "first_observed_at": "2026-08-27T11:57:00Z",
+   "last_observed_at": "2026-08-27T11:57:00Z",
+   "official_revision_date": "2020-01-30"
+  },
+  {
+   "revision_id": "200308867-6376f567",
+   "content_sha256": "6376f567945ffeec1884ed00bdd59a7774939025dbe21ae1e0e937f91e4a412b",
+   "ee_text": "위궤양, 위염, 십이지장궤양, 졸링거엘리슨증후군, 역류성식도염, 마취전투약(멘델슨증후군예방), 수술후 궤양, 비스테로이드성 소염진통제(NSAID)로 인한 위·십이지장궤양",
+   "ee_doc_id": "18",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T11:57:00Z",
+   "last_observed_at": "2026-08-27T11:57:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:57:00Z"
+}

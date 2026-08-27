@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603929",
+ "item_name": "코다론주사(아미오다론염산염)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20060324",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264471]아미오다론염산염",
+ "main_item_ingr_eng": "Amiodarone Hydrochloride",
+ "edi_code": "652000451",
+ "atc_code": "C01BD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603929",
+ "revisions": [
+  {
+   "revision_id": "200603929-e7446eb2",
+   "content_sha256": "e7446eb22896effc62760f767863d0f8ab88591b2e5d76a5aad5c0e928686f4b",
+   "ee_text": "심방성부정맥, 심실성부정맥, 기타 다른 부정맥용제로 치료되지 않는 재발성중증부정맥 신속한 반응이 요구되거나 경구투여가 불가능한 경우에 투여한다",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T13:42:35Z",
+   "last_observed_at": "2026-08-27T13:42:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:42:35Z"
+}

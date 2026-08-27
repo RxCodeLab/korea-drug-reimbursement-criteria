@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309961",
+ "item_name": "플루티폼흡입제125μg/5μg",
+ "entp_name": "한국먼디파마(유)",
+ "permit_date": "20131029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258126]포르모테롤푸마르산염수화물(미분화)|[M243509]플루티카손프로피오네이트(미분화)",
+ "main_item_ingr_eng": "Fluticasone Propionate Micronized/Formoterol Fumarate Hydrate Micronized",
+ "edi_code": "678000291",
+ "atc_code": "R03AK11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309961",
+ "revisions": [
+  {
+   "revision_id": "201309961-fcb4b016",
+   "content_sha256": "fcb4b0164f9690e39fb9028f364a7937b43527e9115330bf12127f3cf5c88deb",
+   "ee_text": "지속성 베타2-효능약과 흡입용 코르티코스테로이드의 병용투여가 적절하다고 판단된 천식의 치료",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T13:21:33Z",
+   "last_observed_at": "2026-08-27T13:21:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:21:33Z"
+}

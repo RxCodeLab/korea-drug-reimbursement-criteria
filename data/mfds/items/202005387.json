@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "H01AC01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005387",
+ "history_fetched_at": "2026-08-27T07:57:48Z",
  "revisions": [
   {
    "revision_id": "202005387-7b8bb1c8",
    "content_sha256": "7b8bb1c83416d17d854d79491177b7d956bba6ccaa780fe6393a450604c5381c",
    "ee_text": "1. 뇌하수체 성장호르몬 분비장애로 인한 소아의 성장부전 2. 소아의 특발성 저신장증(ISS) 3. 골단이 폐쇄되지 않고 염색체 분석에 의해 터너증후군으로 확인된 소아의 성장부전 4. 임신주수에 비해 작게 태어난(SGA: small for gestational age) 저신장 소아의 성장장애",
-   "ee_doc_id": "4",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202005387/EE",
    "first_observed_at": "2026-08-27T07:57:48Z",
-   "last_observed_at": "2026-08-27T07:57:48Z",
-   "official_revision_date": "2021-01-29"
+   "last_observed_at": "2026-08-27T10:47:38Z"
   },
   {
    "revision_id": "202005387-a8103916",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T07:57:48Z",
    "last_observed_at": "2026-08-27T07:57:48Z"
   }
- ],
- "history_fetched_at": "2026-08-27T07:57:48Z"
+ ]
 }

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200411067",
+ "item_name": "가바민정(레바미피드)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20040630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083925]레바미피드|[M083925]레바미피드",
+ "main_item_ingr_eng": "Rebamipide",
+ "edi_code": "698500290",
+ "atc_code": "A02BX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200411067",
+ "revisions": [
+  {
+   "revision_id": "200411067-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200411067/EE",
+   "first_observed_at": "2026-08-27T13:47:54Z",
+   "last_observed_at": "2026-08-27T13:47:54Z"
+  },
+  {
+   "revision_id": "200411067-b6bf58a1",
+   "content_sha256": "b6bf58a14cb138fd65bf676c9974009ee7eb99384eb7180d2cb1e733dbd9ebc5",
+   "ee_text": ": 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:47:54Z",
+   "last_observed_at": "2026-08-27T13:47:54Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:47:54Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706161",
+ "item_name": "나스타정75밀리그램(나프토피딜)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20170725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252062]나프토피딜",
+ "main_item_ingr_eng": "Naftopidil",
+ "edi_code": "644502450",
+ "atc_code": "G04CA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706161",
+ "revisions": [
+  {
+   "revision_id": "201706161-06a7ed95",
+   "content_sha256": "06a7ed95cba76837475d327edfdc66ab3570f29c0715bd4b6dd13d6ddd29cdee",
+   "ee_text": "전립선 비대증에 의한 배뇨 장애",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T12:48:25Z",
+   "last_observed_at": "2026-08-27T12:48:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:48:25Z"
+}

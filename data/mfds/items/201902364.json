@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902364",
+ "item_name": "레보디핀정5밀리그램(에스암로디핀베실산염이수화물)",
+ "entp_name": "안국뉴팜(주)",
+ "permit_date": "20190417",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M226654]에스암로디핀베실산염이수화물",
+ "main_item_ingr_eng": "S-Amlodipine Besylate Dihydrate",
+ "edi_code": "053601180",
+ "atc_code": "C08CA17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902364",
+ "revisions": [
+  {
+   "revision_id": "201902364-93b3778c",
+   "content_sha256": "93b3778c1a563e3b66c8554507bc71a055213e3eceac169a47849a9398c00d23",
+   "ee_text": "1. 고혈압, 관상동맥의 고정폐쇄(안정협심증) 또는 관상혈관계의 혈관경련수축(이형협심증)에 의한 심근성허혈증 2. 최근 혈관조영술로 관상동맥심질환이 확인된 환자로 심부전이 없거나 심박출률이 40 % 미만이 아닌 환자의 - 협심증으로 인한 입원의 위험성 감소 - 관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:33:52Z",
+   "last_observed_at": "2026-08-27T12:33:52Z",
+   "official_revision_date": "2019-04-17"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:52Z"
+}

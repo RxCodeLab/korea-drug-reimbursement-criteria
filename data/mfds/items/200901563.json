@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200901563",
+ "item_name": "헤파니친인퓨전주(L-아스파르트산-L-오르니틴)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20090227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M271841]L-아스파르트산-L-오르니틴",
+ "main_item_ingr_eng": "L-Ornithine-L-Aspartate",
+ "edi_code": "",
+ "atc_code": "A05BA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901563",
+ "revisions": [
+  {
+   "revision_id": "200901563-2fc9d798",
+   "content_sha256": "2fc9d798ef05d6c8543b071ed0fa593ccb7446c524cb8d66a66a1de1648c6f8c",
+   "ee_text": "* 500 mg/mL, 5 g/10 mL 다음의 중증의 간질환 해독 : 간성뇌증(혼수 전단계•혼수포함)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200901563/EE",
+   "first_observed_at": "2026-08-27T13:52:39Z",
+   "last_observed_at": "2026-08-27T13:52:39Z"
+  },
+  {
+   "revision_id": "200901563-865c8da3",
+   "content_sha256": "865c8da3b1d9ef84a5ba3fb586ad2f38ff5f5ad37de52de006cf2e17e227cb93",
+   "ee_text": "* 500 mg/mL, 5 g/10 mL 다음의 중증의 간질환 해독 : 간성뇌증(혼수 전단계•혼수포함) * 100 mg/mL 다음의 중증의 간질환 해독의 보조 치료 : 간염, 감염 후유증, 간경변",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:52:39Z",
+   "last_observed_at": "2026-08-27T13:52:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:52:39Z"
+}

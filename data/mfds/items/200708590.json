@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200708590",
+ "item_name": "비알살탄정100밀리그램(로사르탄칼륨)",
+ "entp_name": "(주)보령",
+ "permit_date": "20070725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249673]로사르탄칼륨",
+ "main_item_ingr_eng": "Losartan Potassium",
+ "edi_code": "",
+ "atc_code": "C09CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708590",
+ "revisions": [
+  {
+   "revision_id": "200708590-f5b83df4",
+   "content_sha256": "f5b83df48c49d3771140b768fa4ff7a9ac28976c086dc6656401e2797790ca7f",
+   "ee_text": "(정제) 1. 고혈압 2. 고혈압의 치료요법으로서, 고혈압을 가진 제 2형 당뇨병 환자의 신장병",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200708590/EE",
+   "first_observed_at": "2026-08-27T13:06:55Z",
+   "last_observed_at": "2026-08-27T13:06:55Z"
+  },
+  {
+   "revision_id": "200708590-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "20",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:06:55Z",
+   "last_observed_at": "2026-08-27T13:06:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:06:55Z"
+}

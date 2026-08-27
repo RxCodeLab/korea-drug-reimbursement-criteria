@@ -1,0 +1,54 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705809",
+ "item_name": "레날로마캡슐20밀리그램(레날리도마이드)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20170720",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251765]레날리도마이드반수화물",
+ "main_item_ingr_eng": "Lenalidomide Hemihydrate",
+ "edi_code": "643307760",
+ "atc_code": "L04AX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705809",
+ "revisions": [
+  {
+   "revision_id": "201705809-6a80de60",
+   "content_sha256": "6a80de604f4c06de869e1b56552f6940476fd7059ab96fea04310c221672ff8c",
+   "ee_text": "1. 다발골수종 1) 이전의 한 가지 이상의 치료를 받은 환자의 치료에 덱사메타손과 병용요법 2) 새롭게 진단된 이식이 불가능한 환자의 치료에 덱사메타손과의 병용요법, 또는 멜팔란 및 프레드니솔론과의 병용요법 3) 새롭게 진단된 환자의 치료에 보르테조밉 및 덱사메타손과 병용요법 4) 새롭게 진단된 자가 조혈모세포 이식을 받은 환자의 유지요법 2. 5q 세포유전자 결손을 동반한 International Prognostic Scoring System(IPSS) 분류에 따른 저위험 또는 중등도-1-위험 골수형성이상증후군에서 수혈 의존적인 빈혈이 있는 환자의 치료 3. 이전에 한가지 이상의 치료를 받은 외투세포림프종 4. 이전에 치료를 받은 소포림프종(1-3a 등급) 환자의 치료에 리툭시맙(항CD20항체)과 병용요법",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-27T13:06:25Z",
+   "last_observed_at": "2026-08-27T13:06:25Z",
+   "official_revision_date": "2023-03-07"
+  },
+  {
+   "revision_id": "201705809-77ebe9c1",
+   "content_sha256": "77ebe9c16720188f649108c8ad2e81a26b6879e20d626b149ce6532d9e1face2",
+   "ee_text": "1. 다발골수종 1) 이전의 한 가지 이상 치료를 받은 환자의 치료에 덱사메타손과 병용요법 2) 새롭게 진단된 이식이 불가능한 환자의 치료에 덱사메타손과의 병용요법, 또는 멜팔란 및 프레드니솔론과의 병용요법 3) 새롭게 진단된 환자의 치료에 보르테조밉 및 덱사메타손과 병용요법 4) 새롭게 진단된 자가 조혈모세포 이식을 받은 환자의 유지요법",
+   "ee_doc_id": "13",
+   "official_revision_date": "2022-02-08",
+   "first_observed_at": "2026-08-27T13:06:25Z",
+   "last_observed_at": "2026-08-27T13:06:25Z"
+  },
+  {
+   "revision_id": "201705809-67be2ab0",
+   "content_sha256": "67be2ab01f060d33a90bd9d3bedcbfa40b9f830d5a08ffb8d4b42ef0e6b69be9",
+   "ee_text": "1. 다발골수종 1) 이전의 한 가지 이상 치료를 받은 환자의 치료에 덱사메타손과 병용요법 2) 새롭게 진단된 이식이 불가능한 환자의 치료에 덱사메타손과의 병용요법, 또는 멜팔란 및 프레드니솔론과의 병용요법 3) 새롭게 진단된 자가 조혈모세포 이식을 받은 환자의 유지요법",
+   "ee_doc_id": "9",
+   "official_revision_date": "2019-06-22",
+   "first_observed_at": "2026-08-27T13:06:25Z",
+   "last_observed_at": "2026-08-27T13:06:25Z"
+  },
+  {
+   "revision_id": "201705809-a2afed2e",
+   "content_sha256": "a2afed2eee0c60a123fc8ab51f9a43c793bc5d751918ff66e21256beeec11a6f",
+   "ee_text": "다발골수종 이전의 한 가지 이상 치료를 받은 환자의 치료에 덱사메타손과 병용요법 새롭게 진단된 이식이 불가능한 환자의 치료에 덱사메타손과의 병용요법, 또는 멜팔란 및 프레드니솔론과의 병용요법",
+   "ee_doc_id": "2",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:06:25Z",
+   "last_observed_at": "2026-08-27T13:06:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:06:25Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199902899",
+ "item_name": "우라토닐시럽(수출용)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "19991028",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M222996]리보플라빈포스페이트나트륨|[M254056]L-아스파르트산-L-오르니틴",
+ "main_item_ingr_eng": "L-Ornithine-L-Aspartate/Nicotinamide/Riboflavin Sodium Phosphate",
+ "edi_code": "",
+ "atc_code": "A05B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902899",
+ "revisions": [
+  {
+   "revision_id": "199902899-0de06f2e",
+   "content_sha256": "0de06f2eb08a87e6377e42fc8e7ce30bc44119644f7506935e40c369acc22841",
+   "ee_text": "급, 만성 간질환",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T13:52:32Z",
+   "last_observed_at": "2026-08-27T13:52:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:52:32Z"
+}

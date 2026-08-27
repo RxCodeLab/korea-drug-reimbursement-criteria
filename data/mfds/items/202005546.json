@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005546",
+ "item_name": "탈제나캡슐1밀리그램(탈라조파립토실산염)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20200730",
+ "cancel_date": "20260730",
+ "status": "취하",
+ "main_item_ingr": "[M279255]탈라조파립토실산염",
+ "main_item_ingr_eng": "Talazoparib Tosylate",
+ "edi_code": "",
+ "atc_code": "L01XK04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005546",
+ "revisions": [
+  {
+   "revision_id": "202005546-2e266cb5",
+   "content_sha256": "2e266cb5a33fde46db7364cab9914292b74f6e217ea344d383a976d02166a6aa",
+   "ee_text": "이전에 항암화학요법 치료 경험이 있는 생식선 유방암감수성 유전자(gBRCA) 변이 HER2-음성인 국소 진행성 또는 전이성 유방암 성인환자의 치료에 단독요법으로 투여한다. 환자는 수술 전 보조요법, 수술 후 보조요법, 국소 진행성 또는 전이성 조건에서 항암화학요법을 받았을 수 있다.",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-27T12:44:28Z",
+   "last_observed_at": "2026-08-27T12:44:28Z",
+   "official_revision_date": "2025-06-13"
+  },
+  {
+   "revision_id": "202005546-fdc10d63",
+   "content_sha256": "fdc10d63a62cf60b838f456f0e4f0b9f03b74d81728405c03e6f6d261404e9f6",
+   "ee_text": "이전에 항암화학요법 치료 경험이 있는 생식선 유방암감수성 유전자(gBRCA) 변이 HER2-음성인 국소 진행성 또는 전이성 유방암 성인 환자의 치료에 단독요법으로 투여한다. 환자는 수술 전 보조요법, 수술 후 보조요법, 국소 진행성 또는 전이성 조건에서 항암화학요법을 받았을 수 있다.",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-07-30",
+   "first_observed_at": "2026-08-27T12:44:28Z",
+   "last_observed_at": "2026-08-27T12:44:28Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:44:28Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302835",
+ "item_name": "콜대원나이트시럽",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20230927",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250452]독시라민숙신산염|[M203364]슈도에페드린염산염|[M222957]덱스트로메토르판브롬화수소산염수화물|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Dextromethorphan Hydrobromide Hydrate/Doxylamine Succinate/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302835",
+ "revisions": [
+  {
+   "revision_id": "202302835-8b846b73",
+   "content_sha256": "8b846b732f966ac64df959cc90054d1c30e4413f5b5143757594d4b1de2ab1d9",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후[목구멍]통, 기침, 오한[춥고 떨리는 증상], 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:04:43Z",
+   "last_observed_at": "2026-08-27T13:04:43Z",
+   "official_revision_date": "2023-09-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:04:43Z"
+}

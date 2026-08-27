@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200503163",
+ "item_name": "시트라칼에프정",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20050830",
+ "cancel_date": "20240911",
+ "status": "취하",
+ "main_item_ingr": "[M247470]시트르산칼슘수화물|[M099907]콜레칼시페롤과립",
+ "main_item_ingr_eng": "Calcium Citrate Hydrate/Cholecalciferol Granules",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503163",
+ "history_fetched_at": "2026-08-27T10:36:59Z",
+ "revisions": [
+  {
+   "revision_id": "200503163-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200503163/EE",
+   "first_observed_at": "2026-08-27T10:36:59Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

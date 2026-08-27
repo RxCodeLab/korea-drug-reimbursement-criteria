@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200606182",
+ "item_name": "수텐캡슐50밀리그램(수니티닙말산염)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20060619",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249050]수니티닙말산염",
+ "main_item_ingr_eng": "Sunitinib Malate",
+ "edi_code": "648900490",
+ "atc_code": "L01EX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606182",
+ "revisions": [
+  {
+   "revision_id": "200606182-ac00d633",
+   "content_sha256": "ac00d633d339679cb03bfbbd7207c52bf5be98d52b6f8118ef5b1d99bfad9ffd",
+   "ee_text": "1. 저항성 및 불내약성으로 인해 메실산 이매티닙 요법에 실패한 위장관 기저종양 2. 진행성 신세포암 3. 신장절제술을 받은 재발성 신세포암 고위험군 성인 환자에서 수술 후 보조요법 - 고위험군 정의는 다음과 같다. ․ 종양병기 T3, N0 또는 NX, M0, Fuhrman’s grade≥2, ECOG PS≥1 ․ 종양병기 T4, N0 또는 NX, M0, 모든 Fuhrman’s grade, 모든 ECOG PS ․ 종양병기 모든 T, N1-2, M0, 모든 Fuhrman’s grade, 모든 ECOG PS 4. 절제불가능하고, 고도로 분화된 진행성 및/또는 전이성 췌장내분비종양",
+   "ee_doc_id": "32",
+   "first_observed_at": "2026-08-27T12:32:52Z",
+   "last_observed_at": "2026-08-27T12:32:52Z",
+   "official_revision_date": "2018-07-20"
+  },
+  {
+   "revision_id": "200606182-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "31",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:32:52Z",
+   "last_observed_at": "2026-08-27T12:32:52Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:32:52Z"
+}

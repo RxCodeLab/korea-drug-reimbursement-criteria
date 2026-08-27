@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199502679",
+ "item_name": "바로인에이연질캡슐(발프로산)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "19950304",
+ "cancel_date": "20241213",
+ "status": "취하",
+ "main_item_ingr": "[M083547]발프로산",
+ "main_item_ingr_eng": "Valproic Acid",
+ "edi_code": "",
+ "atc_code": "N03AG01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502679",
+ "revisions": [
+  {
+   "revision_id": "199502679-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-27T13:42:29Z",
+   "last_observed_at": "2026-08-27T13:42:29Z",
+   "official_revision_date": "2019-04-21"
+  },
+  {
+   "revision_id": "199502679-66a4e157",
+   "content_sha256": "66a4e157f6eb607f2c1b843d5702c8418c2bf88dfeb6765a28ad3721514ef518",
+   "ee_text": "간질[결신발작(소발작), 부분발작(초점발작), 정신운동성발작 및 혼합발작)]과 간질에 뒤따르는 성격, 행동장애의 예방과 치료 간질[결신발작(소발작), 강직간대발작(대발작), 간대성 발작, 정신운동성발작 및 혼합발작)]과 간질에 수반되는 성격, 행동장애의 예방과 치료 1. 간질[결신발작(소발작), 부분발작(초점발작), 정신운동성발작 및 혼합발작)]과 간질에 뒤따르는 성격, 행동장애의 예방과 치료 2. 수술후 및 외상후의 발작",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:42:29Z",
+   "last_observed_at": "2026-08-27T13:42:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:42:29Z"
+}

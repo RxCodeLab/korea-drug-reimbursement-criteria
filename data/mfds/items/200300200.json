@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300200",
+ "item_name": "메피그릴정(글리메피리드)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20030814",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086024]글리메피리드",
+ "main_item_ingr_eng": "Glimepiride",
+ "edi_code": "644900950",
+ "atc_code": "A10BB12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300200",
+ "revisions": [
+  {
+   "revision_id": "200300200-cb0cd62d",
+   "content_sha256": "cb0cd62ddb2015df7f67cf32216c730fd19f617cc4658bc65f690640c5f4e064",
+   "ee_text": "1. 이 약은 단독요법으로 투여한다. 2. 이 약은 다음의 경우 병용요법으로 투여한다. 1) 경구용 혈당강하제로 혈당조절이 적절하게 이루어지지 않는 경우, 인슐린과 병용투여 2) 설포닐우레아계 또는 메트포르민 단독요법으로 혈당조절이 적절하게 이루어지지 않는 경우, 메트포르민과 이 약을 병용투여",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T13:27:45Z",
+   "last_observed_at": "2026-08-27T13:27:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:45Z"
+}

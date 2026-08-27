@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206090",
+ "item_name": "에페시나정(에페리손염산염)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20120712",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M232172]에페리손염산염|[M232172]에페리손염산염",
+ "main_item_ingr_eng": "Eperisone Hydrochloride",
+ "edi_code": "698502210",
+ "atc_code": "M03BX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206090",
+ "revisions": [
+  {
+   "revision_id": "201206090-98bc494f",
+   "content_sha256": "98bc494f488d875b0437a85ced78bfb5bb3f9e8a966e960f5bff6e83ca8e5c75",
+   "ee_text": "술후 후유증(뇌·척수종양 포함), 외상후유증(척수손상, 두부외상), 근위축성 축색경화 증, 뇌성마비, 척수소뇌변성증, 척수혈관장애, 아급성 척수시신경병변, 기타의 뇌척수 질환",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T12:05:30Z",
+   "last_observed_at": "2026-08-27T12:05:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:05:30Z"
+}

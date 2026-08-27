@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200900697",
+ "item_name": "아드바그랍서방캡슐0.5밀리그램(타크로리무스수화물)",
+ "entp_name": "한국아스텔라스제약(주)",
+ "permit_date": "20090119",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089193]타크로리무스수화물",
+ "main_item_ingr_eng": "Tacrolimus Hydrate",
+ "edi_code": "677200180",
+ "atc_code": "L04AD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900697",
+ "revisions": [
+  {
+   "revision_id": "200900697-2c98d5ee",
+   "content_sha256": "2c98d5ee254fe1ed3e4d703e6c96af98a83ee2050c496edde89eaf8108e0a882",
+   "ee_text": ": 동종의 신이식 환자에 대한 거부반응 방지 : 동종의 간이식 환자에 대한 거부반응 방지",
+   "ee_doc_id": "39",
+   "first_observed_at": "2026-08-27T12:33:33Z",
+   "last_observed_at": "2026-08-27T12:33:33Z",
+   "official_revision_date": "2022-11-18"
+  },
+  {
+   "revision_id": "200900697-d7639394",
+   "content_sha256": "d7639394e770a0caabb4107824d955eef45adcd3b730f3195749cc6dfa6a0daa",
+   "ee_text": ": 동종의 신장이식 환자에 대한 거부반응 방지 : 동종의 간이식 환자에 대한 거부반응 방지",
+   "ee_doc_id": "24",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:33:33Z",
+   "last_observed_at": "2026-08-27T12:33:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:33Z"
+}

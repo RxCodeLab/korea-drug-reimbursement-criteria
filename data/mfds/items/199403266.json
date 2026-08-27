@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403266",
+ "item_name": "미니린주사액(데스모프레신아세트산염)",
+ "entp_name": "한국페링제약(주)",
+ "permit_date": "19941205",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250270]데스모프레신아세트산염",
+ "main_item_ingr_eng": "Desmopressin Acetate",
+ "edi_code": "652500141",
+ "atc_code": "H01BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403266",
+ "revisions": [
+  {
+   "revision_id": "199403266-f15d6c2d",
+   "content_sha256": "f15d6c2d7c14a9b80eb6f3e158fa8282db83e7370c4a3172ed71fd0f555b7d88",
+   "ee_text": "1) 중추성 요붕증, 뇌손상 및 뇌하수체 수술로 인한 일시적인 다뇨, 번갈 다음 2) A형 혈우병 : 제 8인자 응고활성도가 5%보다 큰 A형 혈우병 환자에게 수술 전 출혈 예방제 3) 폰 빌레브란드 병 (Type I) : 제 8인자가 5%보다 큰 경증 및 중등도의 폰 빌레브란드병 (Type I)의 환자에게 수술 전 출혈 예방제 4) 신장 농축 능력의 측정",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T11:07:09Z",
+   "last_observed_at": "2026-08-27T11:07:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:07:09Z"
+}

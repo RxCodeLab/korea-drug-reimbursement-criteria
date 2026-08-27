@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803905",
+ "item_name": "그린쏘인디겔",
+ "entp_name": "(주)그린제약",
+ "permit_date": "20181004",
+ "cancel_date": "20231004",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M203279]살리실산메틸|[M222973]디펜히드라민염산염|[M215133]에녹솔론|[M222965]디부카인염산염|[M204423]dl-캄파|[M230875]l-멘톨",
+ "main_item_ingr_eng": "DL-Camphor/Dibucaine Hydrochloride/Diphenhydramine Hydrochloride/Enoxolone/L-Menthol/Methyl Salicylate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803905",
+ "revisions": [
+  {
+   "revision_id": "201803905-668a70ea",
+   "content_sha256": "668a70eacf30ca866b38911ecc0dd0567b4773bd2526d49315c4984625f4dbad",
+   "ee_text": "습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물림, 두드러기, 동창",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:30:09Z",
+   "last_observed_at": "2026-08-27T12:30:09Z",
+   "official_revision_date": "2018-10-04"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:30:09Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501179",
+ "item_name": "네오메토주5mg/2mL(메토트렉세이트)(수출명:NeomethoInj.5mg/2mL)(수출용)",
+ "entp_name": "(주)보령",
+ "permit_date": "20050317",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040168]메토트렉세이트",
+ "main_item_ingr_eng": "Methotrexate",
+ "edi_code": "",
+ "atc_code": "L01BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501179",
+ "revisions": [
+  {
+   "revision_id": "200501179-accac2bb",
+   "content_sha256": "accac2bb91a256dfa65421755bd5c24c5bbe265334677156377cee457756dfa4",
+   "ee_text": "급성 백혈병, 비호지킨성 임파종, 연조직 및 골원성 육종 유방암, 폐암, 두경부암, 방광암, 경부암, 난소암 및 고환암, 고혈압, 융모암 타제로서 효과가 없는 심한 불응성 건선",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T12:51:10Z",
+   "last_observed_at": "2026-08-27T12:51:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:51:10Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200707273",
+ "item_name": "데신티어점안액(염산시프로플록사신)(수출용)",
+ "entp_name": "(주)옵투스제약",
+ "permit_date": "20070625",
+ "cancel_date": "20240220",
+ "status": "취하",
+ "main_item_ingr": "[M223091]시프로플록사신염산염수화물",
+ "main_item_ingr_eng": "Ciprofloxacin Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "S01AE03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707273",
+ "revisions": [
+  {
+   "revision_id": "200707273-5e58d111",
+   "content_sha256": "5e58d1112a7f891bd8e053682e62ca9abafd4f46683e6356ea57703756c377af",
+   "ee_text": "* 이 균종에 대한 효능연구는 10개 이하 경우에서 실시됨.",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200707273/EE",
+   "first_observed_at": "2026-08-27T13:22:23Z",
+   "last_observed_at": "2026-08-27T13:22:23Z"
+  },
+  {
+   "revision_id": "200707273-39c779e6",
+   "content_sha256": "39c779e68d500fa4f026e67310989e45975e6da421b98d352ef50a460c54bdb1",
+   "ee_text": ": 녹농균, *세라치아속, 황색포도상구균, 폐렴연쇄상구균, 표피포도상구균, : 황색포도상구균, 표피포도상구균, 폐렴연쇄상구균 * 이 균종에 대한 효능연구는 10개 이하 경우에서 실시됨.",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:22:23Z",
+   "last_observed_at": "2026-08-27T13:22:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:22:23Z"
+}

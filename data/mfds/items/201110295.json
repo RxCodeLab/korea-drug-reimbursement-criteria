@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201110295",
+ "item_name": "렌벨라산0.8그램(세벨라머탄산염)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20111123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253167]세벨라머탄산염",
+ "main_item_ingr_eng": "Sevelamer Carbonate",
+ "edi_code": "652001351",
+ "atc_code": "V03AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110295",
+ "revisions": [
+  {
+   "revision_id": "201110295-07a13555",
+   "content_sha256": "07a13555a5578311df34a8073a07849d86e92d8374e3d499fe97a0ac2a4bd7ee",
+   "ee_text": "투석을 받고 있는 만성 신장질환 환자의 혈청 인 조절",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T13:31:05Z",
+   "last_observed_at": "2026-08-27T13:31:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:31:05Z"
+}

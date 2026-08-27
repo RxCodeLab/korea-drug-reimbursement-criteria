@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902137",
+ "item_name": "엑쎈코프에스연질캡슐",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20190408",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M204422]dl-메틸에페드린염산염|[M222957]덱스트로메토르판브롬화수소산염수화물|[M050058]구아이페네신",
+ "main_item_ingr_eng": "Acetaminophen/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate/Guaifenesin",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902137",
+ "revisions": [
+  {
+   "revision_id": "201902137-c31c2000",
+   "content_sha256": "c31c2000fc1b6a10b2d9e18fb83b07cc9f63c6f389d72429333eaadb582fe8fb",
+   "ee_text": "감기의 제증상(여러증상)(인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통) 의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:01:57Z",
+   "last_observed_at": "2026-08-27T13:01:57Z",
+   "official_revision_date": "2019-04-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:01:57Z"
+}

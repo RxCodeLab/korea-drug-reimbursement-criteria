@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606460",
+ "item_name": "안티푸라민하이드로24카타플라스마(록소프로펜나트륨수화물)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20161102",
+ "cancel_date": "20240711",
+ "status": "취하",
+ "main_item_ingr": "[M222839]록소프로펜나트륨수화물",
+ "main_item_ingr_eng": "Loxoprofen Sodium Hydrate",
+ "edi_code": "",
+ "atc_code": "M02AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606460",
+ "revisions": [
+  {
+   "revision_id": "201606460-ab6f535a",
+   "content_sha256": "ab6f535a4cc1d2b436264a24ce2795421172d2d233db3622727d9ccf343c89f1",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염): 퇴행성관절염(골(뼈)관절염), 근육통, 외상(상처)후의 종창(부기), 통증",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T12:15:17Z",
+   "last_observed_at": "2026-08-27T12:15:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:15:17Z"
+}

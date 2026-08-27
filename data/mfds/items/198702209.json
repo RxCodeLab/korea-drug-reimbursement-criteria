@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198702209",
+ "item_name": "자나팜정0.25밀리그램(알프라졸람)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "19871202",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M211313]알프라졸람",
+ "main_item_ingr_eng": "Alprazolam",
+ "edi_code": "651901730",
+ "atc_code": "N05BA12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198702209",
+ "revisions": [
+  {
+   "revision_id": "198702209-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T12:22:57Z",
+   "last_observed_at": "2026-08-27T12:22:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:22:57Z"
+}

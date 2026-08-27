@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201101493",
+ "item_name": "록스펜씨알정(록소프로펜나트륨)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20110318",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222839]록소프로펜나트륨수화물|[M222839]록소프로펜나트륨수화물",
+ "main_item_ingr_eng": "Loxoprofen Sodium Hydrate",
+ "edi_code": "648506510",
+ "atc_code": "M01AE19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101493",
+ "revisions": [
+  {
+   "revision_id": "201101493-65e5ab3a",
+   "content_sha256": "65e5ab3ad55b8f26e8fe38eae454a84f8a51f7e2aae081ce3bb364c37595e03d",
+   "ee_text": "다음 질환 및 증상의 소염ㆍ진통 : 만성 류마티스관절염, 골관절염(퇴행관절염), 요통, 견관절주위염, 경견완증후군",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201101493/EE",
+   "first_observed_at": "2026-08-27T12:14:51Z",
+   "last_observed_at": "2026-08-27T12:14:51Z"
+  },
+  {
+   "revision_id": "201101493-fc833f13",
+   "content_sha256": "fc833f13190186d5e6fc0c6a1730e37c78acba3d826c02e1c99dedda137bb0a9",
+   "ee_text": "(서방정) 다음 질환 및 증상의 소염ㆍ진통 : 만성 류마티스관절염, 골관절염(퇴행관절염), 요통, 견관절주위염, 경견완증후군",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:14:51Z",
+   "last_observed_at": "2026-08-27T12:14:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:14:51Z"
+}

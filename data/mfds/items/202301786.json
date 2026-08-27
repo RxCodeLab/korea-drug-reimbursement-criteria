@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301786",
+ "item_name": "셀트리온알로정25밀리그램(알로글립틴벤조산염)(수출용)",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20230608",
+ "cancel_date": "20260105",
+ "status": "취하",
+ "main_item_ingr": "[M115650]알로글립틴벤조산염",
+ "main_item_ingr_eng": "Alogliptin Benzoate",
+ "edi_code": "",
+ "atc_code": "A10BH04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301786",
+ "revisions": [
+  {
+   "revision_id": "202301786-de97640a",
+   "content_sha256": "de97640af053d6ed6abb32cace330e5c03d122c8055e76c29a0a8ce5e478f3f9",
+   "ee_text": "이 약은 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. -단독요법 -병용요법",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:26:33Z",
+   "last_observed_at": "2026-08-27T12:26:33Z",
+   "official_revision_date": "2023-06-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:26:33Z"
+}

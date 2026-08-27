@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109103",
+ "item_name": "카소덱스정(비칼루타미드)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20010926",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259016]비칼루타미드",
+ "main_item_ingr_eng": "Bicalutamide",
+ "edi_code": "650700510",
+ "atc_code": "L02BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109103",
+ "revisions": [
+  {
+   "revision_id": "200109103-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-27T13:45:30Z",
+   "last_observed_at": "2026-08-27T13:45:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:45:30Z"
+}

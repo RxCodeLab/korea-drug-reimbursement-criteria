@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906395",
+ "item_name": "락손필름코팅정150밀리그램(이데베논)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20190910",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070331]이데베논",
+ "main_item_ingr_eng": "Idebenone",
+ "edi_code": "",
+ "atc_code": "N06BX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906395",
+ "revisions": [
+  {
+   "revision_id": "201906395-e22175ed",
+   "content_sha256": "e22175ed64727f919faf697feb70d36115f3947b5b6540d32b75f6760732afda",
+   "ee_text": "청소년 및 성인의 레베르시신경병증(Leber’s Hereditary Optic Neuropathy, LHON)으로 인한 시각장애 치료",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T13:39:07Z",
+   "last_observed_at": "2026-08-27T13:39:07Z",
+   "official_revision_date": "2021-02-24"
+  },
+  {
+   "revision_id": "201906395-f34cc22d",
+   "content_sha256": "f34cc22d784137ad3d124788617e09774cd438e01f92ed62735671000384e38d",
+   "ee_text": "청소년･성인의 레베르시신경병증(Leber’s Hereditary Optic Neuropathy, LHON)으로 인한 시각장애 치료",
+   "ee_doc_id": "5",
+   "official_revision_date": "2019-10-29",
+   "first_observed_at": "2026-08-27T13:39:07Z",
+   "last_observed_at": "2026-08-27T13:39:07Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:39:07Z"
+}

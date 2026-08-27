@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601784",
+ "item_name": "피엠에스간시클로버주500밀리그램",
+ "entp_name": "파마사이언스코리아(주)",
+ "permit_date": "20260624",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090636]간시클로버",
+ "main_item_ingr_eng": "Ganciclovir",
+ "edi_code": "",
+ "atc_code": "J05AB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601784",
+ "revisions": [
+  {
+   "revision_id": "202601784-21e8fe5d",
+   "content_sha256": "21e8fe5dad04bbdf1142cfcd70192ef4c1debdf0d31b88ccb3aeb26af955daab",
+   "ee_text": "- 면역장애환자의 중증 CMV(Cytomegalovirus) 감염 질환의 치료 - 장기이식 후 약물유도성 면역억제환자의 CMV질환 예방 - 비면역장애환자나 신생아 또는 선천적인 CMV 감염에 대하여는 그 안전성과 유효성이 입증되지 않았다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:49:18Z",
+   "last_observed_at": "2026-08-27T13:49:18Z",
+   "official_revision_date": "2026-06-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:49:18Z"
+}

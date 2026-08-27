@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200909108",
+ "item_name": "제일쿨텍카타플라스마",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20091224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223254]티몰|[M222973]디펜히드라민염산염|[M204423]dl-캄파|[M279284]L-멘톨|[M203279]살리실산메틸",
+ "main_item_ingr_eng": "DL-Camphor/Diphenhydramine Hydrochloride/L-Menthol/Methyl Salicylate/Thymol",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200909108",
+ "revisions": [
+  {
+   "revision_id": "200909108-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200909108/EE",
+   "first_observed_at": "2026-08-27T12:29:47Z",
+   "last_observed_at": "2026-08-27T12:29:47Z"
+  },
+  {
+   "revision_id": "200909108-b7d9db5b",
+   "content_sha256": "b7d9db5b02c868d715ecfb077b9d5c2467c79d024b4d12467dea9f9407025639",
+   "ee_text": ": 삠, 타박상, 근육통, 관절통, 골(뼈)절통, 요(허리)통, 어깨결림, 신경통, 류마티스통증",
+   "ee_doc_id": "19",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:29:47Z",
+   "last_observed_at": "2026-08-27T12:29:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:47Z"
+}

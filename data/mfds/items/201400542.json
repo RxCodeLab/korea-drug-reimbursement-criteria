@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400542",
+ "item_name": "푸러펜정",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20140206",
+ "cancel_date": "20231025",
+ "status": "취하",
+ "main_item_ingr": "[M040614]클로르족사존|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Chlorzoxazone",
+ "edi_code": "",
+ "atc_code": "M03BB53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400542",
+ "revisions": [
+  {
+   "revision_id": "201400542-7f338428",
+   "content_sha256": "7f3384284d520c9f8fa9207e31d586c87668a69fecb79bf1edf2c505482b6b90",
+   "ee_text": "신경통, 근육통, 관절통, 요(허리)통, 염좌(삠)통, 견통(어깨결림, 어깨통증), 근경련(근육경련), 근경직 등 근육의 이상 긴장을 수반하는 제질환(여러 질환)",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T13:00:02Z",
+   "last_observed_at": "2026-08-27T13:00:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:00:02Z"
+}

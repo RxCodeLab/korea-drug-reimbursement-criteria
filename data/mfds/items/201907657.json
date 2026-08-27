@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907657",
+ "item_name": "터미졸외용액(테르비나핀염산염)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20191101",
+ "cancel_date": "20241101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M258362]테르비나핀염산염",
+ "main_item_ingr_eng": "Terbinafine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "D01AE15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907657",
+ "revisions": [
+  {
+   "revision_id": "201907657-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:44:08Z",
+   "last_observed_at": "2026-08-27T12:44:08Z",
+   "official_revision_date": "2019-11-01"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:44:08Z"
+}

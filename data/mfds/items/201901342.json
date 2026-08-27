@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901342",
+ "item_name": "모비졸로정2밀리그램(프루칼로프라이드숙신산염)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20190305",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255643]프루칼로프라이드숙신산염",
+ "main_item_ingr_eng": "Prucalopride Succinate",
+ "edi_code": "659901450",
+ "atc_code": "A06AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901342",
+ "revisions": [
+  {
+   "revision_id": "201901342-148fa858",
+   "content_sha256": "148fa858e4958a2a2f7c1464592f60db6876ad1ddffc490555e80daf875c75ee",
+   "ee_text": "완하제 투여로 증상완화에 실패한 성인에서 만성변비 증상의 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201901342/EE",
+   "first_observed_at": "2026-08-27T11:02:32Z",
+   "last_observed_at": "2026-08-27T11:02:32Z"
+  },
+  {
+   "revision_id": "201901342-f7193262",
+   "content_sha256": "f719326297736bcf8f6e85a35cc627e15e03cd6f7833300614d26ca2b4ffc376",
+   "ee_text": "신장이식 후 거부반응억제, 자가 면역 질환",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-03-05",
+   "first_observed_at": "2026-08-27T11:02:32Z",
+   "last_observed_at": "2026-08-27T11:02:32Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:02:32Z"
+}

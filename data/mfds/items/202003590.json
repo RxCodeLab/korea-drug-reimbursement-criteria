@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003590",
+ "item_name": "앰겔러티100밀리그램/밀리리터프리필드시린지주(갈카네주맙, 유전자재조합)",
+ "entp_name": "한국릴리(유)",
+ "permit_date": "20200518",
+ "cancel_date": "20240716",
+ "status": "취하",
+ "main_item_ingr": "[M270248]갈카네주맙",
+ "main_item_ingr_eng": "Galcanezumab",
+ "edi_code": "",
+ "atc_code": "N02CD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003590",
+ "revisions": [
+  {
+   "revision_id": "202003590-6fb57dc5",
+   "content_sha256": "6fb57dc560aa91b78c07fdccef57cda982d15cdb4f06bf209b4af2edf10e0913",
+   "ee_text": "간헐적 군발 두통 성인 환자에서 군발 기간 동안 군발 두통 발작의 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:03:29Z",
+   "last_observed_at": "2026-08-27T12:03:29Z",
+   "official_revision_date": "2020-05-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:03:29Z"
+}

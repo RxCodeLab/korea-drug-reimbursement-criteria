@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200409929",
+ "item_name": "알닥톤필름코팅정25밀리그람(스피로노락톤)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20060911",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099796]스피로노락톤",
+ "main_item_ingr_eng": "Spironolactone",
+ "edi_code": "648900610",
+ "atc_code": "C03DA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200409929",
+ "revisions": [
+  {
+   "revision_id": "200409929-ffa47bd5",
+   "content_sha256": "ffa47bd5149be343309a868fb053b85c6ee24d64f83063c1ae742bd96b8b77cd",
+   "ee_text": "고혈압(본태성, 신성등), 원발성알도스테론증, 저칼륨혈증, 심성부종(울혈성 심부전), 신성부종, 간성부종, 특발성부종",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T12:28:47Z",
+   "last_observed_at": "2026-08-27T12:28:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:28:47Z"
+}

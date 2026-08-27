@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200605371",
+ "item_name": "래피콜에이캡슐",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20060602",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M236913]제피아스코르브산|[M040133]리보플라빈|[M223262]티아민질산염|[M223183]카페인무수물|[M223211]클로르페니라민말레산염|[M204422]dl-메틸에페드린염산염|[M223273]티페피딘히벤즈산염|[M040417]에텐자미드|[M101061]향소산건조엑스(8->1)|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Ascorbic Acid Coated/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Ethenzamide/Hyangsosan Dried Extract (8→1)/Riboflavin/Thiamine Nitrate/Tipepidine Hibenzate",
+ "edi_code": "",
+ "atc_code": "R05DB20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605371",
+ "revisions": [
+  {
+   "revision_id": "200605371-5e4164e5",
+   "content_sha256": "5e4164e57d3ecc292a3be03dd36b94cdc6d58573043ed3d34042b673fcd235d9",
+   "ee_text": "감기의 제(여러)증상(콧물,코막힘,재채기,인후(목구멍)통,기침,가래,오한(춥고 떨리는 증상),발열,두통,관절통,근육통)의 완화",
+   "ee_doc_id": "29",
+   "first_observed_at": "2026-08-27T12:57:45Z",
+   "last_observed_at": "2026-08-27T12:57:45Z",
+   "official_revision_date": "2019-08-26"
+  },
+  {
+   "revision_id": "200605371-2dbbbc02",
+   "content_sha256": "2dbbbc02d7c71994ff9fee5c453cfa35ca40b46ee7c9a3b13c23dcdafed68164",
+   "ee_text": "감기의 제증상(콧물,코막힘,재채기,인후통,기침,가래,오한,발열,두통,관절통,근육통)의 완화",
+   "ee_doc_id": "23",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:57:45Z",
+   "last_observed_at": "2026-08-27T12:57:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:45Z"
+}

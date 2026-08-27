@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000589",
+ "item_name": "메가글리메트정1/250밀리그램",
+ "entp_name": "(주)엘앤씨바이오",
+ "permit_date": "20200204",
+ "cancel_date": "20240702",
+ "status": "취하",
+ "main_item_ingr": "[M086024]글리메피리드|[M244179]메트포르민염산염",
+ "main_item_ingr_eng": "Glimepiride/Metformin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A10BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000589",
+ "revisions": [
+  {
+   "revision_id": "202000589-e9ab61ec",
+   "content_sha256": "e9ab61ec8cf822f5f0047eb1021f18399ae5290367f21af8c0deb72ed726de2d",
+   "ee_text": "인슐린 비의존성 당뇨병(제2형)환자에서 식이요법 및 운동요법과 병행하여 - 글리메피리드 또는 메트포르민 단독요법으로 혈당조절효과가 불충분한 경우 - 글리메피리드와 메트포르민 병용요법의 대체",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:29:25Z",
+   "last_observed_at": "2026-08-27T13:29:25Z",
+   "official_revision_date": "2020-02-04"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:29:25Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006466",
+ "item_name": "크리스비타주사액20밀리그램(부로수맙,유전자재조합)",
+ "entp_name": "한국쿄와기린(주)",
+ "permit_date": "20200917",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279532]부로수맙",
+ "main_item_ingr_eng": "Burosumab",
+ "edi_code": "666300381",
+ "atc_code": "M05BX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006466",
+ "revisions": [
+  {
+   "revision_id": "202006466-142776d3",
+   "content_sha256": "142776d3f69c390913dcb29109219c6fa732d51e70da15b2150cef1dfb8b3e5f",
+   "ee_text": "FGF23 관련 저인산혈증성 구루병 및 골연화증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:08:24Z",
+   "last_observed_at": "2026-08-27T12:08:24Z",
+   "official_revision_date": "2020-09-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:08:24Z"
+}

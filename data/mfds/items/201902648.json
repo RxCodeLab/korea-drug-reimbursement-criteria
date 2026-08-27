@@ -12,15 +12,15 @@
  "edi_code": "621803610",
  "atc_code": "N03AX16",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902648",
+ "history_fetched_at": "2026-08-27T10:30:46Z",
  "revisions": [
   {
    "revision_id": "201902648-da7593b7",
    "content_sha256": "da7593b772338f572654a81f724a36333b163a8cd3a2e0e974ac142166ee28a8",
    "ee_text": "1. 성인에서 말초와 중추 신경병증성 통증의 치료 2. 뇌전증 성인에서 이차적 전신증상을 동반하거나 동반하지 않는 부분발작의 보조제 3. 섬유근육통의 치료",
-   "ee_doc_id": "11",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201902648/EE",
    "first_observed_at": "2026-08-27T10:30:46Z",
-   "last_observed_at": "2026-08-27T10:30:46Z",
-   "official_revision_date": "2023-11-14"
+   "last_observed_at": "2026-08-27T10:52:54Z"
   },
   {
    "revision_id": "201902648-b458b151",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T10:30:46Z",
    "last_observed_at": "2026-08-27T10:30:46Z"
   }
- ],
- "history_fetched_at": "2026-08-27T10:30:46Z"
+ ]
 }

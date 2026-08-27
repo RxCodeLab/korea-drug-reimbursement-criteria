@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200701033",
+ "item_name": "데파킨크로노정500밀리그램",
+ "entp_name": "(주)한독",
+ "permit_date": "20070124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070676]발프로산나트륨|[M083547]발프로산",
+ "main_item_ingr_eng": "Sodium Valproate/Valproic Acid",
+ "edi_code": "652100190",
+ "atc_code": "N03AG01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701033",
+ "revisions": [
+  {
+   "revision_id": "200701033-c5d4087e",
+   "content_sha256": "c5d4087eebb4b9f86f1e8fcf58574f70a6657ec48ac59d2a2dc297e295801a0b",
+   "ee_text": "단, 조증에 대하여 3주 이상 장기사용시 안전성·유효성은 체계적으로 확립되어있지 않으므로, 장기사용하는 경우에는 각 환자에 대한 유용성을 재평가하여 계속 투여 여부를 결정하여야 한다.",
+   "ee_doc_id": "34",
+   "first_observed_at": "2026-08-27T13:42:33Z",
+   "last_observed_at": "2026-08-27T13:42:33Z",
+   "official_revision_date": "2023-03-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:42:33Z"
+}

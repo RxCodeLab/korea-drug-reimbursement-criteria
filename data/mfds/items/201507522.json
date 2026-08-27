@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507522",
+ "item_name": "에디올정(수출용)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20151102",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M224167]에스트라디올반수화물|[M222945]노르에티스테론아세테이트",
+ "main_item_ingr_eng": "Estradiol Hemihydrate/Norethisterone Acetate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507522",
+ "revisions": [
+  {
+   "revision_id": "201507522-8b0f76c1",
+   "content_sha256": "8b0f76c1fb316161faba79136297a3c055471c6da9a06b0acd81d179370e67d9",
+   "ee_text": "폐경후 1년 이상된 여성의 에스트로겐 결핍증상에 대한 호르몬 대체요법, 폐경후 여성의 골다공증 예방",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T12:13:03Z",
+   "last_observed_at": "2026-08-27T12:13:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:13:03Z"
+}

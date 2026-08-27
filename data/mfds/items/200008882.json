@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008882",
+ "item_name": "시그마트주48밀리그램(니코란딜)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20001121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081543]니코란딜",
+ "main_item_ingr_eng": "Nicorandil",
+ "edi_code": "644901321",
+ "atc_code": "C01DX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008882",
+ "revisions": [
+  {
+   "revision_id": "200008882-4d673a33",
+   "content_sha256": "4d673a33b53596848ed2ee6f3b1192a814e540a33c6cd6431d44e885c3a6dd22",
+   "ee_text": "불안정형 협심증",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-27T12:03:37Z",
+   "last_observed_at": "2026-08-27T12:03:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:03:37Z"
+}

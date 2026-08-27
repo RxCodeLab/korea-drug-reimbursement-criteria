@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001381",
+ "item_name": "두타겟정(두타스테리드)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20200227",
+ "cancel_date": "20231024",
+ "status": "취하",
+ "main_item_ingr": "[M102694]두타스테리드",
+ "main_item_ingr_eng": "Dutasteride",
+ "edi_code": "",
+ "atc_code": "G04CB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001381",
+ "revisions": [
+  {
+   "revision_id": "202001381-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:21:09Z",
+   "last_observed_at": "2026-08-27T13:21:09Z",
+   "official_revision_date": "2020-02-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:21:09Z"
+}

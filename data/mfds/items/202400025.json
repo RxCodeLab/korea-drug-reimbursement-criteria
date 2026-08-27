@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400025",
+ "item_name": "트라케이듀오서방정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20240104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268745]리나글립틴(미분화)|[M244179]메트포르민염산염",
+ "main_item_ingr_eng": "Linagliptin Micronized/Metformin Hydrochloride",
+ "edi_code": "671707380",
+ "atc_code": "A10BD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400025",
+ "revisions": [
+  {
+   "revision_id": "202400025-8946655e",
+   "content_sha256": "8946655ee5636ce7e034c346f06c98ca0658e9c33ec880161411602c68949aa9",
+   "ee_text": "이 약은 리나글립틴과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:33:49Z",
+   "last_observed_at": "2026-08-27T13:33:49Z",
+   "official_revision_date": "2024-01-04"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:33:49Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301573",
+ "item_name": "영일세파드록실캡슐500mg(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20031029",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M083196]세파드록실",
+ "main_item_ingr_eng": "Cefadroxil",
+ "edi_code": "",
+ "atc_code": "J01DB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301573",
+ "revisions": [
+  {
+   "revision_id": "200301573-dc3f183f",
+   "content_sha256": "dc3f183fb999888cc7046111ca7a3e9c80550894393d96458da44c4be3b6bbfd",
+   "ee_text": "○ 유효균종 베타용혈성연쇄구균, 포도구균(페니실리나제 생성균 포함), 폐렴연쇄구균, 대장균, 프로테우스 미라빌리스, 클레브시엘라 ○ 적응증 - 신우신염, 방광염, 요도염 - 피부 및 피부조직 감염증 - 인두염, 편도염",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-27T12:33:15Z",
+   "last_observed_at": "2026-08-27T12:33:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:15Z"
+}

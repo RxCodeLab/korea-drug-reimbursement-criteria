@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302574",
+ "item_name": "록스파인정(록소프로펜나트륨수화물)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20030724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222839]록소프로펜나트륨수화물",
+ "main_item_ingr_eng": "Loxoprofen Sodium Hydrate",
+ "edi_code": "669901120",
+ "atc_code": "M01AE",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302574",
+ "revisions": [
+  {
+   "revision_id": "200302574-2b0868d3",
+   "content_sha256": "2b0868d36d03bd2897b78290adb12f528b4fc39f9d7ebf127cb5a7b2d811ec97",
+   "ee_text": "만성 류마티스관절염, 골관절염(퇴행관절염), 요통, 견관절주위염, 경견완증후군 급성 상기도염(급성기관지염을 수반한 급성 상기도염을 포함)",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-27T12:14:34Z",
+   "last_observed_at": "2026-08-27T12:14:34Z",
+   "official_revision_date": "2011-12-29"
+  },
+  {
+   "revision_id": "200302574-781ce5a8",
+   "content_sha256": "781ce5a8a63950391218681c42245fb781a9d3b6b2dfd1da63a91ae88a540e30",
+   "ee_text": "만성관절류마티스, 변형성관절증, 요통, 견관절주위염, 경견완증후군 급성상기도염(급성기관지염을 수반한 급성상기도염을 포함)",
+   "ee_doc_id": "17",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:14:34Z",
+   "last_observed_at": "2026-08-27T12:14:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:14:34Z"
+}

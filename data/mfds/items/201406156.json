@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201406156",
+ "item_name": "디아세론캡슐50밀리그램(디아세레인)",
+ "entp_name": "진양제약(주)",
+ "permit_date": "20141230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082697]디아세레인",
+ "main_item_ingr_eng": "Diacerein",
+ "edi_code": "650303270",
+ "atc_code": "M01AX21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406156",
+ "revisions": [
+  {
+   "revision_id": "201406156-bfacd1d0",
+   "content_sha256": "bfacd1d09cd3710774287fdab7fe0d67db98db4b7a762ac99fdcd0cbc13e5b70",
+   "ee_text": "골(고관절, 슬관절)관절염(관절증, 퇴행성 관절질환)",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T12:37:08Z",
+   "last_observed_at": "2026-08-27T12:37:08Z",
+   "official_revision_date": "2019-12-16"
+  },
+  {
+   "revision_id": "201406156-fd9a2cba",
+   "content_sha256": "fd9a2cbae1be268c1931e147d9c8cf68dedd78d9d17d38c705dfd5916a331800",
+   "ee_text": "골관절염(관절증, 퇴행성 관절질환)",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:37:08Z",
+   "last_observed_at": "2026-08-27T12:37:08Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:37:08Z"
+}

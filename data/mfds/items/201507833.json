@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "N03AX12",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507833",
+ "history_fetched_at": "2026-08-27T10:25:57Z",
  "revisions": [
   {
    "revision_id": "201507833-21104817",
    "content_sha256": "21104817ba2fe54c59ad96af724c8732a79c23bb1bb54ff8e9a77c1dabc1dd9e",
    "ee_text": "- 단독요법(새롭게 발작으로 진단된 환자의 치료 포함): 만 13세 이상 소아 혹은 성 인에서의 2차적 전신증상을 동반하거나 동반하지 않은 단순/복합 부분발작 - 부가요법: 만 3세 이상 소아 혹은 성인에서의 2차적 전신증상을 동반하거나 동반 하지 않은 부분발작",
-   "ee_doc_id": "13",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201507833/EE",
    "first_observed_at": "2026-08-27T10:25:57Z",
-   "last_observed_at": "2026-08-27T10:25:57Z",
-   "official_revision_date": "2023-12-18"
+   "last_observed_at": "2026-08-27T10:51:35Z"
   },
   {
    "revision_id": "201507833-e208e7b0",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T10:25:57Z",
    "last_observed_at": "2026-08-27T10:25:57Z"
   }
- ],
- "history_fetched_at": "2026-08-27T10:25:57Z"
+ ]
 }

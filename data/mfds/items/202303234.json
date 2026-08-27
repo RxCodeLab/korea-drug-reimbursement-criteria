@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303234",
+ "item_name": "아프로바스크정150/10밀리그램(이르베사르탄,암로디핀베실산염)",
+ "entp_name": "(주)한독",
+ "permit_date": "20231128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251853]이르베사르탄|[M222875]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate/Irbesartan",
+ "edi_code": "652105920",
+ "atc_code": "C09DB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303234",
+ "revisions": [
+  {
+   "revision_id": "202303234-5afd4bfe",
+   "content_sha256": "5afd4bfe60f23e08e2fe6e3a40dd3ec832940c1ec503ca2fd230c7f20c773720",
+   "ee_text": "이르베사르탄 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:43:54Z",
+   "last_observed_at": "2026-08-27T13:43:54Z",
+   "official_revision_date": "2023-11-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:43:54Z"
+}

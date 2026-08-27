@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201406034",
+ "item_name": "싹펜정",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20141223",
+ "cancel_date": "20241223",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223015]DL-메티오닌|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/DL-Methionine",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406034",
+ "revisions": [
+  {
+   "revision_id": "201406034-ca3b8de2",
+   "content_sha256": "ca3b8de23ff09a9038dc8518986edd7c7d8fc14dc7161af39fcbec3e9befc905",
+   "ee_text": "두통, 치통, 관절통, 신경통, 근육통, 염좌통(삔 통증), 월경통(생리통)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201406034/EE",
+   "first_observed_at": "2026-08-27T13:00:24Z",
+   "last_observed_at": "2026-08-27T13:00:24Z"
+  },
+  {
+   "revision_id": "201406034-fc6cd8f6",
+   "content_sha256": "fc6cd8f6e6e8410712173174531ffba89ebe4eee2dae6d700699aa15f4b7e4dd",
+   "ee_text": "- 두통, 치통, 발치(이를 뽑음)후 동통(통증), 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요(허리)통, 근육통, 견통(어깨통증), 타박통, 골절통, 염좌통(삔 통증), 월경통(생리통), 외상(상처)통의 진통 - 오한(춥고 떨리는 증상), 발열시의 해열",
+   "ee_doc_id": "7",
+   "official_revision_date": "2019-12-24",
+   "first_observed_at": "2026-08-27T13:00:24Z",
+   "last_observed_at": "2026-08-27T13:00:24Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:00:24Z"
+}

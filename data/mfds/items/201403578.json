@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403578",
+ "item_name": "악템라피하주사162밀리그램(토실리주맙)(유전자재조합)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20140731",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254335]토실리주맙(숙주:CHO DXB11, 벡터:phPM1HL2, 종세포주:CHO V4)|[M254335]토실리주맙(숙주:CHO DXB11, 벡터:phPM1HL2, 종세포주:CHO V4)",
+ "main_item_ingr_eng": "Tocilizumab (Host: CHO DXB11, Vector:phPM1HL2, Sub Host: CHO V4)",
+ "edi_code": "644913761,644913762",
+ "atc_code": "L04AC07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403578",
+ "revisions": [
+  {
+   "revision_id": "201403578-fb603893",
+   "content_sha256": "fb603893010f2f2c427f73a520061690a83bb787fc2c90ccc9402b015b78b76d",
+   "ee_text": "- 메토트렉세이트(MTX)를 포함한 이전에 한 가지 이상의 DMARDs에 대한 반응이 충분하지 않거나 내약성이 없는 중등도 내지 중증의 활동성 류마티스 관절염의 치료 - 메토트렉세이트와의 병용투여 시 관절손상 진행속도의 감소(X-선 측정결과)와 신체 기능의 향상",
+   "ee_doc_id": "27",
+   "first_observed_at": "2026-08-27T11:58:10Z",
+   "last_observed_at": "2026-08-27T11:58:10Z",
+   "official_revision_date": "2020-08-13"
+  },
+  {
+   "revision_id": "201403578-9b1362ac",
+   "content_sha256": "9b1362ac6cbc115401dc4e63c81417df62016ab1553148fd269933129c3b0f7a",
+   "ee_text": "-메토트렉세이트(MTX)를 포함한 이전에 한 가지 이상의 DMARDs에 대한 반응이 충분하지 않거나 내약성이 없는 성인의 중등도 내지 중증의 활동성 류마티스 관절염의 치료 -메토트렉세이트와의 병용투여 시 관절손상 진행속도의 감소(X-선 측정결과)와 신체 기능의 향상",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T11:58:10Z",
+   "last_observed_at": "2026-08-27T11:58:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:58:10Z"
+}

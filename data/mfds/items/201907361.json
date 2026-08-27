@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907361",
+ "item_name": "팜스로신서방캡슐0.2mg(탐스로신염산염)",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20191021",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M241531]탐스로신염산염",
+ "main_item_ingr_eng": "Tamsulosin Hydrochloride",
+ "edi_code": "690301860",
+ "atc_code": "G04CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907361",
+ "revisions": [
+  {
+   "revision_id": "201907361-0747867b",
+   "content_sha256": "0747867b0dc6df1e1a84615fada25aefd3386ec3c82fbe8af46fc82ae103189f",
+   "ee_text": "양성 전립샘비대증에 따른 배뇨장애",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201907361/EE",
+   "first_observed_at": "2026-08-27T13:23:15Z",
+   "last_observed_at": "2026-08-27T13:23:15Z"
+  },
+  {
+   "revision_id": "201907361-9b651bf3",
+   "content_sha256": "9b651bf3489998c0874570ede58a1ab98bcfa9779b4f1ff750f7d4da08339f28",
+   "ee_text": "흰색-미황색의 펠렛을 함유한 상의 살구색, 하의 흰색의 캡슐제",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-10-21",
+   "first_observed_at": "2026-08-27T13:23:15Z",
+   "last_observed_at": "2026-08-27T13:23:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:23:15Z"
+}

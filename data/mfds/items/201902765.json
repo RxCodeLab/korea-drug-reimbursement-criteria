@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902765",
+ "item_name": "탐스로진서방정0.2밀리그램(탐스로신염산염)",
+ "entp_name": "익수제약(주)",
+ "permit_date": "20190429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243979]탐스로신염산염",
+ "main_item_ingr_eng": "Tamsulosin Hydrochloride",
+ "edi_code": "658502130",
+ "atc_code": "G04CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902765",
+ "revisions": [
+  {
+   "revision_id": "201902765-f0eaf7dc",
+   "content_sha256": "f0eaf7dc3f8340f30366889615d8c88324b0ec33aeed64f9030c95c995412f06",
+   "ee_text": "양성 전립비대증에 따른 배뇨장애",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:16:29Z",
+   "last_observed_at": "2026-08-27T13:16:29Z",
+   "official_revision_date": "2019-04-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:16:29Z"
+}

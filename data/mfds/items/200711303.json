@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711303",
+ "item_name": "루프린디피에스주3.75밀리그램(류프로렐린아세트산염)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20071012",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M239038]류프로렐린아세트산염|[M099196]주사침",
+ "main_item_ingr_eng": "Leuprorelin Acetate/Needle",
+ "edi_code": "696300391",
+ "atc_code": "L02AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711303",
+ "revisions": [
+  {
+   "revision_id": "200711303-ee4a3b1b",
+   "content_sha256": "ee4a3b1b3ffaff20f1207e202bc53b3bd5ade27b4279df13199af645aa0f1b3c",
+   "ee_text": "1. 자궁내막증 2. 과다월경, 하복통, 요통 및 빈혈 등을 수반한 자궁근종에서 근종핵의 축소 및 증상의 개선 (이 제제는 체중이 무거운 환자, 자궁종대가 고도인 환자에 한함) 3. 전립선암 4. 폐경전 유방암 5. 중추성 사춘기 조발증",
+   "ee_doc_id": "22",
+   "first_observed_at": "2026-08-27T12:44:21Z",
+   "last_observed_at": "2026-08-27T12:44:21Z",
+   "official_revision_date": "2018-12-27"
+  },
+  {
+   "revision_id": "200711303-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "21",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:44:21Z",
+   "last_observed_at": "2026-08-27T12:44:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:44:21Z"
+}

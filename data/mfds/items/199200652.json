@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199200652",
+ "item_name": "제일제약디클로페낙나트륨주사액",
+ "entp_name": "(주)제일제약",
+ "permit_date": "19920108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050288]디클로페낙나트륨",
+ "main_item_ingr_eng": "Diclofenac Sodium",
+ "edi_code": "650500521",
+ "atc_code": "M01AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200652",
+ "revisions": [
+  {
+   "revision_id": "199200652-71939b06",
+   "content_sha256": "71939b069f15e350c06c2bccf17e47b19df4a0c483a3ed310d98eaff12c7f19a",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 수술후 . 외상후 염증 및 동통, 급성통풍, 신 및 간산통",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199200652/EE",
+   "first_observed_at": "2026-08-27T12:41:15Z",
+   "last_observed_at": "2026-08-27T12:41:15Z"
+  },
+  {
+   "revision_id": "199200652-220317f9",
+   "content_sha256": "220317f9305a306a087396a10be4fe31683d37090e04afb537c1882ce89f364e",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염 수술후 . 외상후 염증 및 동통, 급성통풍, 비관절성 류마티즘, 요통, 치통, 월경곤란증, 이비인후 영역의 염증 및 동통, 견관절 주위염 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 수술후 . 외상후 염증 및 동통, 급성통풍, 신 및 간산통 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염 수술후 . 외상후 염증 및 동통, 비관절성 류마티즘, 견관절 주위염",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:41:15Z",
+   "last_observed_at": "2026-08-27T12:41:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:41:15Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508231",
+ "item_name": "에나스틴정(에피나스틴염산염)",
+ "entp_name": "(주)휴비스트제약",
+ "permit_date": "20151211",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256607]에피나스틴염산염",
+ "main_item_ingr_eng": "Epinastine Hydrochloride",
+ "edi_code": "628800680",
+ "atc_code": "R06AX24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508231",
+ "revisions": [
+  {
+   "revision_id": "201508231-1037b837",
+   "content_sha256": "1037b8377a1a4ff947d1953d874aa52e53f1f8e10ecd22b76401df9662e3c8a4",
+   "ee_text": "1. 기관지천식 2. 알레르기비염 3. 두드러기, 습진ㆍ피부염, 피부가려움, 가려움발진(痒疹), 가려움을 동반한 보통건선",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T13:08:37Z",
+   "last_observed_at": "2026-08-27T13:08:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:08:37Z"
+}

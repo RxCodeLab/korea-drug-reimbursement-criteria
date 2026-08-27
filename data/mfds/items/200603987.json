@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603987",
+ "item_name": "비다자주100밀리그램(아자시티딘)",
+ "entp_name": "(유)한국비엠에스제약",
+ "permit_date": "20060127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M248237]아자시티딘",
+ "main_item_ingr_eng": "Azacitidine",
+ "edi_code": "658700931",
+ "atc_code": "L01BC07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603987",
+ "revisions": [
+  {
+   "revision_id": "200603987-9bafb60d",
+   "content_sha256": "9bafb60d09ebb21bd819dfe34eb9e6503d296d8e71bdf9cf376679c61ff93097",
+   "ee_text": "다음과 같은 환자의 치료; 불응성빈혈(RA), 환상철적모구가 있는 불응성빈혈(RARS)(호중구 감소증이나 혈소판 감소증을 수반하거나 수혈이 요구될 때), 골수아구 과잉 불응성빈혈(RAEB)",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-27T13:46:57Z",
+   "last_observed_at": "2026-08-27T13:46:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:46:57Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903078",
+ "item_name": "아이누리점안액0.1%(히알루론산나트륨)(1회용)",
+ "entp_name": "(주)킵스바이오파마",
+ "permit_date": "20190513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222910]히알루론산나트륨",
+ "main_item_ingr_eng": "Sodium Hyaluronate",
+ "edi_code": "693202051",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903078",
+ "revisions": [
+  {
+   "revision_id": "201903078-ff090829",
+   "content_sha256": "ff09082944a4dd0f05c8dec266e788e953d80f6975dde702020396a6a91d7b6c",
+   "ee_text": "- 쇼그렌증후군, 피부점막안증후군(스티븐스-존슨증후군), 건성안증후군과 같은 내인성 질환 - 수술 후, 약제성, 외상, 콘텍트렌즈 착용 등에 의한 외인성 질환",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:05:22Z",
+   "last_observed_at": "2026-08-27T11:05:22Z",
+   "official_revision_date": "2019-05-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:05:22Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201300035",
+ "item_name": "화이투벤큐코프연질캡슐",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20130103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250460]트리프롤리딘염산염수화물|[M223470]노스카핀염산염수화물|[M222957]덱스트로메토르판브롬화수소산염수화물|[M050058]구아이페네신|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Dextromethorphan Hydrobromide Hydrate/Guaifenesin/Noscapine Hydrochloride Hydrate/Triprolidine Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300035",
+ "revisions": [
+  {
+   "revision_id": "201300035-caf21171",
+   "content_sha256": "caf21171efa2acaa522d6648a00a94a032671aedf15a25de08d009366348abe3",
+   "ee_text": "감기의 제증상(여러증상)(콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T12:59:38Z",
+   "last_observed_at": "2026-08-27T12:59:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:59:38Z"
+}

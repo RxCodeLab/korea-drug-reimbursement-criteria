@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302521",
+ "item_name": "탐부틴정200밀리그램(트리메부틴말레산염)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20030314",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252787]트리메부틴말레산염|[M252787]트리메부틴말레산염|[M252787]트리메부틴말레산염|[M252787]트리메부틴말레산염",
+ "main_item_ingr_eng": "Trimebutine Maleate",
+ "edi_code": "",
+ "atc_code": "A03AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302521",
+ "revisions": [
+  {
+   "revision_id": "200302521-dbc34ed9",
+   "content_sha256": "dbc34ed935b85f275d125306ce0e00bd934aa4c926cdfa6c745d9034fbb1f9bc",
+   "ee_text": "1) 식도역류 및 열공헤르니아 , 위 십이지장염, 위 십이지장궤양에 있어서의 소화기능이상 (복통, 소화불량,구역, 구토) 2) 과민성대장증후군 및 경련성 결장 3) 소아 질환 : 습관성 구토, 비감염성 장관통과장애 (변비, 설사)",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-27T13:40:49Z",
+   "last_observed_at": "2026-08-27T13:40:49Z",
+   "official_revision_date": "2020-09-30"
+  },
+  {
+   "revision_id": "200302521-a75c6c0c",
+   "content_sha256": "a75c6c0cce697cfa3024192ee14662b3d82afd98dd1f737173dd7460abfd249e",
+   "ee_text": "1) 식도역류 및 열공헤르니아 , 위 십이지장염, 위 십이지장궤양에 있어서의 소화기능이상 (복통, 소화불량,구역, 구토) 2) 과민성대장증후군 및 경련성 결장 3) 소아 질환 : 습관성 구토, 비감염성 장관통과장애 (변비, 설사), 동요자극, 수면장애",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:40:49Z",
+   "last_observed_at": "2026-08-27T13:40:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:40:49Z"
+}

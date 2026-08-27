@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502350",
+ "item_name": "유제디투엠주250밀리그램(리스페리돈)",
+ "entp_name": "(주)한독테바",
+ "permit_date": "20250905",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086310]리스페리돈",
+ "main_item_ingr_eng": "Risperidone",
+ "edi_code": "",
+ "atc_code": "N05AX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502350",
+ "revisions": [
+  {
+   "revision_id": "202502350-2c076aea",
+   "content_sha256": "2c076aea2f1a90ed1e7339d964186bab28234c13e5138c20bdf4d3c381e3a69e",
+   "ee_text": "성인에서의 조현병 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:47:42Z",
+   "last_observed_at": "2026-08-27T12:47:42Z",
+   "official_revision_date": "2025-09-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:47:42Z"
+}

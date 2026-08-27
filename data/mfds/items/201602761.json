@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602761",
+ "item_name": "뉴로살정(로사르탄칼륨)",
+ "entp_name": "안국뉴팜(주)",
+ "permit_date": "20160519",
+ "cancel_date": "20260519",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M249673]로사르탄칼륨",
+ "main_item_ingr_eng": "Losartan Potassium",
+ "edi_code": "",
+ "atc_code": "C09CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602761",
+ "revisions": [
+  {
+   "revision_id": "201602761-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T13:07:32Z",
+   "last_observed_at": "2026-08-27T13:07:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:07:32Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601487",
+ "item_name": "아보타정0.5/5밀리그램(두타스테리드,타다라필)(수출용)",
+ "entp_name": "주식회사 노바엠헬스케어",
+ "permit_date": "20260521",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102694]두타스테리드|[M254919]타다라필",
+ "main_item_ingr_eng": "Dutasteride/Tadalafil",
+ "edi_code": "",
+ "atc_code": "G04CB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601487",
+ "revisions": [
+  {
+   "revision_id": "202601487-a63f143a",
+   "content_sha256": "a63f143ab007e22bc7b19c70ffd8750ff761322878fdcde0987c90f16f6ecf44",
+   "ee_text": "중등도~중증의 양성 전립선 비대증 증상의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:21:24Z",
+   "last_observed_at": "2026-08-27T13:21:24Z",
+   "official_revision_date": "2026-05-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:21:24Z"
+}

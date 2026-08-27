@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300413",
+ "item_name": "리나틴플러스정2.5/850밀리그램",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20230131",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252996]리나글립틴|[M244179]메트포르민염산염",
+ "main_item_ingr_eng": "Linagliptin/Metformin Hydrochloride",
+ "edi_code": "645406430",
+ "atc_code": "A10BD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300413",
+ "revisions": [
+  {
+   "revision_id": "202300413-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:33:48Z",
+   "last_observed_at": "2026-08-27T13:33:48Z",
+   "official_revision_date": "2023-01-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:33:48Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201104756",
+ "item_name": "키벡사정",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20110728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M262968]아바카비르황산염|[M086332]라미부딘",
+ "main_item_ingr_eng": "Abacavir Sulfate/Lamivudine",
+ "edi_code": "650002840",
+ "atc_code": "J05AR02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104756",
+ "revisions": [
+  {
+   "revision_id": "201104756-256a3834",
+   "content_sha256": "256a38347cb999457d70fdb0d417aed149a3f8a1fc87004995b9979cfed95138",
+   "ee_text": "다른 항레트로바이러스제와 병용하여 HIV의 감염 치료",
+   "ee_doc_id": "27",
+   "first_observed_at": "2026-08-27T13:41:30Z",
+   "last_observed_at": "2026-08-27T13:41:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:41:30Z"
+}

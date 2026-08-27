@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301966",
+ "item_name": "클록펜정",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "20030603",
+ "cancel_date": "20230920",
+ "status": "취하",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M040614]클로르족사존",
+ "main_item_ingr_eng": "Acetaminophen/Chlorzoxazone",
+ "edi_code": "",
+ "atc_code": "M03BB53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301966",
+ "revisions": [
+  {
+   "revision_id": "200301966-0c144e51",
+   "content_sha256": "0c144e517c806ccf1f939a24da15805af9cc0c3d5e1eef2838865f9549d058a4",
+   "ee_text": "신경통, 근육통, 관절통, 요통, 염좌통, 견통, 근경련, 근경직 등 근육의 이상 긴장을 수반하는 제질환",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-27T12:57:27Z",
+   "last_observed_at": "2026-08-27T12:57:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:27Z"
+}

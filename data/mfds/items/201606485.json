@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606485",
+ "item_name": "졸피신정5밀리그램(졸피뎀타르타르산염)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20161104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M239566]졸피뎀타르타르산염",
+ "main_item_ingr_eng": "Zolpidem Tartrate",
+ "edi_code": "651904470",
+ "atc_code": "N05CF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606485",
+ "revisions": [
+  {
+   "revision_id": "201606485-f89f82c3",
+   "content_sha256": "f89f82c3a1a5c5e56e61e700a48ecb5cf3be33e170b6676389218c69e84e27da",
+   "ee_text": "성인에서의 불면증의 단기 치료",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-27T12:30:44Z",
+   "last_observed_at": "2026-08-27T12:30:44Z",
+   "official_revision_date": "2020-03-17"
+  },
+  {
+   "revision_id": "201606485-f0abecb3",
+   "content_sha256": "f0abecb3c0101bb8c9e47018d5032d3e0f17511d8e8bd5fb98b7a1bc85439d22",
+   "ee_text": "불면증의 단기 치료",
+   "ee_doc_id": "13",
+   "official_revision_date": "2018-12-26",
+   "first_observed_at": "2026-08-27T12:30:44Z",
+   "last_observed_at": "2026-08-27T12:30:44Z"
+  },
+  {
+   "revision_id": "201606485-810bee3a",
+   "content_sha256": "810bee3a89d53af93cf40ba47acc59c120362613e7aa01b1a9a88126f7bf57e9",
+   "ee_text": "불면증",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:30:44Z",
+   "last_observed_at": "2026-08-27T12:30:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:30:44Z"
+}

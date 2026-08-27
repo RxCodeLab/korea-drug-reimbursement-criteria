@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601656",
+ "item_name": "팜콜드코프연질캡슐",
+ "entp_name": "(주)서흥",
+ "permit_date": "20260611",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M050058]구아이페네신|[M222890]클로페라스틴염산염|[M223062]브롬헥신염산염|[M220819]L-카르보시스테인",
+ "main_item_ingr_eng": "Acetaminophen/Bromhexine Hydrochloride/Cloperastine Hydrochloride/Guaifenesin/L-Carbocisteine",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601656",
+ "revisions": [
+  {
+   "revision_id": "202601656-c9aae9ca",
+   "content_sha256": "c9aae9ca1a922ce33a8396bcd628900c3a73166fe8713ae2eabaafd721fe5ebd",
+   "ee_text": "감기의 제증상(여러증상) (인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:06:13Z",
+   "last_observed_at": "2026-08-27T13:06:13Z",
+   "official_revision_date": "2026-06-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:06:13Z"
+}

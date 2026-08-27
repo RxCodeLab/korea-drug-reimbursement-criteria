@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801644",
+ "item_name": "아픽큐정5밀리그램(아픽사반)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20180416",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253531]아픽사반",
+ "main_item_ingr_eng": "Apixaban",
+ "edi_code": "645306100",
+ "atc_code": "B01AF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801644",
+ "revisions": [
+  {
+   "revision_id": "201801644-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:02:39Z",
+   "last_observed_at": "2026-08-27T12:02:39Z",
+   "official_revision_date": "2018-04-16"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:02:39Z"
+}

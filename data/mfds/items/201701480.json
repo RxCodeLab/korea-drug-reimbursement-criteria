@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701480",
+ "item_name": "로피바인주사7.5mg/mL(로피바카인염산염수화물)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20170328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251739]로피바카인염산염수화물",
+ "main_item_ingr_eng": "Ropivacaine Hydrochloride Hydrate",
+ "edi_code": "665002291",
+ "atc_code": "N01BB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701480",
+ "revisions": [
+  {
+   "revision_id": "201701480-fb9b2665",
+   "content_sha256": "fb9b2665cb40ade74f612feeeef028675c55d621c757593c484724f1163b02c8",
+   "ee_text": "제왕절개를 포함한 수술시 경막외 마취, 전달마취, 침윤마취 수술 후 통증 또는 출산 통증시 연속적인 경막외 점적주사 또는 간헐적 단발투여, 전달마취, 침윤마취, 수술 후 통증시 말초신경마취를 위한 연속적인 점적주사 또는 간헐적 주사",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T13:27:32Z",
+   "last_observed_at": "2026-08-27T13:27:32Z",
+   "official_revision_date": "2025-11-24"
+  },
+  {
+   "revision_id": "201701480-3ab65e00",
+   "content_sha256": "3ab65e005edfb61a5e49ed49c39365ced60b946bfcc2b87fb3d8adf496aaf06c",
+   "ee_text": "제왕절개를 포함한 수술시 경막외 마취, 전달마취, 침윤마취 수술 후 통증 또는 출산 통증시 연속적인 경막외 점적주사 또는 간헐적 단발투여, 전달마취, 침윤마취, 수술 후 통증시 말초신경마취를 위한 연속적인 점적주사 또는 간헐적 정맥주사",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:27:32Z",
+   "last_observed_at": "2026-08-27T13:27:32Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:32Z"
+}

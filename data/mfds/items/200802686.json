@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200802686",
+ "item_name": "버물리키드크림",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20080311",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256386]글리시리진산이칼륨|[M223240]토코페롤아세테이트|[M082390]덱스판테놀|[M040108]디펜히드라민",
+ "main_item_ingr_eng": "Dexpanthenol/Diphenhydramine/Dipotassium Glycyrrhizinate/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "D04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802686",
+ "revisions": [
+  {
+   "revision_id": "200802686-193c3852",
+   "content_sha256": "193c3852b134a79ad91962a94c927220afe10a2117b2d88790e824c5278bf2b5",
+   "ee_text": "가려움, 피부염, 습진, 두드러기, 땀띠, 동상, 벌레 물림, 짓무름",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:29:41Z",
+   "last_observed_at": "2026-08-27T12:29:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:41Z"
+}

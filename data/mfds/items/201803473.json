@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803473",
+ "item_name": "리바그론패취5(리바스티그민)",
+ "entp_name": "(주)다산제약",
+ "permit_date": "20180827",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M220029]리바스티그민",
+ "main_item_ingr_eng": "Rivastigmine",
+ "edi_code": "",
+ "atc_code": "N06DA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803473",
+ "revisions": [
+  {
+   "revision_id": "201803473-1b4aa252",
+   "content_sha256": "1b4aa252b2037db128cfbf9c9c991a2fd97047b96664aaaf9cdc08e434810eec",
+   "ee_text": "경도 내지 중등도의 알츠하이머형 치매 또는 파킨슨병과 관련된 치매의 대증적 치료 중증 알츠하이머형 치매의 대증적 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:18:38Z",
+   "last_observed_at": "2026-08-27T13:18:38Z",
+   "official_revision_date": "2018-08-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:18:38Z"
+}

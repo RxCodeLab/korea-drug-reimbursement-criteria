@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200803300",
+ "item_name": "실로덱스점이현탁액",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20080325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040080]덱사메타손|[M223091]시프로플록사신염산염수화물",
+ "main_item_ingr_eng": "Ciprofloxacin Hydrochloride Hydrate/Dexamethasone",
+ "edi_code": "653603041",
+ "atc_code": "S02CA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803300",
+ "revisions": [
+  {
+   "revision_id": "200803300-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T13:22:25Z",
+   "last_observed_at": "2026-08-27T13:22:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:22:25Z"
+}

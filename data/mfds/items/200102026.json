@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200102026",
+ "item_name": "듀로자이드정",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20010313",
+ "cancel_date": "20240701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M099796]스피로노락톤|[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Spironolactone",
+ "edi_code": "",
+ "atc_code": "C03EA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102026",
+ "revisions": [
+  {
+   "revision_id": "200102026-4c6d99bb",
+   "content_sha256": "4c6d99bbfceb81f35f607561f4114e6852750bebb149f202c85456410591169e",
+   "ee_text": "1)울혈성심부전 ①다른 치료방법에 대하여 충분한 반응을 나타내지 못하거나 불내성인 부종 및 나트륨저류증상. ②다른 치료방법이 부적절한 울혈성 심부전 환자에서의 이뇨제에 의한 저칼륨혈증 ③다른 치료방법이 불충분하거나 부적절하여 디기탈리스를 투여받고 있는 울혈성심부전 환자. 2)부종 및 복수를 수반하는 간경변 이 경우 알도스테론치는 예외적으로 높을 수 있다. 이 약은 휴식과 더불어 수분과 나트륨 섭취를 제한하면서 유지요법으로 사용한다. 3) 신증후군 원질환의 치료, 수분 ㆍ 나트륨의 섭취제한 및 다른 이뇨제 사용 등이 충분한 반응을 나타내지 못하는 신증. 1) 다른 치료방법이 불충분하거나 부적절한 본태성고혈압. 2) 다른 치료방법이 부적절한 이뇨제에 기인한 저카륨혈증이 있는 고혈압.",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T12:28:46Z",
+   "last_observed_at": "2026-08-27T12:28:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:28:46Z"
+}

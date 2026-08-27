@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200607910",
+ "item_name": "파마파록세틴정20밀리그램(파록세틴염산염수화물)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20060726",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222896]파록세틴염산염수화물",
+ "main_item_ingr_eng": "Paroxetine Hydrochloride Hydrate",
+ "edi_code": "653003600",
+ "atc_code": "N06AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607910",
+ "revisions": [
+  {
+   "revision_id": "200607910-43a7a928",
+   "content_sha256": "43a7a928c7688d8b0bb751cd010a8ca42885acad2af242ec2121a08a40c367ec",
+   "ee_text": "1. 주요우울증 2. 강박장애 3. 공황장애 4. 범불안장애(GAD) 5. 외상후 스트레스장애(PTSD) 6. 사회불안장애/사회공포증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200607910/EE",
+   "first_observed_at": "2026-08-27T12:28:31Z",
+   "last_observed_at": "2026-08-27T12:28:31Z"
+  },
+  {
+   "revision_id": "200607910-6ac572b1",
+   "content_sha256": "6ac572b1bbcf8add4ecec02af6deb3bea66636ed6c77a7dcbe259540cee23f54",
+   "ee_text": "불안을 수반하는 우울증을 포함하여 모든 형태의 우울성 질환의 치료 및 재발억제, 강박장애의 치료 및 재발억제, 공황장애의 치료 및 재발 억제, 범불안장애(GAD)의 치료 및 재발 억제, 외상후 스트레스장애(PTSD)의 치료, 사회불안장애/사회공포증의 치료",
+   "ee_doc_id": "17",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:28:31Z",
+   "last_observed_at": "2026-08-27T12:28:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:28:31Z"
+}

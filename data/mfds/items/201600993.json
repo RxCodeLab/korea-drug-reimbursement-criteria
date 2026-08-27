@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600993",
+ "item_name": "알파콜에프캡슐",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20160223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223183]카페인무수물|[M223211]클로르페니라민말레산염|[M050058]구아이페네신|[M204422]dl-메틸에페드린염산염|[M222957]덱스트로메토르판브롬화수소산염수화물|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate/Guaifenesin",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600993",
+ "revisions": [
+  {
+   "revision_id": "201600993-32cd3fbf",
+   "content_sha256": "32cd3fbf33dbfea1a834f3ac38d5bd9fc67b691e0e64b5e36b9ba913bd7e3d70",
+   "ee_text": "감기의 제증상 (콧물, 코막힘, 재채기, 인후통, 기침, 가래, 오한, 발열, 두통, 근육통, 관절통)의 완화",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T13:00:54Z",
+   "last_observed_at": "2026-08-27T13:00:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:00:54Z"
+}

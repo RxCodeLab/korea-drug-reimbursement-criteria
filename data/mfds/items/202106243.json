@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106243",
+ "item_name": "맥시제식주",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20210830",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246943]이부프로펜나트륨이수화물|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Ibuprofen Sodium Dihydrate",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106243",
+ "revisions": [
+  {
+   "revision_id": "202106243-82abcd82",
+   "content_sha256": "82abcd820ac8ebbafb7f9fd31036ac662e3c72ad3b9a62c0a25d7ce1507930b7",
+   "ee_text": "성인에서 통증으로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중등도 ~ 중증의 통증(특히 수술 후)의 단기간 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:03:43Z",
+   "last_observed_at": "2026-08-27T13:03:43Z",
+   "official_revision_date": "2021-08-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:03:43Z"
+}

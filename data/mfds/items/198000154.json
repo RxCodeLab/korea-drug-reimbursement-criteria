@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000154",
+ "item_name": "모아비타주",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "19800918",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M209360]L-발린|[M218015]L-트립토판|[M103060]L-트레오닌|[M204442]L-페닐알라닌|[M218567]L-메티오닌|[M222530]L-이소류신|[M222531]L-류신|[M222996]리보플라빈포스페이트나트륨|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M204410]D-소르비톨|[M254056]L-아스파르트산-L-오르니틴|[M088656]글리신|[M214861]L-프롤린|[M252661]L-히스티딘염산염수화물|[M103077]L-아르기닌|[M222998]L-리신염산염|[M209366]L-알라닌",
+ "main_item_ingr_eng": "D-Sorbitol/Glycine/L-Alanine/L-Arginine/L-Histidine Hydrochloride Hydrate/L-Isoleucine/L-Leucine/L-Lysine Hydrochloride/L-Methionine/L-Ornithine-L-Aspartate/L-Phenylalanine/L-Proline/L-Threonine/L-Tryptophan/L-Valine/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate",
+ "edi_code": "",
+ "atc_code": "B05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000154",
+ "revisions": [
+  {
+   "revision_id": "198000154-a0cd6231",
+   "content_sha256": "a0cd6231a914bbe177281f547e1329f23f6783a96f0680553b63c658f00f8804",
+   "ee_text": "다음 상태시의 아미노산보급 : 저단백혈증, 저영양상태, 수술전후",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T13:52:26Z",
+   "last_observed_at": "2026-08-27T13:52:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:52:26Z"
+}

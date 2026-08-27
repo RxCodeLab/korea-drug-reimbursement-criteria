@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508183",
+ "item_name": "트랜스라나과립125밀리그램(아탈루렌)",
+ "entp_name": "지디파마(주)",
+ "permit_date": "20151208",
+ "cancel_date": "20240809",
+ "status": "취하",
+ "main_item_ingr": "[M263223]아탈루렌",
+ "main_item_ingr_eng": "Ataluren",
+ "edi_code": "",
+ "atc_code": "M09AX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508183",
+ "revisions": [
+  {
+   "revision_id": "201508183-dca24b25",
+   "content_sha256": "dca24b250eeaca91b52b2ffbffd17c4f02c03b73cb08a5247a8d9189383031c6",
+   "ee_text": "2세 이상의 보행 가능한 디스트로핀 유전자의 넌센스 돌연변이에 의한 뒤쉔 근디스트로피의 치료. 보행 가능하지 않은 환자에서의 유효성은 확립되어 있지 않다.",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-27T12:24:25Z",
+   "last_observed_at": "2026-08-27T12:24:25Z",
+   "official_revision_date": "2020-03-09"
+  },
+  {
+   "revision_id": "201508183-f8ae88a8",
+   "content_sha256": "f8ae88a8e92125fb0580b0024bb98afb8dac0f5a168115df79c5ee4e03a6723d",
+   "ee_text": "5세 이상의 보행 가능한 디스트로핀 유전자의 넌센스 돌연변이에 의한 뒤쉔 근디스트로피의 치료. 보행 가능하지 않은 환자에서의 유효성은 확립되어 있지 않다.",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:24:25Z",
+   "last_observed_at": "2026-08-27T12:24:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:24:25Z"
+}

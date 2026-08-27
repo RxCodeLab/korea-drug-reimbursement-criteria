@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907648",
+ "item_name": "위나지액(알긴산나트륨)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20191031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081987]알긴산나트륨",
+ "main_item_ingr_eng": "Sodium Alginate",
+ "edi_code": "653404441,653405031",
+ "atc_code": "A02BX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907648",
+ "revisions": [
+  {
+   "revision_id": "201907648-43cbc3ef",
+   "content_sha256": "43cbc3ef8acb8d02a5473484c3b399752a83045012ed12e3ff255ba5afa21901",
+   "ee_text": "1. 다음 질환의 지혈 및 자각증상의 개선 : 위·십이지장궤양, 미란성위염 2. 역류성식도염의 자각증상 개선 3. 위 생검 출혈시의 지혈",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:07:04Z",
+   "last_observed_at": "2026-08-27T12:07:04Z",
+   "official_revision_date": "2019-10-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:07:04Z"
+}

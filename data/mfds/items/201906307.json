@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906307",
+ "item_name": "앰겔러티120밀리그램/밀리리터프리필드시린지주(갈카네주맙, 유전자재조합)",
+ "entp_name": "한국릴리(유)",
+ "permit_date": "20190905",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270248]갈카네주맙",
+ "main_item_ingr_eng": "Galcanezumab",
+ "edi_code": "670801191",
+ "atc_code": "N02CD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906307",
+ "revisions": [
+  {
+   "revision_id": "201906307-53156d91",
+   "content_sha256": "53156d910c57c43e31450d3d4d03e2b93a70090334539ab608ef3c01d099d117",
+   "ee_text": "성인에서의 편두통의 예방",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:03:28Z",
+   "last_observed_at": "2026-08-27T12:03:28Z",
+   "official_revision_date": "2019-09-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:03:28Z"
+}

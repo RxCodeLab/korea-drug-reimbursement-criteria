@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705812",
+ "item_name": "레날로마캡슐7.5밀리그램(레날리도마이드)(수출용)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20170720",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251765]레날리도마이드반수화물",
+ "main_item_ingr_eng": "Lenalidomide Hemihydrate",
+ "edi_code": "",
+ "atc_code": "L04AX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705812",
+ "revisions": [
+  {
+   "revision_id": "201705812-67be2ab0",
+   "content_sha256": "67be2ab01f060d33a90bd9d3bedcbfa40b9f830d5a08ffb8d4b42ef0e6b69be9",
+   "ee_text": "1. 다발골수종 1) 이전의 한 가지 이상 치료를 받은 환자의 치료에 덱사메타손과 병용요법 2) 새롭게 진단된 이식이 불가능한 환자의 치료에 덱사메타손과의 병용요법, 또는 멜팔란 및 프레드니솔론과의 병용요법 3) 새롭게 진단된 자가 조혈모세포 이식을 받은 환자의 유지요법",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T13:06:26Z",
+   "last_observed_at": "2026-08-27T13:06:26Z",
+   "official_revision_date": "2019-06-22"
+  },
+  {
+   "revision_id": "201705812-a2afed2e",
+   "content_sha256": "a2afed2eee0c60a123fc8ab51f9a43c793bc5d751918ff66e21256beeec11a6f",
+   "ee_text": "다발골수종 이전의 한 가지 이상 치료를 받은 환자의 치료에 덱사메타손과 병용요법 새롭게 진단된 이식이 불가능한 환자의 치료에 덱사메타손과의 병용요법, 또는 멜팔란 및 프레드니솔론과의 병용요법",
+   "ee_doc_id": "2",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:06:26Z",
+   "last_observed_at": "2026-08-27T13:06:26Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:06:26Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201100375",
+ "item_name": "애니디핀에스정5밀리그램(에스암로디핀베실산염이수화물)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20110124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M226654]에스암로디핀베실산염이수화물",
+ "main_item_ingr_eng": "S-Amlodipine Besylate Dihydrate",
+ "edi_code": "643305880",
+ "atc_code": "C08CA17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100375",
+ "revisions": [
+  {
+   "revision_id": "201100375-363a9ac5",
+   "content_sha256": "363a9ac5dc88dbcda867b65581b853435b3060d65481c0819d9e2e260e64abcf",
+   "ee_text": "1. 고혈압, 관상동맥의 고정폐쇄(안정형협심증) 또는 관상혈관계의 혈관경련과 혈관수축(이형협심증)에 의한 심근성허혈증 2. 최근 혈관조영술로 관상동맥심질환이 확인된 환자로 심부전이 없거나 심박출률이 40% 미만이 아닌 환자의 - 협심증으로 인한 입원의 위험성 감소 - 관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "34",
+   "first_observed_at": "2026-08-27T12:33:47Z",
+   "last_observed_at": "2026-08-27T12:33:47Z",
+   "official_revision_date": "2026-03-23"
+  },
+  {
+   "revision_id": "201100375-2f84817e",
+   "content_sha256": "2f84817e933d39c3457ff93cf7d45d396c83008069c5b29f40420d3dd0169978",
+   "ee_text": "- 협심증으로 인한 입원의 위험성 감소 - 관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:33:47Z",
+   "last_observed_at": "2026-08-27T12:33:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:47Z"
+}

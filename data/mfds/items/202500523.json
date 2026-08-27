@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500523",
+ "item_name": "무조날맥스외용액(테르비나핀염산염)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20250310",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258362]테르비나핀염산염",
+ "main_item_ingr_eng": "Terbinafine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "D01AE15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500523",
+ "revisions": [
+  {
+   "revision_id": "202500523-d77d4a4b",
+   "content_sha256": "d77d4a4b9be48006324be400817a18696552452ca2878358dc58a01544768f33",
+   "ee_text": "조갑진균증(손, 발톱무좀)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:44:16Z",
+   "last_observed_at": "2026-08-27T12:44:16Z",
+   "official_revision_date": "2025-03-10"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:44:16Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403978",
+ "item_name": "타크로연고0.1%(타크로리무스수화물)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20140826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089193]타크로리무스수화물",
+ "main_item_ingr_eng": "Tacrolimus Hydrate",
+ "edi_code": "657306021",
+ "atc_code": "D11AH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403978",
+ "revisions": [
+  {
+   "revision_id": "201403978-98ad479d",
+   "content_sha256": "98ad479dd4a981064edb408917da9d9846f59bdb7813dc3243d043d7e0d225cd",
+   "ee_text": "다음 환자의 중등증~중증의 아토피성 피부염의 2차치료제: - 면역기능이 정상인 성인 및 청소년 환자(만 16세 이상)로서, - 외용 코르티코스테로이드와 같은 대체요법이나 기존치료법에 적절히 효과가 없거나 내약성이 있는 환자 본 제제에 치료 효과를 보이는 성인 및 청소년 환자(만 16세 이상)에서 발적 예방 및 발적이 없는 기간의 연장을 위한 중등증~중증의 아토피성 피부염 치료",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T12:33:35Z",
+   "last_observed_at": "2026-08-27T12:33:35Z",
+   "official_revision_date": "2021-06-10"
+  },
+  {
+   "revision_id": "201403978-3f8932c2",
+   "content_sha256": "3f8932c2366cb082249c55e5faafe2db580491a6128102cbae5414d92f8b13c1",
+   "ee_text": "다음 환자의 중등도~중증의 아토피성 피부염의 2차 치료제로서 단기 치료 또는 간헐적치료 - 면역기능이 정상인 성인 환자 - 대체요법이나 기존치료법에 적절히 효과가 없거나 내약성이 있는 환자",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:33:35Z",
+   "last_observed_at": "2026-08-27T12:33:35Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:35Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503331",
+ "item_name": "듀비엠파정0.5/10밀리그램(로베글리타존,엠파글리플로진)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20251219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255021]로베글리타존황산염|[M281639]엠파글리플로진 L-프롤린",
+ "main_item_ingr_eng": "Empagliflozin L-Proline/Lobeglitazone Sulfate",
+ "edi_code": "643310250",
+ "atc_code": "A10BD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503331",
+ "revisions": [
+  {
+   "revision_id": "202503331-76055ac5",
+   "content_sha256": "76055ac56c8af21fa8154c207e67ed916a7d967d0ec2ce4cdd303ae049648ffb",
+   "ee_text": "이 약은 로베글리타존과 엠파글리플로진의 병용투여가 적합한 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:33:07Z",
+   "last_observed_at": "2026-08-27T12:33:07Z",
+   "official_revision_date": "2025-12-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:07Z"
+}

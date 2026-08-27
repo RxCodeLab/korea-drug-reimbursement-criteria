@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200901619",
+ "item_name": "알룬정",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20090302",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070865]알긴산|[M244062]카르복시메틸셀룰로오스나트륨",
+ "main_item_ingr_eng": "Alginic Acid/Carboxymethylcellulose Sodium",
+ "edi_code": "",
+ "atc_code": "A08AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901619",
+ "revisions": [
+  {
+   "revision_id": "200901619-f13a59ff",
+   "content_sha256": "f13a59ff0894fea1d759624571e2d2277bcbf7b204fda345a93b1c601e4d4f56",
+   "ee_text": "음식물 섭취 감소를 통한 체중감량(줄임)의 보조요법 ☆ 국내임상시험결과 추가제출(의약품 재평가 진행 중)",
+   "ee_doc_id": "42",
+   "first_observed_at": "2026-08-27T12:06:41Z",
+   "last_observed_at": "2026-08-27T12:06:41Z",
+   "official_revision_date": "2022-09-25"
+  },
+  {
+   "revision_id": "200901619-78fd6de6",
+   "content_sha256": "78fd6de635fc7ecb9496e38cf8fac24413bfd1fe35121d79b66b12502c805c22",
+   "ee_text": "음식물 섭취 감소를 통한 체중감량(줄임)의 보조요법",
+   "ee_doc_id": "30",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:06:41Z",
+   "last_observed_at": "2026-08-27T12:06:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:06:41Z"
+}

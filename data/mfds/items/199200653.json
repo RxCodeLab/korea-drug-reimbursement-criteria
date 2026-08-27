@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199200653",
+ "item_name": "포리부틴서방정(트리메부틴말레산염)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "19920130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252787]트리메부틴말레산염",
+ "main_item_ingr_eng": "Trimebutine Maleate",
+ "edi_code": "643901630",
+ "atc_code": "A03AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200653",
+ "revisions": [
+  {
+   "revision_id": "199200653-53a0e0f9",
+   "content_sha256": "53a0e0f96666b7757baca5322173cac93b42ec724464b40e715f9590eecace59",
+   "ee_text": "1. 주효능 효과 1) 위·식도 역류 및 열공헤르니아, 위 십이지장궤양에 있어서의 소화기능이상 (복통, 소화불량, 구역, 구토) 2) 과민성대장증후군 및 경련성 결장 3) 소아 질환 : 습관성 구토, 비감염성 장관통과장애 (변비, 설사)",
+   "ee_doc_id": "28",
+   "first_observed_at": "2026-08-27T13:40:37Z",
+   "last_observed_at": "2026-08-27T13:40:37Z",
+   "official_revision_date": "2026-03-27"
+  },
+  {
+   "revision_id": "199200653-343d424a",
+   "content_sha256": "343d424ae94f58611e7be99b7813b8555514eed6a40e3d669109edc01eedccfc",
+   "ee_text": "위, 식도역류 및 열공헤르니아, 위, 십이지양궤양등에 수반되는 동통, 소화불량, 구역,구토,기능적결장질환(과민성대장염, 경련성결장), 유소아의 습관성구토, 비감염성의 장관통과기능장해(설사, 변비), 소화관수술후의 장폐색, 엑스선(내시경)검사시의 유문 및 결장경련의 완화",
+   "ee_doc_id": "17",
+   "official_revision_date": "2020-09-30",
+   "first_observed_at": "2026-08-27T13:40:37Z",
+   "last_observed_at": "2026-08-27T13:40:37Z"
+  },
+  {
+   "revision_id": "199200653-36e63a5b",
+   "content_sha256": "36e63a5b00f550f9b6e64f1aa1be257c40b34cd01f876b6d8b0fb143a2a2923d",
+   "ee_text": "위, 식도역류 및 열공헤르니아, 위, 심이지양궤양동에 수반되는 동틍, 소화불량, 구역,구토,기능적결장질환(과민성대자염, 경련성결장), 유소아의 습관성구토, 비감염성의 장관통과기능장해(설사, 변비), 유소아의 동요, 자극 수면장해, 소화관수술후의 장폐색, 엑스선(내시경)검사시의 유문 및 결장경련의 완화",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:40:37Z",
+   "last_observed_at": "2026-08-27T13:40:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:40:37Z"
+}

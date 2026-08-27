@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200903669",
+ "item_name": "테르비플러스크림",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20090525",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051499]크로타미톤|[M089404]우레아|[M279284]L-멘톨|[M215133]에녹솔론|[M245869]테르비나핀염산염",
+ "main_item_ingr_eng": "Crotamiton/Enoxolone/L-Menthol/Terbinafine Hydrochloride/Urea",
+ "edi_code": "",
+ "atc_code": "D01AE20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903669",
+ "revisions": [
+  {
+   "revision_id": "200903669-4d40d6ed",
+   "content_sha256": "4d40d6ed3baa404246d658f6bcff3be62ee2b7886efa443daf93ea6dbba906e4",
+   "ee_text": "피부사상균에 의한 피부진균(곰팡이)감염증 : 무좀, 완선(사타구니 백선), 백선",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T12:43:44Z",
+   "last_observed_at": "2026-08-27T12:43:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:43:44Z"
+}

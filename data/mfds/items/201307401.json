@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307401",
+ "item_name": "토피크로연고0.03%(타크로리무스수화물)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20130521",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089193]타크로리무스수화물",
+ "main_item_ingr_eng": "Tacrolimus Hydrate",
+ "edi_code": "670303481,670303482",
+ "atc_code": "D11AH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307401",
+ "revisions": [
+  {
+   "revision_id": "201307401-b1efdf26",
+   "content_sha256": "b1efdf26b9bdb7b7a11764a619f28dda0fcb30a0fa217b9884537ad5fb5589e2",
+   "ee_text": "1) 발적 치료 다음 환자의 중등증~중증의 아토피성 피부염의 2차치료제: - 면역기능이 정상인 성인 및 만2세 이상의 소아 환자로서, - 외용 코르티코스테로이드와 같은 대체요법이나 기존치료법에 효과가 없거나 내약성이 있는 환자 2) 유지요법 본 제제에 치료 효과를 보이는 만 2세 이상 만 15세 이하의 소아 환자에서 발적 예방 및 발적이 없는 기간의 연장을 위한 중등증~중증의 아토피성 피부염 치료",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T12:33:35Z",
+   "last_observed_at": "2026-08-27T12:33:35Z",
+   "official_revision_date": "2020-08-19"
+  },
+  {
+   "revision_id": "201307401-82c98b47",
+   "content_sha256": "82c98b47fe91a3428dad975ca34d9832cf8d28d0cb1de2217a9fa773f38570ca",
+   "ee_text": "- 면역기능이 정상인 2세 이상의 소아 및 성인 환자 - 대체요법이나 기존치료법에 효과가 없거나 내약성이 있는 환자",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:33:35Z",
+   "last_observed_at": "2026-08-27T12:33:35Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:35Z"
+}

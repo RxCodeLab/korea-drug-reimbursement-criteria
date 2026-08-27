@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805241",
+ "item_name": "슈메디펜8시간이알서방정650밀리그램(아세트아미노펜)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20181224",
+ "cancel_date": "20231224",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen",
+ "edi_code": "",
+ "atc_code": "N02BE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805241",
+ "revisions": [
+  {
+   "revision_id": "201805241-aaf8e34d",
+   "content_sha256": "aaf8e34dc51fcc8cb9c0ead716699f4933810b8012785fdc95b5d6883149dc42",
+   "ee_text": "해열 및 감기에 의한 동통(통증)과 두통, 치통, 근육통, 허리동통(통증), 생리통, 관절통의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:01:44Z",
+   "last_observed_at": "2026-08-27T13:01:44Z",
+   "official_revision_date": "2018-12-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:01:44Z"
+}

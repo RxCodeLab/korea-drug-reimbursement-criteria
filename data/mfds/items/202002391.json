@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002391",
+ "item_name": "타이로펜연질캡슐(아세트아미노펜)",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20200406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen",
+ "edi_code": "",
+ "atc_code": "N02BE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002391",
+ "revisions": [
+  {
+   "revision_id": "202002391-5a1bafc9",
+   "content_sha256": "5a1bafc93f19f9f789d40749f4edfc274492c047291319b377c90398a8e80728",
+   "ee_text": "1. 주효능·효과 감기로 인한 발열 및 동통(통증), 두통, 신경통, 근육통, 월경통(생리통), 염좌통(삔 통증) 2. 다음 질환에도 사용할 수 있다. 치통, 관절통, 류마티양 동통(통증)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:02:53Z",
+   "last_observed_at": "2026-08-27T13:02:53Z",
+   "official_revision_date": "2020-04-06"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:02:53Z"
+}

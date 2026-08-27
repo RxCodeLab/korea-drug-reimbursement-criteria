@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003200",
+ "item_name": "디어큐어점안액(디쿠아포솔나트륨)(1회용)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20200429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253703]디쿠아포솔나트륨",
+ "main_item_ingr_eng": "Diquafosol Tetrasodium",
+ "edi_code": "649507991",
+ "atc_code": "S01XA33",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003200",
+ "revisions": [
+  {
+   "revision_id": "202003200-bf5d9bdf",
+   "content_sha256": "bf5d9bdf211fee21cdea2f65ab9c69879238c7fd276dacef9a9705c8e7cbf711",
+   "ee_text": "안구건조증과 관련한 증상(각결막 상피 장애)의 개선",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:30:07Z",
+   "last_observed_at": "2026-08-27T13:30:07Z",
+   "official_revision_date": "2020-04-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:30:07Z"
+}

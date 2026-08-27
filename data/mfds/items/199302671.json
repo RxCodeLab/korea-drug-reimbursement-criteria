@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199302671",
+ "item_name": "구주프로티온아미드정125밀리그램",
+ "entp_name": "구주제약(주)",
+ "permit_date": "19930331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223313]프로티온아미드",
+ "main_item_ingr_eng": "Prothionamide",
+ "edi_code": "669800470",
+ "atc_code": "J04AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199302671",
+ "revisions": [
+  {
+   "revision_id": "199302671-207bc727",
+   "content_sha256": "207bc7273ac8dab0289dee78e076d7045adc585fde7dc22ea68d2be9907a27b8",
+   "ee_text": "결핵균 폐결핵 및 기타 결핵증",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-27T12:23:03Z",
+   "last_observed_at": "2026-08-27T12:23:03Z",
+   "official_revision_date": "2022-09-15"
+  },
+  {
+   "revision_id": "199302671-5aec15b3",
+   "content_sha256": "5aec15b3d697a84b811498556151008475ca635220d882e1bbcc89be81eaa405",
+   "ee_text": "주효능효과: 폐결핵, 기타결핵증",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:23:03Z",
+   "last_observed_at": "2026-08-27T12:23:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:23:03Z"
+}

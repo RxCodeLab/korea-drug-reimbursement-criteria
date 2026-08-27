@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904440",
+ "item_name": "삼성아리피프라졸정15밀리그램",
+ "entp_name": "삼성제약(주)",
+ "permit_date": "20190628",
+ "cancel_date": "20240628",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M270799]아리피프라졸(미분화)",
+ "main_item_ingr_eng": "Aripiprazole Micronized",
+ "edi_code": "",
+ "atc_code": "N05AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904440",
+ "revisions": [
+  {
+   "revision_id": "201904440-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T13:27:17Z",
+   "last_observed_at": "2026-08-27T13:27:17Z",
+   "official_revision_date": "2022-10-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:17Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502437",
+ "item_name": "엠슈벳정10밀리그램(엠파글리플로진2L-프롤린)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20250915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285825]엠파글리플로진2L-프롤린",
+ "main_item_ingr_eng": "Empagliflozin 2L-Proline",
+ "edi_code": "671707580",
+ "atc_code": "A10BK03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502437",
+ "revisions": [
+  {
+   "revision_id": "202502437-044e8ae7",
+   "content_sha256": "044e8ae7b482b80b34c542c2d091d9f9313bfa86fce644002464fa5132c39031",
+   "ee_text": "- 단독요법 - 병용요법 혈당이 충분히 조절되지 않는 성인 제2형 당뇨병 환자 중 심혈관계 질환이 확인된 환자에서 심혈관계 사건 발생에 대한 영향은 ‘사용상의 주의사항 10. 전문가를 위한 정보 2) 임상시험 정보’항을 참고한다.",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202502437/EE",
+   "first_observed_at": "2026-08-27T12:29:14Z",
+   "last_observed_at": "2026-08-27T12:29:14Z"
+  },
+  {
+   "revision_id": "202502437-627eb540",
+   "content_sha256": "627eb540d79e17138c67191b92da8f533e1fd4837e5f52343d023c02429082fa",
+   "ee_text": "]]>",
+   "ee_doc_id": "1",
+   "official_revision_date": "2025-09-15",
+   "first_observed_at": "2026-08-27T12:29:14Z",
+   "last_observed_at": "2026-08-27T12:29:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:14Z"
+}

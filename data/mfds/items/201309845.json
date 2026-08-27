@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309845",
+ "item_name": "액토스릴정30/4밀리그램",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20131021",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M235069]피오글리타존염산염|[M086024]글리메피리드",
+ "main_item_ingr_eng": "Glimepiride/Pioglitazone Hydrochloride",
+ "edi_code": "693903500",
+ "atc_code": "A10BD06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309845",
+ "revisions": [
+  {
+   "revision_id": "201309845-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201309845/EE",
+   "first_observed_at": "2026-08-27T13:25:16Z",
+   "last_observed_at": "2026-08-27T13:25:16Z"
+  },
+  {
+   "revision_id": "201309845-94862c2c",
+   "content_sha256": "94862c2cf4b21f91e87630aa0c529fe4d1cb2f21e08844827e17167055f70b75",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 이 약은 제 2 형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:25:16Z",
+   "last_observed_at": "2026-08-27T13:25:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:25:16Z"
+}

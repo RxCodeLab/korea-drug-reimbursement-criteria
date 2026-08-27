@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600860",
+ "item_name": "유로시트라케이10mEq서방정(시트르산칼륨수화물)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20060407",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247036]시트르산칼륨수화물|[M247036]시트르산칼륨수화물",
+ "main_item_ingr_eng": "Potassium Citrate Hydrate",
+ "edi_code": "659900170",
+ "atc_code": "G04BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600860",
+ "history_fetched_at": "2026-08-27T10:37:01Z",
+ "revisions": [
+  {
+   "revision_id": "200600860-35bbc8f8",
+   "content_sha256": "35bbc8f87a3e5cb9cbdd1c73e457cb6ec850eeefae7f4b4bde660100a987f382",
+   "ee_text": "칼슘결석이 있는 신세뇨관 산증, 저구연산염뇨성 수산칼슘 신결석증 및 칼슘결석 유무에 상관없이 요산결석증 처치",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200600860/EE",
+   "first_observed_at": "2026-08-27T10:37:01Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

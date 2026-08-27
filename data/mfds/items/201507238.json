@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507238",
+ "item_name": "페메신액상주25밀리그램/밀리리터(페메트렉시드이나트륨염2.5수화물)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20151019",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254413]페메트렉시드이나트륨염2.5수화물",
+ "main_item_ingr_eng": "Pemetrexed Disodium 2.5 Hydrate",
+ "edi_code": "643307261",
+ "atc_code": "L01BA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507238",
+ "revisions": [
+  {
+   "revision_id": "201507238-69a7a25e",
+   "content_sha256": "69a7a25e3450b9c5de82a955705fc81131bb572eb2883416bc7f59c8919d4530",
+   "ee_text": "-화학 요법을 받은 적이 없는 수술 불가능한 악성 흉막 중피종 환자에게 시스플라틴과 병용하여 사용 - 편평상피세포 조직을 갖는 경우를 제외한 국소 진행성 혹은 전이성 비소세포폐암 환자에게 일차치료제로서 시스플라틴과 병용하여 사용 - 이전 화학요법 실시 후, 편평상피세포 조직을 갖는 경우를 제외한 국소 진행성 혹은 전이성 비소세포폐암 환자에게 단독요법으로 사용 - 백금계 약물을 기본으로 하는 1차 화학요법의 4주기 이후 질병진행이 없는, 편평상피세포 조직을 갖는 경우를 제외한 국소 진행성 또는 전이성 비소세포폐암 환자의 유지요법",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T12:24:24Z",
+   "last_observed_at": "2026-08-27T12:24:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:24:24Z"
+}

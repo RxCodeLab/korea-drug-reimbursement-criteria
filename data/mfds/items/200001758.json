@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001758",
+ "item_name": "파마디클로페낙나트륨정100밀리그램(수출용)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20000512",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050288]디클로페낙나트륨",
+ "main_item_ingr_eng": "Diclofenac Sodium",
+ "edi_code": "",
+ "atc_code": "M01AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001758",
+ "revisions": [
+  {
+   "revision_id": "200001758-e0f7c325",
+   "content_sha256": "e0f7c325bc8b8dcb565e13e73ac201149eb8daf40c0d76b97de056a1fc1bb783",
+   "ee_text": "류마티양관절염, 골관절염(퇴행성관절질환), 강직성척추염 수술후 외상후 염증 및 동통, 비관절성 류마티즘, 견관절 주위염",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:41:24Z",
+   "last_observed_at": "2026-08-27T12:41:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:41:24Z"
+}

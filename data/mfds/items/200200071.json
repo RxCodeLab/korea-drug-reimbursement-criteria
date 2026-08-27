@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200071",
+ "item_name": "카베날정25밀리그램(카르베딜롤)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20021209",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085731]카르베딜롤",
+ "main_item_ingr_eng": "Carvedilol",
+ "edi_code": "648503120",
+ "atc_code": "C07AG02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200071",
+ "revisions": [
+  {
+   "revision_id": "200200071-584d6e99",
+   "content_sha256": "584d6e991ed155b9ec6e33a1d36e82d54a6184e2cf3d28826ae2d72051289228",
+   "ee_text": "* 건일카르베딜롤정25밀리그람(카르베딜롤) 외 68 품목 1. 본태고혈압 2. 만성 안정협심증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200200071/EE",
+   "first_observed_at": "2026-08-27T12:23:19Z",
+   "last_observed_at": "2026-08-27T12:23:19Z"
+  },
+  {
+   "revision_id": "200200071-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:23:19Z",
+   "last_observed_at": "2026-08-27T12:23:19Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:23:19Z"
+}

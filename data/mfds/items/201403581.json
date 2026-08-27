@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403581",
+ "item_name": "안티옥시주사(티옥트산)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20140801",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250701]티옥트산",
+ "main_item_ingr_eng": "Thioctic Acid",
+ "edi_code": "",
+ "atc_code": "A16AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403581",
+ "revisions": [
+  {
+   "revision_id": "201403581-43f13d20",
+   "content_sha256": "43f13d20c1cbe999d01eafc8133cfbe3c6002efbf369bcdda4b2add5092175c6",
+   "ee_text": "티옥트산의 수요가 증대되는 경우의 보급(격심한 육체노동시), Leigh증후군(아급성괴사성뇌척수염), 중독성(스트렙토마이신, 가나마이신에 의한) 및 소음성(직업성)의 내이성 난청 1개월 정도의 투여로도 효과가 나타나지 않을 경우에는 지속적으로 사용하지 않는다.",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201403581/EE",
+   "first_observed_at": "2026-08-27T12:31:06Z",
+   "last_observed_at": "2026-08-27T12:31:06Z"
+  },
+  {
+   "revision_id": "201403581-a1e1274f",
+   "content_sha256": "a1e1274f7e48c38a0033c4fd308efdb190982276dbaeb1dc193f4ae49464af25",
+   "ee_text": "심상성 여드름(보통 여드름) 및 광노화(미세주름, 과색소 침착)완화",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:31:06Z",
+   "last_observed_at": "2026-08-27T12:31:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:31:06Z"
+}

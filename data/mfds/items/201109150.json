@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "N02BF02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109150",
+ "history_fetched_at": "2026-08-27T10:28:38Z",
  "revisions": [
   {
    "revision_id": "201109150-e3b0c442",
    "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "ee_text": "",
-   "ee_doc_id": "35",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201109150/EE",
    "first_observed_at": "2026-08-27T10:28:38Z",
-   "last_observed_at": "2026-08-27T10:28:38Z",
-   "official_revision_date": "2022-10-13"
+   "last_observed_at": "2026-08-27T10:52:53Z"
   },
   {
    "revision_id": "201109150-3781897c",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T10:28:38Z",
    "last_observed_at": "2026-08-27T10:28:38Z"
   }
- ],
- "history_fetched_at": "2026-08-27T10:28:38Z"
+ ]
 }

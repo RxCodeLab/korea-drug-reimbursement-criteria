@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199901332",
+ "item_name": "유니자임정",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "19991123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252787]트리메부틴말레산염|[M040634]침강탄산칼슘|[M070009]감초가루|[M050379]리파제|[M080221]스코폴리아엑스|[M267745]디아스타제·프로테아제·셀룰라제|[M040631]탄산수소나트륨|[M207093]메타규산알루민산마그네슘 (건조물로서)",
+ "main_item_ingr_eng": "Diastase·Protease·Cellulase/Glycyrrhiza Powder/Lipase/Magnesium Aluminometasilicate/Precipitated Calcium Carbonate/Scopolia Extract/Sodium Bicarbonate/Trimebutine Maleate",
+ "edi_code": "",
+ "atc_code": "A02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901332",
+ "revisions": [
+  {
+   "revision_id": "199901332-8ebba533",
+   "content_sha256": "8ebba533570c18d0ebdb4a5f668405b8025d9d9155b3cb83feb9546d5be24f67",
+   "ee_text": "소화성 궤양에 따른 증상의 개선 : 위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 식체(위체), 구역, 구토, 위통, 신트림, 소화불량",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199901332/EE",
+   "first_observed_at": "2026-08-27T13:40:42Z",
+   "last_observed_at": "2026-08-27T13:40:42Z"
+  },
+  {
+   "revision_id": "199901332-fc385fc0",
+   "content_sha256": "fc385fc0e6e9e7cdf43e08f34d780b735e96a2918b026c7a8920aab8a9396a52",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 식체(위체), 구역, 구토, 위통, 신트림, 소화불량, 식욕감퇴(식욕부진), 과식, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:40:42Z",
+   "last_observed_at": "2026-08-27T13:40:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:40:42Z"
+}

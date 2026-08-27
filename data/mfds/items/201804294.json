@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804294",
+ "item_name": "파라케이주(아세트아미노펜)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20181030",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen",
+ "edi_code": "",
+ "atc_code": "N02BE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804294",
+ "revisions": [
+  {
+   "revision_id": "201804294-83e57e4d",
+   "content_sha256": "83e57e4d8236fadb3e2985794b4c9b434bf47f21b49fd1721c23350af39714cb",
+   "ee_text": "1.중등도의 통증(특히 수술 후)의 단기간 치료 2.발열의 단기간 치료",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-27T13:01:39Z",
+   "last_observed_at": "2026-08-27T13:01:39Z",
+   "official_revision_date": "2025-05-12"
+  },
+  {
+   "revision_id": "201804294-f06a2360",
+   "content_sha256": "f06a236009d9033d14839136b8f7d61fac902c7250c2bc1e427237463a8f69fc",
+   "ee_text": "통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중등도의 통증(특히 수술 후)의 단기간 치료 - 발열의 단기간 치료 통증으로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중증도 통증(특히 수술 후)의 단기간 치료",
+   "ee_doc_id": "16",
+   "official_revision_date": "2025-04-16",
+   "first_observed_at": "2026-08-27T13:01:39Z",
+   "last_observed_at": "2026-08-27T13:01:39Z"
+  },
+  {
+   "revision_id": "201804294-b133ebf1",
+   "content_sha256": "b133ebf12ec7db1193b8114973e324cbdf084a2343cf683572bd86458e52b5a8",
+   "ee_text": "통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-10-30",
+   "first_observed_at": "2026-08-27T13:01:39Z",
+   "last_observed_at": "2026-08-27T13:01:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:01:39Z"
+}

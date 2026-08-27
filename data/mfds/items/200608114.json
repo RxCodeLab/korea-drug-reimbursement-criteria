@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200608114",
+ "item_name": "로자플러스정",
+ "entp_name": "(주)파마킹",
+ "permit_date": "20060915",
+ "cancel_date": "20240701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M249673]로사르탄칼륨|[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Losartan Potassium",
+ "edi_code": "",
+ "atc_code": "C09DA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608114",
+ "revisions": [
+  {
+   "revision_id": "200608114-f1f0e886",
+   "content_sha256": "f1f0e88615f7c71660ed4255c95af5d7585b80909093138217080411f421fd1c",
+   "ee_text": "단일요법으로 혈압이 적절히 조절되지 않는 고혈압",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T12:46:23Z",
+   "last_observed_at": "2026-08-27T12:46:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:46:23Z"
+}

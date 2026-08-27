@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902224",
+ "item_name": "글리젠타듀오정2.5/500밀리그램",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20190411",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244179]메트포르민염산염|[M252996]리나글립틴",
+ "main_item_ingr_eng": "Linagliptin/Metformin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A10BD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902224",
+ "revisions": [
+  {
+   "revision_id": "201902224-8946655e",
+   "content_sha256": "8946655ee5636ce7e034c346f06c98ca0658e9c33ec880161411602c68949aa9",
+   "ee_text": "이 약은 리나글립틴과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T13:32:56Z",
+   "last_observed_at": "2026-08-27T13:32:56Z",
+   "official_revision_date": "2023-10-19"
+  },
+  {
+   "revision_id": "201902224-252f7ebe",
+   "content_sha256": "252f7ebe7bd22b9bab5f2971128299cff47a7650c6c4e83f4fe992ff3625980e",
+   "ee_text": "이 약은 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 이전 당뇨병 약물치료를 받은 경험이 없으며 단독요법으로 충분한 혈당조절이 어려운 경우 투여한다. 2. 리나글립틴과 메트포르민 병용요법을 대체하는 경우 투여한다. 3. 인슐린과 메트포르민 병용요법으로 충분한 혈당조절을 할 수 없는 경우 인슐린과 이 약을 병용투여한다. 4. 최대 내성용량의 메트포르민과 엠파글리플로진 병용요법으로 충분한 혈당 조절을 할 수 없 는 경우 엠파글리플로진과 이 약을 병용투여한다.",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-04-11",
+   "first_observed_at": "2026-08-27T13:32:56Z",
+   "last_observed_at": "2026-08-27T13:32:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:32:56Z"
+}

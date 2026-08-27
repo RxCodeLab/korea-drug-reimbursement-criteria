@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199802093",
+ "item_name": "세파클린캡슐(세파클러수화물)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "19980912",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222859]세파클러수화물",
+ "main_item_ingr_eng": "Cefaclor Hydrate",
+ "edi_code": "648101060",
+ "atc_code": "J01DC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802093",
+ "revisions": [
+  {
+   "revision_id": "199802093-b8102c27",
+   "content_sha256": "b8102c27c9995b22ac045e3a30595dbe4a32c788736ef20ab430345fb2da2fb1",
+   "ee_text": "폐렴연쇄구균, 인플루엔자균, 포도구균, 스트렙토콕쿠스 피오게네스(그룹A-베타용혈성), 대장균, 프로테우스 미라빌리스, 클레브시엘라, 임균 - 중이염 - 폐렴, 인후두염, 편도염, 기관지염 - 신우신염, 방광염, 임균성 요도염 - 부스럼, 옹종, 모낭염, 연조직염, 감염성 죽종, 피하농양, 생인손, 창상감염",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T12:35:53Z",
+   "last_observed_at": "2026-08-27T12:35:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:35:53Z"
+}

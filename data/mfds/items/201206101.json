@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206101",
+ "item_name": "트롬엑스액",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20120712",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096666]시트르산|[M222565]시트르산나트륨수화물|[M044300]포도당일수화물",
+ "main_item_ingr_eng": "Anhydrous Citric Acid/Glucose Monohydrate/Sodium Citrate Hydrate",
+ "edi_code": "",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206101",
+ "history_fetched_at": "2026-08-27T10:37:15Z",
+ "revisions": [
+  {
+   "revision_id": "201206101-bdcc6aec",
+   "content_sha256": "bdcc6aec05fbdbcc973ccf82d5241c34da50be7c8cc95a5a0534c2582ed73d89",
+   "ee_text": "(주사제) 저장혈액의 응고방지",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201206101/EE",
+   "first_observed_at": "2026-08-27T10:37:15Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

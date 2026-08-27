@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005828",
+ "item_name": "시나비엠정25밀리그램(시나칼세트염산염)",
+ "entp_name": "(주)팜젠사이언스",
+ "permit_date": "20200814",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245200]시나칼세트염산염",
+ "main_item_ingr_eng": "Cinacalcet Hydrochloride",
+ "edi_code": "670105030",
+ "atc_code": "H05BX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005828",
+ "revisions": [
+  {
+   "revision_id": "202005828-675c7cc3",
+   "content_sha256": "675c7cc3e92f44d4dd075731a5f6a6162cf7edfd841ae9e7514a6bbfb5fc5c3d",
+   "ee_text": "투석을 받고 있는 만성신부전 환자와 관련된 이차성 부갑상선 기능 항진증의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:25:35Z",
+   "last_observed_at": "2026-08-27T12:25:35Z",
+   "official_revision_date": "2020-08-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:25:35Z"
+}

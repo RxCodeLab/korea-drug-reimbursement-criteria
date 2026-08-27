@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401060",
+ "item_name": "리나루틴듀오정2.5/1000밀리그램(리나글립틴,메트포르민)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20240430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283624]리나글립틴베실산염|[M244179]메트포르민염산염",
+ "main_item_ingr_eng": "Linagliptin Besylate/Metformin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A10BD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401060",
+ "revisions": [
+  {
+   "revision_id": "202401060-839e5a50",
+   "content_sha256": "839e5a508334e69a0b8837151ea6ec8bd5273cc29e6f2c0213df23c8193e11a8",
+   "ee_text": "이 약은 리나글립틴과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:34:20Z",
+   "last_observed_at": "2026-08-27T13:34:20Z",
+   "official_revision_date": "2024-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:34:20Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906558",
+ "item_name": "라이트글리메포정1/250mg",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20190919",
+ "cancel_date": "20240919",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M086024]글리메피리드|[M244179]메트포르민염산염",
+ "main_item_ingr_eng": "Glimepiride/Metformin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A10BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906558",
+ "revisions": [
+  {
+   "revision_id": "201906558-e9ab61ec",
+   "content_sha256": "e9ab61ec8cf822f5f0047eb1021f18399ae5290367f21af8c0deb72ed726de2d",
+   "ee_text": "인슐린 비의존성 당뇨병(제2형)환자에서 식이요법 및 운동요법과 병행하여 - 글리메피리드 또는 메트포르민 단독요법으로 혈당조절효과가 불충분한 경우 - 글리메피리드와 메트포르민 병용요법의 대체",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:29:20Z",
+   "last_observed_at": "2026-08-27T13:29:20Z",
+   "official_revision_date": "2019-09-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:29:20Z"
+}

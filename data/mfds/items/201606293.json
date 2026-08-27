@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606293",
+ "item_name": "알레센자캡슐150밀리그램(알렉티닙염산염)",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "20161026",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264844]알렉티닙염산염(미분화)",
+ "main_item_ingr_eng": "Alectinib Hydrochloride Micronized",
+ "edi_code": "645001430",
+ "atc_code": "L01ED03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606293",
+ "revisions": [
+  {
+   "revision_id": "201606293-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "42",
+   "first_observed_at": "2026-08-27T13:38:47Z",
+   "last_observed_at": "2026-08-27T13:38:47Z",
+   "official_revision_date": "2024-09-26"
+  },
+  {
+   "revision_id": "201606293-e7d1b06c",
+   "content_sha256": "e7d1b06cdc011954cfec3da9cd2d0b7732a475e169bb8749f672eeadc1e8f311",
+   "ee_text": "역형성 림프종 인산화효소(ALK) 양성 국소 진행성 또는 전이성 비소세포폐암 환자의 치료",
+   "ee_doc_id": "16",
+   "official_revision_date": "2018-04-06",
+   "first_observed_at": "2026-08-27T13:38:47Z",
+   "last_observed_at": "2026-08-27T13:38:47Z"
+  },
+  {
+   "revision_id": "201606293-8183da43",
+   "content_sha256": "8183da4397555f12890b5e59ba262b59bdd4e5e3235e58159434ab77cc7de04d",
+   "ee_text": "이전에 크리조티닙으로 치료 받은 적이 있는 ALK 양성 국소 진행성 또는 전이성 비소세포폐암 환자의 치료 이 약의 유효성은 반응률 및 반응기간에 근거하였으며, 생존기간의 개선을 입증한 자료는 없다.",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:38:47Z",
+   "last_observed_at": "2026-08-27T13:38:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:47Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907587",
+ "item_name": "아셀렉스정2밀리그램(폴마콕시브)",
+ "entp_name": "씨지인바이츠주식회사",
+ "permit_date": "20191030",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260872]폴마콕시브",
+ "main_item_ingr_eng": "Polmacoxib",
+ "edi_code": "050100020",
+ "atc_code": "M01AH07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907587",
+ "revisions": [
+  {
+   "revision_id": "201907587-1b6db5ef",
+   "content_sha256": "1b6db5efd6fa562c9083313e80e45726e3682c5b8a3d21120f6eb15f8bd8c57d",
+   "ee_text": "골관절염(퇴행관절염)의 증상이나 징후의 완화 선택성 COX-2 억제제인 이 약을 투여하는 경우, 개개 환자의 전반적인 위험성을 평가해야한다. (사용상의 주의사항 5. 일반적 주의 참고",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201907587/EE",
+   "first_observed_at": "2026-08-27T13:16:41Z",
+   "last_observed_at": "2026-08-27T13:16:41Z"
+  },
+  {
+   "revision_id": "201907587-2881d8fb",
+   "content_sha256": "2881d8fb8553ae4f2f332e2e0bd7677e950ecfbf34357e092858b376eb8afc49",
+   "ee_text": "전조증이 수반되거나 수반되지 않는 편두통의 조속한 완화 선택성 COX-2 억제제인 이 약을 투여하는 경우, 개개 환자의 전반적인 위험성을 평가해야 한다. (사용상의 주의사항 5. 일반적 주의 참고).",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-10-30",
+   "first_observed_at": "2026-08-27T13:16:41Z",
+   "last_observed_at": "2026-08-27T13:16:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:16:41Z"
+}

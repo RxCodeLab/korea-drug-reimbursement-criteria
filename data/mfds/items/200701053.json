@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200701053",
+ "item_name": "디스코비스크주(황산콘드로이틴나트륨, 히알루론산나트륨)",
+ "entp_name": "한국알콘(주)",
+ "permit_date": "20070125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222910]히알루론산나트륨|[M241332]황산콘드로이틴나트륨",
+ "main_item_ingr_eng": "Sodium Chondroitin Sulfate/Sodium Hyaluronate",
+ "edi_code": "652400061",
+ "atc_code": "S01KA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701053",
+ "revisions": [
+  {
+   "revision_id": "200701053-558ce2a1",
+   "content_sha256": "558ce2a17aabb9a0dd8c550cac018e8bd83b1f54d4b6e25ca520f6686c95347b",
+   "ee_text": "백내장 적출 및 인공 수정체 이식을 포함한 각종 전방부 안과 수술의 보조제",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T11:03:31Z",
+   "last_observed_at": "2026-08-27T11:03:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:03:31Z"
+}

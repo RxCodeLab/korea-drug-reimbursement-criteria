@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308596",
+ "item_name": "가두벌크림",
+ "entp_name": "삼익제약(주)",
+ "permit_date": "20030704",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M215133]에녹솔론|[M269746]dl-캄파|[M222965]디부카인염산염|[M230875]l-멘톨|[M040108]디펜히드라민",
+ "main_item_ingr_eng": "DL-Camphor/Dibucaine Hydrochloride/Diphenhydramine/Enoxolone/L-Menthol",
+ "edi_code": "",
+ "atc_code": "D04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308596",
+ "revisions": [
+  {
+   "revision_id": "200308596-85742864",
+   "content_sha256": "85742864348bfa5456769393b16621c5265fd3aec43c2484fc777510dfc94ca4",
+   "ee_text": "벌레 물린데, 피부가려움, 습진, 두드러기, 피부염, 땀띠, 동창",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T12:29:35Z",
+   "last_observed_at": "2026-08-27T12:29:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:35Z"
+}

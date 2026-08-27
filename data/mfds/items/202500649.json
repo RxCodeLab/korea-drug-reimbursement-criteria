@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500649",
+ "item_name": "엑스콜큐업코프시럽",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20250321",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261590]맥문동탕연조엑스(2.7→1)|[M040353]아세트아미노펜|[M223273]티페피딘히벤즈산염",
+ "main_item_ingr_eng": "Acetaminophen/Maegmundongtang Soft Extract (2.7→1)/Tipepidine Hibenzate",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500649",
+ "revisions": [
+  {
+   "revision_id": "202500649-424c527b",
+   "content_sha256": "424c527b2102ec8d67d9e9c1019953fe1788c50eca7251c23df6c356a2d4cfb5",
+   "ee_text": "감기의 제증상(여러증상)[인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통]의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:05:34Z",
+   "last_observed_at": "2026-08-27T13:05:34Z",
+   "official_revision_date": "2025-03-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:05:34Z"
+}

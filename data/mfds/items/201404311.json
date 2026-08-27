@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404311",
+ "item_name": "가싸이바주(오비누투주맙, 유전자재조합)",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "20140922",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260331]오비누투주맙",
+ "main_item_ingr_eng": "Obinutuzumab",
+ "edi_code": "645001371",
+ "atc_code": "L01XC15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404311",
+ "revisions": [
+  {
+   "revision_id": "201404311-61ab0fca",
+   "content_sha256": "61ab0fcaa4ff1f57cc33d5634a98ddaf43e8fc2ed522cb627663d493c4dea011",
+   "ee_text": "○ 만성 림프구성 백혈병(Chronic Lymphocytic Leukemia, CLL) - 동반질환이 있으며 이전에 치료받은 적이 없는 만성 림프구성 백혈병에서 클로람부실과 병용투여 ○ 소포성 림프종(Follicular Lymphoma, FL) - 이전에 치료받은 적이 없는 stage II(bulky), III 또는 IV 소포성 림프종에서 화학요법과 병용투여 후 유지요법으로 단독 투여 - 리툭시맙 단독요법 또는 리툭시맙이 포함된 병용요법에 반응하지 않거나, 투여 중 또는 투여 후에 질병이 진행된 소포성 림프종에서 벤다무스틴과 병용투여 후 유지요법으로 단독 투여 ○ 루푸스 신장염(Lupus Nephritis, LN) - 표준요법으로 치료 중인 활동성 루푸스 신장염 성인 환자의 치료",
+   "ee_doc_id": "49",
+   "first_observed_at": "2026-08-27T13:55:28Z",
+   "last_observed_at": "2026-08-27T13:55:28Z",
+   "official_revision_date": "2026-06-11"
+  },
+  {
+   "revision_id": "201404311-abc53281",
+   "content_sha256": "abc5328160b3ba2ffdb4619f6ab8831bc3859c25a70838efed934e5e2aa74fa9",
+   "ee_text": "동반질환이 있으며 이전에 치료받은 적이 없는 만성 림프구성 백혈병에서 클로람부실과 병용투여 리툭시맙 단독요법 또는 리툭시맙이 포함된 병용요법에 반응하지 않거나, 투여 중 또는 투여 후에 질병이 진행된 여포형 림프종에서 벤다무스틴과 병용투여 후 이 약 유지요법",
+   "ee_doc_id": "19",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:55:28Z",
+   "last_observed_at": "2026-08-27T13:55:28Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:55:28Z"
+}

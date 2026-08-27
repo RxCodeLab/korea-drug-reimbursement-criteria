@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199000548",
+ "item_name": "유한메토트렉세이트주사액25밀리그램/밀리리터",
+ "entp_name": "(주)유한양행",
+ "permit_date": "19900108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040168]메토트렉세이트",
+ "main_item_ingr_eng": "Methotrexate",
+ "edi_code": "642101491,642101501",
+ "atc_code": "L01BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000548",
+ "revisions": [
+  {
+   "revision_id": "199000548-2fb4131d",
+   "content_sha256": "2fb4131d0e49fc58aba7924018fb5008380237249a58f1453e1de5038b1e4701",
+   "ee_text": "1) 급성백혈병, 비호지킨림프종, 육종(연부육종, 골육종) 2) 유방암, 폐암, 두경부암, 방광암의 고형암, 융모질환(융모암, 파괴포상기태, 포상기태)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199000548/EE",
+   "first_observed_at": "2026-08-27T12:23:00Z",
+   "last_observed_at": "2026-08-27T12:23:00Z"
+  },
+  {
+   "revision_id": "199000548-64ecf113",
+   "content_sha256": "64ecf11382b84e3a5566dbf1d09495f1dbe312dd3484705957b267f63e7059df",
+   "ee_text": "1. 백혈병 2. 융모질환(융모암, 파괴포상기태, 포상기태)의 자각적, 타각적 증상의 완화 3. 류마티스관절염 4. 다른 약물로 효과가 없는 중증의 불응성 건선 1. 다음과 같은 암상태의 광범위한 처치 1) 급성백혈병, 비호지킨림프종, 육종(연부육종, 골육종) 2) 유방암, 폐암, 두경부암, 방광암의 고형암, 융모질환(융모암, 파괴포상기태, 포상기태) 2. 다른 약물로 효과가 없는 중증의 불응성 건선",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:23:00Z",
+   "last_observed_at": "2026-08-27T12:23:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:23:00Z"
+}

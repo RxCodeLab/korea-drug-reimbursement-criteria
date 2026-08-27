@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402194",
+ "item_name": "제놀록소파워겔(록소프로펜나트륨수화물)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20240909",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222839]록소프로펜나트륨수화물",
+ "main_item_ingr_eng": "Loxoprofen Sodium Hydrate",
+ "edi_code": "",
+ "atc_code": "M02AA31",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402194",
+ "revisions": [
+  {
+   "revision_id": "202402194-5d83b4cd",
+   "content_sha256": "5d83b4cdad82928756213320b96ca0d3302d8026e3e8d574529cc91ce36e6251",
+   "ee_text": "요통, 어깨 결림에 따른 어깨 통증, 관절통, 근육통, 건초염(손∙손목 통증), 팔꿈치 통증(테니스 엘보우 등), 타박상, 염좌(삠)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:15:36Z",
+   "last_observed_at": "2026-08-27T12:15:36Z",
+   "official_revision_date": "2024-09-09"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:15:36Z"
+}

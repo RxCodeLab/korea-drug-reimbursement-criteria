@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601146",
+ "item_name": "스핀라자주28밀리그램(뉴시너센나트륨)",
+ "entp_name": "바이오젠코리아유한회사",
+ "permit_date": "20260420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267178]뉴시너센나트륨",
+ "main_item_ingr_eng": "Nusinersen sodium",
+ "edi_code": "",
+ "atc_code": "M09AX07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601146",
+ "revisions": [
+  {
+   "revision_id": "202601146-e9622252",
+   "content_sha256": "e9622252e07d75968aad5d0a14952e03c5f3a08c25aba7d258396bc426919f1c",
+   "ee_text": "5q 척수성 근위축증의 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601146/EE",
+   "first_observed_at": "2026-08-27T12:13:35Z",
+   "last_observed_at": "2026-08-27T12:13:35Z"
+  },
+  {
+   "revision_id": "202601146-b3593a8c",
+   "content_sha256": "b3593a8ca3cb8385fe2f5b75b08463c5357bb324d83ec510afc147a9987b8072",
+   "ee_text": "5q 척추성 근위축증의 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2026-04-20",
+   "first_observed_at": "2026-08-27T12:13:35Z",
+   "last_observed_at": "2026-08-27T12:13:35Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:13:35Z"
+}

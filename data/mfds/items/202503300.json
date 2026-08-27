@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503300",
+ "item_name": "비오플라스타",
+ "entp_name": "동성제약(주)",
+ "permit_date": "20251217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279284]L-멘톨|[M261256]이소프로필메틸페놀|[M040108]디펜히드라민|[M279284]L-멘톨|[M261256]이소프로필메틸페놀|[M040108]디펜히드라민",
+ "main_item_ingr_eng": "Diphenhydramine/Isopropyl Methylphenol/L-Menthol",
+ "edi_code": "",
+ "atc_code": "D04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503300",
+ "revisions": [
+  {
+   "revision_id": "202503300-08aaba1e",
+   "content_sha256": "08aaba1e25992b6d4d21a2f64d422fa15ad96111e1b748fa6b3f9e2a62b0864d",
+   "ee_text": "벌레물린데, 가려움, 동창(언 상처)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:30:36Z",
+   "last_observed_at": "2026-08-27T12:30:36Z",
+   "official_revision_date": "2025-12-17"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:30:36Z"
+}

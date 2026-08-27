@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201100681",
+ "item_name": "디페인주3ml(디클로페낙나트륨)(수출용)",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20110214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050288]디클로페낙나트륨",
+ "main_item_ingr_eng": "Diclofenac Sodium",
+ "edi_code": "",
+ "atc_code": "M01AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100681",
+ "revisions": [
+  {
+   "revision_id": "201100681-71939b06",
+   "content_sha256": "71939b069f15e350c06c2bccf17e47b19df4a0c483a3ed310d98eaff12c7f19a",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 수술후 . 외상후 염증 및 동통, 급성통풍, 신 및 간산통",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T12:41:32Z",
+   "last_observed_at": "2026-08-27T12:41:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:41:32Z"
+}

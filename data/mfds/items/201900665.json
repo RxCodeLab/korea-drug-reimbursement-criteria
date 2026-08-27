@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900665",
+ "item_name": "텔탄지드정80/12.5밀리그램",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20190125",
+ "cancel_date": "20240125",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M090395]텔미사르탄|[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Telmisartan",
+ "edi_code": "",
+ "atc_code": "C09DA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900665",
+ "revisions": [
+  {
+   "revision_id": "201900665-0441352f",
+   "content_sha256": "0441352f5845153b8193ce8a27f0b93fd0ad67392d96c09ec7aa739e6ce64732",
+   "ee_text": "본태성 고혈압의 치료 이 약은 텔미사르탄 단독투여로 혈압이 적절히 조절되지 않는 환자에게 투여한다",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:42:42Z",
+   "last_observed_at": "2026-08-27T12:42:42Z",
+   "official_revision_date": "2019-01-25"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:42:42Z"
+}

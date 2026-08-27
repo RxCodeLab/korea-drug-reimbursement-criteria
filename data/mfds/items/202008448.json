@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008448",
+ "item_name": "스리핀에스정",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20201203",
+ "cancel_date": "20251203",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222973]디펜히드라민염산염|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Diphenhydramine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008448",
+ "revisions": [
+  {
+   "revision_id": "202008448-fd876336",
+   "content_sha256": "fd876336ca1b18748bb59d806565942c55627c4e7a1837a6a7a1c02a166a9aca",
+   "ee_text": "코감기(급성비염), 알레르기성 비염 또는 부비동염에 의한 다음 증상의 완화 : 코막힘, 콧물, 재치기, 눈물, 인후통, 머리 무거움",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:30:20Z",
+   "last_observed_at": "2026-08-27T12:30:20Z",
+   "official_revision_date": "2020-12-03"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:30:20Z"
+}

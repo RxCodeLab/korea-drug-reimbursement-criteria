@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403607",
+ "item_name": "포말리스트캡슐3밀리그램(포말리도마이드)",
+ "entp_name": "(유)한국비엠에스제약",
+ "permit_date": "20140804",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260037]포말리도마이드",
+ "main_item_ingr_eng": "Pomalidomide",
+ "edi_code": "658700880",
+ "atc_code": "L04AX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403607",
+ "revisions": [
+  {
+   "revision_id": "201403607-419fbeb9",
+   "content_sha256": "419fbeb903f7507b6c547ba988f4a2cd7b1c09cdd942bb40fb1da355bc8d890c",
+   "ee_text": "1. 이전에 레날리도마이드를 포함한 한 가지 이상의 치료를 받은 다발골수종 환자의 치료에 보르테조밉 및 덱사메타손과의 병용요법 2. 이전에 레날리도마이드와 보르테조밉을 포함한 최소 두 가지 치료를 받고, 재발 또는 불응한 다발골수종 환자의 치료에 덱사메타손과의 병용요법",
+   "ee_doc_id": "38",
+   "first_observed_at": "2026-08-27T13:25:13Z",
+   "last_observed_at": "2026-08-27T13:25:13Z",
+   "official_revision_date": "2022-08-22"
+  },
+  {
+   "revision_id": "201403607-b6508d45",
+   "content_sha256": "b6508d456f7f7fa13e894930bad6a29526f38616c4aeb3f1701b3979f9bc3396",
+   "ee_text": "이전에 레날리도마이드와 보르테조밉을 포함한 최소 2가지 치료를 받고, 재발 및 불응한 다발성 골수종 환자의 치료에 덱사메타손과 병용요법",
+   "ee_doc_id": "18",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:25:13Z",
+   "last_observed_at": "2026-08-27T13:25:13Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:25:13Z"
+}

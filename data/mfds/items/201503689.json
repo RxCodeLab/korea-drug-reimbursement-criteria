@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503689",
+ "item_name": "트리멕정",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20150609",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279128]돌루테그라비르나트륨(미분화)|[M262968]아바카비르황산염|[M086332]라미부딘",
+ "main_item_ingr_eng": "Abacavir Sulfate/Dolutegravir Sodium Micronized/Lamivudine",
+ "edi_code": "650003040",
+ "atc_code": "J05AR13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503689",
+ "revisions": [
+  {
+   "revision_id": "201503689-4e1ca6c4",
+   "content_sha256": "4e1ca6c44224a8824506b9fe97110bb4e487347b17d907159174ac77a8b7e6c6",
+   "ee_text": "성인 및 12세 이상의 청소년(체중 40kg이상)에서 인체면역결핍바이러스(HIV) 감염 치료",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T13:41:31Z",
+   "last_observed_at": "2026-08-27T13:41:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:41:31Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705171",
+ "item_name": "뉴리탄정0.2밀리그램(데스모프레신아세트산염)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20170630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250270]데스모프레신아세트산염",
+ "main_item_ingr_eng": "Desmopressin Acetate",
+ "edi_code": "662503700",
+ "atc_code": "H01BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705171",
+ "revisions": [
+  {
+   "revision_id": "201705171-65fcddbd",
+   "content_sha256": "65fcddbd1ba62a7ea5dbea96516160dc9220a0c09bf4212adc10b90252bc3590",
+   "ee_text": "일차성 야뇨증(5세이상), 야간다뇨와 관련이 있는 야간뇨증상의 치료 (성인에 한함)",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T11:07:28Z",
+   "last_observed_at": "2026-08-27T11:07:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:07:28Z"
+}

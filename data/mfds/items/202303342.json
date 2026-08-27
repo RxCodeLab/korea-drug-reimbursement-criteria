@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303342",
+ "item_name": "젤렌카프리필드시린지주80mg/0.8mL(아달리무맙,유전자재조합)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20231214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268927]아달리무맙",
+ "main_item_ingr_eng": "Adalimumab",
+ "edi_code": "668903371",
+ "atc_code": "L04AB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303342",
+ "revisions": [
+  {
+   "revision_id": "202303342-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:09:09Z",
+   "last_observed_at": "2026-08-27T11:09:09Z",
+   "official_revision_date": "2023-12-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:09:09Z"
+}

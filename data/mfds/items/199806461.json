@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199806461",
+ "item_name": "라미실외용액(테르비나핀염산염)",
+ "entp_name": "지피테라퓨틱스코리아주식회사",
+ "permit_date": "19980416",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252342]테르비나핀염산염",
+ "main_item_ingr_eng": "Terbinafine Hydrochloride",
+ "edi_code": "057200151",
+ "atc_code": "D01AE15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806461",
+ "revisions": [
+  {
+   "revision_id": "199806461-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "28",
+   "first_observed_at": "2026-08-27T12:43:19Z",
+   "last_observed_at": "2026-08-27T12:43:19Z",
+   "official_revision_date": "2026-05-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:43:19Z"
+}

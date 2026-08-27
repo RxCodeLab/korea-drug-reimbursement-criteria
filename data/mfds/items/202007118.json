@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007118",
+ "item_name": "파라세트주(아세트아미노펜)",
+ "entp_name": "주식회사케이에스제약",
+ "permit_date": "20201016",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen",
+ "edi_code": "",
+ "atc_code": "N02BE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007118",
+ "revisions": [
+  {
+   "revision_id": "202007118-d82fb7f5",
+   "content_sha256": "d82fb7f5d6d18ffeecabbe2e4e474240f8f99771ad430e5b64faf606e9712abe",
+   "ee_text": "통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 1. 중등도의 통증(특히 수술 후)의 단기간 치료 2. 발열의 단기간 치료",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T13:03:14Z",
+   "last_observed_at": "2026-08-27T13:03:14Z",
+   "official_revision_date": "2025-05-02"
+  },
+  {
+   "revision_id": "202007118-f06a2360",
+   "content_sha256": "f06a236009d9033d14839136b8f7d61fac902c7250c2bc1e427237463a8f69fc",
+   "ee_text": "통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중등도의 통증(특히 수술 후)의 단기간 치료 - 발열의 단기간 치료 통증으로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중증도 통증(특히 수술 후)의 단기간 치료",
+   "ee_doc_id": "12",
+   "official_revision_date": "2025-04-22",
+   "first_observed_at": "2026-08-27T13:03:14Z",
+   "last_observed_at": "2026-08-27T13:03:14Z"
+  },
+  {
+   "revision_id": "202007118-b133ebf1",
+   "content_sha256": "b133ebf12ec7db1193b8114973e324cbdf084a2343cf683572bd86458e52b5a8",
+   "ee_text": "통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-10-16",
+   "first_observed_at": "2026-08-27T13:03:14Z",
+   "last_observed_at": "2026-08-27T13:03:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:03:14Z"
+}

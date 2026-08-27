@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201700875",
+ "item_name": "타크로벨서방캡슐1밀리그램(타크로리무스)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20170217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089193]타크로리무스수화물",
+ "main_item_ingr_eng": "Tacrolimus Hydrate",
+ "edi_code": "643307690",
+ "atc_code": "L04AD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700875",
+ "revisions": [
+  {
+   "revision_id": "201700875-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-27T12:33:40Z",
+   "last_observed_at": "2026-08-27T12:33:40Z",
+   "official_revision_date": "2023-02-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:40Z"
+}

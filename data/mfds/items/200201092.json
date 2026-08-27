@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201092",
+ "item_name": "신신미니핫플라스타",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20021204",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040200]박하유|[M200188]노닐산바닐릴아미드|[M040108]디펜히드라민|[M204423]dl-캄파|[M203279]살리실산메틸|[M230875]l-멘톨|[M223240]토코페롤아세테이트",
+ "main_item_ingr_eng": "DL-Camphor/Diphenhydramine/L-Menthol/Mentha Herb Oil/Methyl Salicylate/Tocopherol Acetate/Vanillyl Nonylamide",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201092",
+ "revisions": [
+  {
+   "revision_id": "200201092-d5911f92",
+   "content_sha256": "d5911f92d313c01cd95edd950d78507dbc72cb5101089e33bcf402226d8a5512",
+   "ee_text": "질환및 증상의 소염, 진통 : 타박, 염좌, 근육통, 관절통, 요통, 견통, 신경통, 류마티스통",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T12:29:33Z",
+   "last_observed_at": "2026-08-27T12:29:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:33Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006401",
+ "item_name": "오스테도정6밀리그램(듀테트라베나진)",
+ "entp_name": "(주)한독테바",
+ "permit_date": "20200916",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279512]듀테트라베나진",
+ "main_item_ingr_eng": "Deutetrabenazine",
+ "edi_code": "",
+ "atc_code": "N07XX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006401",
+ "revisions": [
+  {
+   "revision_id": "202006401-b0ee6eb8",
+   "content_sha256": "b0ee6eb8b292a879e72fb0426ed38ca34a191b540fdad174bef10d0224230937",
+   "ee_text": "1. 헌팅톤 무도병의 증상 개선 2. 지연성 운동이상증의 증상 개선",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-27T13:24:54Z",
+   "last_observed_at": "2026-08-27T13:24:54Z",
+   "official_revision_date": "2025-04-09"
+  },
+  {
+   "revision_id": "202006401-d20ae192",
+   "content_sha256": "d20ae19208356d2f3624edcd7a20ef0fdf43a63993a710414b4dcdee7c840419",
+   "ee_text": "헌팅톤 무도병의 증상 개선",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-09-16",
+   "first_observed_at": "2026-08-27T13:24:54Z",
+   "last_observed_at": "2026-08-27T13:24:54Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:24:54Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403975",
+ "item_name": "크로세펜정",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20140826",
+ "cancel_date": "20230922",
+ "status": "취하",
+ "main_item_ingr": "[M040614]클로르족사존|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Chlorzoxazone",
+ "edi_code": "",
+ "atc_code": "M03BB53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403975",
+ "revisions": [
+  {
+   "revision_id": "201403975-83adf585",
+   "content_sha256": "83adf585ffb82d543decc08911d7f1a2ee729ee927f79b7e7750b3e2d6d5835e",
+   "ee_text": "신경통, 근육통, 관절통, 요(허리)통, 염좌통(삔 통증), 견통(어깨결림), 근경련(근육경련), 근경직등 근육의 이상 긴장을 수반하는 제질환(여러 질환)",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T13:00:15Z",
+   "last_observed_at": "2026-08-27T13:00:15Z",
+   "official_revision_date": "2019-11-01"
+  },
+  {
+   "revision_id": "201403975-f99e7687",
+   "content_sha256": "f99e7687a6b26f9b0a4dc6940949f1fa0417bf6bb4125daade3dc13ce2213926",
+   "ee_text": "신경통, 근육통, 관절통, 요(허리)통, 염좌통(삔 통증), 견통(어깨통증), 근경련(근육 경련), 근경직 등 근육의 이상 긴장을 수반하는 제 질환(여러 질환)",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:00:15Z",
+   "last_observed_at": "2026-08-27T13:00:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:00:15Z"
+}

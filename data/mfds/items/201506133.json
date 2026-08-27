@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201506133",
+ "item_name": "나파벨탄주(나파모스타트메실산염)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20150828",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M262090]나파모스타트메실산염",
+ "main_item_ingr_eng": "Nafamostat Mesylate",
+ "edi_code": "643307141",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506133",
+ "history_fetched_at": "2026-08-27T10:39:06Z",
+ "revisions": [
+  {
+   "revision_id": "201506133-a9debaf8",
+   "content_sha256": "a9debaf87f8967d5e368352c88738fdd21274ba74b3cdb515c3ff4a25636d79d",
+   "ee_text": "1. 파종혈관내응고증(DIC) 2. 출혈성 병변 또는 출혈경향을 갖는 환자의 혈액체외순환시 관류혈액 응고방지(혈액투석 및 혈장분리반출술)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201506133/EE",
+   "first_observed_at": "2026-08-27T10:39:06Z",
+   "last_observed_at": "2026-08-27T10:55:16Z"
+  },
+  {
+   "revision_id": "201506133-56b17254",
+   "content_sha256": "56b17254c04dd335b68d37afa84296cf136974503cdd556f00f624dd86abaa76",
+   "ee_text": "(혈액 투석 및 혈장분리반출술)",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T10:39:06Z",
+   "last_observed_at": "2026-08-27T10:39:06Z"
+  }
+ ]
+}

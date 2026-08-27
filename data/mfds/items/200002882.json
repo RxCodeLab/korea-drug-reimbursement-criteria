@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002882",
+ "item_name": "덴티스타캡슐(독시사이클린하이클레이트수화물)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20000512",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222960]독시사이클린하이클레이트수화물",
+ "main_item_ingr_eng": "Doxycycline Hyclate Hydrate",
+ "edi_code": "",
+ "atc_code": "A01AB22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002882",
+ "revisions": [
+  {
+   "revision_id": "200002882-51e1c3f2",
+   "content_sha256": "51e1c3f235e06b8a38628ab6774f9e97bd9f8769359f5422de640b9ea5baf940",
+   "ee_text": "성인 치주염환자의 치주낭 깊이 감소 및 치은의 증진",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-27T12:01:39Z",
+   "last_observed_at": "2026-08-27T12:01:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:01:39Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401934",
+ "item_name": "포말리킨캡슐3밀리그램(포말리도마이드)",
+ "entp_name": "(주)보령",
+ "permit_date": "20240809",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260037]포말리도마이드",
+ "main_item_ingr_eng": "Pomalidomide",
+ "edi_code": "641908470",
+ "atc_code": "L04AX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401934",
+ "revisions": [
+  {
+   "revision_id": "202401934-419fbeb9",
+   "content_sha256": "419fbeb903f7507b6c547ba988f4a2cd7b1c09cdd942bb40fb1da355bc8d890c",
+   "ee_text": "1. 이전에 레날리도마이드를 포함한 한 가지 이상의 치료를 받은 다발골수종 환자의 치료에 보르테조밉 및 덱사메타손과의 병용요법 2. 이전에 레날리도마이드와 보르테조밉을 포함한 최소 두 가지 치료를 받고, 재발 또는 불응한 다발골수종 환자의 치료에 덱사메타손과의 병용요법",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:25:14Z",
+   "last_observed_at": "2026-08-27T13:25:14Z",
+   "official_revision_date": "2024-08-09"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:25:14Z"
+}

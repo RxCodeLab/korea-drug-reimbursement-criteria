@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800590",
+ "item_name": "비자다킨주(아자시티딘)",
+ "entp_name": "(주)보령",
+ "permit_date": "20180131",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M248237]아자시티딘",
+ "main_item_ingr_eng": "Azacitidine",
+ "edi_code": "641906761",
+ "atc_code": "L01BC07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800590",
+ "revisions": [
+  {
+   "revision_id": "201800590-a5401cef",
+   "content_sha256": "a5401cef981584d4d3d661c7050de829b63190e0d6a4495b4f2662e50a051a70",
+   "ee_text": "불응성빈혈(RA), 환상철적모구가 있는 불응성빈혈(RARS)(호중구 감소증이나 혈소판 감소증을 수반하거나 수혈이 요구될 때), 골수아구 과잉 불응성빈혈(RAEB)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:46:57Z",
+   "last_observed_at": "2026-08-27T13:46:57Z",
+   "official_revision_date": "2018-01-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:46:57Z"
+}

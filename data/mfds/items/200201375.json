@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201375",
+ "item_name": "파누스에프정(은행엽건조엑스)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "20020305",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M273892]은행엽 건조엑스",
+ "main_item_ingr_eng": "Ginkgo Biloba Leaf Dried Extract",
+ "edi_code": "647802410",
+ "atc_code": "N06DX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201375",
+ "revisions": [
+  {
+   "revision_id": "200201375-ecaa8f0e",
+   "content_sha256": "ecaa8f0e406e79e10721dd2ad1433d3dd4d21ce6735fb5d5cc0c8566c5d7a89f",
+   "ee_text": "1) 말초동맥순환장애(간헐성파행증(이따금 절뚝거림))의 치료 2) 어지러움, 혈관성 및 퇴행성 이명(귀울림) 3) 이명(귀울림), 두통, 기억력감퇴, 집중력장애, 우울감, 어지러움등의 치매성증상을 수반하는 기질성 뇌기능장애의 치료",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-27T13:34:42Z",
+   "last_observed_at": "2026-08-27T13:34:42Z",
+   "official_revision_date": "2019-11-04"
+  },
+  {
+   "revision_id": "200201375-f7eae226",
+   "content_sha256": "f7eae2262bf0753f015781945ee8304598cad19db5d9687c9f6d6da286cd4b3f",
+   "ee_text": "1) 말초동백순환장애(간헐성파행증(이따금 절뚝거림))의 치료 2) 어지러움, 혈관성 및 퇴행성 이명(귀울림) 3) 이명(귀울림), 두통, 기억력감퇴, 집중력장애, 우울감, 어지러움등의 치매성증상을 수반하는 기질성 뇌기능장애의 치료",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:34:42Z",
+   "last_observed_at": "2026-08-27T13:34:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:34:42Z"
+}

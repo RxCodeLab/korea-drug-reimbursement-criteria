@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705044",
+ "item_name": "아모잘탄플러스정5/50/12.5밀리그램(암로디핀,로사르탄,클로르탈리돈)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20170629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246033]암로디핀캄실산염|[M040615]클로르탈리돈|[M249673]로사르탄칼륨",
+ "main_item_ingr_eng": "Amlodipine Camsylate/Chlorthalidone/Losartan Potassium",
+ "edi_code": "643507800",
+ "atc_code": "C09DX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705044",
+ "revisions": [
+  {
+   "revision_id": "201705044-b551c97f",
+   "content_sha256": "b551c97f26f47616776b3633de15772a8f2ecba51b14827e4228f3b4d4924322",
+   "ee_text": "암로디핀과 로사르탄의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T12:27:08Z",
+   "last_observed_at": "2026-08-27T12:27:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:27:08Z"
+}

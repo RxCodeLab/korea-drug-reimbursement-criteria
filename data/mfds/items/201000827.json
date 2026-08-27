@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201000827",
+ "item_name": "프리텐션플러스정40/12.5밀리그램",
+ "entp_name": "(주)다산제약",
+ "permit_date": "20100126",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223356]히드로클로로티아지드|[M090395]텔미사르탄",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Telmisartan",
+ "edi_code": "678600050",
+ "atc_code": "C09DA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000827",
+ "revisions": [
+  {
+   "revision_id": "201000827-3d533191",
+   "content_sha256": "3d5331918f93c5260365e633d0b3fc0232ce4f9a9492f91c7bdde4cae8d3ffd8",
+   "ee_text": "이 약은 텔미사르탄 단독투여로 혈압이 적절히 조절되지 않는 환자에게 투여한다.",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-27T12:42:12Z",
+   "last_observed_at": "2026-08-27T12:42:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:42:12Z"
+}

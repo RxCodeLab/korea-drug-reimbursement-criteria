@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802576",
+ "item_name": "치감플러스정",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20180620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M040523]작약|[M040135]마황|[M040071]대추|[M050036]육계|[M040007]건강|[M040006]감초|[M040004]갈근",
+ "main_item_ingr_eng": "Acetaminophen/Cinnamon Bark/Ephedra Herb/Ginger/Jujube/Licorice/Peony Root/Pueraria Root",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802576",
+ "revisions": [
+  {
+   "revision_id": "201802576-65fa25e2",
+   "content_sha256": "65fa25e2aeb979b1b4ec87fb0330b63fa7bc72abb2e1a4d06a7818a00812f173",
+   "ee_text": "감기의 제증상(여러증상)(인후(목구멍)통, 오한(춥고떨리는증상), 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T13:01:32Z",
+   "last_observed_at": "2026-08-27T13:01:32Z",
+   "official_revision_date": "2018-08-08"
+  },
+  {
+   "revision_id": "201802576-07bc74d5",
+   "content_sha256": "07bc74d5b300b4a0e032776c522c6d0cd3b4918a6754c74ca0ee60090d73ad1f",
+   "ee_text": "감기의 제증상(여러증상)(인후(목구멍)통, 오한(춥고떨리는증상), 발열, 두통, 관절통, 근육통의 완화",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-06-20",
+   "first_observed_at": "2026-08-27T13:01:32Z",
+   "last_observed_at": "2026-08-27T13:01:32Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:01:32Z"
+}

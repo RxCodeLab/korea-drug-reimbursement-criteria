@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604198",
+ "item_name": "레피졸정30밀리그램(아리피프라졸)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20160707",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096829]아리피프라졸",
+ "main_item_ingr_eng": "Aripiprazole",
+ "edi_code": "651904410",
+ "atc_code": "N05AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604198",
+ "revisions": [
+  {
+   "revision_id": "201604198-129ae733",
+   "content_sha256": "129ae733591506720f12f0c4abb4990568666f5b14d23268e2ecc70c12be7737",
+   "ee_text": "1. 조현병 2. 양극성 장애와 관련된 급성 조증 및 혼재 삽화의 치료 3. 뚜렛장애",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-27T13:27:16Z",
+   "last_observed_at": "2026-08-27T13:27:16Z",
+   "official_revision_date": "2022-11-02"
+  },
+  {
+   "revision_id": "201604198-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "17",
+   "official_revision_date": "2022-07-18",
+   "first_observed_at": "2026-08-27T13:27:16Z",
+   "last_observed_at": "2026-08-27T13:27:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:16Z"
+}

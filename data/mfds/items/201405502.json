@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405502",
+ "item_name": "명인트라조돈염산염정25mg",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20141125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246553]트라조돈염산염",
+ "main_item_ingr_eng": "Trazodone Hydrochloride",
+ "edi_code": "651904140",
+ "atc_code": "N06AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405502",
+ "revisions": [
+  {
+   "revision_id": "201405502-08225d13",
+   "content_sha256": "08225d13a6d92afc2fceedaf09af36f923158db046f19e1c1c7c98b0b2325659",
+   "ee_text": "(경구 : 정제) 우울증",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T12:29:20Z",
+   "last_observed_at": "2026-08-27T12:29:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:20Z"
+}

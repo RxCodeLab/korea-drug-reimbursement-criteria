@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502211",
+ "item_name": "프란코정50밀리그램(프란루카스트수화물(미분화))",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20250826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284969]프란루카스트수화물(미분화)",
+ "main_item_ingr_eng": "Pranlukast Hydrate",
+ "edi_code": "645907630",
+ "atc_code": "R03DC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502211",
+ "revisions": [
+  {
+   "revision_id": "202502211-0f416b3a",
+   "content_sha256": "0f416b3ae8dc6021f2436fb132fe72c081ccf620c0925f561b63f52fdba2a1e6",
+   "ee_text": "1. 기관지 천식 2. 알레르기성 비염",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:23:55Z",
+   "last_observed_at": "2026-08-27T13:23:55Z",
+   "official_revision_date": "2025-08-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:23:55Z"
+}

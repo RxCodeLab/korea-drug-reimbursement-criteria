@@ -12,15 +12,15 @@
  "edi_code": "624900290",
  "atc_code": "J05AP57",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800200",
+ "history_fetched_at": "2026-08-27T07:58:49Z",
  "revisions": [
   {
    "revision_id": "201800200-645bae7b",
    "content_sha256": "645bae7b0326355faaa9438a570df85a2bcad8e6cf55a36ecaffd0b940b55b92",
    "ee_text": "만성 C형 간염 바이러스(hepatitis C virus; HCV) 유전자형 1, 2, 3, 4, 5, 또는 6 형에 감염된 성인 및 만 12세 이상 청소년 환자의 치료",
-   "ee_doc_id": "19",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201800200/EE",
    "first_observed_at": "2026-08-27T07:58:49Z",
-   "last_observed_at": "2026-08-27T07:58:49Z",
-   "official_revision_date": "2019-11-04"
+   "last_observed_at": "2026-08-27T10:48:32Z"
   },
   {
    "revision_id": "201800200-8c469148",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T07:58:49Z",
    "last_observed_at": "2026-08-27T07:58:49Z"
   }
- ],
- "history_fetched_at": "2026-08-27T07:58:49Z"
+ ]
 }

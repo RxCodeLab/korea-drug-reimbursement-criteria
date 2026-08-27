@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301661",
+ "item_name": "엑소닌정(에페리손염산염)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20030704",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M232172]에페리손염산염",
+ "main_item_ingr_eng": "Eperisone Hydrochloride",
+ "edi_code": "644701750",
+ "atc_code": "M03BX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301661",
+ "revisions": [
+  {
+   "revision_id": "200301661-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T12:05:17Z",
+   "last_observed_at": "2026-08-27T12:05:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:05:17Z"
+}

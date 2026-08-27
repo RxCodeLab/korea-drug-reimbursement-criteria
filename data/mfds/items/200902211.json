@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200902211",
+ "item_name": "헤파토네주(L-아스파르트산-L-오르니틴수화물)(수출용)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20090326",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249854]L-아스파르트산-L-오르니틴수화물",
+ "main_item_ingr_eng": "L-Ornithine-L-Aspartate Hydrate",
+ "edi_code": "",
+ "atc_code": "A05BA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902211",
+ "revisions": [
+  {
+   "revision_id": "200902211-5464c38c",
+   "content_sha256": "5464c38cedf336418599d325b5e88f6989add8151c9107535c1797714dab954e",
+   "ee_text": "다음의 중증의 간질환 해독 : 간경변, 만성간염, 간성뇌증(혼수 전단계·혼수포함)",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-27T13:52:40Z",
+   "last_observed_at": "2026-08-27T13:52:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:52:40Z"
+}

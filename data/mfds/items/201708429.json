@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708429",
+ "item_name": "갈라폴드캡슐(미갈라스타트염산염)",
+ "entp_name": "(주)한독",
+ "permit_date": "20171220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267107]미갈라스타트염산염",
+ "main_item_ingr_eng": "Migalastat Hydrochloride",
+ "edi_code": "652105710",
+ "atc_code": "A16AX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708429",
+ "revisions": [
+  {
+   "revision_id": "201708429-451fad66",
+   "content_sha256": "451fad6647e94e31f0e4a98b2c4d1ed9bc7996edd0e8f0faa3444db79060e1eb",
+   "ee_text": "순응변이(amenable mutation)를 가진 파브리병(α-galactosidase A 결핍)으로 확진 받은 12세 이상 환자의 장기간 치료",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-27T11:55:11Z",
+   "last_observed_at": "2026-08-27T11:55:11Z",
+   "official_revision_date": "2022-10-06"
+  },
+  {
+   "revision_id": "201708429-cb0782e9",
+   "content_sha256": "cb0782e9cc1e7687774093a10453776501c323711e9724cbaacadf7d581ca8fc",
+   "ee_text": "순응변이(amenable mutation)를 가진 파브리병(α-galactosidase A 결핍)으로 확진받은 16세 이상 청소년 및 성인 환자의 장기간 치료",
+   "ee_doc_id": "2",
+   "official_revision_date": "2017-12-20",
+   "first_observed_at": "2026-08-27T11:55:11Z",
+   "last_observed_at": "2026-08-27T11:55:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:55:11Z"
+}

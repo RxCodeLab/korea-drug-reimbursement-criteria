@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902095",
+ "item_name": "중헌아테놀롤정50밀리그램",
+ "entp_name": "(주)중헌제약",
+ "permit_date": "20190405",
+ "cancel_date": "20240405",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M201140]아테놀롤",
+ "main_item_ingr_eng": "Atenolol",
+ "edi_code": "",
+ "atc_code": "C07AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902095",
+ "revisions": [
+  {
+   "revision_id": "201902095-d5b5e8c6",
+   "content_sha256": "d5b5e8c657fc0c9d6f327d276f00877cb0e3e95508c8319321399393ffa9dad3",
+   "ee_text": "고혈압, 협심증.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:29:12Z",
+   "last_observed_at": "2026-08-27T12:29:12Z",
+   "official_revision_date": "2019-04-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:12Z"
+}

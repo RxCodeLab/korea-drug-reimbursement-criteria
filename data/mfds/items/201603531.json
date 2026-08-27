@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603531",
+ "item_name": "뉴트레부틴서방정(트리메부틴말레산염)",
+ "entp_name": "안국뉴팜(주)",
+ "permit_date": "20160616",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252787]트리메부틴말레산염|[M252787]트리메부틴말레산염",
+ "main_item_ingr_eng": "Trimebutine Maleate",
+ "edi_code": "053600240",
+ "atc_code": "A03AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603531",
+ "revisions": [
+  {
+   "revision_id": "201603531-b34194aa",
+   "content_sha256": "b34194aa5be4e2c09051ae5bf0e5be9224c9bada55cc6491e0ab86c67bd50643",
+   "ee_text": "1. 주효능 효과 1) 위·식도 역류 및 열공헤르니아, 위 십이지장염, 위 십이지장궤양에 있어서의 소화기능이상 (복통, 소화불량, 구역, 구토) 2) 과민성대장증후군 및 경련성 결장 3) 소아 질환 : 습관성 구토, 비감염성 장관통과장애 (변비, 설사)",
+   "ee_doc_id": "32",
+   "first_observed_at": "2026-08-27T13:41:03Z",
+   "last_observed_at": "2026-08-27T13:41:03Z",
+   "official_revision_date": "2026-03-27"
+  },
+  {
+   "revision_id": "201603531-6ff7d7bb",
+   "content_sha256": "6ff7d7bb23aa00658b269d0824fd3807f3d8b7317f2883bdafd8191bd528eb98",
+   "ee_text": "위ㆍ식도역류 및 열공헤르니아, 위ㆍ십이지장염, 위ㆍ십이지장궤양 등의 질환에 수반되는 동통, 소화불량, 구역, 구토, 기능적결장질환(과민성대장염, 경련성결장), 유소아의 습관성 구토, 비감염성의 장통과기능 장해(설사변비), 소화관 수술후의 장폐색, 엑스선(내시경) 검사시의 유문 및 경련결장의 완화",
+   "ee_doc_id": "16",
+   "official_revision_date": "2020-09-30",
+   "first_observed_at": "2026-08-27T13:41:03Z",
+   "last_observed_at": "2026-08-27T13:41:03Z"
+  },
+  {
+   "revision_id": "201603531-a9255779",
+   "content_sha256": "a92557795641a479de314665e632c2217843b7791a4ae0f206f6a1e6cecf01df",
+   "ee_text": "위ㆍ식도역류 및 열공헤르니아, 위ㆍ십이지장염, 위ㆍ십이지장궤양 등의 질환에 수반되는 동통, 소화불량, 구역, 구토, 기능적결장질환(과민선대장염, 경련성결장), 유소아의 습관성 구토, 비감염성의 장통과기능 장해(설사변비), 유소아의 동요, 자극, 수면장해, 소화관 수술후의 장폐색, 엑스선(내시경) 검사시의 유문 및 경련결장의 완화",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:41:03Z",
+   "last_observed_at": "2026-08-27T13:41:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:41:03Z"
+}

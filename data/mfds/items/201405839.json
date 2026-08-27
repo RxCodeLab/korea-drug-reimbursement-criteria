@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405839",
+ "item_name": "레보모스정5/40밀리그램",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20141210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263840]S-암로디핀베실산염2.5수화물|[M102509]올메사탄메독소밀",
+ "main_item_ingr_eng": "Olmesartan Medoxomil/S-Amlodipine Besylate 2.5 Hydrate",
+ "edi_code": "650204260",
+ "atc_code": "C09DB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405839",
+ "revisions": [
+  {
+   "revision_id": "201405839-f9b506e6",
+   "content_sha256": "f9b506e6963c98288bd6c10665fecbe2d19904b17edbac1c109dc0a28fd58cf5",
+   "ee_text": "에스암로디핀(암로디핀) 또는 올메사르탄메독소밀 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압의 치료",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T12:48:07Z",
+   "last_observed_at": "2026-08-27T12:48:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:48:07Z"
+}

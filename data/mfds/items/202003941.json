@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003941",
+ "item_name": "타무날서방정0.2밀리그램(탐스로신염산염)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20200528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243979]탐스로신염산염",
+ "main_item_ingr_eng": "Tamsulosin Hydrochloride",
+ "edi_code": "643308570",
+ "atc_code": "G04CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003941",
+ "revisions": [
+  {
+   "revision_id": "202003941-96d53cea",
+   "content_sha256": "96d53ceaa40464249309bcd4eafaffae0a19a26bdb88ac704f3bfef379e5b41d",
+   "ee_text": "양성 전립샘 비대증에 따른 배뇨 장애",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:17:02Z",
+   "last_observed_at": "2026-08-27T13:17:02Z",
+   "official_revision_date": "2020-05-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:17:02Z"
+}

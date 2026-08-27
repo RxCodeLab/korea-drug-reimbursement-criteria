@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200701280",
+ "item_name": "렉스펜정",
+ "entp_name": "한솔신약(주)",
+ "permit_date": "20070130",
+ "cancel_date": "20230828",
+ "status": "취하",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M040614]클로르족사존",
+ "main_item_ingr_eng": "Acetaminophen/Chlorzoxazone",
+ "edi_code": "",
+ "atc_code": "M03BB53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701280",
+ "revisions": [
+  {
+   "revision_id": "200701280-4912c845",
+   "content_sha256": "4912c8458e2b72e4a3e23c14eb5c6a0d9a3af46f3620905c9b95897fd0414967",
+   "ee_text": "신경통, 근육통, 관절통, 요(허리)통, 염좌통(삔 통증), 견통(어깨통증), 근경련(근육경련), 근경직 등 근육의 이상 긴장을 수반하는 제 질환.",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-27T12:57:49Z",
+   "last_observed_at": "2026-08-27T12:57:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:49Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901611",
+ "item_name": "리나디포듀오정2.5/850mg(리나글립틴, 메트포르민)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20190318",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223014]메트포르민염산염|[M252996]리나글립틴",
+ "main_item_ingr_eng": "Linagliptin/Metformin Hydrochloride",
+ "edi_code": "670609250",
+ "atc_code": "A10BD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901611",
+ "revisions": [
+  {
+   "revision_id": "201901611-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T13:32:52Z",
+   "last_observed_at": "2026-08-27T13:32:52Z",
+   "official_revision_date": "2021-12-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:32:52Z"
+}

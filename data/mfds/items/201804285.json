@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804285",
+ "item_name": "맨담록소펜카타플라스마(록소프로펜나트륨수화물)",
+ "entp_name": "(주)보령",
+ "permit_date": "20181030",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222839]록소프로펜나트륨수화물",
+ "main_item_ingr_eng": "Loxoprofen Sodium Hydrate",
+ "edi_code": "",
+ "atc_code": "M02AA31",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804285",
+ "revisions": [
+  {
+   "revision_id": "201804285-2b968b2c",
+   "content_sha256": "2b968b2c348b2787950b0197dd9e9e2f74db7588a8d0eb6e1421035aa668c863",
+   "ee_text": "다음 질환 및 증상의 진통·소염: 퇴행성관절염(골관절염), 근육통, 외상[상처]후의 종창[부기], 통증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:15:21Z",
+   "last_observed_at": "2026-08-27T12:15:21Z",
+   "official_revision_date": "2018-10-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:15:21Z"
+}

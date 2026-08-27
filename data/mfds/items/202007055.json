@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007055",
+ "item_name": "조피타정2밀리그램(에스조피클론)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "20201014",
+ "cancel_date": "20251014",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M268000]에스조피클론",
+ "main_item_ingr_eng": "Eszopiclone",
+ "edi_code": "",
+ "atc_code": "N05CF04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007055",
+ "revisions": [
+  {
+   "revision_id": "202007055-810bee3a",
+   "content_sha256": "810bee3a89d53af93cf40ba47acc59c120362613e7aa01b1a9a88126f7bf57e9",
+   "ee_text": "불면증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:17:09Z",
+   "last_observed_at": "2026-08-27T13:17:09Z",
+   "official_revision_date": "2020-10-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:17:09Z"
+}

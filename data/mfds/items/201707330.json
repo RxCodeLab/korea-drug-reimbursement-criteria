@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707330",
+ "item_name": "셀프로벨정150밀리그램(이르베사르탄)",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20170929",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251853]이르베사르탄",
+ "main_item_ingr_eng": "Irbesartan",
+ "edi_code": "693902660",
+ "atc_code": "C09CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707330",
+ "revisions": [
+  {
+   "revision_id": "201707330-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201707330/EE",
+   "first_observed_at": "2026-08-27T13:38:49Z",
+   "last_observed_at": "2026-08-27T13:38:49Z"
+  },
+  {
+   "revision_id": "201707330-ab2cd774",
+   "content_sha256": "ab2cd774889293a061562883ef36019d203ac809e3562e4571907e991a8e6171",
+   "ee_text": "\">",
+   "ee_doc_id": "2",
+   "official_revision_date": "2017-10-10",
+   "first_observed_at": "2026-08-27T13:38:49Z",
+   "last_observed_at": "2026-08-27T13:38:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:49Z"
+}

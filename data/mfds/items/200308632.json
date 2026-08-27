@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308632",
+ "item_name": "타이핀정(수출용)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20031017",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M085595]말레인산돔페리돈",
+ "main_item_ingr_eng": "Acetaminophen/Domperidone Maleate",
+ "edi_code": "",
+ "atc_code": "N02CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308632",
+ "revisions": [
+  {
+   "revision_id": "200308632-88a87a25",
+   "content_sha256": "88a87a25f4099433f0a4eec43d954de8adb3391bd51361596c50666b982c5091",
+   "ee_text": "* 편두통 증후의 치료",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:57:29Z",
+   "last_observed_at": "2026-08-27T12:57:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:29Z"
+}

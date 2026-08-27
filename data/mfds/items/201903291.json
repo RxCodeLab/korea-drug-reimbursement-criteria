@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903291",
+ "item_name": "타이리콜주(아세트아미노펜)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20190521",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen",
+ "edi_code": "",
+ "atc_code": "N02BE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903291",
+ "revisions": [
+  {
+   "revision_id": "201903291-ba0a6b65",
+   "content_sha256": "ba0a6b65fa0c02eb295e3ea8d3b0c7850f2e8ee74a5fd771cf4eed7c136c90a3",
+   "ee_text": "통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우, 1. 중등도의 통증(특히 수술 후)의 단기간 치료 2. 발열의 단기간 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:02:06Z",
+   "last_observed_at": "2026-08-27T13:02:06Z",
+   "official_revision_date": "2019-05-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:02:06Z"
+}

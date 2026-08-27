@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906081",
+ "item_name": "디아세인엠캡슐(디아세레인)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20190827",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082697]디아세레인",
+ "main_item_ingr_eng": "Diacerein",
+ "edi_code": "622803990",
+ "atc_code": "M01AX21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906081",
+ "revisions": [
+  {
+   "revision_id": "201906081-bfacd1d0",
+   "content_sha256": "bfacd1d09cd3710774287fdab7fe0d67db98db4b7a762ac99fdcd0cbc13e5b70",
+   "ee_text": "골(고관절, 슬관절)관절염(관절증, 퇴행성 관절질환)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:37:15Z",
+   "last_observed_at": "2026-08-27T12:37:15Z",
+   "official_revision_date": "2019-08-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:37:15Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402606",
+ "item_name": "징카민정240밀리그램(은행엽건조엑스)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20241105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M273892]은행엽 건조엑스",
+ "main_item_ingr_eng": "Ginkgo Biloba Leaf Dried Extract",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402606",
+ "revisions": [
+  {
+   "revision_id": "202402606-9c7cff94",
+   "content_sha256": "9c7cff9486dce30d20ada1f75124983421a589c30515cc104fe10e7bfe83435f",
+   "ee_text": "집중력 저하, 기억력 감퇴, 현기증(동맥 경화 증상)과 같은 증상이 동반되는 정신 기능 저하",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:35:24Z",
+   "last_observed_at": "2026-08-27T13:35:24Z",
+   "official_revision_date": "2024-11-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:35:24Z"
+}

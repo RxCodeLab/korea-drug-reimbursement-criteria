@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402903",
+ "item_name": "하이놀정",
+ "entp_name": "성이바이오제약주식회사",
+ "permit_date": "20241210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M051415]푸르설티아민|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Fursultiamine",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402903",
+ "revisions": [
+  {
+   "revision_id": "202402903-b745fa52",
+   "content_sha256": "b745fa5269e4d9cd18e7a863a9190939578c1f84e3cf6f3c411e46762c525b83",
+   "ee_text": "감기의 제증상(여러증상)(인후(목구멍)통, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:05:25Z",
+   "last_observed_at": "2026-08-27T13:05:25Z",
+   "official_revision_date": "2024-12-10"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:05:25Z"
+}

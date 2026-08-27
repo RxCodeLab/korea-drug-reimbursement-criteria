@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102833",
+ "item_name": "로디엔정1.25밀리그램(에스암로디핀니코틴산염)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20210331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251686]에스암로디핀니코틴산염",
+ "main_item_ingr_eng": "S-Amlodipine Nicotinate",
+ "edi_code": "645306520",
+ "atc_code": "C08CA17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102833",
+ "revisions": [
+  {
+   "revision_id": "202102833-c5938e58",
+   "content_sha256": "c5938e58e77b9cac1fd985a3e661a7dead54dce60a943b54c5e477cbcf7edfec",
+   "ee_text": "1. 고혈압, 관상동맥의 고정폐쇄(안정협심증) 또는 관상혈관계의 혈관경련수축(이형협심증)에 의한 심근성허혈증 2. 최근 혈관조영술로 관상동맥심질환이 확인된 환자로 심부전이 없거나 심박출량이 40% 미만이 아닌 환자의 - 협심증으로 인한 입원의 위험성 감소 - 관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:26:11Z",
+   "last_observed_at": "2026-08-27T12:26:11Z",
+   "official_revision_date": "2021-03-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:26:11Z"
+}

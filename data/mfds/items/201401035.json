@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401035",
+ "item_name": "아메간스인퓨전주(L-아스파르트산-L-오르니틴)(수출명:Amegans Inj.)(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "20140306",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249854]L-아스파르트산-L-오르니틴수화물",
+ "main_item_ingr_eng": "L-Ornithine-L-Aspartate Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401035",
+ "revisions": [
+  {
+   "revision_id": "201401035-0793f4ea",
+   "content_sha256": "0793f4ea72db50d3e4cbdde4e07998976db5b2b246e0e68d83811b7c847f39d9",
+   "ee_text": "(인퓨전주사) 다음의 중증의 간질환 해독 : 간경변, 만성간염, 간성뇌증(혼수 전단계‧혼수포함)",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T13:52:45Z",
+   "last_observed_at": "2026-08-27T13:52:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:52:45Z"
+}

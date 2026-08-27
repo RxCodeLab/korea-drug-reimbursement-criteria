@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201202834",
+ "item_name": "소나조이드주(과플루오르부탄)",
+ "entp_name": "지이헬스케어에이에스한국지점",
+ "permit_date": "20120413",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254390]과플루오르부탄",
+ "main_item_ingr_eng": "Perfluorobutane",
+ "edi_code": "646300211",
+ "atc_code": "V08DA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201202834",
+ "revisions": [
+  {
+   "revision_id": "201202834-29a80b3d",
+   "content_sha256": "29a80b3db74bde7bf36c0c519a6c6318bd57ac3fee5cc1c4744bbed8032c67e1",
+   "ee_text": "성인 환자의 간부위 종양성 병변 초음파 검사시 조영증강",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-27T12:02:05Z",
+   "last_observed_at": "2026-08-27T12:02:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:02:05Z"
+}

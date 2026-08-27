@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602246",
+ "item_name": "클리마일드연고",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20160422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223353]히드로코르티손아세테이트|[M222973]디펜히드라민염산염|[M243785]산화아연",
+ "main_item_ingr_eng": "Diphenhydramine Hydrochloride/Hydrocortisone Acetate/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "D07XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602246",
+ "revisions": [
+  {
+   "revision_id": "201602246-9b49d4b9",
+   "content_sha256": "9b49d4b91d9365a8316bbc62884026fbf81bbe21e3e5b428d23f8c361ef297d3",
+   "ee_text": "습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T12:29:59Z",
+   "last_observed_at": "2026-08-27T12:29:59Z",
+   "official_revision_date": "2020-10-19"
+  },
+  {
+   "revision_id": "201602246-58a491d5",
+   "content_sha256": "58a491d58fde9446e6143534f93608959d4d514ceb153aa1ca059e859299717a",
+   "ee_text": "습진, 접촉성 피부염, 땀띠, 두드러기, 피부 가려움증, 알레르기성 피부질환, 화상, 동상",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-21",
+   "first_observed_at": "2026-08-27T12:29:59Z",
+   "last_observed_at": "2026-08-27T12:29:59Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:59Z"
+}

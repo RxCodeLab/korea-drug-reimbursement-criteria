@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309056",
+ "item_name": "쌩코프연질캡슐",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20130829",
+ "cancel_date": "20230829",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050058]구아이페네신|[M222890]클로페라스틴염산염|[M040353]아세트아미노펜|[M204422]dl-메틸에페드린염산염|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Acetaminophen/Chlorpheniramine Maleate/Cloperastine Hydrochloride/DL-Methylephedrine Hydrochloride/Guaifenesin",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309056",
+ "revisions": [
+  {
+   "revision_id": "201309056-3ca0b267",
+   "content_sha256": "3ca0b2670cd83310331a3a98a46749913ef6c92974b594ce19c7dbba8c76adb4",
+   "ee_text": "감기의 제증상(여러 증상)(콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:59:49Z",
+   "last_observed_at": "2026-08-27T12:59:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:59:49Z"
+}

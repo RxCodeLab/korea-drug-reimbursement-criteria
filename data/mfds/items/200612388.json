@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200612388",
+ "item_name": "해금콜드액",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20061212",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050059]구아야콜설폰산칼륨|[M222957]덱스트로메토르판브롬화수소산염수화물|[M040353]아세트아미노펜|[M252443]소청룡탕연조엑스[2.77→1]",
+ "main_item_ingr_eng": "Acetaminophen/Dextromethorphan Hydrobromide Hydrate/Potassium Guaiacolsulfonate/Socheongryongtang Soft Extract (2.77→1)",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200612388",
+ "revisions": [
+  {
+   "revision_id": "200612388-b8367a79",
+   "content_sha256": "b8367a794ab798d6c01df2d3e440a14240956ca8a19b4b38326d33551476a22c",
+   "ee_text": "감기의 제증상 (인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T12:57:48Z",
+   "last_observed_at": "2026-08-27T12:57:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:48Z"
+}

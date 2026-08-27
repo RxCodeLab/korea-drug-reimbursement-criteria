@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308651",
+ "item_name": "타무로신캡슐(탐스로신염산염)",
+ "entp_name": "(주)일화",
+ "permit_date": "20130802",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243979]탐스로신염산염",
+ "main_item_ingr_eng": "Tamsulosin Hydrochloride",
+ "edi_code": "640902620",
+ "atc_code": "G04CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308651",
+ "revisions": [
+  {
+   "revision_id": "201308651-0747867b",
+   "content_sha256": "0747867b0dc6df1e1a84615fada25aefd3386ec3c82fbe8af46fc82ae103189f",
+   "ee_text": "양성 전립샘비대증에 따른 배뇨장애",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T13:23:03Z",
+   "last_observed_at": "2026-08-27T13:23:03Z",
+   "official_revision_date": "2018-02-28"
+  },
+  {
+   "revision_id": "201308651-528cccc1",
+   "content_sha256": "528cccc1c26f8326c0f1797968d6acca609e75e503c448e6194a109a9718cbf1",
+   "ee_text": "양성전립선 비대증에 따른 배뇨장해",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:23:03Z",
+   "last_observed_at": "2026-08-27T13:23:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:23:03Z"
+}

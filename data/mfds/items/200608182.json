@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608182",
+ "history_fetched_at": "2026-08-27T10:32:25Z",
  "revisions": [
   {
    "revision_id": "200608182-7076b25b",
    "content_sha256": "7076b25ba0d3dfd1c689744652a6de6e8945a79b3659c8ce447aa26dc301c65e",
    "ee_text": "- 육체피로 - 임신·수유기 - 병중·병후의 체력저하시 - 노년기 - 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염),습진, 피부염",
-   "ee_doc_id": "19",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200608182/EE",
    "first_observed_at": "2026-08-27T10:32:25Z",
-   "last_observed_at": "2026-08-27T10:32:25Z",
-   "official_revision_date": "2021-06-01"
+   "last_observed_at": "2026-08-27T10:53:05Z"
   },
   {
    "revision_id": "200608182-4acd2487",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T10:32:25Z",
    "last_observed_at": "2026-08-27T10:32:25Z"
   }
- ],
- "history_fetched_at": "2026-08-27T10:32:25Z"
+ ]
 }

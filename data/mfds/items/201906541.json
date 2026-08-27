@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906541",
+ "item_name": "보령툴로부테롤패취0.5밀리그램",
+ "entp_name": "(주)보령",
+ "permit_date": "20190918",
+ "cancel_date": "20240918",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M099457]툴로부테롤",
+ "main_item_ingr_eng": "Tulobuterol",
+ "edi_code": "",
+ "atc_code": "R03CC11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906541",
+ "revisions": [
+  {
+   "revision_id": "201906541-6a5e970c",
+   "content_sha256": "6a5e970c2e4f900e608c0e5f4e29fcbc7412d8e39148b84369fce599e021d57a",
+   "ee_text": ": 기관지 천식, 급성 기관지염, 만성 기관지염, 폐기종",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:24:49Z",
+   "last_observed_at": "2026-08-27T13:24:49Z",
+   "official_revision_date": "2019-09-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:24:49Z"
+}

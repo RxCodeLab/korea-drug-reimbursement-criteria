@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604594",
+ "item_name": "동전핫파스플라스타",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20160726",
+ "cancel_date": "20260726",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M200188]노닐산바닐릴아미드|[M040108]디펜히드라민|[M223240]토코페롤아세테이트|[M040200]박하유|[M204423]dl-캄파|[M230875]l-멘톨|[M203279]살리실산메틸|[M200188]노닐산바닐릴아미드|[M203279]살리실산메틸|[M230875]l-멘톨|[M204423]dl-캄파|[M040200]박하유|[M223240]토코페롤아세테이트|[M040108]디펜히드라민",
+ "main_item_ingr_eng": "DL-Camphor/Diphenhydramine/L-Menthol/Mentha Herb Oil/Methyl Salicylate/Tocopherol Acetate/Vanillyl Nonylamide",
+ "edi_code": "",
+ "atc_code": "D04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604594",
+ "revisions": [
+  {
+   "revision_id": "201604594-d9d87a48",
+   "content_sha256": "d9d87a48c31ee70ae2e71de2837ef6f226267b332f6c2b29fabf06f8a641c30e",
+   "ee_text": "다음 증상의 진통ㆍ소염(항염): 타박상, 삠, 근육통, 관절통, 요(허리)통, 어깨결림, 신경통, 류마티스통증",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T12:30:00Z",
+   "last_observed_at": "2026-08-27T12:30:00Z",
+   "official_revision_date": "2018-09-27"
+  },
+  {
+   "revision_id": "201604594-bac3800d",
+   "content_sha256": "bac3800d6951756c1a5d236bc13c89b53e257177664315e8ea766a81fa0c979d",
+   "ee_text": "다음 증상의 진통ㆍ소염: 타박상, 삠, 근육통, 관절통, 요통, 어깨결림, 신경통, 류마티스통증",
+   "ee_doc_id": "2",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:30:00Z",
+   "last_observed_at": "2026-08-27T12:30:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:30:00Z"
+}

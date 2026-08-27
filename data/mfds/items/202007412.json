@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007412",
+ "item_name": "디투인비정",
+ "entp_name": "(주)바이넥스",
+ "permit_date": "20201029",
+ "cancel_date": "20251029",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223183]카페인무수물|[M222973]디펜히드라민염산염",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Diphenhydramine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007412",
+ "revisions": [
+  {
+   "revision_id": "202007412-ca4db1e2",
+   "content_sha256": "ca4db1e2264e9e0b8fe90b5c16aed290cf6f59dcb7e7ac0111c4167c8a832ae9",
+   "ee_text": "코감기(급성 비염(코염)), 알레르기성 비염(코염) 또는 부비동염에 의한 다음 증상의 완화 : 코막힘, 콧물, 재채기, 눈물, 인후통(목구멍 통증), 머리 무거움",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-27T12:30:19Z",
+   "last_observed_at": "2026-08-27T12:30:19Z",
+   "official_revision_date": "2022-02-17"
+  },
+  {
+   "revision_id": "202007412-e4b23214",
+   "content_sha256": "e4b23214497818cb8a40b9a8072f0e74099cdc43584647798dd78bafdb102bfd",
+   "ee_text": "코감기(급성비염), 알레르기성 비염 또는 부비동염에 의한 다음 증상의 완화 : 코막힘, 콧물, 재채기, 눈물, 인후통, 머리 무거움",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-10-29",
+   "first_observed_at": "2026-08-27T12:30:19Z",
+   "last_observed_at": "2026-08-27T12:30:19Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:30:19Z"
+}

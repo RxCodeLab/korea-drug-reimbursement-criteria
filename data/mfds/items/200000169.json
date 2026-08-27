@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000169",
+ "item_name": "엑스콜과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20000922",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M100973]갈근탕엑스(10→1)|[M040133]리보플라빈|[M040353]아세트아미노펜|[M203450]아스코르브산",
+ "main_item_ingr_eng": "Acetaminophen/Ascorbic Acid/Galgeuntang Extract (10→1)/Riboflavin",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000169",
+ "revisions": [
+  {
+   "revision_id": "200000169-f5b92717",
+   "content_sha256": "f5b9271775fbe009e93397aac96defca1ded6a81b36e2967ccfce28fe9ce90f9",
+   "ee_text": "감기의 제증상(인후통, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T12:56:59Z",
+   "last_observed_at": "2026-08-27T12:56:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:56:59Z"
+}

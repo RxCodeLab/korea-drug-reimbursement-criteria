@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200307806",
+ "item_name": "마이폴틱장용정360밀리그램(미코페놀레이트나트륨)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20030823",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099656]미코페놀레이트나트륨",
+ "main_item_ingr_eng": "Mycophenolate Sodium",
+ "edi_code": "653600410",
+ "atc_code": "L04AA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307806",
+ "revisions": [
+  {
+   "revision_id": "200307806-55aba4cb",
+   "content_sha256": "55aba4cb8899c617a20677c3349ea4e1c4df8d9df17a9d35d9a7a8f7787b9c3b",
+   "ee_text": "동종 신장이식 환자에 대한 급성 장기 거부반응 방지 이 약은 시클로스포린(for microemulsion) 및 코르티코스테로이드와 병용 투여해야 한다.",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-27T12:10:57Z",
+   "last_observed_at": "2026-08-27T12:10:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:10:57Z"
+}

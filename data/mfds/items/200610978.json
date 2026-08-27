@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200610978",
+ "item_name": "바이클러서방정375밀리그램(세파클러수화물)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20061130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222859]세파클러수화물",
+ "main_item_ingr_eng": "Cefaclor Hydrate",
+ "edi_code": "653402490",
+ "atc_code": "J01DC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200610978",
+ "revisions": [
+  {
+   "revision_id": "200610978-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200610978/EE",
+   "first_observed_at": "2026-08-27T12:36:14Z",
+   "last_observed_at": "2026-08-27T12:36:14Z"
+  },
+  {
+   "revision_id": "200610978-d1d14cd1",
+   "content_sha256": "d1d14cd145b8be7b09b7c1fa84699327e16357c920be46f186d17029b7912cee",
+   "ee_text": ": 폐렴연쇄구균, 인플루엔자균(베타락타마제 생성균 포함), 파라인플루엔자균, 모락셀라 카타랄리스(베타락타마제 생성균 포함), 황색포도구균 : 스트렙토콕쿠스 피오게네스(그룹A-베타용혈성) : 대장균, 폐렴간균, 프로테우스 미라빌리스, 스타필로콕쿠스 사프로피티쿠스 : 스트렙토콕쿠스 피오게네스(그룹A-베타용혈성), 황색포도구균(베타락타마제 생성균 포함), 표피포도구균(베타락타마제 생성균 포함)",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:36:14Z",
+   "last_observed_at": "2026-08-27T12:36:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:36:14Z"
+}

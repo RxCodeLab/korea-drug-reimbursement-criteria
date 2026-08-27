@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603079",
+ "item_name": "아리피원정15밀리그램(아리피프라졸)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20160530",
+ "cancel_date": "20260530",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M096829]아리피프라졸",
+ "main_item_ingr_eng": "Aripiprazole",
+ "edi_code": "",
+ "atc_code": "N05AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603079",
+ "revisions": [
+  {
+   "revision_id": "201603079-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T13:27:16Z",
+   "last_observed_at": "2026-08-27T13:27:16Z",
+   "official_revision_date": "2022-11-28"
+  },
+  {
+   "revision_id": "201603079-cf93cef0",
+   "content_sha256": "cf93cef090850e8694aee3a294802c63ca5194581d7db1d0c1af6d814c9a9b7f",
+   "ee_text": "1. 조현병 2. 뚜렛장애",
+   "ee_doc_id": "7",
+   "official_revision_date": "2020-06-26",
+   "first_observed_at": "2026-08-27T13:27:16Z",
+   "last_observed_at": "2026-08-27T13:27:16Z"
+  },
+  {
+   "revision_id": "201603079-b825dd31",
+   "content_sha256": "b825dd317e318535a91354f762250625d37ac5f7be56ed7dc56c80edd1a96687",
+   "ee_text": "정신분열병",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:27:16Z",
+   "last_observed_at": "2026-08-27T13:27:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:16Z"
+}

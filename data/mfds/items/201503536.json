@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503536",
+ "item_name": "하이크라네오시럽(아목시실린수화물-묽은클라불란산칼륨)(14:1)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20150601",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223098]아목시실린수화물|[M248503]묽은클라불란산칼륨",
+ "main_item_ingr_eng": "Amoxicillin Hydrate/Dilute Potassium Clavulanate",
+ "edi_code": "649102781",
+ "atc_code": "J01CR02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503536",
+ "revisions": [
+  {
+   "revision_id": "201503536-31969a17",
+   "content_sha256": "31969a1759906a66a9541aea3289a8c208ff0818c9cae872c5e0fb01674388a2",
+   "ee_text": "○ 유효균종 폐렴연쇄구균(페니실린 MIC ≤ 2mcg/mL), 헤모필루스 인플루엔자(베타락타마제 생성 균주 포함), 모락셀라 카타랄리스(베타락타마제 생성균주 포함) ○ 적응증 소아환자에서 재발성 또는 지속성 급성중이염의 치료. 소아환자에서 재발성 급성 부비동염의 치료 단, 다음의 위험인자 중 하나를 갖고 있어야 함. · 3개월 이내에 급성중이염 또는 급성 부비동염으로 인한 항생제 투여 경험이 있는 - 2세 이하의 소아 또는 - 보육기관(어린이집)에 다니는 소아 (daycare attendance).",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201503536/EE",
+   "first_observed_at": "2026-08-27T12:49:59Z",
+   "last_observed_at": "2026-08-27T12:49:59Z"
+  },
+  {
+   "revision_id": "201503536-7f87ac31",
+   "content_sha256": "7f87ac31e6ea35e26fa9d848508a17c546b5ac9266714c9d1bf5a6902b9adbab",
+   "ee_text": "폐렴연쇄구균(페니실린 MIC ≤ 2mcg/mL), 헤모필루스 인플루엔자(베타락타마제 생성 균주 포함), 모락셀라 카타랄리스(베타락타마제 생성균주 포함) 소아환자에서 재발성 또는 지속성 급성중이염의 치료. 소아환자에서 재발성 급성 부비동염의 치료 단, 다음의 위험인자 중 하나를 갖고 있어야 함. ⦁ 3개월 이내에 급성중이염 또는 급성 부비동염으로 인한 항생제 투여 경험이 있는 - 2세 이하의 소아 또는 - 보육기관(어린이집)에 다니는 소아 (daycare attendance).",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:49:59Z",
+   "last_observed_at": "2026-08-27T12:49:59Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:49:59Z"
+}

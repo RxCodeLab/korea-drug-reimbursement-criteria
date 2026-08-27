@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301618",
+ "item_name": "루센비에스프리필드시린지(라니비주맙)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20230519",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215125]라니비주맙",
+ "main_item_ingr_eng": "Ranibizumab",
+ "edi_code": "643309371",
+ "atc_code": "S01LA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301618",
+ "revisions": [
+  {
+   "revision_id": "202301618-8c20a8d9",
+   "content_sha256": "8c20a8d9c038b945c170b18f467c428458acc6526e04d0c92b4e88927c1cc433",
+   "ee_text": "1. 신생혈관성 (습성) 연령관련 황반변성의 치료 2. 당뇨병성 황반부종에 의한 시력 손상의 치료 3. 증식성 당뇨성 망막병증의 치료 4. 망막정맥폐쇄성 황반부종에 의한 시력 손상의 치료 5. 맥락막 신생혈관 형성에 따른 시력 손상의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:59:06Z",
+   "last_observed_at": "2026-08-27T11:59:06Z",
+   "official_revision_date": "2023-05-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:59:06Z"
+}

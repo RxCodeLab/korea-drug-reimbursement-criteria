@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601009",
+ "item_name": "노즈밸런스나잘스프레이",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20260409",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278679]덱스판테놀|[M222910]히알루론산나트륨",
+ "main_item_ingr_eng": "Dexpanthenol/Sodium Hyaluronate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601009",
+ "revisions": [
+  {
+   "revision_id": "202601009-c0691616",
+   "content_sha256": "c0691616bf7b865790378e140d8c0fe788a2639671cc168c56920cfb835be6d6",
+   "ee_text": "코점막 보습 및 보호",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:06:02Z",
+   "last_observed_at": "2026-08-27T11:06:02Z",
+   "official_revision_date": "2026-04-09"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:06:02Z"
+}

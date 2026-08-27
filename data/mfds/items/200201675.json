@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201675",
+ "item_name": "한신콜펜-에스정",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20021220",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M082518]작약가루|[M070009]감초가루|[M040417]에텐자미드|[M223184]카페인수화물|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Caffeine Hydrate/Ethenzamide/Glycyrrhiza Powder/Peony Root Powder",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201675",
+ "revisions": [
+  {
+   "revision_id": "200201675-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:57:15Z",
+   "last_observed_at": "2026-08-27T12:57:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:15Z"
+}

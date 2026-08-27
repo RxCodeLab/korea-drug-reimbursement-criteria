@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204036",
+ "item_name": "테람핀에스정40/2.5밀리그램",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "20221108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090395]텔미사르탄|[M226654]에스암로디핀베실산염이수화물",
+ "main_item_ingr_eng": "S-Amlodipine Besylate Dihydrate/Telmisartan",
+ "edi_code": "",
+ "atc_code": "C09DB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204036",
+ "revisions": [
+  {
+   "revision_id": "202204036-8dea4102",
+   "content_sha256": "8dea4102c907141ff513c0027790d42076188f4484fb5d83864183703dead91a",
+   "ee_text": "텔미사르탄 또는 에스암로디핀(암로디핀) 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:28:07Z",
+   "last_observed_at": "2026-08-27T12:28:07Z",
+   "official_revision_date": "2022-11-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:28:07Z"
+}

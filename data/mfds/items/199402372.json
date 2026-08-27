@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199402372",
+ "item_name": "네가펜캡슐(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "19940804",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082046]이소메텝턴뮤케이트|[M098569]디크로랄페나존|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Dichloralphenazone/Isometheptene Mucate",
+ "edi_code": "",
+ "atc_code": "N02CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199402372",
+ "revisions": [
+  {
+   "revision_id": "199402372-eb6fb888",
+   "content_sha256": "eb6fb88869d337b0d8d0ed18c5b4ea5158b153cf3e638157bf8baecd70923d64",
+   "ee_text": "긴장성 두통 및 혈관성 두통 (편두통)",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T12:56:48Z",
+   "last_observed_at": "2026-08-27T12:56:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:56:48Z"
+}

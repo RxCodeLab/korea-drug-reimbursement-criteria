@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903639",
+ "item_name": "투티네콜정(베타네콜염화물)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20190531",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223042]베타네콜염화물",
+ "main_item_ingr_eng": "Bethanechol Chloride",
+ "edi_code": "671806950",
+ "atc_code": "N07AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903639",
+ "revisions": [
+  {
+   "revision_id": "201903639-4e5e1a61",
+   "content_sha256": "4e5e1a612d3b07f6f66561347451384f0d6b763c985f0d0284c578aa9398b266",
+   "ee_text": "수술후ㆍ분만후 기능성 요정체, 방광의 신경성 근이완증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:29:24Z",
+   "last_observed_at": "2026-08-27T12:29:24Z",
+   "official_revision_date": "2019-05-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:24Z"
+}

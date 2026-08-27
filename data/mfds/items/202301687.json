@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301687",
+ "item_name": "세벨머정(세벨라머탄산염)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20230526",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253167]세벨라머탄산염",
+ "main_item_ingr_eng": "Sevelamer Carbonate",
+ "edi_code": "641607870",
+ "atc_code": "V03AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301687",
+ "revisions": [
+  {
+   "revision_id": "202301687-490b7c51",
+   "content_sha256": "490b7c51ff07cf66be3f308aed435b695623385b02d9a60e40461b7f37278046",
+   "ee_text": "1. 투석을 받고 있는 만성 신장질환 환자의 혈청 인 조절 2. 투석을 받고 있지 않은 만성 신장질환 환자 중 혈청 인 농도가 5.5 mg/dl 이상인 환자의 혈청 인 조절",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-27T13:31:10Z",
+   "last_observed_at": "2026-08-27T13:31:10Z",
+   "official_revision_date": "2024-09-03"
+  },
+  {
+   "revision_id": "202301687-07a13555",
+   "content_sha256": "07a13555a5578311df34a8073a07849d86e92d8374e3d499fe97a0ac2a4bd7ee",
+   "ee_text": "투석을 받고 있는 만성 신장질환 환자의 혈청 인 조절",
+   "ee_doc_id": "1",
+   "official_revision_date": "2023-05-26",
+   "first_observed_at": "2026-08-27T13:31:10Z",
+   "last_observed_at": "2026-08-27T13:31:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:31:10Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199704348",
+ "item_name": "류스타틴주사액(클라드리빈)",
+ "entp_name": "지피테라퓨틱스코리아주식회사",
+ "permit_date": "19970203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M094161]클라드리빈",
+ "main_item_ingr_eng": "Cladribine",
+ "edi_code": "057200101",
+ "atc_code": "L01BB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199704348",
+ "revisions": [
+  {
+   "revision_id": "199704348-f9d9b432",
+   "content_sha256": "f9d9b432e0cd971a5b84937ccf1849e97a1ebc123a4dbdbfaca2a66c11c32908",
+   "ee_text": "활동성 모상세포백혈병(Hairy Cell Leukemia)의 치료",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T11:09:39Z",
+   "last_observed_at": "2026-08-27T11:09:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:09:39Z"
+}

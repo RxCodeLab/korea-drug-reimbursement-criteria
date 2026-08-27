@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202342",
+ "item_name": "폴마렉스캡슐2밀리그램(폴마콕시브)",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20220603",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260872]폴마콕시브",
+ "main_item_ingr_eng": "Polmacoxib",
+ "edi_code": "052701440",
+ "atc_code": "M01AH07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202342",
+ "revisions": [
+  {
+   "revision_id": "202202342-ba2a9dd4",
+   "content_sha256": "ba2a9dd41b228c94843af40f36972715c5f57bc70fed7a6ddb5bb4bff42f48dc",
+   "ee_text": "골관절염(퇴행관절염)의 증상이나 징후의 완화 선택성 COX-2 억제제인 이 약을 투여하는 경우, 개개 환자의 전반적인 위험성을 평가해야 한다. (사용상의 주의사항 5. 일반적 주의 참고).",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:17:16Z",
+   "last_observed_at": "2026-08-27T13:17:16Z",
+   "official_revision_date": "2022-06-03"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:17:16Z"
+}

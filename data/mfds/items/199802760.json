@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199802760",
+ "item_name": "말펜정(수출용)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "19980428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M051415]푸르설티아민",
+ "main_item_ingr_eng": "Acetaminophen/Fursultiamine",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802760",
+ "revisions": [
+  {
+   "revision_id": "199802760-a01fee5f",
+   "content_sha256": "a01fee5fbeeabccb9aba3146ba2281aa429ccab1b1ee7d7c71453715c78435ae",
+   "ee_text": "감기로 인한 발열 및 동통, 치통 두통, 신경통, 근육통, 월경통, 관절통, 류마티스성 동통",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T12:56:56Z",
+   "last_observed_at": "2026-08-27T12:56:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:56:56Z"
+}

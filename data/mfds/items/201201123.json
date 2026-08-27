@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201201123",
+ "item_name": "휴온스헤포나주5g(L-아스파르트산-L-오르니틴)(수출용)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20120222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254056]L-아스파르트산-L-오르니틴",
+ "main_item_ingr_eng": "L-Ornithine-L-Aspartate",
+ "edi_code": "",
+ "atc_code": "A05BA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201123",
+ "revisions": [
+  {
+   "revision_id": "201201123-5464c38c",
+   "content_sha256": "5464c38cedf336418599d325b5e88f6989add8151c9107535c1797714dab954e",
+   "ee_text": "다음의 중증의 간질환 해독 : 간경변, 만성간염, 간성뇌증(혼수 전단계·혼수포함)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201201123/EE",
+   "first_observed_at": "2026-08-27T13:52:43Z",
+   "last_observed_at": "2026-08-27T13:52:43Z"
+  },
+  {
+   "revision_id": "201201123-0793f4ea",
+   "content_sha256": "0793f4ea72db50d3e4cbdde4e07998976db5b2b246e0e68d83811b7c847f39d9",
+   "ee_text": "(인퓨전주사) 다음의 중증의 간질환 해독 : 간경변, 만성간염, 간성뇌증(혼수 전단계‧혼수포함)",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:52:43Z",
+   "last_observed_at": "2026-08-27T13:52:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:52:43Z"
+}

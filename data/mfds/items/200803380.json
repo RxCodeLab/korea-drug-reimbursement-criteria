@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200803380",
+ "item_name": "타크로벨주5밀리그램(타크로리무스수화물)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20080327",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089193]타크로리무스수화물",
+ "main_item_ingr_eng": "Tacrolimus Hydrate",
+ "edi_code": "643304631",
+ "atc_code": "L04AD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803380",
+ "revisions": [
+  {
+   "revision_id": "200803380-104259d1",
+   "content_sha256": "104259d11216cfbe5ac437305ff8f3c8854adcfa2354680f91561278d96a68df",
+   "ee_text": ": 동종의 신이식 환자에 대한 거부반응 방지 : 동종의 간이식 환자에 대한 거부반응 방지 - 조직이식 거부반응 방지 - 이식편대숙주질환(graft versus-host disease) 방지",
+   "ee_doc_id": "31",
+   "first_observed_at": "2026-08-27T12:33:32Z",
+   "last_observed_at": "2026-08-27T12:33:32Z",
+   "official_revision_date": "2023-02-20"
+  },
+  {
+   "revision_id": "200803380-5bced8cb",
+   "content_sha256": "5bced8cb2ad77e5c12aaf41dd559983f184b40f9e144813d09085bdbf3a31b24",
+   "ee_text": ": 동종의 신장이식 환자에 대한 거부반응 방지 : 동종의 간장이식 환자에 대한 거부반응 방지 - 조직이식 거부반응 방지 - 이식편대숙주병(graft versus-host disease, GVHD) 방지",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:33:32Z",
+   "last_observed_at": "2026-08-27T12:33:32Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:32Z"
+}

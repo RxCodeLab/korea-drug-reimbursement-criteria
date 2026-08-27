@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501224",
+ "item_name": "에필람주(발프로산나트륨)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19950321",
+ "cancel_date": "20251113",
+ "status": "취하",
+ "main_item_ingr": "[M070676]발프로산나트륨",
+ "main_item_ingr_eng": "Sodium Valproate",
+ "edi_code": "",
+ "atc_code": "N03AG01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501224",
+ "revisions": [
+  {
+   "revision_id": "199501224-d90b00d1",
+   "content_sha256": "d90b00d1917a034dfc1d1abfbbd736328566213da308eb89806bf4fb429fec1a",
+   "ee_text": "1. 뇌전증[결신발작(소발작), 부분발작(초점발작), 정신운동성발작 및 혼합발작]과 뇌전증에 뒤따르는 성격·행동장애의 예방과 치료 2. 수술후 및 외상후의 발작",
+   "ee_doc_id": "26",
+   "first_observed_at": "2026-08-27T13:42:29Z",
+   "last_observed_at": "2026-08-27T13:42:29Z",
+   "official_revision_date": "2019-04-21"
+  },
+  {
+   "revision_id": "199501224-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "19",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:42:29Z",
+   "last_observed_at": "2026-08-27T13:42:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:42:29Z"
+}

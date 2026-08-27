@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "A11AB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500548",
+ "history_fetched_at": "2026-08-27T10:32:17Z",
  "revisions": [
   {
    "revision_id": "200500548-67113f96",
    "content_sha256": "67113f96d925b8ca631843df4d268a9bf25dd564f99344538b7eb5d69397f013",
    "ee_text": "1 , B 2 , B 6 , C의 보급\">",
-   "ee_doc_id": "35",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200500548/EE",
    "first_observed_at": "2026-08-27T10:32:17Z",
-   "last_observed_at": "2026-08-27T10:32:17Z",
-   "official_revision_date": "2021-09-10"
+   "last_observed_at": "2026-08-27T10:53:05Z"
   },
   {
    "revision_id": "200500548-40265291",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T10:32:17Z",
    "last_observed_at": "2026-08-27T10:32:17Z"
   }
- ],
- "history_fetched_at": "2026-08-27T10:32:17Z"
+ ]
 }

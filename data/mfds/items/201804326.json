@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804326",
+ "item_name": "로잔정(디에노게스트(미분화))",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20181031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252442]디에노게스트(미분화)",
+ "main_item_ingr_eng": "Dienogest Micronized",
+ "edi_code": "648507810",
+ "atc_code": "G03DB08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804326",
+ "revisions": [
+  {
+   "revision_id": "201804326-ff14c775",
+   "content_sha256": "ff14c775552ac5053f7576a6b842a6596783faff5fa8d820a4fa39ad6b6fe449",
+   "ee_text": "자궁내막증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:24:17Z",
+   "last_observed_at": "2026-08-27T13:24:17Z",
+   "official_revision_date": "2018-10-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:24:17Z"
+}

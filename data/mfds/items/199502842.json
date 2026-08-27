@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199502842",
+ "item_name": "코러스리팜피신캡슐300밀리그램(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "19951004",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020042]리팜피신",
+ "main_item_ingr_eng": "Rifampicin",
+ "edi_code": "",
+ "atc_code": "J04AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502842",
+ "revisions": [
+  {
+   "revision_id": "199502842-973d244b",
+   "content_sha256": "973d244bdb73cb92e86ef36b5929d5f60f6829a85f4d905cd4bb642ae8b55004",
+   "ee_text": "○ 유효균종 결핵균, 수막염균 ○ 적응증 결핵, 무증후성 수막염균 보균자",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T13:41:38Z",
+   "last_observed_at": "2026-08-27T13:41:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:41:38Z"
+}

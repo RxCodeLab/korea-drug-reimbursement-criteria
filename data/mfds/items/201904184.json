@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904184",
+ "item_name": "트라리틴콤비정2.5/500mg",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20190614",
+ "cancel_date": "20240614",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M252996]리나글립틴|[M244179]메트포르민염산염",
+ "main_item_ingr_eng": "Linagliptin/Metformin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904184",
+ "revisions": [
+  {
+   "revision_id": "201904184-e4fc2c63",
+   "content_sha256": "e4fc2c63eaaf88392a82d481d24c0aad0f461aaa66701a4d132c88a9c2d94ea6",
+   "ee_text": "이 약은 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 이전 당뇨병 약물치료를 받은 경험이 없으며 단독요법으로 충분한 혈당조절이 어려운 경우 투여한다. 2. 리나글립틴과 메트포르민 병용요법을 대체하는 경우 투여한다. 3. 인슐린과 메트포르민 병용요법으로 충분한 혈당조절을 할 수 없는 경우 인슐린과 이 약을 병용투여한다. 4. 최대 내성용량의 메트포르민과 엠파글리플로진(25mg) 병용요법으로 충분한 혈당 조절을 할 수 없는 경우 엠파글리플로진(25mg)과 이 약을 병용투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:33:08Z",
+   "last_observed_at": "2026-08-27T13:33:08Z",
+   "official_revision_date": "2019-06-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:33:08Z"
+}

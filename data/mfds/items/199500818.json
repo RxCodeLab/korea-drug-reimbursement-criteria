@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199500818",
+ "item_name": "제올라크림",
+ "entp_name": "태극제약(주)",
+ "permit_date": "19950519",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215133]에녹솔론|[M222965]디부카인염산염|[M230875]l-멘톨|[M204423]dl-캄파|[M040108]디펜히드라민",
+ "main_item_ingr_eng": "DL-Camphor/Dibucaine Hydrochloride/Diphenhydramine/Enoxolone/L-Menthol",
+ "edi_code": "",
+ "atc_code": "D04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500818",
+ "revisions": [
+  {
+   "revision_id": "199500818-506d7568",
+   "content_sha256": "506d7568c4539c4fb8857718f134ef176256101e2dc58212d1d2937455577146",
+   "ee_text": "습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물림, 두드러기, 동창(언 상처)",
+   "ee_doc_id": "34",
+   "first_observed_at": "2026-08-27T12:29:27Z",
+   "last_observed_at": "2026-08-27T12:29:27Z",
+   "official_revision_date": "2025-09-02"
+  },
+  {
+   "revision_id": "199500818-85742864",
+   "content_sha256": "85742864348bfa5456769393b16621c5265fd3aec43c2484fc777510dfc94ca4",
+   "ee_text": "벌레 물린데, 피부가려움, 습진, 두드러기, 피부염, 땀띠, 동창",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:29:27Z",
+   "last_observed_at": "2026-08-27T12:29:27Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:27Z"
+}

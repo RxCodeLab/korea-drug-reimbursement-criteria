@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905464",
+ "item_name": "콜대원콜드에이시럽(수출용)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20190801",
+ "cancel_date": "20230925",
+ "status": "취하",
+ "main_item_ingr": "[M050058]구아이페네신|[M223155]에페드린염산염|[M223211]클로르페니라민말레산염|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Chlorpheniramine Maleate/Ephedrine Hydrochloride/Guaifenesin",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905464",
+ "revisions": [
+  {
+   "revision_id": "201905464-44737ea7",
+   "content_sha256": "44737ea7c37a8e436cd59526d477855d4b6a655aa5bc7f63ec371432dfad569e",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후[목구멍]통, 기침, 가래, 오한[춥고 떨리는 증상], 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:02:20Z",
+   "last_observed_at": "2026-08-27T13:02:20Z",
+   "official_revision_date": "2019-08-01"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:02:20Z"
+}

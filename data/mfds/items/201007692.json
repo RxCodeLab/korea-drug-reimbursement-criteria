@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201007692",
+ "item_name": "타시그나캡슐150밀리그램(닐로티닙염산염일수화물)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20101224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249741]닐로티닙염산염일수화물",
+ "main_item_ingr_eng": "Nilotinib Hydrochrloride Monohydrate",
+ "edi_code": "653602160",
+ "atc_code": "L01EA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007692",
+ "revisions": [
+  {
+   "revision_id": "201007692-6260ef2e",
+   "content_sha256": "6260ef2e9957c05b5f3c8415425641fa921bc8fa66eaf2ace1649324e8b30116",
+   "ee_text": "이 약의 유효성은 주요분자학적, 세포유전학적 반응률을 근거로 하고 있다. 이 약의 유효성은 세포유전학적, 혈액학적 반응률을 근거로 하고 있다.",
+   "ee_doc_id": "33",
+   "first_observed_at": "2026-08-27T13:38:19Z",
+   "last_observed_at": "2026-08-27T13:38:19Z",
+   "official_revision_date": "2019-08-20"
+  },
+  {
+   "revision_id": "201007692-92226b33",
+   "content_sha256": "92226b33f2f5962b5f263b7b569bbe4141def567cab72cfcf529c1b37c437a60",
+   "ee_text": "이 약의 유효성은 주요분자학적, 세포유전학적 반응률을 근거로 하고 있다. 이 약의 유효성은 세포유전학적, 혈액학적 반응율률 근거로 하고 있다.",
+   "ee_doc_id": "31",
+   "official_revision_date": "2018-05-28",
+   "first_observed_at": "2026-08-27T13:38:19Z",
+   "last_observed_at": "2026-08-27T13:38:19Z"
+  },
+  {
+   "revision_id": "201007692-933a1d10",
+   "content_sha256": "933a1d106edefe09a6883af586a4786bbac57d8fe4a951f3d1b0486618dc67b9",
+   "ee_text": "이 약의 유효성은 주요분자학적, 세포유전학적 반응율을 근거로 하고 있다. 이 약의 유효성은 세포유전학적, 혈액학적 반응율을 근거로 하고 있다. 질병과 관련된 증상 개선이나 생존율 증가와 같은 임상적 유익성을 나타낸 임상시험은 없다.",
+   "ee_doc_id": "26",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:38:19Z",
+   "last_observed_at": "2026-08-27T13:38:19Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:19Z"
+}

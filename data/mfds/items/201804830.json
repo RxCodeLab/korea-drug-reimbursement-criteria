@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804830",
+ "item_name": "네스벨프리필드시린지주30(다베포에틴알파,유전자재조합)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20181129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099809]다베포에틴알파",
+ "main_item_ingr_eng": "Darbepoetin Alpha",
+ "edi_code": "643308241",
+ "atc_code": "B03XA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804830",
+ "revisions": [
+  {
+   "revision_id": "201804830-c14d7ac0",
+   "content_sha256": "c14d7ac0edd7f6c0213b76616df550303a1323e416f1a01d811cecf5441ba7cc",
+   "ee_text": "1. 만성신부전환자의 빈혈 2. 고형암의 화학요법에 의한 빈혈",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:54:03Z",
+   "last_observed_at": "2026-08-27T13:54:03Z",
+   "official_revision_date": "2018-11-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:54:03Z"
+}

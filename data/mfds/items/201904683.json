@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904683",
+ "item_name": "파마에피나스틴염산염정10밀리그램",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20190711",
+ "cancel_date": "20240711",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M256607]에피나스틴염산염",
+ "main_item_ingr_eng": "Epinastine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AX24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904683",
+ "revisions": [
+  {
+   "revision_id": "201904683-1037b837",
+   "content_sha256": "1037b8377a1a4ff947d1953d874aa52e53f1f8e10ecd22b76401df9662e3c8a4",
+   "ee_text": "1. 기관지천식 2. 알레르기비염 3. 두드러기, 습진ㆍ피부염, 피부가려움, 가려움발진(痒疹), 가려움을 동반한 보통건선",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:08:59Z",
+   "last_observed_at": "2026-08-27T13:08:59Z",
+   "official_revision_date": "2019-07-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:08:59Z"
+}

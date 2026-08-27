@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505091",
+ "item_name": "유디나캡슐",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20150727",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M256672]비페닐디메틸디카르복실레이트",
+ "main_item_ingr_eng": "Biphenyl Dimethyl Dicarboxylate/Ursodeoxycholic Acid",
+ "edi_code": "653403300",
+ "atc_code": "A05AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505091",
+ "revisions": [
+  {
+   "revision_id": "201505091-41705fd8",
+   "content_sha256": "41705fd85d31449f82e44c11e418c841fd7fbeb454ea4dfc8274bf7e6586b8b6",
+   "ee_text": "지속적으로 SGPT가 상승되어 있는 만성지속성 간염",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T12:31:47Z",
+   "last_observed_at": "2026-08-27T12:31:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:31:47Z"
+}

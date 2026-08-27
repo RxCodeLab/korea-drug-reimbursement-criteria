@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601092",
+ "item_name": "건투스정50밀리그램(프란루카스트수화물)",
+ "entp_name": "건일바이오팜주식회사",
+ "permit_date": "20260415",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284969]프란루카스트수화물(미분화)",
+ "main_item_ingr_eng": "Pranlukast Hydrate",
+ "edi_code": "073001750",
+ "atc_code": "R03DC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601092",
+ "revisions": [
+  {
+   "revision_id": "202601092-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:23:59Z",
+   "last_observed_at": "2026-08-27T13:23:59Z",
+   "official_revision_date": "2026-04-15"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:23:59Z"
+}

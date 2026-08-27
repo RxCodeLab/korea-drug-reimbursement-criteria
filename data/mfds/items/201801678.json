@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801678",
+ "item_name": "슬리마정(수출용)",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20180418",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070865]알긴산|[M244062]카르복시메틸셀룰로오스나트륨",
+ "main_item_ingr_eng": "Alginic Acid/Carboxymethylcellulose Sodium",
+ "edi_code": "",
+ "atc_code": "A08AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801678",
+ "revisions": [
+  {
+   "revision_id": "201801678-f08e93f0",
+   "content_sha256": "f08e93f025b88324b6b2fb028e52390744d03165a35ce553c7c57ac126a79d79",
+   "ee_text": "음식물 섭취 감소를 통한 체중감량의 보조요법",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:06:58Z",
+   "last_observed_at": "2026-08-27T12:06:58Z",
+   "official_revision_date": "2018-04-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:06:58Z"
+}

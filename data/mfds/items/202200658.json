@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200658",
+ "item_name": "우먼스타이레놀정",
+ "entp_name": "켄뷰코리아판매유한회사",
+ "permit_date": "20220210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M082487]파마브롬",
+ "main_item_ingr_eng": "Acetaminophen/Pamabrom",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200658",
+ "revisions": [
+  {
+   "revision_id": "202200658-02fa1d18",
+   "content_sha256": "02fa1d186ab068b005c21f0a9086e01a94e2feab13f988143bbf8099ed7e4d5d",
+   "ee_text": "월경전 여러 증상의 완화 : 월경 전 긴장증, 부종(부기), 경련, 요통 및 두통",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:03:55Z",
+   "last_observed_at": "2026-08-27T13:03:55Z",
+   "official_revision_date": "2022-02-10"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:03:55Z"
+}

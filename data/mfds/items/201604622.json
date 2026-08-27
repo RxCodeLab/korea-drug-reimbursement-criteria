@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604622",
+ "item_name": "칸타벨정16/10밀리그램",
+ "entp_name": "(주)종근당",
+ "permit_date": "20160726",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222875]암로디핀베실산염|[M089055]칸데사르탄실렉세틸",
+ "main_item_ingr_eng": "Amlodipine Besylate/Candesartan Cilexetil",
+ "edi_code": "643307550",
+ "atc_code": "C09DB07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604622",
+ "revisions": [
+  {
+   "revision_id": "201604622-194a4c0f",
+   "content_sha256": "194a4c0fd120937e7cd77306a3938320fd30fb56fccea292561f6d8eea3b2735",
+   "ee_text": "칸데사르탄실렉세틸 또는 암로디핀 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T13:19:41Z",
+   "last_observed_at": "2026-08-27T13:19:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:19:41Z"
+}

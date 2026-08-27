@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200708426",
+ "item_name": "베이보스정(보글리보스)",
+ "entp_name": "(주)킵스바이오파마",
+ "permit_date": "20070720",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051790]보글리보스",
+ "main_item_ingr_eng": "Voglibose",
+ "edi_code": "",
+ "atc_code": "A10BF03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708426",
+ "revisions": [
+  {
+   "revision_id": "200708426-cefec3ce",
+   "content_sha256": "cefec3ce383eae168afb5c43eabe210ff12d8e1d1c07f13b31595247f948a6fc",
+   "ee_text": "당뇨병의 식후 과혈당개선(단, 식사요법, 운동요법을 행하고 있는 환자에서 충분한 효과를 얻을 수 없는 경우, 또는 식사요법, 운동요법에 추가하여 경구혈당 강하제 혹은 인슐린 제제를 사용하고 있는 환자에서 충분한 효과를 얻을 수 없는 경우에 한함)",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T13:25:55Z",
+   "last_observed_at": "2026-08-27T13:25:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:25:55Z"
+}

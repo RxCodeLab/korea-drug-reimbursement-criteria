@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201000876",
+ "item_name": "본틸정150밀리그램(리세드론산나트륨일수화물)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20100126",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M221599]리세드론산나트륨일수화물",
+ "main_item_ingr_eng": "Risedronate Sodium Monohydrate",
+ "edi_code": "648506260",
+ "atc_code": "M05BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000876",
+ "revisions": [
+  {
+   "revision_id": "201000876-a5c0cf6a",
+   "content_sha256": "a5c0cf6a31f8c8b4e297d8d0994d263c05b6fea2b7eae61dad9c8214303ed496",
+   "ee_text": "(정제) * 75, 150 m 폐경 후 여성의 골다공증 치료와 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201000876/EE",
+   "first_observed_at": "2026-08-27T13:38:10Z",
+   "last_observed_at": "2026-08-27T13:38:10Z"
+  },
+  {
+   "revision_id": "201000876-defc36e5",
+   "content_sha256": "defc36e544c2b7839accafb802c7c19f36a2dc5341b21770e904271d774f1977",
+   "ee_text": "폐경 후 여성의 골다공증 치료와 예방",
+   "ee_doc_id": "18",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:38:10Z",
+   "last_observed_at": "2026-08-27T13:38:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:10Z"
+}

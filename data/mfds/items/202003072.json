@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003072",
+ "item_name": "보령아리피프라졸정5밀리그램",
+ "entp_name": "(주)보령",
+ "permit_date": "20200427",
+ "cancel_date": "20250427",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M270799]아리피프라졸(미분화)",
+ "main_item_ingr_eng": "Aripiprazole Micronized",
+ "edi_code": "",
+ "atc_code": "N05AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003072",
+ "revisions": [
+  {
+   "revision_id": "202003072-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T13:27:18Z",
+   "last_observed_at": "2026-08-27T13:27:18Z",
+   "official_revision_date": "2022-08-16"
+  },
+  {
+   "revision_id": "202003072-7b80ea17",
+   "content_sha256": "7b80ea17995ec77569a3a38d637f74317ea5c9e89b06e445f47616312ef68f61",
+   "ee_text": "1. 정신분열병 2. 뚜렛장애",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-04-27",
+   "first_observed_at": "2026-08-27T13:27:18Z",
+   "last_observed_at": "2026-08-27T13:27:18Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:18Z"
+}

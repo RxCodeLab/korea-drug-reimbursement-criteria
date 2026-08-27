@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805300",
+ "item_name": "프레비미스정240밀리그램(레테르모비르)",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "20181226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268272]레테르모비르",
+ "main_item_ingr_eng": "Letermovir",
+ "edi_code": "655502030",
+ "atc_code": "J05AX18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805300",
+ "revisions": [
+  {
+   "revision_id": "201805300-286cc415",
+   "content_sha256": "286cc415276859f69f3d19f6f1ba8d50822b3e504b1714d5d7a2433f199fb2d2",
+   "ee_text": "1. 조혈모세포이식(HSCT) 수여자의 거대세포바이러스(CMV) 예방 동종조혈모세포이식(HSCT)을 받은 성인 및 소아 거대세포바이러스(CMV)-혈청 양성[R+] 환자에서 거대세포바이러스(CMV) 감염 및 질환의 예방 2. 신장이식 수여자의 거대세포바이러스(CMV) 예방 거대세포바이러스(CMV) 혈청 양성인 공여자로부터 신장이식을 받은 성인 및 소아 거대세포바이러스(CMV) 혈청 음성 환자[D+/R-]에서 거대세포바이러스(CMV) 질환의 예방",
+   "ee_doc_id": "27",
+   "first_observed_at": "2026-08-27T13:49:56Z",
+   "last_observed_at": "2026-08-27T13:49:56Z",
+   "official_revision_date": "2025-09-29"
+  },
+  {
+   "revision_id": "201805300-53efb0c6",
+   "content_sha256": "53efb0c6f12bed9024fb7e32c629c483baf8983cb2beca968e5ebf0f1ef61a92",
+   "ee_text": "1. 조혈모세포이식(HSCT) 수여자의 거대세포바이러스(CMV) 예방 동종조혈모세포이식(HSCT)을 받은 성인 거대세포바이러스(CMV)-혈청 양성[R+] 환자에서 거대세포바이러스(CMV) 감염 및 질환의 예방 2. 신장이식 수여자의 거대세포바이러스(CMV) 예방 거대세포바이러스(CMV) 혈청 양성인 공여자로부터 신장이식을 받은 성인 거대세포바이러스(CMV) 혈청 음성 환자[D+/R-]에서 거대세포바이러스(CMV) 질환의 예방",
+   "ee_doc_id": "22",
+   "official_revision_date": "2024-04-15",
+   "first_observed_at": "2026-08-27T13:49:56Z",
+   "last_observed_at": "2026-08-27T13:49:56Z"
+  },
+  {
+   "revision_id": "201805300-8f0c1385",
+   "content_sha256": "8f0c13855f29550f9ad0ae69b43a572179ae559a3eab143398e0d66881c74a21",
+   "ee_text": "동종 조혈모세포 이식수술(HSCT)을 받은 성인 거대세포바이러스(CMV)-혈청양성[R+] 환자에서 거대세포바이러스(CMV) 감염 및 질환의 예방",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-12-27",
+   "first_observed_at": "2026-08-27T13:49:56Z",
+   "last_observed_at": "2026-08-27T13:49:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:49:56Z"
+}

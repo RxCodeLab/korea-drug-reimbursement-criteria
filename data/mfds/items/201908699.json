@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908699",
+ "item_name": "대원바이오텍에페리손서방정(에페리손염산염)",
+ "entp_name": "대원바이오텍주식회사",
+ "permit_date": "20191230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M232172]에페리손염산염",
+ "main_item_ingr_eng": "Eperisone Hydrochloride",
+ "edi_code": "057600450",
+ "atc_code": "M03BX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908699",
+ "revisions": [
+  {
+   "revision_id": "201908699-d5d199a0",
+   "content_sha256": "d5d199a041080c5263dcea5fe220b94ad17a366482bf48528df37868e8528ec6",
+   "ee_text": "근골격계질환에 수반하는 동통성 근육연축 : 경견완증후군, 견관절주위염, 요통",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:06:22Z",
+   "last_observed_at": "2026-08-27T12:06:22Z",
+   "official_revision_date": "2019-12-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:06:22Z"
+}

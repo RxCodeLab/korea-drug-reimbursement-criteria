@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200909107",
+ "item_name": "제일소프트핫카타플라스마",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20091224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203279]살리실산메틸|[M279284]L-멘톨|[M204423]dl-캄파|[M222973]디펜히드라민염산염|[M223254]티몰|[M050127]노닐산바닐아미드",
+ "main_item_ingr_eng": "DL-Camphor/Diphenhydramine Hydrochloride/L-Menthol/Methyl Salicylate/Thymol/Vanillyl Nonylamide",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200909107",
+ "revisions": [
+  {
+   "revision_id": "200909107-c79450da",
+   "content_sha256": "c79450da1aa5a02554e0eb856b9699857d849fd50c4d26596122cbe1fa52ee8b",
+   "ee_text": "다음 증상의 진통ㆍ소염(항염) : 삠, 타박상, 근육통, 관절통, 골(뼈)절통, 요(허리)통, 어깨결림, 신경통, 류마티스통증",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-27T12:29:46Z",
+   "last_observed_at": "2026-08-27T12:29:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:46Z"
+}

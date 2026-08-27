@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308277",
+ "item_name": "스웨트롤패드액(글리코피롤레이트)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20130718",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050104]글리코피롤레이트",
+ "main_item_ingr_eng": "Glycopyrrolate",
+ "edi_code": "",
+ "atc_code": "D11AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308277",
+ "revisions": [
+  {
+   "revision_id": "201308277-36753d61",
+   "content_sha256": "36753d61d30e054224c25770fafd04893cdf4917548da6307cf23cb3e323caa2",
+   "ee_text": "안면 다한증(땀과다증)",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T13:25:09Z",
+   "last_observed_at": "2026-08-27T13:25:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:25:09Z"
+}

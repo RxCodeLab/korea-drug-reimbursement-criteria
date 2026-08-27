@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401165",
+ "item_name": "오크레부스주(오크렐리주맙)",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "20240513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284666]오크렐리주맙",
+ "main_item_ingr_eng": "Ocrelizumab",
+ "edi_code": "645001621",
+ "atc_code": "L04AG08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401165",
+ "revisions": [
+  {
+   "revision_id": "202401165-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:34:28Z",
+   "last_observed_at": "2026-08-27T13:34:28Z",
+   "official_revision_date": "2024-05-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:34:28Z"
+}

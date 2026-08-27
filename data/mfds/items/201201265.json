@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201201265",
+ "item_name": "프라펙솔정1밀리그램(프라미펙솔염산염일수화물)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20120228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247162]프라미펙솔염산염일수화물",
+ "main_item_ingr_eng": "Pramipexole Dihydrochloride Monohydrate",
+ "edi_code": "643903530",
+ "atc_code": "N04BC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201265",
+ "revisions": [
+  {
+   "revision_id": "201201265-26026265",
+   "content_sha256": "260262651391bc06d5a07ee1c87cd6ae525b777d812d9b05986c605ab8b3f709",
+   "ee_text": ": 초기 파킨슨병 환자의 치료에 단독요법, 레보도파와 병용한 진행된 파킨슨병 환자의 병용요법 : 중등증 및 중증의 특발성 하지 불안 증후군 환자의 증상 치료",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-27T12:40:47Z",
+   "last_observed_at": "2026-08-27T12:40:47Z",
+   "official_revision_date": "2017-11-07"
+  },
+  {
+   "revision_id": "201201265-a5930642",
+   "content_sha256": "a59306420963805a58f7959ca2151c911d8bd6471a222510fbe339bd8400eb4a",
+   "ee_text": "특발성 파킨슨증: 초기 파킨슨병 환자의 치료에 단독요법, 레보도파와 병용한 진행된 파킨슨병 환자의 병용요법",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:40:47Z",
+   "last_observed_at": "2026-08-27T12:40:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:40:47Z"
+}

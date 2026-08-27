@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404424",
+ "item_name": "카르베롤서방캡슐8밀리그램(카르베딜롤)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20140926",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085731]카르베딜롤",
+ "main_item_ingr_eng": "Carvedilol",
+ "edi_code": "643506980",
+ "atc_code": "C07AG02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404424",
+ "revisions": [
+  {
+   "revision_id": "201404424-27c49fa4",
+   "content_sha256": "27c49fa442029c580a96c03e32e167e65b1985e6b589881e175dde89800756b3",
+   "ee_text": "이뇨제, 디기탈리스 제제, ACE억제제, 기타 혈관확장제 투여 시 보조치료",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-27T12:27:51Z",
+   "last_observed_at": "2026-08-27T12:27:51Z",
+   "official_revision_date": "2024-09-25"
+  },
+  {
+   "revision_id": "201404424-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:27:51Z",
+   "last_observed_at": "2026-08-27T12:27:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:27:51Z"
+}

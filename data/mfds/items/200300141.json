@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300141",
+ "item_name": "에포론주사액프리필드시린지10000IU/mL(재조합인에리스로포이에틴)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20030528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091670]재조합인에리스로포이에틴|[M091670]재조합인에리스로포이에틴|[M091670]재조합인에리스로포이에틴|[M091670]재조합인에리스로포이에틴",
+ "main_item_ingr_eng": "Recombinant Human Erythropoietin",
+ "edi_code": "642502791,642504991,642505011,642506821",
+ "atc_code": "B03XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300141",
+ "revisions": [
+  {
+   "revision_id": "200300141-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200300141/EE",
+   "first_observed_at": "2026-08-27T13:54:20Z",
+   "last_observed_at": "2026-08-27T13:54:20Z"
+  },
+  {
+   "revision_id": "200300141-2343c479",
+   "content_sha256": "2343c479662e4b3992a9b455acd4feab3d767b5dcf11148239831c445bf536e8",
+   "ee_text": "* 에포론주, 에포론주사액프리필드시린지 제제에 한함",
+   "ee_doc_id": "17",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:54:20Z",
+   "last_observed_at": "2026-08-27T13:54:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:54:20Z"
+}

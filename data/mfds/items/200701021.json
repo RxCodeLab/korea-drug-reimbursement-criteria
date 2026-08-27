@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200701021",
+ "item_name": "코다론정(아미오다론염산염)",
+ "entp_name": "(주)한독",
+ "permit_date": "20070124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264471]아미오다론염산염",
+ "main_item_ingr_eng": "Amiodarone Hydrochloride",
+ "edi_code": "652101250",
+ "atc_code": "C01BD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701021",
+ "revisions": [
+  {
+   "revision_id": "200701021-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T13:42:36Z",
+   "last_observed_at": "2026-08-27T13:42:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:42:36Z"
+}

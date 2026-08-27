@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404807",
+ "item_name": "리세로정(리세드론산나트륨2.5수화물)",
+ "entp_name": "(주)킵스바이오파마",
+ "permit_date": "20141021",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249411]리세드론산나트륨2.5수화물",
+ "main_item_ingr_eng": "Risedronate Sodium 2.5 Hydrate",
+ "edi_code": "693201140",
+ "atc_code": "M05BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404807",
+ "revisions": [
+  {
+   "revision_id": "201404807-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T13:47:08Z",
+   "last_observed_at": "2026-08-27T13:47:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:47:08Z"
+}

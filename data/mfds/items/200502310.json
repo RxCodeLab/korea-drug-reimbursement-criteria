@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502310",
+ "item_name": "리렉사정(수출용)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20051116",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M040614]클로르족사존",
+ "main_item_ingr_eng": "Acetaminophen/Chlorzoxazone",
+ "edi_code": "",
+ "atc_code": "M03BB53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502310",
+ "revisions": [
+  {
+   "revision_id": "200502310-c6d93779",
+   "content_sha256": "c6d9377980a048fb46a4c452fa301373d1faaab6d8832546dfa763f560122e83",
+   "ee_text": "신경통, 근육통, 관절통, 요통, 염좌통, 견통, 근경련, 근경직 등 근육의 이상 긴장을 수반하는 제 질환",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-27T12:57:41Z",
+   "last_observed_at": "2026-08-27T12:57:41Z",
+   "official_revision_date": "2021-04-21"
+  },
+  {
+   "revision_id": "200502310-78d645dc",
+   "content_sha256": "78d645dc261c8af25417ee43aea6863391eda71b71d638cea8c169b669f8abdd",
+   "ee_text": "신경통, 근육동, 관절통, 요통, 염좌통, 견통, 근경련, 근경직등 근육의 이상 긴장을 수반하는 제 질환",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:57:41Z",
+   "last_observed_at": "2026-08-27T12:57:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:41Z"
+}

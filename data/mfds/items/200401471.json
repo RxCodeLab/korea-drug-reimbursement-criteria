@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401471",
+ "item_name": "미도펜정(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20040402",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085595]말레인산돔페리돈|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Domperidone Maleate",
+ "edi_code": "",
+ "atc_code": "N02CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401471",
+ "revisions": [
+  {
+   "revision_id": "200401471-ba9763a6",
+   "content_sha256": "ba9763a6d44c08957e090dc195eb0beec38a61528571291b9cdfe7b1ad17d93f",
+   "ee_text": "편두통 증후의 치료",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T12:57:32Z",
+   "last_observed_at": "2026-08-27T12:57:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:32Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201810",
+ "item_name": "아테론정(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20020724",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M040615]클로르탈리돈|[M080475]아테놀올|[M040615]클로르탈리돈|[M080475]아테놀올",
+ "main_item_ingr_eng": "Atenolol/Chlorthalidone",
+ "edi_code": "",
+ "atc_code": "C07CB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201810",
+ "revisions": [
+  {
+   "revision_id": "200201810-f5de4319",
+   "content_sha256": "f5de43194093da461a59c6b7b7985e7ba1927c86ac648c5766f5eeea5afba976",
+   "ee_text": "고혈압",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:27:07Z",
+   "last_observed_at": "2026-08-27T12:27:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:27:07Z"
+}

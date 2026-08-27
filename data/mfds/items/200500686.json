@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500686",
+ "item_name": "토라맥정(토피라메이트)",
+ "entp_name": "(주)팜젠사이언스",
+ "permit_date": "20050131",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M087104]토피라메이트",
+ "main_item_ingr_eng": "Topiramate",
+ "edi_code": "",
+ "atc_code": "N03AX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500686",
+ "revisions": [
+  {
+   "revision_id": "200500686-299a7f85",
+   "content_sha256": "299a7f855e8be25fa63ccf1d0796fe939c2e6538138b946ee5823e33084b160c",
+   "ee_text": "1) 단독요법 : 6세 이상의 소아 및 성인에서의 2차성 전신발작을 동반하거나 동반하지 않은 부분발작 치료 2) 부가요법 : 기존 1차 항뇌전증약 투여로 적절하게 조절되지 않는 2세 이상의 소아 및 성인에서의 다음 질환에 사용된다. - 2차성 전신발작을 동반하거나 동반하지 않은 부분발작 - 레녹스-가스토 증후군과 관련된 발작 - 1차성 강직성/간대성 전신발작",
+   "ee_doc_id": "29",
+   "first_observed_at": "2026-08-27T12:45:08Z",
+   "last_observed_at": "2026-08-27T12:45:08Z",
+   "official_revision_date": "2023-11-13"
+  },
+  {
+   "revision_id": "200500686-6f441fcb",
+   "content_sha256": "6f441fcb78d818af33d1b0a430fe4fef560dddda9a57259e1f857dd8c67396be",
+   "ee_text": "1) 단독요법 : 6세 이상의 소아 및 성인에서의 2차성 전신발작을 동반하거나 동반하지 않은 부분발작 치료 2) 부가요법 : 기존 1차 항전간제 투여로 적절하게 조절되지 않는 2세 이상의 소아 및 성인에서의 다음 질환에 사용된다. - 2차성 전신발작을 동반하거나 동반하지 않은 부분발작 - 레녹스-가스토 증후군과 관련된 발작 - 1차성 강직성/간대성 전신발작",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:45:08Z",
+   "last_observed_at": "2026-08-27T12:45:08Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:45:08Z"
+}

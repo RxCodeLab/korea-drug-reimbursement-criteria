@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199703583",
+ "item_name": "니코스탑-10패취(니코틴)",
+ "entp_name": "(주)삼양바이오팜",
+ "permit_date": "19970827",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086117]니코틴",
+ "main_item_ingr_eng": "Nicotine",
+ "edi_code": "",
+ "atc_code": "N07BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703583",
+ "revisions": [
+  {
+   "revision_id": "199703583-1a8bdfd2",
+   "content_sha256": "1a8bdfd2650d52f8296f4c5cc46aeb9cd38d4aaa295138c75ff0104ae0f880b1",
+   "ee_text": "금연시 보조 요법제",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T13:25:29Z",
+   "last_observed_at": "2026-08-27T13:25:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:25:29Z"
+}

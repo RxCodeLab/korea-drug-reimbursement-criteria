@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197500541",
+ "item_name": "구주스피로닥톤정(스피로노락톤)",
+ "entp_name": "구주제약(주)",
+ "permit_date": "19751007",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099796]스피로노락톤",
+ "main_item_ingr_eng": "Spironolactone",
+ "edi_code": "669800160",
+ "atc_code": "C03DA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197500541",
+ "revisions": [
+  {
+   "revision_id": "197500541-6ef72c6e",
+   "content_sha256": "6ef72c6e27deb1ab3133ef43c52e8f1dde7d1a934b726ad70a34053fd81c31d4",
+   "ee_text": "고혈압(본태성, 신성 등), 원발성알도스테론증, 저칼륨혈증, 심성부종(울혈성 심부전), 신성부종, 간성부종, 특발성부종",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-27T12:28:44Z",
+   "last_observed_at": "2026-08-27T12:28:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:28:44Z"
+}

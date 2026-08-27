@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907542",
+ "item_name": "테로사카트리지주(테리파라타이드)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20191029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270366]테리파라타이드(유전자재조합)",
+ "main_item_ingr_eng": "Teriparatide(Recombinant Human Parathyroid Hormone[1-34])",
+ "edi_code": "671807061",
+ "atc_code": "H05AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907542",
+ "revisions": [
+  {
+   "revision_id": "201907542-9214efc2",
+   "content_sha256": "9214efc2cd63ce0c71ffdeea56f24d90dac2bf030403019ed2e02f5a015f41ff",
+   "ee_text": "폐경기 이후 여성 및 골절의 위험이 높은 남성에 대한 골다공증의 치료 골절의 위험이 높은 여성 및 남성에 있어서 지속적인 글루코코르티코이드 요법과 관련된 골다공증의 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201907542/EE",
+   "first_observed_at": "2026-08-27T12:02:15Z",
+   "last_observed_at": "2026-08-27T12:02:15Z"
+  },
+  {
+   "revision_id": "201907542-bb3e7023",
+   "content_sha256": "bb3e70230c5441a8d7f7e5c2cdb49e13f0072e5eeffd5d54505e7e98f07879a0",
+   "ee_text": "폐경기 이후 여성 및 골절의 위험이 높은 남성에 대한 골다공증의 치료 골절의 위험이 높은 여성 및 남성에 있어서 지속적인 글루코코르티코이드 요법과 관련된 골다골증의 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-10-29",
+   "first_observed_at": "2026-08-27T12:02:15Z",
+   "last_observed_at": "2026-08-27T12:02:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:02:15Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603856",
+ "item_name": "니코틴엘껌2밀리그램(니코틴)",
+ "entp_name": "지피테라퓨틱스코리아주식회사",
+ "permit_date": "20060118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086117]니코틴|[M086117]니코틴",
+ "main_item_ingr_eng": "Nicotine",
+ "edi_code": "",
+ "atc_code": "N07BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603856",
+ "revisions": [
+  {
+   "revision_id": "200603856-fa53c6cb",
+   "content_sha256": "fa53c6cb1c5ae0293bb6d2dbd978932874e35f9b397ac48b895fc7e2bae3ab7e",
+   "ee_text": "금연보조제로서 흡연량을 감소시키며, 담배를 끊을 수 있도록 도와준다.",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T13:15:28Z",
+   "last_observed_at": "2026-08-27T13:15:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:15:28Z"
+}

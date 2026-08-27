@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400559",
+ "item_name": "리트몰정150mg(프로파페논염산염)",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "20140207",
+ "cancel_date": "20231220",
+ "status": "취하",
+ "main_item_ingr": "[M222902]프로파페논염산염",
+ "main_item_ingr_eng": "Propafenone Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C01BC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400559",
+ "revisions": [
+  {
+   "revision_id": "201400559-72627222",
+   "content_sha256": "726272226bd2e4b1269ba656b01930d5f844a000a8bcae8b22a29f08235b56df",
+   "ee_text": "증후성상실성부정빈맥(WPW증후군 또는 발작성심방세동을 수반한 상실성빈맥, 방실접합부빈맥), 생명을 위협하거나 의사의 판단에 의해 치료가 필요한 심한 증후성심실성부정빈맥",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201400559/EE",
+   "first_observed_at": "2026-08-27T12:47:55Z",
+   "last_observed_at": "2026-08-27T12:47:55Z"
+  },
+  {
+   "revision_id": "201400559-f1bfdfc7",
+   "content_sha256": "f1bfdfc7fb580e2f7394d119b3acd2ed8370cd6da88c19c264c0be5cdb81575e",
+   "ee_text": "(경구 : 정제) 증후성상실성부정빈맥(WPW증후군 또는 발작성심방세동을 수반한 상실성빈맥, 방실접합부빈맥), 생명을 위협하거나 의사의 판단에 의해 치료가 필요한 심한 증후성심실성부정빈맥",
+   "ee_doc_id": "2",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:47:55Z",
+   "last_observed_at": "2026-08-27T12:47:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:47:55Z"
+}

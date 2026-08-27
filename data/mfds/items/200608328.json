@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200608328",
+ "item_name": "레드콜연질캡슐",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20060721",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M222957]덱스트로메토르판브롬화수소산염수화물|[M203364]슈도에페드린염산염|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Chlorpheniramine Maleate/Dextromethorphan Hydrobromide Hydrate/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608328",
+ "revisions": [
+  {
+   "revision_id": "200608328-a1d4d64e",
+   "content_sha256": "a1d4d64e8adee374c435119c2da34c5fb839b1acca332b49afc153617f99eb68",
+   "ee_text": "감기의 제증상(여러증상)(콧물, 코막힘, 재채기, 인후통, 기침, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:57:47Z",
+   "last_observed_at": "2026-08-27T12:57:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:47Z"
+}

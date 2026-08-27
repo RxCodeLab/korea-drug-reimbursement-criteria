@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500309",
+ "item_name": "앱토즈마피하주사162밀리그램(토실리주맙)(유전자재조합)",
+ "entp_name": "(주)셀트리온",
+ "permit_date": "20250212",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285119]토실리주맙",
+ "main_item_ingr_eng": "Tocilizumab",
+ "edi_code": "623800371",
+ "atc_code": "L04AC07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500309",
+ "revisions": [
+  {
+   "revision_id": "202500309-b29831da",
+   "content_sha256": "b29831da6568deb88113384abb09603083fe170072739acb7800ea13a5dec5c4",
+   "ee_text": "1. 류마티스 관절염 - 메토트렉세이트(MTX)를 포함한 이전에 한 가지 이상의 DMARDs에 대한 반응이 충분하지 않거나 내약성이 없는 중등도 내지 중증의 활동성 류마티스 관절염의 치료 - 메토트렉세이트와의 병용투여 시 관절손상 진행속도의 감소(X-선 측정결과)와 신체 기능의 향상",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:58:11Z",
+   "last_observed_at": "2026-08-27T11:58:11Z",
+   "official_revision_date": "2025-02-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:58:11Z"
+}

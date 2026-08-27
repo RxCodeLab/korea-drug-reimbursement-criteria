@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402037",
+ "item_name": "도리스캡슐(트리플루살)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20041105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085754]트리플루살",
+ "main_item_ingr_eng": "Triflusal",
+ "edi_code": "654300440",
+ "atc_code": "B01AC18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402037",
+ "revisions": [
+  {
+   "revision_id": "200402037-07527de8",
+   "content_sha256": "07527de814ea39e7f9153f7857b612bc55211e5fc41bbe583257c13b5060abe3",
+   "ee_text": "혈전증에 의한 합병증을 포함한 동맥혈전색전질환 재발방지(2차 예방) 및 혈소판 응집억제 - 불안정 협심증으로 인한 급성 심근경색의 예방 - 혈관수술후 혈전증 - 일과성 허혈에 의한 뇌혈관 장애 또는 가역적 허혈성 신경학적 결손(Reversible Ischemic Neurologic Deficit; RIND)을 나타내는 뇌혈관장애의 예방",
+   "ee_doc_id": "25",
+   "first_observed_at": "2026-08-27T13:42:39Z",
+   "last_observed_at": "2026-08-27T13:42:39Z",
+   "official_revision_date": "2024-11-23"
+  },
+  {
+   "revision_id": "200402037-47234ccc",
+   "content_sha256": "47234ccc24449a040aa86dffd3829b9c3d76df48ad858b4d05524b849a6bd68b",
+   "ee_text": "혈전증에 의한 합병증을 포함한 동맥혈전색전질환 예방 및 혈소판 응집억제 - 불안정 협심증으로 인한 급성 심근경색의 예방 - 혈관수술후 혈전증 - 일과성 허혈에 의한 뇌혈관 장애 또는 가역적 허혈성 신경학적 결손(Reversible Ischemic Neurologic Deficit; RIND)을 나타내는 뇌혈관장애의 예방",
+   "ee_doc_id": "21",
+   "official_revision_date": "2021-06-21",
+   "first_observed_at": "2026-08-27T13:42:39Z",
+   "last_observed_at": "2026-08-27T13:42:39Z"
+  },
+  {
+   "revision_id": "200402037-b4182fd2",
+   "content_sha256": "b4182fd2263c39dbb1420966ee399ae728977d28b346471ac45ae2b571220822",
+   "ee_text": "혈전증에 의한 합병증을 포함한 혈전색전질환 예방과 치료 및 혈소판 응집억제 - 외과수술후 심부정맥 혈전증 및 폐색전증의 예방 - 동맥경화성 기능장애의 예방 - 불안정 협심증으로 인한 급성 심근경색의 예방 - 혈관수술후 혈전증 - 일과성 허혈에 의한 뇌혈관장애 또는 가역적 불완전 신경결핍을 나타내는 뇌혈관장애의 예방 및 증상개선",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:42:39Z",
+   "last_observed_at": "2026-08-27T13:42:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:42:39Z"
+}

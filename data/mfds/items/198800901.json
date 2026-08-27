@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800901",
+ "item_name": "크록신정250밀리그램(클로닉신리시네이트)(수출명: 돌핀정)",
+ "entp_name": "진양제약(주)",
+ "permit_date": "19880727",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080375]클로닉신리시네이트",
+ "main_item_ingr_eng": "Clonixin Lysinate",
+ "edi_code": "",
+ "atc_code": "M01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800901",
+ "revisions": [
+  {
+   "revision_id": "198800901-05a48ba1",
+   "content_sha256": "05a48ba1f78f39f73c3e27751b36d9c2e795dadc78604f168c375487f23f398e",
+   "ee_text": "다음의 경증(경증상, 가벼운 증상) 또는 중등도 통증의 완화 : 근육통, 신경통, 외상(상처)후 및 수술후 통증, 두통, 치통, 귀통증",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-27T12:45:47Z",
+   "last_observed_at": "2026-08-27T12:45:47Z",
+   "official_revision_date": "2018-08-22"
+  },
+  {
+   "revision_id": "198800901-15eb0d4b",
+   "content_sha256": "15eb0d4b728cd6680bdde16144526237e42d73e52b93d384f8ec8897214c5d41",
+   "ee_text": "다음의 경증 또는 중등도 통증의 완화 : 근육통, 신경통, 외상후 및 수술후 통증, 두통, 치통, 귀통증",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:45:47Z",
+   "last_observed_at": "2026-08-27T12:45:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:45:47Z"
+}

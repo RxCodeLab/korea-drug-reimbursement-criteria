@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200802220",
+ "item_name": "대웅바이오아테놀롤정50밀리그램",
+ "entp_name": "대웅바이오(주)",
+ "permit_date": "20080226",
+ "cancel_date": "20230901",
+ "status": "취하",
+ "main_item_ingr": "[M201140]아테놀롤",
+ "main_item_ingr_eng": "Atenolol",
+ "edi_code": "",
+ "atc_code": "C07AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802220",
+ "revisions": [
+  {
+   "revision_id": "200802220-fc09aeca",
+   "content_sha256": "fc09aeca6baca9dbb0b3934ebb4d4aad9aec7d7daae77310d1d7d48c21c077d7",
+   "ee_text": "고혈압, 협심증",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T12:29:11Z",
+   "last_observed_at": "2026-08-27T12:29:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:11Z"
+}

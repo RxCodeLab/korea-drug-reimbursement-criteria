@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501456",
+ "item_name": "탈제나캡슐0.1밀리그램(탈라조파립토실산염)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20250613",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279255]탈라조파립토실산염",
+ "main_item_ingr_eng": "Talazoparib Tosylate",
+ "edi_code": "",
+ "atc_code": "L01XK04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501456",
+ "revisions": [
+  {
+   "revision_id": "202501456-493d3dd8",
+   "content_sha256": "493d3dd87fda826c8869167674d056397d2af2937cf0163704c5d6ab419039af",
+   "ee_text": "전이성 거세 저항성 전립선암 진단 후 항암화학요법 치료 경험이 없는 상동재조합 복구(HRR) 유전자 변이 전이성 거세 저항성 전립선암 성인 환자의 치료에 엔잘루타마이드와 병용요법으로 투여한다.",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T12:44:29Z",
+   "last_observed_at": "2026-08-27T12:44:29Z",
+   "official_revision_date": "2026-07-02"
+  },
+  {
+   "revision_id": "202501456-99aff84c",
+   "content_sha256": "99aff84c69a0ee8c07df24b38370d238fded2aba7eab709bb2682b3f1e98bfb9",
+   "ee_text": "1. 유방암 이전에 항암화학요법 치료 경험이 있는 생식선 유방암감수성 유전자(gBRCA) 변이 HER2-음성인 국소 진행성 또는 전이성 유방암 성인환자의 치료에 단독요법으로 투여한다. 환자는 수술 전 보조요법, 수술 후 보조요법, 국소 진행성 또는 전이성 조건에서 항암화학요법을 받았을 수 있다. 2. 전립선암 전이성 거세 저항성 전립선암 진단 후 항암화학요법 치료 경험이 없는 상동재조합 복구(HRR) 유전자 변이 전이성 거세 저항성 전립선암 성인 환자의 치료에 엔잘루타마이드와 병용요법으로 투여한다.",
+   "ee_doc_id": "1",
+   "official_revision_date": "2025-06-13",
+   "first_observed_at": "2026-08-27T12:44:29Z",
+   "last_observed_at": "2026-08-27T12:44:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:44:29Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200903285",
+ "item_name": "노통펜쿨정(수출용)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20090514",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222973]디펜히드라민염산염|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Diphenhydramine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903285",
+ "revisions": [
+  {
+   "revision_id": "200903285-7d8cc083",
+   "content_sha256": "7d8cc0837466975f7e952ae01e8e16a44a1b4b651984fab5177e1e431ecd5363",
+   "ee_text": "두통, 동통 및 불면증을 수반하는 통증, 발열의 일시적 완화",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T12:29:45Z",
+   "last_observed_at": "2026-08-27T12:29:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:45Z"
+}

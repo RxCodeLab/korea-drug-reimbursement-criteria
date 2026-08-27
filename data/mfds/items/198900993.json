@@ -12,15 +12,15 @@
  "edi_code": "657201060",
  "atc_code": "N06AA04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900993",
+ "history_fetched_at": "2026-08-27T07:54:55Z",
  "revisions": [
   {
    "revision_id": "198900993-3b2a511a",
    "content_sha256": "3b2a511ab6ca33b0f940776cf0e5b9e0ac90d8aae380d41ac2ae319a1d56de76",
    "ee_text": "진정이 요구되는 우울증, 강박상태, 공포상태, 수면발작과 관련된 급발작 1. 내인성 우울증, 반응성 우울증, 신경증적 우울증, 기질성 우울증, 가면성 우울증, 퇴행성 우울증 2. 조현병과 성격장애로 인한 우울증, 노년기나 초로기의 우울증상, 만성 통증이나 만성 신체질환에 기인하는 우울증상 3. 반응성, 신경증적, 정신병성, 신체적 증상을 동반하는 우울성 기분장애 4. 기타 : 강박장애, 공포증, 만성 통증상태",
-   "ee_doc_id": "21",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198900993/EE",
    "first_observed_at": "2026-08-27T07:54:55Z",
-   "last_observed_at": "2026-08-27T07:54:55Z",
-   "official_revision_date": "2024-04-25"
+   "last_observed_at": "2026-08-27T10:45:57Z"
   },
   {
    "revision_id": "198900993-96f1b5e6",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T07:54:55Z",
    "last_observed_at": "2026-08-27T07:54:55Z"
   }
- ],
- "history_fetched_at": "2026-08-27T07:54:55Z"
+ ]
 }

@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001923",
+ "item_name": "씨.티.지.액",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20000419",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M201934]포도당수화물|[M222565]시트르산나트륨수화물|[M096666]시트르산",
+ "main_item_ingr_eng": "Anhydrous Citric Acid/Glucose Hydrate/Sodium Citrate Hydrate",
+ "edi_code": "",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001923",
+ "history_fetched_at": "2026-08-27T10:36:57Z",
+ "revisions": [
+  {
+   "revision_id": "200001923-ebd9d13c",
+   "content_sha256": "ebd9d13c4a5dedddeeef5d367da392e2882cdf51d765d800c031751de7afce0d",
+   "ee_text": "저장혈액의 응고방지",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200001923/EE",
+   "first_observed_at": "2026-08-27T10:36:57Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

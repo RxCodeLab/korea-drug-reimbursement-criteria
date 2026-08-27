@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004530",
+ "item_name": "풋파인크림1%(테르비나핀염산염)",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20200622",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258362]테르비나핀염산염",
+ "main_item_ingr_eng": "Terbinafine Hydrochloride",
+ "edi_code": "669605471",
+ "atc_code": "D01AE15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004530",
+ "revisions": [
+  {
+   "revision_id": "202004530-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-27T12:44:11Z",
+   "last_observed_at": "2026-08-27T12:44:11Z",
+   "official_revision_date": "2020-12-08"
+  },
+  {
+   "revision_id": "202004530-675f8c29",
+   "content_sha256": "675f8c29101243cf35b22139b6f819ddbed65a6d6497ddd799caa928f27aba00",
+   "ee_text": "1. Trichophyton(T. rubrum, T. mentagrophytes, T. verrucosum, T. violaceum), Microsporum canis 및 Epidermophyton floccosum과 같은 피부사상균에 의한 피부진균감염증 : 족부백선, 고부백선(완선), 체부백선 2. Pityrosporum orbiculare (Malassezia furfur)에 의한 어루러기 3. 피부칸디다증",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-06-22",
+   "first_observed_at": "2026-08-27T12:44:11Z",
+   "last_observed_at": "2026-08-27T12:44:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:44:11Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200703352",
+ "item_name": "히아루플러스주(히알루론산나트륨)(프리필드)",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "20070322",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222910]히알루론산나트륨",
+ "main_item_ingr_eng": "Sodium Hyaluronate",
+ "edi_code": "648602981",
+ "atc_code": "M09AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703352",
+ "revisions": [
+  {
+   "revision_id": "200703352-5d314dee",
+   "content_sha256": "5d314dee349efd2f5724e683886c0f295a6be1c816b2b8024fa14a183ee3e46c",
+   "ee_text": "슬관절의 골관절염, 견관절주위염 치료",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-27T11:03:34Z",
+   "last_observed_at": "2026-08-27T11:03:34Z",
+   "official_revision_date": "2022-06-08"
+  },
+  {
+   "revision_id": "200703352-b4ee1df7",
+   "content_sha256": "b4ee1df70163daec85a5ef42f96dab8f6c9de302b2568e8a97dcc097d8d6d7c4",
+   "ee_text": "슬관절의 골관절염 견관절주위염 치료",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T11:03:34Z",
+   "last_observed_at": "2026-08-27T11:03:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:03:34Z"
+}

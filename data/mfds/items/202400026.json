@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400026",
+ "item_name": "이치레스큐플라스타",
+ "entp_name": "(주)한독",
+ "permit_date": "20240104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279284]L-멘톨|[M261256]이소프로필메틸페놀|[M040108]디펜히드라민",
+ "main_item_ingr_eng": "Diphenhydramine/Isopropyl Methylphenol/L-Menthol",
+ "edi_code": "",
+ "atc_code": "D04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400026",
+ "revisions": [
+  {
+   "revision_id": "202400026-08aaba1e",
+   "content_sha256": "08aaba1e25992b6d4d21a2f64d422fa15ad96111e1b748fa6b3f9e2a62b0864d",
+   "ee_text": "벌레물린데, 가려움, 동창(언 상처)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:30:28Z",
+   "last_observed_at": "2026-08-27T12:30:28Z",
+   "official_revision_date": "2024-01-04"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:30:28Z"
+}

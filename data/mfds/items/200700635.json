@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200700635",
+ "item_name": "스틸녹스CR정6.25밀리그램(졸피뎀타르타르산염)",
+ "entp_name": "(주)한독",
+ "permit_date": "20070117",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M239566]졸피뎀타르타르산염|[M239566]졸피뎀타르타르산염",
+ "main_item_ingr_eng": "Zolpidem Tartrate",
+ "edi_code": "652100660",
+ "atc_code": "N05CF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700635",
+ "revisions": [
+  {
+   "revision_id": "200700635-556cb3d0",
+   "content_sha256": "556cb3d09d78232f3053baa76bb3ff2f77601739194ec7b99c4478cd77fcdf35",
+   "ee_text": "잠들기 어렵거나 숙면유지가 어려운 성인에서의 불면증의 단기 치료",
+   "ee_doc_id": "22",
+   "first_observed_at": "2026-08-27T12:23:40Z",
+   "last_observed_at": "2026-08-27T12:23:40Z",
+   "official_revision_date": "2019-12-23"
+  },
+  {
+   "revision_id": "200700635-18c6f6e4",
+   "content_sha256": "18c6f6e47a8beb5778064264dd9d54c8d36b0ce73cdad5b95e700262e4bfd851",
+   "ee_text": "잠들기 어렵거나 숙면유지가 어려운 불면증의 단기 치료",
+   "ee_doc_id": "19",
+   "official_revision_date": "2018-11-06",
+   "first_observed_at": "2026-08-27T12:23:40Z",
+   "last_observed_at": "2026-08-27T12:23:40Z"
+  },
+  {
+   "revision_id": "200700635-9e27ecdf",
+   "content_sha256": "9e27ecdf5dde9808fc5e03ec45c39a9ab06b9cb9bd5ec0e48506489ee2411967",
+   "ee_text": "잠들기 어렵거나 숙면유지가 어려운 불면증",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:23:40Z",
+   "last_observed_at": "2026-08-27T12:23:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:23:40Z"
+}

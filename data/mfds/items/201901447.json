@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901447",
+ "item_name": "동광에피나스틴정20mg(에피나스틴염산염)",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20190308",
+ "cancel_date": "20240308",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M256607]에피나스틴염산염",
+ "main_item_ingr_eng": "Epinastine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AX24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901447",
+ "revisions": [
+  {
+   "revision_id": "201901447-1037b837",
+   "content_sha256": "1037b8377a1a4ff947d1953d874aa52e53f1f8e10ecd22b76401df9662e3c8a4",
+   "ee_text": "1. 기관지천식 2. 알레르기비염 3. 두드러기, 습진ㆍ피부염, 피부가려움, 가려움발진(痒疹), 가려움을 동반한 보통건선",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201901447/EE",
+   "first_observed_at": "2026-08-27T13:08:45Z",
+   "last_observed_at": "2026-08-27T13:08:45Z"
+  },
+  {
+   "revision_id": "201901447-bb0e734a",
+   "content_sha256": "bb0e734a7fcc0a29a4b353007aba1d80f7b690b7dcdf03b973ac02ae231df6ef",
+   "ee_text": "1. 기관지천식 2. 알레르기비염 3. 두드러기, 습진․피부염, 피부가려움, 가려움발진(痒疹), 가려움을 동반한 보통건선",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-03-08",
+   "first_observed_at": "2026-08-27T13:08:45Z",
+   "last_observed_at": "2026-08-27T13:08:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:08:45Z"
+}

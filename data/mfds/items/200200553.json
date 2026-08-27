@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200553",
+ "item_name": "엘리시온정(수출용)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20020704",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051213]우리딘|[M096429]시아노코발라민|[M070702]시티딘|[M240075]염산피리독신|[M040558]염산치아민|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Cyanocobalamin/Cytidine/Pyridoxine Hydrochloride/Thiamine Hydrochloride/Uridine",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200553",
+ "revisions": [
+  {
+   "revision_id": "200200553-f97ebd04",
+   "content_sha256": "f97ebd04d2fa7ea15773d7883b11ae82d19433521e9c17d9095e6a68ff540b78",
+   "ee_text": "요통, 좌골신경통,류마치스성 통증, 말초신경증, 말초 및 기관의 다발성 신경염, 류마치스성 관절 및 말초관절의 신경염",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T12:57:13Z",
+   "last_observed_at": "2026-08-27T12:57:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:57:13Z"
+}

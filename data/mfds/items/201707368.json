@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707368",
+ "item_name": "듀오크라네오건조시럽(아목시실린-클라불란산칼륨(14:1))",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20171011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223098]아목시실린수화물|[M248503]묽은클라불란산칼륨",
+ "main_item_ingr_eng": "Amoxicillin Hydrate/Dilute Potassium Clavulanate",
+ "edi_code": "642803031",
+ "atc_code": "J01CR02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707368",
+ "revisions": [
+  {
+   "revision_id": "201707368-2adc4c97",
+   "content_sha256": "2adc4c97c2ce913f3faa53f743f3e8441eefb751fca31dac84b73b0c15e8121e",
+   "ee_text": "○ 유효균종 폐렴연쇄구균(페니실린 MIC≤2mcg/mL), 헤모필루스 인플루엔자(베타락타마제 생성 균주 포함), 모락셀라 카타랄리스(베타락타마제 생성균주 포함) ○ 적응증 소아환자에서 재발성 또는 지속성 급성중이염의 치료. 소아환자에서 재발성 급성 부비동염의 치료 단, 다음의 위험인자 중 하나를 갖고 있어야 함. · 3개월 이내에 급성중이염 또는 급성 부비동염으로 인한 항생제 투여 경험이 있는 - 2세 이하의 소아 또는 - 보육기관(어린이집)에 다니는 소아 (daycare attendance).",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-27T12:50:19Z",
+   "last_observed_at": "2026-08-27T12:50:19Z",
+   "official_revision_date": "2017-10-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:50:19Z"
+}

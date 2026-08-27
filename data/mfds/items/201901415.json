@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901415",
+ "item_name": "로피리노서방정2mg(로피니롤염산염)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20190307",
+ "cancel_date": "20240307",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M234950]로피니롤염산염",
+ "main_item_ingr_eng": "Ropinirole Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N04BC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901415",
+ "revisions": [
+  {
+   "revision_id": "201901415-0497b58c",
+   "content_sha256": "0497b58c2f29dbf77d302517264f3f79f7df0147175110aa6ce56b59f9a065b4",
+   "ee_text": "특발성 파킨슨씨병의 치료 ㆍ 특발성 파킨슨씨병 치료에 단독 요법으로 사용가능하다. ㆍ 레보도파와의 병용 투여는 on-off 현상을 억제하고 레보도파의 1일 투여량을 줄일 수 있다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:34:12Z",
+   "last_observed_at": "2026-08-27T12:34:12Z",
+   "official_revision_date": "2019-03-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:34:12Z"
+}

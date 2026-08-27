@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500739",
+ "item_name": "아모닐정250밀리그램(아모다피닐(미분화))",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20250331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283949]아모다피닐(미분화)",
+ "main_item_ingr_eng": "Armodafinil micronized",
+ "edi_code": "651905380",
+ "atc_code": "N06BA13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500739",
+ "revisions": [
+  {
+   "revision_id": "202500739-c3d611b1",
+   "content_sha256": "c3d611b14367c57f98bc00c5b4552b6ead737fd20f1704a49a54cd31c10e2403",
+   "ee_text": "성인에 있어서, 기면증과 관련한 과다졸음",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:45:30Z",
+   "last_observed_at": "2026-08-27T13:45:30Z",
+   "official_revision_date": "2025-03-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:45:30Z"
+}

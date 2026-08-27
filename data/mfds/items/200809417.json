@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200809417",
+ "item_name": "록펜텍카타플라스마(록소프로펜나트륨수화물)",
+ "entp_name": "(주)티디에스팜",
+ "permit_date": "20080910",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222839]록소프로펜나트륨수화물|[M222839]록소프로펜나트륨수화물|[M222839]록소프로펜나트륨수화물",
+ "main_item_ingr_eng": "Loxoprofen Sodium Hydrate",
+ "edi_code": "",
+ "atc_code": "M02AA31",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809417",
+ "revisions": [
+  {
+   "revision_id": "200809417-ab6f535a",
+   "content_sha256": "ab6f535a4cc1d2b436264a24ce2795421172d2d233db3622727d9ccf343c89f1",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염): 퇴행성관절염(골(뼈)관절염), 근육통, 외상(상처)후의 종창(부기), 통증",
+   "ee_doc_id": "33",
+   "first_observed_at": "2026-08-27T12:14:49Z",
+   "last_observed_at": "2026-08-27T12:14:49Z",
+   "official_revision_date": "2021-07-28"
+  },
+  {
+   "revision_id": "200809417-6dcdf24d",
+   "content_sha256": "6dcdf24d1a30af82acc7782880a3afa9f3719c23a0d9f63051970ad6593571ce",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염): 퇴행성관절염(골관절염), 근육통, 외상후의 종창(부기), 통증",
+   "ee_doc_id": "28",
+   "official_revision_date": "2020-09-22",
+   "first_observed_at": "2026-08-27T12:14:49Z",
+   "last_observed_at": "2026-08-27T12:14:49Z"
+  },
+  {
+   "revision_id": "200809417-b48cdf3d",
+   "content_sha256": "b48cdf3d8bb98576a2c51531398ed60e8779f7795a6056df4220e5bb66847265",
+   "ee_text": "(카타플라스마제)(첩부제) 다음 질환 및 증상의 진통ㆍ소염: 퇴행성관절염(골관절염), 근육통, 외상후의 종창, 통증",
+   "ee_doc_id": "17",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:14:49Z",
+   "last_observed_at": "2026-08-27T12:14:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:14:49Z"
+}

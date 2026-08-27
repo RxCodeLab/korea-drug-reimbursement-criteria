@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006696",
+ "item_name": "쎈콜연질캡슐",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20200929",
+ "cancel_date": "20240603",
+ "status": "취하",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M250460]트리프롤리딘염산염수화물|[M203364]슈도에페드린염산염|[M222957]덱스트로메토르판브롬화수소산염수화물|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Dextromethorphan Hydrobromide Hydrate/Pseudoephedrine Hydrochloride/Triprolidine Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006696",
+ "revisions": [
+  {
+   "revision_id": "202006696-8cad78b9",
+   "content_sha256": "8cad78b99f0d84341b8dcb5721ab325bc5b75c375c26aab0b08d799f85c9007e",
+   "ee_text": "감기의 제증상(여러 증상)(콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:03:12Z",
+   "last_observed_at": "2026-08-27T13:03:12Z",
+   "official_revision_date": "2020-09-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:03:12Z"
+}

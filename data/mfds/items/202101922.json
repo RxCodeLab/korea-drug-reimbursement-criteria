@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101922",
+ "item_name": "탁자이로주(라나델루맙)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20210226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280202]라나델루맙",
+ "main_item_ingr_eng": "lanadelumab",
+ "edi_code": "",
+ "atc_code": "B06AC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101922",
+ "revisions": [
+  {
+   "revision_id": "202101922-c9cca3a8",
+   "content_sha256": "c9cca3a8df2874e8b1da802c9d2600e699f586c35b683b65ce450aafab1627ca",
+   "ee_text": "성인 및 청소년(12세 이상)에서 유전성 혈관부종 발작의 일상적인 예방",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:53:30Z",
+   "last_observed_at": "2026-08-27T13:53:30Z",
+   "official_revision_date": "2021-02-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:53:30Z"
+}

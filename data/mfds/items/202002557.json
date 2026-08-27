@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002557",
+ "item_name": "듀얼편안타액",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20200410",
+ "cancel_date": "20250410",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050571]베타인|[M241790]베타인염산염|[M223090]시트르산수화물|[M103077]L-아르기닌",
+ "main_item_ingr_eng": "Betaine/Betaine Hydrochloride/Citric Acid Hydrate/L-Arginine",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002557",
+ "history_fetched_at": "2026-08-27T10:37:33Z",
+ "revisions": [
+  {
+   "revision_id": "202002557-af50c0f7",
+   "content_sha256": "af50c0f7a0cf575b1db51490e7cb36d77f7555984a63c96396ab05318e9f7684",
+   "ee_text": "간질환의 보조치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202002557/EE",
+   "first_observed_at": "2026-08-27T10:37:33Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

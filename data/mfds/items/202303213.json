@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303213",
+ "item_name": "탁자이로프리필드시린지주300mg(라나델루맙)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20231124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280202]라나델루맙",
+ "main_item_ingr_eng": "lanadelumab",
+ "edi_code": "696300751",
+ "atc_code": "B06AC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303213",
+ "revisions": [
+  {
+   "revision_id": "202303213-c9cca3a8",
+   "content_sha256": "c9cca3a8df2874e8b1da802c9d2600e699f586c35b683b65ce450aafab1627ca",
+   "ee_text": "성인 및 청소년(12세 이상)에서 유전성 혈관부종 발작의 일상적인 예방",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:53:29Z",
+   "last_observed_at": "2026-08-27T13:53:29Z",
+   "official_revision_date": "2023-11-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:53:29Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104276",
+ "item_name": "라모즈구강용해필름(라모세트론염산염)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20210531",
+ "cancel_date": "20260531",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M255325]라모세트론염산염",
+ "main_item_ingr_eng": "Ramosetron Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A04AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104276",
+ "revisions": [
+  {
+   "revision_id": "202104276-66ab552c",
+   "content_sha256": "66ab552c5084b428f1d5f6ba995b52882bcd1fce22a90d37f8cda128e308b08d",
+   "ee_text": "항암제 투여에 의한 소화기증상(구역, 구토)의 예방",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:01:09Z",
+   "last_observed_at": "2026-08-27T11:01:09Z",
+   "official_revision_date": "2021-05-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:01:09Z"
+}

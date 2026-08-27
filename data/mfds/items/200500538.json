@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500538",
+ "item_name": "터비클린정(테르비나핀염산염)",
+ "entp_name": "대웅바이오(주)",
+ "permit_date": "20050428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245869]테르비나핀염산염",
+ "main_item_ingr_eng": "Terbinafine Hydrochloride",
+ "edi_code": "694000580",
+ "atc_code": "D01BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500538",
+ "revisions": [
+  {
+   "revision_id": "200500538-908b0f02",
+   "content_sha256": "908b0f02045f27ff84d71275e7f8a21e8efac258957592abd7811f1591a3ba1b",
+   "ee_text": "1) 피부사상균에 의한 다음의 피부진균증 : 족부백선, 체부백선, 고부백선(완선) 2) 손ㆍ발톱진균증 두부백선",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T12:43:35Z",
+   "last_observed_at": "2026-08-27T12:43:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:43:35Z"
+}

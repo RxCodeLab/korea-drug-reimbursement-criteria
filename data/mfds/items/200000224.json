@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000224",
+ "item_name": "이모튼캡슐(아보카도-소야불검화물의추출물)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20000424",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083238]아보카도-소야불검화물의추출물",
+ "main_item_ingr_eng": "Avocado·Soybean Unsaponifiable Extract",
+ "edi_code": "643302280",
+ "atc_code": "M01AX26",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000224",
+ "revisions": [
+  {
+   "revision_id": "200000224-4d05f6f1",
+   "content_sha256": "4d05f6f102ca0c4768265b6df67cdcfcd2b53f9b4ffe6c2353e64a5c9f7049bf",
+   "ee_text": "성인 무릎 골관절염의 증상완화",
+   "ee_doc_id": "29",
+   "first_observed_at": "2026-08-27T11:10:55Z",
+   "last_observed_at": "2026-08-27T11:10:55Z",
+   "official_revision_date": "2021-07-23"
+  },
+  {
+   "revision_id": "200000224-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "20",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T11:10:55Z",
+   "last_observed_at": "2026-08-27T11:10:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:10:55Z"
+}

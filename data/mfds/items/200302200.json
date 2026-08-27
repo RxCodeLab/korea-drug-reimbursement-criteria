@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302200",
+ "item_name": "디히스타주(디펜히드라민염산염)(수출용)",
+ "entp_name": "(주)유영제약",
+ "permit_date": "20031009",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222973]디펜히드라민염산염",
+ "main_item_ingr_eng": "Diphenhydramine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302200",
+ "revisions": [
+  {
+   "revision_id": "200302200-87e1842d",
+   "content_sha256": "87e1842d1bfaf0011133dfd94b72c05924938ee639353f4238f7bf738416e7eb",
+   "ee_text": "두드러기, 피부질환에 의한 가려움증(습진, 피부염), 춘계 카타르성 가려움증, 고초열, 급성 비염, 알레드기성 비염, 혈관 운동성 비염",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T12:29:34Z",
+   "last_observed_at": "2026-08-27T12:29:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:34Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005393",
+ "item_name": "리포에이정(티옥트산)(수출용)",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20200724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250701]티옥트산",
+ "main_item_ingr_eng": "Thioctic Acid",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005393",
+ "revisions": [
+  {
+   "revision_id": "202005393-339a5efa",
+   "content_sha256": "339a5efa638afd2374a49c13987278a5d9767f4f38a487ce40f6523a5a8d7381",
+   "ee_text": "당뇨병성 다발성 신경염의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:31:28Z",
+   "last_observed_at": "2026-08-27T12:31:28Z",
+   "official_revision_date": "2020-07-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:31:28Z"
+}

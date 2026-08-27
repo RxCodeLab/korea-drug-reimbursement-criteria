@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001791",
+ "item_name": "도바토정",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20200316",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086332]라미부딘|[M279128]돌루테그라비르나트륨(미분화)",
+ "main_item_ingr_eng": "Dolutegravir Sodium Micronized/Lamivudine",
+ "edi_code": "650003200",
+ "atc_code": "J05AR25",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001791",
+ "revisions": [
+  {
+   "revision_id": "202001791-2fde8999",
+   "content_sha256": "2fde8999ea410c3809f92b230dc96bba7559ff915d89c849d1711afdc6abec74",
+   "ee_text": "항레트로바이러스 치료 경험이 없거나, 기존 항레트로바이러스 치료 요법에 치료 실패 없이 안정된 바이러스 수치 억제 효과를 보이며, 이 약의 개별 항레트로바이러스 성분에 대하여 알려진 또는 의심되는 내성 관련 치환이 없는 성인 및 12세 이상(체중 40 kg 이상) 청소년의 인체면역결핍바이러스(HIV-1) 감염 치료",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-27T13:41:32Z",
+   "last_observed_at": "2026-08-27T13:41:32Z",
+   "official_revision_date": "2023-06-14"
+  },
+  {
+   "revision_id": "202001791-98031540",
+   "content_sha256": "9803154049960839fd0bef67366b03798303a4abaa282f8f1da46c31c5978960",
+   "ee_text": "이 약의 개별 항레트로바이러스 성분에 대하여 알려진 또는 의심되는 내성관련 치환이 없는 성인 및 12세 이상(체중 40 kg 이상) 청소년의 인체면역결핍바이러스(HIV-1) 감염 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-03-16",
+   "first_observed_at": "2026-08-27T13:41:32Z",
+   "last_observed_at": "2026-08-27T13:41:32Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:41:32Z"
+}

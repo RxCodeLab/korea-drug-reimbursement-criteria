@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400443",
+ "item_name": "라모제아주0.3밀리그램(라모세트론염산염)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20240229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255325]라모세트론염산염",
+ "main_item_ingr_eng": "Ramosetron Hydrochloride",
+ "edi_code": "665508601",
+ "atc_code": "A04AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400443",
+ "revisions": [
+  {
+   "revision_id": "202400443-0927b8d0",
+   "content_sha256": "0927b8d0c2d7490e02b2dc770a21204f4df252ef217bbf95ab85459f364e198a",
+   "ee_text": "1. 항암제(시스플라틴 등) 투여로 인한 구역 및 구토의 방지 2. 수술 후 구역 및 구토의 방지",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T11:01:12Z",
+   "last_observed_at": "2026-08-27T11:01:12Z",
+   "official_revision_date": "2024-02-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:01:12Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402327",
+ "item_name": "엑스콜디정",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20240927",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096428]벤포티아민|[M040133]리보플라빈|[M258994]아스코르브산|[M040353]아세트아미노펜|[M272000]갈근탕 건조엑스(4→1)",
+ "main_item_ingr_eng": "Acetaminophen/Ascorbic Acid/Benfotiamine/Galgeuntang Dried Extract (4→1)/Riboflavin",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402327",
+ "revisions": [
+  {
+   "revision_id": "202402327-f5b92717",
+   "content_sha256": "f5b9271775fbe009e93397aac96defca1ded6a81b36e2967ccfce28fe9ce90f9",
+   "ee_text": "감기의 제증상(인후통, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:05:17Z",
+   "last_observed_at": "2026-08-27T13:05:17Z",
+   "official_revision_date": "2024-09-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:05:17Z"
+}

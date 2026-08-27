@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601085",
+ "item_name": "랩시도정25밀리그램(레미브루티닙)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20260414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286333]레미브루티닙",
+ "main_item_ingr_eng": "Remibrutinib",
+ "edi_code": "",
+ "atc_code": "L04AA60",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601085",
+ "revisions": [
+  {
+   "revision_id": "202601085-710dd230",
+   "content_sha256": "710dd2300794fe50118f0071d70f30ece81a74f5d51b4a77745b2885e016e391",
+   "ee_text": "H1 항히스타민제 치료에 적절히 조절되지 않는 18세 이상의 성인 환자에서 만성 자발성 두드러기의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:27:00Z",
+   "last_observed_at": "2026-08-27T12:27:00Z",
+   "official_revision_date": "2026-04-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:27:00Z"
+}

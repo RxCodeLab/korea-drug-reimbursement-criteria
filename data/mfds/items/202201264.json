@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201264",
+ "item_name": "듀카브플러스정60/5/12.5밀리그램",
+ "entp_name": "(주)보령",
+ "permit_date": "20220331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M117226]피마사르탄칼륨삼수화물 과립|[M222875]암로디핀베실산염|[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Amlodipine Besylate/Fimasartan Potassium Trihydrate Granules/Hydrochlorothiazide",
+ "edi_code": "641907920",
+ "atc_code": "C09DX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201264",
+ "revisions": [
+  {
+   "revision_id": "202201264-0a36fb4f",
+   "content_sha256": "0a36fb4f7c18f5d03ff553482dda86edd256866d7a5d2a9ede32674ecf8881ce",
+   "ee_text": "피마사르탄칼륨과 암로디핀의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:44:38Z",
+   "last_observed_at": "2026-08-27T12:44:38Z",
+   "official_revision_date": "2022-03-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:44:38Z"
+}

@@ -1,0 +1,26 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500995",
+ "item_name": "칼디본정",
+ "entp_name": "(주)옵투스제약",
+ "permit_date": "20250425",
+ "cancel_date": "20260803",
+ "status": "취하",
+ "main_item_ingr": "[M223262]티아민질산염|[M096429]시아노코발라민|[M086116]농축콜레칼시페롤|[M247470]시트르산칼슘수화물",
+ "main_item_ingr_eng": "Calcium Citrate Hydrate/Cholecalciferol Concentrate/Cyanocobalamin/Thiamine Nitrate",
+ "edi_code": "674102230",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500995",
+ "history_fetched_at": "2026-08-27T10:38:18Z",
+ "revisions": [
+  {
+   "revision_id": "202500995-d0796a60",
+   "content_sha256": "d0796a60ef9007f381328ea752b51320270ed7a5d9a7dcfae199596c83132ef8",
+   "ee_text": "1. 다음 경우의 비타민 B1, 비타민D의 보급 - 육체피로 - 임신 · 수유기 - 병중·병후의 (병을 앓는 동안이나 회복 후)의 체력저하 시 - 발육기 - 노년기 2. 이 약에 함유된 비타민 등의 효능·효과 - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202500995/EE",
+   "first_observed_at": "2026-08-27T10:38:18Z",
+   "last_observed_at": "2026-08-27T10:54:52Z"
+  }
+ ]
+}

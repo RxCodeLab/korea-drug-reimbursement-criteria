@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200907783",
+ "item_name": "코디핀정6밀리그램(베니디핀염산염)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20091029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M237685]베니디핀염산염",
+ "main_item_ingr_eng": "Benidipine Hydrochloride",
+ "edi_code": "642402790",
+ "atc_code": "C08CA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907783",
+ "revisions": [
+  {
+   "revision_id": "200907783-fc09aeca",
+   "content_sha256": "fc09aeca6baca9dbb0b3934ebb4d4aad9aec7d7daae77310d1d7d48c21c077d7",
+   "ee_text": "고혈압, 협심증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200907783/EE",
+   "first_observed_at": "2026-08-27T13:27:30Z",
+   "last_observed_at": "2026-08-27T13:27:30Z"
+  },
+  {
+   "revision_id": "200907783-2cb938d2",
+   "content_sha256": "2cb938d240b9b718865737d5fa09b42a75ae07527104274bdb2778fed5380b96",
+   "ee_text": "(정제) 고혈압, 협심증",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:27:30Z",
+   "last_observed_at": "2026-08-27T13:27:30Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:27:30Z"
+}

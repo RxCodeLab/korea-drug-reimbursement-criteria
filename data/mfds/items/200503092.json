@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200503092",
+ "item_name": "세브레인주(돼지뇌펩티드)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20050623",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279698]돼지뇌펩티드|[M247478]돼지뇌펩티드",
+ "main_item_ingr_eng": "Cerebrolysin",
+ "edi_code": "",
+ "atc_code": "N06BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503092",
+ "revisions": [
+  {
+   "revision_id": "200503092-1b9c0a17",
+   "content_sha256": "1b9c0a17e1110b10ee100079dda6c13a0bda3268f35bdb093ed13fc077b5442a",
+   "ee_text": "다음 질환의 증상개선 - 노인성 치매(알츠하이머 및 혈관성 치매) - 뇌졸중 후 뇌기능 장애 - 외상성 뇌손상(뇌진탕, 뇌좌상)",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-27T11:08:26Z",
+   "last_observed_at": "2026-08-27T11:08:26Z",
+   "official_revision_date": "2023-06-05"
+  },
+  {
+   "revision_id": "200503092-a9da335c",
+   "content_sha256": "a9da335ce50ae1f3d282202174fb926dd2e3713f56067177a802ed6f816e7c50",
+   "ee_text": "알츠하이머형 노인성치매, 뇌졸중 후 뇌기능장애, 두개골의 외상(뇌진탕, 뇌좌상, 수술 후 외상)",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T11:08:26Z",
+   "last_observed_at": "2026-08-27T11:08:26Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:08:26Z"
+}

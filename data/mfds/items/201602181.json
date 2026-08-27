@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602181",
+ "item_name": "테라쿨크림",
+ "entp_name": "일양바이오팜(주)",
+ "permit_date": "20160419",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245869]테르비나핀염산염|[M256386]글리시리진산이칼륨|[M040131]리도카인|[M279284]L-멘톨",
+ "main_item_ingr_eng": "Dipotassium Glycyrrhizinate/L-Menthol/Lidocaine/Terbinafine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "D01AE20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602181",
+ "revisions": [
+  {
+   "revision_id": "201602181-577a43a3",
+   "content_sha256": "577a43a3060181a2cc7f6edff51017917bde6117acd7f9b7db7eb040c3abf24e",
+   "ee_text": "피부사상균에 의한 피부진균(곰팡이)감염증 : 무좀, 완선(사타구니백선), 백선",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T12:43:55Z",
+   "last_observed_at": "2026-08-27T12:43:55Z",
+   "official_revision_date": "2020-09-16"
+  },
+  {
+   "revision_id": "201602181-7f8d4f40",
+   "content_sha256": "7f8d4f400b69ce1edd3bd4ede97b2dd7deb1c29832073b12258aa3e347227b42",
+   "ee_text": "피부사상균에 의한 피부진균감염증 : 무좀, 완선(사타구니백선), 백선",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:43:55Z",
+   "last_observed_at": "2026-08-27T12:43:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:43:55Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199400905",
+ "item_name": "바렙톨서방정(발프로산나트륨)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "19940915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070676]발프로산나트륨",
+ "main_item_ingr_eng": "Sodium Valproate",
+ "edi_code": "657200310",
+ "atc_code": "N03AG01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400905",
+ "revisions": [
+  {
+   "revision_id": "199400905-b0ea738a",
+   "content_sha256": "b0ea738a7bfe620495ab3a56bef210f642e52c2dab9253311725a7e96a0957e6",
+   "ee_text": "1. 뇌전증[결신발작(소발작), 부분발작(초점발작), 정신운동성발작 및 혼합발작]과 뇌전증에 뒤따르는 성격·행동장애의 예방과 치료 2. 양극성 장애와 관련된 조증의 치료 단, 조증에 대하여 3주 이상 장기 사용시의 안전성 ㆍ 유효성은 체계적으로 확립되지 않으므로 장기사용하는 경우에는 의사가 각 환자별로 유용성을 평가하여 계속투여 여부를 결정하여야 한다.",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-27T13:42:28Z",
+   "last_observed_at": "2026-08-27T13:42:28Z",
+   "official_revision_date": "2019-04-21"
+  },
+  {
+   "revision_id": "199400905-4cee6dff",
+   "content_sha256": "4cee6dff7c687ecc87d420b851b22491fb847c9ebe83507b47e2d15e106a07c1",
+   "ee_text": "단, 조증에 대하여 3주 이상 장기 사용시의 안전성 ㆍ 유효성은 체계적으로 확립되지 않으므로 장기사용하는 경우에는 의사가 각 환자별로 유용성을 평가하여 계속투여 여부를 결정하여야 한다.",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:42:28Z",
+   "last_observed_at": "2026-08-27T13:42:28Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:42:28Z"
+}

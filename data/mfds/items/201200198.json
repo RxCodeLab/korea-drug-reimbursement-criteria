@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201200198",
+ "item_name": "경보세파드록실캡슐500밀리그람(세파드록실수화물)(수출용)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20120105",
+ "cancel_date": "20240708",
+ "status": "취하",
+ "main_item_ingr": "[M222858]세파드록실수화물",
+ "main_item_ingr_eng": "Cefadroxil Hydrate",
+ "edi_code": "",
+ "atc_code": "J01DB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200198",
+ "revisions": [
+  {
+   "revision_id": "201200198-fd3cfde5",
+   "content_sha256": "fd3cfde55805c76158905d068729a918fed846981709ffd6c6c25df5edf73584",
+   "ee_text": "베타용혈성연쇄구균, 포도구균(페니실리나제 생성균 포함), 폐렴연쇄구균, 대장균, 프로테우스 미라빌리스, 클레브시엘라 - 신우신염, 방광염, 요도염 - 피부 및 피부조직 감염증 - 인두염, 편도염",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201200198/EE",
+   "first_observed_at": "2026-08-27T12:33:21Z",
+   "last_observed_at": "2026-08-27T12:33:21Z"
+  },
+  {
+   "revision_id": "201200198-a8d8019c",
+   "content_sha256": "a8d8019ca025f86d1b1c904cb03a069b4020103858ce9e74eb4901f2603bf116",
+   "ee_text": "(캡슐제)(시럽제) 베타용혈성연쇄구균, 포도구균(페니실리나제 생성균 포함), 폐렴연쇄구균, 대장균, 프로테우스 미라빌리스, 클레브시엘라 - 신우신염, 방광염, 요도염 - 피부 및 피부조직 감염증 - 인두염, 편도염",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:33:21Z",
+   "last_observed_at": "2026-08-27T12:33:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:21Z"
+}

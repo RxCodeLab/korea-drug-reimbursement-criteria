@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501980",
+ "item_name": "리페릴정1밀리그람(리스페리돈)(수출용)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20051012",
+ "cancel_date": "20251211",
+ "status": "취하",
+ "main_item_ingr": "[M086310]리스페리돈",
+ "main_item_ingr_eng": "Risperidone",
+ "edi_code": "",
+ "atc_code": "N05AX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501980",
+ "revisions": [
+  {
+   "revision_id": "200501980-c8e0d2a0",
+   "content_sha256": "c8e0d2a04a38bd5a1d8491dcd99298e985cd87d51bd9ffec3d3ac6fe0dc1629c",
+   "ee_text": "- 양성증상(환각, 망상, 사고장애, 적개심, 의심) 또는 음성 증상(둔마된 정동, 감정적/사회적 위축, 대화감퇴)이 주로 나타나는 급성, 만성 정신분열증 및 기타 정신질환 상태 - 정신분열증과 연관된 정동 장애(우울증, 죄책감, 불안)의 완화.",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T12:47:14Z",
+   "last_observed_at": "2026-08-27T12:47:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:47:14Z"
+}

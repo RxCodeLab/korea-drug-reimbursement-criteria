@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805156",
+ "item_name": "멘소래담코인플라스타",
+ "entp_name": "진양제약(주)",
+ "permit_date": "20181219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200188]노닐산바닐릴아미드|[M040108]디펜히드라민|[M223240]토코페롤아세테이트|[M040200]박하유|[M204423]dl-캄파|[M230875]l-멘톨|[M203279]살리실산메틸",
+ "main_item_ingr_eng": "DL-Camphor/Diphenhydramine/L-Menthol/Mentha Herb Oil/Methyl Salicylate/Tocopherol Acetate/Vanillyl Nonylamide",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805156",
+ "revisions": [
+  {
+   "revision_id": "201805156-4ef915f2",
+   "content_sha256": "4ef915f28a21dd06aa69f8bee004295561270be845e402c84a0ddb28603753a7",
+   "ee_text": "다음 증상의 진통·소염(항염) : 타박상, 삠, 근육통, 관절통, 요(허리)통, 어깨결림, 신경통, 류마티스통증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:30:09Z",
+   "last_observed_at": "2026-08-27T12:30:09Z",
+   "official_revision_date": "2018-12-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:30:09Z"
+}

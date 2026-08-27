@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502259",
+ "item_name": "페타바정(피타바스타틴,페노피브레이트)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20250828",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102119]피타바스타틴칼슘|[M260738]페노피브레이트(미분화)",
+ "main_item_ingr_eng": "Fenofibrate Micronized/Pitavastatin Calcium",
+ "edi_code": "645211090",
+ "atc_code": "C10BA14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502259",
+ "revisions": [
+  {
+   "revision_id": "202502259-ef8cc16e",
+   "content_sha256": "ef8cc16eb550edb1f2a35a7990cd74376421e984973b60ec8770f60402d84bc6",
+   "ee_text": "관상동맥심질환(CHD) 고위험이 있는 성인환자에서 피타바스타틴 2 mg 단일치료 요법시 LDL-콜레스테롤 수치는 적절히 조절되지만 트리글리세라이드 수치는 높고 HDL-콜레스테롤 수치는 낮은 복합형이상지질혈증의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:26:41Z",
+   "last_observed_at": "2026-08-27T13:26:41Z",
+   "official_revision_date": "2025-08-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:26:41Z"
+}

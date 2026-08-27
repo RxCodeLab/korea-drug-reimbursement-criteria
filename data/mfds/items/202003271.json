@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003271",
+ "item_name": "에프리손정(에페리손염산염)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20200504",
+ "cancel_date": "20250504",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M232172]에페리손염산염",
+ "main_item_ingr_eng": "Eperisone Hydrochloride",
+ "edi_code": "",
+ "atc_code": "M03BX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003271",
+ "revisions": [
+  {
+   "revision_id": "202003271-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:06:26Z",
+   "last_observed_at": "2026-08-27T12:06:26Z",
+   "official_revision_date": "2020-05-04"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:06:26Z"
+}

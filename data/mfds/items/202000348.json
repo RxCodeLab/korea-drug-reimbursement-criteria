@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000348",
+ "item_name": "아노펜정",
+ "entp_name": "미래바이오제약(주)",
+ "permit_date": "20200121",
+ "cancel_date": "20250121",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000348",
+ "revisions": [
+  {
+   "revision_id": "202000348-12bfc0eb",
+   "content_sha256": "12bfc0eb5285c47f71ea3aa39bf242197b4e11cb32cb174bf8d8b9cc8f5ca63c",
+   "ee_text": "두통, 신경통, 근육통, 생리통, 염좌통, 감기로 인한 발열 및 동통 다음 질환에도 사용할 수 있습니다 : 치통, 관절통, 류마티양 동통",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:02:44Z",
+   "last_observed_at": "2026-08-27T13:02:44Z",
+   "official_revision_date": "2020-01-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:02:44Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101534",
+ "item_name": "코파실캡슐500밀리그람(세파드록실수화물)(수출용)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20010910",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222858]세파드록실수화물",
+ "main_item_ingr_eng": "Cefadroxil Hydrate",
+ "edi_code": "",
+ "atc_code": "J01DB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101534",
+ "revisions": [
+  {
+   "revision_id": "200101534-fd3cfde5",
+   "content_sha256": "fd3cfde55805c76158905d068729a918fed846981709ffd6c6c25df5edf73584",
+   "ee_text": "베타용혈성연쇄구균, 포도구균(페니실리나제 생성균 포함), 폐렴연쇄구균, 대장균, 프로테우스 미라빌리스, 클레브시엘라 - 신우신염, 방광염, 요도염 - 피부 및 피부조직 감염증 - 인두염, 편도염",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200101534/EE",
+   "first_observed_at": "2026-08-27T12:33:14Z",
+   "last_observed_at": "2026-08-27T12:33:14Z"
+  },
+  {
+   "revision_id": "200101534-dc3f183f",
+   "content_sha256": "dc3f183fb999888cc7046111ca7a3e9c80550894393d96458da44c4be3b6bbfd",
+   "ee_text": "○ 유효균종 베타용혈성연쇄구균, 포도구균(페니실리나제 생성균 포함), 폐렴연쇄구균, 대장균, 프로테우스 미라빌리스, 클레브시엘라 ○ 적응증 - 신우신염, 방광염, 요도염 - 피부 및 피부조직 감염증 - 인두염, 편도염",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:33:14Z",
+   "last_observed_at": "2026-08-27T12:33:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:33:14Z"
+}

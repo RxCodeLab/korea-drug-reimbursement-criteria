@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201204687",
+ "item_name": "코오롱아세트아미노펜정500mg(아세트아미노펜)(수출용)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20120516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen",
+ "edi_code": "",
+ "atc_code": "N02BE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201204687",
+ "revisions": [
+  {
+   "revision_id": "201204687-6d6dec67",
+   "content_sha256": "6d6dec674db120e450292440f46527582a7098193393d3641afcea40c2d413cb",
+   "ee_text": "감기로 인한 발열 및 동통, 두통, 신경통, 근육통, 월경통, 염좌통 치통, 관절통, 류마티양 동통",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T12:59:28Z",
+   "last_observed_at": "2026-08-27T12:59:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:59:28Z"
+}

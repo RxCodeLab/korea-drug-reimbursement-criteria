@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308450",
+ "item_name": "세레인캡슐50밀리그램(디아세레인)",
+ "entp_name": "한국프라임제약(주)",
+ "permit_date": "20130729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082697]디아세레인",
+ "main_item_ingr_eng": "Diacerein",
+ "edi_code": "663605770",
+ "atc_code": "M01AX21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308450",
+ "revisions": [
+  {
+   "revision_id": "201308450-3505cc73",
+   "content_sha256": "3505cc7385506bbbebef701fa89c29b694b6c0c89ab381df68debdd9ecefe0f3",
+   "ee_text": "골 (고관절, 슬관절) 관절염(관절증, 퇴행성 관절질환)",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-27T12:37:04Z",
+   "last_observed_at": "2026-08-27T12:37:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:37:04Z"
+}

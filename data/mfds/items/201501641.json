@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501641",
+ "item_name": "옵티포린점안액0.05%(사이클로스포린)(1회용)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "20150327",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085282]사이클로스포린",
+ "main_item_ingr_eng": "Cyclosporine",
+ "edi_code": "658603211",
+ "atc_code": "S01XA18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501641",
+ "revisions": [
+  {
+   "revision_id": "201501641-13958a9f",
+   "content_sha256": "13958a9fe05e5801a7d0c876a12defb0ae86ce33adc51127a67572fca45d2331",
+   "ee_text": "다음 질환으로 인해 눈물 생성이 억제된 환자에 있어 눈물 생성의 증가 : 건조각막결막염과 관련된 안염증",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T12:28:56Z",
+   "last_observed_at": "2026-08-27T12:28:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:28:56Z"
+}

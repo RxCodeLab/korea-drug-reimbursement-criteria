@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401289",
+ "item_name": "하이네콜정10밀리그램(베타네콜염화물)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20040923",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223042]베타네콜염화물",
+ "main_item_ingr_eng": "Bethanechol Chloride",
+ "edi_code": "641702580",
+ "atc_code": "N07AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401289",
+ "revisions": [
+  {
+   "revision_id": "200401289-cf40d625",
+   "content_sha256": "cf40d625c3b6fa1a66b7dbc9a631f3fe992cfc1c2eae517cd7f43e19d4743f5c",
+   "ee_text": "수술후, 분만후기능성요정체, 방광의신경성근이완증",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T12:29:23Z",
+   "last_observed_at": "2026-08-27T12:29:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:23Z"
+}

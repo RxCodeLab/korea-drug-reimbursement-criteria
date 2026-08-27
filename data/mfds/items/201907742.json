@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907742",
+ "item_name": "아펙사반정5밀리그램(아픽사반)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20191105",
+ "cancel_date": "20240612",
+ "status": "취하",
+ "main_item_ingr": "[M253531]아픽사반",
+ "main_item_ingr_eng": "Apixaban",
+ "edi_code": "",
+ "atc_code": "B01AF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907742",
+ "revisions": [
+  {
+   "revision_id": "201907742-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:03:04Z",
+   "last_observed_at": "2026-08-27T12:03:04Z",
+   "official_revision_date": "2019-11-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:03:04Z"
+}

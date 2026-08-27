@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200809587",
+ "item_name": "이잘탄플러스정150/12.5밀리그램",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20080917",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251853]이르베사르탄|[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Irbesartan",
+ "edi_code": "643504390",
+ "atc_code": "C09DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809587",
+ "revisions": [
+  {
+   "revision_id": "200809587-a63de1d6",
+   "content_sha256": "a63de1d6d22489dc9a9fc91bb13ef19dd4e476ddca933587c3dfbed60a28a5c1",
+   "ee_text": "(정제)",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-27T13:43:42Z",
+   "last_observed_at": "2026-08-27T13:43:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:43:42Z"
+}

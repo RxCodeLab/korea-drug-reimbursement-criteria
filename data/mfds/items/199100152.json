@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199100152",
+ "item_name": "오르파주(L-아스파르트산-L-오르니틴수화물)(수출용)",
+ "entp_name": "동광제약(주)",
+ "permit_date": "19910702",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269300]L-아스파르트산-L-오르니틴",
+ "main_item_ingr_eng": "L-Ornithine-L-Aspartate",
+ "edi_code": "",
+ "atc_code": "A05BA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100152",
+ "revisions": [
+  {
+   "revision_id": "199100152-acca38da",
+   "content_sha256": "acca38daa7a545cbd16dc547a40ac8509db1af9b65d16aa2a48ca91354ef4e7d",
+   "ee_text": "* 100 mg/mL 다음의 중증의 간질환 해독의 보조 치료 : 간염, 간염 후유증, 간경변",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199100152/EE",
+   "first_observed_at": "2026-08-27T13:52:29Z",
+   "last_observed_at": "2026-08-27T13:52:29Z"
+  },
+  {
+   "revision_id": "199100152-865c8da3",
+   "content_sha256": "865c8da3b1d9ef84a5ba3fb586ad2f38ff5f5ad37de52de006cf2e17e227cb93",
+   "ee_text": "* 500 mg/mL, 5 g/10 mL 다음의 중증의 간질환 해독 : 간성뇌증(혼수 전단계•혼수포함) * 100 mg/mL 다음의 중증의 간질환 해독의 보조 치료 : 간염, 감염 후유증, 간경변",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:52:29Z",
+   "last_observed_at": "2026-08-27T13:52:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:52:29Z"
+}

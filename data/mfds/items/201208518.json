@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201208518",
+ "item_name": "멜로디핀에스정(에스암로디핀베실산염2.5수화물)",
+ "entp_name": "(주)유영제약",
+ "permit_date": "20121121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263840]S-암로디핀베실산염2.5수화물",
+ "main_item_ingr_eng": "S-Amlodipine Besylate 2.5 Hydrate",
+ "edi_code": "648203590",
+ "atc_code": "C08CA17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208518",
+ "revisions": [
+  {
+   "revision_id": "201208518-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "28",
+   "first_observed_at": "2026-08-27T12:48:05Z",
+   "last_observed_at": "2026-08-27T12:48:05Z",
+   "official_revision_date": "2026-02-05"
+  },
+  {
+   "revision_id": "201208518-2f84817e",
+   "content_sha256": "2f84817e933d39c3457ff93cf7d45d396c83008069c5b29f40420d3dd0169978",
+   "ee_text": "- 협심증으로 인한 입원의 위험성 감소 - 관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:48:05Z",
+   "last_observed_at": "2026-08-27T12:48:05Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:48:05Z"
+}

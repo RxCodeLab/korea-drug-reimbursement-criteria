@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108711",
+ "item_name": "컴비비어정",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20011024",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082858]지도부딘|[M086332]라미부딘",
+ "main_item_ingr_eng": "Lamivudine/Zidovudine",
+ "edi_code": "650001210",
+ "atc_code": "J05AR01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108711",
+ "revisions": [
+  {
+   "revision_id": "200108711-f82ef4cb",
+   "content_sha256": "f82ef4cb030f3c9cee19a19b2829343f2ee648f31c80952ae78fc65d4e6adceb",
+   "ee_text": "단독 혹은 다른 항레트로바이러스제와 병용으로 HIV 감염증 치료",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-27T11:55:21Z",
+   "last_observed_at": "2026-08-27T11:55:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T11:55:21Z"
+}

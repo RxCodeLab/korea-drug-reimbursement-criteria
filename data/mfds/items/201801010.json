@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801010",
+ "item_name": "이치논크림",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20180228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M237233]헤파리노이드|[M040108]디펜히드라민|[M223240]토코페롤아세테이트|[M051015]알란토인",
+ "main_item_ingr_eng": "Allantoin/Diphenhydramine/Heparinoid/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "D04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801010",
+ "revisions": [
+  {
+   "revision_id": "201801010-fc4115ee",
+   "content_sha256": "fc4115ee63b049c98e14973114caec0779ade3cb5fd627a9f62bd7c895e0c0ae",
+   "ee_text": "건조성 피부(성인∙노인의 건피증, 소아의 건조성 피부)에 수반하는 가려움",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T12:30:06Z",
+   "last_observed_at": "2026-08-27T12:30:06Z",
+   "official_revision_date": "2018-02-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:30:06Z"
+}

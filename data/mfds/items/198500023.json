@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500023",
+ "item_name": "오라메디연고{수출명:오라메디파스타(ORAMEDYPASTE)}",
+ "entp_name": "동국제약(주)",
+ "permit_date": "19851227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040662]트리암시놀론아세토니드",
+ "main_item_ingr_eng": "Triamcinolone Acetonide",
+ "edi_code": "",
+ "atc_code": "A01AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500023",
+ "revisions": [
+  {
+   "revision_id": "198500023-53429af1",
+   "content_sha256": "53429af1d609f43639a193f3b93f72a80ee06e079d7fa5ea75aa5d7b2c60ca04",
+   "ee_text": "다음 질환에 의한 염증의 완화 : 만성 박리성 치은염, 미란 또는 궤양을 수반하는 난치성 구내염 및 설염",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-27T12:07:22Z",
+   "last_observed_at": "2026-08-27T12:07:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:07:22Z"
+}

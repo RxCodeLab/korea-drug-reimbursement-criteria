@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100584",
+ "item_name": "쎄레마일드연고",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20011009",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223353]히드로코르티손아세테이트|[M222973]디펜히드라민염산염|[M243785]산화아연",
+ "main_item_ingr_eng": "Diphenhydramine Hydrochloride/Hydrocortisone Acetate/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "D07XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100584",
+ "revisions": [
+  {
+   "revision_id": "200100584-9b49d4b9",
+   "content_sha256": "9b49d4b91d9365a8316bbc62884026fbf81bbe21e3e5b428d23f8c361ef297d3",
+   "ee_text": "습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-27T12:29:31Z",
+   "last_observed_at": "2026-08-27T12:29:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:31Z"
+}

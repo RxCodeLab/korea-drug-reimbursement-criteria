@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103363",
+ "item_name": "엔스프링프리필드시린지주(사트랄리주맙)",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "20210425",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280759]사트랄리주맙",
+ "main_item_ingr_eng": "Satralizumab",
+ "edi_code": "645001531",
+ "atc_code": "L04AC19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103363",
+ "revisions": [
+  {
+   "revision_id": "202103363-94e4376d",
+   "content_sha256": "94e4376dd715bc01f503f5fb0ade682b0b1a048cb283af0f3b5572384ad7f25b",
+   "ee_text": "항아쿠아포린-4(AQP4) 항체 양성인 성인 시신경척수염 범주질환의 치료",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-27T12:14:14Z",
+   "last_observed_at": "2026-08-27T12:14:14Z",
+   "official_revision_date": "2021-05-06"
+  },
+  {
+   "revision_id": "202103363-f03c2a64",
+   "content_sha256": "f03c2a640c57a7c8ac0e4d12a0603a693eeff99e346ea312df00eafde3f1dec2",
+   "ee_text": "AQP4 양성인 성인 시신경척수염 범주질환의 치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2021-04-25",
+   "first_observed_at": "2026-08-27T12:14:14Z",
+   "last_observed_at": "2026-08-27T12:14:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:14:14Z"
+}

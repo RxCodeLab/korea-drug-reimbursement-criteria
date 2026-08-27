@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400474",
+ "item_name": "소그로야프리필드펜5mg/1.5mL(소마파시탄)",
+ "entp_name": "노보노디스크제약(주)",
+ "permit_date": "20240306",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269265]소마파시탄",
+ "main_item_ingr_eng": "Somapacitan",
+ "edi_code": "",
+ "atc_code": "H01AC07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400474",
+ "revisions": [
+  {
+   "revision_id": "202400474-7075d689",
+   "content_sha256": "7075d6898f4e83057491dd59abc7fdc001c1f52eaae4ae47955a2aa85b75c2d6",
+   "ee_text": "1) 성장호르몬 결핍으로 인한 성장 부전이 있는 3세 이상 소아에서 내인성 성장호르몬 대체요법 2) 성장호르몬 결핍이 있는 성인에서 내인성 성장호르몬 대체요법",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:54:58Z",
+   "last_observed_at": "2026-08-27T13:54:58Z",
+   "official_revision_date": "2024-03-06"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:54:58Z"
+}

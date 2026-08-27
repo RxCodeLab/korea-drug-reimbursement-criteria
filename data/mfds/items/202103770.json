@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103770",
+ "item_name": "속콜펜정",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20210511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040417]에텐자미드|[M223183]카페인무수물|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Ethenzamide",
+ "edi_code": "",
+ "atc_code": "N02BE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103770",
+ "revisions": [
+  {
+   "revision_id": "202103770-c481c1cf",
+   "content_sha256": "c481c1cfdcab7640eaada8635ac8c8173a703f9bb19256fb51370888df64ce42",
+   "ee_text": "1) 두통, 치통, 발치(이를 뽑음) 후 동통(통증), 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요(허리)통, 근육통, 견통(어깨결림, 어깨통증), 타박통, 골절통, 염좌통(삔 통증), 월경통(생리통), 외상(상처)통의 진통 2) 오한(춥고 떨리는 증상), 발열 시의 해열",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:03:31Z",
+   "last_observed_at": "2026-08-27T13:03:31Z",
+   "official_revision_date": "2021-05-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:03:31Z"
+}

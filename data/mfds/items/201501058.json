@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501058",
+ "item_name": "리센드정150밀리그램(리세드론산나트륨2.5수화물)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20150227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249411]리세드론산나트륨2.5수화물",
+ "main_item_ingr_eng": "Risedronate Sodium 2.5 Hydrate",
+ "edi_code": "649404730",
+ "atc_code": "M05BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501058",
+ "revisions": [
+  {
+   "revision_id": "201501058-defc36e5",
+   "content_sha256": "defc36e544c2b7839accafb802c7c19f36a2dc5341b21770e904271d774f1977",
+   "ee_text": "폐경 후 여성의 골다공증 치료와 예방",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-27T13:38:38Z",
+   "last_observed_at": "2026-08-27T13:38:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:38Z"
+}

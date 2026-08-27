@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200700501",
+ "item_name": "바리움정5밀리그람(디아제팜)",
+ "entp_name": "지피테라퓨틱스코리아주식회사",
+ "permit_date": "20061228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040102]디아제팜",
+ "main_item_ingr_eng": "Diazepam",
+ "edi_code": "057200130",
+ "atc_code": "N05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700501",
+ "revisions": [
+  {
+   "revision_id": "200700501-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-27T13:29:34Z",
+   "last_observed_at": "2026-08-27T13:29:34Z",
+   "official_revision_date": "2018-08-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:29:34Z"
+}

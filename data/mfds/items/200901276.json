@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200901276",
+ "item_name": "써버쿨키드크림",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20090217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082390]덱스판테놀|[M223240]토코페롤아세테이트|[M040108]디펜히드라민|[M256386]글리시리진산이칼륨",
+ "main_item_ingr_eng": "Dexpanthenol/Diphenhydramine/Dipotassium Glycyrrhizinate/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "D04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901276",
+ "revisions": [
+  {
+   "revision_id": "200901276-668a70ea",
+   "content_sha256": "668a70eacf30ca866b38911ecc0dd0567b4773bd2526d49315c4984625f4dbad",
+   "ee_text": "습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물림, 두드러기, 동창",
+   "ee_doc_id": "27",
+   "first_observed_at": "2026-08-27T12:29:44Z",
+   "last_observed_at": "2026-08-27T12:29:44Z",
+   "official_revision_date": "2024-11-15"
+  },
+  {
+   "revision_id": "200901276-193c3852",
+   "content_sha256": "193c3852b134a79ad91962a94c927220afe10a2117b2d88790e824c5278bf2b5",
+   "ee_text": "가려움, 피부염, 습진, 두드러기, 땀띠, 동상, 벌레 물림, 짓무름",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T12:29:44Z",
+   "last_observed_at": "2026-08-27T12:29:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T12:29:44Z"
+}

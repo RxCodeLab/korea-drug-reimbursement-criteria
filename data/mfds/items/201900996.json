@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900996",
+ "item_name": "슈프라펜서방정(트라마돌, 아세트아미노펜)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20190219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255410]트라마돌염산염|[M040353]아세트아미노펜|[M040353]아세트아미노펜",
+ "main_item_ingr_eng": "Acetaminophen/Tramadol Hydrochloride",
+ "edi_code": "650206160",
+ "atc_code": "N02AJ13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900996",
+ "revisions": [
+  {
+   "revision_id": "201900996-d512d9eb",
+   "content_sha256": "d512d9ebfda3eca685fd12b7fd3249e0f7954db95d0b9c1235fd92a9e4fb13f9",
+   "ee_text": "중등도-중증의 급,만성 통증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T13:01:52Z",
+   "last_observed_at": "2026-08-27T13:01:52Z",
+   "official_revision_date": "2019-02-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:01:52Z"
+}

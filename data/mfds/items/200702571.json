@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200702571",
+ "item_name": "웰부트린엑스엘정150밀리그램(부프로피온염산염)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20070302",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233238]부프로피온염산염",
+ "main_item_ingr_eng": "Bupropion Hydrochloride",
+ "edi_code": "650000920",
+ "atc_code": "N06AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702571",
+ "revisions": [
+  {
+   "revision_id": "200702571-7e46a4aa",
+   "content_sha256": "7e46a4aad39041393c78da8874203a0710485402c0e2e8a98923ce608e396699",
+   "ee_text": "주요우울장애",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-27T13:38:02Z",
+   "last_observed_at": "2026-08-27T13:38:02Z",
+   "official_revision_date": "2020-05-14"
+  },
+  {
+   "revision_id": "200702571-4fb1dfc6",
+   "content_sha256": "4fb1dfc662e55f3e98d6fdf7b8ba3a5ab18ca7969229873098e4fc16d257bd92",
+   "ee_text": "주요우울증",
+   "ee_doc_id": "19",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-27T13:38:02Z",
+   "last_observed_at": "2026-08-27T13:38:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:38:02Z"
+}

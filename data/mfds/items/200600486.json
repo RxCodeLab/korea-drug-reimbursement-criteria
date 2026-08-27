@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600486",
+ "item_name": "싸이록사신점이현탁액",
+ "entp_name": "제이더블유신약(주)",
+ "permit_date": "20060206",
+ "cancel_date": "20231127",
+ "status": "행정(취소)",
+ "main_item_ingr": "[M223091]시프로플록사신염산염수화물|[M040818]히드로코르티손",
+ "main_item_ingr_eng": "Ciprofloxacin Hydrochloride Hydrate/Hydrocortisone",
+ "edi_code": "",
+ "atc_code": "S02CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600486",
+ "revisions": [
+  {
+   "revision_id": "200600486-4bdac916",
+   "content_sha256": "4bdac91673e1146d3faaaae73ec842c74b7d1b8ec0ade9fc37ec628cbb3e230f",
+   "ee_text": "Staphylococcus aureus, Proteus mirabilis, Pseudomonas aeruginosa 등에 의한 급성 외이염의 치료",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-27T13:22:21Z",
+   "last_observed_at": "2026-08-27T13:22:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T13:22:21Z"
+}
