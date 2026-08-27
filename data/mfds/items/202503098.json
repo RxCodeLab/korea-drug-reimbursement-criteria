@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503098",
+ "item_name": "셀토젯정10/5밀리그램(에제티미브,아토르바스타틴)",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20251127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M097492]에제티미브|[M215219]아토르바스타틴칼슘삼수화물",
+ "main_item_ingr_eng": "Atorvastatin Calcium Trihydrate/Ezetimibe",
+ "edi_code": "693904070",
+ "atc_code": "C10BA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503098",
+ "revisions": [
+  {
+   "revision_id": "202503098-87588a1b",
+   "content_sha256": "87588a1b8a5dbaf084eadafd1aa5581ac9e42b99fb226a9da42c8831da6d9060",
+   "ee_text": "원발성 고콜레스테롤혈증 원발성 고콜레스테롤혈증(이형접합 가족형 및 비가족형) 또는 혼합형 이상지질혈증 환자의 상승된 총 콜레스테롤(total-C), LDL-콜레스테롤(LDL-C), 아포B단백(Apo B), 트리글리세라이드(TG) 및 non-HDL-콜레스테롤을 감소시키고, HDL-콜레스테롤(HDL-C)을 증가시키기 위한 식이요법의 보조제로서 이 약을 투약한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-27T21:15:15Z",
+   "last_observed_at": "2026-08-27T21:15:15Z",
+   "official_revision_date": "2025-11-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-27T21:15:15Z"
+}
