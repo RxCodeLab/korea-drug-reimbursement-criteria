@@ -35,11 +35,11 @@ def validate_mfds_items(items_dir: Path = MFDS_ITEMS) -> list[str]:
             item = json.loads(path.read_text(encoding="utf-8"))
             sequence = str(item["item_seq"])
             if item.get("schema_version") != 1 or item.get("complete") is not True:
-                raise ValueError("완전한 schema-v1 MFDS 품목이 아닙니다")
+                raise ValueError("schema-v1 MFDS 품목 형식에 맞지 않습니다")
             if path.stem != sequence:
                 raise ValueError("파일명과 품목기준코드가 다릅니다")
             if not safe_url(item["source_url"]):
-                raise ValueError("출처 URL에 인증정보가 포함되었습니다")
+                raise ValueError("출처 URL에 인증정보가 들어 있습니다")
             revisions = item["revisions"]
             if not isinstance(revisions, list) or not revisions:
                 raise ValueError("효능·효과 관찰 이력이 없습니다")
@@ -68,7 +68,7 @@ def validate() -> list[str]:
         try:
             meta = json.loads(meta_path.read_text(encoding="utf-8"))
             if meta.get("schema_version") != 1 or meta.get("complete") is not True:
-                raise ValueError("완전한 schema-v1 매니페스트가 아닙니다")
+                raise ValueError("schema-v1 매니페스트 형식에 맞지 않습니다")
             version = meta["version"]
             sequence = version["행정규칙일련번호"]
             if sequence in metas:
@@ -98,7 +98,7 @@ def validate() -> list[str]:
             document = json.loads(path.read_text(encoding="utf-8"))
             sequence = document["version"]["행정규칙일련번호"]
             if document.get("complete") is not True or sequence not in metas:
-                raise ValueError("원본이 없거나 완료되지 않은 정규화 문서입니다")
+                raise ValueError("원본이 없거나 내용이 온전하지 않은 정규화 문서입니다")
             source = {a["ordinal"]: a["sha256"] for a in metas[sequence]["attachments"]}
             parsed = {a["ordinal"]: a for a in document["attachments"]}
             if set(source) != set(parsed):

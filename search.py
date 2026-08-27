@@ -80,7 +80,7 @@ def group_criteria(records: list[dict]) -> list[list[dict]]:
 
 
 def group_documents(records: list[dict]) -> list[list[dict]]:
-    """문서 레코드를 행정규칙 일련번호(개정 회차)별로 묶어 개정 순 최신, 역할 순위·첨부 순번으로 정렬한다."""
+    """문서 레코드를 행정규칙 일련번호(개정 회차)별로 묶어 개정은 최신 순으로, 그 안에서는 역할 순위·첨부 순번으로 정렬한다."""
     groups: dict[str, list[dict]] = {}
     for record in records:
         groups.setdefault(record["sequence"], []).append(record)
@@ -193,7 +193,7 @@ def build_html_report(terms: list[str], records: list[dict],
  .live{{background:#f0f4fa;border:1px solid #ccd2dc;border-radius:6px;padding:.6em .8em;margin:1em 0}}
  .live input{{padding:.45em;font-size:1em;border:1px solid #8993a4;border-radius:4px;width:min(24em,60%)}}
 </style>
-<h1>급여기준 변천: {html.escape(' / '.join(terms))}</h1>
+<h1>급여기준 이력: {html.escape(' / '.join(terms))}</h1>
 <div class="live"><form action="{SITE_URL}" method="get">
 <input name="q" type="search" value="{html.escape(' '.join(terms))}">
 <button>최신 데이터에서 검색</button></form>

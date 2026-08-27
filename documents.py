@@ -84,7 +84,7 @@ def _extract_text_payload(path: Path) -> str:
         texts.append(text)
     output = "\n".join(texts).strip()
     if not output:
-        raise ExtractionError("rhwp에서 비어 있는 텍스트를 반환했습니다")
+        raise ExtractionError("rhwp가 빈 텍스트를 반환했습니다")
     return output
 
 
@@ -161,7 +161,7 @@ def _expand_mark_matrix(grid: list[list[str]], header_rows: int) -> list[str] | 
     """표시형 매트릭스를 `행라벨 + 열라벨: 표시` 목록으로 전개한다. 아니면 None.
 
     모든 데이터 행이 라벨과 표시를 함께 갖고 표시 어휘가 2종 이하일 때만
-    매트릭스로 본다. '(DHP, loop 같은) 짧은 부분류 라벨'이 섞인 목록 표를
+    매트릭스로 본다. (DHP, loop 같은) '짧은 부분류 라벨'이 섞인 목록 표를
     잘못 전개해 행이 사라지는 일을 막는다.
     """
     if not header_rows or header_rows >= len(grid):
@@ -205,7 +205,7 @@ def _nested_cell_lines(text: str, nested: list[dict]) -> list[str]:
     """셀 문단 흐름의 원래 자리에 그 셀의 중첩 표를 되살린다.
 
     rhwp의 containerPath가 표가 차지하던 문단 번호를 주므로 그 위치(빈 줄)에
-    표를 넣는다. 앵커가 없거나 범위를 벗어나면 셀 뒤에 잇는다. 소유한 셀에서
+    표를 넣는다. 앵커가 없거나 범위를 벗어나면 셀 뒤에 잇는다. 표가 놓인 셀에서
     바로 렌더링해 다른 셀로 옮겨 붙지 않게 한다.
     """
     paragraphs = text.split("\n")

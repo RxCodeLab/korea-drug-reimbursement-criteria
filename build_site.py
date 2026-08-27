@@ -25,7 +25,7 @@ def build_index() -> list[dict]:
     for path in sorted(NORMALIZED.glob("*.json")):
         document = json.loads(path.read_text(encoding="utf-8"))
         if document.get("complete") is not True:
-            raise RuntimeError(f"완료되지 않은 정규화 문서입니다: {path}")
+            raise RuntimeError(f"내용이 온전하지 않은 정규화 문서입니다: {path}")
         version = document["version"]
         attachments = {a["ordinal"]: a for a in document["attachments"]}
         for entry in document["entries"]:
@@ -65,7 +65,7 @@ def build_mfds_public() -> list[dict]:
     for path in sorted(MFDS_ITEMS.glob("*.json")):
         record = json.loads(path.read_text(encoding="utf-8"))
         if record.get("complete") is not True:
-            raise RuntimeError(f"완료되지 않은 MFDS 항목입니다: {path}")
+            raise RuntimeError(f"내용이 온전하지 않은 MFDS 항목입니다: {path}")
         revisions = record.get("revisions") or []
         index.append({
             "item_seq": record["item_seq"],
@@ -308,7 +308,7 @@ def build_criteria_pages() -> list[tuple[str, str]]:
 
 
 def static_drug_list(catalog: list[tuple[str, str]]) -> str:
-    """크롤러와 사용자가 항목 페이지로 진입하는 수록 약제 목록."""
+    """수록 약제 목록. 크롤러와 사용자가 여기서 항목 페이지로 들어간다."""
     if not catalog:
         return ""
     items = "".join(
@@ -321,7 +321,7 @@ def static_drug_list(catalog: list[tuple[str, str]]) -> str:
 def write_crawler_files(page_urls: list[str]) -> None:
     """sitemap.xml과 robots.txt를 생성한다.
 
-    프로젝트 페이지라 robots.txt는 루트가 아니어서 크롤러 효력은 없지만,
+    프로젝트 페이지여서 robots.txt가 루트에 놓이지 않아 크롤러에는 효력이 없지만,
     sitemap 위치를 문서화하는 용도로 함께 둔다. sitemap은 Search Console
     제출로 유효하다.
     """

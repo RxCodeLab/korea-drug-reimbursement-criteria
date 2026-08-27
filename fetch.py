@@ -55,12 +55,12 @@ def validate_payload(path: Path, fmt: str) -> tuple[int, str]:
     with path.open("rb") as source:
         header = source.read(8)
     if fmt == "pdf" and not header.startswith(b"%PDF-"):
-        raise ValueError("첨부파일의 서명이 .pdf 형식과 일치하지 않습니다")
+        raise ValueError("첨부파일이 .pdf 형식이 아닙니다")
     if fmt in ZIP_FORMATS:
         if not zipfile.is_zipfile(path):
-            raise ValueError(f"첨부파일의 서명이 .{fmt} 형식과 일치하지 않습니다")
+            raise ValueError(f"첨부파일이 .{fmt} 형식이 아닙니다")
     if fmt == "hwp" and not header.startswith(CFB_SIGNATURE):
-        raise ValueError("첨부파일의 서명이 .hwp 형식과 일치하지 않습니다")
+        raise ValueError("첨부파일이 .hwp 형식이 아닙니다")
     digest = hashlib.sha256()
     with path.open("rb") as source:
         for block in iter(lambda: source.read(1024 * 1024), b""):
@@ -220,7 +220,7 @@ def main() -> None:
 
     versions = list_versions()
     if not versions:
-        raise SystemExit("API에서 정확히 일치하는 고시 버전을 반환하지 않았습니다")
+        raise SystemExit("API가 정확히 일치하는 고시 버전을 반환하지 않았습니다")
     print(f"연혁 총 {len(versions)}건 (시행 {versions[0]['시행일자']} ~ {versions[-1]['시행일자']})")
     atomic_json(RAW.parent / "versions.json", [version_metadata(version) for version in versions])
 

@@ -56,18 +56,18 @@ def _validate_meta(path: Path) -> dict[str, Any]:
     attachments = meta.get("attachments")
     required_version = {"행정규칙일련번호", "시행일자", "발령일자", "발령번호", "행정규칙명"}
     if not isinstance(version, dict) or not required_version <= version.keys() or not isinstance(attachments, list):
-        raise RuntimeError(f"메타데이터가 표준 구조를 충족하지 않습니다: {path}")
+        raise RuntimeError(f"메타데이터가 표준 구조에 맞지 않습니다: {path}")
     seen_ordinals: set[int] = set()
     for attachment in attachments:
         required = {"ordinal", "source_url", "original_name", "stored_name", "format", "role", "size", "sha256", "status"}
         if not isinstance(attachment, dict) or not required <= attachment.keys():
-            raise RuntimeError(f"첨부파일 정보가 표준 구조를 충족하지 않습니다: {path}")
+            raise RuntimeError(f"첨부파일 정보가 표준 구조에 맞지 않습니다: {path}")
         if attachment["status"] != "complete" or attachment["format"] not in _FORMAT_RANK or attachment["role"] not in _ROLES:
-            raise RuntimeError(f"지원하지 않거나 완료되지 않은 첨부파일입니다: {path}")
+            raise RuntimeError(f"지원하지 않거나 내용이 온전하지 않은 첨부파일입니다: {path}")
         if not isinstance(attachment["ordinal"], int) or attachment["ordinal"] in seen_ordinals:
             raise RuntimeError(f"첨부파일 순번이 중복되었거나 잘못되었습니다: {path}")
         if not _safe_url(str(attachment["source_url"])):
-            raise RuntimeError(f"인증 정보가 포함된 원본 URL은 허용되지 않습니다: {path}")
+            raise RuntimeError(f"인증정보가 포함된 원본 URL은 허용되지 않습니다: {path}")
         seen_ordinals.add(attachment["ordinal"])
     return meta
 

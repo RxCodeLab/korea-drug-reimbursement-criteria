@@ -85,8 +85,8 @@ def term_groups_from_titles(titles: Iterable[str]) -> list[tuple[str, list[str]]
     """제목 → (성분 검색어, 품명 예시 fallback) 목록.
 
     '(품명' 앞머리를 성분 검색어로 쓰고, 첨부파일명과 한글 분류어(일반원칙 등
-    라틴 문자가 없는 머리)는 버린다. 품명 괄호 안 예시는 쉼표/등 기준으로 쪼개
-    item_name fallback 검색어로 쓴다. 대소문자 무시 중복을 제거한다.
+    라틴 문자가 없는 앞머리)는 버린다. 품명 괄호 안 예시는 쉼표/등 기준으로 쪼개
+    item_name fallback 검색어로 쓴다. 대소문자를 무시하고 중복을 제거한다.
     """
     groups: list[tuple[str, list[str]]] = []
     seen: set[str] = set()
@@ -393,7 +393,7 @@ def merge_history(
 ) -> int:
     """허가이력을 병합한다.
 
-    API가 현재로 보고한 개정에는 official_revision_date가 없어 날짜 역순 정렬에서
+    API가 현행으로 보고한 개정에는 official_revision_date가 없어 날짜 역순 정렬에서
     과거 개정에 밀리므로, 정렬 뒤에도 맨 앞에 오도록 고정한다. 수집 시각을
     history_fetched_at에 남겨 다음 실행이 재수집 대상을 판단하게 한다.
     """
@@ -544,7 +544,7 @@ def main(argv: list[str] | None = None) -> int:
                           "미수집 품목은 다음 실행에서 백필합니다.")
 
     def sweep(sweep_groups: list[tuple[str, list[str]]]) -> set[str]:
-        """검색어 목록을 훑어 수집하고, 성공한 검색어 머리를 돌려준다.
+        """검색어 목록을 훑어 수집하고, 성공한 검색어 앞머리를 돌려준다.
 
         검색 실패는 검색어 단위로 넘긴다. 실패한 검색어는 다음 실행에서
         다시 시도되고, 연속 실패가 이어지면 지금까지 저장분을 지키며 멈춘다.
@@ -584,7 +584,7 @@ def main(argv: list[str] | None = None) -> int:
         succeeded = sweep(groups)
         if stats["fetched"] == 0 and stats["term_failures"]:
             _print_summary(stats)
-            return 1  # 아무것도 수집하지 못한 채 실패만 났다면 크게 실패한다
+            return 1  # 아무것도 수집하지 못한 채 실패만 났다면 전체를 실패로 처리한다
         save_sync(end_date, succeeded)
     else:
         seen_heads = set(sync.get("seen_heads") or [])
