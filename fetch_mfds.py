@@ -28,7 +28,8 @@ NORMALIZED_DIR = DATA / "normalized"
 ITEMS_DIR = DATA / "mfds" / "items"
 SCHEMA_VERSION = 1
 DEFAULT_PAGE_SIZE = 100
-REQUEST_SLEEP = 0.3
+# 요청 간 대기 없음. 차단이 잦아지면 이 값을 올려 완화한다(예: 0.3).
+REQUEST_SLEEP = 0.0
 RESULT_OK = "00"
 HISTORY_FAILURE_LIMIT = 5
 TERM_FAILURE_LIMIT = 10
