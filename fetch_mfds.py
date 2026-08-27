@@ -16,7 +16,7 @@ import time
 import urllib.parse
 import xml.etree.ElementTree as ET
 from collections.abc import Iterable
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from common import DATA, http_get, redact_text
@@ -123,13 +123,13 @@ def redact_message(service_key: str, text: object) -> str:
     return message
 
 
-def fetch_page(service_key: str, search_param: str, term: str, page_no: int, page_size: int) -> dict:
+def fetch_page(service_key: str, query: dict[str, str], page_no: int, page_size: int) -> dict:
     params = {
         "serviceKey": service_key,
         "type": "json",
         "pageNo": str(page_no),
         "numOfRows": str(page_size),
-        search_param: term,
+        **query,
     }
     raw = http_get(API_URL, params)
     try:
@@ -193,14 +193,14 @@ def fetch_history(item_seq: str, observed_at: str) -> list[dict]:
     return parse_history(raw, item_seq, observed_at)
 
 
-def collect_pages(
-    service_key: str, search_param: str, term: str, page_size: int, max_items: int | None,
+def collect_query(
+    service_key: str, query: dict[str, str], page_size: int, max_items: int | None,
 ) -> list[dict]:
-    """search_param=term 조건을 totalCount에 맞춰 페이지 단위로 수집한다."""
+    """질의 조건을 totalCount에 맞춰 페이지 단위로 수집한다."""
     collected: list[dict] = []
     page_no = 1
     while True:
-        body = fetch_page(service_key, search_param, term, page_no, page_size)
+        body = fetch_page(service_key, query, page_no, page_size)
         time.sleep(REQUEST_SLEEP)
         rows = body_items(body)
         collected.extend(rows)
@@ -213,6 +213,28 @@ def collect_pages(
         if not rows or len(rows) < page_size or (total and len(collected) >= total):
             return collected
         page_no += 1
+
+
+def collect_pages(
+    service_key: str, search_param: str, term: str, page_size: int, max_items: int | None,
+) -> list[dict]:
+    """search_param=term 조건을 totalCount에 맞춰 페이지 단위로 수집한다."""
+    return collect_query(service_key, {search_param: term}, page_size, max_items)
+
+
+def collect_changed(
+    service_key: str, start_date: str, end_date: str, page_size: int,
+) -> list[dict]:
+    """변경일자 구간의 품목 변경분을 받아온다.
+
+    공공데이터포털은 증분 인자 없는 반복 호출을 시간당 100회로 제한하므로,
+    평시 실행은 전체 검색 대신 이 변경분 질의를 쓴다.
+    """
+    return collect_query(
+        service_key,
+        {"start_change_date": start_date, "end_change_date": end_date},
+        page_size, None,
+    )
 
 
 # 한글 성분명 끝의 염·수화물·에스터류 접미어. 기본 성분명을 얻을 때 반복 제거한다.
@@ -411,12 +433,59 @@ def history_pending(item_seq: str, items_dir: Path) -> bool:
     return not str(item.get("history_fetched_at") or "").strip()
 
 
+SYNC_PATH = DATA / "mfds" / "sync.json"
+
+
+def load_sync() -> dict | None:
+    """마지막 변경분 동기화 상태를 읽는다. 없거나 손상됐으면 None."""
+    try:
+        sync = json.loads(SYNC_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return None
+    if not isinstance(sync, dict) or not str(sync.get("last_change_date") or "").strip():
+        return None
+    return sync
+
+
+def save_sync(last_change_date: str, seen_heads: set[str]) -> None:
+    atomic_json(SYNC_PATH, {
+        "last_change_date": last_change_date,
+        "seen_heads": sorted(seen_heads),
+    })
+
+
+def today_kst() -> str:
+    return datetime.now(timezone(timedelta(hours=9))).strftime("%Y%m%d")
+
+
+def stored_ingredients(items_dir: Path) -> frozenset[str]:
+    """저장된 품목 전체의 기본 성분명 집합. 변경분에서 유관 신규 품목을 고르는 기준."""
+    bases: set[str] = set()
+    for path in items_dir.glob("*.json"):
+        try:
+            item = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        bases |= base_ingredient_set({"MAIN_ITEM_INGR": item.get("main_item_ingr", "")})
+    return frozenset(bases)
+
+
+def _print_summary(stats: dict) -> None:
+    print(
+        f"[MFDS] 수집 항목={stats['fetched']}건, 신규 개정={stats['new']}건, "
+        f"과거 허가이력={stats['history']}건, 변동 없음={stats['unchanged']}건, "
+        f"이력 미수집={stats['history_skipped']}건, 검색 실패={stats['term_failures']}건"
+    )
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="공공데이터포털 의약품 제품 허가정보 수집")
     parser.add_argument("--max-terms", type=int, default=None, help="검색어 상한(기본: 전체)")
     parser.add_argument("--max-items", type=int, default=None, help="저장 항목 상한(기본: 제한 없음)")
     parser.add_argument("--page-size", type=int, default=DEFAULT_PAGE_SIZE, help="페이지당 건수")
     parser.add_argument("--skip-history", action="store_true", help="의약품안전나라 효능·효과 변경이력 수집 생략")
+    parser.add_argument("--full", action="store_true",
+                        help="변경분 대신 전체 검색어로 수집(최초 구축·재구축용)")
     args = parser.parse_args(argv)
     for name in ("max-terms", "max-items", "page-size"):
         value = getattr(args, name.replace("-", "_"))
@@ -433,67 +502,114 @@ def main(argv: list[str] | None = None) -> int:
     if args.max_terms is not None:
         groups = groups[: args.max_terms]
 
-    fetched = new_revisions = history_revisions = unchanged = history_skipped = 0
-    history_enabled = not args.skip_history
-    history_failures = term_failures = consecutive_term_failures = 0
+    stats = {"fetched": 0, "new": 0, "history": 0, "unchanged": 0,
+             "history_skipped": 0, "term_failures": 0}
+    history_state = {"enabled": not args.skip_history, "failures": 0}
     seen: set[str] = set()
-    for head, fallbacks in groups:
-        if args.max_items is not None and fetched >= args.max_items:
-            break
-        budget = args.max_items - fetched if args.max_items is not None else None
-        # 검색 실패도 검색어 단위로 넘긴다. 실패한 검색어는 다음 실행에서
-        # 다시 시도되고, 연속 실패가 이어지면 지금까지 저장분을 지키며 멈춘다.
-        try:
-            rows, _search_param = collect_term(service_key, head, fallbacks, args.page_size, budget)
-            consecutive_term_failures = 0
-        except RuntimeError as exc:
-            term_failures += 1
-            consecutive_term_failures += 1
-            print(f"검색어 수집 실패({head}): {exc}")
-            if consecutive_term_failures >= TERM_FAILURE_LIMIT:
-                print("연속 실패로 수집을 중단합니다. 지금까지 저장한 품목은 유지됩니다.")
+
+    def budget_left() -> int | None:
+        return None if args.max_items is None else args.max_items - stats["fetched"]
+
+    def process_row(row: dict) -> None:
+        seq = str(row.get("ITEM_SEQ") or "").strip()
+        if not seq or seq in seen:
+            return
+        seen.add(seq)
+        observed_at = now_utc()
+        result = merge_item(row, ITEMS_DIR, observed_at)
+        stats["fetched"] += 1
+        if result == "unchanged":
+            stats["unchanged"] += 1
+        else:
+            stats["new"] += 1
+        if history_state["enabled"] and (
+            result != "unchanged" or history_pending(seq, ITEMS_DIR)
+        ):
+            # 허가이력 실패는 품목 단위로 넘긴다. 마커가 남지 않으므로
+            # 해당 품목은 다음 실행에서 백필되고, 연속 실패가 이어지면
+            # 이번 실행의 이력 수집만 중단해 품목 수집을 지킨다.
+            try:
+                stats["history"] += merge_history(
+                    seq, fetch_history(seq, observed_at), ITEMS_DIR, observed_at,
+                )
+                history_state["failures"] = 0
+            except RuntimeError as exc:
+                history_state["failures"] += 1
+                stats["history_skipped"] += 1
+                print(f"허가이력 수집 실패({seq}): {exc}")
+                if history_state["failures"] >= HISTORY_FAILURE_LIMIT:
+                    history_state["enabled"] = False
+                    print("연속 실패로 이번 실행의 허가이력 수집을 중단합니다. "
+                          "미수집 품목은 다음 실행에서 백필합니다.")
+
+    def sweep(sweep_groups: list[tuple[str, list[str]]]) -> set[str]:
+        """검색어 목록을 훑어 수집하고, 성공한 검색어 머리를 돌려준다.
+
+        검색 실패는 검색어 단위로 넘긴다. 실패한 검색어는 다음 실행에서
+        다시 시도되고, 연속 실패가 이어지면 지금까지 저장분을 지키며 멈춘다.
+        """
+        succeeded: set[str] = set()
+        consecutive = 0
+        for head, fallbacks in sweep_groups:
+            left = budget_left()
+            if left is not None and left <= 0:
                 break
-            continue
-        for row in rows:
-            seq = str(row.get("ITEM_SEQ") or "").strip()
-            if not seq or seq in seen:
+            try:
+                rows, _search_param = collect_term(service_key, head, fallbacks, args.page_size, left)
+                consecutive = 0
+                succeeded.add(head)
+            except RuntimeError as exc:
+                stats["term_failures"] += 1
+                consecutive += 1
+                print(f"검색어 수집 실패({head}): {exc}")
+                if consecutive >= TERM_FAILURE_LIMIT:
+                    print("연속 실패로 수집을 중단합니다. 지금까지 저장한 품목은 유지됩니다.")
+                    break
                 continue
-            if args.max_items is not None and fetched >= args.max_items:
-                break
-            seen.add(seq)
-            observed_at = now_utc()
-            result = merge_item(row, ITEMS_DIR, observed_at)
-            fetched += 1
-            if result == "unchanged":
-                unchanged += 1
-            else:
-                new_revisions += 1
-            if history_enabled and (
-                result != "unchanged" or history_pending(seq, ITEMS_DIR)
-            ):
-                # 허가이력 실패는 품목 단위로 넘긴다. 마커가 남지 않으므로
-                # 해당 품목은 다음 실행에서 백필되고, 연속 실패가 이어지면
-                # 이번 실행의 이력 수집만 중단해 품목 수집을 지킨다.
-                try:
-                    history_revisions += merge_history(
-                        seq, fetch_history(seq, observed_at), ITEMS_DIR, observed_at,
-                    )
-                    history_failures = 0
-                except RuntimeError as exc:
-                    history_failures += 1
-                    history_skipped += 1
-                    print(f"허가이력 수집 실패({seq}): {exc}")
-                    if history_failures >= HISTORY_FAILURE_LIMIT:
-                        history_enabled = False
-                        print("연속 실패로 이번 실행의 허가이력 수집을 중단합니다. "
-                              "미수집 품목은 다음 실행에서 백필합니다.")
-    print(
-        f"[MFDS] 수집 항목={fetched}건, 신규 개정={new_revisions}건, "
-        f"과거 허가이력={history_revisions}건, 변동 없음={unchanged}건, "
-        f"이력 미수집={history_skipped}건, 검색 실패={term_failures}건"
-    )
-    if fetched == 0 and term_failures:
-        return 1  # 아무것도 수집하지 못한 채 실패만 났다면 크게 실패한다
+            for row in rows:
+                left = budget_left()
+                if left is not None and left <= 0:
+                    break
+                process_row(row)
+        return succeeded
+
+    sync = load_sync()
+    has_items = ITEMS_DIR.is_dir() and any(ITEMS_DIR.glob("*.json"))
+    end_date = today_kst()
+
+    if args.full or sync is None or not has_items:
+        # 최초 구축·재구축: 전체 검색어 수집. 증분 인자 없는 호출은 시간당
+        # 100회 제한 대상이라 평시에는 아래 변경분 경로를 쓴다.
+        succeeded = sweep(groups)
+        if stats["fetched"] == 0 and stats["term_failures"]:
+            _print_summary(stats)
+            return 1  # 아무것도 수집하지 못한 채 실패만 났다면 크게 실패한다
+        save_sync(end_date, succeeded)
+    else:
+        seen_heads = set(sync.get("seen_heads") or [])
+        # 1) 새 고시로 들어온 검색어만 검색한다 (건수가 적어 제한과 무관)
+        succeeded = sweep([(head, fb) for head, fb in groups if head not in seen_heads])
+        # 2) 변경일자 구간 질의로 기존 품목 갱신과 유관 신규 허가를 받는다
+        try:
+            changed = collect_changed(
+                service_key, str(sync["last_change_date"]), end_date, args.page_size,
+            )
+        except RuntimeError as exc:
+            print(f"변경분 조회 실패: {exc}")
+            _print_summary(stats)
+            return 1
+        known = frozenset(path.stem for path in ITEMS_DIR.glob("*.json"))
+        ingredients = stored_ingredients(ITEMS_DIR)
+        for row in changed:
+            seq = str(row.get("ITEM_SEQ") or "").strip()
+            if seq in known or (base_ingredient_set(row) & ingredients):
+                left = budget_left()
+                if left is not None and left <= 0:
+                    break
+                process_row(row)
+        save_sync(end_date, seen_heads | succeeded)
+
+    _print_summary(stats)
     return 0
 
 

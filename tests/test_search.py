@@ -6,6 +6,12 @@ import build_site
 import search
 
 
+@pytest.fixture(autouse=True)
+def isolated_mfds_items(monkeypatch, tmp_path):
+    """실데이터(data/mfds/items 1만4천 파일)를 읽지 않도록 격리한다."""
+    monkeypatch.setattr(build_site, "MFDS_ITEMS", tmp_path / "no-mfds-items")
+
+
 def normalized_document():
     return {
         "schema_version": 1,

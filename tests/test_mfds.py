@@ -58,8 +58,9 @@ def write_normalized(directory, titles):
 
 
 @pytest.fixture(autouse=True)
-def no_sleep(monkeypatch):
+def no_sleep(monkeypatch, tmp_path):
     monkeypatch.setattr(fetch_mfds, "REQUEST_SLEEP", 0)
+    monkeypatch.setattr(fetch_mfds, "SYNC_PATH", tmp_path / "sync-state.json")
 
 
 def test_normalize_ee_strips_tags_unescapes_and_collapses():
@@ -379,7 +380,7 @@ def test_api_error_fails_closed_with_redacted_message(monkeypatch):
 
     monkeypatch.setattr(fetch_mfds, "http_get", FakeApi(respond))
     with pytest.raises(RuntimeError) as excinfo:
-        fetch_mfds.fetch_page(SERVICE_KEY, "main_item_ingr", "Clonazepam", 1, 100)
+        fetch_mfds.fetch_page(SERVICE_KEY, {"main_item_ingr": "Clonazepam"}, 1, 100)
     assert SERVICE_KEY not in str(excinfo.value)
     assert "[REDACTED]" in str(excinfo.value)
 
@@ -391,7 +392,7 @@ def test_non_json_response_fails_closed_with_redacted_message(monkeypatch):
         lambda url, params=None, retries=3: f"<html>error {SERVICE_KEY}</html>".encode("utf-8"),
     )
     with pytest.raises(RuntimeError) as excinfo:
-        fetch_mfds.fetch_page(SERVICE_KEY, "main_item_ingr", "Clonazepam", 1, 100)
+        fetch_mfds.fetch_page(SERVICE_KEY, {"main_item_ingr": "Clonazepam"}, 1, 100)
     assert SERVICE_KEY not in str(excinfo.value)
 
 
@@ -588,6 +589,110 @@ def test_all_search_failures_exit_nonzero(monkeypatch, tmp_path):
 
     def respond(url, params=None, retries=3):
         raise RuntimeError("MFDS API 오류: 코드=01, 메시지=System Error!!")
+
+    monkeypatch.setattr(fetch_mfds, "http_get", respond)
+    import contextlib, io
+    with contextlib.redirect_stdout(io.StringIO()):
+        assert fetch_mfds.main(["--skip-history"]) == 1
+
+
+def test_incremental_mode_uses_change_feed(monkeypatch, tmp_path, capsys):
+    """동기화 상태가 있으면 검색 대신 변경분 질의로 갱신·유관 신규만 처리한다."""
+    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
+    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
+        tmp_path / "normalized", ["Clonazepam 경구제"],
+    ))
+    items = tmp_path / "items"
+    items.mkdir()
+    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
+    # 기존 저장 품목(클로나제팜)과 동기화 상태를 준비한다
+    fetch_mfds.merge_item(
+        api_item(61, MAIN_ITEM_INGR="[M1]클로나제팜"), items, "2026-08-01T00:00:00Z",
+    )
+    fetch_mfds.save_sync("20260820", {"Clonazepam"})
+
+    changed_rows = [
+        api_item(61, ee="<p>개정된 적응증</p>", MAIN_ITEM_INGR="[M1]클로나제팜"),  # 기존 품목의 갱신
+        api_item(62, ITEM_NAME="새클로정", MAIN_ITEM_INGR="[M2]클로나제팜염산염"),   # 유관 신규(같은 기본 성분)
+        api_item(63, ITEM_NAME="무관정", MAIN_ITEM_INGR="[M3]메트포르민염산염"),     # 무관 성분 → 제외
+    ]
+    search_calls: list[dict] = []
+
+    def respond(url, params=None, retries=3):
+        params = params or {}
+        if url == fetch_mfds.HISTORY_URL:
+            raise RuntimeError("이번 테스트는 이력 없음")
+        if "start_change_date" in params:
+            assert params["start_change_date"] == "20260820"
+            return envelope({"totalCount": str(len(changed_rows)), "items": changed_rows})
+        search_calls.append(dict(params))
+        return envelope({"totalCount": "0"})
+
+    monkeypatch.setattr(fetch_mfds, "http_get", respond)
+    assert fetch_mfds.main(["--skip-history"]) == 0
+
+    # 검색어는 이미 본 것뿐이라 검색 질의가 없어야 한다
+    assert search_calls == []
+    assert sorted(p.stem for p in items.glob("*.json")) == ["61", "62"]
+    updated = json.loads((items / "61.json").read_text(encoding="utf-8"))
+    assert updated["revisions"][0]["ee_text"] == "개정된 적응증"
+    sync = json.loads(fetch_mfds.SYNC_PATH.read_text(encoding="utf-8"))
+    assert sync["last_change_date"] == fetch_mfds.today_kst()
+    assert "변동 없음=0건" in capsys.readouterr().out
+
+
+def test_incremental_mode_searches_only_new_heads(monkeypatch, tmp_path):
+    """새 고시로 들어온 검색어만 검색하고 seen_heads에 누적한다."""
+    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
+    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
+        tmp_path / "normalized",
+        ["Clonazepam 경구제", "Dapagliflozin 경구제 (품명: 포시가정)"],
+    ))
+    items = tmp_path / "items"
+    items.mkdir()
+    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
+    fetch_mfds.merge_item(api_item(61), items, "2026-08-01T00:00:00Z")
+    fetch_mfds.save_sync("20260820", {"Clonazepam"})
+    searched_terms: list[str] = []
+
+    def respond(url, params=None, retries=3):
+        params = params or {}
+        if url == fetch_mfds.HISTORY_URL:
+            return b"<html></html>"
+        if "start_change_date" in params:
+            return envelope({"totalCount": "0"})
+        searched_terms.append(params.get("main_item_ingr") or params.get("item_name"))
+        if params.get("item_name") == "포시가정":
+            return envelope({"totalCount": "1", "items": [
+                api_item(70, ITEM_NAME="포시가정", MAIN_ITEM_INGR="[M4]다파글리플로진프로판디올수화물"),
+            ]})
+        return envelope({"totalCount": "0"})
+
+    monkeypatch.setattr(fetch_mfds, "http_get", respond)
+    assert fetch_mfds.main([]) == 0
+
+    assert "Clonazepam" not in searched_terms  # 이미 본 검색어는 재검색하지 않는다
+    assert "Dapagliflozin" in searched_terms
+    sync = json.loads(fetch_mfds.SYNC_PATH.read_text(encoding="utf-8"))
+    assert set(sync["seen_heads"]) == {"Clonazepam", "Dapagliflozin"}
+    assert (items / "70.json").exists()
+
+
+def test_incremental_change_feed_failure_exits_nonzero(monkeypatch, tmp_path):
+    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
+    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
+        tmp_path / "normalized", ["Clonazepam 경구제"],
+    ))
+    items = tmp_path / "items"
+    items.mkdir()
+    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
+    fetch_mfds.merge_item(api_item(61), items, "2026-08-01T00:00:00Z")
+    fetch_mfds.save_sync("20260820", {"Clonazepam"})
+
+    def respond(url, params=None, retries=3):
+        if "start_change_date" in (params or {}):
+            raise RuntimeError("MFDS API 오류: 코드=01, 메시지=System Error!!")
+        return envelope({"totalCount": "0"})
 
     monkeypatch.setattr(fetch_mfds, "http_get", respond)
     import contextlib, io
