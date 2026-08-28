@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801490",
+ "item_name": "가스콘액(시메티콘)",
+ "entp_name": "(주)텔콘알에프제약",
+ "permit_date": "20180404",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223083]시메티콘",
+ "main_item_ingr_eng": "Simethicone",
+ "edi_code": "",
+ "atc_code": "A03AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801490",
+ "revisions": [
+  {
+   "revision_id": "201801490-80fe25d8",
+   "content_sha256": "80fe25d8800848622d1aef0840fdede56e609545a0f677f2defde00caefaf14e",
+   "ee_text": "1. 주효능 ㆍ 효과 1) 위내시경 검사 시 장내기포제거 2) 복부(배부분) X선 촬영 시 장내가스제거 3) 위장관내 가스로 인한 복부 증상(복부(배부분)팽만감, 공기연하증(공기삼킴증) 등)의 개선",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2018-04-04"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200709409",
+ "item_name": "판아막스정(수출용)(수출명:디드판크리콘정)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20070809",
+ "cancel_date": "20240429",
+ "status": "취하",
+ "main_item_ingr": "[M227778]디메티콘|[M040678]판크레아틴",
+ "main_item_ingr_eng": "Dimethicone/Pancreatin",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709409",
+ "revisions": [
+  {
+   "revision_id": "200709409-5eaf905f",
+   "content_sha256": "5eaf905f6f12526b327f8e7a9ad22967d55cf12e32eb260130a61452ebc34080",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 식체(위체), 소화촉진, 소화불량으로 인한 위부팽만감, 가스제거",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:14Z",
+   "last_observed_at": "2026-08-28T13:24:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:14Z"
+}

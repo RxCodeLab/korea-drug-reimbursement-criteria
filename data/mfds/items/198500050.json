@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500050",
+ "item_name": "이노엔비타메진캡슐",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "19850716",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096428]벤포티아민|[M204304]피리독신염산염|[M096429]시아노코발라민",
+ "main_item_ingr_eng": "Benfotiamine/Cyanocobalamin/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11DB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500050",
+ "revisions": [
+  {
+   "revision_id": "198500050-12bc6917",
+   "content_sha256": "12bc6917a4f181c36153b9643473d4585d11a26df5271db0282afae715eb6344",
+   "ee_text": "신경통, 근육통, 관절통(요통, 어깨결림 등), 각기, 눈의 피로, 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 육체피로, 임신·수유기, 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시",
+   "ee_doc_id": "30",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z",
+   "official_revision_date": "2021-10-08"
+  },
+  {
+   "revision_id": "198500050-6c7f8dc5",
+   "content_sha256": "6c7f8dc587c0215a0749ed6284615bd76972b92e0ba4932fbfd19c9b9b6ea2e2",
+   "ee_text": "신경통, 근육통, 관절통(요통, 어깨결림 등), 눈의 피로 육체피로, 임신·수유기, 병중·병후의 체력저하시",
+   "ee_doc_id": "19",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:40Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507099",
+ "item_name": "제미메트서방정50/500밀리그램",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20151012",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254878]제미글립틴타르타르산염1.5수화물|[M223014]메트포르민염산염",
+ "main_item_ingr_eng": "Gemigliptin Tartrate Sesquihydrate/Metformin Hydrochloride",
+ "edi_code": "668902990",
+ "atc_code": "A10BD18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507099",
+ "revisions": [
+  {
+   "revision_id": "201507099-8916e88f",
+   "content_sha256": "8916e88f608bede28ddce53dcfa7e8a1c454c0e209ccced9a4d53c7f6f74c53e",
+   "ee_text": "이 약은 제미글립틴과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법 보조제로 투여한다.",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201507099/EE",
+   "first_observed_at": "2026-08-28T13:24:45Z",
+   "last_observed_at": "2026-08-28T13:24:45Z"
+  },
+  {
+   "revision_id": "201507099-e8f69eb3",
+   "content_sha256": "e8f69eb3e8ec3c642a54fe8b086addbe9fbe533d545add61a62086f608a8de92",
+   "ee_text": "이 약은 제미글립틴과 메트포르민의 병용투여가 적절한 성인 제2형 당뇨병 환자의 혈당조절을 개선시키기 위해 식사요법 및 운동요법의 보조제로서 투여한다. - 이전 당뇨병 약물치료를 받은 경험이 없으며 단독요법으로 충분한 혈당조절이 어려운 환자 - 제미글립틴과 메트포르민 병용요법을 대체하는 경우",
+   "ee_doc_id": "31",
+   "official_revision_date": "2021-05-14",
+   "first_observed_at": "2026-08-28T13:24:45Z",
+   "last_observed_at": "2026-08-28T13:24:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:45Z"
+}

@@ -12,15 +12,15 @@
  "edi_code": "653301220",
  "atc_code": "B03XA08",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300884",
+ "history_fetched_at": "2026-08-27T13:46:59Z",
  "revisions": [
   {
    "revision_id": "202300884-89ef12e7",
    "content_sha256": "89ef12e7f96f2d22e74e5ef92a35c52e80154c9387e7ae23b3f78ad1ac4abf34",
    "ee_text": "투석을 받고 있는 만성 신질환 성인 환자의 증후성 빈혈 치료",
-   "ee_doc_id": "6",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202300884/EE",
    "first_observed_at": "2026-08-27T13:46:59Z",
-   "last_observed_at": "2026-08-27T13:46:59Z",
-   "official_revision_date": "2024-04-03"
+   "last_observed_at": "2026-08-28T13:25:33Z"
   },
   {
    "revision_id": "202300884-8c8f8a20",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:46:59Z",
    "last_observed_at": "2026-08-27T13:46:59Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:46:59Z"
+ ]
 }

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008428",
+ "item_name": "에버포스정",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "20201202",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222530]L-이소류신|[M103060]L-트레오닌|[M204442]L-페닐알라닌|[M214274]L-트리프토판|[M222998]L-리신염산염|[M223095]L-아르기닌염산염|[M209360]L-발린|[M218567]L-메티오닌|[M222531]L-류신|[M223262]티아민질산염|[M223239]토코페롤숙시네이트칼슘|[M040133]리보플라빈|[M040064]니코틴산아미드|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "L-Arginine Hydrochloride/L-Isoleucine/L-Leucine/L-Lysine Hydrochloride/L-Methionine/L-Phenylalanine/L-Threonine/L-Tryptophan/L-Valine/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate/Tocopherol Calcium Succinate",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008428",
+ "revisions": [
+  {
+   "revision_id": "202008428-5ae03eb0",
+   "content_sha256": "5ae03eb0e3f8c191efaf9bfdd05b261addbc8bbc86595c7c0ce1b4cf3d901389",
+   "ee_text": "자양강장, 허약체질, 육체피로, 병중병후, 위장장애, 영양장애, 발열성소모질환, 임신수유기 등의 경우의 영양보급.",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:25:22Z",
+   "last_observed_at": "2026-08-28T13:25:22Z",
+   "official_revision_date": "2022-08-30"
+  },
+  {
+   "revision_id": "202008428-fa6afbbb",
+   "content_sha256": "fa6afbbb0b13cbfd81576504f8f635f04cb08a3ae95fa944dce6727c2e785105",
+   "ee_text": "자양강장, 허약체질, 육체피로, 병중병후, 위장장해, 영양장해, 발열성소모질환, 임신수유기 등의 경우의 영양보급.",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-12-02",
+   "first_observed_at": "2026-08-28T13:25:22Z",
+   "last_observed_at": "2026-08-28T13:25:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:22Z"
+}

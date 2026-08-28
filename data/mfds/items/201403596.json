@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403596",
+ "item_name": "일양바이오아세틸시스테인과립200밀리그램",
+ "entp_name": "일양바이오팜(주)",
+ "permit_date": "20140801",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050972]아세틸시스테인",
+ "main_item_ingr_eng": "Acetylcysteine",
+ "edi_code": "696601011",
+ "atc_code": "R05CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403596",
+ "revisions": [
+  {
+   "revision_id": "201403596-d8c1c9d2",
+   "content_sha256": "d8c1c9d2f49c36f37dc326af0ca04382b1e048e53078de8f672d6ab1ddc7e8f5",
+   "ee_text": "(캡슐제)(과립제)(시럽제) 다음 질환에서의 객담배출곤란 : 급·만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201403596/EE",
+   "first_observed_at": "2026-08-28T13:24:37Z",
+   "last_observed_at": "2026-08-28T13:24:37Z"
+  },
+  {
+   "revision_id": "201403596-06e627d8",
+   "content_sha256": "06e627d87744db12ad93e2a04260ac67962369b047df4a147b77f7d035eda567",
+   "ee_text": "1) 다음 질환에서의 객담배출곤란 : 급·만성기관지염, 기관지확장증, 천식성기관지염, 기관지천식, 세기관지염, 낭성섬유증 2) 인·후두염, 부비강염, 삼출성 및 장액성중이염",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:37Z",
+   "last_observed_at": "2026-08-28T13:24:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:37Z"
+}

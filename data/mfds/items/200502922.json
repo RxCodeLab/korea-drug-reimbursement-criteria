@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502922",
+ "item_name": "새솔크림",
+ "entp_name": "(주)시어스제약",
+ "permit_date": "20050513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203915]클로르헥시딘염산염|[M202582]D-판테놀",
+ "main_item_ingr_eng": "Chlorhexidine Hydrochloride/Dexpanthenol",
+ "edi_code": "",
+ "atc_code": "D08AC52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502922",
+ "revisions": [
+  {
+   "revision_id": "200502922-aa62fac2",
+   "content_sha256": "aa62fac20f57b0cb464c6e9972c2c66b19d9899c9efb4831ff2cc948ed9dca31",
+   "ee_text": "- 감염위험이 있는 다음과 같은 형태의 상처 : 찰과상 (긁힌 상처), 베인 상처, 찢긴 상처, 화상, 피부염 - 만성상처 : 다리궤양, 욕창 - 이차감염된 습진, 만성단순태선(신경피부염)과 같은 피부감염증 - 수유기 동안의 유두균열(갈라짐) - 소수술 : 피부손상, 수술상처",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:08Z",
+   "last_observed_at": "2026-08-28T13:24:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:08Z"
+}

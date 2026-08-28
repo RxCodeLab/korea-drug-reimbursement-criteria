@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002848",
+ "item_name": "캐롤키즈노즈시럽",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20200422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203364]슈도에페드린염산염|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01BA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002848",
+ "revisions": [
+  {
+   "revision_id": "202002848-32da3b0e",
+   "content_sha256": "32da3b0e23850b0c2a48ad7ddb75fd7ee647984cbb7f2cce2e69b32bad4dcc47",
+   "ee_text": "다음 증상의 일시적완화 : 눈의가려움, 눈물, 콧물, 코 또는 인후(목구멍)의가려움, 재채기, 코막힘 및 부비동 울혈",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:17Z",
+   "last_observed_at": "2026-08-28T13:25:17Z",
+   "official_revision_date": "2020-04-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:17Z"
+}

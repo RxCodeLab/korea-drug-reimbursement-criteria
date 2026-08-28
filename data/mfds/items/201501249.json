@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501249",
+ "item_name": "무조멘액",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20150310",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279284]L-멘톨|[M040131]리도카인|[M051499]크로타미톤|[M051543]클로트리마졸",
+ "main_item_ingr_eng": "Clotrimazole/Crotamiton/L-Menthol/Lidocaine",
+ "edi_code": "",
+ "atc_code": "D01AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501249",
+ "revisions": [
+  {
+   "revision_id": "201501249-4a196b2a",
+   "content_sha256": "4a196b2a80dc2aeb39962bf101a0a282af9157ac366e29735e1c79e5d41ea4fd",
+   "ee_text": "무좀, 완선(사타구니백선), 체부백선",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-28T13:24:41Z",
+   "last_observed_at": "2026-08-28T13:24:41Z",
+   "official_revision_date": "2024-11-11"
+  },
+  {
+   "revision_id": "201501249-3e2a151a",
+   "content_sha256": "3e2a151a24ddc7d6a5ae466f577df8066bbf0acc75fc10c286ed5c79ed68bd1f",
+   "ee_text": "무좀, 완선, 체부백선",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:41Z",
+   "last_observed_at": "2026-08-28T13:24:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:41Z"
+}

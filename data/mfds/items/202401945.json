@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401945",
+ "item_name": "원광이부프로펜정400밀리그램(이부프로펜)",
+ "entp_name": "원광제약(주)",
+ "permit_date": "20240813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜",
+ "main_item_ingr_eng": "Ibuprofen",
+ "edi_code": "",
+ "atc_code": "M01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401945",
+ "revisions": [
+  {
+   "revision_id": "202401945-afc61d86",
+   "content_sha256": "afc61d8622263a23002f4f50d59a5d4aa0bbb1f611fdf349832f2fa9a6cd1895",
+   "ee_text": "(경구) 1. 주효능 효과 류마티양 관절염, 연소성 류마티양 관절염, 골관절염(퇴행성 관절질환), 감기로 인한 발열 및 동통, 요통, 월경곤란증, 수술후 동통 2. 다음 질환에도 사용할 수 있다. 강직성 척추염, 두통, 치통, 근육통, 신경통, 급성통풍, 건선성 관절염, 연조직손상(염좌, 좌상), 비관절 류마티스질환(건염, 건초염, 활액낭염) (좌제) 1. 주효능 효과 어린이 급성 상기도염의 발열",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:36Z",
+   "last_observed_at": "2026-08-28T13:25:36Z",
+   "official_revision_date": "2024-08-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:36Z"
+}

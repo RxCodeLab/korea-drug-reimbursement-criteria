@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800764",
+ "item_name": "클라빅신듀오캡슐75/75밀리그램",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "20180208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040355]아스피린|[M250716]클로피도그렐황산염",
+ "main_item_ingr_eng": "Aspirin/Clopidogrel Bisulfate",
+ "edi_code": "644309220",
+ "atc_code": "B01AC30",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800764",
+ "revisions": [
+  {
+   "revision_id": "201800764-61dd8bfb",
+   "content_sha256": "61dd8bfbe8cb2117219af9edbd5989eb2f160ffbb67ce8ddd1a89c5ec209a698",
+   "ee_text": "다음 질환이 있는 성인 환자에서 클로피도그렐과 아스피린을 동시에 투여하여야 하는 환자에만 사용한다. - 급성관상동맥증후군[불안정성 협심증 또는 비Q파 심근경색 환자에 있어서, 약물치료 또는 관상중재시술(PCI)(stent 시술을 하거나 하지 않은 경우) 및 관상동맥회로우회술(CABG)을 받았거나 받을 환자를 포함]이 있는 환자에서 죽상동맥경화성 증상(심혈관계 이상으로 인한 사망, 심근경색, 뇌졸중 또는 불응성 허혈)의 개선 - 한 가지 이상의 혈관성 위험인자를 가지고 있고, 비타민 K 길항제(VKA) 투여가 적합하지 않으며, 출혈 위험이 낮은 심방세동 환자에서 뇌졸중을 포함한 죽상혈전증 및 혈전색전증의 위험성 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2018-02-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

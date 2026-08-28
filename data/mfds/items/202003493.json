@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003493",
+ "item_name": "뉴도바서방캡슐",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20200514",
+ "cancel_date": "20240911",
+ "status": "취하",
+ "main_item_ingr": "[M203364]슈도에페드린염산염|[M085337]에바스틴",
+ "main_item_ingr_eng": "Ebastine/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01BA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003493",
+ "revisions": [
+  {
+   "revision_id": "202003493-a0a66e3b",
+   "content_sha256": "a0a66e3b88e3c51a8948b35a27981cc5887cf8e68358c0b19b0e7e593aa3ddce",
+   "ee_text": "혈관운동성, 알러지성 비염 및 감기에 관련된 비염 증상의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:18Z",
+   "last_observed_at": "2026-08-28T13:25:18Z",
+   "official_revision_date": "2020-05-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:18Z"
+}

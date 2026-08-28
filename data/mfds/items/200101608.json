@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101608",
+ "item_name": "콜대원키즈노즈시럽",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20010111",
+ "cancel_date": "20230925",
+ "status": "취하",
+ "main_item_ingr": "[M222724]페닐레프린염산염|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/Phenylephrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01BA53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101608",
+ "revisions": [
+  {
+   "revision_id": "200101608-dbd6cc8b",
+   "content_sha256": "dbd6cc8b142ddd9bc4b757eb306e47745aa86364a891321a5b78392759205495",
+   "ee_text": ": 재채기, 콧물, 코막힘, 눈물",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

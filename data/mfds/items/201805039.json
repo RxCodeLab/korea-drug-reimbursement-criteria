@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805039",
+ "item_name": "크리프렙액",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20181212",
+ "cancel_date": "20250328",
+ "status": "취하",
+ "main_item_ingr": "[M239921]무수황산마그네슘|[M040806]황산칼륨|[M257776]무수황산나트륨",
+ "main_item_ingr_eng": "Anhydrous Magnesium Sulfate/Anhydrous Sodium Sulfate/Potassium Sulfate",
+ "edi_code": "",
+ "atc_code": "A06AD10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805039",
+ "revisions": [
+  {
+   "revision_id": "201805039-527f4018",
+   "content_sha256": "527f401886872b5b7b406924d6ea8616ac52018eccf79f9e07571848e81eaedd",
+   "ee_text": "대장(X선, 내시경)검사 시의 전처치용 장세척 (변비치료 목적으로 사용하지 않도록 한다.)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:02Z",
+   "last_observed_at": "2026-08-28T13:25:02Z",
+   "official_revision_date": "2018-12-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:02Z"
+}

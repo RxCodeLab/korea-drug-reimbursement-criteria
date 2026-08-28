@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200712401",
+ "item_name": "아락실큐정",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20071113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M223167]우르소데옥시콜산|[M090093]작약엑스산|[M081950]도큐세이트나트륨|[M050687]비사코딜",
+ "main_item_ingr_eng": "Bisacodyl/Calcium Pantothenate/Docusate Sodium/Peony Root Extract Powder/Pyridoxine Hydrochloride/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712401",
+ "revisions": [
+  {
+   "revision_id": "200712401-c0859391",
+   "content_sha256": "c08593917699e1b1b556e935000dac8df6068af40a546792099cea153c3d08a2",
+   "ee_text": ": 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:24:15Z",
+   "last_observed_at": "2026-08-28T13:24:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:15Z"
+}

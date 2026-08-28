@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005710",
+ "item_name": "경방향성파적환엑스과립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000929",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040073]대황|[M040198]박하|[M040350]아선약|[M050005]가자|[M040550]천궁|[M095260]사인|[M040006]감초|[M040048]길경|[M051105]연교",
+ "main_item_ingr_eng": "Amomum Fruit/Cnidium Rhizome/Forsythia Fruit/Gambir/Licorice/Mentha Herb/Platycodon Root/Rhubarb/Terminalia Fruit",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005710",
+ "revisions": [
+  {
+   "revision_id": "200005710-c12c29f3",
+   "content_sha256": "c12c29f344e10cb917230c709b88b2daf55118bc8d64ccca4f7ad4f8660112f1",
+   "ee_text": "쉰 목소리, 인후(목구멍)불쾌감",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z",
+   "official_revision_date": "2019-09-20"
+  },
+  {
+   "revision_id": "200005710-e32130dc",
+   "content_sha256": "e32130dc0a150f7f7019ac261927610a226cb5ea10dcf5c48ab2cb6165be22e6",
+   "ee_text": "쉰 목소리, 인후불쾌감",
+   "ee_doc_id": "8",
+   "official_revision_date": "2009-04-30",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:57Z"
+}

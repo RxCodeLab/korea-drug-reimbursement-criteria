@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201708",
+ "item_name": "메가소프크림(프레드니솔론발레로아세테이트)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20020307",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M249662]프레드니솔론발레로아세테이트",
+ "main_item_ingr_eng": "Prednisolone Valeroacetate",
+ "edi_code": "",
+ "atc_code": "D07AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201708",
+ "revisions": [
+  {
+   "revision_id": "200201708-27da6e53",
+   "content_sha256": "27da6e532b16030924291997a90b5e23e545ff285ca21a6e975d4ff38713b01c",
+   "ee_text": "습진ㆍ피부염군(진행성 지장각피증, 만성단순태선 포함), 양진군(구진두드러기 포함), 벌레물린데, 건선, 손ㆍ발바닥농포증",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2017-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

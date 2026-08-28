@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198400728",
+ "item_name": "신텍스계지탕엑스과립",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "19841210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050037]계지|[M040523]작약|[M040071]대추|[M050752]생강|[M040006]감초",
+ "main_item_ingr_eng": "Cinnamomi Ramulus/Jujube/Licorice/Peony Root/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400728",
+ "revisions": [
+  {
+   "revision_id": "198400728-7fd6fe71",
+   "content_sha256": "7fd6fe71b8b0492f8d0a82dcb8dbf80b41604ad1bbd7ddd74cb5a6c2a8a90231",
+   "ee_text": "체력이 쇠했을 때의 감기 초기",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:39Z"
+}

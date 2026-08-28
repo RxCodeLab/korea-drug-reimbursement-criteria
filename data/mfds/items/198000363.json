@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000363",
+ "item_name": "한신산조인탕엑스과립",
+ "entp_name": "(주)한국신약",
+ "permit_date": "19800829",
+ "cancel_date": "20231001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040006]감초|[M040007]건강|[M040225]복령|[M040550]천궁|[M040535]지모|[M040139]맥문동|[M040259]산조인",
+ "main_item_ingr_eng": "Anemarrhena Rhizome/Cnidium Rhizome/Ginger/Licorice/Liriope Tuber/Poria/Zizyphus Seed",
+ "edi_code": "",
+ "atc_code": "N05CM",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000363",
+ "revisions": [
+  {
+   "revision_id": "198000363-411199cf",
+   "content_sha256": "411199cf5fdf40c21796b8460c41e18fdde472ee2ea4a8ecc0790fb12622bf23",
+   "ee_text": "심신이 피로하고 허약하여 잠을 자지 못하는 경우",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:38Z"
+}

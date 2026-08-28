@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201607126",
+ "item_name": "메디퀵스프레이",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20161216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051499]크로타미톤|[M279284]L-멘톨|[M249662]프레드니솔론발레로아세테이트|[M223254]티몰",
+ "main_item_ingr_eng": "Crotamiton/L-Menthol/Prednisolone Valeroacetate/Thymol",
+ "edi_code": "",
+ "atc_code": "D07CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607126",
+ "revisions": [
+  {
+   "revision_id": "201607126-c6f35182",
+   "content_sha256": "c6f35182fef0ccb0241fb8367d26855239a4baea70d66867efaf7d1fad9ea3fb",
+   "ee_text": "습진, 피부염, 가려움, 두드러기, 땀띠, 벌레물린데",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:24:54Z",
+   "last_observed_at": "2026-08-28T13:24:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:54Z"
+}

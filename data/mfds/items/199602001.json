@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199602001",
+ "item_name": "일심삼황지출환",
+ "entp_name": "일심제약",
+ "permit_date": "19960205",
+ "cancel_date": "20251202",
+ "status": "폐업",
+ "main_item_ingr": "[M040536]지실|[M040538]진피|[M040214]백출|[M050891]신곡|[M040073]대황|[M040792]황련|[M040789]황금",
+ "main_item_ingr_eng": "Atractylodes Rhizome White/Citrus Unshiu Peel/Coptis Rhizome/Massa Medicata Fermentata/Poncirus Immature Fruit/Rhubarb/Scutellaria Root",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602001",
+ "revisions": [
+  {
+   "revision_id": "199602001-26900168",
+   "content_sha256": "2690016853e1fc0359d02e85539a4aa1bb8f1bc0397b2ad3fdefc1ac31b473e7",
+   "ee_text": "육체(肉滯)로 인한 위부불쾌감",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:23:47Z",
+   "last_observed_at": "2026-08-28T13:23:47Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:47Z"
+}

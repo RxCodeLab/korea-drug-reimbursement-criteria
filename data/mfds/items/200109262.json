@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109262",
+ "item_name": "조겔어덜트진지발겔(리도카인)",
+ "entp_name": "신원덴탈(주)",
+ "permit_date": "20011210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "658300050",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109262",
+ "revisions": [
+  {
+   "revision_id": "200109262-2dac3e5c",
+   "content_sha256": "2dac3e5c85fb430849650c4280f9a8b0aba6e2574ca834389b443784fac3dfec",
+   "ee_text": "다음과 같은 구강점막의 국소마취 -침윤마취 -치관 및 가공의치의 절단 및 설치 -잇몸근처 및 잇몸하 스켈링",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:59Z",
+   "last_observed_at": "2026-08-28T13:23:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:59Z"
+}

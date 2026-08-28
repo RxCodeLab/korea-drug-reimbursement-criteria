@@ -12,15 +12,15 @@
  "edi_code": "652001361",
  "atc_code": "L04AG06",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404799",
+ "history_fetched_at": "2026-08-27T11:06:49Z",
  "revisions": [
   {
    "revision_id": "201404799-9ac411bd",
    "content_sha256": "9ac411bd6467d0a59012b74b4989ec474d6761fb5dddbaec6eff93c07641993b",
    "ee_text": "다음의 조건을 가진 고활동성 재발 완화형 다발성 경화증 성인 환자에 대한 단독요법 - 한 가지 이상의 질병 조절 치료제로 적절하게 치료했음에도 불구하고 고활동성을 보이는 환자, 또는 - 1년에 2회 이상 기능적 손상을 동반한 재발을 보이는 빠르게 진행하는 중증의 재발 완화형 다발성 경화증 환자 및 최근의 뇌 MRI 측정 결과와 비교했을 때 1개 이상의 가돌리늄(Gadolinium) 증강 병변이 있거나 T2 병변의 현저한 증가가 있는 환자",
-   "ee_doc_id": "23",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201404799/EE",
    "first_observed_at": "2026-08-27T11:06:49Z",
-   "last_observed_at": "2026-08-27T11:06:49Z",
-   "official_revision_date": "2021-04-09"
+   "last_observed_at": "2026-08-28T13:24:38Z"
   },
   {
    "revision_id": "201404799-a826e24a",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T11:06:49Z",
    "last_observed_at": "2026-08-27T11:06:49Z"
   }
- ],
- "history_fetched_at": "2026-08-27T11:06:49Z"
+ ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401046",
+ "item_name": "로얄코티크림",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20040715",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200412]로얄젤리|[M101579]히드로코르티손",
+ "main_item_ingr_eng": "Hydrocortisone/Royal Jelly",
+ "edi_code": "",
+ "atc_code": "D07XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401046",
+ "revisions": [
+  {
+   "revision_id": "200401046-ac7e5e31",
+   "content_sha256": "ac7e5e318d351d2059c141da025f50c4da7a55e25304a58a911eaa2430016501",
+   "ee_text": "알레르기 피부염, 화장독, 땀띠, 가려움, 접촉피부염(기저귀발진), 면도 자극, 피부 거칠어짐 방지",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:04Z",
+   "last_observed_at": "2026-08-28T13:24:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:04Z"
+}

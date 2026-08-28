@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806671",
+ "item_name": "카이잘액(레보세티리진염산염)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20080618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244596]레보세티리진염산염",
+ "main_item_ingr_eng": "Levocetirizine Hydrochloride",
+ "edi_code": "649602911",
+ "atc_code": "R06AE09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806671",
+ "revisions": [
+  {
+   "revision_id": "200806671-61ce5d0e",
+   "content_sha256": "61ce5d0e15d258dc443eeb735e94af3a18942cfc2c4d4f554edbf10891b1f902",
+   "ee_text": "다음 질환의 증상 완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200806671/EE",
+   "first_observed_at": "2026-08-28T13:24:17Z",
+   "last_observed_at": "2026-08-28T13:24:17Z"
+  },
+  {
+   "revision_id": "200806671-c19f6e0e",
+   "content_sha256": "c19f6e0e1a282646eae79066eb4cf643f20ddbca8eec5c8d1956c871dca8a7e0",
+   "ee_text": "다음 질환의 증상 완화 성인 및 6세 이상의 소아에 한함",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:17Z",
+   "last_observed_at": "2026-08-28T13:24:17Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:17Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199102581",
+ "item_name": "사노바스프레이(리도카인)(수출명:노보틱스스프레이(NOVOTIXSpray))",
+ "entp_name": "명문제약(주)",
+ "permit_date": "19910501",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199102581",
+ "revisions": [
+  {
+   "revision_id": "199102581-8f9c5fdf",
+   "content_sha256": "8f9c5fdf4049d15342d5cde0c02694561ce94478b9c745a4b0b355142074116c",
+   "ee_text": "1. 치과 영역 : 주사전, 치과 인상(dental impressions), X-선 촬영, 치석 제거 2. 이비인후과 영역 : 상악동 천자, 비강, 인두 및 상인두의 간단한 외과적 처치, 천자술 3. 호흡기 및 소화기관에 기구 및 카테터 삽입시 : 기관내 튜브삽입, 후두경, 기관경 및 식도경 4. 산부인과 영역 : 분만최종단계, 외음절개술 및 회음봉합술 전의 진통 보조",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:44Z",
+   "last_observed_at": "2026-08-28T13:23:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:44Z"
+}

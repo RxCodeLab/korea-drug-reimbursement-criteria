@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198601074",
+ "item_name": "알시돌정(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "19860506",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M084888]알루미늄-마그네슘-실리코폴리하이드레이트|[M050855]시메치콘|[M040634]침강탄산칼슘",
+ "main_item_ingr_eng": "Precipitated Calcium Carbonate/Simaldrate/Simethicone",
+ "edi_code": "",
+ "atc_code": "A02AF",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198601074",
+ "revisions": [
+  {
+   "revision_id": "198601074-4b7026c6",
+   "content_sha256": "4b7026c6d1bf561295c93a02f635ab966965555893aeca20ae4e5cc3197b1ff8",
+   "ee_text": "위산과다(위염, 위ㆍ십이지장궤양에 관련된 것도 포함), 속쓰림, 위부불쾌감, 위부팽만감, 식체(위체), 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:40Z"
+}

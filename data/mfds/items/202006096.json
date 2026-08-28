@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006096",
+ "item_name": "메가삼백정",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20200901",
+ "cancel_date": "20250901",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M096428]벤포티아민|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Benfotiamine/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11DB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006096",
+ "revisions": [
+  {
+   "revision_id": "202006096-4b4a8c6a",
+   "content_sha256": "4b4a8c6a8f856c1365d5e5c00189617e93048b2cf0d19310be8db3439bea389f",
+   "ee_text": "비타민 B 1 및 B 6 결핍으로 인한 신경계 질환",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z",
+   "official_revision_date": "2020-09-01"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:21Z"
+}

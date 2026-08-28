@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "N05CH01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303144",
+ "history_fetched_at": "2026-08-27T13:25:11Z",
  "revisions": [
   {
    "revision_id": "202303144-d0a798e1",
    "content_sha256": "d0a798e1672e2eb49f716f93dbf7ace3404dd67d0dc3bc5e7a716d0e9aa94c5a",
    "ee_text": "1. 수면 위생 개선으로 증상이 호전되지 않은 자폐스펙트럼 장애 및/또는 멜라토닌 분비 이상 및/또는 야간 각성을 동반한 신경유전학적 장애(스미스-마제니스 증후군, 엔젤만 증후군, 레트 증후군, 결절성 경화증, 윌리엄스 증후군)를 가진 2-18세 소아 및 청소년의 불면증 치료 2. 수면 위생 개선으로 증상이 호전되지 않은 주의력결핍 과잉행동장애(ADHD)를 가진 6세~17세 소아 및 청소년의 불면증 치료",
-   "ee_doc_id": "12",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202303144/EE",
    "first_observed_at": "2026-08-27T13:25:11Z",
-   "last_observed_at": "2026-08-27T13:25:11Z",
-   "official_revision_date": "2026-07-28"
+   "last_observed_at": "2026-08-28T13:25:35Z"
   },
   {
    "revision_id": "202303144-88b38231",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:25:11Z",
    "last_observed_at": "2026-08-27T13:25:11Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:25:11Z"
+ ]
 }

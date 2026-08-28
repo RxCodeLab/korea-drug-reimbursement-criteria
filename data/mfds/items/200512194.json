@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200512194",
+ "item_name": "멘타쿨카타플라스마(엘멘톨)(수출용)(수출명:별첨)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20050728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279284]L-멘톨",
+ "main_item_ingr_eng": "L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512194",
+ "revisions": [
+  {
+   "revision_id": "200512194-5904c91a",
+   "content_sha256": "5904c91ae7e4ad04ee0389bd84fe31f27e6517bf2b09b60c54bf73227932cb33",
+   "ee_text": ": 근육통, 타박상, 삠, 염좌, 관절염",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:09Z"
+}

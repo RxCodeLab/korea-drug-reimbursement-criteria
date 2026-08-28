@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000239",
+ "item_name": "해소민에스캡슐",
+ "entp_name": "지엘파마(주)",
+ "permit_date": "20200115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222957]덱스트로메토르판브롬화수소산염수화물|[M270039]dl-메틸에페드린염산염|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate",
+ "edi_code": "",
+ "atc_code": "R05FA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000239",
+ "revisions": [
+  {
+   "revision_id": "202000239-da6ae941",
+   "content_sha256": "da6ae941bfe4a46693189cf70b524d3fd9a3cebea6e5f19f12abf6f835dc98da",
+   "ee_text": "기침, 가래",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202000239/EE",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z"
+  },
+  {
+   "revision_id": "202000239-78dd308e",
+   "content_sha256": "78dd308e0cabff9495a553cd7e6646318532bf70f886bda2821e2f6252f7b915",
+   "ee_text": "기침, 가래, 천식",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-01-15",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

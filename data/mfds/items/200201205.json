@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201205",
+ "item_name": "이노엔도부타민프리믹스100㎎주",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20020112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M044300]포도당일수화물|[M222834]도부타민염산염",
+ "main_item_ingr_eng": "Dobutamine Hydrochloride/Glucose Monohydrate",
+ "edi_code": "640001500",
+ "atc_code": "C01CA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201205",
+ "revisions": [
+  {
+   "revision_id": "200201205-d585419d",
+   "content_sha256": "d585419d073449814c64eb2cecfbcb7135a046f4c58c43b1e77fa67c9f087b3a",
+   "ee_text": "심장질환이나 심장수술로 인해 수축력이 저하된 심부전증의 단기치료시 심박출력 증가.",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801011",
+ "item_name": "소보민시럽",
+ "entp_name": "삼익제약(주)",
+ "permit_date": "20180228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204304]피리독신염산염|[M040064]니코틴산아미드|[M223183]카페인무수물|[M040096]디멘히드리네이트",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Dimenhydrinate/Nicotinamide/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A04AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801011",
+ "revisions": [
+  {
+   "revision_id": "201801011-506bea95",
+   "content_sha256": "506bea95cbfc52294af45440f2cd23c42da7c27fd9641ec2e65aecb2a496ce23",
+   "ee_text": "멀미에 의한 어지러움·구토·두통의 예방 및 완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201801011/EE",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z"
+  },
+  {
+   "revision_id": "201801011-5fdc9e87",
+   "content_sha256": "5fdc9e87a283f136e6c9e0ae0642ed2b737b7d5e3a76b6f240f69c427ad4e0ae",
+   "ee_text": "멀미에 의한 어지러움․구토․두통의 예방 및 완화",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-02-28",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

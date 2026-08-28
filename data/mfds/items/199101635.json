@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199101635",
+ "item_name": "한신월비가출탕엑스과립",
+ "entp_name": "(주)한국신약",
+ "permit_date": "19910308",
+ "cancel_date": "20241001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050752]생강|[M040006]감초|[M040548]창출|[M040279]석고|[M040071]대추|[M040135]마황",
+ "main_item_ingr_eng": "Atractylodes Rhizome/Ephedra Herb/Gypsum Fibrosum/Jujube/Licorice/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "G04BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101635",
+ "revisions": [
+  {
+   "revision_id": "199101635-63057c9e",
+   "content_sha256": "63057c9ea3ccfb0456a3dc682b1f7bdb38e1d75dabb1af00a4c1056b7a35a5a3",
+   "ee_text": "허리 부위 부종, 기침",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z",
+   "official_revision_date": "2009-04-30"
+  },
+  {
+   "revision_id": "199101635-de27eceb",
+   "content_sha256": "de27eceb211549a48d729e1f84cc20e7a5f6734b2f121641d4f57c17fcea4a8a",
+   "ee_text": "1, 2. 습진, 각기에 의한 부종 3-1, 3-2, 4. 허리 위의 부종, 기침",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:43Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200803879",
+ "item_name": "맥코프시럽(딸기향, 바나나향)",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20080408",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050058]구아이페네신|[M222957]덱스트로메토르판브롬화수소산염수화물|[M203364]슈도에페드린염산염|[M050058]구아이페네신|[M222957]덱스트로메토르판브롬화수소산염수화물|[M203364]슈도에페드린염산염",
+ "main_item_ingr_eng": "Dextromethorphan Hydrobromide Hydrate/Guaifenesin/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05FA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803879",
+ "revisions": [
+  {
+   "revision_id": "200803879-dbd0b241",
+   "content_sha256": "dbd0b241be689ae0cbd77178b35f08f12ca2222d5f829e69b4e4fdc8f0a00ab3",
+   "ee_text": "기침, 가래, 콧물, 코막힘, 재채기",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200803879/EE",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z"
+  },
+  {
+   "revision_id": "200803879-ef20770a",
+   "content_sha256": "ef20770a0a401f784e8d8c1e44800d3139eb611205146d791a8b75338af79e6a",
+   "ee_text": "(시럽제)(정제) 기침, 가래, 콧물, 코막힘, 재채기",
+   "ee_doc_id": "19",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:16Z"
+}

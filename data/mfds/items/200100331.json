@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100331",
+ "item_name": "디에취덱스액0.1%",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20011011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040702]포도당|[M227966]아세트산나트륨수화물|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose/Magnesium Chloride/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride",
+ "edi_code": "645101230,645105001",
+ "atc_code": "B05ZA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100331",
+ "revisions": [
+  {
+   "revision_id": "200100331-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "29",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2005-07-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

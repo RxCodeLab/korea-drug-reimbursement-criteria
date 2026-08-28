@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801688",
+ "item_name": "이부페노정",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20180420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜|[M050752]생강|[M040523]작약|[M050036]육계|[M040006]감초",
+ "main_item_ingr_eng": "Cinnamon Bark/Ibuprofen/Licorice/Peony Root/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "M01AE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801688",
+ "revisions": [
+  {
+   "revision_id": "201801688-31f4b409",
+   "content_sha256": "31f4b409f48acc208fd5b39f8b131ae3ceaa6cd41d40c88e09d7f0bcdea0af96",
+   "ee_text": "1) 두통, 치통, 발치(이를 뽑음)후 동통(통증), 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요(허리)통, 근육통, 견통(어깨결림, 어깨통증), 타박통, 골절통, 염좌통(삔 통증), 월경통(생리통), 외상(상처)통의 진통 2) 오한(춥고 떨리는 증상), 발열시의 해열",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2018-04-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

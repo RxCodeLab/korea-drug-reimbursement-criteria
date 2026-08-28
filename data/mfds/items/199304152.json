@@ -12,15 +12,15 @@
  "edi_code": "653600561",
  "atc_code": "L04AD01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199304152",
+ "history_fetched_at": "2026-08-27T12:28:49Z",
  "revisions": [
   {
    "revision_id": "199304152-611b3bef",
    "content_sha256": "611b3bef825be72baf6111360310f058243102f3caa59cdc692a99aa2f621337",
    "ee_text": "1) 신장, 간장, 심장 및 폐복합, 폐 및 췌장의 이인자형 장기이식 거부 반응 예방 2) 다른 면역억제제를 투여중인 환자의 장기이식 거부 반응 치료 1) 조직이식 거부반응 예방 2) 이식편-숙주반응질환(GVHD)의 예방 및 치료",
-   "ee_doc_id": "24",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199304152/EE",
    "first_observed_at": "2026-08-27T12:28:49Z",
-   "last_observed_at": "2026-08-27T12:28:49Z",
-   "official_revision_date": "2023-02-15"
+   "last_observed_at": "2026-08-28T13:23:45Z"
   },
   {
    "revision_id": "199304152-e8a9f5b1",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:28:49Z",
    "last_observed_at": "2026-08-27T12:28:49Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:28:49Z"
+ ]
 }

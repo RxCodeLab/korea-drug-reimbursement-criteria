@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199302106",
+ "item_name": "속엔쿨정",
+ "entp_name": "경동제약(주)",
+ "permit_date": "19931130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040678]판크레아틴|[M100297]셀룰라제|[M268886]우담즙건조엑스|[M227778]디메티콘",
+ "main_item_ingr_eng": "Cellulase/Dimethicone/Ox Bile Dried Extract/Pancreatin",
+ "edi_code": "",
+ "atc_code": "A09AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199302106",
+ "revisions": [
+  {
+   "revision_id": "199302106-faa96ed2",
+   "content_sha256": "faa96ed2643de4c9c73d41b5146a173b469085d1575f700e67576f1feb726f28",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부(상복부)팽만감",
+   "ee_doc_id": "31",
+   "first_observed_at": "2026-08-28T13:23:45Z",
+   "last_observed_at": "2026-08-28T13:23:45Z",
+   "official_revision_date": "2020-04-02"
+  },
+  {
+   "revision_id": "199302106-286238c3",
+   "content_sha256": "286238c3b12d46d86e2ad405992ae10e43fd39d2ee3a5cf7ad3fca20120802ff",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "24",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:45Z",
+   "last_observed_at": "2026-08-28T13:23:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:45Z"
+}

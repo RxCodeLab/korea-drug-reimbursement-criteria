@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008591",
+ "item_name": "바이엘아스피린정500밀리그람",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20000223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040355]아스피린",
+ "main_item_ingr_eng": "Aspirin",
+ "edi_code": "641100070",
+ "atc_code": "N02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008591",
+ "revisions": [
+  {
+   "revision_id": "200008591-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z",
+   "official_revision_date": "2020-11-10"
+  },
+  {
+   "revision_id": "200008591-98329fd8",
+   "content_sha256": "98329fd864c190e1c715639d6600b264a56d3686f0ef4de0e4af87b63539a301",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 감기로 인한 발열 및 동통, 치통, 두통, 월경통, 신경통, 요통, 관절통, 근육통 류마티열, 섬유조직증식증, 수술후 동통, 인후통, 염좌통, 좌골신경통",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:57Z"
+}

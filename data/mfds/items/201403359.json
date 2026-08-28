@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403359",
+ "item_name": "바이타비정",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20140724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223289]폴산|[M096429]시아노코발라민|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Cyanocobalamin/Folic Acid/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403359",
+ "revisions": [
+  {
+   "revision_id": "201403359-bb347e60",
+   "content_sha256": "bb347e60f803cc6cd0dae4da0f3b333a6b79190c70957e70c5da2526d17f17d7",
+   "ee_text": "- 임신 ㆍ 수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력 저하 시 - 이 약에 함유된 비타민 등의 효능᠊효과는 다음과 같다. ㆍ다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:24:36Z",
+   "last_observed_at": "2026-08-28T13:24:36Z",
+   "official_revision_date": "2023-09-06"
+  },
+  {
+   "revision_id": "201403359-ec95627d",
+   "content_sha256": "ec95627d430bf7c74e844d1c58bd97588f34faec3f5494d398b6423c86579126",
+   "ee_text": "- 임신 ㆍ 수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력 저하 시",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:36Z",
+   "last_observed_at": "2026-08-28T13:24:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:36Z"
+}

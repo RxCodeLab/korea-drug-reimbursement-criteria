@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606123",
+ "item_name": "티지페논정(페노피브레이트콜린)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20161016",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256159]페노피브레이트콜린|[M256159]페노피브레이트콜린",
+ "main_item_ingr_eng": "Choline Fenofibrate",
+ "edi_code": "671806320",
+ "atc_code": "C10AB11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606123",
+ "revisions": [
+  {
+   "revision_id": "201606123-39424305",
+   "content_sha256": "39424305c522c786f83b34b1284d74024b72de9cc964e2b377cc3582c40b370f",
+   "ee_text": "원발성고지혈증의 치료: 고콜레스테롤혈증(IIa형), 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(IIb, III형), 고트리글리세라이드혈증 (IV형)",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:53Z",
+   "last_observed_at": "2026-08-28T13:24:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:53Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000510",
+ "item_name": "테보민정",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20200131",
+ "cancel_date": "20250131",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M203437]아미노벤조산에틸|[M223184]카페인수화물|[M223211]클로르페니라민말레산염|[M040064]니코틴산아미드|[M223276]파파베린염산염|[M040133]리보플라빈|[M223258]티아민염산염|[M040061]노회",
+ "main_item_ingr_eng": "Aloe/Caffeine Hydrate/Chlorpheniramine Maleate/Ethyl Aminobenzoate/Nicotinamide/Papaverine Hydrochloride/Riboflavin/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S02D",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000510",
+ "revisions": [
+  {
+   "revision_id": "202000510-b328e791",
+   "content_sha256": "b328e791b0059e243e4123a951d1c5c24d61dc67ad8567992fe571c897d03cfd",
+   "ee_text": "이명증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2020-01-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

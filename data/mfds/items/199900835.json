@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900835",
+ "item_name": "나트릭스서방정(인다파미드)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "19990122",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051280]인다파미드",
+ "main_item_ingr_eng": "Indapamide",
+ "edi_code": "642400040",
+ "atc_code": "C03BA11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900835",
+ "revisions": [
+  {
+   "revision_id": "199900835-6b823363",
+   "content_sha256": "6b8233634184cc29dc41ee35cf12271dd665c7160dbb764b7e7bba8ee099021e",
+   "ee_text": "본태성고혈압",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

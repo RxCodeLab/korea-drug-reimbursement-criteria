@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000118",
+ "item_name": "지펙트세립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20000608",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040279]석고|[M040048]길경",
+ "main_item_ingr_eng": "Gypsum Fibrosum/Platycodon Root",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000118",
+ "revisions": [
+  {
+   "revision_id": "200000118-b97116d6",
+   "content_sha256": "b97116d65111596b6f32542e9298566f34af272c6281070013c299b76f31b084",
+   "ee_text": "기침 또는 화농성 기침",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:23:52Z",
+   "last_observed_at": "2026-08-28T13:23:52Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:52Z"
+}

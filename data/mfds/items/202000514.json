@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000514",
+ "item_name": "탐돌정(트라마돌염산염)(수출용)",
+ "entp_name": "(주)휴비스트제약",
+ "permit_date": "20200131",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255410]트라마돌염산염",
+ "main_item_ingr_eng": "Tramadol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000514",
+ "revisions": [
+  {
+   "revision_id": "202000514-4073688d",
+   "content_sha256": "4073688d8b018448b4cd28cebf448b5688c139d11e10531d537a3b90b61846c3",
+   "ee_text": "중증에서 중증도, 급성 혹은 만성 통증 (예 : 수술 후 또는 부상 후 통증)의 치료 및 예방",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2020-01-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

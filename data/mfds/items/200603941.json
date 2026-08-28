@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603941",
+ "item_name": "멀티빅무칼륨액",
+ "entp_name": "(주)프레제니우스메디칼케어코리아",
+ "permit_date": "20060310",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083749]염화칼슘이수화물|[M102093]염화마그네슘육수화물|[M201934]포도당수화물|[M040426]염화나트륨|[M040631]탄산수소나트륨",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose Hydrate/Magnesium Chloride Hexahydrate/Sodium Bicarbonate/Sodium Chloride",
+ "edi_code": "664300480",
+ "atc_code": "B05ZB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603941",
+ "revisions": [
+  {
+   "revision_id": "200603941-fe4977fa",
+   "content_sha256": "fe4977fac67ab18a4e6f42ea8c5df22d45b543bdf9a2366ef8f13fbd49ce683b",
+   "ee_text": "다음 환자의 지속적 혈액여과 및 혈액투석여과 시 체액대용액으로 사용 및 지속적 혈액투석 및 혈액투석여과 시 투석액으로 사용한다. - 급성 신부전 환자에서 지속적 신대체요법이 필요한 경우 - 여과 또는 투석으로 제거 가능한 수용성 독소로 인한 급성 중독 환자에서 지속적 신대체요법이 필요한 경우 이 액은 특히 고칼륨혈증 환자에게 적용한다.",
+   "ee_doc_id": "24",
+   "first_observed_at": "2026-08-28T13:24:10Z",
+   "last_observed_at": "2026-08-28T13:24:10Z",
+   "official_revision_date": "2021-11-03"
+  },
+  {
+   "revision_id": "200603941-c648b6c3",
+   "content_sha256": "c648b6c341d55c7606067a831371eb90164eda538fef1386f6dede61717a123d",
+   "ee_text": "- 급성 신부전 환자의 연속혈액여과 및 혈액투석여과시 체액대용액으로 사용 - 급성 신부전 환자의 연속혈액투석시 투석액으로 사용 이 액은 특히 고칼륨혈증 환자에게 적용한다.",
+   "ee_doc_id": "19",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:10Z",
+   "last_observed_at": "2026-08-28T13:24:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:10Z"
+}

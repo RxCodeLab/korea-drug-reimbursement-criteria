@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606231",
+ "item_name": "아이수점안액",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20161021",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203443]아미노카프로산|[M223211]클로르페니라민말레산염|[M256386]글리시리진산이칼륨|[M040283]설파메톡사졸",
+ "main_item_ingr_eng": "Aminocaproic Acid/Chlorpheniramine Maleate/Dipotassium Glycyrrhizinate/Sulfamethoxazole",
+ "edi_code": "",
+ "atc_code": "S01CC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606231",
+ "revisions": [
+  {
+   "revision_id": "201606231-ffbe0497",
+   "content_sha256": "ffbe049706b4dec2718747ad0f0fb7542429ca1cd7d8a5a5e7a32d5e9e3d7d53",
+   "ee_text": "결막염(유행성결막염), 다래끼, 눈꺼풀의 짓무름, 눈의 가려움",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:53Z",
+   "last_observed_at": "2026-08-28T13:24:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:53Z"
+}

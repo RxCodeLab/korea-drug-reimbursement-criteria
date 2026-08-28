@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502854",
+ "item_name": "원자력의학원요오드화나트륨(123Ⅰ)주사액",
+ "entp_name": "한국원자력의학원",
+ "permit_date": "20050728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M201432]요오드화나트륨(123I)",
+ "main_item_ingr_eng": "Sodium Iodide (123I)",
+ "edi_code": "692900030",
+ "atc_code": "V09FX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502854",
+ "revisions": [
+  {
+   "revision_id": "200502854-b8fbfe98",
+   "content_sha256": "b8fbfe9852219556ff207668d6ac7a710b08e77be91f13194ae59c4a0eb57203",
+   "ee_text": "· 갑상선 신티그래피에 의한 갑상선질환의 진단 · 갑상선 섭취율에 의한 갑상선 기능의 검사",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:08Z",
+   "last_observed_at": "2026-08-28T13:24:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:08Z"
+}

@@ -12,15 +12,15 @@
  "edi_code": "653602160",
  "atc_code": "L01EA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007692",
+ "history_fetched_at": "2026-08-27T13:38:19Z",
  "revisions": [
   {
    "revision_id": "201007692-6260ef2e",
    "content_sha256": "6260ef2e9957c05b5f3c8415425641fa921bc8fa66eaf2ace1649324e8b30116",
    "ee_text": "이 약의 유효성은 주요분자학적, 세포유전학적 반응률을 근거로 하고 있다. 이 약의 유효성은 세포유전학적, 혈액학적 반응률을 근거로 하고 있다.",
-   "ee_doc_id": "33",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201007692/EE",
    "first_observed_at": "2026-08-27T13:38:19Z",
-   "last_observed_at": "2026-08-27T13:38:19Z",
-   "official_revision_date": "2019-08-20"
+   "last_observed_at": "2026-08-28T13:24:24Z"
   },
   {
    "revision_id": "201007692-92226b33",
@@ -40,6 +40,5 @@
    "first_observed_at": "2026-08-27T13:38:19Z",
    "last_observed_at": "2026-08-27T13:38:19Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:38:19Z"
+ ]
 }

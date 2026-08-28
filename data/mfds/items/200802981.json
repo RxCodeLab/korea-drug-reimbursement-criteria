@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200802981",
+ "item_name": "리만50000엠겔",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20080319",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249378]헤파린나트륨|[M082390]덱스판테놀|[M051015]알란토인",
+ "main_item_ingr_eng": "Allantoin/Dexpanthenol/Heparin Sodium",
+ "edi_code": "",
+ "atc_code": "M02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802981",
+ "revisions": [
+  {
+   "revision_id": "200802981-d5071bbd",
+   "content_sha256": "d5071bbdc83a26bb0c00651e7b6b7a4050d015bb50132349c80c9a8d89503c88",
+   "ee_text": "ㆍ 정맥류에 의한 증상 : 통증, 무거운 느낌, 하지부종, 종아리 근육 경련 ㆍ 사고 또는 스포츠에 의한 둔상 : 혈종, 좌상(멍), 타박상, 긴장, 염좌(삠), 부기, 근육 및 인대의 통증",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:16Z"
+}

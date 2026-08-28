@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502498",
+ "item_name": "아시트과립",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20050420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222530]L-이소류신|[M222531]L-류신|[M209360]L-발린",
+ "main_item_ingr_eng": "L-Isoleucine/L-Leucine/L-Valine",
+ "edi_code": "",
+ "atc_code": "V06B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502498",
+ "revisions": [
+  {
+   "revision_id": "200502498-9d0231fb",
+   "content_sha256": "9d0231fb8d1209614d96066aea5e72fe9f5aac0052859bb3b47037aea14572fc",
+   "ee_text": "식사 섭취량이 많음에도 불구하고 저알부민 혈증을 나타내는 대상부전성 간경변환자의 저알부민 혈증의 개선",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-28T13:24:08Z",
+   "last_observed_at": "2026-08-28T13:24:08Z",
+   "official_revision_date": "2006-02-05"
+  },
+  {
+   "revision_id": "200502498-e8bb9f66",
+   "content_sha256": "e8bb9f66aaf0e12ea5d50660c365678b43d6ab5101023c5db28fe38da16315cd",
+   "ee_text": "식사 섭취량이 많음에도 불구하고 저알부민 혈증을 나타내는 비대상성 간경변환자의 저알부민 혈증의 개선",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:08Z",
+   "last_observed_at": "2026-08-28T13:24:08Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:08Z"
+}

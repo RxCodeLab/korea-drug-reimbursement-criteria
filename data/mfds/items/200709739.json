@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200709739",
+ "item_name": "경진이중탕엑스과립",
+ "entp_name": "경진제약(주)",
+ "permit_date": "20070823",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040006]감초|[M051291]인삼|[M040214]백출|[M040007]건강",
+ "main_item_ingr_eng": "Atractylodes Rhizome White/Ginger/Ginseng/Licorice",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709739",
+ "revisions": [
+  {
+   "revision_id": "200709739-85bb968a",
+   "content_sha256": "85bb968aa2e36bc43175722c527b639e1c90678ee947768444da05817046899e",
+   "ee_text": "손발이 차가워지기 쉽고, 요량이 많은 사람의 다음 증상 : 위장허약, 위무력, 설사, 구토, 위통",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200709739/EE",
+   "first_observed_at": "2026-08-28T13:24:14Z",
+   "last_observed_at": "2026-08-28T13:24:14Z"
+  },
+  {
+   "revision_id": "200709739-05f79c60",
+   "content_sha256": "05f79c600d7fd63f1067de047b776edb20e9303df4fae91e164cd5694cdc4814",
+   "ee_text": ": 위장허약, 위무력, 설사, 구토, 위통",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:14Z",
+   "last_observed_at": "2026-08-28T13:24:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:14Z"
+}

@@ -12,15 +12,15 @@
  "edi_code": "664901240",
  "atc_code": "L04AD02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602760",
+ "history_fetched_at": "2026-08-27T12:33:38Z",
  "revisions": [
   {
    "revision_id": "201602760-95aa64ac",
    "content_sha256": "95aa64ac81253f71ca71ddb889bb6255071a5f4b1a833407df772be166ab5529",
    "ee_text": "- 신이식에서의 거부반응의 억제 - 간이식에서의 거부반응의 억제 - 골수이식: 골수이식 후에 따르는 조직이식 거부반응과 이식편대숙주질환(graft versus-host disease) 방지 - 만성류마티스관절염 (항류마티스제(DMARD)로 충분한 효과를 얻을 수 없는 경우에한함) - 루푸스신염: 관해 유지를 위해 장기간 사용한 스테로이드제제의 단독투여만으로 신 기능은 정상적이나 지속적 신염 임상 소견을 보이는 스테로이드 단독유지요법 저항성 루푸스신염 (스테로이드제제 투여로 효과가 불충분하거나 부작용으로 인해 스테로이드제제를 증량할 수 없는 경우) (루푸스신염은 희귀 질환으로 대규모 임상시험을 실시하지 않았으며 1 일 뇨단백량의 감소 및 보체치의 상승 효과를 평가하였고 28주 이상의 임상시험 환자수도 적고 이 약의 장기투여시 안전성 및 유효성은 확립되어 있지 않다.) - 중증근무력증(다른 면역억제제에 치료효과가 없거나, 이상반응의 발생으로 투여가 불가능한 경우에 한함)",
-   "ee_doc_id": "25",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201602760/EE",
    "first_observed_at": "2026-08-27T12:33:38Z",
-   "last_observed_at": "2026-08-27T12:33:38Z",
-   "official_revision_date": "2023-02-20"
+   "last_observed_at": "2026-08-28T13:24:49Z"
   },
   {
    "revision_id": "201602760-d51ef325",
@@ -40,6 +40,5 @@
    "first_observed_at": "2026-08-27T12:33:38Z",
    "last_observed_at": "2026-08-27T12:33:38Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:33:38Z"
+ ]
 }

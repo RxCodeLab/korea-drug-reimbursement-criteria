@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198400883",
+ "item_name": "일심맥문동탕엑스과립",
+ "entp_name": "일심제약",
+ "permit_date": "19841123",
+ "cancel_date": "20250101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M226176]이상 건조엑스로서 1.91g|[M040006]감초|[M051291]인삼|[M040071]대추|[M070017]갱미|[M040202]반하|[M040139]맥문동",
+ "main_item_ingr_eng": "As Dried Extract/Ginseng/Jujube/Licorice/Liriope Tuber/Oryzae Semen/Pinellia Tuber",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400883",
+ "revisions": [
+  {
+   "revision_id": "198400883-02c130a1",
+   "content_sha256": "02c130a18aca4d8ef4f7c564a309ffcae68f776cdfc4dee26c1b12d20d1834fe",
+   "ee_text": "가래가 끊어지지 않는 기침, 기관지염, 기관지천식",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:40Z"
+}

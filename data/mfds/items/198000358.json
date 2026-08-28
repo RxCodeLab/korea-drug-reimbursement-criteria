@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000358",
+ "item_name": "한신마행감석탕엑스과립",
+ "entp_name": "(주)한국신약",
+ "permit_date": "19800709",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040279]석고|[M040006]감초|[M040769]행인|[M040135]마황",
+ "main_item_ingr_eng": "Apricot Kernel/Ephedra Herb/Gypsum Fibrosum/Licorice",
+ "edi_code": "",
+ "atc_code": "R03DX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000358",
+ "revisions": [
+  {
+   "revision_id": "198000358-12af372f",
+   "content_sha256": "12af372f8476a2e417d895e2dd6c577468226ba62ab8fb0dab136c411bb487b5",
+   "ee_text": "소아천식, 기관지천식",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:38Z"
+}

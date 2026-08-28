@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400335",
+ "item_name": "더마그램액",
+ "entp_name": "(주)종근당",
+ "permit_date": "20240216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051015]알란토인|[M261256]이소프로필메틸페놀|[M040264]살리실산",
+ "main_item_ingr_eng": "Allantoin/Isopropyl Methylphenol/Salicylic Acid",
+ "edi_code": "",
+ "atc_code": "D10AX30",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400335",
+ "revisions": [
+  {
+   "revision_id": "202400335-66df88f9",
+   "content_sha256": "66df88f9bf14dcdccc3fa47b3129da0dcb3bd6e76cc4feccc982bf40fbbb2b06",
+   "ee_text": "여드름의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:35Z",
+   "last_observed_at": "2026-08-28T13:25:35Z",
+   "official_revision_date": "2024-02-16"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:35Z"
+}

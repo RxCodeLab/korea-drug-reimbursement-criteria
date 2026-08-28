@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303359",
+ "item_name": "라피듀오정10/350밀리그램(라베프라졸나트륨,산화마그네슘)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20231218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089852]라베프라졸나트륨|[M040262]산화마그네슘",
+ "main_item_ingr_eng": "Magnesium Oxide/Rabeprazole Sodium",
+ "edi_code": "669908360",
+ "atc_code": "A02BC54",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303359",
+ "revisions": [
+  {
+   "revision_id": "202303359-8cf1859c",
+   "content_sha256": "8cf1859cabaf72d2b5c69a9fe6a27874c8ab9f2153df31ca664614b2b8dba734",
+   "ee_text": "- 위궤양, 십이지장궤양 - 미란성 또는 궤양성 위식도역류질환 - 위식도역류질환의 증상 완화 - 위식도역류질환의 장기간 유지요법",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:35Z",
+   "last_observed_at": "2026-08-28T13:25:35Z",
+   "official_revision_date": "2023-12-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:35Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200701164",
+ "item_name": "데보날캡슐(수출용)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20070126",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051110]염화리소짐|[M089022]호박산토코페롤칼슘|[M088252]아스코르빈산|[M051437]카르바조크롬",
+ "main_item_ingr_eng": "Ascorbic Acid/Carbazochrome/Lysozyme Chloride/Tocopherol Calcium Succinate",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701164",
+ "revisions": [
+  {
+   "revision_id": "200701164-02b8ec5d",
+   "content_sha256": "02b8ec5df080526085f1f8390f72a9189bab6f1e2118b750402715eadac5d50e",
+   "ee_text": "치은염(잇몸염), 치조농루에 의한 여러 증상(잇몸의 발적[충혈되어 붉어짐], 부기, 출혈, 고름 등)의 완화",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:24:11Z",
+   "last_observed_at": "2026-08-28T13:24:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:11Z"
+}

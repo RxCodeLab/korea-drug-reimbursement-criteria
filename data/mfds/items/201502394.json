@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502394",
+ "item_name": "근속프정(클로르족사존)",
+ "entp_name": "(주)일화",
+ "permit_date": "20150422",
+ "cancel_date": "20230927",
+ "status": "취하",
+ "main_item_ingr": "[M040614]클로르족사존",
+ "main_item_ingr_eng": "Chlorzoxazone",
+ "edi_code": "",
+ "atc_code": "M03BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502394",
+ "revisions": [
+  {
+   "revision_id": "201502394-77af5654",
+   "content_sha256": "77af5654c43802ea04809a28d17a381dc3426c4a9e7b7033b51f6d21984dc803",
+   "ee_text": "근골격계 질환에 수반하는 동통(통증)성 연축(수축과 이완) : 요배통증(허리, 등통증), 경견완증후군(목어깨팔증후군), 견관절(어깨관절)주의염, 변형성 척추증",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:24:42Z",
+   "last_observed_at": "2026-08-28T13:24:42Z",
+   "official_revision_date": "2021-05-27"
+  },
+  {
+   "revision_id": "201502394-1fbae51f",
+   "content_sha256": "1fbae51f37cf7506492d71f506455ba7d0565d91a9935c05e14bbce25541875b",
+   "ee_text": "근골격계 질환에 수반하는 동통성 연축 : 요배통증, 경견완증후군, 견관절주위염, 변형성 척추증",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:42Z",
+   "last_observed_at": "2026-08-28T13:24:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:42Z"
+}

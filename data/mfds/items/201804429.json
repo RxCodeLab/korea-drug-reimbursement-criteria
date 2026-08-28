@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "N02BE01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804429",
+ "history_fetched_at": "2026-08-27T13:01:40Z",
  "revisions": [
   {
    "revision_id": "201804429-13d28c10",
    "content_sha256": "13d28c10dd45839baec691cb2b13a142562380a011d70ae0080925ceab579cd1",
    "ee_text": "성인 및 체중 33kg(약 11세) 이상인 소아 : 통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중등도의 통증(특히 수술 후)의 단기간 치료 - 발열의 단기간 치료 체중 10kg 이상 33kg 미만(만 2세 이상 11세 미만)인 소아 : 통증으로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중등도 통증(특히 수술 후)의 단기간 치료",
-   "ee_doc_id": "31",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201804429/EE",
    "first_observed_at": "2026-08-27T13:01:40Z",
-   "last_observed_at": "2026-08-27T13:01:40Z",
-   "official_revision_date": "2026-08-20"
+   "last_observed_at": "2026-08-28T13:25:02Z"
   },
   {
    "revision_id": "201804429-5380e279",
@@ -49,6 +49,5 @@
    "first_observed_at": "2026-08-27T13:01:40Z",
    "last_observed_at": "2026-08-27T13:01:40Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:01:40Z"
+ ]
 }

@@ -12,15 +12,15 @@
  "edi_code": "649605210",
  "atc_code": "A10BD02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905506",
+ "history_fetched_at": "2026-08-27T13:29:16Z",
  "revisions": [
   {
    "revision_id": "201905506-20f44f18",
    "content_sha256": "20f44f1866a47ea397614d8d0c3000856fac6c8e069dc38ac59a01036dfa933a",
    "ee_text": "이 약은 글리메피리드와 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법 보조제로 투여한다.",
-   "ee_doc_id": "10",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201905506/EE",
    "first_observed_at": "2026-08-27T13:29:16Z",
-   "last_observed_at": "2026-08-27T13:29:16Z",
-   "official_revision_date": "2025-03-10"
+   "last_observed_at": "2026-08-28T13:25:10Z"
   },
   {
    "revision_id": "201905506-e9ab61ec",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:29:16Z",
    "last_observed_at": "2026-08-27T13:29:16Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:29:16Z"
+ ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000429",
+ "item_name": "하이클로크림",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20200128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버|[M101579]히드로코르티손",
+ "main_item_ingr_eng": "Acyclovir/Hydrocortisone",
+ "edi_code": "057000691",
+ "atc_code": "D06BB53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000429",
+ "revisions": [
+  {
+   "revision_id": "202000429-17336351",
+   "content_sha256": "17336351e5a0438e4924a2194e407f0f684b4a4f989e42e020481ffab2b51949",
+   "ee_text": "재발성 구순포진의 초기 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2020-01-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200712499",
+ "item_name": "우루사캡슐250밀리그램(우르소데옥시콜산)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20071115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Ursodeoxycholic Acid",
+ "edi_code": "641602680",
+ "atc_code": "A05AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712499",
+ "revisions": [
+  {
+   "revision_id": "200712499-daa10f44",
+   "content_sha256": "daa10f44ace153a2f9304f76317a877840a95747163ba37ba13b46399b5a8d11",
+   "ee_text": "콜레스테롤 담석증",
+   "ee_doc_id": "25",
+   "first_observed_at": "2026-08-28T13:24:15Z",
+   "last_observed_at": "2026-08-28T13:24:15Z",
+   "official_revision_date": "2023-01-09"
+  },
+  {
+   "revision_id": "200712499-9b60b908",
+   "content_sha256": "9b60b908ce3320499ffd1703f9fa0242781c2f5b94a30b398d28f4cb0825f65f",
+   "ee_text": "담석증",
+   "ee_doc_id": "18",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:15Z",
+   "last_observed_at": "2026-08-28T13:24:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:15Z"
+}

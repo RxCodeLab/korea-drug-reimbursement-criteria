@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404241",
+ "item_name": "하이엘정5밀리그램(로수바스타틴칼슘)",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20140917",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095744]로수바스타틴칼슘",
+ "main_item_ingr_eng": "Rosuvastatin Calcium",
+ "edi_code": "653804980",
+ "atc_code": "C10AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404241",
+ "revisions": [
+  {
+   "revision_id": "201404241-06642c23",
+   "content_sha256": "06642c2347f37198fd69d4d0395f685c91cb82a262f59b7365723a35dc252b30",
+   "ee_text": "∘ LDL-콜레스테롤이 여전히 190 mg/dL을 초과하는 경우 (LDL-C > 190 mg/dL) ∘ LDL-콜레스테롤이 여전히 160 mg/dL을 초과하면서 (LDL-C > 160 mg/dL), 조기 심혈관 질환의 가족력이 있거나 두가지 이상의 심혈관 질환 위험 인자가 있는 경우 - 뇌졸중에 대한 위험성 감소 - 심근경색에 대한 위험성 감소 - 동맥 혈관재형성술에 대한 위험성 감소",
+   "ee_doc_id": "24",
+   "first_observed_at": "2026-08-28T13:24:37Z",
+   "last_observed_at": "2026-08-28T13:24:37Z",
+   "official_revision_date": "2024-04-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:37Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201601545",
+ "item_name": "듀오레스피스피로맥스320/9마이크로그램(부데소니드, 포르모테롤푸마르산염수화물)",
+ "entp_name": "(주)한독테바",
+ "permit_date": "20160317",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223288]포르모테롤푸마르산염수화물|[M084482]부데소니드",
+ "main_item_ingr_eng": "Budesonide/Formoterol Fumarate Hydrate",
+ "edi_code": "626900701",
+ "atc_code": "R03AK07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601545",
+ "revisions": [
+  {
+   "revision_id": "201601545-bc722c5b",
+   "content_sha256": "bc722c5b8d1cb0cbc49cc671b0d0568317a91a81fb3fecc488d4839a8122c45f",
+   "ee_text": "천식환자의 치료 중증의 만성폐쇄성폐질환",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:48Z",
+   "last_observed_at": "2026-08-28T13:24:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:48Z"
+}

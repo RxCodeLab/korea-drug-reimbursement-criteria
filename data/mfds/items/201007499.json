@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201007499",
+ "item_name": "로수바정10밀리그램(로수바스타틴칼슘)",
+ "entp_name": "한국프라임제약(주)",
+ "permit_date": "20101216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095744]로수바스타틴칼슘",
+ "main_item_ingr_eng": "Rosuvastatin Calcium",
+ "edi_code": "663604300",
+ "atc_code": "C10AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007499",
+ "revisions": [
+  {
+   "revision_id": "201007499-5aadc649",
+   "content_sha256": "5aadc649fe4b640675027d0e397f55ece9d354e30459ecfde2a1f91aba6ca539",
+   "ee_text": "ㆍLDL-콜레스테롤이 여전히 190 mg/dL을 초과하는 경우 (LDL-C > 190 mg/dL) ㆍ LDL-콜레스테롤이 여전히 160 mg/dL을 초과하면서 (LDL-C > 160 mg/dL), 조기 심혈관 질환의 가족력이 있거나 두가지 이상의 심혈관 질환 위험 인자가 있는 경우 - 뇌졸중에 대한 위험성 감소 - 심근경색에 대한 위험성 감소 - 동맥 혈관재형성술에 대한 위험성 감소",
+   "ee_doc_id": "26",
+   "first_observed_at": "2026-08-28T13:24:24Z",
+   "last_observed_at": "2026-08-28T13:24:24Z",
+   "official_revision_date": "2024-04-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:24Z"
+}

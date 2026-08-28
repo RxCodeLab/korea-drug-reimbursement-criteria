@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303174",
+ "item_name": "맥스콘드로이틴1200경구용겔(콘드로이틴설페이트나트륨)(1200mg/8g, 1200mg/12g)",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20231120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256191]콘드로이틴설페이트나트륨|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr_eng": "Sodium Chondroitin Sulfate",
+ "edi_code": "",
+ "atc_code": "M01AX25",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303174",
+ "revisions": [
+  {
+   "revision_id": "202303174-157efe2f",
+   "content_sha256": "157efe2fa6095a71b14a8892580b9db6502aaa0d5ff09d9ad055a984fbdd4a25",
+   "ee_text": "경증(가벼운 증상)에서 중등도의 골(뼈)관절염(퇴행성관절염)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:35Z",
+   "last_observed_at": "2026-08-28T13:25:35Z",
+   "official_revision_date": "2023-11-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:35Z"
+}

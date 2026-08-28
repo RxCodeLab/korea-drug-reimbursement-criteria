@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410715",
+ "item_name": "칼테오-40정(Calteo-40Tablets)",
+ "entp_name": "(주)파마택코리아",
+ "permit_date": "20040809",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255949]농축콜레칼시페롤과립|[M050064]구연산칼슘",
+ "main_item_ingr_eng": "Calcium Citrate/Cholecalciferol Concentrate Granules",
+ "edi_code": "675000020",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410715",
+ "revisions": [
+  {
+   "revision_id": "200410715-2ea7691d",
+   "content_sha256": "2ea7691d055d5612fb5bd0bef540b977c85850bf6312e92a9746ffa22fb34a05",
+   "ee_text": "○ 다음경우의 비타민 D의 보급 - 임신․수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. ․뼈, 이의 발육불량 ․구루병의 예방 ○ 칼슘결핍 및 기타 칼슘의 보급",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:06Z",
+   "last_observed_at": "2026-08-28T13:24:06Z",
+   "official_revision_date": "2017-12-20"
+  },
+  {
+   "revision_id": "200410715-46dd0be8",
+   "content_sha256": "46dd0be8a3b3c4bd9020d03e34dc3f112938cd7c7c664d32540b6e68d5f19fb4",
+   "ee_text": "다음경우의 - 임신·수유기 - 발육기 - 노년기",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:06Z",
+   "last_observed_at": "2026-08-28T13:24:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:06Z"
+}

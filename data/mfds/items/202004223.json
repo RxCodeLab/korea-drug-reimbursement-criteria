@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004223",
+ "item_name": "신신플루넥연조엑스(구풍해독탕)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20200604",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040279]석고|[M040048]길경|[M040006]감초|[M050022]강활|[M051936]형개|[M051105]연교|[M083712]우방자|[M040205]방풍",
+ "main_item_ingr_eng": "Arctium Fruit/Forsythia Fruit/Gypsum Fibrosum/Licorice/Ostericum Root/Platycodon Root/Saposhnikovia Root/Schizonepeta Spike",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004223",
+ "revisions": [
+  {
+   "revision_id": "202004223-35f154a8",
+   "content_sha256": "35f154a899a46fb26a2d3514756cd2aa61bc35f75cc74ffb5912de1248445701",
+   "ee_text": "인후(목구멍)가 부어서 아픈 다음 증상 : 편도염, 편도주위염",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:19Z",
+   "last_observed_at": "2026-08-28T13:25:19Z",
+   "official_revision_date": "2020-06-04"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:19Z"
+}

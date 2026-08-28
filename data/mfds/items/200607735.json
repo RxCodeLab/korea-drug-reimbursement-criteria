@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200607735",
+ "item_name": "콘택골드캡슐",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20060728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M086528]벨라돈나총알칼로이드|[M222724]페닐레프린염산염",
+ "main_item_ingr_eng": "Belladonna Total Alkaloid/Chlorpheniramine Maleate/Phenylephrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AB54",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607735",
+ "revisions": [
+  {
+   "revision_id": "200607735-2e51d37e",
+   "content_sha256": "2e51d37ebf586ac631c52e6681aa0c55ecaa26e63dbb48c3ad69fb33b334ebe5",
+   "ee_text": ": 코막힘, 콧물, 재채기, 눈물, 인후통(목구멍통증), 머리 무거움",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:24:10Z",
+   "last_observed_at": "2026-08-28T13:24:10Z",
+   "official_revision_date": "2019-09-16"
+  },
+  {
+   "revision_id": "200607735-afb009e5",
+   "content_sha256": "afb009e5048f9b2482cb2173ecc23cd0d9abdddc21f119d45dc04d50bd509ac9",
+   "ee_text": ": 코막힘, 콧물, 재채기, 눈물, 인후통, 머리 무거움",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:10Z",
+   "last_observed_at": "2026-08-28T13:24:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:10Z"
+}

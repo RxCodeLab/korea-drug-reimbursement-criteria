@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201108893",
+ "item_name": "비바원정",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20111021",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223262]티아민질산염|[M040064]니코틴산아미드|[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M255994]시아노코발라민1000배산",
+ "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin Powder 0.1%/Nicotinamide/Pyridoxine Hydrochloride/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201108893",
+ "revisions": [
+  {
+   "revision_id": "201108893-5ee21a7e",
+   "content_sha256": "5ee21a7e02ac1f567bf1e6f411879087570ad49b7b620017bcf8e6ffb5bb30c8",
+   "ee_text": "- 육체피로, 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 이 약에 함유된 비타민 등의 효능 효과는 다음과 같다 · 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) · 각기 · 눈의 피로",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:26Z",
+   "last_observed_at": "2026-08-28T13:24:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:26Z"
+}

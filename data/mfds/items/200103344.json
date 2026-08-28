@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200103344",
+ "item_name": "사이제놀연질캡슐(수출용)",
+ "entp_name": "(주)서울제약",
+ "permit_date": "20010327",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M225044]판토텐산 칼슘|[M040064]니코틴산아미드|[M040133]리보플라빈|[M204304]피리독신염산염|[M223262]티아민질산염|[M089207]카르두스마리아누스엑스",
+ "main_item_ingr_eng": "Calcium Pantothenate/Cardus Marianus Extract/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200103344",
+ "revisions": [
+  {
+   "revision_id": "200103344-061a4c59",
+   "content_sha256": "061a4c59b8181e5da2004e5a882732e00de67df0bc6012ffecd1b2a186a4c71d",
+   "ee_text": "다음질환의 치료보조 : 만성간질환, 지방간, 간경변, 중독성 간질환",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:59Z",
+   "last_observed_at": "2026-08-28T13:23:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:59Z"
+}

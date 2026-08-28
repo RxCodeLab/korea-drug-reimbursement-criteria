@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200503737",
+ "item_name": "리피드엘씨티20%주(정제대두유)",
+ "entp_name": "(주)와이즈메디",
+ "permit_date": "20050128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081583]정제대두유",
+ "main_item_ingr_eng": "Refined Soybean Oil",
+ "edi_code": "",
+ "atc_code": "B05BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503737",
+ "revisions": [
+  {
+   "revision_id": "200503737-24584beb",
+   "content_sha256": "24584beb84737fc69d8c95b332ff01d134f3c4d680f972e72d742c0684477cc0",
+   "ee_text": "비경구 영양공급 처방의 일부로서 에너지 및 필수 지방산의 보급",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:09Z"
+}

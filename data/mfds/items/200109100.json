@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109100",
+ "item_name": "심비코트터부헬러80/4.5마이크로그램",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20010206",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257129]포르모테롤푸마르산염수화물|[M256708]부데소니드(미분화)",
+ "main_item_ingr_eng": "Budesonide Micronized/Formoterol Fumarate Hydrate",
+ "edi_code": "650700291",
+ "atc_code": "R03AK07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109100",
+ "revisions": [
+  {
+   "revision_id": "200109100-418ce448",
+   "content_sha256": "418ce4481b90140358563a9f29fe39ada31e07806c40d7aa876f6a79e759b37d",
+   "ee_text": "천식환자의 치료",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:23:59Z",
+   "last_observed_at": "2026-08-28T13:23:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:59Z"
+}

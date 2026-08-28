@@ -12,15 +12,15 @@
  "edi_code": "652607150",
  "atc_code": "V03AE02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202972",
+ "history_fetched_at": "2026-08-27T13:31:09Z",
  "revisions": [
   {
    "revision_id": "202202972-490b7c51",
    "content_sha256": "490b7c51ff07cf66be3f308aed435b695623385b02d9a60e40461b7f37278046",
    "ee_text": "1. 투석을 받고 있는 만성 신장질환 환자의 혈청 인 조절 2. 투석을 받고 있지 않은 만성 신장질환 환자 중 혈청 인 농도가 5.5 mg/dl 이상인 환자의 혈청 인 조절",
-   "ee_doc_id": "4",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202202972/EE",
    "first_observed_at": "2026-08-27T13:31:09Z",
-   "last_observed_at": "2026-08-27T13:31:09Z",
-   "official_revision_date": "2024-05-02"
+   "last_observed_at": "2026-08-28T13:25:30Z"
   },
   {
    "revision_id": "202202972-07a13555",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:31:09Z",
    "last_observed_at": "2026-08-27T13:31:09Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:31:09Z"
+ ]
 }

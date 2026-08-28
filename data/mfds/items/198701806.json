@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198701806",
+ "item_name": "경진 보중익기탕엑스과립",
+ "entp_name": "경진제약(주)",
+ "permit_date": "19870420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040336]시호|[M040006]감초|[M040007]건강|[M040329]승마|[M040538]진피|[M040070]당귀|[M040790]황기|[M040214]백출|[M040071]대추|[M051291]인삼",
+ "main_item_ingr_eng": "Angelica Gigas Root/Astragalus Root/Atractylodes Rhizome White/Bupleurum Root/Cimicifuga Rhizome/Citrus Unshiu Peel/Ginger/Ginseng/Jujube/Licorice",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198701806",
+ "revisions": [
+  {
+   "revision_id": "198701806-3b9a4827",
+   "content_sha256": "3b9a4827f24dce384579f780962b0459c0843014d6515ec9923e7bd06c09fab2",
+   "ee_text": "원기가 없고 위장 기능이 쇠약해져 피로하기 쉬운 다음 증상 : 허약체질, 피로권태, 병후쇠약, 식욕감퇴(식욕부진), 도한(盜汗, 야간에 자는 동안 땀이 나지만 느끼지 못하고 깨어나면 땀이 그치는 증상)",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:23:41Z",
+   "last_observed_at": "2026-08-28T13:23:41Z",
+   "official_revision_date": "2021-12-13"
+  },
+  {
+   "revision_id": "198701806-cb3a61e1",
+   "content_sha256": "cb3a61e1b9e80f79a0689664611e9582994c78e8a82f1927a8ef46eac1cbe8c7",
+   "ee_text": "제제 또는 조제용",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:41Z",
+   "last_observed_at": "2026-08-28T13:23:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:41Z"
+}

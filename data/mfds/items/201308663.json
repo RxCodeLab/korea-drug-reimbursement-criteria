@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308663",
+ "item_name": "콤페탐주3g(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20130805",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020307]설박탐나트륨|[M020192]피페라실린나트륨",
+ "main_item_ingr_eng": "Piperacillin Sodium/Sulbactam Sodium",
+ "edi_code": "",
+ "atc_code": "J01CR05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308663",
+ "revisions": [
+  {
+   "revision_id": "201308663-21ebb4cc",
+   "content_sha256": "21ebb4cc685fbf19340ac0fdb20b45132889e2c31355c773bb7fa30f1a3801d2",
+   "ee_text": "녹농균(내성균 포함), 변형균(내성균 포함), 폐렴간균(내성균 포함), 대장균, 시트로박타, 인플루엔자균, 포도상구균속, 연쇄상구균속, 폐렴구균, 장구균(내성균 포함), 엔테로박타, 영균(내성균 포함), 박테로이드스속 등 본제 감수성균 1) 주 효능.효과 패혈증, 급만성기관지염, 농흉, 폐렴, 폐화농증, 신우신염, 방광염, 자궁내막염, 골반사강염 2) 다음 질환에도 사용할 수 있다. 심내막염, 기관지확장증, 만성호흡기질환의 2차감염, 임균성요도염, 복막염, 복강내 농양, 골반농양, 난관염, 피부 및 연조직감염증, 담관염, 호기성균 및 혐기성균의 혼합감염증",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:32Z",
+   "last_observed_at": "2026-08-28T13:24:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:32Z"
+}

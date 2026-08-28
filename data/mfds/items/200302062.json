@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302062",
+ "item_name": "한방통치고카타플라스마",
+ "entp_name": "(주)티디에스팜",
+ "permit_date": "20031016",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223240]토코페롤아세테이트|[M230875]l-멘톨|[M070611]살리실산글리콜|[M213350]황백연조엑스(3.3→1)|[M223240]토코페롤아세테이트|[M230875]l-멘톨|[M070611]살리실산글리콜|[M213350]황백연조엑스(3.3→1)",
+ "main_item_ingr_eng": "Glycol Salicylate/L-Menthol/Phellodendron Bark Soft Extract (3.3→1)/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302062",
+ "revisions": [
+  {
+   "revision_id": "200302062-5624cdf2",
+   "content_sha256": "5624cdf291b637529a7d6c7ae59d7d2d8601ddf3fa178fac65d8ff80e8dd17ae",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) : 요(허리)통, 타박상, 삠, 어깨결림, 관절통, 근육통, 근육피로, 동창(언 상처), 골(뼈)절통",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z",
+   "official_revision_date": "2021-11-16"
+  },
+  {
+   "revision_id": "200302062-9b81467f",
+   "content_sha256": "9b81467f0b8079afd6177b26954f70689dbe785b271831a151c8a0b075c9bfb3",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염 : 요통, 타박상, 삠, 어깨결림, 관절통, 근육통, 근육피로, 동창, 골절통",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

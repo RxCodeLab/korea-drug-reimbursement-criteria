@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403046",
+ "item_name": "리바텐더에스연질캡슐(수출명:HEPADUSE)(수출용)",
+ "entp_name": "구주제약(주)",
+ "permit_date": "20040304",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223258]티아민염산염|[M265578]시아노코발라민1000배산|[M244748]판토텐산칼슘|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M040133]리보플라빈|[M089207]카르두스마리아누스엑스",
+ "main_item_ingr_eng": "Calcium Pantothenate/Cardus Marianus Extract/Cyanocobalamin Powder 0.1%/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403046",
+ "revisions": [
+  {
+   "revision_id": "200403046-cb5b178a",
+   "content_sha256": "cb5b178ac093d2df9c37c2e823e7a3a8c915cb274b96be7c2d3350c00b1b5f1a",
+   "ee_text": "다음 질환의 보조 치료 : 만성 간질환, 독성 간질환",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:05Z",
+   "last_observed_at": "2026-08-28T13:24:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:05Z"
+}

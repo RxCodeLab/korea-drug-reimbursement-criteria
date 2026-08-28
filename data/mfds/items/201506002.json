@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201506002",
+ "item_name": "카네덤플러스크림",
+ "entp_name": "에이치엘비제약(주)",
+ "permit_date": "20150825",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051543]클로트리마졸|[M040818]히드로코르티손",
+ "main_item_ingr_eng": "Clotrimazole/Hydrocortisone",
+ "edi_code": "",
+ "atc_code": "D01AC20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506002",
+ "revisions": [
+  {
+   "revision_id": "201506002-3302208c",
+   "content_sha256": "3302208c473471f3520f807f11f2b8a91d593ee329d28cc54f1850183f44bc2a",
+   "ee_text": "1) 백선 2) 피부 칸디다증 3) 어루러기",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201506002/EE",
+   "first_observed_at": "2026-08-28T13:24:45Z",
+   "last_observed_at": "2026-08-28T13:24:45Z"
+  },
+  {
+   "revision_id": "201506002-8a71e0a3",
+   "content_sha256": "8a71e0a3f915cdf1c40bcb43128228407319b864b20e69e6d450a466c4c55bdf",
+   "ee_text": "염증, 가려움 및 습진 등의 임상증상을 수반하는 피부 진균증 1) 백선 2) 피부 칸디다증 3) 어루러기",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:45Z",
+   "last_observed_at": "2026-08-28T13:24:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:45Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200700758",
+ "item_name": "헬씨리버연질캡슐\n(수출용)",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20070118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089565]L-아스파라긴산-L-오르니친|[M223240]토코페롤아세테이트|[M081581]마늘유동엑스",
+ "main_item_ingr_eng": "Allium Sativum Fluid Extract/L-Ornithine-L-Aspartate Hydrate/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700758",
+ "revisions": [
+  {
+   "revision_id": "200700758-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200700758/EE",
+   "first_observed_at": "2026-08-28T13:24:11Z",
+   "last_observed_at": "2026-08-28T13:24:11Z"
+  },
+  {
+   "revision_id": "200700758-e4cabf21",
+   "content_sha256": "e4cabf21feebf3d98b589fcc184ba6ba19c751311b24718194993119f1ee1d18",
+   "ee_text": ": 간기능장애, 독성 간질환, 초기 간경변",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:11Z",
+   "last_observed_at": "2026-08-28T13:24:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:11Z"
+}

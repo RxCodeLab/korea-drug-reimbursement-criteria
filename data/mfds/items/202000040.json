@@ -12,16 +12,15 @@
  "edi_code": "653103551",
  "atc_code": "A04AA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000040",
+ "history_fetched_at": "2026-08-27T11:01:08Z",
  "revisions": [
   {
    "revision_id": "202000040-0927b8d0",
    "content_sha256": "0927b8d0c2d7490e02b2dc770a21204f4df252ef217bbf95ab85459f364e198a",
    "ee_text": "1. 항암제(시스플라틴 등) 투여로 인한 구역 및 구토의 방지 2. 수술 후 구역 및 구토의 방지",
-   "ee_doc_id": "1",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202000040/EE",
    "first_observed_at": "2026-08-27T11:01:08Z",
-   "last_observed_at": "2026-08-27T11:01:08Z",
-   "official_revision_date": "2020-01-03"
+   "last_observed_at": "2026-08-28T13:25:14Z"
   }
- ],
- "history_fetched_at": "2026-08-27T11:01:08Z"
+ ]
 }

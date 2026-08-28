@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100636",
+ "item_name": "제일제약염화나트륨주사액",
+ "entp_name": "(주)제일제약",
+ "permit_date": "20010604",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨",
+ "main_item_ingr_eng": "Sodium Chloride",
+ "edi_code": "650500671",
+ "atc_code": "B05XA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100636",
+ "revisions": [
+  {
+   "revision_id": "200100636-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200100636/EE",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z"
+  },
+  {
+   "revision_id": "200100636-d04b1aca",
+   "content_sha256": "d04b1aca90d61e28eed91b5681e782633cef15dc60a19e8e95c8ef3b33df7715",
+   "ee_text": "*키트주사제 주사제의 용해 희석제 *3% 주사제 전해질 및 수분의 빠른 공급 특히 다음과 같은 경우에 사용한다. - 저나트륨혈증 또는 저염소혈증 - 반복적인 관장에 의한 과량의 수분섭취 또는 경요도전립선절제술중 개방정맥동으로의 관류액 관류에 따라 세포외액이 격렬히 희석된 경우 - 중증 염분고갈시의 응급처치 *11.7% 주사제 전해질 보액의 전해질 보정(저나트륨혈증, 저염소혈증)",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

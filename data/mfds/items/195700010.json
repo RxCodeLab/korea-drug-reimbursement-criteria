@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "195700010",
+ "item_name": "대한포도당주사액(5%)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "19570614",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040702]포도당",
+ "main_item_ingr_eng": "Glucose",
+ "edi_code": "645100961,645100962,645100971,645100972,645100973,645100981,645100982,645100991,645100992,645101001,645101002,645104551",
+ "atc_code": "B05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=195700010",
+ "revisions": [
+  {
+   "revision_id": "195700010-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:36Z",
+   "last_observed_at": "2026-08-28T13:23:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:36Z"
+}

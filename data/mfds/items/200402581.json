@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402581",
+ "item_name": "리게논-큐연질캡슐",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20040216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096429]시아노코발라민|[M244748]판토텐산칼슘|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M040133]리보플라빈|[M223258]티아민염산염|[M268656]밀크시슬열매건조엑스",
+ "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin/Milk-Thistle Fruit Dried Extract/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402581",
+ "revisions": [
+  {
+   "revision_id": "200402581-cb5b178a",
+   "content_sha256": "cb5b178ac093d2df9c37c2e823e7a3a8c915cb274b96be7c2d3350c00b1b5f1a",
+   "ee_text": "다음 질환의 보조 치료 : 만성 간질환, 독성 간질환",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:24:05Z",
+   "last_observed_at": "2026-08-28T13:24:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:05Z"
+}

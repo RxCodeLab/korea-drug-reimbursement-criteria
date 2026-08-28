@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002328",
+ "item_name": "베루본에스정",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20001218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080221]스코폴리아엑스|[M082987]황련가루|[M040634]침강탄산칼슘|[M223064]비스무트차질산염|[M223110]아크리놀수화물",
+ "main_item_ingr_eng": "Acrinol Hydrate/Bismuth Subnitrate/Coptis Rhizome Powder/Precipitated Calcium Carbonate/Scopolia Extract",
+ "edi_code": "",
+ "atc_code": "A07AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002328",
+ "revisions": [
+  {
+   "revision_id": "200002328-d59142a7",
+   "content_sha256": "d59142a748fa046ed69d6d9a224b6984245f55651b28920d28c8ba43ba0264d5",
+   "ee_text": "설사, 복통(배아픔)을 수반하는 설사, 체함, 묽은 변, 토사",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:23:55Z",
+   "last_observed_at": "2026-08-28T13:23:55Z",
+   "official_revision_date": "2020-06-22"
+  },
+  {
+   "revision_id": "200002328-dc03f3ab",
+   "content_sha256": "dc03f3abf43415a9ed48df8a08df1d7de2f0b69181b76ae1e8c66e60cc623004",
+   "ee_text": "설사, 복통을 수반하는 설사, 식체, 묽은 변, 토사",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:55Z",
+   "last_observed_at": "2026-08-28T13:23:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:55Z"
+}

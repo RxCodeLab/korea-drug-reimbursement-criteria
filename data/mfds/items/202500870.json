@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500870",
+ "item_name": "판테놀케어연고(D-판테놀)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20250414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202582]D-판테놀",
+ "main_item_ingr_eng": "Dexpanthenol",
+ "edi_code": "",
+ "atc_code": "D03AX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500870",
+ "revisions": [
+  {
+   "revision_id": "202500870-f35df073",
+   "content_sha256": "f35df0739bfe814d798f960f85666e1bc825119c453dcd9ffed383c6c90d6447",
+   "ee_text": "상처, 화상, 찢긴 상처(수유기 중의 유두균열(갈라짐) 등), 욕창, 급ㆍ만성 피부염, 습진, 피부궤양, 기저귀발진, 햇볕에 탄 데(일광피부염)의 보조치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:37Z",
+   "last_observed_at": "2026-08-28T13:25:37Z",
+   "official_revision_date": "2025-04-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:37Z"
+}

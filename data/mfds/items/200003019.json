@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200003019",
+ "item_name": "삐삐콜플러스정",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20001219",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M253274]d-브롬페니라민말레산염|[M110297]슈도에페드린황산염",
+ "main_item_ingr_eng": "D-Brompheniramine Maleate/Pseudoephedrine Sulfate",
+ "edi_code": "",
+ "atc_code": "R01BA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200003019",
+ "revisions": [
+  {
+   "revision_id": "200003019-d11f184c",
+   "content_sha256": "d11f184cedfafeb7b0ab1d2c5f7025e9700fd0508b6cc4702d422e097645d93d",
+   "ee_text": "계절성 및 통년성 비(코) 알레르기, 급성 비염(코염) 및 부비동염, 급성 및 아급성 부비강염, 이관폐색 및 분비성 중이(가운데 귀)염에서의 상기도 점막 충혈의 증상 변화",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:55Z",
+   "last_observed_at": "2026-08-28T13:23:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:55Z"
+}

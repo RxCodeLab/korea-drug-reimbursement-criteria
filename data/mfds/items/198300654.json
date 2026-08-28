@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300654",
+ "item_name": "신텍스감초탕엑스과립",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "19830704",
+ "cancel_date": "20250101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040006]감초",
+ "main_item_ingr_eng": "Licorice",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300654",
+ "revisions": [
+  {
+   "revision_id": "198300654-e6773103",
+   "content_sha256": "e6773103cb40d6b07c6e1b59d642ce64b74bb1627a2a7a7acf96a76e041ba8a0",
+   "ee_text": "심한 기침, 인후통",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:39Z"
+}

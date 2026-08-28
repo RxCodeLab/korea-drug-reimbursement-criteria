@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400237",
+ "item_name": "가스트로겔현탁액(수출용)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20140120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040306]수산화마그네슘|[M229291]건조수산화알루미늄 겔|[M201415]옥세타자인|[M201415]옥세타자인|[M040306]수산화마그네슘|[M040308]건조수산화알루미늄겔",
+ "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel/Magnesium Hydroxide/Oxethazaine",
+ "edi_code": "",
+ "atc_code": "A02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400237",
+ "revisions": [
+  {
+   "revision_id": "201400237-58092018",
+   "content_sha256": "580920187259ad6fcecd7ab6c7b09f3cde8aac20646e545f2f84e4081e2fbec0",
+   "ee_text": "급성 ㆍ 만성통증, 위염, 십이지장궤양, 식도염, 방사선요법시 소화장애에의한 위통",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-28T13:24:34Z",
+   "last_observed_at": "2026-08-28T13:24:34Z",
+   "official_revision_date": "2024-06-11"
+  },
+  {
+   "revision_id": "201400237-8c6c0bea",
+   "content_sha256": "8c6c0bea505cd528dfdae111af623a4650633f33c926377a01460e3bbfea4a13",
+   "ee_text": "급성 ㆍ 만성통증, 위염, 십이지궤양, 식도염, 방사선요법시 소화장애에의한 위통",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:34Z",
+   "last_observed_at": "2026-08-28T13:24:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:34Z"
+}

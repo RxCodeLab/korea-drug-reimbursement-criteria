@@ -12,16 +12,15 @@
  "edi_code": "",
  "atc_code": "N02BE01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106092",
+ "history_fetched_at": "2026-08-27T13:03:42Z",
  "revisions": [
   {
    "revision_id": "202106092-6bad4b45",
    "content_sha256": "6bad4b45333267a95241962b5ad89fb43c9d2025618db22088de0ade7a13e275",
    "ee_text": "감기로 인한 발열 및 동통(통증), 두통, 신경통, 근육통, 월경통, 염좌통(삔 통증) 치통, 관절통, 류마티양 동통(통증)",
-   "ee_doc_id": "1",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202106092/EE",
    "first_observed_at": "2026-08-27T13:03:42Z",
-   "last_observed_at": "2026-08-27T13:03:42Z",
-   "official_revision_date": "2021-08-23"
+   "last_observed_at": "2026-08-28T13:25:25Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:03:42Z"
+ ]
 }

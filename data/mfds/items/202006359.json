@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006359",
+ "item_name": "글린타민캡슐",
+ "entp_name": "엔비케이제약(주)",
+ "permit_date": "20200915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088656]글리신|[M081907]알라닌|[M256563]글루탐산",
+ "main_item_ingr_eng": "Alanine/Glutamic Acid/Glycine",
+ "edi_code": "",
+ "atc_code": "G04CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006359",
+ "revisions": [
+  {
+   "revision_id": "202006359-e4671fbf",
+   "content_sha256": "e4671fbf5ae6c367f383804e32366da4927e7e7011cc49409d0b6623c9df6bcc",
+   "ee_text": "전립선비대에 의한 배뇨(소변을 눔)곤란 · 잔뇨 및 잔뇨감 · 빈뇨",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z",
+   "official_revision_date": "2023-02-15"
+  },
+  {
+   "revision_id": "202006359-2519bf45",
+   "content_sha256": "2519bf4540756a9d9e71cec83deac286a717363f8a2533334303d5020d34595d",
+   "ee_text": "전립선비대에 의한 배뇨곤란 ㆍ 잔뇨 및 잔뇨감 ㆍ 빈뇨",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-09-15",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:21Z"
+}

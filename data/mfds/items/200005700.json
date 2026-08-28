@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005700",
+ "item_name": "해스킨엑스과립(십미패독탕)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000925",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051043]앵피|[M050227]독활|[M040336]시호|[M050752]생강|[M040006]감초|[M051936]형개|[M040225]복령|[M040550]천궁|[M051105]연교|[M040205]방풍|[M040048]길경",
+ "main_item_ingr_eng": "Aralia Continentalis Root/Bupleurum Root/Cnidium Rhizome/Forsythia Fruit/Licorice/Platycodon Root/Poria/Prunus Bark/Raw Ginger/Saposhnikovia Root/Schizonepeta Spike",
+ "edi_code": "",
+ "atc_code": "D11AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005700",
+ "revisions": [
+  {
+   "revision_id": "200005700-342b67ee",
+   "content_sha256": "342b67ee8f5509834b1a2f74b84fc35da91146e13388845bd22b1c154e17df3e",
+   "ee_text": "화농(곪음)성 또는 급성 피부질환의 초기, 두드러기, 급성 습진, 무좀",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z",
+   "official_revision_date": "2020-04-09"
+  },
+  {
+   "revision_id": "200005700-cddce361",
+   "content_sha256": "cddce361dc17f52d370f23e822ffc2272bce4fa2435cb78dda51276fea94a20b",
+   "ee_text": "화농성 또는 급성 피부질환의 초기, 두드러기, 급성 습진, 무좀",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:57Z"
+}

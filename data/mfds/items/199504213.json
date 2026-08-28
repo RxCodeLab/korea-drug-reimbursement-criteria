@@ -12,15 +12,15 @@
  "edi_code": "653500671",
  "atc_code": "B01AD02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199504213",
+ "history_fetched_at": "2026-08-27T11:00:01Z",
  "revisions": [
   {
    "revision_id": "199504213-7ea74781",
    "content_sha256": "7ea74781982444c6c7f9776e94c66f2b2fe2b453fcc19942c18212b8dddb0002",
    "ee_text": "1. 급성심근경색증 2. 급성폐색전증 3. 급성허혈뇌졸중(증상 발현 후 4.5 시간 이내에 적절한 영상기법(예, 두개골 CT 또는 출혈을 민감하게 진단할 수 있는 다른 진단 영상방법)으로 두개 내 출혈이 없음을 확인 후 가능한 신속하게 투여한다. 치료 효과는 시간-의존적이므로, 치료가 신속할수록 호전 가능성이 증가한다.)",
-   "ee_doc_id": "29",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199504213/EE",
    "first_observed_at": "2026-08-27T11:00:01Z",
-   "last_observed_at": "2026-08-27T11:00:01Z",
-   "official_revision_date": "2019-03-27"
+   "last_observed_at": "2026-08-28T13:23:47Z"
   },
   {
    "revision_id": "199504213-3d5872a1",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T11:00:01Z",
    "last_observed_at": "2026-08-27T11:00:01Z"
   }
- ],
- "history_fetched_at": "2026-08-27T11:00:01Z"
+ ]
 }

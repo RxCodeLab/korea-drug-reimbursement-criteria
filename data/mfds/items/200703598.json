@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200703598",
+ "item_name": "디오반필름코팅정320밀리그램(발사르탄)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20070328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090403]발사르탄",
+ "main_item_ingr_eng": "Valsartan",
+ "edi_code": "653600190",
+ "atc_code": "C09CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703598",
+ "revisions": [
+  {
+   "revision_id": "200703598-2a212b5e",
+   "content_sha256": "2a212b5e779bad55dd5643a95840aa53704c6dbc569023325397c31cf6b77c97",
+   "ee_text": "(정제) * 320 mg 본태고혈압",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200703598/EE",
+   "first_observed_at": "2026-08-28T13:24:12Z",
+   "last_observed_at": "2026-08-28T13:24:12Z"
+  },
+  {
+   "revision_id": "200703598-ba95b825",
+   "content_sha256": "ba95b82578042e9f1c3444fda44427a520be97e420eea9cefe2ee394c7a93bc6",
+   "ee_text": "본태고혈압",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:12Z",
+   "last_observed_at": "2026-08-28T13:24:12Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:12Z"
+}

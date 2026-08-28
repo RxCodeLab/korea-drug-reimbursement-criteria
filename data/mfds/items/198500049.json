@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500049",
+ "item_name": "비타메진캡슐50밀리그램",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "19851031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096429]시아노코발라민|[M204304]피리독신염산염|[M096428]벤포티아민",
+ "main_item_ingr_eng": "Benfotiamine/Cyanocobalamin/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11DB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500049",
+ "revisions": [
+  {
+   "revision_id": "198500049-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198500049/EE",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z"
+  },
+  {
+   "revision_id": "198500049-36dc67b1",
+   "content_sha256": "36dc67b1e7d7e0e50609efe66512145d075d94b761f41ec73072657f022e818f",
+   "ee_text": "비타민의 보급(소모성질환, 임산부·수유부 등) 신경통, 근육통, 관절통, 말초신경염(알코올성, 당뇨병성), 말초신경마비",
+   "ee_doc_id": "19",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:40Z"
+}

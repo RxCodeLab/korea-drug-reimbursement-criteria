@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005640",
+ "item_name": "경방평위산산(단미엑스혼합제)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000814",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089515]대추엑스산|[M089512]생강엑스산|[M082727]감초엑스산|[M089507]후박엑스산|[M089506]진피엑스산|[M089505]창출엑스산",
+ "main_item_ingr_eng": "Atractylodes Rhizome Extract Powder/Citrus Unshiu Peel Extract Powder/Glycyrrhiza Extract Powder/Jujube Extract Powder/Magnolia Bark Extract Powder/Raw Ginger Extract Powder",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005640",
+ "revisions": [
+  {
+   "revision_id": "200005640-9ffab8db",
+   "content_sha256": "9ffab8db76a804e1d1cbc4908979daa7e6a691cd5d66815ae2c842365e05355c",
+   "ee_text": "한방건강보험용",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2019-11-07"
+  },
+  {
+   "revision_id": "200005640-ff32c91b",
+   "content_sha256": "ff32c91bc79dd19d6be1ba9bfba303a869ab8c21ce52fd7a656edc0351197cd7",
+   "ee_text": "한방의료보험용",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

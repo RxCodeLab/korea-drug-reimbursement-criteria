@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201644",
+ "item_name": "한신후리나환",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20021111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040006]감초|[M081396]감국|[M040205]방풍|[M040213]인삼|[M040225]복령|[M040139]맥문동|[M040202]반하|[M040538]진피|[M040279]석고|[M050752]생강|[M051333]조구등",
+ "main_item_ingr_eng": "Chrysanthemi Indici Flos/Citrus Unshiu Peel/Ginseng/Gypsum Fibrosum/Licorice/Liriope Tuber/Pinellia Tuber/Poria/Raw Ginger/Saposhnikovia Root/Uncariae Ramulus cum Uncus",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201644",
+ "revisions": [
+  {
+   "revision_id": "200201644-a17ec9b0",
+   "content_sha256": "a17ec9b05edd1268de6c648165916b29fb1c2ea8b33eda62a8a724fb85b5eb04",
+   "ee_text": "만성두통의 증상완화(중년이후, 또는 고혈압의 경향이 있는 경우)",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

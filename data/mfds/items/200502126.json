@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502126",
+ "item_name": "시알딘정",
+ "entp_name": "미래바이오제약(주)",
+ "permit_date": "20050222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040631]탄산수소나트륨|[M051022]히드로탈시트|[M216095]규산알루민산마그네슘|[M050857]시메티딘",
+ "main_item_ingr_eng": "Cimetidine/Hydrotalcite/Magnesium Aluminosilicate/Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "A02AH",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502126",
+ "revisions": [
+  {
+   "revision_id": "200502126-d81be63c",
+   "content_sha256": "d81be63c1157ebb62254be80f9ba52fb1be4bb8cc84cd64f684f5321cf72f1c9",
+   "ee_text": "위통, 속쓰림, 체함, 구역",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:08Z",
+   "last_observed_at": "2026-08-28T13:24:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:08Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199401292",
+ "item_name": "브레노솔주",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "19940826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204427]L-글루탐산|[M222531]L-류신|[M218567]L-메티오닌|[M209360]L-발린|[M204435]L-세린|[M204437]L-시스테인|[M214313]L-티로신|[M103077]L-아르기닌|[M244189]L-리신아세트산염|[M215288]L-히스티딘|[M088656]글리신|[M202247]L-아스파르트산|[M209366]L-알라닌|[M222530]L-이소류신|[M103060]L-트레오닌|[M218015]L-트립토판|[M204442]L-페닐알라닌|[M214861]L-프롤린",
+ "main_item_ingr_eng": "Glycine/L-Alanine/L-Arginine/L-Aspartic Acid/L-Cysteine/L-Glutamic Acid/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Acetate/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine",
+ "edi_code": "",
+ "atc_code": "B05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199401292",
+ "revisions": [
+  {
+   "revision_id": "199401292-5c1685e3",
+   "content_sha256": "5c1685e338fd6164a81446cd601d2bd663f6cf2adcd6d32aec70773a80b49168",
+   "ee_text": "다음 상태 시 아미노산 보급 : 저단백혈증, 저영양상태, 수술 전후",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:45Z",
+   "last_observed_at": "2026-08-28T13:23:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:45Z"
+}

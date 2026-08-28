@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100795",
+ "item_name": "코비안에스정",
+ "entp_name": "삼아제약(주)",
+ "permit_date": "20010419",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M222724]페닐레프린염산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/Phenylephrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01BA53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100795",
+ "revisions": [
+  {
+   "revision_id": "200100795-c9e0e2fd",
+   "content_sha256": "c9e0e2fd4ec24386ce6b005d80060e55bfbc0a41e9f7f4673e984157fbf2a612",
+   "ee_text": "- 감기 또는 알레르기성 및 혈관운동성 비염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘, 눈물 - 부비동염에 의함 비충혈의 일시적 완화",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

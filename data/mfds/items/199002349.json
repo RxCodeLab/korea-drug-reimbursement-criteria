@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199002349",
+ "item_name": "자믹정(독시라민숙신산염)",
+ "entp_name": "삼익제약(주)",
+ "permit_date": "19900326",
+ "cancel_date": "20231001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M250452]독시라민숙신산염",
+ "main_item_ingr_eng": "Doxylamine Succinate",
+ "edi_code": "",
+ "atc_code": "N05CM",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199002349",
+ "revisions": [
+  {
+   "revision_id": "199002349-e94d0d17",
+   "content_sha256": "e94d0d174a2681e0de6603dea1cf2cb1441ba85c602ec49cf046f97b35e362ca",
+   "ee_text": "불면증의 보조치료 및 진정",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:43Z"
+}

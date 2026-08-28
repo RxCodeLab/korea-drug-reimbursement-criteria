@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200701316",
+ "item_name": "일청액",
+ "entp_name": "(주)일화",
+ "permit_date": "20070131",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M101459]진피70%에탄올틴크(1→5)|[M279284]L-멘톨|[M246203]DL-카르니틴염산염|[M206774]감초엑스(4→1)|[M084303]용담유동엑스|[M101460]건강70%에탄올틴크(1→5)|[M227893]육계70%에탄올틴크(1->5)",
+ "main_item_ingr_eng": "Cinnamon Bark 70% Ethanol Tincture (1→5)/Citrus Unshiu Peel 70% Ethanol Tincture (1→5)/DL-Carnitine Hydrochloride/Gentian Root and Rhizome Fluid Extract/Ginger 70% Ethanol Tincture (1→5)/Glycyrrhiza Extract (4→1)/L-Menthol",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701316",
+ "revisions": [
+  {
+   "revision_id": "200701316-5c988f87",
+   "content_sha256": "5c988f878a90ba2cd8594143f1c258e36afdc3787bbedc6931c7027eb76d1842",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:11Z",
+   "last_observed_at": "2026-08-28T13:24:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:11Z"
+}

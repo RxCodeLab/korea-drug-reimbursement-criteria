@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106247",
+ "item_name": "푸레파인겔",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20210830",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인|[M223237]테트라히드로졸린염산염|[M261256]이소프로필메틸페놀",
+ "main_item_ingr_eng": "Isopropyl Methylphenol/Lidocaine/Tetrahydrozoline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C05AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106247",
+ "revisions": [
+  {
+   "revision_id": "202106247-c5da32f8",
+   "content_sha256": "c5da32f8b47eaa18142fcb6f75853527e2b758abc09817180c03d6f5bdaba58c",
+   "ee_text": "치열·치핵의 아픔·가려움·부종(부기)·출혈의 일시적 완화 및 소독",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:25Z",
+   "last_observed_at": "2026-08-28T13:25:25Z",
+   "official_revision_date": "2021-08-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:25Z"
+}

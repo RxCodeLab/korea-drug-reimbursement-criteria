@@ -12,16 +12,15 @@
  "edi_code": "",
  "atc_code": "B03XA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700311",
+ "history_fetched_at": "2026-08-27T13:54:16Z",
  "revisions": [
   {
    "revision_id": "199700311-06cc2c3b",
    "content_sha256": "06cc2c3b4c8137e785f67536cedc94d189f714be5e93629281ec86ad8fc5506a",
    "ee_text": "1. 증후성 빈혈 2. 수혈이 필요한 빈혈",
-   "ee_doc_id": "14",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199700311/EE",
    "first_observed_at": "2026-08-27T13:54:16Z",
-   "last_observed_at": "2026-08-27T13:54:16Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-08-28T13:23:48Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:54:16Z"
+ ]
 }

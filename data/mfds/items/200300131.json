@@ -12,15 +12,15 @@
  "edi_code": "658600360",
  "atc_code": "A10BB12",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300131",
+ "history_fetched_at": "2026-08-27T13:27:44Z",
  "revisions": [
   {
    "revision_id": "200300131-5194cb48",
    "content_sha256": "5194cb48009bb162813fbda9b9d4675b325856da9adb9fddebfa2c4a2d25cd8f",
    "ee_text": "- 단독요법 - 병용요법",
-   "ee_doc_id": "18",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200300131/EE",
    "first_observed_at": "2026-08-27T13:27:44Z",
-   "last_observed_at": "2026-08-27T13:27:44Z",
-   "official_revision_date": "2022-09-23"
+   "last_observed_at": "2026-08-28T13:24:01Z"
   },
   {
    "revision_id": "200300131-cb0cd62d",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:27:44Z",
    "last_observed_at": "2026-08-27T13:27:44Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:27:44Z"
+ ]
 }

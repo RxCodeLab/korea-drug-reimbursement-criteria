@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500034",
+ "item_name": "한풍대건중탕엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19850514",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M102072]백삼|[M040007]건강|[M040260]산초|[M050042]교이",
+ "main_item_ingr_eng": "Ginger/Saccharum Granorum/White Ginseng/Zanthoxylum Peel",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500034",
+ "revisions": [
+  {
+   "revision_id": "198500034-2c19f75a",
+   "content_sha256": "2c19f75a5379c9169a9a3d82714af6e6ca56b54d43ddd25958e98296008c7cf4",
+   "ee_text": "복부가 냉하고 아프며, 복부팽만감이 있는 경우",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:40Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308005",
+ "item_name": "듀비에정0.5밀리그램(로베글리타존황산염)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20130704",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255019]로베글리타존황산염",
+ "main_item_ingr_eng": "Lobeglitazone Sulfate",
+ "edi_code": "643306610",
+ "atc_code": "A10BG04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308005",
+ "revisions": [
+  {
+   "revision_id": "201308005-3d4fd5bd",
+   "content_sha256": "3d4fd5bdb682ea5dd2137cf20289cff2f93aeb86898eee5885fd87a993379c4a",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법 보조제로 투여한다.",
+   "ee_doc_id": "24",
+   "first_observed_at": "2026-08-28T13:24:30Z",
+   "last_observed_at": "2026-08-28T13:24:30Z",
+   "official_revision_date": "2021-02-02"
+  },
+  {
+   "revision_id": "201308005-4b2ebcdc",
+   "content_sha256": "4b2ebcdc18d7f6bd96db69c7393db29e79e10ffc3bf3c4dbff09c5bdac33f1f6",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법 보조제로 투여한다. - 메트포르민 단독요법으로 충분한 혈당조절을 할 수 없는 경우 이 약을 병용투여한다.",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:30Z",
+   "last_observed_at": "2026-08-28T13:24:30Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:30Z"
+}

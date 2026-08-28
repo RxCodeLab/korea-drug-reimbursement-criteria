@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200712233",
+ "item_name": "카티젤겔(리도카인염산염수화물)",
+ "entp_name": "금청약품(주)",
+ "permit_date": "20071108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222842]리도카인염산염수화물",
+ "main_item_ingr_eng": "Lidocaine Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712233",
+ "revisions": [
+  {
+   "revision_id": "200712233-7fc3bccd",
+   "content_sha256": "7fc3bccd1c18b91af233a497cb9839192aa1a12917008071096875071aca2573",
+   "ee_text": "1) 방광경검사, 카테터 삽입, 소식자법, 기타 요도내 수술시 남성ㆍ여성의 요도 2) 위내시경, 기관지경과 같은 내시경 검사시 비강 및 인두강 3) 직장경 검사시 4) 삽관시",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:15Z",
+   "last_observed_at": "2026-08-28T13:24:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:15Z"
+}

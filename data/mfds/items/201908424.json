@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908424",
+ "item_name": "트리벤다크림",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20191216",
+ "cancel_date": "20241216",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M202821]겐타마이신황산염|[M088335]클로트리마졸|[M200675]베타메타손디프로피오네이트",
+ "main_item_ingr_eng": "Betamethasone Dipropionate/Clotrimazole/Gentamicin Sulfate",
+ "edi_code": "",
+ "atc_code": "D07CC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908424",
+ "revisions": [
+  {
+   "revision_id": "201908424-9e5b3dcc",
+   "content_sha256": "9e5b3dccdcc692667194e281af5769bd93783b928f404862915042bb6a1b7ead",
+   "ee_text": "세균성 또는 진균성 감염 또는 감염이 우려되는 코르티코이드 반응성 피부질환 : 알레르기피부염, 접촉피부염, 아토피피부염, 지루피부염, 습진, 간찰진, 박탈피부염, 만성단순태선(신경피부염)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:13Z",
+   "last_observed_at": "2026-08-28T13:25:13Z",
+   "official_revision_date": "2019-12-16"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:13Z"
+}

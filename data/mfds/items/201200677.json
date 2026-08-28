@@ -12,15 +12,15 @@
  "edi_code": "646901850",
  "atc_code": "J05AG05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200677",
+ "history_fetched_at": "2026-08-27T12:23:54Z",
  "revisions": [
   {
    "revision_id": "201200677-f9d80dda",
    "content_sha256": "f9d80ddad75e45f1d4059011518e72a75e2a907b8f68d7064a971401ca688b7c",
    "ee_text": "- 장시간 작용형 카보테그라비르 주사와 릴피비린 주사 투여 전에 릴피비린의 내약성 평가를 위한 경구 도입요법 - 릴피비린과 카보테그라비르 주사요법을 일시적으로 대체하려는 환자에서의 경구 요법",
-   "ee_doc_id": "28",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201200677/EE",
    "first_observed_at": "2026-08-27T12:23:54Z",
-   "last_observed_at": "2026-08-27T12:23:54Z",
-   "official_revision_date": "2022-06-03"
+   "last_observed_at": "2026-08-28T13:24:27Z"
   },
   {
    "revision_id": "201200677-86a6adf0",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:23:54Z",
    "last_observed_at": "2026-08-27T12:23:54Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:23:54Z"
+ ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197800389",
+ "item_name": "베노라민정(수출명:BENORAMINATab.BENORAMINTab.)",
+ "entp_name": "신일제약(주)",
+ "permit_date": "19780929",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040218]베타메타손|[M223212]d-클로르페니라민말레산염",
+ "main_item_ingr_eng": "Betamethasone/D-Chlorpheniramine Maleate",
+ "edi_code": "",
+ "atc_code": "H02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197800389",
+ "revisions": [
+  {
+   "revision_id": "197800389-0a04733d",
+   "content_sha256": "0a04733d31bbed1a7f613f0603f3c2eb53ad076f13774d82f4a1054883931207",
+   "ee_text": "- 급성 두드러기, 알레르기성 비염, 약진 - 아토피성 피부염, 습진, 접촉성 피부염의 급성기 및 급성악화기",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:38Z"
+}

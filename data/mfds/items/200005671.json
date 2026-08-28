@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005671",
+ "item_name": "천지인환",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000908",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040187]목향|[M050891]신곡|[M040006]감초|[M264937]모과|[M040538]진피|[M051892]필발|[M040007]건강|[M040813]후박|[M050048]곽향|[M040228]향부자|[M040548]창출|[M095260]사인|[M050036]육계|[M095260]사인|[M050036]육계|[M040187]목향|[M050891]신곡|[M040006]감초|[M264937]모과|[M040538]진피|[M051892]필발|[M040007]건강|[M040813]후박|[M050048]곽향|[M040228]향부자|[M040548]창출",
+ "main_item_ingr_eng": "Agastachis Herba/Amomum Fruit/Atractylodes Rhizome/Aucklandiae Radix/Chaenomelis Fructus/Cinnamon Bark/Citrus Unshiu Peel/Cyperus Rhizome/Ginger/Licorice/Magnolia Bark/Massa Medicata Fermentata/Piperis Longi Fructus",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005671",
+ "revisions": [
+  {
+   "revision_id": "200005671-b9f9a74e",
+   "content_sha256": "b9f9a74e383ca6e2a3a3cef8a7bdffe1215ea8f733bde781deccceb3c6f387ee",
+   "ee_text": "소화불량, 복통(배아픔), 식체(위체), 구토·설사, 속쓰림",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2020-03-04"
+  },
+  {
+   "revision_id": "200005671-e959f827",
+   "content_sha256": "e959f8271e68f1b4417f9bc8f52a873c5d301341df6b375a0fa67c920203efac",
+   "ee_text": "소화불량, 복통, 식체(위체), 구토·설사, 속쓰림",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

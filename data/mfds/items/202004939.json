@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004939",
+ "item_name": "콜브론에이시럽",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20200708",
+ "cancel_date": "20250708",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050972]아세틸시스테인|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Acetylcysteine/Chlorpheniramine Maleate",
+ "edi_code": "",
+ "atc_code": "R05CB10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004939",
+ "revisions": [
+  {
+   "revision_id": "202004939-c9f5e6c7",
+   "content_sha256": "c9f5e6c7ab2db0fe0187f1569fe2766bd496dc875ac0990e43a348c39ebb7219",
+   "ee_text": "1. 다음 질환에서의 기침, 가래 : 급만성 호흡기 질환(기관지염, 인후두염, 비인두염등) 2. 소아의 유행성 감기, 감기시 기침",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:20Z",
+   "last_observed_at": "2026-08-28T13:25:20Z",
+   "official_revision_date": "2020-07-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:20Z"
+}

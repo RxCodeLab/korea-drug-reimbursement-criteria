@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803371",
+ "item_name": "이브원큐연질캡슐(이부프로펜)",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20180817",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜",
+ "main_item_ingr_eng": "Ibuprofen",
+ "edi_code": "",
+ "atc_code": "M01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803371",
+ "revisions": [
+  {
+   "revision_id": "201803371-734be466",
+   "content_sha256": "734be4664885b9a5774564abb274ad4c2915f28b7a1ff4bfc9bb88c21a425f58",
+   "ee_text": "- 감기로 인한 발열 및 동통(통증), 요통, 생리통, 류마티양 관절염, 연소성(어리거나 젊은나이에 나타나는) 류마티양 관절염, 골관절염(퇴행성 관절질환), 수술후 동통(통증) - 두통, 편두통, 치통, 근육통, 신경통, 강직성 척추염, 급성통풍, 건선(건선,마른비늘증)성 관절 염, 연조직손상(염좌(삠), 좌상(타박상/멍)), 비관절 류마티스질환(건염(힘줄염), 건초염(힘줄윤 활막염), 활액(윤활)낭염)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:01Z",
+   "last_observed_at": "2026-08-28T13:25:01Z",
+   "official_revision_date": "2018-08-17"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:01Z"
+}

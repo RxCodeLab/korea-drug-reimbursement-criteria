@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501348",
+ "item_name": "뉴디핀정(암로디핀말레산염)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20050418",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250983]암로디핀말레산염",
+ "main_item_ingr_eng": "Amlodipine Maleate",
+ "edi_code": "657300150",
+ "atc_code": "C08CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501348",
+ "revisions": [
+  {
+   "revision_id": "200501348-b360e542",
+   "content_sha256": "b360e5422266e28a39878d87a7edc4cde1c4b2708b8bf2ef2b3c74e33e4cb5db",
+   "ee_text": "고혈압, 관상동맥의 고정폐쇄(안정협심증) 또는 관상혈관계의 혈관경련수축(이형협심증)에 의한 심근성허혈증",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:24:07Z",
+   "last_observed_at": "2026-08-28T13:24:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:07Z"
+}

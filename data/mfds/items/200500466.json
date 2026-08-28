@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500466",
+ "item_name": "해피카인액(리도카인염산염수화물)",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "20050421",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222842]리도카인염산염수화물",
+ "main_item_ingr_eng": "Lidocaine Hydrochloride Hydrate",
+ "edi_code": "655603301,655605261",
+ "atc_code": "R02AD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500466",
+ "revisions": [
+  {
+   "revision_id": "200500466-268a1ba4",
+   "content_sha256": "268a1ba41f64cdba06102e0a1ce9a34c684a6aee3a726d5aee0c8cc3809e1180",
+   "ee_text": ": 구강ㆍ인두 점막의 자극, 염증시 국소마취 : X-선 촬영 또는 치과 인상(dental impressions)시의 구역 억제",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:07Z",
+   "last_observed_at": "2026-08-28T13:24:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:07Z"
+}

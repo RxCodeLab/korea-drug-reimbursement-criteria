@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200811798",
+ "item_name": "알부테크연질캡슐",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20081223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096429]시아노코발라민|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M040133]리보플라빈|[M223258]티아민염산염|[M258994]아스코르브산|[M223240]토코페롤아세테이트|[M200412]로얄젤리",
+ "main_item_ingr_eng": "Ascorbic Acid/Cyanocobalamin/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Royal Jelly/Thiamine Hydrochloride/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811798",
+ "revisions": [
+  {
+   "revision_id": "200811798-dcd304eb",
+   "content_sha256": "dcd304eb2bb093c6c522e88a157c326b2db444922250a34f5bfe9d06f2d54b54",
+   "ee_text": "1 , B 2 , B 6 , C, E의 보급\">",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z",
+   "official_revision_date": "2021-08-05"
+  },
+  {
+   "revision_id": "200811798-c4c53fb7",
+   "content_sha256": "c4c53fb764e9e5f707729ba05d25193704497d9e8eed2e3e362d63adf2a4a1b1",
+   "ee_text": "- 육체피로, 임신ㆍ수유기, 병중ㆍ병후의 체력 저하시, 노년기 - 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨ㆍ목결림, 수족저림ㆍ수족냉증(손발이 차가움)",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:20Z"
+}

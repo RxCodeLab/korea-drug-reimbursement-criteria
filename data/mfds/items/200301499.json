@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301499",
+ "item_name": "마그네스정",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20030120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255050]락트산마그네슘수화물|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Magnesium Lactate Hydrate/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A12CC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301499",
+ "revisions": [
+  {
+   "revision_id": "200301499-b418bc9c",
+   "content_sha256": "b418bc9c8a747cfd41a1db4babac10c472e7780e7b33acd4fbae2e93b25cb678",
+   "ee_text": "○다음 경우의 비타민 B6의 보급 -임신･수유기 -병중･병후의 체력저하 시 ○마그네슘결핍으로 인한 근육경련",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z",
+   "official_revision_date": "2020-06-23"
+  },
+  {
+   "revision_id": "200301499-ee722e49",
+   "content_sha256": "ee722e49e8748ce73befec24d5ee6ecfea497a6f950baf7c3fd2722a94a3fef5",
+   "ee_text": "○ 마그네슘 결핍으로 인한 근육 경련",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:02Z"
+}

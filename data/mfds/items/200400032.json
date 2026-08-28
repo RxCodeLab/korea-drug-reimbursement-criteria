@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "N06AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400032",
+ "history_fetched_at": "2026-08-27T11:58:02Z",
  "revisions": [
   {
    "revision_id": "200400032-0ece1994",
    "content_sha256": "0ece199462f8d16720658ab22622183281373feb0ac06b9512ced03b8786d473",
    "ee_text": "우울증",
-   "ee_doc_id": "14",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200400032/EE",
    "first_observed_at": "2026-08-27T11:58:02Z",
-   "last_observed_at": "2026-08-27T11:58:02Z",
-   "official_revision_date": "2022-03-11"
+   "last_observed_at": "2026-08-28T13:24:04Z"
   },
   {
    "revision_id": "200400032-e9e15fce",
@@ -40,6 +40,5 @@
    "first_observed_at": "2026-08-27T11:58:02Z",
    "last_observed_at": "2026-08-27T11:58:02Z"
   }
- ],
- "history_fetched_at": "2026-08-27T11:58:02Z"
+ ]
 }

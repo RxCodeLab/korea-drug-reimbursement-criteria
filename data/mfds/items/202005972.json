@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005972",
+ "item_name": "롱키드하이연조엑스(소건중탕)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20200824",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050042]교이|[M040007]건강|[M040006]감초|[M040523]작약|[M040071]대추|[M050037]계지",
+ "main_item_ingr_eng": "Cinnamomi Ramulus/Ginger/Jujube/Licorice/Peony Root/Saccharum Granorum",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005972",
+ "revisions": [
+  {
+   "revision_id": "202005972-e54aca40",
+   "content_sha256": "e54aca40884108dd91993db7027c8d3b9ec236b79183ed6c1eff25d8481c2a8d",
+   "ee_text": "체질 허약으로 피로하기 쉽고 혈색이 좋지 않으며 복통(배아픔), 두근거림, 손발이 화끈거리거나 냉하고 빈뇨 또는 다뇨 등을 수반하는 증상 : 소아허약체질, 피로권태, 신경질, 만성위장염, 소아야뇨증, 야제증(어린이가 밤에 울고 보채는 증상)",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z",
+   "official_revision_date": "2023-03-27"
+  },
+  {
+   "revision_id": "202005972-fc05f4df",
+   "content_sha256": "fc05f4df9c3efeae45fcfb7ed5d1d7e78cdf9ef5451c58f0fbbc5dc1e146e3d6",
+   "ee_text": "체질 허약으로 피로하기 쉽고 혈색이 좋지 않으며 복통, 두근거림, 손발이 화끈거리거나 냉하고 빈뇨 또는 다뇨 등을 수반하는 증상 : 소아허약체질, 피로권태, 신경질, 만성위장염, 소아야뇨증, 야제증(어린이가 밤에 울고 보채는 증상)",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-08-24",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:21Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301685",
+ "item_name": "아이톡쿨점안액, 아이톡쿨점안액(순), 아이톡쿨점안액(라이트)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20230526",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102967]히프로멜로오스|[M040702]포도당|[M040438]염화칼륨|[M040426]염화나트륨|[M102967]히프로멜로오스|[M040702]포도당|[M040438]염화칼륨|[M040426]염화나트륨|[M040438]염화칼륨|[M040702]포도당|[M102967]히프로멜로오스|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Glucose/Hypromellose/Potassium Chloride/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301685",
+ "revisions": [
+  {
+   "revision_id": "202301685-059cc4ff",
+   "content_sha256": "059cc4ff7e9422e58c2953d47a601d8c3c9216073d2a456d3185cf4db52294c4",
+   "ee_text": "눈의 피로, 눈물의 보조(눈의 건조), 하드콘택트렌즈 또는 소프트렌즈 착용 시 불쾌감, 눈의 침침함(눈곱이 많을 때 등)",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:25:33Z",
+   "last_observed_at": "2026-08-28T13:25:33Z",
+   "official_revision_date": "2024-09-05"
+  },
+  {
+   "revision_id": "202301685-6ebf02bd",
+   "content_sha256": "6ebf02bdbb851cc20fadda7639996c1252ec5797b1fdf19dc74050d9b8d9eebb",
+   "ee_text": "눈의 피로, 눈물의 보조(눈의 건조), 하드콘택트렌즈 착용시 불쾌감, 눈의 침침함(눈곱이 많을 때 등)",
+   "ee_doc_id": "1",
+   "official_revision_date": "2023-05-26",
+   "first_observed_at": "2026-08-28T13:25:33Z",
+   "last_observed_at": "2026-08-28T13:25:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:33Z"
+}

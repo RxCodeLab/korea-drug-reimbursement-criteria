@@ -7,21 +7,20 @@
  "permit_date": "20250827",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M070044]실로스타졸|[M070044]실로스타졸|[M095744]로수바스타틴칼슘",
+ "main_item_ingr": "[M095744]로수바스타틴칼슘|[M070044]실로스타졸|[M070044]실로스타졸",
  "main_item_ingr_eng": "Cilostazol/Rosuvastatin Calcium",
  "edi_code": "644309840",
  "atc_code": "B01AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502257",
+ "history_fetched_at": "2026-08-27T13:52:03Z",
  "revisions": [
   {
    "revision_id": "202502257-5e8dbf90",
    "content_sha256": "5e8dbf90f06133f69dc0dac0e7df87248ed824c24b13fb3b2cbb905799058279",
    "ee_text": "죽상동맥경화에 의한 만성동맥폐색증(폐색성 동맥경화증, 당뇨병성 말초혈관병증) 환자로서 로수바스타틴과 실로스타졸을 안정적으로 복용하고 있는 경우 병용투여의 대체",
-   "ee_doc_id": "1",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202502257/EE",
    "first_observed_at": "2026-08-27T13:52:03Z",
-   "last_observed_at": "2026-08-27T13:52:03Z",
-   "official_revision_date": "2025-08-27"
+   "last_observed_at": "2026-08-28T13:25:38Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:52:03Z"
+ ]
 }

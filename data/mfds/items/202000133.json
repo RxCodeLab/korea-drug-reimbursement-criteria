@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000133",
+ "item_name": "세라코프시럽(딸기향, 바나나향)",
+ "entp_name": "(주)텔콘알에프제약",
+ "permit_date": "20200108",
+ "cancel_date": "20250108",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M203364]슈도에페드린염산염|[M222957]덱스트로메토르판브롬화수소산염수화물|[M050058]구아이페네신|[M203364]슈도에페드린염산염|[M222957]덱스트로메토르판브롬화수소산염수화물|[M050058]구아이페네신",
+ "main_item_ingr_eng": "Dextromethorphan Hydrobromide Hydrate/Guaifenesin/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05FA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000133",
+ "revisions": [
+  {
+   "revision_id": "202000133-dbd0b241",
+   "content_sha256": "dbd0b241be689ae0cbd77178b35f08f12ca2222d5f829e69b4e4fdc8f0a00ab3",
+   "ee_text": "기침, 가래, 콧물, 코막힘, 재채기",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2020-01-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

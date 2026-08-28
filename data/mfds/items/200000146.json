@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000146",
+ "item_name": "계마순정산(계마각반탕엑스)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20000905",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040006]감초|[M040071]대추|[M040135]마황|[M040769]행인|[M050037]계지|[M050752]생강|[M051307]백작약",
+ "main_item_ingr_eng": "Apricot Kernel/Cinnamomi Ramulus/Ephedra Herb/Jujube/Licorice/Peony Root/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000146",
+ "revisions": [
+  {
+   "revision_id": "200000146-f9edda13",
+   "content_sha256": "f9edda13c02627f63e9c4f703b6be63cf80bbd37d367fd4bbd562472ef13a4ab",
+   "ee_text": "감기, 기침, 가려움",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:23:52Z",
+   "last_observed_at": "2026-08-28T13:23:52Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:52Z"
+}

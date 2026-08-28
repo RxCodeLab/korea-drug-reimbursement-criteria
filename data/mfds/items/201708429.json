@@ -12,15 +12,15 @@
  "edi_code": "652105710",
  "atc_code": "A16AX14",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708429",
+ "history_fetched_at": "2026-08-27T11:55:11Z",
  "revisions": [
   {
    "revision_id": "201708429-451fad66",
    "content_sha256": "451fad6647e94e31f0e4a98b2c4d1ed9bc7996edd0e8f0faa3444db79060e1eb",
    "ee_text": "순응변이(amenable mutation)를 가진 파브리병(α-galactosidase A 결핍)으로 확진 받은 12세 이상 환자의 장기간 치료",
-   "ee_doc_id": "21",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201708429/EE",
    "first_observed_at": "2026-08-27T11:55:11Z",
-   "last_observed_at": "2026-08-27T11:55:11Z",
-   "official_revision_date": "2022-10-06"
+   "last_observed_at": "2026-08-28T13:24:58Z"
   },
   {
    "revision_id": "201708429-cb0782e9",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T11:55:11Z",
    "last_observed_at": "2026-08-27T11:55:11Z"
   }
- ],
- "history_fetched_at": "2026-08-27T11:55:11Z"
+ ]
 }

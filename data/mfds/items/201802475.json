@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802475",
+ "item_name": "노바포스정(암로디핀베실산염)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20180615",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222875]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate",
+ "edi_code": "656204860",
+ "atc_code": "C08CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802475",
+ "revisions": [
+  {
+   "revision_id": "201802475-f1b06cf8",
+   "content_sha256": "f1b06cf8710cf1324a6fb7a5f701502c2157267ed61371605020b69ba4499d7c",
+   "ee_text": "1. 고혈압, 관상동맥의 고정폐쇄(안정형협심증) 또는 관상혈관계의 혈관 경련과 혈관수축(이형협심증)에 의한 심근성허혈증 2. 최근 혈관조영술로 관상동맥심질환이 확인된 환자로 심부전이 없거나 심박출량이 40% 미만이 아닌 환자의 -협심증으로 인한 입원의 위험성 감소 -관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:00Z",
+   "last_observed_at": "2026-08-28T13:25:00Z",
+   "official_revision_date": "2018-06-15"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:00Z"
+}

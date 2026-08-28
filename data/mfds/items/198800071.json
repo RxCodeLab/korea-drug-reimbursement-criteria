@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800071",
+ "item_name": "한풍길경엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040048]길경",
+ "main_item_ingr_eng": "Platycodon Root",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800071",
+ "revisions": [
+  {
+   "revision_id": "198800071-571bc1ed",
+   "content_sha256": "571bc1edbaa29bcfa2d181bd0f004a4e85c8476ceff8ca91318dda42fd5b2073",
+   "ee_text": "거담, 진해, 배농",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:41Z",
+   "last_observed_at": "2026-08-28T13:23:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:41Z"
+}

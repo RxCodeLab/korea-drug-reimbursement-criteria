@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200104073",
+ "item_name": "위시원환(사역산)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20010915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040006]감초|[M040536]지실|[M040523]작약|[M040336]시호",
+ "main_item_ingr_eng": "Bupleurum Root/Licorice/Peony Root/Poncirus Immature Fruit",
+ "edi_code": "",
+ "atc_code": "A03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200104073",
+ "revisions": [
+  {
+   "revision_id": "200104073-d7617ae5",
+   "content_sha256": "d7617ae5d8a17ba4347a5e618dcd807b653a15c3252568f3d120484af3f37f7c",
+   "ee_text": "흉복부가 무겁고 괴로움이 있는 경우의 다음 증상 : 위염, 위통, 복통(배아픔)",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:59Z",
+   "last_observed_at": "2026-08-28T13:23:59Z",
+   "official_revision_date": "2020-03-04"
+  },
+  {
+   "revision_id": "200104073-4fe2ac8d",
+   "content_sha256": "4fe2ac8d74b52619fc28cfa2bbf714c04b940c763dc019c092a983b5d1e4805e",
+   "ee_text": "흉복부가 무겁고 괴로움이 있는 경우의 다음 증상 : 위염, 위통, 복통",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:59Z",
+   "last_observed_at": "2026-08-28T13:23:59Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:59Z"
+}

@@ -12,15 +12,15 @@
  "edi_code": "651904410",
  "atc_code": "N05AX12",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604198",
+ "history_fetched_at": "2026-08-27T13:27:16Z",
  "revisions": [
   {
    "revision_id": "201604198-129ae733",
    "content_sha256": "129ae733591506720f12f0c4abb4990568666f5b14d23268e2ecc70c12be7737",
    "ee_text": "1. 조현병 2. 양극성 장애와 관련된 급성 조증 및 혼재 삽화의 치료 3. 뚜렛장애",
-   "ee_doc_id": "19",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201604198/EE",
    "first_observed_at": "2026-08-27T13:27:16Z",
-   "last_observed_at": "2026-08-27T13:27:16Z",
-   "official_revision_date": "2022-11-02"
+   "last_observed_at": "2026-08-28T13:24:51Z"
   },
   {
    "revision_id": "201604198-e3b0c442",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:27:16Z",
    "last_observed_at": "2026-08-27T13:27:16Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:27:16Z"
+ ]
 }

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908082",
+ "item_name": "칼디온정",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20191126",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M115129]탄산칼슘 과립95%|[M102050]콜레칼시페롤농축분말",
+ "main_item_ingr_eng": "Calcium Carbonate Granules 95%/Cholecalciferol Concentrate Powder",
+ "edi_code": "662504310",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908082",
+ "revisions": [
+  {
+   "revision_id": "201908082-3d22b82b",
+   "content_sha256": "3d22b82b0502677cc30aa9f12d665a86a7215602ef0dd0e15831ef83890c7fd1",
+   "ee_text": "- 임신 ∙ 수유기, 발육기, 노년기 2. 이 약에 함유된 비타민 등의 효능 ∙ 효과는 다음과 같다. ∙ 뼈, 이의 발육불량, ∙ 구루병의 예방",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:25:13Z",
+   "last_observed_at": "2026-08-28T13:25:13Z",
+   "official_revision_date": "2023-11-15"
+  },
+  {
+   "revision_id": "201908082-261d8a36",
+   "content_sha256": "261d8a36e1162d85403e367cffdf4476127b61dfae2ddbee64e48437b1db2e9b",
+   "ee_text": "- 임신 ∙ 수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능 ∙ 효과는 다음과 같다. 비타민D(농축콜레칼시페롤): ∙ 뼈, 이의 발육불량, ∙ 구루병의 예방",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-11-26",
+   "first_observed_at": "2026-08-28T13:25:13Z",
+   "last_observed_at": "2026-08-28T13:25:13Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:13Z"
+}

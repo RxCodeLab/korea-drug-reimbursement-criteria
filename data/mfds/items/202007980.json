@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007980",
+ "item_name": "유린타민캡슐",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20201118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088656]글리신|[M209366]L-알라닌|[M204427]L-글루탐산",
+ "main_item_ingr_eng": "Glycine/L-Alanine/L-Glutamic Acid",
+ "edi_code": "",
+ "atc_code": "G04CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007980",
+ "revisions": [
+  {
+   "revision_id": "202007980-2519bf45",
+   "content_sha256": "2519bf4540756a9d9e71cec83deac286a717363f8a2533334303d5020d34595d",
+   "ee_text": "전립선비대에 의한 배뇨곤란 ㆍ 잔뇨 및 잔뇨감 ㆍ 빈뇨",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:22Z",
+   "last_observed_at": "2026-08-28T13:25:22Z",
+   "official_revision_date": "2020-11-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:22Z"
+}

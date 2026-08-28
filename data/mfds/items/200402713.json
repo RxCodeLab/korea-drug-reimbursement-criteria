@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "D04A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402713",
+ "history_fetched_at": "2026-08-27T12:29:37Z",
  "revisions": [
   {
    "revision_id": "200402713-0f62409c",
    "content_sha256": "0f62409c627e5ed8d05cd68374e3fb530b1be23e268b86b344b4d7f2144eace3",
    "ee_text": "습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움 , 벌레물림, 두드러기, 동창(언 상처)",
-   "ee_doc_id": "24",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200402713/EE",
    "first_observed_at": "2026-08-27T12:29:37Z",
-   "last_observed_at": "2026-08-27T12:29:37Z",
-   "official_revision_date": "2025-09-19"
+   "last_observed_at": "2026-08-28T13:24:05Z"
   },
   {
    "revision_id": "200402713-85742864",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:29:37Z",
    "last_observed_at": "2026-08-27T12:29:37Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:29:37Z"
+ ]
 }

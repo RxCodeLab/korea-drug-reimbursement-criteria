@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200702384",
+ "item_name": "센티콜캡슐",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20070223",
+ "cancel_date": "20250417",
+ "status": "취하",
+ "main_item_ingr": "[M203364]슈도에페드린염산염|[M222857]세티리진염산염",
+ "main_item_ingr_eng": "Cetirizine Hydrochloride/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01BA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702384",
+ "revisions": [
+  {
+   "revision_id": "200702384-aae8cd1e",
+   "content_sha256": "aae8cd1e69048f745596187d49bbab8e8e9a9cd7157417c95c9866051ae37dcb",
+   "ee_text": ": 코막힘, 재채기, 콧물, 눈•코의 소양증",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:11Z",
+   "last_observed_at": "2026-08-28T13:24:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:11Z"
+}

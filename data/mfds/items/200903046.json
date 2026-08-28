@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200903046",
+ "item_name": "칼레트라정",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20090428",
+ "cancel_date": "20250428",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M259361]로피나비르|[M259362]리토나비르",
+ "main_item_ingr_eng": "Lopinavir/Ritonavir",
+ "edi_code": "",
+ "atc_code": "J05AR10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903046",
+ "revisions": [
+  {
+   "revision_id": "200903046-26db8375",
+   "content_sha256": "26db8375e8ddee1fe6aaeabac802bfd8cc0d517196ac5c203f5d80c50ef83bcd",
+   "ee_text": "다른 항레트로바이러스제와의 병용으로 HIV-1(인체 면역결핍 바이러스)의 감염 치료",
+   "ee_doc_id": "22",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:21Z"
+}

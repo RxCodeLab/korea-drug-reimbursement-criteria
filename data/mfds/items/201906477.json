@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906477",
+ "item_name": "올메스탄정20밀리그램(올메사르탄메독소밀)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20190917",
+ "cancel_date": "20240917",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M269761]올메사르탄메독소밀",
+ "main_item_ingr_eng": "Olmesartan Medoxomil",
+ "edi_code": "",
+ "atc_code": "C09CA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906477",
+ "revisions": [
+  {
+   "revision_id": "201906477-3859dffe",
+   "content_sha256": "3859dffee397d96935ea09c3a25ae294c29d034af7621b50d3089db7545fe7da",
+   "ee_text": "본태성 고혈압의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:11Z",
+   "last_observed_at": "2026-08-28T13:25:11Z",
+   "official_revision_date": "2019-09-17"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:11Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200904944",
+ "item_name": "위생단큐환",
+ "entp_name": "신화제약(주)",
+ "permit_date": "20090706",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040187]목향|[M040214]백출|[M095260]사인|[M040260]산초|[M040527]정향|[M040536]지실|[M050048]곽향|[M050036]육계|[M040006]감초|[M040007]건강|[M051892]필발|[M040815]후추|[M040198]박하|[M040538]진피|[M050729]산사",
+ "main_item_ingr_eng": "Agastachis Herba/Amomum Fruit/Atractylodes Rhizome White/Aucklandiae Radix/Cinnamon Bark/Citrus Unshiu Peel/Clove/Ginger/Hawthorn Fruit/Licorice/Mentha Herb/Piperis Longi Fructus/Piperis Nigri Fructus/Poncirus Immature Fruit/Zanthoxylum Peel",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904944",
+ "revisions": [
+  {
+   "revision_id": "200904944-5c988f87",
+   "content_sha256": "5c988f878a90ba2cd8594143f1c258e36afdc3787bbedc6931c7027eb76d1842",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z",
+   "official_revision_date": "2019-10-07"
+  },
+  {
+   "revision_id": "200904944-aecee3ec",
+   "content_sha256": "aecee3ec009da46c8a3688f83095bada2ade930c5b6af9b095c4231477ca09f4",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 식체(위체), 구역, 구토",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:21Z"
+}

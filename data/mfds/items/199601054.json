@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199601054",
+ "item_name": "쎄실크림",
+ "entp_name": "(주)제뉴파마",
+ "permit_date": "19961101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202821]겐타마이신황산염|[M223043]베타메타손발레레이트",
+ "main_item_ingr_eng": "Betamethasone Valerate/Gentamicin Sulfate",
+ "edi_code": "",
+ "atc_code": "D07CC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199601054",
+ "revisions": [
+  {
+   "revision_id": "199601054-5d8ab236",
+   "content_sha256": "5d8ab23662e8279105264c898da4026519b810f92cdd8bad07d92f47c42de355",
+   "ee_text": "- 2차 감염된 알레르기성 또는 염증성 피부질환 : 습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진, 박탈피부염, 가려움, 건선 - 1도 화상",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:23:47Z",
+   "last_observed_at": "2026-08-28T13:23:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:47Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800072",
+ "item_name": "클리손연고(히드로코르티손)(수출용)",
+ "entp_name": "시믹씨엠오코리아주식회사",
+ "permit_date": "20180105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040818]히드로코르티손",
+ "main_item_ingr_eng": "Hydrocortisone",
+ "edi_code": "",
+ "atc_code": "D07AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800072",
+ "revisions": [
+  {
+   "revision_id": "201800072-0140c424",
+   "content_sha256": "0140c4243c3ca06c18c7b6e9bf3aabc4fbef561da5cac8f1b121ad1266f44c82",
+   "ee_text": "습진ㆍ피부염군, 피부가려움, 벌레물린데",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:58Z",
+   "last_observed_at": "2026-08-28T13:24:58Z",
+   "official_revision_date": "2018-01-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:58Z"
+}

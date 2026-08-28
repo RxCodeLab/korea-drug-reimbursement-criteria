@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199301536",
+ "item_name": "이노엔디에스엘1:2:3주사액",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "19930621",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256373]락트산나트륨액50%|[M040426]염화나트륨|[M044300]포도당일수화물",
+ "main_item_ingr_eng": "Glucose Monohydrate/Sodium Chloride/Sodium Lactate Solution 50%",
+ "edi_code": "640001570",
+ "atc_code": "B05BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301536",
+ "revisions": [
+  {
+   "revision_id": "199301536-114dd141",
+   "content_sha256": "114dd141e521fef9eb62ce3f8c05964726579cb8a9ceb9c4d523996960cf1dd0",
+   "ee_text": "○ 탈수증, 수술전후 등의 수분ㆍ전해질 보급 ○ 에너지 보급",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:23:45Z",
+   "last_observed_at": "2026-08-28T13:23:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:45Z"
+}

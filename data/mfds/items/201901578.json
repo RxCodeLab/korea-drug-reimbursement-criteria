@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901578",
+ "item_name": "보위황정",
+ "entp_name": "미래바이오제약(주)",
+ "permit_date": "20190314",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040631]탄산수소나트륨|[M229810]황백가루",
+ "main_item_ingr_eng": "Phellodendron Bark Powder/Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "A02AH",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901578",
+ "revisions": [
+  {
+   "revision_id": "201901578-3ba523b3",
+   "content_sha256": "3ba523b3cb5b3be91a0973ddd654e556cf2c3a12293214adae3b52fd64d88a43",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:25:05Z",
+   "last_observed_at": "2026-08-28T13:25:05Z",
+   "official_revision_date": "2024-01-09"
+  },
+  {
+   "revision_id": "201901578-cf980bd3",
+   "content_sha256": "cf980bd3cb92f0b8db48ff37a408bf1b0a3b9e4852615a8bbe2cb4a0b0afe75f",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림, 식욕감퇴(식욕부진), 소화불량, 과식",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-03-14",
+   "first_observed_at": "2026-08-28T13:25:05Z",
+   "last_observed_at": "2026-08-28T13:25:05Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:05Z"
+}

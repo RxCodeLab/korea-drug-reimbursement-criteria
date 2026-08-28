@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006525",
+ "item_name": "뉴글리클라메트정500/80mg(수출용)",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20200922",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244179]메트포르민염산염|[M222831]글리클라지드",
+ "main_item_ingr_eng": "Gliclazide/Metformin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A10BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006525",
+ "revisions": [
+  {
+   "revision_id": "202006525-6817955f",
+   "content_sha256": "6817955f971b4c57b75eb46e3a9ebe6b3bc99ae5b01602245b161b6256cb2285",
+   "ee_text": "인슐린 비의존성 당뇨병(제2형)환자에서 식이요법 및 운동요법과 병행하여 글리클라지드 또는 메트포르민 단독요법으로 혈당조절효과가 불충분한 경우에 글리클라지드와 메트포르민 병용요법의 대체",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z",
+   "official_revision_date": "2020-09-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:21Z"
+}

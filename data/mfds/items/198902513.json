@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198902513",
+ "item_name": "호르반내복액",
+ "entp_name": "한림제약(주)",
+ "permit_date": "19890808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102908]타우린|[M223183]카페인무수물|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223258]티아민염산염|[M104720]반비틴크(1→5)|[M084680]루론딘|[M200412]로얄젤리",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Banbi Tincture (1→5)/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Royal Jelly/Rulondin/Taurine/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198902513",
+ "revisions": [
+  {
+   "revision_id": "198902513-a7f0ec36",
+   "content_sha256": "a7f0ec36c6b90aa37ff3f59a9810e8bba25e03bd3769d4853471bec46e2fea24",
+   "ee_text": "자양강장, 육체피로, 병중, 병후,발열성·소모성 질환, 식욕부진, 영양장해 등의 경우의 영양보급, 허약체질",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198902513/EE",
+   "first_observed_at": "2026-08-28T13:23:42Z",
+   "last_observed_at": "2026-08-28T13:23:42Z"
+  },
+  {
+   "revision_id": "198902513-6b951331",
+   "content_sha256": "6b9513310ce05b7fb38cbe6cde806845d190384d2eb50fc4df25b390a1fd64e5",
+   "ee_text": "자양강장, 육체피로, 병중, 병후,발열성.소모성 질환, 식욕부진, 영양장해 등의 경우의 영양보급, 자양강장, 허약체질",
+   "ee_doc_id": "23",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:42Z",
+   "last_observed_at": "2026-08-28T13:23:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:42Z"
+}

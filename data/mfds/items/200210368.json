@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200210368",
+ "item_name": "비브라운5%포도당생리식염주사액",
+ "entp_name": "비브라운코리아(주)",
+ "permit_date": "20020506",
+ "cancel_date": "20241213",
+ "status": "취하",
+ "main_item_ingr": "[M044300]포도당일수화물|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Glucose Monohydrate/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "B05BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210368",
+ "revisions": [
+  {
+   "revision_id": "200210368-114dd141",
+   "content_sha256": "114dd141e521fef9eb62ce3f8c05964726579cb8a9ceb9c4d523996960cf1dd0",
+   "ee_text": "○ 탈수증, 수술전후 등의 수분ㆍ전해질 보급 ○ 에너지 보급",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:01Z",
+   "last_observed_at": "2026-08-28T13:24:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:01Z"
+}

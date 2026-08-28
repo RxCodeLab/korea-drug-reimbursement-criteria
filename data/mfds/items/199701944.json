@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701944",
+ "item_name": "비오라제정(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "19970304",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M040558]염산치아민|[M225584]글리실리진산암모늄|[M099875]우담즙엑스|[M202216]DL-염산카르니틴|[M085615]비오디아스타제700G",
+ "main_item_ingr_eng": "Ammonium Glycyrrhizinate/Biodiastase 700 G/DL-Carnitine Hydrochloride/Ox Bile Extract/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701944",
+ "revisions": [
+  {
+   "revision_id": "199701944-b2e7a1fd",
+   "content_sha256": "b2e7a1fdb78229d2a92e8f570fa1bfe4808a8cd53956849642829e0329753b20",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 소화불량으로 인한 위부팽만감, 과식, 식체(위체), 소화촉진, 구역, 구토",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:48Z"
+}

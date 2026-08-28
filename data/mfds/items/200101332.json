@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101332",
+ "item_name": "이노엔염산도파민프리믹스160mg주",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20010504",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M044300]포도당일수화물|[M222958]도파민염산염",
+ "main_item_ingr_eng": "Dopamine Hydrochloride/Glucose Monohydrate",
+ "edi_code": "640002180",
+ "atc_code": "C01CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101332",
+ "revisions": [
+  {
+   "revision_id": "200101332-11ecb5a6",
+   "content_sha256": "11ecb5a69382f7fb7e834d5f7f1b236d3bb00f8fb9168b9146dd96725536fdbc",
+   "ee_text": "심근경색, 외상, 내독성패혈증, 수술후·신장애·만성심대상부전증(울혈성심부전)으로 인한 쇽, 핍뇨, 무뇨증, 심박출량 감소로 인한 저혈압",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

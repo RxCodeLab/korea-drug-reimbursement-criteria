@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198902241",
+ "item_name": "휴온스탄산수소나트륨주사액(8.4%)(수출명 : SOLCARBIT Injection)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "19890525",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Sodium Bicarbonate",
+ "edi_code": "670603751",
+ "atc_code": "B05XA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198902241",
+ "revisions": [
+  {
+   "revision_id": "198902241-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:42Z",
+   "last_observed_at": "2026-08-28T13:23:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:42Z"
+}

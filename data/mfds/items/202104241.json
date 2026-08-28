@@ -12,15 +12,15 @@
  "edi_code": "650701150",
  "atc_code": "L01EE04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104241",
+ "history_fetched_at": "2026-08-27T12:26:13Z",
  "revisions": [
   {
    "revision_id": "202104241-3c7e4fdb",
    "content_sha256": "3c7e4fdbdfbff2a41c3b1bbb13e11fb83b22b518b02d1bb1b815610b2840e703",
    "ee_text": "증상이 있고 수술이 불가능한 총상 신경섬유종 (plexiform neurofibroma)을 동반한 신경섬유종증 1형인 만 3세 이상 소아 및 성인 환자의 치료",
-   "ee_doc_id": "14",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202104241/EE",
    "first_observed_at": "2026-08-27T12:26:13Z",
-   "last_observed_at": "2026-08-27T12:26:13Z",
-   "official_revision_date": "2025-12-11"
+   "last_observed_at": "2026-08-28T13:25:24Z"
   },
   {
    "revision_id": "202104241-edd7639f",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:26:13Z",
    "last_observed_at": "2026-08-27T12:26:13Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:26:13Z"
+ ]
 }

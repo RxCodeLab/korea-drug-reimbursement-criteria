@@ -7,21 +7,20 @@
  "permit_date": "20170125",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M233228]콜레칼시페롤농축물(분말형)|[M249411]리세드론산나트륨2.5수화물",
+ "main_item_ingr": "[M249411]리세드론산나트륨2.5수화물|[M233228]콜레칼시페롤농축물(분말형)",
  "main_item_ingr_eng": "Cholecalciferol Concentrate Powder/Risedronate Sodium 2.5 Hydrate",
  "edi_code": "662503610",
  "atc_code": "M05BB07",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700469",
+ "history_fetched_at": "2026-08-27T13:47:24Z",
  "revisions": [
   {
    "revision_id": "201700469-dedeee37",
    "content_sha256": "dedeee37949a53f9d4813a1e5a4e4b1f4a0fcf30419d322d433d390833819429",
    "ee_text": "폐경 후 여성의 골다공증 치료와 예방, 남성의 골다공증 치료",
-   "ee_doc_id": "3",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201700469/EE",
    "first_observed_at": "2026-08-27T13:47:24Z",
-   "last_observed_at": "2026-08-27T13:47:24Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-08-28T13:24:54Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:47:24Z"
+ ]
 }

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702682",
+ "item_name": "킥센연질캡슐(나프록센)",
+ "entp_name": "지엘파마(주)",
+ "permit_date": "20170529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050116]나프록센",
+ "main_item_ingr_eng": "Naproxen",
+ "edi_code": "",
+ "atc_code": "M01AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702682",
+ "revisions": [
+  {
+   "revision_id": "201702682-cb938fbe",
+   "content_sha256": "cb938fbe0aae3b95af976261a340a57e93c44422df402ad81ebdbb39c69c2678",
+   "ee_text": "1. 주효능효과 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건 (힘줄) 염, 급성통풍, 월경곤란증 2. 다음 질환에도 사용할 수 있습니다. 활액낭염, 골격근장애(염좌 (삠) , 좌상, 외상, 요천통), 수술후 동통 (통증) , 편두통, 발치후 동통 (통증)",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:56Z",
+   "last_observed_at": "2026-08-28T13:24:56Z",
+   "official_revision_date": "2018-11-09"
+  },
+  {
+   "revision_id": "201702682-6fc8acfe",
+   "content_sha256": "6fc8acfee8749914df8c2a49ad8b390d96984c9b1585913ec8d26ac3d0be30f4",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건염, 급성통풍, 월경곤란증 활액낭염, 골격근장애(염좌, 좌상, 외상, 요천통), 수술후 동통, 편두통, 발치후 동통",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:56Z",
+   "last_observed_at": "2026-08-28T13:24:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:56Z"
+}

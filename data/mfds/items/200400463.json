@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400463",
+ "item_name": "이지엔6애니연질캡슐(이부프로펜)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20040924",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜",
+ "main_item_ingr_eng": "Ibuprofen",
+ "edi_code": "641602130",
+ "atc_code": "M01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400463",
+ "revisions": [
+  {
+   "revision_id": "200400463-f6fb2b74",
+   "content_sha256": "f6fb2b74b7c784b34473654815d6878ab4dd4d548f2eb3312768d7a41c9f22e0",
+   "ee_text": "- 감기로 인한 발열 및 동통(통증), 요통, 생리통, 류마티양 관절염, 연소성(어리거나 젊은나이에 나타나는) 류마티양 관절염, 골관절염(퇴행성 관절질환), 수술후 동통(통증) - 두통, 편두통, 치통, 근육통, 신경통, 강직성 척추염, 급성통풍, 건선(건선,마른비늘증)성 관절염, 연조직손상(염좌(삠), 좌상(타박상/멍)), 비관절 류마티스질환(건염(힘줄염), 건초염(힘줄윤활막염), 활액(윤활)낭염)",
+   "ee_doc_id": "35",
+   "first_observed_at": "2026-08-28T13:24:04Z",
+   "last_observed_at": "2026-08-28T13:24:04Z",
+   "official_revision_date": "2024-08-26"
+  },
+  {
+   "revision_id": "200400463-0d76a17f",
+   "content_sha256": "0d76a17fc407431186aac92aa7f35b552e8a5389ef043fd0bcf4efc866e8e277",
+   "ee_text": "- 감기로 인한 발열 및 동통(통증), 요통, 생리통, 류마티양 관절염, 연소성(어리거나 젊은나이에 나타나는) 류마티양 관절염, 골관절염(퇴행성 관절질환), 수술후 동통(통증) - 두통, 편두통, 치통, 근육통, 신경통, 강직성 척추염, 급성통풍, 건선(마른비닐증)성 관절염, 연조직손상(염좌(삠), 좌상(타박상)), 비관절 류마티스질환(건염(힘줄염), 건초염(힘줄윤활막염), 활액(윤활)낭염)",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:04Z",
+   "last_observed_at": "2026-08-28T13:24:04Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:04Z"
+}

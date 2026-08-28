@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900729",
+ "item_name": "페인트라주(트라마돌염산염)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20190130",
+ "cancel_date": "20231004",
+ "status": "취하",
+ "main_item_ingr": "[M255410]트라마돌염산염",
+ "main_item_ingr_eng": "Tramadol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900729",
+ "revisions": [
+  {
+   "revision_id": "201900729-da421cfe",
+   "content_sha256": "da421cfee7111df690c9a3220c5fc88c9ed2098306aa84b316ae838962b1b57e",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 중증 및 중등도의 급만성 동통(각종 암 등), 진단 및 수술 후 동통",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:03Z",
+   "last_observed_at": "2026-08-28T13:25:03Z",
+   "official_revision_date": "2019-01-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:03Z"
+}

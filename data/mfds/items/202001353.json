@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001353",
+ "item_name": "레로진정(레보세티리진염산염)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20200226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244596]레보세티리진염산염",
+ "main_item_ingr_eng": "Levocetirizine Hydrochloride",
+ "edi_code": "662504370",
+ "atc_code": "R06AE09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001353",
+ "revisions": [
+  {
+   "revision_id": "202001353-81674cac",
+   "content_sha256": "81674cac059a0cc2fd21380213fc0114d8486a37048bf3ba265aa1784c8676e1",
+   "ee_text": "다음 질환의 증상 완화 1. 계절성 알레르기성 비염 또는 다년성 알레르기성 비염 (지속적 알레르기성 비염 포함) 2. 만성 특발성 두드러기 3. 가려움증을 동반한 피부염 및 습진(하이드로코티손 외용제와 병용)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202001353/EE",
+   "first_observed_at": "2026-08-28T13:25:15Z",
+   "last_observed_at": "2026-08-28T13:25:15Z"
+  },
+  {
+   "revision_id": "202001353-f0108581",
+   "content_sha256": "f0108581f31058d2fd58151731b01450340319994dbb888f5d0ce807634f6ce5",
+   "ee_text": "다음 질환의 증상 완화 1. 계절성 알레르기성 비염 또는 다년성 알레르기성 비염 2. 만성 특발성 두드러기 3. 가려움증을 동반한 피부염 및 습진(하이드로코티손 외용제와 병용)",
+   "ee_doc_id": "6",
+   "official_revision_date": "2021-07-13",
+   "first_observed_at": "2026-08-28T13:25:15Z",
+   "last_observed_at": "2026-08-28T13:25:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:15Z"
+}

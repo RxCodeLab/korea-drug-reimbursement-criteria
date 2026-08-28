@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402003",
+ "item_name": "코르티카로션2.5%(히드로코르티손)",
+ "entp_name": "(주)메디카코리아",
+ "permit_date": "20140425",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040818]히드로코르티손",
+ "main_item_ingr_eng": "Hydrocortisone",
+ "edi_code": "646003761",
+ "atc_code": "D07AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402003",
+ "revisions": [
+  {
+   "revision_id": "201402003-0a5fb29b",
+   "content_sha256": "0a5fb29bfb66cf0f925312e221ead8475372b9b6ab3cbba66be694b872333d01",
+   "ee_text": "습진 ㆍ 피부염군, 피부가려움, 벌레물린데",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:35Z",
+   "last_observed_at": "2026-08-28T13:24:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:35Z"
+}

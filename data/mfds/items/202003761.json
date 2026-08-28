@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003761",
+ "item_name": "브로나인장용정(브로멜라인)",
+ "entp_name": "(주)일화",
+ "permit_date": "20200522",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095415]브로멜라인",
+ "main_item_ingr_eng": "Bromelain",
+ "edi_code": "640904230",
+ "atc_code": "M09AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003761",
+ "revisions": [
+  {
+   "revision_id": "202003761-9456deba",
+   "content_sha256": "9456debaf37f4fd1517bff0495b9626bf374144382c9a7ce4902ae141c1dad63",
+   "ee_text": "부종(부기)을 동반한 염증 증상의 완화, 외상(상처) 또는 수술 후의 부종(부기)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:18Z",
+   "last_observed_at": "2026-08-28T13:25:18Z",
+   "official_revision_date": "2020-05-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:18Z"
+}

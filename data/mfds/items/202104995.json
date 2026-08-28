@@ -12,15 +12,15 @@
  "edi_code": "645406600",
  "atc_code": "A10BK03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104995",
+ "history_fetched_at": "2026-08-27T12:26:14Z",
  "revisions": [
   {
    "revision_id": "202104995-b04a2b21",
    "content_sha256": "b04a2b2199e88398694a64e1557d38e2c4c3dd1fc305398298a6d5753040050f",
    "ee_text": "이 약은 성인 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. - 단독요법 - 병용요법 혈당이 충분히 조절되지 않는 제2형 당뇨병 환자 중 심혈관계 질환이 확인된 환자에서 심혈관계 사건 발생에 대한 영향은 ‘사용상의 주의사항 10. 전문가를 위한 정보 2) 임상시험 정보’항을 참고한다.",
-   "ee_doc_id": "12",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202104995/EE",
    "first_observed_at": "2026-08-27T12:26:14Z",
-   "last_observed_at": "2026-08-27T12:26:14Z",
-   "official_revision_date": "2025-08-19"
+   "last_observed_at": "2026-08-28T13:25:25Z"
   },
   {
    "revision_id": "202104995-0404478e",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:26:14Z",
    "last_observed_at": "2026-08-27T12:26:14Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:26:14Z"
+ ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200710602",
+ "item_name": "10%포도당가엔에이.케이주1",
+ "entp_name": "제이더블유생명과학(주)",
+ "permit_date": "20070918",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040438]염화칼륨|[M040426]염화나트륨|[M040702]포도당",
+ "main_item_ingr_eng": "Glucose/Potassium Chloride/Sodium Chloride",
+ "edi_code": "678900030",
+ "atc_code": "B05BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710602",
+ "revisions": [
+  {
+   "revision_id": "200710602-f852d635",
+   "content_sha256": "f852d635f55a957f6b83c1dda58c9298f7ff58908e5d861a779db449fd4ede01",
+   "ee_text": "◦ 탈수증, 수술전후 등의 수분ㆍ전해질 보급 ◦ 에너지 보급",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:14Z",
+   "last_observed_at": "2026-08-28T13:24:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:14Z"
+}

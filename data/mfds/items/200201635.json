@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201635",
+ "item_name": "한신시박탕엑스과립(소시호합반하후박탕)",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20020214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051301]자소엽|[M040006]감초|[M051291]인삼|[M040071]대추|[M040813]후박|[M040789]황금|[M040225]복령|[M040202]반하|[M050752]생강|[M040336]시호",
+ "main_item_ingr_eng": "Bupleurum Root/Ginseng/Jujube/Licorice/Magnolia Bark/Perilla Leaf/Pinellia Tuber/Poria/Raw Ginger/Scutellaria Root",
+ "edi_code": "",
+ "atc_code": "N07XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201635",
+ "revisions": [
+  {
+   "revision_id": "200201635-55842bc8",
+   "content_sha256": "55842bc86661b3ecff6059b04f3337c1c907c09bc53116a44d0147685013d83b",
+   "ee_text": "인후, 식도부위의 이물감, 두근거림, 어지러움, 구역 등을 동반하는 다음의 증상 : 소아천식, 기관지천식, 기관지염, 기침, 정신불안",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

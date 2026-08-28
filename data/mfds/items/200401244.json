@@ -12,15 +12,15 @@
  "edi_code": "651900510",
  "atc_code": "B01AC18",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401244",
+ "history_fetched_at": "2026-08-27T13:37:55Z",
  "revisions": [
   {
    "revision_id": "200401244-07527de8",
    "content_sha256": "07527de814ea39e7f9153f7857b612bc55211e5fc41bbe583257c13b5060abe3",
    "ee_text": "혈전증에 의한 합병증을 포함한 동맥혈전색전질환 재발방지(2차 예방) 및 혈소판 응집억제 - 불안정 협심증으로 인한 급성 심근경색의 예방 - 혈관수술후 혈전증 - 일과성 허혈에 의한 뇌혈관 장애 또는 가역적 허혈성 신경학적 결손(Reversible Ischemic Neurologic Deficit; RIND)을 나타내는 뇌혈관장애의 예방",
-   "ee_doc_id": "20",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200401244/EE",
    "first_observed_at": "2026-08-27T13:37:55Z",
-   "last_observed_at": "2026-08-27T13:37:55Z",
-   "official_revision_date": "2024-11-23"
+   "last_observed_at": "2026-08-28T13:24:04Z"
   },
   {
    "revision_id": "200401244-47234ccc",
@@ -40,6 +40,5 @@
    "first_observed_at": "2026-08-27T13:37:55Z",
    "last_observed_at": "2026-08-27T13:37:55Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:37:55Z"
+ ]
 }

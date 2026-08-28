@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199202241",
+ "item_name": "미모나크림(우레아)",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "19920318",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089404]우레아",
+ "main_item_ingr_eng": "Urea",
+ "edi_code": "648600542",
+ "atc_code": "D02AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199202241",
+ "revisions": [
+  {
+   "revision_id": "199202241-5f8abced",
+   "content_sha256": "5f8abceddb0fd6e379dd5060886e3651146a3c571e9cd46791490b47d1437e66",
+   "ee_text": "진행성 지장각피증(주부습진의 건조형), 손ㆍ발바닥 각피증, 어린선(魚鱗蘚), 노인성 건피증, 모공성 태선, 아토피피부",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:23:44Z",
+   "last_observed_at": "2026-08-28T13:23:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:44Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405128",
+ "item_name": "옵서미트정10밀리그램(마시텐탄)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20141103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260639]마시텐탄(미분화)",
+ "main_item_ingr_eng": "Macitentan Micronized",
+ "edi_code": "646902400",
+ "atc_code": "C02KX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405128",
+ "revisions": [
+  {
+   "revision_id": "201405128-6335eac9",
+   "content_sha256": "6335eac994d8fc7edcdb1a558664ea90b70c729e423e19077e9ef154eee0a68a",
+   "ee_text": "WHO 기능분류 Ⅱ~Ⅲ 단계에 해당하는 폐동맥고혈압(WHO GroupⅠ) 성인 환자의 장기 치료. 이 약은 특발성 폐동맥고혈압, 유전성 폐동맥고혈압, 결합조직질환과 연관된 폐동맥고혈압, 선천성 심장질환과 연관된 폐동맥고혈압 환자에서 유효성이 입증되었다.",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:39Z",
+   "last_observed_at": "2026-08-28T13:24:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:39Z"
+}

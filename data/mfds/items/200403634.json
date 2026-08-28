@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403634",
+ "item_name": "헤모퀸탑연질캡슐",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20040506",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258994]아스코르브산|[M250837]오로트산수화물|[M223289]폴산|[M255994]시아노코발라민1000배산|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M222934]글루콘산제일철수화물",
+ "main_item_ingr_eng": "Ascorbic Acid/Cyanocobalamin Powder 0.1%/Ferrous Gluconate Hydrate/Folic Acid/Nicotinamide/Orotic Acid Hydrate/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "B03AE10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403634",
+ "revisions": [
+  {
+   "revision_id": "200403634-0825418a",
+   "content_sha256": "0825418a95952d981da9f3b7cb0ef489aef236a946984f2b36e1a9f1a3f54a36",
+   "ee_text": "- 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:06Z",
+   "last_observed_at": "2026-08-28T13:24:06Z",
+   "official_revision_date": "2018-02-20"
+  },
+  {
+   "revision_id": "200403634-b2e289ba",
+   "content_sha256": "b2e289bac6af708282185021fb009bf7594d7e2953cbe191aba9b9885c8acec5",
+   "ee_text": "- 육체피로 - 임신·수유기 - 병중·병후의 체력저하시",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:06Z",
+   "last_observed_at": "2026-08-28T13:24:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:06Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708046",
+ "item_name": "투투스타정80/5밀리그램",
+ "entp_name": "코스맥스파마(주)",
+ "permit_date": "20171123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090395]텔미사르탄|[M222875]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate/Telmisartan",
+ "edi_code": "055100140",
+ "atc_code": "C09DB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708046",
+ "revisions": [
+  {
+   "revision_id": "201708046-771aa958",
+   "content_sha256": "771aa958ee6b15e09c01ed8025fe3e12e164d27c0c7f9b4dc9512853d384c398",
+   "ee_text": "암로디핀 또는 텔미사르탄 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:24:58Z",
+   "last_observed_at": "2026-08-28T13:24:58Z",
+   "official_revision_date": "2017-11-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:58Z"
+}

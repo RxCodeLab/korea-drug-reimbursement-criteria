@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900999",
+ "item_name": "조인탑600정",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20190219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096428]벤포티아민|[M243601]판토텐산칼슘|[M247683]콜린타르타르산염|[M040488]이노시톨|[M222995]리보플라빈부티레이트|[M040064]니코틴산아미드|[M255994]시아노코발라민1000배산|[M204304]피리독신염산염|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr_eng": "Benfotiamine/Calcium Pantothenate/Choline Tartrate/Cyanocobalamin Powder 0.1%/Inositol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Sodium Chondroitin Sulfate",
+ "edi_code": "",
+ "atc_code": "A11EX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900999",
+ "revisions": [
+  {
+   "revision_id": "201900999-1b657792",
+   "content_sha256": "1b657792196eca51ca7be590fb9474c5b1cc692a62a0de7c7db9fcfc1daa1003",
+   "ee_text": "1. 다음의 경우의 비타민 B 1 , B 2 , B 6 의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. · 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) · 각기 · 눈의 피로",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201900999/EE",
+   "first_observed_at": "2026-08-28T13:25:04Z",
+   "last_observed_at": "2026-08-28T13:25:04Z"
+  },
+  {
+   "revision_id": "201900999-f67d3426",
+   "content_sha256": "f67d34268fe1641e70fd51316c6cf968b66f7b8f0cfd47e560f8df47af97d773",
+   "ee_text": "1. 다음의 경우의 비타민 B 1 , B 2 , B 6 의 보급 - 육체피로 - 임신⋅수유기 - 병중⋅병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 이 약에 함유된 비타민 등의 효능⋅효과는 다음과 같다. ⋅ 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) ⋅ 각기 ⋅ 눈의 피로",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-02-19",
+   "first_observed_at": "2026-08-28T13:25:04Z",
+   "last_observed_at": "2026-08-28T13:25:04Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:04Z"
+}

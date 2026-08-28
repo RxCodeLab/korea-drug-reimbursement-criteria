@@ -12,16 +12,15 @@
  "edi_code": "",
  "atc_code": "B05BA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805767",
+ "history_fetched_at": "2026-08-27T13:52:38Z",
  "revisions": [
   {
    "revision_id": "200805767-4bf25cb5",
    "content_sha256": "4bf25cb5d6ef7b5116829a8629855003a0a131569fc23e12f3b04d0ece723129",
    "ee_text": "다음 상태시의 아미노산 보급 : 저단백혈증, 저영양 상태, 수술전후",
-   "ee_doc_id": "15",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200805767/EE",
    "first_observed_at": "2026-08-27T13:52:38Z",
-   "last_observed_at": "2026-08-27T13:52:38Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-08-28T13:24:17Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:52:38Z"
+ ]
 }

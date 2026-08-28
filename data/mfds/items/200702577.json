@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "A03AA05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702577",
+ "history_fetched_at": "2026-08-27T13:40:56Z",
  "revisions": [
   {
    "revision_id": "200702577-2bfbde92",
    "content_sha256": "2bfbde92ff5035d402e9af8f554bd57789e8cfc34aff46faae57748c06fc13c6",
    "ee_text": "위ㆍ식도역류 및 열공헤르니아, 위ㆍ십이지장궤양등에 수반되는 동통, 소화불량, 구역, 구토, 기능적결장질환(과민성대장염, 경련성결장), 유소아의 습관성구토, 비감염성의 장관통과기능장해(설사, 변비), 소화관수술후의 장폐색, 엑스선(내시경)검사시의 유문 및 결장경련의 완화",
-   "ee_doc_id": "12",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200702577/EE",
    "first_observed_at": "2026-08-27T13:40:56Z",
-   "last_observed_at": "2026-08-27T13:40:56Z",
-   "official_revision_date": "2020-09-30"
+   "last_observed_at": "2026-08-28T13:24:11Z"
   },
   {
    "revision_id": "200702577-94961765",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:40:56Z",
    "last_observed_at": "2026-08-27T13:40:56Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:40:56Z"
+ ]
 }

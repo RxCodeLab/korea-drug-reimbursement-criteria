@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199100256",
+ "item_name": "라시크롤주",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19910402",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M217500]염화칼슘수화물|[M040438]염화칼륨|[M251286]염화마그네슘수화물|[M227966]아세트산나트륨수화물",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Magnesium Chloride Hydrate/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "B05XA30",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100256",
+ "revisions": [
+  {
+   "revision_id": "199100256-25b5a160",
+   "content_sha256": "25b5a1604f4f643867466d2dd75a82fb98f5af427ff6bbfbbcab7b2d2ccaeb0b",
+   "ee_text": "포도당 영양수액 또는 아미노산 수액을 보급받는 성인환자의 전해질 균형 유지를 위한 전해질 보급",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:43Z"
+}

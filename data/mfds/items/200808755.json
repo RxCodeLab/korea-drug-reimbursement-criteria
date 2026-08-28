@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200808755",
+ "item_name": "마노엘정",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20080818",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080745]노회엑스|[M223167]우르소데옥시콜산|[M040306]수산화마그네슘",
+ "main_item_ingr_eng": "Aloe Extract/Magnesium Hydroxide/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A06AB20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808755",
+ "revisions": [
+  {
+   "revision_id": "200808755-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:24:19Z",
+   "last_observed_at": "2026-08-28T13:24:19Z",
+   "official_revision_date": "2020-06-05"
+  },
+  {
+   "revision_id": "200808755-edea8414",
+   "content_sha256": "edea8414889b743f8a1a543d0092dccbda946bf96bac60762edf22a0e4502d7e",
+   "ee_text": "변비, 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:19Z",
+   "last_observed_at": "2026-08-28T13:24:19Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:19Z"
+}

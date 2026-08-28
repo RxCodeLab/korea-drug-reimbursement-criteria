@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302690",
+ "item_name": "세롤진정",
+ "entp_name": "주식회사 노바엠헬스케어",
+ "permit_date": "20230908",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M210377]아셀렌산나트륨오수화물|[M086116]농축콜레칼시페롤|[M243785]산화아연",
+ "main_item_ingr_eng": "Cholecalciferol Concentrate/Sodium Selenite Pentahydrate/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11JB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302690",
+ "revisions": [
+  {
+   "revision_id": "202302690-f7dc68ba",
+   "content_sha256": "f7dc68ba8a5ee440b9de69aed71d101fa5d6fc66f94a91b39d6b1f05196c8fa3",
+   "ee_text": "○ 셀레늄의 보급 ○ 아연의 보급 ○ 다음 경우의 비타민 D의 보급 - 임신ㆍ수유기 - 발육기 - 노년기 ○ 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:25:34Z",
+   "last_observed_at": "2026-08-28T13:25:34Z",
+   "official_revision_date": "2025-01-09"
+  },
+  {
+   "revision_id": "202302690-a7b0f694",
+   "content_sha256": "a7b0f694db347d45b5b281f21c2a053aed09c6c47de1932cbff4249eed205355",
+   "ee_text": "○ 아연의 보급 ○ 다음 경우의 비타민 D의 보급 - 임신․수유기 - 발육기 - 노년기 ○ 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "1",
+   "official_revision_date": "2023-09-08",
+   "first_observed_at": "2026-08-28T13:25:34Z",
+   "last_observed_at": "2026-08-28T13:25:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:34Z"
+}

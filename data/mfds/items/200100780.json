@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100780",
+ "item_name": "동화덴스톨캡슐",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20010831",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051437]카르바조크롬|[M255819]토코페롤아세테이트 2배산|[M256212]리소짐염산염|[M258994]아스코르브산",
+ "main_item_ingr_eng": "Ascorbic Acid/Carbazochrome/Lysozyme Hydrochloride/Tocopherol Acetate Powder 50%",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100780",
+ "revisions": [
+  {
+   "revision_id": "200100780-9c9cefcb",
+   "content_sha256": "9c9cefcbc6c4e66f4a39934aa8d4c20162859dc2ed183e1abddd3f8b08d39459",
+   "ee_text": "치주치료 후 치은염(잇몸염), 경·중등도 치주염(치아 주위 조직염)의 보조치료",
+   "ee_doc_id": "28",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2018-11-23"
+  },
+  {
+   "revision_id": "200100780-9db36f22",
+   "content_sha256": "9db36f22a16614557b6bd237a7cec1c4194d7273e6bc8beda217048bc8da1cbf",
+   "ee_text": "치주치료 후 치은염, 경·중등도 치주염의 보조치료",
+   "ee_doc_id": "26",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

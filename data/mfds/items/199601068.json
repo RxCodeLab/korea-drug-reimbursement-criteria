@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199601068",
+ "item_name": "하이라제정",
+ "entp_name": "명인제약(주)",
+ "permit_date": "19960702",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M267745]디아스타제·프로테아제·셀룰라제|[M050379]리파제",
+ "main_item_ingr_eng": "Diastase·Protease·Cellulase/Lipase/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199601068",
+ "revisions": [
+  {
+   "revision_id": "199601068-286238c3",
+   "content_sha256": "286238c3b12d46d86e2ad405992ae10e43fd39d2ee3a5cf7ad3fca20120802ff",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:23:47Z",
+   "last_observed_at": "2026-08-28T13:23:47Z",
+   "official_revision_date": "2019-12-26"
+  },
+  {
+   "revision_id": "199601068-e9c68ae1",
+   "content_sha256": "e9c68ae1d80b16baf1ab95df9253fa73fa8952715d49303070f40b5a30481609",
+   "ee_text": "위체(체함), 식욕부진(식욕감퇴), 소화불량, 소화불량에 의한 위부ㆍ복부(배부분)팽만감, 과식, 가슴이 답답함, 소화촉진",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:47Z",
+   "last_observed_at": "2026-08-28T13:23:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:47Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800284",
+ "item_name": "구미헥시이소프로필스틱스왑액",
+ "entp_name": "구미제약(주)",
+ "permit_date": "20180122",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액|[M099850]이소프로판올",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution/Isopropanol",
+ "edi_code": "",
+ "atc_code": "D08AC52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800284",
+ "revisions": [
+  {
+   "revision_id": "201800284-478be9cc",
+   "content_sha256": "478be9cc569becb27738e4db669d35c8f055c91ca25c9735e5e2d4b74c38b94f",
+   "ee_text": "- 수술전 환자의 피부소독 - 주사기 바늘, 카테타 삽입 전 환자의 피부소독",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2018-01-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000107",
+ "item_name": "이치원캡슐(청위산)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20200107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051363]생지황|[M040792]황련|[M040070]당귀|[M040185]목단피|[M040329]승마",
+ "main_item_ingr_eng": "Angelica Gigas Root/Cimicifuga Rhizome/Coptis Rhizome/Moutan Root Bark/Rehmanniae Radix Recens",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000107",
+ "revisions": [
+  {
+   "revision_id": "202000107-dabaa4b0",
+   "content_sha256": "dabaa4b063b51843cff01bda72ebcbe07c4a311c4a645c781a6d4dbf80bad0dc",
+   "ee_text": "위열(胃熱)에 의한 치통",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2020-01-07"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

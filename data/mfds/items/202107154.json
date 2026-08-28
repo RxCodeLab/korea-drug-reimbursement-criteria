@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107154",
+ "item_name": "보화공진단현탁액",
+ "entp_name": "원광제약(주)",
+ "permit_date": "20211027",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051291]인삼|[M051364]숙지황|[M040257]산수유|[M040070]당귀|[M050139]녹용|[M040253]사향",
+ "main_item_ingr_eng": "Angelica Gigas Root/Cervi Parvum Cornu/Cornus Fruit/Ginseng/Moschus/Prepared Rehmannia Root",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107154",
+ "revisions": [
+  {
+   "revision_id": "202107154-f3561594",
+   "content_sha256": "f3561594c861c34553db7cce8f8c0488347ac528cdc6eafeb3f2255b675119ae",
+   "ee_text": "∙ 선천성 허약체질, 무력감, 만성병에 의한 체력저하 ∙ 간기능저하로 인한 어지러움, 두통, 만성피로, 월경이상",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:26Z",
+   "last_observed_at": "2026-08-28T13:25:26Z",
+   "official_revision_date": "2021-10-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:26Z"
+}

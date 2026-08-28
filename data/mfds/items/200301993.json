@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301993",
+ "item_name": "로젤민연질캡슐(수출명:EROJELLMIN)",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20021230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M096429]시아노코발라민|[M204304]피리독신염산염|[M040133]리보플라빈|[M223258]티아민염산염|[M258994]아스코르브산|[M223240]토코페롤아세테이트|[M200412]로얄젤리",
+ "main_item_ingr_eng": "Ascorbic Acid/Cyanocobalamin/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Royal Jelly/Thiamine Hydrochloride/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301993",
+ "revisions": [
+  {
+   "revision_id": "200301993-5b9f5aac",
+   "content_sha256": "5b9f5aac879d054d9cba9d4c1300d7e27e0073e7a0e3ab182aa88e0439dca882",
+   "ee_text": "다음 경우의 비타민 B1, B2, B6, C, E의 보급 - 육체피로, 임신ㆍ수유기, 병중ㆍ병후의 체력저하시, 노년기 말초혈행장애 및 갱년기시 다음 증상의 완화 - 어깨ㆍ목결림, 수족저림ㆍ수족냉증(손발이 차가움)",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z",
+   "official_revision_date": "2022-03-04"
+  },
+  {
+   "revision_id": "200301993-273f3afb",
+   "content_sha256": "273f3afbd38c04e76b639665e117032722f44c44d52ff314f441e6cb4185c9e4",
+   "ee_text": "다음 경우의 비타민 B1, B2, B6, C, E의 보급 - 육체피로, 임신ㆍ수유기, 병중ㆍ병후의 체력저하시, 노년기 말초혈행장애 및 갱년기시 다음 증상의 완화 - 어깨ㆍ목결림, 수족저림ㆍ수족냉증",
+   "ee_doc_id": "14",
+   "official_revision_date": "2022-03-04",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

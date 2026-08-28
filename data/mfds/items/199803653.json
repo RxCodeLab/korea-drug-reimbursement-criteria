@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199803653",
+ "item_name": "리미타캅셀(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "19980421",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088762]동클로로필린나트륨|[M051110]염화리소짐|[M241582]초산토코페롤|[M088252]아스코르빈산",
+ "main_item_ingr_eng": "Ascorbic Acid/Chlorophyllin Copper Sodium/Lysozyme Chloride/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803653",
+ "revisions": [
+  {
+   "revision_id": "199803653-1f5ca71f",
+   "content_sha256": "1f5ca71f33e2cfb6dc450d23e2fda9499f0676aaacafbef62f3f7e48021a6409",
+   "ee_text": "치은염∙치조농루에 의한 여러 증상(잇몸의 발적·부기·출혈·고름 등)의 완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199803653/EE",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z"
+  },
+  {
+   "revision_id": "199803653-132d1eb7",
+   "content_sha256": "132d1eb73ff3658d78fd053e253e9e405e0b99aa59b4c3b1555c82e8af32dd05",
+   "ee_text": "치은염∙치조농루에 의한 여러 증상(잇몸의 발적 ∙ 부기 ∙ 출혈 ∙ 고름 등)의 완화",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

@@ -12,15 +12,15 @@
  "edi_code": "643308281",
  "atc_code": "J05AB06",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200209709",
+ "history_fetched_at": "2026-08-27T13:49:16Z",
  "revisions": [
   {
    "revision_id": "200209709-21e8fe5d",
    "content_sha256": "21e8fe5dad04bbdf1142cfcd70192ef4c1debdf0d31b88ccb3aeb26af955daab",
    "ee_text": "- 면역장애환자의 중증 CMV(Cytomegalovirus) 감염 질환의 치료 - 장기이식 후 약물유도성 면역억제환자의 CMV질환 예방 - 비면역장애환자나 신생아 또는 선천적인 CMV 감염에 대하여는 그 안전성과 유효성이 입증되지 않았다.",
-   "ee_doc_id": "14",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200209709/EE",
    "first_observed_at": "2026-08-27T13:49:16Z",
-   "last_observed_at": "2026-08-27T13:49:16Z",
-   "official_revision_date": "2018-01-18"
+   "last_observed_at": "2026-08-28T13:24:01Z"
   },
   {
    "revision_id": "200209709-fc5f626e",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:49:16Z",
    "last_observed_at": "2026-08-27T13:49:16Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:49:16Z"
+ ]
 }

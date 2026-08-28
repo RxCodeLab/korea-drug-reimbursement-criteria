@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202207",
+ "item_name": "텔미로젯정40/20/10밀리그램",
+ "entp_name": "(주)종근당",
+ "permit_date": "20220524",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270546]로수바스타틴칼슘(미분화)|[M097492]에제티미브|[M090395]텔미사르탄",
+ "main_item_ingr_eng": "Ezetimibe/Rosuvastatin Calcium Micronized/Telmisartan",
+ "edi_code": "643308990",
+ "atc_code": "C10BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202207",
+ "revisions": [
+  {
+   "revision_id": "202202207-0a18dac8",
+   "content_sha256": "0a18dac8c011429bf55ad16d3654ad2ffa3b4b9adc9d0e7f8139a8230b978dcc",
+   "ee_text": "이 약은 두 약물(텔미사르탄과 로수바스타틴/에제티미브)을 동시에 투여하여야 하는 환자에만 사용한다. ○ 텔미사르탄 1. 본태고혈압 2. 심혈관 질환의 위험성 감소 ACE억제제를 내약성으로 투여할 수 없으며, 주요 심혈관 질환이 발병될 위험성이 높은 만 55세 이상의 환자(관상동맥질환, 말초동맥질환, 뇌졸중, 일과성 허혈 발작에 대한 과거 병력이 있거나 말단 장기 손상의 임상적 증거가 있는 고위험성 당뇨병 환자)에서 심근경색, 뇌졸중 및 심혈관 질환으로 인한 사망의 위험성 감소 ○ 로수바스타틴/에제티미브 원발성 고콜레스테롤혈증 원발성 고콜레스테롤혈증(이형접합 가족형 및 비가족형) 또는 혼합형 이상지질혈증 환자의 상승된 총 콜레스테롤(total-C), LDL-콜레스테롤(LDL-C), 아포 B 단백(Apo B), 트리글리세라이드(TG) 및 non-HDL-콜레스테롤을 감소시키고, HDL-콜레스테롤(HDL-C)을 증가시키기 위한 식이요법의 보조제로서 이 약을 투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:29Z",
+   "last_observed_at": "2026-08-28T13:25:29Z",
+   "official_revision_date": "2022-05-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:29Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199901322",
+ "item_name": "동구메토카르바몰주사200mg(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "19990507",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050463]메토카르바몰",
+ "main_item_ingr_eng": "Methocarbamol",
+ "edi_code": "",
+ "atc_code": "M03BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901322",
+ "revisions": [
+  {
+   "revision_id": "199901322-ec5f0280",
+   "content_sha256": "ec5f0280834a4f8d4d192aa26dc5e444bca9cd06b1fc0200878cf6dcd73c1813",
+   "ee_text": "운동기 질환에 따르는 통증을 수반하는 경축(요배통증, 경견완증후군, 변형성척추증, 견관절주위염 등)",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:51Z"
+}

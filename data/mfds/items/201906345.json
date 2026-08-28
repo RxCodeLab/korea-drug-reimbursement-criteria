@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906345",
+ "item_name": "안티푸라민쿨파워플라스타",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20190906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M230875]l-멘톨|[M092408]펠비낙|[M230875]l-멘톨|[M092408]펠비낙",
+ "main_item_ingr_eng": "Felbinac/L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906345",
+ "revisions": [
+  {
+   "revision_id": "201906345-80846bc4",
+   "content_sha256": "80846bc4f62dafc7d4464575bdac51703cdc020ce8c27978cbfbcb73a17fd68d",
+   "ee_text": "어깨 결림에 따른 어깨 ​​통증, 요(허리)통, 관절통, 근육통, 건초염(힘줄윤활막염) (손·손목·발목의 통증과 부기), 팔꿈치 통증 (테니스 엘보 등), 타박상, 염좌(삠)",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:25:11Z",
+   "last_observed_at": "2026-08-28T13:25:11Z",
+   "official_revision_date": "2020-09-21"
+  },
+  {
+   "revision_id": "201906345-2eabcd4a",
+   "content_sha256": "2eabcd4a22c75f66e91df4d8e2b76cca100c9fc9df0953797da4bda27b6afb8f",
+   "ee_text": "어깨 결림에 따른 어깨 ​​통증, 요통, 관절통, 근육통, 건초염 (손·손목·발목의 통증과 붓기), 팔꿈치 통증 (테니스 엘보 등), 타박상, 염좌",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-09-06",
+   "first_observed_at": "2026-08-28T13:25:11Z",
+   "last_observed_at": "2026-08-28T13:25:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:11Z"
+}

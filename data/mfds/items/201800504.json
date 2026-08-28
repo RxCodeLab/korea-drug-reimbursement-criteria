@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800504",
+ "item_name": "아르틴정20밀리그램(아토르바스타틴칼슘수화물)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20180129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256664]아토르바스타틴칼슘수화물",
+ "main_item_ingr_eng": "Atorvastatin Calcium Hydrate",
+ "edi_code": "654305190",
+ "atc_code": "C10AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800504",
+ "revisions": [
+  {
+   "revision_id": "201800504-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2018-01-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

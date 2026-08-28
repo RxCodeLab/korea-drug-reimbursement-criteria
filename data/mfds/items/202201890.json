@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201890",
+ "item_name": "헤모맥스정",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20220510",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254564]폴리말토오스수산화제이철착염|[M244748]판토텐산칼슘|[M223289]폴산",
+ "main_item_ingr_eng": "Calcium Pantothenate/Ferric Hydroxide Polymaltose Complex/Folic Acid",
+ "edi_code": "",
+ "atc_code": "B03AE10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201890",
+ "revisions": [
+  {
+   "revision_id": "202201890-635e8644",
+   "content_sha256": "635e86441a3fdb1ce15e3b5b962a070a4fbd70032cb6f7eac73254379900a765",
+   "ee_text": "철 결핍성 빈혈의 예방 및 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:29Z",
+   "last_observed_at": "2026-08-28T13:25:29Z",
+   "official_revision_date": "2022-05-10"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:29Z"
+}

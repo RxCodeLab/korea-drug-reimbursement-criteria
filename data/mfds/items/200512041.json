@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200512041",
+ "item_name": "카비드츄어블정",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20050830",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051564]탄산칼슘|[M094322]농축콜레칼시페롤분말",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Powder",
+ "edi_code": "652607470,693903530",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512041",
+ "revisions": [
+  {
+   "revision_id": "200512041-84a5c7e2",
+   "content_sha256": "84a5c7e2572316b53cbd58d1ec63a4912bb45ffddebd95952e525440b140e5e2",
+   "ee_text": "· 다음경우의 비타민 D 보급 - 임신 · 수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능 · 효과는 다음과 같다. · 뼈, 이의 발육불량 · 구루병의 예방 · 칼슘결핍 및 기타 칼슘의 보급",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200512041/EE",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z"
+  },
+  {
+   "revision_id": "200512041-a4e934c2",
+   "content_sha256": "a4e934c2f1741283aa8077017a7a087c1c99dfd253107bb1227006ea97b5241a",
+   "ee_text": "￭ 다음경우의 비타민 D 보급 - 임신 · 수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능 · 효과는 다음과 같다. · 뼈, 이의 발육불량 · 구루병의 예방 ￭ 칼슘결핍 및 기타 칼슘의 보급",
+   "ee_doc_id": "18",
+   "official_revision_date": "2018-01-18",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z"
+  },
+  {
+   "revision_id": "200512041-07e9a84d",
+   "content_sha256": "07e9a84d9e3d7e26ad97c17c4cc207b2f0bf0b523184e93eeeaff141dbacdd9c",
+   "ee_text": "임신 수유기, 발육기, 노년기 이 약에 함유된 비타민 등의 효능 효과는 다음과 같다. - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "17",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:09Z"
+}

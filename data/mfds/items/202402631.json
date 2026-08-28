@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402631",
+ "item_name": "삼현클로르헥시딘0.12%가글액(클로르헥시딘글루콘산염액)",
+ "entp_name": "주식회사삼현제약",
+ "permit_date": "20241107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "",
+ "atc_code": "R02AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402631",
+ "revisions": [
+  {
+   "revision_id": "202402631-0dd6d867",
+   "content_sha256": "0dd6d867d77b8e190f1d6848dada0da73528276515b451a0273f884151779d53",
+   "ee_text": "1. 주효능 효과 다음 질환에 의한 염증의 완화 : 보철(의치)에 의한 염증, 아구창 등의 구강내 칸디다감염증, 치은염, 인두염, 아프타성 구내염 2. 다음 질환에도 사용할 수 있다. 치근막 수술후 살균소독",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:36Z",
+   "last_observed_at": "2026-08-28T13:25:36Z",
+   "official_revision_date": "2024-11-07"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:36Z"
+}

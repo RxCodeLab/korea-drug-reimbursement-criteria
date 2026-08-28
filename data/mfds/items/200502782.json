@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502782",
+ "item_name": "그린펜시럽(이부프로펜)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20050624",
+ "cancel_date": "20241119",
+ "status": "취하",
+ "main_item_ingr": "[M051259]이부프로펜",
+ "main_item_ingr_eng": "Ibuprofen",
+ "edi_code": "",
+ "atc_code": "M01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502782",
+ "revisions": [
+  {
+   "revision_id": "200502782-2a5069f5",
+   "content_sha256": "2a5069f54dafb515f7ccb4530f8aa6ac24e5164c13234b94a2c8b57d52429ad8",
+   "ee_text": "감기로 인한 발열 및 동통[통증], 류마티양 관절염, 연소성 류마티양 관절염, 골관절염 (퇴행성 관절질환), 요[허리]통, 월경 곤란증, 수술 후 동통[통증] 두통, 치통, 근육통, 신경통, 강직성 척추염, 급성통풍, 건선[마른비늘증]성 관절염, 연조직 손상(염좌[삠], 좌상[타박상]), 비관절 류마티스 질환 (건[힘줄]염, 건초염[힘줄윤활막염], 활액[윤활]낭염)",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:24:08Z",
+   "last_observed_at": "2026-08-28T13:24:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:08Z"
+}

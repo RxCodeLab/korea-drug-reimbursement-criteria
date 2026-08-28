@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302732",
+ "item_name": "메다몰정250mg(메토카르바몰)(수출용)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20030422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050463]메토카르바몰",
+ "main_item_ingr_eng": "Methocarbamol",
+ "edi_code": "",
+ "atc_code": "M03BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302732",
+ "revisions": [
+  {
+   "revision_id": "200302732-fe869c5c",
+   "content_sha256": "fe869c5c70312d54092aff7ebf0127cd315fce1859d851051806ad97cfb92601",
+   "ee_text": "근골격계 질환에 수반하는 동통성 연축 : 요배통증, 경견완증후군, 견관절주위염, 변행성 척추증",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

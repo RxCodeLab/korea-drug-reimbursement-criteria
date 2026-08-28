@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907530",
+ "item_name": "암로듀오정5/80밀리그램",
+ "entp_name": "(주)아리제약",
+ "permit_date": "20191028",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090403]발사르탄|[M270478]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate/Valsartan",
+ "edi_code": "",
+ "atc_code": "C09DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907530",
+ "revisions": [
+  {
+   "revision_id": "201907530-94fa7f3e",
+   "content_sha256": "94fa7f3efd3dffa5192ee1297f3cbc84d2989c4540520ac99b00faa141e39274",
+   "ee_text": "암로디핀 또는 발사르탄 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:12Z",
+   "last_observed_at": "2026-08-28T13:25:12Z",
+   "official_revision_date": "2019-10-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:12Z"
+}

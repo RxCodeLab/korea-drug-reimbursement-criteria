@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002284",
+ "item_name": "노바딘정(암로디핀베실산염)",
+ "entp_name": "주식회사케이에스제약",
+ "permit_date": "20200401",
+ "cancel_date": "20250401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222875]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate",
+ "edi_code": "",
+ "atc_code": "C08CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002284",
+ "revisions": [
+  {
+   "revision_id": "202002284-81c5e7ee",
+   "content_sha256": "81c5e7ee31f4e29fdf49062c88dbdab60d35cdbc07252af9d343fd977e28ac63",
+   "ee_text": "-협심증으로 인한 입원의 위험성 감소 -관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:16Z",
+   "last_observed_at": "2026-08-28T13:25:16Z",
+   "official_revision_date": "2020-04-01"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:16Z"
+}

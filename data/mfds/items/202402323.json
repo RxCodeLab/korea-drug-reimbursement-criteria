@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402323",
+ "item_name": "메모라임캡슐",
+ "entp_name": "성원애드콕제약(주)",
+ "permit_date": "20240926",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269209]인삼40%에탄올건조엑스|[M088948]은행엽건조엑스",
+ "main_item_ingr_eng": "Ginkgo Biloba Leaf Dried Extract/Ginseng 40% Ethanol Dried Extract",
+ "edi_code": "",
+ "atc_code": "N06DX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402323",
+ "revisions": [
+  {
+   "revision_id": "202402323-c5ecca3a",
+   "content_sha256": "c5ecca3aa4a7ebb14884a37bd6d840dcfe00f15f0668b2d4ffd72e720a27ed21",
+   "ee_text": "- 집중력 및 주의력 저하, 기억력감퇴 - 다음과 같은 말초 동맥 순환장애 증상의 개선 : 현기증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:36Z",
+   "last_observed_at": "2026-08-28T13:25:36Z",
+   "official_revision_date": "2024-09-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:36Z"
+}

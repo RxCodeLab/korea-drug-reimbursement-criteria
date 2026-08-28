@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001560",
+ "item_name": "판제스트에프정",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20200306",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270842]시메티콘파우더|[M223167]우르소데옥시콜산|[M050379]리파제|[M267745]디아스타제·프로테아제·셀룰라제",
+ "main_item_ingr_eng": "Diastase·Protease·Cellulase/Lipase/Simethicone Powder/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001560",
+ "revisions": [
+  {
+   "revision_id": "202001560-286238c3",
+   "content_sha256": "286238c3b12d46d86e2ad405992ae10e43fd39d2ee3a5cf7ad3fca20120802ff",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:25:15Z",
+   "last_observed_at": "2026-08-28T13:25:15Z",
+   "official_revision_date": "2020-09-22"
+  },
+  {
+   "revision_id": "202001560-9d32e30d",
+   "content_sha256": "9d32e30df111c6075da50774f130e9ef5ed98aa35dc213585cb3d96f7ca3d03a",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 식체(위체), 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-03-06",
+   "first_observed_at": "2026-08-28T13:25:15Z",
+   "last_observed_at": "2026-08-28T13:25:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:15Z"
+}

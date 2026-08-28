@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801550",
+ "item_name": "야스민정",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20080204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M211129]드로스피레논|[M223147]에티닐에스트라디올",
+ "main_item_ingr_eng": "Drospirenone/Ethinyl Estradiol",
+ "edi_code": "",
+ "atc_code": "G03AA12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801550",
+ "revisions": [
+  {
+   "revision_id": "200801550-3ce3ac5f",
+   "content_sha256": "3ce3ac5f80b0228deb555aefefaf2e7ddaca7d1c1ba78cd2d1d13a611f474189",
+   "ee_text": "피임",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:16Z"
+}

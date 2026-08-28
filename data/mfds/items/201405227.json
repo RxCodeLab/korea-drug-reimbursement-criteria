@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405227",
+ "item_name": "베나치오세립",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20141107",
+ "cancel_date": "20241107",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M227778]디메티콘|[M080221]스코폴리아엑스|[M050448]메타규산알루민산마그네슘|[M051564]탄산칼슘|[M040631]탄산수소나트륨|[M051800]프로자임|[M050379]리파제|[M267745]디아스타제·프로테아제·셀룰라제|[M040548]창출",
+ "main_item_ingr_eng": "Atractylodes Rhizome/Calcium Carbonate/Diastase·Protease·Cellulase/Dimethicone/Lipase/Magnesium Aluminometasilicate/Prozyme/Scopolia Extract/Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405227",
+ "revisions": [
+  {
+   "revision_id": "201405227-ed08a525",
+   "content_sha256": "ed08a5254f5e710bfcc6491b8ea3e216ea897e996266eafa64a4cebc0ce7e263",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림, 식욕감퇴(식욕부진), 소화불량, 과식, 소화촉진",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:39Z",
+   "last_observed_at": "2026-08-28T13:24:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:39Z"
+}

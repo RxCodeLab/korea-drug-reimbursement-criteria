@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701004",
+ "item_name": "글루코프리서방정1000밀리그램(메트포르민염산염)",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "20170223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223014]메트포르민염산염",
+ "main_item_ingr_eng": "Metformin Hydrochloride",
+ "edi_code": "655604990",
+ "atc_code": "A10BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701004",
+ "revisions": [
+  {
+   "revision_id": "201701004-20b71588",
+   "content_sha256": "20b7158801e28a915433fbb4d7d6093326e69c5c5c5ceb3dc85f83f3c9a80f80",
+   "ee_text": "식이요법 및 운동요법을 통해 혈당 조절이 충분치 않은 제2형 당뇨병 성인 환자의 치료. (특히, 과체중인 당뇨병 환자) - 이 약은 단독요법 또는 다른 경구용 혈당강하제나 인슐린과 병용하여 사용할 수 있다.",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:55Z",
+   "last_observed_at": "2026-08-28T13:24:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:55Z"
+}

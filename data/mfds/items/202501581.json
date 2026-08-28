@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501581",
+ "item_name": "콜민에스정",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20250626",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M203364]슈도에페드린염산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/Pseudoephedrine Hydrochloride",
+ "edi_code": "642405310",
+ "atc_code": "R01BA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501581",
+ "revisions": [
+  {
+   "revision_id": "202501581-ed4dd512",
+   "content_sha256": "ed4dd51292345026d26c3d9fa3be8d73eb331c264c1117d60a8c5217b54ef9c8",
+   "ee_text": "코감기(급성비염), 알레르기성 비염 또는 부비동염에 의한 다음 증상의 완화: 코막힘, 콧물, 재채기, 눈물, 인후통, 머리 무거움",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:37Z",
+   "last_observed_at": "2026-08-28T13:25:37Z",
+   "official_revision_date": "2025-06-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:37Z"
+}

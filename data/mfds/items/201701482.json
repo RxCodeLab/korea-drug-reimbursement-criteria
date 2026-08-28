@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701482",
+ "item_name": "씨이릴리프점안액(수출용)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20170328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222937]나파졸린염산염|[M040044]농글리세린",
+ "main_item_ingr_eng": "Concentrated Glycerin/Naphazoline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S01GA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701482",
+ "revisions": [
+  {
+   "revision_id": "201701482-06160e1d",
+   "content_sha256": "06160e1df8f6184baba34a43c4901cafd3ab6ce9bbd55715a7bcdfbc5d119373",
+   "ee_text": "- 저자극에 의한 눈의 충혈 완화 - 눈의 건조 상태에 따른 작열감 및 자극의 일시적 경감 - 건조한 눈의 자극에 대한 보호제로서 사용",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:24:55Z",
+   "last_observed_at": "2026-08-28T13:24:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:55Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300342",
+ "item_name": "아데나민주사액(코바마미드)(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "19830112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100992]코바마미드",
+ "main_item_ingr_eng": "Cobamamide",
+ "edi_code": "",
+ "atc_code": "B03BA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300342",
+ "revisions": [
+  {
+   "revision_id": "198300342-f29268bb",
+   "content_sha256": "f29268bbfc660e87d845dfb6a42c95d229ab27742f2426369937dee809367c69",
+   "ee_text": "12 결핍증의 예방 및 치료\" /> 12 의 수요가 증대하여, 식사로부터의 흡수가 불충분한 경우의 보급\"> 12 의 결핍 또는 대사장애가 관여한다고 추정되는 경우\">",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198300342/EE",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z"
+  },
+  {
+   "revision_id": "198300342-2f31fddc",
+   "content_sha256": "2f31fddc07e5e03c99bf7f7c059ca7eedb486c27b3b9cfc7b41da4dce96108e5",
+   "ee_text": "소모성 질환, 갑상선기능항진증, 임산부, 수유부 등 1) 영양결핍성 및 임신성빈혈 2) 위 절제후의 빈혈 3) 간장애에 수반된 빈혈 4) 방사선에 의한 백혈구 감소증 5) 신경통, 말초신경염, 말초신경마비 6) 근육통, 관절통 7) 중추신경장애 : 척수염, 변성질환(変性疾患) 등",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:39Z"
+}

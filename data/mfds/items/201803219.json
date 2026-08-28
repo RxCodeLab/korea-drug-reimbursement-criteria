@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803219",
+ "item_name": "베타손크림",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20180807",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223043]베타메타손발레레이트|[M202821]겐타마이신황산염",
+ "main_item_ingr_eng": "Betamethasone Valerate/Gentamicin Sulfate",
+ "edi_code": "",
+ "atc_code": "D07CC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803219",
+ "revisions": [
+  {
+   "revision_id": "201803219-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:01Z",
+   "last_observed_at": "2026-08-28T13:25:01Z",
+   "official_revision_date": "2018-08-07"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:01Z"
+}

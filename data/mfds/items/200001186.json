@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001186",
+ "item_name": "이엠지연질캡슐",
+ "entp_name": "동성제약(주)",
+ "permit_date": "20000110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223240]토코페롤아세테이트|[M040262]산화마그네슘",
+ "main_item_ingr_eng": "Magnesium Oxide/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "A11JB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001186",
+ "revisions": [
+  {
+   "revision_id": "200001186-755bc84d",
+   "content_sha256": "755bc84d725eda188034db447f091ab609cfff2f0c9300e20c31f65937652536",
+   "ee_text": "- 노년기의 비타민 E 보급 - 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨, 목결림, 수족저림, 수족냉증(손발이 차가움) - 마그네슘 결핍으로 인한 근육경련",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:23:53Z",
+   "last_observed_at": "2026-08-28T13:23:53Z",
+   "official_revision_date": "2021-03-11"
+  },
+  {
+   "revision_id": "200001186-e3c79c11",
+   "content_sha256": "e3c79c1178c887f7fc918b872a91529d1b8810293049feaab6f2e2931deed39f",
+   "ee_text": "마그네슘 결핍으로 인한 근육경련 개선, 말초순환기능장애 (간헐성 파행증, 동상 등)의 보조용법, 내분비 기능장애(배란장애)의 보조용법, 비타민 E 결핍",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:53Z",
+   "last_observed_at": "2026-08-28T13:23:53Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:53Z"
+}

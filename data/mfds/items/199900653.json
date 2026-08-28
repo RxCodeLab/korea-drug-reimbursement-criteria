@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900653",
+ "item_name": "대우트라마돌염산염캡슐(수출명:말직캡슐)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "19990712",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255410]트라마돌염산염",
+ "main_item_ingr_eng": "Tramadol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900653",
+ "revisions": [
+  {
+   "revision_id": "199900653-efadbed7",
+   "content_sha256": "efadbed7fd939b18af73f880fba7ec1377e7303b2b4efe773cfb12d42d02402a",
+   "ee_text": "다음 질환에 따른 상태에 있어서의 진통: 각종 암, 수술후",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

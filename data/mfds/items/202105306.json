@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105306",
+ "item_name": "코로빈액티베어(수출용)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "20210713",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256708]부데소니드(미분화)|[M281119]아포르모테롤주석산염",
+ "main_item_ingr_eng": "Arformoterol tartrate/Budesonide Micronized",
+ "edi_code": "",
+ "atc_code": "R03AK07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105306",
+ "revisions": [
+  {
+   "revision_id": "202105306-62014043",
+   "content_sha256": "62014043ef5bf7f58c89b91992acd20c0026035f6959029b576f08798c097d62",
+   "ee_text": "1. 천식환자의 치료 2. 중증의 만성폐쇄성폐질환",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:25Z",
+   "last_observed_at": "2026-08-28T13:25:25Z",
+   "official_revision_date": "2021-07-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:25Z"
+}

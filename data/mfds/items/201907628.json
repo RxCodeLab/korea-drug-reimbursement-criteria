@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907628",
+ "item_name": "더게인디정",
+ "entp_name": "(주)바이넥스",
+ "permit_date": "20191031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249983]D-비오틴|[M244641]산화아연|[M256378]농축콜레칼시페롤 과립",
+ "main_item_ingr_eng": "Cholecalciferol Concentrate Granules/D-Biotin/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11JB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907628",
+ "revisions": [
+  {
+   "revision_id": "201907628-d7356be4",
+   "content_sha256": "d7356be4043a01754c1e9db78fdbd7c9b84aae542c89d1e651a4935a3b7857a1",
+   "ee_text": "○ 다음 경우의 비타민 D의 보급 - 임신·수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. · 비타민D(농축콜레칼시페롤 과립) · 뼈, 이의 발육불량 · 구루병의 예방 ○ 아연의 보급",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:25:12Z",
+   "last_observed_at": "2026-08-28T13:25:12Z",
+   "official_revision_date": "2022-01-19"
+  },
+  {
+   "revision_id": "201907628-24afb76e",
+   "content_sha256": "24afb76e25de29125208fcf9732f0b942c7ae08650eee59527ab1520f206223b",
+   "ee_text": "○ 다음 경우의 비타민 D의 보급 - 임신·수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. · 비타민D(콜레칼시페롤) - 뼈, 이의 발육불량 - 구루병의 예방 ○ 아연의 보급",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-10-31",
+   "first_observed_at": "2026-08-28T13:25:12Z",
+   "last_observed_at": "2026-08-28T13:25:12Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:12Z"
+}

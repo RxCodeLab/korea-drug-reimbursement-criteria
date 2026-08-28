@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200709339",
+ "item_name": "통청환(안중조기환)",
+ "entp_name": "경진제약(주)",
+ "permit_date": "20070808",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040006]감초|[M081401]복신|[M050891]신곡|[M040536]지실|[M040214]백출|[M040187]목향|[M050540]백두구|[M040550]천궁|[M040070]당귀|[M040228]향부자|[M040538]진피|[M040523]작약|[M099441]자소자|[M210181]내복자|[M040202]반하|[M040792]황련",
+ "main_item_ingr_eng": "Angelica Gigas Root/Atractylodes Rhizome White/Aucklandiae Radix/Citrus Unshiu Peel/Cnidium Rhizome/Coptis Rhizome/Cyperus Rhizome/Licorice/Massa Medicata Fermentata/Peony Root/Perillae Fructus/Pinellia Tuber/Poncirus Immature Fruit/Poria Sclertum Cum Pini Radix/Raphani Semen/Round Amomum Fruit",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709339",
+ "revisions": [
+  {
+   "revision_id": "200709339-71a43f47",
+   "content_sha256": "71a43f473de90ebffc10e6c57fa5d3a447f10ce281319978361f42a1dabbc11a",
+   "ee_text": "구토, 위무력, 위하수, 위장카타르, 소화불량",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:14Z",
+   "last_observed_at": "2026-08-28T13:24:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:14Z"
+}

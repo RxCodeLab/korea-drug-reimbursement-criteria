@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200800969",
+ "item_name": "다이안느35정",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20080124",
+ "cancel_date": "20241105",
+ "status": "취하",
+ "main_item_ingr": "[M222867]시프로테론아세테이트|[M223147]에티닐에스트라디올",
+ "main_item_ingr_eng": "Cyproterone Acetate/Ethinyl Estradiol",
+ "edi_code": "",
+ "atc_code": "G03HB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800969",
+ "revisions": [
+  {
+   "revision_id": "200800969-addfd7ff",
+   "content_sha256": "addfd7ff6670cd6a5d205121340b5245b6edf5b44bbe1a2d56aed48bb96d2964",
+   "ee_text": "- 중등도 및 중증 여드름(지루 수반 여부와 관계없이) - 안드로겐성 다모증",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-28T13:24:15Z",
+   "last_observed_at": "2026-08-28T13:24:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:15Z"
+}

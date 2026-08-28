@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "M09AX03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508184",
+ "history_fetched_at": "2026-08-27T12:37:40Z",
  "revisions": [
   {
    "revision_id": "201508184-8f019c82",
    "content_sha256": "8f019c8284ac61a8e2efe64e76c4153d80bc4fabd08cc7095b8cbc402607319e",
    "ee_text": "2세이상의 보행 가능한 디스트로핀 유전자의 넌센스 돌연변이에 의한 뒤쉔 근디스트로피의 치료. 보행 가능하지 않은 환자에서의 유효성은 확립되어 있지 않다.",
-   "ee_doc_id": "17",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201508184/EE",
    "first_observed_at": "2026-08-27T12:37:40Z",
-   "last_observed_at": "2026-08-27T12:37:40Z",
-   "official_revision_date": "2020-03-09"
+   "last_observed_at": "2026-08-28T13:24:46Z"
   },
   {
    "revision_id": "201508184-f8ae88a8",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:37:40Z",
    "last_observed_at": "2026-08-27T12:37:40Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:37:40Z"
+ ]
 }

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197000014",
+ "item_name": "중외염화나트륨주사액(117mg/1ml)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19701030",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨",
+ "main_item_ingr_eng": "Sodium Chloride",
+ "edi_code": "644903222,644903231",
+ "atc_code": "B05XA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197000014",
+ "revisions": [
+  {
+   "revision_id": "197000014-b79f3eae",
+   "content_sha256": "b79f3eae45007703eafaaa92f7b12bbd91fbfdf1877d0e67f9f6272aba7026f8",
+   "ee_text": "전해질 보액의 전해질 보정(저나트륨혈증, 저염소혈증)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197000014/EE",
+   "first_observed_at": "2026-08-28T13:23:36Z",
+   "last_observed_at": "2026-08-28T13:23:36Z"
+  },
+  {
+   "revision_id": "197000014-03909bb7",
+   "content_sha256": "03909bb7ad165dd71f450575fb6a6a6859f7feed45d3270e3055467cb562041a",
+   "ee_text": "1. 수분 및 전해질 결핍시의 보급(나트륨 결핍, 염소 결핍) 2. 주사제의 용해 희석제 주사제의 용해 희석제 전해질 및 수분의 빠른 공급 특히 다음과 같은 경우에 사용한다. - 저나트륨혈증 또는 저염소혈증 - 반복적인 관장에 의한 과량의 수분섭취 또는 경요도전립선절제술중 개방정맥동으로의 관류액 관류에 따라 세포외액이 격렬히 희석된 경우 - 중증 염분고갈시의 응급처치 전해질 보액의 전해질 보정(저나트륨혈증, 저염소혈증)",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:36Z",
+   "last_observed_at": "2026-08-28T13:23:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:36Z"
+}

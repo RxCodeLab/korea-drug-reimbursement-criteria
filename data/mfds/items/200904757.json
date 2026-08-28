@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200904757",
+ "item_name": "데일리큐점안액,데일리큐점안액(1회용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20090702",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040043]글리세린|[M244062]카르복시메틸셀룰로오스나트륨|[M040043]글리세린|[M244062]카르복시메틸셀룰로오스나트륨|[M040043]글리세린|[M244062]카르복시메틸셀룰로오스나트륨|[M040043]글리세린|[M244062]카르복시메틸셀룰로오스나트륨",
+ "main_item_ingr_eng": "Carboxymethylcellulose Sodium/Glycerin",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904757",
+ "revisions": [
+  {
+   "revision_id": "200904757-aa0a0662",
+   "content_sha256": "aa0a0662cc82c1fe24d36cbb4145763a23dbae13611efea00c9e2ea2cc06ad2d",
+   "ee_text": "눈의 건조 또는 바람·태양에 의한 화끈거리는 증상, 자극감, 불쾌감의 일시적 완화. 눈의 자극감 예방.",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z",
+   "official_revision_date": "2021-06-23"
+  },
+  {
+   "revision_id": "200904757-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:21Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001761",
+ "item_name": "로민콤프시럽",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "20200313",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278323]펠라고니움시도이데스11%에탄올추출물(1→8~10)|[M267319]황련건조엑스(8.93→1)",
+ "main_item_ingr_eng": "Coptis Rhizome Dried Extract (8.93→1)/Pelargonium Sidoides 11% Ethanol Extract (1→8~10)",
+ "edi_code": "644309351",
+ "atc_code": "R07AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001761",
+ "revisions": [
+  {
+   "revision_id": "202001761-81c1667c",
+   "content_sha256": "81c1667c477816e5773a67e1284e76e00fef54252db20ae19af6b515cce2639d",
+   "ee_text": "급성기관지염",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:15Z",
+   "last_observed_at": "2026-08-28T13:25:15Z",
+   "official_revision_date": "2020-03-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:15Z"
+}

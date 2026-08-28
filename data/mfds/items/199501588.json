@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501588",
+ "item_name": "호중원(안중조기환)",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "19951101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040538]진피|[M040202]반하|[M081401]복신|[M040536]지실|[M050891]신곡|[M040792]황련|[M040523]작약|[M040228]향부자|[M040187]목향|[M040214]백출|[M099441]자소자|[M210181]내복자|[M040550]천궁|[M040070]당귀|[M050540]백두구|[M040006]감초",
+ "main_item_ingr_eng": "Angelica Gigas Root/Atractylodes Rhizome White/Aucklandiae Radix/Citrus Unshiu Peel/Cnidium Rhizome/Coptis Rhizome/Cyperus Rhizome/Licorice/Massa Medicata Fermentata/Peony Root/Perillae Fructus/Pinellia Tuber/Poncirus Immature Fruit/Poria Sclertum Cum Pini Radix/Raphani Semen/Round Amomum Fruit",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501588",
+ "revisions": [
+  {
+   "revision_id": "199501588-7a0fe129",
+   "content_sha256": "7a0fe1295f7140f94eb900d43e4284701f98c57318552f3390a698e65e76975a",
+   "ee_text": "구토, 위무력, 위하수(위처짐), 위장카타르, 소화불량",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z",
+   "official_revision_date": "2020-09-08"
+  },
+  {
+   "revision_id": "199501588-71a43f47",
+   "content_sha256": "71a43f473de90ebffc10e6c57fa5d3a447f10ce281319978361f42a1dabbc11a",
+   "ee_text": "구토, 위무력, 위하수, 위장카타르, 소화불량",
+   "ee_doc_id": "9",
+   "official_revision_date": "2009-04-30",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:46Z"
+}

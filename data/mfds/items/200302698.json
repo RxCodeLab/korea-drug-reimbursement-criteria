@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302698",
+ "item_name": "제이비케이이중탕엑스과립",
+ "entp_name": "주식회사 제이비케이랩",
+ "permit_date": "20030828",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040007]건강|[M040006]감초|[M040214]백출|[M051291]인삼",
+ "main_item_ingr_eng": "Atractylodes Rhizome White/Ginger/Ginseng/Licorice",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302698",
+ "revisions": [
+  {
+   "revision_id": "200302698-85bb968a",
+   "content_sha256": "85bb968aa2e36bc43175722c527b639e1c90678ee947768444da05817046899e",
+   "ee_text": "손발이 차가워지기 쉽고, 요량이 많은 사람의 다음 증상 : 위장허약, 위무력, 설사, 구토, 위통",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

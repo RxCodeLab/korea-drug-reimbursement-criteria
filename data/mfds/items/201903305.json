@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903305",
+ "item_name": "레보콤비에스액",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20190521",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223258]티아민염산염|[M222996]리보플라빈포스페이트나트륨|[M040064]니코틴산아미드|[M096429]시아노코발라민|[M099285]폴리네이트칼슘",
+ "main_item_ingr_eng": "Calcium Folinate/Cyanocobalamin/Nicotinamide/Riboflavin Sodium Phosphate/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903305",
+ "revisions": [
+  {
+   "revision_id": "201903305-68291b4d",
+   "content_sha256": "68291b4d3b9fb49469e165598e35c0ad6f5e61773f82ca0b730a2c815c064560",
+   "ee_text": "다음의 경우에 사용한다. - 간염의 후유증, 간기능 저하, 독소성 감염 상태의 치료 보조 - 거대적아구성 빈혈 치료 보조 또는 임신, 분만 후, 수유 시 - 비타민B 12 또는 폴산 결핍증후군 - 비타민 결핍, 항생제, 화학요법, 항암제 치료 시",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:07Z",
+   "last_observed_at": "2026-08-28T13:25:07Z",
+   "official_revision_date": "2019-05-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:07Z"
+}

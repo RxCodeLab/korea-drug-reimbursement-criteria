@@ -12,15 +12,15 @@
  "edi_code": "651600921",
  "atc_code": "A05BA06",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300707",
+ "history_fetched_at": "2026-08-27T13:52:27Z",
  "revisions": [
   {
    "revision_id": "198300707-17ddc981",
    "content_sha256": "17ddc9814f10446f75720097bccd1a6e7a45b1616a2e50982c096e8ba4e1c5fd",
    "ee_text": "* 100 mg/mL 다음의 중증의 간질환 해독의 보조 치료 : 간염, 간염 후유증, 간경변 ☆국내임상시험결과 추가제출(의약품 재평가 진행 중)",
-   "ee_doc_id": "33",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198300707/EE",
    "first_observed_at": "2026-08-27T13:52:27Z",
-   "last_observed_at": "2026-08-27T13:52:27Z",
-   "official_revision_date": "2024-01-22"
+   "last_observed_at": "2026-08-28T13:23:39Z"
   },
   {
    "revision_id": "198300707-865c8da3",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:52:27Z",
    "last_observed_at": "2026-08-27T13:52:27Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:52:27Z"
+ ]
 }

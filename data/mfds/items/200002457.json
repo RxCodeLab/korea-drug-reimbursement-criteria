@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002457",
+ "item_name": "에너골드액",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20001106",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100992]코바마미드|[M228349]레보카르니틴",
+ "main_item_ingr_eng": "Cobamamide/Levocarnitine",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002457",
+ "revisions": [
+  {
+   "revision_id": "200002457-edbb664c",
+   "content_sha256": "edbb664c4d39c8e73e1fe9f0896f3747891d9eaa0b95c60a275f0efd44af2ca7",
+   "ee_text": "1) 병적인 체중감소 2) 뚜렷한 원인이 없는 쇠약 3) 식욕부진, 무력증 4) 병후(병을 않고 난 회복 후) 회복기 5) 스테로이드 제제의 장기치료, 갑상선기능항진증 치료 등에서 비롯된 대사억제 상태 6) 간질환 및 신장질환에 의한 저단백혈증 1) 미숙아, 유아, 어린이의 영양결핍에 의한 모든 증상 2) 성장지연 3) 저체중, 체중감소 4) 영양실조 5) 식욕부진 6) 감염 후 허약기",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:23:55Z",
+   "last_observed_at": "2026-08-28T13:23:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:55Z"
+}

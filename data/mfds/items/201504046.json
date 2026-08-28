@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201504046",
+ "item_name": "제로시드정40/1100밀리그램",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20150619",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083698]오메프라졸|[M040631]탄산수소나트륨|[M040631]탄산수소나트륨",
+ "main_item_ingr_eng": "Omeprazole/Sodium Bicarbonate",
+ "edi_code": "654004650",
+ "atc_code": "A02BC51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504046",
+ "revisions": [
+  {
+   "revision_id": "201504046-9146d3b5",
+   "content_sha256": "9146d3b5dd2ef904c3179905a9f8e1362f810effb513c3815d7acaf05774835c",
+   "ee_text": "위궤양, 십이지장궤양의 단기치료, 역류성 식도염 및 위식도 역류질환(GERD)의 증상(가슴앓이, 토출 등) 치료, 심한 역류성 식도염과 잘 치료되지 않는 소화성궤양의 유지요법",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201504046/EE",
+   "first_observed_at": "2026-08-28T13:24:44Z",
+   "last_observed_at": "2026-08-28T13:24:44Z"
+  },
+  {
+   "revision_id": "201504046-c908dd1e",
+   "content_sha256": "c908dd1e93eacc8cefb6cdcbafba422ba4091a673a55c1be486b571d6d62c8bd",
+   "ee_text": "위궤양, 십이지장궤양의 단기치료, 역류성 식도염의 치료",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:44Z",
+   "last_observed_at": "2026-08-28T13:24:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:44Z"
+}

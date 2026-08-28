@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197800014",
+ "item_name": "한풍당귀엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19780620",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040070]당귀",
+ "main_item_ingr_eng": "Angelica Gigas Root",
+ "edi_code": "",
+ "atc_code": "B03XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197800014",
+ "revisions": [
+  {
+   "revision_id": "197800014-65e06eed",
+   "content_sha256": "65e06eed3ec441aeb32c8f72ac5d45c0d39f64b16be598edce929761aa90c6c4",
+   "ee_text": "통경, 진정, 빈혈성어혈",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

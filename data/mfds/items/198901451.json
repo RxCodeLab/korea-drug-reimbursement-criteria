@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198901451",
+ "item_name": "신텍스마행감석탕엑스과립",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "19890410",
+ "cancel_date": "20250101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040279]석고|[M040006]감초|[M040769]행인|[M040135]마황",
+ "main_item_ingr_eng": "Apricot Kernel/Ephedra Herb/Gypsum Fibrosum/Licorice",
+ "edi_code": "",
+ "atc_code": "R03DX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901451",
+ "revisions": [
+  {
+   "revision_id": "198901451-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:42Z",
+   "last_observed_at": "2026-08-28T13:23:42Z",
+   "official_revision_date": "2009-04-30"
+  },
+  {
+   "revision_id": "198901451-6997bdc2",
+   "content_sha256": "6997bdc292e5fbddda0af65ffa4a47f9abe0c4934c6bf3a91c9d52962e80cc15",
+   "ee_text": "기관지천식, 소아천식 기관지천식",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:42Z",
+   "last_observed_at": "2026-08-28T13:23:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:42Z"
+}

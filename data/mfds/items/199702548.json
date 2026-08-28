@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199702548",
+ "item_name": "돌마주사(트라마돌염산염)",
+ "entp_name": "미래바이오제약(주)",
+ "permit_date": "19970328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222893]트라마돌염산염",
+ "main_item_ingr_eng": "Tramadol Hydrochloride",
+ "edi_code": "657502161",
+ "atc_code": "N02AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702548",
+ "revisions": [
+  {
+   "revision_id": "199702548-e3b351c1",
+   "content_sha256": "e3b351c13d0747254561d422b63716031ab5bfc7bcf340aa287a5db764c90874",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 중증 및 중등도의 급만성 동통(각종 암 등), 진단 및 수술후 동통",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199702548/EE",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z"
+  },
+  {
+   "revision_id": "199702548-f9d2b3cc",
+   "content_sha256": "f9d2b3cc1ccb15dda97a9a69484139119073540b0f00df6194242313ec234d26",
+   "ee_text": "중증 및 중등도의 급만성 동통(각종 암 등), 진단 및 수술후 동통",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:48Z"
+}

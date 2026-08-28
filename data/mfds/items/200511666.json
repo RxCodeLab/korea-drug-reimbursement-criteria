@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511666",
+ "item_name": "쿠스토디올액",
+ "entp_name": "(주)제니스팜",
+ "permit_date": "20050513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040438]염화칼륨|[M040439]염화칼슘|[M050400]만니톨|[M051111]염화마그네슘|[M089842]2-케토글루타르산수소칼륨|[M089841]염산히스티딘|[M051997]히스티딘|[M083887]트립프토판|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Calcium Chloride/Histidine/L-Histidine Hydrochloride/Magnesium Chloride/Mannitol/Potassium Chloride/Potassium Hydrogen 2-Ketoglutarate/Sodium Chloride/Tryptophan",
+ "edi_code": "660300030,660300040",
+ "atc_code": "B05XA16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511666",
+ "revisions": [
+  {
+   "revision_id": "200511666-64af6cd6",
+   "content_sha256": "64af6cd6aaa446d127fbc61159b31224ec3f4ea91853c377193d3b2f4aa690c2",
+   "ee_text": "- 개심술시 심정지 - 심장, 간, 신장을 장기 제공자에게1서 수혜자에게로 운반할 경우 및 심장, 간, 신장의 in situ 수술시 장기(臟器) 보호 및 표면 냉각 - 혈관이식편 보호 목적(관상혈관치환술, 주로 대형복제혈관인 경우)",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:09Z"
+}

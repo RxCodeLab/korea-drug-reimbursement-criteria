@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802079",
+ "item_name": "디르탄정80밀리그램(발사르탄)",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20180516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090403]발사르탄",
+ "main_item_ingr_eng": "Valsartan",
+ "edi_code": "647205140,693904120",
+ "atc_code": "C09CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802079",
+ "revisions": [
+  {
+   "revision_id": "201802079-843898b7",
+   "content_sha256": "843898b79aa1033024f7e59ad3ff333358c477d67faa1ce58f5c70c4b35a196f",
+   "ee_text": "ACE억제제에 불내성(intolerant)인 심부전(NYHA class Ⅱ ∼ Ⅳ) 증상, 증후 혹은 방사선학적으로 좌심실 부전 및/또는 좌심실 수축 기능 부전을 가진 임상적으로 안정된 환자에서의 심근경색 후 사망 위험성 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:00Z",
+   "last_observed_at": "2026-08-28T13:25:00Z",
+   "official_revision_date": "2018-05-16"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:00Z"
+}

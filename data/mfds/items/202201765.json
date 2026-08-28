@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201765",
+ "item_name": "플랜에이정",
+ "entp_name": "지엘파마(주)",
+ "permit_date": "20220502",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M211129]드로스피레논|[M223147]에티닐에스트라디올",
+ "main_item_ingr_eng": "Drospirenone/Ethinyl Estradiol",
+ "edi_code": "",
+ "atc_code": "G03AA12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201765",
+ "revisions": [
+  {
+   "revision_id": "202201765-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:29Z",
+   "last_observed_at": "2026-08-28T13:25:29Z",
+   "official_revision_date": "2022-05-02"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:29Z"
+}

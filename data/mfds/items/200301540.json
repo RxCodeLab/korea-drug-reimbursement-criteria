@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301540",
+ "item_name": "아이월드계지가작약탕엑스과립",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20031206",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M212865]이상물건조엑스|[M040006]감초|[M050752]생강|[M040071]대추|[M040523]작약|[M050037]계지",
+ "main_item_ingr_eng": "As Dried Extract/Cinnamomi Ramulus/Jujube/Licorice/Peony Root/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "A03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301540",
+ "revisions": [
+  {
+   "revision_id": "200301540-4a1925d4",
+   "content_sha256": "4a1925d45270e2ce29f4560a056b356d36413ab79bc6a73ed7c28d46e440ad44",
+   "ee_text": "복부팽만감이 있는 다음 증상 : 대변이 조금 나올 뿐 배변이 끝난 느낌이 없는 상태, 복통",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:02Z"
+}

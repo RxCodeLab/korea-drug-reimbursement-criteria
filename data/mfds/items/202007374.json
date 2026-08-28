@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007374",
+ "item_name": "도나펜연질캡슐",
+ "entp_name": "(주)서흥",
+ "permit_date": "20201028",
+ "cancel_date": "20250623",
+ "status": "취하",
+ "main_item_ingr": "[M051259]이부프로펜|[M082487]파마브롬",
+ "main_item_ingr_eng": "Ibuprofen/Pamabrom",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007374",
+ "revisions": [
+  {
+   "revision_id": "202007374-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z",
+   "official_revision_date": "2020-10-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:21Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402925",
+ "item_name": "피마모노정60밀리그램(피마사르탄칼륨삼수화물)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20241211",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258703]피마사르탄칼륨삼수화물",
+ "main_item_ingr_eng": "Fimasartan Potassium Trihydrate",
+ "edi_code": "653405860",
+ "atc_code": "C09CA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402925",
+ "revisions": [
+  {
+   "revision_id": "202402925-7e6cdf3a",
+   "content_sha256": "7e6cdf3ad7664539d343ed2671f5908b9cf1a8e4c7c55087ac1de82eab3eee6f",
+   "ee_text": "1. 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:36Z",
+   "last_observed_at": "2026-08-28T13:25:36Z",
+   "official_revision_date": "2024-12-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:36Z"
+}

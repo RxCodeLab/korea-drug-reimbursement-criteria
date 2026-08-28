@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801441",
+ "item_name": "보령헤모시스에이지엘액",
+ "entp_name": "(주)보령",
+ "permit_date": "20180330",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M217500]염화칼슘수화물|[M040438]염화칼륨|[M051111]염화마그네슘|[M244253]아세트산무수물|[M040702]포도당",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Glacial Acetic Acid/Glucose/Magnesium Chloride/Potassium Chloride/Sodium Chloride",
+ "edi_code": "641906811,641906812",
+ "atc_code": "B05ZA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801441",
+ "revisions": [
+  {
+   "revision_id": "201801441-3f8c7ff4",
+   "content_sha256": "3f8c7ff4c973ac966d056431de032692c71389cc12e5586a4321b9c8c52bbb48",
+   "ee_text": "급ㆍ만성신부전, 급성 약물중독환자에 사용되는 인공신장투석의 관류액",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2018-03-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

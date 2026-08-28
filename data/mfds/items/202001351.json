@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001351",
+ "item_name": "듀오케어액",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20200226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040264]살리실산|[M223371]락트산",
+ "main_item_ingr_eng": "Lactic Acid/Salicylic Acid",
+ "edi_code": "",
+ "atc_code": "D11AF",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001351",
+ "revisions": [
+  {
+   "revision_id": "202001351-b66e2d6c",
+   "content_sha256": "b66e2d6c41241ef2ca7bef23baa756deb3318ad6647ac3f537ccdec4d74fea22",
+   "ee_text": "사마귀, 티눈, 못(굳은살)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:15Z",
+   "last_observed_at": "2026-08-28T13:25:15Z",
+   "official_revision_date": "2020-02-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:15Z"
+}

@@ -12,15 +12,15 @@
  "edi_code": "658700850",
  "atc_code": "L04AX04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200909429",
+ "history_fetched_at": "2026-08-27T13:06:23Z",
  "revisions": [
   {
    "revision_id": "200909429-05628308",
    "content_sha256": "05628308010717fb96cec5e8fc9a1e235518889615020401eddbea628a0cc2f5",
    "ee_text": "1. 다발골수종 1) 이전에 한 가지 이상의 치료를 받은 환자의 치료에 덱사메타손과 병용요법 2) 새롭게 진단된 이식이 불가능한 환자의 치료에 덱사메타손과 병용요법, 또는 멜팔란 및 프레드니솔론과 병용요법 3) 새롭게 진단된 환자의 치료에 보르테조밉 및 덱사메타손과 병용요법 4) 새롭게 진단된 자가 조혈모세포 이식을 받은 환자의 유지요법 2. 5q 세포유전자 결손을 동반한 International Prognostic Scoring System(IPSS) 분류에 따른 저위험 또는 중등도-1-위험 골수형성이상증후군에서 수혈 의존적인 빈혈이 있는 환자의 치료 3. 이전에 한가지 이상의 치료를 받은 외투세포림프종 4. 이전에 치료를 받은 소포림프종(1-3a 등급) 환자의 치료에 리툭시맙(항CD20항체)과 병용요법",
-   "ee_doc_id": "34",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200909429/EE",
    "first_observed_at": "2026-08-27T13:06:23Z",
-   "last_observed_at": "2026-08-27T13:06:23Z",
-   "official_revision_date": "2020-06-18"
+   "last_observed_at": "2026-08-28T13:24:22Z"
   },
   {
    "revision_id": "200909429-9c75f25b",
@@ -49,6 +49,5 @@
    "first_observed_at": "2026-08-27T13:06:23Z",
    "last_observed_at": "2026-08-27T13:06:23Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:06:23Z"
+ ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199504245",
+ "item_name": "엔토코트(부데소니드(미분화))",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "19950425",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256708]부데소니드(미분화)",
+ "main_item_ingr_eng": "Budesonide Micronized",
+ "edi_code": "641606380",
+ "atc_code": "A07EA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199504245",
+ "revisions": [
+  {
+   "revision_id": "199504245-4e08878f",
+   "content_sha256": "4e08878fdeb9e2e52c5b72aa974eb5d9bd64521102c416e5817abaab9fd3a179",
+   "ee_text": "궤양성 대장염(직장 및 S상 결장)",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-28T13:23:47Z",
+   "last_observed_at": "2026-08-28T13:23:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:47Z"
+}

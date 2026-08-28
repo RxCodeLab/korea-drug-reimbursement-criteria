@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805155",
+ "item_name": "멘소래담딥액션카타플라스마",
+ "entp_name": "진양제약(주)",
+ "permit_date": "20181219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200188]노닐산바닐릴아미드|[M204423]dl-캄파|[M230875]l-멘톨|[M203279]살리실산메틸|[M200188]노닐산바닐릴아미드|[M204423]dl-캄파|[M230875]l-멘톨|[M203279]살리실산메틸",
+ "main_item_ingr_eng": "DL-Camphor/L-Menthol/Methyl Salicylate/Vanillyl Nonylamide",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805155",
+ "revisions": [
+  {
+   "revision_id": "201805155-71cf18d9",
+   "content_sha256": "71cf18d96ae6942111ffcbb20b2852e894f7fef3861df8afec8406e23d1070c5",
+   "ee_text": "다음 증상의 진통.소염(항염) : 타박상, 삠, 요(허리)통, 어깨결림, 근육통, 관절통",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201805155/EE",
+   "first_observed_at": "2026-08-28T13:25:02Z",
+   "last_observed_at": "2026-08-28T13:25:02Z"
+  },
+  {
+   "revision_id": "201805155-18201a4d",
+   "content_sha256": "18201a4d669143f578d501e64b7b1b97ca3d070a3626efb953b925229d0961f2",
+   "ee_text": "다음 증상의 진통․소염(항염) : 타박상, 삠, 요(허리)통, 어깨결림, 근육통, 관절통",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-12-19",
+   "first_observed_at": "2026-08-28T13:25:02Z",
+   "last_observed_at": "2026-08-28T13:25:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:02Z"
+}

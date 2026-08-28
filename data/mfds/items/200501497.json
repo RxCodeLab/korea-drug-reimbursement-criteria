@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501497",
+ "item_name": "벨라제정(브로멜라인)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20050531",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095415]브로멜라인",
+ "main_item_ingr_eng": "Bromelain",
+ "edi_code": "665501270",
+ "atc_code": "M09AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501497",
+ "revisions": [
+  {
+   "revision_id": "200501497-1cc52d62",
+   "content_sha256": "1cc52d62620458608e0fce015a4cb343428266d13c660133f0cb40521d10e25c",
+   "ee_text": "○ 부종을 동반한 염증 증상의 완화, 외상 또는 수술 후의 부종",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:24:08Z",
+   "last_observed_at": "2026-08-28T13:24:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:08Z"
+}

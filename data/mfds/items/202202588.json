@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202588",
+ "item_name": "제미다파정",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20220621",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M276406]다파글리플로진|[M254878]제미글립틴타르타르산염1.5수화물",
+ "main_item_ingr_eng": "Dapagliflozin/Gemigliptin Tartrate Sesquihydrate",
+ "edi_code": "668903320",
+ "atc_code": "A10BD30",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202588",
+ "revisions": [
+  {
+   "revision_id": "202202588-8754fe23",
+   "content_sha256": "8754fe23fc0768702e928adfa87e4f4c3a8ea5d1d86b6625ea92d26396c2452f",
+   "ee_text": "이 약은 제미글립틴과 다파글리플로진의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법 보조제로 투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:29Z",
+   "last_observed_at": "2026-08-28T13:25:29Z",
+   "official_revision_date": "2022-06-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:29Z"
+}

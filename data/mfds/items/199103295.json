@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199103295",
+ "item_name": "한생액",
+ "entp_name": "현대약품(주)",
+ "permit_date": "19910821",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204422]dl-메틸에페드린염산염|[M050059]구아야콜설폰산칼륨|[M040478]우황|[M258076]길경33.3%에탄올유동엑스(4->1)|[M258075]감초엑스(3 -> 1)|[M084569]남천실30%에탄올유동엑스|[M084697]맥문동30%에탄올유동엑스",
+ "main_item_ingr_eng": "Cattle Gallstone/DL-Methylephedrine Hydrochloride/Glycyrrhiza Extract (3→1)/Liriope Tuber 30% Ethanol Fluid Extract/Nandina Domestica Thunberg 30% Ethanol Fluid Extract/Platycodon Root 33.3% Ethanol Fluid Extract (4→1)/Potassium Guaiacolsulfonate",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199103295",
+ "revisions": [
+  {
+   "revision_id": "199103295-78dd308e",
+   "content_sha256": "78dd308e0cabff9495a553cd7e6646318532bf70f886bda2821e2f6252f7b915",
+   "ee_text": "기침, 가래, 천식",
+   "ee_doc_id": "27",
+   "first_observed_at": "2026-08-28T13:23:44Z",
+   "last_observed_at": "2026-08-28T13:23:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:44Z"
+}

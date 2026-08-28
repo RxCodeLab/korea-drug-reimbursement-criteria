@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707373",
+ "item_name": "반테린코와이엑스크림",
+ "entp_name": "한국코와(주)",
+ "permit_date": "20171011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040508]인도메타신|[M230875]l-멘톨|[M223240]토코페롤아세테이트",
+ "main_item_ingr_eng": "Indometacin/L-Menthol/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "M02AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707373",
+ "revisions": [
+  {
+   "revision_id": "201707373-d3aa1031",
+   "content_sha256": "d3aa10318a351904a0a7b87055256402ad07b090ec805ed63c5ba7d900875f7a",
+   "ee_text": "다음 질환 및 증상의 진통•소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건(힘줄)•건초염(힘줄윤활막염), 건주위염, 상완골상과염(테니스 엘보우 등), 근육통, 외상후 종창(부기)•동통(통증)",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:24:58Z",
+   "last_observed_at": "2026-08-28T13:24:58Z",
+   "official_revision_date": "2017-10-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:58Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199903135",
+ "item_name": "디아솔에스액(포도당)",
+ "entp_name": "(주)태준제약",
+ "permit_date": "19991211",
+ "cancel_date": "20250704",
+ "status": "취하",
+ "main_item_ingr": "[M040702]포도당",
+ "main_item_ingr_eng": "Glucose",
+ "edi_code": "",
+ "atc_code": "V04CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199903135",
+ "revisions": [
+  {
+   "revision_id": "199903135-a2007c14",
+   "content_sha256": "a2007c14dd2bf3f225487d7912b3ab198bdbf2a9be2495fb06e79459593fa846",
+   "ee_text": "포도당 내성을 측정함으로서 당뇨병과 그와 관련된 질환 상태를 진단",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:51Z"
+}

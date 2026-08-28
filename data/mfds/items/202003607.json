@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003607",
+ "item_name": "에이케어에스정10밀리그램(솔리페나신숙신산염)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20200518",
+ "cancel_date": "20250518",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M259862]솔리페나신숙신산염",
+ "main_item_ingr_eng": "Solifenacin Succinate",
+ "edi_code": "",
+ "atc_code": "G04BD08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003607",
+ "revisions": [
+  {
+   "revision_id": "202003607-351d7688",
+   "content_sha256": "351d7688de3ac8829e675ec85e8db4ce888bf71082cdbfd8b708253bb3548e21",
+   "ee_text": "절박성 뇨실금, 빈뇨, 요절박과 같은 과민성방광 증상의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:18Z",
+   "last_observed_at": "2026-08-28T13:25:18Z",
+   "official_revision_date": "2020-05-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:18Z"
+}

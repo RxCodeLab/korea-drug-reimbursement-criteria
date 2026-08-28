@@ -12,15 +12,15 @@
  "edi_code": "643301091",
  "atc_code": "L04AD01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900119",
+ "history_fetched_at": "2026-08-27T12:28:51Z",
  "revisions": [
   {
    "revision_id": "199900119-679ccd46",
    "content_sha256": "679ccd468530cbfb483d88d52b3d5be9532834b29494314e04783a539ee52740",
    "ee_text": "- 신장, 간장, 심장 및 폐복합, 폐 및 췌장의 이인자형 장기이식 거부 반응 예방 - 다른 면역억제제를 투여중인 환자의 장기이식 거부 반응 치료 - 조직이식 거부반응 예방 - 이식편 - 숙주반응질환(GVHD)의 예방 및 치료 기존의 세포증식억제제 치료에 실패한 특발성 스테로이드 의존성 또는 스테로이드 저항성 신증후군의 경우(대부분 생검에서 minimal change disease(MCD) 또는 focal segmental glomerulosclerosis(FSGS)를 보임) 단, 신기능 지수가 최소 50%는 정상이어야 함. 이들 환자에서 완화의 유도 또는 코르티코스테로이드를 포함한 다른 약으로 유도된 완화의 유지에 사용될 수 있다. 이 때 코르티코스테로이드는 중단할 수 있다.",
-   "ee_doc_id": "18",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199900119/EE",
    "first_observed_at": "2026-08-27T12:28:51Z",
-   "last_observed_at": "2026-08-27T12:28:51Z",
-   "official_revision_date": "2023-06-02"
+   "last_observed_at": "2026-08-28T13:23:50Z"
   },
   {
    "revision_id": "199900119-44aeef1f",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:28:51Z",
    "last_observed_at": "2026-08-27T12:28:51Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:28:51Z"
+ ]
 }

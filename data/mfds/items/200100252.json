@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100252",
+ "item_name": "엔에이.케이주20",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20010817",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨",
+ "main_item_ingr_eng": "Potassium Chloride/Sodium Chloride",
+ "edi_code": "644913480",
+ "atc_code": "B05BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100252",
+ "revisions": [
+  {
+   "revision_id": "200100252-b6b4a595",
+   "content_sha256": "b6b4a59585451ec7a8b44d836e7c0ebd75c3c737c4acf75ecfe706b7e60cc25d",
+   "ee_text": "탈수증, 수술전후 등의 수분ㆍ전해질 보급",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:57Z"
+}

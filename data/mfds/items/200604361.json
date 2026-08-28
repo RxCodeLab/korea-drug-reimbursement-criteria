@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200604361",
+ "item_name": "쎌크톤연질캡슐(수출용)",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20060517",
+ "cancel_date": "20240426",
+ "status": "취하",
+ "main_item_ingr": "[M203450]아스코르브산|[M082909]크롬함유건조효모|[M089702]셀레늄함유건조효모",
+ "main_item_ingr_eng": "Ascorbic Acid/Chromium in Dried Yeast/Selenium In Dried Yeast",
+ "edi_code": "",
+ "atc_code": "A11GB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604361",
+ "revisions": [
+  {
+   "revision_id": "200604361-950830af",
+   "content_sha256": "950830afca206bde7207937382ae0dec1845b54d0e2047490779f23880bcc205",
+   "ee_text": "고혈압의 저하 및 예방",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:10Z",
+   "last_observed_at": "2026-08-28T13:24:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:10Z"
+}

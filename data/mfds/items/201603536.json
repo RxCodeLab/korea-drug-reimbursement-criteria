@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603536",
+ "item_name": "대한엘아르기닌염산염주10%(L-아르기닌염산염)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20160616",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223095]L-아르기닌염산염",
+ "main_item_ingr_eng": "L-Arginine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "B05XB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603536",
+ "revisions": [
+  {
+   "revision_id": "201603536-79334614",
+   "content_sha256": "7933461413c8be20f23a4878e554a7debc144b930edeced8f43185c53d32113b",
+   "ee_text": "다음의 질환으로 인한 고암모니아혈증의 급성악화시, 경구투여로 조절이 불가능한 경우에 혈중 암모니아농도의 저하 - Carbamyl phosphate synthetase(CPS)결핍 - Ornitine transcarbamylase (OTC)결핍 - Arginosuccinate synthetase(ASS)결핍 - Arginosuccinate lyase(ASL)결핍 원칙적으로 진단이 확정되어, 아르기닌제제 등의 보조요법을 통해 치료가 행해지고 있는 환자에 투여한다. 그러나 선천성 요소사이클 이상증세가 예측되는 환자에 긴급히 투여하는 경우에는 혈중암모니아농도, 자타확인 증상을 참고하면서 투여한다.",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:50Z",
+   "last_observed_at": "2026-08-28T13:24:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:50Z"
+}

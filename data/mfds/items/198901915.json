@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198901915",
+ "item_name": "신일이부프로펜정400밀리그람(수출명:IFENTab.)",
+ "entp_name": "신일제약(주)",
+ "permit_date": "19890407",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜",
+ "main_item_ingr_eng": "Ibuprofen",
+ "edi_code": "653801580",
+ "atc_code": "M01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901915",
+ "revisions": [
+  {
+   "revision_id": "198901915-5277062a",
+   "content_sha256": "5277062af1e2682d4501653b08991f85d661fd0694d8c8fcc7e19919655b7032",
+   "ee_text": "류마티양 관절염, 연소성(어리거나 젊은 나이에 나타나는) 류마티양 관절염, 골관절염(퇴행성 관절질환), 감기로 인한 발열 및 동통(통증), 요(허리)통, 월경곤란증, 수술 후 동통(통증) 강직성 척추염, 두통, 치통, 근육통, 신경통, 급성통풍, 건선(마른비늘증)성 관절염, 연조직 손상(염좌(삠), 좌상(타박상/멍)), 비관절 류마티스질환(건염(힘줄염), 건초염(힘줄윤활막염), 활액(윤활)낭염)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198901915/EE",
+   "first_observed_at": "2026-08-28T13:23:42Z",
+   "last_observed_at": "2026-08-28T13:23:42Z"
+  },
+  {
+   "revision_id": "198901915-837e5099",
+   "content_sha256": "837e5099e67f547484763c524b927404b3d53371269e6bb49b97db267b0a459f",
+   "ee_text": "류마티양 관절염, 연소성(어리거나 젊은 나이에 나타나는) 류마티양 관절염, 골관절염(퇴행 성 관절질환), 감기로 인한 발열 및 동통(통증), 요(허리)통, 월경곤란증, 수술 후 동통(통 증) 강직성 척추염, 두통, 치통, 근육통, 신경통, 급성통풍, 건선(마른비늘증)성 관절염, 연조직 손상(염좌(삠), 좌상(타박상/멍)), 비관절 류마티스질환(건염(힘줄염), 건초염(힘줄윤활막염), 활액(윤활)낭염)",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:42Z",
+   "last_observed_at": "2026-08-28T13:23:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:42Z"
+}

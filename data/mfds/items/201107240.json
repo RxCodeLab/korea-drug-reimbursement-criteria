@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201107240",
+ "item_name": "베로바정(수출용)",
+ "entp_name": "한국프라임제약(주)",
+ "permit_date": "20110928",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095415]브로멜라인|[M051649]결정트립신|[M095415]브로멜라인|[M051649]결정트립신|[M095415]브로멜라인|[M051649]결정트립신",
+ "main_item_ingr_eng": "Bromelain/Crystallized Trypsin",
+ "edi_code": "",
+ "atc_code": "M09AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107240",
+ "revisions": [
+  {
+   "revision_id": "201107240-b11c8611",
+   "content_sha256": "b11c8611b2f7207ff9268d105efbb09ede0afdfc0031064a521aef71f10c3ef8",
+   "ee_text": "다음 질환 및 증상의 염증성 부종의 완화 : 수술 및 외상 후, 유즙울체",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:24:26Z",
+   "last_observed_at": "2026-08-28T13:24:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:26Z"
+}

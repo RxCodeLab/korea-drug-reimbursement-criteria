@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711401",
+ "item_name": "아네스타플라스타(리도카인,수출명:아네스타(Anesta,Anestha),센소카인(Sensocaine,SensOKaine),리도-케이엔(Lido-KN),리도렉스(Lidorex))",
+ "entp_name": "아이큐어(주)",
+ "permit_date": "20071017",
+ "cancel_date": "20240219",
+ "status": "폐업",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711401",
+ "revisions": [
+  {
+   "revision_id": "200711401-96a871da",
+   "content_sha256": "96a871daf870acd16d931b0fca94f613ac4a13d869298f08baeca8bec572345d",
+   "ee_text": "주사바늘 삽입(정맥삽관,혈액시료채취등)시 피부의 표면마취에 의한 통증완화",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:24:14Z",
+   "last_observed_at": "2026-08-28T13:24:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:14Z"
+}

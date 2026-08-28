@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502663",
+ "item_name": "부로멜라장용정(브로멜라인)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20050729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095415]브로멜라인",
+ "main_item_ingr_eng": "Bromelain",
+ "edi_code": "649801890",
+ "atc_code": "M09AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502663",
+ "revisions": [
+  {
+   "revision_id": "200502663-9456deba",
+   "content_sha256": "9456debaf37f4fd1517bff0495b9626bf374144382c9a7ce4902ae141c1dad63",
+   "ee_text": "부종(부기)을 동반한 염증 증상의 완화, 외상(상처) 또는 수술 후의 부종(부기)",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:24:08Z",
+   "last_observed_at": "2026-08-28T13:24:08Z",
+   "official_revision_date": "2020-01-30"
+  },
+  {
+   "revision_id": "200502663-1cc52d62",
+   "content_sha256": "1cc52d62620458608e0fce015a4cb343428266d13c660133f0cb40521d10e25c",
+   "ee_text": "○ 부종을 동반한 염증 증상의 완화, 외상 또는 수술 후의 부종",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:08Z",
+   "last_observed_at": "2026-08-28T13:24:08Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:08Z"
+}

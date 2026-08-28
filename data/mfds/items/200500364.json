@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500364",
+ "item_name": "에이프로젠비아렉스정(수출용)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20051006",
+ "cancel_date": "20251016",
+ "status": "취하",
+ "main_item_ingr": "[M100358]염산리신|[M040064]니코틴산아미드|[M100995]엘로이신|[M100637]엘메치오닌|[M040133]리보플라빈|[M099297]엘트레오닌|[M040698]엘페닐알라닌|[M240075]염산피리독신|[M071150]질산치아민|[M100994]엘발린|[M089022]호박산토코페롤칼슘|[M096389]엘트리프토판|[M099286]염산아르기닌|[M100996]엘이소로이신",
+ "main_item_ingr_eng": "Arginine Hydrochloride/L-Isoleucine/L-Leucine/L-Methionine/L-Phenylalanine/L-Threonine/L-Tryptophan/L-Valine/Lysine Hydrochloride/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate/Tocopherol Calcium Succinate",
+ "edi_code": "",
+ "atc_code": "V06DE",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500364",
+ "revisions": [
+  {
+   "revision_id": "200500364-6fa7769b",
+   "content_sha256": "6fa7769b1579fdb3e75c5386fef613c86310de093f82d66e74ceaf1225a7c0dd",
+   "ee_text": "자양강장, 허약체질, 육체피로, 병중병후, 위장장해, 영양장해, 발열성소모성질환, 임심수유기 등의 영양보급",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:07Z",
+   "last_observed_at": "2026-08-28T13:24:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:07Z"
+}

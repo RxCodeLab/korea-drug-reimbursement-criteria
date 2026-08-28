@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004003",
+ "item_name": "레보세킴정(레보세티리진염산염)",
+ "entp_name": "(주)킴스제약",
+ "permit_date": "20200528",
+ "cancel_date": "20240307",
+ "status": "취하",
+ "main_item_ingr": "[M244596]레보세티리진염산염",
+ "main_item_ingr_eng": "Levocetirizine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AE09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004003",
+ "revisions": [
+  {
+   "revision_id": "202004003-61ce5d0e",
+   "content_sha256": "61ce5d0e15d258dc443eeb735e94af3a18942cfc2c4d4f554edbf10891b1f902",
+   "ee_text": "다음 질환의 증상 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:19Z",
+   "last_observed_at": "2026-08-28T13:25:19Z",
+   "official_revision_date": "2020-05-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:19Z"
+}

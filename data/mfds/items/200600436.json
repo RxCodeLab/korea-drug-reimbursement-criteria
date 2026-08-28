@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600436",
+ "item_name": "케이디세라티오펩티다제정10밀리그람(수출용)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20060105",
+ "cancel_date": "20251211",
+ "status": "취하",
+ "main_item_ingr": "[M099414]세라티오펩티다제",
+ "main_item_ingr_eng": "Serratiopeptidase",
+ "edi_code": "",
+ "atc_code": "M09AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600436",
+ "revisions": [
+  {
+   "revision_id": "200600436-e027b1bd",
+   "content_sha256": "e027b1bdec77f45a13f083694811a946168ff3b631196f79a269589d342a84bc",
+   "ee_text": ": 수술 및 외상 후, 부비동염, 유즙울체(유방마사지 및 착유를 하고 있는 경우), 방광염(항생제치료의 보조), 사랑니주위염, 치조농양, 발치술 후 : 기관지염, 폐결핵, 기관지천식",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:09Z"
+}

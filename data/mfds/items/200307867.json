@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200307867",
+ "item_name": "글루리아드정500/5밀리그람",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20030514",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223014]메트포르민염산염|[M050102]글리벤클라미드",
+ "main_item_ingr_eng": "Glibenclamide/Metformin Hydrochloride",
+ "edi_code": "641600200",
+ "atc_code": "A10BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307867",
+ "revisions": [
+  {
+   "revision_id": "200307867-3afe08cf",
+   "content_sha256": "3afe08cf0055245718e32a61b02f4a9a6d5568c96771b6b64ff7d6e838f47581",
+   "ee_text": "성인의 인슐린 비의존성(type II) 당뇨병. - 식이요법, 운동요법, 이전의 메트포르민(metformin) 또는 설포닐우레아(sulfonylurea) 단독요법으로 혈당 조절효과가 불충분한 경우 2차 요법 - 혈당증이 안정적이고 잘 조절된 환자에서 이전의 메트포르민과 설포닐우레아 병용요법 (combination therapy)의 대체",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

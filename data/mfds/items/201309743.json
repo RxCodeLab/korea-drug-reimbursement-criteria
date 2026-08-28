@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309743",
+ "item_name": "케트라정(레보세티리진염산염)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20131016",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244596]레보세티리진염산염",
+ "main_item_ingr_eng": "Levocetirizine Hydrochloride",
+ "edi_code": "657805170",
+ "atc_code": "R06AE09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309743",
+ "revisions": [
+  {
+   "revision_id": "201309743-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:24:33Z",
+   "last_observed_at": "2026-08-28T13:24:33Z",
+   "official_revision_date": "2021-07-09"
+  },
+  {
+   "revision_id": "201309743-61ce5d0e",
+   "content_sha256": "61ce5d0e15d258dc443eeb735e94af3a18942cfc2c4d4f554edbf10891b1f902",
+   "ee_text": "다음 질환의 증상 완화",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:33Z",
+   "last_observed_at": "2026-08-28T13:24:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:33Z"
+}

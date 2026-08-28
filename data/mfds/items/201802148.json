@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802148",
+ "item_name": "광동만수고골드플라스타",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20180523",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M230875]l-멘톨|[M204423]dl-캄파|[M223240]토코페롤아세테이트|[M243794]황백연조엑스 (3.3→1)|[M243795]치자연조엑스 (3.0→1)|[M070611]살리실산글리콜|[M243795]치자연조엑스 (3.0→1)|[M070611]살리실산글리콜|[M230875]l-멘톨|[M204423]dl-캄파|[M223240]토코페롤아세테이트|[M243794]황백연조엑스 (3.3→1)",
+ "main_item_ingr_eng": "DL-Camphor/Gardenia Fruit Soft Extract (3.0→1)/Glycol Salicylate/L-Menthol/Phellodendron Bark Soft Extract (3.3→1)/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802148",
+ "revisions": [
+  {
+   "revision_id": "201802148-dd13a363",
+   "content_sha256": "dd13a363117624c737ac3e536fec0e7eca0176dbb9b91dc8fc8eb907bb6c082b",
+   "ee_text": "다음 증상의 진통 ㆍ 소염(항염) 1) 삠 2) 타박상 3) 근육통 4) 관절통 5) 골(뼈)절통 6) 요(허리)통 7) 어깨결림 8) 동창(언 상처)",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:25:00Z",
+   "last_observed_at": "2026-08-28T13:25:00Z",
+   "official_revision_date": "2022-09-07"
+  },
+  {
+   "revision_id": "201802148-8b0773df",
+   "content_sha256": "8b0773df0b54074ea9267a0ec3d87f8189ab99ffffb86227f59f08e17af194cd",
+   "ee_text": "다음 증상의 진통 ㆍ 소염(항염) 1) 삠 2) 타박상 3) 근육통 4) 관절통 5) 골절통 6) 요(허리)통 7) 어깨결림 8) 동창(언 상처)",
+   "ee_doc_id": "6",
+   "official_revision_date": "2020-07-27",
+   "first_observed_at": "2026-08-28T13:25:00Z",
+   "last_observed_at": "2026-08-28T13:25:00Z"
+  },
+  {
+   "revision_id": "201802148-c4cc16df",
+   "content_sha256": "c4cc16df2d356377dd75a5c3e1680536fe3cd0661143bc789d338e2bed74e664",
+   "ee_text": "다음 증상의 진통 ㆍ 소염(항염) 1) 삠 2) 타박상 3) 근육통 4) 관절통 5) 골절통 6) 요통 7) 어깨결림 8) 동창(언 상처)",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-05-23",
+   "first_observed_at": "2026-08-28T13:25:00Z",
+   "last_observed_at": "2026-08-28T13:25:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:00Z"
+}

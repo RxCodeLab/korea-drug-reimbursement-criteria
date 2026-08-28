@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005653",
+ "item_name": "경방이중탕엑스과립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000828",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051291]인삼|[M040214]백출|[M040007]건강|[M040006]감초",
+ "main_item_ingr_eng": "Atractylodes Rhizome White/Ginger/Ginseng/Licorice",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005653",
+ "revisions": [
+  {
+   "revision_id": "200005653-85bb968a",
+   "content_sha256": "85bb968aa2e36bc43175722c527b639e1c90678ee947768444da05817046899e",
+   "ee_text": "손발이 차가워지기 쉽고, 요량이 많은 사람의 다음 증상 : 위장허약, 위무력, 설사, 구토, 위통",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

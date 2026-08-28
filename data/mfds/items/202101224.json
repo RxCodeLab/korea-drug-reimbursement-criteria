@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101224",
+ "item_name": "바스포플러스연고",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20210209",
+ "cancel_date": "20250930",
+ "status": "취하",
+ "main_item_ingr": "[M241764]리도카인염산염|[M233313]폴리믹신B황산염|[M202893]네오마이신황산염|[M020054]바시트라신",
+ "main_item_ingr_eng": "Bacitracin/Lidocaine Hydrochloride/Neomycin Sulfate/Polymyxin B Sulfate",
+ "edi_code": "",
+ "atc_code": "D06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101224",
+ "revisions": [
+  {
+   "revision_id": "202101224-bee8753e",
+   "content_sha256": "bee8753e91150c0caa2d9f165a96b651ee072e58c18129894c88cd2e3d9108df",
+   "ee_text": "경미한[가벼운]베임, 긁힘, 화상에 의한 감염증 예방 및 일시적인 통증완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:23Z",
+   "last_observed_at": "2026-08-28T13:25:23Z",
+   "official_revision_date": "2021-02-09"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:23Z"
+}

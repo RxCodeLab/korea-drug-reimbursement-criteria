@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401008",
+ "item_name": "아페민정(아세클로페낙)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20040930",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040359]아세클로페낙",
+ "main_item_ingr_eng": "Aceclofenac",
+ "edi_code": "621801920",
+ "atc_code": "M01AB16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401008",
+ "revisions": [
+  {
+   "revision_id": "200401008-85076b17",
+   "content_sha256": "85076b17232c48ac0a84688e6a7365398bb0e08e72a9724b4b0aef6dd65f4326",
+   "ee_text": "류마티스관절염, 강직척추염, 골관절염(퇴행관절염) 및 견갑상완골의 관절주위염, 치통, 외상 후 생기는 염증, 요통, 좌골통, 비관절성 류머티즘으로 인한 통증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200401008/EE",
+   "first_observed_at": "2026-08-28T13:24:04Z",
+   "last_observed_at": "2026-08-28T13:24:04Z"
+  },
+  {
+   "revision_id": "200401008-c264e567",
+   "content_sha256": "c264e567e70ccc5d1e41ba5749ee15a6356038e083b0d49669f5adc1d995408f",
+   "ee_text": "류마티스양 관절염, 강직성 척추염, 골관절염 및 견갑상완골의 관절주위염, 치통, 외상후 생기는 염증, 요통, 좌골통, 회음 외측절개 수술 후, 분만 후 비관절성 류마티즘으로 인한 통증",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:04Z",
+   "last_observed_at": "2026-08-28T13:24:04Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:04Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401963",
+ "item_name": "삼감엑스과립(삼소음)",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20040524",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040048]길경|[M040538]진피|[M040004]갈근|[M051318]전호|[M040202]반하|[M040536]지실|[M051301]자소엽|[M040006]감초|[M040225]복령|[M051291]인삼|[M040071]대추|[M040007]건강|[M040187]목향",
+ "main_item_ingr_eng": "Aucklandiae Radix/Citrus Unshiu Peel/Ginger/Ginseng/Jujube/Licorice/Perilla Leaf/Peucedani Radix/Pinellia Tuber/Platycodon Root/Poncirus Immature Fruit/Poria/Pueraria Root",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401963",
+ "revisions": [
+  {
+   "revision_id": "200401963-f4d43d83",
+   "content_sha256": "f4d43d8314cb9f0cedc6424f6a922a0f24a87363cf527d1e00f6b71dd51a64cc",
+   "ee_text": "감기, 기침",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:05Z",
+   "last_observed_at": "2026-08-28T13:24:05Z",
+   "official_revision_date": "2009-04-30"
+  },
+  {
+   "revision_id": "200401963-ba471e66",
+   "content_sha256": "ba471e66734c364079ed026fca9bbc6ada6e2c2e2751d66984f5dc164ca3002b",
+   "ee_text": "(과립제)(산제)(환제) 감기, 기침 (액제) 감기에 의한 두통, 발열, 기침",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:05Z",
+   "last_observed_at": "2026-08-28T13:24:05Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:05Z"
+}

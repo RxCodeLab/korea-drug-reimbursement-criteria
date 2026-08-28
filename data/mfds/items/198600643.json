@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198600643",
+ "item_name": "원비-디(구주수출용)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19860820",
+ "cancel_date": "20240423",
+ "status": "취하",
+ "main_item_ingr": "[M240076]판토텐산칼슘|[M040133]리보플라빈|[M040064]니코틴산아미드|[M082075]구기자유동엑스|[M082106]인삼유동엑스|[M240075]염산피리독신",
+ "main_item_ingr_eng": "Calcium Pantothenate/Ginseng Fluid Extract/Lycium Fruit Fluid Extract/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600643",
+ "revisions": [
+  {
+   "revision_id": "198600643-52ca0b5a",
+   "content_sha256": "52ca0b5af6dadeebe49423ee5b0236c19d50e591815d0748b198d7d1efccf674",
+   "ee_text": "간기능보조 및 개선, 자양강장, 허약체질보조 및 개선, 피로회복",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:40Z"
+}

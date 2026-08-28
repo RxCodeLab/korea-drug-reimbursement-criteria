@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604725",
+ "item_name": "본투본연질캡슐",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20160801",
+ "cancel_date": "20260801",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040262]산화마그네슘|[M255993]농축콜레칼시페롤(유상)|[M222935]글루콘산칼슘수화물|[M223369]인산수소칼슘수화물",
+ "main_item_ingr_eng": "Calcium Gluconate Hydrate/Cholecalciferol Concentrate Oil/Dibasic Calcium Phosphate Hydrate/Magnesium Oxide",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604725",
+ "revisions": [
+  {
+   "revision_id": "201604725-ecb9dbf8",
+   "content_sha256": "ecb9dbf873c1bf48ee4e0c2a693cce57acac6956b02d4b51078ea9a392ab8f06",
+   "ee_text": "- 임신ㆍ수유기, 발육기, 노년기 - 뼈, 이의 발육불량, 구루병의 예방",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:51Z",
+   "last_observed_at": "2026-08-28T13:24:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:51Z"
+}

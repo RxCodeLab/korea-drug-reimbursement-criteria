@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900160",
+ "item_name": "옥솔페이스트(에녹솔론)(허브스피아향)",
+ "entp_name": "오스템파마주식회사",
+ "permit_date": "20190114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215133]에녹솔론",
+ "main_item_ingr_eng": "Enoxolone",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900160",
+ "revisions": [
+  {
+   "revision_id": "201900160-22307d39",
+   "content_sha256": "22307d393109e6ba163a222f0525a087950b8620c203d3df9c3365743ec85f0a",
+   "ee_text": "다음 질환에 의한 통증의 완화: 치은염(잇몸염), 치은출혈, 보철(의치)에 의한 염증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:03Z",
+   "last_observed_at": "2026-08-28T13:25:03Z",
+   "official_revision_date": "2019-01-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:03Z"
+}

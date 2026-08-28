@@ -12,15 +12,15 @@
  "edi_code": "642802970",
  "atc_code": "N03AX18",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201703448",
+ "history_fetched_at": "2026-08-27T13:44:06Z",
  "revisions": [
   {
    "revision_id": "201703448-dbeb2ceb",
    "content_sha256": "dbeb2ceb6921335272bf2488b091c68510a96dfa8bb21245e2c84818d89b85fa",
    "ee_text": "16세 이상의 뇌전증 환자에서 2차성 전신발작을 동반하거나 동반하지 않는 부분발작 치료의 부가요법",
-   "ee_doc_id": "14",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201703448/EE",
    "first_observed_at": "2026-08-27T13:44:06Z",
-   "last_observed_at": "2026-08-27T13:44:06Z",
-   "official_revision_date": "2023-12-29"
+   "last_observed_at": "2026-08-28T13:24:56Z"
   },
   {
    "revision_id": "201703448-ebfd4450",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:44:06Z",
    "last_observed_at": "2026-08-27T13:44:06Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:44:06Z"
+ ]
 }

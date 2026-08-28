@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200404783",
+ "item_name": "소부쿨캡슐(수출용)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20041210",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M220819]L-카르보시스테인|[M080308]소브레롤",
+ "main_item_ingr_eng": "L-Carbocisteine/Sobrerol",
+ "edi_code": "",
+ "atc_code": "R05CB10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404783",
+ "revisions": [
+  {
+   "revision_id": "200404783-2b84aa73",
+   "content_sha256": "2b84aa732f305ae230fc1e752f545a154eb9e7b2bc3dac8671099f7c7162ac92",
+   "ee_text": "1) 기관지염, 기관지확장증, 기관지폐렴 특히 천식, 폐기종 등의 호흡기부전이 수반될 때 2) 폐결핵이나 진폐증이 수반되는 기관지 카타르 3) 비인두염, 후두기관염",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:06Z",
+   "last_observed_at": "2026-08-28T13:24:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:06Z"
+}

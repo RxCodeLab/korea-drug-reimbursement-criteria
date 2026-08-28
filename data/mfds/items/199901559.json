@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199901559",
+ "item_name": "트리겔현탁액",
+ "entp_name": "대원제약(주)",
+ "permit_date": "19990112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040306]수산화마그네슘|[M201415]옥세타자인|[M040308]건조수산화알루미늄겔|[M040306]수산화마그네슘|[M201415]옥세타자인|[M040308]건조수산화알루미늄겔|[M201415]옥세타자인|[M040306]수산화마그네슘|[M040308]건조수산화알루미늄겔|[M201415]옥세타자인|[M040306]수산화마그네슘|[M040308]건조수산화알루미늄겔",
+ "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel/Magnesium Hydroxide/Oxethazaine",
+ "edi_code": "",
+ "atc_code": "A02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901559",
+ "revisions": [
+  {
+   "revision_id": "199901559-55ab0bbf",
+   "content_sha256": "55ab0bbf6bbb1e1449107f896aa7c4a6d04e37e9fe7628bc5a7abaa69bd4cd9c",
+   "ee_text": "급성ㆍ만성통증, 위염, 십이지장궤양, 식도염, 방사선요법시 소화장애에의한 위통",
+   "ee_doc_id": "33",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z",
+   "official_revision_date": "2023-12-20"
+  },
+  {
+   "revision_id": "199901559-36415631",
+   "content_sha256": "36415631cd0242cc3c3b3e7bef58f24ade86802b75bf7843ae29e62acc0f00b6",
+   "ee_text": "급성ㆍ만성통증, 위염, 십이지궤양, 식도염, 방사선요법시 소화장애에의한 위통",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:51Z"
+}

@@ -12,15 +12,15 @@
  "edi_code": "073100220",
  "atc_code": "C09CA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811814",
+ "history_fetched_at": "2026-08-27T13:07:02Z",
  "revisions": [
   {
    "revision_id": "200811814-47de3fbd",
    "content_sha256": "47de3fbd338e54528821d904a34509713de70faf4908189870f2519d26e32572",
    "ee_text": "1. 고혈압 2. 좌심실 비대가 있는 고혈압 환자에서의 뇌졸중 발생 위험의 감소 3. 고혈압의 치료요법으로서, 고혈압을 가진 제 2형 당뇨병 환자의 신장병",
-   "ee_doc_id": "32",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200811814/EE",
    "first_observed_at": "2026-08-27T13:07:02Z",
-   "last_observed_at": "2026-08-27T13:07:02Z",
-   "official_revision_date": "2023-12-21"
+   "last_observed_at": "2026-08-28T13:24:20Z"
   },
   {
    "revision_id": "200811814-e3b0c442",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:07:02Z",
    "last_observed_at": "2026-08-27T13:07:02Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:07:02Z"
+ ]
 }

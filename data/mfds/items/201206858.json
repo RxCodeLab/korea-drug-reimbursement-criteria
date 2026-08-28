@@ -12,15 +12,15 @@
  "edi_code": "643903540",
  "atc_code": "N04BC05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206858",
+ "history_fetched_at": "2026-08-27T12:23:56Z",
  "revisions": [
   {
    "revision_id": "201206858-26026265",
    "content_sha256": "260262651391bc06d5a07ee1c87cd6ae525b777d812d9b05986c605ab8b3f709",
    "ee_text": ": 초기 파킨슨병 환자의 치료에 단독요법, 레보도파와 병용한 진행된 파킨슨병 환자의 병용요법 : 중등증 및 중증의 특발성 하지 불안 증후군 환자의 증상 치료",
-   "ee_doc_id": "18",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201206858/EE",
    "first_observed_at": "2026-08-27T12:23:56Z",
-   "last_observed_at": "2026-08-27T12:23:56Z",
-   "official_revision_date": "2017-11-07"
+   "last_observed_at": "2026-08-28T13:24:28Z"
   },
   {
    "revision_id": "201206858-a5930642",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:23:56Z",
    "last_observed_at": "2026-08-27T12:23:56Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:23:56Z"
+ ]
 }

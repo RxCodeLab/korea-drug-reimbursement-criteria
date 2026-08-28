@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605549",
+ "item_name": "리도아번겔(리도카인)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20160919",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605549",
+ "revisions": [
+  {
+   "revision_id": "201605549-60bd18bc",
+   "content_sha256": "60bd18bc4b4fd77a790b55b0c5a8edbd94601fb4e422aa3fcf14be8ed85acb09",
+   "ee_text": "다음의 경우에서의 통증의 일시적 경감 : 경증(가벼운 증상)의 화상, 일광화상(햇볕 탄데), 외상(상처), 자상(찔린상처)",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:24:51Z",
+   "last_observed_at": "2026-08-28T13:24:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:51Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199302995",
+ "item_name": "나조린점안액(1회용),나조린점안액",
+ "entp_name": "한림제약(주)",
+ "permit_date": "19930317",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051704]말레인산페니라민|[M222937]나파졸린염산염|[M051704]말레인산페니라민|[M222937]나파졸린염산염",
+ "main_item_ingr_eng": "Naphazoline Hydrochloride/Pheniramine Maleate",
+ "edi_code": "",
+ "atc_code": "S01GA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199302995",
+ "revisions": [
+  {
+   "revision_id": "199302995-34673ac4",
+   "content_sha256": "34673ac49f15b374420fa4012a54fb723ff823a1f6c143ecb8dcef3449fc34e4",
+   "ee_text": "안자극‧충혈의 일시적 완화",
+   "ee_doc_id": "25",
+   "first_observed_at": "2026-08-28T13:23:45Z",
+   "last_observed_at": "2026-08-28T13:23:45Z",
+   "official_revision_date": "2021-01-14"
+  },
+  {
+   "revision_id": "199302995-65587d16",
+   "content_sha256": "65587d1648c9cdb6180a7864c1a0a48305f3a9cfb37cbf3276dbdf67d572e461",
+   "ee_text": "ㆍ안자극ㆍ충혈의 완화 ㆍ염증성 안질환",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:45Z",
+   "last_observed_at": "2026-08-28T13:23:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:45Z"
+}

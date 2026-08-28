@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401092",
+ "item_name": "이부센이브연질캡슐",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "20240502",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜|[M082487]파마브롬",
+ "main_item_ingr_eng": "Ibuprofen/Pamabrom",
+ "edi_code": "",
+ "atc_code": "M01AE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401092",
+ "revisions": [
+  {
+   "revision_id": "202401092-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:36Z",
+   "last_observed_at": "2026-08-28T13:25:36Z",
+   "official_revision_date": "2024-05-02"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:36Z"
+}

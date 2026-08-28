@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198100448",
+ "item_name": "광동금립기응환",
+ "entp_name": "광동제약(주)",
+ "permit_date": "19810616",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051432]침향|[M040213]인삼|[M051216]웅담|[M040253]사향",
+ "main_item_ingr_eng": "Aquilariae Lignum/Ginseng/Moschus/Ursi Fel",
+ "edi_code": "",
+ "atc_code": "N07XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100448",
+ "revisions": [
+  {
+   "revision_id": "198100448-a626923e",
+   "content_sha256": "a626923ebaec6bdf7ecd81766ac398350b43628a78b72fadfcc2bce0977e2731",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 위장허약, 토유, 간병(癎病, 신경병증), 경련(경풍), 설사, 신경과민, 감기, 감기로 인한 발열, 야제증(어린이가 밤에 울고 보채는 증상), 침냉(寢冷, 차게 자서 감기가 들거나 배탈이 나는 증상)",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:38Z"
+}

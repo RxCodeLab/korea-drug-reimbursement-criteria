@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501944",
+ "item_name": "신일폴산정",
+ "entp_name": "신일제약(주)",
+ "permit_date": "19950911",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223289]폴산",
+ "main_item_ingr_eng": "Folic Acid",
+ "edi_code": "653801510",
+ "atc_code": "B03BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501944",
+ "revisions": [
+  {
+   "revision_id": "199501944-315d5736",
+   "content_sha256": "315d573645cddd581537608f1911aca2fe2fa0c1c4aecd17145b12ffd21f4755",
+   "ee_text": "소모성 질환, 임부 및 수유부 1) 영양결핍성빈혈, 임신성빈혈, 소아빈혈 2) 항전간제 투여로 인한 빈혈 소모성 질환, 임부 및 수유부 1) 영양결핍성빈혈, 임신성빈혈, 소아빈혈 2) 항전간제 투여로 인한 빈혈",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:46Z"
+}

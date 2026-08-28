@@ -12,16 +12,15 @@
  "edi_code": "",
  "atc_code": "R05FA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102113",
+ "history_fetched_at": "2026-08-27T12:57:07Z",
  "revisions": [
   {
    "revision_id": "200102113-a62ce6b6",
    "content_sha256": "a62ce6b6fcef106c60d3ded06b8d8768195701ffc71a9d4c3535e991989ca292",
    "ee_text": "감기 제증상 (콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
-   "ee_doc_id": "18",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200102113/EE",
    "first_observed_at": "2026-08-27T12:57:07Z",
-   "last_observed_at": "2026-08-27T12:57:07Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-08-28T13:23:58Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:57:07Z"
+ ]
 }

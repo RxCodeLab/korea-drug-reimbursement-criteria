@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804336",
+ "item_name": "텔탄스타정40/10밀리그램",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20181031",
+ "cancel_date": "20231031",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222875]암로디핀베실산염|[M090395]텔미사르탄",
+ "main_item_ingr_eng": "Amlodipine Besylate/Telmisartan",
+ "edi_code": "",
+ "atc_code": "C09DB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804336",
+ "revisions": [
+  {
+   "revision_id": "201804336-3ab3b3b4",
+   "content_sha256": "3ab3b3b448343780af42e100cfc3bcc8ddefdfcae8dcddbecf515a6b463f759e",
+   "ee_text": "텔미사르탄 또는 암로디핀 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:02Z",
+   "last_observed_at": "2026-08-28T13:25:02Z",
+   "official_revision_date": "2018-10-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:02Z"
+}

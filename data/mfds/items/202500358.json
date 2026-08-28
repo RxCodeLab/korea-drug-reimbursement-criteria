@@ -12,15 +12,15 @@
  "edi_code": "645406461",
  "atc_code": "J01DI04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500358",
+ "history_fetched_at": "2026-08-27T13:53:07Z",
  "revisions": [
   {
    "revision_id": "202500358-472d941f",
    "content_sha256": "472d941f21f9d86f4cfffdb0608423b5c5c3a1b90558a719d9a7f15dfbaaab48",
    "ee_text": "1. 적응증 • 성인 환자에서 신우신염을 포함한 복잡성 요로감염(cUTI) 치료 • 성인 환자에서 인공호흡기 관련 폐렴(VAP)을 포함한 원내 감염 폐렴(HAP)치료 2. 유효균종 •복잡성 요로감염: 그람-음성균: Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Enterobacter cloacae complex •인공호흡기 관련 폐렴을 포함한 원내 감염 폐렴(HAP/VAP): 그람-음성균: Acinetobacter baumannii complex, Escherichia coli, Enterobacter cloacae complex, Klebsiella pneumoniae, Pseudomonas aeruginosa, Serratia marcescens 내성균의 발현을 줄이고 이 약과 다른 항생제의 효과를 유지하기 위해, 이 약은 유효 균종에 의한 감염임이 확인되거나 또는 유효 균종에 의한 것이라고 의심되는 감염 시에만 사용한다. 배양이나 감수성 정보가 있다면 항생제 치료의 선택 및 변경에 참고해야 한다. 정보가 없는 경우라면, 항생제의 경험적 선택을 위해 역학자료 또는 감수성 패턴을 참고할 수 있다.",
-   "ee_doc_id": "15",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202500358/EE",
    "first_observed_at": "2026-08-27T13:53:07Z",
-   "last_observed_at": "2026-08-27T13:53:07Z",
-   "official_revision_date": "2026-03-04"
+   "last_observed_at": "2026-08-28T13:25:37Z"
   },
   {
    "revision_id": "202500358-4b6aaea6",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:53:07Z",
    "last_observed_at": "2026-08-27T13:53:07Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:53:07Z"
+ ]
 }

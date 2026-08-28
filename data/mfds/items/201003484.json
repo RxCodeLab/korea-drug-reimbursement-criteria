@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003484",
+ "item_name": "트루바다정",
+ "entp_name": "길리어드사이언스코리아(유)",
+ "permit_date": "20100514",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250026]엠트리시타빈|[M256843]테노포비르디소프록실푸마르산염",
+ "main_item_ingr_eng": "Emtricitabine/Tenofovir Disoproxil Fumarate",
+ "edi_code": "625900020",
+ "atc_code": "J05AR03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003484",
+ "revisions": [
+  {
+   "revision_id": "201003484-516c79e4",
+   "content_sha256": "516c79e406dc8b589491774a1fe446b8475e800a47d81b430c767c027e06c540",
+   "ee_text": "성인과 만 12세 이상이고 체중이 35kg 이상인 청소년 환자에서 HIV-1 감염의 치료를 위해 다른 항레트로바이러스 제제와 병용 투여한다. 고위험군 성인에서 성관계로 매개되는 HIV-1 감염 위험을 감소시키기 위한 HIV-1 노출 전 감염 위험 감소 요법(PrEP; Pre-exposure prophylaxis)으로, 보다 안전한 성관계 수칙 준수와 반드시 병행한다. 고위험군 HIV-1 비감염자의 예는 다음과 같다. - HIV-1 감염이 있는 것으로 알려진 성관계 파트너가 있는 경우 - HIV-1 유병률이 높은 지역 또는 사회적 네트워크 내에서 성생활을 하는 경우로서 다음 중 하나 또는 그 이상에 해당 할 때 • 콘돔을 불규칙적으로 사용하거나 아예 사용하지 않는 경우 • 성매개 감염병(매독, 임질 등)으로 진단된 경우 • 성관계 파트너의 HIV-1 상태가 알려지지 않은 경우 등 이 약을 사용하는 의사는 HIV-1 감염 위험을 줄이기 위한 종합적인 관리 방안(사용상의 주의사항 1. 경고 3)항 참조)을 숙지하고, 필요한 경우 관련 진료지침을 준수하여 처방하여야 한다.",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:24:23Z",
+   "last_observed_at": "2026-08-28T13:24:23Z",
+   "official_revision_date": "2018-02-13"
+  },
+  {
+   "revision_id": "201003484-992ecdf5",
+   "content_sha256": "992ecdf523f2ee62f8522884664957180f98ec85ab60c5ee09c9924c97f4fd82",
+   "ee_text": "성인에서 HIV-1 감염의 치료를 위해 다른 항레트로바이러스(비뉴클레오사이드 역전사효소억제제, 단백효소억제제 등)제제와 병용투여한다. 항레트로바이러스 치료시 엠트리시타빈과 테노포비르디소프록실푸마르산염 병용요법의 유익성은 단지 항레트로바이러스 치료경험이 없는 HIV-1감염 환자(treatment-naive)에서 수행된 연구에 근거하여 입증되었다.",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:23Z",
+   "last_observed_at": "2026-08-28T13:24:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:23Z"
+}

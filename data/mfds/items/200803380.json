@@ -12,15 +12,15 @@
  "edi_code": "643304631",
  "atc_code": "L04AD02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803380",
+ "history_fetched_at": "2026-08-27T12:33:32Z",
  "revisions": [
   {
    "revision_id": "200803380-104259d1",
    "content_sha256": "104259d11216cfbe5ac437305ff8f3c8854adcfa2354680f91561278d96a68df",
    "ee_text": ": 동종의 신이식 환자에 대한 거부반응 방지 : 동종의 간이식 환자에 대한 거부반응 방지 - 조직이식 거부반응 방지 - 이식편대숙주질환(graft versus-host disease) 방지",
-   "ee_doc_id": "31",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200803380/EE",
    "first_observed_at": "2026-08-27T12:33:32Z",
-   "last_observed_at": "2026-08-27T12:33:32Z",
-   "official_revision_date": "2023-02-20"
+   "last_observed_at": "2026-08-28T13:24:16Z"
   },
   {
    "revision_id": "200803380-5bced8cb",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:33:32Z",
    "last_observed_at": "2026-08-27T12:33:32Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:33:32Z"
+ ]
 }

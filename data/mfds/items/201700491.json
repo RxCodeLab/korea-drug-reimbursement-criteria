@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201700491",
+ "item_name": "로카브정60/10밀리그램",
+ "entp_name": "(주)보령바이오파마",
+ "permit_date": "20170125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264048]피마사르탄칼륨삼수화물과립|[M095744]로수바스타틴칼슘",
+ "main_item_ingr_eng": "Fimasartan Potassium Trihydrate Granules/Rosuvastatin Calcium",
+ "edi_code": "",
+ "atc_code": "C10BX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700491",
+ "revisions": [
+  {
+   "revision_id": "201700491-7e67eb33",
+   "content_sha256": "7e67eb3342cf4d2456448aa0c134ca7bd21fa825040b910da4c99f6aee69336b",
+   "ee_text": "이 약은 두 약물(피마사르탄과 로수바스타틴)을 동시에 투여하여야 하는 환자에만 사용한다. - 뇌졸중에 대한 위험성 감소 - 심근경색에 대한 위험성 감소 - 동맥 혈관재형성술에 대한 위험성 감소",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:54Z",
+   "last_observed_at": "2026-08-28T13:24:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:54Z"
+}

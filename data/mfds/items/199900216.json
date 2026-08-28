@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900216",
+ "item_name": "까스명수에프액",
+ "entp_name": "삼성제약(주)",
+ "permit_date": "19990408",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040548]창출|[M040486]육두구|[M040007]건강|[M040527]정향|[M050036]육계|[M040775]현호색|[M070048]고추틴크|[M279284]L-멘톨|[M040813]후박|[M040538]진피|[M040350]아선약",
+ "main_item_ingr_eng": "Atractylodes Rhizome/Capsicum Tincture/Cinnamon Bark/Citrus Unshiu Peel/Clove/Corydalis Tuber/Gambir/Ginger/L-Menthol/Magnolia Bark/Nutmeg",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900216",
+ "revisions": [
+  {
+   "revision_id": "199900216-936b3c4a",
+   "content_sha256": "936b3c4a275b19fce555f89724648c9cb997f8f808199da0c3a5f6949b8a2dcd",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함 구역, 구토",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199900216/EE",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z"
+  },
+  {
+   "revision_id": "199900216-aecee3ec",
+   "content_sha256": "aecee3ec009da46c8a3688f83095bada2ade930c5b6af9b095c4231477ca09f4",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 식체(위체), 구역, 구토",
+   "ee_doc_id": "12",
+   "official_revision_date": "2020-05-29",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197400246",
+ "item_name": "마그밀정(수산화마그네슘)",
+ "entp_name": "삼남제약(주)",
+ "permit_date": "19740902",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040306]수산화마그네슘",
+ "main_item_ingr_eng": "Magnesium Hydroxide",
+ "edi_code": "653700240",
+ "atc_code": "A02AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400246",
+ "revisions": [
+  {
+   "revision_id": "197400246-68d9741e",
+   "content_sha256": "68d9741e13bfebb7bd1ba24adc55804b555a56e42a254b5b21166d5267beabbf",
+   "ee_text": "1) 다음 질환의 제산작용 및 증상의 개선 : 위·십이지장궤양, 위염, 위산과다 2) 변비증",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200210821",
+ "item_name": "한풍조리폐원탕엑스과립(동의수세보원)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20020304",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M210181]내복자|[M040135]마황|[M040789]황금|[M040487]의이인|[M040048]길경|[M040139]맥문동",
+ "main_item_ingr_eng": "Coix Seed/Ephedra Herb/Liriope Tuber/Platycodon Root/Raphani Semen/Scutellaria Root",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210821",
+ "revisions": [
+  {
+   "revision_id": "200210821-0418c2ca",
+   "content_sha256": "0418c2ca6d2122ff65bdca8b6a4bb4f4d91031a1cb564aec8f019f3894e05fe2",
+   "ee_text": "태음인의 중병(예 : 오랜감기, 고열) 후의 조리",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:01Z",
+   "last_observed_at": "2026-08-28T13:24:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:01Z"
+}

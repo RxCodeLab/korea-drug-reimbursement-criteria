@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403874",
+ "item_name": "셀로디핀정(암로디핀베실산염)",
+ "entp_name": "(주)텔콘알에프제약",
+ "permit_date": "20140820",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222875]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate",
+ "edi_code": "625500150",
+ "atc_code": "C08CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403874",
+ "revisions": [
+  {
+   "revision_id": "201403874-81c5e7ee",
+   "content_sha256": "81c5e7ee31f4e29fdf49062c88dbdab60d35cdbc07252af9d343fd977e28ac63",
+   "ee_text": "-협심증으로 인한 입원의 위험성 감소 -관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:37Z",
+   "last_observed_at": "2026-08-28T13:24:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:37Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707112",
+ "item_name": "제뉴원징크주(황산아연수화물)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20170918",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M217501]황산아연수화물",
+ "main_item_ingr_eng": "Zinc Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "B05XA18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707112",
+ "revisions": [
+  {
+   "revision_id": "201707112-4d6c37cd",
+   "content_sha256": "4d6c37cddbfa55378d8ed5a10e955b2e1ad3c1b55a0fef1129575be745e2ce69",
+   "ee_text": "비경구영양요법(TPN)시 아연 보충",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:24:57Z",
+   "last_observed_at": "2026-08-28T13:24:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:57Z"
+}

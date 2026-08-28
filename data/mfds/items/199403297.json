@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403297",
+ "item_name": "명문인산코데인정",
+ "entp_name": "명문제약(주)",
+ "permit_date": "19940922",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223188]코데인인산염수화물",
+ "main_item_ingr_eng": "Codeine Phosphate Hydrate",
+ "edi_code": "649801470",
+ "atc_code": "R05DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403297",
+ "revisions": [
+  {
+   "revision_id": "199403297-02259bd0",
+   "content_sha256": "02259bd076746105fbb2c72f20b42712087ce24de1897e6e003ee6fc0b7a72e7",
+   "ee_text": "(정제) 1. 19세 이상 성인 1) 기관지염, 폐렴, 인두염, 후두염, 기관지천식, 기타 호흡기 질환에 동반되는 기침의 진정 2) 통증의 완화 2. 13세 이상 ～ 18세 이하의 소아 아세트아미노펜이나 이부프로펜과 같은 다른 진통제로 경감되지 않은 염증에 의한 급성 중등도 통증의 완화",
+   "ee_doc_id": "26",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z",
+   "official_revision_date": "2021-12-09"
+  },
+  {
+   "revision_id": "199403297-c17ba3d8",
+   "content_sha256": "c17ba3d862c95509b1288b70c58670aa1da6cca94859cad20e9c015cbe09f8e4",
+   "ee_text": "(정제) 1. 19세 이상 성인 1) 기관지염, 폐렴, 인두염, 후두염, 기관지천식, 기타 호흡기 질환에 동반되는 기침의 진정 2) 통증의 완화 2. 13세 이상 ～ 18세 이하의 소아 1) 기관지염, 폐렴, 인두염, 후두염, 기관지천식, 기타 호흡기 질환에 동반되는 기침의 진정 2) 아세트아미노펜이나 이부프로펜과 같은 다른 진통제로 경감되지 않은 염증에 의한 급성 중등도 통증의 완화",
+   "ee_doc_id": "16",
+   "official_revision_date": "2018-08-02",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z"
+  },
+  {
+   "revision_id": "199403297-32b54699",
+   "content_sha256": "32b546992723bef867f048fd47aa58d1704c404fadcad8bc8c7616c4423c7d3e",
+   "ee_text": "- 기관지염, 폐렴, 인두염, 후두염, 기관지천식, 기타 호흡기 질환에 동반되는 기침의 진정 - 통증의 완화 - 기관지염, 폐렴, 인두염, 후두염, 기관지천식, 기타 호흡기 질환에 동반되는 기침의 진정 - 아세트아미노펜이나 이부프로펜과 같은 다른 진통제로 경감되지 않은 염증에 의한 급성 중등도 통증의 치료",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:46Z"
+}

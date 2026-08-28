@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201108206",
+ "item_name": "폴리아린에프캡슐",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20111010",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223039]베르베린염화물수화물|[M223064]비스무트차질산염|[M223167]우르소데옥시콜산|[M099577]스코폴리아엑스10배산",
+ "main_item_ingr_eng": "Berberine Chloride Hydrate/Bismuth Subnitrate/Scopolia Extract Powder 10%/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A07BB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201108206",
+ "revisions": [
+  {
+   "revision_id": "201108206-d59142a7",
+   "content_sha256": "d59142a748fa046ed69d6d9a224b6984245f55651b28920d28c8ba43ba0264d5",
+   "ee_text": "설사, 복통(배아픔)을 수반하는 설사, 체함, 묽은 변, 토사",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-28T13:24:26Z",
+   "last_observed_at": "2026-08-28T13:24:26Z",
+   "official_revision_date": "2021-06-04"
+  },
+  {
+   "revision_id": "201108206-81db9ece",
+   "content_sha256": "81db9ece18d27790a4259303b8f7a8026284d7d47fafbb8a69ce30bcd91bbe91",
+   "ee_text": "설사, 복통(배아픔)을 수반하는 설사, 체함, 붉은 변, 토사",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:26Z",
+   "last_observed_at": "2026-08-28T13:24:26Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:26Z"
+}

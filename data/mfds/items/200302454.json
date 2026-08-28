@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302454",
+ "item_name": "클로안에프점안액(수출명:참술점안액)(수출용)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20030517",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102908]타우린|[M223211]클로르페니라민말레산염|[M256386]글리시리진산이칼륨|[M081371]설파메톡사졸나트륨",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/Dipotassium Glycyrrhizinate/Sodium Sulfamethoxazole/Taurine",
+ "edi_code": "",
+ "atc_code": "S01CC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302454",
+ "revisions": [
+  {
+   "revision_id": "200302454-ffbe0497",
+   "content_sha256": "ffbe049706b4dec2718747ad0f0fb7542429ca1cd7d8a5a5e7a32d5e9e3d7d53",
+   "ee_text": "결막염(유행성결막염), 다래끼, 눈꺼풀의 짓무름, 눈의 가려움",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200302454/EE",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z"
+  },
+  {
+   "revision_id": "200302454-0a133293",
+   "content_sha256": "0a1332938de0c8760488798ebe5e136f730b13c151aacf45833f9214baff60d5",
+   "ee_text": "결막염(유행성 결막염), 다래끼, 안검염(눈꺼풀염), 눈꺼풀의 진무름, 눈의 가려움",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

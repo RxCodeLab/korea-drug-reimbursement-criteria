@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002271",
+ "item_name": "아모디핀정2.5밀리그램(암로디핀캄실산염)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20200331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246033]암로디핀캄실산염",
+ "main_item_ingr_eng": "Amlodipine Camsylate",
+ "edi_code": "643508230",
+ "atc_code": "C08CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002271",
+ "revisions": [
+  {
+   "revision_id": "202002271-81c5e7ee",
+   "content_sha256": "81c5e7ee31f4e29fdf49062c88dbdab60d35cdbc07252af9d343fd977e28ac63",
+   "ee_text": "-협심증으로 인한 입원의 위험성 감소 -관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:16Z",
+   "last_observed_at": "2026-08-28T13:25:16Z",
+   "official_revision_date": "2020-03-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:16Z"
+}

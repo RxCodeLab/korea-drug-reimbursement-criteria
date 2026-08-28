@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102944",
+ "item_name": "베노힐크림0.15%(프레드니솔론발레로아세테이트)",
+ "entp_name": "시믹씨엠오코리아주식회사",
+ "permit_date": "20210406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249662]프레드니솔론발레로아세테이트",
+ "main_item_ingr_eng": "Prednisolone Valeroacetate",
+ "edi_code": "",
+ "atc_code": "D07AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102944",
+ "revisions": [
+  {
+   "revision_id": "202102944-4f551146",
+   "content_sha256": "4f551146a4a594e74550efb2005f3f4e6acfc3678a972bb1e0af7f9f765d0d1f",
+   "ee_text": "습진, 피부염, 두드러기, 벌레물린데, 가려움, 땀띠",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:24Z",
+   "last_observed_at": "2026-08-28T13:25:24Z",
+   "official_revision_date": "2021-04-06"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:24Z"
+}

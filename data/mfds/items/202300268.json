@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300268",
+ "item_name": "콘드로센정",
+ "entp_name": "주식회사 노바엠헬스케어",
+ "permit_date": "20230116",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244748]판토텐산칼슘|[M247683]콜린타르타르산염|[M040488]이노시톨|[M117558]시아노코발라민 1000배산|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M051415]푸르설티아민|[M270703]감마오리자놀|[M222995]리보플라빈부티레이트|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr_eng": "Calcium Pantothenate/Choline Tartrate/Cyanocobalamin Powder 0.1%/Fursultiamine/Gamma-Oryzanol/Inositol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Sodium Chondroitin Sulfate",
+ "edi_code": "",
+ "atc_code": "A11EX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300268",
+ "revisions": [
+  {
+   "revision_id": "202300268-d1b34765",
+   "content_sha256": "d1b34765953571ee183d846cd8d5bbec4d29a9e94d005de3307b9c7b3f1ebb01",
+   "ee_text": "○ 다음 경우의 비타민 B1, B2, B6의 보급 - 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 ○ 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. ᠊ 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) ᠊ 각기, 눈의 피로",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:25:32Z",
+   "last_observed_at": "2026-08-28T13:25:32Z",
+   "official_revision_date": "2023-07-19"
+  },
+  {
+   "revision_id": "202300268-cd4fec36",
+   "content_sha256": "cd4fec3619490f3eb6ded56d80ebb193d563e89fc2e8cfedd382fa8c6437cbd9",
+   "ee_text": "○ 다음 경우의 비타민 B1, B2, B6의 보급 - 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. ᠊ 비타민B1(푸르설티아민) ᠊ 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) ᠊ 각기, 눈의 피로",
+   "ee_doc_id": "1",
+   "official_revision_date": "2023-01-16",
+   "first_observed_at": "2026-08-28T13:25:32Z",
+   "last_observed_at": "2026-08-28T13:25:32Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:32Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300687",
+ "item_name": "한신오약순기산엑스과립",
+ "entp_name": "(주)한국신약",
+ "permit_date": "19830218",
+ "cancel_date": "20241001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040216]백지|[M050535]백강잠|[M051351]지각|[M040048]길경|[M040007]건강|[M040550]천궁|[M051153]오약|[M040538]진피|[M040071]대추|[M050752]생강|[M040006]감초|[M040135]마황",
+ "main_item_ingr_eng": "Angelica Dahurica Root/Aurantii Fructus Immaturus/Batryticatus Bombyx/Citrus Unshiu Peel/Cnidium Rhizome/Ephedra Herb/Ginger/Jujube/Licorice/Lindera Root/Platycodon Root/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "M09AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300687",
+ "revisions": [
+  {
+   "revision_id": "198300687-f650350a",
+   "content_sha256": "f650350aed548cdc0070815bd61187be23d34c4358220e1548df031d82df597f",
+   "ee_text": "풍질, 중풍, 역절풍(류마티스관절염 등)",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z",
+   "official_revision_date": "2009-04-30"
+  },
+  {
+   "revision_id": "198300687-7639a4fe",
+   "content_sha256": "7639a4fe94c7234dfa380865882cbbd1709a3028ef19713d176d3e082899d400",
+   "ee_text": "(과립제)(환제) 풍질, 중풍, 역절풍(류마티스관절염 등)",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:39Z"
+}

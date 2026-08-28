@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004044",
+ "item_name": "파워톤연질캡슐",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20100616",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204304]피리독신염산염|[M223240]토코페롤아세테이트|[M222991]레티놀팔미테이트|[M223258]티아민염산염|[M258994]아스코르브산|[M040133]리보플라빈|[M040064]니코틴산아미드",
+ "main_item_ingr_eng": "Ascorbic Acid/Nicotinamide/Pyridoxine Hydrochloride/Retinol Palmitate/Riboflavin/Thiamine Hydrochloride/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004044",
+ "revisions": [
+  {
+   "revision_id": "201004044-dcd304eb",
+   "content_sha256": "dcd304eb2bb093c6c522e88a157c326b2db444922250a34f5bfe9d06f2d54b54",
+   "ee_text": "1 , B 2 , B 6 , C, E의 보급\">",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201004044/EE",
+   "first_observed_at": "2026-08-28T13:24:23Z",
+   "last_observed_at": "2026-08-28T13:24:23Z"
+  },
+  {
+   "revision_id": "201004044-3479911a",
+   "content_sha256": "3479911ad431d97d4338c1e865c45a94c671345c586252a2ad23979cc8dbac63",
+   "ee_text": "- 육체피로 - 임신 ㆍ 수유기 - 병중 ㆍ 병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 - 이 약에 함유된 비타민 등의 효능 ㆍ 효과는 다음과 같다. ㆍ 눈의 건조감의 완화 ㆍ 야맹증(밤에 잘 못보는 증상)",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:23Z",
+   "last_observed_at": "2026-08-28T13:24:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:23Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310644",
+ "item_name": "본본연질캡슐",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20131212",
+ "cancel_date": "20250219",
+ "status": "취하",
+ "main_item_ingr": "[M223369]인산수소칼슘수화물|[M222935]글루콘산칼슘수화물|[M245627]농축콜레칼시페롤유|[M040262]산화마그네슘",
+ "main_item_ingr_eng": "Calcium Gluconate Hydrate/Cholecalciferol Concentrate Oil/Dibasic Calcium Phosphate Hydrate/Magnesium Oxide",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310644",
+ "revisions": [
+  {
+   "revision_id": "201310644-ed3e9a38",
+   "content_sha256": "ed3e9a38d0845f42b4a6792dfcd83430848e28166d1d1cc9c84524662b3bcc03",
+   "ee_text": "- 임신·수유기, 발육기, 노년기 - 뼈, 이의 발육불량, 구루병의 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201310644/EE",
+   "first_observed_at": "2026-08-28T13:24:33Z",
+   "last_observed_at": "2026-08-28T13:24:33Z"
+  },
+  {
+   "revision_id": "201310644-fe3500ea",
+   "content_sha256": "fe3500eacdf3e4bd0666584a0abeb5c876e4decdb3687d5aea0a548638ad5ab0",
+   "ee_text": "- 임신‧수유기, 발육기, 노년기 - 뼈, 이의 발육불량, 구루병의 예방",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:33Z",
+   "last_observed_at": "2026-08-28T13:24:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:33Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500700",
+ "item_name": "제모보정500/20밀리그램(나프록센, 에스오메프라졸)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20250326",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092321]에스오메프라졸마그네슘삼수화물|[M050116]나프록센",
+ "main_item_ingr_eng": "Esomeprazole Magnesium Trihydrate/Naproxen",
+ "edi_code": "671707490",
+ "atc_code": "M01AE52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500700",
+ "revisions": [
+  {
+   "revision_id": "202500700-df14f6a9",
+   "content_sha256": "df14f6a98a4f29aa69c68759399ff3e491e05a1bdc96386eb2c8130519f55a14",
+   "ee_text": "비스테로이드성 소염진통제(나프록센 등)와 관련한 위궤양 및/또는 십이지장궤양의 발생 위험이 있으면서 저용량 나프록센 또는 다른 비스테로이드성 소염진통제에 의해 충분하지 않은 환자에서의 골관절염, 류마티스성 관절염, 강직성척추염의 증상 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:37Z",
+   "last_observed_at": "2026-08-28T13:25:37Z",
+   "official_revision_date": "2025-03-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:37Z"
+}

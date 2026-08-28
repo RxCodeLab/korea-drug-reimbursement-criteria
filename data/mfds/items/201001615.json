@@ -12,15 +12,15 @@
  "edi_code": "661700592",
  "atc_code": "G03GA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001615",
+ "history_fetched_at": "2026-08-27T13:09:36Z",
  "revisions": [
   {
    "revision_id": "201001615-11528b65",
    "content_sha256": "11528b656fd3af706832cecabe10b824e9c826df53526f5a9a27c9b88cb42f7d",
    "ee_text": "중증의 황체형성호르몬(LH)과 난포자극호르몬(FSH) 결핍 여성에서 난포 발달의 자극.",
-   "ee_doc_id": "37",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201001615/EE",
    "first_observed_at": "2026-08-27T13:09:36Z",
-   "last_observed_at": "2026-08-27T13:09:36Z",
-   "official_revision_date": "2022-10-04"
+   "last_observed_at": "2026-08-28T13:24:23Z"
   },
   {
    "revision_id": "201001615-4b266413",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:09:36Z",
    "last_observed_at": "2026-08-27T13:09:36Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:09:36Z"
+ ]
 }

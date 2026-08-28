@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000373",
+ "item_name": "더마덱스크림(D-판테놀)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20200122",
+ "cancel_date": "20250122",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M202582]D-판테놀",
+ "main_item_ingr_eng": "Dexpanthenol",
+ "edi_code": "",
+ "atc_code": "D03AX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000373",
+ "revisions": [
+  {
+   "revision_id": "202000373-0039d593",
+   "content_sha256": "0039d593e3eef33caae90e85594a121bba65d831b8388ee7e43733dd257271cb",
+   "ee_text": "상처, 화상, 찢긴 상처(수유기 중의 유두균열(갈라짐) 등), 욕창, 급ㆍ만성 피부염, 습진, 피부 궤양, 기저귀 발진, 햇볕에 탄 곳(일광피부염)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2020-01-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

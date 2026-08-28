@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200703162",
+ "item_name": "아목탐정500mg\n(아목시실린수화물·설박탐피복실)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20070315",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223098]아목시실린수화물|[M244521]설박탐피복실",
+ "main_item_ingr_eng": "Amoxicillin Hydrate/Sulbactam Pivoxil",
+ "edi_code": "669902510",
+ "atc_code": "J01CR02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703162",
+ "revisions": [
+  {
+   "revision_id": "200703162-d4b2e1cc",
+   "content_sha256": "d4b2e1cc16a1f79ca3c6784a1a9e2e629925fe808d4e8159e75f9780fb7d5644",
+   "ee_text": "황색포도구균*, 표피포도구균*, 부생포도구균, 화농성연쇄구균, 폐렴연쇄구균, 헤모필루스 인플루엔자, 대장균*, 클레브시엘라속*, 프로테우스 미라빌리스*, 임균*,박테로이드속(박테로이디즈 프라질리스 포함), 모락셀라 카타라리스 *암피실린 및 아목시실린에 내성이 있는 β-락타마제 생성균주 포함 상기도 감염증 : 중이염, 부비강염, 편도선염, 인두염, 후두염 하기도 감염증 : 기관지염, 폐렴 상하부 요로 감염증 피부 및 상처 감염증 산부인과 감염증 복부 감염증",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-28T13:24:12Z",
+   "last_observed_at": "2026-08-28T13:24:12Z",
+   "official_revision_date": "2022-07-07"
+  },
+  {
+   "revision_id": "200703162-5ee72430",
+   "content_sha256": "5ee7243049f4f1818c37dc81caa70c2ed6f08441784444c81368a25cea6ca884",
+   "ee_text": "황색포도구균*, 표피포도구균*, 부생포도구균, 화농성연쇄구균, 폐렴연쇄구균, 헤모필루스 인플루엔자, 대장균*, 클레브시엘라속*, 프로테우스 미라빌리스*, 임균*,박테로이드속(박테로이디즈 프라질리스 포함), 모락셀라 카타라리스 *암피실린 및 아목시실린에 내성이 있는 β-락타마제 생성균주 포함 -상기도 감염증 : 중이염, 부비강염, 인두염, 후두염 -하기도 감염증 : 기관지염, 폐렴 -상하부 요로 감염증 -피부 및 상처 감염증",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:12Z",
+   "last_observed_at": "2026-08-28T13:24:12Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:12Z"
+}

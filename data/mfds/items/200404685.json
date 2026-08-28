@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200404685",
+ "item_name": "케이엠시프겔",
+ "entp_name": "경진제약(주)",
+ "permit_date": "20040316",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279284]L-멘톨|[M204423]dl-캄파",
+ "main_item_ingr_eng": "DL-Camphor/L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404685",
+ "revisions": [
+  {
+   "revision_id": "200404685-30d4ea0e",
+   "content_sha256": "30d4ea0ea47b0d330588aea4d4ce1083914641e063e6e381853766ee3af655e6",
+   "ee_text": "경미한(가벼운) 근육통증의 일시적 완화",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:06Z",
+   "last_observed_at": "2026-08-28T13:24:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:06Z"
+}

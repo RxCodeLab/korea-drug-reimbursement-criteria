@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307522",
+ "item_name": "퍼제타주(퍼투주맙)",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "20130529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258185]퍼투주맙",
+ "main_item_ingr_eng": "Pertuzumab",
+ "edi_code": "645001321",
+ "atc_code": "L01FD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307522",
+ "revisions": [
+  {
+   "revision_id": "201307522-ccf883ca",
+   "content_sha256": "ccf883cadb4ab7102a318ea4c783341176649d1d1abed5bb57d87bba610f53de",
+   "ee_text": "- 전이성 질환에 대해 항-HER2 치료 또는 화학요법 치료를 받은 적이 없는, HER2 양성 환자로서 전이성 또는 절제 불가능한 국소 재발성 유방암 환자에게 도세탁셀 및 트라스투주맙과 병용투여 - 국소진행성, 염증성 또는 초기 단계(지름 2㎝ 초과 )인 HER2 양성 유방암 환자의 수술 전 보조요법으로서 트라스투주맙 및 화학요법과 병용투여 - 재발 위험이 높은 HER2 양성 조기 유방암 환자의 수술 후 보조요법으로서 트라스투주맙 및 화학요법과 병용투여",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-28T13:24:30Z",
+   "last_observed_at": "2026-08-28T13:24:30Z",
+   "official_revision_date": "2018-11-22"
+  },
+  {
+   "revision_id": "201307522-31c04307",
+   "content_sha256": "31c0430762af58f156459bc804c287c531342b10a193f1b464da5b8a6082fcca",
+   "ee_text": "- 전이성 질환에 대해 항-HER2 치료 또는 화학요법 치료를 받은 적이 없는 HER2 양성 환자로서 전이성 또는 절제 불가능한 국소 재발성 유방암 환자에게 도세탁셀 및 트라스투주맙과 병용투여 - 국소진행성, 염증성 또는 초기 단계(지름 2㎝ 초과)인 HER2 양성 유방암 환자의 수술 전 보조요법으로서 플루오로우라실, 에피루비신과 싸이클로포스파마이드(FEC) 또는 카보플라틴을 포함하는 치료 요법의 일환으로 이 약과 트라스투주맙 및 도세탁셀을 병용투여 - 재발 위험이 높은 HER2 양성 조기 유방암 환자의 수술 후 보조요법으로서 트라스투주맙 및 화학요법을 병용투여",
+   "ee_doc_id": "18",
+   "official_revision_date": "2018-04-11",
+   "first_observed_at": "2026-08-28T13:24:30Z",
+   "last_observed_at": "2026-08-28T13:24:30Z"
+  },
+  {
+   "revision_id": "201307522-5f28bec2",
+   "content_sha256": "5f28bec2caf9c099c1e2e7d2ae676d47a3b6ba05687ba70a7319f2f515a598d5",
+   "ee_text": "전이성 질환에 대해 항-HER2 치료 또는 화학요법 치료를 받은 적이 없는 HER2 양성 환자로서 전이성 또는 절제 불가능한 국소 재발성 유방암 환자에게 도세탁셀 및 허셉틴과 병용투여 국소진행성, 염증성 또는 초기 단계(지름 2㎝ 초과)인 HER2 양성 유방암 환자의 수술 전 보조요법으로서 플루오로우라실, 에피루비신과 싸이클로포스파마이드(FEC) 또는 카보플라틴을 포함하는 치료 요법의 일환으로 이 약과 허셉틴 및 도세탁셀을 병용투여",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:30Z",
+   "last_observed_at": "2026-08-28T13:24:30Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:30Z"
+}

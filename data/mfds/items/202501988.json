@@ -7,21 +7,20 @@
  "permit_date": "20250730",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M260057]엠파글리플로진|[M251915]시타글립틴인산염수화물|[M266682]메트포르민염산염 콜로이드성이산화규소",
+ "main_item_ingr": "[M266682]메트포르민염산염 콜로이드성이산화규소|[M251915]시타글립틴인산염수화물|[M260057]엠파글리플로진",
  "main_item_ingr_eng": "Empagliflozin/Metformin Hydrochloride with Colloidal Anhydrous Silica/Sitagliptin Phosphate Hydrate",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501988",
+ "history_fetched_at": "2026-08-27T12:40:30Z",
  "revisions": [
   {
    "revision_id": "202501988-30cfbb6d",
    "content_sha256": "30cfbb6dd052ecf08d1a0aa07ac6b63963116454f6fd27340d6bb9ba3cfeb062",
    "ee_text": "이 약은 엠파글리플로진과 시타글립틴 및 메트포르민의 병용투여가 적합한 성인 제2형 당뇨병 환자의 혈당 조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
-   "ee_doc_id": "1",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202501988/EE",
    "first_observed_at": "2026-08-27T12:40:30Z",
-   "last_observed_at": "2026-08-27T12:40:30Z",
-   "official_revision_date": "2025-07-30"
+   "last_observed_at": "2026-08-28T13:25:38Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:40:30Z"
+ ]
 }

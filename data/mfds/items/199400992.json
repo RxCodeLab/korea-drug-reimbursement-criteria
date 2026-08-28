@@ -12,15 +12,15 @@
  "edi_code": "655401580",
  "atc_code": "C08DA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400992",
+ "history_fetched_at": "2026-08-27T12:03:48Z",
  "revisions": [
   {
    "revision_id": "199400992-324cfd76",
    "content_sha256": "324cfd761c24326a2f0843d9ab08b946f9011d89ed0a73eba4ee28aa40137f56",
    "ee_text": "협심증, 부정맥, 본태성고혈압(경증-중등도), 신성고혈압 협심증, 부정맥, 응급성고혈압(고혈압성발증)",
-   "ee_doc_id": "18",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199400992/EE",
    "first_observed_at": "2026-08-27T12:03:48Z",
-   "last_observed_at": "2026-08-27T12:03:48Z",
-   "official_revision_date": "2019-11-14"
+   "last_observed_at": "2026-08-28T13:23:45Z"
   },
   {
    "revision_id": "199400992-8c8a40f3",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:03:48Z",
    "last_observed_at": "2026-08-27T12:03:48Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:03:48Z"
+ ]
 }

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201110192",
+ "item_name": "체스판-에스정",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20111122",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M262149]디아스타제·프로테아제|[M040631]탄산수소나트륨|[M050448]메타규산알루민산마그네슘",
+ "main_item_ingr_eng": "Diastase·Protease/Magnesium Aluminometasilicate/Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "A09AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110192",
+ "revisions": [
+  {
+   "revision_id": "201110192-6add23d0",
+   "content_sha256": "6add23d0a2271222dac00ae748e1476149c283651a30546782adde5e6a52ee11",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림, 소화불량, 식욕감퇴(식욕부진), 과식, 소화촉진, 소화불량으로 인한 위부팽만감.",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:27Z",
+   "last_observed_at": "2026-08-28T13:24:27Z",
+   "official_revision_date": "2020-05-26"
+  },
+  {
+   "revision_id": "201110192-ba12e1f5",
+   "content_sha256": "ba12e1f5825cdb5783a7a270b5bf40bbc8700121210f3422d2b4e53d3c058985",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 식체(위체), 구역, 구토, 위통, 신트림, 소화불량, 식욕감퇴(식욕부진), 과식, 소화촉진, 소화불량으로 인한 위부팽만감.",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:27Z",
+   "last_observed_at": "2026-08-28T13:24:27Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:27Z"
+}

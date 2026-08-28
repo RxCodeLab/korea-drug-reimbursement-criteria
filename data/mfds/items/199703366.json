@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199703366",
+ "item_name": "코리돌캡슐(트라마돌염산염)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "19970804",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222893]트라마돌염산염",
+ "main_item_ingr_eng": "Tramadol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703366",
+ "revisions": [
+  {
+   "revision_id": "199703366-c0e8d0a8",
+   "content_sha256": "c0e8d0a834c4348e632e3ca2c66d8d3d139e66aa27e73ef43a861d417e59e1d2",
+   "ee_text": "다음 질환에 사용한다. 중증 및 중등도의 급만성 동통(각종 암 등), 진단 및 수술후 동통",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:49Z",
+   "last_observed_at": "2026-08-28T13:23:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:49Z"
+}

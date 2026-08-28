@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502603",
+ "item_name": "판피린타임이부콜드시럽",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20251001",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050058]구아이페네신|[M222957]덱스트로메토르판브롬화수소산염수화물|[M223211]클로르페니라민말레산염|[M264046]DL-메틸에페드린염산염|[M203364]슈도에페드린염산염|[M223183]카페인무수물|[M051259]이부프로펜",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate/Guaifenesin/Ibuprofen/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502603",
+ "revisions": [
+  {
+   "revision_id": "202502603-322de244",
+   "content_sha256": "322de24465f741816b6905f8f9d18a3e45aa59569d509e8931e74ca2b9660bf3",
+   "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:38Z",
+   "last_observed_at": "2026-08-28T13:25:38Z",
+   "official_revision_date": "2025-10-01"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:38Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400785",
+ "item_name": "다이오친에프정",
+ "entp_name": "삼아제약(주)",
+ "permit_date": "20040518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244748]판토텐산칼슘|[M236913]제피아스코르브산|[M204304]피리독신염산염|[M222995]리보플라빈부티레이트|[M223211]클로르페니라민말레산염|[M256386]글리시리진산이칼륨",
+ "main_item_ingr_eng": "Ascorbic Acid Coated/Calcium Pantothenate/Chlorpheniramine Maleate/Dipotassium Glycyrrhizinate/Pyridoxine Hydrochloride/Riboflavin Butyrate",
+ "edi_code": "",
+ "atc_code": "D04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400785",
+ "revisions": [
+  {
+   "revision_id": "200400785-e3d0d9dc",
+   "content_sha256": "e3d0d9dc7925df8c2b5014c4302880164ac53be1540573c6baa22c9e194d4f2c",
+   "ee_text": "두드러기, 습진, 가려움",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-28T13:24:04Z",
+   "last_observed_at": "2026-08-28T13:24:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:04Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604146",
+ "item_name": "아미노플라즈마5%E주",
+ "entp_name": "비브라운코리아(주)",
+ "permit_date": "20160630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092232]리신염산염|[M264171]인산나트륨수화물|[M251286]염화마그네슘수화물|[M040426]염화나트륨|[M218567]L-메티오닌|[M204442]L-페닐알라닌|[M103060]L-트레오닌|[M218015]L-트립토판|[M209360]L-발린|[M103077]L-아르기닌|[M243247]아세트산칼륨|[M222531]L-류신|[M040305]수산화나트륨|[M222530]L-이소류신|[M215288]L-히스티딘|[M209366]L-알라닌|[M202247]L-아스파르트산|[M204427]L-글루탐산|[M088656]글리신|[M214861]L-프롤린|[M204435]L-세린|[M214313]L-티로신|[M227966]아세트산나트륨수화물",
+ "main_item_ingr_eng": "Glycine/L-Alanine/L-Arginine/L-Aspartic Acid/L-Glutamic Acid/L-Histidine/L-Isoleucine/L-Leucine/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine/Lysine Hydrochloride/Magnesium Chloride Hydrate/Potassium Acetate/Sodium Acetate Hydrate/Sodium Chloride/Sodium Hydroxide/Sodium Phosphate",
+ "edi_code": "",
+ "atc_code": "B05BA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604146",
+ "revisions": [
+  {
+   "revision_id": "201604146-16cf3388",
+   "content_sha256": "16cf3388ed8c30942a87a15973a345b3e76ca4a4c84b5bda11e82089216d68b9",
+   "ee_text": "경구 또는 위장관 영양공급이 불가능 또는 불충분하거나 금기인 환자들에게 아미노산 및 소량의 전해질 보급 이 약은 성인, 청소년 및 2세 이상의 소아에게 사용된다.",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:24:51Z",
+   "last_observed_at": "2026-08-28T13:24:51Z",
+   "official_revision_date": "2022-06-08"
+  },
+  {
+   "revision_id": "201604146-b18394d7",
+   "content_sha256": "b18394d72b9b4389ef4dcf1e96e23f78574341039da6f0c83dcb77f40b2acaa0",
+   "ee_text": "경구 또는 위장관 영양공급이 불가능 또는 불충분하거나 금기인 환자들에게 아미노산 및 전해질 보급 이 약은 비경구 영양요법으로 칼로리를 적절하게 공급할 수 있는 포도당 등과 함께 투여되어야 한다.",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:51Z",
+   "last_observed_at": "2026-08-28T13:24:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:51Z"
+}

@@ -12,15 +12,15 @@
  "edi_code": "657800401",
  "atc_code": "N02AA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210692",
+ "history_fetched_at": "2026-08-27T13:25:44Z",
  "revisions": [
   {
    "revision_id": "200210692-51b15ffa",
    "content_sha256": "51b15ffa1f4444dca54238ca34549bd6ceca909d017faae79fb7ed9ce862c0cb",
    "ee_text": "(주사제) * 1, 2, 4 mg/mL 마약성 진통제 사용이 필요한 심한 통증의 완화",
-   "ee_doc_id": "11",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200210692/EE",
    "first_observed_at": "2026-08-27T13:25:44Z",
-   "last_observed_at": "2026-08-27T13:25:44Z",
-   "official_revision_date": "2018-08-02"
+   "last_observed_at": "2026-08-28T13:24:01Z"
   },
   {
    "revision_id": "200210692-70e6ef2f",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:25:44Z",
    "last_observed_at": "2026-08-27T13:25:44Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:25:44Z"
+ ]
 }

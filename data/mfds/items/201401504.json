@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401504",
+ "item_name": "페라민주(클로르페니라민말레산염)",
+ "entp_name": "(주)인트로바이오파마",
+ "permit_date": "20140331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate",
+ "edi_code": "648103381",
+ "atc_code": "R06AB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401504",
+ "revisions": [
+  {
+   "revision_id": "201401504-35b13615",
+   "content_sha256": "35b136153128973c06241e5c820d4f26c7e208eafd239032f95abc045e2365f2",
+   "ee_text": "고초열, 두드러기, 소양성 피부질환(습진 피부염, 피부소양증, 약진, 곤충자상), 알레르기성비염, 혈관 운동성 비염",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:35Z",
+   "last_observed_at": "2026-08-28T13:24:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:35Z"
+}

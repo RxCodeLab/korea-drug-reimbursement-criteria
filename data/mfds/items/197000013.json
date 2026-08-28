@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197000013",
+ "item_name": "에스.디1-4주",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19701030",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040702]포도당|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Glucose/Sodium Chloride",
+ "edi_code": "644901522,644901530",
+ "atc_code": "B05BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197000013",
+ "revisions": [
+  {
+   "revision_id": "197000013-114dd141",
+   "content_sha256": "114dd141e521fef9eb62ce3f8c05964726579cb8a9ceb9c4d523996960cf1dd0",
+   "ee_text": "○ 탈수증, 수술전후 등의 수분ㆍ전해질 보급 ○ 에너지 보급",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:23:36Z",
+   "last_observed_at": "2026-08-28T13:23:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:36Z"
+}

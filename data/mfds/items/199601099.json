@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199601099",
+ "item_name": "황력액",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19960115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223183]카페인무수물|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223262]티아민질산염|[M262147]우황60%에탄올틴크(1->100)|[M262146]녹용35%에탄올틴크(3->10)|[M262145]음양곽엑스(10->1)|[M262144]인삼35%에탄올건조엑스(14.9->1)",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Cattle Gallstone 60% Ethanol Tincture (1→100)/Cervi Parvum Cornu 35% Ethanol Ethanol (3→10)/Epimedium Herb Extract (10→1)/Ginseng 30% Ethanol Dried Extract (14.9→1)/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199601099",
+ "revisions": [
+  {
+   "revision_id": "199601099-4f8f4f46",
+   "content_sha256": "4f8f4f46cd0f865b93c16730679573f6fa049c8f13c1051b880f4bd5e3378051",
+   "ee_text": "자양강장, 허약체질, 육체피로, 병중병후(병을 앓는 동안이나 회복 후), 식욕부진, 영양장애, 발열성ㆍ소모성 질환, 임신ㆍ수유기등의 영양보급",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:23:47Z",
+   "last_observed_at": "2026-08-28T13:23:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:47Z"
+}

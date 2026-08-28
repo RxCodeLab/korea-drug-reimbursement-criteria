@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101749",
+ "item_name": "코앤원큐나잘스프레이",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20210222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278836]D-판테놀|[M257887]자일로메타졸린염산염",
+ "main_item_ingr_eng": "Dexpanthenol/Xylometazoline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01AB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101749",
+ "revisions": [
+  {
+   "revision_id": "202101749-3bc7d33c",
+   "content_sha256": "3bc7d33cafab9f02280c38e5b2193720c447c7c60dbec0dc2afb4bae71d960cc",
+   "ee_text": "• 코감기, 비염, 부비동염, 수술로 인한 비강 염증에 의한 다음 증상의 완화 : 코막힘, 콧물 • 비점막 손상의 치료보조",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:23Z",
+   "last_observed_at": "2026-08-28T13:25:23Z",
+   "official_revision_date": "2021-02-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:23Z"
+}

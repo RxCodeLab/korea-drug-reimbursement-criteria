@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200710610",
+ "item_name": "메티벤정 400/2.5mg(수출용)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20070918",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050102]글리벤클라미드|[M223014]메트포르민염산염",
+ "main_item_ingr_eng": "Glibenclamide/Metformin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A10BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710610",
+ "revisions": [
+  {
+   "revision_id": "200710610-733060f4",
+   "content_sha256": "733060f47cdec90dbcfbd7ae0540ee04e5c595573ccbc62049e4f853158eae7e",
+   "ee_text": "식이요법으로 조절되지 않는 인슐린 비의존성 당뇨병(Type II)",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:14Z",
+   "last_observed_at": "2026-08-28T13:24:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:14Z"
+}

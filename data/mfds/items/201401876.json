@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401876",
+ "item_name": "미인활명수액",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20140417",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279284]L-멘톨|[M040007]건강|[M040527]정향|[M050036]육계|[M040813]후박|[M040350]아선약|[M040775]현호색|[M040538]진피|[M070048]고추틴크|[M040486]육두구|[M051152]오매",
+ "main_item_ingr_eng": "Capsicum Tincture/Cinnamon Bark/Citrus Unshiu Peel/Clove/Corydalis Tuber/Gambir/Ginger/L-Menthol/Magnolia Bark/Mume Fruit/Nutmeg",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401876",
+ "revisions": [
+  {
+   "revision_id": "201401876-842286bb",
+   "content_sha256": "842286bb5dd55d0f98ca0ccb22a68edbbb132defae93a9915c709150d954834b",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토, 정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:35Z",
+   "last_observed_at": "2026-08-28T13:24:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:35Z"
+}

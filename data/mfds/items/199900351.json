@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900351",
+ "item_name": "레날민정",
+ "entp_name": "일동제약(주)",
+ "permit_date": "19990515",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244748]판토텐산칼슘|[M040064]니코틴산아미드|[M050704]비오틴|[M223289]폴산|[M113513]아스코르브산 과립97%|[M040133]리보플라빈|[M255994]시아노코발라민1000배산|[M223262]티아민질산염|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Biotin/Calcium Pantothenate/Cyanocobalamin Powder 0.1%/Folic Acid/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate",
+ "edi_code": "642900210",
+ "atc_code": "A11EB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900351",
+ "revisions": [
+  {
+   "revision_id": "199900351-e8afab3a",
+   "content_sha256": "e8afab3a6cefc3e5620499031682de24c331b81eac4cca5efaf22b54919e9bd9",
+   "ee_text": "투석환자, 만성신부전에 의한 질소혈증환자의 비타민 B, C 보급",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

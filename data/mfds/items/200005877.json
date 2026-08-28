@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005877",
+ "item_name": "용패탕(용담사간탕엑스과립)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20001011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040006]감초|[M040564]치자|[M040474]용담|[M040545]차전자|[M040638]택사|[M040789]황금|[M040186]목통|[M040537]지황|[M040070]당귀",
+ "main_item_ingr_eng": "Akebia Stem/Alisma Rhizome/Angelica Gigas Root/Gardenia Fruit/Gentian Root and Rhizome/Licorice/Plantago Seed/Rehmannia Root/Scutellaria Root",
+ "edi_code": "",
+ "atc_code": "G04BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005877",
+ "revisions": [
+  {
+   "revision_id": "200005877-f92c489c",
+   "content_sha256": "f92c489ce92b9274ac3a7fb180aef7d30be45bc3759c8e16231a3685f70227df",
+   "ee_text": "비교적 체력이 있고, 하복부 근육이 긴장하는 경향이 있는 사람의 다음 증상 : 배뇨(소변을 눔)통, 잔뇨감(소변을 누고난 후에도 다 눈 것 같지 않은 느낌), 혼탁뇨, 대하(질분비물)",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z",
+   "official_revision_date": "2021-12-28"
+  },
+  {
+   "revision_id": "200005877-edb5ea4a",
+   "content_sha256": "edb5ea4a5c9af7f929834090d83a1abd88980ab2fcd0cd7dd0033be0aef2c3f4",
+   "ee_text": "비교적 체력이 있고, 하복부 근육이 긴장하는 경향이 있는 사람의 다음 증상 : 배뇨(소변을 눔)통, 잔뇨감(소변을 누고난 후에도 다 눈 것 같지 않은 느낌), 혼탁뇨, 대하",
+   "ee_doc_id": "11",
+   "official_revision_date": "2019-05-20",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z"
+  },
+  {
+   "revision_id": "200005877-4e7b8e95",
+   "content_sha256": "4e7b8e95451ff100ecb8f30e1f1a844ff487cc98c29670de39d6e9f02c6ed098",
+   "ee_text": "비교적 체력이 있고, 하복부 근육이 긴장하는 경향이 있는 사람의 다음 증상 : 배뇨통, 잔뇨감, 혼탁뇨, 대하",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:57Z"
+}

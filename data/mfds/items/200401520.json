@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401520",
+ "item_name": "폴다정5밀리그램(폴산)",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20041229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223289]폴산",
+ "main_item_ingr_eng": "Folic Acid",
+ "edi_code": "664601030",
+ "atc_code": "B03BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401520",
+ "revisions": [
+  {
+   "revision_id": "200401520-65b834b5",
+   "content_sha256": "65b834b5bf651185d62a975d6cc17bb03d394c841af66bf6386c89870657b225",
+   "ee_text": "소모성 질환, 임부ㆍ수유부 1) 영양결핍성빈혈, 임신성빈혈, 소아빈혈 2) 항전간제, 항말라리아제 투여로 인한 빈혈",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:04Z",
+   "last_observed_at": "2026-08-28T13:24:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:04Z"
+}

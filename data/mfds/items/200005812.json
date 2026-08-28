@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005812",
+ "item_name": "경방사물탕엑스과립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000707",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051364]숙지황|[M040550]천궁|[M040523]작약|[M040070]당귀",
+ "main_item_ingr_eng": "Angelica Gigas Root/Cnidium Rhizome/Peony Root/Prepared Rehmannia Root",
+ "edi_code": "",
+ "atc_code": "B03XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005812",
+ "revisions": [
+  {
+   "revision_id": "200005812-b2e37eb4",
+   "content_sha256": "b2e37eb4ee9e771d901972f7ec637b8aab29719e47c719d5d656f8cae06b128b",
+   "ee_text": "피부가 건조하고 안색이 좋지 않은 체질로 위장장애가 없는 사람의 다음 증상 : 산후 또는 유산 후의 피로회복, 월경불순, 냉증, 동창(언 상처), 기미",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z",
+   "official_revision_date": "2021-07-22"
+  },
+  {
+   "revision_id": "200005812-7b1f93e0",
+   "content_sha256": "7b1f93e0b8e32cfa61bc48e9c4fc05ad792e160ada2755901c7669689983cc5d",
+   "ee_text": "피부가 건조하고 안색이 좋지 않은 체질로 위장장애가 없는 사람의 다음 증상 : 산후 또는 유산 후의 피로회복, 월경불순, 냉증, 동창, 기미",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:57Z"
+}

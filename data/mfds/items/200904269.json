@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200904269",
+ "item_name": "시크린소프트 점안액",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20090617",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨",
+ "main_item_ingr_eng": "Potassium Chloride/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904269",
+ "revisions": [
+  {
+   "revision_id": "200904269-2e994168",
+   "content_sha256": "2e99416855e562cf5411856577bc865a202d878dc67907b5e9bd096580a407e7",
+   "ee_text": "눈물의 보조(눈의 건조), 눈의 피로, 하드콘택트렌즈 또는 소프트렌즈 착용시 불쾌감, 눈의 침침함.(눈곱이 많을 때 등)",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:21Z"
+}

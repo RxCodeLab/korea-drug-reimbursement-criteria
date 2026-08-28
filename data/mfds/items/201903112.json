@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903112",
+ "item_name": "뮤코나액(아세틸시스테인)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20190514",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050972]아세틸시스테인",
+ "main_item_ingr_eng": "Acetylcysteine",
+ "edi_code": "654005461,654005631,654005961",
+ "atc_code": "R05CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903112",
+ "revisions": [
+  {
+   "revision_id": "201903112-d2203a17",
+   "content_sha256": "d2203a17994887676576a93478d3de18baade569a1354d45d57f048a6c667d33",
+   "ee_text": "1. 다음 질환에서의 객담배출곤란 : 기관지천식, 만성기관지염, 기관지확장증, 폐결핵, 폐기종, 상기도염(인·후두염), 폐화농증, 폐렴, 낭성섬유증, 수술후 폐합병증 2. 다음 경우에서의 전·후 처치 : 기관지조영, 기관지경 검사, 폐암 세포진, 기관절개술",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:07Z",
+   "last_observed_at": "2026-08-28T13:25:07Z",
+   "official_revision_date": "2019-05-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:07Z"
+}

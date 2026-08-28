@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006641",
+ "item_name": "하이패스연질캡슐",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20200925",
+ "cancel_date": "20240828",
+ "status": "취하",
+ "main_item_ingr": "[M050448]메타규산알루민산마그네슘|[M051259]이부프로펜",
+ "main_item_ingr_eng": "Ibuprofen/Magnesium Aluminometasilicate",
+ "edi_code": "",
+ "atc_code": "M01AE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006641",
+ "revisions": [
+  {
+   "revision_id": "202006641-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z",
+   "official_revision_date": "2020-09-25"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:21Z"
+}

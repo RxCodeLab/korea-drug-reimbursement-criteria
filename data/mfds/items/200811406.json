@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200811406",
+ "item_name": "노바스크정10밀리그램(암로디핀베실산염)",
+ "entp_name": "비아트리스코리아(주)",
+ "permit_date": "20081204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222875]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate",
+ "edi_code": "073400390",
+ "atc_code": "C08CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811406",
+ "revisions": [
+  {
+   "revision_id": "200811406-e8bcf5e0",
+   "content_sha256": "e8bcf5e036283295eae8840ac304eb654b573fc0a3097af018b3ae7eb683f21a",
+   "ee_text": "혈관수축(이형협심증)에 의한 심근성허혈증 40% 미만이 아닌 환자의 -협심증으로 인한 입원의 위험성 감소 -관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "35",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z",
+   "official_revision_date": "2019-09-05"
+  },
+  {
+   "revision_id": "200811406-54a7b479",
+   "content_sha256": "54a7b4795191732de962a74ae91a3b280839e56148f59254a2e0bce584057362",
+   "ee_text": "혈관수축(이형협심증)에 의한 심근성허혈증 40% 미만이 아닌 환자의 -협심증으로 인한 입원의 위험성을 감소 -관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "21",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:20Z"
+}

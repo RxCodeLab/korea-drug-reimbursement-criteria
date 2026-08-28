@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199200179",
+ "item_name": "한풍보간환",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19921222",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M050022]강활|[M040550]천궁|[M040523]작약|[M040070]당귀|[M040205]방풍|[M051364]숙지황",
+ "main_item_ingr_eng": "Angelica Gigas Root/Cnidium Rhizome/Ostericum Root/Peony Root/Prepared Rehmannia Root/Saposhnikovia Root",
+ "edi_code": "",
+ "atc_code": "A05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200179",
+ "revisions": [
+  {
+   "revision_id": "199200179-7fe8d672",
+   "content_sha256": "7fe8d67249f0f0e6d9a2da76c110bc9c58ba58ed984649108dfa5e20562f0bbd",
+   "ee_text": "간허증(肝虛證 : 눈이 잘 보이지 않고 귀가 잘 들리지 않으며 잘 놀라는 증상)",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:44Z",
+   "last_observed_at": "2026-08-28T13:23:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:44Z"
+}

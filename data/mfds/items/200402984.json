@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402984",
+ "item_name": "한풍제통고플러스카타플라스마",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20040403",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223240]토코페롤아세테이트|[M204423]dl-캄파|[M230875]l-멘톨|[M203279]살리실산메틸|[M207935]치자연조엑스(3.0→1)|[M213350]황백연조엑스(3.3→1)",
+ "main_item_ingr_eng": "DL-Camphor/Gardenia Fruit Soft Extract (3.0→1)/L-Menthol/Methyl Salicylate/Phellodendron Bark Soft Extract (3.3→1)/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402984",
+ "revisions": [
+  {
+   "revision_id": "200402984-7aa018f5",
+   "content_sha256": "7aa018f53363a3f9bc3bf76343141c21de355d4277f3344cfe9d1e82b14d7336",
+   "ee_text": "타박상, 삠, 어깨결림, 근육통, 관절통, 근육피로, 요(허리)통, 동창(언 상처), 골(뼈)절통",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:24:05Z",
+   "last_observed_at": "2026-08-28T13:24:05Z",
+   "official_revision_date": "2021-10-22"
+  },
+  {
+   "revision_id": "200402984-39b4c4e6",
+   "content_sha256": "39b4c4e65ed1dd10922735f3a776773fba8012bd46f4772fdcb4729d08273c01",
+   "ee_text": "타박, 삠, 어깨결림, 관절통, 근육통, 근육, 피로, 요통, 동상, 골절통",
+   "ee_doc_id": "1",
+   "official_revision_date": "2009-10-12",
+   "first_observed_at": "2026-08-28T13:24:05Z",
+   "last_observed_at": "2026-08-28T13:24:05Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:05Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197000073",
+ "item_name": "투수크친시럽(수출용)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "19700128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040060]염산노스카핀|[M040616]말레인산클로르페니라민|[M207450]디엘 염산메칠에페드린|[M050059]구아야콜설폰산칼륨",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Noscapine Hydrochloride/Potassium Guaiacolsulfonate",
+ "edi_code": "",
+ "atc_code": "R05FA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197000073",
+ "revisions": [
+  {
+   "revision_id": "197000073-d3a30710",
+   "content_sha256": "d3a30710a1adf8074bce775148ec64b35ca5555bb932ad97e8e7a51e9a59c216",
+   "ee_text": "기침,천식,가래",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

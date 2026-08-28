@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005873",
+ "item_name": "진패탕(연교패독산엑스과립)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20001011",
+ "cancel_date": "20260401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040048]길경|[M051318]전호|[M040550]천궁|[M040225]복령|[M050107]금은화|[M051351]지각|[M040336]시호|[M050227]독활|[M050752]생강|[M050022]강활|[M051105]연교|[M040205]방풍|[M051936]형개|[M040198]박하|[M040006]감초",
+ "main_item_ingr_eng": "Aralia Continentalis Root/Aurantii Fructus Immaturus/Bupleurum Root/Cnidium Rhizome/Forsythia Fruit/Licorice/Lonicera Flower/Mentha Herb/Ostericum Root/Peucedani Radix/Platycodon Root/Poria/Raw Ginger/Saposhnikovia Root/Schizonepeta Spike",
+ "edi_code": "",
+ "atc_code": "J01XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005873",
+ "revisions": [
+  {
+   "revision_id": "200005873-bbd40423",
+   "content_sha256": "bbd40423461219d8a67733445b8b0ece71b8972ba3c7d3eec0322790db2f6424",
+   "ee_text": "종기로 인한 오한(춥고 떨리는 증상), 발열, 두통의 완화",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z",
+   "official_revision_date": "2020-09-11"
+  },
+  {
+   "revision_id": "200005873-5c2e10a7",
+   "content_sha256": "5c2e10a7608fa33f84848571291c046d0d1081a6dd1c16e25faf5f60043658e2",
+   "ee_text": "종기로 인한 오한, 발열, 두통의 완화",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:57Z"
+}

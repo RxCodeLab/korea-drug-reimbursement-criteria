@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200210370",
+ "item_name": "비브라운하트만액",
+ "entp_name": "비브라운코리아(주)",
+ "permit_date": "20020506",
+ "cancel_date": "20241213",
+ "status": "취하",
+ "main_item_ingr": "[M051322]젖산나트륨|[M083749]염화칼슘이수화물|[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Potassium Chloride/Sodium Chloride/Sodium Lactate",
+ "edi_code": "",
+ "atc_code": "B05BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210370",
+ "revisions": [
+  {
+   "revision_id": "200210370-b970c025",
+   "content_sha256": "b970c025db79b32dd3619015cfa9a1c7492b8c7b988cdb7c195632cde2625f2f",
+   "ee_text": "○ 순환혈액량 및 조직간액의 감소시 세포외액의 보급ㆍ보정 ○ 대사성 산증의 보정",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:01Z",
+   "last_observed_at": "2026-08-28T13:24:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:01Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201000985",
+ "item_name": "크로바틴정10mg(로수바스타틴칼슘)",
+ "entp_name": "(주)제뉴파마",
+ "permit_date": "20100128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095744]로수바스타틴칼슘",
+ "main_item_ingr_eng": "Rosuvastatin Calcium",
+ "edi_code": "698001120",
+ "atc_code": "C10AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000985",
+ "revisions": [
+  {
+   "revision_id": "201000985-a2f6d53e",
+   "content_sha256": "a2f6d53e407d78bbe2bf1f898ce5c3d605aba48dc73f74c169bd28a5557d7203",
+   "ee_text": "- LDL-콜레스테롤이 여전히 190 mg/dL을 초과하는 경우 (LDL-C > 190 mg/dL) - LDL-콜레스테롤이 여전히 160 mg/dL을 초과하면서 (LDL-C > 160 mg/dL), 조기 심혈관 질환의 가족력이 있거나 두가지 이상의 심혈관 질환 위험 인자가 있는 경우 - 뇌졸중에 대한 위험성 감소 - 심근경색에 대한 위험성 감소 - 동맥 혈관재형성술에 대한 위험성 감소",
+   "ee_doc_id": "40",
+   "first_observed_at": "2026-08-28T13:24:22Z",
+   "last_observed_at": "2026-08-28T13:24:22Z",
+   "official_revision_date": "2024-04-12"
+  },
+  {
+   "revision_id": "201000985-38b8eb6d",
+   "content_sha256": "38b8eb6d09b4b82f5d7780bd2cca016437d983b48e9a0c7b9a600de54b192831",
+   "ee_text": "- 뇌졸중에 대한 위험성 감소 - 심근경색에 대한 위험성 감소 - 동맥 혈관재형성술에 대한 위험성 감소",
+   "ee_doc_id": "22",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:22Z",
+   "last_observed_at": "2026-08-28T13:24:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:22Z"
+}

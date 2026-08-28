@@ -12,15 +12,15 @@
  "edi_code": "658700890",
  "atc_code": "L04AX06",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403608",
+ "history_fetched_at": "2026-08-27T13:15:59Z",
  "revisions": [
   {
    "revision_id": "201403608-419fbeb9",
    "content_sha256": "419fbeb903f7507b6c547ba988f4a2cd7b1c09cdd942bb40fb1da355bc8d890c",
    "ee_text": "1. 이전에 레날리도마이드를 포함한 한 가지 이상의 치료를 받은 다발골수종 환자의 치료에 보르테조밉 및 덱사메타손과의 병용요법 2. 이전에 레날리도마이드와 보르테조밉을 포함한 최소 두 가지 치료를 받고, 재발 또는 불응한 다발골수종 환자의 치료에 덱사메타손과의 병용요법",
-   "ee_doc_id": "26",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201403608/EE",
    "first_observed_at": "2026-08-27T13:15:59Z",
-   "last_observed_at": "2026-08-27T13:15:59Z",
-   "official_revision_date": "2019-10-29"
+   "last_observed_at": "2026-08-28T13:24:37Z"
   },
   {
    "revision_id": "201403608-b6508d45",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:15:59Z",
    "last_observed_at": "2026-08-27T13:15:59Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:15:59Z"
+ ]
 }

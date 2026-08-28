@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801998",
+ "item_name": "헥시덱스5%액(클로르헥시딘글루콘산염액)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "19980611",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "664101750",
+ "atc_code": "D08AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801998",
+ "revisions": [
+  {
+   "revision_id": "199801998-daeb3209",
+   "content_sha256": "daeb320997a905eb589629682397b11f5a5d11bc583bf0bd8bb14df51efc847e",
+   "ee_text": "- 손 및 피부의 소독(보건위생종사자 및 수술 시 수술자의 손 소독, 수술부위 피부의 소독은 제외) - 의료용구의 소독 - 가구, 기구 등의 소독 - 피부의 창상(상처)부위 소독",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z",
+   "official_revision_date": "2019-10-18"
+  },
+  {
+   "revision_id": "199801998-69606f12",
+   "content_sha256": "69606f120854860e5d3944b9438a41ae98a5f7cc936dbf94ea0eac837d9cc89c",
+   "ee_text": "- 손 및 피부의 소독 - 수술부위의 피부소독 - 의료용구의 소독 - 가구, 기구 등의 소독 - 피부의 창상(상처)부위 소독",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

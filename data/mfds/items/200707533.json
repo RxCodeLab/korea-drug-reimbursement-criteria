@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200707533",
+ "item_name": "아이피아연질캡슐",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20070629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082696]동클로로필|[M083515]에르고칼시페롤과립|[M243499]레티놀팔미테이트유|[M082813]사유",
+ "main_item_ingr_eng": "Chlorophyllin Copper/Ergocalciferol Granules/Retinol Palmitate Oil/Snake Oil",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707533",
+ "revisions": [
+  {
+   "revision_id": "200707533-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200707533/EE",
+   "first_observed_at": "2026-08-28T13:24:13Z",
+   "last_observed_at": "2026-08-28T13:24:13Z"
+  },
+  {
+   "revision_id": "200707533-48dc62e8",
+   "content_sha256": "48dc62e84e688aadb5f952ebdbb49d79ea31c1f367c213dbe0474be2819f0ea1",
+   "ee_text": ": 눈의 건조감 : 임신수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후) 체력저하 때, 발육기, 노년기",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:13Z",
+   "last_observed_at": "2026-08-28T13:24:13Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:13Z"
+}

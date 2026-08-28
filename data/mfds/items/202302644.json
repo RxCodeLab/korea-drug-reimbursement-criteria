@@ -12,15 +12,15 @@
  "edi_code": "653007080",
  "atc_code": "A10BD20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302644",
+ "history_fetched_at": "2026-08-27T12:39:32Z",
  "revisions": [
   {
    "revision_id": "202302644-3dca68c5",
    "content_sha256": "3dca68c53495c1cff48581ef76eccafa99ee9407d2b23ee8a0734f18a383cfe9",
    "ee_text": "이 약은 엠파글리플로진과 메트포르민의 병용투여가 적합한 성인 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 혈당이 충분히 조절되지 않는 성인 제2형 당뇨병 환자중 심혈관계 질환이 확인된 환자에서 심혈관계 사건 발생에 대한 영향은 ‘사용상의 주의사항 12. 전문가를 위한 정보 2) 임상시험 정보’항을 참고한다.",
-   "ee_doc_id": "12",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202302644/EE",
    "first_observed_at": "2026-08-27T12:39:32Z",
-   "last_observed_at": "2026-08-27T12:39:32Z",
-   "official_revision_date": "2025-10-21"
+   "last_observed_at": "2026-08-28T13:25:34Z"
   },
   {
    "revision_id": "202302644-e33c1365",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:39:32Z",
    "last_observed_at": "2026-08-27T12:39:32Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:39:32Z"
+ ]
 }

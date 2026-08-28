@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201101014",
+ "item_name": "칼디업츄어블정",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20110228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051564]탄산칼슘|[M255949]농축콜레칼시페롤과립",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Granules",
+ "edi_code": "670605790",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101014",
+ "revisions": [
+  {
+   "revision_id": "201101014-cac4e08f",
+   "content_sha256": "cac4e08f59d7f7bbff51db48e0af7d4861764cbb4f010a39a2fe1e36a246d508",
+   "ee_text": "1. 다음 경우의 비타민D의 보급 - 임신·수유기, 발육기, 노년기 - 이약에 함유된 비타민 등의 효능·효과는 다음과 같다. · 뼈, 이의 발육불량 · 구루병의 예방 2. 칼슘결핍 및 기타 칼슘의 보급",
+   "ee_doc_id": "22",
+   "first_observed_at": "2026-08-28T13:24:25Z",
+   "last_observed_at": "2026-08-28T13:24:25Z",
+   "official_revision_date": "2021-12-08"
+  },
+  {
+   "revision_id": "201101014-d4a1c9b5",
+   "content_sha256": "d4a1c9b59d53866ad30bb8503363aa29e4f82a2c922e2a771a1f34e1101b225f",
+   "ee_text": "칼슘결핍 및 기타 칼슘 보급을 필요로 하는 경우",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:25Z",
+   "last_observed_at": "2026-08-28T13:24:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:25Z"
+}

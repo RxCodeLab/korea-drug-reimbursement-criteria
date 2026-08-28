@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201306135",
+ "item_name": "비타라민정",
+ "entp_name": "(주)팜젠사이언스",
+ "permit_date": "20130311",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223289]폴산|[M096429]시아노코발라민|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Cyanocobalamin/Folic Acid/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306135",
+ "revisions": [
+  {
+   "revision_id": "201306135-b950d88b",
+   "content_sha256": "b950d88bea115138bcde29d95ae585860f3abc6719f6cb0d568e94fe0633f6a9",
+   "ee_text": "6 의 보급 : 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력 저하시\"> 6 (피리독신염산염)]]>",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:30Z",
+   "last_observed_at": "2026-08-28T13:24:30Z",
+   "official_revision_date": "2022-03-10"
+  },
+  {
+   "revision_id": "201306135-a33fdb26",
+   "content_sha256": "a33fdb26f93558226f4b0ba5a7ef5ac2f3df1d02d1ef2a00c6250a5a3c254d91",
+   "ee_text": "다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:30Z",
+   "last_observed_at": "2026-08-28T13:24:30Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:30Z"
+}

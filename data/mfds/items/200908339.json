@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200908339",
+ "item_name": "레반에이치주입연고",
+ "entp_name": "한국위너스약품(주)",
+ "permit_date": "20091126",
+ "cancel_date": "20231130",
+ "status": "폐업",
+ "main_item_ingr": "[M223298]프레드니솔론아세테이트|[M040131]리도카인|[M051015]알란토인|[M223240]토코페롤아세테이트",
+ "main_item_ingr_eng": "Allantoin/Lidocaine/Prednisolone Acetate/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "C05AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908339",
+ "revisions": [
+  {
+   "revision_id": "200908339-8a61de97",
+   "content_sha256": "8a61de97d544dc30f293d5392417d693c5950be405a5d13fcd491845a5af8211",
+   "ee_text": "다음 증상의 완화: 치열ㆍ 치핵의 통증, 가려움, 부종, 출혈",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:22Z",
+   "last_observed_at": "2026-08-28T13:24:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:22Z"
+}

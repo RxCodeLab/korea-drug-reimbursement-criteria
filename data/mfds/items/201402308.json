@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402308",
+ "item_name": "헥시덴트액(클로르헥시딘글루콘산염액)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20140520",
+ "cancel_date": "20240328",
+ "status": "취하",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "",
+ "atc_code": "R02AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402308",
+ "revisions": [
+  {
+   "revision_id": "201402308-35ddc6cc",
+   "content_sha256": "35ddc6cc9c892dbb5eb4088ea43fa493fc0cf95a770cfea5589374e84cac4130",
+   "ee_text": "다음 질환에 의한 염증의 완화 : 보철(의치)에 의한 염증, 아구창 등의 구강내 칸디다감염증, 치은염, 인두염, 아프타성 구내염 치근막 수술후 살균소독",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:35Z",
+   "last_observed_at": "2026-08-28T13:24:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:35Z"
+}

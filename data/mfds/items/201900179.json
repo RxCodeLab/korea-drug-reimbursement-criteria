@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900179",
+ "item_name": "리나그린정5밀리그램(리나글립틴)",
+ "entp_name": "진양제약(주)",
+ "permit_date": "20190115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252996]리나글립틴",
+ "main_item_ingr_eng": "Linagliptin",
+ "edi_code": "650304630",
+ "atc_code": "A10BH05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900179",
+ "revisions": [
+  {
+   "revision_id": "201900179-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:25:03Z",
+   "last_observed_at": "2026-08-28T13:25:03Z",
+   "official_revision_date": "2024-12-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:03Z"
+}

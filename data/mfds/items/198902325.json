@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198902325",
+ "item_name": "마기스캅셀(수출용)",
+ "entp_name": "초당약품공업(주)",
+ "permit_date": "19890121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080308]소브레롤|[M050359]에스카르복시메칠시스테인",
+ "main_item_ingr_eng": "S-Carboxymethylcysteine/Sobrerol",
+ "edi_code": "",
+ "atc_code": "R05CB10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198902325",
+ "revisions": [
+  {
+   "revision_id": "198902325-639887ca",
+   "content_sha256": "639887ca4e4b4eca66cb3d2b0a17af90913cd6060516ade6f18c980a7d20c46e",
+   "ee_text": "1) 기관지염, 기관지확장증, 기관지폐렴, 특히 천식, 폐기종 등의 호흡기부전이 수반될 때 2) 폐결핵이나 진폐증이 수반되는 기관지 카타르 3) 비인두염, 후두기관염",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:23:42Z",
+   "last_observed_at": "2026-08-28T13:23:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:42Z"
+}

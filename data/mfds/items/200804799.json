@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200804799",
+ "item_name": "경진쌍화탕엑스과립",
+ "entp_name": "경진제약(주)",
+ "permit_date": "20080428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050752]생강|[M040523]작약|[M040790]황기|[M040071]대추|[M040070]당귀|[M040006]감초|[M050036]육계|[M040550]천궁|[M219019]이상 건조엑스로서|[M051364]숙지황",
+ "main_item_ingr_eng": "Angelica Gigas Root/As Dried Extract/Astragalus Root/Cinnamon Bark/Cnidium Rhizome/Jujube/Licorice/Peony Root/Prepared Rehmannia Root/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804799",
+ "revisions": [
+  {
+   "revision_id": "200804799-ff9e97e1",
+   "content_sha256": "ff9e97e188e23d7e7789e1a6c680cfd5678d9c281cb7b80002e161c2acdcd2fe",
+   "ee_text": "허약체질, 피로회복, 과로, 자한(自汗, 정신이 멀쩡하고 움직이지도 않았는데 저절로 땀이 나는 증상), 병중병후",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200804799/EE",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z"
+  },
+  {
+   "revision_id": "200804799-4fe00d16",
+   "content_sha256": "4fe00d1661d28e833dd1a708be13fb0420230362b2f1cc28b463fc230e5005b6",
+   "ee_text": "(과립제)(액제)(환제)(캡슐제)(산제) 허약체질, 피로회복, 과로, 자한(自汗, 정신이 멀쩡하고 움직이지도 않았는데 저절로 땀이 나는 증상), 병중병후",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:16Z"
+}

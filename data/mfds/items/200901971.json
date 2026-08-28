@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200901971",
+ "item_name": "와이타민포르테캡슐(수출용)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20090316",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202216]DL-염산카르니틴|[M100992]코바마미드|[M222998]L-리신염산염|[M081195]오로트산시프로헵타딘",
+ "main_item_ingr_eng": "Cobamamide/Cyproheptadine Orotate/DL-Carnitine Hydrochloride/L-Lysine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901971",
+ "revisions": [
+  {
+   "revision_id": "200901971-40e80b44",
+   "content_sha256": "40e80b444ddf872dc53c84ef1bc85d47b6a4a4edfdb3f4b8a7b4cd902f29061c",
+   "ee_text": "식욕부진, 성장부진",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:20Z"
+}

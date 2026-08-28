@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701212",
+ "item_name": "토비콤연질캅셀(수출용)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "19970304",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223258]티아민염산염|[M040133]리보플라빈|[M222991]레티놀팔미테이트|[M051344]주석산수소콜린|[M247471]콘드로이틴나트륨설페이트",
+ "main_item_ingr_eng": "Choline Tartrate/Retinol Palmitate/Riboflavin/Sodium Chondroitin Sulfate/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S01XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701212",
+ "revisions": [
+  {
+   "revision_id": "199701212-b52cd216",
+   "content_sha256": "b52cd21683ed866c569f6214e21b428e8d16215ec29b4ad530b06afc3ff76228",
+   "ee_text": "- 육체피로 - 임신, 수유기 - 병중, 병후(병을 앓는 동안이나 회복 후)의 체력저하시",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199701212/EE",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z"
+  },
+  {
+   "revision_id": "199701212-1885664a",
+   "content_sha256": "1885664ade711ceaec5e309184f93f4708efe08a9e2ae1cd19fa31bab2bfeeae",
+   "ee_text": "∙ 다음 경우의 비타민 A, B1, B2의 보급 - 육체피로 - 임신, 수유기 - 병중, 병후(병을 앓는 동안이나 회복 후)의 체력저하시 ∙ 눈의 건조감의 완화 ∙ 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) ∙ 각기 ∙ 야맹증 ∙ 눈의 피로",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:48Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907354",
+ "item_name": "스무스케어겔1%(히드로코르티손)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20191018",
+ "cancel_date": "20241018",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M101579]히드로코르티손",
+ "main_item_ingr_eng": "Hydrocortisone",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907354",
+ "revisions": [
+  {
+   "revision_id": "201907354-0140c424",
+   "content_sha256": "0140c4243c3ca06c18c7b6e9bf3aabc4fbef561da5cac8f1b121ad1266f44c82",
+   "ee_text": "습진ㆍ피부염군, 피부가려움, 벌레물린데",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:12Z",
+   "last_observed_at": "2026-08-28T13:25:12Z",
+   "official_revision_date": "2019-10-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:12Z"
+}

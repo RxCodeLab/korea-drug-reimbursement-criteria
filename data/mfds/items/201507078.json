@@ -7,11 +7,12 @@
  "permit_date": "20151008",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M248503]묽은클라불란산칼륨|[M223098]아목시실린수화물",
+ "main_item_ingr": "[M223098]아목시실린수화물|[M248503]묽은클라불란산칼륨",
  "main_item_ingr_eng": "Amoxicillin Hydrate/Dilute Potassium Clavulanate",
  "edi_code": "651601921",
  "atc_code": "J01CR02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507078",
+ "history_fetched_at": "2026-08-27T12:50:02Z",
  "revisions": [
   {
    "revision_id": "201507078-31969a17",
@@ -19,7 +20,7 @@
    "ee_text": "○ 유효균종 폐렴연쇄구균(페니실린 MIC ≤ 2mcg/mL), 헤모필루스 인플루엔자(베타락타마제 생성 균주 포함), 모락셀라 카타랄리스(베타락타마제 생성균주 포함) ○ 적응증 소아환자에서 재발성 또는 지속성 급성중이염의 치료. 소아환자에서 재발성 급성 부비동염의 치료 단, 다음의 위험인자 중 하나를 갖고 있어야 함. · 3개월 이내에 급성중이염 또는 급성 부비동염으로 인한 항생제 투여 경험이 있는 - 2세 이하의 소아 또는 - 보육기관(어린이집)에 다니는 소아 (daycare attendance).",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201507078/EE",
    "first_observed_at": "2026-08-27T12:50:02Z",
-   "last_observed_at": "2026-08-27T12:50:02Z"
+   "last_observed_at": "2026-08-28T13:24:45Z"
   },
   {
    "revision_id": "201507078-7f87ac31",
@@ -30,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:50:02Z",
    "last_observed_at": "2026-08-27T12:50:02Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:50:02Z"
+ ]
 }

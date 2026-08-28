@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005657",
+ "item_name": "청혈온보단",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000904",
+ "cancel_date": "20260401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040070]당귀|[M040214]백출|[M040228]향부자|[M040523]작약|[M040550]천궁|[M040775]현호색|[M050036]육계|[M040007]건강|[M040185]목단피|[M040225]복령|[M040006]감초|[M040811]회향|[M095260]사인|[M051364]숙지황|[M050905]아교|[M040538]진피|[M040447]오수유",
+ "main_item_ingr_eng": "Amomum Fruit/Angelica Gigas Root/Asini Corii Colla/Atractylodes Rhizome White/Cinnamon Bark/Citrus Unshiu Peel/Cnidium Rhizome/Corydalis Tuber/Cyperus Rhizome/Evodia Fruit/Fennel/Ginger/Licorice/Moutan Root Bark/Peony Root/Poria/Prepared Rehmannia Root",
+ "edi_code": "",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005657",
+ "revisions": [
+  {
+   "revision_id": "200005657-0ca15204",
+   "content_sha256": "0ca15204edf84c3c70995377fa9952ad58e11a2239d39e6e3df924cbabd6e4af",
+   "ee_text": "월경불순, 자궁허냉, 대하(질분비물), 적탁(赤濁, 소변이 혼탁한 적색을 띠는 증상), 백탁(白濁, 소변이 혼탁한 백색을 띠는 증상), 월경시 요통, 복통(배아픔), 두통, 어지러움, 손·발의 차가움, 소화불량, 혈액부족, 쇠약, 건망, 정충(炡沖, 심계항진(두근거림), 빈뇨, 구역, 구토, 히스테리, 냉적, 혈적, 생리기능 장애",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2021-05-03"
+  },
+  {
+   "revision_id": "200005657-b23dc9f7",
+   "content_sha256": "b23dc9f7e2d0ee4c624dc1c831d20cd9a820a42fd7b59789dd83c20b074ec456",
+   "ee_text": "월경불순, 자궁허냉, 대하, 적탁(赤濁, 소변이 혼탁한 적색을 띠는 증상), 백탁(白濁, 소변이 혼탁한 백색을 띠는 증상), 월경시 요통, 복통(배아픔), 두통, 어지러움, 손·발의 차가움, 소화불량, 혈액부족, 쇠약, 건망, 정충(炡沖, 심계항진), 빈뇨, 구역, 구토, 히스테리, 냉적, 혈적, 생리기능 장애",
+   "ee_doc_id": "8",
+   "official_revision_date": "2020-09-25",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z"
+  },
+  {
+   "revision_id": "200005657-3cf051b7",
+   "content_sha256": "3cf051b77b5025917c7f7480d57812d0fa3bf484f095908c1b3d6e737a9db7f4",
+   "ee_text": "월경불순, 자궁허냉, 대하, 적탁(赤濁, 소변이 혼탁한 적색을 띠는 증상), 백탁(白濁, 소변이 혼탁한 백색을 띠는 증상), 월경시 요통, 복통, 두통, 어지러움, 손·발의 차가움, 소화불량, 혈액부족, 쇠약, 건망, 정충(炡沖, 심계항진), 빈뇨, 구역, 구토, 히스테리, 냉적, 혈적, 생리기능 장애",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

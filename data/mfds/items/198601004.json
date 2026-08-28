@@ -12,15 +12,15 @@
  "edi_code": "651600911",
  "atc_code": "A05BA06",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198601004",
+ "history_fetched_at": "2026-08-27T13:52:28Z",
  "revisions": [
   {
    "revision_id": "198601004-2fc9d798",
    "content_sha256": "2fc9d798ef05d6c8543b071ed0fa593ccb7446c524cb8d66a66a1de1648c6f8c",
    "ee_text": "* 500 mg/mL, 5 g/10 mL 다음의 중증의 간질환 해독 : 간성뇌증(혼수 전단계•혼수포함)",
-   "ee_doc_id": "24",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198601004/EE",
    "first_observed_at": "2026-08-27T13:52:28Z",
-   "last_observed_at": "2026-08-27T13:52:28Z",
-   "official_revision_date": "2004-05-11"
+   "last_observed_at": "2026-08-28T13:23:40Z"
   },
   {
    "revision_id": "198601004-865c8da3",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:52:28Z",
    "last_observed_at": "2026-08-27T13:52:28Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:52:28Z"
+ ]
 }

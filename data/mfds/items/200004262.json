@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200004262",
+ "item_name": "바로마지크림(수출명:셀렉토덤크림)",
+ "entp_name": "(주)서울제약",
+ "permit_date": "20000728",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223043]베타메타손발레레이트|[M202821]겐타마이신황산염",
+ "main_item_ingr_eng": "Betamethasone Valerate/Gentamicin Sulfate",
+ "edi_code": "",
+ "atc_code": "D07CC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004262",
+ "revisions": [
+  {
+   "revision_id": "200004262-a198eece",
+   "content_sha256": "a198eece1822c528526b8c5dfc32c3c08865a131e25b7a9cb8d649d1464f0b8b",
+   "ee_text": "- 2차 감염된 알레르기성 또는 염증성 피부질환 : 습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염, 가려움, 건선(마른비늘증) - 1도 화상",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2020-12-15"
+  },
+  {
+   "revision_id": "200004262-5d8ab236",
+   "content_sha256": "5d8ab23662e8279105264c898da4026519b810f92cdd8bad07d92f47c42de355",
+   "ee_text": "- 2차 감염된 알레르기성 또는 염증성 피부질환 : 습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진, 박탈피부염, 가려움, 건선 - 1도 화상",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

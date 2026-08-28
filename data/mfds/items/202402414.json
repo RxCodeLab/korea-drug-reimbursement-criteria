@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402414",
+ "item_name": "디판큐어크림",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20241011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280450]D-판테놀|[M223353]히드로코르티손아세테이트",
+ "main_item_ingr_eng": "Dexpanthenol/Hydrocortisone Acetate",
+ "edi_code": "",
+ "atc_code": "D07XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402414",
+ "revisions": [
+  {
+   "revision_id": "202402414-97c86785",
+   "content_sha256": "97c867859e819cb42d033495033bd2f92f663a6c3e550c5f872edd4f58598869",
+   "ee_text": "알레르기성 비감염성 염증 또는 피부 자극 증상의 국소 치료 : 벌레 물린 데, 가려움 및 일광 화상 후 피부 반응",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:36Z",
+   "last_observed_at": "2026-08-28T13:25:36Z",
+   "official_revision_date": "2024-10-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:36Z"
+}

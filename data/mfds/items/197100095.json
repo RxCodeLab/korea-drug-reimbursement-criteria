@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197100095",
+ "item_name": "일양노루모산(수출용)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19710605",
+ "cancel_date": "20240503",
+ "status": "취하",
+ "main_item_ingr": "[M040308]건조수산화알루미늄겔|[M040629]탄산마그네슘|[M040631]탄산수소나트륨|[M099577]스코폴리아엑스10배산|[M270087]디아스타제·프로테아제500|[M040634]침강탄산칼슘",
+ "main_item_ingr_eng": "Diastase·Protease 500/Dried Aluminium Hydroxide Gel/Magnesium Carbonate/Precipitated Calcium Carbonate/Scopolia Extract Powder 10%/Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "A02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197100095",
+ "revisions": [
+  {
+   "revision_id": "197100095-71ce3cde",
+   "content_sha256": "71ce3cde49bc2cdf4dddb9d1182176cc6f2fd27059ec3cd1b0cf6edffef9410f",
+   "ee_text": "위산과다(위염, 위ㆍ십이지장궤양에 관련된 것도 포함), 속쓰림, 위부불쾌감, 위부팽만감, 식체(위체), 구역, 구토, 위통, 신트림, 소화불량, 식욕감퇴(식욕부진), 과식, 소화촉진",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402791",
+ "item_name": "번카인연고(리도카인)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20140624",
+ "cancel_date": "20240624",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402791",
+ "revisions": [
+  {
+   "revision_id": "201402791-bc1ba0f3",
+   "content_sha256": "bc1ba0f3a3275832495903d21c692daaf2a143ba807cc3478b1428d0768a5802",
+   "ee_text": "다음의 경우에서의 통증의 일시적 경감 : 치질, 경증(가벼운 증상)의 화상, 일광화상(햇볕 탄데), 외상(상처), 자상(찔린상처)",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:36Z",
+   "last_observed_at": "2026-08-28T13:24:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:36Z"
+}

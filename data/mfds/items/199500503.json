@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199500503",
+ "item_name": "포러스안연고",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "19950923",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233313]폴리믹신B황산염|[M202893]네오마이신황산염|[M040080]덱사메타손",
+ "main_item_ingr_eng": "Dexamethasone/Neomycin Sulfate/Polymyxin B Sulfate",
+ "edi_code": "643901601,643901602",
+ "atc_code": "S01CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500503",
+ "revisions": [
+  {
+   "revision_id": "199500503-888e8fce",
+   "content_sha256": "888e8fce40f797e817a336bb83052a96bc45d7a5cf53c3e9b8902e1931c45414",
+   "ee_text": "폴리믹신 B 황산염 및 네오마이신황산염에 감수성균에 의한 결막염, 안검염, 각막염",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:46Z"
+}

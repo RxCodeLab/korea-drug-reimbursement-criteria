@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500465",
+ "item_name": "피엔믹스주2호(PN-MIXinj.NO.2)",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "20050331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M214274]L-트리프토판|[M103060]L-트레오닌|[M204442]L-페닐알라닌|[M218567]L-메티오닌|[M209360]L-발린|[M103077]L-아르기닌|[M040702]포도당|[M040426]염화나트륨|[M040438]염화칼륨|[M102093]염화마그네슘육수화물|[M040439]염화칼슘|[M225901]L-리신아세테이트|[M051290]인산이수소칼륨|[M222531]L-류신|[M222530]L-이소류신|[M215288]L-히스티딘|[M209366]L-알라닌|[M088656]글리신|[M103058]L-글루타민산|[M214861]L-프롤린|[M251877]L-시스테인염산염수화물|[M204435]L-세린|[M214313]L-티로신|[M103078]L-아스파라긴산|[M227966]아세트산나트륨수화물",
+ "main_item_ingr_eng": "Calcium Chloride/Glucose/Glycine/L-Alanine/L-Arginine/L-Aspartic Acid/L-Cysteine Hydrochloride Hydrate/L-Glutamic Acid/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Acetate/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine/Magnesium Chloride Hexahydrate/Monobasic Potassium Phosphate/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "B05BA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500465",
+ "revisions": [
+  {
+   "revision_id": "200500465-22fb93f3",
+   "content_sha256": "22fb93f336da1fada157c3144566cce4f7a675c895f340f12ac977d7965cbbe2",
+   "ee_text": "경구 또는 위장관 영양보급이 불가능 또는 불충분하거나 또는 제한되어 경정맥 영양공급을 실시해야 하는 환자들에게 수분, 전해질, 아미노산 및 칼로리 보급",
+   "ee_doc_id": "22",
+   "first_observed_at": "2026-08-28T13:24:07Z",
+   "last_observed_at": "2026-08-28T13:24:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:07Z"
+}

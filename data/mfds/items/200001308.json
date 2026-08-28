@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001308",
+ "item_name": "알레그라디정",
+ "entp_name": "(주)한독",
+ "permit_date": "20000414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246634]펙소페나딘염산염|[M203364]슈도에페드린염산염",
+ "main_item_ingr_eng": "Fexofenadine Hydrochloride/Pseudoephedrine Hydrochloride",
+ "edi_code": "652100950",
+ "atc_code": "R01BA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001308",
+ "revisions": [
+  {
+   "revision_id": "200001308-0187f1a3",
+   "content_sha256": "0187f1a3de6538b168be3e9f28a185470c7788af4028b207b6dea835fb66710d",
+   "ee_text": "계절알레르기비염에 의한 다음 증상의 완화 : 재채기, 콧물, 코·구강·인후의 가려움, 눈의 가려움, 눈물흘림증, 충혈, 비충혈 이 약은 펙소페나딘염산염의 항히스타민 효과와 슈도에페드린염산염의 비충혈 제거효과가 모두 요구될 때 사용할 것.",
+   "ee_doc_id": "40",
+   "first_observed_at": "2026-08-28T13:23:53Z",
+   "last_observed_at": "2026-08-28T13:23:53Z",
+   "official_revision_date": "2025-06-02"
+  },
+  {
+   "revision_id": "200001308-384938a0",
+   "content_sha256": "384938a0a7bf56b67fdb16e33cb20eac842ad38c8b2fdb569a99c650eb6211b5",
+   "ee_text": "계절알레르기비염에 의한 다음 증상의 완화 : 재채기, 콧물, 코·구강·인후의 가려움, 눈의 가려움, 눈물흘림증, 충혈, 비충혈 이 약은 펙소페나딘염산염의 항히스타민 효과와 수도에페드린염산염의 비충혈 제거효과가 모두 요구될 때 사용할 것.",
+   "ee_doc_id": "25",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:53Z",
+   "last_observed_at": "2026-08-28T13:23:53Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:53Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700390",
+ "item_name": "헤모비덱스0.15%2호액",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19971118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Sodium Bicarbonate",
+ "edi_code": "644904531",
+ "atc_code": "B05ZA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700390",
+ "revisions": [
+  {
+   "revision_id": "199700390-bcfa41e0",
+   "content_sha256": "bcfa41e05fb3647fc39760437c0470dc64d981725900ccba73ca4531c9743615",
+   "ee_text": "만성 신부전 환자에 사용되는 인공신장투석 관류액의 염기성 용액으로서 활성형 비타민 D3 제제나 칼슘제제의 투여 등에 의한 고칼슘혈증에 있어서 다음과 같은 경우에 사용한다. 1. 탄산수소농도가 높은 탄산수소형 투석액에서는 중증 알칼리증을 일으킬 수 있는 경우 2. 당농도가 낮은 투석액에서는 당뇨병 등 혈당치 관리가 곤란하고 투석개시 시 높은 혈당치(200mg/dL정도)를 보이는 경우 3. 칼륨, 마그네슘이 높은 투석액에서는 고칼륨혈증, 고마그네슘혈증의 개선이 불충분한 경우",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199700390/EE",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z"
+  },
+  {
+   "revision_id": "199700390-2163387d",
+   "content_sha256": "2163387d86ef3e1d91698527cb9e0053bef8d489c66a24a00125ca51e7735d54",
+   "ee_text": "1. 탄산수소농도가 높은 탄산수소형 투석액에서는 중증 알칼리증을 일으킬 수 있는 경우 2. 당농도가 낮은 투석액에서는 당뇨병 등 혈당치 관리가 곤란하고 투석개시 시 높은 혈당치(200mg/dL정도)를 보이는 경우 3. 칼륨, 마그네슘이 높은 투석액에서는 고칼륨혈증, 고마그네슘혈증의 개선이 불충분한 경우",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:48Z"
+}

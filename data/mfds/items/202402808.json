@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402808",
+ "item_name": "암로젯정5/10/10밀리그램(암로디핀,로수바스타틴,에제티미브)",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20241127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M097492]에제티미브|[M095744]로수바스타틴칼슘|[M222875]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate/Ezetimibe/Rosuvastatin Calcium",
+ "edi_code": "693903930",
+ "atc_code": "C10BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402808",
+ "revisions": [
+  {
+   "revision_id": "202402808-21b2a647",
+   "content_sha256": "21b2a647648451ed21097bf763c68492fb58935e35507b53c7f29f7d300d4cdf",
+   "ee_text": "이 약은 암로디핀과 에제티미브/로수바스타틴을 동시에 투여하여야 하는 환자에만 사용한다. ○ 암로디핀 1. 고혈압, 관상동맥의 고정 폐쇄(안정형협심증) 또는 관상혈관계의 혈관경련과 혈관수축(이형협심증)에 의한 심근성허혈증 2. 최근 혈관조영술로 관상동맥심질환이 확인된 환자로 심부전이 없거나 심박출량이40% 미만이 아닌 환자의 - 협심증으로 인한 입원의 위험성 감소 - 관상동맥 혈관재생술에 대한 위험성 감소 ○ 에제티미브/로수바스타틴 원발성 고콜레스테롤혈증 원발성 고콜레스테롤혈증(이형접합 가족형 및 비가족형) 또는 혼합형 이상지질혈증 환자의 상승된 총 콜레스테롤(total-C), LDL-콜레스테롤(LDL-C), 아포 B 단백(Apo B), 트리글리세라이드(TG) 및 non-HDL-콜레스테롤을 감소시키고, HDL-콜레스테롤(HDL-C)을 증가시키기 위한 식이요법의 보조제로서 이 약을 투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:36Z",
+   "last_observed_at": "2026-08-28T13:25:36Z",
+   "official_revision_date": "2024-11-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:36Z"
+}

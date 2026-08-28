@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906085",
+ "item_name": "데칼시트산",
+ "entp_name": "한국벡스팜제약(주)",
+ "permit_date": "20190827",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223369]인산수소칼슘수화물|[M102050]콜레칼시페롤농축분말",
+ "main_item_ingr_eng": "Cholecalciferol Concentrate Powder/Dibasic Calcium Phosphate Hydrate",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906085",
+ "revisions": [
+  {
+   "revision_id": "201906085-1e955bed",
+   "content_sha256": "1e955bedf53283a919b6b7dd7a6181bf592a77191032fb0195d86a6f8885dde8",
+   "ee_text": "• 다음 경우의 비타민 D의 보급 임신, 수유기, 발육기, 노년기 • 뼈, 이의 발육불량 • 구루병의 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201906085/EE",
+   "first_observed_at": "2026-08-28T13:25:10Z",
+   "last_observed_at": "2026-08-28T13:25:10Z"
+  },
+  {
+   "revision_id": "201906085-c3cdb44d",
+   "content_sha256": "c3cdb44d6d68a331154c3d73cbfdb7cb46326c6233f938104c16ac73ebd073ff",
+   "ee_text": "• 다음 경우의 비타민 D의 보급 임신․수유기, 발육기, 노년기 • 뼈, 이의 발육불량 • 구루병의 예방",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-08-27",
+   "first_observed_at": "2026-08-28T13:25:10Z",
+   "last_observed_at": "2026-08-28T13:25:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:10Z"
+}

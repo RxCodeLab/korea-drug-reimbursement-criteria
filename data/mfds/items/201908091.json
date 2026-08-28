@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908091",
+ "item_name": "에쎈타민주5%",
+ "entp_name": "구주제약(주)",
+ "permit_date": "20191126",
+ "cancel_date": "20241126",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M103077]L-아르기닌|[M209360]L-발린|[M270256]L-트립토판|[M103060]L-트레오닌|[M204442]L-페닐알라닌|[M218567]L-메티오닌|[M270255]L-리신아세트산염|[M222531]L-류신|[M217737]N-아세틸-L-시스테인|[M204435]L-세린|[M214861]L-프롤린|[M088656]글리신|[M209366]L-알라닌|[M215288]L-히스티딘|[M222530]L-이소류신",
+ "main_item_ingr_eng": "Glycine/L-Alanine/L-Arginine/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Acetate/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Valine/N-Acetyl-L-Cysteine",
+ "edi_code": "",
+ "atc_code": "B05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908091",
+ "revisions": [
+  {
+   "revision_id": "201908091-87acfe8c",
+   "content_sha256": "87acfe8c5dbbdf4f0792732c3dab38a5d01d4b80e9a1f33dea2412672343436c",
+   "ee_text": "다음 경우의 비경구 아미노산 보급 : 뇌기능 손상(뇌질환)을 수반하거나 수반하지 않는 중증의 간기능 장애(간부전)시, 간성혼수 치료 시",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:13Z",
+   "last_observed_at": "2026-08-28T13:25:13Z",
+   "official_revision_date": "2019-11-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:13Z"
+}

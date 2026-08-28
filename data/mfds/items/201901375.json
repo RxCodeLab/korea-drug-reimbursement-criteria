@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901375",
+ "item_name": "타카인크림10.56%(리도카인)(수출용)",
+ "entp_name": "(주)시어스제약",
+ "permit_date": "20190307",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901375",
+ "revisions": [
+  {
+   "revision_id": "201901375-643d4e1b",
+   "content_sha256": "643d4e1b22d0628f41c667e523b04a970ee3df8a976a411ca18ff233aa11b98b",
+   "ee_text": "남성 성기 촉각의 예민성 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:05Z",
+   "last_observed_at": "2026-08-28T13:25:05Z",
+   "official_revision_date": "2019-03-07"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:05Z"
+}

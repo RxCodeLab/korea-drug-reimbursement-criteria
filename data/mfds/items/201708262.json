@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708262",
+ "item_name": "엑스코프디시럽",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20171207",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222957]덱스트로메토르판브롬화수소산염수화물|[M203364]슈도에페드린염산염|[M050058]구아이페네신",
+ "main_item_ingr_eng": "Dextromethorphan Hydrobromide Hydrate/Guaifenesin/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05FA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708262",
+ "revisions": [
+  {
+   "revision_id": "201708262-dbd0b241",
+   "content_sha256": "dbd0b241be689ae0cbd77178b35f08f12ca2222d5f829e69b4e4fdc8f0a00ab3",
+   "ee_text": "기침, 가래, 콧물, 코막힘, 재채기",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:58Z",
+   "last_observed_at": "2026-08-28T13:24:58Z",
+   "official_revision_date": "2017-12-07"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:58Z"
+}

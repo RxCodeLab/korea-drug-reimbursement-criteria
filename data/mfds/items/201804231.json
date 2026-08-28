@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "J05AR12",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804231",
+ "history_fetched_at": "2026-08-27T13:41:31Z",
  "revisions": [
   {
    "revision_id": "201804231-82671c1d",
    "content_sha256": "82671c1d3a7bd62986913198231216d8626ac14effd5fd7478623efc5836cd75",
    "ee_text": "성인 및 체중 35kg 이상 소아에서 HIV-1 감염의 치료를 위해 다른 항레트로바이러스제제와 병용투여한다.",
-   "ee_doc_id": "2",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201804231/EE",
    "first_observed_at": "2026-08-27T13:41:31Z",
-   "last_observed_at": "2026-08-27T13:41:31Z",
-   "official_revision_date": "2019-08-08"
+   "last_observed_at": "2026-08-28T13:25:02Z"
   },
   {
    "revision_id": "201804231-9234b577",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:41:31Z",
    "last_observed_at": "2026-08-27T13:41:31Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:41:31Z"
+ ]
 }

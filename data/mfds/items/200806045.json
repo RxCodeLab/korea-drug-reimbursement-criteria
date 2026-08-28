@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806045",
+ "item_name": "소청연연조엑스(소청룡탕)",
+ "entp_name": "원광제약(주)",
+ "permit_date": "20080530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261813]소청룡탕연조엑스(6.3→1)",
+ "main_item_ingr_eng": "Socheongryongtang Soft Extract (6.3→1)",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806045",
+ "revisions": [
+  {
+   "revision_id": "200806045-f8780b59",
+   "content_sha256": "f8780b59755c5a18e173b050daf980a64a1b99bba3cc68567f55a33e8d7e7637",
+   "ee_text": "기관지천식, 기관지염, 묽은 가래를 수반하는 기침",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:17Z",
+   "last_observed_at": "2026-08-28T13:24:17Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:17Z"
+}

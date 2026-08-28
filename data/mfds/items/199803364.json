@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199803364",
+ "item_name": "경진 평위산엑스과립",
+ "entp_name": "경진제약(주)",
+ "permit_date": "19980511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040006]감초|[M040007]건강|[M040071]대추|[M040538]진피|[M040813]후박|[M040548]창출",
+ "main_item_ingr_eng": "Atractylodes Rhizome/Citrus Unshiu Peel/Ginger/Jujube/Licorice/Magnolia Bark",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803364",
+ "revisions": [
+  {
+   "revision_id": "199803364-5639eeb4",
+   "content_sha256": "5639eeb4abf2f0e08d2a7a65d469dfc1f306138daf05c950664466fa2e2c55fa",
+   "ee_text": "식체(위체), 소화불량의 경향이 있는 다음 증상 : 급·만성위카타르, 위무력, 소화불량, 식욕감퇴(식욕부진)",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

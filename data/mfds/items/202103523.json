@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103523",
+ "item_name": "포스터200/6에이치에프에이흡입제",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20210429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257139]베클로메타손디프로피오네이트|[M258126]포르모테롤푸마르산염수화물(미분화)",
+ "main_item_ingr_eng": "Beclomethasone Dipropionate/Formoterol Fumarate Hydrate Micronized",
+ "edi_code": "670304701",
+ "atc_code": "R03AK08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103523",
+ "revisions": [
+  {
+   "revision_id": "202103523-3c88a653",
+   "content_sha256": "3c88a653cac9b166aeb1f81cb459296d942ec8db5565228f2a4a65b7e253a911",
+   "ee_text": "지속성 기관지 확장제와 흡입용 코르티코스테로이드의 병용요법이 적절하다고 판단된 천식의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:24Z",
+   "last_observed_at": "2026-08-28T13:25:24Z",
+   "official_revision_date": "2021-04-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:24Z"
+}

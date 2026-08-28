@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908060",
+ "item_name": "피펠트로정(도라비린)",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "20191122",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264557]도라비린",
+ "main_item_ingr_eng": "Doravirine",
+ "edi_code": "655502110",
+ "atc_code": "J05AG06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908060",
+ "revisions": [
+  {
+   "revision_id": "201908060-022065e4",
+   "content_sha256": "022065e405e605379f00db2876f1e4f6c62667b2e02cedccbaff15f715b5232e",
+   "ee_text": "이전 항레트로바이러스 치료 경험이 없거나, 기존 항레트로바이러스 치료 요법에 치료 실패 없이 적어도 6개월 이상 안정된 바이러스 수치 억제 효과를 보이며(HIV-1 RNA < 50 copies/mL) 도라비린에 대한 알려진 내성 관련 치환이 없는 성인 환자들의 HIV-1 감염 치료를 위한 다른 항레트로바이러스 제제와의 병용요법",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:25:13Z",
+   "last_observed_at": "2026-08-28T13:25:13Z",
+   "official_revision_date": "2020-05-21"
+  },
+  {
+   "revision_id": "201908060-d54b7037",
+   "content_sha256": "d54b7037928f6ac55ea811f671f0363853eb480e699501df61e180a808ad54c6",
+   "ee_text": "이전 항레트로바이러스 치료 경험이 없는 성인 환자들의 HIV-1 감염 치료를 위해 다른 항레트로바이러스 제제와 병용투여한다.",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-11-25",
+   "first_observed_at": "2026-08-28T13:25:13Z",
+   "last_observed_at": "2026-08-28T13:25:13Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:13Z"
+}

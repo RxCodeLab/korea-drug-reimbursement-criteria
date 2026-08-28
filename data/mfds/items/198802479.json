@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198802479",
+ "item_name": "스메르정(독시라민숙신산염)",
+ "entp_name": "지엘파마(주)",
+ "permit_date": "19881022",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250452]독시라민숙신산염",
+ "main_item_ingr_eng": "Doxylamine Succinate",
+ "edi_code": "",
+ "atc_code": "N05CM",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198802479",
+ "revisions": [
+  {
+   "revision_id": "198802479-e94d0d17",
+   "content_sha256": "e94d0d174a2681e0de6603dea1cf2cb1441ba85c602ec49cf046f97b35e362ca",
+   "ee_text": "불면증의 보조치료 및 진정",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:42Z",
+   "last_observed_at": "2026-08-28T13:23:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:42Z"
+}

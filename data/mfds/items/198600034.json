@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198600034",
+ "item_name": "신풍겐타마이신주80밀리그램",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "19860929",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202821]겐타마이신황산염",
+ "main_item_ingr_eng": "Gentamicin Sulfate",
+ "edi_code": "648501841",
+ "atc_code": "J01GB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600034",
+ "revisions": [
+  {
+   "revision_id": "198600034-f7aaac13",
+   "content_sha256": "f7aaac130e00d6d59cffc2f005176757dff148d009ef6a5027cf4b732303e065",
+   "ee_text": "녹농균, 대장균, 프로테우스, 포도구균(페니실린 및 메치실린 내성균포함), 클레브시엘라, 엔테로박터, 세라티아, 시트로박터, 살모넬라, 시겔라 - 패혈증(신생아 패혈증 포함) - 중추신경계 감염증(수막염 포함) - 요로감염증 - 호흡기감염증 - 위장관감염증(복막염 포함) - 피부, 골 및 연조직감염증(화상 및 창상 포함) - 그람음성균 감염증의 초기치료 - 원인균 미상시 초기치료(페니실린계 또는 세팔로스포린계 약물과 병용) - 녹농균에 의한 치명적 감염증(카르베니실린과 병용) - 심내막염(페니실린계 약물과 병용)",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:40Z"
+}

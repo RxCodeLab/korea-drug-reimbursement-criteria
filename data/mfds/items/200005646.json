@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005646",
+ "item_name": "경방회춘양격산산(단미엑스혼합제)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000814",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089552]지각엑스산|[M089524]생지황엑스산|[M089119]당귀엑스산|[M089555]박하엑스산|[M089522]황련엑스산|[M084832]길경엑스산|[M089503]치자엑스산|[M089535]황금엑스산|[M090093]작약엑스산|[M082727]감초엑스산|[M089560]연교엑스산",
+ "main_item_ingr_eng": "Angelica Gigas Root Extract Powder/Aurantii Fructus Immaturus Extract Powder/Coptis Rhizome Extract Powder/Forsythia Fruit Extract Powder/Gardenia Fruit Extract Powder/Glycyrrhiza Extract Powder/Mentha Herb Exract Powder/Peony Root Extract Powder/Platycodon Root Extract Powder/Rehmanniae Radix Recens Extract Powder/Scutellaria Root Extract Powder",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005646",
+ "revisions": [
+  {
+   "revision_id": "200005646-9ffab8db",
+   "content_sha256": "9ffab8db76a804e1d1cbc4908979daa7e6a691cd5d66815ae2c842365e05355c",
+   "ee_text": "한방건강보험용",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2019-09-05"
+  },
+  {
+   "revision_id": "200005646-ff32c91b",
+   "content_sha256": "ff32c91bc79dd19d6be1ba9bfba303a869ab8c21ce52fd7a656edc0351197cd7",
+   "ee_text": "한방의료보험용",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

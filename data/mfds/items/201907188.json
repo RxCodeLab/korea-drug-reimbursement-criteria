@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907188",
+ "item_name": "티뮤즈연질캡슐",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20191011",
+ "cancel_date": "20241011",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M258994]아스코르브산|[M279373]비타민E",
+ "main_item_ingr_eng": "Ascorbic Acid/Tocopherol",
+ "edi_code": "",
+ "atc_code": "A11GB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907188",
+ "revisions": [
+  {
+   "revision_id": "201907188-97b64ce4",
+   "content_sha256": "97b64ce4fb7ae92f64a73cbaf1cd3d686e946e7697036e4f0b99e14404203346",
+   "ee_text": "* 다음 경우의 비타민 E, C의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 * 이 약에 함유된 비타민등의 효능·효과는 다음과 같다. · 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨·목결림, 수족저림·수족냉증(손발 이 차가움)",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:25:12Z",
+   "last_observed_at": "2026-08-28T13:25:12Z",
+   "official_revision_date": "2020-01-13"
+  },
+  {
+   "revision_id": "201907188-362c6588",
+   "content_sha256": "362c6588f7a891486b840ee17559b9448c0eb5b60f5c5a126eab2b5be2c7ef00",
+   "ee_text": "* 다음 경우의 비타민 E, C의 보급 - 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하 - 노년기 * 이 약에 함유된 비타민등의 효능․효과는 다음과 같다. ․ 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨․목결림, 수족저림․수족냉증(손발 이 차가움)",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-10-11",
+   "first_observed_at": "2026-08-28T13:25:12Z",
+   "last_observed_at": "2026-08-28T13:25:12Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:12Z"
+}

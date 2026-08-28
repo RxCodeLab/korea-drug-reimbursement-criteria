@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199902684",
+ "item_name": "한미돔페리돈정10밀리그램(돔페리돈말레산염)(수출명:Domperid, Domperid-m)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "19990126",
+ "cancel_date": "20250919",
+ "status": "취하",
+ "main_item_ingr": "[M222961]돔페리돈말레산염",
+ "main_item_ingr_eng": "Domperidone Maleate",
+ "edi_code": "",
+ "atc_code": "A03FA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902684",
+ "revisions": [
+  {
+   "revision_id": "199902684-9b5c441d",
+   "content_sha256": "9b5c441d8ef4251d1207cb983668f34ce8d568047f8018aeadb738a6c30b582e",
+   "ee_text": "오심, 구토 증상의 완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199902684/EE",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z"
+  },
+  {
+   "revision_id": "199902684-d6db314c",
+   "content_sha256": "d6db314cbacda309e8df457f3b8f458b169cd3c0919bdd5565961cfe68cc8490",
+   "ee_text": "다음 질환 및 약물투여시의 소화불량증상 즉 구역, 구토, 식욕부진, 복부팽만감, 상복부불쾌감, 복통, 속쓰림, 트림 등의 증상에 사용한다. 성인 : 만성위염, 위하수, 역류식도염, 위절제 증후군, 항악성 종양제 또는 레보도파 투여시 소아 : 주기성구토, 상기도 감염, 항악성종양제 투여시",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:51Z"
+}

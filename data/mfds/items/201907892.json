@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907892",
+ "item_name": "레리진액(레보세티리진염산염)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20191113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244596]레보세티리진염산염",
+ "main_item_ingr_eng": "Levocetirizine Hydrochloride",
+ "edi_code": "642105961",
+ "atc_code": "R06AE09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907892",
+ "revisions": [
+  {
+   "revision_id": "201907892-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:25:13Z",
+   "last_observed_at": "2026-08-28T13:25:13Z",
+   "official_revision_date": "2021-03-15"
+  },
+  {
+   "revision_id": "201907892-c13fb533",
+   "content_sha256": "c13fb533834a8eabb6b9a62aa88fb6a615f1e96a3495c0084829923710cc2a36",
+   "ee_text": "다음질환의 증상완화",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-11-13",
+   "first_observed_at": "2026-08-28T13:25:13Z",
+   "last_observed_at": "2026-08-28T13:25:13Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:13Z"
+}

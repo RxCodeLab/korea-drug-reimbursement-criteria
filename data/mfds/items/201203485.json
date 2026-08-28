@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201203485",
+ "item_name": "알렌드로스플러스디정",
+ "entp_name": "국제약품(주)",
+ "permit_date": "20120426",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222873]알렌드론산나트륨수화물|[M218189]농축콜레칼시페롤(분말형)",
+ "main_item_ingr_eng": "Cholecalciferol Concentrate Powder/Sodium Alendronate Hydrate",
+ "edi_code": "643703460",
+ "atc_code": "M05BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201203485",
+ "revisions": [
+  {
+   "revision_id": "201203485-5a6a537c",
+   "content_sha256": "5a6a537c06d3f1fd429a11e6958237abbad8e66fc02321b9163e7916f212cfb5",
+   "ee_text": "폐경 후 여성의 골다공증 치료 남성의 골다공증 치료",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:27Z",
+   "last_observed_at": "2026-08-28T13:24:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:27Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002082",
+ "item_name": "메가발탄정160밀리그램(발사르탄)",
+ "entp_name": "(주)엘앤씨바이오",
+ "permit_date": "20200325",
+ "cancel_date": "20240904",
+ "status": "취하",
+ "main_item_ingr": "[M090403]발사르탄",
+ "main_item_ingr_eng": "Valsartan",
+ "edi_code": "",
+ "atc_code": "C09CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002082",
+ "revisions": [
+  {
+   "revision_id": "202002082-0fef0dbb",
+   "content_sha256": "0fef0dbb43fd7e613439deb30f80f839475410a1752adf3338535355f4312021",
+   "ee_text": "(정제) * 40, 80, 160 mg 1. 본태고혈압 2. 심부전 ACE억제제에 불내성(intolerant)인 심부전(NYHA class Ⅱ ∼ Ⅳ) 3. 심근경색 후의 사망 위험성 감소 증상, 증후 혹은 방사선학적으로 좌심실 부전 및/또는 좌심실 수축 기능 부전을 가진 임상적으로 안정된 환자에서의 심근경색 후 사망 위험성 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:16Z",
+   "last_observed_at": "2026-08-28T13:25:16Z",
+   "official_revision_date": "2020-03-25"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:16Z"
+}

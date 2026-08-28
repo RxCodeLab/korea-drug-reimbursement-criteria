@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200710845",
+ "item_name": "스프린트쿨플라스타(수출용)",
+ "entp_name": "아이큐어(주)",
+ "permit_date": "20070927",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279284]L-멘톨|[M070611]살리실산글리콜|[M279284]L-멘톨|[M070611]살리실산글리콜|[M279284]L-멘톨|[M070611]살리실산글리콜|[M279284]L-멘톨|[M070611]살리실산글리콜",
+ "main_item_ingr_eng": "Glycol Salicylate/L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710845",
+ "revisions": [
+  {
+   "revision_id": "200710845-16ecfd1e",
+   "content_sha256": "16ecfd1e9d5db1b0f5e16d70788b0758f019f0ae449f97f1e9ea02b379c6a0bb",
+   "ee_text": "요통, 타박상, 삠, 어깨결림, 관절통, 근육통, 근육피로, 1도동상, 골절통",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:24:14Z",
+   "last_observed_at": "2026-08-28T13:24:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:14Z"
+}

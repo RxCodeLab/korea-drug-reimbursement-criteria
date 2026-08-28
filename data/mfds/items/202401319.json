@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401319",
+ "item_name": "판셀디콘정",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20240528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M227778]디메티콘|[M273864]우담즙 건조엑스|[M100297]셀룰라제|[M040678]판크레아틴",
+ "main_item_ingr_eng": "Cellulase/Dimethicone/Ox Bile Dried Extract/Pancreatin",
+ "edi_code": "",
+ "atc_code": "A09AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401319",
+ "revisions": [
+  {
+   "revision_id": "202401319-faa96ed2",
+   "content_sha256": "faa96ed2643de4c9c73d41b5146a173b469085d1575f700e67576f1feb726f28",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부(상복부)팽만감",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:36Z",
+   "last_observed_at": "2026-08-28T13:25:36Z",
+   "official_revision_date": "2024-05-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:36Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197400011",
+ "item_name": "치노정(을자탕)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19741125",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040006]감초|[M040070]당귀|[M040073]대황|[M040329]승마|[M040789]황금|[M040336]시호",
+ "main_item_ingr_eng": "Angelica Gigas Root/Bupleurum Root/Cimicifuga Rhizome/Licorice/Rhubarb/Scutellaria Root",
+ "edi_code": "",
+ "atc_code": "A06A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400011",
+ "revisions": [
+  {
+   "revision_id": "197400011-d3e514f9",
+   "content_sha256": "d3e514f9c98df341c7fa1af87947534c3c731aa42277231f6ce666ceff835380",
+   "ee_text": "대변이 굳고(딱딱하며) 변비 경향이 있는 사람의 다음 증상 : 치핵, 치열, 변비",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

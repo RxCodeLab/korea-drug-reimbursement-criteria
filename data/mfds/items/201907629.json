@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907629",
+ "item_name": "트리플라정",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20191031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095415]브로멜라인|[M051649]결정트립신",
+ "main_item_ingr_eng": "Bromelain/Crystallized Trypsin",
+ "edi_code": "",
+ "atc_code": "M09AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907629",
+ "revisions": [
+  {
+   "revision_id": "201907629-6c9494cf",
+   "content_sha256": "6c9494cfce915c20dad060c694c8e562e43838f14c41a7ebacfcb6fa063f2d38",
+   "ee_text": "다음 질환 및 증상의 염증성 부종의 완화 : 수술 및 외상후, 유즙울체",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:12Z",
+   "last_observed_at": "2026-08-28T13:25:12Z",
+   "official_revision_date": "2019-10-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:12Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200307893",
+ "item_name": "클리노레익20%주사(플라스틱백)",
+ "entp_name": "주식회사박스터코리아",
+ "permit_date": "20030707",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102759]정제올리브유|[M251255]정제콩기름",
+ "main_item_ingr_eng": "Purified Olive Oil/Refined Soyabean Oil",
+ "edi_code": "078200121,078200131,646601021",
+ "atc_code": "B05BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307893",
+ "revisions": [
+  {
+   "revision_id": "200307893-5d9a54a0",
+   "content_sha256": "5d9a54a00642f5c76708be9e0f9dfaea12c7a95451fbf3ec3db62dd8478133ba",
+   "ee_text": "비경구 영양보급을 요하는 환자에 대한 칼로리 및 필수 지방산 공급",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

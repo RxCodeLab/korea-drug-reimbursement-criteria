@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007321",
+ "item_name": "뮤코나주사(아세틸시스테인)(바이알)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20201026",
+ "cancel_date": "20251026",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050972]아세틸시스테인",
+ "main_item_ingr_eng": "Acetylcysteine",
+ "edi_code": "",
+ "atc_code": "R05CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007321",
+ "revisions": [
+  {
+   "revision_id": "202007321-3e96b3c9",
+   "content_sha256": "3e96b3c99cab8329d889bfa28341ad201fa614b3c992f0cb95ab1764e3cdcc2c",
+   "ee_text": "1. 진하고 점도높은 가래를 수반하는 다음의 기관지 질환에서의 객담배출곤란 증상 : 1) 성인 : 급·만성 기관지염, 기관지확장증, 천식모양기관기지염, 인·후두염, 부비동염, 낭성섬유증, 수술후 폐합병증 2) 소아 : 급·만성 기관지염, 낭성섬유증 2. 아세트아미노펜 중독의 해독",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z",
+   "official_revision_date": "2020-10-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:21Z"
+}

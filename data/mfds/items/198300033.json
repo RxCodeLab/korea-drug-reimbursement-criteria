@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300033",
+ "item_name": "한풍귀기건중탕엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19830803",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040006]감초|[M040007]건강|[M040070]당귀|[M040071]대추|[M040790]황기|[M050037]계지|[M040523]작약",
+ "main_item_ingr_eng": "Angelica Gigas Root/Astragalus Root/Cinnamomi Ramulus/Ginger/Jujube/Licorice/Peony Root",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300033",
+ "revisions": [
+  {
+   "revision_id": "198300033-20a0667b",
+   "content_sha256": "20a0667b060eb6df0454baeadcffd80bcaae2c06a49a9a56f5388f68cd81792c",
+   "ee_text": "신체가 허약하고 피로하기 쉬운 사람의 다음 증상 : 허약체질, 병후쇠약, 도한(盜汗, 야간에 자는 동안 땀이 나지만 느끼지 못하고 깨어나면 땀이 그치는 증상)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198300033/EE",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z"
+  },
+  {
+   "revision_id": "198300033-833fc070",
+   "content_sha256": "833fc070b044fa52e621eaa3e30dfb070a219a8ddf085e9d6673667b42c3e6d4",
+   "ee_text": "신체가 허약하고 피로하기 쉬운 사람의 다음 증상 : 허약체질, 병후 쇠약, 도한(盜汗, 야간에 자는 동안 땀이 나지만 느끼지 못하고 깨 어나면 땀이 그치는 증상)",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:38Z"
+}

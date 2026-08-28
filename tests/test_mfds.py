@@ -61,6 +61,7 @@ def write_normalized(directory, titles):
 def no_sleep(monkeypatch, tmp_path):
     monkeypatch.setattr(fetch_mfds, "REQUEST_SLEEP", 0)
     monkeypatch.setattr(fetch_mfds, "SYNC_PATH", tmp_path / "sync-state.json")
+    monkeypatch.setattr(fetch_mfds, "BACKFILL_PATH", tmp_path / "backfill-state.json")
 
 
 def test_normalize_ee_strips_tags_unescapes_and_collapses():
@@ -598,6 +599,15 @@ def test_all_search_failures_exit_nonzero(monkeypatch, tmp_path):
 
 def test_incremental_mode_uses_change_feed(monkeypatch, tmp_path, capsys):
     """동기화 상태가 있으면 검색 대신 변경분 질의로 갱신·유관 신규만 처리한다."""
+    real_executor = fetch_mfds.ThreadPoolExecutor
+    worker_counts = []
+
+    def recording_executor(*args, **kwargs):
+        worker_counts.append(kwargs.get("max_workers"))
+        return real_executor(*args, **kwargs)
+
+    monkeypatch.setattr(fetch_mfds, "ThreadPoolExecutor", recording_executor)
+    monkeypatch.setattr(fetch_mfds, "today_kst", lambda: "20200131")
     monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
     monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
         tmp_path / "normalized", ["Clonazepam 경구제"],
@@ -623,21 +633,24 @@ def test_incremental_mode_uses_change_feed(monkeypatch, tmp_path, capsys):
         if url == fetch_mfds.HISTORY_URL:
             raise RuntimeError("이번 테스트는 이력 없음")
         if "start_change_date" in params:
-            assert params["start_change_date"] == "20260820"
+            assert params["start_change_date"] == "20200101"
             return envelope({"totalCount": str(len(changed_rows)), "items": changed_rows})
         search_calls.append(dict(params))
         return envelope({"totalCount": "0"})
 
     monkeypatch.setattr(fetch_mfds, "http_get", respond)
-    assert fetch_mfds.main(["--skip-history"]) == 0
+    assert fetch_mfds.main([
+        "--skip-history", "--incremental-workers", "2", "--changes-since", "20200101",
+    ]) == 0
 
     # 검색어는 이미 본 것뿐이라 검색 질의가 없어야 한다
+    assert worker_counts == [2]
     assert search_calls == []
     assert sorted(p.stem for p in items.glob("*.json")) == ["61", "62"]
     updated = json.loads((items / "61.json").read_text(encoding="utf-8"))
     assert updated["revisions"][0]["ee_text"] == "개정된 적응증"
     sync = json.loads(fetch_mfds.SYNC_PATH.read_text(encoding="utf-8"))
-    assert sync["last_change_date"] == fetch_mfds.today_kst()
+    assert sync["last_change_date"] == "20260820"
     assert "변동 없음=0건" in capsys.readouterr().out
 
 
@@ -717,3 +730,46 @@ def test_main_skip_history_leaves_item_pending_backfill(monkeypatch, tmp_path):
         assert fetch_mfds.main(["--max-terms", "1", "--skip-history"]) == 0
 
     assert fetch_mfds.history_pending("71", items) is True
+
+
+def test_backfill_resumes_after_last_completed_month(monkeypatch, tmp_path):
+    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
+    monkeypatch.setattr(fetch_mfds, "today_kst", lambda: "20200229")
+    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
+        tmp_path / "normalized", ["Clonazepam 경구제"],
+    ))
+    items = tmp_path / "items"
+    items.mkdir()
+    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
+    fetch_mfds.merge_item(
+        api_item(81, MAIN_ITEM_INGR="[M1]클로나제팜"), items, "2020-01-01T00:00:00Z",
+    )
+    fetch_mfds.save_sync("20200229", {"Clonazepam"})
+    calls = []
+
+    def fail_february(url, params=None, retries=3):
+        params = params or {}
+        if "start_change_date" not in params:
+            return envelope({"totalCount": "0"})
+        calls.append(params["start_change_date"])
+        if params["start_change_date"] == "20200201":
+            raise RuntimeError("temporary")
+        return envelope({"totalCount": "0", "items": []})
+
+    monkeypatch.setattr(fetch_mfds, "http_get", fail_february)
+    assert fetch_mfds.main(["--changes-since", "20200101", "--skip-history"]) == 1
+    state = json.loads(fetch_mfds.BACKFILL_PATH.read_text(encoding="utf-8"))
+    assert calls == ["20200101", "20200201"]
+    assert state["next_date"] == "20200201"
+
+    calls.clear()
+    monkeypatch.setattr(
+        fetch_mfds, "http_get",
+        lambda url, params=None, retries=3: (
+            calls.append(params["start_change_date"])
+            or envelope({"totalCount": "0", "items": []})
+        ),
+    )
+    assert fetch_mfds.main(["--changes-since", "20200101", "--skip-history"]) == 0
+    assert calls == ["20200201"]
+    assert not fetch_mfds.BACKFILL_PATH.exists()

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900536",
+ "item_name": "쎄이칼정(수출명:칼슘포르트씨디(CalciumFortCD))",
+ "entp_name": "(주)유한양행",
+ "permit_date": "19991029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M113501]농축콜레칼시페롤 산|[M091374]무수인산수소칼슘|[M222935]글루콘산칼슘수화물|[M258994]아스코르브산|[M222998]L-리신염산염",
+ "main_item_ingr_eng": "Anhydrous Dibasic Calcium Phosphate/Ascorbic Acid/Calcium Gluconate Hydrate/Cholecalciferol Concentrate Powder/L-Lysine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900536",
+ "revisions": [
+  {
+   "revision_id": "199900536-3ab2127a",
+   "content_sha256": "3ab2127a0fb6ecf9c1065d959248dd350ba3520a69e6b7a133eb67a76a442ddb",
+   "ee_text": "칼슘의 결핍 및 기타 칼슘의 보급",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

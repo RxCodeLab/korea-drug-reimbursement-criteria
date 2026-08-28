@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200004479",
+ "item_name": "감바로과립",
+ "entp_name": "한솔신약(주)",
+ "permit_date": "20000907",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040417]에텐자미드|[M040007]건강|[M040006]감초|[M040523]작약|[M050036]육계|[M040071]대추|[M040135]마황|[M223183]카페인무수물|[M040059]노스카핀|[M223211]클로르페니라민말레산염|[M040004]갈근",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/Cinnamon Bark/Ephedra Herb/Ethenzamide/Ginger/Jujube/Licorice/Noscapine/Peony Root/Pueraria Root",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004479",
+ "revisions": [
+  {
+   "revision_id": "200004479-3272d971",
+   "content_sha256": "3272d9716a5214a0bd70f2685e51168694a43476bae46fd3d8b2b29dc185b968",
+   "ee_text": "감기 제증상 (콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2019-01-22"
+  },
+  {
+   "revision_id": "200004479-8707b93f",
+   "content_sha256": "8707b93f00c7c0f4d766a5aa64605eed450dbb0377fae1f7670d9f7dd639f8ba",
+   "ee_text": "감기 제증상 (콧물, 코막힘, 재채기, 인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

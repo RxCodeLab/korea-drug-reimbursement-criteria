@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301479",
+ "item_name": "이벤캡슐",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20031217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204304]피리독신염산염|[M040064]니코틴산아미드|[M223167]우르소데옥시콜산|[M222995]리보플라빈부티레이트|[M050704]비오틴",
+ "main_item_ingr_eng": "Biotin/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301479",
+ "revisions": [
+  {
+   "revision_id": "200301479-dafac16d",
+   "content_sha256": "dafac16d72eea01c7b41c35fa7ffcce1ea4d0912bb23b6a61f949843cea35a41",
+   "ee_text": "2 , B 6 의 보급\">",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z",
+   "official_revision_date": "2026-08-25"
+  },
+  {
+   "revision_id": "200301479-f809c6a5",
+   "content_sha256": "f809c6a516f22225c14818bd181778336f52b26d85b4fb21194c3689e4de286b",
+   "ee_text": "이 약에 함유된 비타민 등의 효능·효과는 다음과 같다.(1일 보급량 기준) · 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
+   "ee_doc_id": "16",
+   "official_revision_date": "2026-05-13",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z"
+  },
+  {
+   "revision_id": "200301479-c16a32aa",
+   "content_sha256": "c16a32aaa4628ba2a6e94459c34ff70b5a4e4e146037a27f70c4d47582943e1d",
+   "ee_text": "·구각염, 구순염, 구내염, 설염, 습진, 피부염, 옻, 진무름, 여드름 및 피부가 튼 데의 완화 ·피로, 임신·수유기 및 병중·병후의 비타민 B2, B6 보급",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:02Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201581",
+ "item_name": "보두레아크림(우레아)(수출명:EUSOFTYL Cream)",
+ "entp_name": "에이치엘비제약(주)",
+ "permit_date": "20021014",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M089404]우레아|[M089404]우레아",
+ "main_item_ingr_eng": "Urea",
+ "edi_code": "647300411",
+ "atc_code": "D02AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201581",
+ "revisions": [
+  {
+   "revision_id": "200201581-5b78e475",
+   "content_sha256": "5b78e475308a059a3883b14bb57aa31bab9f308d9fcf244c1ddcb03539f6ad69",
+   "ee_text": "진행성 지장각피증(주부습진의 건조형), 손ㆍ발바닥 각피증, 어린선(魚鱗蘚), 노인성 건피증(피부건조증), 모공성 태선, 아토피피부",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

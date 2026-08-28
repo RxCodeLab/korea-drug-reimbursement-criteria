@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198200036",
+ "item_name": "조위룡과립(조위승기탕엑스과립)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19820520",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040006]감초|[M088654]망초|[M040073]대황",
+ "main_item_ingr_eng": "Licorice/Natrii Sulfas/Rhubarb",
+ "edi_code": "",
+ "atc_code": "A06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200036",
+ "revisions": [
+  {
+   "revision_id": "198200036-8ff00411",
+   "content_sha256": "8ff00411e105f07b7dfcee63f3cbc142be0532eb0e36e59eb1e7bae65cec8d1c",
+   "ee_text": "변비",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:38Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402249",
+ "item_name": "삼현클로르헥시딘2%액(클로르헥시딘글루콘산염액)",
+ "entp_name": "주식회사삼현제약",
+ "permit_date": "20240913",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액|[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "",
+ "atc_code": "D08AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402249",
+ "revisions": [
+  {
+   "revision_id": "202402249-8d6cf31f",
+   "content_sha256": "8d6cf31f1644008cb8b44e2a2a5fac051e5601c28a3a8be85f418e1f25d45cb7",
+   "ee_text": "보건위생종사자의 손 소독",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:36Z",
+   "last_observed_at": "2026-08-28T13:25:36Z",
+   "official_revision_date": "2024-09-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:36Z"
+}

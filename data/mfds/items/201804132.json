@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804132",
+ "item_name": "바제디플러스정",
+ "entp_name": "(주)메디카코리아",
+ "permit_date": "20181018",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253432]바제독시펜아세테이트|[M102050]콜레칼시페롤농축분말",
+ "main_item_ingr_eng": "Bazedoxifene Acetate/Cholecalciferol Concentrate Powder",
+ "edi_code": "646005340",
+ "atc_code": "G03XC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804132",
+ "revisions": [
+  {
+   "revision_id": "201804132-59b781e9",
+   "content_sha256": "59b781e9eca647496b976ef2d93e0a3f72f832bdfdf9b53b8b5e393bbada6666",
+   "ee_text": "폐경 후 여성의 골다공증 치료 및 예방 단, 이 약은 척추골절의 발생은 감소시켰으나, 비척추성골절에 대한 유효성은 확립되지 않았다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:02Z",
+   "last_observed_at": "2026-08-28T13:25:02Z",
+   "official_revision_date": "2018-10-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:02Z"
+}

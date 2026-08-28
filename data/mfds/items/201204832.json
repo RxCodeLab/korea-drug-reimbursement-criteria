@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201204832",
+ "item_name": "티나아이점안액",
+ "entp_name": "한솔신약(주)",
+ "permit_date": "20120521",
+ "cancel_date": "20251001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Potassium Chloride/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201204832",
+ "revisions": [
+  {
+   "revision_id": "201204832-77fba31e",
+   "content_sha256": "77fba31e9635f482b8079e6b6c20224f71ad312677deca5d89158d08f7f5ba7a",
+   "ee_text": "눈의 피로, 누액(눈물)의 보조(눈의 건조), 하드콘택트렌즈 또는 소프트렌즈 착용 시 불쾌감, 눈의 침침함. (눈곱이 많을 때 등)",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:27Z",
+   "last_observed_at": "2026-08-28T13:24:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:27Z"
+}

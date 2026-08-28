@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200302",
+ "item_name": "디에취덱스액0.15%1호액",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20020906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040702]포도당|[M227966]아세트산나트륨수화물|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose/Magnesium Chloride/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride",
+ "edi_code": "645101240,645105081",
+ "atc_code": "B05ZA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200302",
+ "revisions": [
+  {
+   "revision_id": "200200302-2163387d",
+   "content_sha256": "2163387d86ef3e1d91698527cb9e0053bef8d489c66a24a00125ca51e7735d54",
+   "ee_text": "1. 탄산수소농도가 높은 탄산수소형 투석액에서는 중증 알칼리증을 일으킬 수 있는 경우 2. 당농도가 낮은 투석액에서는 당뇨병 등 혈당치 관리가 곤란하고 투석개시 시 높은 혈당치(200mg/dL정도)를 보이는 경우 3. 칼륨, 마그네슘이 높은 투석액에서는 고칼륨혈증, 고마그네슘혈증의 개선이 불충분한 경우",
+   "ee_doc_id": "27",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2005-07-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

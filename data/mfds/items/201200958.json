@@ -12,15 +12,15 @@
  "edi_code": "643103491",
  "atc_code": "S01XA18",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200958",
+ "history_fetched_at": "2026-08-27T12:28:54Z",
  "revisions": [
   {
    "revision_id": "201200958-369ba08c",
    "content_sha256": "369ba08c1e0448b71f5fbb42bc11dd6c4ae36426c41006d7f17bf61d87dc4c42",
    "ee_text": "다음 질환으로 인해 눈물 생성이 억제된 환자에 있어 눈물 생성의 증가 : 건조각결막염과 관련된 안염증",
-   "ee_doc_id": "27",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201200958/EE",
    "first_observed_at": "2026-08-27T12:28:54Z",
-   "last_observed_at": "2026-08-27T12:28:54Z",
-   "official_revision_date": "2026-07-03"
+   "last_observed_at": "2026-08-28T13:24:27Z"
   },
   {
    "revision_id": "201200958-8264f5db",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:28:54Z",
    "last_observed_at": "2026-08-27T12:28:54Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:28:54Z"
+ ]
 }

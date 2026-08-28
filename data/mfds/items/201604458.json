@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604458",
+ "item_name": "제뉴파마한방만통고카타플라스마",
+ "entp_name": "(주)제뉴파마",
+ "permit_date": "20160719",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207935]치자연조엑스(3.0→1)|[M209235]산초30%에탄올연조엑스(3.3→1)|[M070611]살리실산글리콜|[M230875]l-멘톨|[M204423]dl-캄파|[M050096]글리시리진산|[M223240]토코페롤아세테이트|[M213350]황백연조엑스(3.3→1)|[M223240]토코페롤아세테이트|[M213350]황백연조엑스(3.3→1)|[M207935]치자연조엑스(3.0→1)|[M209235]산초30%에탄올연조엑스(3.3→1)|[M070611]살리실산글리콜|[M230875]l-멘톨|[M204423]dl-캄파|[M050096]글리시리진산",
+ "main_item_ingr_eng": "DL-Camphor/Gardenia Fruit Soft Extract (3.0→1)/Glycol Salicylate/Glycyrrhizic Acid/L-Menthol/Phellodendron Bark Soft Extract (3.3→1)/Tocopherol Acetate/Zanthoxylum Peel 30% Ethanol Soft Extract (3.3→1)",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604458",
+ "revisions": [
+  {
+   "revision_id": "201604458-54a6af7b",
+   "content_sha256": "54a6af7b4247205da689d28521502e28c945ebf1af03f6d3519d5d851d810b85",
+   "ee_text": "다음증상의 진통ㆍ소염(항염) : 삠, 타박상, 근육통, 관절통, 요(허리)통, 어깨결림, 동창(언 상처)",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:51Z",
+   "last_observed_at": "2026-08-28T13:24:51Z",
+   "official_revision_date": "2021-10-26"
+  },
+  {
+   "revision_id": "201604458-5aff6f4a",
+   "content_sha256": "5aff6f4a336d8f7d55c75a091158a9dc979d0d57f506f85402dd991210011672",
+   "ee_text": "다음증상의 진통ㆍ소염 : 삠, 타박상, 근육통, 관절통, 요(허리)통, 어깨결림, 동창(언 상처)",
+   "ee_doc_id": "8",
+   "official_revision_date": "2020-07-27",
+   "first_observed_at": "2026-08-28T13:24:51Z",
+   "last_observed_at": "2026-08-28T13:24:51Z"
+  },
+  {
+   "revision_id": "201604458-d3eb27fa",
+   "content_sha256": "d3eb27fad391b513d041efeba44c05eb97d242be1584bb09db596d063a04d91a",
+   "ee_text": "다음증상의 진통ㆍ소염 : 삠, 타박상, 근육통, 관절통, 요통, 어께결림, 동창",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:51Z",
+   "last_observed_at": "2026-08-28T13:24:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:51Z"
+}

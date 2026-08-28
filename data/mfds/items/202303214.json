@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303214",
+ "item_name": "프리고시럽",
+ "entp_name": "경진제약(주)",
+ "permit_date": "20231124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204304]피리독신염산염|[M223183]카페인무수물|[M040096]디멘히드리네이트|[M204304]피리독신염산염|[M223183]카페인무수물|[M040096]디멘히드리네이트",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Dimenhydrinate/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A04AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303214",
+ "revisions": [
+  {
+   "revision_id": "202303214-435d1318",
+   "content_sha256": "435d131894e2f05e870de606737dde1e20860f327c4edecdd997f8c55430a18c",
+   "ee_text": "멀미에 의한 어지러움.구토.두통의 예방 및 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:35Z",
+   "last_observed_at": "2026-08-28T13:25:35Z",
+   "official_revision_date": "2023-11-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:35Z"
+}

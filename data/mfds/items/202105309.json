@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105309",
+ "item_name": "빌다글메트정50/500밀리그램(빌다글립틴,메트포르민)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20210713",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268387]빌다글립틴염산염|[M244179]메트포르민염산염",
+ "main_item_ingr_eng": "Metformin Hydrochloride/Vildagliptin Hydrochloride",
+ "edi_code": "643508420",
+ "atc_code": "A10BD08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105309",
+ "revisions": [
+  {
+   "revision_id": "202105309-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:25:25Z",
+   "last_observed_at": "2026-08-28T13:25:25Z",
+   "official_revision_date": "2021-11-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:25Z"
+}

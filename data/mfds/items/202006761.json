@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006761",
+ "item_name": "이부스타플라스타(이부프로펜)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20201006",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜",
+ "main_item_ingr_eng": "Ibuprofen",
+ "edi_code": "",
+ "atc_code": "M02AA13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006761",
+ "revisions": [
+  {
+   "revision_id": "202006761-2073f75a",
+   "content_sha256": "2073f75a4d57d4b9f4c7bf6cd82da367fae9f1aac13453049dee80157d3f69cb",
+   "ee_text": "다음 질환 및 증상의 진통·소염(항염): 골관절염, 어깨관절주위염, 건.건초염(힘줄염.힘줄윤활막염), 건주위염(힘줄주위염), 상과염(테니스 엘보우 등), 근육통, 외상후의 종창(부기).동통(통증)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z",
+   "official_revision_date": "2020-10-06"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:21Z"
+}

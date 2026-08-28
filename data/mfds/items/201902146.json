@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902146",
+ "item_name": "아스낙CR정(아세클로페낙)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20190408",
+ "cancel_date": "20240408",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040359]아세클로페낙|[M040359]아세클로페낙",
+ "main_item_ingr_eng": "Aceclofenac",
+ "edi_code": "",
+ "atc_code": "M01AB16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902146",
+ "revisions": [
+  {
+   "revision_id": "201902146-c4827eaf",
+   "content_sha256": "c4827eafdef8c66707d35d2961e47bfe1f6e33c7ead3d2c0837fa0c94bff0ef3",
+   "ee_text": "류마티스관절염, 강직척추염, 골관절염(퇴행관절염) 및 견갑상완골의 관절주위염, 요통, 좌골통, 비관절성 류머티즘으로 인한 통증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:05Z",
+   "last_observed_at": "2026-08-28T13:25:05Z",
+   "official_revision_date": "2019-04-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:05Z"
+}

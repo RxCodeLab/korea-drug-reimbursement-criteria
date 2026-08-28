@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301148",
+ "item_name": "레포소정",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20230405",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083616]사인가루|[M082517]건강가루|[M095415]브로멜라인|[M050379]리파제|[M223083]시메티콘|[M223167]우르소데옥시콜산|[M040678]판크레아틴",
+ "main_item_ingr_eng": "Amomum Fruit Powder/Bromelain/Ginger Powder/Lipase/Pancreatin/Simethicone/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301148",
+ "revisions": [
+  {
+   "revision_id": "202301148-84f1c81e",
+   "content_sha256": "84f1c81e3243e9d3d0a136daf4d2a661b0a160080bd3950ee0b091f997b940af",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감, 구역, 구토",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:33Z",
+   "last_observed_at": "2026-08-28T13:25:33Z",
+   "official_revision_date": "2023-04-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:33Z"
+}

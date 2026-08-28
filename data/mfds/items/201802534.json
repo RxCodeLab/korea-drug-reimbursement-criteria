@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802534",
+ "item_name": "휴텍스아스피린장용정100mg(아스피린)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20180619",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040355]아스피린",
+ "main_item_ingr_eng": "Aspirin",
+ "edi_code": "649103940",
+ "atc_code": "B01AC06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802534",
+ "revisions": [
+  {
+   "revision_id": "201802534-bde37d34",
+   "content_sha256": "bde37d348b0ac24540f4da31e969cb8eaa6359b5b5a9734649d553848439412c",
+   "ee_text": "· 심근경색 · 뇌경색 · 불안정형 협심증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:00Z",
+   "last_observed_at": "2026-08-28T13:25:00Z",
+   "official_revision_date": "2018-06-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:00Z"
+}

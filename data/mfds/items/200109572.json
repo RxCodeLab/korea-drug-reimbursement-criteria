@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109572",
+ "item_name": "콘투락투벡스겔",
+ "entp_name": "(주)메디팁",
+ "permit_date": "20010406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249378]헤파린나트륨|[M267385]세파연조엑스(1.8→1)|[M051015]알란토인",
+ "main_item_ingr_eng": "Allantoin/Cepae Soft Extract (1.8→1)/Heparin Sodium",
+ "edi_code": "",
+ "atc_code": "D03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109572",
+ "revisions": [
+  {
+   "revision_id": "200109572-8a0061c1",
+   "content_sha256": "8a0061c168dbc50dcb1f227f53c78e9a07df77dfc4da622576cd88a87918041c",
+   "ee_text": "수술, 절단, 화상, 사고후의 비대성·켈로이드성, 운동제한성 또는 미용적 피부손상시의 상처 및 흉터, 외상성 경축, 상흔성 협착",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:59Z",
+   "last_observed_at": "2026-08-28T13:23:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:59Z"
+}

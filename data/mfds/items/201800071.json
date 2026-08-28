@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800071",
+ "item_name": "뉴세레틴정(레보세티리진염산염)",
+ "entp_name": "안국뉴팜(주)",
+ "permit_date": "20180105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244596]레보세티리진염산염",
+ "main_item_ingr_eng": "Levocetirizine Hydrochloride",
+ "edi_code": "053600530",
+ "atc_code": "R06AE09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800071",
+ "revisions": [
+  {
+   "revision_id": "201800071-61ce5d0e",
+   "content_sha256": "61ce5d0e15d258dc443eeb735e94af3a18942cfc2c4d4f554edbf10891b1f902",
+   "ee_text": "다음 질환의 증상 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:58Z",
+   "last_observed_at": "2026-08-28T13:24:58Z",
+   "official_revision_date": "2018-01-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:58Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101955",
+ "item_name": "한신소기음액(삼소음)",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20010816",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051351]지각|[M040048]길경|[M040538]진피|[M040225]복령|[M040004]갈근|[M040202]반하|[M051318]전호|[M040213]인삼|[M040006]감초|[M040007]건강|[M040071]대추|[M051301]자소엽",
+ "main_item_ingr_eng": "Aurantii Fructus Immaturus/Citrus Unshiu Peel/Ginger/Ginseng/Jujube/Licorice/Perilla Leaf/Peucedani Radix/Pinellia Tuber/Platycodon Root/Poria/Pueraria Root",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101955",
+ "revisions": [
+  {
+   "revision_id": "200101955-1d8ad717",
+   "content_sha256": "1d8ad7175395429583ea7705c6c9410f1fceeb89190754108d9511b83c9248f4",
+   "ee_text": "감기에 의한 두통, 발열, 기침",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2009-04-30"
+  },
+  {
+   "revision_id": "200101955-ba471e66",
+   "content_sha256": "ba471e66734c364079ed026fca9bbc6ada6e2c2e2751d66984f5dc164ca3002b",
+   "ee_text": "(과립제)(산제)(환제) 감기, 기침 (액제) 감기에 의한 두통, 발열, 기침",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

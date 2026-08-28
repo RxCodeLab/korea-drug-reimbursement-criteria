@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002616",
+ "item_name": "마락틴정(수출명:NewmatinTabBMg-B6Tablet)(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20000518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255050]락트산마그네슘수화물|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Magnesium Lactate Hydrate/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A12CC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002616",
+ "revisions": [
+  {
+   "revision_id": "200002616-ee722e49",
+   "content_sha256": "ee722e49e8748ce73befec24d5ee6ecfea497a6f950baf7c3fd2722a94a3fef5",
+   "ee_text": "○ 마그네슘 결핍으로 인한 근육 경련",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:55Z",
+   "last_observed_at": "2026-08-28T13:23:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:55Z"
+}

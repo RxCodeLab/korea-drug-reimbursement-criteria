@@ -12,15 +12,15 @@
  "edi_code": "652100650",
  "atc_code": "N05CF02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700636",
+ "history_fetched_at": "2026-08-27T12:30:42Z",
  "revisions": [
   {
    "revision_id": "200700636-556cb3d0",
    "content_sha256": "556cb3d09d78232f3053baa76bb3ff2f77601739194ec7b99c4478cd77fcdf35",
    "ee_text": "잠들기 어렵거나 숙면유지가 어려운 성인에서의 불면증의 단기 치료",
-   "ee_doc_id": "22",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200700636/EE",
    "first_observed_at": "2026-08-27T12:30:42Z",
-   "last_observed_at": "2026-08-27T12:30:42Z",
-   "official_revision_date": "2019-12-23"
+   "last_observed_at": "2026-08-28T13:24:11Z"
   },
   {
    "revision_id": "200700636-18c6f6e4",
@@ -40,6 +40,5 @@
    "first_observed_at": "2026-08-27T12:30:42Z",
    "last_observed_at": "2026-08-27T12:30:42Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:30:42Z"
+ ]
 }

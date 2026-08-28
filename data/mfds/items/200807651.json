@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200807651",
+ "item_name": "사르발탄플러스정80/12.5",
+ "entp_name": "(주)서울제약",
+ "permit_date": "20080710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090403]발사르탄|[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Valsartan",
+ "edi_code": "652902300",
+ "atc_code": "C09DA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807651",
+ "revisions": [
+  {
+   "revision_id": "200807651-962ec495",
+   "content_sha256": "962ec495df30cabe1b2e5a729a5b631e93f9548b33e5d84000c2ee77b855b0cf",
+   "ee_text": "단일요법으로 혈압이 적절하게 조절되지 않은 본태고혈압",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:18Z",
+   "last_observed_at": "2026-08-28T13:24:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:18Z"
+}

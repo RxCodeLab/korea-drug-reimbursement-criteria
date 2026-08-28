@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101026",
+ "item_name": "이가탄에스캅셀(수출용)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20010223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051110]염화리소짐|[M240616]건조초산토코페롤50%|[M085471]건조피토나디온5%|[M083984]아스코르빈산칼슘",
+ "main_item_ingr_eng": "Calcium Ascorbate Hydrate/Dried Phytonadione 5%/Dried Tocopherol Acetate 50%/Lysozyme Chloride",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101026",
+ "revisions": [
+  {
+   "revision_id": "200101026-bf9bef66",
+   "content_sha256": "bf9bef666be858b73a633acbca6d0a2adfe0ff102cd8a169dbae6519afe8bdc5",
+   "ee_text": "치조농루, 치육염(잇몸염)에 의한 제증상(여러증상)(잇몸의 출혈, 부종(부어오름), 발적(충혈되어 붉어짐), 구취)의 완화",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

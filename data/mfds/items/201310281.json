@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310281",
+ "item_name": "스피록센연질캡슐(나프록센)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20131125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050116]나프록센",
+ "main_item_ingr_eng": "Naproxen",
+ "edi_code": "",
+ "atc_code": "M01AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310281",
+ "revisions": [
+  {
+   "revision_id": "201310281-36462ba9",
+   "content_sha256": "36462ba9cc5187002215a1742cc22f4bc49608113c943d0a485f030013f743f8",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절 질환), 강직성 척추염, 건염, 급성 통풍, 월경곤란증 활액낭염, 골격근 장애(염좌, 좌상, 외상, 요천통), 수술 후 동통, 편두통, 발치 후 동통",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:33Z",
+   "last_observed_at": "2026-08-28T13:24:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:33Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197700189",
+ "item_name": "일양노이겔현탁액(규산알루민산마그네슘)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19771101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M216095]규산알루민산마그네슘",
+ "main_item_ingr_eng": "Magnesium Aluminosilicate",
+ "edi_code": "641701581",
+ "atc_code": "A02AD05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197700189",
+ "revisions": [
+  {
+   "revision_id": "197700189-178d0499",
+   "content_sha256": "178d0499637b287b86b45f2adeb075ff7bc0e64e251958382ad47088cbfaccbc",
+   "ee_text": "다음 질환의 제산작용 및 증상의 개선 : 위산과다 위ㆍ십이지장염 위염.",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

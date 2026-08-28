@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200607847",
+ "item_name": "휴온스메트포르민서방정(메트포르민염산염)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20060823",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223014]메트포르민염산염",
+ "main_item_ingr_eng": "Metformin Hydrochloride",
+ "edi_code": "670605860",
+ "atc_code": "A10BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607847",
+ "revisions": [
+  {
+   "revision_id": "200607847-b0621eb8",
+   "content_sha256": "b0621eb8b28406c350fd60932b7c3da94533eb64ef6a9088fcfdb758f52919ea",
+   "ee_text": "- 이 약은 단독요법 또는 다른 경구용 혈당강하제나 인슐린과 병용하여 사용할 수 있다.",
+   "ee_doc_id": "22",
+   "first_observed_at": "2026-08-28T13:24:10Z",
+   "last_observed_at": "2026-08-28T13:24:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:10Z"
+}

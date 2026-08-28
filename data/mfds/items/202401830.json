@@ -12,16 +12,15 @@
  "edi_code": "",
  "atc_code": "N06DX02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401830",
+ "history_fetched_at": "2026-08-27T13:35:07Z",
  "revisions": [
   {
    "revision_id": "202401830-a62bc5a6",
    "content_sha256": "a62bc5a6cd4f08ff3a90ca7ec1e4b7405fa4469923a09183fdc3197739c79367",
    "ee_text": "집중력 저하, 기억력 감퇴, 현기증(동맥경화 증상)과 같은 증상이 동반되는 정신 기능 저하",
-   "ee_doc_id": "1",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202401830/EE",
    "first_observed_at": "2026-08-27T13:35:07Z",
-   "last_observed_at": "2026-08-27T13:35:07Z",
-   "official_revision_date": "2024-07-29"
+   "last_observed_at": "2026-08-28T13:25:36Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:35:07Z"
+ ]
 }

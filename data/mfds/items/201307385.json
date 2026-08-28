@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307385",
+ "item_name": "아티레부정150/12.5밀리그램(수출용)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20130520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255988]이르베사탄|[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Irbesartan",
+ "edi_code": "",
+ "atc_code": "C09DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307385",
+ "revisions": [
+  {
+   "revision_id": "201307385-e8505e38",
+   "content_sha256": "e8505e383c7641dddeace291dad30e31a837db6dae46ee650925f04c425e2370",
+   "ee_text": "본태성 고혈압의 치료 1) 단일요법으로 혈압이 충분히 조절되지 않은 환자 2) 중등도 또는 중증 고혈압 (stage 2) 환자와 같이 치료 목표 혈압에 도달하기 위해 복합제 투여가 필요한 환자의 초기요법",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:24:30Z",
+   "last_observed_at": "2026-08-28T13:24:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:30Z"
+}

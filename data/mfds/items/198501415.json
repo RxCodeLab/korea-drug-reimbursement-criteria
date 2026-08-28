@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198501415",
+ "item_name": "키미테패취(스코폴라민)(수출명:可弥特止暈貼濟)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "19850726",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081309]스코폴라민",
+ "main_item_ingr_eng": "Scopolamine",
+ "edi_code": "",
+ "atc_code": "A04AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198501415",
+ "revisions": [
+  {
+   "revision_id": "198501415-daae5c65",
+   "content_sha256": "daae5c65892417e04a66a12fe28deb100d79a8c1fc6133703708a7522b3c287f",
+   "ee_text": "멀미에 의한 구역•구토의 예방",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:40Z"
+}

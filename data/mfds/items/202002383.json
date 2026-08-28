@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002383",
+ "item_name": "코트리나캡슐",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20200406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223183]카페인무수물|[M203364]슈도에페드린염산염|[M256386]글리시리진산이칼륨|[M086528]벨라돈나총알칼로이드|[M050446]메퀴타진",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Belladonna Total Alkaloid/Dipotassium Glycyrrhizinate/Mequitazine/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002383",
+ "revisions": [
+  {
+   "revision_id": "202002383-e944997a",
+   "content_sha256": "e944997a4f37b1740c51fa5bf406620960814337e44ef082c6e69cc47ebb2de5",
+   "ee_text": "코감기(급성비염), 알레르기성 비염 또는 부비강염에 의한 다음 증상의 완화 : 코막힘, 콧물, 재채기, 눈물, 목의 통증, 머리 무거움",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:16Z",
+   "last_observed_at": "2026-08-28T13:25:16Z",
+   "official_revision_date": "2020-04-06"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:16Z"
+}

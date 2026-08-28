@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300491",
+ "item_name": "토베손점안액(토브라마이신,덱사메타손)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20030428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040080]덱사메타손|[M020144]토브라마이신",
+ "main_item_ingr_eng": "Dexamethasone/Tobramycin",
+ "edi_code": "649602381,649602382",
+ "atc_code": "S01CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300491",
+ "revisions": [
+  {
+   "revision_id": "200300491-6a7cd412",
+   "content_sha256": "6a7cd412738b6b5f069de35bd6a53d2101257e95793d2c7cc04a2f8942e081a8",
+   "ee_text": "ㆍ포도상구균 : 황색포도상구균, 표피포도상구균(응고촉진효소양성 및 음성 균포함), 페니실린내성균 등 ㆍ일부 A군의 β-용혈성 연쇄상구균, 비용혈성 연쇄상구균 및 폐렴구균 ㆍ녹농균, 대장균, 폐렴간균, 호기성 장내균, 프로테우스 미라비리스, 모르가넬라 모르가니균, 대부분의 심상변형균, 헤모필루스 인플루엔자균,헤모필루스 에집티우스균, 결막염 호염균, 아시네토박터 칼코아세티쿠스균, 일부의 나이제리아속 표재성 세균감염, 안검 및 안구 결막ㆍ각막ㆍ안구 전방부의 염증, 만성 전포도막염, 화학물질ㆍ방사선ㆍ열성 외상 또는 이물침투에 의한 각막 상해",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:02Z"
+}

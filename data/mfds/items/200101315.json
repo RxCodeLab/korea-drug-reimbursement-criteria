@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101315",
+ "item_name": "벤포렉스캡슐",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20011210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096428]벤포티아민|[M204304]피리독신염산염|[M096429]시아노코발라민",
+ "main_item_ingr_eng": "Benfotiamine/Cyanocobalamin/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11DB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101315",
+ "revisions": [
+  {
+   "revision_id": "200101315-d1b9271a",
+   "content_sha256": "d1b9271a2bb39b8eb04f87119389e629e70b61c382a79217cdc8dece24589b20",
+   "ee_text": "불충분할 때의 비타민의 보급(소모성질환,임산부,수유부)등. 신경통,근육통,관절통,말초신경염(알코올성,당뇨병성),말초신경마비",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

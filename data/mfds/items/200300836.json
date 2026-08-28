@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300836",
+ "item_name": "엘린플러스크림",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20031106",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040818]히드로코르티손|[M051543]클로트리마졸",
+ "main_item_ingr_eng": "Clotrimazole/Hydrocortisone",
+ "edi_code": "644801471,644801473,644801474",
+ "atc_code": "D01AC20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300836",
+ "revisions": [
+  {
+   "revision_id": "200300836-eb2a40ae",
+   "content_sha256": "eb2a40aefa605b4358cad1f5ab92cbf0bf94bab7d7259cbaee4785b371559258",
+   "ee_text": "염증, 가려움 및 습진 등의 임상증상을 수반하는 피부 진균증 : 1) 백선 2) 피부 칸디다증 3) 어루러기",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:02Z"
+}

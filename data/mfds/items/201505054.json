@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505054",
+ "item_name": "카펠큐정(수출용)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20150724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223126]에르고타민타르타르산염|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Ergotamine Tartrate",
+ "edi_code": "",
+ "atc_code": "N02CA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505054",
+ "revisions": [
+  {
+   "revision_id": "201505054-3f3d312d",
+   "content_sha256": "3f3d312d0147768e46b73147710880bd2b5574e246cdcfcfc20260b602b518b6",
+   "ee_text": "편두통",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:44Z",
+   "last_observed_at": "2026-08-28T13:24:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:44Z"
+}

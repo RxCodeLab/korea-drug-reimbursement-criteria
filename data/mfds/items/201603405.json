@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603405",
+ "item_name": "에스블루5주",
+ "entp_name": "익수제약(주)",
+ "permit_date": "20160613",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M217501]황산아연수화물|[M247355]황산제이구리수화물|[M246028]황산망간수화물|[M250274]염화크롬수화물|[M207833]아셀렌산",
+ "main_item_ingr_eng": "Chromic Chloride Hydrate/Cupric Sulfate Hydrate/Manganese Sulfate Hydrate/Selenious Acid/Zinc Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "B05XA31",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603405",
+ "revisions": [
+  {
+   "revision_id": "201603405-f4790d07",
+   "content_sha256": "f4790d07973fbe62e4812ea362f7ae3657d8f49d4b99d2c156e7ba72e7c6b453",
+   "ee_text": "경정맥 영양보급시 미량원소(아연, 구리, 망간, 셀레늄, 크롬)의 보급",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:24:50Z",
+   "last_observed_at": "2026-08-28T13:24:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:50Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708476",
+ "item_name": "포비어드정(테노포비르디소프록실푸마르산염)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "20171221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256843]테노포비르디소프록실푸마르산염",
+ "main_item_ingr_eng": "Tenofovir Disoproxil Fumarate",
+ "edi_code": "644309260",
+ "atc_code": "J05AF07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708476",
+ "revisions": [
+  {
+   "revision_id": "201708476-f79f3130",
+   "content_sha256": "f79f3130fed4e2fc5d034dfbdbcbd42f0648fcca94005bdea5282441de5751b0",
+   "ee_text": "성인 및 12세 이상의 소아에서 HIV-1감염의 치료를 위해 다른 항레트로바이러스제제와 병용투여한다. 이 약은 테노포비르 함유 복합제제와 함께 복용하지 않는다. 성인 및 12세 이상 소아의 만성B형간염을 치료한다. (만성B형간염 치료를 위해 이 약으로 치료를 시작하는 경우, 사용상의 주의사항 중 일반적 주의를 고려할 것)",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:58Z",
+   "last_observed_at": "2026-08-28T13:24:58Z",
+   "official_revision_date": "2018-11-26"
+  },
+  {
+   "revision_id": "201708476-e76e736b",
+   "content_sha256": "e76e736b9958af9838d72463e866a0c3b137a317da8b115840b8dfdec6d20e94",
+   "ee_text": "성인 및 12세 이상 소아의 만성B형간염을 치료한다. (만성B형간염 치료를 위해 이 약으로 치료를 시작하는 경우, 사용상의 주의사항 중 일반적 주의를 고려할 것)",
+   "ee_doc_id": "2",
+   "official_revision_date": "2017-12-22",
+   "first_observed_at": "2026-08-28T13:24:58Z",
+   "last_observed_at": "2026-08-28T13:24:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:58Z"
+}

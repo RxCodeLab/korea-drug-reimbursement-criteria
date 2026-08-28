@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708295",
+ "item_name": "뮤코반캡슐200mg(아세틸시스테인)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20171211",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050972]아세틸시스테인",
+ "main_item_ingr_eng": "Acetylcysteine",
+ "edi_code": "662503810",
+ "atc_code": "R05CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708295",
+ "revisions": [
+  {
+   "revision_id": "201708295-65cfb474",
+   "content_sha256": "65cfb4741b441f4dfac5c177ff801725477526b623ec1547ebfb3f6fad4d789f",
+   "ee_text": "다음 질환에서의 객담배출곤란: 급•만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:24:58Z",
+   "last_observed_at": "2026-08-28T13:24:58Z",
+   "official_revision_date": "2024-07-15"
+  },
+  {
+   "revision_id": "201708295-1602850e",
+   "content_sha256": "1602850e3503912a97cb1ab1e7418dc86e543e7bcab19b6a1b7eaea6a117109e",
+   "ee_text": "다음 질환에서의 객담배출곤란: 급•만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유종",
+   "ee_doc_id": "1",
+   "official_revision_date": "2017-12-11",
+   "first_observed_at": "2026-08-28T13:24:58Z",
+   "last_observed_at": "2026-08-28T13:24:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:58Z"
+}

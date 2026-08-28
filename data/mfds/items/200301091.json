@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301091",
+ "item_name": "마이부틴에프연질캡슐(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20031028",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207089] 말레인산트리메부틴|[M040078]데히드로콜린산|[M040678]판크레아틴|[M050855]시메치콘|[M095415]브로멜라인",
+ "main_item_ingr_eng": "Bromelain/Dehydrocholic Acid/Pancreatin/Simethicone/Trimebutine Maleate",
+ "edi_code": "",
+ "atc_code": "A03A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301091",
+ "revisions": [
+  {
+   "revision_id": "200301091-f70cd420",
+   "content_sha256": "f70cd42036ebefb7a35d1a69f4abee257ee661532812b9346dda4fa5b1c57065",
+   "ee_text": "위·십이지장성 소화불량, 담즙과 췌액의 분비기능 이상, 위절제 및 담낭절제 후의 소화불량, 과민성 대장증후군, 이완성, 과연동성 변비, 소화관 운동 저하에 의한 위장관 전이 항진성 설사",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:02Z"
+}

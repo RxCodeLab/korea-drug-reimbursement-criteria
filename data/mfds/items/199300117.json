@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199300117",
+ "item_name": "복합마데카솔연고(수출명:복합리포솔연고)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "19931216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251396]센텔라정량추출물|[M223353]히드로코르티손아세테이트|[M202893]네오마이신황산염",
+ "main_item_ingr_eng": "Centella Titrated Extract/Hydrocortisone Acetate/Neomycin Sulfate",
+ "edi_code": "",
+ "atc_code": "D07CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199300117",
+ "revisions": [
+  {
+   "revision_id": "199300117-4ba7b2e2",
+   "content_sha256": "4ba7b2e2cc3bb2a31f41bb34704ef18e7bcbd98ddb5e64135a07c11cec80830b",
+   "ee_text": "네오마이신 감수성 세균에 의해 2차 감염된 코르티코이드 반응성 피부질환의 초기 치료 : 피부염, 감염된 상처",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:44Z",
+   "last_observed_at": "2026-08-28T13:23:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:44Z"
+}

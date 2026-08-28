@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201121",
+ "item_name": "브로테인시럽(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20020206",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080308]소브레롤|[M099617]엘카르보시스테인",
+ "main_item_ingr_eng": "L-Carbocisteine/Sobrerol",
+ "edi_code": "",
+ "atc_code": "R05CB10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201121",
+ "revisions": [
+  {
+   "revision_id": "200201121-2b84aa73",
+   "content_sha256": "2b84aa732f305ae230fc1e752f545a154eb9e7b2bc3dac8671099f7c7162ac92",
+   "ee_text": "1) 기관지염, 기관지확장증, 기관지폐렴 특히 천식, 폐기종 등의 호흡기부전이 수반될 때 2) 폐결핵이나 진폐증이 수반되는 기관지 카타르 3) 비인두염, 후두기관염",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200201121/EE",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z"
+  },
+  {
+   "revision_id": "200201121-8b77f21f",
+   "content_sha256": "8b77f21fa888c7a4a614127290e3dfac53f3707be84758fcee2886ddd538a29a",
+   "ee_text": "1) 기관지염, 기관지확장증, 기관지폐렴 특히 천식, 폐기종 등 의 호흡기부전이 수반될 때 2) 폐결핵이나 진폐증이 수반되는 기관지 카타르 3) 비인두염, 후두기관염",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

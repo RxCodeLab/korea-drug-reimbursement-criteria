@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199802491",
+ "item_name": "락티코트크림1%(히드로코르티손아세테이트)",
+ "entp_name": "제이더블유신약(주)",
+ "permit_date": "19980930",
+ "cancel_date": "20241204",
+ "status": "취하",
+ "main_item_ingr": "[M223353]히드로코르티손아세테이트",
+ "main_item_ingr_eng": "Hydrocortisone Acetate",
+ "edi_code": "",
+ "atc_code": "D07AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802491",
+ "revisions": [
+  {
+   "revision_id": "199802491-0140c424",
+   "content_sha256": "0140c4243c3ca06c18c7b6e9bf3aabc4fbef561da5cac8f1b121ad1266f44c82",
+   "ee_text": "습진ㆍ피부염군, 피부가려움, 벌레물린데",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

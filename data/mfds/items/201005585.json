@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201005585",
+ "item_name": "리피뎀주",
+ "entp_name": "비브라운코리아(주)",
+ "permit_date": "20100917",
+ "cancel_date": "20260602",
+ "status": "취하",
+ "main_item_ingr": "[M247077]오메가3산트리글리세라이드|[M081583]정제대두유|[M090208]중쇄트리글리세라이드",
+ "main_item_ingr_eng": "Omega-3-Acid Triglycerides/Refined Soybean Oil/Triglycerides Medium-Chain",
+ "edi_code": "667400800",
+ "atc_code": "B05BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005585",
+ "revisions": [
+  {
+   "revision_id": "201005585-180bae98",
+   "content_sha256": "180bae98f0255269a4c4a19fe6740c8cf9836cecccf5fef166c756e26240ee57",
+   "ee_text": "경구 혹은 위장관 영양공급이 제한되어 비경구 영양요법이 필요한 환자에게 필수 오메가-6 지방산 및 오메가-3 지방산을 포함한 지방질의 공급",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:23Z",
+   "last_observed_at": "2026-08-28T13:24:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:23Z"
+}

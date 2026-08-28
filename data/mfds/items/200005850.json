@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005850",
+ "item_name": "하양환(팔미지황환)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000802",
+ "cancel_date": "20230921",
+ "status": "행정(취소)",
+ "main_item_ingr": "[M201585]정제부자|[M050036]육계|[M040185]목단피|[M040225]복령|[M040638]택사|[M040258]산약|[M040257]산수유|[M051364]숙지황",
+ "main_item_ingr_eng": "Alisma Rhizome/Cinnamon Bark/Cornus Fruit/Dioscorea Rhizome/Moutan Root Bark/Poria/Prepared Rehmannia Root/Pulvis Aconiti Tuberis Purificaum",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005850",
+ "revisions": [
+  {
+   "revision_id": "200005850-acf04e39",
+   "content_sha256": "acf04e393cff53e14db4f0ef240f0ccfaa1fd3d955da3be994c866ae3ddf8a9a",
+   "ee_text": "피로하기 쉽고 사지가 차가우며 요량 감소, 다뇨 또는 목마름이 있는 다음 증상 : 하지통, 요통, 저림, 노인의 시력 부족, 가려움, 빈뇨, 부종(부기), 배뇨(소변을 눔)곤란",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z",
+   "official_revision_date": "2020-02-07"
+  },
+  {
+   "revision_id": "200005850-7e52958e",
+   "content_sha256": "7e52958e61436a227d53639e500b54356c0ec6fb26a2c8cad8e7fa6445b25975",
+   "ee_text": "피로하기 쉽고 사지가 차가우며 요량감소, 다뇨 또는 목마름이 있는 다음 증상 : 하지통, 요통, 저림, 노인의 시력부족, 가려움, 빈뇨, 부종, 배뇨곤란",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:57Z"
+}

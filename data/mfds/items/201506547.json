@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201506547",
+ "item_name": "히드론케어로션2.5%(히드로코르티손)",
+ "entp_name": "성원애드콕제약(주)",
+ "permit_date": "20150915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040818]히드로코르티손",
+ "main_item_ingr_eng": "Hydrocortisone",
+ "edi_code": "664901141",
+ "atc_code": "D07AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506547",
+ "revisions": [
+  {
+   "revision_id": "201506547-0140c424",
+   "content_sha256": "0140c4243c3ca06c18c7b6e9bf3aabc4fbef561da5cac8f1b121ad1266f44c82",
+   "ee_text": "습진ㆍ피부염군, 피부가려움, 벌레물린데",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:45Z",
+   "last_observed_at": "2026-08-28T13:24:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:45Z"
+}

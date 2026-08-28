@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902248",
+ "item_name": "대웅피오메트정15/850밀리그램",
+ "entp_name": "대웅바이오(주)",
+ "permit_date": "20190412",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M235069]피오글리타존염산염|[M244179]메트포르민염산염",
+ "main_item_ingr_eng": "Metformin Hydrochloride/Pioglitazone Hydrochloride",
+ "edi_code": "694003870",
+ "atc_code": "A10BD05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902248",
+ "revisions": [
+  {
+   "revision_id": "201902248-169e16b8",
+   "content_sha256": "169e16b8d146d573bbd51ff24575f0e1dab092dd010903961cda65e638c067e7",
+   "ee_text": "이 약은 피오글리타존과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:25:05Z",
+   "last_observed_at": "2026-08-28T13:25:05Z",
+   "official_revision_date": "2023-10-20"
+  },
+  {
+   "revision_id": "201902248-faf560e0",
+   "content_sha256": "faf560e081779a6f37b720ff5b9d2502f69ff89958736d664211cf5f76e2479a",
+   "ee_text": "이 약은 인슐린 비의존성 당뇨병 환자(제2형)의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 메트포르민 또는 피오글리타존 단독요법으로 충분한 혈당조절을 할 수 없는 경우 2. 피오글리타존과 메트포르민 병용요법의 대체 제2형 당뇨병의 관리는 영양상담, 필요시 체중감소 및 운동을 포함하여야 한다. 이러한 노력들은 제2형 당뇨병의 초기 치료에서는 물론 약물치료의 효과를 유지하는 데에도 중요하다.",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-04-12",
+   "first_observed_at": "2026-08-28T13:25:05Z",
+   "last_observed_at": "2026-08-28T13:25:05Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:05Z"
+}

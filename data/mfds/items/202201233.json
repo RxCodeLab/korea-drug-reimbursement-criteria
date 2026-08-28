@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201233",
+ "item_name": "트라스트이부플라스타(이부프로펜)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20220329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜",
+ "main_item_ingr_eng": "Ibuprofen",
+ "edi_code": "",
+ "atc_code": "M01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201233",
+ "revisions": [
+  {
+   "revision_id": "202201233-053a319e",
+   "content_sha256": "053a319eb49e3fd374039ff2223f731d022ef8c055fac62978c53ef93729cf58",
+   "ee_text": "다음 질환 및 증상의 진통·소염(항염) : 골관절염, 어깨관절주위염, 건.건초염(힘줄염.힘줄윤활막염), 건주위염(힘줄주위염), 상과염(테니스 엘보우 등), 근육통, 외상후의 종창(부기), 동통(통증)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:28Z",
+   "last_observed_at": "2026-08-28T13:25:28Z",
+   "official_revision_date": "2022-03-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:28Z"
+}

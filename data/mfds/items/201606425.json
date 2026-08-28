@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606425",
+ "item_name": "오늘비타더블골드정",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20161101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M223357]히드록소코발라민아세트산염|[M248795]피리독살포스페이트수화물|[M222995]리보플라빈부티레이트|[M051415]푸르설티아민",
+ "main_item_ingr_eng": "Fursultiamine/Hydroxocobalamin Acetate/Pyridoxal Phosphate Hydrate/Riboflavin Butyrate/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606425",
+ "revisions": [
+  {
+   "revision_id": "201606425-140aef13",
+   "content_sha256": "140aef13c17a227d6a35157432189c444094b46eb25e615fc947d4ea64d33114",
+   "ee_text": "육체피로, 임신ㆍ수유기, 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201606425/EE",
+   "first_observed_at": "2026-08-28T13:24:53Z",
+   "last_observed_at": "2026-08-28T13:24:53Z"
+  },
+  {
+   "revision_id": "201606425-7ed9127e",
+   "content_sha256": "7ed9127e78949aebf78a3edf30d50f82006b93766ba71fa3e31047dfb59cb037",
+   "ee_text": "○ 다음 경우의 비타민 B1, B2, B6의 보급 : 육체피로, 임신ㆍ수유기, 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시 ○ 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) ○ 각기 ○ 눈의 피로",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:53Z",
+   "last_observed_at": "2026-08-28T13:24:53Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:53Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201549",
+ "item_name": "알부라민연질캡슐",
+ "entp_name": "에이치엘비제약(주)",
+ "permit_date": "20020201",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200412]로얄젤리|[M223240]토코페롤아세테이트|[M258994]아스코르브산|[M223258]티아민염산염|[M040133]리보플라빈|[M204304]피리독신염산염|[M096429]시아노코발라민|[M040064]니코틴산아미드",
+ "main_item_ingr_eng": "Ascorbic Acid/Cyanocobalamin/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Royal Jelly/Thiamine Hydrochloride/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201549",
+ "revisions": [
+  {
+   "revision_id": "200201549-fbca58f7",
+   "content_sha256": "fbca58f7c42f6c72ba1d4712757b3520017232eaf0cc98ab69691a2347f59b2c",
+   "ee_text": "1. 다음 경우의 비타민 E, B1, B2, B6, C의 보급 - 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 2. 이 약에 함유된 비타민 등의 효능, 효과는 다음과 같다. •비타민E(토코페롤아세테이트) - 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨․목결림, 수족저림․수족냉증(손발이 차가움)",
+   "ee_doc_id": "30",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2021-08-20"
+  },
+  {
+   "revision_id": "200201549-745b96ee",
+   "content_sha256": "745b96ee4fdaa7d2270abe58289635643b645be0d09db811ce10557e7361e232",
+   "ee_text": "육체피로, 임신 수유기, 병중 병후(병을 앓는 동안이나 회복 후)의 체력 저하시, 노년기 어깨 목결림, 수족저림 수족냉증(손발이 차가움)",
+   "ee_doc_id": "20",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

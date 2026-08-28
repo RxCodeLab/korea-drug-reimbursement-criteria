@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501953",
+ "item_name": "신일티아민염산염정10밀리그램",
+ "entp_name": "신일제약(주)",
+ "permit_date": "19951004",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223258]티아민염산염",
+ "main_item_ingr_eng": "Thiamine Hydrochloride",
+ "edi_code": "653801460",
+ "atc_code": "A11DA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501953",
+ "revisions": [
+  {
+   "revision_id": "199501953-d63c35ea",
+   "content_sha256": "d63c35ead58e8bf18fbf19ab4d513b6e67c5898728d17ddc851774db74e693ff",
+   "ee_text": "소모성 질환, 갑상선기능항진증, 임산부, 수유부, 심한 육체노동 시 1) 근육통, 관절통 2) 신경통, 말초신경염, 말초신경마비",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199501953/EE",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z"
+  },
+  {
+   "revision_id": "199501953-c7213d7c",
+   "content_sha256": "c7213d7c8550521480c896026e6b4e70a30eff0902061460d2c0392fec94e52a",
+   "ee_text": "소모성 질환, 갑상선기능항진증, 임산부, 수유부, 심한 육체노동 시 1) 근육통ㆍ관절통 2) 신경통, 말초신경염ㆍ말초신경마비",
+   "ee_doc_id": "23",
+   "official_revision_date": "2021-11-15",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z"
+  },
+  {
+   "revision_id": "199501953-ab8b54d1",
+   "content_sha256": "ab8b54d1551de64c95f6bb3e48831b87e3b9daaa25f4099e75de31947af10242",
+   "ee_text": "소모성 질환, 갑상선기능항진증, 임산부, 수유부, 심한 육체노동 시 1) 근육통ㆍ관절통 2) 신경통, 말초신경염ㆍ말초신경마비 3) 심근대사장애",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:46Z"
+}

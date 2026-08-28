@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402083",
+ "item_name": "대원부데소니드비액(수출용)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20140502",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084482]부데소니드",
+ "main_item_ingr_eng": "Budesonide",
+ "edi_code": "",
+ "atc_code": "R01AD05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402083",
+ "revisions": [
+  {
+   "revision_id": "201402083-f0a9f850",
+   "content_sha256": "f0a9f85046d31185f8d29cfe62ddaf0a69ab1dfac5d2ae8dab37fbb87c89915f",
+   "ee_text": "(분무현탁액) ㆍ 계절성 및 다년성의 다음 비염 : 알레르기성 비염, 혈관운동성 비염 ㆍ 비용종의 치료 및 절개술 후 재발 방지",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:35Z",
+   "last_observed_at": "2026-08-28T13:24:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:35Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199902913",
+ "item_name": "슈락스정",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "19990811",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M102544]센노사이드칼슘|[M258024]감초엑스분말",
+ "main_item_ingr_eng": "Glycyrrhiza Extract Powder/Sennoside Calcium",
+ "edi_code": "",
+ "atc_code": "A06AB56",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902913",
+ "revisions": [
+  {
+   "revision_id": "199902913-0b5004a7",
+   "content_sha256": "0b5004a7565e537b73b20c6b0db772b3be6df3eb8c3d4ab7bfac1e8f499c5ded",
+   "ee_text": "변비, 변비를 수반하는 다음증상의 완화 : 두중, 흥분, 거친피부, 여드름, 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199902913/EE",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z"
+  },
+  {
+   "revision_id": "199902913-64cdb168",
+   "content_sha256": "64cdb1680050a907b9f3ab7181abc2ebde79639adcb785e6d366452a8b75e203",
+   "ee_text": "변비, 변비를 수반하는 다음증상의 완화 : 두중, 역상, 거친피부, 여드름, 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:51Z"
+}

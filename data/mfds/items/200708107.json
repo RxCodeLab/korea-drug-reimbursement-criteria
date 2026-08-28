@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200708107",
+ "item_name": "디알클리어점안액(카르복시메틸셀룰로오스나트륨)(1회용)",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20070713",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244062]카르복시메틸셀룰로오스나트륨",
+ "main_item_ingr_eng": "Carboxymethylcellulose Sodium",
+ "edi_code": "651205221",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708107",
+ "revisions": [
+  {
+   "revision_id": "200708107-f89cd2a7",
+   "content_sha256": "f89cd2a792dc7e44a489f3d9248b6f2272cb04730233a89b9ddcadcc661ad904",
+   "ee_text": "안구건조증(눈마름증)이나 바람· 태양에 노출되어 생기는 화끈거리는 증상, 자극감, 불쾌감을 일시적으로 완화시킴, 안구 자극감을 예방하기 위하여 사용할 수 있다.",
+   "ee_doc_id": "35",
+   "first_observed_at": "2026-08-28T13:24:13Z",
+   "last_observed_at": "2026-08-28T13:24:13Z",
+   "official_revision_date": "2025-10-01"
+  },
+  {
+   "revision_id": "200708107-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "25",
+   "official_revision_date": "2020-10-23",
+   "first_observed_at": "2026-08-28T13:24:13Z",
+   "last_observed_at": "2026-08-28T13:24:13Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:13Z"
+}

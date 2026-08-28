@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200503733",
+ "item_name": "와이즈콤비페리주1호",
+ "entp_name": "(주)와이즈메디",
+ "permit_date": "20050120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M209360]L-발린|[M214274]L-트리프토판|[M103060]L-트레오닌|[M204442]L-페닐알라닌|[M103077]L-아르기닌|[M233781]포도당(무수물)|[M040426]염화나트륨|[M040438]염화칼륨|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M218567]L-메티오닌|[M216236]L-초산리신|[M222530]L-이소류신|[M215288]L-히스티딘|[M209366]L-알라닌|[M088656]글리신|[M214861]L-프롤린|[M233523]염산-L-시스테인|[M204435]L-세린|[M227966]아세트산나트륨수화물|[M051290]인산이수소칼륨|[M222531]L-류신",
+ "main_item_ingr_eng": "Anhyrous Glucose/Calcium Chloride Hydrate/Glycine/L-Alanine/L-Arginine/L-Cysteine Hydrochloride/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Acetate/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Valine/Magnesium Chloride/Monobasic Potassium Phosphate/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "B05BA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503733",
+ "revisions": [
+  {
+   "revision_id": "200503733-22fb93f3",
+   "content_sha256": "22fb93f336da1fada157c3144566cce4f7a675c895f340f12ac977d7965cbbe2",
+   "ee_text": "경구 또는 위장관 영양보급이 불가능 또는 불충분하거나 또는 제한되어 경정맥 영양공급을 실시해야 하는 환자들에게 수분, 전해질, 아미노산 및 칼로리 보급",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:09Z"
+}

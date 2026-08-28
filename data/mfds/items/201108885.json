@@ -12,15 +12,15 @@
  "edi_code": "651903570",
  "atc_code": "N05AX12",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201108885",
+ "history_fetched_at": "2026-08-27T13:27:05Z",
  "revisions": [
   {
    "revision_id": "201108885-9c290d1a",
    "content_sha256": "9c290d1a04933931cd1e7c5f2dee8e5477df1a556fcb67d3564f7aa0f0a3d086",
    "ee_text": "1. 조현병 2. 양극성 장애와 관련된 급성 조증 및 혼재 삽화의 치료 3. 주요우울장애 치료의 부가요법제 4. 자폐장애와 관련된 과민증 5. 뚜렛장애",
-   "ee_doc_id": "32",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201108885/EE",
    "first_observed_at": "2026-08-27T13:27:05Z",
-   "last_observed_at": "2026-08-27T13:27:05Z",
-   "official_revision_date": "2022-07-18"
+   "last_observed_at": "2026-08-28T13:24:26Z"
   },
   {
    "revision_id": "201108885-e3b0c442",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:27:05Z",
    "last_observed_at": "2026-08-27T13:27:05Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:27:05Z"
+ ]
 }

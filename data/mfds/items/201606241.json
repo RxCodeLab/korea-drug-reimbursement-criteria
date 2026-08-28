@@ -12,15 +12,15 @@
  "edi_code": "653501580",
  "atc_code": "L01EX09",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606241",
+ "history_fetched_at": "2026-08-27T13:38:46Z",
  "revisions": [
   {
    "revision_id": "201606241-04dfe414",
    "content_sha256": "04dfe4146897ccf3277021fe82a09b99a6717dc852bcc29f4f716268f8774759",
    "ee_text": "특발성폐섬유증의 치료 전신경화증 연관 간질성폐질환 환자의 폐기능 감소 지연 진행성 표현형을 나타내는 만성 섬유성 간질성폐질환의 치료",
-   "ee_doc_id": "21",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201606241/EE",
    "first_observed_at": "2026-08-27T13:38:46Z",
-   "last_observed_at": "2026-08-27T13:38:46Z",
-   "official_revision_date": "2020-08-06"
+   "last_observed_at": "2026-08-28T13:24:53Z"
   },
   {
    "revision_id": "201606241-24388c2b",
@@ -40,6 +40,5 @@
    "first_observed_at": "2026-08-27T13:38:46Z",
    "last_observed_at": "2026-08-27T13:38:46Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:38:46Z"
+ ]
 }

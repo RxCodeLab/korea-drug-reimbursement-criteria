@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502797",
+ "item_name": "이달디핀정80/10밀리그램(아질사르탄메독소밀칼륨,암로디핀베실산염)",
+ "entp_name": "(주)셀트리온",
+ "permit_date": "20251029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265937]아질사르탄메독소밀칼륨|[M222875]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate/Potassium Azilsartan Medoxomil",
+ "edi_code": "623800400",
+ "atc_code": "C09DB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502797",
+ "revisions": [
+  {
+   "revision_id": "202502797-85045446",
+   "content_sha256": "8504544691b92fddeb28e529569a6fb2ed1658dad13c419922d52d078361fb45",
+   "ee_text": "아질사르탄메독소밀 또는 암로디핀 단독요법으로 혈압이 적절히 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:38Z",
+   "last_observed_at": "2026-08-28T13:25:38Z",
+   "official_revision_date": "2025-10-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:38Z"
+}

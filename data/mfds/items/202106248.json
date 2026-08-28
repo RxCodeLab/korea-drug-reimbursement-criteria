@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106248",
+ "item_name": "노바프록센정(나프록센나트륨)",
+ "entp_name": "주식회사 노바엠헬스케어",
+ "permit_date": "20210831",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070724]나프록센나트륨",
+ "main_item_ingr_eng": "Naproxen Sodium",
+ "edi_code": "",
+ "atc_code": "M01AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106248",
+ "revisions": [
+  {
+   "revision_id": "202106248-9fe0fd0a",
+   "content_sha256": "9fe0fd0a1ef2ed7e2e0db21ebe75ef6d2a340d7bcbf997254fc974360eb91f7b",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건염(힘줄염), 급성통풍, 월경곤란증 활액(윤활)낭염, 골격근장애(염좌(삠), 좌상(타박상), 외상(상처), 요천통(허리통증)), 수술후 동통(통증), 편두통, 발치(이를 뽑음)후 동통(통증)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202106248/EE",
+   "first_observed_at": "2026-08-28T13:25:25Z",
+   "last_observed_at": "2026-08-28T13:25:25Z"
+  },
+  {
+   "revision_id": "202106248-ee5e86f2",
+   "content_sha256": "ee5e86f2d85e618b6981d311b5076978e9757fc181e5f22c9e82aacc03dffeaf",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건염, 급성통풍, 월경곤란증 활액낭염, 골격근장애(염좌, 좌상, 외상, 요천통), 수술후 동통, 편두 통, 발치후 동통",
+   "ee_doc_id": "1",
+   "official_revision_date": "2021-08-31",
+   "first_observed_at": "2026-08-28T13:25:25Z",
+   "last_observed_at": "2026-08-28T13:25:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:25Z"
+}

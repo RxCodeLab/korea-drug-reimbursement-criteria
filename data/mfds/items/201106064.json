@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201106064",
+ "item_name": "노비르정(리토나비르)",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20110901",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259362]리토나비르",
+ "main_item_ingr_eng": "Ritonavir",
+ "edi_code": "624900080",
+ "atc_code": "J05AE03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106064",
+ "revisions": [
+  {
+   "revision_id": "201106064-b74cdc48",
+   "content_sha256": "b74cdc48f8cc8233b87e5f0132fa35b90320533ba0566f826a741d08f777c634",
+   "ee_text": "HIV-1 감염 환자 치료를 위한 프로테아제 억제제와의 병용요법",
+   "ee_doc_id": "30",
+   "first_observed_at": "2026-08-28T13:24:26Z",
+   "last_observed_at": "2026-08-28T13:24:26Z",
+   "official_revision_date": "2025-08-29"
+  },
+  {
+   "revision_id": "201106064-d7aca90b",
+   "content_sha256": "d7aca90b6c6addb8829e42ebe57d8c870b6c6a02c2ec4faf8e9a1844f28f8e79",
+   "ee_text": "임상학적 또는 면역학적으로 질환의 진행이 확인되어 치료가 필요한 HIV감염환자 치료를 위한 다른 항레트로바이러스 제제(뉴클레오시드 역전사효소 억제제, 프로테아제 억제제)와의 병용요법",
+   "ee_doc_id": "25",
+   "official_revision_date": "2023-05-30",
+   "first_observed_at": "2026-08-28T13:24:26Z",
+   "last_observed_at": "2026-08-28T13:24:26Z"
+  },
+  {
+   "revision_id": "201106064-69e227c8",
+   "content_sha256": "69e227c87c6a93062988db08dbd42a59e280346eff4f03281ab9add8652eb9b5",
+   "ee_text": "임상학적 또는 면역학적으로 질환의 진행이 확인되어 치료가 필요한 HIV감염환자 치료를 위한 단독요법 또는 뉴클레오시드 유도체와의 병용요법",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:26Z",
+   "last_observed_at": "2026-08-28T13:24:26Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:26Z"
+}

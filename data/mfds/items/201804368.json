@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804368",
+ "item_name": "챔프코프액",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20181102",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254445]티페피딘시트르산염|[M204422]dl-메틸에페드린염산염|[M050058]구아이페네신",
+ "main_item_ingr_eng": "DL-Methylephedrine Hydrochloride/Guaifenesin/Tipepidine Citrate",
+ "edi_code": "",
+ "atc_code": "R05FB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804368",
+ "revisions": [
+  {
+   "revision_id": "201804368-da6ae941",
+   "content_sha256": "da6ae941bfe4a46693189cf70b524d3fd9a3cebea6e5f19f12abf6f835dc98da",
+   "ee_text": "기침, 가래",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:25:02Z",
+   "last_observed_at": "2026-08-28T13:25:02Z",
+   "official_revision_date": "2023-06-19"
+  },
+  {
+   "revision_id": "201804368-78dd308e",
+   "content_sha256": "78dd308e0cabff9495a553cd7e6646318532bf70f886bda2821e2f6252f7b915",
+   "ee_text": "기침, 가래, 천식",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-11-02",
+   "first_observed_at": "2026-08-28T13:25:02Z",
+   "last_observed_at": "2026-08-28T13:25:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:02Z"
+}

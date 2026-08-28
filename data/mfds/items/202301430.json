@@ -7,21 +7,20 @@
  "permit_date": "20230502",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M244179]메트포르민염산염|[M255021]로베글리타존황산염|[M251915]시타글립틴인산염수화물",
+ "main_item_ingr": "[M251915]시타글립틴인산염수화물|[M255021]로베글리타존황산염|[M244179]메트포르민염산염",
  "main_item_ingr_eng": "Lobeglitazone Sulfate/Metformin Hydrochloride/Sitagliptin Phosphate Hydrate",
  "edi_code": "643309330",
  "atc_code": "A10BD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301430",
+ "history_fetched_at": "2026-08-27T12:55:57Z",
  "revisions": [
   {
    "revision_id": "202301430-1aed8a31",
    "content_sha256": "1aed8a31363a696623dfca05c5f78ea98313e039240dce9a9268e56f9c53c381",
    "ee_text": "이 약은 로베글리타존과 시타글립틴 및 메트포르민의 병용투여가 적합한 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
-   "ee_doc_id": "1",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202301430/EE",
    "first_observed_at": "2026-08-27T12:55:57Z",
-   "last_observed_at": "2026-08-27T12:55:57Z",
-   "official_revision_date": "2023-05-02"
+   "last_observed_at": "2026-08-28T13:25:33Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:55:57Z"
+ ]
 }

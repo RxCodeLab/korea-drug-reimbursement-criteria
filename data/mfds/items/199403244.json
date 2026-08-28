@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403244",
+ "item_name": "맥시트롤안연고",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "19940601",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233313]폴리믹신B황산염|[M202893]네오마이신황산염|[M040080]덱사메타손",
+ "main_item_ingr_eng": "Dexamethasone/Neomycin Sulfate/Polymyxin B Sulfate",
+ "edi_code": "653602981",
+ "atc_code": "S01CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403244",
+ "revisions": [
+  {
+   "revision_id": "199403244-f60b6752",
+   "content_sha256": "f60b6752e959edc430d9cee9f004f52fb10179bfc2282e9c263d0b9993cc23dd",
+   "ee_text": "폴리믹신B황산염 및 네오마이신황산염에 감수성균에 의한 결막염, 안검염, 각막염",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z",
+   "official_revision_date": "2018-03-23"
+  },
+  {
+   "revision_id": "199403244-fb05381e",
+   "content_sha256": "fb05381ea4672391ad10d4294c1eb0e600bf2afa75be470bdf121443776baa00",
+   "ee_text": "황산폴리믹신 B 및 황산네오마이신에 감수성균에 의한 결막염, 안검염, 각막염",
+   "ee_doc_id": "17",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:46Z"
+}

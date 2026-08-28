@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200601056",
+ "item_name": "콤비플렉스리피드주",
+ "entp_name": "제이더블유생명과학(주)",
+ "permit_date": "20060405",
+ "cancel_date": "20260528",
+ "status": "취하",
+ "main_item_ingr": "[M103077]L-아르기닌|[M088656]글리신|[M215288]L-히스티딘|[M222530]L-이소류신|[M222531]L-류신|[M222998]L-리신염산염|[M218567]L-메티오닌|[M204442]L-페닐알라닌|[M044300]포도당일수화물|[M217500]염화칼슘수화물|[M251286]염화마그네슘수화물|[M040426]염화나트륨|[M081583]정제대두유|[M209366]L-알라닌|[M214861]L-프롤린|[M204435]L-세린|[M103060]L-트레오닌|[M218015]L-트립토판|[M214313]L-티로신|[M209360]L-발린|[M227966]아세트산나트륨수화물|[M051289]인산일수소칼륨",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Dibasic Potassium Phosphate/Glucose Monohydrate/Glycine/L-Alanine/L-Arginine/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Hydrochloride/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine/Magnesium Chloride Hydrate/Refined Soybean Oil/Sodium Acetate Hydrate/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "B05BA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200601056",
+ "revisions": [
+  {
+   "revision_id": "200601056-22fb93f3",
+   "content_sha256": "22fb93f336da1fada157c3144566cce4f7a675c895f340f12ac977d7965cbbe2",
+   "ee_text": "경구 또는 위장관 영양보급이 불가능 또는 불충분하거나 또는 제한되어 경정맥 영양공급을 실시해야 하는 환자들에게 수분, 전해질, 아미노산 및 칼로리 보급",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-28T13:24:10Z",
+   "last_observed_at": "2026-08-28T13:24:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:10Z"
+}

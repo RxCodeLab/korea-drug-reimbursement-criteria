@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301795",
+ "item_name": "뉴젠비싸이모정",
+ "entp_name": "(주)셀릭스",
+ "permit_date": "20031105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223289]폴산|[M096429]시아노코발라민|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Cyanocobalamin/Folic Acid/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301795",
+ "revisions": [
+  {
+   "revision_id": "200301795-591fbefc",
+   "content_sha256": "591fbefcdbd838f2223abb006ff208f053b50b1ff2908febcb8024bf316fd028",
+   "ee_text": "○ 다음경우의 비타민 B 6 의 보급 - 임신 ᠊ 수유기 - 병중 ᠊ 병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 이 약에 함유된 비타민 등의 효능 ᠊ 효과는 다음과 같다. ㆍ다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
+   "ee_doc_id": "24",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z",
+   "official_revision_date": "2026-06-22"
+  },
+  {
+   "revision_id": "200301795-5068cabd",
+   "content_sha256": "5068cabdc7a88202bfbceb19573cc67b6b90f1eb57397082169a3613a7e70aac",
+   "ee_text": "다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 다음 경우의 비타민 보급 : 임신·수유기 , 병중·병후의 체력저하시",
+   "ee_doc_id": "14",
+   "official_revision_date": "2020-06-11",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z"
+  },
+  {
+   "revision_id": "200301795-4474427f",
+   "content_sha256": "4474427fb717c0a58e9b340ae6f7da9a08825cd389370aa5248776359cd6a08b",
+   "ee_text": "다음 증상의 완화 : 구각염, 구순염, 구내염, 설염, 습진, 피부염 다음 경우의 비타민 보급 : 임신·수유기 , 병중·병후 체력 저하시",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:02Z"
+}

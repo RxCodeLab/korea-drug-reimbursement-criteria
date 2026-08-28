@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200810810",
+ "item_name": "아무로스프레이",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20081104",
+ "cancel_date": "20260401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222937]나파졸린염산염|[M222965]디부카인염산염|[M223211]클로르페니라민말레산염|[M279321]염화세틸피리디늄",
+ "main_item_ingr_eng": "Cetylpyridinium Chloride/Chlorpheniramine Maleate/Dibucaine Hydrochloride/Naphazoline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "D08AJ",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810810",
+ "revisions": [
+  {
+   "revision_id": "200810810-8712e1a9",
+   "content_sha256": "8712e1a90784464bea58eb3e2c5c957f677e8f06f1ede1f56b1daebf0d61fec4",
+   "ee_text": "베인 상처, 긁힌 상처, 찔린 상처, 긁어서 생긴 상처, 쓸린 상처, 창상(상처)면의 살균 · 소독",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:20Z"
+}

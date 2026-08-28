@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908692",
+ "item_name": "리페돌정160밀리그램(페노피브레이트)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20191230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051799]페노피브레이트",
+ "main_item_ingr_eng": "Fenofibrate",
+ "edi_code": "657807030",
+ "atc_code": "C10AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908692",
+ "revisions": [
+  {
+   "revision_id": "201908692-41a2a11c",
+   "content_sha256": "41a2a11cfa54064e29f3e35b2e7ff645d2cddf05aae50672fc92cb41f322b820",
+   "ee_text": "원발성 고지혈증 : 고콜레스테롤혈증(IIa형), 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(IIb형, Ⅲ형), 고트리글리세라이드혈증 (IV형)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2019-12-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

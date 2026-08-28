@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200709027",
+ "item_name": "아이월드황금탕엑스과립",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20070803",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M212865]이상물건조엑스|[M040071]대추|[M040006]감초|[M040523]작약|[M040789]황금",
+ "main_item_ingr_eng": "As Dried Extract/Jujube/Licorice/Peony Root/Scutellaria Root",
+ "edi_code": "",
+ "atc_code": "C04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709027",
+ "revisions": [
+  {
+   "revision_id": "200709027-8abe47ff",
+   "content_sha256": "8abe47ffb5ba353bded698ac016547a60ab99b07bee3e4193cf558a69122b5b2",
+   "ee_text": "한기, 발열, 복통, 명치가 답답함 등 어느 것을 수반하는 다음 증상 : 설사, 위장카타르",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:14Z",
+   "last_observed_at": "2026-08-28T13:24:14Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:14Z"
+}

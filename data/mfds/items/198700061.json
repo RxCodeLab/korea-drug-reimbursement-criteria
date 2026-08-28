@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700061",
+ "item_name": "한풍건강엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19870228",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040007]건강",
+ "main_item_ingr_eng": "Ginger",
+ "edi_code": "",
+ "atc_code": "A16A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700061",
+ "revisions": [
+  {
+   "revision_id": "198700061-fa8eec8b",
+   "content_sha256": "fa8eec8b8f51c7a7ce2b92eb0ca92c07a15111fdda3db346861592cad16333e7",
+   "ee_text": "(신체)한냉, 구토, 곽란",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:41Z",
+   "last_observed_at": "2026-08-28T13:23:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:41Z"
+}

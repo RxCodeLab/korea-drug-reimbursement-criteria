@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501019",
+ "item_name": "듀어클리어제뉴에어400/12마이크로그램",
+ "entp_name": "주식회사에스피씨코리아",
+ "permit_date": "20150226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259809]아클리디니움브롬화물(미분화)|[M258126]포르모테롤푸마르산염수화물(미분화)",
+ "main_item_ingr_eng": "Aclidinium Bromide Micronized/Formoterol Fumarate Hydrate Micronized",
+ "edi_code": "056800041",
+ "atc_code": "R03AL05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501019",
+ "revisions": [
+  {
+   "revision_id": "201501019-74c6163f",
+   "content_sha256": "74c6163fff7dd8e09d82cc8c0aa71dd76df664cfc62450fafb27997ed140aa45",
+   "ee_text": "기관지 확장제로 만성폐쇄성 폐질환의 유지요법제",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:41Z",
+   "last_observed_at": "2026-08-28T13:24:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:41Z"
+}

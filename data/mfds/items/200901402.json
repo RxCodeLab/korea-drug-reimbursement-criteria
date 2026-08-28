@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200901402",
+ "item_name": "속크린산",
+ "entp_name": "한솔신약(주)",
+ "permit_date": "20090220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M207094]탄산수소나트륨|[M083123]고목가루|[M040010]겐티아나|[M040538]진피|[M040527]정향|[M040486]육두구|[M040811]회향|[M262289]디아스타제·프로테아제·셀룰라제2000II|[M040040]합성규산알루미늄|[M040629]탄산마그네슘|[M050036]육계",
+ "main_item_ingr_eng": "Cinnamon Bark/Citrus Unshiu Peel/Clove/Diastase·Protease·Cellulase 2000 II/Fennel/Gentian/Magnesium Carbonate/Nutmeg/Picrasma Wood Powder/Precipitated Calcium Carbonate/Sodium Bicarbonate/Synthetic Aluminium Silicate",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901402",
+ "revisions": [
+  {
+   "revision_id": "200901402-6ba348d0",
+   "content_sha256": "6ba348d0b82a6d6e91e5d8a1b9372e565d37167e67286d69844daa49d903ce43",
+   "ee_text": "과음, 속쓰림, 위트림, 과식, 위통, 위부(상복부)불쾌감, 소화불량, 소화촉진, 식욕부진, 위약, 위산과다, 위ㆍ복부팽만감, 구역질(위의 메스꺼림, 숙취, 술을 마신 후의 구역질, 오심(구역)), 구토, 가슴앓이, 트림, 위의 무거움.",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z",
+   "official_revision_date": "2019-11-18"
+  },
+  {
+   "revision_id": "200901402-1c627540",
+   "content_sha256": "1c627540f9342c9eb4f0f1249e0d521744b327a6e6b557c7007747e235209bee",
+   "ee_text": "과음, 속쓰림, 위트림, 과식, 위통, 위부불쾌감, 소화불량, 소화촉진, 식욕부진, 위약, 위산과다, 위ㆍ복부팽만감, 구역질(위의 메스꺼림, 숙취, 술을 마신 후의 구역질, 오심), 구토, 가슴앓이, 트림, 위의 무거움.",
+   "ee_doc_id": "2",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:20Z"
+}

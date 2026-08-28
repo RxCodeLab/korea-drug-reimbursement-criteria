@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109868",
+ "item_name": "카비벤페리페랄주(Kabiven Peripheral Inj.)",
+ "entp_name": "프레지니우스카비코리아(주)",
+ "permit_date": "20010725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202247]L-아스파르트산|[M240607]아세트산나트륨삼수화물|[M040438]염화칼륨|[M245290]황산마그네슘칠수화물|[M204427]L-글루탐산|[M088656]글리신|[M215288]L-히스티딘|[M222530]L-이소류신|[M222531]L-류신|[M222998]L-리신염산염|[M081583]정제대두유|[M103077]L-아르기닌|[M070096]글리세로인산나트륨|[M044300]포도당일수화물|[M209366]L-알라닌|[M218567]L-메티오닌|[M204442]L-페닐알라닌|[M214861]L-프롤린|[M204435]L-세린|[M103060]L-트레오닌|[M218015]L-트립토판|[M214313]L-티로신|[M209360]L-발린|[M083749]염화칼슘이수화물",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose Monohydrate/Glycine/L-Alanine/L-Arginine/L-Aspartic Acid/L-Glutamic Acid/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Hydrochloride/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine/Magnesium Sulfate Heptahydrate/Potassium Chloride/Refined Soybean Oil/Sodium Acetate Hydrate/Sodium Glycerophosphate",
+ "edi_code": "650901010",
+ "atc_code": "B05BA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109868",
+ "revisions": [
+  {
+   "revision_id": "200109868-22fb93f3",
+   "content_sha256": "22fb93f336da1fada157c3144566cce4f7a675c895f340f12ac977d7965cbbe2",
+   "ee_text": "경구 또는 위장관 영양보급이 불가능 또는 불충분하거나 또는 제한되어 경정맥 영양공급을 실시해야 하는 환자들에게 수분, 전해질, 아미노산 및 칼로리 보급",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-28T13:23:59Z",
+   "last_observed_at": "2026-08-28T13:23:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:59Z"
+}

@@ -12,16 +12,15 @@
  "edi_code": "",
  "atc_code": "B03XA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101324",
+ "history_fetched_at": "2026-08-27T13:54:13Z",
  "revisions": [
   {
    "revision_id": "200101324-4531f2d3",
    "content_sha256": "4531f2d32eb0577bfbb2b645774c18b86df198e7e6ec9c915bf6165d4fe244f7",
    "ee_text": "1)증후성 빈혈 2) 수혈이 필요한 빈혈 적용례 : 1) 저 헤모글로빈 농도 2) 많은 양의 혈액이 필요한 대수술이 예정된 경우 (여성 : 4units 이상의 혈액, 남성 : 5units 이상의 혈액이 필요한 경우) 3) 짧은 수술전 기간 : 필요한 자가혈액량을 채혈하기에는 기간이 너무 짧은 경우",
-   "ee_doc_id": "10",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200101324/EE",
    "first_observed_at": "2026-08-27T13:54:13Z",
-   "last_observed_at": "2026-08-27T13:54:13Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-08-28T13:23:58Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:54:13Z"
+ ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200901453",
+ "item_name": "크린톤액(구풍해독산)",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20090224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040048]길경|[M040006]감초|[M050022]강활|[M051936]형개|[M051105]연교|[M083712]우방자|[M040205]방풍|[M040279]석고",
+ "main_item_ingr_eng": "Arctium Fruit/Forsythia Fruit/Gypsum Fibrosum/Licorice/Ostericum Root/Platycodon Root/Saposhnikovia Root/Schizonepeta Spike",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901453",
+ "revisions": [
+  {
+   "revision_id": "200901453-a129e8ec",
+   "content_sha256": "a129e8ec55006f28cad1741011fb8a4ef449fe71f7ec63b0e13e0ac3824042e8",
+   "ee_text": "인후가 부어서 아픈 다음 증상 : 편도염, 편도주위염",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:20Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202009212",
+ "item_name": "기넥신에프정240밀리그램(은행엽건조엑스)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20201224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088948]은행엽건조엑스",
+ "main_item_ingr_eng": "Ginkgo Biloba Leaf Dried Extract",
+ "edi_code": "",
+ "atc_code": "N06DX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009212",
+ "revisions": [
+  {
+   "revision_id": "202009212-9c7cff94",
+   "content_sha256": "9c7cff9486dce30d20ada1f75124983421a589c30515cc104fe10e7bfe83435f",
+   "ee_text": "집중력 저하, 기억력 감퇴, 현기증(동맥 경화 증상)과 같은 증상이 동반되는 정신 기능 저하",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:22Z",
+   "last_observed_at": "2026-08-28T13:25:22Z",
+   "official_revision_date": "2020-12-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:22Z"
+}

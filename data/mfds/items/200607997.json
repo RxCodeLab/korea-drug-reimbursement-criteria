@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200607997",
+ "item_name": "실리비타연질캡슐(수출명:Silyvita)(수출용)",
+ "entp_name": "(주)서흥",
+ "permit_date": "20060628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M225044]판토텐산 칼슘|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M040133]리보플라빈|[M223258]티아민염산염|[M250889]밀크시슬엑스|[M096429]시아노코발라민",
+ "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin/Milk-thistle Fruit Extract/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607997",
+ "revisions": [
+  {
+   "revision_id": "200607997-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200607997/EE",
+   "first_observed_at": "2026-08-28T13:24:11Z",
+   "last_observed_at": "2026-08-28T13:24:11Z"
+  },
+  {
+   "revision_id": "200607997-e48e7271",
+   "content_sha256": "e48e7271aae85aaf0b4afc8093e175ae0cbb5a9d16d5705615fe2bd902939ed9",
+   "ee_text": ": 만성간질환, 지방간, 간경변, 중독성 간질환",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:11Z",
+   "last_observed_at": "2026-08-28T13:24:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:11Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801546",
+ "item_name": "더블엑스투카타플라스마",
+ "entp_name": "(주)시어스제약",
+ "permit_date": "20180410",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200188]노닐산바닐릴아미드|[M204423]dl-캄파|[M279284]L-멘톨|[M203279]살리실산메틸",
+ "main_item_ingr_eng": "DL-Camphor/L-Menthol/Methyl Salicylate/Vanillyl Nonylamide",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801546",
+ "revisions": [
+  {
+   "revision_id": "201801546-663af537",
+   "content_sha256": "663af5376124308658e25367197a58d1937ce1bb263cef0098dd2a3762ec6bc2",
+   "ee_text": "다음 증상의 진통․소염 : 타박상, 삠, 요통, 어깨결림, 근육통, 관절통",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2018-04-10"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198400249",
+ "item_name": "제일핫파프(군납명:노닐산바닐아미드카타플라스마제)",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "19840316",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050127]노닐산바닐아미드|[M203279]살리실산메틸",
+ "main_item_ingr_eng": "Methyl Salicylate/Vanillyl Nonylamide",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400249",
+ "revisions": [
+  {
+   "revision_id": "198400249-2c308edb",
+   "content_sha256": "2c308edb9be614e0b604e3efb06e52632b1fba2bece44f5ed5460d70a392d4ff",
+   "ee_text": "다음 증상의 진통ㆍ소염(항염) : 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 신경통, 류마티스통증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198400249/EE",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z"
+  },
+  {
+   "revision_id": "198400249-21b46996",
+   "content_sha256": "21b46996504f35493a3a99e33e490de3df41ef8b7ec85d526401f8939c8fd846",
+   "ee_text": "다음 증상의 진통ㆍ소염(항염) : 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 신경통, 류마티스통증 성상 이 약은 백색-담회백색의 약액을 폴리에스텔 필름에 도포하고(바르고) 부직포를 덮은 것으로 특이한 냄새가 있는 카타플라스마제이다.",
+   "ee_doc_id": "18",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:39Z"
+}

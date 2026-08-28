@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805303",
+ "item_name": "일양경옥고",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20181227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082091]생지황즙|[M040225]복령|[M040213]인삼|[M200168]꿀",
+ "main_item_ingr_eng": "Ginseng/Honey/Poria/Rehmanniae Glutinosae Liboschitz var. Purpureae Makino",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805303",
+ "revisions": [
+  {
+   "revision_id": "201805303-e855c4b8",
+   "content_sha256": "e855c4b8f94a59f07a7315a442b8c98a8cb539e06e2bfa6903ace8e1110bdb04",
+   "ee_text": "다음의 경우의 자양강장 : 병중병후(병을 앓는 동안이나 회복 후), 허약체질, 육체피로, 권태, 갱년기 장애",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:25:03Z",
+   "last_observed_at": "2026-08-28T13:25:03Z",
+   "official_revision_date": "2019-03-22"
+  },
+  {
+   "revision_id": "201805303-20a4afa0",
+   "content_sha256": "20a4afa089de92acdc7641ddf42bda6702c5502811c35d9e1206220032665f31",
+   "ee_text": "다음의 경우의 자양강장 : 병중병후, 허약체질, 육체피로, 권태, 갱년기 장애",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-12-27",
+   "first_observed_at": "2026-08-28T13:25:03Z",
+   "last_observed_at": "2026-08-28T13:25:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:03Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711025",
+ "item_name": "메티벤정 500/2.5mg(수출용)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20071004",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050102]글리벤클라미드|[M223014]메트포르민염산염",
+ "main_item_ingr_eng": "Glibenclamide/Metformin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A10BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711025",
+ "revisions": [
+  {
+   "revision_id": "200711025-bff09351",
+   "content_sha256": "bff09351cce691764b11fd86d142cfcaffecf7b62b48e3be1cee6208f1549bd2",
+   "ee_text": "- 식이요법, 운동요법, 이전의 메트포르민(metformin) 또는 설포닐우레아(sulfonylurea) 단독요법으로 혈당 조절효과가 불충분한 경우 2차 요법 - 혈당증이 안정적이고 잘 조절된 환자에서 이전의 메트포르민과 설포닐우레아 병용요법(combination therapy)의 대체",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:24:14Z",
+   "last_observed_at": "2026-08-28T13:24:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:14Z"
+}

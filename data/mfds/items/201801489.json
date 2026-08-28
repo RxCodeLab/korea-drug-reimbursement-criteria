@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801489",
+ "item_name": "스쿠덱사정",
+ "entp_name": "한국메나리니(주)",
+ "permit_date": "20180404",
+ "cancel_date": "20240304",
+ "status": "취하",
+ "main_item_ingr": "[M213126]덱스케토프로펜트로메타몰|[M255410]트라마돌염산염",
+ "main_item_ingr_eng": "Dexketoprofen Trometamol/Tramadol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02AJ14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801489",
+ "revisions": [
+  {
+   "revision_id": "201801489-5020d4a7",
+   "content_sha256": "5020d4a76279b862c085eae51dc6950a3a0ae41afc0480530c5685c39d132bd9",
+   "ee_text": "트라마돌과 덱스케토프로펜 복합제를 필요로 하는 성인의 중등도 내지 중증의 급성 통증 증상의 단기 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2018-04-04"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

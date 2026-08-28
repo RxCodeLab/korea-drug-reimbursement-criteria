@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400572",
+ "item_name": "퓨어펜연질캡슐",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20240319",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜|[M082487]파마브롬|[M040262]산화마그네슘|[M040133]리보플라빈",
+ "main_item_ingr_eng": "Ibuprofen/Magnesium Oxide/Pamabrom/Riboflavin",
+ "edi_code": "",
+ "atc_code": "M01AE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400572",
+ "revisions": [
+  {
+   "revision_id": "202400572-fddd2a45",
+   "content_sha256": "fddd2a459cb464a222c68ba6b9f626a47852c085db61cc6e68e0578ef85a45e8",
+   "ee_text": "1. 두통, 치통, 발치후 동통(통증), 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요통, 근육통, 견통(어깨결림), 타박통, 골절통, 염좌통(삠통증), 월경통(생리통), 외상통의 진통 2. 오한(춥고 떨리는 증상), 발열 시의 해열",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:35Z",
+   "last_observed_at": "2026-08-28T13:25:35Z",
+   "official_revision_date": "2024-03-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:35Z"
+}

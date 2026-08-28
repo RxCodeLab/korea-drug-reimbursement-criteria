@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800115",
+ "history_fetched_at": "2026-08-27T13:01:25Z",
  "revisions": [
   {
    "revision_id": "201800115-bbe43469",
    "content_sha256": "bbe43469f27419b58774b99068dac3c6b7a8318d4a13fe6a911e98d814408cfe",
    "ee_text": "감기의 제증상(여러 증상)(인후통, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
-   "ee_doc_id": "3",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201800115/EE",
    "first_observed_at": "2026-08-27T13:01:25Z",
-   "last_observed_at": "2026-08-27T13:01:25Z",
-   "official_revision_date": "2019-07-12"
+   "last_observed_at": "2026-08-28T13:24:58Z"
   },
   {
    "revision_id": "201800115-f5b92717",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:01:25Z",
    "last_observed_at": "2026-08-27T13:01:25Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:01:25Z"
+ ]
 }

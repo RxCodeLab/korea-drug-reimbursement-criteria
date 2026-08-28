@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005567",
+ "item_name": "큐앤큐헥시딘와입스(클로르헥시딘글루콘산염)",
+ "entp_name": "큐앤큐팜(주)",
+ "permit_date": "20200731",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "",
+ "atc_code": "D08AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005567",
+ "revisions": [
+  {
+   "revision_id": "202005567-9b00b6e8",
+   "content_sha256": "9b00b6e82edd3368691bb4f1368a0f9a704cce12a7fce99c2b0b1108b7c634fa",
+   "ee_text": "보건위생자의 손 소독",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z",
+   "official_revision_date": "2020-07-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:21Z"
+}

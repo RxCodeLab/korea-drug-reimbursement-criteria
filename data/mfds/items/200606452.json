@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200606452",
+ "item_name": "경진보위환(건비환)",
+ "entp_name": "경진제약(주)",
+ "permit_date": "20061030",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040550]천궁|[M040070]당귀|[M040255]산사자|[M050891]신곡|[M040538]진피|[M040202]반하|[M040523]작약|[M040225]복령|[M040214]백출",
+ "main_item_ingr_eng": "Angelica Gigas Root/Atractylodes Rhizome White/Citrus Unshiu Peel/Cnidium Rhizome/Crataegi Fructus/Massa Medicata Fermentata/Peony Root/Pinellia Tuber/Poria",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606452",
+ "revisions": [
+  {
+   "revision_id": "200606452-ccbb35fd",
+   "content_sha256": "ccbb35fdb8db7fe912d951fbdc25ba8f3ee600b4ab3839fe7858dbb0b1224fc9",
+   "ee_text": "소화불량, 식체(위체), 식욕감퇴(식욕부진)",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:10Z",
+   "last_observed_at": "2026-08-28T13:24:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:10Z"
+}

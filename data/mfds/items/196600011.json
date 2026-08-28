@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "196600011",
+ "item_name": "베스타제정",
+ "entp_name": "동아제약(주)",
+ "permit_date": "19660523",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083540]비오디아스타제500|[M082712]리파제AP6|[M260530]셀룰라제AP3",
+ "main_item_ingr_eng": "Biodiastase 500/Cellulase AP3/Lipase AP6",
+ "edi_code": "",
+ "atc_code": "A09AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196600011",
+ "revisions": [
+  {
+   "revision_id": "196600011-286238c3",
+   "content_sha256": "286238c3b12d46d86e2ad405992ae10e43fd39d2ee3a5cf7ad3fca20120802ff",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "25",
+   "first_observed_at": "2026-08-28T13:23:36Z",
+   "last_observed_at": "2026-08-28T13:23:36Z",
+   "official_revision_date": "2024-12-10"
+  },
+  {
+   "revision_id": "196600011-9d32e30d",
+   "content_sha256": "9d32e30df111c6075da50774f130e9ef5ed98aa35dc213585cb3d96f7ca3d03a",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 식체(위체), 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:36Z",
+   "last_observed_at": "2026-08-28T13:23:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:36Z"
+}

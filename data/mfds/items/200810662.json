@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200810662",
+ "item_name": "스토마겔현탁액(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20081028",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040306]수산화마그네슘|[M040308]건조수산화알루미늄겔|[M201415]옥세타자인",
+ "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel/Magnesium Hydroxide/Oxethazaine",
+ "edi_code": "",
+ "atc_code": "A02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810662",
+ "revisions": [
+  {
+   "revision_id": "200810662-d3c1d176",
+   "content_sha256": "d3c1d176505fcd5b06d970b79dd8a4e90dd35fb60da0ca1696546a1a990ae820",
+   "ee_text": "급성 ㆍ 만성통증, 위염, 십이지장궤양, 식도염, 방사선요법시 소화장애에 의한 위통",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:19Z",
+   "last_observed_at": "2026-08-28T13:24:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:19Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901619",
+ "item_name": "더마굿크림",
+ "entp_name": "구주제약(주)",
+ "permit_date": "20190318",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223043]베타메타손발레레이트|[M202821]겐타마이신황산염",
+ "main_item_ingr_eng": "Betamethasone Valerate/Gentamicin Sulfate",
+ "edi_code": "",
+ "atc_code": "D07CC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901619",
+ "revisions": [
+  {
+   "revision_id": "201901619-498580b5",
+   "content_sha256": "498580b512bb5296e801511db9890ac44e714d15a93696d5656be7c2d20c7a95",
+   "ee_text": "• 2차 감염된 알레르기성 또는 염증성 피부질환 : 습진, 접촉피부염, 지루피부염, 아토 피피부염, 광피부염, 만성단순태선, 간찰진, 박탈피부염, 가려움, 건선 • 1도 화상",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:05Z",
+   "last_observed_at": "2026-08-28T13:25:05Z",
+   "official_revision_date": "2019-03-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:05Z"
+}

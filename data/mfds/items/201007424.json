@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201007424",
+ "item_name": "베타라민정(수출용)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20101208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040218]베타메타손|[M223212]d-클로르페니라민말레산염",
+ "main_item_ingr_eng": "Betamethasone/D-Chlorpheniramine Maleate",
+ "edi_code": "",
+ "atc_code": "H02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007424",
+ "revisions": [
+  {
+   "revision_id": "201007424-faed5342",
+   "content_sha256": "faed534297c1faa4625c5401358c71804a3a7acc79c842d86a3decceb901b879",
+   "ee_text": "급성 두드러기, 고초열(화분증), 만성 기관지 천식, 알레르기성 비염, 약진, 아토피성 피부염, 습진, 접촉성 피부염, 알레르기성 결막염",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:24Z",
+   "last_observed_at": "2026-08-28T13:24:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:24Z"
+}

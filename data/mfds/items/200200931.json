@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200931",
+ "item_name": "통크린정(수출용)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20020910",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095195]아르기닌|[M051259]이부프로펜",
+ "main_item_ingr_eng": "Arginine/Ibuprofen",
+ "edi_code": "",
+ "atc_code": "M01AE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200931",
+ "revisions": [
+  {
+   "revision_id": "200200931-9b2f48fb",
+   "content_sha256": "9b2f48fb5036207ac331766becaaefbe5652bc1dd9bb52fc6f6082f184eb2e52",
+   "ee_text": "류마티스 관절염, 골관절염, 배통(등 통증), 두통, 월경통, 외상(상처)후 소염(항염)ㆍ진통, 유행성 감기로 인한 발열 및 통증",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

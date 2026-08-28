@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199806741",
+ "item_name": "지트람엑스엘서방정200밀리그람(트라마돌염산염)",
+ "entp_name": "한국먼디파마(유)",
+ "permit_date": "19981205",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222893]트라마돌염산염",
+ "main_item_ingr_eng": "Tramadol Hydrochloride",
+ "edi_code": "678000150",
+ "atc_code": "N02AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806741",
+ "revisions": [
+  {
+   "revision_id": "199806741-991d08fa",
+   "content_sha256": "991d08fad11fe29294db8764366c7eaf39fc0276712937e313c490f52e976b09",
+   "ee_text": "다음 질환에 사용할 수 있습니다. 중증 및 중등도의 급만성 동통 (각종 암등), 진단 및 수술후 동통",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

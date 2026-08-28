@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "N05CF02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800563",
+ "history_fetched_at": "2026-08-27T12:30:45Z",
  "revisions": [
   {
    "revision_id": "201800563-f89f82c3",
    "content_sha256": "f89f82c3a1a5c5e56e61e700a48ecb5cf3be33e170b6676389218c69e84e27da",
    "ee_text": "성인에서의 불면증의 단기 치료",
-   "ee_doc_id": "5",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201800563/EE",
    "first_observed_at": "2026-08-27T12:30:45Z",
-   "last_observed_at": "2026-08-27T12:30:45Z",
-   "official_revision_date": "2020-03-17"
+   "last_observed_at": "2026-08-28T13:24:59Z"
   },
   {
    "revision_id": "201800563-f0abecb3",
@@ -40,6 +40,5 @@
    "first_observed_at": "2026-08-27T12:30:45Z",
    "last_observed_at": "2026-08-27T12:30:45Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:30:45Z"
+ ]
 }

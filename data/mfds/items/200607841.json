@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "C05AA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607841",
+ "history_fetched_at": "2026-08-27T12:29:40Z",
  "revisions": [
   {
    "revision_id": "200607841-29228f4a",
    "content_sha256": "29228f4a39fc156550635892185e640588f028e474980191f71332ba2939f8cf",
    "ee_text": "치열․치핵의 아픔․가려움․부종(부기)․출혈의 일시적 완화",
-   "ee_doc_id": "23",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200607841/EE",
    "first_observed_at": "2026-08-27T12:29:40Z",
-   "last_observed_at": "2026-08-27T12:29:40Z",
-   "official_revision_date": "2021-03-11"
+   "last_observed_at": "2026-08-28T13:24:10Z"
   },
   {
    "revision_id": "200607841-267b1cd4",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:29:40Z",
    "last_observed_at": "2026-08-27T12:29:40Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:29:40Z"
+ ]
 }

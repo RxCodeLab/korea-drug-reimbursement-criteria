@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908548",
+ "item_name": "알레스잘액(레보세티리진염산염)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20191219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244596]레보세티리진염산염",
+ "main_item_ingr_eng": "Levocetirizine Hydrochloride",
+ "edi_code": "057000541",
+ "atc_code": "R06AE09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908548",
+ "revisions": [
+  {
+   "revision_id": "201908548-c13fb533",
+   "content_sha256": "c13fb533834a8eabb6b9a62aa88fb6a615f1e96a3495c0084829923710cc2a36",
+   "ee_text": "다음질환의 증상완화",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2021-03-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

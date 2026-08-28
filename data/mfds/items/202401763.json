@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401763",
+ "item_name": "이지페인담정",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20240718",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040614]클로르족사존|[M040417]에텐자미드|[M223184]카페인수화물",
+ "main_item_ingr_eng": "Caffeine Hydrate/Chlorzoxazone/Ethenzamide",
+ "edi_code": "",
+ "atc_code": "M03BB53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401763",
+ "revisions": [
+  {
+   "revision_id": "202401763-4f42b31a",
+   "content_sha256": "4f42b31ae86dbe88f20f6dcdb9a42d6c3bb425c0c3f7eab93425b24ca5b49415",
+   "ee_text": "신경통, 요통(허리통), 어깨결림",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:36Z",
+   "last_observed_at": "2026-08-28T13:25:36Z",
+   "official_revision_date": "2024-07-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:36Z"
+}

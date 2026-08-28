@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301294",
+ "item_name": "수프렙미니정",
+ "entp_name": "(주)태준제약",
+ "permit_date": "20230419",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082533]무수황산마그네슘|[M040806]황산칼륨|[M082173]무수황산나트륨",
+ "main_item_ingr_eng": "Anhydrous Magnesium Sulfate/Anhydrous Sodium Sulfate/Potassium Sulfate",
+ "edi_code": "",
+ "atc_code": "A06AD10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301294",
+ "revisions": [
+  {
+   "revision_id": "202301294-96c57701",
+   "content_sha256": "96c57701c578c6eaebaa6164fdf94122529a65fc7ce669852834e9da3ba1f752",
+   "ee_text": "대장(X선, 내시경)검사 시의 전처치용 장세척",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:33Z",
+   "last_observed_at": "2026-08-28T13:25:33Z",
+   "official_revision_date": "2023-04-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:33Z"
+}

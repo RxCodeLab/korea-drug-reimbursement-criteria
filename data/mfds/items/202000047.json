@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000047",
+ "item_name": "메가텔디핀정40/5밀리그램",
+ "entp_name": "(주)엘앤씨바이오",
+ "permit_date": "20200103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222875]암로디핀베실산염|[M269777]텔미사르탄파우더(23.9%)",
+ "main_item_ingr_eng": "Amlodipine Besylate/Telmisartan Powder 23.9%",
+ "edi_code": "060500210",
+ "atc_code": "C09DB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000047",
+ "revisions": [
+  {
+   "revision_id": "202000047-3ab3b3b4",
+   "content_sha256": "3ab3b3b448343780af42e100cfc3bcc8ddefdfcae8dcddbecf515a6b463f759e",
+   "ee_text": "텔미사르탄 또는 암로디핀 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2020-01-03"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

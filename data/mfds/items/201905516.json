@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905516",
+ "item_name": "로에굿정",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20190805",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080745]노회엑스|[M223167]우르소데옥시콜산|[M040306]수산화마그네슘",
+ "main_item_ingr_eng": "Aloe Extract/Magnesium Hydroxide/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A06AB20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905516",
+ "revisions": [
+  {
+   "revision_id": "201905516-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:10Z",
+   "last_observed_at": "2026-08-28T13:25:10Z",
+   "official_revision_date": "2019-08-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:10Z"
+}

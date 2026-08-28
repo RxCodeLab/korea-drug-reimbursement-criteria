@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803401",
+ "item_name": "요신정",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20180820",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040474]용담|[M040564]치자|[M040006]감초|[M040545]차전자|[M040638]택사|[M040789]황금|[M040186]목통|[M040070]당귀|[M040537]지황|[M050036]육계|[M050752]생강|[M040073]대황|[M040135]마황|[M051105]연교",
+ "main_item_ingr_eng": "Akebia Stem/Alisma Rhizome/Angelica Gigas Root/Cinnamon Bark/Ephedra Herb/Forsythia Fruit/Gardenia Fruit/Gentian Root and Rhizome/Licorice/Plantago Seed/Raw Ginger/Rehmannia Root/Rhubarb/Scutellaria Root",
+ "edi_code": "",
+ "atc_code": "G04BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803401",
+ "revisions": [
+  {
+   "revision_id": "201803401-b006db8e",
+   "content_sha256": "b006db8e1181d4edf8f2261ad01e7efa6202fb3e050c96f66367c2ac3aa5d02d",
+   "ee_text": "방광카타르, 요도염, 신장(콩팥)병, 신증(콩팥증)후군, 부종(부기)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:01Z",
+   "last_observed_at": "2026-08-28T13:25:01Z",
+   "official_revision_date": "2018-08-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:01Z"
+}

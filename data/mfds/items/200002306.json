@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002306",
+ "item_name": "한신시호계지탕엑스과립",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20000107",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040007]건강|[M040006]감초|[M040071]대추|[M051291]인삼|[M040789]황금|[M050037]계지|[M040202]반하|[M040336]시호|[M040523]작약|[M105820]시호계지탕연조엑스(5.34→1)",
+ "main_item_ingr_eng": "Bupleurum Root/Cinnamomi Ramulus/Ginger/Ginseng/Jujube/Licorice/Peony Root/Pinellia Tuber/Scutellaria Root/Sihogyejitang Soft Extract (5.34→1)",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002306",
+ "revisions": [
+  {
+   "revision_id": "200002306-1dbc33e1",
+   "content_sha256": "1dbc33e1bf172050845bb3f0e75eaa8f1a2fbf8701ddc3e1111667ecc8d8b707",
+   "ee_text": "대부분 복통을 수반한 위장염, 미열·추위·두통·구역이 있는 감기, 감기 후기 증상",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:55Z",
+   "last_observed_at": "2026-08-28T13:23:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:55Z"
+}

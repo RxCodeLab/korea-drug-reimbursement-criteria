@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198600462",
+ "item_name": "삼아아토크건조시럽(포르모테롤푸마르산염수화물)",
+ "entp_name": "삼아제약(주)",
+ "permit_date": "19860625",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223288]포르모테롤푸마르산염수화물",
+ "main_item_ingr_eng": "Formoterol Fumarate Hydrate",
+ "edi_code": "645700681",
+ "atc_code": "R03CC15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600462",
+ "revisions": [
+  {
+   "revision_id": "198600462-4d9c70f2",
+   "content_sha256": "4d9c70f2c9d3f5fcbdbd809880b1658f8c232d001b34f75ed05284ab9650e831",
+   "ee_text": "다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 급성기관지염 ☆ 국내임상시험결과 추가제출(의약품재평가 진행 중)",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z",
+   "official_revision_date": "2023-03-02"
+  },
+  {
+   "revision_id": "198600462-e655d199",
+   "content_sha256": "e655d199bb4ce631f085e7aa4565254abfaf43b6f90fef57d52922cb150b29f0",
+   "ee_text": "다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 급성기관지염, 천식성기관지염",
+   "ee_doc_id": "17",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:40Z"
+}

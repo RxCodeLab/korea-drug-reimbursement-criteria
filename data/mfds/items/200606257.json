@@ -12,15 +12,15 @@
  "edi_code": "648902161,648902162,648902163,648902164,648902165",
  "atc_code": "B02BD04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606257",
+ "history_fetched_at": "2026-08-27T11:08:18Z",
  "revisions": [
   {
    "revision_id": "200606257-216d46ad",
    "content_sha256": "216d46ad018ab93708ece709ad6e2f9fc1ac59f5315f6d76924e980310f0da61",
    "ee_text": "혈우병 B(선천성 IX인자 결핍증 또는 크리스마스병(Christmas disease)) 환자의, - 출혈 에피소드(episodes)의 억제 및 예방(외과적 수술시 출혈억제 및 예방 포함) - 일상적 예방요법(routine prophylaxis)으로서 출혈 에피소드의 빈도 감소",
-   "ee_doc_id": "63",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200606257/EE",
    "first_observed_at": "2026-08-27T11:08:18Z",
-   "last_observed_at": "2026-08-27T11:08:18Z",
-   "official_revision_date": "2021-02-17"
+   "last_observed_at": "2026-08-28T13:24:10Z"
   },
   {
    "revision_id": "200606257-69eb7fb6",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T11:08:18Z",
    "last_observed_at": "2026-08-27T11:08:18Z"
   }
- ],
- "history_fetched_at": "2026-08-27T11:08:18Z"
+ ]
 }

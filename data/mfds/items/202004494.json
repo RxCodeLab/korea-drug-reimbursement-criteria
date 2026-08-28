@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004494",
+ "item_name": "광동리버샷정300(수출용)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20200619",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040133]리보플라빈|[M223167]우르소데옥시콜산|[M261840]간가수분해물(4→1)",
+ "main_item_ingr_eng": "Liver Hydrolysate (4→1)/Riboflavin/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004494",
+ "revisions": [
+  {
+   "revision_id": "202004494-7fd1bb2b",
+   "content_sha256": "7fd1bb2bd649eca282a6e6ba2530b0b03c2fb3330e73cd7027b106855ca078b7",
+   "ee_text": "육체피로ㆍ병중병후ㆍ식욕부진ㆍ영양장애ㆍ발열성소모성질환ㆍ임신ㆍ수유기 등의 경우의 영양보급, 자양강장, 허약체질",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:20Z",
+   "last_observed_at": "2026-08-28T13:25:20Z",
+   "official_revision_date": "2020-06-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:20Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200905011",
+ "item_name": "미클트로키(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20090707",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M279321]염화세틸피리디늄|[M081457]글리시리진산디칼륨|[M081458]포수테르핀",
+ "main_item_ingr_eng": "Cetylpyridinium Chloride/Chlorpheniramine Maleate/Dipotassium Glycyrrhizinate/Terpin Hydrate",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905011",
+ "revisions": [
+  {
+   "revision_id": "200905011-c8bcd07f",
+   "content_sha256": "c8bcd07fec481c16ed8008bfd9c4279872523617e4a0efdb8a3ca487b3e930b3",
+   "ee_text": "인후의 염증에 의한 인후의 통증 ㆍ 부기 ㆍ 불쾌감, 목쉼",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:21Z"
+}

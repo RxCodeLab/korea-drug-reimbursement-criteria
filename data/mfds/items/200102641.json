@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200102641",
+ "item_name": "제이더블유신약페닐에프린액(페닐레프린염산염)",
+ "entp_name": "제이더블유신약(주)",
+ "permit_date": "20011114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222724]페닐레프린염산염",
+ "main_item_ingr_eng": "Phenylephrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102641",
+ "revisions": [
+  {
+   "revision_id": "200102641-343df25d",
+   "content_sha256": "343df25defdb8eb4d3f40a03dbd5ea6b31b00a70f34453624e5ff8bc00a257ca",
+   "ee_text": "감기, 고초열, 부비강염, 상기도 알레르기에 의한 비충혈의 일시적 완화",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

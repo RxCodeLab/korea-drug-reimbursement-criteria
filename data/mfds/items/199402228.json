@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "N03AG01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199402228",
+ "history_fetched_at": "2026-08-27T13:42:28Z",
  "revisions": [
   {
    "revision_id": "199402228-d90b00d1",
    "content_sha256": "d90b00d1917a034dfc1d1abfbbd736328566213da308eb89806bf4fb429fec1a",
    "ee_text": "1. 뇌전증[결신발작(소발작), 부분발작(초점발작), 정신운동성발작 및 혼합발작]과 뇌전증에 뒤따르는 성격·행동장애의 예방과 치료 2. 수술후 및 외상후의 발작",
-   "ee_doc_id": "27",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199402228/EE",
    "first_observed_at": "2026-08-27T13:42:28Z",
-   "last_observed_at": "2026-08-27T13:42:28Z",
-   "official_revision_date": "2019-04-21"
+   "last_observed_at": "2026-08-28T13:23:46Z"
   },
   {
    "revision_id": "199402228-e3b0c442",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:42:28Z",
    "last_observed_at": "2026-08-27T13:42:28Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:42:28Z"
+ ]
 }

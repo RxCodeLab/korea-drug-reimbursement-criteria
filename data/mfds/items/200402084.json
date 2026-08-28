@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402084",
+ "item_name": "미라클정(수출용)(수출명:Miracle Tab.)",
+ "entp_name": "에스에스팜(주)",
+ "permit_date": "20040920",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080549]염산라니티딘|[M080503]구연산비스마스칼륨|[M223077]수크랄페이트수화물",
+ "main_item_ingr_eng": "Ranitidine Hydrochloride/Sucralfate Hydrate/Tripotassium Bismuth Dicitrate",
+ "edi_code": "",
+ "atc_code": "A02BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402084",
+ "revisions": [
+  {
+   "revision_id": "200402084-69f2bbce",
+   "content_sha256": "69f2bbce6d3ae74b56d86928a8fe2e9436636104d63b35f4a5792678e2dc8f5b",
+   "ee_text": "위궤양, 위염, 십이지장궤양, 졸링거엘리슨증후군, 역류성식도염, 마취전투약(멜델슨증후군예방), 수술후 궤양, 비스테로이드성 소염진통제(NSAID)로 이한 위·십이지장궤양",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:05Z",
+   "last_observed_at": "2026-08-28T13:24:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:05Z"
+}

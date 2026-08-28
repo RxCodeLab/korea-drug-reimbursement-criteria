@@ -7,11 +7,12 @@
  "permit_date": "20140613",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051564]탄산칼슘|[M040631]탄산수소나트륨|[M040385]알긴산나트륨",
+ "main_item_ingr": "[M040385]알긴산나트륨|[M040631]탄산수소나트륨|[M051564]탄산칼슘",
  "main_item_ingr_eng": "Calcium Carbonate/Sodium Alginate/Sodium Bicarbonate",
  "edi_code": "",
  "atc_code": "A02BX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402653",
+ "history_fetched_at": "2026-08-27T12:06:46Z",
  "revisions": [
   {
    "revision_id": "201402653-1fbc603a",
@@ -19,7 +20,7 @@
    "ee_text": "다음의 위식도 역류의 증상 개선 : ○ 산 역류 ○ 속쓰림 ○ 위 내용물의 역류로 인한 소화불량 (예를 들어 식사 후, 임신 중, 역류성 식도염과 동반하는 경우의)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201402653/EE",
    "first_observed_at": "2026-08-27T12:06:46Z",
-   "last_observed_at": "2026-08-27T12:06:46Z"
+   "last_observed_at": "2026-08-28T13:24:36Z"
   },
   {
    "revision_id": "201402653-a8a48911",
@@ -30,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:06:46Z",
    "last_observed_at": "2026-08-27T12:06:46Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:06:46Z"
+ ]
 }

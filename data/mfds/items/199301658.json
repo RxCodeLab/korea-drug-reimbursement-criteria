@@ -12,15 +12,15 @@
  "edi_code": "647800981",
  "atc_code": "V03AB15",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301658",
+ "history_fetched_at": "2026-08-27T13:27:41Z",
  "revisions": [
   {
    "revision_id": "199301658-0e0b4982",
    "content_sha256": "0e0b4982506da48071878b572396c163a0b9d44cee2aeb420a516f9a457db449",
    "ee_text": "1. 천연·합성마약, 프로폭시펜, 메타돈 및 마약길항진통제(예 : 날부핀, 펜타조신, 부토르판올) 등의 아편류에 의한 호흡억제를 포함하는 마약 억제의 전체적 또는 부분적 역전 2. 급성마약 과량투여시 진단",
-   "ee_doc_id": "19",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199301658/EE",
    "first_observed_at": "2026-08-27T13:27:41Z",
-   "last_observed_at": "2026-08-27T13:27:41Z",
-   "official_revision_date": "2023-11-04"
+   "last_observed_at": "2026-08-28T13:23:45Z"
   },
   {
    "revision_id": "199301658-1914d29d",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:27:41Z",
    "last_observed_at": "2026-08-27T13:27:41Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:27:41Z"
+ ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005757",
+ "item_name": "경방인삼엑스산",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040213]인삼",
+ "main_item_ingr_eng": "Ginseng",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005757",
+ "revisions": [
+  {
+   "revision_id": "200005757-038dd4a5",
+   "content_sha256": "038dd4a508c294b2741e255559ae5d3c99fa1c5ab3708f4e420d58f295415c3e",
+   "ee_text": "자양, 강장",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:57Z"
+}

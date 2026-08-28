@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905900",
+ "item_name": "솔리베정10밀리그램(솔리페나신숙신산염)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20190821",
+ "cancel_date": "20240821",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M259862]솔리페나신숙신산염",
+ "main_item_ingr_eng": "Solifenacin Succinate",
+ "edi_code": "",
+ "atc_code": "G04BD08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905900",
+ "revisions": [
+  {
+   "revision_id": "201905900-351d7688",
+   "content_sha256": "351d7688de3ac8829e675ec85e8db4ce888bf71082cdbfd8b708253bb3548e21",
+   "ee_text": "절박성 뇨실금, 빈뇨, 요절박과 같은 과민성방광 증상의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:10Z",
+   "last_observed_at": "2026-08-28T13:25:10Z",
+   "official_revision_date": "2019-08-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:10Z"
+}

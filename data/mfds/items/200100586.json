@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100586",
+ "item_name": "유한비타민씨정1000mg",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20010212",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234001]아스코르브산과립97%",
+ "main_item_ingr_eng": "Ascorbic Acid Granules 97%",
+ "edi_code": "",
+ "atc_code": "A11GA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100586",
+ "revisions": [
+  {
+   "revision_id": "200100586-370f1424",
+   "content_sha256": "370f142472e0836fb75a2237c7f44694e92e6a72d13ac8fb812c0c9931723286",
+   "ee_text": "1) 임신·수유기 및 병중 병후(병을 앓는 동안이나 회복 후)의 체력저하 2) 육체피로 1) 잇몸출혈, 비출혈(코피), 혈뇨 등의 모세관출혈 2) 햇빛·피부병 등에 의한 색소침착(기미, 주근깨) 3) 흡수불량",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2019-08-26"
+  },
+  {
+   "revision_id": "200100586-1967e124",
+   "content_sha256": "1967e1240c697f255b2a93d3bda97fc34895ac0ee2d0d6ce74a34110003ff3e8",
+   "ee_text": "1) 임신·수유기 및 병중 병후의 체력저하 2) 육체피로 1) 잇몸출혈, 비출혈, 혈뇨 등의 모세관출혈 2) 햇빛·피부병 등에 의한 색소침착(기미, 주근깨) 3) 흡수불량",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

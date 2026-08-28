@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199902599",
+ "item_name": "미래나프록센나트륨정",
+ "entp_name": "미래바이오제약(주)",
+ "permit_date": "19991101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070724]나프록센나트륨",
+ "main_item_ingr_eng": "Naproxen Sodium",
+ "edi_code": "",
+ "atc_code": "M01AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902599",
+ "revisions": [
+  {
+   "revision_id": "199902599-6fc8acfe",
+   "content_sha256": "6fc8acfee8749914df8c2a49ad8b390d96984c9b1585913ec8d26ac3d0be30f4",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건염, 급성통풍, 월경곤란증 활액낭염, 골격근장애(염좌, 좌상, 외상, 요천통), 수술후 동통, 편두통, 발치후 동통",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:51Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302766",
+ "item_name": "비스칸비산",
+ "entp_name": "(주)바이넥스",
+ "permit_date": "20230915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균|[M244748]판토텐산칼슘",
+ "main_item_ingr_eng": "Bacillus Licheniformis/Calcium Pantothenate",
+ "edi_code": "643105811",
+ "atc_code": "A07FA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302766",
+ "revisions": [
+  {
+   "revision_id": "202302766-a13348c6",
+   "content_sha256": "a13348c67da4a18444153ab8c9733e07afe65541e01ad2ff82c2ede164e9c386",
+   "ee_text": "정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:34Z",
+   "last_observed_at": "2026-08-28T13:25:34Z",
+   "official_revision_date": "2023-09-15"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:34Z"
+}

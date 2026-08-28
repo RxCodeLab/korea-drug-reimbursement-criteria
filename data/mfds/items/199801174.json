@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801174",
+ "item_name": "마틴정(수출용)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "19980501",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080328]트록세루틴|[M080307]염산헵타미놀|[M080879]은행엽엑스",
+ "main_item_ingr_eng": "Ginkgo Leaf Extract/Heptaminol Hydrochloride/Troxerutin",
+ "edi_code": "",
+ "atc_code": "C05B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801174",
+ "revisions": [
+  {
+   "revision_id": "199801174-54ffb9dc",
+   "content_sha256": "54ffb9dc1528e3a400e585604b15bdeb91a798e6dcb86a5c3bf3bc772596371e",
+   "ee_text": "정맥류로 인한 다음 증상 : 하지(다리) 중압감, 정맥염 치핵과 관련된 여러 증상",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:49Z",
+   "last_observed_at": "2026-08-28T13:23:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:49Z"
+}

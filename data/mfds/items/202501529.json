@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501529",
+ "item_name": "정제팡정(무수황산나트륨, 황산칼륨, 무수황산마그네슘)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20250620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082533]무수황산마그네슘|[M040806]황산칼륨|[M257776]무수황산나트륨",
+ "main_item_ingr_eng": "Anhydrous Magnesium Sulfate/Anhydrous Sodium Sulfate/Potassium Sulfate",
+ "edi_code": "",
+ "atc_code": "A06AD10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501529",
+ "revisions": [
+  {
+   "revision_id": "202501529-96c57701",
+   "content_sha256": "96c57701c578c6eaebaa6164fdf94122529a65fc7ce669852834e9da3ba1f752",
+   "ee_text": "대장(X선, 내시경)검사 시의 전처치용 장세척",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:37Z",
+   "last_observed_at": "2026-08-28T13:25:37Z",
+   "official_revision_date": "2025-06-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:37Z"
+}

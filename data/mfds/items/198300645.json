@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300645",
+ "item_name": "신텍스커린엑스과립(인삼패독산)",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "19830428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040225]복령|[M040550]천궁|[M040048]길경|[M051351]지각|[M050227]독활|[M050022]강활|[M051318]전호|[M040336]시호|[M040006]감초|[M051291]인삼",
+ "main_item_ingr_eng": "Aralia Continentalis Root/Aurantii Fructus Immaturus/Bupleurum Root/Cnidium Rhizome/Ginseng/Licorice/Ostericum Root/Peucedani Radix/Platycodon Root/Poria",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300645",
+ "revisions": [
+  {
+   "revision_id": "198300645-0e31fc14",
+   "content_sha256": "0e31fc14a52624ff6ab58b81a082d78665961f508221801f73ca35ce4ae65c95",
+   "ee_text": "감기로 인한 몸살, 발열, 두통",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:39Z"
+}

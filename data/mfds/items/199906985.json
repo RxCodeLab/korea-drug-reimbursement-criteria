@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199906985",
+ "item_name": "포소루틴점안액(트록세루틴)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "19990312",
+ "cancel_date": "20240110",
+ "status": "취하",
+ "main_item_ingr": "[M080328]트록세루틴",
+ "main_item_ingr_eng": "Troxerutin",
+ "edi_code": "",
+ "atc_code": "S01XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199906985",
+ "revisions": [
+  {
+   "revision_id": "199906985-d04f1ae5",
+   "content_sha256": "d04f1ae506af27f81dd466a9e5deccd472be141498f89af3758f06487026b192",
+   "ee_text": "당뇨병성 망막증, 망막 및 유리체 출혈, 결막하출혈, 결막하 혈전환자에 대한 보조요법",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:51Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801258",
+ "item_name": "활명수-유액",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20180322",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070048]고추틴크|[M040350]아선약|[M040813]후박|[M040538]진피|[M040548]창출|[M040486]육두구|[M040007]건강|[M040527]정향|[M050036]육계",
+ "main_item_ingr_eng": "Atractylodes Rhizome/Capsicum Tincture/Cinnamon Bark/Citrus Unshiu Peel/Clove/Gambir/Ginger/Magnolia Bark/Nutmeg",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801258",
+ "revisions": [
+  {
+   "revision_id": "201801258-5c988f87",
+   "content_sha256": "5c988f878a90ba2cd8594143f1c258e36afdc3787bbedc6931c7027eb76d1842",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2018-03-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

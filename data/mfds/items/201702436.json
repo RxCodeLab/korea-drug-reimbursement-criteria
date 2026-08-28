@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702436",
+ "item_name": "영비원정",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20170518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040262]산화마그네슘|[M223289]폴산|[M051415]푸르설티아민",
+ "main_item_ingr_eng": "Folic Acid/Fursultiamine/Magnesium Oxide",
+ "edi_code": "",
+ "atc_code": "A11JB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702436",
+ "revisions": [
+  {
+   "revision_id": "201702436-aff00374",
+   "content_sha256": "aff003740dbd853bd8ed6d4eeea10a50a280bc7d8ac96d894bccd8b774986e74",
+   "ee_text": "다음경우의 비타민 B 1 의 보급 -육체피로 -임신ㆍ수유기 -병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 -이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. ㆍ 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) ㆍ 각기 ㆍ 눈의 피로",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:56Z",
+   "last_observed_at": "2026-08-28T13:24:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:56Z"
+}

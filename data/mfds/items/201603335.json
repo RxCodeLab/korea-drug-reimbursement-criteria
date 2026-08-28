@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603335",
+ "item_name": "뉴암로디프정10밀리그램(암로디핀베실산염)",
+ "entp_name": "안국뉴팜(주)",
+ "permit_date": "20160610",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222875]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate",
+ "edi_code": "053600380",
+ "atc_code": "C08CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603335",
+ "revisions": [
+  {
+   "revision_id": "201603335-81c5e7ee",
+   "content_sha256": "81c5e7ee31f4e29fdf49062c88dbdab60d35cdbc07252af9d343fd977e28ac63",
+   "ee_text": "-협심증으로 인한 입원의 위험성 감소 -관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:24:50Z",
+   "last_observed_at": "2026-08-28T13:24:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:50Z"
+}

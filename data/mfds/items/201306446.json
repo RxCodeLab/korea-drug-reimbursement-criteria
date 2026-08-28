@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201306446",
+ "item_name": "우데콜정(우르소데옥시콜산)",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "20130322",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Ursodeoxycholic Acid",
+ "edi_code": "655604450",
+ "atc_code": "A05AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306446",
+ "revisions": [
+  {
+   "revision_id": "201306446-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-28T13:24:30Z",
+   "last_observed_at": "2026-08-28T13:24:30Z",
+   "official_revision_date": "2023-01-09"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:30Z"
+}

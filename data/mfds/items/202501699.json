@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501699",
+ "item_name": "베아로제에스정",
+ "entp_name": "한솔신약(주)",
+ "permit_date": "20250708",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M227778]디메티콘|[M223167]우르소데옥시콜산|[M100297]셀룰라제|[M040678]판크레아틴",
+ "main_item_ingr_eng": "Cellulase/Dimethicone/Pancreatin/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A09AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501699",
+ "revisions": [
+  {
+   "revision_id": "202501699-faa96ed2",
+   "content_sha256": "faa96ed2643de4c9c73d41b5146a173b469085d1575f700e67576f1feb726f28",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부(상복부)팽만감",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:25:38Z",
+   "last_observed_at": "2026-08-28T13:25:38Z",
+   "official_revision_date": "2025-09-17"
+  },
+  {
+   "revision_id": "202501699-3bbbb5a0",
+   "content_sha256": "3bbbb5a09f93c829044d55c6d4bb7cc3f9c6ebfbb8b946b3d29411cabf7786ee",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소홥루량으로 인한 위부(상복부)팽만감",
+   "ee_doc_id": "1",
+   "official_revision_date": "2025-07-08",
+   "first_observed_at": "2026-08-28T13:25:38Z",
+   "last_observed_at": "2026-08-28T13:25:38Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:38Z"
+}

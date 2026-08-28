@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003420",
+ "item_name": "브로멜린장용정(브로멜라인)",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20200512",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095415]브로멜라인",
+ "main_item_ingr_eng": "Bromelain",
+ "edi_code": "623007100",
+ "atc_code": "M09AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003420",
+ "revisions": [
+  {
+   "revision_id": "202003420-1456c510",
+   "content_sha256": "1456c510dcbbeb41af3aa1c06e5e57b5213edf99603cb038fb9157c3f13e5173",
+   "ee_text": "○ 부종(부기)을 동반한 염증 증상의 완화, 외상(상처) 또는 수술 후의 부종(부기)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:18Z",
+   "last_observed_at": "2026-08-28T13:25:18Z",
+   "official_revision_date": "2020-05-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:18Z"
+}

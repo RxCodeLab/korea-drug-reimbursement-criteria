@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800064",
+ "item_name": "한풍감초엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040006]감초",
+ "main_item_ingr_eng": "Licorice",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800064",
+ "revisions": [
+  {
+   "revision_id": "198800064-6b821032",
+   "content_sha256": "6b821032e285ca660aa83e139c82fc5c68b5f4885f4bf324a69ffb63ff15cfe8",
+   "ee_text": "해독, 거담, 진경",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:41Z",
+   "last_observed_at": "2026-08-28T13:23:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:41Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199802000",
+ "item_name": "네프비타정",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "19980709",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040133]리보플라빈|[M244748]판토텐산칼슘|[M040064]니코틴산아미드|[M050704]비오틴|[M223289]폴산|[M258994]아스코르브산|[M117558]시아노코발라민 1000배산|[M223262]티아민질산염|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Ascorbic Acid/Biotin/Calcium Pantothenate/Cyanocobalamin Powder 0.1%/Folic Acid/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate",
+ "edi_code": "664100030",
+ "atc_code": "A11EB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802000",
+ "revisions": [
+  {
+   "revision_id": "199802000-09138a85",
+   "content_sha256": "09138a85d9a73596280bd2efdbf168fc7bc726dacc42a8500dd5029dcca91637",
+   "ee_text": "비타민 B 1 , B 2 , B 6 , C의 보급 -육체피로 -임신·수유기 -병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시",
+   "ee_doc_id": "32",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z",
+   "official_revision_date": "2026-07-20"
+  },
+  {
+   "revision_id": "199802000-026ef8ed",
+   "content_sha256": "026ef8edc6208882cfc800e00e5ad3afe193a6ce58cb1fcfe61105633e7c0ffb",
+   "ee_text": "비타민 B 및 C의 보급",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

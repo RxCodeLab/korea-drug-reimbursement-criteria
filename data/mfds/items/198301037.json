@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198301037",
+ "item_name": "두리방연질캡슐",
+ "entp_name": "초당약품공업(주)",
+ "permit_date": "19830812",
+ "cancel_date": "20241001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M086537]마늘유|[M040647]토코페롤",
+ "main_item_ingr_eng": "Allium Sativum Oil/Tocopherol",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198301037",
+ "revisions": [
+  {
+   "revision_id": "198301037-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198301037/EE",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z"
+  },
+  {
+   "revision_id": "198301037-42932458",
+   "content_sha256": "429324589a5b4ad2641932b696dac7f81babbef350710fdec63ce27f3edb1579",
+   "ee_text": ": 어깨‧목결림, 수족저림‧수족냉증(손발이 차가움)",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:39Z"
+}

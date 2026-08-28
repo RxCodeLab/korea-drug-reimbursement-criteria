@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005079",
+ "item_name": "코대원에스시럽",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20200715",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278323]펠라고니움시도이데스11%에탄올추출물(1→8~10)|[M095727]염화암모늄|[M223211]클로르페니라민말레산염|[M270039]dl-메틸에페드린염산염|[M261072]디히드로코데인타르타르산염",
+ "main_item_ingr_eng": "Ammonium Chloride/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dihydrocodeine Tartrate/Pelargonium Sidoides 11% Ethanol Extract (1→8~10)",
+ "edi_code": "671807171",
+ "atc_code": "R05FA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005079",
+ "revisions": [
+  {
+   "revision_id": "202005079-e73629ba",
+   "content_sha256": "e73629bac239d6946809c387ec3bcd7319c2d67f479f8dff2a6a81290c331132",
+   "ee_text": "1. 급성 기관지염의 증상 및 징후 개선 2. 급성 상기도감염의 기침, 가래",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-28T13:25:20Z",
+   "last_observed_at": "2026-08-28T13:25:20Z",
+   "official_revision_date": "2023-08-29"
+  },
+  {
+   "revision_id": "202005079-be8be936",
+   "content_sha256": "be8be9367d9ba6a8eecdd51cf3c8c83572a6bc1d6e32cd4bc627a34429629242",
+   "ee_text": "급성 기관지염의 증상 및 징후 개선",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-07-15",
+   "first_observed_at": "2026-08-28T13:25:20Z",
+   "last_observed_at": "2026-08-28T13:25:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:20Z"
+}

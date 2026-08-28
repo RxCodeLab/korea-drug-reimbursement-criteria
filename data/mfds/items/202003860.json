@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003860",
+ "item_name": "노즈큐어나잘스프레이액(염화나트륨)",
+ "entp_name": "구주제약(주)",
+ "permit_date": "20200526",
+ "cancel_date": "20250526",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040426]염화나트륨",
+ "main_item_ingr_eng": "Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "R01AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003860",
+ "revisions": [
+  {
+   "revision_id": "202003860-41224b6e",
+   "content_sha256": "41224b6e706d6f56284abd0f06e812c20d3576c1e76972f38d0c59b1f7b839fc",
+   "ee_text": "- 코점막 분비물 또는 화농(곪음)성으로 인한 코막힘에 비강(코안)세척 - 비점막 건조증상의 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:19Z",
+   "last_observed_at": "2026-08-28T13:25:19Z",
+   "official_revision_date": "2020-05-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:19Z"
+}

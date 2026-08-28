@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199001411",
+ "item_name": "신텍스연년익수불로단",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "19900416",
+ "cancel_date": "20250919",
+ "status": "취하",
+ "main_item_ingr": "[M040213]인삼|[M040139]맥문동|[M051380]천문동|[M051364]숙지황|[M051363]생지황|[M051352]지골피|[M040225]복령|[M081923]백수오|[M051901]하수오",
+ "main_item_ingr_eng": "Asparagus Tuber/Cynanchi Wilfordii Radix/Ginseng/Liriope Tuber/Lycium Root Bark/Polygonum Multiflorum Root/Poria/Prepared Rehmannia Root/Rehmanniae Radix Recens",
+ "edi_code": "",
+ "atc_code": "N07XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001411",
+ "revisions": [
+  {
+   "revision_id": "199001411-b3347eae",
+   "content_sha256": "b3347eaede67653b46a5b1d0884b222a616795f358d3a001558bd0018526e7ef",
+   "ee_text": "다음 경우의 자양강장 : 원기보충, 체력보강",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:43Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800637",
+ "item_name": "생큐환",
+ "entp_name": "신화제약(주)",
+ "permit_date": "20180201",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040523]작약|[M040445]오미자|[M040048]길경|[M050036]육계|[M040538]진피|[M040030]구기자|[M040070]당귀|[M040214]백출|[M258994]아스코르브산|[M040790]황기",
+ "main_item_ingr_eng": "Angelica Gigas Root/Ascorbic Acid/Astragalus Root/Atractylodes Rhizome White/Cinnamon Bark/Citrus Unshiu Peel/Lycium Fruit/Peony Root/Platycodon Root/Schisandra Fruit",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800637",
+ "revisions": [
+  {
+   "revision_id": "201800637-420e6a64",
+   "content_sha256": "420e6a641efca8d23f05392499bfce93600c3945c4624a5c70297a5d3268520d",
+   "ee_text": "﹡ 자양강장 ﹡ 다음 경우의 비타민C의 보급 : 육체피로, 병중﹡병후(병을 앓는 동안이나 회복 후)의 체력저하시, 임신﹡수유기",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2022-10-06"
+  },
+  {
+   "revision_id": "201800637-45ed077b",
+   "content_sha256": "45ed077b3d37e141907a1c7e42a4db95728788c275e8788883e1e053a0483629",
+   "ee_text": "﹡ 자양강장 ﹡ 다음 경우의 비타민C의 보급 : 육체피로, 병중﹡병후, 임신﹡수유기",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-02-01",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

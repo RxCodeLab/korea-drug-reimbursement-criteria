@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900193",
+ "item_name": "리나로정(리나글립틴)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20190116",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252996]리나글립틴",
+ "main_item_ingr_eng": "Linagliptin",
+ "edi_code": "645306040",
+ "atc_code": "A10BH05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900193",
+ "revisions": [
+  {
+   "revision_id": "201900193-39b8bab5",
+   "content_sha256": "39b8bab5520515613bc7ef918c08588e6858583fbf3a6ced0df9feaca22e9c40",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. - 단독요법 - 병용요법",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:25:03Z",
+   "last_observed_at": "2026-08-28T13:25:03Z",
+   "official_revision_date": "2023-12-07"
+  },
+  {
+   "revision_id": "201900193-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-01-16",
+   "first_observed_at": "2026-08-28T13:25:03Z",
+   "last_observed_at": "2026-08-28T13:25:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:03Z"
+}

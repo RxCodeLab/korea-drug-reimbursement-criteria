@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402341",
+ "item_name": "삼현클로르헥시딘5%액(클로르헥시딘글루콘산염액)",
+ "entp_name": "주식회사삼현제약",
+ "permit_date": "20240930",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "",
+ "atc_code": "D08AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402341",
+ "revisions": [
+  {
+   "revision_id": "202402341-f859d10d",
+   "content_sha256": "f859d10db90c08aead3b6973ae6fd355d48ff0c19a06a449b8e94c2032318143",
+   "ee_text": "- 손 및 피부의 소독(보건위생종사자 및 수술 시 수술자의 손 소독, 수술부위 피부의 소독은 제외) - 의료용구의 소독 - 가구, 기구 등의 소독 - 피부의 창상부위 소독",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:36Z",
+   "last_observed_at": "2026-08-28T13:25:36Z",
+   "official_revision_date": "2024-09-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:36Z"
+}

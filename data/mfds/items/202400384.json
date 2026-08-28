@@ -12,16 +12,15 @@
  "edi_code": "",
  "atc_code": "N02BE01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400384",
+ "history_fetched_at": "2026-08-27T13:04:57Z",
  "revisions": [
   {
    "revision_id": "202400384-b133ebf1",
    "content_sha256": "b133ebf12ec7db1193b8114973e324cbdf084a2343cf683572bd86458e52b5a8",
    "ee_text": "통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우",
-   "ee_doc_id": "1",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202400384/EE",
    "first_observed_at": "2026-08-27T13:04:57Z",
-   "last_observed_at": "2026-08-27T13:04:57Z",
-   "official_revision_date": "2024-02-22"
+   "last_observed_at": "2026-08-28T13:25:35Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:04:57Z"
+ ]
 }

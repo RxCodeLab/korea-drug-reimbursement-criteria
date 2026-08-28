@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200808128",
+ "item_name": "기맥연조엑스(맥문동탕)",
+ "entp_name": "원광제약(주)",
+ "permit_date": "20080724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M239145]맥문동탕연조엑스(7.1→1)",
+ "main_item_ingr_eng": "Maegmundongtang Soft Extract (7.1→1)",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808128",
+ "revisions": [
+  {
+   "revision_id": "200808128-02c130a1",
+   "content_sha256": "02c130a18aca4d8ef4f7c564a309ffcae68f776cdfc4dee26c1b12d20d1834fe",
+   "ee_text": "가래가 끊어지지 않는 기침, 기관지염, 기관지천식",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:18Z",
+   "last_observed_at": "2026-08-28T13:24:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:18Z"
+}

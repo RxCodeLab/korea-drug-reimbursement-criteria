@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001013",
+ "item_name": "파렌스장용정",
+ "entp_name": "지엘파마(주)",
+ "permit_date": "20200214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250452]독시라민숙신산염|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Doxylamine Succinate/Pyridoxine Hydrochloride",
+ "edi_code": "649702700",
+ "atc_code": "A04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001013",
+ "revisions": [
+  {
+   "revision_id": "202001013-e5b97458",
+   "content_sha256": "e5b974580bf658969afec19fc63e8b03ae4e126303a5a2d0872db7cc935111b1",
+   "ee_text": "보존적 요법에 반응하지 않는 임부의 구역 및 구토 조절",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:15Z",
+   "last_observed_at": "2026-08-28T13:25:15Z",
+   "official_revision_date": "2020-02-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:15Z"
+}

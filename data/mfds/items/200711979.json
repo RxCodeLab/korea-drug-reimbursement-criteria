@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711979",
+ "item_name": "토트칼연질캡슐",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20071031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M086116]농축콜레칼시페롤|[M040634]침강탄산칼슘|[M255993]농축콜레칼시페롤(유상)|[M040634]침강탄산칼슘|[M255993]농축콜레칼시페롤(유상)",
+ "main_item_ingr_eng": "Cholecalciferol Concentrate/Cholecalciferol Concentrate Oil/Precipitated Calcium Carbonate",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711979",
+ "revisions": [
+  {
+   "revision_id": "200711979-0ec3dacd",
+   "content_sha256": "0ec3dacdafd793dff862140bc7aa09c692fb5a41f32260bfc804ec9b2dc479d9",
+   "ee_text": "- 임신․수유기 - 발육기 - 노년기 • 비타민D(농축콜레칼시페롤) - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:24:15Z",
+   "last_observed_at": "2026-08-28T13:24:15Z",
+   "official_revision_date": "2021-09-14"
+  },
+  {
+   "revision_id": "200711979-83a5c7f8",
+   "content_sha256": "83a5c7f86eb419b9ca62f1e01837964b2c2e3ed9288717e71f499b0601b24139",
+   "ee_text": "- 임신 ‧ 수유기, 발육기, 노년기 - 이 약에 함유된 비타민등의 효능효과는 다음과 같다. ㆍ 뼈,이의 발육불량 ㆍ 구루병의 예방",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:15Z",
+   "last_observed_at": "2026-08-28T13:24:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:15Z"
+}

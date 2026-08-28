@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000234",
+ "item_name": "큐엘파마페닐레프린염산염나잘액",
+ "entp_name": "주식회사큐엘파마",
+ "permit_date": "20200115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223279]페닐레프린염산염",
+ "main_item_ingr_eng": "Phenylephrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000234",
+ "revisions": [
+  {
+   "revision_id": "202000234-343df25d",
+   "content_sha256": "343df25defdb8eb4d3f40a03dbd5ea6b31b00a70f34453624e5ff8bc00a257ca",
+   "ee_text": "감기, 고초열, 부비강염, 상기도 알레르기에 의한 비충혈의 일시적 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2020-01-15"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

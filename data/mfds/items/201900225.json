@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900225",
+ "item_name": "디맥트리플정",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20190117",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255949]농축콜레칼시페롤과립|[M040262]산화마그네슘|[M243785]산화아연",
+ "main_item_ingr_eng": "Cholecalciferol Concentrate Granules/Magnesium Oxide/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11JB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900225",
+ "revisions": [
+  {
+   "revision_id": "201900225-dac77c8a",
+   "content_sha256": "dac77c8a7f94b1fce904635bf0e1775f32ff410d312e87430da59fa876448c26",
+   "ee_text": "1. 다음경우의 비타민 D의 보급 - 임신 · 수유기, 발육기, 노년기 2. 이 약에 함유된 비타민의 효능∙효과는 다음과 같다. - 뼈, 이의 발육 불량 - 구루병의 예방 3. 아연의 보급",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:25:03Z",
+   "last_observed_at": "2026-08-28T13:25:03Z",
+   "official_revision_date": "2019-02-01"
+  },
+  {
+   "revision_id": "201900225-2f7314c9",
+   "content_sha256": "2f7314c9107088cc93a84087be84db52155b57efc4f3dec4b1f6866cab818935",
+   "ee_text": "1. 다음경우의 비타민 D의 보급 - 임신․수유기, 발육기, 노년기 2. 이 약에 함유된 비타민의 효능∙효과는 다음과 같다. - 뼈, 이의 발육 불량 - 구루병의 예방 3. 아연의 보급",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-01-17",
+   "first_observed_at": "2026-08-28T13:25:03Z",
+   "last_observed_at": "2026-08-28T13:25:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:03Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201109596",
+ "item_name": "더블락캡슐",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20111103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M051231]락토바실루스스포로게네스균",
+ "main_item_ingr_eng": "Lactobacillus Sporogenes/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A07FA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109596",
+ "revisions": [
+  {
+   "revision_id": "201109596-4c76eba6",
+   "content_sha256": "4c76eba62cff4b08cc4b0f48e33f521e337f78a7f2245e35d218203e8aaa0e1c",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감, 정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:27Z",
+   "last_observed_at": "2026-08-28T13:24:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:27Z"
+}

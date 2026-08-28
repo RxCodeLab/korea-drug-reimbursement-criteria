@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "M03BB53",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500536",
+ "history_fetched_at": "2026-08-27T12:56:50Z",
  "revisions": [
   {
    "revision_id": "199500536-da1d84da",
    "content_sha256": "da1d84daa39c2e0470a87c426e6171e1ed75919c9e71c3e9c86038a86c9d823a",
    "ee_text": "신경통, 근육통, 관절통, 요(허리)통, 염좌(삠)통, 견통(어깨결림), 근경련(근육경련), 근경직 등 근육의 이상 긴장을 수반하는 제질환(여러 질환)",
-   "ee_doc_id": "23",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199500536/EE",
    "first_observed_at": "2026-08-27T12:56:50Z",
-   "last_observed_at": "2026-08-27T12:56:50Z",
-   "official_revision_date": "2019-09-01"
+   "last_observed_at": "2026-08-28T13:23:46Z"
   },
   {
    "revision_id": "199500536-0c144e51",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:56:50Z",
    "last_observed_at": "2026-08-27T12:56:50Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:56:50Z"
+ ]
 }

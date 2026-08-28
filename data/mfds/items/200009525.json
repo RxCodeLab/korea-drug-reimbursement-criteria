@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200009525",
+ "item_name": "로와콜연질캡슐",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20001115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050615]보르네올|[M082249]멘톨|[M103750]멘톤|[M082093]시네올|[M082246]캄펜|[M103749]핀넨(α+β)",
+ "main_item_ingr_eng": "Borneol/Camphen/Eucalyptol/Menthol/Menthone/Pinene (Alpha+Beta)",
+ "edi_code": "",
+ "atc_code": "A05A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009525",
+ "revisions": [
+  {
+   "revision_id": "200009525-ce1191e6",
+   "content_sha256": "ce1191e674ea683f168e0235c46d93b41e04af024bf26e529fcd41328ca022ee",
+   "ee_text": "담석증, 담석 수술 후 결석 재발방지",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z",
+   "official_revision_date": "2021-05-26"
+  },
+  {
+   "revision_id": "200009525-cb0ded7c",
+   "content_sha256": "cb0ded7cff399cbddd6062435e62765c8cb17a8a204f7baa415053a3dd147d8d",
+   "ee_text": "담낭염, 담석증, 담도염 치료의 보조요법, 담석 수술 후 결석 재발방지",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:57Z"
+}

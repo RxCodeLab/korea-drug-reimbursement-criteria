@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005645",
+ "item_name": "경방황련해독탕산(단미엑스혼합제)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000814",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089503]치자엑스산|[M085093]황백엑스산|[M089535]황금엑스산|[M089522]황련엑스산",
+ "main_item_ingr_eng": "Coptis Rhizome Extract Powder/Gardenia Fruit Extract Powder/Phellodendron Bark Extract Powder/Scutellaria Root Extract Powder",
+ "edi_code": "",
+ "atc_code": "N07XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005645",
+ "revisions": [
+  {
+   "revision_id": "200005645-9ffab8db",
+   "content_sha256": "9ffab8db76a804e1d1cbc4908979daa7e6a691cd5d66815ae2c842365e05355c",
+   "ee_text": "한방건강보험용",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2020-04-28"
+  },
+  {
+   "revision_id": "200005645-d709ccc9",
+   "content_sha256": "d709ccc92d62da808e59bed3c2b48691db9f7a08c892c167f4eaa9a28d687da1",
+   "ee_text": "효능 및 효과 : 한방의료보험용",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

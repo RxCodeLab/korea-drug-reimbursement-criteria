@@ -7,11 +7,12 @@
  "permit_date": "20141223",
  "cancel_date": "20241223",
  "status": "유효기간만료",
- "main_item_ingr": "[M223015]DL-메티오닌|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223015]DL-메티오닌",
  "main_item_ingr_eng": "Acetaminophen/DL-Methionine",
  "edi_code": "",
  "atc_code": "N02BE51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406034",
+ "history_fetched_at": "2026-08-27T13:00:24Z",
  "revisions": [
   {
    "revision_id": "201406034-ca3b8de2",
@@ -19,7 +20,7 @@
    "ee_text": "두통, 치통, 관절통, 신경통, 근육통, 염좌통(삔 통증), 월경통(생리통)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201406034/EE",
    "first_observed_at": "2026-08-27T13:00:24Z",
-   "last_observed_at": "2026-08-27T13:00:24Z"
+   "last_observed_at": "2026-08-28T13:24:40Z"
   },
   {
    "revision_id": "201406034-fc6cd8f6",
@@ -30,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:00:24Z",
    "last_observed_at": "2026-08-27T13:00:24Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:00:24Z"
+ ]
 }

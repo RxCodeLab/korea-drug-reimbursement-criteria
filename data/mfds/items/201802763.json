@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802763",
+ "item_name": "비카페롤플러스정",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20180702",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051564]탄산칼슘|[M086116]농축콜레칼시페롤",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate",
+ "edi_code": "653404090",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802763",
+ "revisions": [
+  {
+   "revision_id": "201802763-4304e855",
+   "content_sha256": "4304e8556aa638a35086029d8d974c20135fd595f64179c4d67a321e4abefc24",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신·수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다 · 뼈, 이의 발육불량 · 구루병의 예방 2. 칼슘 결핍 및 기타 칼슘 보급",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:01Z",
+   "last_observed_at": "2026-08-28T13:25:01Z",
+   "official_revision_date": "2018-07-02"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:01Z"
+}

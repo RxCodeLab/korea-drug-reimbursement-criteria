@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302835",
+ "item_name": "경방천궁계지탕엑스과립(동의수세보원)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20030501",
+ "cancel_date": "20240401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040523]작약|[M050752]생강|[M050037]계지|[M040550]천궁|[M040548]창출|[M040538]진피|[M040071]대추|[M269220]자감초",
+ "main_item_ingr_eng": "Atractylodes Rhizome/Cinnamomi Ramulus/Citrus Unshiu Peel/Cnidium Rhizome/Jujube/Licorice/Peony Root/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302835",
+ "revisions": [
+  {
+   "revision_id": "200302835-69e54ca9",
+   "content_sha256": "69e54ca96da20744ee77a10652200491eeec16094a5c5659c536c14d6b172cef",
+   "ee_text": "소음인의 울광병 초기 증상(발열, 오한(춥고 떨리는 증상), 무한(無汗))",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z",
+   "official_revision_date": "2019-03-25"
+  },
+  {
+   "revision_id": "200302835-2d8c1d2d",
+   "content_sha256": "2d8c1d2d105636870e6cf4751914940a6a615e4fd897c1be36c7cc1d5f7fa26d",
+   "ee_text": "소음인의 울광병 초기 증상(발열, 오한, 무한(無汗))",
+   "ee_doc_id": "6",
+   "official_revision_date": "2010-04-09",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

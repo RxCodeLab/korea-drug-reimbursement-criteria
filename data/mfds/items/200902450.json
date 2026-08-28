@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200902450",
+ "item_name": "메가토스씨정",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20090403",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M204304]피리독신염산염|[M096429]시아노코발라민|[M243257]판토텐산칼슘|[M040133]리보플라빈|[M223262]티아민질산염|[M223289]폴산|[M258994]아스코르브산|[M217501]황산아연수화물|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr_eng": "Ascorbic Acid/Calcium Pantothenate/Cyanocobalamin/Folic Acid/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate/Tocopherol Acetate Powder 50%/Zinc Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "A11JB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902450",
+ "revisions": [
+  {
+   "revision_id": "200902450-69ba2d65",
+   "content_sha256": "69ba2d65aecc60f0d56f2479eedd249d1e4a9ab19373e954b07bb0d402bb1223",
+   "ee_text": "- 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. - 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z",
+   "official_revision_date": "2019-05-08"
+  },
+  {
+   "revision_id": "200902450-26187597",
+   "content_sha256": "2618759747ca83c82e6224d4d48bc0ebde1d3031dedaeab9e717a9980ae2787a",
+   "ee_text": "- 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후의 체력저하시 - 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. - 다음 증상의 완화 : 구각염, 구순염, 구내염, 설염, 습진, 피부염",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:20Z"
+}

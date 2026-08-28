@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505105",
+ "item_name": "셀메텍플러스정20/12.5밀리그램",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20150727",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257074]올메사르탄메독소밀|[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Olmesartan Medoxomil",
+ "edi_code": "693901760",
+ "atc_code": "C09DA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505105",
+ "revisions": [
+  {
+   "revision_id": "201505105-1eb91bde",
+   "content_sha256": "1eb91bdeacdfa9bf0a03d2501b4d50d2c054ef723e4499b697456227d186bf96",
+   "ee_text": "올메사르탄메독소밀이나 히드로클로로티아지드 단독요법으로 혈압이 충분히 조절되지 않는 본태성 고혈압의 치료",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:24:44Z",
+   "last_observed_at": "2026-08-28T13:24:44Z",
+   "official_revision_date": "2021-09-07"
+  },
+  {
+   "revision_id": "201505105-7dc18e5f",
+   "content_sha256": "7dc18e5f6c4605697a8f598a1e8884ed1194bf30f258bba5fbd1812500dd00c3",
+   "ee_text": "올메사탄메독소밀이나 히드로클로로티아지드 단독요법으로 혈압이 충분히 조절되지 않는 본태성 고혈압의 치료",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:44Z",
+   "last_observed_at": "2026-08-28T13:24:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:44Z"
+}

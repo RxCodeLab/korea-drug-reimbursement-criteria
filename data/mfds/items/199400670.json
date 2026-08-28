@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199400670",
+ "item_name": "삼아아토크정20마이크로그램(포르모테롤푸마르산염수화물)(수출명 : 삼아포르모테롤푸마르산염수화물정20마이크로그램)(수출용)",
+ "entp_name": "삼아제약(주)",
+ "permit_date": "19940421",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223288]포르모테롤푸마르산염수화물",
+ "main_item_ingr_eng": "Formoterol Fumarate Hydrate",
+ "edi_code": "",
+ "atc_code": "R03CC15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400670",
+ "revisions": [
+  {
+   "revision_id": "199400670-4d9c70f2",
+   "content_sha256": "4d9c70f2c9d3f5fcbdbd809880b1658f8c232d001b34f75ed05284ab9650e831",
+   "ee_text": "다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 급성기관지염 ☆ 국내임상시험결과 추가제출(의약품재평가 진행 중)",
+   "ee_doc_id": "26",
+   "first_observed_at": "2026-08-28T13:23:45Z",
+   "last_observed_at": "2026-08-28T13:23:45Z",
+   "official_revision_date": "2023-03-02"
+  },
+  {
+   "revision_id": "199400670-ffb2fdcf",
+   "content_sha256": "ffb2fdcf1aec6b0cce81fe3c83e730fa54ac0814bf3e10a3d91cb668b900828b",
+   "ee_text": "다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 급·만성기관지염, 폐기종, 천식성기관지염",
+   "ee_doc_id": "18",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:45Z",
+   "last_observed_at": "2026-08-28T13:23:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:45Z"
+}

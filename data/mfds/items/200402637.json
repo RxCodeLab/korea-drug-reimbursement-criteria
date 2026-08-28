@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402637",
+ "item_name": "아모디핀정5밀리그램(암로디핀캄실산염)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20040608",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246033]암로디핀캄실산염",
+ "main_item_ingr_eng": "Amlodipine Camsylate",
+ "edi_code": "643501600",
+ "atc_code": "C08CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402637",
+ "revisions": [
+  {
+   "revision_id": "200402637-81c5e7ee",
+   "content_sha256": "81c5e7ee31f4e29fdf49062c88dbdab60d35cdbc07252af9d343fd977e28ac63",
+   "ee_text": "-협심증으로 인한 입원의 위험성 감소 -관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:24:05Z",
+   "last_observed_at": "2026-08-28T13:24:05Z",
+   "official_revision_date": "2019-10-08"
+  },
+  {
+   "revision_id": "200402637-39115b46",
+   "content_sha256": "39115b464aaca8c5ac7d7fa815414f9ad9c19ad4882557855d438d2874acdc98",
+   "ee_text": "고혈압, 관상동맥의 고정폐쇄 (안정형 협심증) 또는 관상혈관계의 혈관경련과 혈관수축(이형 협심증)에 의한 심근성 허혈증",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:05Z",
+   "last_observed_at": "2026-08-28T13:24:05Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:05Z"
+}

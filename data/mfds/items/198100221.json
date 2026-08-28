@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198100221",
+ "item_name": "토비콤캅셀(수출용)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "19810924",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M225042]황산 콘드로이친 나트륨|[M088483]팔미틴산레티놀|[M051344]주석산수소콜린|[M040133]리보플라빈|[M040558]염산치아민",
+ "main_item_ingr_eng": "Choline Tartrate/Retinol Palmitate/Riboflavin/Sodium Chondroitin Sulfate/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100221",
+ "revisions": [
+  {
+   "revision_id": "198100221-9dc985b3",
+   "content_sha256": "9dc985b384cfbec25773d313eeba6237b136f9eefd42fbfab9455f0ccc48df75",
+   "ee_text": "눈의 피로, 각막염, 안근마비, 수유기약시 야맹증, 시력감퇴시 영양보급",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:38Z"
+}

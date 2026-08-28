@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309654",
+ "item_name": "로바티탄정10/160밀리그램",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20131010",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090403]발사르탄|[M270546]로수바스타틴칼슘(미분화)",
+ "main_item_ingr_eng": "Rosuvastatin Calcium Micronized/Valsartan",
+ "edi_code": "668902640",
+ "atc_code": "C10BX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309654",
+ "revisions": [
+  {
+   "revision_id": "201309654-2003839f",
+   "content_sha256": "2003839f5d5e6cba7c3218474d2be691e9b84a214ded12e1462e9965b5bd83a3",
+   "ee_text": "이 약은 두 약물(발사르탄과 로수바스타틴)을 동시에 투여하여야 하는 환자에만 사용한다. ACE억제제에 불내성(intolerant)인 심부전(NYHA class Ⅱ ∼ Ⅳ) 증상, 증후 혹은 방사선학적으로 좌심실 부전 및/또는 좌심실 수축 기능 부전을 가진 임상적으로 안정된 환자에서의 심근경색 후 사망 위험성 감소 - 뇌졸중에 대한 위험성 감소 - 심근경색에 대한 위험성 감소 - 동맥 혈관재형성술에 대한 위험성 감소",
+   "ee_doc_id": "22",
+   "first_observed_at": "2026-08-28T13:24:33Z",
+   "last_observed_at": "2026-08-28T13:24:33Z",
+   "official_revision_date": "2019-11-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:33Z"
+}

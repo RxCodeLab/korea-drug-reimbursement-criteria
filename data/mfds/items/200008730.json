@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "R03BA05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008730",
+ "history_fetched_at": "2026-08-27T13:15:10Z",
  "revisions": [
   {
    "revision_id": "200008730-4cd3b7d0",
    "content_sha256": "4cd3b7d07941ed798fc63ce4a79c7cd83fe63f3f6dab658e5f6e693aa9ada8ca",
    "ee_text": "중증 만성 천식의 예방적 치료(고용량의 흡입용 또는 경구용 코르티코스테로이드 투여를 필요로 하는 환자)",
-   "ee_doc_id": "19",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200008730/EE",
    "first_observed_at": "2026-08-27T13:15:10Z",
-   "last_observed_at": "2026-08-27T13:15:10Z",
-   "official_revision_date": "2019-12-26"
+   "last_observed_at": "2026-08-28T13:23:57Z"
   },
   {
    "revision_id": "200008730-90e37271",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:15:10Z",
    "last_observed_at": "2026-08-27T13:15:10Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:15:10Z"
+ ]
 }

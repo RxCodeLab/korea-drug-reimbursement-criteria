@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600573",
+ "item_name": "훼리너프캡슐",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20060123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100799]철만니톨난단백|[M096429]시아노코발라민|[M223289]폴산",
+ "main_item_ingr_eng": "Cyanocobalamin/Ferric Manitol Ovalbumin/Folic Acid",
+ "edi_code": "",
+ "atc_code": "B03AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600573",
+ "revisions": [
+  {
+   "revision_id": "200600573-635e8644",
+   "content_sha256": "635e86441a3fdb1ce15e3b5b962a070a4fbd70032cb6f7eac73254379900a765",
+   "ee_text": "철 결핍성 빈혈의 예방 및 치료",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-28T13:24:10Z",
+   "last_observed_at": "2026-08-28T13:24:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:10Z"
+}

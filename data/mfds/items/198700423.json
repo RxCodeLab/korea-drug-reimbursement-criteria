@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700423",
+ "item_name": "삐콤헥사주(수출명:에너비트주)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "19870218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M082390]덱스판테놀|[M096429]시아노코발라민|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223258]티아민염산염",
+ "main_item_ingr_eng": "Cyanocobalamin/Dexpanthenol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Thiamine Hydrochloride",
+ "edi_code": "642100710",
+ "atc_code": "A11EA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700423",
+ "revisions": [
+  {
+   "revision_id": "198700423-10355b88",
+   "content_sha256": "10355b88fd63136b3adca9cfbc35364f54e8f88102ebbf448201b8171311906b",
+   "ee_text": "다음과 같은 경우 이 약에 함유된 비타민의 보급 또는 결핍증의 예방 1) 육체피로 2) 임신ㆍ수유기 3) 병중ㆍ병후의 체력저하시 4) 영양불량, 체중감소 5) 위장관질환 6) 신경염, 피부염 7) 화학요법제 투여시",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-28T13:23:41Z",
+   "last_observed_at": "2026-08-28T13:23:41Z",
+   "official_revision_date": "2006-02-04"
+  },
+  {
+   "revision_id": "198700423-007a5e59",
+   "content_sha256": "007a5e59d21b6e7220fa5da1bcc978b89aa0fc89edb0855ceca30a3c56aa9474",
+   "ee_text": "다음과 같은 경우 이 약에 함유된 비타민의 보급 또는 결핍증의 예방 1) 육체피로 2) 임신ㆍ수유기 3) 병중ㆍ병후의 체력저하시 4) 영양불량, 체중감소 5) 위장관질환 6) 신경염, 피부염 7) 화학요법제 투여",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:41Z",
+   "last_observed_at": "2026-08-28T13:23:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:41Z"
+}

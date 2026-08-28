@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904220",
+ "item_name": "한미치쏙크림",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20190618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051015]알란토인|[M040131]리도카인|[M223240]토코페롤아세테이트|[M223298]프레드니솔론아세테이트",
+ "main_item_ingr_eng": "Allantoin/Lidocaine/Prednisolone Acetate/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "C05AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904220",
+ "revisions": [
+  {
+   "revision_id": "201904220-09f57f5f",
+   "content_sha256": "09f57f5f32264c84ed33845dd2fe978748463d4dec82f280c304fa84f7f19db5",
+   "ee_text": "치열ㆍ치핵의 아픔ㆍ가려움ㆍ부종(부기)ㆍ출혈의 일시적 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:08Z",
+   "last_observed_at": "2026-08-28T13:25:08Z",
+   "official_revision_date": "2019-06-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:08Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403260",
+ "item_name": "비에스에스플러스(BSSPLUS)액",
+ "entp_name": "한국알콘(주)",
+ "permit_date": "19940526",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040439]염화칼슘|[M040702]포도당|[M051111]염화마그네슘|[M092919]글루타치온디설피드|[M040426]염화나트륨|[M040438]염화칼륨|[M207094]탄산수소나트륨|[M086420]무수인산수소나트륨",
+ "main_item_ingr_eng": "Anhydrous Dibasic Sodium Phosphate/Calcium Chloride/Glucose/Glutathione Disulfide/Magnesium Chloride/Potassium Chloride/Sodium Bicarbonate/Sodium Chloride",
+ "edi_code": "652400300",
+ "atc_code": "S01KX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403260",
+ "revisions": [
+  {
+   "revision_id": "199403260-5d3f1f42",
+   "content_sha256": "5d3f1f426983d0a251e3615b6b8b9f50400746cce69020e8bcf2d6d5adce5cbe",
+   "ee_text": "안과영역 수술시 관류액",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:46Z"
+}

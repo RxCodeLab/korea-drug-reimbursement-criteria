@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200905677",
+ "item_name": "타미락신연고(크로타미톤)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20090720",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051499]크로타미톤",
+ "main_item_ingr_eng": "Crotamiton",
+ "edi_code": "",
+ "atc_code": "D04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905677",
+ "revisions": [
+  {
+   "revision_id": "200905677-415fd9ae",
+   "content_sha256": "415fd9aeaf841b06db8751af45ee10dc98c0f7a34d3dd148df9065d848cde007",
+   "ee_text": "피부가려움",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:22Z",
+   "last_observed_at": "2026-08-28T13:24:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:22Z"
+}

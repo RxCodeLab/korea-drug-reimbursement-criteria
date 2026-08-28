@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199901442",
+ "item_name": "비에이비정(수출용)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "19990414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102908]타우린|[M040397]에르고칼시페롤|[M096429]시아노코발라민|[M204304]피리독신염산염|[M223262]티아민질산염|[M222998]L-리신염산염|[M233018]락트산칼슘수화물|[M223369]인산수소칼슘수화물",
+ "main_item_ingr_eng": "Calcium Lactate Hydrate/Cyanocobalamin/Dibasic Calcium Phosphate Hydrate/Ergocalciferol/L-Lysine Hydrochloride/Pyridoxine Hydrochloride/Taurine/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901442",
+ "revisions": [
+  {
+   "revision_id": "199901442-784f1f07",
+   "content_sha256": "784f1f076f141351d07c76c2a8c8875948a8d7cab5b3f858869cab71c35e2009",
+   "ee_text": "칼슘 결핍 및 기타 칼슘 보급",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:51Z"
+}

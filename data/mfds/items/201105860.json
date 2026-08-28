@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201105860",
+ "item_name": "생록수에프액",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20110830",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M279284]L-멘톨|[M246203]DL-카르니틴염산염|[M082860]진피연조엑스|[M070032]계피틴크|[M070030]건강틴크|[M080835]인삼건조엑스",
+ "main_item_ingr_eng": "Cinnamon Bark Tincture/Citrus Unshiu Peel Soft Extract/DL-Carnitine Hydrochloride/Ginger Tincture/Ginseng Dried Extract/L-Menthol",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201105860",
+ "revisions": [
+  {
+   "revision_id": "201105860-5c988f87",
+   "content_sha256": "5c988f878a90ba2cd8594143f1c258e36afdc3787bbedc6931c7027eb76d1842",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:26Z",
+   "last_observed_at": "2026-08-28T13:24:26Z",
+   "official_revision_date": "2019-03-08"
+  },
+  {
+   "revision_id": "201105860-08a78794",
+   "content_sha256": "08a787945745ddaa60c7a6fbf16883b28ca8e3bcd74364446c7aadb32ff7c80c",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 식체(체함)(위체), 구역, 구토",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:26Z",
+   "last_observed_at": "2026-08-28T13:24:26Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:26Z"
+}

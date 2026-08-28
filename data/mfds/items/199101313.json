@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199101313",
+ "item_name": "이노엔20%포도당주사액",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "19910226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040702]포도당",
+ "main_item_ingr_eng": "Glucose",
+ "edi_code": "640001251",
+ "atc_code": "B05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101313",
+ "revisions": [
+  {
+   "revision_id": "199101313-1b6e3ce8",
+   "content_sha256": "1b6e3ce8e5c9519ac7cfa5daa613916d8770cd06f6af1285af0c5caa233a3910",
+   "ee_text": "1.고칼륨혈증, 순환허탈, 저혈당시의 에너지 보급 2.심질환(G,I,K요법) 그 외 수분, 에너지 보급 3.약물.독물 중독",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199101313/EE",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z"
+  },
+  {
+   "revision_id": "199101313-eb9e5391",
+   "content_sha256": "eb9e5391bd344d8bb0b2602be6398e4e4f0a491cd2247d904862b218caed0590",
+   "ee_text": "1.탈수증 특히 수분결핍시의 수분보급 2.주사제의 용해희석제 1.고칼륨혈증, 순환허탈, 저혈당시의 에너지 보급 2.심질환(G,I,K요법) 그 외 수분, 에너지 보급 3.약물.독물 중독",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:43Z"
+}

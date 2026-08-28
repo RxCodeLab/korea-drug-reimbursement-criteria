@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199803441",
+ "item_name": "바르졸크림(수출용)",
+ "entp_name": "(주)서울제약",
+ "permit_date": "19980526",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256386]글리시리진산이칼륨|[M051499]크로타미톤|[M040131]리도카인|[M223037]미코나졸질산염",
+ "main_item_ingr_eng": "Crotamiton/Dipotassium Glycyrrhizinate/Lidocaine/Miconazole Nitrate",
+ "edi_code": "",
+ "atc_code": "D01AC52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803441",
+ "revisions": [
+  {
+   "revision_id": "199803441-3e2a151a",
+   "content_sha256": "3e2a151a24ddc7d6a5ae466f577df8066bbf0acc75fc10c286ed5c79ed68bd1f",
+   "ee_text": "무좀, 완선, 체부백선",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

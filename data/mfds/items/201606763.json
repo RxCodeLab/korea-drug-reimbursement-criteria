@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606763",
+ "item_name": "마미즈시럽",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20161125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040096]디멘히드리네이트|[M223183]카페인무수물|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Dimenhydrinate/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A04AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606763",
+ "revisions": [
+  {
+   "revision_id": "201606763-435d1318",
+   "content_sha256": "435d131894e2f05e870de606737dde1e20860f327c4edecdd997f8c55430a18c",
+   "ee_text": "멀미에 의한 어지러움.구토.두통의 예방 및 완화",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:53Z",
+   "last_observed_at": "2026-08-28T13:24:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:53Z"
+}

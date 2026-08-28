@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801194",
+ "item_name": "스타라제정(수출용)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "19981211",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095618]우루소데스옥시콜린산|[M081083]비오디아스타제2000|[M082712]리파제AP6",
+ "main_item_ingr_eng": "Biodiastase 2000/Lipase AP6/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801194",
+ "revisions": [
+  {
+   "revision_id": "199801194-637c65f7",
+   "content_sha256": "637c65f79f43df0f35845e0d473c955478e286c21d7dfcbad4e355cf650d8aed",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 식체(위체), 소화촉진, 소화불량으로 인한 위부 팽만감",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:49Z",
+   "last_observed_at": "2026-08-28T13:23:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:49Z"
+}

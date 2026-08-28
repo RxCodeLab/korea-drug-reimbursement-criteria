@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501426",
+ "item_name": "신텍스복령오미자탕엑스과립",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "19951213",
+ "cancel_date": "20250401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040445]오미자|[M040006]감초|[M050023]계심|[M040225]복령",
+ "main_item_ingr_eng": "Cassiae Cortex Interior/Licorice/Poria/Schisandra Fruit",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501426",
+ "revisions": [
+  {
+   "revision_id": "199501426-615c22f6",
+   "content_sha256": "615c22f64918755288f35e207981e7d01b59d7cc32cd531b0c0f5bfd42ccca65",
+   "ee_text": "기침을 하면서 하복부에서 가슴부위로 치솟고 두근거림을 호소하는 사람의 다음 증상 : 만성기관지염",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:46Z"
+}

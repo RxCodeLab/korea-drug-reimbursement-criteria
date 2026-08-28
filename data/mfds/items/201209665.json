@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201209665",
+ "item_name": "프리텔미정40mg(텔미사르탄)",
+ "entp_name": "초당약품공업(주)",
+ "permit_date": "20121213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090395]텔미사르탄",
+ "main_item_ingr_eng": "Telmisartan",
+ "edi_code": "670701690",
+ "atc_code": "C09CA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201209665",
+ "revisions": [
+  {
+   "revision_id": "201209665-2f8120ab",
+   "content_sha256": "2f8120abfe879d11aeca2b89dc7b572694798c4775719cf20adcaadef2366a29",
+   "ee_text": "안지오텐신 전환효소(ACE) 저해제를 내약성으로 투여할 수 없으며, 주요 심혈관 질환이 발병될 위험성이 높은 만 55세 이상의 환자(관상동맥질환, 말초동맥질환, 뇌졸중, 일과성 허혈 발작에 대한 과거 병력이 있거나 말단 장기 손상의 임상적 증거가 있는 고위험성 당뇨병 환자)에서 심근경색, 뇌졸중 및 심혈관 질환으로 인한 사망의 위험성 감소",
+   "ee_doc_id": "22",
+   "first_observed_at": "2026-08-28T13:24:29Z",
+   "last_observed_at": "2026-08-28T13:24:29Z",
+   "official_revision_date": "2024-09-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:29Z"
+}

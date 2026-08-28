@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702735",
+ "item_name": "파나신캡슐(배농산급탕)",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20170530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040007]건강|[M040071]대추|[M040006]감초|[M040536]지실|[M040523]작약|[M040048]길경",
+ "main_item_ingr_eng": "Ginger/Jujube/Licorice/Peony Root/Platycodon Root/Poncirus Immature Fruit",
+ "edi_code": "",
+ "atc_code": "J01XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702735",
+ "revisions": [
+  {
+   "revision_id": "201702735-91727f28",
+   "content_sha256": "91727f28641ac01c16806b2ace7bc7d44496b81f4d1d3b9eb488142274dd3da1",
+   "ee_text": "발적(충혈되어 붉어짐), 부기, 단단해지고 통증을 수반하는 화농(곪음)성질환",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:24:56Z",
+   "last_observed_at": "2026-08-28T13:24:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:56Z"
+}

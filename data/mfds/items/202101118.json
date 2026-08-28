@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101118",
+ "item_name": "정보에스환",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20210204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M110394]아선약 가루|[M110548]현초 가루|[M110361]대황 가루|[M110397]정향 가루|[M113524]육계 가루|[M110355]건강 가루|[M111216]백출 가루|[M113433]황백 가루|[M110492]황금 가루",
+ "main_item_ingr_eng": "Atractylodes Rhizoma Alba Powder/Cinnamon Bark Powder/Clove Powder/Gambir Powder/Geranium Herb Powder/Ginger Powder/Phellodendron Bark Powder/Rhubarb Powder/Scutellaria Root Powder",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101118",
+ "revisions": [
+  {
+   "revision_id": "202101118-6f8cdeed",
+   "content_sha256": "6f8cdeedbeb087651d6594cfb1aac9c1697cd20af96a75d52edce80b24fd1820",
+   "ee_text": "정장, 변비, 묽은 변, 복부팽만감, 장내이상발효, 식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:23Z",
+   "last_observed_at": "2026-08-28T13:25:23Z",
+   "official_revision_date": "2021-02-04"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:23Z"
+}

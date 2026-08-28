@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508272",
+ "item_name": "까스앤프리츄정80밀리그램(시메티콘)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20151214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223083]시메티콘",
+ "main_item_ingr_eng": "Simethicone",
+ "edi_code": "",
+ "atc_code": "A03AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508272",
+ "revisions": [
+  {
+   "revision_id": "201508272-3d3e6c1b",
+   "content_sha256": "3d3e6c1b5c9ce4a3d7bc15d1b0814a0fb9101ee6dc2f2d00b0fa7a5ae72b4c6c",
+   "ee_text": "1) 위내시경 검사시 장내기포제거 2) 복부 X선 촬영시 장내가스제거 3) 위장관내 가스로 인한 복부 증상(복부팽만감, 공기연하증 등)의 개선",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:46Z",
+   "last_observed_at": "2026-08-28T13:24:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:46Z"
+}

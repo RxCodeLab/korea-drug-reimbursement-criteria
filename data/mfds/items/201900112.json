@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900112",
+ "item_name": "애드민플러스정",
+ "entp_name": "(주)한국피엠지제약",
+ "permit_date": "20190110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051564]탄산칼슘|[M218189]농축콜레칼시페롤(분말형)",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Powder",
+ "edi_code": "697100770",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900112",
+ "revisions": [
+  {
+   "revision_id": "201900112-f17f74bf",
+   "content_sha256": "f17f74bfcd1de91af42ab802bd83435c31c2eeaf71150dad30f89f25f22a8ecc",
+   "ee_text": "- 임신 ∙ 수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능 ∙ 효과는 다음과 같다. ∙ 뼈, 이의 발육불량 ∙ 구루병의 예방",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:03Z",
+   "last_observed_at": "2026-08-28T13:25:03Z",
+   "official_revision_date": "2019-01-10"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:03Z"
+}

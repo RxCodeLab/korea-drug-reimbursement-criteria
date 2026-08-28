@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "N06AX22",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804018",
+ "history_fetched_at": "2026-08-27T12:24:47Z",
  "revisions": [
   {
    "revision_id": "201804018-44a74bd2",
    "content_sha256": "44a74bd2e773b438410f1e4ddf32b335ee0382f2e44742549b0a3a80177aa284",
    "ee_text": "주요 우울증, 범불안장애",
-   "ee_doc_id": "18",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201804018/EE",
    "first_observed_at": "2026-08-27T12:24:47Z",
-   "last_observed_at": "2026-08-27T12:24:47Z",
-   "official_revision_date": "2024-02-05"
+   "last_observed_at": "2026-08-28T13:25:02Z"
   },
   {
    "revision_id": "201804018-cf12792b",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:24:47Z",
    "last_observed_at": "2026-08-27T12:24:47Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:24:47Z"
+ ]
 }

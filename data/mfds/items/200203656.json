@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200203656",
+ "item_name": "경방마황발표탕엑스과립(동의수세보원)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20021203",
+ "cancel_date": "20240401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040769]행인|[M040789]황금|[M040139]맥문동|[M040135]마황|[M040048]길경",
+ "main_item_ingr_eng": "Apricot Kernel/Ephedra Herb/Liriope Tuber/Platycodon Root/Scutellaria Root",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200203656",
+ "revisions": [
+  {
+   "revision_id": "200203656-8c3c7c14",
+   "content_sha256": "8c3c7c14ad8be222b58f725ab215ca7649a6bee639ee5523dd257454979bc6ea",
+   "ee_text": "태음인의 무한이천(無汗而喘, 땀이 나지 않고 숨참), 두통, 신체통, 발열, 오한, 맥부(脈浮)",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:01Z",
+   "last_observed_at": "2026-08-28T13:24:01Z",
+   "official_revision_date": "2010-04-09"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:01Z"
+}

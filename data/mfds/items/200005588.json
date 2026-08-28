@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005588",
+ "item_name": "경방이진탕엑스과립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000811",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040006]감초|[M040225]복령|[M050752]생강|[M040538]진피|[M040202]반하",
+ "main_item_ingr_eng": "Citrus Unshiu Peel/Licorice/Pinellia Tuber/Poria/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "A04AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005588",
+ "revisions": [
+  {
+   "revision_id": "200005588-48fa0618",
+   "content_sha256": "48fa0618e6a9a4b8bf58b81eee6a1b0c445c875c617fbe94e10a32640f2a54f8",
+   "ee_text": "구역, 구토",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

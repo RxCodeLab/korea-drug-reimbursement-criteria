@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201472",
+ "item_name": "삼진리도카인염산염수화물0.5%주사[수출명: Lincain 0.5% Injection]",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19920609",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222842]리도카인염산염수화물",
+ "main_item_ingr_eng": "Lidocaine Hydrochloride Hydrate",
+ "edi_code": "647800991",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201472",
+ "revisions": [
+  {
+   "revision_id": "199201472-9f38cd1a",
+   "content_sha256": "9f38cd1af3071cf20f531b13687d07073ea4200e589c1c5b058e093a274d53f6",
+   "ee_text": "(주사제) 0.5 % 경막외마취, 전달마취, 침윤마취",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199201472/EE",
+   "first_observed_at": "2026-08-28T13:23:44Z",
+   "last_observed_at": "2026-08-28T13:23:44Z"
+  },
+  {
+   "revision_id": "199201472-f904909a",
+   "content_sha256": "f904909a8650feea0cdbf2b22d7f8fed85700df51448c69dd6596162aadc9493",
+   "ee_text": "경막외마취, 전달마취, 침윤마취",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:44Z",
+   "last_observed_at": "2026-08-28T13:23:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:44Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203011",
+ "item_name": "누보로젯정40/5/5/10밀리그램",
+ "entp_name": "(주)종근당",
+ "permit_date": "20220720",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090395]텔미사르탄|[M270546]로수바스타틴칼슘(미분화)|[M097492]에제티미브|[M113352]S-암로디핀베실산염이수화물",
+ "main_item_ingr_eng": "Ezetimibe/Rosuvastatin Calcium Micronized/S-Amlodipine Besylate Dihydrate/Telmisartan",
+ "edi_code": "643309100",
+ "atc_code": "C10BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203011",
+ "revisions": [
+  {
+   "revision_id": "202203011-da4447c0",
+   "content_sha256": "da4447c06d1d21216d4bfb2c7f1f5daee760eca148ed852f39b7ceb7c2f3175f",
+   "ee_text": "이 약은 텔미사르탄/에스암로디핀(암로디핀) 복합제와 로수바스타틴/에제티미브 복합제를 동시에 투여하여야 하는 환자에만 사용한다. 고혈압・이상지질혈증 치료를 목적으로, 이 약 주성분 중 2종 이상을 투여하고 있는 환자에서 추가적인 조절이 필요한 경우 이 약을 사용한다. ○ 텔미사르탄/에스암로디핀(암로디핀) 텔미사르탄 또는 에스암로디핀(암로디핀) 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압 ○ 로수바스타틴/에제티미브 원발성 고콜레스테롤혈증 원발성 고콜레스테롤혈증(이형접합 가족형 및 비가족형) 또는 혼합형 이상지질혈증 환자의 상승된 총 콜레스테롤(total-C), LDL-콜레스테롤(LDL-C), 아포 B 단백(Apo B), 트리글리세라이드(TG) 및 non-HDL-콜레스테롤을 감소시키고, HDL-콜레스테롤(HDL-C)을 증가시키기 위한 식이요법의 보조제로서 이 약을 투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:30Z",
+   "last_observed_at": "2026-08-28T13:25:30Z",
+   "official_revision_date": "2022-07-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:30Z"
+}

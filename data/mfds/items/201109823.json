@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201109823",
+ "item_name": "루핑점안액(1회용)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20111110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102967]히프로멜로오스|[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Hypromellose/Potassium Chloride/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109823",
+ "revisions": [
+  {
+   "revision_id": "201109823-9346477b",
+   "content_sha256": "9346477b03c9d9289088167103218a58c20a36d028c6a6f33f197f4ba14219f6",
+   "ee_text": "눈의 피로, 누액의 보조(눈의 건조), 하드콘택트렌즈 또는 소프트렌즈 착용시 불쾌감, 눈의 침침함.(눈곱이 많을 때 등)",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:27Z",
+   "last_observed_at": "2026-08-28T13:24:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:27Z"
+}

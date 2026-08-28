@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200503125",
+ "item_name": "덴카바캡슐",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20050711",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255819]토코페롤아세테이트 2배산|[M250406]아스코르브산과립|[M051437]카르바조크롬|[M256212]리소짐염산염",
+ "main_item_ingr_eng": "Ascorbic Acid Granules/Carbazochrome/Lysozyme Hydrochloride/Tocopherol Acetate Powder 50%",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503125",
+ "revisions": [
+  {
+   "revision_id": "200503125-25e03d06",
+   "content_sha256": "25e03d068f542b7c01614cf3acecea40680700f16b158fba05b3497cd968baa7",
+   "ee_text": "치주(치아주위조직) 치료 후 치은염(잇몸염), 경·중등도 치주(치아주위조직)염의 보조치료",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z",
+   "official_revision_date": "2021-04-28"
+  },
+  {
+   "revision_id": "200503125-9db36f22",
+   "content_sha256": "9db36f22a16614557b6bd237a7cec1c4194d7273e6bc8beda217048bc8da1cbf",
+   "ee_text": "치주치료 후 치은염, 경·중등도 치주염의 보조치료",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:09Z"
+}

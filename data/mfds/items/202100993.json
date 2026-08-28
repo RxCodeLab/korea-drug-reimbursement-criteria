@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202100993",
+ "item_name": "케라논연고",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20210201",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089404]우레아|[M040264]살리실산",
+ "main_item_ingr_eng": "Salicylic Acid/Urea",
+ "edi_code": "",
+ "atc_code": "D02AE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100993",
+ "revisions": [
+  {
+   "revision_id": "202100993-47bbbccc",
+   "content_sha256": "47bbbccc1b8fc3795a13f254ff4f012049e3f9ed3e836755055a1095656b94a2",
+   "ee_text": "비늘 및 과다 각화 피부질환(예: 비늘증, 각질화된 습진 및 건선) 손발의 과다 각화증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:23Z",
+   "last_observed_at": "2026-08-28T13:25:23Z",
+   "official_revision_date": "2021-02-01"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:23Z"
+}

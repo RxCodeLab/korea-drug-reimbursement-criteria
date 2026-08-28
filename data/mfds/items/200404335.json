@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200404335",
+ "item_name": "요신환(청심연자음)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20040701",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086773]연자육|[M040139]맥문동|[M040225]복령|[M051291]인삼|[M040545]차전자|[M040789]황금|[M040790]황기|[M051352]지골피|[M040006]감초",
+ "main_item_ingr_eng": "Astragalus Root/Ginseng/Licorice/Liriope Tuber/Lycium Root Bark/Nelumbo Seed/Plantago Seed/Poria/Scutellaria Root",
+ "edi_code": "",
+ "atc_code": "G04BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404335",
+ "revisions": [
+  {
+   "revision_id": "200404335-77c1901a",
+   "content_sha256": "77c1901aa6abe6b26c75ef5c73161374b28b5ed87c4ea7cf5842d1c18d8790fb",
+   "ee_text": "전신권태감이 있고 입과 혀가 마르고 소변이 잘 나오지 않는 사람의 다음 증상 : 잔뇨감(소변을 누고난 후에도 다 눈 것 같지 않은 느낌), 빈뇨, 배뇨(소변을 눔)통",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:24:06Z",
+   "last_observed_at": "2026-08-28T13:24:06Z",
+   "official_revision_date": "2023-05-22"
+  },
+  {
+   "revision_id": "200404335-e7b3046d",
+   "content_sha256": "e7b3046d103a05b509017bb8b0477a5abbb5325545c567aa54863d4f42b808ae",
+   "ee_text": "전신권태감이 있고 입과 혀가 마르고 소변이 잘 나오지 않는 사람의 다음 증상 : 잔뇨감, 빈뇨, 배뇨통",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:06Z",
+   "last_observed_at": "2026-08-28T13:24:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:06Z"
+}

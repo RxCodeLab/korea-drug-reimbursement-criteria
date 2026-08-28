@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197000215",
+ "item_name": "코데농정",
+ "entp_name": "동광제약(주)",
+ "permit_date": "19700213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261072]디히드로코데인타르타르산염|[M223211]클로르페니라민말레산염|[M204422]dl-메틸에페드린염산염|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dihydrocodeine Tartrate",
+ "edi_code": "645900990",
+ "atc_code": "R05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197000215",
+ "revisions": [
+  {
+   "revision_id": "197000215-da6ae941",
+   "content_sha256": "da6ae941bfe4a46693189cf70b524d3fd9a3cebea6e5f19f12abf6f835dc98da",
+   "ee_text": "기침, 가래",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

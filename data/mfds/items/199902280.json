@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199902280",
+ "item_name": "제농환(배농산급탕)",
+ "entp_name": "일심제약",
+ "permit_date": "19990906",
+ "cancel_date": "20251202",
+ "status": "폐업",
+ "main_item_ingr": "[M040006]감초|[M040007]건강|[M040048]길경|[M040071]대추|[M040523]작약|[M040536]지실",
+ "main_item_ingr_eng": "Ginger/Jujube/Licorice/Peony Root/Platycodon Root/Poncirus Immature Fruit",
+ "edi_code": "",
+ "atc_code": "J01XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902280",
+ "revisions": [
+  {
+   "revision_id": "199902280-d2110385",
+   "content_sha256": "d2110385036389b77d20080807919898e021f5195c9a84b1705172a3760f4c56",
+   "ee_text": "발적(충혈되어 붉어짐), 부기, 단단해지고 통증을 수반하는 화농성질환",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z",
+   "official_revision_date": "2010-04-09"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:51Z"
+}

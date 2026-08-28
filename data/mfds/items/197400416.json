@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197400416",
+ "item_name": "유락신연고(크로타미톤)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "19740611",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051499]크로타미톤",
+ "main_item_ingr_eng": "Crotamiton",
+ "edi_code": "",
+ "atc_code": "D04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400416",
+ "revisions": [
+  {
+   "revision_id": "197400416-85a1908e",
+   "content_sha256": "85a1908eaccbb6020c72817999d35315a2ba41e10bf5a5faa894ced9fa0a6a3f",
+   "ee_text": "(로오숀제) 옴, 피부가려움 (연고제) 피부가려움",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

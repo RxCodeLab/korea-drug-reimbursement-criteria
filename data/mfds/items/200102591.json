@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200102591",
+ "item_name": "쎄쎄500산",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20010412",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100456]리보플라빈3배산|[M255819]토코페롤아세테이트 2배산|[M258994]아스코르브산|[M236913]제피아스코르브산",
+ "main_item_ingr_eng": "Ascorbic Acid/Ascorbic Acid Coated/Riboflavin Powder 33.3%/Tocopherol Acetate Powder 50%",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102591",
+ "revisions": [
+  {
+   "revision_id": "200102591-5de2cd5c",
+   "content_sha256": "5de2cd5c8b2764e6e7984bdd70c2fad44b5aaab44a511a9b6fb29dd870ba2490",
+   "ee_text": "- 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 - 이 약에 함유된 비타민 등의 효능효과는 다음과 같다. ㆍ비타민C : 햇빛·피부병 등에 의한 색소침착(기미, 주근깨)의 완화, 잇몸출혈·비출혈(코피) 예방",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2021-02-10"
+  },
+  {
+   "revision_id": "200102591-7cf3e056",
+   "content_sha256": "7cf3e05618135f311f2d50740a9ceb6593ff47ccbe67218938e7bcd60e89b9f0",
+   "ee_text": "1) 육체피로 2) 임신ㆍ수유기 3) 병중ㆍ병후의 체력저하시 4) 노년기 5) 햇빛ㆍ피부병 등에 의한 색소침착(기미,주근깨)의 완화 6) 잇몸출혈ㆍ비출혈 예방",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199001546",
+ "item_name": "로바스과립",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "19900822",
+ "cancel_date": "20240429",
+ "status": "취하",
+ "main_item_ingr": "[M040631]탄산수소나트륨|[M084007]타르타르산",
+ "main_item_ingr_eng": "Sodium Bicarbonate/Tartaric Acid",
+ "edi_code": "",
+ "atc_code": "V08B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001546",
+ "revisions": [
+  {
+   "revision_id": "199001546-ef229623",
+   "content_sha256": "ef229623250db7760913f487e4aeb10d1c38e205dd9f40f2c7bd5acb20e475f5",
+   "ee_text": "위ㆍ십이지장 투시 촬영의 조영보조제",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:43Z"
+}

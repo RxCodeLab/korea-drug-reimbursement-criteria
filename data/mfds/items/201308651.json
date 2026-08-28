@@ -12,15 +12,15 @@
  "edi_code": "640902620",
  "atc_code": "G04CA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308651",
+ "history_fetched_at": "2026-08-27T13:23:03Z",
  "revisions": [
   {
    "revision_id": "201308651-0747867b",
    "content_sha256": "0747867b0dc6df1e1a84615fada25aefd3386ec3c82fbe8af46fc82ae103189f",
    "ee_text": "양성 전립샘비대증에 따른 배뇨장애",
-   "ee_doc_id": "5",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201308651/EE",
    "first_observed_at": "2026-08-27T13:23:03Z",
-   "last_observed_at": "2026-08-27T13:23:03Z",
-   "official_revision_date": "2018-02-28"
+   "last_observed_at": "2026-08-28T13:24:32Z"
   },
   {
    "revision_id": "201308651-528cccc1",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:23:03Z",
    "last_observed_at": "2026-08-27T13:23:03Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:23:03Z"
+ ]
 }

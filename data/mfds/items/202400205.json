@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400205",
+ "item_name": "제미메트서방정25/750밀리그램(제미글립틴,메트포르민)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20240126",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223014]메트포르민염산염|[M263103]제미글립틴타르타르산염1.5수하물",
+ "main_item_ingr_eng": "Gemigliptin Tartrate Sesquihydrate/Metformin Hydrochloride",
+ "edi_code": "668903380",
+ "atc_code": "A10BD18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400205",
+ "revisions": [
+  {
+   "revision_id": "202400205-8916e88f",
+   "content_sha256": "8916e88f608bede28ddce53dcfa7e8a1c454c0e209ccced9a4d53c7f6f74c53e",
+   "ee_text": "이 약은 제미글립틴과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법 보조제로 투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:35Z",
+   "last_observed_at": "2026-08-28T13:25:35Z",
+   "official_revision_date": "2024-01-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:35Z"
+}

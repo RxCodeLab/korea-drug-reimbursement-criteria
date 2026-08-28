@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100614",
+ "item_name": "코미정",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20010402",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222724]페닐레프린염산염|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/Phenylephrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01BA53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100614",
+ "revisions": [
+  {
+   "revision_id": "200100614-aab9a70d",
+   "content_sha256": "aab9a70d5dde160b01475c5c0cf4e68a454df6e8b4b07391743bd9940c9d9ab5",
+   "ee_text": "- 감기 또는 알레르기성 및 혈관운동성 비염(코염)에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘, 눈물 - 부비동염에 의함 비충혈(코막힘)의 일시적 완화",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

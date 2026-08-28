@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405423",
+ "item_name": "네티진정(레보세티리진염산염)",
+ "entp_name": "(주)킵스바이오파마",
+ "permit_date": "20141120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244596]레보세티리진염산염",
+ "main_item_ingr_eng": "Levocetirizine Hydrochloride",
+ "edi_code": "693201280",
+ "atc_code": "R06AE09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405423",
+ "revisions": [
+  {
+   "revision_id": "201405423-a39a0a2d",
+   "content_sha256": "a39a0a2d7520ecb63aa598e88f0e907537179be3f6fb291332c25df03dba613d",
+   "ee_text": "(지속적 알레르기성 비염 포함)",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:39Z",
+   "last_observed_at": "2026-08-28T13:24:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:39Z"
+}

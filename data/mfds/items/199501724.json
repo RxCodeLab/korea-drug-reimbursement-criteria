@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501724",
+ "item_name": "일심삼소음엑스과립",
+ "entp_name": "일심제약",
+ "permit_date": "19951215",
+ "cancel_date": "20250401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040538]진피|[M040004]갈근|[M051318]전호|[M040202]반하|[M040225]복령|[M051291]인삼|[M040048]길경|[M040536]지실|[M051301]자소엽|[M040071]대추|[M050752]생강|[M040187]목향|[M040006]감초|[M086656]수침건조엑스",
+ "main_item_ingr_eng": "Aucklandiae Radix/Citrus Unshiu Peel/Ginseng/Jujube/Licorice/Perilla Leaf/Peucedani Radix/Pinellia Tuber/Platycodon Root/Poncirus Immature Fruit/Poria/Pueraria Root/Raw Ginger/Water Extract Dried",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501724",
+ "revisions": [
+  {
+   "revision_id": "199501724-f4d43d83",
+   "content_sha256": "f4d43d8314cb9f0cedc6424f6a922a0f24a87363cf527d1e00f6b71dd51a64cc",
+   "ee_text": "감기, 기침",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z",
+   "official_revision_date": "2009-04-30"
+  },
+  {
+   "revision_id": "199501724-11d03008",
+   "content_sha256": "11d03008e991e2b9ef1f0a8f82593b390f2a9869ab8416d24d237b09e6208ddc",
+   "ee_text": "감기, 기침 감기에 의한 두통, 발열, 기침",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:46Z"
+}

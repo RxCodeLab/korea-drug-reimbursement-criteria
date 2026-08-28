@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701401",
+ "item_name": "몬테스엠정(돔페리돈말레산염)",
+ "entp_name": "(주)메디카코리아",
+ "permit_date": "19970811",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222961]돔페리돈말레산염|[M222961]돔페리돈말레산염",
+ "main_item_ingr_eng": "Domperidone Maleate",
+ "edi_code": "646001090",
+ "atc_code": "A03FA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701401",
+ "revisions": [
+  {
+   "revision_id": "199701401-9b5c441d",
+   "content_sha256": "9b5c441d8ef4251d1207cb983668f34ce8d568047f8018aeadb738a6c30b582e",
+   "ee_text": "오심, 구토 증상의 완화",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:48Z"
+}

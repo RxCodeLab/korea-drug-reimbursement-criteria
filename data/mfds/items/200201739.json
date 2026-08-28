@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201739",
+ "item_name": "치골단(사위탕)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20020503",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051936]형개|[M040185]목단피|[M040564]치자|[M040792]황련|[M051363]생지황|[M040523]작약|[M040205]방풍|[M040550]천궁|[M040006]감초|[M040198]박하|[M040070]당귀",
+ "main_item_ingr_eng": "Angelica Gigas Root/Cnidium Rhizome/Coptis Rhizome/Gardenia Fruit/Licorice/Mentha Herb/Moutan Root Bark/Peony Root/Rehmanniae Radix Recens/Saposhnikovia Root/Schizonepeta Spike",
+ "edi_code": "",
+ "atc_code": "A01A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201739",
+ "revisions": [
+  {
+   "revision_id": "200201739-dabaa4b0",
+   "content_sha256": "dabaa4b063b51843cff01bda72ebcbe07c4a311c4a645c781a6d4dbf80bad0dc",
+   "ee_text": "위열(胃熱)에 의한 치통",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

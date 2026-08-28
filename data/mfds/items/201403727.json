@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403727",
+ "item_name": "신플랙스세이프정500/20밀리그램",
+ "entp_name": "(주)한국피엠지제약",
+ "permit_date": "20140812",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050116]나프록센|[M249554]에스오메프라졸",
+ "main_item_ingr_eng": "Esomeprazole/Naproxen",
+ "edi_code": "697100570",
+ "atc_code": "M01AE52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403727",
+ "revisions": [
+  {
+   "revision_id": "201403727-df14f6a9",
+   "content_sha256": "df14f6a98a4f29aa69c68759399ff3e491e05a1bdc96386eb2c8130519f55a14",
+   "ee_text": "비스테로이드성 소염진통제(나프록센 등)와 관련한 위궤양 및/또는 십이지장궤양의 발생 위험이 있으면서 저용량 나프록센 또는 다른 비스테로이드성 소염진통제에 의해 충분하지 않은 환자에서의 골관절염, 류마티스성 관절염, 강직성척추염의 증상 치료",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:37Z",
+   "last_observed_at": "2026-08-28T13:24:37Z",
+   "official_revision_date": "2017-09-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:37Z"
+}

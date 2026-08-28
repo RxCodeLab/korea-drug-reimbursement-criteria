@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600850",
+ "item_name": "애드타민정",
+ "entp_name": "주식회사 노바엠헬스케어",
+ "permit_date": "20260326",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223289]폴산|[M096429]시아노코발라민|[M086116]농축콜레칼시페롤|[M096428]벤포티아민|[M051564]탄산칼슘",
+ "main_item_ingr_eng": "Benfotiamine/Calcium Carbonate/Cholecalciferol Concentrate/Cyanocobalamin/Folic Acid",
+ "edi_code": "",
+ "atc_code": "A11JB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600850",
+ "revisions": [
+  {
+   "revision_id": "202600850-70531feb",
+   "content_sha256": "70531febe2b87766855b3eecee8fc7083c10708e3ea25087d005eb3125aef96c",
+   "ee_text": "○ 다음경우의 비타민D, B1의 보급 - 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:25:38Z",
+   "last_observed_at": "2026-08-28T13:25:38Z",
+   "official_revision_date": "2026-03-31"
+  },
+  {
+   "revision_id": "202600850-679ee399",
+   "content_sha256": "679ee399fd37dfc91f80c7cd1fd1dec8f2d69381fe2b23a56215b8928e339aaf",
+   "ee_text": "○ 다음경우의 비타민D, B1의 보급 - 육체피로 - 임신․수유기 - 병중․병후 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "1",
+   "official_revision_date": "2026-03-26",
+   "first_observed_at": "2026-08-28T13:25:38Z",
+   "last_observed_at": "2026-08-28T13:25:38Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:38Z"
+}

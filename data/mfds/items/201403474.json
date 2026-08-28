@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403474",
+ "item_name": "경남나프록센연질캡슐",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20140729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050116]나프록센",
+ "main_item_ingr_eng": "Naproxen",
+ "edi_code": "",
+ "atc_code": "M01AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403474",
+ "revisions": [
+  {
+   "revision_id": "201403474-2ba6c29d",
+   "content_sha256": "2ba6c29d984a138b524127ca4bc81af4b4d59e998b0b64d5555011b91ee90405",
+   "ee_text": "류마티양 관절염, 골(뼈)관절염(퇴행성 관절질환), 강직성 척추염, 건염(힘줄염), 급성통풍, 월경곤란증 활액낭염, 골격근장애(염좌(삠), 좌상(타박상), 외상(상처), 요천통(허리통증)), 수술후 동통(통증), 편두통, 발치(이를 뽑음)후 동통(통증)",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:37Z",
+   "last_observed_at": "2026-08-28T13:24:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:37Z"
+}

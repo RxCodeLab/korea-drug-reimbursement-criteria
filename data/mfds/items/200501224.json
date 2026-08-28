@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501224",
+ "item_name": "혈강고카타플라스마",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20050812",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223240]토코페롤아세테이트|[M204423]dl-캄파|[M230875]l-멘톨|[M070611]살리실산글리콜|[M207935]치자연조엑스(3.0→1)|[M213350]황백연조엑스(3.3→1)",
+ "main_item_ingr_eng": "DL-Camphor/Gardenia Fruit Soft Extract (3.0→1)/Glycol Salicylate/L-Menthol/Phellodendron Bark Soft Extract (3.3→1)/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501224",
+ "revisions": [
+  {
+   "revision_id": "200501224-458d0e93",
+   "content_sha256": "458d0e93273c7a6f9230d38700b672de0cbec4028b2082dd1f5c98bc96456968",
+   "ee_text": ": 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 동창(언 상처)",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-28T13:24:07Z",
+   "last_observed_at": "2026-08-28T13:24:07Z",
+   "official_revision_date": "2022-02-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:07Z"
+}

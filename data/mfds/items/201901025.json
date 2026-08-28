@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "A03AA05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901025",
+ "history_fetched_at": "2026-08-27T13:41:09Z",
  "revisions": [
   {
    "revision_id": "201901025-8f9e232d",
    "content_sha256": "8f9e232d26c6cf48e4900cef43f8b1ae5429436bae89975365ce5973b8631fee",
    "ee_text": "1. 주효능·효과 1) 식도역류 및 열공헤르니아, 위·십이지장염, 위·십이지장궤양에 있어서의 소화기능이상 (복통, 소화불량,구역, 구토) 2) 과민성대장증후군 및 경련성 결장 3) 소아 질환 : 습관성 구토, 비감염성 장관통과장애 (변비, 설사)",
-   "ee_doc_id": "4",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201901025/EE",
    "first_observed_at": "2026-08-27T13:41:09Z",
-   "last_observed_at": "2026-08-27T13:41:09Z",
-   "official_revision_date": "2020-09-30"
+   "last_observed_at": "2026-08-28T13:25:04Z"
   },
   {
    "revision_id": "201901025-2798c042",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:41:09Z",
    "last_observed_at": "2026-08-27T13:41:09Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:41:09Z"
+ ]
 }

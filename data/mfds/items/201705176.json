@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705176",
+ "item_name": "제놀더블액션카타플라스마",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20170630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200188]노닐산바닐릴아미드|[M204423]dl-캄파|[M230875]l-멘톨|[M203279]살리실산메틸|[M200188]노닐산바닐릴아미드|[M204423]dl-캄파|[M230875]l-멘톨|[M203279]살리실산메틸|[M200188]노닐산바닐릴아미드|[M204423]dl-캄파|[M230875]l-멘톨|[M203279]살리실산메틸",
+ "main_item_ingr_eng": "DL-Camphor/L-Menthol/Methyl Salicylate/Vanillyl Nonylamide",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705176",
+ "revisions": [
+  {
+   "revision_id": "201705176-59975997",
+   "content_sha256": "59975997b42cd37bb1400f7b47d408ac3728ca2aa49243d2c433ec83eda1806b",
+   "ee_text": "다음 증상의 진통ㆍ소염(항염) : 타박상, 삠, 요(허리)통, 어깨결림, 근육통, 관절통",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:56Z",
+   "last_observed_at": "2026-08-28T13:24:56Z",
+   "official_revision_date": "2017-08-16"
+  },
+  {
+   "revision_id": "201705176-8483c7ee",
+   "content_sha256": "8483c7ee553ee770526cde30968450840f954cf10d61605237680f2ae017c8d9",
+   "ee_text": "다음 증상의 진통ㆍ소염(항염) : 타박상, 삠, 요통, 어깨결림, 근육통, 관절통",
+   "ee_doc_id": "2",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:56Z",
+   "last_observed_at": "2026-08-28T13:24:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:56Z"
+}

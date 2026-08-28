@@ -12,15 +12,15 @@
  "edi_code": "657800360",
  "atc_code": "N02AA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210689",
+ "history_fetched_at": "2026-08-27T13:15:12Z",
  "revisions": [
   {
    "revision_id": "200210689-720c5c42",
    "content_sha256": "720c5c42c59e65e805406bbeb695a79f099eb442e8cc131b2ce48eeec24cc47a",
    "ee_text": "(정제) 마약성 진통제 사용이 필요한 심한 통증의 완화",
-   "ee_doc_id": "13",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200210689/EE",
    "first_observed_at": "2026-08-27T13:15:12Z",
-   "last_observed_at": "2026-08-27T13:15:12Z",
-   "official_revision_date": "2018-08-02"
+   "last_observed_at": "2026-08-28T13:24:01Z"
   },
   {
    "revision_id": "200210689-70e6ef2f",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:15:12Z",
    "last_observed_at": "2026-08-27T13:15:12Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:15:12Z"
+ ]
 }

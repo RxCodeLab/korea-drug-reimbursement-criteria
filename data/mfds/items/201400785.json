@@ -12,16 +12,15 @@
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400785",
+ "history_fetched_at": "2026-08-27T13:00:03Z",
  "revisions": [
   {
    "revision_id": "201400785-a625f29d",
    "content_sha256": "a625f29dda859334623cdff383726932a3ce34bc2006e33e0b06d96cbf3114f1",
    "ee_text": "감기의 제증상 (인후(목구멍)통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
-   "ee_doc_id": "6",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201400785/EE",
    "first_observed_at": "2026-08-27T13:00:03Z",
-   "last_observed_at": "2026-08-27T13:00:03Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-08-28T13:24:35Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:00:03Z"
+ ]
 }

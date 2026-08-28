@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201730",
+ "item_name": "프리브로펜주(이부프로펜)",
+ "entp_name": "제이더블유생명과학(주)",
+ "permit_date": "20220428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜",
+ "main_item_ingr_eng": "Ibuprofen",
+ "edi_code": "",
+ "atc_code": "M01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201730",
+ "revisions": [
+  {
+   "revision_id": "202201730-d2443bb4",
+   "content_sha256": "d2443bb4805b2de71c232afb8cf1b3bd6ed2c5d2ce0cf6ed5c6bc892604e7dd6",
+   "ee_text": "중등도 및 중증 통증 조절을 위한 마약성 진통제의 보조요법, 해열",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:29Z",
+   "last_observed_at": "2026-08-28T13:25:29Z",
+   "official_revision_date": "2022-04-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:29Z"
+}

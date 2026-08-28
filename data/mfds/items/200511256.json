@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511256",
+ "item_name": "크레스토정5밀리그램(로수바스타틴칼슘)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20051229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095744]로수바스타틴칼슘",
+ "main_item_ingr_eng": "Rosuvastatin Calcium",
+ "edi_code": "650700540",
+ "atc_code": "C10AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511256",
+ "revisions": [
+  {
+   "revision_id": "200511256-7f4f76cd",
+   "content_sha256": "7f4f76cd98a119c2272afc8ec246e2d86ebd8584581a8493ec7b49179950cb28",
+   "ee_text": "￮ LDL-콜레스테롤이 여전히 190 mg/dL을 초과하는 경우 (LDL-C > 190 mg/dL) ￮ LDL-콜레스테롤이 여전히 160 mg/dL을 초과하면서 (LDL-C > 160 mg/dL), 조기 심혈관 질환의 가족력이 있거나 두가지 이상의 심혈관 질환 위험 인자가 있는 경우 - 뇌졸중에 대한 위험성 감소 - 심근경색에 대한 위험성 감소 - 동맥 혈관재형성술에 대한 위험성 감소",
+   "ee_doc_id": "44",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z",
+   "official_revision_date": "2023-11-10"
+  },
+  {
+   "revision_id": "200511256-1f94494a",
+   "content_sha256": "1f94494a3bc9dff962250d35baf5d0d114d87526d1ae1472eb1d389fd447e6b9",
+   "ee_text": "◦ LDL-콜레스테롤이 여전히 190 mg/dL을 초과하는 경우 (LDL-C > 190 mg/dL) ◦ LDL-콜레스테롤이 여전히 160 mg/dL을 초과하면서 (LDL-C > 160 mg/dL), 조기 심혈관 질환의 가족력이 있거나 두가지 이상의 심혈관 질환 위험 인자가 있는 경우 - 뇌졸중에 대한 위험성 감소 - 심근경색에 대한 위험성 감소 - 동맥 혈관재형성술에 대한 위험성 감소",
+   "ee_doc_id": "26",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:09Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501506",
+ "item_name": "안티푸라민코인알파플라스타",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20250618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215133]에녹솔론|[M200188]노닐산바닐릴아미드|[M223240]토코페롤아세테이트|[M279284]L-멘톨|[M203279]살리실산메틸",
+ "main_item_ingr_eng": "Enoxolone/L-Menthol/Methyl Salicylate/Tocopherol Acetate/Vanillyl Nonylamide",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501506",
+ "revisions": [
+  {
+   "revision_id": "202501506-0048ecb3",
+   "content_sha256": "0048ecb3c12dac6d6c5a4a4265911879de18e84528e2c87631b5050cb7c8de1a",
+   "ee_text": "- 다음 증상의 진통·소염(항염): 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 신경통, 류마티스통증 - 피부가려움, 벌레물린데 - 동창(언 상처)",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:25:37Z",
+   "last_observed_at": "2026-08-28T13:25:37Z",
+   "official_revision_date": "2026-07-16"
+  },
+  {
+   "revision_id": "202501506-c031cc46",
+   "content_sha256": "c031cc46403a2b8ab29998a00a978cb922dbdedf5976c1cc364e2d9f2b92ee22",
+   "ee_text": "- 다음 증상의 진통·소염: 삠, 타박상, 근육통, 관절통, 골절통, 요통, 어깨결림, 신경통, 류마티스통증 - 피부가려움, 벌레물린데 - 동창",
+   "ee_doc_id": "1",
+   "official_revision_date": "2025-06-18",
+   "first_observed_at": "2026-08-28T13:25:37Z",
+   "last_observed_at": "2026-08-28T13:25:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:37Z"
+}

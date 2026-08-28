@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301568",
+ "item_name": "페리세라정10mg(수출용)(세라티오펩티다제)(수출명:세티다정,ALPHARMA TAB)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20030528",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M099414]세라티오펩티다제",
+ "main_item_ingr_eng": "Serratiopeptidase",
+ "edi_code": "",
+ "atc_code": "M09AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301568",
+ "revisions": [
+  {
+   "revision_id": "200301568-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:02Z"
+}

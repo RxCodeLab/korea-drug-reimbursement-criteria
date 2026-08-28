@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906587",
+ "item_name": "라그리펜정",
+ "entp_name": "(주)유앤생명과학",
+ "permit_date": "20190920",
+ "cancel_date": "20240920",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M223279]페닐레프린염산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/Phenylephrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01BA53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906587",
+ "revisions": [
+  {
+   "revision_id": "201906587-6b0526c0",
+   "content_sha256": "6b0526c093cc559a8ed2f5f4b48b8dc55e7d6874407dd75ea358c9d16100afee",
+   "ee_text": "- 감기 또는 알레르기성 및 혈관운동성 비염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘, 눈물 - 부비동염에 의한 비충혈의 일시적 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:11Z",
+   "last_observed_at": "2026-08-28T13:25:11Z",
+   "official_revision_date": "2019-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:11Z"
+}

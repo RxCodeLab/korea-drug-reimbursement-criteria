@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000351",
+ "item_name": "유한메트포르민염산염정850밀리그램",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20200121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244179]메트포르민염산염",
+ "main_item_ingr_eng": "Metformin Hydrochloride",
+ "edi_code": "642105560",
+ "atc_code": "A10BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000351",
+ "revisions": [
+  {
+   "revision_id": "202000351-9b32aae1",
+   "content_sha256": "9b32aae1ac6127d1ae6b117d5a5619f7b2a1f70688663dc937197817a999114d",
+   "ee_text": "제 2형 당뇨병 1) 식사요법, 운동요법으로 충분한 효과를 얻을 수 없는 경우 2) 설폰요소계만으로 효과가 불충분한 경우 또는 부작용 등에 의해 사용이 부적당한 경우에 투여.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2020-01-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

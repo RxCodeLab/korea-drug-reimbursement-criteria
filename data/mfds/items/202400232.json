@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400232",
+ "item_name": "다파피오정10/30밀리그램(다파글리플로진,피오글리타존)",
+ "entp_name": "대웅바이오(주)",
+ "permit_date": "20240131",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258339]다파글리플로진프로판디올수화물|[M235069]피오글리타존염산염",
+ "main_item_ingr_eng": "Dapagliflozin Propanediol Hydrate/Pioglitazone Hydrochloride",
+ "edi_code": "648105020,694004720",
+ "atc_code": "A10BD33",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400232",
+ "revisions": [
+  {
+   "revision_id": "202400232-9b0d2fb8",
+   "content_sha256": "9b0d2fb8918028a0b706e224426071634186adbb8e12cfc7d07834a143ee7f90",
+   "ee_text": "이 약은 다파글리플로진과 피오글리타존의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법 보조제로 투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:35Z",
+   "last_observed_at": "2026-08-28T13:25:35Z",
+   "official_revision_date": "2024-01-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:35Z"
+}

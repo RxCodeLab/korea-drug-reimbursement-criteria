@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310516",
+ "item_name": "하드칼츄어블이지정",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20131204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051564]탄산칼슘|[M255949]농축콜레칼시페롤과립",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Granules",
+ "edi_code": "642203400",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310516",
+ "revisions": [
+  {
+   "revision_id": "201310516-b118e09d",
+   "content_sha256": "b118e09d01069830a797f39cda5f03d38276eb3afe51aab9b73219962c69995a",
+   "ee_text": "- 임신ㆍ수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민D의 효능ㆍ효과는 다음과 같다. ㆍ뼈, 이의 발육불량 ㆍ구루병의 예방",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:33Z",
+   "last_observed_at": "2026-08-28T13:24:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:33Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200702500",
+ "item_name": "모아겔(수출용)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20070227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249378]헤파린나트륨|[M213282]양파연조엑스(1.8→1)|[M051015]알란토인",
+ "main_item_ingr_eng": "Allantoin/Heparin Sodium/Onion Extract",
+ "edi_code": "",
+ "atc_code": "D03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702500",
+ "revisions": [
+  {
+   "revision_id": "200702500-ec9f40cf",
+   "content_sha256": "ec9f40cf52ebe5ac0c9888f8c8f0f160efc6ef5f54bde28ae188dda24f7f91fe",
+   "ee_text": "수술, 절단, 화상, 사고 후의 비대성ㆍ켈로이드성, 운동제한성 또는 미용적 피부손상시의 상처 및 흉터, 외상(상처)성 경축(경련과 수축이 일어나 수축상태가 지속되는 현상), 상흔성 협착(좁아짐)",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:11Z",
+   "last_observed_at": "2026-08-28T13:24:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:11Z"
+}

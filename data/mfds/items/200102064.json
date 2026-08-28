@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200102064",
+ "item_name": "에스엠겔9.6%(리도카인)",
+ "entp_name": "(주)셀비온",
+ "permit_date": "20001228",
+ "cancel_date": "20250430",
+ "status": "취하",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102064",
+ "revisions": [
+  {
+   "revision_id": "200102064-4fcb6df6",
+   "content_sha256": "4fcb6df611a1429d5663504c1dc97d6b0b9c469237a031ac633700b5524319ad",
+   "ee_text": "남성 성기 촉각의 예민성 감소.",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

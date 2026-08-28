@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201202800",
+ "item_name": "헥시타놀2%액",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20120410",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040498]이소프로판올|[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution/Isopropanol",
+ "edi_code": "",
+ "atc_code": "D08AC52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201202800",
+ "revisions": [
+  {
+   "revision_id": "201202800-b39bd546",
+   "content_sha256": "b39bd546101d044e3a613d445254c2e079a5121384b4c97236ab63e1447a5270",
+   "ee_text": "수술전 환자의 피부소독 주사기 바늘, 카테타 삽입 전 환자의 피부소독",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:27Z",
+   "last_observed_at": "2026-08-28T13:24:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:27Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005758",
+ "item_name": "경방작약엑스산",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040523]작약",
+ "main_item_ingr_eng": "Peony Root",
+ "edi_code": "",
+ "atc_code": "A03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005758",
+ "revisions": [
+  {
+   "revision_id": "200005758-8b945aec",
+   "content_sha256": "8b945aec20590cdc1f475b8243071c21bb7c67cbbe14f2fe5fadcf8ba2faa49d",
+   "ee_text": "보혈, 진통, 진경(복통)",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:57Z"
+}

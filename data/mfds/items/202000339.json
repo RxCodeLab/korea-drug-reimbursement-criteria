@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000339",
+ "item_name": "하이메트정15/850밀리그램",
+ "entp_name": "(주)화이트생명과학",
+ "permit_date": "20200121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244179]메트포르민염산염|[M235069]피오글리타존염산염",
+ "main_item_ingr_eng": "Metformin Hydrochloride/Pioglitazone Hydrochloride",
+ "edi_code": "625201970",
+ "atc_code": "A10BD05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000339",
+ "revisions": [
+  {
+   "revision_id": "202000339-169e16b8",
+   "content_sha256": "169e16b8d146d573bbd51ff24575f0e1dab092dd010903961cda65e638c067e7",
+   "ee_text": "이 약은 피오글리타존과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2023-11-22"
+  },
+  {
+   "revision_id": "202000339-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-01-21",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

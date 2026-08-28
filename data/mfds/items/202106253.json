@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106253",
+ "item_name": "피알트라마돌주(트라마돌염산염)",
+ "entp_name": "(주)파마리서치",
+ "permit_date": "20210831",
+ "cancel_date": "20260212",
+ "status": "취하",
+ "main_item_ingr": "[M255410]트라마돌염산염",
+ "main_item_ingr_eng": "Tramadol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106253",
+ "revisions": [
+  {
+   "revision_id": "202106253-f9d2b3cc",
+   "content_sha256": "f9d2b3cc1ccb15dda97a9a69484139119073540b0f00df6194242313ec234d26",
+   "ee_text": "중증 및 중등도의 급만성 동통(각종 암 등), 진단 및 수술후 동통",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:25Z",
+   "last_observed_at": "2026-08-28T13:25:25Z",
+   "official_revision_date": "2021-08-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:25Z"
+}

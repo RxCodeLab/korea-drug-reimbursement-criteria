@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301635",
+ "item_name": "티엔프로스타캡슐",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20230522",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256563]글루탐산|[M081907]알라닌|[M088656]글리신",
+ "main_item_ingr_eng": "Alanine/Glutamic Acid/Glycine",
+ "edi_code": "",
+ "atc_code": "G04CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301635",
+ "revisions": [
+  {
+   "revision_id": "202301635-e4671fbf",
+   "content_sha256": "e4671fbf5ae6c367f383804e32366da4927e7e7011cc49409d0b6623c9df6bcc",
+   "ee_text": "전립선비대에 의한 배뇨(소변을 눔)곤란 · 잔뇨 및 잔뇨감 · 빈뇨",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:33Z",
+   "last_observed_at": "2026-08-28T13:25:33Z",
+   "official_revision_date": "2023-05-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:33Z"
+}

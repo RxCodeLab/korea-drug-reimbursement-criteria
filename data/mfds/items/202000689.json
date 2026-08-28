@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000689",
+ "item_name": "아젤라건정1밀리그램(아젤라스틴염산염)",
+ "entp_name": "건일바이오팜주식회사",
+ "permit_date": "20200206",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222870]아젤라스틴염산염",
+ "main_item_ingr_eng": "Azelastine Hydrochloride",
+ "edi_code": "073001200",
+ "atc_code": "R06AX19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000689",
+ "revisions": [
+  {
+   "revision_id": "202000689-0d46cc68",
+   "content_sha256": "0d46cc6846a12a8b1098669558c659415c3e27bb5e72f90e882188084990b0ab",
+   "ee_text": "기관지 천식, 알레르기성비염, 두드러기, 습진, 피부염, 아토피성 피부염, 피부소양증, 가려움",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2020-02-06"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

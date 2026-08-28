@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199301967",
+ "item_name": "디제스탈정(수출용)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "19930216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040678]판크레아틴|[M051173]우담즙엑스|[M227778]디메티콘|[M051916]헤미셀룰라제",
+ "main_item_ingr_eng": "Dimethicone/Hemicellulase/Ox Bile Extract/Pancreatin",
+ "edi_code": "",
+ "atc_code": "A09AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301967",
+ "revisions": [
+  {
+   "revision_id": "199301967-fb9637bc",
+   "content_sha256": "fb9637bcd40cedff584a7699486ac0c9dd1ce0b1163fcbb4fd647fbb2282a34d",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 식체(위체), 소화촉진, 소화불량으로 인한 위부팽만감, 방사선 검사전의 가스제거",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:45Z",
+   "last_observed_at": "2026-08-28T13:23:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:45Z"
+}

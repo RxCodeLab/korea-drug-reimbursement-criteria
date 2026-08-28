@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300245",
+ "item_name": "대한관류용멸균생리식염수",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20030227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨",
+ "main_item_ingr_eng": "Sodium Chloride",
+ "edi_code": "645100341",
+ "atc_code": "B05CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300245",
+ "revisions": [
+  {
+   "revision_id": "200300245-60a79cec",
+   "content_sha256": "60a79cec154a2c15cfa9e1ea5122cabcac26d8c698cc512eb56d75eb387b4cde",
+   "ee_text": "관류 및 세정제",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200300245/EE",
+   "first_observed_at": "2026-08-28T13:24:01Z",
+   "last_observed_at": "2026-08-28T13:24:01Z"
+  },
+  {
+   "revision_id": "200300245-4ba3f474",
+   "content_sha256": "4ba3f47429c12d0d090ad37daf00030abd68880eec7030d9b16762b66d653868",
+   "ee_text": "관주 및 세정제",
+   "ee_doc_id": "20",
+   "official_revision_date": "2005-07-27",
+   "first_observed_at": "2026-08-28T13:24:01Z",
+   "last_observed_at": "2026-08-28T13:24:01Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:01Z"
+}

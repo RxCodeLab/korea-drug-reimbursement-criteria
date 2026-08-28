@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200404097",
+ "item_name": "제이비케이사역산환",
+ "entp_name": "주식회사 제이비케이랩",
+ "permit_date": "20040507",
+ "cancel_date": "20240814",
+ "status": "취하",
+ "main_item_ingr": "[M040336]시호|[M040523]작약|[M040536]지실|[M040006]감초",
+ "main_item_ingr_eng": "Bupleurum Root/Licorice/Peony Root/Poncirus Immature Fruit",
+ "edi_code": "",
+ "atc_code": "A03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404097",
+ "revisions": [
+  {
+   "revision_id": "200404097-4fe2ac8d",
+   "content_sha256": "4fe2ac8d74b52619fc28cfa2bbf714c04b940c763dc019c092a983b5d1e4805e",
+   "ee_text": "흉복부가 무겁고 괴로움이 있는 경우의 다음 증상 : 위염, 위통, 복통",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:06Z",
+   "last_observed_at": "2026-08-28T13:24:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:06Z"
+}

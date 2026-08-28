@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502790",
+ "item_name": "가드렛정100mg(아나글립틴)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20150508",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M262009]아나글립틴",
+ "main_item_ingr_eng": "Anagliptin",
+ "edi_code": "644913980",
+ "atc_code": "A10BH",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502790",
+ "revisions": [
+  {
+   "revision_id": "201502790-a2084396",
+   "content_sha256": "a20843968da7d724d8fddbd950dc1cc211dd35ace7a968e9a68c4fceeb4b9277",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. - 단독 요법 - 병용 요법",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:24:43Z",
+   "last_observed_at": "2026-08-28T13:24:43Z",
+   "official_revision_date": "2021-02-09"
+  },
+  {
+   "revision_id": "201502790-d183c737",
+   "content_sha256": "d183c7370ee53692d7941681cb8e83b62e1bdb5e46740fba66c61bb2f34d5744",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. - 메트포르민 단독요법으로 충분한 혈당조절을 할 수 없는 경우 이 약과 병용투여한다.",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:43Z",
+   "last_observed_at": "2026-08-28T13:24:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:43Z"
+}

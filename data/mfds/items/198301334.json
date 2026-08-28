@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198301334",
+ "item_name": "폭소린주사1그램(아목시실린나트륨)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19831216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020080]아목시실린나트륨",
+ "main_item_ingr_eng": "Amoxicillin Sodium",
+ "edi_code": "647802541",
+ "atc_code": "J01CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198301334",
+ "revisions": [
+  {
+   "revision_id": "198301334-d2596e16",
+   "content_sha256": "d2596e161d7a8e03e0b61d95711280f56180103da95fc115cba3d598b0ca8da7",
+   "ee_text": "○ 유효균종 아목시실린에 감수성인 연쇄구균, 폐렴연쇄구균, 클로스트리듐 테타니, 클로스트리듐 퍼프린젠스, 황색포도구균, 탄저균, 리스테리아 모노사이토제니스, 임균, 수막염균, 인플루엔자균, 보르데텔라 백일해, 대장균, 프로테우스 미라빌리스, 살모넬라, 시겔라, 콜레라균 ○ 적응증 - 기관지염, 폐렴, 폐농양, 농흉 - 중이염, 부비동염, 편도염, 인후두염, 발치 후 감염 - 신우신염, 방광염, 요도염, 임균성요도염 - 장티푸스, 복막염 - 세균성 심내막염, 세균성 수막염 - 종기, 옹종, 연조직염, 농가진, 농피증, 단독",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198301334/EE",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z"
+  },
+  {
+   "revision_id": "198301334-f162b6f7",
+   "content_sha256": "f162b6f71be403fc88cc013dfeb2999b32d7d6721f82bbb8a4be71940b97e03e",
+   "ee_text": "○ 유효균종 아목시실린에 감수성인 연쇄구균, 폐렴연쇄구균, 클로스트리듐 테타니, 클로스트리듐 퍼프린젠스, 황색포도구균, 탄저균, 리스테리아 모노사이토제니스, 임균, 수막염균, 인플루엔자균, 보르데텔라 백일해, 대장균, 프로테우스 미라빌리스, 살모넬라, 시겔라, 콜레라균 ○ 적응증 - 기관지염, 폐렴, 폐농양, 농흉 - 중이염, 부비동염, 편도염, 인후두염, 발치 후 감염 - 신우신염, 방광염, 요도염, 임균성요도염 - 장티푸스, 복막염 - 세균성 심내막염, 세균성 수막염 - 자궁내감염 - 종기, 옹종, 연조직염, 농가진, 농피증, 단독",
+   "ee_doc_id": "20",
+   "official_revision_date": "2022-10-26",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:39Z"
+}

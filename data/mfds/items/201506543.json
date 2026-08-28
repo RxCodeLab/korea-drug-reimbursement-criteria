@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201506543",
+ "item_name": "휴스크럽",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20150915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액|[M284425]에탄올(95)",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution/Ethanol 95%",
+ "edi_code": "",
+ "atc_code": "D08AC52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506543",
+ "revisions": [
+  {
+   "revision_id": "201506543-d5011c07",
+   "content_sha256": "d5011c07f638225d5c7f8ef40e0c40be01006cdc3f0239f1823adeb7a801933f",
+   "ee_text": "손의 소독",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:45Z",
+   "last_observed_at": "2026-08-28T13:24:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:45Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002569",
+ "item_name": "플랜라인정100밀리그램(브로멜라인)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20200410",
+ "cancel_date": "20240911",
+ "status": "취하",
+ "main_item_ingr": "[M095415]브로멜라인",
+ "main_item_ingr_eng": "Bromelain",
+ "edi_code": "",
+ "atc_code": "M09AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002569",
+ "revisions": [
+  {
+   "revision_id": "202002569-6473719b",
+   "content_sha256": "6473719be714a766798e31366f187317e02abd98c2ae4c94935518762d143475",
+   "ee_text": "부종을 동반한 염증 증상의 완화, 외상 또는 수술 후의 부종",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:17Z",
+   "last_observed_at": "2026-08-28T13:25:17Z",
+   "official_revision_date": "2020-04-10"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:17Z"
+}

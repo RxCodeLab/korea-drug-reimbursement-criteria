@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801818",
+ "item_name": "비디클로라프렙외용액",
+ "entp_name": "(주)지리페",
+ "permit_date": "20180427",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040498]이소프로판올|[M223220]클로르헥시딘글루콘산염 액|[M040498]이소프로판올|[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution/Isopropanol",
+ "edi_code": "",
+ "atc_code": "D08AC52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801818",
+ "revisions": [
+  {
+   "revision_id": "201801818-10fc5754",
+   "content_sha256": "10fc5754eb0439278a46941e256cece485663f2623ee308e5343d117d620a066",
+   "ee_text": "수술 전 환자의 피부소독 또는 주사기 바늘, 카테터 삽입 전 환자의 피부 소독",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:00Z",
+   "last_observed_at": "2026-08-28T13:25:00Z",
+   "official_revision_date": "2018-04-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:00Z"
+}

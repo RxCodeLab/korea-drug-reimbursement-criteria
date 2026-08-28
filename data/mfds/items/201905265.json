@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905265",
+ "item_name": "리도킨연고5%(리도카인)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20190724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905265",
+ "revisions": [
+  {
+   "revision_id": "201905265-711fcaa7",
+   "content_sha256": "711fcaa7e921386301693f7e76db397ea16ce11048789fc7f62942d27b4a3c46",
+   "ee_text": "다음 경우에서의 통증의 일시적 경감 : 치질, 경증(가벼운 증상)의 화상, 외상(상처), 자상(찔린상처)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:09Z",
+   "last_observed_at": "2026-08-28T13:25:09Z",
+   "official_revision_date": "2019-07-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:09Z"
+}

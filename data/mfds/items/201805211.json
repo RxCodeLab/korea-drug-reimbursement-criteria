@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805211",
+ "item_name": "헤파로드정(테노포비르디소프록실)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20181221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264667]테노포비르디소프록실",
+ "main_item_ingr_eng": "Tenofovir Disoproxil",
+ "edi_code": "650205010",
+ "atc_code": "J05AF07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805211",
+ "revisions": [
+  {
+   "revision_id": "201805211-f79f3130",
+   "content_sha256": "f79f3130fed4e2fc5d034dfbdbcbd42f0648fcca94005bdea5282441de5751b0",
+   "ee_text": "성인 및 12세 이상의 소아에서 HIV-1감염의 치료를 위해 다른 항레트로바이러스제제와 병용투여한다. 이 약은 테노포비르 함유 복합제제와 함께 복용하지 않는다. 성인 및 12세 이상 소아의 만성B형간염을 치료한다. (만성B형간염 치료를 위해 이 약으로 치료를 시작하는 경우, 사용상의 주의사항 중 일반적 주의를 고려할 것)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:02Z",
+   "last_observed_at": "2026-08-28T13:25:02Z",
+   "official_revision_date": "2018-12-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:02Z"
+}

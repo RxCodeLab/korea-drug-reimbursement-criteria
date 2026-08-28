@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200809221",
+ "item_name": "감치원-골드액(십신탕액)",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20080903",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040004]갈근|[M040538]진피|[M040135]마황|[M040329]승마|[M051301]자소엽|[M040228]향부자|[M040006]감초|[M040550]천궁|[M050752]생강|[M040216]백지|[M040523]작약",
+ "main_item_ingr_eng": "Angelica Dahurica Root/Cimicifuga Rhizome/Citrus Unshiu Peel/Cnidium Rhizome/Cyperus Rhizome/Ephedra Herb/Licorice/Peony Root/Perilla Leaf/Pueraria Root/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809221",
+ "revisions": [
+  {
+   "revision_id": "200809221-0e31fc14",
+   "content_sha256": "0e31fc14a52624ff6ab58b81a082d78665961f508221801f73ca35ce4ae65c95",
+   "ee_text": "감기로 인한 몸살, 발열, 두통",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200809221/EE",
+   "first_observed_at": "2026-08-28T13:24:19Z",
+   "last_observed_at": "2026-08-28T13:24:19Z"
+  },
+  {
+   "revision_id": "200809221-0f4a0bda",
+   "content_sha256": "0f4a0bdab5030e69283f388e8b2fc16936a22a677c061f739f0694dca95eb95f",
+   "ee_text": "(액제) 감기로 인한 몸살, 발열, 두통",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:19Z",
+   "last_observed_at": "2026-08-28T13:24:19Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:19Z"
+}

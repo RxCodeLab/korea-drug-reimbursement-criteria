@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002646",
+ "item_name": "영일염산메트포르민정850밀리그램",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20001018",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223014]메트포르민염산염",
+ "main_item_ingr_eng": "Metformin Hydrochloride",
+ "edi_code": "649401860",
+ "atc_code": "A10BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002646",
+ "revisions": [
+  {
+   "revision_id": "200002646-f27ffa10",
+   "content_sha256": "f27ffa10c603597931f259dd0bdbfc1a764557a8b8614d7131f5bec368e9024c",
+   "ee_text": "제 2형 당뇨병 1. 식사요법, 운동요법으로 충분한 효과를 얻을 수 없는 경우 2. 설폰요소계만으로 효과가 불충분한 경우 또는 부작용 등에 의해 사용이 부적당한 경우에 투여.",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:55Z",
+   "last_observed_at": "2026-08-28T13:23:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:55Z"
+}

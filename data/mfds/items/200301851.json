@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301851",
+ "item_name": "코로닌연질캡슐",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20031009",
+ "cancel_date": "20240805",
+ "status": "취하",
+ "main_item_ingr": "[M086692]시아노코발라민|[M208932]γ-오리자놀|[M222995]리보플라빈부티레이트|[M040679]판토텐산칼슘|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M223240]토코페롤아세테이트|[M051415]푸르설티아민|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin/Fursultiamine/Gamma-Oryzanol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Sodium Chondroitin Sulfate/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301851",
+ "revisions": [
+  {
+   "revision_id": "200301851-8e7f129e",
+   "content_sha256": "8e7f129ecfa4478f2e5ffb034b5a271acc27a3e97095691a216a0fa620efdcaa",
+   "ee_text": "○다음경우의 비타민 E, B1, B2, B6, 의 보급 - 육체피로, 임신․수유기, 병중․병후의 체력저하시, 노년기 ․ 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) - 각기 ․눈의피로 - 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨․목결림, 수족저림․수족냉증(손발이 차가움)",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z",
+   "official_revision_date": "2021-03-25"
+  },
+  {
+   "revision_id": "200301851-d37cc4e2",
+   "content_sha256": "d37cc4e29e56c1c303c3e95133668c5bddce4979bf6f33fc50105620879f4243",
+   "ee_text": "- 육체피로 - 병중.병후의 체력저하시 - 노년기 - 말초혈행장해 및 갱년기시 다음 증상의 완화 : 어깨, 목결림, 수족저림, 수족냉증 - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 견통등) - 각기, 눈의 피로",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

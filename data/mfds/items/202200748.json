@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200748",
+ "item_name": "아미노신주",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20220217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M214274]L-트리프토판|[M218567]L-메티오닌|[M103060]L-트레오닌|[M215288]L-히스티딘|[M204442]L-페닐알라닌|[M209360]L-발린|[M222998]L-리신염산염|[M222530]L-이소류신|[M214313]L-티로신|[M222531]L-류신|[M209366]L-알라닌|[M103077]L-아르기닌|[M088656]글리신|[M214861]L-프롤린|[M204435]L-세린",
+ "main_item_ingr_eng": "Glycine/L-Alanine/L-Arginine/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Hydrochloride/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine",
+ "edi_code": "",
+ "atc_code": "B05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200748",
+ "revisions": [
+  {
+   "revision_id": "202200748-b19f7b31",
+   "content_sha256": "b19f7b31ddd8908deb705388d8ae45e3456d5afcc286c9f0c5277d52f575b6f3",
+   "ee_text": "경구 또는 위장관 영양공급이 불가능 또는 불충분하거나 금기인 환자들에게 아미노산 보급",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:27Z",
+   "last_observed_at": "2026-08-28T13:25:27Z",
+   "official_revision_date": "2022-02-17"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:27Z"
+}

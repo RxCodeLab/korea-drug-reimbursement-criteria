@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200902161",
+ "item_name": "장정소큐환",
+ "entp_name": "신화제약(주)",
+ "permit_date": "20090324",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040523]작약|[M040006]감초|[M040792]황련|[M040538]진피|[M040214]백출|[M040187]목향|[M040007]건강",
+ "main_item_ingr_eng": "Atractylodes Rhizome White/Aucklandiae Radix/Citrus Unshiu Peel/Coptis Rhizome/Ginger/Licorice/Peony Root",
+ "edi_code": "",
+ "atc_code": "A07XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902161",
+ "revisions": [
+  {
+   "revision_id": "200902161-1d914b41",
+   "content_sha256": "1d914b4143613a0c9c4ae07070e163524f6fb085b4b522ee9b9d72fcc1fae60e",
+   "ee_text": "설사, 체함, 묽은 변, 토사",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z",
+   "official_revision_date": "2019-05-22"
+  },
+  {
+   "revision_id": "200902161-09d4f272",
+   "content_sha256": "09d4f27280304e371f7fcb77c52d6ccef53a2d48809442da2ffe6a8b857cb6e5",
+   "ee_text": "설사, 식체, 묽은 변, 토사",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:20Z"
+}

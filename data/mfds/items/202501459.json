@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501459",
+ "item_name": "엔도팡정(무수황산나트륨, 황산칼륨, 무수황산마그네슘)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20250613",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257776]무수황산나트륨|[M040806]황산칼륨|[M082533]무수황산마그네슘",
+ "main_item_ingr_eng": "Anhydrous Magnesium Sulfate/Anhydrous Sodium Sulfate/Potassium Sulfate",
+ "edi_code": "",
+ "atc_code": "A06AD10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501459",
+ "revisions": [
+  {
+   "revision_id": "202501459-b125b022",
+   "content_sha256": "b125b02210f25411239aed92ad9bebd1df1555b6d15aedec40115bbce107136c",
+   "ee_text": "대장(X선, 내시경) 검사 시의 전처치용 장세척",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:37Z",
+   "last_observed_at": "2026-08-28T13:25:37Z",
+   "official_revision_date": "2025-06-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:37Z"
+}

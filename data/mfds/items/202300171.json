@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300171",
+ "item_name": "뉴란소엑스정30/600밀리그램",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20230109",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M085578]란소프라졸",
+ "main_item_ingr_eng": "Lansoprazole/Precipitated Calcium Carbonate",
+ "edi_code": "665508520",
+ "atc_code": "A02BC53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300171",
+ "revisions": [
+  {
+   "revision_id": "202300171-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:25:32Z",
+   "last_observed_at": "2026-08-28T13:25:32Z",
+   "official_revision_date": "2025-07-01"
+  },
+  {
+   "revision_id": "202300171-2afa616a",
+   "content_sha256": "2afa616a58df36983510b493dc5d83e7696ca71afbb0457699ae3f6d36e28ac2",
+   "ee_text": "1. 활동성 양성 위궤양의 단기치료 2. 미란성 역류식도염의 단기치료",
+   "ee_doc_id": "1",
+   "official_revision_date": "2023-01-09",
+   "first_observed_at": "2026-08-28T13:25:32Z",
+   "last_observed_at": "2026-08-28T13:25:32Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:32Z"
+}

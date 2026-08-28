@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500300",
+ "item_name": "스무스케어크림1%(히드로코르티손)(수출용)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20150120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040818]히드로코르티손",
+ "main_item_ingr_eng": "Hydrocortisone",
+ "edi_code": "",
+ "atc_code": "D07AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500300",
+ "revisions": [
+  {
+   "revision_id": "201500300-0140c424",
+   "content_sha256": "0140c4243c3ca06c18c7b6e9bf3aabc4fbef561da5cac8f1b121ad1266f44c82",
+   "ee_text": "습진ㆍ피부염군, 피부가려움, 벌레물린데",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201500300/EE",
+   "first_observed_at": "2026-08-28T13:24:40Z",
+   "last_observed_at": "2026-08-28T13:24:40Z"
+  },
+  {
+   "revision_id": "201500300-dc88acc1",
+   "content_sha256": "dc88acc158caa5b8f4d86dbfa2e1d525c181fd17048973efe05e156e2dbeb163",
+   "ee_text": "(연고제)(크림제)(로오숀제) 습진ㆍ피부염군, 피부가려움, 벌레물린데",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:40Z",
+   "last_observed_at": "2026-08-28T13:24:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:40Z"
+}

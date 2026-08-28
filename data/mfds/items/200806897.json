@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806897",
+ "item_name": "세티날액(레보세티리진염산염)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20080624",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244596]레보세티리진염산염",
+ "main_item_ingr_eng": "Levocetirizine Hydrochloride",
+ "edi_code": "661902111",
+ "atc_code": "R06AE09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806897",
+ "revisions": [
+  {
+   "revision_id": "200806897-6a1d6133",
+   "content_sha256": "6a1d6133baf300ebae7ffeb3b72f63270a66179317416711c73b93402319aa48",
+   "ee_text": "다음질환의 증상 완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200806897/EE",
+   "first_observed_at": "2026-08-28T13:24:17Z",
+   "last_observed_at": "2026-08-28T13:24:17Z"
+  },
+  {
+   "revision_id": "200806897-88e9a951",
+   "content_sha256": "88e9a951bc00da6087ad297f9a1b0219701156bb641ba2024fb90397c5632cfc",
+   "ee_text": "다음질환의 증상 완화 성인 및 6세이상의 소아에 한함",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:17Z",
+   "last_observed_at": "2026-08-28T13:24:17Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:17Z"
+}

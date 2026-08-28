@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199800190",
+ "item_name": "센쥬씨엘점안액",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19980925",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨",
+ "main_item_ingr_eng": "Potassium Chloride/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199800190",
+ "revisions": [
+  {
+   "revision_id": "199800190-a092779e",
+   "content_sha256": "a092779ec54e623ee4b7fab991d50820434bc201fbbe1c6ab86e7e5fb22a6f73",
+   "ee_text": "눈의 피로,누액의 보조(눈의 건조),하드콘택트렌즈 및 소프트렌즈 착용시의 불쾌감, 눈의 침침함(눈곱이 많은 때 등)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199800190/EE",
+   "first_observed_at": "2026-08-28T13:23:49Z",
+   "last_observed_at": "2026-08-28T13:23:49Z"
+  },
+  {
+   "revision_id": "199800190-c8583efa",
+   "content_sha256": "c8583efa6ecfb2f60fa02297986bfcd576f69e17d9b43fd49081556dbaa332e5",
+   "ee_text": "눈의 피로,누액의 보조(눈의 건조),하드콘택트렌즈 및 소프트렌즈 착용시의 불쾌감, 눈의 침침함(눈꼽이 많은 때 등)",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-21",
+   "first_observed_at": "2026-08-28T13:23:49Z",
+   "last_observed_at": "2026-08-28T13:23:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:49Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200610667",
+ "item_name": "듀파스톤정(디드로게스테론)",
+ "entp_name": "한국애보트(유)",
+ "permit_date": "20061011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050236]디드로게스테론",
+ "main_item_ingr_eng": "Dydrogesterone",
+ "edi_code": "",
+ "atc_code": "G03DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200610667",
+ "revisions": [
+  {
+   "revision_id": "200610667-b80fb40a",
+   "content_sha256": "b80fb40adb83db83ef92d92376d45473aeca1360f23db8c6e5321c4ad1968f02",
+   "ee_text": "1. 절박 유ㆍ조산 2. 습관성 유ㆍ조산 3. 황체기능 부전에 의한 불임증 4. 월경곤란증 5. 월경주기의 조절 6. 자궁내막증 7. 갱년기장애(에스트로겐 요법과 병용) 8. 기능성 자궁 출혈(에스트로겐 요법과 병용) 9. 속발성 무월경(에스트로겐 요법과 병용) 10. 불임 여성의 ART (Assisted Reproductive Technology) 치료의 한 부분으로서 황체 기능의 보충 요법",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:24:11Z",
+   "last_observed_at": "2026-08-28T13:24:11Z",
+   "official_revision_date": "2019-07-26"
+  },
+  {
+   "revision_id": "200610667-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:11Z",
+   "last_observed_at": "2026-08-28T13:24:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:11Z"
+}

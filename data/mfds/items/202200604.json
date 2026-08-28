@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200604",
+ "item_name": "베나치오키즈액",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20220208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051152]오매|[M040350]아선약|[M040775]현호색|[M040811]회향|[M040548]창출|[M050036]육계|[M040007]건강|[M040538]진피|[M040006]감초",
+ "main_item_ingr_eng": "Atractylodes Rhizome/Cinnamon Bark/Citrus Unshiu Peel/Corydalis Tuber/Fennel/Gambir/Ginger/Licorice/Mume Fruit",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200604",
+ "revisions": [
+  {
+   "revision_id": "202200604-842286bb",
+   "content_sha256": "842286bb5dd55d0f98ca0ccb22a68edbbb132defae93a9915c709150d954834b",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토, 정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:27Z",
+   "last_observed_at": "2026-08-28T13:25:27Z",
+   "official_revision_date": "2022-02-08"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:27Z"
+}

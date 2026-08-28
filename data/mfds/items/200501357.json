@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501357",
+ "item_name": "쎄레스틴크림",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20050810",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223043]베타메타손발레레이트|[M202821]겐타마이신황산염",
+ "main_item_ingr_eng": "Betamethasone Valerate/Gentamicin Sulfate",
+ "edi_code": "",
+ "atc_code": "D07CC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501357",
+ "revisions": [
+  {
+   "revision_id": "200501357-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200501357/EE",
+   "first_observed_at": "2026-08-28T13:24:07Z",
+   "last_observed_at": "2026-08-28T13:24:07Z"
+  },
+  {
+   "revision_id": "200501357-6742c654",
+   "content_sha256": "6742c65400aa9d86f0cbe8b559c04af299a51bf4d980052aa4240a464a37a636",
+   "ee_text": ": 습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진, 박탈피부염, 가려움, 건선",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:07Z",
+   "last_observed_at": "2026-08-28T13:24:07Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:07Z"
+}

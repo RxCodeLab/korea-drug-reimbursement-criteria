@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904810",
+ "item_name": "이부펜주(이부프로펜)",
+ "entp_name": "(주)휴메딕스",
+ "permit_date": "20190718",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜",
+ "main_item_ingr_eng": "Ibuprofen",
+ "edi_code": "",
+ "atc_code": "M01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904810",
+ "revisions": [
+  {
+   "revision_id": "201904810-cad70229",
+   "content_sha256": "cad702290c3b45dbb9ec8d166d3026e067de3a89b11f93500566ad6deba3fd42",
+   "ee_text": "중등도 및 중증 통증 조절을 위한 마약성 진통제의 보조요법 해열",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:09Z",
+   "last_observed_at": "2026-08-28T13:25:09Z",
+   "official_revision_date": "2019-07-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:09Z"
+}

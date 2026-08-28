@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199800785",
+ "item_name": "미리놀캡슐(아세틸시스테인)",
+ "entp_name": "(주)바이넥스",
+ "permit_date": "19980119",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050972]아세틸시스테인",
+ "main_item_ingr_eng": "Acetylcysteine",
+ "edi_code": "643100430",
+ "atc_code": "R05CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199800785",
+ "revisions": [
+  {
+   "revision_id": "199800785-b41c1744",
+   "content_sha256": "b41c17440bea68f6d9ad92ee893546fc68d7bb6e2de4f7491d46e2ce6cb23a9f",
+   "ee_text": "다음 질환에서의 객담(가래)배출곤란 : 급ㆍ만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-28T13:23:49Z",
+   "last_observed_at": "2026-08-28T13:23:49Z",
+   "official_revision_date": "2023-02-22"
+  },
+  {
+   "revision_id": "199800785-bfec7d19",
+   "content_sha256": "bfec7d194aab613bfa25f005b755cf97911d8fdd7d2bdcd9ed9fc5dd70788f0b",
+   "ee_text": "다음 질환에서의 객담배출곤란 : 급ㆍ만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:49Z",
+   "last_observed_at": "2026-08-28T13:23:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:49Z"
+}

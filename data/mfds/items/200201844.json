@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201844",
+ "item_name": "스마일과립(수출용)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20020731",
+ "cancel_date": "20240429",
+ "status": "취하",
+ "main_item_ingr": "[M089512]생강엑스산|[M089525]계지엑스산|[M089515]대추엑스산|[M090093]작약엑스산|[M082727]감초엑스산|[M097831]차전자피가루|[M081393]센나열매가루|[M082565]대황가루",
+ "main_item_ingr_eng": "Cinnamomi Ramulus Extract Powder/Glycyrrhiza Extract Powder/Jujube Extract Powder/Peony Root Extract Powder/Psyllium Husk Powder/Raw Ginger Extract Powder/Rhubarb Powder/Sennae Fructus Powder",
+ "edi_code": "",
+ "atc_code": "A06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201844",
+ "revisions": [
+  {
+   "revision_id": "200201844-fa094d7a",
+   "content_sha256": "fa094d7ab7b653b0faddaa34af7243da9e179df147190ee1e4615330edf0ae15",
+   "ee_text": "변비, 변비에 따른 다음 증상의 완하 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

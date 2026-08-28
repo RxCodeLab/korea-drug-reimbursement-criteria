@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202100534",
+ "item_name": "트라제나정(리나글립틴)",
+ "entp_name": "(주)하원제약",
+ "permit_date": "20210119",
+ "cancel_date": "20260119",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M252996]리나글립틴",
+ "main_item_ingr_eng": "Linagliptin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100534",
+ "revisions": [
+  {
+   "revision_id": "202100534-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:23Z",
+   "last_observed_at": "2026-08-28T13:25:23Z",
+   "official_revision_date": "2021-01-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:23Z"
+}

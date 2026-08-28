@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300023",
+ "item_name": "한풍반하엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19830414",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040202]반하",
+ "main_item_ingr_eng": "Pinellia Tuber",
+ "edi_code": "",
+ "atc_code": "A16A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300023",
+ "revisions": [
+  {
+   "revision_id": "198300023-d9cba23a",
+   "content_sha256": "d9cba23ad82dda2af26446d8ae5b0ed062e32f49538e7c4f567ffc9594d13e99",
+   "ee_text": "거담, 건비, 진해, 심통, 지한, 진토, 인후염, 두통",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:38Z"
+}

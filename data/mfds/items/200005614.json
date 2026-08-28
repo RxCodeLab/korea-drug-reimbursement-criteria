@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005614",
+ "item_name": "경방삼출건비탕산(단미엑스혼합제)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000812",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089507]후박엑스산|[M089506]진피엑스산|[M089698]산사엑스산|[M089604]지실엑스산|[M090093]작약엑스산|[M089576]사인엑스산|[M089528]복령엑스산|[M089527]백출엑스산|[M051650]인삼엑스산|[M089584]신곡엑스산|[M089626]맥아엑스산|[M082727]감초엑스산|[M089512]생강엑스산|[M089515]대추엑스산",
+ "main_item_ingr_eng": "Amomum Fruit Extract Powder/Atractylodes Rhizoma Alba Extract Powder/Citrus Unshiu Peel Extract Powder/Ginseng Extract Powder/Glycyrrhiza Extract Powder/Hawthorn Fruit Extract Powder/Hordei Fructus Germinatus Extract Powder/Jujube Extract Powder/Magnolia Bark Extract Powder/Massa Medicata Fermentata Extract Powder/Peony Root Extract Powder/Poncirus Immature Fruit Extract Powder/Poria Extract Powder/Raw Ginger Extract Powder",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005614",
+ "revisions": [
+  {
+   "revision_id": "200005614-9ffab8db",
+   "content_sha256": "9ffab8db76a804e1d1cbc4908979daa7e6a691cd5d66815ae2c842365e05355c",
+   "ee_text": "한방건강보험용",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2020-03-05"
+  },
+  {
+   "revision_id": "200005614-ff32c91b",
+   "content_sha256": "ff32c91bc79dd19d6be1ba9bfba303a869ab8c21ce52fd7a656edc0351197cd7",
+   "ee_text": "한방의료보험용",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

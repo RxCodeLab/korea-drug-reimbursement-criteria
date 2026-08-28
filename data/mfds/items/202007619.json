@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007619",
+ "item_name": "페노웰정145밀리그램(페노피브레이트)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20201105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051799]페노피브레이트",
+ "main_item_ingr_eng": "Fenofibrate",
+ "edi_code": "642105630",
+ "atc_code": "C10AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007619",
+ "revisions": [
+  {
+   "revision_id": "202007619-413c6688",
+   "content_sha256": "413c668872dccaa791d4a7a3d6c7891af324aa5456deb5206f1a37fca2c1b4c1",
+   "ee_text": "원발성 고지혈증 : 고콜레스테롤혈증(IIa형), 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(IIb형, Ⅲ형), 고트리글리세라이드혈증(IV형)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z",
+   "official_revision_date": "2020-11-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:21Z"
+}

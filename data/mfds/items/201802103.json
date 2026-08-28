@@ -12,15 +12,15 @@
  "edi_code": "643705250",
  "atc_code": "A03AA05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802103",
+ "history_fetched_at": "2026-08-27T13:41:07Z",
  "revisions": [
   {
    "revision_id": "201802103-f3484c2a",
    "content_sha256": "f3484c2ab1ffb712dd215e48983962809723b7a634e0b417c4eacf237f93b3b6",
    "ee_text": "1) 식도역류 및 열공(구멍)헤르니아(탈장), 위∙십이지장염, 위∙십이지장궤양에 있어서의 소화기능이상(복통(배아픔), 소화불량, 구역, 구토) 2) 과민성대장증후군 및 경련성 결장 3) 소아 질환 : 습관성 구토, 비감염성 장관통과장애(변비, 설사)",
-   "ee_doc_id": "4",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201802103/EE",
    "first_observed_at": "2026-08-27T13:41:07Z",
-   "last_observed_at": "2026-08-27T13:41:07Z",
-   "official_revision_date": "2020-09-30"
+   "last_observed_at": "2026-08-28T13:25:00Z"
   },
   {
    "revision_id": "201802103-1104d9eb",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:41:07Z",
    "last_observed_at": "2026-08-27T13:41:07Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:41:07Z"
+ ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905385",
+ "item_name": "더마세이프멸균거즈(클로르헥시딘아세트산염)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20190730",
+ "cancel_date": "20260325",
+ "status": "취하",
+ "main_item_ingr": "[M247682]클로르헥시딘아세트산염",
+ "main_item_ingr_eng": "Chlorhexidine Acetate",
+ "edi_code": "",
+ "atc_code": "D09AA12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905385",
+ "revisions": [
+  {
+   "revision_id": "201905385-7df7a309",
+   "content_sha256": "7df7a3090c2559fecbc4bedb08d96e3ac629866877cbe1e659c8c778f290af63",
+   "ee_text": "경도화상 및 증기에 의한 화상, 열상 및 찰과상, 피부이식부위, 하지궤양",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:10Z",
+   "last_observed_at": "2026-08-28T13:25:10Z",
+   "official_revision_date": "2019-07-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:10Z"
+}

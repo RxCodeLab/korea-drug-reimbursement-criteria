@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700152",
+ "item_name": "베노플러스겔(수출명:베노포르테겔,트롬보실겔)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "19870819",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249378]헤파린나트륨|[M080565]무정형에스신|[M070611]살리실산글리콜",
+ "main_item_ingr_eng": "Aescin Amorphous/Glycol Salicylate/Heparin Sodium",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700152",
+ "revisions": [
+  {
+   "revision_id": "198700152-9dcf4102",
+   "content_sha256": "9dcf410227270596727a6e4c949c38d1422462cd316808003138d2e9d7caec22",
+   "ee_text": "다음 증상의 진통·소염 : 정맥류상 부종(부기), 표재성(표면에 있는) 정맥염, 사고시 외상(상처), 운동시 부상(타박상), 건초염(힘줄윤활막염)",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-28T13:23:41Z",
+   "last_observed_at": "2026-08-28T13:23:41Z",
+   "official_revision_date": "2021-01-06"
+  },
+  {
+   "revision_id": "198700152-5f18bbb7",
+   "content_sha256": "5f18bbb719707f57f134489831d89da773c2691daf50e9a8ec470dc01aaced3f",
+   "ee_text": "다음 증상의 진통·소염 : 정맥류상 부종, 표재성 정맥염, 사고시 외상, 운동시 부상(타박상), 건초염",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:41Z",
+   "last_observed_at": "2026-08-28T13:23:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:41Z"
+}

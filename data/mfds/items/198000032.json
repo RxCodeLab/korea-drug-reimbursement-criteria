@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000032",
+ "item_name": "한풍마황엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19800411",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040135]마황",
+ "main_item_ingr_eng": "Ephedra Herb",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000032",
+ "revisions": [
+  {
+   "revision_id": "198000032-96397789",
+   "content_sha256": "96397789bf0b9ecdfa1d966cd79ea1ccf5c45c4c35b23be052e7a873381e9e32",
+   "ee_text": "진해, 발한",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:38Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102602",
+ "item_name": "뉴트리맥스12주",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20210325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222531]L-류신|[M222998]L-리신염산염|[M218567]L-메티오닌|[M204442]L-페닐알라닌|[M103060]L-트레오닌|[M214274]L-트리프토판|[M209360]L-발린|[M103054]L-시스틴|[M088656]글리신|[M204427]L-글루탐산|[M222530]L-이소류신|[M214861]L-프롤린|[M204435]L-세린|[M214313]L-티로신|[M223095]L-아르기닌염산염|[M202249]L-히스티딘염산염|[M209366]L-알라닌|[M202247]L-아스파르트산",
+ "main_item_ingr_eng": "Glycine/L-Alanine/L-Arginine Hydrochloride/L-Aspartic Acid/L-Cystine/L-Glutamic Acid/L-Histidine Hydrochloride/L-Isoleucine/L-Leucine/L-Lysine Hydrochloride/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine",
+ "edi_code": "",
+ "atc_code": "B05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102602",
+ "revisions": [
+  {
+   "revision_id": "202102602-2a2e3228",
+   "content_sha256": "2a2e322874cb28ab2eea76ed40e62c6694a3e18a1a466828a2e3198af0d32b83",
+   "ee_text": "다음 상태 시의 아미노산 보급: 저단백혈증, 저영양상태, 수술전후",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:24Z",
+   "last_observed_at": "2026-08-28T13:25:24Z",
+   "official_revision_date": "2021-03-25"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:24Z"
+}

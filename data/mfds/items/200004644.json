@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200004644",
+ "item_name": "참스점안액(수출명 : 오클라비타점안액,민드랍점안액) (수출용)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20000221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051015]알란토인|[M204304]피리독신염산염|[M223240]토코페롤아세테이트|[M102908]타우린|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr_eng": "Allantoin/Pyridoxine Hydrochloride/Sodium Chondroitin Sulfate/Taurine/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "S01XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004644",
+ "revisions": [
+  {
+   "revision_id": "200004644-61f7171b",
+   "content_sha256": "61f7171b36268b3894987dac8bceb7a2c635a34a0208b3839efbb87429b2ef80",
+   "ee_text": "눈의 피로, 결막충혈, 수영 후 눈의 불쾌감 또는 먼지나 땀이 눈에 들어갔을 때, 자외선 및 기타광선에 의한 눈의 염증, 눈꺼풀의 짓무름, 하드콘택트렌즈를 착용시 불쾌감, 눈의 가려움, 눈의 침침함.(눈곱이 많을 때 등)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200004644/EE",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z"
+  },
+  {
+   "revision_id": "200004644-ff297490",
+   "content_sha256": "ff297490da9662f854c5a95ad1cc8a2d135d731907f13bc6bf5837d80f6471b1",
+   "ee_text": "눈의 피로, 결막충혈, 눈병 예방(수영 후, 먼지나 땀이 눈에 들어간 경우), 자외선 및 기타광선에 의한 안염(설맹 등), 안검염(눈꺼풀염)(안검(눈꺼풀) 통증), 하드콘택트렌즈 착용시 불쾌감, 눈가려움증, 눈이 침침할 때(눈꼽이 많을 때)",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

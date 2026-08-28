@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "A03AA05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708196",
+ "history_fetched_at": "2026-08-27T13:41:06Z",
  "revisions": [
   {
    "revision_id": "201708196-a1bd4c74",
    "content_sha256": "a1bd4c74ee6307131a6bfcdcc132771de52e59e25e8b05e60f904adda6a8ffef",
    "ee_text": "1. 식도역류, 열공헤르니아, 소화기능이상(복통, 소화불량, 구역, 구토) 2. 과민성 대장증후군 및 경련성 결장 3. 소아질환 : 습관성 구토, 비감염성 장관통과장애(변비, 설사)",
-   "ee_doc_id": "3",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201708196/EE",
    "first_observed_at": "2026-08-27T13:41:06Z",
-   "last_observed_at": "2026-08-27T13:41:06Z",
-   "official_revision_date": "2020-09-30"
+   "last_observed_at": "2026-08-28T13:24:58Z"
   },
   {
    "revision_id": "201708196-deb0fab9",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:41:06Z",
    "last_observed_at": "2026-08-27T13:41:06Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:41:06Z"
+ ]
 }

@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "L01XK04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005546",
+ "history_fetched_at": "2026-08-27T12:44:28Z",
  "revisions": [
   {
    "revision_id": "202005546-2e266cb5",
    "content_sha256": "2e266cb5a33fde46db7364cab9914292b74f6e217ea344d383a976d02166a6aa",
    "ee_text": "이전에 항암화학요법 치료 경험이 있는 생식선 유방암감수성 유전자(gBRCA) 변이 HER2-음성인 국소 진행성 또는 전이성 유방암 성인환자의 치료에 단독요법으로 투여한다. 환자는 수술 전 보조요법, 수술 후 보조요법, 국소 진행성 또는 전이성 조건에서 항암화학요법을 받았을 수 있다.",
-   "ee_doc_id": "23",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202005546/EE",
    "first_observed_at": "2026-08-27T12:44:28Z",
-   "last_observed_at": "2026-08-27T12:44:28Z",
-   "official_revision_date": "2025-06-13"
+   "last_observed_at": "2026-08-28T13:25:21Z"
   },
   {
    "revision_id": "202005546-fdc10d63",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:44:28Z",
    "last_observed_at": "2026-08-27T12:44:28Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:44:28Z"
+ ]
 }

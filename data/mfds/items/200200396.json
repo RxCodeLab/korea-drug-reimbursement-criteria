@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200396",
+ "item_name": "신화옥로환(온신산)",
+ "entp_name": "신화제약(주)",
+ "permit_date": "20021014",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040007]건강|[M040225]복령|[M040006]감초|[M040139]맥문동|[M082557]파극천|[M040445]오미자|[M051248]육종용|[M040476]우슬|[M040089]두충|[M051364]숙지황",
+ "main_item_ingr_eng": "Achyranthes Root/Cistanchis Herba/Eucommiae Cortex/Ginger/Licorice/Liriope Tuber/Morinda Root/Poria/Prepared Rehmannia Root/Schisandra Fruit",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200396",
+ "revisions": [
+  {
+   "revision_id": "200200396-43b4cd9e",
+   "content_sha256": "43b4cd9edb2eda2fff43d56bbe3d7f8b80df40509734e7331c66b2517844c3a1",
+   "ee_text": "정력감퇴, 음위증, 음부소양증(세균 또는 진균 감염 제외), 요통",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

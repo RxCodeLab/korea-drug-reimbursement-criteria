@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004396",
+ "item_name": "멘솔프리즈겔(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20100706",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082249]멘톨|[M083902]캄파",
+ "main_item_ingr_eng": "Camphor/Menthol",
+ "edi_code": "",
+ "atc_code": "M02AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004396",
+ "revisions": [
+  {
+   "revision_id": "201004396-061d79c7",
+   "content_sha256": "061d79c76041cbd16756765c078566f491dac3a7bfffefa93e3f3da6dc5ea895",
+   "ee_text": "경미한 근육통증의 일시적 완화",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:23Z",
+   "last_observed_at": "2026-08-28T13:24:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:23Z"
+}

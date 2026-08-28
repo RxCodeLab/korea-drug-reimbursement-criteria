@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109871",
+ "item_name": "볼루벤주(VoluvenInj.)",
+ "entp_name": "프레지니우스카비코리아(주)",
+ "permit_date": "20010906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M257494]히드록시에틸전분(130/0.4)",
+ "main_item_ingr_eng": "Hydroxyethyl Starch 130/0.42/Sodium Chloride",
+ "edi_code": "650900300",
+ "atc_code": "B05AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109871",
+ "revisions": [
+  {
+   "revision_id": "200109871-7573928f",
+   "content_sha256": "7573928f93a095c1961dd1fbef86e7b2331c54b4926cbdc174646cf217d5e04b",
+   "ee_text": "다른 대체 치료법이 적절하지 않은 경우에 한하여 다음 질환에 사용한다. ○ 혈액량 감소의 치료 및 예방 ○ 신속한 동량 혈액희석요법(Acute Normovolemic Hemodilution (ANH))에 사용",
+   "ee_doc_id": "24",
+   "first_observed_at": "2026-08-28T13:23:59Z",
+   "last_observed_at": "2026-08-28T13:23:59Z",
+   "official_revision_date": "2022-08-13"
+  },
+  {
+   "revision_id": "200109871-03536328",
+   "content_sha256": "035363283f710e9368c376959a1570fac3d5fbb3f8cb3dc8fca804f8185343d8",
+   "ee_text": "○ 혈액량 감소의 치료 및 예방 ○ 신속한 동량 혈액희석요법(Acute Normovolemic Hemodilution (ANH))에 사용",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:59Z",
+   "last_observed_at": "2026-08-28T13:23:59Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:59Z"
+}

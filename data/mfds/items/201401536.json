@@ -7,21 +7,20 @@
  "permit_date": "20140401",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040353]아세트아미노펜|[M223183]카페인무수물|[M223155]에페드린염산염",
+ "main_item_ingr": "[M223155]에페드린염산염|[M223183]카페인무수물|[M040353]아세트아미노펜",
  "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Ephedrine Hydrochloride",
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401536",
+ "history_fetched_at": "2026-08-27T13:00:05Z",
  "revisions": [
   {
    "revision_id": "201401536-c9aae9ca",
    "content_sha256": "c9aae9ca1a922ce33a8396bcd628900c3a73166fe8713ae2eabaafd721fe5ebd",
    "ee_text": "감기의 제증상(여러증상) (인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
-   "ee_doc_id": "8",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201401536/EE",
    "first_observed_at": "2026-08-27T13:00:05Z",
-   "last_observed_at": "2026-08-27T13:00:05Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-08-28T13:24:35Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:00:05Z"
+ ]
 }

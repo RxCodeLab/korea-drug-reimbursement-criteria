@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702620",
+ "item_name": "이달비정20밀리그램(아질사르탄메독소밀칼륨)",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20170526",
+ "cancel_date": "20240508",
+ "status": "취하",
+ "main_item_ingr": "[M265937]아질사르탄메독소밀칼륨",
+ "main_item_ingr_eng": "Potassium Azilsartan Medoxomil",
+ "edi_code": "",
+ "atc_code": "C09CA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702620",
+ "revisions": [
+  {
+   "revision_id": "201702620-8e3a4f0c",
+   "content_sha256": "8e3a4f0c17b487412823f2a37886f98d56d27967828f331473a4173284f385d6",
+   "ee_text": "본태성 고혈압",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:56Z",
+   "last_observed_at": "2026-08-28T13:24:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:56Z"
+}

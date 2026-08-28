@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199901293",
+ "item_name": "디펜롱액(리도카인(수출명:LIDOLONG))",
+ "entp_name": "신신제약(주)",
+ "permit_date": "19990917",
+ "cancel_date": "20251001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901293",
+ "revisions": [
+  {
+   "revision_id": "199901293-681a2e62",
+   "content_sha256": "681a2e62aac144f94bc7e5295fdef73f3da806d934b79778f6b42e6018ce5786",
+   "ee_text": "(에어로솔제ㆍ액제 : 9.6%) 남성 성기 촉각의 예민성 감소",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:51Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005274",
+ "item_name": "테르마신과립(반하후박탕엑스과립)",
+ "entp_name": "주식회사 제이비케이랩",
+ "permit_date": "20000113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050752]생강|[M051301]자소엽|[M040813]후박|[M040225]복령|[M040202]반하",
+ "main_item_ingr_eng": "Magnolia Bark/Perilla Leaf/Pinellia Tuber/Poria/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "N07XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005274",
+ "revisions": [
+  {
+   "revision_id": "200005274-0bee0000",
+   "content_sha256": "0bee00009d289f5798065aab01f8dff94c508929d8203c9097690469aa1e6d93",
+   "ee_text": "기분이 우울하고 인후, 식도부에 이물감이 있고 때로는 숨참, 어지러움, 구역 등을 동반하는 다음 증상 : 불안신경증, 신경성위염, 입덧, 기침, 쉰목소리",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

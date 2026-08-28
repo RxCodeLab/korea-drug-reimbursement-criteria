@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001522",
+ "item_name": "쎄큐로민연질캡슐(수출명:BAROS)(수출용)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20001123",
+ "cancel_date": "20240503",
+ "status": "취하",
+ "main_item_ingr": "[M086537]마늘유|[M080879]은행엽엑스|[M095632]멜리사엽엑스|[M092882]서양산사60%에탄올엑스",
+ "main_item_ingr_eng": "Allium Sativum Oil/Ginkgo Leaf Extract/Hawthorn Berry 60% Ethanol Extract/Melissa Leaf Extract",
+ "edi_code": "",
+ "atc_code": "C04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001522",
+ "revisions": [
+  {
+   "revision_id": "200001522-ea573830",
+   "content_sha256": "ea57383003e3ecc1211208b82500a49406cb96bced0fe7c530853960759ecc75",
+   "ee_text": "혈액순환장애(동맥경화)에 의한 제증상, 기억력감퇴, 무기력증 집중력약화, 현기증, 만성피로",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:23:54Z",
+   "last_observed_at": "2026-08-28T13:23:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:54Z"
+}

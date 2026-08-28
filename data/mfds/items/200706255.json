@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200706255",
+ "item_name": "쿨앤핫카타플라스마(수출명:Cold&Hot Pain Relief Patch)(수출용)",
+ "entp_name": "(주)티디에스팜",
+ "permit_date": "20070530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M230875]l-멘톨|[M230875]l-멘톨",
+ "main_item_ingr_eng": "L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706255",
+ "revisions": [
+  {
+   "revision_id": "200706255-0add3e0a",
+   "content_sha256": "0add3e0a7cfd4f8bd404c5b687d6ea971a7624f390e5288a17075b28fbfde9e3",
+   "ee_text": "다음의 일시적이고 가벼운 통증의 완화 : 관절염, 근육통, 요통, 활액낭염, 근육경련, 건염, 염좌, 타박상",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:13Z",
+   "last_observed_at": "2026-08-28T13:24:13Z",
+   "official_revision_date": "2021-01-08"
+  },
+  {
+   "revision_id": "200706255-2da3b1b8",
+   "content_sha256": "2da3b1b88471a3a246ae0ff8a5c2c28449d060313974012c6e24cc6ccc774e98",
+   "ee_text": "가벼운 근육통, 관절통, 요통, 염좌, 타박상과 같은 통증의 일시적 완화",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:13Z",
+   "last_observed_at": "2026-08-28T13:24:13Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:13Z"
+}

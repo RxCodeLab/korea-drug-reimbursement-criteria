@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401073",
+ "item_name": "메가콘로엠정",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20240501",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256191]콘드로이틴설페이트나트륨|[M223262]티아민질산염|[M110553]콜레칼시페롤 과립",
+ "main_item_ingr_eng": "Cholecalciferol Granules/Sodium Chondroitin Sulfate/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401073",
+ "revisions": [
+  {
+   "revision_id": "202401073-82afa3d6",
+   "content_sha256": "82afa3d655f4fed9c4030faa056f9372361379b62747b424a4903cac7c71080b",
+   "ee_text": "1. 다음경우의 비타민 D, B1의 보급 - 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 발육기 - 노년기 2. 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. ￭ 비타민 D(콜레칼시페롤과립) - 뼈, 이의 발육불량 - 구루병의 예방 ￭ 비타민B1(티아민질산염) - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통(허리), 어깨결림 등) - 각기 - 눈의피로",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:36Z",
+   "last_observed_at": "2026-08-28T13:25:36Z",
+   "official_revision_date": "2024-05-01"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:36Z"
+}

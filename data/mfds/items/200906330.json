@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906330",
+ "item_name": "그날엔큐정",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20090817",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040262]산화마그네슘|[M223183]카페인무수물|[M255360]알릴이소프로필아세틸우레아|[M051259]이부프로펜",
+ "main_item_ingr_eng": "Allylisopropylacetylurea/Anhydrous Caffeine/Ibuprofen/Magnesium Oxide",
+ "edi_code": "",
+ "atc_code": "M01AE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906330",
+ "revisions": [
+  {
+   "revision_id": "200906330-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-28T13:24:22Z",
+   "last_observed_at": "2026-08-28T13:24:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:22Z"
+}

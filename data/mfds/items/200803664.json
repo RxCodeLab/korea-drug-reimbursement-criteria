@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200803664",
+ "item_name": "임펙타솔주",
+ "entp_name": "(주)보령바이오파마",
+ "permit_date": "20080403",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M218567]L-메티오닌|[M204442]L-페닐알라닌|[M103060]L-트레오닌|[M209360]L-발린|[M214274]L-트리프토판|[M081907]알라닌|[M245057]L-리신아세트산염|[M222531]L-류신|[M222530]L-이소류신|[M095195]아르기닌|[M051997]히스티딘|[M096663]프롤린|[M089112]세린|[M088656]글리신",
+ "main_item_ingr_eng": "Alanine/Arginine/Glycine/Histidine/L-Isoleucine/L-Leucine/L-Lysine Acetate/L-Methionine/L-Phenylalanine/L-Threonine/L-Tryptophan/L-Valine/Proline/Serine",
+ "edi_code": "",
+ "atc_code": "B05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803664",
+ "revisions": [
+  {
+   "revision_id": "200803664-ceec1cab",
+   "content_sha256": "ceec1cab7970035ef14bd4e8e9e7cd97290cc2e657a12fd90eba075dff91c5cf",
+   "ee_text": "다음 상태시의 아미노산 보급 : 저단백혈증, 저영양상태, 수술전후",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:16Z"
+}

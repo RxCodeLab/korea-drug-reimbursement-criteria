@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003984",
+ "item_name": "올레로수정20/5밀리그램",
+ "entp_name": "한국프라임제약(주)",
+ "permit_date": "20200528",
+ "cancel_date": "20240919",
+ "status": "취하",
+ "main_item_ingr": "[M269761]올메사르탄메독소밀|[M095744]로수바스타틴칼슘",
+ "main_item_ingr_eng": "Olmesartan Medoxomil/Rosuvastatin Calcium",
+ "edi_code": "",
+ "atc_code": "C10BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003984",
+ "revisions": [
+  {
+   "revision_id": "202003984-75be7196",
+   "content_sha256": "75be7196fb3596fe435ca73fa906f13fe8f574ec08584717d9361997bfbb4a42",
+   "ee_text": "이 약은 두 약물(올메사르탄메독소밀과 로수바스타틴)을 동시에 투여하여야 하는 환자에만 사용한다. 본태성 고혈압의 치료 - 뇌졸중에 대한 위험성 감소 - 심근경색에 대한 위험성 감소 - 동맥 혈관재형성술에 대한 위험성 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:19Z",
+   "last_observed_at": "2026-08-28T13:25:19Z",
+   "official_revision_date": "2020-05-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:19Z"
+}

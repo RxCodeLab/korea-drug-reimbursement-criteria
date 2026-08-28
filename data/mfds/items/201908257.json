@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908257",
+ "item_name": "하이카디정",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20191205",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270667]농축콜레칼시페롤(분말형)|[M051564]탄산칼슘",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Powder",
+ "edi_code": "644604030",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908257",
+ "revisions": [
+  {
+   "revision_id": "201908257-03093013",
+   "content_sha256": "03093013164df5bc6f61b8ee3560f667a25e951dac1a2ef2ff010fd6ceb64284",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신·수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. · 뼈, 이의 발육불량 · 구루병의 예방 2. 칼슘 결핍 및 기타 칼슘의 보급",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:25:13Z",
+   "last_observed_at": "2026-08-28T13:25:13Z",
+   "official_revision_date": "2025-02-17"
+  },
+  {
+   "revision_id": "201908257-832c7164",
+   "content_sha256": "832c716483080f877b743d53ad22d832eb269b184cef09939795347894ec26c7",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신․수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. ․ 뼈, 이의 발육불량 ․ 구루병의 예방 2. 칼슘 결핍 및 기타 칼슘 보급",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-12-05",
+   "first_observed_at": "2026-08-28T13:25:13Z",
+   "last_observed_at": "2026-08-28T13:25:13Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:13Z"
+}

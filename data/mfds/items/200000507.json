@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000507",
+ "item_name": "대한탄산수소나트륨8.4%주",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20000504",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Sodium Bicarbonate",
+ "edi_code": "645100901",
+ "atc_code": "B05XA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000507",
+ "revisions": [
+  {
+   "revision_id": "200000507-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:23:53Z",
+   "last_observed_at": "2026-08-28T13:23:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:53Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900727",
+ "item_name": "돔피돈정(돔페리돈말레산염)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "19990812",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222961]돔페리돈말레산염",
+ "main_item_ingr_eng": "Domperidone Maleate",
+ "edi_code": "642700230",
+ "atc_code": "A03FA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900727",
+ "revisions": [
+  {
+   "revision_id": "199900727-9b5c441d",
+   "content_sha256": "9b5c441d8ef4251d1207cb983668f34ce8d568047f8018aeadb738a6c30b582e",
+   "ee_text": "오심, 구토 증상의 완화",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

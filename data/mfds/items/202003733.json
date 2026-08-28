@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003733",
+ "item_name": "파워비큐액",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20200522",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M223240]토코페롤아세테이트|[M244641]산화아연|[M222996]리보플라빈포스페이트나트륨|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M096428]벤포티아민",
+ "main_item_ingr_eng": "Benfotiamine/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Tocopherol Acetate/Ursodeoxycholic Acid/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11EX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003733",
+ "revisions": [
+  {
+   "revision_id": "202003733-820a9134",
+   "content_sha256": "820a913421ef96f6253ce4cad4994d4cdba8eb33ffb89affbe716367c2a5ca1b",
+   "ee_text": "1. 다음경우의 비타민B1, B2, B6의 보급 : 육체피로, 임신‧수유기, 병중‧병후(병을 앓는 동안이나 회복 후)의 체력저하 시 2. 이 약에 함유된 비타민 등의 효능‧효과는 다음과 같다. - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등), 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 - 각기, 눈의 피로 3. 아연의 보급",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:18Z",
+   "last_observed_at": "2026-08-28T13:25:18Z",
+   "official_revision_date": "2020-05-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:18Z"
+}

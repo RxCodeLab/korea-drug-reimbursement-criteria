@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900161",
+ "item_name": "멜라논크림",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "19991006",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051981]히드로퀴논|[M051617]트레티노인|[M040818]히드로코르티손",
+ "main_item_ingr_eng": "Hydrocortisone/Hydroquinone/Tretinoin",
+ "edi_code": "",
+ "atc_code": "D11AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900161",
+ "revisions": [
+  {
+   "revision_id": "199900161-24d6c046",
+   "content_sha256": "24d6c046c4db01a93dd8d7b833d1ac119b898c2026931526af40bb44c7b34ea6",
+   "ee_text": "다음 질환의 증상의 치료 : 피부의 멜라닌 과다침착(갈색반점), 흑피증(기미, 주근깨), 간성반점, 염증후 피부의 갈색반점",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

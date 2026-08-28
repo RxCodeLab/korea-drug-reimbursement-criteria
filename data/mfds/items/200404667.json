@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200404667",
+ "item_name": "트리루스트라크림",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20040518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040741]플루오시놀론아세토니드|[M051981]히드로퀴논|[M051617]트레티노인",
+ "main_item_ingr_eng": "Fluocinolone Acetonide/Hydroquinone/Tretinoin",
+ "edi_code": "",
+ "atc_code": "D11AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404667",
+ "revisions": [
+  {
+   "revision_id": "200404667-26550940",
+   "content_sha256": "26550940472fa30c019ab589dfae7c3a3384c3eddb2c0bf12f9248fbc12de733",
+   "ee_text": "중등도 내지 중증의 안면 흑피증의 단기 치료 (자외선 차단제 등 햇빛 노출을 차단할 수 있는 방법을 병용할것)",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:24:06Z",
+   "last_observed_at": "2026-08-28T13:24:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:06Z"
+}

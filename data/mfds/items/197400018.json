@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197400018",
+ "item_name": "시강계정(시호계지건강탕)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19741125",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M095529]괄루근|[M040006]감초|[M040007]건강|[M040180]모려|[M040789]황금|[M050037]계지|[M040336]시호",
+ "main_item_ingr_eng": "Bupleurum Root/Cinnamomi Ramulus/Ginger/Licorice/Oyster Shell/Scutellaria Root/Trichosanthes Root",
+ "edi_code": "",
+ "atc_code": "N07XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400018",
+ "revisions": [
+  {
+   "revision_id": "197400018-8e70d84a",
+   "content_sha256": "8e70d84a3f36fc47f9bdb8b47a2578a5f0bc6be2f9481421277600ddac5cc51e",
+   "ee_text": "체력이 약하고 냉증, 가벼운 빈혈이 있으며 두근거림, 숨참이 있고, 신경과민이 있는 사람의 다음 증상 :갱년기장애, 불면증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197400018/EE",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z"
+  },
+  {
+   "revision_id": "197400018-5fdb0aae",
+   "content_sha256": "5fdb0aaee290428d6ed8bcf9bff5a244b7bdcfcc2bff812e2b72a33b12aa05bf",
+   "ee_text": "체력이 약하고 냉증, 가벼운 빈혈이 있으며 두근거림, 숨참이 있고, 신경과민이 있는 사람의 다음 증상 : 갱년기장애, 불면증",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

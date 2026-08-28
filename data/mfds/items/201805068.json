@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805068",
+ "item_name": "뉴메타 지19이주",
+ "entp_name": "주식회사박스터코리아",
+ "permit_date": "20181213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204437]L-시스테인|[M202247]L-아스파르트산|[M248270]글리세로인산나트륨수화물|[M243248]아세트산마그네슘사수화물|[M083749]염화칼슘이수화물|[M204427]L-글루탐산|[M088656]글리신|[M215288]L-히스티딘|[M222530]L-이소류신|[M222531]L-류신|[M044300]포도당일수화물|[M102759]정제올리브유|[M251255]정제콩기름|[M218168]아세트산 칼륨|[M040426]염화나트륨|[M209366]L-알라닌|[M202242]L-리신일수화물|[M218567]L-메티오닌|[M245058]L-오르니틴염산염|[M204442]L-페닐알라닌|[M214861]L-프롤린|[M204435]L-세린|[M102908]타우린|[M209360]L-발린|[M103077]L-아르기닌|[M214313]L-티로신|[M218015]L-트립토판|[M103060]L-트레오닌",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose Monohydrate/Glycine/L-Alanine/L-Arginine/L-Aspartic Acid/L-Cysteine/L-Glutamic Acid/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Monohydrate/L-Methionine/L-Ornithine Hydrochloride/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine/Magnesium Acetate Tetrahydrate/Potassium Acetate/Purified Olive Oil/Refined Soyabean Oil/Sodium Chloride/Sodium Glycerophosphate Hydrate/Taurine",
+ "edi_code": "",
+ "atc_code": "B05BA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805068",
+ "revisions": [
+  {
+   "revision_id": "201805068-f56a17b8",
+   "content_sha256": "f56a17b8e5118512c1e326c75dd29d6447c997b1277ce11bfc55ba90d6ccc184",
+   "ee_text": "경구 또는 경장 영양요법이 불가능 또는 불충분하거나 또는 제한되어 경정맥 영양공급을 실시해야 하는 만 2세 이상 소아 환자들에게 수분, 전해질, 아미노산 및 칼로리 보급",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:02Z",
+   "last_observed_at": "2026-08-28T13:25:02Z",
+   "official_revision_date": "2018-12-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:02Z"
+}

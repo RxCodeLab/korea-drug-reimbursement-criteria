@@ -7,21 +7,20 @@
  "permit_date": "20190903",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M249673]로사르탄칼륨|[M223356]히드로클로로티아지드",
+ "main_item_ingr": "[M223356]히드로클로로티아지드|[M249673]로사르탄칼륨",
  "main_item_ingr_eng": "Hydrochlorothiazide/Losartan Potassium",
  "edi_code": "649104570",
  "atc_code": "C09DA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906270",
+ "history_fetched_at": "2026-08-27T12:47:03Z",
  "revisions": [
   {
    "revision_id": "201906270-f1f0e886",
    "content_sha256": "f1f0e88615f7c71660ed4255c95af5d7585b80909093138217080411f421fd1c",
    "ee_text": "단일요법으로 혈압이 적절히 조절되지 않는 고혈압",
-   "ee_doc_id": "1",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201906270/EE",
    "first_observed_at": "2026-08-27T12:47:03Z",
-   "last_observed_at": "2026-08-27T12:47:03Z",
-   "official_revision_date": "2019-09-03"
+   "last_observed_at": "2026-08-28T13:25:11Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:47:03Z"
+ ]
 }

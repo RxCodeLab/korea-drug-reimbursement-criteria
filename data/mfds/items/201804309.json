@@ -12,16 +12,15 @@
  "edi_code": "",
  "atc_code": "N02BE01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804309",
+ "history_fetched_at": "2026-08-27T13:01:39Z",
  "revisions": [
   {
    "revision_id": "201804309-d82fb7f5",
    "content_sha256": "d82fb7f5d6d18ffeecabbe2e4e474240f8f99771ad430e5b64faf606e9712abe",
    "ee_text": "통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 1. 중등도의 통증(특히 수술 후)의 단기간 치료 2. 발열의 단기간 치료",
-   "ee_doc_id": "1",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201804309/EE",
    "first_observed_at": "2026-08-27T13:01:39Z",
-   "last_observed_at": "2026-08-27T13:01:39Z",
-   "official_revision_date": "2018-10-31"
+   "last_observed_at": "2026-08-28T13:25:02Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:01:39Z"
+ ]
 }

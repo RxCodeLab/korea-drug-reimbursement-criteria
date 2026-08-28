@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200800971",
+ "item_name": "크리멘28정",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20080124",
+ "cancel_date": "20260401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223135]에스트라디올 발레레이트|[M223135]에스트라디올 발레레이트|[M222867]시프로테론아세테이트",
+ "main_item_ingr_eng": "Cyproterone Acetate/Estradiol Valerate",
+ "edi_code": "641100820",
+ "atc_code": "G03HB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800971",
+ "revisions": [
+  {
+   "revision_id": "200800971-02a87c77",
+   "content_sha256": "02a87c772bc912793ecb105d567a2b6a133bcef40d977c526d327d2e0718c407",
+   "ee_text": "폐경 후(마지막 생리 후 최소 1년이 경과된 시점) 여성의 에스트로겐 결핍의 증상경감을 위한 호르몬대체요법(HRT)",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:24:15Z",
+   "last_observed_at": "2026-08-28T13:24:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:15Z"
+}

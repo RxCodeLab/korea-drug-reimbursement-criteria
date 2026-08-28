@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198802331",
+ "item_name": "앤티브액(L-아르기닌염산염)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "19880824",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223095]L-아르기닌염산염",
+ "main_item_ingr_eng": "L-Arginine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198802331",
+ "revisions": [
+  {
+   "revision_id": "198802331-ab9deca0",
+   "content_sha256": "ab9deca0ce000f6a04ec22c9a620b8409a2acbbc36135e5abcae2924a48aeb5f",
+   "ee_text": "간기능장애에 의한 소화불량의 보조 치료",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-28T13:23:42Z",
+   "last_observed_at": "2026-08-28T13:23:42Z",
+   "official_revision_date": "2004-05-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:42Z"
+}

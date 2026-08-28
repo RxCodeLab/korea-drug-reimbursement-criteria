@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201101885",
+ "item_name": "코바로살탄정160/12.5밀리그램",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20110404",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090403]발사르탄|[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Valsartan",
+ "edi_code": "642506560",
+ "atc_code": "C09DA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101885",
+ "revisions": [
+  {
+   "revision_id": "201101885-962ec495",
+   "content_sha256": "962ec495df30cabe1b2e5a729a5b631e93f9548b33e5d84000c2ee77b855b0cf",
+   "ee_text": "단일요법으로 혈압이 적절하게 조절되지 않은 본태고혈압",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201101885/EE",
+   "first_observed_at": "2026-08-28T13:24:25Z",
+   "last_observed_at": "2026-08-28T13:24:25Z"
+  },
+  {
+   "revision_id": "201101885-e06b1276",
+   "content_sha256": "e06b127631f8df54f07336ed0bf6be73b6de5eae98823ed6f8222f7604fc5c36",
+   "ee_text": "(정제) 단일요법으로 혈압이 적절하게 조절되지 않은 본태고혈압",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:25Z",
+   "last_observed_at": "2026-08-28T13:24:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:25Z"
+}

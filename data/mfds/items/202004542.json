@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004542",
+ "item_name": "맥세렌디정",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20200622",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M210377]아셀렌산나트륨오수화물|[M102050]콜레칼시페롤농축분말",
+ "main_item_ingr_eng": "Cholecalciferol Concentrate Powder/Sodium Selenite Pentahydrate",
+ "edi_code": "",
+ "atc_code": "A11CC55",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004542",
+ "revisions": [
+  {
+   "revision_id": "202004542-233e6b2e",
+   "content_sha256": "233e6b2e6f8a5e80372b81ff5e863f9929d4950dd09c93d178b6864b385965dd",
+   "ee_text": "- 임신ㆍ수유기, 발육기, 노년기 - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:25:20Z",
+   "last_observed_at": "2026-08-28T13:25:20Z",
+   "official_revision_date": "2024-01-09"
+  },
+  {
+   "revision_id": "202004542-72a1a427",
+   "content_sha256": "72a1a427315174cbd9a89d4e42de9ff5cf48e37df55163c8037e58b376e314ab",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신ㆍ수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ 뼈, 이의 발육불량 ㆍ 구루병의 예방",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-06-22",
+   "first_observed_at": "2026-08-28T13:25:20Z",
+   "last_observed_at": "2026-08-28T13:25:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:20Z"
+}

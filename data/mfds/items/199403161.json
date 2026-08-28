@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403161",
+ "item_name": "다이아닐피디-투액1.5%",
+ "entp_name": "밴티브코리아주식회사",
+ "permit_date": "19940409",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051111]염화마그네슘|[M040439]염화칼슘|[M259581]락트산나트륨액|[M040426]염화나트륨|[M268040]포도당무수물",
+ "main_item_ingr_eng": "Anhyrous Glucose/Calcium Chloride/Magnesium Chloride/Sodium Chloride/Sodium Lactate Solution",
+ "edi_code": "",
+ "atc_code": "B05DB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403161",
+ "revisions": [
+  {
+   "revision_id": "199403161-f1061de4",
+   "content_sha256": "f1061de411c5dd57cadf42b94c7ba2a947f0ffb0676e01d9f85b2f38fe345ca1",
+   "ee_text": "급ㆍ만성신부전 환자의 복막투석액",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:46Z"
+}

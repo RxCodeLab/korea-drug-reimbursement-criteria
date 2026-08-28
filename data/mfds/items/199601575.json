@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199601575",
+ "item_name": "신텍스감두탕엑스과립",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "19960214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070526]흑두|[M040006]감초",
+ "main_item_ingr_eng": "Glycine Semen Nigra/Licorice",
+ "edi_code": "",
+ "atc_code": "V03AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199601575",
+ "revisions": [
+  {
+   "revision_id": "199601575-19586f37",
+   "content_sha256": "19586f3789b9e49dd075ca34698bfb33aedc95621eb0ecc966f4dde764c32171",
+   "ee_text": "약물해독제",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:47Z",
+   "last_observed_at": "2026-08-28T13:23:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:47Z"
+}

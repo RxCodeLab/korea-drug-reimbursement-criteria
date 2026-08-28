@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200138",
+ "item_name": "페인플람겔(수출용)",
+ "entp_name": "시믹씨엠오코리아주식회사",
+ "permit_date": "20220107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279284]L-멘톨|[M051259]이부프로펜",
+ "main_item_ingr_eng": "Ibuprofen/L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AA13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200138",
+ "revisions": [
+  {
+   "revision_id": "202200138-1f1c22fa",
+   "content_sha256": "1f1c22faabc0ad6792c48548eb7e56d76103b55ebfd5835669293de99742793f",
+   "ee_text": "다음 증상의 진통ㆍ소염 : 삠, 타박상, 근육통",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:27Z",
+   "last_observed_at": "2026-08-28T13:25:27Z",
+   "official_revision_date": "2022-01-07"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:27Z"
+}

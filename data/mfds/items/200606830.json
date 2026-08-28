@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200606830",
+ "item_name": "코슈정(슈도에페드린염산염)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20060822",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203364]슈도에페드린염산염",
+ "main_item_ingr_eng": "Pseudoephedrine Hydrochloride",
+ "edi_code": "670301460",
+ "atc_code": "R01BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606830",
+ "revisions": [
+  {
+   "revision_id": "200606830-725f133c",
+   "content_sha256": "725f133cad49077816752253f51f5d7bfc3ed7664bc13d5318d152928d6af4cc",
+   "ee_text": "다음 질환에 의한 비충혈 완화 : 감기, 부비동염, 상기도 알레르기",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:24:10Z",
+   "last_observed_at": "2026-08-28T13:24:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:10Z"
+}

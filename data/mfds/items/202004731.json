@@ -12,15 +12,15 @@
  "edi_code": "670402331",
  "atc_code": "N06BX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004731",
+ "history_fetched_at": "2026-08-27T11:08:28Z",
  "revisions": [
   {
    "revision_id": "202004731-1b9c0a17",
    "content_sha256": "1b9c0a17e1110b10ee100079dda6c13a0bda3268f35bdb093ed13fc077b5442a",
    "ee_text": "다음 질환의 증상개선 - 노인성 치매(알츠하이머 및 혈관성 치매) - 뇌졸중 후 뇌기능 장애 - 외상성 뇌손상(뇌진탕, 뇌좌상)",
-   "ee_doc_id": "13",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202004731/EE",
    "first_observed_at": "2026-08-27T11:08:28Z",
-   "last_observed_at": "2026-08-27T11:08:28Z",
-   "official_revision_date": "2023-06-05"
+   "last_observed_at": "2026-08-28T13:25:20Z"
   },
   {
    "revision_id": "202004731-a4d12e57",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T11:08:28Z",
    "last_observed_at": "2026-08-27T11:08:28Z"
   }
- ],
- "history_fetched_at": "2026-08-27T11:08:28Z"
+ ]
 }

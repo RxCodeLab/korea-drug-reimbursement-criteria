@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200202984",
+ "item_name": "숙치환(삼황지출환)",
+ "entp_name": "한솔신약(주)",
+ "permit_date": "20021106",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040073]대황|[M040214]백출|[M040536]지실|[M040538]진피|[M040792]황련|[M050891]신곡|[M040789]황금",
+ "main_item_ingr_eng": "Atractylodes Rhizome White/Citrus Unshiu Peel/Coptis Rhizome/Massa Medicata Fermentata/Poncirus Immature Fruit/Rhubarb/Scutellaria Root",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202984",
+ "revisions": [
+  {
+   "revision_id": "200202984-26900168",
+   "content_sha256": "2690016853e1fc0359d02e85539a4aa1bb8f1bc0397b2ad3fdefc1ac31b473e7",
+   "ee_text": "육체(肉滯)로 인한 위부불쾌감",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:01Z",
+   "last_observed_at": "2026-08-28T13:24:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:01Z"
+}

@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "N02BE51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500967",
+ "history_fetched_at": "2026-08-27T12:56:50Z",
  "revisions": [
   {
    "revision_id": "199500967-48cc8e3d",
    "content_sha256": "48cc8e3da249efa5832beee18632231ae162dcb5373e5cb80110a8b51173d23a",
    "ee_text": "두통, 치통, 발치후 동통(통증), 인후통, 귀의 통증, 관절통, 신경통, 요통, 근육통,견통(어깨결림), 타박통, 골절통, 염좌통(삠통증), 월경통(생리통), 외상통의 진통, 오한, 발열시의 해열",
-   "ee_doc_id": "21",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199500967/EE",
    "first_observed_at": "2026-08-27T12:56:50Z",
-   "last_observed_at": "2026-08-27T12:56:50Z",
-   "official_revision_date": "2023-08-16"
+   "last_observed_at": "2026-08-28T13:23:46Z"
   },
   {
    "revision_id": "199500967-e3b0c442",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:56:50Z",
    "last_observed_at": "2026-08-27T12:56:50Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:56:50Z"
+ ]
 }

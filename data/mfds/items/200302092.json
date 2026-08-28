@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302092",
+ "item_name": "토라빈덱스안연고",
+ "entp_name": "(주)태준제약",
+ "permit_date": "20030327",
+ "cancel_date": "20250512",
+ "status": "취하",
+ "main_item_ingr": "[M020144]토브라마이신|[M040080]덱사메타손",
+ "main_item_ingr_eng": "Dexamethasone/Tobramycin",
+ "edi_code": "",
+ "atc_code": "S01CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302092",
+ "revisions": [
+  {
+   "revision_id": "200302092-bcecf25c",
+   "content_sha256": "bcecf25ca57880fe3f7fac469350124bc4e387c30c05919f51109ef631a7c9c1",
+   "ee_text": "·포도상구균 : 황색포도상구균, 표피포도상구균(응고촉진효소양성 및 음성균 포함), 페니 실린내성균 등 ·일부 A군의 β-용혈성 연쇄상구균, 비용혈성 연쇄상구균 및 폐렴구균 ·녹농균, 대장균, 폐렴간균, 호기성 장내균, 프로테우스 미라비리스, 모르가넬라 모르가니 균, 대 부분의 심상변형균, 헤모필루스 인플루엔자균, 헤모필루스 에집티우스균, 결막염 호염균, 아시네토박터 칼코아세티쿠스균, 일부의 나이제리아속 표재성 세균감염, 안검 및 안구 결막·각막·안구 전방부의 염증, 만성 전포도막염, 화학물 질·방사선·열성 외상 또는 이물침투에 의한 각막 상해",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

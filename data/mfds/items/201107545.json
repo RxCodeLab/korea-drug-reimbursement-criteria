@@ -12,15 +12,15 @@
  "edi_code": "643903071",
  "atc_code": "S01XA20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107545",
+ "history_fetched_at": "2026-08-27T11:03:48Z",
  "revisions": [
   {
    "revision_id": "201107545-1794fa62",
    "content_sha256": "1794fa6239b040bca154c1088b4b331edab55354af7bcbec97d1446c057536ed",
    "ee_text": "다음 질환에 의한 각결막 상피장애 : - 쇼그렌증후군, 피부점막안증후군(스티븐스-존슨증후군), 건성안증후군과 같은 내인성 질환 - 수술 후, 약제성, 외상, 콘텍트렌즈 착용 등에 의한 외인성 질환",
-   "ee_doc_id": "13",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201107545/EE",
    "first_observed_at": "2026-08-27T11:03:48Z",
-   "last_observed_at": "2026-08-27T11:03:48Z",
-   "official_revision_date": "2012-01-29"
+   "last_observed_at": "2026-08-28T13:24:26Z"
   },
   {
    "revision_id": "201107545-7e7b15e4",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T11:03:48Z",
    "last_observed_at": "2026-08-27T11:03:48Z"
   }
- ],
- "history_fetched_at": "2026-08-27T11:03:48Z"
+ ]
 }

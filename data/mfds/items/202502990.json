@@ -7,21 +7,20 @@
  "permit_date": "20251118",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M222875]암로디핀베실산염|[M090403]발사르탄|[M040615]클로르탈리돈",
+ "main_item_ingr": "[M040615]클로르탈리돈|[M090403]발사르탄|[M222875]암로디핀베실산염",
  "main_item_ingr_eng": "Amlodipine Besylate/Chlorthalidone/Valsartan",
  "edi_code": "640008030",
  "atc_code": "C09DX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502990",
+ "history_fetched_at": "2026-08-27T12:26:53Z",
  "revisions": [
   {
    "revision_id": "202502990-5b1742e3",
    "content_sha256": "5b1742e3d229ac8379591bfaa0293b53cc56f05dd86e02fb40af061bee2c5511",
    "ee_text": "암로디핀과 발사르탄의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
-   "ee_doc_id": "1",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202502990/EE",
    "first_observed_at": "2026-08-27T12:26:53Z",
-   "last_observed_at": "2026-08-27T12:26:53Z",
-   "official_revision_date": "2025-11-18"
+   "last_observed_at": "2026-08-28T13:25:38Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:26:53Z"
+ ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197400277",
+ "item_name": "뮤코졸정(브롬헥신염산염)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19741125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223062]브롬헥신염산염",
+ "main_item_ingr_eng": "Bromhexine Hydrochloride",
+ "edi_code": "642200520",
+ "atc_code": "R05CB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400277",
+ "revisions": [
+  {
+   "revision_id": "197400277-8bf2e2c7",
+   "content_sha256": "8bf2e2c73d3514e0f9524a6f13798de8f1e01e9eedfea9be4f0e06f8f7101127",
+   "ee_text": "다음 질환에서의 객담배출곤란 : 급·만성기관지염",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

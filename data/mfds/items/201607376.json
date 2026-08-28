@@ -12,15 +12,15 @@
  "edi_code": "653603131",
  "atc_code": "S01LA04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607376",
+ "history_fetched_at": "2026-08-27T11:59:05Z",
  "revisions": [
   {
    "revision_id": "201607376-aa29e37a",
    "content_sha256": "aa29e37aa7ee423fdf9c1b84ff989b92e7529df8fb8123cc1173197932f8e38a",
    "ee_text": "신생혈관성 (습성) 연령관련 황반변성의 치료 당뇨병성 황반부종에 의한 시력 손상의 치료 증식성 당뇨성 망막병증의 치료 망막정맥폐쇄성 황반부종에 의한 시력 손상의 치료 맥락막 신생혈관 형성에 따른 시력 손상의 치료",
-   "ee_doc_id": "28",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201607376/EE",
    "first_observed_at": "2026-08-27T11:59:05Z",
-   "last_observed_at": "2026-08-27T11:59:05Z",
-   "official_revision_date": "2022-07-01"
+   "last_observed_at": "2026-08-28T13:24:54Z"
   },
   {
    "revision_id": "201607376-bf54eb52",
@@ -58,6 +58,5 @@
    "first_observed_at": "2026-08-27T11:59:05Z",
    "last_observed_at": "2026-08-27T11:59:05Z"
   }
- ],
- "history_fetched_at": "2026-08-27T11:59:05Z"
+ ]
 }

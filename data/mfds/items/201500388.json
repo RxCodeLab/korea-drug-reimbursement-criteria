@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500388",
+ "item_name": "D3베이스주 100,000 IU (콜레칼시페롤)",
+ "entp_name": "(주)메디포트",
+ "permit_date": "20150126",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040594]콜레칼시페롤",
+ "main_item_ingr_eng": "Cholecalciferol",
+ "edi_code": "",
+ "atc_code": "A11CC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500388",
+ "revisions": [
+  {
+   "revision_id": "201500388-6d68a119",
+   "content_sha256": "6d68a1199247e72b2ca1689855049a7a5e006725f11275756436528db520eafc",
+   "ee_text": "비타민 D가 결핍된 고령자에서 비타민 D 결핍의 예방과 치료",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:40Z",
+   "last_observed_at": "2026-08-28T13:24:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:40Z"
+}

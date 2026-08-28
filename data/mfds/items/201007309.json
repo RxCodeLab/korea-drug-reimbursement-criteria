@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201007309",
+ "item_name": "파워본연질캡슐",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20101201",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223369]인산수소칼슘수화물|[M222935]글루콘산칼슘수화물|[M255993]농축콜레칼시페롤(유상)",
+ "main_item_ingr_eng": "Calcium Gluconate Hydrate/Cholecalciferol Concentrate Oil/Dibasic Calcium Phosphate Hydrate",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007309",
+ "revisions": [
+  {
+   "revision_id": "201007309-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:24:24Z",
+   "last_observed_at": "2026-08-28T13:24:24Z",
+   "official_revision_date": "2021-08-02"
+  },
+  {
+   "revision_id": "201007309-e28fec31",
+   "content_sha256": "e28fec31294257761bc0e0707a949e5e5b5de30497b2dfdb47a814a2056e4600",
+   "ee_text": "- 임신.수유기 - 발육기 - 노년기 - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:24Z",
+   "last_observed_at": "2026-08-28T13:24:24Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:24Z"
+}

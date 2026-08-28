@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402096",
+ "item_name": "하이로손겔1%(히드로코르티손)(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20140502",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040818]히드로코르티손",
+ "main_item_ingr_eng": "Hydrocortisone",
+ "edi_code": "",
+ "atc_code": "D07AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402096",
+ "revisions": [
+  {
+   "revision_id": "201402096-613321ed",
+   "content_sha256": "613321ed87c17c69ea5db72bb02bde59db77c651860db8e9b5ef743ff6bdbbc2",
+   "ee_text": "- 습진, 건선, 옻나무 자극, 벌레 물린 데, 세정제, 보석류, 화장품, 비누, 지루성 피부염 항문, 생식기 가려움 증상의 일시적인 완화",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:24:35Z",
+   "last_observed_at": "2026-08-28T13:24:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:35Z"
+}

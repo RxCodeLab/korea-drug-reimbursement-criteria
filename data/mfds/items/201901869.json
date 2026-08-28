@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901869",
+ "item_name": "지엘아스피린장용정100밀리그램",
+ "entp_name": "지엘파마(주)",
+ "permit_date": "20190328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040355]아스피린",
+ "main_item_ingr_eng": "Aspirin",
+ "edi_code": "649701990",
+ "atc_code": "B01AC06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901869",
+ "revisions": [
+  {
+   "revision_id": "201901869-971da701",
+   "content_sha256": "971da70110b6875e642209adca17dc21aeaa5e84449b5256c7e08b0270624ff0",
+   "ee_text": "1) 다음 질환에서 혈전 생성 억제 · 심근경색 · 뇌경색 · 불안정형 협심증 2) 관상동맥 우회술(CABG) 또는 경피경관 관상동맥 성형술(PTCA) 후 혈전 생성 억제 3) 고위험군환자(허혈성 심장질환의 가족력, 고혈압, 고콜레스테롤혈증, 비만, 당뇨 등 복합적 위험인자를 가진 환자)에서 심혈관계 위험성 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:05Z",
+   "last_observed_at": "2026-08-28T13:25:05Z",
+   "official_revision_date": "2019-03-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:05Z"
+}

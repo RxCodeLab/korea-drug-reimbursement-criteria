@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806725",
+ "item_name": "아이신환(십미패독환)",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20080619",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040006]감초|[M040225]복령|[M050752]생강|[M040205]방풍|[M050227]독활|[M040550]천궁|[M040048]길경|[M051043]앵피|[M051936]형개|[M040336]시호",
+ "main_item_ingr_eng": "Aralia Continentalis Root/Bupleurum Root/Cnidium Rhizome/Licorice/Platycodon Root/Poria/Prunus Bark/Raw Ginger/Saposhnikovia Root/Schizonepeta Spike",
+ "edi_code": "",
+ "atc_code": "D11AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806725",
+ "revisions": [
+  {
+   "revision_id": "200806725-342b67ee",
+   "content_sha256": "342b67ee8f5509834b1a2f74b84fc35da91146e13388845bd22b1c154e17df3e",
+   "ee_text": "화농(곪음)성 또는 급성 피부질환의 초기, 두드러기, 급성 습진, 무좀",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:17Z",
+   "last_observed_at": "2026-08-28T13:24:17Z",
+   "official_revision_date": "2019-05-20"
+  },
+  {
+   "revision_id": "200806725-cddce361",
+   "content_sha256": "cddce361dc17f52d370f23e822ffc2272bce4fa2435cb78dda51276fea94a20b",
+   "ee_text": "화농성 또는 급성 피부질환의 초기, 두드러기, 급성 습진, 무좀",
+   "ee_doc_id": "9",
+   "official_revision_date": "2010-04-09",
+   "first_observed_at": "2026-08-28T13:24:17Z",
+   "last_observed_at": "2026-08-28T13:24:17Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:17Z"
+}

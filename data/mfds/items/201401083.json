@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401083",
+ "item_name": "메타리빈나잘워시액(염화나트륨)(수출명:오션나잘액)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20140310",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "R01AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401083",
+ "revisions": [
+  {
+   "revision_id": "201401083-657874ad",
+   "content_sha256": "657874ad569b63c5774db99b8b9d5032599701446effe33013c08b2c74ea84d3",
+   "ee_text": "비점막 건조 증상의 완화",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:35Z",
+   "last_observed_at": "2026-08-28T13:24:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:35Z"
+}

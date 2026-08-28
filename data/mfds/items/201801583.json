@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801583",
+ "item_name": "신신리도카인카타플라스마4%(수출용)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20180411",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801583",
+ "revisions": [
+  {
+   "revision_id": "201801583-ccacdbbd",
+   "content_sha256": "ccacdbbda404e7b4bf6c7086ed5ad4df5c3e69e2532ad488d78d8e21e6f40c1d",
+   "ee_text": "가벼운 통증의 일시적인 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2018-04-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

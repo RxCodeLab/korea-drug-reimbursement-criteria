@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200307984",
+ "item_name": "박티그라멸균거즈(클로르헥시딘아세트산염)",
+ "entp_name": "스미스앤드네퓨(주)",
+ "permit_date": "20030519",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247682]클로르헥시딘아세트산염",
+ "main_item_ingr_eng": "Chlorhexidine Acetate",
+ "edi_code": "",
+ "atc_code": "D08AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307984",
+ "revisions": [
+  {
+   "revision_id": "200307984-c0491c1c",
+   "content_sha256": "c0491c1c7b69fbc4c81bdd81fb83a4b499a0a24366b321a13ce2e420badc3255",
+   "ee_text": "경도화상 및 증기에 의한 화상, 열상(찢긴 상처) 및 찰과상(긁힌 상처), 피부이식부위",
+   "ee_doc_id": "32",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z",
+   "official_revision_date": "2026-06-23"
+  },
+  {
+   "revision_id": "200307984-8115551c",
+   "content_sha256": "8115551c80ff22ff131f139ca428b635754a76879559d300942b07390888412f",
+   "ee_text": "경도화상 및 증기에 의한 화상, 열상 및 찰과상, 피부이식부위",
+   "ee_doc_id": "14",
+   "official_revision_date": "2023-10-30",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z"
+  },
+  {
+   "revision_id": "200307984-7df7a309",
+   "content_sha256": "7df7a3090c2559fecbc4bedb08d96e3ac629866877cbe1e659c8c778f290af63",
+   "ee_text": "경도화상 및 증기에 의한 화상, 열상 및 찰과상, 피부이식부위, 하지궤양",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002311",
+ "item_name": "오치엑스과립(패독산)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20001218",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040336]시호|[M051318]전호|[M050022]강활|[M050227]독활|[M051351]지각|[M051301]자소엽|[M040048]길경|[M040550]천궁|[M040548]창출|[M040004]갈근|[M040205]방풍|[M040225]복령|[M051936]형개|[M040538]진피",
+ "main_item_ingr_eng": "Aralia Continentalis Root/Atractylodes Rhizome/Aurantii Fructus Immaturus/Bupleurum Root/Citrus Unshiu Peel/Cnidium Rhizome/Ostericum Root/Perilla Leaf/Peucedani Radix/Platycodon Root/Poria/Pueraria Root/Saposhnikovia Root/Schizonepeta Spike",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002311",
+ "revisions": [
+  {
+   "revision_id": "200002311-0e31fc14",
+   "content_sha256": "0e31fc14a52624ff6ab58b81a082d78665961f508221801f73ca35ce4ae65c95",
+   "ee_text": "감기로 인한 몸살, 발열, 두통",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:23:55Z",
+   "last_observed_at": "2026-08-28T13:23:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:55Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106821",
+ "item_name": "미네서플라이정",
+ "entp_name": "주식회사 노바엠헬스케어",
+ "permit_date": "20211008",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246343]산화제이구리|[M246028]황산망간수화물|[M084707]크롬함유건조효모|[M243785]산화아연|[M258994]아스코르브산|[M244365]셀레늄함유건조효모",
+ "main_item_ingr_eng": "Ascorbic Acid/Chromium in Dried Yeast/Cupric Oxide/Manganese Sulfate Hydrate/Selenium In Dried Yeast/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11GB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106821",
+ "revisions": [
+  {
+   "revision_id": "202106821-b7529edf",
+   "content_sha256": "b7529edf32734c2113d6b7923b4e22590cb4179dfba988f6f78b8b9ef203b469",
+   "ee_text": "○ 다음 경우의 비타민 C의 보급 - 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 ○ 아연의 보급 ○ 셀레늄의 보급",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:25:25Z",
+   "last_observed_at": "2026-08-28T13:25:25Z",
+   "official_revision_date": "2024-06-17"
+  },
+  {
+   "revision_id": "202106821-1c7a7c92",
+   "content_sha256": "1c7a7c923651eb0c730cc9b107b1ac3c007f5ad5b66658f2bc0676d214ebd796",
+   "ee_text": "○ 다음 경우의 비타민 C의 보급 - 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 ○ 아연의 보급",
+   "ee_doc_id": "1",
+   "official_revision_date": "2021-10-08",
+   "first_observed_at": "2026-08-28T13:25:25Z",
+   "last_observed_at": "2026-08-28T13:25:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:25Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405313",
+ "item_name": "프리디아점안액(1회용)",
+ "entp_name": "(주)옵투스제약",
+ "permit_date": "20141114",
+ "cancel_date": "20241114",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040657]트로픽아미드|[M222724]페닐레프린염산염",
+ "main_item_ingr_eng": "Phenylephrine Hydrochloride/Tropicamide",
+ "edi_code": "",
+ "atc_code": "S01FA56",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405313",
+ "revisions": [
+  {
+   "revision_id": "201405313-e3ab135d",
+   "content_sha256": "e3ab135d7ce2c8ec59dc211180e12aebc84a0e0359b79f589543d3165d9022f8",
+   "ee_text": "진단 또는 치료를 목적으로 하는 산동 또는 조절 마비.",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:39Z",
+   "last_observed_at": "2026-08-28T13:24:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:39Z"
+}

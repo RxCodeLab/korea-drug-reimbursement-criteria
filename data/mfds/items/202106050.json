@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106050",
+ "item_name": "파모텍스플러스정",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20210819",
+ "cancel_date": "20260819",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M040306]수산화마그네슘|[M081653]파모티딘",
+ "main_item_ingr_eng": "Famotidine/Magnesium Hydroxide/Precipitated Calcium Carbonate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106050",
+ "revisions": [
+  {
+   "revision_id": "202106050-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:25Z",
+   "last_observed_at": "2026-08-28T13:25:25Z",
+   "official_revision_date": "2021-08-19"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:25Z"
+}

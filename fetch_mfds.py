@@ -16,8 +16,10 @@ import time
 import urllib.parse
 import xml.etree.ElementTree as ET
 from collections.abc import Iterable
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from threading import Lock
 
 from common import DATA, http_get, redact_text
 
@@ -28,6 +30,7 @@ NORMALIZED_DIR = DATA / "normalized"
 ITEMS_DIR = DATA / "mfds" / "items"
 SCHEMA_VERSION = 1
 DEFAULT_PAGE_SIZE = 100
+DEFAULT_INCREMENTAL_WORKERS = 8
 # 요청 간 대기 없음. 차단이 잦아지면 이 값을 올려 완화한다(예: 0.3).
 REQUEST_SLEEP = 0.0
 RESULT_OK = "00"
@@ -435,6 +438,7 @@ def history_pending(item_seq: str, items_dir: Path) -> bool:
 
 
 SYNC_PATH = DATA / "mfds" / "sync.json"
+BACKFILL_PATH = DATA / "mfds" / "backfill.json"
 
 
 def load_sync() -> dict | None:
@@ -453,6 +457,46 @@ def save_sync(last_change_date: str, seen_heads: set[str]) -> None:
         "last_change_date": last_change_date,
         "seen_heads": sorted(seen_heads),
     })
+
+
+def load_backfill(start_date: str) -> dict | None:
+    """같은 시작일로 중단된 백필이 있으면 다음 미완료 구간을 돌려준다."""
+    try:
+        state = json.loads(BACKFILL_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return None
+    if (
+        isinstance(state, dict)
+        and state.get("start_date") == start_date
+        and DATE_YYYYMMDD.fullmatch(str(state.get("next_date") or ""))
+        and DATE_YYYYMMDD.fullmatch(str(state.get("end_date") or ""))
+    ):
+        return state
+    return None
+
+
+def save_backfill(start_date: str, next_date: str, end_date: str) -> None:
+    atomic_json(BACKFILL_PATH, {
+        "start_date": start_date,
+        "next_date": next_date,
+        "end_date": end_date,
+    })
+
+
+def month_window(start_date: str, end_date: str) -> tuple[str, str]:
+    """start_date가 속한 달의 말일까지, 단 전체 종료일을 넘지 않는 구간."""
+    start = datetime.strptime(start_date, "%Y%m%d").date()
+    first_next_month = (
+        start.replace(year=start.year + 1, month=1, day=1)
+        if start.month == 12 else start.replace(month=start.month + 1, day=1)
+    )
+    window_end = min(first_next_month - timedelta(days=1),
+                     datetime.strptime(end_date, "%Y%m%d").date())
+    return start.strftime("%Y%m%d"), window_end.strftime("%Y%m%d")
+
+
+def next_date(value: str) -> str:
+    return (datetime.strptime(value, "%Y%m%d").date() + timedelta(days=1)).strftime("%Y%m%d")
 
 
 def today_kst() -> str:
@@ -484,14 +528,24 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--max-terms", type=int, default=None, help="검색어 상한(기본: 전체)")
     parser.add_argument("--max-items", type=int, default=None, help="저장 항목 상한(기본: 제한 없음)")
     parser.add_argument("--page-size", type=int, default=DEFAULT_PAGE_SIZE, help="페이지당 건수")
+    parser.add_argument("--incremental-workers", type=int, default=DEFAULT_INCREMENTAL_WORKERS,
+                        help="변경분 품목 병렬 처리 수(기본: 8)")
+    parser.add_argument("--changes-since",
+                        help="지정일(YYYYMMDD)부터 변경분을 다시 조회해 과거 누락을 복구")
     parser.add_argument("--skip-history", action="store_true", help="의약품안전나라 효능·효과 변경이력 수집 생략")
     parser.add_argument("--full", action="store_true",
                         help="변경분 대신 전체 검색어로 수집(최초 구축·재구축용)")
     args = parser.parse_args(argv)
-    for name in ("max-terms", "max-items", "page-size"):
+    for name in ("max-terms", "max-items", "page-size", "incremental-workers"):
         value = getattr(args, name.replace("-", "_"))
         if value is not None and value < 1:
             parser.error(f"--{name}은(는) 1 이상이어야 합니다")
+    if args.changes_since and not DATE_YYYYMMDD.fullmatch(args.changes_since):
+        parser.error("--changes-since는 YYYYMMDD 형식이어야 합니다")
+    if args.full and args.changes_since:
+        parser.error("--full과 --changes-since는 함께 사용할 수 없습니다")
+    if args.max_items and args.changes_since:
+        parser.error("--max-items와 --changes-since는 함께 사용할 수 없습니다")
 
     service_key = os.environ.get("DATA_GO_KEY")
     if not service_key:
@@ -507,39 +561,45 @@ def main(argv: list[str] | None = None) -> int:
              "history_skipped": 0, "term_failures": 0}
     history_state = {"enabled": not args.skip_history, "failures": 0}
     seen: set[str] = set()
+    state_lock = Lock()
 
     def budget_left() -> int | None:
         return None if args.max_items is None else args.max_items - stats["fetched"]
 
     def process_row(row: dict) -> None:
         seq = str(row.get("ITEM_SEQ") or "").strip()
-        if not seq or seq in seen:
-            return
-        seen.add(seq)
+        with state_lock:
+            if not seq or seq in seen:
+                return
+            seen.add(seq)
         observed_at = now_utc()
         result = merge_item(row, ITEMS_DIR, observed_at)
-        stats["fetched"] += 1
-        if result == "unchanged":
-            stats["unchanged"] += 1
-        else:
-            stats["new"] += 1
-        if history_state["enabled"] and (
+        with state_lock:
+            stats["fetched"] += 1
+            stats["unchanged" if result == "unchanged" else "new"] += 1
+            history_enabled = history_state["enabled"]
+        if history_enabled and (
             result != "unchanged" or history_pending(seq, ITEMS_DIR)
         ):
             # 허가이력 실패는 품목 단위로 넘긴다. 마커가 남지 않으므로
             # 해당 품목은 다음 실행에서 백필되고, 연속 실패가 이어지면
             # 이번 실행의 이력 수집만 중단해 품목 수집을 지킨다.
             try:
-                stats["history"] += merge_history(
+                history_count = merge_history(
                     seq, fetch_history(seq, observed_at), ITEMS_DIR, observed_at,
                 )
-                history_state["failures"] = 0
+                with state_lock:
+                    stats["history"] += history_count
+                    history_state["failures"] = 0
             except RuntimeError as exc:
-                history_state["failures"] += 1
-                stats["history_skipped"] += 1
+                with state_lock:
+                    history_state["failures"] += 1
+                    stats["history_skipped"] += 1
+                    stop_history = history_state["failures"] >= HISTORY_FAILURE_LIMIT
+                    if stop_history:
+                        history_state["enabled"] = False
                 print(f"허가이력 수집 실패({seq}): {exc}")
-                if history_state["failures"] >= HISTORY_FAILURE_LIMIT:
-                    history_state["enabled"] = False
+                if stop_history:
                     print("연속 실패로 이번 실행의 허가이력 수집을 중단합니다. "
                           "미수집 품목은 다음 실행에서 백필합니다.")
 
@@ -577,8 +637,10 @@ def main(argv: list[str] | None = None) -> int:
     sync = load_sync()
     has_items = ITEMS_DIR.is_dir() and any(ITEMS_DIR.glob("*.json"))
     end_date = today_kst()
+    if args.changes_since and args.changes_since > end_date:
+        parser.error("--changes-since는 오늘 이후일 수 없습니다")
 
-    if args.full or sync is None or not has_items:
+    if args.full or (not args.changes_since and (sync is None or not has_items)):
         # 최초 구축·재구축: 전체 검색어 수집. 증분 인자 없는 호출은 시간당
         # 100회 제한 대상이라 평시에는 아래 변경분 경로를 쓴다.
         succeeded = sweep(groups)
@@ -587,28 +649,55 @@ def main(argv: list[str] | None = None) -> int:
             return 1  # 아무것도 수집하지 못한 채 실패만 났다면 전체를 실패로 처리한다
         save_sync(end_date, succeeded)
     else:
-        seen_heads = set(sync.get("seen_heads") or [])
+        seen_heads = set((sync or {}).get("seen_heads") or [])
         # 1) 새 고시로 들어온 검색어만 검색한다 (건수가 적어 제한과 무관)
-        succeeded = sweep([(head, fb) for head, fb in groups if head not in seen_heads])
-        # 2) 변경일자 구간 질의로 기존 품목 갱신과 유관 신규 허가를 받는다
-        try:
-            changed = collect_changed(
-                service_key, str(sync["last_change_date"]), end_date, args.page_size,
-            )
-        except RuntimeError as exc:
-            print(f"변경분 조회 실패: {exc}")
-            _print_summary(stats)
-            return 1
-        known = frozenset(path.stem for path in ITEMS_DIR.glob("*.json"))
-        ingredients = stored_ingredients(ITEMS_DIR)
-        for row in changed:
-            seq = str(row.get("ITEM_SEQ") or "").strip()
-            if seq in known or (base_ingredient_set(row) & ingredients):
-                left = budget_left()
-                if left is not None and left <= 0:
-                    break
-                process_row(row)
-        save_sync(end_date, seen_heads | succeeded)
+        # 과거 변경분 백필은 검색어 API의 시간당 제한을 피하는 전용 경로다.
+        succeeded = set() if args.changes_since else sweep(
+            [(head, fb) for head, fb in groups if head not in seen_heads]
+        )
+        def process_changed_range(start_date: str, range_end: str) -> bool:
+            try:
+                changed = collect_changed(
+                    service_key, start_date, range_end, args.page_size,
+                )
+            except RuntimeError as exc:
+                print(f"변경분 조회 실패({start_date}~{range_end}): {exc}")
+                return False
+            known = frozenset(path.stem for path in ITEMS_DIR.glob("*.json"))
+            ingredients = stored_ingredients(ITEMS_DIR)
+            eligible = []
+            for row in changed:
+                seq = str(row.get("ITEM_SEQ") or "").strip()
+                if seq and (seq in known or (base_ingredient_set(row) & ingredients)):
+                    eligible.append(row)
+                    left = budget_left()
+                    if left is not None and len(eligible) >= left:
+                        break
+            with ThreadPoolExecutor(max_workers=args.incremental_workers) as executor:
+                list(executor.map(process_row, eligible))
+            return True
+
+        if args.changes_since:
+            checkpoint = load_backfill(args.changes_since)
+            backfill_end = str(checkpoint["end_date"]) if checkpoint else end_date
+            cursor = str(checkpoint["next_date"]) if checkpoint else args.changes_since
+            if not checkpoint:
+                save_backfill(args.changes_since, cursor, backfill_end)
+            while cursor <= backfill_end:
+                range_start, range_end = month_window(cursor, backfill_end)
+                if not process_changed_range(range_start, range_end):
+                    _print_summary(stats)
+                    return 1
+                cursor = next_date(range_end)
+                save_backfill(args.changes_since, cursor, backfill_end)
+            BACKFILL_PATH.unlink(missing_ok=True)
+            previous_sync_date = str((sync or {}).get("last_change_date") or "")
+            save_sync(max(previous_sync_date, backfill_end), seen_heads)
+        else:
+            if not process_changed_range(str((sync or {})["last_change_date"]), end_date):
+                _print_summary(stats)
+                return 1
+            save_sync(end_date, seen_heads | succeeded)
 
     _print_summary(stats)
     return 0

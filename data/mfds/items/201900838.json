@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900838",
+ "item_name": "노바스크정2.5밀리그램(암로디핀베실산염)",
+ "entp_name": "비아트리스코리아(주)",
+ "permit_date": "20190208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222875]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate",
+ "edi_code": "073400370",
+ "atc_code": "C08CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900838",
+ "revisions": [
+  {
+   "revision_id": "201900838-9167621b",
+   "content_sha256": "9167621b4ea9f438647fe6ff909a41aace58069889f13958dd0303e1b7c15706",
+   "ee_text": "1. 고혈압, 관상동맥의 고정폐쇄 (안정형협심증) 또는 관상혈관계의 혈관경련과 혈관수축 (이형협심증) 에 의한 심근성허혈증 2. 최근 혈관조영술로 관상동맥심질환이 확인된 환자로 심부전이 없거나 심박출량이 40% 미만이 아닌 환자의 - 협심증으로 인한 입원의 위험성 감소 - 관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:25:04Z",
+   "last_observed_at": "2026-08-28T13:25:04Z",
+   "official_revision_date": "2019-08-27"
+  },
+  {
+   "revision_id": "201900838-94ae889a",
+   "content_sha256": "94ae889a884926699a31ab3de8ebcb6877bb2ed1bba46f5d6ba6b2e063800c4f",
+   "ee_text": "1. 고혈압, 관상동맥의 고정폐쇄 (안정형협심증) 또는 관상혈관계의 혈관경련과 혈관수축 (이형협심증) 에 의한 심근성허혈증 2. 최근 혈관조영술로 관상동맥심질환이 확인된 환자로 심부전이 없거나 심박출량이 40% 미만이 아닌 환자의 - 협심증으로 인한 입원의 위험성을 감소 - 관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-02-08",
+   "first_observed_at": "2026-08-28T13:25:04Z",
+   "last_observed_at": "2026-08-28T13:25:04Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:04Z"
+}

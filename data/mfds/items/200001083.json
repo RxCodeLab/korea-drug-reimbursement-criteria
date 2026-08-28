@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001083",
+ "item_name": "하이티놀정(수출용)(수출명:틴올(Teen All)정)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20000304",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090038]의이인건조엑스|[M050704]비오틴|[M051865]인산피리독살|[M040064]니코틴산아미드|[M040133]리보플라빈",
+ "main_item_ingr_eng": "Biotin/Coix Seed Dried Extract/Nicotinamide/Pyridoxal Phosphate Hydrate/Riboflavin",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001083",
+ "revisions": [
+  {
+   "revision_id": "200001083-dafac16d",
+   "content_sha256": "dafac16d72eea01c7b41c35fa7ffcce1ea4d0912bb23b6a61f949843cea35a41",
+   "ee_text": "2 , B 6 의 보급\">",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200001083/EE",
+   "first_observed_at": "2026-08-28T13:23:53Z",
+   "last_observed_at": "2026-08-28T13:23:53Z"
+  },
+  {
+   "revision_id": "200001083-ee5fa42e",
+   "content_sha256": "ee5fa42ef6100aa51518e43066ddd78049dce6b09824e1de7555a1de485b9f45",
+   "ee_text": "거칠어진 피부, 여드름, 구내염, 구각염, 구순염, 설염, 습진, 피부염, 옻오름, 짓무름 육체피로시, 임신ㆍ수유기, 병중·병후의 체력저하시",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:53Z",
+   "last_observed_at": "2026-08-28T13:23:53Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:53Z"
+}

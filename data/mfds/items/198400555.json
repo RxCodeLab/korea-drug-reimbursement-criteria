@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198400555",
+ "item_name": "천우갈근탕엑스과립",
+ "entp_name": "천우신약(주)",
+ "permit_date": "19840625",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M085503]갈근탕건조엑스",
+ "main_item_ingr_eng": "Galgeuntang Dried Extract",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400555",
+ "revisions": [
+  {
+   "revision_id": "198400555-7d8a03ce",
+   "content_sha256": "7d8a03ce38755e51f76477e0614c40d5298c4f57bdcafd407c172c8f2d9eb83b",
+   "ee_text": "감기, 코감기, 두통, 어깨결림, 근육통, 손과 어깨통증",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z",
+   "official_revision_date": "2010-04-09"
+  },
+  {
+   "revision_id": "198400555-8c3c461b",
+   "content_sha256": "8c3c461b7a278cc5442258f786e85134d14758448378e5f45531a599fd5c90c8",
+   "ee_text": "감기, 몸살, 발열, 두통",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:39Z"
+}

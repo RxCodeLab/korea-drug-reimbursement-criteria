@@ -12,15 +12,15 @@
  "edi_code": "653601171",
  "atc_code": "N03AF02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611514",
+ "history_fetched_at": "2026-08-27T13:41:41Z",
  "revisions": [
   {
    "revision_id": "200611514-6f11df5b",
    "content_sha256": "6f11df5b48f9434ccb592853df6aa1b66e78e398af64b33c79395346c65f9a6b",
    "ee_text": "뇌전증 1. 부분발작(이차적인 전신발작을 수반하는 경우 포함) 2. 전신 강직간대발작",
-   "ee_doc_id": "30",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200611514/EE",
    "first_observed_at": "2026-08-27T13:41:41Z",
-   "last_observed_at": "2026-08-27T13:41:41Z",
-   "official_revision_date": "2022-04-05"
+   "last_observed_at": "2026-08-28T13:24:11Z"
   },
   {
    "revision_id": "200611514-88d2652a",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:41:41Z",
    "last_observed_at": "2026-08-27T13:41:41Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:41:41Z"
+ ]
 }

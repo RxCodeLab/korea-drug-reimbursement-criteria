@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201103986",
+ "item_name": "후라베린큐엑스정",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20110628",
+ "cancel_date": "20240425",
+ "status": "취하",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M223064]비스무트차질산염|[M080221]스코폴리아엑스|[M223039]베르베린염화물수화물|[M223110]아크리놀수화물",
+ "main_item_ingr_eng": "Acrinol Hydrate/Berberine Chloride Hydrate/Bismuth Subnitrate/Scopolia Extract/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A07BB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103986",
+ "revisions": [
+  {
+   "revision_id": "201103986-81db9ece",
+   "content_sha256": "81db9ece18d27790a4259303b8f7a8026284d7d47fafbb8a69ce30bcd91bbe91",
+   "ee_text": "설사, 복통(배아픔)을 수반하는 설사, 체함, 붉은 변, 토사",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:26Z",
+   "last_observed_at": "2026-08-28T13:24:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:26Z"
+}

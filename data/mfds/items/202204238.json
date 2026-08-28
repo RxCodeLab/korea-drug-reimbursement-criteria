@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204238",
+ "item_name": "셀디아정",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20221124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M210377]아셀렌산나트륨오수화물|[M099907]콜레칼시페롤과립|[M243785]산화아연",
+ "main_item_ingr_eng": "Cholecalciferol Granules/Sodium Selenite Pentahydrate/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11CC55",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204238",
+ "revisions": [
+  {
+   "revision_id": "202204238-9797cc33",
+   "content_sha256": "9797cc33a87bf74a090f96299800ef9311f3d07621fc57c22b3919f2d7aaff33",
+   "ee_text": "- 임신ㆍ수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ 뼈, 이의 발육불량 ㆍ 구루병의 예방",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:25:31Z",
+   "last_observed_at": "2026-08-28T13:25:31Z",
+   "official_revision_date": "2025-06-13"
+  },
+  {
+   "revision_id": "202204238-72a1a427",
+   "content_sha256": "72a1a427315174cbd9a89d4e42de9ff5cf48e37df55163c8037e58b376e314ab",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신ㆍ수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ 뼈, 이의 발육불량 ㆍ 구루병의 예방",
+   "ee_doc_id": "1",
+   "official_revision_date": "2022-11-24",
+   "first_observed_at": "2026-08-28T13:25:31Z",
+   "last_observed_at": "2026-08-28T13:25:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:31Z"
+}

@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "L01XK04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005547",
+ "history_fetched_at": "2026-08-27T12:25:32Z",
  "revisions": [
   {
    "revision_id": "202005547-493d3dd8",
    "content_sha256": "493d3dd87fda826c8869167674d056397d2af2937cf0163704c5d6ab419039af",
    "ee_text": "전이성 거세 저항성 전립선암 진단 후 항암화학요법 치료 경험이 없는 상동재조합 복구(HRR) 유전자 변이 전이성 거세 저항성 전립선암 성인 환자의 치료에 엔잘루타마이드와 병용요법으로 투여한다.",
-   "ee_doc_id": "27",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202005547/EE",
    "first_observed_at": "2026-08-27T12:25:32Z",
-   "last_observed_at": "2026-08-27T12:25:32Z",
-   "official_revision_date": "2026-07-02"
+   "last_observed_at": "2026-08-28T13:25:21Z"
   },
   {
    "revision_id": "202005547-39001c32",
@@ -40,6 +40,5 @@
    "first_observed_at": "2026-08-27T12:25:32Z",
    "last_observed_at": "2026-08-27T12:25:32Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:25:32Z"
+ ]
 }

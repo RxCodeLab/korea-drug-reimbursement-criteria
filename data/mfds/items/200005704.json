@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005704",
+ "item_name": "크로닉엑스과립(진무탕)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000929",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040007]건강|[M040214]백출|[M201585]정제부자|[M040523]작약|[M040225]복령",
+ "main_item_ingr_eng": "Atractylodes Rhizome White/Ginger/Peony Root/Poria/Pulvis Aconiti Tuberis Purificaum",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005704",
+ "revisions": [
+  {
+   "revision_id": "200005704-ad4ec789",
+   "content_sha256": "ad4ec78962981464381ee4972037541430d25a5d35ea18829c10a989bb6e9634",
+   "ee_text": "신진대사기능의 쇠퇴로 인하여 사지나 허리가 냉하고, 피로감이 심하고, 요량이 감소하여 설사하기 쉽고, 두근거림이나 어지러움을 수반하는 다음 증상 : 위장허약, 만성 위장카타르",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:57Z"
+}

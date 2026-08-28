@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500948",
+ "item_name": "이로마정",
+ "entp_name": "성이바이오제약주식회사",
+ "permit_date": "20250421",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M040306]수산화마그네슘",
+ "main_item_ingr_eng": "Magnesium Hydroxide/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A06AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500948",
+ "revisions": [
+  {
+   "revision_id": "202500948-bc163800",
+   "content_sha256": "bc163800d4459d8d272df77731ac288c5bedacc03c2d72d9abb8d76578b9a240",
+   "ee_text": "• 변비 • 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부(배부분)팽만, 장내이상발효, 치질",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:25:37Z",
+   "last_observed_at": "2026-08-28T13:25:37Z",
+   "official_revision_date": "2025-11-20"
+  },
+  {
+   "revision_id": "202500948-ec52a178",
+   "content_sha256": "ec52a1780db0390e94cdaec6f1b7b5dd00e1be649f345c6a3095fcb0bc2d43c5",
+   "ee_text": "• 변비 • 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "1",
+   "official_revision_date": "2025-04-21",
+   "first_observed_at": "2026-08-28T13:25:37Z",
+   "last_observed_at": "2026-08-28T13:25:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:37Z"
+}

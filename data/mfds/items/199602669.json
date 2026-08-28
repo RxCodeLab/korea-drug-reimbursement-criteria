@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199602669",
+ "item_name": "크래밍정(수출명:MigralTab.)",
+ "entp_name": "지엘파마(주)",
+ "permit_date": "19961017",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223126]에르고타민타르타르산염|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Ergotamine Tartrate",
+ "edi_code": "649700890",
+ "atc_code": "N02CA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602669",
+ "revisions": [
+  {
+   "revision_id": "199602669-3f3d312d",
+   "content_sha256": "3f3d312d0147768e46b73147710880bd2b5574e246cdcfcfc20260b602b518b6",
+   "ee_text": "편두통",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:23:47Z",
+   "last_observed_at": "2026-08-28T13:23:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:47Z"
+}

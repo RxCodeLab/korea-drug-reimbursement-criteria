@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000228",
+ "item_name": "새로겐타크림",
+ "entp_name": "안국약품(주)",
+ "permit_date": "19801210",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M202821]겐타마이신황산염|[M200675]베타메타손디프로피오네이트",
+ "main_item_ingr_eng": "Betamethasone Dipropionate/Gentamicin Sulfate",
+ "edi_code": "",
+ "atc_code": "D07CC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000228",
+ "revisions": [
+  {
+   "revision_id": "198000228-c285a7e2",
+   "content_sha256": "c285a7e2e1388284842fb670237cc85a6a32cdca168c4fb359e0529c3901e971",
+   "ee_text": "겐타마이신 감수성 세균에 의한 2차 감염 또는 감염의 위험이 있는 코르티코이드 반응성 피부질환 : 알레르기피부염., 접촉피부염,아토피피부염,지루피부염,습진,간찰진,박탈피부염,만성단순태선(신경피부염)",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:38Z"
+}

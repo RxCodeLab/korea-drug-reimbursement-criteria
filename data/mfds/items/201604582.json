@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604582",
+ "item_name": "에이케어정4.98밀리그램(솔리페나신푸마르산염)",
+ "entp_name": "(주)코아팜바이오",
+ "permit_date": "20160725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M118313]솔리페나신푸마르산염",
+ "main_item_ingr_eng": "Solifenacin Fumarate",
+ "edi_code": "051700040",
+ "atc_code": "G04BD08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604582",
+ "revisions": [
+  {
+   "revision_id": "201604582-c23652f7",
+   "content_sha256": "c23652f7813728292e4e9ec5d0522f3bb5f8ec0ffd99324ac17b3a9d5b76ad5c",
+   "ee_text": "절박성 뇨실금, 빈뇨, 요절박과 같은 과민성방광증상의 치료",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:51Z",
+   "last_observed_at": "2026-08-28T13:24:51Z",
+   "official_revision_date": "2017-11-24"
+  },
+  {
+   "revision_id": "201604582-0b4e5ae1",
+   "content_sha256": "0b4e5ae19bbdc5b5efb4a3a3d9f22e9cd3fe65b12457c7bdb8ac716983d98cfe",
+   "ee_text": "절박성 뇨실금, 빈뇨, 요적박과 같은 과민성방광증상의 치료",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:51Z",
+   "last_observed_at": "2026-08-28T13:24:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:51Z"
+}

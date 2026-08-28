@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502779",
+ "item_name": "제놀원카타플라스마",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20050324",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223240]토코페롤아세테이트|[M204423]dl-캄파|[M230875]l-멘톨|[M070611]살리실산글리콜|[M223240]토코페롤아세테이트|[M204423]dl-캄파|[M230875]l-멘톨|[M070611]살리실산글리콜",
+ "main_item_ingr_eng": "DL-Camphor/Glycol Salicylate/L-Menthol/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502779",
+ "revisions": [
+  {
+   "revision_id": "200502779-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502779/EE",
+   "first_observed_at": "2026-08-28T13:24:08Z",
+   "last_observed_at": "2026-08-28T13:24:08Z"
+  },
+  {
+   "revision_id": "200502779-0d0668da",
+   "content_sha256": "0d0668da064fd75ef0f45b725ba0cfda74b4a79eb3f97128180f72da495c0bf9",
+   "ee_text": ": 타박상, 삠, 요[허리]통, 어깨결림, 근육통, 근육피로, 관절통, 동창[언 상처]",
+   "ee_doc_id": "20",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:08Z",
+   "last_observed_at": "2026-08-28T13:24:08Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:08Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901973",
+ "item_name": "더게인정",
+ "entp_name": "(주)바이넥스",
+ "permit_date": "20190401",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243785]산화아연|[M249150]d-비오틴",
+ "main_item_ingr_eng": "D-Biotin/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11JB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901973",
+ "revisions": [
+  {
+   "revision_id": "201901973-e8f37f23",
+   "content_sha256": "e8f37f23e75fd8472d5c247a36cb7821993408bb5c15bf0726cd63c872f3dde2",
+   "ee_text": "○ 아연의 보급",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:05Z",
+   "last_observed_at": "2026-08-28T13:25:05Z",
+   "official_revision_date": "2019-04-01"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:05Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008684",
+ "item_name": "에너아이액",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20201210",
+ "cancel_date": "20251210",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M258282]dl-카르니틴염산염|[M102908]타우린|[M222869]아스파르트산마그네슘수화물|[M222996]리보플라빈포스페이트나트륨|[M204304]피리독신염산염|[M222935]글루콘산칼슘수화물|[M103060]L-트레오닌|[M222998]L-리신염산염",
+ "main_item_ingr_eng": "Calcium Gluconate Hydrate/DL-Carnitine Hydrochloride/L-Lysine Hydrochloride/L-Threonine/Magnesium Aspartate Hydrate/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Taurine",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008684",
+ "revisions": [
+  {
+   "revision_id": "202008684-d52823a2",
+   "content_sha256": "d52823a2f21fd5840716e702c907ebfd6a1d4bf33f7c03b860b2e53efca298c5",
+   "ee_text": "발열성소모성 질환, 병중병후, 소아의 발육기, 편식아동, 식욕부진, 영양장애 등의 경우의 영양보급, 자양강장, 허약체질",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:22Z",
+   "last_observed_at": "2026-08-28T13:25:22Z",
+   "official_revision_date": "2020-12-10"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:22Z"
+}

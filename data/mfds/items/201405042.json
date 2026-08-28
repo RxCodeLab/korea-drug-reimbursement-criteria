@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405042",
+ "item_name": "메이킨큐장용정",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20141030",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M081950]도큐세이트나트륨|[M201737]카산트라놀|[M050687]비사코딜",
+ "main_item_ingr_eng": "Bisacodyl/Casanthranol/Docusate Sodium/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405042",
+ "revisions": [
+  {
+   "revision_id": "201405042-e82d2aef",
+   "content_sha256": "e82d2aef0b8cdf0a76dbe9e0df921896309319b5a488ba50cb4b4e91a70c909a",
+   "ee_text": "- 변비 - 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:39Z",
+   "last_observed_at": "2026-08-28T13:24:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:39Z"
+}

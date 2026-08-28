@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805285",
+ "item_name": "암로비카에이치씨티정10/40/12.5밀리그램",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20181226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222875]암로디핀베실산염|[M257074]올메사르탄메독소밀|[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Amlodipine Besylate/Hydrochlorothiazide/Olmesartan Medoxomil",
+ "edi_code": "653404260",
+ "atc_code": "C09DX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805285",
+ "revisions": [
+  {
+   "revision_id": "201805285-c7244a84",
+   "content_sha256": "c7244a84ca2c930acd9acd4ac083d6254a81e7c3118eb2e8da22732700ee9258",
+   "ee_text": "암로디핀과 올메사르탄메독소밀의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:02Z",
+   "last_observed_at": "2026-08-28T13:25:02Z",
+   "official_revision_date": "2018-12-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:02Z"
+}

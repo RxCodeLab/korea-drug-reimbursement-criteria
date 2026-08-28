@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302514",
+ "item_name": "그린헥시딘액5%(클로르헥시딘글루콘산염액)",
+ "entp_name": "(주)그린제약",
+ "permit_date": "20031023",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "",
+ "atc_code": "D08AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302514",
+ "revisions": [
+  {
+   "revision_id": "200302514-f859d10d",
+   "content_sha256": "f859d10db90c08aead3b6973ae6fd355d48ff0c19a06a449b8e94c2032318143",
+   "ee_text": "- 손 및 피부의 소독(보건위생종사자 및 수술 시 수술자의 손 소독, 수술부위 피부의 소독은 제외) - 의료용구의 소독 - 가구, 기구 등의 소독 - 피부의 창상부위 소독",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z",
+   "official_revision_date": "2019-10-18"
+  },
+  {
+   "revision_id": "200302514-d282e43c",
+   "content_sha256": "d282e43cd88bd4c5f2afa382e16ea5ec629e6d59dfb3ab073eea0d0ab1e52a7f",
+   "ee_text": "수술시 수술자 및 보건위생종사자의 손 소독 - 손 및 피부의 소독 - 수술부위의 피부소독 - 의료용구의 소독 - 가구, 기구 등의 소독 - 피부의 창상부위 소독 - 손 및 피부의 소독 - 수술부위의 피부소독 - 의료용구의 소독 - 가구, 기구 등의 소독 - 피부의 창상부위 소독 - 산부인과, 비뇨기과에서의 외음, 외성기의 피부소독 좁은 범위 피부의 창상부위 소독",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

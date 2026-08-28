@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200202423",
+ "item_name": "탈스탑캡슐",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20020208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M099577]스코폴리아엑스10배산|[M223064]비스무트차질산염|[M223040]베르베린탄닌산염",
+ "main_item_ingr_eng": "Berberine Tannate/Bismuth Subnitrate/Scopolia Extract Powder 10%/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A07BB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202423",
+ "revisions": [
+  {
+   "revision_id": "200202423-dc03f3ab",
+   "content_sha256": "dc03f3abf43415a9ed48df8a08df1d7de2f0b69181b76ae1e8c66e60cc623004",
+   "ee_text": "설사, 복통을 수반하는 설사, 식체, 묽은 변, 토사",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

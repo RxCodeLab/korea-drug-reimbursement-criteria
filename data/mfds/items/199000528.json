@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199000528",
+ "item_name": "로맨씨산",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "19901105",
+ "cancel_date": "20231027",
+ "status": "취하",
+ "main_item_ingr": "[M200412]로얄젤리|[M234001]아스코르브산과립97%|[M090847]비타민E",
+ "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Royal Jelly/Tocopherol",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000528",
+ "revisions": [
+  {
+   "revision_id": "199000528-47c92763",
+   "content_sha256": "47c92763ac93dbcb948464c8f9201c600f6d4fec7b67e6e5aaf54f4e6c803c41",
+   "ee_text": "o 다음 경우의 비타민 E. C의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하 시 - 노년기 - 이 약에 함유된 비타민 등의 효능효과는 다음과 같다 ㆍ햇빛ㆍ피부병 등에 의한 색소침착(기미, 주근깨)의 완화 ㆍ잇몸출혈ㆍ비출혈(코피) 예방",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z",
+   "official_revision_date": "2021-10-08"
+  },
+  {
+   "revision_id": "199000528-50c46dba",
+   "content_sha256": "50c46dba5a106f59ed118737a973b803dc9b65b0462f8334c87767fb9551f59c",
+   "ee_text": "- 다음 증상의 완화 : 기미, 주근깨 및 햇볕에 의한 색소침착 - 잇몸출혈 예방 - 다음 경우의 비타민C 보급 : 육체피로, 임신ㆍ수유기, 병중ㆍ병후의 체력저하시",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:43Z"
+}

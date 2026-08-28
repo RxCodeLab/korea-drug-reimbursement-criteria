@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902533",
+ "item_name": "인티진정(레보세티리진염산염)",
+ "entp_name": "(주)이든파마",
+ "permit_date": "20190423",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244596]레보세티리진염산염",
+ "main_item_ingr_eng": "Levocetirizine Hydrochloride",
+ "edi_code": "628901250",
+ "atc_code": "R06AE09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902533",
+ "revisions": [
+  {
+   "revision_id": "201902533-3bd80402",
+   "content_sha256": "3bd80402071fe194bdba710f31b9902c259a60f109459e4b4831683774a5b79c",
+   "ee_text": "다음 질환의 증상 완화 1. 계절성 알레르기성 비염 또는 다년성 알레르기성 비염(지속적 알레르기성 비염 포함) 2. 만성 특발성 두드러기 3. 가려움증을 동반한 피부염 및 습진(하이드로코티손 외용제와 병용)",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:25:06Z",
+   "last_observed_at": "2026-08-28T13:25:06Z",
+   "official_revision_date": "2021-07-21"
+  },
+  {
+   "revision_id": "201902533-61ce5d0e",
+   "content_sha256": "61ce5d0e15d258dc443eeb735e94af3a18942cfc2c4d4f554edbf10891b1f902",
+   "ee_text": "다음 질환의 증상 완화",
+   "ee_doc_id": "5",
+   "official_revision_date": "2021-07-21",
+   "first_observed_at": "2026-08-28T13:25:06Z",
+   "last_observed_at": "2026-08-28T13:25:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:06Z"
+}

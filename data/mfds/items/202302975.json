@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302975",
+ "item_name": "이텍스올메사탄정10밀리그램(올메사르탄메독소밀)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20231024",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269761]올메사르탄메독소밀",
+ "main_item_ingr_eng": "Olmesartan Medoxomil",
+ "edi_code": "698504850",
+ "atc_code": "C09CA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302975",
+ "revisions": [
+  {
+   "revision_id": "202302975-3859dffe",
+   "content_sha256": "3859dffee397d96935ea09c3a25ae294c29d034af7621b50d3089db7545fe7da",
+   "ee_text": "본태성 고혈압의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:35Z",
+   "last_observed_at": "2026-08-28T13:25:35Z",
+   "official_revision_date": "2023-10-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:35Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300961",
+ "item_name": "헤모콤플러스연질캡슐(수출명: COMHEMO)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20030424",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254564]폴리말토오스수산화제이철착염|[M223289]폴산",
+ "main_item_ingr_eng": "Ferric Hydroxide Polymaltose Complex/Folic Acid",
+ "edi_code": "",
+ "atc_code": "B03AD04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300961",
+ "revisions": [
+  {
+   "revision_id": "200300961-1681c4cf",
+   "content_sha256": "1681c4cfa0daf817c00737ea1b0f63d6a0af5071aa3e2dca44878822c03a789f",
+   "ee_text": "철 결핍성 빈혈",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:02Z"
+}

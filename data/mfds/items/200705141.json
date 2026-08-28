@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200705141",
+ "item_name": "베라카인스프레이(리도카인)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20070503",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "657400120",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705141",
+ "revisions": [
+  {
+   "revision_id": "200705141-3834bd82",
+   "content_sha256": "3834bd824fb9526678f76d2e76f679e28dbdb636e0dfff477c7b3d5882b3c3bc",
+   "ee_text": "1. 치과 영역 : 주사전, 치과 인상(dental impressions), X-선 촬영, 치석 제거 2. 이비인후과 영역 : 상악동 천자, 비강, 인두 및 상인두의 간단한 외과적 처치, 천자술 3. 호흡기 및 소화기관에 기구 및 카테터 삽입시 : 기관내 튜브삽입, 후두경, 기관경 및 식도경 4. 산부인과 영역 : 분만최종단계, 회음절개술 및 회음봉합술 전의 진통 보조",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:24:13Z",
+   "last_observed_at": "2026-08-28T13:24:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:13Z"
+}

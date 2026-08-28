@@ -12,15 +12,15 @@
  "edi_code": "651600895",
  "atc_code": "A05BA06",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198601922",
+ "history_fetched_at": "2026-08-27T13:52:26Z",
  "revisions": [
   {
    "revision_id": "198601922-65212b83",
    "content_sha256": "65212b83d88eccffe03d623504034f66c67fba0acc2a26579626461555cc800b",
    "ee_text": "중증의 간질환 해독의 보조 치료 (예: 간경변)",
-   "ee_doc_id": "27",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198601922/EE",
    "first_observed_at": "2026-08-27T13:52:26Z",
-   "last_observed_at": "2026-08-27T13:52:26Z",
-   "official_revision_date": "2021-06-07"
+   "last_observed_at": "2026-08-28T13:23:41Z"
   },
   {
    "revision_id": "198601922-16423b66",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:52:26Z",
    "last_observed_at": "2026-08-27T13:52:26Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:52:26Z"
+ ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500392",
+ "item_name": "프리카바캡슐(수출용)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "19850826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040059]노스카핀|[M223211]클로르페니라민말레산염|[M050468]염산메톡시페나민|[M050302]디프로필린",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/Diprophylline/Methoxyphenamine Hydrochloride/Noscapine",
+ "edi_code": "",
+ "atc_code": "R03D",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500392",
+ "revisions": [
+  {
+   "revision_id": "198500392-196bf4cd",
+   "content_sha256": "196bf4cd0e4c2e671e69ddc106ce8ac14b96bb15a07285756469ecce456800ea",
+   "ee_text": "다음 질환에서의 기침 및 기도폐쇄증상 : 기관지천식(중증발작시는 제외), 천식성기관지염, 급·만성기관지염, 감기, 상기도염",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:40Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801686",
+ "item_name": "리도카겔(리도카인)",
+ "entp_name": "오스템파마주식회사",
+ "permit_date": "20180420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "053500130",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801686",
+ "revisions": [
+  {
+   "revision_id": "201801686-84c40fc2",
+   "content_sha256": "84c40fc27762957bb7499ea05792f4f11f08879d4b58d940c22de3c997b7a9ef",
+   "ee_text": "- 침윤마취 - 치관 및 가공의치의 절단 및 설치 - 잇몸근처 및 잇몸하 스케일링\" />",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2018-04-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

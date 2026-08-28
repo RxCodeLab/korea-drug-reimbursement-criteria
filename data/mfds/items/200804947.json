@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200804947",
+ "item_name": "배노신캡슐(배농산급탕)",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20080430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M212865]이상물건조엑스|[M040536]지실|[M040007]건강|[M040523]작약|[M040071]대추|[M040006]감초|[M040048]길경",
+ "main_item_ingr_eng": "As Dried Extract/Ginger/Jujube/Licorice/Peony Root/Platycodon Root/Poncirus Immature Fruit",
+ "edi_code": "",
+ "atc_code": "J01XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804947",
+ "revisions": [
+  {
+   "revision_id": "200804947-d2110385",
+   "content_sha256": "d2110385036389b77d20080807919898e021f5195c9a84b1705172a3760f4c56",
+   "ee_text": "발적(충혈되어 붉어짐), 부기, 단단해지고 통증을 수반하는 화농성질환",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z",
+   "official_revision_date": "2010-04-09"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:16Z"
+}

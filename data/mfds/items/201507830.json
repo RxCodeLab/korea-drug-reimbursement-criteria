@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507830",
+ "item_name": "복합무조메에스겔",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20151123",
+ "cancel_date": "20251123",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M085155]시클로피록스올아민|[M222842]리도카인염산염수화물|[M040264]살리실산",
+ "main_item_ingr_eng": "Ciclopirox Olamine/Lidocaine Hydrochloride Hydrate/Salicylic Acid",
+ "edi_code": "",
+ "atc_code": "D01AE",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507830",
+ "revisions": [
+  {
+   "revision_id": "201507830-4a196b2a",
+   "content_sha256": "4a196b2a80dc2aeb39962bf101a0a282af9157ac366e29735e1c79e5d41ea4fd",
+   "ee_text": "무좀, 완선(사타구니백선), 체부백선",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:46Z",
+   "last_observed_at": "2026-08-28T13:24:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:46Z"
+}

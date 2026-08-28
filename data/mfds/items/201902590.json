@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902590",
+ "item_name": "비카베라포도당4.25% 칼슘1.75mmol/L 복막투석액",
+ "entp_name": "(주)프레제니우스메디칼케어코리아",
+ "permit_date": "20190425",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207094]탄산수소나트륨|[M083749]염화칼슘이수화물|[M102093]염화마그네슘육수화물|[M201934]포도당수화물|[M040426]염화나트륨|[M207094]탄산수소나트륨|[M201934]포도당수화물|[M102093]염화마그네슘육수화물|[M083749]염화칼슘이수화물|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose Hydrate/Magnesium Chloride Hexahydrate/Sodium Bicarbonate/Sodium Chloride",
+ "edi_code": "664300641",
+ "atc_code": "B05DB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902590",
+ "revisions": [
+  {
+   "revision_id": "201902590-762fe818",
+   "content_sha256": "762fe818b90c33cc999ac0106f93fb957e44a284f5f49729d3c3969e16615716",
+   "ee_text": "만성신부전환자의 복막투석액",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:25:06Z",
+   "last_observed_at": "2026-08-28T13:25:06Z",
+   "official_revision_date": "2019-06-10"
+  },
+  {
+   "revision_id": "201902590-f22ade87",
+   "content_sha256": "f22ade87690d953f1476878de48bf179cc85678acd7b4f76474ef863bba4fe8e",
+   "ee_text": "만성신부전환자의 복막투석",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-04-25",
+   "first_observed_at": "2026-08-28T13:25:06Z",
+   "last_observed_at": "2026-08-28T13:25:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:06Z"
+}

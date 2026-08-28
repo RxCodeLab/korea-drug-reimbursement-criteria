@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199702967",
+ "item_name": "현대물파스에프",
+ "entp_name": "현대약품(주)",
+ "permit_date": "19970923",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215133]에녹솔론|[M223240]토코페롤아세테이트|[M223211]클로르페니라민말레산염|[M230875]l-멘톨|[M204423]dl-캄파|[M203279]살리실산메틸|[M215133]에녹솔론|[M203279]살리실산메틸|[M204423]dl-캄파|[M230875]l-멘톨|[M223211]클로르페니라민말레산염|[M223240]토코페롤아세테이트",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/DL-Camphor/Enoxolone/L-Menthol/Methyl Salicylate/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702967",
+ "revisions": [
+  {
+   "revision_id": "199702967-e8c1c2f7",
+   "content_sha256": "e8c1c2f7793ef783232381d86848e976abe1436213eb44547ac74fc7873ab21c",
+   "ee_text": "- 다음 증상의 진통·소염 : 삠, 타박상, 근육통, 관절통, 골절통, 요통, 어깨결림, 신경통, 류마티스통증 - 피부가려움, 벌레물린데 - 동창",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-28T13:23:49Z",
+   "last_observed_at": "2026-08-28T13:23:49Z",
+   "official_revision_date": "2021-06-30"
+  },
+  {
+   "revision_id": "199702967-481d3a65",
+   "content_sha256": "481d3a650e4758978de62fab16bdd25d082083ec56aa0e4cbcd09779fc990a0c",
+   "ee_text": "- 다음 증상의 소염ㆍ진통 : 삠, 타박상, 근육통, 요통, 어깨결림, 신경통, 류마티스통증 - 동창",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:49Z",
+   "last_observed_at": "2026-08-28T13:23:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:49Z"
+}

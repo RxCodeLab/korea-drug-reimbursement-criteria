@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200104074",
+ "item_name": "사브린엑스과립(소함흉탕)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20010915",
+ "cancel_date": "20250401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M096303]괄루인|[M040792]황련|[M040202]반하",
+ "main_item_ingr_eng": "Coptis Rhizome/Pinellia Tuber/Trichosanthes Seed",
+ "edi_code": "",
+ "atc_code": "R07AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200104074",
+ "revisions": [
+  {
+   "revision_id": "200104074-c4a26d29",
+   "content_sha256": "c4a26d29b5c97dab90757abe57855f3d9d1360f836a23db4c996ed1aac9645ce",
+   "ee_text": "흉복통(심하부 긴장압통), 기관지염, 늑간신경통(갈비뼈 사이 신경통)",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:59Z",
+   "last_observed_at": "2026-08-28T13:23:59Z",
+   "official_revision_date": "2019-06-04"
+  },
+  {
+   "revision_id": "200104074-47489c10",
+   "content_sha256": "47489c10fd7fa33c54dfd1a4b34b5047ade7de49e3ff6c71f1d9f53a592fee15",
+   "ee_text": "흉복통(심하부 긴장압통), 기관지염, 늑간신경통",
+   "ee_doc_id": "8",
+   "official_revision_date": "2009-04-30",
+   "first_observed_at": "2026-08-28T13:23:59Z",
+   "last_observed_at": "2026-08-28T13:23:59Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:59Z"
+}

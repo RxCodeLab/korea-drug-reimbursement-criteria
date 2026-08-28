@@ -12,15 +12,15 @@
  "edi_code": "677200101",
  "atc_code": "L04AD02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511275",
+ "history_fetched_at": "2026-08-27T12:33:30Z",
  "revisions": [
   {
    "revision_id": "200511275-49cf747f",
    "content_sha256": "49cf747f8bcdeecfb1d5050ade158c70945a0022d1028df31b5b2ba92fb3602b",
    "ee_text": "- 조직이식 거부반응 방지 - 이식편대숙주질환(graft versus-host disease, GVHD) 방지",
-   "ee_doc_id": "41",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200511275/EE",
    "first_observed_at": "2026-08-27T12:33:30Z",
-   "last_observed_at": "2026-08-27T12:33:30Z",
-   "official_revision_date": "2022-11-18"
+   "last_observed_at": "2026-08-28T13:24:09Z"
   },
   {
    "revision_id": "200511275-5bced8cb",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:33:30Z",
    "last_observed_at": "2026-08-27T12:33:30Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:33:30Z"
+ ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200004501",
+ "item_name": "패감산과립(인삼패독산)",
+ "entp_name": "한솔신약(주)",
+ "permit_date": "20000315",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040225]복령|[M040550]천궁|[M040048]길경|[M051351]지각|[M050227]독활|[M050022]강활|[M051318]전호|[M040336]시호|[M211272]이상 수침연조엑스|[M040006]감초|[M051291]인삼",
+ "main_item_ingr_eng": "Aralia Continentalis Root/As Soft Extract/Aurantii Fructus Immaturus/Bupleurum Root/Cnidium Rhizome/Ginseng/Licorice/Ostericum Root/Peucedani Radix/Platycodon Root/Poria",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004501",
+ "revisions": [
+  {
+   "revision_id": "200004501-0e31fc14",
+   "content_sha256": "0e31fc14a52624ff6ab58b81a082d78665961f508221801f73ca35ce4ae65c95",
+   "ee_text": "감기로 인한 몸살, 발열, 두통",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

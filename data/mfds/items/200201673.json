@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201673",
+ "item_name": "한신마석환(마행감석탕)",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20021212",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040279]석고|[M040006]감초|[M040769]행인|[M040135]마황",
+ "main_item_ingr_eng": "Apricot Kernel/Ephedra Herb/Gypsum Fibrosum/Licorice",
+ "edi_code": "",
+ "atc_code": "R03DX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201673",
+ "revisions": [
+  {
+   "revision_id": "200201673-7b80799a",
+   "content_sha256": "7b80799aac2565cb824871aa5f7794ce80fabb28d259d7c6b7f8cdf6d1bb9332",
+   "ee_text": "기관지천식",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2009-04-30"
+  },
+  {
+   "revision_id": "200201673-c6bd317d",
+   "content_sha256": "c6bd317df7e8ff13f6456b2d86ba1652d12ee58723b70157b4ab04f2bbf62587",
+   "ee_text": "(과립제) 기관지천식, 소아천식 (환제) 기관지천식",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008415",
+ "item_name": "로제코연질캡슐",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20201201",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261637]오메가3산에틸에스테르90|[M095744]로수바스타틴칼슘",
+ "main_item_ingr_eng": "Omega-3-Acid Ethyl Esters 90/Rosuvastatin Calcium",
+ "edi_code": "645405790",
+ "atc_code": "C10BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008415",
+ "revisions": [
+  {
+   "revision_id": "202008415-7596f8da",
+   "content_sha256": "7596f8da5b305bcc25c8e20d592f35654967cf8db63f5ec7d55a2b996c4d2d64",
+   "ee_text": "관상동맥심질환(CHD) 고위험이 있는 성인 환자에서 로수바스타틴 단일치료요법 시 LDL-콜레스테롤 수치는 적절히 조절되지만 트리글리세라이드 수치가 적절히 조절되지 않는 복합형(IIb) 이상지질혈증의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:22Z",
+   "last_observed_at": "2026-08-28T13:25:22Z",
+   "official_revision_date": "2020-12-01"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:22Z"
+}

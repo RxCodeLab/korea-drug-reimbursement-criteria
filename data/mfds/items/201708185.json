@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708185",
+ "item_name": "일양투아이블루점안액",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20171130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203443]아미노카프로산|[M223211]클로르페니라민말레산염|[M222940]네오스티그민메틸황산염|[M222937]나파졸린염산염",
+ "main_item_ingr_eng": "Aminocaproic Acid/Chlorpheniramine Maleate/Naphazoline Hydrochloride/Neostigmine Methylsulfate",
+ "edi_code": "",
+ "atc_code": "S01CC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708185",
+ "revisions": [
+  {
+   "revision_id": "201708185-b50fbd49",
+   "content_sha256": "b50fbd499e9d4ee5c1b5aa55148eb13cbba1f4516dbb44c0e07c10668d3e685b",
+   "ee_text": "눈의 피로, 결막충혈, 수영 후 눈의 불쾌감 또는 먼지나 땀이 눈에 들어갔을 때, 자외선 및 기타광선에 의한 눈의 염증, 눈꺼풀의 짓무름, 하드콘택트렌즈를 착용 시 불쾌감, 눈의 가려움, 눈의 침침함(눈곱이 많을 때 등)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:58Z",
+   "last_observed_at": "2026-08-28T13:24:58Z",
+   "official_revision_date": "2017-11-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:58Z"
+}

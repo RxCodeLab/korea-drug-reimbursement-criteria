@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200902803",
+ "item_name": "루버스트정(수출용)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20090421",
+ "cancel_date": "20240429",
+ "status": "취하",
+ "main_item_ingr": "[M254960]시프로헵타딘오로트산염수화물|[M222998]L-리신염산염|[M246203]DL-카르니틴염산염|[M086692]시아노코발라민",
+ "main_item_ingr_eng": "Cyanocobalamin/Cyproheptadine Orotate Hydrate/DL-Carnitine Hydrochloride/L-Lysine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902803",
+ "revisions": [
+  {
+   "revision_id": "200902803-a012de41",
+   "content_sha256": "a012de41f1b06ae3f14df390edec0d1238e4ba2a2d707416967f29a225e2c3b5",
+   "ee_text": ". 식욕부진, 성장부진",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:21Z"
+}

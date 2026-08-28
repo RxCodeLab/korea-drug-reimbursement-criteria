@@ -12,15 +12,15 @@
  "edi_code": "643600900",
  "atc_code": "A02BX05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202791",
+ "history_fetched_at": "2026-08-27T11:56:58Z",
  "revisions": [
   {
    "revision_id": "200202791-a2ee337d",
    "content_sha256": "a2ee337d40654e8fb84abf8745022b95d842fdab6163a2a08682a95f7f52a55a",
    "ee_text": "위·십이지장 궤양 환자에서 헬리코박터파일로리 박멸을 위한 항생제 병용요법",
-   "ee_doc_id": "21",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200202791/EE",
    "first_observed_at": "2026-08-27T11:56:58Z",
-   "last_observed_at": "2026-08-27T11:56:58Z",
-   "official_revision_date": "2022-03-10"
+   "last_observed_at": "2026-08-28T13:24:00Z"
   },
   {
    "revision_id": "200202791-88081ec4",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T11:56:58Z",
    "last_observed_at": "2026-08-27T11:56:58Z"
   }
- ],
- "history_fetched_at": "2026-08-27T11:56:58Z"
+ ]
 }

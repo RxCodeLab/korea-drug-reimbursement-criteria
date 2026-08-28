@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200701829",
+ "item_name": "헥시타놀0.5%액",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20070209",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액|[M284425]에탄올(95)",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution/Ethanol 95%",
+ "edi_code": "",
+ "atc_code": "D08AC52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701829",
+ "revisions": [
+  {
+   "revision_id": "200701829-3027d4b2",
+   "content_sha256": "3027d4b2da461768b50006b57e506007a121ae0f46ccb2cb581ef163d308d515",
+   "ee_text": "국소 피부 소독",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:11Z",
+   "last_observed_at": "2026-08-28T13:24:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:11Z"
+}

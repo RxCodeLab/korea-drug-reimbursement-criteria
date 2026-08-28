@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "A10BD24",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803606",
+ "history_fetched_at": "2026-08-27T12:52:15Z",
  "revisions": [
   {
    "revision_id": "201803606-a271bef5",
    "content_sha256": "a271bef53fcaf288b3666f679c3d4c57e7d3df965d03e2e5e2b92930d2161a34",
    "ee_text": "이 약은 에르투글리플로진과 시타글립틴의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 혈당이 충분히 조절되지 않는 제2형 당뇨병 환자 중 심혈관계 질환이 확인된 환자에서 심혈관계 사건 발생에 대한 영향은 ‘사용상의 주의사항, 14. 전문가를 위한 정보, 3) 임상시험 정보’ 항을 참고한다.",
-   "ee_doc_id": "19",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201803606/EE",
    "first_observed_at": "2026-08-27T12:52:15Z",
-   "last_observed_at": "2026-08-27T12:52:15Z",
-   "official_revision_date": "2022-12-16"
+   "last_observed_at": "2026-08-28T13:25:01Z"
   },
   {
    "revision_id": "201803606-3a3489a0",
@@ -40,6 +40,5 @@
    "first_observed_at": "2026-08-27T12:52:15Z",
    "last_observed_at": "2026-08-27T12:52:15Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:52:15Z"
+ ]
 }

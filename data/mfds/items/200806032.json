@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806032",
+ "item_name": "톨마주(트라마돌염산염)(수출용)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20080530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222893]트라마돌염산염|[M222893]트라마돌염산염",
+ "main_item_ingr_eng": "Tramadol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806032",
+ "revisions": [
+  {
+   "revision_id": "200806032-52bda490",
+   "content_sha256": "52bda490d2e67b5a95cd0323940ac8d1efd6bbaa880b652499086be5dcfdd515",
+   "ee_text": "중증 및 중등도의 급만성 동통 (각종 암 등) 진단 및 수술 후 동통",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:17Z",
+   "last_observed_at": "2026-08-28T13:24:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:17Z"
+}

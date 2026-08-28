@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302259",
+ "item_name": "셀렌비타정",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20230727",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M210377]아셀렌산나트륨오수화물|[M243785]산화아연|[M096428]벤포티아민",
+ "main_item_ingr_eng": "Benfotiamine/Sodium Selenite Pentahydrate/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11DA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302259",
+ "revisions": [
+  {
+   "revision_id": "202302259-ce06dfab",
+   "content_sha256": "ce06dfab9875f63f8412d15f4046d8ca209226c6f0e53c2f76d9a55a0e48448d",
+   "ee_text": "1. 다음 경우의 비타민 B1의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시 2. 아연의 보급 3. 셀레늄의 보급",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:25:34Z",
+   "last_observed_at": "2026-08-28T13:25:34Z",
+   "official_revision_date": "2024-01-19"
+  },
+  {
+   "revision_id": "202302259-a322fd4a",
+   "content_sha256": "a322fd4ae55d4b4792494b9294cd9580dd16a8282775b52f648d6eac60056169",
+   "ee_text": "1. 다음 경우의 비타민 B1의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시 2. 아연의 보급",
+   "ee_doc_id": "1",
+   "official_revision_date": "2023-07-27",
+   "first_observed_at": "2026-08-28T13:25:34Z",
+   "last_observed_at": "2026-08-28T13:25:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:34Z"
+}

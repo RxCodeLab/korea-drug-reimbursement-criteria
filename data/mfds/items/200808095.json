@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200808095",
+ "item_name": "아이프로펜에프시럽(이부프로펜)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20080724",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051259]이부프로펜|[M051259]이부프로펜",
+ "main_item_ingr_eng": "Ibuprofen",
+ "edi_code": "",
+ "atc_code": "M01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808095",
+ "revisions": [
+  {
+   "revision_id": "200808095-134081f9",
+   "content_sha256": "134081f9c0e7e963790470a8fde29ebdbad3f2904983d8a91305e0ac4921845e",
+   "ee_text": "류마티양 관절염, 연소성(어리거나 젊은나이에 나타나는) 류마티양 관절염, 골관절염(퇴행성 관절질환), 감기로 인한 발열 및 동통(통증), 요(허리)통, 월경곤란증, 수술후 동통(통증) 강직성 척추염, 두통, 치통, 근육통, 신경통, 급성통풍, 건선(마른비늘증)성관절염, 연조직손상(염좌(삠), 좌상(타박상)), 비관절 류마티스질환(건염(힘줄염), 건초염(힘줄윤활막염), 활액낭염)",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:24:18Z",
+   "last_observed_at": "2026-08-28T13:24:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:18Z"
+}

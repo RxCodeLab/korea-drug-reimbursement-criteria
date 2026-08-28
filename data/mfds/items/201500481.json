@@ -12,15 +12,15 @@
  "edi_code": "643507101",
  "atc_code": "S01BA05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500481",
+ "history_fetched_at": "2026-08-27T12:07:16Z",
  "revisions": [
   {
    "revision_id": "201500481-3324f010",
    "content_sha256": "3324f010a46e42c9b10a4796abbf8338b8f1df409d3b036b08e20e91877ec622",
    "ee_text": "1. 유리체 수술 시의 유리체 가시화 2. 당뇨병성 황반부종의 치료",
-   "ee_doc_id": "11",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201500481/EE",
    "first_observed_at": "2026-08-27T12:07:16Z",
-   "last_observed_at": "2026-08-27T12:07:16Z",
-   "official_revision_date": "2018-07-26"
+   "last_observed_at": "2026-08-28T13:24:41Z"
   },
   {
    "revision_id": "201500481-e3b0c442",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:07:16Z",
    "last_observed_at": "2026-08-27T12:07:16Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:07:16Z"
+ ]
 }

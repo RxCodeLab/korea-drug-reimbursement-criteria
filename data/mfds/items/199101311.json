@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199101311",
+ "item_name": "이노엔5%포도당주사액",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "19910226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040702]포도당",
+ "main_item_ingr_eng": "Glucose",
+ "edi_code": "640001361,640001371,640001381,640001391,640001401",
+ "atc_code": "B05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101311",
+ "revisions": [
+  {
+   "revision_id": "199101311-e1341dd6",
+   "content_sha256": "e1341dd6ba349a14d32bf8b8ab367fbe7ff446bb3c73b6cc1b1313a4237e85e1",
+   "ee_text": "1. 탈수증 특히 수분결핍시의 수분보급 2. 주사제의 용해희석제",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199101311/EE",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z"
+  },
+  {
+   "revision_id": "199101311-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "20",
+   "official_revision_date": "2006-02-04",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:43Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410514",
+ "item_name": "오현파마활혈진통고",
+ "entp_name": "(주)오현파마코푸레이션",
+ "permit_date": "20040324",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203279]살리실산메틸|[M243785]산화아연|[M279284]L-멘톨|[M051238]유향|[M040188]몰약|[M088936]피마자|[M050499]목별자|[M083244]위령선",
+ "main_item_ingr_eng": "Clematidis Radix/L-Menthol/Methyl Salicylate/Momordicae Semen/Myrrh/Olibanum/Ricini Semen/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410514",
+ "revisions": [
+  {
+   "revision_id": "200410514-11cff507",
+   "content_sha256": "11cff5073f6a89b5b78a52d8f4acb0cfd63496db27fb36ec7c83b00e18acc6dd",
+   "ee_text": ": 타박상, 어깨결림, 류마티스 통증",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:24:06Z",
+   "last_observed_at": "2026-08-28T13:24:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:06Z"
+}

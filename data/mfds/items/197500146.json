@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197500146",
+ "item_name": "제일티아민염산염주사액",
+ "entp_name": "(주)제일제약",
+ "permit_date": "19751029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223258]티아민염산염",
+ "main_item_ingr_eng": "Thiamine Hydrochloride",
+ "edi_code": "650500471",
+ "atc_code": "A11DA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197500146",
+ "revisions": [
+  {
+   "revision_id": "197500146-250e0cc4",
+   "content_sha256": "250e0cc479b30a8ad14e12d93d1db642c67ddbeb3b025d511135210d465dcb9d",
+   "ee_text": "1 결핍증의 예방 및 치료\" /> 1 의 수요가 증대하여 식사로부터의 섭취가 불충분한 경우의 보급\"> 1 결핍 또는 대사장애가 관여한다고 추정되는 경우\">",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197500146/EE",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z"
+  },
+  {
+   "revision_id": "197500146-ab8b54d1",
+   "content_sha256": "ab8b54d1551de64c95f6bb3e48831b87e3b9daaa25f4099e75de31947af10242",
+   "ee_text": "소모성 질환, 갑상선기능항진증, 임산부, 수유부, 심한 육체노동 시 1) 근육통ㆍ관절통 2) 신경통, 말초신경염ㆍ말초신경마비 3) 심근대사장애",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

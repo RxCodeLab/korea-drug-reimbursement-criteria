@@ -7,21 +7,20 @@
  "permit_date": "20190403",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M269323]페노피브레이트과립|[M102119]피타바스타틴칼슘",
+ "main_item_ingr": "[M102119]피타바스타틴칼슘|[M269323]페노피브레이트과립",
  "main_item_ingr_eng": "Fenofibrate Granules/Pitavastatin Calcium",
  "edi_code": "645906510",
  "atc_code": "C10BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902031",
+ "history_fetched_at": "2026-08-27T13:26:12Z",
  "revisions": [
   {
    "revision_id": "201902031-e82edb90",
    "content_sha256": "e82edb90b1ca248ed040e33edb087f875392821231f404b9912b23b13457ca9b",
    "ee_text": "관상동맥심질환(CHD) 고위험이 있는 성인환자에서 피타바스타틴 2mg 단일치료 요법시 LDL-콜레스테롤 수치는 적절히 조절되지만 트리글리세라이드 수치는 높고 HDL-콜레스테롤 수치는 낮은 복합형이상지질혈증의 치료",
-   "ee_doc_id": "1",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201902031/EE",
    "first_observed_at": "2026-08-27T13:26:12Z",
-   "last_observed_at": "2026-08-27T13:26:12Z",
-   "official_revision_date": "2019-04-03"
+   "last_observed_at": "2026-08-28T13:25:05Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:26:12Z"
+ ]
 }

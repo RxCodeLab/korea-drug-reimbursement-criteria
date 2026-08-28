@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106167",
+ "item_name": "징크파워주10밀리리터(황산아연수화물)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20210825",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M217501]황산아연수화물",
+ "main_item_ingr_eng": "Zinc Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "B05XA18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106167",
+ "revisions": [
+  {
+   "revision_id": "202106167-4d6c37cd",
+   "content_sha256": "4d6c37cddbfa55378d8ed5a10e955b2e1ad3c1b55a0fef1129575be745e2ce69",
+   "ee_text": "비경구영양요법(TPN)시 아연 보충",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:25Z",
+   "last_observed_at": "2026-08-28T13:25:25Z",
+   "official_revision_date": "2021-08-25"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:25Z"
+}

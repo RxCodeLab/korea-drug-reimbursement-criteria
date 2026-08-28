@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101960",
+ "item_name": "한신비스카환",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20011207",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M082823]아선약가루|[M040634]침강탄산칼슘|[M040394]약용탄|[M223064]비스무트차질산염|[M223040]베르베린탄닌산염",
+ "main_item_ingr_eng": "Berberine Tannate/Bismuth Subnitrate/Gambir Powder/Medicinal Carbon/Precipitated Calcium Carbonate",
+ "edi_code": "",
+ "atc_code": "A07XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101960",
+ "revisions": [
+  {
+   "revision_id": "200101960-1d914b41",
+   "content_sha256": "1d914b4143613a0c9c4ae07070e163524f6fb085b4b522ee9b9d72fcc1fae60e",
+   "ee_text": "설사, 체함, 묽은 변, 토사",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2020-06-18"
+  },
+  {
+   "revision_id": "200101960-09d4f272",
+   "content_sha256": "09d4f27280304e371f7fcb77c52d6ccef53a2d48809442da2ffe6a8b857cb6e5",
+   "ee_text": "설사, 식체, 묽은 변, 토사",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

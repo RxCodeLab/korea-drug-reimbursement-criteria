@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501805",
+ "item_name": "오스템리도카인·에피네프린주(1:100,000)",
+ "entp_name": "오스템파마주식회사",
+ "permit_date": "20250715",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222842]리도카인염산염수화물|[M251244]에피네프린타르타르산염",
+ "main_item_ingr_eng": "Epinephrine Tartrate/Lidocaine Hydrochloride Hydrate",
+ "edi_code": "053500261",
+ "atc_code": "N01BB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501805",
+ "revisions": [
+  {
+   "revision_id": "202501805-d0549904",
+   "content_sha256": "d0549904f9c20dd62af2c6d3117988d0fbd4322135d4f6cddd4546d04f8a8280",
+   "ee_text": "치과영역에 대한 전달마취, 침윤마취",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:38Z",
+   "last_observed_at": "2026-08-28T13:25:38Z",
+   "official_revision_date": "2025-07-15"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:38Z"
+}

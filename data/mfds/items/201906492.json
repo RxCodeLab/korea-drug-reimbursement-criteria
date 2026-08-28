@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906492",
+ "item_name": "트림보우흡입제100/6/12.5(베클로메타손디프로피오네이트, 포르모테롤푸마르산염수화물, 글리코피로니움브롬화물)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20190917",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257139]베클로메타손디프로피오네이트|[M258126]포르모테롤푸마르산염수화물(미분화)|[M259646]글리코피로니움브롬화물",
+ "main_item_ingr_eng": "Beclomethasone Dipropionate/Formoterol Fumarate Hydrate Micronized/Glycopyrronium Bromide",
+ "edi_code": "670304351",
+ "atc_code": "R03AL09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906492",
+ "revisions": [
+  {
+   "revision_id": "201906492-1c6c80cf",
+   "content_sha256": "1c6c80cffd7067879211e542245183b16ab4d51b1529078b9b03be5f97dfb5a1",
+   "ee_text": "1. 성인에서 지속성 베타2-효능약과 흡입용 코르티코스테로이드 병용요법으로 적절히 조절되지 않고 반복적 악화 이력이 있는 천식의 유지요법 2. 성인에서 지속성 베타2-효능약과 흡입용 코르티코스테로이드 병용요법 또는 지속성 베타2-효능약과 지속성 무스카린 수용체 길항제 병용요법으로 적절히 조절되지 않는 중증의 만성폐쇄성폐질환(COPD)의 유지요법 (증상 조절 및 악화 감소)",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:25:11Z",
+   "last_observed_at": "2026-08-28T13:25:11Z",
+   "official_revision_date": "2023-04-20"
+  },
+  {
+   "revision_id": "201906492-a490cc3e",
+   "content_sha256": "a490cc3e449406b6e263075e7b6962483754d304237e1ede21ace43ded626972",
+   "ee_text": "흡입용 코르티코스테로이드와 지속성 기관지 확장제의 병용요법으로 적절하게 치료되지 않는 중증의 만성 폐쇄성폐질환(COPD) 성인환자의 유지 치료(증상 완화 및 악화 감소)",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-09-17",
+   "first_observed_at": "2026-08-28T13:25:11Z",
+   "last_observed_at": "2026-08-28T13:25:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:11Z"
+}

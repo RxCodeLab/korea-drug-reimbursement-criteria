@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199800520",
+ "item_name": "타미풀주",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "19980929",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222996]리보플라빈포스페이트나트륨|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M202582]D-판테놀|[M223240]토코페롤아세테이트|[M223258]티아민염산염|[M040397]에르고칼시페롤|[M222991]레티놀팔미테이트|[M096429]시아노코발라민|[M223289]폴산|[M249983]D-비오틴|[M258994]아스코르브산",
+ "main_item_ingr_eng": "Ascorbic Acid/Cyanocobalamin/D-Biotin/Dexpanthenol/Ergocalciferol/Folic Acid/Nicotinamide/Pyridoxine Hydrochloride/Retinol Palmitate/Riboflavin Sodium Phosphate/Thiamine Hydrochloride/Tocopherol Acetate",
+ "edi_code": "693900200",
+ "atc_code": "B05XC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199800520",
+ "revisions": [
+  {
+   "revision_id": "199800520-b7158320",
+   "content_sha256": "b7158320e438d3af3d7bf97748199b3bfc25695234cfdba02cddd1d164665535",
+   "ee_text": "- 외과수술시, 중증화상, 골절 및 기타 외상 - 중증감염증, 혼수상태",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-28T13:23:49Z",
+   "last_observed_at": "2026-08-28T13:23:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:49Z"
+}

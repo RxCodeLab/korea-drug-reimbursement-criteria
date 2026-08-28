@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200710435",
+ "item_name": "글루화겐주",
+ "entp_name": "(주)제일제약",
+ "permit_date": "20070912",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204438]L-시스테인염산염|[M088656]글리신|[M050098]글리시리진산암모늄",
+ "main_item_ingr_eng": "Ammonium Glycyrrhizinate/Glycine/L-Cysteine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710435",
+ "revisions": [
+  {
+   "revision_id": "200710435-eaacbfc1",
+   "content_sha256": "eaacbfc1966fc5693163cf08599f5bc30a5c46b7497b9f830d4ddc60daef4a81",
+   "ee_text": "두드러기ㆍ습진, 알레르기성 피부질환, 약물중독의 보조요법 만성간질환의 간기능 개선",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:24:14Z",
+   "last_observed_at": "2026-08-28T13:24:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:14Z"
+}

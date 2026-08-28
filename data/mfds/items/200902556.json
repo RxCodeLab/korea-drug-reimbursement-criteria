@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200902556",
+ "item_name": "판코타제정",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20090408",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040678]판크레아틴|[M268886]우담즙건조엑스|[M227778]디메티콘|[M100297]셀룰라제",
+ "main_item_ingr_eng": "Cellulase/Dimethicone/Ox Bile Dried Extract/Pancreatin",
+ "edi_code": "",
+ "atc_code": "A09AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902556",
+ "revisions": [
+  {
+   "revision_id": "200902556-286238c3",
+   "content_sha256": "286238c3b12d46d86e2ad405992ae10e43fd39d2ee3a5cf7ad3fca20120802ff",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:20Z"
+}

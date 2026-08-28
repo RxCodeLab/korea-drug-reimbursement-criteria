@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603490",
+ "item_name": "로스타정5mg(로수바스타틴칼슘)",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20160615",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095744]로수바스타틴칼슘",
+ "main_item_ingr_eng": "Rosuvastatin Calcium",
+ "edi_code": "661604750",
+ "atc_code": "C10AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603490",
+ "revisions": [
+  {
+   "revision_id": "201603490-38b8eb6d",
+   "content_sha256": "38b8eb6d09b4b82f5d7780bd2cca016437d983b48e9a0c7b9a600de54b192831",
+   "ee_text": "- 뇌졸중에 대한 위험성 감소 - 심근경색에 대한 위험성 감소 - 동맥 혈관재형성술에 대한 위험성 감소",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-28T13:24:50Z",
+   "last_observed_at": "2026-08-28T13:24:50Z",
+   "official_revision_date": "2024-04-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:50Z"
+}

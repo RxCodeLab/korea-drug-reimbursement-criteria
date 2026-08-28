@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501428",
+ "item_name": "신텍스소함흉탕엑스과립",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "19951213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040202]반하|[M040792]황련|[M096303]괄루인",
+ "main_item_ingr_eng": "Coptis Rhizome/Pinellia Tuber/Trichosanthes Seed",
+ "edi_code": "",
+ "atc_code": "R07AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501428",
+ "revisions": [
+  {
+   "revision_id": "199501428-47489c10",
+   "content_sha256": "47489c10fd7fa33c54dfd1a4b34b5047ade7de49e3ff6c71f1d9f53a592fee15",
+   "ee_text": "흉복통(심하부 긴장압통), 기관지염, 늑간신경통",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:46Z"
+}

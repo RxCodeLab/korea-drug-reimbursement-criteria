@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300831",
+ "item_name": "파라쿨크림(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20030725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279284]L-멘톨|[M204423]dl-캄파|[M203279]살리실산메틸",
+ "main_item_ingr_eng": "DL-Camphor/L-Menthol/Methyl Salicylate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300831",
+ "revisions": [
+  {
+   "revision_id": "200300831-800b6055",
+   "content_sha256": "800b605520affa0cac0e2596ac5db3ab75f1e87ba78aed2d66cc57afc6fd1a2c",
+   "ee_text": "다음 증상의 진통, 소염 : 삠, 타박상, 근육통, 관절통, 골절통, 요통, 어깨결림, 신경통, 류마티스 통증, 피부가려움, 벌레물린데, 동창",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:02Z"
+}

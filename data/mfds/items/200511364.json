@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511364",
+ "item_name": "뉴트리플렉스리피드페리주사",
+ "entp_name": "비브라운코리아(주)",
+ "permit_date": "20050715",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082502]초산나트륨삼수화물|[M090757]메치오닌|[M040554]초산칼륨|[M228772]초산마그네슘사수화물|[M083749]염화칼슘이수화물|[M082328]로이신|[M095198]이소로이신|[M260146]염산라이신|[M090697]트레오닌|[M216460]트립토판|[M095200]발린|[M095195]아르기닌|[M040426]염화나트륨|[M040305]수산화나트륨|[M089112]세린|[M260134]초산아연이수화물|[M241184]인산이수소나트륨이수화물|[M044300]포도당일수화물|[M090208]중쇄트리글리세라이드|[M086212]대두유|[M085066]페닐알라닌|[M104146]염산히스티딘일수화물|[M081907]알라닌|[M050979]아스파라긴산|[M085161]글루타민산|[M088656]글리신|[M096663]프롤린",
+ "main_item_ingr_eng": "Alanine/Arginine/Aspartic Acid/Calcium Chloride Hydrate/Glucose Monohydrate/Glutamic Acid/Glycine/Isoleucine/L-Histidine Hydrochloride Monohydrate/L-Leucine/L-Lysine Hydrochloride/Magnesium Acetate Tetrahydrate/Methionine/Monobasic Sodium Phosphate Dihydrate/Phenylalanine/Potassium Acetate/Proline/Serine/Sodium Acetate Hydrate/Sodium Chloride/Sodium Hydroxide/Soybean Oil/Threonine/Triglycerides Medium-Chain/Tryptophan/Valine/Zinc Acetate Hydrate",
+ "edi_code": "667400050,667400580",
+ "atc_code": "B05BA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511364",
+ "revisions": [
+  {
+   "revision_id": "200511364-492f1c39",
+   "content_sha256": "492f1c39ec040f8ccdae73102ea5e3bb82d76b0f6228652deb59765951d33292",
+   "ee_text": "경구 또는 위장관내 영양섭취가 불가능하거나, 불충분 또는 금지되어 경정맥 영양공급을 실시해야 하는 환자들에게 수분, 전해질, 아미노산 및 칼로리 보급.",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:09Z"
+}

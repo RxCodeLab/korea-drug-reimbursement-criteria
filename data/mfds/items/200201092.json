@@ -12,16 +12,15 @@
  "edi_code": "",
  "atc_code": "M02AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201092",
+ "history_fetched_at": "2026-08-27T12:29:33Z",
  "revisions": [
   {
    "revision_id": "200201092-d5911f92",
    "content_sha256": "d5911f92d313c01cd95edd950d78507dbc72cb5101089e33bcf402226d8a5512",
    "ee_text": "질환및 증상의 소염, 진통 : 타박, 염좌, 근육통, 관절통, 요통, 견통, 신경통, 류마티스통",
-   "ee_doc_id": "13",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200201092/EE",
    "first_observed_at": "2026-08-27T12:29:33Z",
-   "last_observed_at": "2026-08-27T12:29:33Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-08-28T13:24:00Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:29:33Z"
+ ]
 }

@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500565",
+ "item_name": "이부펜200밀리그램정(이부프로펜)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "19850912",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051259]이부프로펜",
+ "main_item_ingr_eng": "Ibuprofen",
+ "edi_code": "",
+ "atc_code": "M01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500565",
+ "revisions": [
+  {
+   "revision_id": "198500565-70dbbb67",
+   "content_sha256": "70dbbb67f40e2c3e22c2758629c96b30fb2e4dcef3e9bf4fc176e8d0784caa5e",
+   "ee_text": "류마티양 관절염, 연소성 류마티양 관절염, 골관절염(퇴행성 관절질환), 감기로 인한 발열 및 동통, 요통, 월경곤란증, 수술후 동통 강직성 척추염, 두통, 치통, 근육통, 신경통, 급성통풍, 건선성 관절염, 연조직손상(염좌, 좌상), 비관절 류마티스질환(건염, 건초염, 활액낭염) 어린이 급성 상기도염의 발열",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198500565/EE",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z"
+  },
+  {
+   "revision_id": "198500565-1f104f1e",
+   "content_sha256": "1f104f1e7b0d5d7adf024641c0806ed437fb0d629bb96b16fc5e557b1404f4ef",
+   "ee_text": "O 효능효과 류마티양 관절염, 연소성 류마티양 관절염, 골관절염(퇴행성 관절질환), 감기로 인한 발열 및 동통, 요통, 월경곤란증, 수술후 동통 강직성 척추염, 두통, 치통, 근육통, 신경통, 급성통풍, 건선성 관절염, 연조직손상(염좌, 좌상), 비관절 류마티스질환(건염, 건초염, 활액낭염) 어린이 급성 상기도염의 발열",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:40Z",
+   "last_observed_at": "2026-08-28T13:23:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:40Z"
+}

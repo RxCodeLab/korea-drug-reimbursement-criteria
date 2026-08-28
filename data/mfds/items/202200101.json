@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200101",
+ "item_name": "엘트라젠정(리나글립틴)",
+ "entp_name": "지엘파마(주)",
+ "permit_date": "20220106",
+ "cancel_date": "20260211",
+ "status": "취하",
+ "main_item_ingr": "[M252996]리나글립틴",
+ "main_item_ingr_eng": "Linagliptin",
+ "edi_code": "",
+ "atc_code": "A10BH05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200101",
+ "revisions": [
+  {
+   "revision_id": "202200101-1d4e4820",
+   "content_sha256": "1d4e4820e9c0eb6044c07ca8d6d1257dd860a94fb71e0551819fbd17d508cfed",
+   "ee_text": "1. 이 약은 단독요법으로 투여한다. 2. 이전 당뇨병 약물치료를 받은 경험이 없으며 단독요법으로 충분한 혈당조절이 어려운 경우 메트포르민과 병용투여한다. 3. 메트포르민 또는 설포닐우레아 단독요법으로 충분한 혈당조절을 할 수 없는 경우 이 약을 병용투여한다. 4. 인슐린 요법(인슐린 단독 또는 메트포르민 병용)으로 충분한 혈당조절을 할 수 없는 경우 이 약을 병용투여한다. 5. 설포닐우레아 및 메트포르민 병용요법으로 충분한 혈당조절을 할 수 없는 경우 이 약을 병용투여한다. 6. 엠파글리플로진 및 메트포르민 병용요법으로 충분한 혈당조절을 할 수 없는 경우 이 약을 병용투여한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:27Z",
+   "last_observed_at": "2026-08-28T13:25:27Z",
+   "official_revision_date": "2022-01-06"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:27Z"
+}

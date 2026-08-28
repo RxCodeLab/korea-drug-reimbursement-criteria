@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301789",
+ "item_name": "라베가드정20/600밀리그램(라베프라졸나트륨,침강탄산칼슘)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20230608",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089852]라베프라졸나트륨|[M040634]침강탄산칼슘|[M040634]침강탄산칼슘",
+ "main_item_ingr_eng": "Precipitated Calcium Carbonate/Rabeprazole Sodium",
+ "edi_code": "641608130",
+ "atc_code": "A02BC54",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301789",
+ "revisions": [
+  {
+   "revision_id": "202301789-b533407f",
+   "content_sha256": "b533407f478170b3b918932a1e489ff6bd7bdcc0cc38cd1669a47f04b370f13e",
+   "ee_text": "- 위궤양, 십이지장궤양 - 미란성 또는 궤양성 위식도역류질환 - 위식도역류질환의 증상완화 - 위식도역류질환의 장기간 유지요법",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:25:34Z",
+   "last_observed_at": "2026-08-28T13:25:34Z",
+   "official_revision_date": "2024-03-26"
+  },
+  {
+   "revision_id": "202301789-965d3ae0",
+   "content_sha256": "965d3ae094cf4b3618fab7426667a2ff0bf32fa06d33cd9daf12ff98b07e6d0d",
+   "ee_text": "- 위궤양, 십이지장궤양 - 미란성 또는 궤양성 위식도역류질환 - 위식도역류질환의 장기간 유지요법",
+   "ee_doc_id": "1",
+   "official_revision_date": "2023-06-08",
+   "first_observed_at": "2026-08-28T13:25:34Z",
+   "last_observed_at": "2026-08-28T13:25:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:34Z"
+}

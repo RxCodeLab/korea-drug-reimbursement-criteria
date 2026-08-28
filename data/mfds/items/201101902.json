@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201101902",
+ "item_name": "시네프린나잘액0.5%(페닐레프린염산염)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20110404",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222724]페닐레프린염산염",
+ "main_item_ingr_eng": "Phenylephrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101902",
+ "revisions": [
+  {
+   "revision_id": "201101902-206bfee3",
+   "content_sha256": "206bfee32fc71520d4270e377f7d821f2f630abc7483a22fc93e0ffe6fa1f69f",
+   "ee_text": "코감기(급성비염), 알레르기성 비염 또는 부비동염에 의한 다음증상의 완화 : 코막힘, 콧물, 재채기, 머리무거움",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:25Z",
+   "last_observed_at": "2026-08-28T13:24:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:25Z"
+}

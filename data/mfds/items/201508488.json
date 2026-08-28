@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508488",
+ "item_name": "콜로덤에스액",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20151229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223371]락트산|[M040264]살리실산",
+ "main_item_ingr_eng": "Lactic Acid/Salicylic Acid",
+ "edi_code": "",
+ "atc_code": "D11AF",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508488",
+ "revisions": [
+  {
+   "revision_id": "201508488-b8ac8f3f",
+   "content_sha256": "b8ac8f3f4597698193fb2fec611a398e95c36db0184dceb009869a754bc1e4f8",
+   "ee_text": "티눈, 굳은살, 사마귀",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:46Z",
+   "last_observed_at": "2026-08-28T13:24:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:46Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197000191",
+ "item_name": "휴온스3%염화칼슘주사액(수출용)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "19700110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M217500]염화칼슘수화물",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate",
+ "edi_code": "",
+ "atc_code": "B05XA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197000191",
+ "revisions": [
+  {
+   "revision_id": "197000191-e7a6c0e2",
+   "content_sha256": "e7a6c0e27da3c1a90dcf04c373246fd93c103e860ba98ca5eb63c596e107c252",
+   "ee_text": "○ 저 칼슘혈증에 의한 테타니 또는 그 관련 증상 ○ 마그네슘중독",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z",
+   "official_revision_date": "2006-02-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

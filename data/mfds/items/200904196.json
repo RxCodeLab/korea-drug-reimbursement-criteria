@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200904196",
+ "item_name": "드라이문트겔",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20090616",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251286]염화마그네슘수화물|[M217500]염화칼슘수화물|[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Magnesium Chloride Hydrate/Potassium Chloride/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904196",
+ "revisions": [
+  {
+   "revision_id": "200904196-a0e28e63",
+   "content_sha256": "a0e28e638ae36aac0c29260d6393ac1349c31f5c1243435ee81db78abbf76173",
+   "ee_text": "인후(목구멍)와 구강(입안)의 건조증(마름증)",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:21Z"
+}

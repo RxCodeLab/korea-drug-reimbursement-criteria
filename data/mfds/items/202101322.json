@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101322",
+ "item_name": "야로즈정",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20210216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280318]에티닐에스트라디올(미분화)|[M211129]드로스피레논",
+ "main_item_ingr_eng": "Drospirenone/Ethinyl Estradiol Micronized",
+ "edi_code": "",
+ "atc_code": "G03AA12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101322",
+ "revisions": [
+  {
+   "revision_id": "202101322-0a9e2b0c",
+   "content_sha256": "0a9e2b0c66d166fab9c55b0e3ac853c0fe39777c3b064abbca8f59283de74d83",
+   "ee_text": "- 여성에서의 피임 - 피임법으로서 경구피임약을 사용하고자 하는 여성에서 월경전불쾌장애 증상의 치료 - 피임을 위해 경구피임약을 사용하려는 피임에 금기가 아닌 14세 이상의 초경후 여성의 중등도 여드름(acne vulgaris) 치료 - 피임법으로서 경구피임약을 사용하고자 하는 여성에서 월경곤란증의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:23Z",
+   "last_observed_at": "2026-08-28T13:25:23Z",
+   "official_revision_date": "2021-02-16"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:23Z"
+}

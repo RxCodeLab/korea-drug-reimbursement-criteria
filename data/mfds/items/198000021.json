@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000021",
+ "item_name": "한풍세신엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19800121",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040293]세신",
+ "main_item_ingr_eng": "Asiasarum Root and Rhizome",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000021",
+ "revisions": [
+  {
+   "revision_id": "198000021-4b7defbb",
+   "content_sha256": "4b7defbbee98d4133d320482425f2e144945b7c50d510d20296c02df42beb80a",
+   "ee_text": "발한,거담,감기",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:38Z"
+}

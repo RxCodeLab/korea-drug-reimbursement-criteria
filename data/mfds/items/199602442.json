@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199602442",
+ "item_name": "리비톨액(수출용)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "19961015",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096429]시아노코발라민|[M040488]이노시톨|[M222998]L-리신염산염",
+ "main_item_ingr_eng": "Cyanocobalamin/Inositol/L-Lysine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "V06DE",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602442",
+ "revisions": [
+  {
+   "revision_id": "199602442-fe2fae4b",
+   "content_sha256": "fe2fae4bd2fc2560dca6f4885560583949da45031d4c605e1196cf6c35042013",
+   "ee_text": "성인 : 체중감소, 영양장애, 노인의 단백질이 부족한 식사",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:47Z",
+   "last_observed_at": "2026-08-28T13:23:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:47Z"
+}

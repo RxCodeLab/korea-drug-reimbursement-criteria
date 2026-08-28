@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501304",
+ "item_name": "콘세라정",
+ "entp_name": "메딕스제약(주)",
+ "permit_date": "20250527",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256191]콘드로이틴설페이트나트륨|[M223262]티아민질산염|[M255819]토코페롤아세테이트 2배산|[M040262]산화마그네슘",
+ "main_item_ingr_eng": "Magnesium Oxide/Sodium Chondroitin Sulfate/Thiamine Nitrate/Tocopherol Acetate Powder 50%",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501304",
+ "revisions": [
+  {
+   "revision_id": "202501304-979a407a",
+   "content_sha256": "979a407a15b7804b916d4ea2cd8d11f3df8ad4f215e441ed7de1c12e6462c4ba",
+   "ee_text": "○ 다음 경우의 비타민 B 1 , E의 보급 - 육체 피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력 저하 시 - 노년기 ○ 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. - 다음 증상의 완화 : 신경통, 근육통, 관절통(요(허리)통, 어깨결림 등) - 각기 - 눈의 피로",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:37Z",
+   "last_observed_at": "2026-08-28T13:25:37Z",
+   "official_revision_date": "2025-05-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:37Z"
+}

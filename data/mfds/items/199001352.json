@@ -12,15 +12,15 @@
  "edi_code": "642201710",
  "atc_code": "N03AG01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001352",
+ "history_fetched_at": "2026-08-27T13:42:27Z",
  "revisions": [
   {
    "revision_id": "199001352-b0ea738a",
    "content_sha256": "b0ea738a7bfe620495ab3a56bef210f642e52c2dab9253311725a7e96a0957e6",
    "ee_text": "1. 뇌전증[결신발작(소발작), 부분발작(초점발작), 정신운동성발작 및 혼합발작]과 뇌전증에 뒤따르는 성격·행동장애의 예방과 치료 2. 양극성 장애와 관련된 조증의 치료 단, 조증에 대하여 3주 이상 장기 사용시의 안전성 ㆍ 유효성은 체계적으로 확립되지 않으므로 장기사용하는 경우에는 의사가 각 환자별로 유용성을 평가하여 계속투여 여부를 결정하여야 한다.",
-   "ee_doc_id": "18",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199001352/EE",
    "first_observed_at": "2026-08-27T13:42:27Z",
-   "last_observed_at": "2026-08-27T13:42:27Z",
-   "official_revision_date": "2019-04-21"
+   "last_observed_at": "2026-08-28T13:23:43Z"
   },
   {
    "revision_id": "199001352-4cee6dff",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:42:27Z",
    "last_observed_at": "2026-08-27T13:42:27Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:42:27Z"
+ ]
 }

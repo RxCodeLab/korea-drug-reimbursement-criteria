@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002416",
+ "item_name": "활소단(향사평위산)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20001218",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040813]후박|[M040538]진피|[M040006]감초|[M095260]사인|[M040228]향부자|[M050752]생강|[M040071]대추|[M050048]곽향|[M050048]곽향|[M040071]대추|[M050752]생강|[M040548]창출|[M219019]이상 건조엑스로서|[M040548]창출|[M040813]후박|[M040538]진피|[M040006]감초|[M095260]사인|[M040228]향부자",
+ "main_item_ingr_eng": "Agastachis Herba/Amomum Fruit/As Dried Extract/Atractylodes Rhizome/Citrus Unshiu Peel/Cyperus Rhizome/Jujube/Licorice/Magnolia Bark/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002416",
+ "revisions": [
+  {
+   "revision_id": "200002416-4116fe0a",
+   "content_sha256": "4116fe0a2fa0eda8f1a5d1c4e7722120dc22a718b495e1c8920da6001d96a353",
+   "ee_text": "식체(위체) 경향이 있는 다음 증상 : 식욕감퇴(식욕부진)",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-28T13:23:55Z",
+   "last_observed_at": "2026-08-28T13:23:55Z",
+   "official_revision_date": "2021-09-27"
+  },
+  {
+   "revision_id": "200002416-bd78cbc8",
+   "content_sha256": "bd78cbc8eda3ec11eda5b1cbc1cce3e3d1d1c3a135b8792b54d26b79d2f43e57",
+   "ee_text": "식체(위체) 경향이 있는 다음 증상 : 식욕감퇴(식욕부진), 위무력",
+   "ee_doc_id": "10",
+   "official_revision_date": "2009-04-30",
+   "first_observed_at": "2026-08-28T13:23:55Z",
+   "last_observed_at": "2026-08-28T13:23:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:55Z"
+}

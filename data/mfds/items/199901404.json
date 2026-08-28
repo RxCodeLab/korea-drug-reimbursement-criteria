@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199901404",
+ "item_name": "쎄토마연질캡슐",
+ "entp_name": "경남제약(주)",
+ "permit_date": "19990920",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040262]산화마그네슘|[M223240]토코페롤아세테이트",
+ "main_item_ingr_eng": "Magnesium Oxide/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "A11JB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901404",
+ "revisions": [
+  {
+   "revision_id": "199901404-24798ebc",
+   "content_sha256": "24798ebc63ffca447433f52edbf5d3d8adf80cc65631e88026c63d8adeaedb4f",
+   "ee_text": "- 노년기의 비타민E의 보급 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨·목결림,수족(손발)저림.수족냉증(손발이 차가움) - 마그네슘 결핍으로 인한 근육경련",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:51Z"
+}

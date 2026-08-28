@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903377",
+ "item_name": "로수탄메트정500/5밀리그램",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20190524",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095744]로수바스타틴칼슘|[M244179]메트포르민염산염",
+ "main_item_ingr_eng": "Metformin Hydrochloride/Rosuvastatin Calcium",
+ "edi_code": "",
+ "atc_code": "A10BD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903377",
+ "revisions": [
+  {
+   "revision_id": "201903377-fc19c921",
+   "content_sha256": "fc19c9218a76f0607a1340b6d04ce88bdffbb000e7ecc2fa0fb6b70110dc5bd8",
+   "ee_text": "이 약은 두 약물(메트포르민염산염과 로수바스타틴칼슘)을 동시에 투여하여야 하는 환자에만 병용 대체요법으로 사용한다.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:07Z",
+   "last_observed_at": "2026-08-28T13:25:07Z",
+   "official_revision_date": "2019-05-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:07Z"
+}

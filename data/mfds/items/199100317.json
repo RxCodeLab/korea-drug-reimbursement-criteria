@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199100317",
+ "item_name": "대한염화나트륨액",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "19911125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨",
+ "main_item_ingr_eng": "Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "B05CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100317",
+ "revisions": [
+  {
+   "revision_id": "199100317-d554d367",
+   "content_sha256": "d554d3672d0be78f3924d2dc3de8278128332071c3a3ffdff79786157380036f",
+   "ee_text": "1) 피부, 창상면, 점막의 세정, 습포 2) 함수(양치질), 분무흡입제로서 점막세정, 객담배출 촉진 3) 의료용구의 세정",
+   "ee_doc_id": "28",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z",
+   "official_revision_date": "2024-08-08"
+  },
+  {
+   "revision_id": "199100317-c135efc3",
+   "content_sha256": "c135efc330cb40829b408d6a4f7152f7e9cb2005ad08574d8993a7ff5495d4c9",
+   "ee_text": "1) 피부, 창상면, 점막의 세정, 습포 2) 함소, 분무흡입제로서 점막세정,객담배출 촉진 3) 의료용구의 세정",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:43Z"
+}

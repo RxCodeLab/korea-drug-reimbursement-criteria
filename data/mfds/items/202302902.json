@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302902",
+ "item_name": "다림리나온정(리나글립틴)",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20231012",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268745]리나글립틴(미분화)",
+ "main_item_ingr_eng": "Linagliptin Micronized",
+ "edi_code": "698004660",
+ "atc_code": "A10BH05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302902",
+ "revisions": [
+  {
+   "revision_id": "202302902-b2053efc",
+   "content_sha256": "b2053efceb214548fa00f4b898aaad3c53613153afc93ec4a1ef113fc7c5fa61",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당 조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. - 단독요법 - 병용요법",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:35Z",
+   "last_observed_at": "2026-08-28T13:25:35Z",
+   "official_revision_date": "2023-10-12"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:35Z"
+}

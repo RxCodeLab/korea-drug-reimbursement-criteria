@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404363",
+ "item_name": "디판셉틱크림",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20140925",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202582]D-판테놀|[M203915]클로르헥시딘염산염",
+ "main_item_ingr_eng": "Chlorhexidine Hydrochloride/Dexpanthenol",
+ "edi_code": "",
+ "atc_code": "D08AC52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404363",
+ "revisions": [
+  {
+   "revision_id": "201404363-c286f30e",
+   "content_sha256": "c286f30eff780f57a713cd4a4b3aee59e98f874fa7f8aa210a7f6d16d33283a8",
+   "ee_text": "- 감염위험이 있는 다음과 같은 형태의 상처 : 찰과상, 베인 상처, 찢긴 상처, 화상, 피부염 - 만성상처 : 다리궤양, 욕창 - 이차감염된 습진, 만성단순태선(신경피부염)과 같은 피부감염증 - 수유기 동안의 유두균열 - 소수술 : 피부손상, 수술상처",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:37Z",
+   "last_observed_at": "2026-08-28T13:24:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:37Z"
+}

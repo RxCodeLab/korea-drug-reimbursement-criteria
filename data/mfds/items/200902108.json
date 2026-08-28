@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200902108",
+ "item_name": "다이제스토정",
+ "entp_name": "화일약품(주)",
+ "permit_date": "20090320",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040678]판크레아틴|[M100297]셀룰라제|[M273864]우담즙 건조엑스|[M227778]디메티콘",
+ "main_item_ingr_eng": "Cellulase/Dimethicone/Ox Bile Dried Extract/Pancreatin",
+ "edi_code": "",
+ "atc_code": "A09AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902108",
+ "revisions": [
+  {
+   "revision_id": "200902108-1c169391",
+   "content_sha256": "1c1693912359957b84e212aca70aa7b7ee61c78e8e0b24eadaf7b6e67084012c",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부(상복부)팽만감.",
+   "ee_doc_id": "26",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z",
+   "official_revision_date": "2023-03-30"
+  },
+  {
+   "revision_id": "200902108-76131b69",
+   "content_sha256": "76131b69f93a21b338c3026d41dcd1ff0bc86a7f66eecec4166f53e22a92cba7",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감.",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:20Z"
+}

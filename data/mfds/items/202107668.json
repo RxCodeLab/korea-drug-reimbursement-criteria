@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107668",
+ "item_name": "액티진맥스정",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20211126",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083577]비스벤티아민|[M040133]리보플라빈|[M040064]니코틴산아미드|[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M050704]비오틴|[M223289]폴산|[M096429]시아노코발라민|[M278090]γ-오리자놀|[M223167]우르소데옥시콜산|[M270667]농축콜레칼시페롤(분말형)|[M096428]벤포티아민|[M040488]이노시톨|[M247683]콜린타르타르산염|[M258994]아스코르브산|[M255819]토코페롤아세테이트 2배산|[M243785]산화아연|[M244365]셀레늄함유건조효모|[M040262]산화마그네슘",
+ "main_item_ingr_eng": "Ascorbic Acid/Benfotiamine/Biotin/Bisbentiamine/Calcium Pantothenate/Cholecalciferol Concentrate Powder/Choline Tartrate/Cyanocobalamin/Folic Acid/Gamma-Oryzanol/Inositol/Magnesium Oxide/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Selenium In Dried Yeast/Tocopherol Acetate Powder 50%/Ursodeoxycholic Acid/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107668",
+ "revisions": [
+  {
+   "revision_id": "202107668-50907f02",
+   "content_sha256": "50907f02c92929e6c390212c9a2a59c507d4bbd96d93376a51874cef9459a688",
+   "ee_text": "1 , B 2 , B 6 , C)의 보급\"> 1 (벤포티아민, 비스벤티아민)]]> 2 (리보플라빈), 비타민 B 6 (피리독신염산염)]]>",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:25:26Z",
+   "last_observed_at": "2026-08-28T13:25:26Z",
+   "official_revision_date": "2026-08-28"
+  },
+  {
+   "revision_id": "202107668-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "official_revision_date": "2021-11-26",
+   "first_observed_at": "2026-08-28T13:25:26Z",
+   "last_observed_at": "2026-08-28T13:25:26Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:26Z"
+}

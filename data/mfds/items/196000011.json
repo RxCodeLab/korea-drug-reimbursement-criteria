@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "196000011",
+ "item_name": "페니라민정(클로르페니라민말레산염)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "19601010",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate",
+ "edi_code": "642102570",
+ "atc_code": "R06AB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196000011",
+ "revisions": [
+  {
+   "revision_id": "196000011-f51f8239",
+   "content_sha256": "f51f82391a2ff927f4a99984b89ec7a9b74eb0e21f9052758cc23c181531e3f7",
+   "ee_text": "고초열(꽃가루 알레르기비염(코염)), 두드러기, 가려움성 피부질환(습진ㆍ피부염, 피부가려움증, 약물발진), 알레르기 비염(코염), 혈관운동성 코염, 코감기에 의한 재채기·콧물·기침, 혈관운동성 부기",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:23:36Z",
+   "last_observed_at": "2026-08-28T13:23:36Z",
+   "official_revision_date": "2019-08-26"
+  },
+  {
+   "revision_id": "196000011-0d127361",
+   "content_sha256": "0d12736139df1ef67ed6461f88a735c038a7c1159153ba462eb3f047a50ceb37",
+   "ee_text": "고초열, 두드러기, 가려움성 피부질환(습진ㆍ피부염, 피부가려움증, 약물발진), 알레르기 비염, 혈관운동성 코염, 코감기에 의한 재채기·콧물·기침, 혈관운동성 부기",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:36Z",
+   "last_observed_at": "2026-08-28T13:23:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:36Z"
+}

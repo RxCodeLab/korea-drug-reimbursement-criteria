@@ -12,15 +12,15 @@
  "edi_code": "648200940",
  "atc_code": "M03CA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199903365",
+ "history_fetched_at": "2026-08-27T12:23:13Z",
  "revisions": [
   {
    "revision_id": "199903365-074fe627",
    "content_sha256": "074fe627d05666c0c6e0fcde56954972e9143ff07440e6e051ad1817f757a3b0",
    "ee_text": "척추손상, 뇌성마비 또는 다발성경화증 등의 중증 만성 질환으로 인한 경직 증상. 단, 류마티스 질환에는 사용하지 않는다.",
-   "ee_doc_id": "15",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199903365/EE",
    "first_observed_at": "2026-08-27T12:23:13Z",
-   "last_observed_at": "2026-08-27T12:23:13Z",
-   "official_revision_date": "2021-09-24"
+   "last_observed_at": "2026-08-28T13:23:51Z"
   },
   {
    "revision_id": "199903365-d94e6b4e",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:23:13Z",
    "last_observed_at": "2026-08-27T12:23:13Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:23:13Z"
+ ]
 }

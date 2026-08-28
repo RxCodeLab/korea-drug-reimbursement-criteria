@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200901703",
+ "item_name": "아토미겔",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20090305",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279284]L-멘톨|[M070611]살리실산글리콜|[M223051]벤제토늄염화물|[M223298]프레드니솔론아세테이트|[M051499]크로타미톤|[M223211]클로르페니라민말레산염|[M241764]리도카인염산염",
+ "main_item_ingr_eng": "Benzethonium Chloride/Chlorpheniramine Maleate/Crotamiton/Glycol Salicylate/L-Menthol/Lidocaine Hydrochloride/Prednisolone Acetate",
+ "edi_code": "",
+ "atc_code": "D07XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901703",
+ "revisions": [
+  {
+   "revision_id": "200901703-b06cb96e",
+   "content_sha256": "b06cb96e8c7d82f7194384071215b62df2ef92db4a7bbd15d3237193594001a5",
+   "ee_text": "가려움, 벌레물린데, 두드러기, 땀띠, 옻 등에 의한 접촉피부염, 동창(언 상처), 습진, 피부염, 미란(짓무름)",
+   "ee_doc_id": "31",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z",
+   "official_revision_date": "2026-04-17"
+  },
+  {
+   "revision_id": "200901703-f3fd814b",
+   "content_sha256": "f3fd814b874488a53acb2e36a72f55302ce6affbaf37853d2ab8f95c887bf393",
+   "ee_text": "가려움, 벌레물린데, 두드러기, 땀띠, 옻 등에 의한 접촉피부염, 동창, 습진, 피부염, 미란(진무름)",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:20Z"
+}

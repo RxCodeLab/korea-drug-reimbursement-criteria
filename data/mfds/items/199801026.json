@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801026",
+ "item_name": "훼스탈플러스정",
+ "entp_name": "(주)한독",
+ "permit_date": "19981029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040678]판크레아틴|[M100297]셀룰라제|[M223167]우르소데옥시콜산|[M223083]시메티콘",
+ "main_item_ingr_eng": "Cellulase/Pancreatin/Simethicone/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801026",
+ "revisions": [
+  {
+   "revision_id": "199801026-286238c3",
+   "content_sha256": "286238c3b12d46d86e2ad405992ae10e43fd39d2ee3a5cf7ad3fca20120802ff",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "44",
+   "first_observed_at": "2026-08-28T13:23:49Z",
+   "last_observed_at": "2026-08-28T13:23:49Z",
+   "official_revision_date": "2025-05-19"
+  },
+  {
+   "revision_id": "199801026-1c2c95d0",
+   "content_sha256": "1c2c95d0008b61daf5919329cf5a73792494d34dde1ec47800d74e5fb9c1c4d3",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 식체(위체(체함)), 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "26",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:49Z",
+   "last_observed_at": "2026-08-28T13:23:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:49Z"
+}

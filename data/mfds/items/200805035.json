@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805035",
+ "item_name": "발긴발포과립",
+ "entp_name": "(주)위드헬스케어",
+ "permit_date": "20080501",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040533]주석산|[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Sodium Bicarbonate/Tartaric Acid",
+ "edi_code": "625400020",
+ "atc_code": "V04CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805035",
+ "revisions": [
+  {
+   "revision_id": "200805035-ef229623",
+   "content_sha256": "ef229623250db7760913f487e4aeb10d1c38e205dd9f40f2c7bd5acb20e475f5",
+   "ee_text": "위ㆍ십이지장 투시 촬영의 조영보조제",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:16Z"
+}

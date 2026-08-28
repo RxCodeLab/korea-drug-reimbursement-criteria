@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199202403",
+ "item_name": "헤파툼연질캡슐(수출명:BEE-LIVER)(수출용)",
+ "entp_name": "구주제약(주)",
+ "permit_date": "19921130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040009]건조효모|[M084546]간장분획물2|[M070019]건조간장가루|[M040064]니코틴산아미드|[M040133]리보플라빈|[M223015]DL-메티오닌|[M050704]비오틴|[M222991]레티놀팔미테이트|[M217501]황산아연수화물|[M244748]판토텐산칼슘|[M084545]간장농축물|[M096429]시아노코발라민|[M258994]아스코르브산|[M204304]피리독신염산염|[M223289]폴산|[M040488]이노시톨|[M247683]콜린타르타르산염|[M223262]티아민질산염|[M040647]토코페롤",
+ "main_item_ingr_eng": "Ascorbic Acid/Biotin/Calcium Pantothenate/Choline Tartrate/Cyanocobalamin/DL-Methionine/Dried Liver Powder/Dried Yeast/Folic Acid/Inositol/Liver Concentrate Extract/Liver Fraction 2/Nicotinamide/Pyridoxine Hydrochloride/Retinol Palmitate/Riboflavin/Thiamine Nitrate/Tocopherol/Zinc Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199202403",
+ "revisions": [
+  {
+   "revision_id": "199202403-8067b5bb",
+   "content_sha256": "8067b5bb320e746d309b5c10cb3dc9b67b5963a98f36576ef03793fe2990393e",
+   "ee_text": "다음 질환의 보조 치료 성인 : 알코올 중독증, 독성 간질환에 의한 간기능부전, 및 간중독에 기인한 간기능부전, 간기능부전에 기인된 호르몬불균형으로 인한 남녀불임증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199202403/EE",
+   "first_observed_at": "2026-08-28T13:23:44Z",
+   "last_observed_at": "2026-08-28T13:23:44Z"
+  },
+  {
+   "revision_id": "199202403-95a7ca6f",
+   "content_sha256": "95a7ca6f3d0dd3f235ad804d750e92e73a620e7c24b6ed601f430821a9bd9e86",
+   "ee_text": "다음 질환의 보조 치료 성인 : 알코올 중독증, 독성 간질환에 의한 간기능부전, 및 간중독에 기 인한 간기능부전, 간기능부전에 기인된 호르몬불균형으로 인한 남녀불임증",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:44Z",
+   "last_observed_at": "2026-08-28T13:23:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:44Z"
+}

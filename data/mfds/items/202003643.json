@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003643",
+ "history_fetched_at": "2026-08-27T13:33:39Z",
  "revisions": [
   {
    "revision_id": "202003643-71e001da",
    "content_sha256": "71e001da1625de4babe85bf50abe78260dc1f2548516d13d8b224fd989d536ef",
    "ee_text": "이 약은 리나글립틴과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제 투여한다.",
-   "ee_doc_id": "9",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202003643/EE",
    "first_observed_at": "2026-08-27T13:33:39Z",
-   "last_observed_at": "2026-08-27T13:33:39Z",
-   "official_revision_date": "2024-05-01"
+   "last_observed_at": "2026-08-28T13:25:18Z"
   },
   {
    "revision_id": "202003643-c57ddaff",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:33:39Z",
    "last_observed_at": "2026-08-27T13:33:39Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:33:39Z"
+ ]
 }

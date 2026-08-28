@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908325",
+ "item_name": "해피트립액",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20191210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040096]디멘히드리네이트|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Dimenhydrinate/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A04AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908325",
+ "revisions": [
+  {
+   "revision_id": "201908325-9e10f901",
+   "content_sha256": "9e10f901d2b9184459e96c8289a126a62981700e95a89f9abfb8d8d54c113b30",
+   "ee_text": "멀미에 의한 어지러움·구토·두통의 예방 및 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:13Z",
+   "last_observed_at": "2026-08-28T13:25:13Z",
+   "official_revision_date": "2019-12-10"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:13Z"
+}

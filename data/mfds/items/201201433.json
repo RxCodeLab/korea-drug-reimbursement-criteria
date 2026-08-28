@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201201433",
+ "item_name": "시스타단산(베타인무수물)",
+ "entp_name": "(주)삼오제약",
+ "permit_date": "20120306",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254131]베타인무수물",
+ "main_item_ingr_eng": "Anhydrous Betaine",
+ "edi_code": "",
+ "atc_code": "A16AA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201433",
+ "revisions": [
+  {
+   "revision_id": "201201433-e7c4cc69",
+   "content_sha256": "e7c4cc69737e7a185ac4b71f1334151fc3bcbed9d93d430d9ca75c67ace7ffd0",
+   "ee_text": "다음 효소 결핍 또는 결함과 관련된 호모시스틴뇨증의 보조치료",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:27Z",
+   "last_observed_at": "2026-08-28T13:24:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:27Z"
+}

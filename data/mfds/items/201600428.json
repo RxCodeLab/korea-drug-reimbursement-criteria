@@ -12,15 +12,15 @@
  "edi_code": "622600240",
  "atc_code": "N02AJ13",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600428",
+ "history_fetched_at": "2026-08-27T13:00:53Z",
  "revisions": [
   {
    "revision_id": "201600428-c3da81d9",
    "content_sha256": "c3da81d9f2dcc3e6fb559a0420de90b92dc804adb9bd54d1c14d036de3f710ea",
    "ee_text": "중등도~중증의 급·만성 통증",
-   "ee_doc_id": "8",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201600428/EE",
    "first_observed_at": "2026-08-27T13:00:53Z",
-   "last_observed_at": "2026-08-27T13:00:53Z",
-   "official_revision_date": "2021-01-06"
+   "last_observed_at": "2026-08-28T13:24:47Z"
   },
   {
    "revision_id": "201600428-7e8525ac",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:00:53Z",
    "last_observed_at": "2026-08-27T13:00:53Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:00:53Z"
+ ]
 }

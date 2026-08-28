@@ -12,15 +12,15 @@
  "edi_code": "648903561",
  "atc_code": "H01AX01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006407",
+ "history_fetched_at": "2026-08-27T12:44:23Z",
  "revisions": [
   {
    "revision_id": "202006407-0ffa7ad4",
    "content_sha256": "0ffa7ad441a1fee2d7989b6b3484caaef078ca30f0dea30f67cf5b1bfa563f59",
    "ee_text": "수술 및/또는 방사선 치료에 적절한 반응을 보이지 않으며, 소마토스타틴 유사체 치료로 IGF-1 수치가 정상화되지 않거나, 불내약성인 성인 말단비대증의 치료.",
-   "ee_doc_id": "13",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202006407/EE",
    "first_observed_at": "2026-08-27T12:44:23Z",
-   "last_observed_at": "2026-08-27T12:44:23Z",
-   "official_revision_date": "2024-06-17"
+   "last_observed_at": "2026-08-28T13:25:21Z"
   },
   {
    "revision_id": "202006407-16d99811",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:44:23Z",
    "last_observed_at": "2026-08-27T12:44:23Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:44:23Z"
+ ]
 }

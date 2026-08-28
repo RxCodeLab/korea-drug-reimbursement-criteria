@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402408",
+ "item_name": "로페시콘츄정",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20140527",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222992]로페라미드염산염|[M223083]시메티콘",
+ "main_item_ingr_eng": "Loperamide Hydrochloride/Simethicone",
+ "edi_code": "",
+ "atc_code": "A07DA53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402408",
+ "revisions": [
+  {
+   "revision_id": "201402408-a6d24bbf",
+   "content_sha256": "a6d24bbf01630077bc8362d49a7c505682d4ebc71790031022a8f8521d8c1223",
+   "ee_text": "장내 가스에 기인한 복부팽만감, 경련을 수반하는 설사 증상 조절",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:24:35Z",
+   "last_observed_at": "2026-08-28T13:24:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:35Z"
+}

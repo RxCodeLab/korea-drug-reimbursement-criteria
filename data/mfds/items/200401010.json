@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401010",
+ "item_name": "테베텐플러스정",
+ "entp_name": "(주)한독",
+ "permit_date": "20040528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257111]에프로사르탄메실산염|[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Eprosartan Mesylate/Hydrochlorothiazide",
+ "edi_code": "652101340",
+ "atc_code": "C09DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401010",
+ "revisions": [
+  {
+   "revision_id": "200401010-2b2e9d93",
+   "content_sha256": "2b2e9d932ab8246d55ca2345eaed9769fb6313764e4a1de6feeddab136a63ed9",
+   "ee_text": "에프로사르탄 단독요법으로 치료가 잘되지 않는 본태성 고혈압",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-28T13:24:04Z",
+   "last_observed_at": "2026-08-28T13:24:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:04Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201007735",
+ "item_name": "디겐타안연고(겐타마이신황산염, 플루오로메톨론)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20101229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051832]플루오로메톨론|[M202821]겐타마이신황산염",
+ "main_item_ingr_eng": "Fluorometholone/Gentamicin Sulfate",
+ "edi_code": "645304201",
+ "atc_code": "S01CA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007735",
+ "revisions": [
+  {
+   "revision_id": "201007735-cc42a119",
+   "content_sha256": "cc42a11937ddbfa97e5532b0ba9d238147c42ba542eb31dc7714fcc92b47cb97",
+   "ee_text": "-겐타마이신에 감수성이 있는 균에 의한 전안부 감염 -세균감염의 위험성이 있는 전안부 염증",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:24Z",
+   "last_observed_at": "2026-08-28T13:24:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:24Z"
+}

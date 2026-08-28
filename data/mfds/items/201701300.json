@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701300",
+ "item_name": "원기쏘플러스정",
+ "entp_name": "주식회사 노바엠헬스케어",
+ "permit_date": "20170316",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040009]건조효모|[M218515]락토바실루스 스포로게네스균|[M050379]리파제|[M267745]디아스타제·프로테아제·셀룰라제",
+ "main_item_ingr_eng": "Diastase·Protease·Cellulase/Dried Yeast/Lactobacillus Sporogenes/Lipase",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701300",
+ "revisions": [
+  {
+   "revision_id": "201701300-4c76eba6",
+   "content_sha256": "4c76eba62cff4b08cc4b0f48e33f521e337f78a7f2245e35d218203e8aaa0e1c",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감, 정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:24:55Z",
+   "last_observed_at": "2026-08-28T13:24:55Z",
+   "official_revision_date": "2021-12-09"
+  },
+  {
+   "revision_id": "201701300-1a8f711a",
+   "content_sha256": "1a8f711a9e1565b9079111f87fa6a90e03fcff205801adf5efddbf753965b6ac",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감, 정장, 변비, 묽은 변, 복부팽만감, 장내이상발효, 위부팽만감, 구역, 구토",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:55Z",
+   "last_observed_at": "2026-08-28T13:24:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:55Z"
+}

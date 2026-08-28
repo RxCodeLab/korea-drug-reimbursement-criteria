@@ -12,15 +12,15 @@
  "edi_code": "642204410",
  "atc_code": "H03AA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902912",
+ "history_fetched_at": "2026-08-27T12:37:35Z",
  "revisions": [
   {
    "revision_id": "201902912-f2b5bf34",
    "content_sha256": "f2b5bf347aefd4c1b9284e246995c5b891a2001af013aaebf7c1f3cba13f16e4",
    "ee_text": "갑상선기능저하증, 점액부종, 크레틴병",
-   "ee_doc_id": "10",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201902912/EE",
    "first_observed_at": "2026-08-27T12:37:35Z",
-   "last_observed_at": "2026-08-27T12:37:35Z",
-   "official_revision_date": "2022-04-21"
+   "last_observed_at": "2026-08-28T13:25:06Z"
   },
   {
    "revision_id": "201902912-f88c7fac",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:37:35Z",
    "last_observed_at": "2026-08-27T12:37:35Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:37:35Z"
+ ]
 }

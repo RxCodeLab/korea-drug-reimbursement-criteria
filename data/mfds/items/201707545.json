@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707545",
+ "item_name": "맘스폴릭정1000마이크로그램(폴산)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20171023",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223289]폴산",
+ "main_item_ingr_eng": "Folic Acid",
+ "edi_code": "",
+ "atc_code": "B03BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707545",
+ "revisions": [
+  {
+   "revision_id": "201707545-23c5298f",
+   "content_sha256": "23c5298f2ac7552426e3b2fab7ef2091e6dd49ed6ff9caf405c273c17f706393",
+   "ee_text": "12 결핍으로 인한 빈혈 제외)\" />",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:24:58Z",
+   "last_observed_at": "2026-08-28T13:24:58Z",
+   "official_revision_date": "2017-10-24"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:58Z"
+}

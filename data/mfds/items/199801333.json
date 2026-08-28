@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801333",
+ "item_name": "아모닌캡슐(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "19980214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088252]아스코르빈산|[M082608]에버나모닌",
+ "main_item_ingr_eng": "Ascorbic Acid/Eburnamonine",
+ "edi_code": "",
+ "atc_code": "C04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801333",
+ "revisions": [
+  {
+   "revision_id": "199801333-688c815c",
+   "content_sha256": "688c815cb6d729fe014416687ac496400ebd1aefff2a0ff861b4913a4e80e647",
+   "ee_text": "다음 뇌혈관질환의 예방 및 치료 : 뇌순환부전에 의한 기질적·기능적 증상(기억력·주의력장애 등), 충격사고·두부외상후유증, 노년기 뇌경화 및 동맥경화에 의한 정신장애, 고혈압성 망막병증",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:49Z",
+   "last_observed_at": "2026-08-28T13:23:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:49Z"
+}

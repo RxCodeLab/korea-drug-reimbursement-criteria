@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201204675",
+ "item_name": "피엠지폴산정",
+ "entp_name": "(주)한국피엠지제약",
+ "permit_date": "20120516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223289]폴산",
+ "main_item_ingr_eng": "Folic Acid",
+ "edi_code": "697100350",
+ "atc_code": "B03BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201204675",
+ "revisions": [
+  {
+   "revision_id": "201204675-d9b4200e",
+   "content_sha256": "d9b4200efc30d112639508bcd912338dbf421bce2d65587e51f879a536521f0d",
+   "ee_text": "소모성 질환, 임부 및 수유부 1) 영양결핍성빈혈, 임신성빈혈, 소아빈혈 2) 항전간제 투여로 인한 빈혈",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201204675/EE",
+   "first_observed_at": "2026-08-28T13:24:27Z",
+   "last_observed_at": "2026-08-28T13:24:27Z"
+  },
+  {
+   "revision_id": "201204675-315d5736",
+   "content_sha256": "315d573645cddd581537608f1911aca2fe2fa0c1c4aecd17145b12ffd21f4755",
+   "ee_text": "소모성 질환, 임부 및 수유부 1) 영양결핍성빈혈, 임신성빈혈, 소아빈혈 2) 항전간제 투여로 인한 빈혈 소모성 질환, 임부 및 수유부 1) 영양결핍성빈혈, 임신성빈혈, 소아빈혈 2) 항전간제 투여로 인한 빈혈",
+   "ee_doc_id": "9",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:27Z",
+   "last_observed_at": "2026-08-28T13:24:27Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:27Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501325",
+ "item_name": "조인쿨카타플라스마(수출용)(살리실산메칠)(수출명:별첨)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20050728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203279]살리실산메틸|[M203279]살리실산메틸",
+ "main_item_ingr_eng": "Methyl Salicylate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501325",
+ "revisions": [
+  {
+   "revision_id": "200501325-ad264828",
+   "content_sha256": "ad264828c4e02c154bc2da604216cdf1363a22b7b67a287299fa28d0ec7b94b1",
+   "ee_text": "; 근육통, 관절염",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:08Z",
+   "last_observed_at": "2026-08-28T13:24:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:08Z"
+}

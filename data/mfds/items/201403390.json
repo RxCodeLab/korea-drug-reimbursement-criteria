@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403390",
+ "item_name": "한솔나프록센연질캡슐",
+ "entp_name": "한솔신약(주)",
+ "permit_date": "20140725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050116]나프록센",
+ "main_item_ingr_eng": "Naproxen",
+ "edi_code": "",
+ "atc_code": "M01AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403390",
+ "revisions": [
+  {
+   "revision_id": "201403390-e0c08965",
+   "content_sha256": "e0c0896576cbfa72b405d598ad14e288a125d720597dac138830f0526b11dec2",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건(힘줄)염, 급성통풍, 월경 곤란증 활액낭염, 골격근장애(염좌(삠), 좌상, 외상, 요천통), 수술후 동통(통증), 편두통, 발치후 동통(통증)",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-28T13:24:36Z",
+   "last_observed_at": "2026-08-28T13:24:36Z",
+   "official_revision_date": "2023-06-01"
+  },
+  {
+   "revision_id": "201403390-134e1ecb",
+   "content_sha256": "134e1ecb9eddd1f99f4f29317e45b86d42f6efbfba9c0a4ec88ae2884d48f5de",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건염, 급성통풍, 월경 곤란증 활액낭염, 골격근장애(염좌, 좌상, 외상, 요천통), 수술후 동통, 편두통, 발치후 동통",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:36Z",
+   "last_observed_at": "2026-08-28T13:24:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:36Z"
+}

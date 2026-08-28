@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802402",
+ "item_name": "사포날과립",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20180611",
+ "cancel_date": "20240925",
+ "status": "취하",
+ "main_item_ingr": "[M223249]트리메토퀴놀염산염수화물|[M223211]클로르페니라민말레산염|[M040059]노스카핀|[M223054]벤조산나트륨카페인|[M070009]감초가루|[M082634]길경가루",
+ "main_item_ingr_eng": "Caffeine·Sodium Benzoate/Chlorpheniramine Maleate/Glycyrrhiza Powder/Noscapine/Platycodon Root Powder/Trimetoquinol Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802402",
+ "revisions": [
+  {
+   "revision_id": "201802402-78dd308e",
+   "content_sha256": "78dd308e0cabff9495a553cd7e6646318532bf70f886bda2821e2f6252f7b915",
+   "ee_text": "기침, 가래, 천식",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:00Z",
+   "last_observed_at": "2026-08-28T13:25:00Z",
+   "official_revision_date": "2018-06-11"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:00Z"
+}

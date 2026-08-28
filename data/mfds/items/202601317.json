@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601317",
+ "item_name": "원클린정",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20260503",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223083]시메티콘|[M080356]황산마그네슘수화물|[M040806]황산칼륨|[M223336]피코설페이트나트륨수화물",
+ "main_item_ingr_eng": "Magnesium Sulfate Hydrate/Potassium Sulfate/Simethicone/Sodium Picosulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "A06AB58",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601317",
+ "revisions": [
+  {
+   "revision_id": "202601317-96c57701",
+   "content_sha256": "96c57701c578c6eaebaa6164fdf94122529a65fc7ce669852834e9da3ba1f752",
+   "ee_text": "대장(X선, 내시경)검사 시의 전처치용 장세척",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:38Z",
+   "last_observed_at": "2026-08-28T13:25:38Z",
+   "official_revision_date": "2026-05-03"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:38Z"
+}

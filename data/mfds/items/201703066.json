@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201703066",
+ "item_name": "디카본500정",
+ "entp_name": "코스맥스파마(주)",
+ "permit_date": "20170605",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051564]탄산칼슘|[M086116]농축콜레칼시페롤",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate",
+ "edi_code": "055100070",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201703066",
+ "revisions": [
+  {
+   "revision_id": "201703066-4a848683",
+   "content_sha256": "4a848683ce6d143c93cc50b687aeb2982968123df3e8005c765dad70f5545fc0",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신 ∙ 수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능 ∙ 효과는 다음과 같다. ∙ 비타민D(원료약품및그분량의 “농축콜레칼시페롤”) ∙ 뼈, 이의 발육불량 ∙ 구루병의 예방 2. 칼슘결핍 및 기타 칼슘의 보급",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-28T13:24:56Z",
+   "last_observed_at": "2026-08-28T13:24:56Z",
+   "official_revision_date": "2024-12-13"
+  },
+  {
+   "revision_id": "201703066-0a61f015",
+   "content_sha256": "0a61f01576cec9a1d2a3f172637058e57d2a04b23c9b4a446937ad412595deea",
+   "ee_text": "○ 다음 경우의 비타민 D의 보급 - 임신 ∙ 수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능 ∙ 효과는 다음과 같다. ∙ 비타민D(“농축콜레칼시페롤”) ∙ 뼈, 이의 발육불량 ∙ 구루병의 예방",
+   "ee_doc_id": "18",
+   "official_revision_date": "2024-08-22",
+   "first_observed_at": "2026-08-28T13:24:56Z",
+   "last_observed_at": "2026-08-28T13:24:56Z"
+  },
+  {
+   "revision_id": "201703066-0b4e52dc",
+   "content_sha256": "0b4e52dc2dc443332f1639350c4f491d13ca24bf93e9ee07ac1268bc1048bf6d",
+   "ee_text": "- 임신 ∙ 수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능 ∙ 효과는 다음과 같습니다. ∙ 뼈, 이의 발육불량 ∙ 구루병의 예방",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:56Z",
+   "last_observed_at": "2026-08-28T13:24:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:56Z"
+}

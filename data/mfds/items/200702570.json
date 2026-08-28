@@ -12,15 +12,15 @@
  "edi_code": "650000930",
  "atc_code": "N06AX12",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702570",
+ "history_fetched_at": "2026-08-27T13:47:29Z",
  "revisions": [
   {
    "revision_id": "200702570-7e46a4aa",
    "content_sha256": "7e46a4aad39041393c78da8874203a0710485402c0e2e8a98923ce608e396699",
    "ee_text": "주요우울장애",
-   "ee_doc_id": "27",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200702570/EE",
    "first_observed_at": "2026-08-27T13:47:29Z",
-   "last_observed_at": "2026-08-27T13:47:29Z",
-   "official_revision_date": "2020-05-14"
+   "last_observed_at": "2026-08-28T13:24:11Z"
   },
   {
    "revision_id": "200702570-4fb1dfc6",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:47:29Z",
    "last_observed_at": "2026-08-27T13:47:29Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:47:29Z"
+ ]
 }

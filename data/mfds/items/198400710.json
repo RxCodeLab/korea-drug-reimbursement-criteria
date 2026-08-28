@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198400710",
+ "item_name": "신텍스영강출감탕엑스과립",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "19840913",
+ "cancel_date": "20241001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040006]감초|[M040214]백출|[M040007]건강|[M040225]복령",
+ "main_item_ingr_eng": "Atractylodes Rhizome White/Ginger/Licorice/Poria",
+ "edi_code": "",
+ "atc_code": "G04BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400710",
+ "revisions": [
+  {
+   "revision_id": "198400710-506f1652",
+   "content_sha256": "506f1652e31e5aa9cd25548bce81cc09b096bb21332d10c44af944e518f3d64d",
+   "ee_text": "허리에 냉증(冷症)과 통증이 있고 요량이 많은 다음 증상 : 허리통증, 허리의 냉증(冷症), 야뇨증",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:39Z",
+   "last_observed_at": "2026-08-28T13:23:39Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:39Z"
+}

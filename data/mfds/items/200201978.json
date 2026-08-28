@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201978",
+ "item_name": "페리나돔정(돔페리돈)(수출용)(수출명:DOMPELTabs.)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20021018",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081091]돔페리돈",
+ "main_item_ingr_eng": "Domperidone",
+ "edi_code": "",
+ "atc_code": "A03FA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201978",
+ "revisions": [
+  {
+   "revision_id": "200201978-9b5c441d",
+   "content_sha256": "9b5c441d8ef4251d1207cb983668f34ce8d568047f8018aeadb738a6c30b582e",
+   "ee_text": "오심, 구토 증상의 완화",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

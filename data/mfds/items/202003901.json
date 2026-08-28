@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003901",
+ "item_name": "일성피오글리타존염산염정30밀리그램",
+ "entp_name": "일성아이에스(주)",
+ "permit_date": "20200527",
+ "cancel_date": "20250527",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M235069]피오글리타존염산염",
+ "main_item_ingr_eng": "Pioglitazone Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A10BG03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003901",
+ "revisions": [
+  {
+   "revision_id": "202003901-305697f5",
+   "content_sha256": "305697f5a69e580fbc101aaa2f694c69660d0ccecae581ecf1dda32ab99bfefa",
+   "ee_text": "1. 이 약은 단독요법으로 투여한다. 2. 이 약은 다음의 경우 병용요법으로 투여한다. 다른 경구용 혈당강하제를 사용했음에도 불구하고 혈당개선효과를 보지 못했을 경우에는 설포닐우레아제, 메트포르민 혹은 인슐린과 함께 병용투여",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:19Z",
+   "last_observed_at": "2026-08-28T13:25:19Z",
+   "official_revision_date": "2020-05-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:19Z"
+}

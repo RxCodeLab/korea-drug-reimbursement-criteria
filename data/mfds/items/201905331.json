@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905331",
+ "item_name": "텔미콜정80밀리그램(텔미사르탄)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20190726",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090395]텔미사르탄",
+ "main_item_ingr_eng": "Telmisartan",
+ "edi_code": "658106800",
+ "atc_code": "C09CA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905331",
+ "revisions": [
+  {
+   "revision_id": "201905331-4ea2fe98",
+   "content_sha256": "4ea2fe98a65edeafe0b4f9b63b202a5a48b43190a28d59e6ce20afbf464255bd",
+   "ee_text": "1. 본태성 고혈압 2. 심혈관 질환의 위험성 감소 ACE억제제를 내약성으로 투여할 수 없으며, 주요 심혈관 질환이 발병될 위험성이 높은 만 55세 이상의 환자(관상동맥질환, 말초동맥질환, 뇌졸중, 일과성 허혈 발작에 대한 과거 병력이 있거나 말단 장기 손상의 임상적 증거가 있는 고위험성 당뇨병 환자)에서 심근경색, 뇌종중 및 심혈관 질환으로 인한 사망의 위험성 감소",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:25:10Z",
+   "last_observed_at": "2026-08-28T13:25:10Z",
+   "official_revision_date": "2024-09-19"
+  },
+  {
+   "revision_id": "201905331-4571fa78",
+   "content_sha256": "4571fa78eef2c4415d97a59e801eca09588dfb5f84d7ab78ab5e42da734cadc4",
+   "ee_text": "1. 본태고혈압 2. 심혈관 질환의 위험성 감소 ACE억제제를 내약성으로 투여할 수 없으며, 주요 심혈관 질환이 발병될 위험성이 높은 만 55세 이상의 환자(관상동맥질환, 말초동맥질환, 뇌졸중, 일과성 허혈 발작에 대한 과거 병력이 있거나 말단 장기 손상의 임상적 증거가 있는 고위험성 당뇨병 환자)에서 심근경색, 뇌종중 및 심혈관 질환으로 인한 사망의 위험성 감소",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-07-26",
+   "first_observed_at": "2026-08-28T13:25:10Z",
+   "last_observed_at": "2026-08-28T13:25:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:10Z"
+}

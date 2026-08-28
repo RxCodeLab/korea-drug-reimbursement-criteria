@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001895",
+ "item_name": "센펜연질캡슐(나프록센)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20200318",
+ "cancel_date": "20250609",
+ "status": "취하",
+ "main_item_ingr": "[M050116]나프록센",
+ "main_item_ingr_eng": "Naproxen",
+ "edi_code": "",
+ "atc_code": "M01AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001895",
+ "revisions": [
+  {
+   "revision_id": "202001895-9a3b6938",
+   "content_sha256": "9a3b6938fb594b106404933c6e5715d19b7ca2ee0ef4343f7aba003180df67a1",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건(힘줄)염, 급성통풍, 월경곤란증 활액낭염, 골격근장애(염좌(삠), 좌상(타박상), 외상(상처), 요천통(허리통증)), 수술후 동통(통증), 편두통, 발치후 동통(통증)",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:25:16Z",
+   "last_observed_at": "2026-08-28T13:25:16Z",
+   "official_revision_date": "2020-03-24"
+  },
+  {
+   "revision_id": "202001895-8eef9e7a",
+   "content_sha256": "8eef9e7a5864687f99bec7d1dc7bcae3fd875fca82f8bedb93a23cad1e4ffa3c",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건(힘줄)염, 급성통풍, 월경곤란증 활액낭염, 골격근장애(염좌(삠), 좌상, 외상, 요천통), 수술후 동통(통증), 편두통, 발치후 동통(통증)",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-03-18",
+   "first_observed_at": "2026-08-28T13:25:16Z",
+   "last_observed_at": "2026-08-28T13:25:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:16Z"
+}

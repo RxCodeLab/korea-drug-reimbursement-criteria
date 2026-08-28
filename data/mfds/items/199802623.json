@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199802623",
+ "item_name": "세비타정(수출용)(수출명:메타덱스정,Celesmin Tab., Dexamin Tab., Skabaron Tab.)",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "19980504",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223212]d-클로르페니라민말레산염|[M040218]베타메타손|[M050213]말레인산덱스클로르페니라민|[M040218]베타메타손",
+ "main_item_ingr_eng": "Betamethasone/D-Chlorpheniramine Maleate/Dexchlorpheniramine Maleate",
+ "edi_code": "",
+ "atc_code": "H02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802623",
+ "revisions": [
+  {
+   "revision_id": "199802623-faed5342",
+   "content_sha256": "faed534297c1faa4625c5401358c71804a3a7acc79c842d86a3decceb901b879",
+   "ee_text": "급성 두드러기, 고초열(화분증), 만성 기관지 천식, 알레르기성 비염, 약진, 아토피성 피부염, 습진, 접촉성 피부염, 알레르기성 결막염",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:23:50Z",
+   "last_observed_at": "2026-08-28T13:23:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:50Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907026",
+ "item_name": "피오나정30밀리그램(피오글리타존염산염)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20191002",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M235069]피오글리타존염산염",
+ "main_item_ingr_eng": "Pioglitazone Hydrochloride",
+ "edi_code": "670608320",
+ "atc_code": "A10BG03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907026",
+ "revisions": [
+  {
+   "revision_id": "201907026-14eef38c",
+   "content_sha256": "14eef38c2f60c7e24c9a2a4dab0bfe48d3ebd33cd893853a45a922f2c2013e6e",
+   "ee_text": "- 단독요법 - 병용요법(다른 혈당강하제와 병용)",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:25:12Z",
+   "last_observed_at": "2026-08-28T13:25:12Z",
+   "official_revision_date": "2022-08-02"
+  },
+  {
+   "revision_id": "201907026-305697f5",
+   "content_sha256": "305697f5a69e580fbc101aaa2f694c69660d0ccecae581ecf1dda32ab99bfefa",
+   "ee_text": "1. 이 약은 단독요법으로 투여한다. 2. 이 약은 다음의 경우 병용요법으로 투여한다. 다른 경구용 혈당강하제를 사용했음에도 불구하고 혈당개선효과를 보지 못했을 경우에는 설포닐우레아제, 메트포르민 혹은 인슐린과 함께 병용투여",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-10-02",
+   "first_observed_at": "2026-08-28T13:25:12Z",
+   "last_observed_at": "2026-08-28T13:25:12Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:12Z"
+}

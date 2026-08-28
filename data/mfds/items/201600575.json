@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600575",
+ "item_name": "원틸라겔",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20160128",
+ "cancel_date": "20260128",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액|[M203064]리도카인염산염일수화물",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution/Lidocaine Hydrochloride Monohydrate",
+ "edi_code": "",
+ "atc_code": "N01BB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600575",
+ "revisions": [
+  {
+   "revision_id": "201600575-6400ed67",
+   "content_sha256": "6400ed670bd4e15df4df0cb2992d776468101e3b9c76019d02a3fd6d5d12ccde",
+   "ee_text": "다음 시술시 표면마취, 소독 : 카테터 삽입, 요도(남성·여성)내 수술, 각종 내시경 검사, 삽관, 시술로 인한 직장과 결장에서의 손상 예방",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:24:47Z",
+   "last_observed_at": "2026-08-28T13:24:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:47Z"
+}

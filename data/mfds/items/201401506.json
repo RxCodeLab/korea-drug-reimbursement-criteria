@@ -12,15 +12,15 @@
  "edi_code": "648902821,648902822,648902823,648902824,648902825",
  "atc_code": "B02BD02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401506",
+ "history_fetched_at": "2026-08-27T12:12:29Z",
  "revisions": [
   {
    "revision_id": "201401506-2213e476",
    "content_sha256": "2213e4766620eb8400e265a0c5adf0d6674759de64dd9821e92b1bdb634e8b69",
    "ee_text": "이 약은 소아 및 성인 혈우병 A(선천성 VIII 인자 결핍증)환자에서 다음의 경우에 사용한다. ⦁ 출혈 시 보충요법(on-demand) 및 출혈 억제 ⦁ 수술 전후 관리 ⦁ 출혈 빈도 감소를 위한 일상적 예방요법 이 약은 본 빌레브란트 인자를 함유하고 있지 않으므로 본 빌레브란트 환자의 치료에는 사용하지 않는다.",
-   "ee_doc_id": "28",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201401506/EE",
    "first_observed_at": "2026-08-27T12:12:29Z",
-   "last_observed_at": "2026-08-27T12:12:29Z",
-   "official_revision_date": "2022-08-29"
+   "last_observed_at": "2026-08-28T13:24:35Z"
   },
   {
    "revision_id": "201401506-3b018ae8",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:12:29Z",
    "last_observed_at": "2026-08-27T12:12:29Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:12:29Z"
+ ]
 }

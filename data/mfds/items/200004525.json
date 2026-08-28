@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200004525",
+ "item_name": "기가천과립(소청룡탕)",
+ "entp_name": "한솔신약(주)",
+ "permit_date": "20000617",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040202]반하|[M040445]오미자|[M040293]세신|[M050037]계지|[M040006]감초|[M040007]건강|[M040523]작약|[M040135]마황",
+ "main_item_ingr_eng": "Asiasarum Root and Rhizome/Cinnamomi Ramulus/Ephedra Herb/Ginger/Licorice/Peony Root/Pinellia Tuber/Schisandra Fruit",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004525",
+ "revisions": [
+  {
+   "revision_id": "200004525-e4a5f91e",
+   "content_sha256": "e4a5f91ea7da4bc76cf2af8abb579e30c60020daf2ce385e5105aae71d66a9ce",
+   "ee_text": "기관지염, 기관지천식, 콧물, 묽은 가래를 수반하는 기침, 비염",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

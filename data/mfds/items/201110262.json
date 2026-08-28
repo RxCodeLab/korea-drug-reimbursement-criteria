@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201110262",
+ "item_name": "아미나엑스정(니코틴산아미드)",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20111122",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드",
+ "main_item_ingr_eng": "Nicotinamide",
+ "edi_code": "",
+ "atc_code": "A11HA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110262",
+ "revisions": [
+  {
+   "revision_id": "201110262-a20f7acb",
+   "content_sha256": "a20f7acb8f0c9aeeb8d02844f8b02f8a689be1dc5dd66ecef41ab8b0a3158973",
+   "ee_text": "니코틴산아미드 결핍의 치료",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:24:27Z",
+   "last_observed_at": "2026-08-28T13:24:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:27Z"
+}

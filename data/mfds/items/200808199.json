@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200808199",
+ "item_name": "발사르정80밀리그램(발사르탄)",
+ "entp_name": "국제약품(주)",
+ "permit_date": "20080728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090403]발사르탄",
+ "main_item_ingr_eng": "Valsartan",
+ "edi_code": "",
+ "atc_code": "C09CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808199",
+ "revisions": [
+  {
+   "revision_id": "200808199-843898b7",
+   "content_sha256": "843898b79aa1033024f7e59ad3ff333358c477d67faa1ce58f5c70c4b35a196f",
+   "ee_text": "ACE억제제에 불내성(intolerant)인 심부전(NYHA class Ⅱ ∼ Ⅳ) 증상, 증후 혹은 방사선학적으로 좌심실 부전 및/또는 좌심실 수축 기능 부전을 가진 임상적으로 안정된 환자에서의 심근경색 후 사망 위험성 감소",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200808199/EE",
+   "first_observed_at": "2026-08-28T13:24:19Z",
+   "last_observed_at": "2026-08-28T13:24:19Z"
+  },
+  {
+   "revision_id": "200808199-91c248c0",
+   "content_sha256": "91c248c0d76215cd824ac9fedf6e8bb1751ff64a01e2de9b41d6d965fe5b762c",
+   "ee_text": "(정제) ACE억제제에 불내성(intolerant)인 심부전(NYHA class Ⅱ ∼ Ⅳ) 증상, 증후 혹은 방사선학적으로 좌심실 부전 및/또는 좌심실 수축 기능 부전을 가진 임상적으로 안정된 환자에서의 심근경색 후 사망 위험성 감소",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:19Z",
+   "last_observed_at": "2026-08-28T13:24:19Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:19Z"
+}

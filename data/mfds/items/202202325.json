@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202325",
+ "item_name": "아미파티백주3%",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20220602",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M218567]L-메티오닌|[M204442]L-페닐알라닌|[M103060]L-트레오닌|[M281781]L-트립토판|[M209360]L-발린|[M103077]L-아르기닌|[M281780]L-리신아세트산염|[M222531]L-류신|[M251877]L-시스테인염산염수화물|[M222530]L-이소류신|[M215288]L-히스티딘|[M209366]L-알라닌|[M088656]글리신|[M214861]L-프롤린|[M204435]L-세린",
+ "main_item_ingr_eng": "Glycine/L-Alanine/L-Arginine/L-Cysteine Hydrochloride Hydrate/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Acetate/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Valine",
+ "edi_code": "",
+ "atc_code": "B05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202325",
+ "revisions": [
+  {
+   "revision_id": "202202325-ceec1cab",
+   "content_sha256": "ceec1cab7970035ef14bd4e8e9e7cd97290cc2e657a12fd90eba075dff91c5cf",
+   "ee_text": "다음 상태시의 아미노산 보급 : 저단백혈증, 저영양상태, 수술전후",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:29Z",
+   "last_observed_at": "2026-08-28T13:25:29Z",
+   "official_revision_date": "2022-06-02"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:29Z"
+}

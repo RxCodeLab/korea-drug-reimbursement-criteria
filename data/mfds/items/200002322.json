@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002322",
+ "item_name": "윤장환",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20001218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083185]속미|[M050036]육계|[M040225]복령|[M040213]인삼|[M040214]백출|[M040550]천궁|[M040523]작약|[M040070]당귀",
+ "main_item_ingr_eng": "Angelica Gigas Root/Atractylodes Rhizome White/Cinnamon Bark/Cnidium Rhizome/Ginseng/Hulled Millet/Peony Root/Poria",
+ "edi_code": "",
+ "atc_code": "A07XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002322",
+ "revisions": [
+  {
+   "revision_id": "200002322-d6c7f2c4",
+   "content_sha256": "d6c7f2c4d9a8a8321f0ee24b692a9c1f4b404bbc374c2a042e0d978bd1599db5",
+   "ee_text": "급·만성장염, 설사, 궤양성 대장염",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:23:55Z",
+   "last_observed_at": "2026-08-28T13:23:55Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:55Z"
+}

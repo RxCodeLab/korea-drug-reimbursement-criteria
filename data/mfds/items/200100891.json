@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100891",
+ "item_name": "클리드점안액",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20010605",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040473]요오드화칼륨|[M040467]요오드화나트륨",
+ "main_item_ingr_eng": "Potassium Iodide/Sodium Iodide",
+ "edi_code": "651201791",
+ "atc_code": "S01XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100891",
+ "revisions": [
+  {
+   "revision_id": "200100891-78e6ce1c",
+   "content_sha256": "78e6ce1c70321b5c3556c149920c82e7ad9b66aab2fbb714f086329ca44a642c",
+   "ee_text": "노인성 백내장 초기증상으로서의 렌즈혼탁",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2023-08-24"
+  },
+  {
+   "revision_id": "200100891-07374039",
+   "content_sha256": "07374039725792bd0757ba503f8c14d887c950dcff5df38e7b498fb4cb7d5259",
+   "ee_text": "노화ㆍ근시ㆍ고혈압ㆍ당뇨병ㆍ정맥주위염으로 인한 출혈, 노인성 백내장 초기증상으로서의 렌즈혼탁",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

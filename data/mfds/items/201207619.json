@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201207619",
+ "item_name": "슈메드현탁액(수크랄페이트수화물)(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20121101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223077]수크랄페이트수화물|[M223077]수크랄페이트수화물",
+ "main_item_ingr_eng": "Sucralfate Hydrate",
+ "edi_code": "",
+ "atc_code": "A02BX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207619",
+ "revisions": [
+  {
+   "revision_id": "201207619-95837e7e",
+   "content_sha256": "95837e7eb0e71d713c57499bf09b16740922506f115f9d1024a69da3950a315a",
+   "ee_text": "위산과다, 위.십이지장궤양, 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기 역류성식도염",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:24:29Z",
+   "last_observed_at": "2026-08-28T13:24:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:29Z"
+}

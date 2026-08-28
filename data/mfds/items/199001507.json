@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199001507",
+ "item_name": "탄돌캡슐(트라마돌염산염)(수출용)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "19900129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222893]트라마돌염산염",
+ "main_item_ingr_eng": "Tramadol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001507",
+ "revisions": [
+  {
+   "revision_id": "199001507-f9d2b3cc",
+   "content_sha256": "f9d2b3cc1ccb15dda97a9a69484139119073540b0f00df6194242313ec234d26",
+   "ee_text": "중증 및 중등도의 급만성 동통(각종 암 등), 진단 및 수술후 동통",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:43Z"
+}

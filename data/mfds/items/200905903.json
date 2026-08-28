@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200905903",
+ "item_name": "트레스탄츄정",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "20090724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096429]시아노코발라민|[M222998]L-리신염산염|[M246203]DL-카르니틴염산염|[M254960]시프로헵타딘오로트산염수화물",
+ "main_item_ingr_eng": "Cyanocobalamin/Cyproheptadine Orotate Hydrate/DL-Carnitine Hydrochloride/L-Lysine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905903",
+ "revisions": [
+  {
+   "revision_id": "200905903-0e812b17",
+   "content_sha256": "0e812b17d9cbe64ce9161fadede641097f5b3379b8a9fdc89441f2bebe4a15cf",
+   "ee_text": "식욕부진",
+   "ee_doc_id": "27",
+   "first_observed_at": "2026-08-28T13:24:22Z",
+   "last_observed_at": "2026-08-28T13:24:22Z",
+   "official_revision_date": "2020-09-30"
+  },
+  {
+   "revision_id": "200905903-a0945af1",
+   "content_sha256": "a0945af1662c17f2ffd7b522016e771da1a93f1ffd757dc78284d5de879ae989",
+   "ee_text": "식욕부진 ※ 국내임상시험결과 추가제출",
+   "ee_doc_id": "19",
+   "official_revision_date": "2019-05-15",
+   "first_observed_at": "2026-08-28T13:24:22Z",
+   "last_observed_at": "2026-08-28T13:24:22Z"
+  },
+  {
+   "revision_id": "200905903-abfc2d59",
+   "content_sha256": "abfc2d598b31b48e98bf0ea25c619ea09b6b04cb920cb53665959f560ab787f6",
+   "ee_text": "식욕부진, 성장부진 ※ 국내임상시험결과 추가제출",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:22Z",
+   "last_observed_at": "2026-08-28T13:24:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:22Z"
+}

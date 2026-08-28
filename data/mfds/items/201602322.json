@@ -12,15 +12,15 @@
  "edi_code": "",
  "atc_code": "M02AA31",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602322",
+ "history_fetched_at": "2026-08-27T12:15:13Z",
  "revisions": [
   {
    "revision_id": "201602322-e236d904",
    "content_sha256": "e236d9042257e3b2314942473e6eda765db48f68c62c66cbda0bfa016c919429",
    "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염): 퇴행성관절염(골(뼈)관절염), 근육통, 외상(상처) 후의 종창(부기), 통증",
-   "ee_doc_id": "12",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201602322/EE",
    "first_observed_at": "2026-08-27T12:15:13Z",
-   "last_observed_at": "2026-08-27T12:15:13Z",
-   "official_revision_date": "2021-10-19"
+   "last_observed_at": "2026-08-28T13:24:49Z"
   },
   {
    "revision_id": "201602322-6dcdf24d",
@@ -40,6 +40,5 @@
    "first_observed_at": "2026-08-27T12:15:13Z",
    "last_observed_at": "2026-08-27T12:15:13Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:15:13Z"
+ ]
 }

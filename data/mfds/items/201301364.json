@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201301364",
+ "item_name": "제로바액",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20130115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051289]인산일수소칼륨|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M040438]염화칼륨|[M040426]염화나트륨|[M204410]D-소르비톨|[M244062]카르복시메틸셀룰로오스나트륨|[M051289]인산일수소칼륨|[M244062]카르복시메틸셀룰로오스나트륨|[M204410]D-소르비톨|[M040426]염화나트륨|[M040438]염화칼륨|[M217500]염화칼슘수화물|[M051111]염화마그네슘",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Carboxymethylcellulose Sodium/D-Sorbitol/Dibasic Potassium Phosphate/Magnesium Chloride/Potassium Chloride/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "A01AD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301364",
+ "revisions": [
+  {
+   "revision_id": "201301364-a6083731",
+   "content_sha256": "a6083731f7bcd7e1c05e6d4258209f4c9f288a9f93c683de78a4664298825f96",
+   "ee_text": "(분무제) 다음 원인으로 인한 타액분비감소 - 약물치료, 구강 또는 인후 부근의 방사선 치료, 타액선 감염, 구강 또는 인후감염, 치아 또는 구강수술, 발열, 정서적요인",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:29Z",
+   "last_observed_at": "2026-08-28T13:24:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:29Z"
+}

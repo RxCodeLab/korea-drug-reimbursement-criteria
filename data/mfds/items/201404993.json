@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404993",
+ "item_name": "올딥정5/40밀리그램",
+ "entp_name": "(주)일화",
+ "permit_date": "20141028",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222875]암로디핀베실산염|[M269761]올메사르탄메독소밀",
+ "main_item_ingr_eng": "Amlodipine Besylate/Olmesartan Medoxomil",
+ "edi_code": "640902810",
+ "atc_code": "C09DB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404993",
+ "revisions": [
+  {
+   "revision_id": "201404993-80a6f66a",
+   "content_sha256": "80a6f66aee6e629d6cc9d87cf56b3d02ea6712da02737119a44abd1abdea98f0",
+   "ee_text": "암로디핀 또는 올메사르탄메독소밀 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압의 치료",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:39Z",
+   "last_observed_at": "2026-08-28T13:24:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:39Z"
+}

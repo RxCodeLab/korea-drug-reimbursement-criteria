@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201000969",
+ "item_name": "로수리딘정20밀리그램(로수바스타틴칼슘)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20100128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095744]로수바스타틴칼슘",
+ "main_item_ingr_eng": "Rosuvastatin Calcium",
+ "edi_code": "641804760",
+ "atc_code": "C10AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000969",
+ "revisions": [
+  {
+   "revision_id": "201000969-2ac789cc",
+   "content_sha256": "2ac789cce77c7c9a0a2493bc7ab8e8cf566fc14cd82f47b85f26ae1f1bfeca1b",
+   "ee_text": "190 mg/dL)]]> 160 mg/dL), 조기 심혈관 질환의 가족력이 있거나 두가지 이상의 심혈관 질환 위험 인자가 있는 경우]]>",
+   "ee_doc_id": "29",
+   "first_observed_at": "2026-08-28T13:24:22Z",
+   "last_observed_at": "2026-08-28T13:24:22Z",
+   "official_revision_date": "2024-04-12"
+  },
+  {
+   "revision_id": "201000969-38b8eb6d",
+   "content_sha256": "38b8eb6d09b4b82f5d7780bd2cca016437d983b48e9a0c7b9a600de54b192831",
+   "ee_text": "- 뇌졸중에 대한 위험성 감소 - 심근경색에 대한 위험성 감소 - 동맥 혈관재형성술에 대한 위험성 감소",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:22Z",
+   "last_observed_at": "2026-08-28T13:24:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:22Z"
+}

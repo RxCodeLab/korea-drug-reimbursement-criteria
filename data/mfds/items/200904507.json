@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200904507",
+ "item_name": "다이락스-큐정",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20090626",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M081950]도큐세이트나트륨|[M050687]비사코딜",
+ "main_item_ingr_eng": "Bisacodyl/Docusate Sodium/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904507",
+ "revisions": [
+  {
+   "revision_id": "200904507-0a2986a0",
+   "content_sha256": "0a2986a0a2607ee1069a499f83ae66392f4d76c0323ae56b6691d10413dacd9f",
+   "ee_text": ": 식욕부진(식욕감퇴), 복부(배부분)팽만, 장내이상발효, 치질",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:21Z"
+}

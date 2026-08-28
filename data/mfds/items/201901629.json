@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901629",
+ "item_name": "에어케어정5밀리그램(솔리페나신숙신산염)",
+ "entp_name": "안국뉴팜(주)",
+ "permit_date": "20190318",
+ "cancel_date": "20240318",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M259862]솔리페나신숙신산염",
+ "main_item_ingr_eng": "Solifenacin Succinate",
+ "edi_code": "",
+ "atc_code": "G04BD08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901629",
+ "revisions": [
+  {
+   "revision_id": "201901629-4145c1eb",
+   "content_sha256": "4145c1ebae3021d91162bfbe53c6a95dfd0b233e15780a821dc1a123b86b93ff",
+   "ee_text": "절박성 뇨실금,빈뇨,요절박과 같은 과민성방광 증상의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:05Z",
+   "last_observed_at": "2026-08-28T13:25:05Z",
+   "official_revision_date": "2019-03-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:05Z"
+}

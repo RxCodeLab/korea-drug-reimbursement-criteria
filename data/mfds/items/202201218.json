@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201218",
+ "item_name": "광동에너릭정",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20220328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096429]시아노코발라민|[M204304]피리독신염산염|[M223262]티아민질산염|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Cyanocobalamin/Pyridoxine Hydrochloride/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201218",
+ "revisions": [
+  {
+   "revision_id": "202201218-e129ba9d",
+   "content_sha256": "e129ba9d82dee6876e59137acf3e88eb1bde6256a0316b74a961dc785a2ce1e0",
+   "ee_text": "졸음, 피로회복",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:28Z",
+   "last_observed_at": "2026-08-28T13:25:28Z",
+   "official_revision_date": "2022-03-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:28Z"
+}

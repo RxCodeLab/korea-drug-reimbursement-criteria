@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900032",
+ "item_name": "한풍황금탕엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19790818",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040789]황금|[M040523]작약|[M040071]대추|[M040006]감초",
+ "main_item_ingr_eng": "Jujube/Licorice/Peony Root/Scutellaria Root",
+ "edi_code": "",
+ "atc_code": "C04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900032",
+ "revisions": [
+  {
+   "revision_id": "197900032-4842d70b",
+   "content_sha256": "4842d70bcaf1ec18fe7facf83b381d288e9fd6aa0514385eb08d733ed477855b",
+   "ee_text": "발열, 한기, 복통, 오목가슴의 마침중 어느 것인가를 동반하는 다음 제증 : 하리, 위장카탈",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:38Z"
+}

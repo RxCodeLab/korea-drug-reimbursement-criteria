@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310403",
+ "item_name": "코싹엘정(레보세티리진,슈도에페드린)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20131129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203364]슈도에페드린염산염|[M244596]레보세티리진염산염",
+ "main_item_ingr_eng": "Levocetirizine Hydrochloride/Pseudoephedrine Hydrochloride",
+ "edi_code": "643506740",
+ "atc_code": "R01BA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310403",
+ "revisions": [
+  {
+   "revision_id": "201310403-dc03f819",
+   "content_sha256": "dc03f8194a594bc21572099036d048638e3002bd1b21f610c14200e538e479ac",
+   "ee_text": "다음 증상을 수반하는 계절성 및 다년성 알레르기 비염의 완화: 코막힘, 재채기, 콧물, 눈ㆍ코의 소양증",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-28T13:24:33Z",
+   "last_observed_at": "2026-08-28T13:24:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:33Z"
+}

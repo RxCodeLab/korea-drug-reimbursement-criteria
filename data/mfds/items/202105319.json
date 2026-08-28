@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105319",
+ "item_name": "위엔자임정",
+ "entp_name": "주식회사 노바엠헬스케어",
+ "permit_date": "20210713",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040678]판크레아틴|[M100297]셀룰라제|[M273864]우담즙 건조엑스|[M223083]시메티콘",
+ "main_item_ingr_eng": "Cellulase/Ox Bile Dried Extract/Pancreatin/Simethicone",
+ "edi_code": "",
+ "atc_code": "A09AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105319",
+ "revisions": [
+  {
+   "revision_id": "202105319-286238c3",
+   "content_sha256": "286238c3b12d46d86e2ad405992ae10e43fd39d2ee3a5cf7ad3fca20120802ff",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:25Z",
+   "last_observed_at": "2026-08-28T13:25:25Z",
+   "official_revision_date": "2021-07-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:25Z"
+}

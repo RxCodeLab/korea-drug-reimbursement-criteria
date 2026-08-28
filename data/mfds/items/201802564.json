@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802564",
+ "item_name": "복합마이녹실액5%",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20180620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279284]L-멘톨|[M223240]토코페롤아세테이트|[M204304]피리독신염산염|[M081480]미녹시딜",
+ "main_item_ingr_eng": "L-Menthol/Minoxidil/Pyridoxine Hydrochloride/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "D11AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802564",
+ "revisions": [
+  {
+   "revision_id": "201802564-bbdac689",
+   "content_sha256": "bbdac689385fd504a529668820faaf6ccc53e4e4123cc0de299b4c2362535a69",
+   "ee_text": "남성형 탈모증(안드로젠탈모증)의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:00Z",
+   "last_observed_at": "2026-08-28T13:25:00Z",
+   "official_revision_date": "2018-06-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:00Z"
+}

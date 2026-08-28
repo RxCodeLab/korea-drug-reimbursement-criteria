@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003314",
+ "item_name": "발사로탄정(발사르탄)",
+ "entp_name": "건일바이오팜주식회사",
+ "permit_date": "20200507",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090403]발사르탄",
+ "main_item_ingr_eng": "Valsartan",
+ "edi_code": "073000690",
+ "atc_code": "C09CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003314",
+ "revisions": [
+  {
+   "revision_id": "202003314-89de4d35",
+   "content_sha256": "89de4d352720281c804975a17fb3a3a4d0752e1c91151ac51e5faf0f8bafe717",
+   "ee_text": "* 40, 80, 160 mg 1. 본태고혈압 2. 심부전 ACE억제제에 불내성(intolerant)인 심부전(NYHA class Ⅱ ∼ Ⅳ) 3. 심근경색 후의 사망 위험성 감소 증상, 증후 혹은 방사선학적으로 좌심실 부전 및/또는 좌심실 수축 기능 부전을 가진 임상적으로 안정된 환자에서의 심근경색 후 사망 위험성 감소",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:18Z",
+   "last_observed_at": "2026-08-28T13:25:18Z",
+   "official_revision_date": "2020-05-07"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:18Z"
+}

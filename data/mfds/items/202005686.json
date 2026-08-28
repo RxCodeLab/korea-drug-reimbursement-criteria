@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005686",
+ "item_name": "우르콜정300밀리그램(우르소데옥시콜산)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20200806",
+ "cancel_date": "20231214",
+ "status": "취하",
+ "main_item_ingr": "[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A05AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005686",
+ "revisions": [
+  {
+   "revision_id": "202005686-c3653437",
+   "content_sha256": "c3653437b0fba4786b87fbe7a5f05ddc42e482f05fe0c2d42cde707a0daf1b0c",
+   "ee_text": "○ 원발 쓸개관 간경화증(Primary Biliary Cirrhosis : PBC)의 간기능 개선 ○ 급격한 체중 감소를 겪은 비만 환자에서의 담석예방 ○ 위 절제술을 시행한 위암 환자에서의 담석예방",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z",
+   "official_revision_date": "2020-08-14"
+  },
+  {
+   "revision_id": "202005686-1282b48b",
+   "content_sha256": "1282b48b4ad82d722a73af74e12f059a6a74b67cb752bc8b74fd22929e16afc7",
+   "ee_text": "○ 원발 쓸개관 간경화증(Primary Billary Cirrhosis : PBC)의 간기능 개선 ○ 급격한 체중 감소를 겪은 비만 환자에서의 담석예방 ○ 위 절제술을 시행한 위암 환자에서의 담석예방",
+   "ee_doc_id": "1",
+   "official_revision_date": "2020-08-06",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:21Z"
+}

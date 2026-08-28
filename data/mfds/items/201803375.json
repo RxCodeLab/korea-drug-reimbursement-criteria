@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803375",
+ "item_name": "녹십자폴산정",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20180817",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223289]폴산",
+ "main_item_ingr_eng": "Folic Acid",
+ "edi_code": "",
+ "atc_code": "B03BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803375",
+ "revisions": [
+  {
+   "revision_id": "201803375-524b135a",
+   "content_sha256": "524b135ab6582b8b3d8ab7331f1d962a30abda91c749def32a201ac573740145",
+   "ee_text": "소모성 질환, 임부 및 수유부 1) 영양결핍성빈혈, 임신성빈혈, 소아빈혈 2) 항전간[뇌전증]제 투여로 인한 빈혈",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:25:01Z",
+   "last_observed_at": "2026-08-28T13:25:01Z",
+   "official_revision_date": "2023-08-08"
+  },
+  {
+   "revision_id": "201803375-d9b4200e",
+   "content_sha256": "d9b4200efc30d112639508bcd912338dbf421bce2d65587e51f879a536521f0d",
+   "ee_text": "소모성 질환, 임부 및 수유부 1) 영양결핍성빈혈, 임신성빈혈, 소아빈혈 2) 항전간제 투여로 인한 빈혈",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-08-17",
+   "first_observed_at": "2026-08-28T13:25:01Z",
+   "last_observed_at": "2026-08-28T13:25:01Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:01Z"
+}

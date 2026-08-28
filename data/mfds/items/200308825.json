@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308825",
+ "item_name": "스노콜정",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20031117",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M222724]페닐레프린염산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/Phenylephrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01BA53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308825",
+ "revisions": [
+  {
+   "revision_id": "200308825-a500fe35",
+   "content_sha256": "a500fe357335888b0020310bfff5698afb84b2f9db2a06479db7ec6e608103ba",
+   "ee_text": "- 감기 또는 알레르기성 및 혈관운동성 비염에 의한 다음 증상의 완화 : 재치기, 콧물, 코막힘, 눈물 - 부비동염에 의함 비충혈의 일시적 완화",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201700837",
+ "item_name": "실로큐민정(실로스타졸, 은행엽건조엑스)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "20170216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070044]실로스타졸|[M088948]은행엽건조엑스",
+ "main_item_ingr_eng": "Cilostazol/Ginkgo Biloba Leaf Dried Extract",
+ "edi_code": "658603410",
+ "atc_code": "B01AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700837",
+ "revisions": [
+  {
+   "revision_id": "201700837-ff5e8bae",
+   "content_sha256": "ff5e8baec666f819c06ff5b4add28daed02166a30915409d651256ed0a677523",
+   "ee_text": "다음 질환에 대하여 실로스타졸 단독요법으로 효과가 불충분한 경우, 실로스타졸과 은행엽건조엑스 제제의 병용요법에 대한 대체요법",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:54Z",
+   "last_observed_at": "2026-08-28T13:24:54Z",
+   "official_revision_date": "2019-11-12"
+  },
+  {
+   "revision_id": "201700837-ce792455",
+   "content_sha256": "ce792455c5daa687d577d583ca3611c678004993a67e1d168f1c058470a30e77",
+   "ee_text": "다음 질환에 대하여 실로스타졸 단독요법으로 효과가 불충분한 경우, 실로스타졸과 은행엽엑스 제제의 병용요법에 대한 대체요법",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:54Z",
+   "last_observed_at": "2026-08-28T13:24:54Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:54Z"
+}

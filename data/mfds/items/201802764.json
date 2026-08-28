@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802764",
+ "item_name": "비카페롤정",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20180702",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051564]탄산칼슘|[M086116]농축콜레칼시페롤",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate",
+ "edi_code": "653404080",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802764",
+ "revisions": [
+  {
+   "revision_id": "201802764-41b08e57",
+   "content_sha256": "41b08e57c1e074a939cdd9439cacb8b8a9279bb118ca7c10e7a69907ce6debeb",
+   "ee_text": "○ 다음 경우의 비타민 D의 보급 - 임신ㆍ수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ᠊ 비타민 D(콜레칼시페롤) : 뼈, 이의 발육불량, 구루병의 예방",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:25:01Z",
+   "last_observed_at": "2026-08-28T13:25:01Z",
+   "official_revision_date": "2022-03-10"
+  },
+  {
+   "revision_id": "201802764-3c72f62c",
+   "content_sha256": "3c72f62c2e6e9376b3c0c94ecbaf7152d7b6d9e5d0be55358c81a14a8abc169b",
+   "ee_text": "다음 경우의 비타민 D의 보급 - 임신ㆍ수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ 뼈, 이의 발육불량 ㆍ 구루병의 예방",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-07-02",
+   "first_observed_at": "2026-08-28T13:25:01Z",
+   "last_observed_at": "2026-08-28T13:25:01Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:01Z"
+}

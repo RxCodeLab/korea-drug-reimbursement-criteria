@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300038",
+ "item_name": "한풍통도산엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19830827",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040086]도인|[M040538]진피|[M040813]후박|[M051351]지각|[M080844]소목|[M040785]홍화|[M040186]목통|[M088654]망초|[M040006]감초|[M040070]당귀|[M040073]대황",
+ "main_item_ingr_eng": "Akebia Stem/Angelica Gigas Root/Aurantii Fructus Immaturus/Citrus Unshiu Peel/Licorice/Magnolia Bark/Natrii Sulfas/Peach Kernel/Rhubarb/Safflower/Sappan Wood",
+ "edi_code": "",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300038",
+ "revisions": [
+  {
+   "revision_id": "198300038-8fd1bb49",
+   "content_sha256": "8fd1bb4994d238e6986c0c53be0b3a95ef633d8bef080f046d5a129e66a88539",
+   "ee_text": "어혈이 있는 사람의 다음 증상 : 타박상, 배뇨곤란, 배변곤란, 명치와 배의 팽만감",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:23:38Z",
+   "last_observed_at": "2026-08-28T13:23:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:38Z"
+}

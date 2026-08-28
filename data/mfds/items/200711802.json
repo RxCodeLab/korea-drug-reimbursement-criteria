@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711802",
+ "item_name": "루베리스주75아이유(루트로핀알파)",
+ "entp_name": "머크(주)",
+ "permit_date": "20071026",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100817]루트로핀알파(인황체형성호르몬)(유전자재조합)",
+ "main_item_ingr_eng": "Lutropin Alpha (Human Luteinizing Hormone, rDNA)",
+ "edi_code": "661700171",
+ "atc_code": "G03GA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711802",
+ "revisions": [
+  {
+   "revision_id": "200711802-41a98e7f",
+   "content_sha256": "41a98e7fd163e7babda17b12be5e4f92e7ffa5c3fb6ca465600cd0714f141f9f",
+   "ee_text": "중증의 황체형성호르몬(LH)와 난포자극호르몬(FSH) 결핍 여성에서 FSH와 병용하여 난포 발달의 자극",
+   "ee_doc_id": "27",
+   "first_observed_at": "2026-08-28T13:24:15Z",
+   "last_observed_at": "2026-08-28T13:24:15Z",
+   "official_revision_date": "2023-01-30"
+  },
+  {
+   "revision_id": "200711802-3bed39fc",
+   "content_sha256": "3bed39fccb92aae84399f32dfbe0c94a20fc7a69c6bfecdb9182d5c388b0b58b",
+   "ee_text": "심각한 황체형성호르몬(LH)와 난포자극호르몬(FSH) 결핍 여성에서 FSH와 병용하여 난포 발달의 자극 임상시험에서 심각한 LH결핍 환자는 내인성 혈청 LH 농도 1.2IU/L미만으로 정의되었다.",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:15Z",
+   "last_observed_at": "2026-08-28T13:24:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:15Z"
+}

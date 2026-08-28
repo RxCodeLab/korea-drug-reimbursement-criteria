@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501620",
+ "item_name": "피마솔로정30밀리그램(피마사르탄칼륨삼수화물)",
+ "entp_name": "한국프라임제약(주)",
+ "permit_date": "20250630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258703]피마사르탄칼륨삼수화물",
+ "main_item_ingr_eng": "Fimasartan Potassium Trihydrate",
+ "edi_code": "663608970",
+ "atc_code": "C09CA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501620",
+ "revisions": [
+  {
+   "revision_id": "202501620-537608d8",
+   "content_sha256": "537608d8c23b4946d15c9a992f50eb561626cf138c5692f043da533251d08548",
+   "ee_text": "1. 본태성고혈압",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:37Z",
+   "last_observed_at": "2026-08-28T13:25:37Z",
+   "official_revision_date": "2025-06-30"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:37Z"
+}

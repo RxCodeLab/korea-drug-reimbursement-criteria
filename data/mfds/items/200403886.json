@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403886",
+ "item_name": "콜다운연질캡슐",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20040420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090847]비타민E|[M080392]콩기름불검화물|[M223278]판테틴",
+ "main_item_ingr_eng": "Pantethine/Tocopherol/Unsaponifiable Matter of Soybean Oil",
+ "edi_code": "",
+ "atc_code": "C10B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403886",
+ "revisions": [
+  {
+   "revision_id": "200403886-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:06Z",
+   "last_observed_at": "2026-08-28T13:24:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:06Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507229",
+ "item_name": "세티레인캡슐200mg(아세틸시스테인)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20151019",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050972]아세틸시스테인",
+ "main_item_ingr_eng": "Acetylcysteine",
+ "edi_code": "644603260",
+ "atc_code": "R05CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507229",
+ "revisions": [
+  {
+   "revision_id": "201507229-fb7f2c89",
+   "content_sha256": "fb7f2c89c01c97852d637512e9cde5240993aa28db779dfab1848edbd174191a",
+   "ee_text": "다음 질환에서의 객담배출곤란 : 급․만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:45Z",
+   "last_observed_at": "2026-08-28T13:24:45Z",
+   "official_revision_date": "2020-10-12"
+  },
+  {
+   "revision_id": "201507229-06e627d8",
+   "content_sha256": "06e627d87744db12ad93e2a04260ac67962369b047df4a147b77f7d035eda567",
+   "ee_text": "1) 다음 질환에서의 객담배출곤란 : 급·만성기관지염, 기관지확장증, 천식성기관지염, 기관지천식, 세기관지염, 낭성섬유증 2) 인·후두염, 부비강염, 삼출성 및 장액성중이염",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:45Z",
+   "last_observed_at": "2026-08-28T13:24:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:45Z"
+}

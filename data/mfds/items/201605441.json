@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605441",
+ "item_name": "메모큐액",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20160906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096429]시아노코발라민|[M103034]DL-포스포세린|[M202240]L-글루타민",
+ "main_item_ingr_eng": "Cyanocobalamin/DL-Phosphoserine/L-Glutamine",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605441",
+ "revisions": [
+  {
+   "revision_id": "201605441-549c98d2",
+   "content_sha256": "549c98d2aa330faf560b9f0eb61994fa38ce564e6efc0e5f69ebaf6890876b18",
+   "ee_text": "식욕감퇴로 나타나는 정신적 피로, 무력증, 소모성 질환",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:51Z",
+   "last_observed_at": "2026-08-28T13:24:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:51Z"
+}

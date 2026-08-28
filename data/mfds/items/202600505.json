@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600505",
+ "item_name": "데이원비타정",
+ "entp_name": "초당약품공업(주)",
+ "permit_date": "20260223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258994]아스코르브산|[M040064]니코틴산아미드|[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M117558]시아노코발라민 1000배산|[M040133]리보플라빈|[M223262]티아민질산염|[M223289]폴산|[M249983]D-비오틴",
+ "main_item_ingr_eng": "Ascorbic Acid/Calcium Pantothenate/Cyanocobalamin Powder 0.1%/D-Biotin/Folic Acid/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A11EB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600505",
+ "revisions": [
+  {
+   "revision_id": "202600505-7d83968a",
+   "content_sha256": "7d83968a26ab0dda1904e508e57798a1a91f07782e8b77ebc8bf5639479a5461",
+   "ee_text": "○ 다음 경우의 비타민 B 1 , B 2 , B 6 , C의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력 저하 시",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:38Z",
+   "last_observed_at": "2026-08-28T13:25:38Z",
+   "official_revision_date": "2026-02-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:38Z"
+}

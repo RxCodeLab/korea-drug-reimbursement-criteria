@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501101",
+ "item_name": "디페라민정",
+ "entp_name": "(주)팜젠사이언스",
+ "permit_date": "20250507",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222972]디페니돌염산염|[M223081]스코폴라민브롬화수소산염수화물|[M040133]리보플라빈",
+ "main_item_ingr_eng": "Difenidol Hydrochloride/Riboflavin/Scopolamine Hydrobromide Hydrate",
+ "edi_code": "",
+ "atc_code": "A04AD51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501101",
+ "revisions": [
+  {
+   "revision_id": "202501101-54917551",
+   "content_sha256": "54917551830beb9139221f985ce4478a28167e168f9da47e5170b7ade989daa2",
+   "ee_text": "멀미에 의한 어지러움ㆍ구토ㆍ두통의 예방 및 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:37Z",
+   "last_observed_at": "2026-08-28T13:25:37Z",
+   "official_revision_date": "2025-05-07"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:37Z"
+}

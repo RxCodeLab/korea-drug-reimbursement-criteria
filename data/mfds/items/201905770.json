@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905770",
+ "item_name": "아카쿨엠점안액",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20190814",
+ "cancel_date": "20240814",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M251655]클로로페니라민말레산염|[M222937]나파졸린염산염|[M222940]네오스티그민메틸황산염|[M203443]아미노카프로산",
+ "main_item_ingr_eng": "Aminocaproic Acid/Chlorpheniramine Maleate/Naphazoline Hydrochloride/Neostigmine Methylsulfate",
+ "edi_code": "",
+ "atc_code": "S01GA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905770",
+ "revisions": [
+  {
+   "revision_id": "201905770-61f7171b",
+   "content_sha256": "61f7171b36268b3894987dac8bceb7a2c635a34a0208b3839efbb87429b2ef80",
+   "ee_text": "눈의 피로, 결막충혈, 수영 후 눈의 불쾌감 또는 먼지나 땀이 눈에 들어갔을 때, 자외선 및 기타광선에 의한 눈의 염증, 눈꺼풀의 짓무름, 하드콘택트렌즈를 착용시 불쾌감, 눈의 가려움, 눈의 침침함.(눈곱이 많을 때 등)",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:25:10Z",
+   "last_observed_at": "2026-08-28T13:25:10Z",
+   "official_revision_date": "2024-02-15"
+  },
+  {
+   "revision_id": "201905770-2ed60fca",
+   "content_sha256": "2ed60fcae73e183a39b317455cff0047090f1e4b626befaaed962b9747ab0f22",
+   "ee_text": "눈의피로, 결막충혈, 수영 후 눈의 불쾌감 또는 먼지나 땀이 눈에 들어 갔을때, 자외선 및 기타 광선에 의한 안염(설안염), 안검염(눈꺼풀의 진무름), 하드콘택트렌즈를 착용시 불쾌감, 눈의 가려움, 눈의 침침함(눈곱이 많을때 등)",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-08-14",
+   "first_observed_at": "2026-08-28T13:25:10Z",
+   "last_observed_at": "2026-08-28T13:25:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:10Z"
+}

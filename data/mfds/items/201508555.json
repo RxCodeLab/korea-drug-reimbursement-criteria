@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508555",
+ "item_name": "슈가메트서방정2.5/500밀리그램",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20151231",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244179]메트포르민염산염|[M263350]에보글립틴타르타르산염",
+ "main_item_ingr_eng": "Evogliptin Tartrate/Metformin Hydrochloride",
+ "edi_code": "642507340",
+ "atc_code": "A10BD22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508555",
+ "revisions": [
+  {
+   "revision_id": "201508555-ec3a4389",
+   "content_sha256": "ec3a43897fe46a4fd830c9cd5bfe508b561954c1b2154aa821f9c87c7347af8f",
+   "ee_text": "이 약은 에보글립틴과 메트포르민의 병용투여가 적절한 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. - 메트포르민 단독요법으로 충분한 혈당조절을 할 수 없는 환자 - 에보글립틴과 메트포르민 병용요법을 대체하는 경우",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:46Z",
+   "last_observed_at": "2026-08-28T13:24:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:46Z"
+}

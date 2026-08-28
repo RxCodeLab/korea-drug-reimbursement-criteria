@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200804089",
+ "item_name": "아서틸플러스아르기닌정",
+ "entp_name": "한국세르비에(주)",
+ "permit_date": "20080414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051280]인다파미드|[M217183]페린도프릴아르기닌",
+ "main_item_ingr_eng": "Indapamide/Perindopril Arginine",
+ "edi_code": "676300050",
+ "atc_code": "C09BA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804089",
+ "revisions": [
+  {
+   "revision_id": "200804089-e28a97ad",
+   "content_sha256": "e28a97ad099d617643f78a87a36c4608b2a3147e8be0535e0976344f79ed07f5",
+   "ee_text": "단독요법으로 혈압이 적절히 조절되지 않는 본태고혈압",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200804089/EE",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z"
+  },
+  {
+   "revision_id": "200804089-94c5fe98",
+   "content_sha256": "94c5fe98f4fc4c37b4c5a5f37f72e36f8526a13aa9b1deb5ee724e21527dd1da",
+   "ee_text": "(정제) 단독요법으로 혈압이 적절히 조절되지 않는 본태고혈압",
+   "ee_doc_id": "21",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:16Z"
+}

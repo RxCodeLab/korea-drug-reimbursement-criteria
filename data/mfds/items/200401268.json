@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401268",
+ "item_name": "페리플러스2.5%액",
+ "entp_name": "(주)보령",
+ "permit_date": "20040712",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256640]락트산나트륨50%|[M040631]탄산수소나트륨|[M040426]염화나트륨|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M201934]포도당수화물",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose Hydrate/Magnesium Chloride/Sodium Bicarbonate/Sodium Chloride/Sodium Lactate 50%",
+ "edi_code": "",
+ "atc_code": "B05DB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401268",
+ "revisions": [
+  {
+   "revision_id": "200401268-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:04Z",
+   "last_observed_at": "2026-08-28T13:24:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:04Z"
+}

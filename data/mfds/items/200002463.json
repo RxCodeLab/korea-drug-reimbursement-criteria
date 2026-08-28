@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002463",
+ "item_name": "베타엠크림",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20000920",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202821]겐타마이신황산염|[M223043]베타메타손발레레이트",
+ "main_item_ingr_eng": "Betamethasone Valerate/Gentamicin Sulfate",
+ "edi_code": "",
+ "atc_code": "D07CC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002463",
+ "revisions": [
+  {
+   "revision_id": "200002463-04607ecc",
+   "content_sha256": "04607eccddb6c84e55e3771b582e4690d44226b5d1c8f55526978e6eebb1e20b",
+   "ee_text": "- 2차 감염된 알레르기성 또는 염증성 피부질환 : 습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진, 박탈피부염, 가려움, 건선(마른비늘증) - 1도 화상",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:23:55Z",
+   "last_observed_at": "2026-08-28T13:23:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:55Z"
+}

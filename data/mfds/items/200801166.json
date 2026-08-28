@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801166",
+ "item_name": "리도제식 카타플라스마\n(리도카인,수출명: Lidogesic PHN)",
+ "entp_name": "아이큐어(주)",
+ "permit_date": "20080128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801166",
+ "revisions": [
+  {
+   "revision_id": "200801166-b5ff72ef",
+   "content_sha256": "b5ff72efc20d31396864b554d7150e10670920063847cf346fa0d777fb87b9c9",
+   "ee_text": "대상포진 후 신경통증 완화",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:16Z"
+}

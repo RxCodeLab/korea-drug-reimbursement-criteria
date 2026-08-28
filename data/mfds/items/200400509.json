@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400509",
+ "item_name": "암로핀캡슐2.5밀리그램(암로디핀말레산염)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20041201",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250983]암로디핀말레산염",
+ "main_item_ingr_eng": "Amlodipine Maleate",
+ "edi_code": "642101130",
+ "atc_code": "C08CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400509",
+ "revisions": [
+  {
+   "revision_id": "200400509-67b02702",
+   "content_sha256": "67b02702c3df8116479c135d3e2a52a9e0c2c8abc2f494ab293a85b3f70deba9",
+   "ee_text": "1. 고혈압, 관상동맥의 고정폐쇄(안정형협심증) 또는 관상혈관계의 혈관경련과 혈관수축(이형협심증)에 의한 심근성허혈증 2. 최근 혈관조영술로 관상동맥심질환이 확인된 환자로 심부전이 없거나 심박출량이 40% 미만이 아닌 환자의 - 협심증으로 인한 입원의 위험성 감소 - 관상동맥 혈관재생술에 대한 위험성 감소",
+   "ee_doc_id": "25",
+   "first_observed_at": "2026-08-28T13:24:04Z",
+   "last_observed_at": "2026-08-28T13:24:04Z",
+   "official_revision_date": "2024-06-10"
+  },
+  {
+   "revision_id": "200400509-b360e542",
+   "content_sha256": "b360e5422266e28a39878d87a7edc4cde1c4b2708b8bf2ef2b3c74e33e4cb5db",
+   "ee_text": "고혈압, 관상동맥의 고정폐쇄(안정협심증) 또는 관상혈관계의 혈관경련수축(이형협심증)에 의한 심근성허혈증",
+   "ee_doc_id": "11",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:04Z",
+   "last_observed_at": "2026-08-28T13:24:04Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:04Z"
+}

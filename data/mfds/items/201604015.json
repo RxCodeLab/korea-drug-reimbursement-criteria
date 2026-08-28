@@ -12,15 +12,15 @@
  "edi_code": "651904400",
  "atc_code": "N03AF02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604015",
+ "history_fetched_at": "2026-08-27T13:41:42Z",
  "revisions": [
   {
    "revision_id": "201604015-b44f8c8f",
    "content_sha256": "b44f8c8f190fd6ef06f86fe26a1462d4ad400a8784f912a482386ba9951164c8",
    "ee_text": "뇌전증",
-   "ee_doc_id": "18",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201604015/EE",
    "first_observed_at": "2026-08-27T13:41:42Z",
-   "last_observed_at": "2026-08-27T13:41:42Z",
-   "official_revision_date": "2022-12-21"
+   "last_observed_at": "2026-08-28T13:24:50Z"
   },
   {
    "revision_id": "201604015-7c8c192d",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:41:42Z",
    "last_observed_at": "2026-08-27T13:41:42Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:41:42Z"
+ ]
 }

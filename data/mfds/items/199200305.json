@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199200305",
+ "item_name": "헤모트레이트비2호(탄산수소나트륨)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19920806",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Sodium Bicarbonate",
+ "edi_code": "644904551,644904561",
+ "atc_code": "B05ZA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200305",
+ "revisions": [
+  {
+   "revision_id": "199200305-2732320c",
+   "content_sha256": "2732320c2fb3b1993b502f1becb5520f66903993862f9dc5a01a07814d7c32d9",
+   "ee_text": "만성신부전 환자에 사용되는 인공신장투석관류액의 염기성 용액",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:44Z",
+   "last_observed_at": "2026-08-28T13:23:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:44Z"
+}

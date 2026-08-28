@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197300075",
+ "item_name": "성광관장약",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "19730724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040044]농글리세린",
+ "main_item_ingr_eng": "Concentrated Glycerin",
+ "edi_code": "",
+ "atc_code": "A06AG04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197300075",
+ "revisions": [
+  {
+   "revision_id": "197300075-5c1fab5e",
+   "content_sha256": "5c1fab5e1211a7b0aaa7ad22c49f52c14911105096c3fe99fb25940e83bd0639",
+   "ee_text": "변비, 장내용물의 배설",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

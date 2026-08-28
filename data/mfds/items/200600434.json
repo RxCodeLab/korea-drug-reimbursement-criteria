@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600434",
+ "item_name": "크린핸스크랍(클로르헥시딘글루콘산염액)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20060317",
+ "cancel_date": "20260303",
+ "status": "취하",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "664101450",
+ "atc_code": "D08AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600434",
+ "revisions": [
+  {
+   "revision_id": "200600434-97800400",
+   "content_sha256": "97800400e78017cb3bf7cc6893a966e4cc48e6335acad9ef6cd85ba419eff2e8",
+   "ee_text": "수술전 살균소독 (수술자 및 보건위생 종사자의 손소독)",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:09Z"
+}

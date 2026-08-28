@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403333",
+ "item_name": "에센비정",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20040816",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M087259]피토나디온5%건조분말|[M227509]아스코르브산97%과립|[M040064]니코틴산아미드|[M223262]티아민질산염",
+ "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Nicotinamide/Phytonadione Dried Powder 5%/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403333",
+ "revisions": [
+  {
+   "revision_id": "200403333-23919786",
+   "content_sha256": "2391978683a5d4b3e0c85685f4f9dcf7e52f0bce53165355ecd375226c5631c1",
+   "ee_text": "ㆍ다음의 경우 비타민 B1, C의 보급 - 육체피로 - 임신, 수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시",
+   "ee_doc_id": "15",
+   "first_observed_at": "2026-08-28T13:24:05Z",
+   "last_observed_at": "2026-08-28T13:24:05Z",
+   "official_revision_date": "2020-11-23"
+  },
+  {
+   "revision_id": "200403333-a93dce83",
+   "content_sha256": "a93dce8368f978e1ceba358cdcc0e29f3d2b938fec320e9b79cf63becd855133",
+   "ee_text": "ㆍ다음의 경우 비타민 B1, C의 보급 - 육체피로 - 임신, 수유기 - 병중, 병후의 체력 저하",
+   "ee_doc_id": "12",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:05Z",
+   "last_observed_at": "2026-08-28T13:24:05Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:05Z"
+}

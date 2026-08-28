@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200004101",
+ "item_name": "나우쿨카타플라스마",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20000803",
+ "cancel_date": "20251010",
+ "status": "취하",
+ "main_item_ingr": "[M223240]토코페롤아세테이트|[M040200]박하유|[M204423]dl-캄파|[M070611]살리실산글리콜",
+ "main_item_ingr_eng": "DL-Camphor/Glycol Salicylate/Mentha Herb Oil/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "D04A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004101",
+ "revisions": [
+  {
+   "revision_id": "200004101-d3a1b822",
+   "content_sha256": "d3a1b8221365723dbab5d84e9120ab2050fbde51e402c7242ced1ffc83d7c190",
+   "ee_text": "다음 증상의 진통 ㆍ 소염[항염] 삠, 타박상, 요[허리]통, 어깨결림, 근육통, 근육피로, 관절통, 동창[언 상처], 골절통",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-28T13:23:56Z",
+   "last_observed_at": "2026-08-28T13:23:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:56Z"
+}

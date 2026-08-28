@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701443",
+ "item_name": "에이클로크림",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20170327",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버|[M040818]히드로코르티손",
+ "main_item_ingr_eng": "Acyclovir/Hydrocortisone",
+ "edi_code": "657307041",
+ "atc_code": "D06BB53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701443",
+ "revisions": [
+  {
+   "revision_id": "201701443-17336351",
+   "content_sha256": "17336351e5a0438e4924a2194e407f0f684b4a4f989e42e020481ffab2b51949",
+   "ee_text": "재발성 구순포진의 초기 치료",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:55Z",
+   "last_observed_at": "2026-08-28T13:24:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:55Z"
+}

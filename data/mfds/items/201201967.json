@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201201967",
+ "item_name": "네로민정",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20120323",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244748]판토텐산칼슘|[M040064]니코틴산아미드|[M249150]d-비오틴|[M223289]폴산|[M236913]제피아스코르브산|[M040133]리보플라빈|[M117558]시아노코발라민 1000배산|[M223262]티아민질산염|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Ascorbic Acid Coated/Calcium Pantothenate/Cyanocobalamin Powder 0.1%/D-Biotin/Folic Acid/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate",
+ "edi_code": "658108170",
+ "atc_code": "A11EB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201967",
+ "revisions": [
+  {
+   "revision_id": "201201967-e8afab3a",
+   "content_sha256": "e8afab3a6cefc3e5620499031682de24c331b81eac4cca5efaf22b54919e9bd9",
+   "ee_text": "투석환자, 만성신부전에 의한 질소혈증환자의 비타민 B, C 보급",
+   "ee_doc_id": "14",
+   "first_observed_at": "2026-08-28T13:24:27Z",
+   "last_observed_at": "2026-08-28T13:24:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:27Z"
+}

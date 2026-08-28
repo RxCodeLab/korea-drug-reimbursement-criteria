@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308641",
+ "item_name": "지도딘캡슐100mg(지도부딘)(수출용)(수출명:Zidodine Capsules)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20030515",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082858]지도부딘",
+ "main_item_ingr_eng": "Zidovudine",
+ "edi_code": "",
+ "atc_code": "J05AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308641",
+ "revisions": [
+  {
+   "revision_id": "200308641-c0811d29",
+   "content_sha256": "c0811d29740135d3cd1a1b69dfbdc290572451bb348b37c4a564f3b65e32a263",
+   "ee_text": "후천성 면역부전 증후군(AIDS), 중증의 AIDS 관련증후군(T₄ 림파구수 300/mm³이하에서 피부칸디다증, 체중감소, 림파절종양, 원인불명의 발열 등의 HIV감염의 증후가 있는 환자)",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:03Z",
+   "last_observed_at": "2026-08-28T13:24:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:03Z"
+}

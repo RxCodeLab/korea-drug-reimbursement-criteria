@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199603327",
+ "item_name": "포타짐정(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "19960406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080221]스코폴리아엑스|[M082927]용담가루|[M082610]호미카엑스|[M207094]탄산수소나트륨|[M083568]비오타미라제1500|[M200758]비오디아스타제2000II|[M050448]메타규산알루민산마그네슘|[M082611]당약말",
+ "main_item_ingr_eng": "Biodiastase 2000 II/Biotamylase 1500/Gentian Root and Rhizome Powder/Magnesium Aluminometasilicate/Nux Vomica Extract/Scopolia Extract/Sodium Bicarbonate/Swertia Herb Powder",
+ "edi_code": "",
+ "atc_code": "A02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199603327",
+ "revisions": [
+  {
+   "revision_id": "199603327-e194adc8",
+   "content_sha256": "e194adc8052e29b88d7c19a380d591a08893c274ecac85d48301e5b677408461",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 식체(위체), 구역, 구토, 위통, 신트림, 식욕감퇴(식욕부진), 소화불량, 과식, 소화촉진",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199603327/EE",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z"
+  },
+  {
+   "revision_id": "199603327-f362bdd6",
+   "content_sha256": "f362bdd6fd4ffac23fb8ad21a27a30c76794839ecb42d032d07f27434499fce4",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 식체(위체), 구역, 구토, 위통, 신트림, 식욕 감퇴(식욕부진), 소화불량, 과식, 소화촉진",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:48Z"
+}

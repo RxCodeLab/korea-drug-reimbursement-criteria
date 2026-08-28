@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200807945",
+ "item_name": "에버칼정",
+ "entp_name": "(주)팜젠사이언스",
+ "permit_date": "20080721",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051564]탄산칼슘|[M255949]농축콜레칼시페롤과립",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Granules",
+ "edi_code": "670102310",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807945",
+ "revisions": [
+  {
+   "revision_id": "200807945-6b9b8017",
+   "content_sha256": "6b9b8017301217bdd44b3910cb5b235abf7c06c683b6cea52e630877dc902a0a",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신·수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다 · 뼈, 이의 발육불량 · 구루병의 예방 2. 칼슘 결핍 및 기타 칼슘의 보급",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-28T13:24:18Z",
+   "last_observed_at": "2026-08-28T13:24:18Z",
+   "official_revision_date": "2021-09-08"
+  },
+  {
+   "revision_id": "200807945-f90e9aa6",
+   "content_sha256": "f90e9aa6571c04a325101b4737f3e9a531662e59f1ef11c2459f881fdc6498ac",
+   "ee_text": "- 임신·수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다 · 뼈, 이의 발육불량 · 구루병의 예방",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:18Z",
+   "last_observed_at": "2026-08-28T13:24:18Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:18Z"
+}

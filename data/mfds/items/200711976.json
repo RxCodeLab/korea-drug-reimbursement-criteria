@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711976",
+ "item_name": "글루트롤정500/5밀리그램(수출용)",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "20071031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244179]메트포르민염산염|[M050102]글리벤클라미드",
+ "main_item_ingr_eng": "Glibenclamide/Metformin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A10BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711976",
+ "revisions": [
+  {
+   "revision_id": "200711976-a2348921",
+   "content_sha256": "a2348921a20641862cb39170d9de5733f31418bd8f665963001660495d43b414",
+   "ee_text": "- 식이요법, 운동요법, 이전의 메트포르민(metformin) 또는 - 혈당증이 안정적이고 잘 조절된 환자에서 이전의 메트포르민과 설포닐우레아 병용요법(combination therapy)의 대체",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:15Z",
+   "last_observed_at": "2026-08-28T13:24:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:15Z"
+}

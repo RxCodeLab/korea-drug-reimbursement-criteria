@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002902",
+ "item_name": "건레탈서방캡슐200밀리그램(실로스타졸)",
+ "entp_name": "건일바이오팜주식회사",
+ "permit_date": "20200422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070044]실로스타졸",
+ "main_item_ingr_eng": "Cilostazol",
+ "edi_code": "073000430",
+ "atc_code": "B01AC23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002902",
+ "revisions": [
+  {
+   "revision_id": "202002902-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:17Z",
+   "last_observed_at": "2026-08-28T13:25:17Z",
+   "official_revision_date": "2020-04-22"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:17Z"
+}

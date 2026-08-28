@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501406",
+ "item_name": "알리코우르소데옥시콜산정200밀리그램(우르소데옥시콜산)",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20150317",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Ursodeoxycholic Acid",
+ "edi_code": "656005810",
+ "atc_code": "A05AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501406",
+ "revisions": [
+  {
+   "revision_id": "201501406-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:24:41Z",
+   "last_observed_at": "2026-08-28T13:24:41Z",
+   "official_revision_date": "2025-06-20"
+  },
+  {
+   "revision_id": "201501406-99328817",
+   "content_sha256": "99328817c7a34c1ddca1621765da7a148c6296aab0f3148a09ee4abb77cda29d",
+   "ee_text": "○ 담석증 ○ 원발 쓸개관 간경화증(Primary Biliary Cirrhosis : PBC)의 간기능 개선 ○ 만성 C형 간염 환자의 간기능 개선",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:41Z",
+   "last_observed_at": "2026-08-28T13:24:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:41Z"
+}

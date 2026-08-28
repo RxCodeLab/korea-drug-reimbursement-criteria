@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700393",
+ "item_name": "중외15%포도당주사액",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19971108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040702]포도당",
+ "main_item_ingr_eng": "Glucose",
+ "edi_code": "644901941",
+ "atc_code": "B05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700393",
+ "revisions": [
+  {
+   "revision_id": "199700393-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199700393/EE",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z"
+  },
+  {
+   "revision_id": "199700393-eb9e5391",
+   "content_sha256": "eb9e5391bd344d8bb0b2602be6398e4e4f0a491cd2247d904862b218caed0590",
+   "ee_text": "1.탈수증 특히 수분결핍시의 수분보급 2.주사제의 용해희석제 1.고칼륨혈증, 순환허탈, 저혈당시의 에너지 보급 2.심질환(G,I,K요법) 그 외 수분, 에너지 보급 3.약물.독물 중독",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:48Z"
+}

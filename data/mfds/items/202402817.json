@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402817",
+ "item_name": "크레첵정2.5밀리그램(로수바스타틴칼슘)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20241127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095744]로수바스타틴칼슘",
+ "main_item_ingr_eng": "Rosuvastatin Calcium",
+ "edi_code": "645307120",
+ "atc_code": "C10AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402817",
+ "revisions": [
+  {
+   "revision_id": "202402817-bc61d84d",
+   "content_sha256": "bc61d84d8d64d9926b97c45f940656d94890f3a003798d7b74c099fe3053491d",
+   "ee_text": "원발성 고콜레스테롤혈증(이형접합 가족성 고콜레스테롤혈증을 포함하는 type IIa), 복합형 고지혈증(type IIb) : 식이 및 운동으로 조절이 안 될 경우 식이요법의 보조제",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:36Z",
+   "last_observed_at": "2026-08-28T13:25:36Z",
+   "official_revision_date": "2024-11-27"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:36Z"
+}

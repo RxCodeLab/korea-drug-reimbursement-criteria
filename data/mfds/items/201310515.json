@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310515",
+ "item_name": "기넥신에프연질캡슐120밀리그램(은행엽건조엑스)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20131204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088948]은행엽건조엑스",
+ "main_item_ingr_eng": "Ginkgo Biloba Leaf Dried Extract",
+ "edi_code": "",
+ "atc_code": "N06DX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310515",
+ "revisions": [
+  {
+   "revision_id": "201310515-37d7a0e9",
+   "content_sha256": "37d7a0e9a2b07ecc743351861fd00ba89a617cd4a9161b18068ab3dbf27f7e8f",
+   "ee_text": "이명(귀울림), 두통, 기억력감퇴, 집중력장애, 우울감, 어지러움 등의 치매성증상을 수반하는 기질성 뇌기능장애의 치료",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:33Z",
+   "last_observed_at": "2026-08-28T13:24:33Z",
+   "official_revision_date": "2018-01-09"
+  },
+  {
+   "revision_id": "201310515-5a176a31",
+   "content_sha256": "5a176a318e3a5b14ff2630366f6a186cfa6eed684a0baa9b54e96e00ed07e732",
+   "ee_text": "이명, 두통, 기억력감퇴, 집중력장애, 우울감, 어지러움 등의 치매성증상을 수반하는 기질성 뇌기능장애의 치료",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:33Z",
+   "last_observed_at": "2026-08-28T13:24:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:33Z"
+}

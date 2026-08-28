@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106329",
+ "item_name": "테트라프주",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20210902",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M209366]L-알라닌|[M103077]L-아르기닌|[M204435]L-세린|[M209360]L-발린|[M218567]L-메티오닌|[M222530]L-이소류신|[M103060]L-트레오닌|[M044300]포도당일수화물|[M270765]정제대두유|[M245287]정제어유(고단위 오메가-3 지방산 함유)|[M102759]정제올리브유|[M250010]중쇄트리글리세리드|[M217501]황산아연수화물|[M080356]황산마그네슘수화물|[M102908]타우린|[M222531]L-류신|[M214274]L-트리프토판|[M214313]L-티로신|[M204442]L-페닐알라닌|[M214861]L-프롤린|[M215288]L-히스티딘|[M207070]글리세로인산나트륨(무수물로서)|[M088656]글리신|[M243246]아세트산나트륨수화물|[M040438]염화칼륨|[M217500]염화칼슘수화물|[M270255]L-리신아세트산염",
+ "main_item_ingr_eng": "Anhydrous Sodium Glycerophosphate/Calcium Chloride Hydrate/Glucose Monohydrate/Glycine/L-Alanine/L-Arginine/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Acetate/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine/Magnesium Sulfate Hydrate/Potassium Chloride/Purified Fish Oil (High Dose Omega-3 Fatty Acids)/Purified Olive Oil/Sodium Acetate Hydrate/Soybean Oil/Taurine/Triglycerides Medium-Chain/Zinc Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "B05BA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106329",
+ "revisions": [
+  {
+   "revision_id": "202106329-736c0526",
+   "content_sha256": "736c0526517e05fd1b8ece467f78a692c22aa0775deda0edbbb335cc926e3ecc",
+   "ee_text": "경구 또는 위장관 영양공급이 불가능, 불충분하거나 제한되어 경정맥 영양공급을 실시해야 하는 2세 이상의 소아 및 성인에게 칼로리, 아미노산, 필수지방산 및 오메가-3 지방산의 보급",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:25Z",
+   "last_observed_at": "2026-08-28T13:25:25Z",
+   "official_revision_date": "2021-09-02"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:25Z"
+}

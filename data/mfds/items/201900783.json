@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900783",
+ "item_name": "코뚜에스시럽",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20190131",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M204422]dl-메틸에페드린염산염|[M256386]글리시리진산이칼륨|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dipotassium Glycyrrhizinate",
+ "edi_code": "",
+ "atc_code": "R06AB54",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900783",
+ "revisions": [
+  {
+   "revision_id": "201900783-74c2049b",
+   "content_sha256": "74c2049b2226e532bcf3c385b924d94c166b9767a8b946fe9166f7f4e2cb8d84",
+   "ee_text": "코감기(급성비염), 알레르기 비염 또는 부비동염에 의한 다음 증상의 완화 : 코막힘, 콧물, 재채기, 눈물, 인후통, 머리무거움",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:04Z",
+   "last_observed_at": "2026-08-28T13:25:04Z",
+   "official_revision_date": "2019-01-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:04Z"
+}

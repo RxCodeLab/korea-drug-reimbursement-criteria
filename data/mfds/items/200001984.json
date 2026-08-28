@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001984",
+ "item_name": "센스타지크림",
+ "entp_name": "(주)셀릭스",
+ "permit_date": "20000703",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223043]베타메타손발레레이트|[M202821]겐타마이신황산염",
+ "main_item_ingr_eng": "Betamethasone Valerate/Gentamicin Sulfate",
+ "edi_code": "",
+ "atc_code": "D07CC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001984",
+ "revisions": [
+  {
+   "revision_id": "200001984-dc57409c",
+   "content_sha256": "dc57409c59e928d25e65a5300add4bf12d877511fe654bffabe170680b432918",
+   "ee_text": "- 2차 감염된 알레르기성 또는 염증성 피부질환 : 습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진, 박탈피부염, 가려움, 건선 - 1도화상",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:54Z",
+   "last_observed_at": "2026-08-28T13:23:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:54Z"
+}

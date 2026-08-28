@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102788",
+ "item_name": "악사노바파워카타플라스마(수출용)",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20210331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203279]살리실산메틸|[M279517]dl-캄파|[M230875]l-멘톨",
+ "main_item_ingr_eng": "DL-Camphor/L-Menthol/Methyl Salicylate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102788",
+ "revisions": [
+  {
+   "revision_id": "202102788-59975997",
+   "content_sha256": "59975997b42cd37bb1400f7b47d408ac3728ca2aa49243d2c433ec83eda1806b",
+   "ee_text": "다음 증상의 진통ㆍ소염(항염) : 타박상, 삠, 요(허리)통, 어깨결림, 근육통, 관절통",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:24Z",
+   "last_observed_at": "2026-08-28T13:25:24Z",
+   "official_revision_date": "2021-03-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:24Z"
+}

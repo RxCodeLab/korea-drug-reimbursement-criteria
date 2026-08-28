@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602583",
+ "item_name": "웰스카인플러스크림",
+ "entp_name": "구주제약(주)",
+ "permit_date": "20160510",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인|[M087237]프릴로카인",
+ "main_item_ingr_eng": "Lidocaine/Prilocaine",
+ "edi_code": "",
+ "atc_code": "N01BB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602583",
+ "revisions": [
+  {
+   "revision_id": "201602583-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:49Z",
+   "last_observed_at": "2026-08-28T13:24:49Z",
+   "official_revision_date": "2021-04-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:49Z"
+}

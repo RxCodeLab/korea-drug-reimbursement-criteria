@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201201278",
+ "item_name": "비사진나잘스프레이(덱스판테놀)",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20120229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082390]덱스판테놀",
+ "main_item_ingr_eng": "Dexpanthenol",
+ "edi_code": "",
+ "atc_code": "R01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201278",
+ "revisions": [
+  {
+   "revision_id": "201201278-62b5722c",
+   "content_sha256": "62b5722c8221c48b49f8b0da1ac1db67b1e6510342d93747a08e542cb84f0eff",
+   "ee_text": "건조한 비점막 손상의 치료보조",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:27Z",
+   "last_observed_at": "2026-08-28T13:24:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:27Z"
+}

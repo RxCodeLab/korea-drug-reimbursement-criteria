@@ -12,15 +12,15 @@
  "edi_code": "650000640",
  "atc_code": "J05AF05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907321",
+ "history_fetched_at": "2026-08-27T13:37:51Z",
  "revisions": [
   {
    "revision_id": "199907321-0845651f",
    "content_sha256": "0845651fbea0e530f31109395dbfac3fd4fe39dfc32e005c2dbbec69a6fa7894",
    "ee_text": "HIV-1 감염 환자에서 다른 항레트로바이러스 제제와 병용투여",
-   "ee_doc_id": "19",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199907321/EE",
    "first_observed_at": "2026-08-27T13:37:51Z",
-   "last_observed_at": "2026-08-27T13:37:51Z",
-   "official_revision_date": "2019-11-05"
+   "last_observed_at": "2026-08-28T13:23:51Z"
   },
   {
    "revision_id": "199907321-7c24b63e",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:37:51Z",
    "last_observed_at": "2026-08-27T13:37:51Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:37:51Z"
+ ]
 }

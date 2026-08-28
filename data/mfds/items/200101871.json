@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101871",
+ "item_name": "에이치엘비나프록센정(나프록센나트륨)",
+ "entp_name": "에이치엘비제약(주)",
+ "permit_date": "20011229",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M070724]나프록센나트륨",
+ "main_item_ingr_eng": "Naproxen Sodium",
+ "edi_code": "",
+ "atc_code": "M01AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101871",
+ "revisions": [
+  {
+   "revision_id": "200101871-ffcd2756",
+   "content_sha256": "ffcd27562e43d1f9b5312dffc3f75d19ebbee6798aad005ff47f7a859ee26382",
+   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건염(힘줄염), 급성통풍, 월경곤란증 활액낭염, 골격근장애(염좌(삠), 좌상(타박상, 멍), 외상(상처), 요천통(허리통증)), 수술 후 동통(통증), 편두통, 발치(이를 뽑음)후 동통(통증)",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

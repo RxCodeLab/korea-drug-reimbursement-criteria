@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003708",
+ "item_name": "아이엔점안액(순), 아이엔점안액(쿨), 아이엔점안액(쿨하이)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20200521",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040702]포도당|[M040438]염화칼륨|[M040426]염화나트륨|[M040702]포도당|[M040438]염화칼륨|[M040426]염화나트륨|[M040702]포도당|[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr_eng": "Glucose/Potassium Chloride/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003708",
+ "revisions": [
+  {
+   "revision_id": "202003708-d63edb00",
+   "content_sha256": "d63edb0067047737c85671282efc10c7b94bc838442f6c4c955bcd896c490a2f",
+   "ee_text": "소프트콘택트렌즈 또는 하드콘택트렌즈를 착용하고 있을 때의 불쾌감, 눈물 보충 (눈의 건조), 눈의 피로, 눈의 흐림(눈곱이 많을 때)",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:18Z",
+   "last_observed_at": "2026-08-28T13:25:18Z",
+   "official_revision_date": "2020-05-21"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:18Z"
+}

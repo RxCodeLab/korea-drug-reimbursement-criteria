@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204501",
+ "item_name": "모드콜로시럽",
+ "entp_name": "(주)종근당",
+ "permit_date": "20221214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040135]마황|[M040048]길경|[M040445]오미자|[M071030]인삼유동엑스|[M254445]티페피딘시트르산염",
+ "main_item_ingr_eng": "Ephedra Herb/Ginseng Fluid Extract/Platycodon Root/Schisandra Fruit/Tipepidine Citrate",
+ "edi_code": "",
+ "atc_code": "R05DB20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204501",
+ "revisions": [
+  {
+   "revision_id": "202204501-da6ae941",
+   "content_sha256": "da6ae941bfe4a46693189cf70b524d3fd9a3cebea6e5f19f12abf6f835dc98da",
+   "ee_text": "기침, 가래",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:31Z",
+   "last_observed_at": "2026-08-28T13:25:31Z",
+   "official_revision_date": "2022-12-14"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:31Z"
+}

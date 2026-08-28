@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204271",
+ "item_name": "일양용비산쿨산",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20221128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040769]행인|[M082761]인삼가루|[M082823]아선약가루|[M083617]세네가가루|[M040059]노스카핀|[M082634]길경가루|[M070009]감초가루",
+ "main_item_ingr_eng": "Apricot Kernel/Gambir Powder/Ginseng Powder/Glycyrrhiza Powder/Noscapine/Platycodon Root Powder/Senega Powder",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204271",
+ "revisions": [
+  {
+   "revision_id": "202204271-da6ae941",
+   "content_sha256": "da6ae941bfe4a46693189cf70b524d3fd9a3cebea6e5f19f12abf6f835dc98da",
+   "ee_text": "기침, 가래",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:31Z",
+   "last_observed_at": "2026-08-28T13:25:31Z",
+   "official_revision_date": "2022-11-28"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:31Z"
+}

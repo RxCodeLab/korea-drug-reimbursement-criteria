@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605010",
+ "item_name": "광동삼소음액",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20160819",
+ "cancel_date": "20260819",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051351]지각|[M040048]길경|[M040538]진피|[M040225]복령|[M040004]갈근|[M040202]반하|[M051318]전호|[M040213]인삼|[M040006]감초|[M040007]건강|[M040071]대추|[M051301]자소엽",
+ "main_item_ingr_eng": "Aurantii Fructus Immaturus/Citrus Unshiu Peel/Ginger/Ginseng/Jujube/Licorice/Perilla Leaf/Peucedani Radix/Pinellia Tuber/Platycodon Root/Poria/Pueraria Root",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605010",
+ "revisions": [
+  {
+   "revision_id": "201605010-1d8ad717",
+   "content_sha256": "1d8ad7175395429583ea7705c6c9410f1fceeb89190754108d9511b83c9248f4",
+   "ee_text": "감기에 의한 두통, 발열, 기침",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:51Z",
+   "last_observed_at": "2026-08-28T13:24:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:51Z"
+}

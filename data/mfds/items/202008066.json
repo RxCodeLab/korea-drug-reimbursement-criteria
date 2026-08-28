@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008066",
+ "item_name": "메가벤비타정",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20201120",
+ "cancel_date": "20251120",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M204304]피리독신염산염|[M096428]벤포티아민",
+ "main_item_ingr_eng": "Benfotiamine/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11DB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008066",
+ "revisions": [
+  {
+   "revision_id": "202008066-0e051a3c",
+   "content_sha256": "0e051a3c0b7d4675f66c20dafe118c0c08cace40d10be483380ff85af2c625db",
+   "ee_text": "비타민 B1 및 B6 결핍으로 인한 신경계 질환",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:22Z",
+   "last_observed_at": "2026-08-28T13:25:22Z",
+   "official_revision_date": "2020-11-20"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:22Z"
+}

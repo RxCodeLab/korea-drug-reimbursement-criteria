@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503790",
+ "item_name": "깅코라민정80밀리그램(은행엽건조엑스)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20150611",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088948]은행엽건조엑스",
+ "main_item_ingr_eng": "Ginkgo Biloba Leaf Dried Extract",
+ "edi_code": "622803970",
+ "atc_code": "N06DX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503790",
+ "revisions": [
+  {
+   "revision_id": "201503790-87d382a6",
+   "content_sha256": "87d382a6f698c6bf158bc665abdd50b0ffa6ffdec1e140e7a11c0e163223a308",
+   "ee_text": "1) 말초동맥순환장애(간헐성파행증)의 치료 2) 어지러움, 혈관성 및 퇴행성이명(귀울림) 3) 이명(귀울림), 두통, 기억력감퇴, 집중력장애, 우울감, 어지러움등의 치매성증상을 수반하는 기질성 뇌기능장애의 치료",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-28T13:24:44Z",
+   "last_observed_at": "2026-08-28T13:24:44Z",
+   "official_revision_date": "2026-03-16"
+  },
+  {
+   "revision_id": "201503790-ac201136",
+   "content_sha256": "ac2011366cf10a69b8bc57590ffc9ac843803954f837cb43e0533bd68b057bf6",
+   "ee_text": "1) 말초동맥순환장애(간헐성파행증)의 치료 2) 어지러움, 혈관성 및 퇴행성이명 3) 이명, 두통, 기억력감퇴, 집중력장애, 우울감, 어지러움등의 치매성증상을 수반하는 기질성 뇌기능장애의 치료",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:44Z",
+   "last_observed_at": "2026-08-28T13:24:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:44Z"
+}

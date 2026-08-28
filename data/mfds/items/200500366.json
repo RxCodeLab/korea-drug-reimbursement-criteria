@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500366",
+ "item_name": "에이프로젠칼스톤정(수출용)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20051018",
+ "cancel_date": "20251016",
+ "status": "취하",
+ "main_item_ingr": "[M102908]타우린|[M222998]L-리신염산염|[M099907]콜레칼시페롤과립|[M091374]무수인산수소칼슘|[M102908]타우린|[M222998]L-리신염산염|[M040594]콜레칼시페롤|[M091374]무수인산수소칼슘",
+ "main_item_ingr_eng": "Anhydrous Dibasic Calcium Phosphate/Cholecalciferol/Cholecalciferol Granules/L-Lysine Hydrochloride/Taurine",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500366",
+ "revisions": [
+  {
+   "revision_id": "200500366-3f62ddbd",
+   "content_sha256": "3f62ddbdae78c7663a88e9a852c17d865900ce951c2c1bc477a96b10ab970571",
+   "ee_text": "칼슘결핍 및 기타 칼슘보급을 필요로 하는 경우",
+   "ee_doc_id": "13",
+   "first_observed_at": "2026-08-28T13:24:07Z",
+   "last_observed_at": "2026-08-28T13:24:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:07Z"
+}

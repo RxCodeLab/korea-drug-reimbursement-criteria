@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501133",
+ "item_name": "손바렌크림(우레아)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20250509",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089404]우레아",
+ "main_item_ingr_eng": "Urea",
+ "edi_code": "",
+ "atc_code": "D02AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501133",
+ "revisions": [
+  {
+   "revision_id": "202501133-5b78e475",
+   "content_sha256": "5b78e475308a059a3883b14bb57aa31bab9f308d9fcf244c1ddcb03539f6ad69",
+   "ee_text": "진행성 지장각피증(주부습진의 건조형), 손ㆍ발바닥 각피증, 어린선(魚鱗蘚), 노인성 건피증(피부건조증), 모공성 태선, 아토피피부",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:37Z",
+   "last_observed_at": "2026-08-28T13:25:37Z",
+   "official_revision_date": "2025-05-09"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:37Z"
+}

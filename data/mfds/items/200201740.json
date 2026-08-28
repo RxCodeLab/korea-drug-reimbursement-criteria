@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201740",
+ "item_name": "델타콜에스과립",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20020515",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040523]작약|[M040006]감초|[M040007]건강|[M254966]물연조엑스|[M040417]에텐자미드|[M050036]육계|[M040071]대추|[M040135]마황|[M223183]카페인무수물|[M040059]노스카핀|[M223211]클로르페니라민말레산염|[M040004]갈근",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/Cinnamon Bark/Ephedra Herb/Ethenzamide/Ginger/Jujube/Licorice/Noscapine/Peony Root/Pueraria Root/Water Soft Extract",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201740",
+ "revisions": [
+  {
+   "revision_id": "200201740-8707b93f",
+   "content_sha256": "8707b93f00c7c0f4d766a5aa64605eed450dbb0377fae1f7670d9f7dd639f8ba",
+   "ee_text": "감기 제증상 (콧물, 코막힘, 재채기, 인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:24:00Z",
+   "last_observed_at": "2026-08-28T13:24:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:00Z"
+}

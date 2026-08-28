@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200809444",
+ "item_name": "에판에스정",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20080911",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M261920]디아스타제·프로테아제100|[M040629]탄산마그네슘|[M040631]탄산수소나트륨|[M227686]스코폴리아엑스 10배산",
+ "main_item_ingr_eng": "Diastase·Protease 100/Magnesium Carbonate/Scopolia Extract Powder 10%/Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809444",
+ "revisions": [
+  {
+   "revision_id": "200809444-e1cb0f26",
+   "content_sha256": "e1cb0f2644d6447cf366b97cd7e758080a1cf43e7b98115359ef733d66f594fa",
+   "ee_text": "(정제) 위산과다, 속쓰림, 위부불쾌감, 위부(상복부)팽만감, 체함, 구역, 구토, 위통, 신트림, 소화불량, 식욕감퇴(식욕부진), 과식, 소화촉진, 소화불량으로 인한 위부(상복부)팽만감",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:24:19Z",
+   "last_observed_at": "2026-08-28T13:24:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:19Z"
+}

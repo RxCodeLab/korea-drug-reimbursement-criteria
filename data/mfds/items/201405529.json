@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405529",
+ "item_name": "엔도콜액(시메티콘)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20141126",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223083]시메티콘",
+ "main_item_ingr_eng": "Simethicone",
+ "edi_code": "659900902",
+ "atc_code": "A03AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405529",
+ "revisions": [
+  {
+   "revision_id": "201405529-e71f5a2a",
+   "content_sha256": "e71f5a2ae2da2ffce651a85eb1e3db62f48fc1291aee0a552a717b6afdc5f01e",
+   "ee_text": "1) 위내시경 검사 시 장내 기포 제거 2) 복부(배 부분) X선 촬영 시 장내 가스 제거 3) 위장관내 가스로 인한 복부 증상(복구(배 부분)팽만감, 공기 연하증(공기 삼킴증) 등)의 개선",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:39Z",
+   "last_observed_at": "2026-08-28T13:24:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:39Z"
+}

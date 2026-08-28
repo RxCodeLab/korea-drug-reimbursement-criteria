@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "196700015",
+ "item_name": "하트만덱스액",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19671109",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080583]젖산나트륨액|[M040438]염화칼륨|[M217500]염화칼슘수화물|[M040426]염화나트륨|[M040702]포도당",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose/Potassium Chloride/Sodium Chloride/Sodium Lactate Solution",
+ "edi_code": "644904471,644911931",
+ "atc_code": "B05BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196700015",
+ "revisions": [
+  {
+   "revision_id": "196700015-4f34bbb2",
+   "content_sha256": "4f34bbb2678ed3fe2040ca7473c4d7daf5fc344a29658adc4945a6547a2cc3f7",
+   "ee_text": "○ 순환혈액량 및 조직간액의 감소시 세포외액의 보급ㆍ보정 ○ 대사성 산증의 보정 ○ 에너지 보급",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-28T13:23:36Z",
+   "last_observed_at": "2026-08-28T13:23:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:36Z"
+}

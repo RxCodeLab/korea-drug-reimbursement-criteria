@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199101331",
+ "item_name": "이노엔생리식염관주액",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "19910826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨",
+ "main_item_ingr_eng": "Sodium Chloride",
+ "edi_code": "640001711",
+ "atc_code": "B05XA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101331",
+ "revisions": [
+  {
+   "revision_id": "199101331-4ba3f474",
+   "content_sha256": "4ba3f47429c12d0d090ad37daf00030abd68880eec7030d9b16762b66d653868",
+   "ee_text": "관주 및 세정제",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199101331/EE",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z"
+  },
+  {
+   "revision_id": "199101331-60a79cec",
+   "content_sha256": "60a79cec154a2c15cfa9e1ea5122cabcac26d8c698cc512eb56d75eb387b4cde",
+   "ee_text": "관류 및 세정제",
+   "ee_doc_id": "10",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:43Z",
+   "last_observed_at": "2026-08-28T13:23:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:43Z"
+}

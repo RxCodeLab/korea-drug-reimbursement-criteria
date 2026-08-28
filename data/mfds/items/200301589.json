@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301589",
+ "item_name": "파이에온정",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20030205",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M270039]dl-메틸에페드린염산염|[M086712]인진호탕건조엑스",
+ "main_item_ingr_eng": "Artemisiae Capillaris Herba Decoction Dried Extract/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "D04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301589",
+ "revisions": [
+  {
+   "revision_id": "200301589-8d5760d5",
+   "content_sha256": "8d5760d5e3107a067a122f33ec8565c78c018db401c2ea84136d440cc83925c0",
+   "ee_text": "두드러기, 습진, 가려움증, 옻",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:02Z",
+   "last_observed_at": "2026-08-28T13:24:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:02Z"
+}

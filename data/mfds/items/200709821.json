@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200709821",
+ "item_name": "엘리가드주22.5밀리그램(류프로렐린아세트산염)",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "20070827",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M239038]류프로렐린아세트산염",
+ "main_item_ingr_eng": "Leuprorelin Acetate",
+ "edi_code": "655601451",
+ "atc_code": "L02AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709821",
+ "revisions": [
+  {
+   "revision_id": "200709821-9d770b3d",
+   "content_sha256": "9d770b3d4a3f573f5553adb7d1b052131d7dbc43a780b0064da3674c3d2f0726",
+   "ee_text": "진행성 전립선암",
+   "ee_doc_id": "29",
+   "first_observed_at": "2026-08-28T13:24:14Z",
+   "last_observed_at": "2026-08-28T13:24:14Z",
+   "official_revision_date": "2025-02-19"
+  },
+  {
+   "revision_id": "200709821-d3790ea4",
+   "content_sha256": "d3790ea47c2831507988cc3959bda4f4eb18250ce04a536f3c5e8ce470933fcb",
+   "ee_text": "진행성 전립선암의 완화",
+   "ee_doc_id": "16",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:14Z",
+   "last_observed_at": "2026-08-28T13:24:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:14Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200905482",
+ "item_name": "제일한방파프수에스카타플라스마",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20090716",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207935]치자연조엑스(3.0→1)|[M209235]산초30%에탄올연조엑스(3.3→1)|[M070611]살리실산글리콜|[M230875]l-멘톨|[M204423]dl-캄파|[M050096]글리시리진산|[M223240]토코페롤아세테이트|[M213350]황백연조엑스(3.3→1)|[M223240]토코페롤아세테이트|[M050096]글리시리진산|[M204423]dl-캄파|[M230875]l-멘톨|[M070611]살리실산글리콜|[M209235]산초30%에탄올연조엑스(3.3→1)|[M207935]치자연조엑스(3.0→1)|[M213350]황백연조엑스(3.3→1)",
+ "main_item_ingr_eng": "DL-Camphor/Gardenia Fruit Soft Extract (3.0→1)/Glycol Salicylate/Glycyrrhizic Acid/L-Menthol/Phellodendron Bark Soft Extract (3.3→1)/Tocopherol Acetate/Zanthoxylum Peel 30% Ethanol Soft Extract (3.3→1)",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905482",
+ "revisions": [
+  {
+   "revision_id": "200905482-324cd8c9",
+   "content_sha256": "324cd8c9b5765e92c9e7c9b240c4a38fe84d97edda49a7c9fac814cbec164d05",
+   "ee_text": "다음 증상의 진통·소염 ; 삠, 타박상, 근육통, 관절통, 요(허리)통, 어깨결림, 동창(언 상처)",
+   "ee_doc_id": "23",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z",
+   "official_revision_date": "2020-06-19"
+  },
+  {
+   "revision_id": "200905482-c3eff449",
+   "content_sha256": "c3eff449a5b7f1578f49bf537f1c156c3adf0103974aaa57b6a6c4eb702e0a90",
+   "ee_text": "다음증상의 진통ㆍ소염 : 삠, 타박상, 근육통, 관절통, 요통, 어깨결림, 동창",
+   "ee_doc_id": "20",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:21Z"
+}

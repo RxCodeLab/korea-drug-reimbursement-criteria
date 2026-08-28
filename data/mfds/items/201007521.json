@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201007521",
+ "item_name": "하이로손크림0.5%(히드로코르티손)(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20101217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040818]히드로코르티손|[M040818]히드로코르티손",
+ "main_item_ingr_eng": "Hydrocortisone",
+ "edi_code": "",
+ "atc_code": "D07AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007521",
+ "revisions": [
+  {
+   "revision_id": "201007521-d66e3dee",
+   "content_sha256": "d66e3dee332baf591948121f8aaf034fc92cf78fa8ff4c7e9736bd746468cdb3",
+   "ee_text": "습진, 피부염군, 피부가려움, 벌레물린데",
+   "ee_doc_id": "8",
+   "first_observed_at": "2026-08-28T13:24:24Z",
+   "last_observed_at": "2026-08-28T13:24:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:24Z"
+}

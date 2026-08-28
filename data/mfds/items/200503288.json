@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200503288",
+ "item_name": "진수고카타플라스마",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20050523",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050096]글리시리진산|[M223240]토코페롤아세테이트|[M204418]d-캄파|[M230875]l-멘톨|[M070611]살리실산글리콜|[M209235]산초30%에탄올연조엑스(3.3→1)|[M207935]치자연조엑스(3.0→1)|[M213350]황백연조엑스(3.3→1)",
+ "main_item_ingr_eng": "D-Camphor/Gardenia Fruit Soft Extract (3.0→1)/Glycol Salicylate/Glycyrrhizic Acid/L-Menthol/Phellodendron Bark Soft Extract (3.3→1)/Tocopherol Acetate/Zanthoxylum Peel 30% Ethanol Soft Extract (3.3→1)",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503288",
+ "revisions": [
+  {
+   "revision_id": "200503288-9a9f1d49",
+   "content_sha256": "9a9f1d49200cc5dc89ca6e508573457e4eb2251c4c3655c64d78d431f893d04d",
+   "ee_text": "다음 증상의 진통ㆍ소염(항염) : 삠, 타박상, 근육통, 골절통, 관절통, 요(허리)통, 어깨결림, 동창(언 상처)",
+   "ee_doc_id": "21",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z",
+   "official_revision_date": "2021-07-28"
+  },
+  {
+   "revision_id": "200503288-0d6684e8",
+   "content_sha256": "0d6684e83ada0bba1f37505e33b39bf6b2a2ae24e2d7eb11f015bd585527f6ae",
+   "ee_text": "다음 증상의 진통ㆍ소염 : 삠, 타박상, 근육통, 골절통, 관절통, 요통, 어깨결림, 동창",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:09Z",
+   "last_observed_at": "2026-08-28T13:24:09Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:09Z"
+}

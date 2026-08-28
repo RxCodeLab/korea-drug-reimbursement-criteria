@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600397",
+ "item_name": "잼플노즈슈도에페드린프롤리딘시럽",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20160121",
+ "cancel_date": "20250616",
+ "status": "취하",
+ "main_item_ingr": "[M241782]트리프롤리딘염산염|[M203364]슈도에페드린염산염",
+ "main_item_ingr_eng": "Pseudoephedrine Hydrochloride/Triprolidine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01BA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600397",
+ "revisions": [
+  {
+   "revision_id": "201600397-8b323ba1",
+   "content_sha256": "8b323ba1cca428faaee71391a2010720c2e7bafdaf2ff1044b42f2d07db87538",
+   "ee_text": "코감기, 알레르기 및 혈관운동성 코염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘, 눈물",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:24:47Z",
+   "last_observed_at": "2026-08-28T13:24:47Z",
+   "official_revision_date": "2017-10-18"
+  },
+  {
+   "revision_id": "201600397-674bf3b8",
+   "content_sha256": "674bf3b8c77d3cda481a23cbb48bae434d619042f4d521e96087308cf40e5a06",
+   "ee_text": "코감기, 알레르기성 및 혈관운동성 비염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:47Z",
+   "last_observed_at": "2026-08-28T13:24:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:47Z"
+}

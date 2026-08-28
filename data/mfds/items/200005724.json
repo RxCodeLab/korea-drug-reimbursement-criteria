@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005724",
+ "item_name": "노넥스엑스과립(형개연교탕)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20001017",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040564]치자|[M051105]연교|[M051936]형개|[M040205]방풍|[M040536]지실|[M040789]황금|[M040550]천궁|[M040523]작약|[M040336]시호|[M040048]길경|[M040216]백지|[M040006]감초|[M040070]당귀",
+ "main_item_ingr_eng": "Angelica Dahurica Root/Angelica Gigas Root/Bupleurum Root/Cnidium Rhizome/Forsythia Fruit/Gardenia Fruit/Licorice/Peony Root/Platycodon Root/Poncirus Immature Fruit/Saposhnikovia Root/Schizonepeta Spike/Scutellaria Root",
+ "edi_code": "",
+ "atc_code": "R01B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005724",
+ "revisions": [
+  {
+   "revision_id": "200005724-26999827",
+   "content_sha256": "26999827334708770647836f15ef81e4632e8021e7967033d0b6b8206cf7a7e2",
+   "ee_text": "부비동염, 만성비염(코염), 만성편도염, 여드름",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z",
+   "official_revision_date": "2020-04-13"
+  },
+  {
+   "revision_id": "200005724-9bb6189f",
+   "content_sha256": "9bb6189f24cc1843a73e1043ef6a2d827f48b82dcc399cc2bce7a8e9f2a3c7a7",
+   "ee_text": "부비동염, 만성비염, 만성편도염, 여드름",
+   "ee_doc_id": "5",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:57Z",
+   "last_observed_at": "2026-08-28T13:23:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:57Z"
+}

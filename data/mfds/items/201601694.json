@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201601694",
+ "item_name": "스마일오투점안액(1회용)",
+ "entp_name": "(주)옵투스제약",
+ "permit_date": "20160330",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040702]포도당",
+ "main_item_ingr_eng": "Glucose/Potassium Chloride/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601694",
+ "revisions": [
+  {
+   "revision_id": "201601694-5d9730c0",
+   "content_sha256": "5d9730c034a5d973c8af116841db9e7ce358bb35f33023e39ffc38918d750b3a",
+   "ee_text": "소프트콘택트렌즈 또는 하드콘택트렌즈를 착용하고 있을 때의 불쾌감, 눈물 보충 (눈의 건조), 눈의 피로, 눈의 흐림 (눈꼽이 많을 때)",
+   "ee_doc_id": "6",
+   "first_observed_at": "2026-08-28T13:24:48Z",
+   "last_observed_at": "2026-08-28T13:24:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:48Z"
+}

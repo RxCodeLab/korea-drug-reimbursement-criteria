@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402585",
+ "item_name": "알레스탑-에스정",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20040330",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M204422]dl-메틸에페드린염산염|[M102822]인진호탕건조엑스(10→1)",
+ "main_item_ingr_eng": "Artemisiae Capillaris Herba Decoction Dried Extract (10→1)/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "D04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402585",
+ "revisions": [
+  {
+   "revision_id": "200402585-562153a7",
+   "content_sha256": "562153a7c5fed074dfb3264c7f5ca28f2a88ed5cd9f733eda71fd5515db58982",
+   "ee_text": "두드러기, 습진, 옻, 가려움증",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:24:05Z",
+   "last_observed_at": "2026-08-28T13:24:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:05Z"
+}

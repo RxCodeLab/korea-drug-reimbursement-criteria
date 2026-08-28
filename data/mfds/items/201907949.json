@@ -7,20 +7,20 @@
  "permit_date": "20191115",
  "cancel_date": "20230922",
  "status": "취하",
- "main_item_ingr": "[M040353]아세트아미노펜|[M040614]클로르족사존",
+ "main_item_ingr": "[M040614]클로르족사존|[M040353]아세트아미노펜",
  "main_item_ingr_eng": "Acetaminophen/Chlorzoxazone",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907949",
+ "history_fetched_at": "2026-08-27T13:02:36Z",
  "revisions": [
   {
    "revision_id": "201907949-8a831f97",
    "content_sha256": "8a831f976f930f69a45fe5fde7251407ed0797d866828ab40a733181dd0ba6a5",
    "ee_text": "신경통, 근육통, 관절통, 요(허리)통, 염좌통(삔 통증), 견통(어깨통증), 근경련(근육경련), 근경직 등 근육의 이상 긴장을 수반하는 제 질환(여러 질환).",
-   "ee_doc_id": "5",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201907949/EE",
    "first_observed_at": "2026-08-27T13:02:36Z",
-   "last_observed_at": "2026-08-27T13:02:36Z",
-   "official_revision_date": "2023-06-19"
+   "last_observed_at": "2026-08-28T13:25:13Z"
   },
   {
    "revision_id": "201907949-bb488f39",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:02:36Z",
    "last_observed_at": "2026-08-27T13:02:36Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:02:36Z"
+ ]
 }

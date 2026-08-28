@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200901575",
+ "item_name": "행심연질캡슐(은행엽건조엑스)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20090227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088948]은행엽건조엑스",
+ "main_item_ingr_eng": "Ginkgo Biloba Leaf Dried Extract",
+ "edi_code": "",
+ "atc_code": "N06DX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901575",
+ "revisions": [
+  {
+   "revision_id": "200901575-c4436bfc",
+   "content_sha256": "c4436bfcc2159e2513749177193813c46400e4aac3e4e68af9062ef683283e50",
+   "ee_text": "이명(귀울림), 두통, 기억력 감퇴, 집중력 장애, 우울감, 어지러움 등의 치매성 증상을 수반하는 기질성 뇌기능 장애의 치료",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z",
+   "official_revision_date": "2018-09-05"
+  },
+  {
+   "revision_id": "200901575-74e063f7",
+   "content_sha256": "74e063f7d8b8b1d5fd956bb2b8c951621a3f5fe0cff71ffbc73d6acfdf46387a",
+   "ee_text": "이명(귀울림), 두통, 기억력 감퇴, 집중력 장애, 우울감 어지러움 등의 치매성 증상을 수반하는 기질성 뇌기능 장애의 치료",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-21",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:20Z"
+}

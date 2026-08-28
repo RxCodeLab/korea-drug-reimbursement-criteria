@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701904",
+ "item_name": "글루콤액",
+ "entp_name": "고려제약(주)",
+ "permit_date": "19970930",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222998]L-리신염산염|[M222530]L-이소류신|[M222531]L-류신|[M218567]L-메티오닌|[M209360]L-발린|[M103060]L-트레오닌|[M204442]L-페닐알라닌|[M202240]L-글루타민|[M100992]코바마미드",
+ "main_item_ingr_eng": "Cobamamide/L-Glutamine/L-Isoleucine/L-Leucine/L-Lysine Hydrochloride/L-Methionine/L-Phenylalanine/L-Threonine/L-Valine",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701904",
+ "revisions": [
+  {
+   "revision_id": "199701904-c2861b7a",
+   "content_sha256": "c2861b7a9f807aa82156957765ff15fe7b8bf3b48a84102c5f454a689aab93e2",
+   "ee_text": "병중ㆍ병후(병을 앓는 동안이나 회복 후)회복기, 소모성질환등의 영양공급, 육체피로, 자양강장",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:48Z"
+}

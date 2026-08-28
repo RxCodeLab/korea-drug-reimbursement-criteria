@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900816",
+ "item_name": "콤포나콤팩트에어500/50",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20190131",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258743]살메테롤지나포산염(미분화)|[M245524]플루티카손프로피오네이드(미분화)",
+ "main_item_ingr_eng": "Fluticasone Propionate Micronized/Salmeterol Xinafoate Micronized",
+ "edi_code": "671806851",
+ "atc_code": "R03AK06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900816",
+ "revisions": [
+  {
+   "revision_id": "201900816-f55b23a0",
+   "content_sha256": "f55b23a04b44eee3153d823982b2f3472804b6c7463f1e58e531b33ce4b89eb2",
+   "ee_text": "기관지 확장제와 흡입용 코르티코스테로이드의 병용투여가 적절하다고 판단된 천식의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:04Z",
+   "last_observed_at": "2026-08-28T13:25:04Z",
+   "official_revision_date": "2019-02-06"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:04Z"
+}

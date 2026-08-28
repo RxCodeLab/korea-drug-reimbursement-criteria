@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800516",
+ "item_name": "아세티정(아세클로페낙)",
+ "entp_name": "주식회사케이에스제약",
+ "permit_date": "20180129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040359]아세클로페낙",
+ "main_item_ingr_eng": "Aceclofenac",
+ "edi_code": "059000440",
+ "atc_code": "M01AB16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800516",
+ "revisions": [
+  {
+   "revision_id": "201800516-85076b17",
+   "content_sha256": "85076b17232c48ac0a84688e6a7365398bb0e08e72a9724b4b0aef6dd65f4326",
+   "ee_text": "류마티스관절염, 강직척추염, 골관절염(퇴행관절염) 및 견갑상완골의 관절주위염, 치통, 외상 후 생기는 염증, 요통, 좌골통, 비관절성 류머티즘으로 인한 통증",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2018-01-29"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

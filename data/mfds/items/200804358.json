@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200804358",
+ "item_name": "더즌비타주(히드록소코발라민)",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20080421",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051985]히드록소코발라민",
+ "main_item_ingr_eng": "Hydroxocobalamin",
+ "edi_code": "",
+ "atc_code": "B03BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804358",
+ "revisions": [
+  {
+   "revision_id": "200804358-c99c9c98",
+   "content_sha256": "c99c9c98c0ae12bc21316481bfaad81ae79aa99f828e9de69dbaff4b3be58e39",
+   "ee_text": "비타민 B12 결핍으로 인한 거대적아구성 빈혈과 관련된 다발성신경염의 치료",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z",
+   "official_revision_date": "2020-05-02"
+  },
+  {
+   "revision_id": "200804358-8123cd6a",
+   "content_sha256": "8123cd6a526d52411ef9aaad3fcd6f04eaae3e3cd2aaf815c409a6d5d5e8938c",
+   "ee_text": "급성신경염, 다발성 신경염, 좌골신경통, 류마티양 경견완증후군, 척수근통, 견갑관절주위염, 위염, 암 및 외상에 의한 신경통, 대상포진 및 편두통에 의한 신경통",
+   "ee_doc_id": "6",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:16Z",
+   "last_observed_at": "2026-08-28T13:24:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:16Z"
+}

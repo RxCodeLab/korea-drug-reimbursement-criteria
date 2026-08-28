@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202422",
+ "item_name": "유한이브펜연질캡슐",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20220610",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜|[M082487]파마브롬|[M050448]메타규산알루민산마그네슘",
+ "main_item_ingr_eng": "Ibuprofen/Magnesium Aluminometasilicate/Pamabrom",
+ "edi_code": "",
+ "atc_code": "M01AE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202422",
+ "revisions": [
+  {
+   "revision_id": "202202422-ce200aeb",
+   "content_sha256": "ce200aeb1eb022b6fedd98e2a5c77735cbadd5ef2f9e08ff27c9192ed153d07a",
+   "ee_text": "1. 두통, 치통, 발치후 동통(통증), 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요(허리)통, 근육통, 견통(어깨결림), 타박통, 골절통, 염좌통(삠통증), 월경통(생리통), 외상통의 진통 2. 오한(춥고 떨리는 증상), 발열시의 해열",
+   "ee_doc_id": "3",
+   "first_observed_at": "2026-08-28T13:25:29Z",
+   "last_observed_at": "2026-08-28T13:25:29Z",
+   "official_revision_date": "2022-10-24"
+  },
+  {
+   "revision_id": "202202422-85b05a16",
+   "content_sha256": "85b05a16b1683f5a0fa28275f394dacd200086caf0ed81cc3cd428c3c0ab8612",
+   "ee_text": "1. 두통, 치통, 발치후 동통(통증), 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요통, 근육통, 견통(어깨결림), 타박통, 골절통, 염좌통(삠통증), 월경통(생리통), 외상통의 진통 2. 오한(춥고 떨리는 증상), 발열시의 해열",
+   "ee_doc_id": "1",
+   "official_revision_date": "2022-06-10",
+   "first_observed_at": "2026-08-28T13:25:29Z",
+   "last_observed_at": "2026-08-28T13:25:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:29Z"
+}

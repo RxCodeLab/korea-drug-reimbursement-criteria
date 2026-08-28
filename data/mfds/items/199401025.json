@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199401025",
+ "item_name": "지노칼정",
+ "entp_name": "삼남제약(주)",
+ "permit_date": "19940906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233018]락트산칼슘수화물|[M222935]글루콘산칼슘수화물|[M040634]침강탄산칼슘|[M083515]에르고칼시페롤과립",
+ "main_item_ingr_eng": "Calcium Gluconate Hydrate/Calcium Lactate Hydrate/Ergocalciferol Granules/Precipitated Calcium Carbonate",
+ "edi_code": "653701180",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199401025",
+ "revisions": [
+  {
+   "revision_id": "199401025-f9dbc9cc",
+   "content_sha256": "f9dbc9cc96e52cbfb1daf91a050b0b83678a0570c59a7cddb6de86eb7e010336",
+   "ee_text": "1. 칼슘 결핍 및 기타 칼슘 보급 2. 다음 경우의 비타민 D의 보급 - 임신ㆍ수유기, 발육기, 노년기 - 이 약에 함유된 비타민D(에르고칼시페롤)의 효능ㆍ효과는 다음과 같다. ㆍ 뼈, 이의 발육불량 ㆍ 구루병의 예방",
+   "ee_doc_id": "19",
+   "first_observed_at": "2026-08-28T13:23:45Z",
+   "last_observed_at": "2026-08-28T13:23:45Z",
+   "official_revision_date": "2021-11-29"
+  },
+  {
+   "revision_id": "199401025-55dc0f1b",
+   "content_sha256": "55dc0f1b4d9684e33924a68b1ee2ba2ed185a0dd190acd65bb1429613c08e4f2",
+   "ee_text": "칼슘결핍 및 기타 칼슘보급",
+   "ee_doc_id": "8",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:45Z",
+   "last_observed_at": "2026-08-28T13:23:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:45Z"
+}

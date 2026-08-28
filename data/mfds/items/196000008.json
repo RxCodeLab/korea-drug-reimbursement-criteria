@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "196000008",
+ "item_name": "다이크로짇정(히드로클로로티아지드)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "19600420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223356]히드로클로로티아지드",
+ "main_item_ingr_eng": "Hydrochlorothiazide",
+ "edi_code": "642100160",
+ "atc_code": "C03AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196000008",
+ "revisions": [
+  {
+   "revision_id": "196000008-bffd993e",
+   "content_sha256": "bffd993eac28ebb163cffe5c594ca69617045d1f388b760a675e17bcc943d9ea",
+   "ee_text": "고혈압(본태성, 신성 등), 악성고혈압, 심성부종(울혈성심부전), 신성부종 간성부종, 월경전긴장증에 의한 부종, 부신피질호르몬, 페닐부타존, 에스트로겐에 의한 부종",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:36Z",
+   "last_observed_at": "2026-08-28T13:23:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:36Z"
+}

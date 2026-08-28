@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197600345",
+ "item_name": "페리나정",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19760622",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203364]슈도에페드린염산염|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01BA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600345",
+ "revisions": [
+  {
+   "revision_id": "197600345-e4b23214",
+   "content_sha256": "e4b23214497818cb8a40b9a8072f0e74099cdc43584647798dd78bafdb102bfd",
+   "ee_text": "코감기(급성비염), 알레르기성 비염 또는 부비동염에 의한 다음 증상의 완화 : 코막힘, 콧물, 재채기, 눈물, 인후통, 머리 무거움",
+   "ee_doc_id": "28",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z",
+   "official_revision_date": "2025-06-12"
+  },
+  {
+   "revision_id": "197600345-dce0528d",
+   "content_sha256": "dce0528dd19ddbbdfde01e56eb4048945aabba96117d674780c166ecddbc3dae",
+   "ee_text": "감기 또는 알레르기성 및 혈관운동성 비염(코염)에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘, 눈물",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:37Z",
+   "last_observed_at": "2026-08-28T13:23:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:37Z"
+}

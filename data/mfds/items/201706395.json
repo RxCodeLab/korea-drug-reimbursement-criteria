@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706395",
+ "item_name": "제미로우정50/10밀리그램",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20170731",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254878]제미글립틴타르타르산염1.5수화물|[M270546]로수바스타틴칼슘(미분화)",
+ "main_item_ingr_eng": "Gemigliptin Tartrate Sesquihydrate/Rosuvastatin Calcium Micronized",
+ "edi_code": "668903180",
+ "atc_code": "A10BH52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706395",
+ "revisions": [
+  {
+   "revision_id": "201706395-9bf2f895",
+   "content_sha256": "9bf2f895e415ff24fda402accd5fb085c15e9e786519a62dd7b0170a5a664d7c",
+   "ee_text": "이 약은 두 약물(제미글립틴타르타르산염1.5수화물과 로수바스타틴칼슘)을 동시에 투여하여야 하는 환자에만 병용대체요법으로 사용한다.",
+   "ee_doc_id": "18",
+   "first_observed_at": "2026-08-28T13:24:57Z",
+   "last_observed_at": "2026-08-28T13:24:57Z",
+   "official_revision_date": "2023-02-15"
+  },
+  {
+   "revision_id": "201706395-32de5a02",
+   "content_sha256": "32de5a027003295fdd9978c654506cd5c1864823a99548ff4127c0d396d859bd",
+   "ee_text": "이 약은 두 약물(제미글립틴과 로수바스타틴)을 동시에 투여하여야 하는 환자에만 병용 대체요법으로 사용한다. 이 약은 인슐린 비의존성(제2형) 당뇨병환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. - 메트포르민 단독요법으로 충분한 혈당조절을 할 수 없는 경우 이 약과 병용투여한다. - 이전 당뇨병 약물치료를 받은 경험이 없으며 단독요법으로 충분한 혈당조절이 어려운 경우 메트포르민과 병용투여한다. - 메트포르민과 설포닐우레아 병용요법으로 충분한 혈당조절을 할 수 없는 경우 이 약을 병용투여한다. ◦ LDL-콜레스테롤이 여전히 190 mg/dL을 초과하는 경우 (LDL-C > 190 mg/dL) ◦ LDL-콜레스테롤이 여전히 160 mg/dL을 초과하면서 (LDL-C > 160 mg/dL), 조기 심혈관 질환의 가족력이 있거나 두가지 이상의 심혈관 질환 위험 인자가 있는 경우 - 뇌졸중에 대한 위험성 감소 - 심근경색에 대한 위험성 감소 - 동맥 혈관재형성술에 대한 위험성 감소",
+   "ee_doc_id": "4",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:57Z",
+   "last_observed_at": "2026-08-28T13:24:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:57Z"
+}

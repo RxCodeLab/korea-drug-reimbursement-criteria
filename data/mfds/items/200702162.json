@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200702162",
+ "item_name": "큐티스점안액(1회용), 큐티스점안액",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20070216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040426]염화나트륨|[M040438]염화칼륨",
+ "main_item_ingr_eng": "Potassium Chloride/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702162",
+ "revisions": [
+  {
+   "revision_id": "200702162-9dd2b6bc",
+   "content_sha256": "9dd2b6bcabdb44f6ae1049bbc84b9111115e21e730078a21d3900934ab50ce1d",
+   "ee_text": "눈의 피로,눈물의 보조(눈의 건조),하드콘택트렌즈 및 소프트렌즈 착용시의 불쾌감, 눈의 침침함(눈곱이 많을 때 등)",
+   "ee_doc_id": "22",
+   "first_observed_at": "2026-08-28T13:24:11Z",
+   "last_observed_at": "2026-08-28T13:24:11Z",
+   "official_revision_date": "2021-04-29"
+  },
+  {
+   "revision_id": "200702162-c8583efa",
+   "content_sha256": "c8583efa6ecfb2f60fa02297986bfcd576f69e17d9b43fd49081556dbaa332e5",
+   "ee_text": "눈의 피로,누액의 보조(눈의 건조),하드콘택트렌즈 및 소프트렌즈 착용시의 불쾌감, 눈의 침침함(눈꼽이 많은 때 등)",
+   "ee_doc_id": "14",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:11Z",
+   "last_observed_at": "2026-08-28T13:24:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:11Z"
+}

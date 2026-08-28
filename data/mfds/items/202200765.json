@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200765",
+ "item_name": "맥세렌비제트정",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20220218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M210377]아셀렌산나트륨오수화물|[M243785]산화아연|[M096428]벤포티아민",
+ "main_item_ingr_eng": "Benfotiamine/Sodium Selenite Pentahydrate/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11DA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200765",
+ "revisions": [
+  {
+   "revision_id": "202200765-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:25:27Z",
+   "last_observed_at": "2026-08-28T13:25:27Z",
+   "official_revision_date": "2024-01-09"
+  },
+  {
+   "revision_id": "202200765-3e6b36f5",
+   "content_sha256": "3e6b36f5eae6b4ec2b39ba2826f48086b54f498eb541540207474003f6e7de27",
+   "ee_text": "1. 다음 경우의 비타민 B1 의 보급 - 육체피로 - 임신‧수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 2. 아연의 보급",
+   "ee_doc_id": "1",
+   "official_revision_date": "2022-02-18",
+   "first_observed_at": "2026-08-28T13:25:27Z",
+   "last_observed_at": "2026-08-28T13:25:27Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:27Z"
+}

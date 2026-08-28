@@ -12,15 +12,15 @@
  "edi_code": "677200180",
  "atc_code": "L04AD02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900697",
+ "history_fetched_at": "2026-08-27T12:33:33Z",
  "revisions": [
   {
    "revision_id": "200900697-2c98d5ee",
    "content_sha256": "2c98d5ee254fe1ed3e4d703e6c96af98a83ee2050c496edde89eaf8108e0a882",
    "ee_text": ": 동종의 신이식 환자에 대한 거부반응 방지 : 동종의 간이식 환자에 대한 거부반응 방지",
-   "ee_doc_id": "39",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200900697/EE",
    "first_observed_at": "2026-08-27T12:33:33Z",
-   "last_observed_at": "2026-08-27T12:33:33Z",
-   "official_revision_date": "2022-11-18"
+   "last_observed_at": "2026-08-28T13:24:20Z"
   },
   {
    "revision_id": "200900697-d7639394",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:33:33Z",
    "last_observed_at": "2026-08-27T12:33:33Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:33:33Z"
+ ]
 }

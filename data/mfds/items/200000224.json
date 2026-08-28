@@ -12,15 +12,15 @@
  "edi_code": "643302280",
  "atc_code": "M01AX26",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000224",
+ "history_fetched_at": "2026-08-27T11:10:55Z",
  "revisions": [
   {
    "revision_id": "200000224-4d05f6f1",
    "content_sha256": "4d05f6f102ca0c4768265b6df67cdcfcd2b53f9b4ffe6c2353e64a5c9f7049bf",
    "ee_text": "성인 무릎 골관절염의 증상완화",
-   "ee_doc_id": "29",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200000224/EE",
    "first_observed_at": "2026-08-27T11:10:55Z",
-   "last_observed_at": "2026-08-27T11:10:55Z",
-   "official_revision_date": "2021-07-23"
+   "last_observed_at": "2026-08-28T13:23:53Z"
   },
   {
    "revision_id": "200000224-e3b0c442",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T11:10:55Z",
    "last_observed_at": "2026-08-27T11:10:55Z"
   }
- ],
- "history_fetched_at": "2026-08-27T11:10:55Z"
+ ]
 }

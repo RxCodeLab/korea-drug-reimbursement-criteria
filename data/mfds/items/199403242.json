@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403242",
+ "item_name": "맥시덱스점안액(덱사메타손)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "19940520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040080]덱사메타손",
+ "main_item_ingr_eng": "Dexamethasone",
+ "edi_code": "653603141",
+ "atc_code": "S01BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403242",
+ "revisions": [
+  {
+   "revision_id": "199403242-13526548",
+   "content_sha256": "1352654806551c01913140a50a33fc95f81485a70beca78896895f491946150d",
+   "ee_text": "(점안액) 결막염, 표재성 점상ㆍ대상포진성 각막염, 홍채염, 모양체염, 포도막염, 방사능열 및 화상 또는 이물 침입에 의한 각막손상 (안연고) 결막염, 안검염, 각막염, 포도막염",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:46Z",
+   "last_observed_at": "2026-08-28T13:23:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:46Z"
+}

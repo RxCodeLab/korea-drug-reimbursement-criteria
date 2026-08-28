@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200811058",
+ "item_name": "바이코비정",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20081118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083577]비스벤티아민|[M204304]피리독신염산염|[M096429]시아노코발라민|[M223239]토코페롤숙시네이트칼슘|[M040064]니코틴산아미드",
+ "main_item_ingr_eng": "Bisbentiamine/Cyanocobalamin/Nicotinamide/Pyridoxine Hydrochloride/Tocopherol Calcium Succinate",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811058",
+ "revisions": [
+  {
+   "revision_id": "200811058-bcbc43ae",
+   "content_sha256": "bcbc43ae2dc7b2c44837a73cca31d91deda7ce161ffefaf30fa8fa9da9a378a6",
+   "ee_text": "다음 증상의 완화: 신경통, 근육통, 관절통(요통, 어깨결림, 오십견 등), 손발의 저림, 눈의 피로 다음 경우의 비타민 B1, B6, B12의 보급: 육체피로시, 임신ㆍ수유기, 병중ㆍ병후의 체력저하시",
+   "ee_doc_id": "11",
+   "first_observed_at": "2026-08-28T13:24:20Z",
+   "last_observed_at": "2026-08-28T13:24:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:20Z"
+}

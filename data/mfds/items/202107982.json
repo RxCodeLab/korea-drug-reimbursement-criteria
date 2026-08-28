@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107982",
+ "item_name": "우루리버정200밀리그램(우르소데옥시콜산)(수출용)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20211215",
+ "cancel_date": "20260419",
+ "status": "취하",
+ "main_item_ingr": "[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A05AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107982",
+ "revisions": [
+  {
+   "revision_id": "202107982-f52b1657",
+   "content_sha256": "f52b16570346eaeae6005c7bea4ab393fcd88245ad8285b24f690d0dd191b31a",
+   "ee_text": "○콜레스테롤 담석증 ○원발 쓸개관 간경화증(Primary Biliary Cirrhosis: PBC) 의 간기능 개선 ○만성 C형 간염 환자의 간기능 개선",
+   "ee_doc_id": "4",
+   "first_observed_at": "2026-08-28T13:25:27Z",
+   "last_observed_at": "2026-08-28T13:25:27Z",
+   "official_revision_date": "2023-01-09"
+  },
+  {
+   "revision_id": "202107982-8d52b0fe",
+   "content_sha256": "8d52b0fe5f5a90c9df349df159faee4f2706da999f7078375842ed4343d19fc3",
+   "ee_text": "○담석증 ○원발 쓸개관 간경화증(Primary Biliary Cirrhosis: PBC) 의 간기능 개선 ○만성 C형 간염 환자의 간기능 개선",
+   "ee_doc_id": "1",
+   "official_revision_date": "2021-12-15",
+   "first_observed_at": "2026-08-28T13:25:27Z",
+   "last_observed_at": "2026-08-28T13:25:27Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:27Z"
+}

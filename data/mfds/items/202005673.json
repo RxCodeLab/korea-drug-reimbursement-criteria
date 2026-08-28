@@ -12,15 +12,15 @@
  "edi_code": "646902380",
  "atc_code": "N03AX11",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005673",
+ "history_fetched_at": "2026-08-27T12:25:33Z",
  "revisions": [
   {
    "revision_id": "202005673-a55eb748",
    "content_sha256": "a55eb748bfc1f44b29293f77826bd8949e84acf51a4104dee42834449b06b8b4",
    "ee_text": "1. 뇌전증 1) 단독요법 : 6세 이상의 소아 및 성인에서의 2차성 전신발작을 동반하거나 동반하지 않은 부분발작 치료 2) 부가요법 : 기존 1차 항뇌전증약 투여로 적절하게 조절이 되지 않는 2세 이상의 소아 및 성인에게서 다음 질환에 사용된다. - 2차성 전신발작을 동반하거나 동반하지 않은 부분발작 - 레녹스-가스토 증후군과 관련된 발작 - 1차성 강직성/간대성 전신발작 2. 편두통의 예방",
-   "ee_doc_id": "5",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202005673/EE",
    "first_observed_at": "2026-08-27T12:25:33Z",
-   "last_observed_at": "2026-08-27T12:25:33Z",
-   "official_revision_date": "2022-06-13"
+   "last_observed_at": "2026-08-28T13:25:21Z"
   },
   {
    "revision_id": "202005673-49d628fe",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T12:25:33Z",
    "last_observed_at": "2026-08-27T12:25:33Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:25:33Z"
+ ]
 }

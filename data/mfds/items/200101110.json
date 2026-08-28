@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101110",
+ "item_name": "엠.브이.에취주(바이알)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "20010420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082390]덱스판테놀|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M222996]리보플라빈포스페이트나트륨|[M223258]티아민염산염|[M258994]아스코르브산|[M223240]토코페롤아세테이트|[M040397]에르고칼시페롤|[M222991]레티놀팔미테이트",
+ "main_item_ingr_eng": "Ascorbic Acid/Dexpanthenol/Ergocalciferol/Nicotinamide/Pyridoxine Hydrochloride/Retinol Palmitate/Riboflavin Sodium Phosphate/Thiamine Hydrochloride/Tocopherol Acetate",
+ "edi_code": "657200570",
+ "atc_code": "B05XC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101110",
+ "revisions": [
+  {
+   "revision_id": "200101110-e3ddf8ca",
+   "content_sha256": "e3ddf8ca18b9112240c2638f9fa584d949690b8bbd311843437dd51581fd2c7e",
+   "ee_text": "다음과 같은 응급환자의 영양보급 수술시, 중화상, 골절, 중증의 감염질환, 혼수상태 등",
+   "ee_doc_id": "9",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "195900009",
+ "item_name": "비오베이비(수출용)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "19590730",
+ "cancel_date": "20231129",
+ "status": "취하",
+ "main_item_ingr": "[M040009]건조효모|[M223369]인산수소칼슘수화물|[M040064]니코틴산아미드|[M203450]아스코르브산|[M040133]리보플라빈|[M223262]티아민질산염|[M080610]바실루스서브틸리스균|[M091380]클로스트리디움부티리쿰균|[M051231]락토바실루스스포로게네스균",
+ "main_item_ingr_eng": "Ascorbic Acid/Bacillus Subtilis/Clostridium Butyricum/Dibasic Calcium Phosphate Hydrate/Dried Yeast/Lactobacillus Sporogenes/Nicotinamide/Riboflavin/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A07FA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=195900009",
+ "revisions": [
+  {
+   "revision_id": "195900009-a13348c6",
+   "content_sha256": "a13348c67da4a18444153ab8c9733e07afe65541e01ad2ff82c2ede164e9c386",
+   "ee_text": "정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "17",
+   "first_observed_at": "2026-08-28T13:23:36Z",
+   "last_observed_at": "2026-08-28T13:23:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:36Z"
+}

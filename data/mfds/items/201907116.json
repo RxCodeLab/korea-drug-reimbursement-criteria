@@ -7,21 +7,20 @@
  "permit_date": "20191007",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M267754]갈근탕건조엑스(4→1)|[M050058]구아이페네신|[M223183]카페인무수물|[M040353]아세트아미노펜|[M258994]아스코르브산|[M223211]클로르페니라민말레산염|[M040133]리보플라빈",
+ "main_item_ingr": "[M040133]리보플라빈|[M223211]클로르페니라민말레산염|[M258994]아스코르브산|[M040353]아세트아미노펜|[M223183]카페인무수물|[M050058]구아이페네신|[M267754]갈근탕건조엑스(4→1)",
  "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Ascorbic Acid/Chlorpheniramine Maleate/Galgeuntang Dried Extract (4→1)/Guaifenesin/Riboflavin",
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907116",
+ "history_fetched_at": "2026-08-27T13:02:30Z",
  "revisions": [
   {
    "revision_id": "201907116-dace01c3",
    "content_sha256": "dace01c38e0478652ee77772cb20b1ba091e71d68ba4d5624e6c3985aa1e393f",
    "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후통, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
-   "ee_doc_id": "1",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201907116/EE",
    "first_observed_at": "2026-08-27T13:02:30Z",
-   "last_observed_at": "2026-08-27T13:02:30Z",
-   "official_revision_date": "2019-10-07"
+   "last_observed_at": "2026-08-28T13:25:12Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:02:30Z"
+ ]
 }

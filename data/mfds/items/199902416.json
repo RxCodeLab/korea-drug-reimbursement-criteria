@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199902416",
+ "item_name": "아스토신에스정(수출용)",
+ "entp_name": "(주)화이트생명과학",
+ "permit_date": "19990309",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040616]말레인산클로르페니라민|[M040346]아미노필린|[M207450]디엘 염산메칠에페드린|[M040059]노스카핀",
+ "main_item_ingr_eng": "Aminophylline/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Noscapine",
+ "edi_code": "",
+ "atc_code": "R03CK",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902416",
+ "revisions": [
+  {
+   "revision_id": "199902416-78dd308e",
+   "content_sha256": "78dd308e0cabff9495a553cd7e6646318532bf70f886bda2821e2f6252f7b915",
+   "ee_text": "기침, 가래, 천식",
+   "ee_doc_id": "10",
+   "first_observed_at": "2026-08-28T13:23:51Z",
+   "last_observed_at": "2026-08-28T13:23:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:51Z"
+}

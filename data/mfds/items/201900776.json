@@ -12,15 +12,15 @@
  "edi_code": "657203450",
  "atc_code": "N05AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900776",
+ "history_fetched_at": "2026-08-27T13:24:28Z",
  "revisions": [
   {
    "revision_id": "201900776-b9eed1f7",
    "content_sha256": "b9eed1f779e6b5f3e9540eeecb3a5076c707133530d58720e8bf425621929172",
    "ee_text": "조현병",
-   "ee_doc_id": "15",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201900776/EE",
    "first_observed_at": "2026-08-27T13:24:28Z",
-   "last_observed_at": "2026-08-27T13:24:28Z",
-   "official_revision_date": "2024-02-23"
+   "last_observed_at": "2026-08-28T13:25:03Z"
   },
   {
    "revision_id": "201900776-e45afba9",
@@ -31,6 +31,5 @@
    "first_observed_at": "2026-08-27T13:24:28Z",
    "last_observed_at": "2026-08-27T13:24:28Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:24:28Z"
+ ]
 }

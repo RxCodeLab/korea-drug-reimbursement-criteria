@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501468",
+ "item_name": "경방탁리소독음엑스과립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20150320",
+ "cancel_date": "20250320",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050107]금은화|[M051105]연교|[M040538]진피|[M040225]복령|[M040214]백출|[M040070]당귀|[M040523]작약|[M040790]황기|[M040006]감초|[M040216]백지|[M040213]인삼",
+ "main_item_ingr_eng": "Angelica Dahurica Root/Angelica Gigas Root/Astragalus Root/Atractylodes Rhizome White/Citrus Unshiu Peel/Forsythia Fruit/Ginseng/Licorice/Lonicera Flower/Peony Root/Poria",
+ "edi_code": "",
+ "atc_code": "J01XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501468",
+ "revisions": [
+  {
+   "revision_id": "201501468-ff8fd06c",
+   "content_sha256": "ff8fd06c0e346e57efc92b17fb8e0c438eac87bdce98a3092d60a8349ddc7c06",
+   "ee_text": "림프절염, 항문주위염, 유선염 등의 화농(곪음)성질환",
+   "ee_doc_id": "5",
+   "first_observed_at": "2026-08-28T13:24:41Z",
+   "last_observed_at": "2026-08-28T13:24:41Z",
+   "official_revision_date": "2019-08-09"
+  },
+  {
+   "revision_id": "201501468-9d29426a",
+   "content_sha256": "9d29426ac8cb6390ae536d735bce6b793f706c64be431235aa4c119f6963152c",
+   "ee_text": "림프절염, 항문주위염, 유선염 등의 화농성질환",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:41Z",
+   "last_observed_at": "2026-08-28T13:24:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:41Z"
+}

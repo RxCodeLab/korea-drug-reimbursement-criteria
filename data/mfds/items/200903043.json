@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200903043",
+ "item_name": "리버파워포르테연질캡슐",
+ "entp_name": "아이큐어(주)",
+ "permit_date": "20090428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096429]시아노코발라민|[M244748]판토텐산칼슘|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M223262]티아민질산염|[M272736]밀크시슬열매 건조엑스",
+ "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin/Milk-Thistle Fruit Dried Extract/Nicotinamide/Pyridoxine Hydrochloride/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903043",
+ "revisions": [
+  {
+   "revision_id": "200903043-43a5ea3e",
+   "content_sha256": "43a5ea3e2cdb06724fc48509adaf6034adb27f5401ee554f8aff591dfd1cebe9",
+   "ee_text": "다음 질환의 보조치료 : 만성 간질환, 간경변, 독성 간질환",
+   "ee_doc_id": "16",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z",
+   "official_revision_date": "2018-01-21"
+  },
+  {
+   "revision_id": "200903043-b696d2fd",
+   "content_sha256": "b696d2fdab4873a0ede1fab189bf021dd68f535924fb80ec286e76559db9f46c",
+   "ee_text": "다음 질환의 치료 보조 : 만성 간질환, 지방간, 간경변, 중독성 간장질환",
+   "ee_doc_id": "15",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:21Z"
+}

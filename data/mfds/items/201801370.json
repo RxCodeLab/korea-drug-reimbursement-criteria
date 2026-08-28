@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801370",
+ "item_name": "큐앤큐헥시딘스틱스왑액",
+ "entp_name": "큐앤큐팜(주)",
+ "permit_date": "20180328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "",
+ "atc_code": "D08AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801370",
+ "revisions": [
+  {
+   "revision_id": "201801370-e6320c99",
+   "content_sha256": "e6320c9978dd00715b9eadcf7558fc2af586c68a07337210b5bcdb63baac3f5a",
+   "ee_text": "- 손 및 피부의 소독(보건위생종사자 및 수술 시 수술자의 손 소독, 수술부위 피부의 소독은 제외)",
+   "ee_doc_id": "2",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z",
+   "official_revision_date": "2019-10-18"
+  },
+  {
+   "revision_id": "201801370-fe58152c",
+   "content_sha256": "fe58152ca664df5b17949baa63731d4e413d8e3faf0c6c21ccae53a23e6f7ccb",
+   "ee_text": "- 손 및 피부의 소독 - 수술부위의 피부소독",
+   "ee_doc_id": "1",
+   "official_revision_date": "2018-03-28",
+   "first_observed_at": "2026-08-28T13:24:59Z",
+   "last_observed_at": "2026-08-28T13:24:59Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:59Z"
+}

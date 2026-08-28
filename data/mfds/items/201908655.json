@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908655",
+ "item_name": "아스마에프시럽",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20191226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082882]차전초유동엑스|[M070086]길경유동엑스|[M050059]구아야콜설폰산칼륨|[M270039]dl-메틸에페드린염산염|[M223211]클로르페니라민말레산염|[M222957]덱스트로메토르판브롬화수소산염수화물",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate/Plantago Herb Fluid Extract/Platycodon Root Fluid Extract/Potassium Guaiacolsulfonate",
+ "edi_code": "",
+ "atc_code": "R05FA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908655",
+ "revisions": [
+  {
+   "revision_id": "201908655-da6ae941",
+   "content_sha256": "da6ae941bfe4a46693189cf70b524d3fd9a3cebea6e5f19f12abf6f835dc98da",
+   "ee_text": "기침, 가래",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:14Z",
+   "last_observed_at": "2026-08-28T13:25:14Z",
+   "official_revision_date": "2019-12-26"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:14Z"
+}

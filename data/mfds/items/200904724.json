@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200904724",
+ "item_name": "젠탈정",
+ "entp_name": "(주)셀릭스",
+ "permit_date": "20090702",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M050379]리파제|[M267745]디아스타제·프로테아제·셀룰라제",
+ "main_item_ingr_eng": "Diastase·Protease·Cellulase/Lipase/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904724",
+ "revisions": [
+  {
+   "revision_id": "200904724-286238c3",
+   "content_sha256": "286238c3b12d46d86e2ad405992ae10e43fd39d2ee3a5cf7ad3fca20120802ff",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z",
+   "official_revision_date": "2020-06-09"
+  },
+  {
+   "revision_id": "200904724-0255eb24",
+   "content_sha256": "0255eb240b8b6cb0b01cdb75d980967c624ec407acc153986424da10689a7a8c",
+   "ee_text": "소화불량, 소화불량에 의한 위부.복부팽만감, 과식, 위체, 가슴이 답답함, 식욕부진(식욕감퇴)",
+   "ee_doc_id": "3",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:21Z",
+   "last_observed_at": "2026-08-28T13:24:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:21Z"
+}

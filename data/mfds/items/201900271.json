@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900271",
+ "item_name": "더마스탑크림",
+ "entp_name": "일양바이오팜(주)",
+ "permit_date": "20190118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202821]겐타마이신황산염|[M223043]베타메타손발레레이트",
+ "main_item_ingr_eng": "Betamethasone Valerate/Gentamicin Sulfate",
+ "edi_code": "",
+ "atc_code": "D07CC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900271",
+ "revisions": [
+  {
+   "revision_id": "201900271-eb642c84",
+   "content_sha256": "eb642c84b2384721f3c317b1c0c80cab7d6fe4a11a93f374f7285136d47221ca",
+   "ee_text": "• 2차 감염된 알레르기성 또는 염증성 피부질환 : 습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염, 가려움, 건선(마른비닐증) • 1도 화상",
+   "ee_doc_id": "12",
+   "first_observed_at": "2026-08-28T13:25:03Z",
+   "last_observed_at": "2026-08-28T13:25:03Z",
+   "official_revision_date": "2023-10-20"
+  },
+  {
+   "revision_id": "201900271-8b6bf9e6",
+   "content_sha256": "8b6bf9e6334c28f54de3c9e938ed0ff291a8e2672b11fe43fe563f173844fc42",
+   "ee_text": "• 2차 감염된 알레르기성 또는 염증성 피부질환 : 습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진, 박탈피부염, 가려움, 건선(마른비닐증) • 1도 화상",
+   "ee_doc_id": "11",
+   "official_revision_date": "2023-06-19",
+   "first_observed_at": "2026-08-28T13:25:03Z",
+   "last_observed_at": "2026-08-28T13:25:03Z"
+  },
+  {
+   "revision_id": "201900271-b2ca9772",
+   "content_sha256": "b2ca977213a4e38e81ffc4919d21ee304c5ecb326303ee0e5826e8db0cbf99e4",
+   "ee_text": "• 2차 감염된 알레르기성 또는 염증성 피부질환 : 습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진, 박탈피부염, 가려움, 건선 • 1도 화상",
+   "ee_doc_id": "1",
+   "official_revision_date": "2019-01-18",
+   "first_observed_at": "2026-08-28T13:25:03Z",
+   "last_observed_at": "2026-08-28T13:25:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:03Z"
+}

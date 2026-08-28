@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600723",
+ "item_name": "아로핀정(암로디핀말레산염)(수출명:AROPME Tablet)(수출용)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20060111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250983]암로디핀말레산염",
+ "main_item_ingr_eng": "Amlodipine Maleate",
+ "edi_code": "",
+ "atc_code": "C08CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600723",
+ "revisions": [
+  {
+   "revision_id": "200600723-20a8a4fb",
+   "content_sha256": "20a8a4fb7b20a1aa87cc623543c57efc1496590886d286b7db2b2d41a772f53b",
+   "ee_text": "고혈압, 관상동맥의 고정폐쇄(안정형협심증) 또는 관상혈관계의 혈관경련과 혈관수축(이형협심증)에 의한 심근성허혈증",
+   "ee_doc_id": "7",
+   "first_observed_at": "2026-08-28T13:24:10Z",
+   "last_observed_at": "2026-08-28T13:24:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:10Z"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007611",
+ "item_name": "후모레스액",
+ "entp_name": "(주)셀비온",
+ "permit_date": "20201105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278216]인산일수소칼륨|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M040438]염화칼륨|[M040426]염화나트륨|[M204410]D-소르비톨|[M244062]카르복시메틸셀룰로오스나트륨",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Carboxymethylcellulose Sodium/D-Sorbitol/Dibasic Potassium Phosphate/Magnesium Chloride/Potassium Chloride/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007611",
+ "revisions": [
+  {
+   "revision_id": "202007611-623e53eb",
+   "content_sha256": "623e53ebe6091f49b2cdf02ce8fc17d1fb6921d4ea598e7ae0771b810afa0596",
+   "ee_text": "다음 원인으로 인한 타액(침)분비 감소 -약물치료,구강(입안) 또는 인후(목구멍)부근의 방사선치료,타액(침)선감염,구강(입안)또는 인후(목구 멍)감염,치아 또는 구강(입안)수술,발열,정서적요인",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:21Z",
+   "last_observed_at": "2026-08-28T13:25:21Z",
+   "official_revision_date": "2020-11-05"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:21Z"
+}

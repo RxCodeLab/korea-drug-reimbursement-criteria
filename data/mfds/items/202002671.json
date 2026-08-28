@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002671",
+ "item_name": "푸레파인마일드좌제",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20200416",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인|[M223237]테트라히드로졸린염산염|[M203915]클로르헥시딘염산염",
+ "main_item_ingr_eng": "Chlorhexidine Hydrochloride/Lidocaine/Tetrahydrozoline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C05AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002671",
+ "revisions": [
+  {
+   "revision_id": "202002671-ccf3f0dd",
+   "content_sha256": "ccf3f0dd4457cd0902b96ca6b422fc6e467bfd3e9adb4d135ba3ed360e14d37d",
+   "ee_text": "치열·치핵의 아픔·가려움·부종(부기)·출혈의 일시적 완화",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:17Z",
+   "last_observed_at": "2026-08-28T13:25:17Z",
+   "official_revision_date": "2020-04-16"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:17Z"
+}

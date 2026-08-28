@@ -12,16 +12,15 @@
  "edi_code": "644000230",
  "atc_code": "A03FA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403425",
+ "history_fetched_at": "2026-08-27T12:32:34Z",
  "revisions": [
   {
    "revision_id": "200403425-b6cc5753",
    "content_sha256": "b6cc5753cc56f1a742f4cc0448e01f6830f2972a305d6393e02951bb97103a72",
    "ee_text": "기능성 소화불량으로 인한 다음 증상의 완화: 복부팽만감, 상복부불쾌감, 속쓰림, 트림, 구역, 구토",
-   "ee_doc_id": "10",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200403425/EE",
    "first_observed_at": "2026-08-27T12:32:34Z",
-   "last_observed_at": "2026-08-27T12:32:34Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-08-28T13:24:05Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:32:34Z"
+ ]
 }

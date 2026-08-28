@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100545",
+ "item_name": "제일한방파프에이카타플라스마",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20010620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M213350]황백연조엑스(3.3→1)|[M207935]치자연조엑스(3.0→1)|[M070611]살리실산글리콜|[M230875]l-멘톨|[M204423]dl-캄파|[M223240]토코페롤아세테이트",
+ "main_item_ingr_eng": "DL-Camphor/Gardenia Fruit Soft Extract (3.0→1)/Glycol Salicylate/L-Menthol/Phellodendron Bark Soft Extract (3.3→1)/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100545",
+ "revisions": [
+  {
+   "revision_id": "200100545-836aab60",
+   "content_sha256": "836aab6071a64a790d60e48fd1d1fea2b8a39839e767b70bccae494fa6355092",
+   "ee_text": "다음 증상의 진통ㆍ소염(항염) : 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 동창(언 상처)",
+   "ee_doc_id": "20",
+   "first_observed_at": "2026-08-28T13:23:58Z",
+   "last_observed_at": "2026-08-28T13:23:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:58Z"
+}

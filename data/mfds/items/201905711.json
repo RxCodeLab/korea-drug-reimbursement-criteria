@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905711",
+ "item_name": "코오롱타다라필정2.5밀리그램(수출용)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20190813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254919]타다라필",
+ "main_item_ingr_eng": "Tadalafil",
+ "edi_code": "",
+ "atc_code": "G04BE08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905711",
+ "revisions": [
+  {
+   "revision_id": "201905711-eaee17a8",
+   "content_sha256": "eaee17a8b97d16869c45848cfd7ad62ec06ca23ea447065217779d5983caa18d",
+   "ee_text": "전립선비대증에 수반한 배뇨장해 본제의 적용 시, 전립선비대증의 진단 및 진료에 관한 국내외 가이드라인 등 최신 정보를 참고로 적절한 검사에 따라 진단을 확정할 것.",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-28T13:25:10Z",
+   "last_observed_at": "2026-08-28T13:25:10Z",
+   "official_revision_date": "2019-08-13"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:25:10Z"
+}

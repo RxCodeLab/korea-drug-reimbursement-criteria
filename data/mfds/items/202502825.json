@@ -7,21 +7,20 @@
  "permit_date": "20251031",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040615]클로르탈리돈|[M226654]에스암로디핀베실산염이수화물|[M090395]텔미사르탄",
+ "main_item_ingr": "[M090395]텔미사르탄|[M226654]에스암로디핀베실산염이수화물|[M040615]클로르탈리돈",
  "main_item_ingr_eng": "Chlorthalidone/S-Amlodipine Besylate Dihydrate/Telmisartan",
  "edi_code": "643310180",
  "atc_code": "C09DX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502825",
+ "history_fetched_at": "2026-08-27T12:27:13Z",
  "revisions": [
   {
    "revision_id": "202502825-c6d99e90",
    "content_sha256": "c6d99e9059a8eafb60d32b1be259f35919d326fd473417f5761446f7e2e08b5c",
    "ee_text": "텔미사르탄과 에스암로디핀(암로디핀)의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
-   "ee_doc_id": "1",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202502825/EE",
    "first_observed_at": "2026-08-27T12:27:13Z",
-   "last_observed_at": "2026-08-27T12:27:13Z",
-   "official_revision_date": "2025-10-31"
+   "last_observed_at": "2026-08-28T13:25:38Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:27:13Z"
+ ]
 }

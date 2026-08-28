@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501165",
+ "item_name": "펠로정10밀리그램(메만틴염산염)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20050328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M242614]메만틴염산염",
+ "main_item_ingr_eng": "Memantine Hydrochloride",
+ "edi_code": "651902310",
+ "atc_code": "N06DX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501165",
+ "revisions": [
+  {
+   "revision_id": "200501165-4e0bf075",
+   "content_sha256": "4e0bf075792576c8168dadb448bd5f4352609483edf18a5f590886ef4dde9a5a",
+   "ee_text": "중등도에서 중증의 알츠하이머병 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200501165/EE",
+   "first_observed_at": "2026-08-28T13:24:07Z",
+   "last_observed_at": "2026-08-28T13:24:07Z"
+  },
+  {
+   "revision_id": "200501165-a67c9c3c",
+   "content_sha256": "a67c9c3c74ebbd47dff26ca243331c4d3e88e0cfa57434abdc932451b35ccbb1",
+   "ee_text": "중등도에서 중증의 알쯔하이머병 치료",
+   "ee_doc_id": "13",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:24:07Z",
+   "last_observed_at": "2026-08-28T13:24:07Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:24:07Z"
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700166",
+ "item_name": "낙센에프서방정1000밀리그램(나프록센)",
+ "entp_name": "(주)종근당",
+ "permit_date": "19971226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050116]나프록센",
+ "main_item_ingr_eng": "Naproxen",
+ "edi_code": "643300100",
+ "atc_code": "M01AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700166",
+ "revisions": [
+  {
+   "revision_id": "199700166-5acf8997",
+   "content_sha256": "5acf89973f2190a2b0c9a10811accd01f76f20c1dd6651c4188ebb069b9a1e4a",
+   "ee_text": "류마티스양관절염, 골관절염, 강직성 척추염, 건염, 활액낭염, 급성통풍, 골격근장애(염좌, 좌상, 외상, 요천통포함) 수술후 동통, 편두통, 발치후 동통, 월경곤란증",
+   "ee_doc_id": "24",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z",
+   "official_revision_date": "2025-11-13"
+  },
+  {
+   "revision_id": "199700166-c051cb8c",
+   "content_sha256": "c051cb8c2c90700082310caeeb63a395ac3ac627176cc229531a9c747ab29f8b",
+   "ee_text": "류마티스양관절염, 골관절염, 강직성 척수염, 건염, 활액낭염, 급성통풍, 골격근장애(염좌, 좌상, 외상, 요천통포함) 수술후 동통, 편두통, 발치후 동통, 월경곤란증",
+   "ee_doc_id": "7",
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-08-28T13:23:48Z",
+   "last_observed_at": "2026-08-28T13:23:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:48Z"
+}

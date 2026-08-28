@@ -1,0 +1,35 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000801",
+ "item_name": "복합우루사연질캡슐",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20000429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040488]이노시톨|[M223262]티아민질산염|[M223167]우르소데옥시콜산|[M102908]타우린|[M220312]인삼건조엑스(6.7→1)|[M040488]이노시톨|[M223262]티아민질산염|[M223167]우르소데옥시콜산|[M220312]인삼건조엑스(6.7→1)|[M102908]타우린",
+ "main_item_ingr_eng": "Ginseng Dried Extract (6.7→1)/Inositol/Taurine/Thiamine Nitrate/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000801",
+ "revisions": [
+  {
+   "revision_id": "200000801-db85cae6",
+   "content_sha256": "db85cae6efe81d10920db175087fb14581371618d9c82c5d4adacd143a539c21",
+   "ee_text": "육체피로 개선, 자양강장, 병중ㆍ병후의 비타민 B1 보급",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200000801/EE",
+   "first_observed_at": "2026-08-28T13:23:53Z",
+   "last_observed_at": "2026-08-28T13:23:53Z"
+  },
+  {
+   "revision_id": "200000801-a9c8a77a",
+   "content_sha256": "a9c8a77ae4d86411fc73d87ca5e7892364279a2cc9c75a65bdccb02fbf4912d5",
+   "ee_text": "자양강장, 허약체질, 육체피로, 병중병후(병을 앓는 동안이나 회복 후), 위장장애, 영양장애, 발열성ㆍ소모성질환, 임신ㆍ수유기등의 영양보급",
+   "ee_doc_id": "29",
+   "official_revision_date": "2017-09-20",
+   "first_observed_at": "2026-08-28T13:23:53Z",
+   "last_observed_at": "2026-08-28T13:23:53Z"
+  }
+ ],
+ "history_fetched_at": "2026-08-28T13:23:53Z"
+}
