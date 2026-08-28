@@ -8,6 +8,7 @@ import tempfile
 import time
 import urllib.parse
 import zipfile
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from common import (
@@ -19,6 +20,27 @@ SVC_URL = "https://www.law.go.kr/DRF/lawService.do"
 VERSION_FIELDS = ("행정규칙일련번호", "시행일자", "발령일자", "발령번호", "행정규칙명")
 ZIP_FORMATS = {"hwpx", "docx", "xlsx", "zip"}
 CFB_SIGNATURE = bytes.fromhex("D0CF11E0A1B11AE1")
+DATE_YYYYMMDD = re.compile(r"^\d{8}$")
+
+
+def today_kst() -> str:
+    return datetime.now(timezone(timedelta(hours=9))).strftime("%Y%m%d")
+
+
+def parse_changes_since(value: str) -> str:
+    """YYYYMMDD 형식을 검증하고 그대로 돌려준다. 형식 오류·미래 날짜는 ValueError."""
+    if not DATE_YYYYMMDD.fullmatch(value):
+        raise ValueError("--changes-since는 YYYYMMDD 형식이어야 합니다")
+    if value > today_kst():
+        raise ValueError("--changes-since는 오늘 이후일 수 없습니다")
+    return value
+
+
+def filter_versions(versions: list[dict], changes_since: str | None) -> list[dict]:
+    """시행일자가 changes_since 이상인 버전만 남긴다(포함)."""
+    if not changes_since:
+        return versions
+    return [it for it in versions if it["시행일자"] >= changes_since]
 
 
 def version_metadata(item: dict) -> dict:
@@ -216,7 +238,14 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=0, help="최신 N개 버전만")
     ap.add_argument("--reconcile", action="store_true", help="원격 첨부파일을 다시 내려받고 해시를 검증")
+    ap.add_argument("--changes-since", help="지정일(YYYYMMDD)부터 시행된 버전을 다시 내려받고 검증")
     args = ap.parse_args()
+
+    if args.changes_since:
+        try:
+            parse_changes_since(args.changes_since)
+        except ValueError as exc:
+            ap.error(str(exc))
 
     versions = list_versions()
     if not versions:
@@ -224,11 +253,14 @@ def main() -> None:
     print(f"연혁 총 {len(versions)}건 (시행 {versions[0]['시행일자']} ~ {versions[-1]['시행일자']})")
     atomic_json(RAW.parent / "versions.json", [version_metadata(version) for version in versions])
 
-    targets = versions[-args.limit:] if args.limit else versions
+    targets = filter_versions(versions, args.changes_since)
+    if args.limit:
+        targets = targets[-args.limit:]
+    reconcile = args.reconcile or bool(args.changes_since)
     failures = []
     for i, it in enumerate(targets):
         try:
-            fetch_version(it, reconcile=args.reconcile)
+            fetch_version(it, reconcile=reconcile)
         except Exception as e:  # noqa: BLE001
             failures.append(it)
             print(f"[실패] {it['시행일자']} {it['발령번호']}: {redact_text(str(e))}", file=sys.stderr)

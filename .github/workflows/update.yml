@@ -3,10 +3,14 @@ name: Update drug criteria
 on:
   workflow_dispatch:
     inputs:
-      reconcile:
-        description: Re-download and verify every upstream attachment
-        type: boolean
-        default: false
+      law_changes_since:
+        description: 법제처 고시를 이 시행일자(YYYYMMDD)부터 다시 내려받고 검증 (비우면 증분)
+        required: false
+        default: ""
+      mfds_changes_since:
+        description: 의약품 허가정보 변경분을 이 날짜(YYYYMMDD)부터 다시 조회 (비우면 증분)
+        required: false
+        default: ""
   schedule:
     - cron: "17 20 * * *"
 
@@ -62,10 +66,15 @@ jobs:
         continue-on-error: true
         env:
           LAW_OC: ${{ secrets.LAW_OC }}
-          RECONCILE: ${{ inputs.reconcile && '--reconcile' || '' }}
+          LAW_CHANGES_SINCE: ${{ inputs.law_changes_since }}
         run: |
           test -n "$LAW_OC" || { echo "LAW_OC repository secret is required"; exit 1; }
-          python fetch.py $RECONCILE
+          law_changes_since="${LAW_CHANGES_SINCE}"
+          if [ -n "$law_changes_since" ]; then
+            python fetch.py --changes-since "$law_changes_since"
+          else
+            python fetch.py
+          fi
           python - <<'PY'
           import os
           from pathlib import Path
@@ -77,7 +86,14 @@ jobs:
       - name: Fetch MFDS permit data
         env:
           DATA_GO_KEY: ${{ secrets.DATA_GO_KEY }}
-        run: python fetch_mfds.py
+          MFDS_CHANGES_SINCE: ${{ inputs.mfds_changes_since }}
+        run: |
+          mfds_changes_since="${MFDS_CHANGES_SINCE}"
+          if [ -n "$mfds_changes_since" ]; then
+            python fetch_mfds.py --changes-since "$mfds_changes_since"
+          else
+            python fetch_mfds.py
+          fi
       - name: Normalize and build SQLite
         run: python ingest.py
       - name: Verify candidate publication

@@ -5,7 +5,7 @@ import pytest
 
 import fetch
 from common import credential_free_url, redact_url
-from fetch import attachment_pairs, attachment_role, completed_meta_valid
+from fetch import attachment_pairs, attachment_role, completed_meta_valid, filter_versions, parse_changes_since
 
 
 def test_urls_redact_or_remove_query_secrets():
@@ -97,3 +97,71 @@ def test_fetch_skips_only_a_revalidated_completed_meta(tmp_path, monkeypatch):
     monkeypatch.setattr(fetch, "require_oc", lambda: "unused")
     monkeypatch.setattr(fetch, "api_json", lambda *args, **kwargs: pytest.fail("should not fetch"))
     fetch.fetch_version(version)
+
+
+def _version_with_effective(effective):
+    return {
+        "행정규칙일련번호": "1", "시행일자": effective, "발령일자": "20200101",
+        "발령번호": "1", "행정규칙명": "name",
+    }
+
+
+@pytest.mark.parametrize("value", ["19990101", "20180101", "20200101"])
+def test_parse_changes_since_accepts_eight_digit_past_dates(value):
+    assert parse_changes_since(value) == value
+
+
+@pytest.mark.parametrize("value", ["2020-01-01", "202001", "abcdefgh", "20200101x"])
+def test_parse_changes_since_rejects_invalid_format(value):
+    with pytest.raises(ValueError, match="YYYYMMDD"):
+        parse_changes_since(value)
+
+
+def test_parse_changes_since_rejects_future_dates():
+    with pytest.raises(ValueError, match="오늘 이후"):
+        parse_changes_since("99991231")
+
+
+def test_filter_versions_changes_since_is_inclusive():
+    versions = [_version_with_effective(d) for d in ("20200101", "20200201", "20200301")]
+    assert [v["시행일자"] for v in filter_versions(versions, "20200201")] == [
+        "20200201", "20200301",
+    ]
+
+
+def test_filter_versions_without_changes_since_keeps_all():
+    versions = [_version_with_effective(d) for d in ("20200101", "20200201")]
+    assert filter_versions(versions, None) == versions
+    assert filter_versions(versions, "") == versions
+
+
+def test_fetch_reconcile_refetches_even_when_meta_is_valid(tmp_path, monkeypatch):
+    version = _version_with_effective("20260101")
+    version_dir = tmp_path / "20260101_1"
+    version_dir.mkdir()
+    payload = b"%PDF-1.7\ncontents"
+    attachment = version_dir / "001_notice.pdf"
+    attachment.write_bytes(payload)
+    (version_dir / "meta.json").write_text(json.dumps({
+        "schema_version": 1, "complete": True, "version": version,
+        "attachments": [{
+            "ordinal": 1, "source_url": "https://example.test/file",
+            "original_name": "notice.pdf", "stored_name": attachment.name, "format": "pdf",
+            "role": "notice", "size": len(payload), "sha256": hashlib.sha256(payload).hexdigest(),
+            "status": "complete",
+        }],
+    }), encoding="utf-8")
+    monkeypatch.setattr(fetch, "RAW", tmp_path)
+    monkeypatch.setattr(fetch, "require_oc", lambda: "unused")
+    calls = []
+
+    def fake_api_json(url, params):
+        calls.append((url, params))
+        return {"AdmRulService": {}}
+
+    monkeypatch.setattr(fetch, "api_json", fake_api_json)
+    fetch.fetch_version(version, reconcile=True)
+    assert len(calls) == 1
+    url, params = calls[0]
+    assert url == fetch.SVC_URL
+    assert params["ID"] == "1"
