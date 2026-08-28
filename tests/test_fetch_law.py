@@ -3,9 +3,10 @@ import json
 
 import pytest
 
-import fetch
+import fetch_law
 from common import credential_free_url, redact_url
-from fetch import attachment_pairs, attachment_role, completed_meta_valid, filter_versions, parse_changes_since
+from fetch_law import attachment_pairs, attachment_role, completed_meta_valid, filter_versions
+from common import parse_changes_since
 
 
 def test_urls_redact_or_remove_query_secrets():
@@ -93,10 +94,10 @@ def test_fetch_skips_only_a_revalidated_completed_meta(tmp_path, monkeypatch):
             "status": "complete",
         }],
     }), encoding="utf-8")
-    monkeypatch.setattr(fetch, "RAW", tmp_path)
-    monkeypatch.setattr(fetch, "require_oc", lambda: "unused")
-    monkeypatch.setattr(fetch, "api_json", lambda *args, **kwargs: pytest.fail("should not fetch"))
-    fetch.fetch_version(version)
+    monkeypatch.setattr(fetch_law, "RAW", tmp_path)
+    monkeypatch.setattr(fetch_law, "require_oc", lambda: "unused")
+    monkeypatch.setattr(fetch_law, "api_json", lambda *args, **kwargs: pytest.fail("should not fetch"))
+    fetch_law.fetch_version(version)
 
 
 def _version_with_effective(effective):
@@ -151,17 +152,17 @@ def test_fetch_reconcile_refetches_even_when_meta_is_valid(tmp_path, monkeypatch
             "status": "complete",
         }],
     }), encoding="utf-8")
-    monkeypatch.setattr(fetch, "RAW", tmp_path)
-    monkeypatch.setattr(fetch, "require_oc", lambda: "unused")
+    monkeypatch.setattr(fetch_law, "RAW", tmp_path)
+    monkeypatch.setattr(fetch_law, "require_oc", lambda: "unused")
     calls = []
 
     def fake_api_json(url, params):
         calls.append((url, params))
         return {"AdmRulService": {}}
 
-    monkeypatch.setattr(fetch, "api_json", fake_api_json)
-    fetch.fetch_version(version, reconcile=True)
+    monkeypatch.setattr(fetch_law, "api_json", fake_api_json)
+    fetch_law.fetch_version(version, reconcile=True)
     assert len(calls) == 1
     url, params = calls[0]
-    assert url == fetch.SVC_URL
+    assert url == fetch_law.SVC_URL
     assert params["ID"] == "1"

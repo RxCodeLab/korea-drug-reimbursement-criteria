@@ -11,7 +11,6 @@ import html
 import json
 import os
 import re
-import tempfile
 import time
 import urllib.parse
 import xml.etree.ElementTree as ET
@@ -21,7 +20,9 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from threading import Lock
 
-from common import DATA, http_get, redact_text
+from common import (
+    DATA, DATE_YYYYMMDD, atomic_json, http_get, parse_changes_since, redact_text, today_kst,
+)
 
 API_URL = "https://apis.data.go.kr/1471000/DrugPrdtPrmsnInfoService07/getDrugPrdtPrmsnDtlInq06"
 DETAIL_URL = "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail"
@@ -43,7 +44,6 @@ ATTACHMENT_NAME = re.compile(r"\.(hwpx?|pdf|docx?|xlsx?|zip|txt)$", re.IGNORECAS
 TAG = re.compile(r"<[^>]+>")
 WHITESPACE = re.compile(r"\s+")
 LATIN = re.compile(r"[A-Za-z0-9]")
-DATE_YYYYMMDD = re.compile(r"^\d{8}$")
 FORM_SUFFIX = re.compile(
     r"\s+(?:경구제|주사제|외용제|흡입제|점안제|비강분무제|좌제|연고제|액제|패취제|서방형제제)$"
 )
@@ -331,16 +331,6 @@ def scalar_fields(item: dict, seq: str) -> dict:
     }
 
 
-def atomic_json(path: Path, value: object) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with tempfile.NamedTemporaryFile("w", encoding="utf-8", dir=path.parent,
-                                     prefix=".mfds-", suffix=".tmp", delete=False) as tmp:
-        json.dump(value, tmp, ensure_ascii=False, indent=1)
-        tmp.write("\n")
-        temp_name = tmp.name
-    os.replace(temp_name, path)
-
-
 def merge_item(item: dict, items_dir: Path, observed_at: str) -> str:
     """항목 1건을 items_dir/<ITEM_SEQ>.json에 병합한다.
 
@@ -499,10 +489,6 @@ def next_date(value: str) -> str:
     return (datetime.strptime(value, "%Y%m%d").date() + timedelta(days=1)).strftime("%Y%m%d")
 
 
-def today_kst() -> str:
-    return datetime.now(timezone(timedelta(hours=9))).strftime("%Y%m%d")
-
-
 def stored_ingredients(items_dir: Path) -> frozenset[str]:
     """저장된 품목 전체의 기본 성분명 집합. 변경분에서 유관 신규 품목을 고르는 기준."""
     bases: set[str] = set()
@@ -540,8 +526,11 @@ def main(argv: list[str] | None = None) -> int:
         value = getattr(args, name.replace("-", "_"))
         if value is not None and value < 1:
             parser.error(f"--{name}은(는) 1 이상이어야 합니다")
-    if args.changes_since and not DATE_YYYYMMDD.fullmatch(args.changes_since):
-        parser.error("--changes-since는 YYYYMMDD 형식이어야 합니다")
+    if args.changes_since:
+        try:
+            parse_changes_since(args.changes_since)
+        except ValueError as exc:
+            parser.error(str(exc))
     if args.full and args.changes_since:
         parser.error("--full과 --changes-since는 함께 사용할 수 없습니다")
     if args.max_items and args.changes_since:
@@ -637,8 +626,6 @@ def main(argv: list[str] | None = None) -> int:
     sync = load_sync()
     has_items = ITEMS_DIR.is_dir() and any(ITEMS_DIR.glob("*.json"))
     end_date = today_kst()
-    if args.changes_since and args.changes_since > end_date:
-        parser.error("--changes-since는 오늘 이후일 수 없습니다")
 
     if args.full or (not args.changes_since and (sync is None or not has_items)):
         # 최초 구축·재구축: 전체 검색어 수집. 증분 인자 없는 호출은 시간당

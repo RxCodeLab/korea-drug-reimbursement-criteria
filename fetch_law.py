@@ -8,11 +8,11 @@ import tempfile
 import time
 import urllib.parse
 import zipfile
-from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from common import (
-    RAW, RULE_NAME, api_json, credential_free_url, http_get, redact_text, redact_url, require_oc,
+    RAW, RULE_NAME, api_json, atomic_json, credential_free_url, http_get,
+    parse_changes_since, redact_text, redact_url, require_oc,
 )
 
 LIST_URL = "https://www.law.go.kr/DRF/lawSearch.do"
@@ -20,20 +20,6 @@ SVC_URL = "https://www.law.go.kr/DRF/lawService.do"
 VERSION_FIELDS = ("행정규칙일련번호", "시행일자", "발령일자", "발령번호", "행정규칙명")
 ZIP_FORMATS = {"hwpx", "docx", "xlsx", "zip"}
 CFB_SIGNATURE = bytes.fromhex("D0CF11E0A1B11AE1")
-DATE_YYYYMMDD = re.compile(r"^\d{8}$")
-
-
-def today_kst() -> str:
-    return datetime.now(timezone(timedelta(hours=9))).strftime("%Y%m%d")
-
-
-def parse_changes_since(value: str) -> str:
-    """YYYYMMDD 형식을 검증하고 그대로 돌려준다. 형식 오류·미래 날짜는 ValueError."""
-    if not DATE_YYYYMMDD.fullmatch(value):
-        raise ValueError("--changes-since는 YYYYMMDD 형식이어야 합니다")
-    if value > today_kst():
-        raise ValueError("--changes-since는 오늘 이후일 수 없습니다")
-    return value
 
 
 def filter_versions(versions: list[dict], changes_since: str | None) -> list[dict]:
@@ -88,16 +74,6 @@ def validate_payload(path: Path, fmt: str) -> tuple[int, str]:
         for block in iter(lambda: source.read(1024 * 1024), b""):
             digest.update(block)
     return size, digest.hexdigest()
-
-
-def atomic_json(path: Path, value: object) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with tempfile.NamedTemporaryFile("w", encoding="utf-8", dir=path.parent,
-                                     prefix=".meta-", suffix=".tmp", delete=False) as tmp:
-        json.dump(value, tmp, ensure_ascii=False, indent=1)
-        tmp.write("\n")
-        temp_name = tmp.name
-    os.replace(temp_name, path)
 
 
 def completed_meta_valid(meta_path: Path, item: dict) -> bool:

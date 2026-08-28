@@ -1,9 +1,11 @@
 import json
 import os
 import re
+import tempfile
 import time
 import urllib.parse
 import urllib.request
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent
@@ -16,6 +18,35 @@ OC = os.environ.get("LAW_OC")
 RULE_NAME = "요양급여의 적용기준 및 방법에 관한 세부사항(약제)"
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) drug-criteria-tracker/1.0"
+DATE_YYYYMMDD = re.compile(r"^\d{8}$")
+
+
+def today_kst() -> str:
+    return datetime.now(timezone(timedelta(hours=9))).strftime("%Y%m%d")
+
+
+def parse_changes_since(value: str) -> str:
+    """엄격한 YYYYMMDD 형식과 미래 날짜 여부를 검증한다."""
+    if not DATE_YYYYMMDD.fullmatch(value):
+        raise ValueError("--changes-since는 YYYYMMDD 형식이어야 합니다")
+    try:
+        datetime.strptime(value, "%Y%m%d")
+    except ValueError as exc:
+        raise ValueError("--changes-since는 유효한 날짜여야 합니다") from exc
+    if value > today_kst():
+        raise ValueError("--changes-since는 오늘 이후일 수 없습니다")
+    return value
+
+
+def atomic_json(path: Path, value: object) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with tempfile.NamedTemporaryFile(
+        "w", encoding="utf-8", dir=path.parent, prefix=".json-", suffix=".tmp", delete=False,
+    ) as tmp:
+        json.dump(value, tmp, ensure_ascii=False, indent=1)
+        tmp.write("\n")
+        temp_name = tmp.name
+    os.replace(temp_name, path)
 
 
 def require_oc() -> str:

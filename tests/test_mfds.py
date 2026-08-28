@@ -334,6 +334,22 @@ def test_skip_without_data_go_key(monkeypatch):
     assert "DATA_GO_KEY" in lines[0]
 
 
+@pytest.mark.parametrize("value", ["202601", "20260230", "99991231"])
+def test_changes_since_validation_precedes_missing_key(monkeypatch, value):
+    monkeypatch.delenv("DATA_GO_KEY", raising=False)
+    with pytest.raises(SystemExit) as exc:
+        fetch_mfds.main(["--changes-since", value])
+    assert exc.value.code == 2
+
+
+def test_valid_changes_since_still_skips_without_key(monkeypatch):
+    monkeypatch.delenv("DATA_GO_KEY", raising=False)
+    buffer = io.StringIO()
+    with contextlib.redirect_stdout(buffer):
+        assert fetch_mfds.main(["--changes-since", "20000101"]) == 0
+    assert "DATA_GO_KEY" in buffer.getvalue()
+
+
 def test_main_persists_items_without_service_key(monkeypatch, tmp_path):
     monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
     monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(

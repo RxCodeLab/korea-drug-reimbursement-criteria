@@ -71,9 +71,9 @@ jobs:
           test -n "$LAW_OC" || { echo "LAW_OC repository secret is required"; exit 1; }
           law_changes_since="${LAW_CHANGES_SINCE}"
           if [ -n "$law_changes_since" ]; then
-            python fetch.py --changes-since "$law_changes_since"
+            python fetch_law.py --changes-since "$law_changes_since"
           else
-            python fetch.py
+            python fetch_law.py
           fi
           python - <<'PY'
           import os
