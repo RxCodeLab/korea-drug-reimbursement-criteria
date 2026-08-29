@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203951",
+ "item_name": "베오바정50밀리그램(비베그론)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20221031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282714]비베그론",
+ "main_item_ingr_eng": "Vibegron",
+ "edi_code": "",
+ "atc_code": "G04BD15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203951",
+ "revisions": [
+  {
+   "revision_id": "202203951-3bc8a478",
+   "content_sha256": "3bc8a4784998ac6ea4280543fe537a769204432703a43ebc531ecf4f9c07f526",
+   "ee_text": "과민성 방광의 배뇨 절박감, 빈뇨 및 절박성 요실금 증상의 치료",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-29T23:00:49Z",
+   "last_observed_at": "2026-08-29T23:00:49Z",
+   "official_revision_date": "2022-10-31"
+  }
+ ],
+ "history_fetched_at": "2026-08-29T23:00:49Z"
+}

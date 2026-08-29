@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503318",
+ "item_name": "핀테플라액(펜플루라민염산염)",
+ "entp_name": "한국유씨비제약(주)",
+ "permit_date": "20251218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286015]펜플루라민염산염",
+ "main_item_ingr_eng": "Fenfluramine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503318",
+ "revisions": [
+  {
+   "revision_id": "202503318-42478845",
+   "content_sha256": "424788455b07a12e6b56affef1bd26ac2c97a4291fee1642965fb7f7f564bc4d",
+   "ee_text": "2세 이상의 드라벳증후군 환자에서 발작 치료를 위한 부가요법",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-08-29T23:00:36Z",
+   "last_observed_at": "2026-08-29T23:00:36Z",
+   "official_revision_date": "2025-12-18"
+  }
+ ],
+ "history_fetched_at": "2026-08-29T23:00:36Z"
+}
