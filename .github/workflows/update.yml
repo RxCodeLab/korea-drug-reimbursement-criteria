@@ -27,6 +27,7 @@ jobs:
     timeout-minutes: 350
     outputs:
       law_fetch: ${{ steps.fetch_law.outcome }}
+      mfds_fetch: ${{ steps.fetch_mfds.outcome }}
     steps:
       - uses: actions/checkout@v7
         with:
@@ -84,10 +85,13 @@ jobs:
                   raise SystemExit(f"LAW_OC leaked into {path}")
           PY
       - name: Fetch MFDS permit data
+        id: fetch_mfds
+        continue-on-error: true
         env:
           DATA_GO_KEY: ${{ secrets.DATA_GO_KEY }}
           MFDS_CHANGES_SINCE: ${{ inputs.mfds_changes_since }}
         run: |
+          test -n "$DATA_GO_KEY" || { echo "DATA_GO_KEY repository secret is required"; exit 1; }
           mfds_changes_since="${MFDS_CHANGES_SINCE}"
           if [ -n "$mfds_changes_since" ]; then
             python fetch_mfds.py --changes-since "$mfds_changes_since"
@@ -171,16 +175,15 @@ jobs:
 
   report-upstream:
     needs: build
-    if: needs.build.outputs.law_fetch == 'failure'
+    if: needs.build.outputs.law_fetch == 'failure' || needs.build.outputs.mfds_fetch == 'failure'
     runs-on: ubuntu-latest
     steps:
-      - name: Mark upstream fetch failure
+      - name: Report stale upstream data
         run: |
-          echo "::error::법제처 수집이 실패해 기존 자료로 진행했습니다. 급여기준 신규분은 반영되지 않았습니다."
-          exit 1
+          echo "::warning::상위 데이터 수집이 실패해 검증된 기존 자료로 배포했습니다. 이번 실행의 신규분은 일부 반영되지 않았을 수 있습니다."
 
   deploy-pages:
-    needs: [build, publish-data]
+    needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
