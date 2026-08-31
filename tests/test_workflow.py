@@ -4,6 +4,13 @@ from pathlib import Path
 WORKFLOW = Path(__file__).parents[1] / ".github" / "workflows" / "update.yml"
 
 
+def test_workflow_changes_run_on_main():
+    source = WORKFLOW.read_text(encoding="utf-8")
+
+    assert "push:\n    branches:\n      - main" in source
+    assert "paths:\n      - .github/workflows/update.yml" in source
+
+
 def test_transient_upstream_failures_do_not_block_verified_pages_build():
     source = WORKFLOW.read_text(encoding="utf-8")
 

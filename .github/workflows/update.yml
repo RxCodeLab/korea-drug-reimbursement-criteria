@@ -1,6 +1,11 @@
 name: Update drug criteria
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/update.yml
   workflow_dispatch:
     inputs:
       law_changes_since:
