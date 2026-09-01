@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000327",
+ "item_name": "파미틴정20밀리그램(파모티딘)",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "20200121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081653]파모티딘",
+ "main_item_ingr_eng": "Famotidine",
+ "edi_code": "648603980",
+ "atc_code": "A02BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000327",
+ "revisions": [
+  {
+   "revision_id": "202000327-b474abba",
+   "content_sha256": "b474abbabaf59a16213975986fe5b690372830c25b2dd0f9d4e7725e3488d96e",
+   "ee_text": "위 . 십이지장궤양, 문합부궤양, 상부소화관출혈(소화성궤양, 급성스트레스궤양,출혈성위염에 의한), 역류성식도염, 졸링거-엘리슨증후군, 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "1",
+   "first_observed_at": "2026-09-01T22:58:22Z",
+   "last_observed_at": "2026-09-01T22:58:22Z",
+   "official_revision_date": "2020-01-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-01T22:58:22Z"
+}
