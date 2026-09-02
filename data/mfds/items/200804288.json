@@ -12,7 +12,17 @@
  "edi_code": "642704280",
  "atc_code": "R06AE09",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804288",
+ "history_fetched_at": "2026-09-02T23:21:58Z",
  "revisions": [
+  {
+   "revision_id": "200804288-0406b3a3",
+   "content_sha256": "0406b3a339d26eaef3ab958705411462f678aa6ecaf92c340c0d20011ddb9106",
+   "ee_text": "다음 질환의 증상 완화 :",
+   "ee_doc_id": "34",
+   "first_observed_at": "2026-09-02T23:21:58Z",
+   "last_observed_at": "2026-09-02T23:21:58Z",
+   "official_revision_date": "2026-09-02"
+  },
   {
    "revision_id": "200804288-e3b0c442",
    "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -22,6 +32,5 @@
    "last_observed_at": "2026-08-28T13:24:16Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:16Z"
+ ]
 }
