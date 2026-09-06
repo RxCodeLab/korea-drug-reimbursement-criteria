@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201703",
+ "item_name": "덱사톱크림(덱사메타손프로피오네이트)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20020307",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084579]덱사메타손프로피오네이트",
+ "main_item_ingr_eng": "Dexamethasone Propionate",
+ "edi_code": "654300363",
+ "atc_code": "D07AB19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201703",
+ "revisions": [
+  {
+   "revision_id": "200201703-02edf8c1",
+   "content_sha256": "02edf8c18cefb93a9a01dd58355ee1983ea704cd6e7b4aa6d455dd7e8c6aad38",
+   "ee_text": "1. 습진·피부염군(진행성 지장각피증, 만성단순태선, 일광피부염을 포함), 양진군(구진두드러기를 포함), 벌레물린데, 건선, 손·발바닥 농포증, 편평태선, 홍피증, 만성원판상홍반, 약진·중독진 2. 원형탈모증의 치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:17Z",
+   "last_observed_at": "2026-09-06T21:44:17Z",
+   "official_revision_date": "2017-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:17Z"
+}

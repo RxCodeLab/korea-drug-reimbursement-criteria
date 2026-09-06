@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201302802",
+ "item_name": "켑베이서방정0.1밀리그램(클로니딘염산염)",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20130130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223200]클로니딘염산염",
+ "main_item_ingr_eng": "Clonidine Hydrochloride",
+ "edi_code": "640006550",
+ "atc_code": "C02AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201302802",
+ "revisions": [
+  {
+   "revision_id": "201302802-31cb9dea",
+   "content_sha256": "31cb9deaf93d3321dc593784ed50b4f0d74e8d47ab9f2fea9be681838cea4548",
+   "ee_text": "6 ~ 17 세 소아 및 청소년의 주의력결핍과잉행동장애 (ADHD) 치료 진단은 DSM-IV 기준 또는 ICD-10 가이드라인에 따라 실시해야 한다.",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:01Z",
+   "last_observed_at": "2026-09-06T21:45:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:01Z"
+}

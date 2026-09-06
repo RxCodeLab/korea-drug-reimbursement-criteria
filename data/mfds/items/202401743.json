@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401743",
+ "item_name": "글루타에스정",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20240715",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040262]산화마그네슘|[M202240]L-글루타민|[M261920]디아스타제·프로테아제100|[M270842]시메티콘파우더|[M284755]비스무트차탄산염",
+ "main_item_ingr_eng": "Bismuth Subcarbonate/Diastase·Protease 100/L-Glutamine/Magnesium Oxide/Simethicone Powder",
+ "edi_code": "",
+ "atc_code": "A09AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401743",
+ "revisions": [
+  {
+   "revision_id": "202401743-286238c3",
+   "content_sha256": "286238c3b12d46d86e2ad405992ae10e43fd39d2ee3a5cf7ad3fca20120802ff",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:49Z",
+   "last_observed_at": "2026-09-06T21:47:49Z",
+   "official_revision_date": "2024-07-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:49Z"
+}

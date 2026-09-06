@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600292",
+ "item_name": "토마토정10밀리그램(토파시티닙시트르산염)",
+ "entp_name": "(주)한국피엠지제약",
+ "permit_date": "20260202",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259196]토파시티닙시트르산염",
+ "main_item_ingr_eng": "Tofacitinib Citrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600292",
+ "revisions": [
+  {
+   "revision_id": "202600292-d2b52d63",
+   "content_sha256": "d2b52d637c7f353b59d118b89f93d08806bfdbeacdb24ab9d3e9c458efd6e763",
+   "ee_text": "다음의 환자에서는 기존 치료제에 적절히 반응하지 않거나 내약성이 없는 경우에 한하여 이 약을 사용하여야 한다. - 다 음 - 가. 65세 이상 환자 나. 심혈관계 고위험군 환자 다. 악성 종양 위험이 있는 환자 1. 궤양성 대장염 코르티코스테로이드, 아자티오프린, 6-메르캅토푸린(6-MP)을 포함한 통상적인 치료제 또는 생물학적 제제에 적절히 반응하지 않거나, 반응이 소실되거나 또는 내약성이 없는 성인(만 18세 이상)의 중등도-중증 활동성 궤양성 대장염의 치료. 이 약을 생물학적제제나 아자티오프린 및 사이클로스포린과 같은 강력한 면역억제제와 함께 사용해서는 안 된다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:48:00Z",
+   "last_observed_at": "2026-09-06T21:48:00Z",
+   "official_revision_date": "2026-02-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:48:00Z"
+}

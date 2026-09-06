@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202100911",
+ "item_name": "보툴렉스주300단위(클로스트리디움보툴리눔독소A형)",
+ "entp_name": "휴젤주식회사",
+ "permit_date": "20210128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253929]클로스트리디움보툴리눔독소A형(Clostridium botulinum CBFC26)",
+ "main_item_ingr_eng": "Clostridium Botulinum Toxin Type A (Strain: CBFC26)",
+ "edi_code": "",
+ "atc_code": "M03AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100911",
+ "revisions": [
+  {
+   "revision_id": "202100911-127df950",
+   "content_sha256": "127df950d4bf170d93701b997310c5c4b57c321ec4c4f27132f418c9fdc8aa6c",
+   "ee_text": "1. 근육경직 : 만 20세 이상 성인의 뇌졸중과 관련된 상지 경직의 치료 2. 만 2세 이상의 소아뇌성마비 환자에 있어서 경직에 의한 첨족기형(Dynamic Equinus Foot Deformity)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:59Z",
+   "last_observed_at": "2026-09-06T21:46:59Z",
+   "official_revision_date": "2021-01-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:59Z"
+}

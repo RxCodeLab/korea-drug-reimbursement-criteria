@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707660",
+ "item_name": "팔리스펜서방정6밀리그램(팔리페리돈)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20171030",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M220478]팔리페리돈",
+ "main_item_ingr_eng": "Paliperidone",
+ "edi_code": "651904600",
+ "atc_code": "N05AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707660",
+ "revisions": [
+  {
+   "revision_id": "201707660-7431109c",
+   "content_sha256": "7431109cfd1381dcc635044e23d658e03266a6f20713658556d60a720689ff3e",
+   "ee_text": "1. 정신분열병(조현병)의 치료 2. 정신분열(조현)정동장애의 급성 치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:53Z",
+   "last_observed_at": "2026-09-06T21:45:53Z",
+   "official_revision_date": "2021-11-01"
+  },
+  {
+   "revision_id": "201707660-194a4d8b",
+   "content_sha256": "194a4d8bfb728bc2a9430c5eca5fa0c668af46abef3f4cb065373dd16c0b91a7",
+   "ee_text": "1. 정신분열증의 치료 2. 정신분열정동장애의 급성 치료",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-11-07",
+   "first_observed_at": "2026-09-06T21:45:53Z",
+   "last_observed_at": "2026-09-06T21:45:53Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:53Z"
+}

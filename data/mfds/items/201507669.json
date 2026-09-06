@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507669",
+ "item_name": "브이엘주(L-카르니틴)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20151111",
+ "cancel_date": "20251111",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M214167]L-카르니틴",
+ "main_item_ingr_eng": "L-Carnitine",
+ "edi_code": "",
+ "atc_code": "A16AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507669",
+ "revisions": [
+  {
+   "revision_id": "201507669-0f9590be",
+   "content_sha256": "0f9590be369c3c3d852379be5c9dff867d0895d95ceffb4c7d886fb7941e5fea",
+   "ee_text": "1. 1 차성, 2 차성 카르니틴결핍증 2. 허혈성심질환에 의한 심근대사장애: 협심증, 급성심근경색 3. 혈액투석중인 말기 신 질환자의 카르니틴 결핍증 치료",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:28Z",
+   "last_observed_at": "2026-09-06T21:45:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:28Z"
+}

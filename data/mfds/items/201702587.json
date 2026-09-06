@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702587",
+ "item_name": "알프로릭스주[혈액응고인자IX-Fc융합단백(rFIXFc), 에프트레노나코그-알파(유전자재조합)]",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20170525",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266215]에프트레노나코그-알파(혈액응고인자IX-Fc융합단백)(유전자재조합)",
+ "main_item_ingr_eng": "Eftrenonacog-Alpha (Blood Coagulation Factor IX, rDNA)",
+ "edi_code": "652001111,652001121,652001131,652001141,652001151",
+ "atc_code": "B02BD04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702587",
+ "revisions": [
+  {
+   "revision_id": "201702587-11f4a2d3",
+   "content_sha256": "11f4a2d3098920e6819a258cc18180b65371f2f30dd23293f193957818302a0d",
+   "ee_text": "B형 혈우병 (선천성 IX 인자 결핍증) 환자에서의 - 출혈의 억제 및 예방 - 수술전후 관리 (외과적 수술 시 출혈억제 및 예방) - 출혈의 빈도 감소 및 예방을 위한 일상적 예방요법(routine prophylaxis)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:49Z",
+   "last_observed_at": "2026-09-06T21:45:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:49Z"
+}

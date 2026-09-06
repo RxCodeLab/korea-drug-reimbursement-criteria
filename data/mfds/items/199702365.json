@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199702365",
+ "item_name": "니트세린주사(묽은니트로글리세린)(수출명:하나니트세린주사)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "19970226",
+ "cancel_date": "20240701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M257143]묽은니트로글리세린",
+ "main_item_ingr_eng": "Dilute Nitroglycerin",
+ "edi_code": "",
+ "atc_code": "C01DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702365",
+ "revisions": [
+  {
+   "revision_id": "199702365-09322241",
+   "content_sha256": "09322241e59159a3658f65a0e8b7d97d931a8aee3eafbc974a9619527c0a2060",
+   "ee_text": "1. 수술전·후의 혈압조절 : 심장 수술중의 고혈압조절 및 수술중의 저혈압유지, 심혈관계 수술중과 수술후 심근허혈의 치료 2. 급성심근경색에 수반되는 울혈성심부전(만성심부전의 급성악화기 포함) 3. 협심증 : 불안정형협심증 또는 질산염 설하정 및 β-차단제로 치료되지 않는 협심증",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:13Z",
+   "last_observed_at": "2026-09-06T21:44:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:13Z"
+}

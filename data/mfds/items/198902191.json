@@ -7,7 +7,7 @@
  "permit_date": "19891011",
  "cancel_date": "20250704",
  "status": "취하",
- "main_item_ingr": "[M040438]염화칼륨|[M040426]염화나트륨|[M040631]탄산수소나트륨|[M082173]무수황산나트륨|[M103014]폴리에틸렌글리콜3350",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040631]탄산수소나트륨|[M082173]무수황산나트륨|[M103014]폴리에틸렌글리콜3350",
  "main_item_ingr_eng": "Anhydrous Sodium Sulfate/Polyethylene Glycol 3350/Potassium Chloride/Sodium Bicarbonate/Sodium Chloride",
  "edi_code": "",
  "atc_code": "A06AD65",
@@ -20,7 +20,8 @@
    "ee_text": "대장 X선 검사, 대장내시경검사, 직장경검사(탈장, 치질), 정맥요로조영(IVP), 복부외과수술 시의 전처치용 하제",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198902191/EE",
    "first_observed_at": "2026-08-27T12:01:51Z",
-   "last_observed_at": "2026-08-28T13:23:42Z"
+   "last_observed_at": "2026-09-06T21:44:09Z",
+   "normalizer_version": 3
   }
  ]
 }

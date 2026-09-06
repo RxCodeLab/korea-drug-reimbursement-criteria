@@ -12,16 +12,17 @@
  "edi_code": "644602740",
  "atc_code": "A02BX14",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308203",
+ "history_fetched_at": "2026-08-27T13:48:06Z",
  "revisions": [
   {
-   "revision_id": "201308203-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201308203-f044a1e1",
+   "content_sha256": "f044a1e10de2edd4acfa7db585caefdf125bd28581520e58510da17ffd3bf509",
+   "ee_text": "1. 위궤양 2. 다음 질환의 위점막병변(미란,출혈,발적,부종)의 개선 : 급성위염, 만성위염의 급성악화기",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-27T13:48:06Z",
-   "last_observed_at": "2026-08-27T13:48:06Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:45:04Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:48:06Z"
+ ]
 }

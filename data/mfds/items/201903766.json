@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903766",
+ "item_name": "파센라프리필드시린지주30밀리그램(벤라리주맙)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20190605",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265000]벤라리주맙",
+ "main_item_ingr_eng": "Benralizumab",
+ "edi_code": "",
+ "atc_code": "R03DX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903766",
+ "revisions": [
+  {
+   "revision_id": "201903766-9b5a62bf",
+   "content_sha256": "9b5a62bf1284fd7a791037e5c23e040bcfb281ae9e6022f35c4b8df9f3abf362",
+   "ee_text": "1. 천식 성인에서 기존 치료에 적절하게 조절되지 않는 중증 호산구성 천식 치료의 추가 유지 요법 2. 다발혈관염을 동반한 호산구육아종증 성인에서 다발혈관염을 동반한 호산구육아종증 (EGPA)의 추가 유지 요법 3. 과다 호산구 증후군 성인에서 과다 호산구 증후군(HES)의 추가 유지 요법(FIP1L1-PDGFRα 양성 환자 제외)",
+   "ee_doc_id": "38",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:16Z",
+   "last_observed_at": "2026-09-06T21:46:16Z",
+   "official_revision_date": "2026-09-02"
+  },
+  {
+   "revision_id": "201903766-a7bcb6b9",
+   "content_sha256": "a7bcb6b9c2252e180777c1a97152b0bc0abe7491a2eedcb9fea2cbd8023a37dd",
+   "ee_text": "1. 천식 성인에서 기존 치료에 적절하게 조절되지 않는 중증 호산구성 천식 치료의 추가 유지 요법 2. 다발혈관염을 동반한 호산구육아종증 성인에서 다발혈관염을 동반한 호산구육아종증 (EGPA)의 추가 유지 요법",
+   "ee_doc_id": "31",
+   "normalizer_version": 3,
+   "official_revision_date": "2025-03-27",
+   "first_observed_at": "2026-09-06T21:46:16Z",
+   "last_observed_at": "2026-09-06T21:46:16Z"
+  },
+  {
+   "revision_id": "201903766-8ebf4b7a",
+   "content_sha256": "8ebf4b7a1e133bfc7f0456c747b8f8d9a811a235fa939cf576c723ac0f057b28",
+   "ee_text": "성인에서 기존 치료제 적절하게 조절되지 않는 중증 호산구성 천식 치료의 추가 유지 요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-06-05",
+   "first_observed_at": "2026-09-06T21:46:16Z",
+   "last_observed_at": "2026-09-06T21:46:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:16Z"
+}

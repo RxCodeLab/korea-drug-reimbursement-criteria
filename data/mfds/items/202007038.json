@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007038",
+ "item_name": "세라카인스프레이(리도카인)",
+ "entp_name": "(주)그린제약",
+ "permit_date": "20201014",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007038",
+ "revisions": [
+  {
+   "revision_id": "202007038-375d872c",
+   "content_sha256": "375d872c09ede043a7135b7e716957ee466ef4cfc09da171e56e5db2e681acd6",
+   "ee_text": "다음 경우의 표면마취에 사용한다. 1. 치과 영역 : 주사전, 치과 인상(dental impressions), X-선 촬영, 치석 제거 2. 이비인후과 영역 : 상악동 천자, 비강, 인두 및 상인두의 간단한 외과적 처치, 천자술 3. 호흡기 및 소화기관에 기구 및 카테터 삽입시 : 기관내 튜브삽입, 후두경, 기관경 및 식도경 4. 산부인과 영역 : 분만최종단계, 회음절개술 및 회음봉합술 전의 진통 보조",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:50Z",
+   "last_observed_at": "2026-09-06T21:46:50Z",
+   "official_revision_date": "2020-10-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:50Z"
+}

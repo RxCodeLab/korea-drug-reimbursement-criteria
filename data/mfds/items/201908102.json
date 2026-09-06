@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908102",
+ "item_name": "닥터카인크림9.6%(리도카인)",
+ "entp_name": "에스피씨(주)",
+ "permit_date": "20191126",
+ "cancel_date": "20241126",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908102",
+ "revisions": [
+  {
+   "revision_id": "201908102-643d4e1b",
+   "content_sha256": "643d4e1b22d0628f41c667e523b04a970ee3df8a976a411ca18ff233aa11b98b",
+   "ee_text": "남성 성기 촉각의 예민성 감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:25Z",
+   "last_observed_at": "2026-09-06T21:46:25Z",
+   "official_revision_date": "2019-11-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:25Z"
+}

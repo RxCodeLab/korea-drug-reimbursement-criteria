@@ -7,7 +7,7 @@
  "permit_date": "20240528",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M278679]덱스판테놀|[M215133]에녹솔론|[M040131]리도카인|[M222973]디펜히드라민염산염|[M206708]DL-캄파|[M279284]L-멘톨",
+ "main_item_ingr": "[M040131]리도카인|[M206708]DL-캄파|[M215133]에녹솔론|[M222973]디펜히드라민염산염|[M278679]덱스판테놀|[M279284]L-멘톨",
  "main_item_ingr_eng": "DL-Camphor/Dexpanthenol/Diphenhydramine Hydrochloride/Enoxolone/L-Menthol/Lidocaine",
  "edi_code": "",
  "atc_code": "D04A",
@@ -20,7 +20,8 @@
    "ee_text": "습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물림, 두드러기, 동창",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202401301/EE",
    "first_observed_at": "2026-08-27T12:30:30Z",
-   "last_observed_at": "2026-08-28T13:25:36Z"
+   "last_observed_at": "2026-09-06T21:47:49Z",
+   "normalizer_version": 3
   }
  ]
 }

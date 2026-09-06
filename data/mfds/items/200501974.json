@@ -12,16 +12,17 @@
  "edi_code": "664100960",
  "atc_code": "N01BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501974",
+ "history_fetched_at": "2026-08-28T13:24:08Z",
  "revisions": [
   {
-   "revision_id": "200501974-3834bd82",
-   "content_sha256": "3834bd824fb9526678f76d2e76f679e28dbdb636e0dfff477c7b3d5882b3c3bc",
-   "ee_text": "1. 치과 영역 : 주사전, 치과 인상(dental impressions), X-선 촬영, 치석 제거 2. 이비인후과 영역 : 상악동 천자, 비강, 인두 및 상인두의 간단한 외과적 처치, 천자술 3. 호흡기 및 소화기관에 기구 및 카테터 삽입시 : 기관내 튜브삽입, 후두경, 기관경 및 식도경 4. 산부인과 영역 : 분만최종단계, 회음절개술 및 회음봉합술 전의 진통 보조",
+   "revision_id": "200501974-375d872c",
+   "content_sha256": "375d872c09ede043a7135b7e716957ee466ef4cfc09da171e56e5db2e681acd6",
+   "ee_text": "다음 경우의 표면마취에 사용한다. 1. 치과 영역 : 주사전, 치과 인상(dental impressions), X-선 촬영, 치석 제거 2. 이비인후과 영역 : 상악동 천자, 비강, 인두 및 상인두의 간단한 외과적 처치, 천자술 3. 호흡기 및 소화기관에 기구 및 카테터 삽입시 : 기관내 튜브삽입, 후두경, 기관경 및 식도경 4. 산부인과 영역 : 분만최종단계, 회음절개술 및 회음봉합술 전의 진통 보조",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:24:08Z",
-   "last_observed_at": "2026-08-28T13:24:08Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:44:28Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:08Z"
+ ]
 }

@@ -7,7 +7,7 @@
  "permit_date": "20081119",
  "cancel_date": "20240426",
  "status": "취하",
- "main_item_ingr": "[M246028]황산망간수화물|[M040262]산화마그네슘|[M203450]아스코르브산|[M223240]토코페롤아세테이트|[M051233]유비데카레논|[M051415]푸르설티아민|[M222995]리보플라빈부티레이트|[M204304]피리독신염산염|[M040679]판토텐산칼슘|[M250857]β-카로틴현탁액30%|[M257024]황산제이구리|[M099839]산화아연|[M089702]셀레늄함유건조효모|[M040064]니코틴산아미드|[M223289]폴산|[M255993]농축콜레칼시페롤(유상)|[M255994]시아노코발라민1000배산|[M050704]비오틴|[M208932]γ-오리자놀|[M091374]무수인산수소칼슘|[M051783]푸마르산철",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040262]산화마그네슘|[M040679]판토텐산칼슘|[M050704]비오틴|[M051233]유비데카레논|[M051415]푸르설티아민|[M051783]푸마르산철|[M089702]셀레늄함유건조효모|[M091374]무수인산수소칼슘|[M099839]산화아연|[M203450]아스코르브산|[M204304]피리독신염산염|[M208932]γ-오리자놀|[M222995]리보플라빈부티레이트|[M223240]토코페롤아세테이트|[M223289]폴산|[M246028]황산망간수화물|[M250857]β-카로틴현탁액30%|[M255993]농축콜레칼시페롤(유상)|[M255994]시아노코발라민1000배산|[M257024]황산제이구리",
  "main_item_ingr_eng": "Anhydrous Dibasic Calcium Phosphate/Ascorbic Acid/Beta-Carotene Suspension 30%/Biotin/Calcium Pantothenate/Cholecalciferol Concentrate Oil/Cupric Sulfate Hydrate/Cyanocobalamin Powder 0.1%/Ferrous Fumarate/Folic Acid/Fursultiamine/Gamma-Oryzanol/Magnesium Oxide/Manganese Sulfate Hydrate/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Selenium In Dried Yeast/Tocopherol Acetate/Ubidecarenone/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11AB",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:32:32Z",
  "revisions": [
   {
-   "revision_id": "200811079-67113f96",
-   "content_sha256": "67113f96d925b8ca631843df4d268a9bf25dd564f99344538b7eb5d69397f013",
-   "ee_text": "1 , B 2 , B 6 , C의 보급\">",
+   "revision_id": "200811079-ff91cc37",
+   "content_sha256": "ff91cc373d7af0eda74ae55ecbea2de2a0cf3ebb16f8ef105b14530f5c8ba0de",
+   "ee_text": "1. 다음 경우의 비타민 A, D, E, B1, B2, B6, C의 보급 - 육체피로 - 임신‧수유기 - 병중‧병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 발육기 - 노년기 2. 이 약에 함유된 비타민 등의 효능‧효과는 다음과 같다. - 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨‧목결림, 수족저림‧수족냉증(손발이 차가움) - 뼈, 이의 발육불량 - 구루병의 예방 3. 철 결핍성 빈혈의 예방 및 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200811079/EE",
    "first_observed_at": "2026-08-27T10:32:32Z",
-   "last_observed_at": "2026-08-28T13:24:20Z"
+   "last_observed_at": "2026-09-06T21:44:43Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200811079-e37b7802",

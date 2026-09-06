@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201103637",
+ "item_name": "로미플레이트주250마이크로그램(로미플로스팀)",
+ "entp_name": "디케이에스에이치코리아(주)",
+ "permit_date": "20110601",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252297]로미플로스팀",
+ "main_item_ingr_eng": "Romiplostim",
+ "edi_code": "055500171",
+ "atc_code": "B02BX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103637",
+ "revisions": [
+  {
+   "revision_id": "201103637-1d2d912f",
+   "content_sha256": "1d2d912f8e6e5b2abe7947d77aff604f4f85c1eeeb4131c78c7dd38234868171",
+   "ee_text": "1. 코르티코스테로이드 또는 면역글로불린 또는 비장절제술에 충분한 반응을 보이지 않은 만성 면역성(특발성) 혈소판 감소성 자반증 환자에서의 저혈소판증 치료. 이 약은 출혈의 위험이 증가하는 임상적 상태의 저혈소판증을 갖는 환자에서만 사용한다. 혈소판 수를 정상화시키기 위한 목적으로 사용하지 않는다. 2. 재생불량성 빈혈 1) 면역억제요법에 불응이거나 면역억제요법이 적용되지 않는 재생불량성 빈혈의 치료 2) 이전에 치료경험이 없는 중증 재생불량성 빈혈 환자에서 면역억제요법과 병용 치료",
+   "ee_doc_id": "36",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:46Z",
+   "last_observed_at": "2026-09-06T21:44:46Z",
+   "official_revision_date": "2024-07-19"
+  },
+  {
+   "revision_id": "201103637-09347173",
+   "content_sha256": "09347173a3f063238ffc0f7e9ac2aa10997fb23362606aae68b734ae5176fab1",
+   "ee_text": "1. 코르티코스테로이드 또는 면역글로불린 또는 비장절제술에 충분한 반응을 보이지 않은 만성 면역성(특발성) 혈소판 감소성 자반증 환자에서의 저혈소판증 치료. 이 약은 출혈의 위험이 증가하는 임상적 상태의 저혈소판증을 갖는 환자에서만 사용한다. 혈소판 수를 정상화시키기 위한 목적으로 사용하지 않는다. 2. 면역억제요법에 불응이거나 면역억제요법이 적용되지 않는 재생불량성 빈혈의 치료",
+   "ee_doc_id": "31",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-08-27",
+   "first_observed_at": "2026-09-06T21:44:46Z",
+   "last_observed_at": "2026-09-06T21:44:46Z"
+  },
+  {
+   "revision_id": "201103637-6e7890a9",
+   "content_sha256": "6e7890a98f942436247ae7e18b36bffe7f80aba8c2b623a3ba210c436160042d",
+   "ee_text": "코르티코스테로이드 또는 면역글로불린 또는 비장절제술에 충분한 반응을 보이지 않은 만성 면역성(특발성) 혈소판 감소성 자반증 환자에서의 저혈소판증 치료. 이 약은 출혈의 위험이 증가하는 임상적 상태의 저혈소판증을 갖는 환자에서만 사용한다. 혈소판 수를 정상화시키기 위한 목적으로 사용하지 않는다.",
+   "ee_doc_id": "25",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:44:46Z",
+   "last_observed_at": "2026-09-06T21:44:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:46Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606261",
+ "item_name": "제일에이티피주(아데노신트리포스페이트이나트륨삼수화물)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20161024",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259899]아데노신트리포스페이트이나트륨삼수화물",
+ "main_item_ingr_eng": "Adenosine Disodium Triphosphate Trihydrate",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606261",
+ "revisions": [
+  {
+   "revision_id": "201606261-223a11ba",
+   "content_sha256": "223a11ba32996f82a3e8ea531e2a7507a45ff56a30766d36cd0d400d3b17e7c8",
+   "ee_text": "다음 질환에 수반하는 여러 증상의 개선 : 근무력증, 심부전, 만성간염에 있어서의 간기능의 개선, 두부외상 후유증, 조절성 안정피로",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:45Z",
+   "last_observed_at": "2026-09-06T21:45:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:45Z"
+}

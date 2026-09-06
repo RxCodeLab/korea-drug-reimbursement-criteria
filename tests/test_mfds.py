@@ -150,6 +150,75 @@ def test_normalize_ee_skips_empty_titles_but_keeps_non_empty_ones():
     assert fetch_mfds.normalize_ee(xml) == "1. 제목 본문"
 
 
+# 실측 재수집(42,985건 열거, 7,237건 저장) 전수 스캔에서 나온 사례. INLINE_MARKUP이 title 속성에만 걸리고
+# CDATA/텍스트 노드 안의 마크업·엔티티는 손대지 않았을 때 사용자가 보는 적응증 문구에 <span style="...">가
+# 그대로 노출되었다(징코케이정 202402750).
+def test_normalize_ee_strips_body_span_markup_ginkoke():
+    xml = (
+        '<DOC title="효능효과"><ARTICLE title="1. 이상반응">'
+        '<![CDATA[<span style="mso-fareast-font-family:한양신명조;font-size:11.0pt;">'
+        '집중력 저하</span><span lang="EN-US">등</span>]]></ARTICLE></DOC>'
+    )
+    result = fetch_mfds.normalize_ee(xml)
+    assert result == "1. 이상반응 집중력 저하등"
+    assert "<span" not in result and "</span>" not in result
+
+
+# 리바코르정(202106198) 실측: CDATA 안 리터럴 &nbsp;가 일반 공백으로 풀려야 말이 붙지 않는다.
+def test_normalize_ee_unescapes_nbsp_in_body_rivacor():
+    xml = (
+        '<DOC title="효능효과"><ARTICLE title="1. 다음 경우">'
+        '<![CDATA[1.&nbsp;심장표지자(cardiac biomarker) 상승을 동반한 급성관상동맥증후군을'
+        ' 경험한 환자에서 아스피린과의 병용]]></ARTICLE></DOC>'
+    )
+    result = fetch_mfds.normalize_ee(xml)
+    assert result == (
+        "1. 다음 경우 1. 심장표지자(cardiac biomarker) 상승을 동반한 급성관상동맥증후군을"
+        " 경험한 환자에서 아스피린과의 병용"
+    )
+    assert "&nbsp;" not in result
+    assert "\xa0" not in result
+
+
+# 디파글루정(202204518) 실측: 여러 군데 난 리터럴 &nbsp; 모두 정리되고 말이 붙지 않아야 한다.
+def test_normalize_ee_unescapes_nbsp_in_body_dpaglu():
+    xml = (
+        '<DOC title="효능효과"><ARTICLE title="1. 제 2형 당뇨병">'
+        '<![CDATA[제 2형 당뇨병:&nbsp;이 약은 제 2형 당뇨병&nbsp;'
+        '환자의 혈당 조절을 향상시키기 위해]]></ARTICLE></DOC>'
+    )
+    result = fetch_mfds.normalize_ee(xml)
+    assert result == (
+        "1. 제 2형 당뇨병 제 2형 당뇨병: 이 약은 제 2형 당뇨병 환자의"
+        " 혈당 조절을 향상시키기 위해"
+    )
+    assert "&nbsp;" not in result
+    assert "\xa0" not in result
+
+
+def test_normalize_ee_collapses_table_markup_without_gluing_cells():
+    """<tr>/<td>가 들어간 표 형태 입력도 셀 경계에 구분 공백이 들어가 내용이 말붙지 않아야 한다."""
+    xml = (
+        '<DOC title="효능효과"><ARTICLE title="1. 표">'
+        '<![CDATA[<table><tr><td>구분</td><td>용량</td></tr>'
+        '<tr><td>성인</td><td>1정</td></tr></table>]]></ARTICLE></DOC>'
+    )
+    result = fetch_mfds.normalize_ee(xml)
+    assert result == "1. 표 구분 용량 성인 1정"
+    assert "<tr>" not in result and "<td>" not in result
+
+
+def test_normalize_ee_fuses_body_subscript_without_space():
+    """title이 아닌 본문(CDATA) 안의 B<sub>1</sub>도 title과 동일하게 공백 없이 B1로 붙어야 한다."""
+    xml = (
+        '<DOC title="효능효과"><ARTICLE title="1. 비타민">'
+        '<![CDATA[비타민 B<sub>1</sub>, B<sub>2</sub> 보급]]></ARTICLE></DOC>'
+    )
+    result = fetch_mfds.normalize_ee(xml)
+    assert result == "1. 비타민 비타민 B1, B2 보급"
+    assert "<sub>" not in result and "</sub>" not in result
+
+
 @pytest.mark.parametrize("page", [b"<html></html>", "<html><body>점검 중입니다</body></html>".encode("utf-8"), b""])
 def test_parse_history_rejects_pages_without_history_table(page):
     """차단·점검 페이지나 바뀜 마크업을 '이력 없음'으로 취급하면 history_fetched_at이 기록돼 영원히 재시도하지 않는다."""

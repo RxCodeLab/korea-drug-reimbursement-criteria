@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203385",
+ "item_name": "위캡정10밀리그램(펙수프라잔염산염)",
+ "entp_name": "대웅바이오(주)",
+ "permit_date": "20220824",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281896]펙수프라잔염산염",
+ "main_item_ingr_eng": "Fexuprazan Hydrochloride",
+ "edi_code": "694003860",
+ "atc_code": "A02BC10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203385",
+ "revisions": [
+  {
+   "revision_id": "202203385-67210b28",
+   "content_sha256": "67210b285b87002766c9bc0b2af3f0cdf6560ed698c03242e3a4e11c89409033",
+   "ee_text": "1. 미란성 위식도역류질환의 치료 2. 급성위염 및 만성위염의 위점막 병변 개선<10mg에 한함>",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:36Z",
+   "last_observed_at": "2026-09-06T21:47:36Z",
+   "official_revision_date": "2022-08-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:36Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "647800991",
  "atc_code": "N01BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201472",
+ "history_fetched_at": "2026-08-28T13:23:44Z",
  "revisions": [
   {
    "revision_id": "199201472-9f38cd1a",
@@ -19,7 +20,8 @@
    "ee_text": "(주사제) 0.5 % 경막외마취, 전달마취, 침윤마취",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199201472/EE",
    "first_observed_at": "2026-08-28T13:23:44Z",
-   "last_observed_at": "2026-08-28T13:23:44Z"
+   "last_observed_at": "2026-09-06T21:44:10Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "199201472-f904909a",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:44Z",
    "last_observed_at": "2026-08-28T13:23:44Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:44Z"
+ ]
 }

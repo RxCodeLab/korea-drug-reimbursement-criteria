@@ -7,11 +7,12 @@
  "permit_date": "20160128",
  "cancel_date": "20260128",
  "status": "유효기간만료",
- "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액|[M203064]리도카인염산염일수화물",
+ "main_item_ingr": "[M203064]리도카인염산염일수화물|[M223220]클로르헥시딘글루콘산염 액",
  "main_item_ingr_eng": "Chlorhexidine Gluconate Solution/Lidocaine Hydrochloride Monohydrate",
  "edi_code": "",
  "atc_code": "N01BB52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600575",
+ "history_fetched_at": "2026-08-28T13:24:47Z",
  "revisions": [
   {
    "revision_id": "201600575-6400ed67",
@@ -19,9 +20,9 @@
    "ee_text": "다음 시술시 표면마취, 소독 : 카테터 삽입, 요도(남성·여성)내 수술, 각종 내시경 검사, 삽관, 시술로 인한 직장과 결장에서의 손상 예방",
    "ee_doc_id": "3",
    "first_observed_at": "2026-08-28T13:24:47Z",
-   "last_observed_at": "2026-08-28T13:24:47Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:45:31Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:47Z"
+ ]
 }

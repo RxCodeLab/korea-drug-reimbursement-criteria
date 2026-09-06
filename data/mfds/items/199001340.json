@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199001340",
+ "item_name": "프렉스정(바클로펜)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "19901013",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081536]바클로펜",
+ "main_item_ingr_eng": "Baclofen",
+ "edi_code": "644304550",
+ "atc_code": "M03BX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001340",
+ "revisions": [
+  {
+   "revision_id": "199001340-f8944663",
+   "content_sha256": "f894466342535ab888ec6647d1cec5cc3d4b0e29b2b1245b760708ed8f3e6c2d",
+   "ee_text": "1. 다발성 경화증, 척추소뇌변성증으로 인한 골격근의 경직 2. 척수질환(염증성, 퇴행성, 외상성, 신생성, 원인불명 등)으로 인한 경직(예 : 경직성 척수마비, 근위축성 축색경화증, 척수공동증, 횡단성척수염, 외상성하지마비, 척수의 압박증, 기타의 척수병 등) 3. 대뇌 원인으로 인한 경직 : 특히 뇌성마비, 뇌혈관사고, 신생성 뇌질환, 퇴행성 뇌질환 등이 있는 경우",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:09Z",
+   "last_observed_at": "2026-09-06T21:44:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:09Z"
+}

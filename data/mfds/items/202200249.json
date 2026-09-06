@@ -7,7 +7,7 @@
  "permit_date": "20220114",
  "cancel_date": "20240911",
  "status": "취하",
- "main_item_ingr": "[M243785]산화아연|[M084707]크롬함유건조효모|[M051233]유비데카레논|[M244365]셀레늄함유건조효모|[M223240]토코페롤아세테이트|[M040262]산화마그네슘",
+ "main_item_ingr": "[M040262]산화마그네슘|[M051233]유비데카레논|[M084707]크롬함유건조효모|[M223240]토코페롤아세테이트|[M243785]산화아연|[M244365]셀레늄함유건조효모",
  "main_item_ingr_eng": "Chromium in Dried Yeast/Magnesium Oxide/Selenium In Dried Yeast/Tocopherol Acetate/Ubidecarenone/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
@@ -20,7 +20,8 @@
    "ee_text": "○ 다음 경우의 비타민 E 의 보급 - 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같습니다. ⦁ 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨·목결림, 수족저림·수족냉증(손발이 차가움) ○ 아연의 보급 ○ 마그네슘결핍으로 인한 근육경련 ○ 셀레늄의 보급",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202200249/EE",
    "first_observed_at": "2026-08-27T10:33:29Z",
-   "last_observed_at": "2026-08-28T13:25:27Z"
+   "last_observed_at": "2026-09-06T21:47:30Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "202200249-e919e1b7",

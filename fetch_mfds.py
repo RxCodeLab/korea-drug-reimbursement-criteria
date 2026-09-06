@@ -63,8 +63,32 @@ def now_utc() -> str:
     return datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
 
 
+# 표 구조(및 다른 블록 요소)의 셀 경계에서 텍스트가 그냥 붙어버리면("a"+"b"->"ab") 읽을 수 없다.
+# 이 태그들의 시작/끝에서는 구분 공백을 하나 넣는다. WHITESPACE.sub(" ", ...)가 뒤에서 중복 공백을
+# 하나로 접으므로 여기서 공백을 남발해도 결과에 이중 공백이 남지 않는다.
+_BLOCK_TAGS = frozenset({
+    "p", "div", "br", "li", "tr", "td", "th",
+    "table", "thead", "tbody", "tfoot", "ul", "ol", "section",
+})
+
+
 class _TextCollector(HTMLParser):
-    """HTML 조각에서 텍스트 노드만 모은다. `<[^>]+>` 정규식과 달리 `CrCl < 30 또는 > 60` 같은 부등식을 지우지 않는다."""
+    """HTML/엔티티가 섞인 조각에서 사람이 읽는 텍스트만 뽑아낸다.
+
+    `HTMLParser(convert_charrefs=True)`는 원문을 한 번만 훑으면서 진짜 태그(`<sub>`,
+    `<span style="...">`, `<tr>` 등)와 엔티티(`&nbsp;`, `&lt;`, `&#8226;` 등)를 동시에,
+    그리고 서로 다른 규칙으로 처리한다: 태그는 토크나이저가 `<이름 ...>` 구문을 인식해야만
+    태그로 잡히고, 그 바깥의 텍스트 구간 안에서만 엔티티를 유니코드 문자로 푼다. 그 결과
+    `&lt;sub&gt;`처럼 이스케이프된 텍스트가 풀려서 `<sub>`라는 문자열이 되어도 이미 태그
+    인식이 끝난 뒤이므로 다시 태그로 오인되지 않고, `CrCl < 30`처럼 애초에 태그 모양이 아닌
+    `<`/`>`는 그대로 텍스트로 남는다. 그래서 별도의 "엔티티 해제 후 재-태그제거" 단계가 필요
+    없고, 부등식이 살아남는다(실측 사례: `test_normalize_ee_keeps_inequalities_in_xml_and_html`,
+    `test_parse_history_keeps_clinical_inequalities_inside_cdata`).
+
+    `B<sub>1</sub>` 같은 인라인 서식은 내용만 남기고 공백 없이 붙여야 하므로(`B1`) 아무 것도
+    끼워 넣지 않는다. 반면 `<tr>`/`<td>` 같은 블록/표 요소는 내용이 그냥 붙으면 읽을 수 없으므로
+    `_BLOCK_TAGS` 시작·끝에서만 구분 공백을 하나 넣는다.
+    """
 
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
@@ -73,15 +97,25 @@ class _TextCollector(HTMLParser):
     def handle_data(self, data: str) -> None:
         self.parts.append(data)
 
+    def _boundary(self, tag: str) -> None:
+        if tag in _BLOCK_TAGS:
+            self.parts.append(" ")
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        self._boundary(tag)
+
+    def handle_startendtag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        self._boundary(tag)
+
+    def handle_endtag(self, tag: str) -> None:
+        self._boundary(tag)
+
 
 def _html_text(fragment: str) -> str:
     collector = _TextCollector()
     collector.feed(fragment)
     collector.close()
-    return " ".join(collector.parts)
-
-
-INLINE_MARKUP = re.compile(r"</?[a-zA-Z][^<>]*>")
+    return "".join(collector.parts)
 
 
 def _is_xml_shaped(text: str) -> bool:
@@ -90,22 +124,22 @@ def _is_xml_shaped(text: str) -> bool:
 
 
 def _xml_ee_parts(elem: ET.Element) -> Iterable[str]:
-    """`SECTION`/`ARTICLE` 의 title 속성과 본문 텍스트를 문서 순서로 낸다.
+    """`SECTION`/`ARTICLE` 의 title 속성과 본문 텍스트(CDATA 포함)를 문서 순서로 낸다.
 
     최상위 `DOC title`(실측 항상 "효능효과")은 문서 종류 라벨일 뿐 적응증 본문이 아니어서 제외한다
     (이 함수는 자식부터 호출되므로 DOC 자체에서는 호출되지 않는다; normalize_ee가 root의
     자식부터 순회한다). `ARTICLE`(그리고 내용이 있는 `SECTION`) title은 진짜 항목 제목이라 포함한다.
 
-    나온고시 원문은 'ARTICLE title="1. ... B&lt;sub&gt;1&lt;/sub&gt;..."' 처럼 항목 제목 안에
-    아래첨자를 이스케이프해 둔다. itertext()는 속성을 읽지 않아 이 제목이 통째로 빠지므로 여기서
-    직접 꺼낸다. ET가 속성값을 파싱하면서 `&lt;sub&gt;`를 리터럴 `<sub>` 문자로 풀어주는데, 사람이
-    읽을 제목에 마크업이 남으면 안 되므로(그리고 'B<sub>1</sub>'는 'B1'로 붙어야 의미가 맞으므로)
-    INLINE_MARKUP으로 태그만 벗기고 안쪽 텍스트는 그대로 붙인다. 빈 title("")은 건너뛴다.
+    title도 본문 텍스트/tail도 여기서는 마크업·엔티티를 전혀 건드리지 않고 있는 그대로 낸다.
+    ET가 속성값을 파싱하면서 `&lt;sub&gt;` 같은 이스케이프는 이미 리터럴 `<sub>` 문자로 풀어 주지만,
+    CDATA 안의 `&nbsp;`나 진짜 `<span>` 태그는 XML 파서가 손대지 않은 채(entity 참조가 아니라
+    리터럴 텍스트로) 그대로 넘어온다. 두 경우 모두 태그 제거와 엔티티 해제는 normalize_ee가
+    전체를 합친 뒤 `_html_text`로 한 번에 처리한다(빈 title("")은 건너뛴다).
     """
     if elem.tag in ("SECTION", "ARTICLE"):
         title = (elem.get("title") or "").strip()
         if title:
-            yield INLINE_MARKUP.sub("", title)
+            yield title
     if elem.text:
         yield elem.text
     for child in elem:
@@ -124,6 +158,16 @@ def normalize_ee(raw: object) -> str:
     이 순서를 뒤집어 무조건 먼저 unescape 하면, 이미 유효한 XML의 속성값 안 &lt;sub&gt;가 진짜
     <sub> 태그로 풀려 속성값 안에서 태그가 열린 것처럼 보여 XML이 깨진다(실측 사례:
     투엑스비듀얼정 202003660).
+
+    XML/HTML 어느 경로로 파싱하든, 조립한 본문은 마지막에 반드시 `_html_text`를 한 번만 거친다.
+    `_html_text`는 `HTMLParser(convert_charrefs=True)`를 쓰므로 실제 태그(`<sub>`, `<span ...>`,
+    `<tr>` 등)와 엔티티(`&nbsp;`, `&lt;`, `&#8226;` 등)를 같은 스캔에서 구분해 처리한다: 태그는
+    토크나이저가 `<이름 ...>` 구문을 직접 인식할 때만 태그로 잡히고, 엔티티는 그 바깥 텍스트
+    구간 안에서만 유니코드 문자로 풀린다. 그래서 `&lt;sub&gt;`가 풀려 만들어진 리터럴 `<sub>`
+    문자열은(이미 태그 인식이 끝난 뒤의 결과이므로) 다시 태그로 오인되지 않고, `CrCl < 30`처럼
+    애초에 태그 모양이 아닌 `<`/`>`는 그대로 텍스트로 남는다(부등식 보존 테스트 두 개가 이를
+    잠근다). '태그 제거 후 엔티티 해제'나 '엔티티 해제 후 태그 제거'처럼 두 단계로 나누면 이
+    프로퍼티가 깨지므로(둘 중 어느 순서든 위 문제가 재발한다) 일부러 한 파서 통과로 합쳤다.
     """
     text = str(raw or "")
     once = html.unescape(text)
@@ -135,7 +179,7 @@ def normalize_ee(raw: object) -> str:
         except ET.ParseError:
             continue
         joined = " ".join(part for part in _xml_ee_parts(parsed) if part)
-        return WHITESPACE.sub(" ", joined).strip()
+        return WHITESPACE.sub(" ", _html_text(joined)).strip()
     return WHITESPACE.sub(" ", _html_text(once)).strip()
 
 
@@ -152,8 +196,10 @@ def revision_key(text: str) -> str:
 # normalize_ee의 추출 규칙이 바뀜 때마다 올린다. 저장된 레코드의 normalizer_version이 이 값보다 낮으면
 # 그 레코드의 ee_text는 예전 로직이 만든 것이다. 이를 이용해 merge_item/merge_history는 "같은 EE_DOC_DATA,
 # 다른 추출 결과"를 새 개정이 아니라 기존 레코드의 제자리 갱신으로 처리해, 재수집 시 가짜 개정이 쌓이는
-# 것을 막는다(실측: 투엑스비듀얼정 202003660, ARTICLE title 포함 수정).
-NORMALIZER_VERSION = 2
+# 것을 막는다(실측: 투엑스비듀얼정 202003660, ARTICLE title 포함 수정; v3: 본문 텍스트/CDATA 안의
+# HTML 마크업과 엔티티도 정리하도록 확장 — 재수집 전수 스캔에서 <span>/<sub>/<tr> 등 태그 122건,
+# &nbsp;/&lt;/&#8226; 등 미해제 엔티티 594건이 본문에 그대로 남아 있던 것을 고침).
+NORMALIZER_VERSION = 3
 
 
 def _normalizer_version(revision: dict) -> int:

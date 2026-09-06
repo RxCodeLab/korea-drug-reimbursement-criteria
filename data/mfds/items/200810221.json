@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200810221",
+ "item_name": "발싸이트액제용분말(발간시클로비르염산염)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20081006",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M111626]발간시클로비르염산염",
+ "main_item_ingr_eng": "Valganciclovir Hydrochloride",
+ "edi_code": "643309130",
+ "atc_code": "J05AB14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810221",
+ "revisions": [
+  {
+   "revision_id": "200810221-9a4db2b5",
+   "content_sha256": "9a4db2b5d322fa4119cb5437fcf07a6ddb5ed8a96f76f8a31582833b2a816c82",
+   "ee_text": "AIDS 성인 환자의 CMV망막염 치료 CMV 질환 감염위험이 있는 성인 및 소아 고형장기이식환자(CMV 양성인 자로부터 장기를 이식받는 CMV 음성 환자)에서 CMV 질환의 예방",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:43Z",
+   "last_observed_at": "2026-09-06T21:44:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:43Z"
+}

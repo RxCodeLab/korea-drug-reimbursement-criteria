@@ -12,15 +12,17 @@
  "edi_code": "641100070",
  "atc_code": "N02BA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008591",
+ "history_fetched_at": "2026-08-28T13:23:57Z",
  "revisions": [
   {
-   "revision_id": "200008591-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200008591-58307cfe",
+   "content_sha256": "58307cfe5c5c4ec28f75df1a13aa11d7e57d2ff3fcfeb2315f8ec918d21c3023",
+   "ee_text": "1. 두통, 치통, 인후통, 생리통, 근육 및 관절의 통증, 요통, 경미한 관절염 통증의 증상완화 2. 감기로 인한 통증 및 열 증상의 완화",
    "ee_doc_id": "17",
    "first_observed_at": "2026-08-28T13:23:57Z",
-   "last_observed_at": "2026-08-28T13:23:57Z",
-   "official_revision_date": "2020-11-10"
+   "last_observed_at": "2026-09-06T21:44:16Z",
+   "official_revision_date": "2020-11-10",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200008591-98329fd8",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:57Z",
    "last_observed_at": "2026-08-28T13:23:57Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:57Z"
+ ]
 }

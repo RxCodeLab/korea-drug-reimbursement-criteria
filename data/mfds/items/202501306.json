@@ -7,7 +7,7 @@
  "permit_date": "20250527",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M280507]엠파글리플로진(무정형)|[M268745]리나글립틴(미분화)",
+ "main_item_ingr": "[M268745]리나글립틴(미분화)|[M280507]엠파글리플로진(무정형)",
  "main_item_ingr_eng": "Empagliflozin Amorphous/Linagliptin Micronized",
  "edi_code": "663608930",
  "atc_code": "A10BD19",
@@ -20,7 +20,8 @@
    "ee_text": "이 약은 엠파글리플로진과 리나글립틴의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202501306/EE",
    "first_observed_at": "2026-08-27T12:39:59Z",
-   "last_observed_at": "2026-08-28T13:25:37Z"
+   "last_observed_at": "2026-09-06T21:47:56Z",
+   "normalizer_version": 3
   }
  ]
 }

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004522",
+ "item_name": "리알트리스나잘스프레이액",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20200622",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233188]올로파타딘염산염|[M264264]모메타손푸로에이트일수화물",
+ "main_item_ingr_eng": "Mometasone Furoate Monohydrate/Olopatadine Hydrochloride",
+ "edi_code": "642105621,642105622",
+ "atc_code": "R01AD59",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004522",
+ "revisions": [
+  {
+   "revision_id": "202004522-4c2fdfca",
+   "content_sha256": "4c2fdfca1dcc3f9690b2ac8c22365051dffe311e6020b02160ad09fa02bc1b73",
+   "ee_text": "6세 이상 소아 및 성인에서의 계절 알레르기비염 증상의 치료",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:38Z",
+   "last_observed_at": "2026-09-06T21:46:38Z",
+   "official_revision_date": "2025-02-12"
+  },
+  {
+   "revision_id": "202004522-763a4644",
+   "content_sha256": "763a4644a38fa2372a5c84c7e67e4a140181254487a61871f56490d8c9bcc21d",
+   "ee_text": "성인 및 12세 이상 청소년: 계절 알레르기비염 증상의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-06-22",
+   "first_observed_at": "2026-09-06T21:46:38Z",
+   "last_observed_at": "2026-09-06T21:46:38Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:38Z"
+}

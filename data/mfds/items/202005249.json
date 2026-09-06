@@ -7,7 +7,7 @@
  "permit_date": "20200721",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M040064]니코틴산아미드|[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M050704]비오틴|[M223289]폴산|[M117558]시아노코발라민 1000배산|[M234001]아스코르브산과립97%|[M051233]유비데카레논|[M040262]산화마그네슘|[M244365]셀레늄함유건조효모|[M223167]우르소데옥시콜산|[M243785]산화아연|[M202809]감마-오리자놀|[M247683]콜린타르타르산염|[M040488]이노시톨|[M255819]토코페롤아세테이트 2배산|[M270667]농축콜레칼시페롤(분말형)|[M096428]벤포티아민",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M040488]이노시톨|[M050704]비오틴|[M051233]유비데카레논|[M096428]벤포티아민|[M117558]시아노코발라민 1000배산|[M202809]감마-오리자놀|[M204304]피리독신염산염|[M223167]우르소데옥시콜산|[M223289]폴산|[M234001]아스코르브산과립97%|[M243785]산화아연|[M244365]셀레늄함유건조효모|[M244748]판토텐산칼슘|[M247683]콜린타르타르산염|[M255819]토코페롤아세테이트 2배산|[M270667]농축콜레칼시페롤(분말형)",
  "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Benfotiamine/Biotin/Calcium Pantothenate/Cholecalciferol Concentrate Powder/Choline Tartrate/Cyanocobalamin Powder 0.1%/Folic Acid/Gamma-Oryzanol/Inositol/Magnesium Oxide/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Selenium In Dried Yeast/Tocopherol Acetate Powder 50%/Ubidecarenone/Ursodeoxycholic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:33:10Z",
  "revisions": [
   {
-   "revision_id": "202005249-b16107b5",
-   "content_sha256": "b16107b54f1d74cd327ae6a1311588278e2d61cfed5de03601c206393a1a29aa",
-   "ee_text": "- 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 발육기 - 노년기 - 뼈, 이의 발육불량 - 구루병의 예방 - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등), 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 - 각기 - 눈의피로",
+   "revision_id": "202005249-d15185f9",
+   "content_sha256": "d15185f98a27746aded64325d56cb1e9d5e0beaae49bdf013b8066a05bede77f",
+   "ee_text": "1. 다음 경우의 비타민 D, E, B1, B2, B6, C의 보급 - 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 발육기 - 노년기 2. 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. - 뼈, 이의 발육불량 - 구루병의 예방 - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등), 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 - 각기 - 눈의피로 3. 아연의 보급",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202005249/EE",
    "first_observed_at": "2026-08-27T10:33:10Z",
-   "last_observed_at": "2026-08-28T13:25:20Z"
+   "last_observed_at": "2026-09-06T21:46:39Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "202005249-ecd260df",

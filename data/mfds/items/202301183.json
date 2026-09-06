@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301183",
+ "item_name": "펩토무스현탁액(비스무트차살리실산염)",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20230411",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251876]비스무트차살리실산염",
+ "main_item_ingr_eng": "Bismuth Subsalicylate",
+ "edi_code": "",
+ "atc_code": "A07BB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301183",
+ "revisions": [
+  {
+   "revision_id": "202301183-d9146fbe",
+   "content_sha256": "d9146fbeed4957c1e4464b830d014148d4f416c6acda6d674040f7b942c492f8",
+   "ee_text": "⃝ 설사 및 여행자 설사에 기인한 복통의 완화 ⃝ 과식 및 과음으로 인한 다음의 증상을 완화한다. : 소화불량, 속쓰림, 오심, 트림, 복부팽만감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:40Z",
+   "last_observed_at": "2026-09-06T21:47:40Z",
+   "official_revision_date": "2023-04-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:40Z"
+}

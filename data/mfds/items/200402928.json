@@ -12,16 +12,17 @@
  "edi_code": "661901500",
  "atc_code": "N06DX02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402928",
+ "history_fetched_at": "2026-08-28T13:24:05Z",
  "revisions": [
   {
-   "revision_id": "200402928-bdb1075a",
-   "content_sha256": "bdb1075a447fb29bce4f1318ba3365da454b2c3520a135e72f88ec06e8bc916d",
-   "ee_text": "1) 말초동맥 순환장애(간혈성 파행증(이따금 절뚝거림))의 치료 2) 어지러움, 혈관성 및 퇴행성 이명(귀울림) 3) 이명(귀울림), 두통, 기억력감퇴, 집중력장애, 우울감, 어지러움등의 치매성 증상을 수반하는 기질성 뇌기능장애의 치료",
+   "revision_id": "200402928-7f0047e8",
+   "content_sha256": "7f0047e83391b8cab2ee3d5e47acad67470725294483a1fcf3c7c6e96a6a6778",
+   "ee_text": "1. 주효능·효과 1) 말초동맥 순환장애(간혈성 파행증(이따금 절뚝거림))의 치료 2) 어지러움, 혈관성 및 퇴행성 이명(귀울림) 3) 이명(귀울림), 두통, 기억력감퇴, 집중력장애, 우울감, 어지러움등의 치매성 증상을 수반하는 기질성 뇌기능장애의 치료",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:24:05Z",
-   "last_observed_at": "2026-08-28T13:24:05Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:44:22Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:05Z"
+ ]
 }

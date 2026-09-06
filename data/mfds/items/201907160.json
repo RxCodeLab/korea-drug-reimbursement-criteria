@@ -7,11 +7,12 @@
  "permit_date": "20191010",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M261256]이소프로필메틸페놀|[M222973]디펜히드라민염산염|[M215133]에녹솔론|[M040131]리도카인|[M258362]테르비나핀염산염",
+ "main_item_ingr": "[M040131]리도카인|[M215133]에녹솔론|[M222973]디펜히드라민염산염|[M258362]테르비나핀염산염|[M261256]이소프로필메틸페놀",
  "main_item_ingr_eng": "Diphenhydramine Hydrochloride/Enoxolone/Isopropyl Methylphenol/Lidocaine/Terbinafine Hydrochloride",
  "edi_code": "",
  "atc_code": "D01AE20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907160",
+ "history_fetched_at": "2026-08-27T12:30:13Z",
  "revisions": [
   {
    "revision_id": "201907160-ab78ebc5",
@@ -19,9 +20,9 @@
    "ee_text": "무좀, 완선(사타구니백선), 백선",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:30:13Z",
-   "last_observed_at": "2026-08-27T12:30:13Z",
-   "official_revision_date": "2019-10-10"
+   "last_observed_at": "2026-09-06T21:46:21Z",
+   "official_revision_date": "2019-10-10",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:30:13Z"
+ ]
 }

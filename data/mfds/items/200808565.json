@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200808565",
+ "item_name": "렉토제식연고(희석니트로글리세린)",
+ "entp_name": "(주)글로벌데이몬파마",
+ "permit_date": "20080808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088774]희석니트로글리세린",
+ "main_item_ingr_eng": "Dilute Nitroglycerin",
+ "edi_code": "",
+ "atc_code": "C05AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808565",
+ "revisions": [
+  {
+   "revision_id": "200808565-a95002f7",
+   "content_sha256": "a95002f71fe75ccc2642ce962c9774f6480e8aa682a45b35bffb7a3e0b568002",
+   "ee_text": "- 의사에 의해 진단된 항문열창의 치료 및 완화 - 치칠 수술 후의 상처치유 보조 및 통증 완화",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:42Z",
+   "last_observed_at": "2026-09-06T21:44:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:42Z"
+}

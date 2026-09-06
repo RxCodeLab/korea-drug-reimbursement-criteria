@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005466",
+ "item_name": "비오뷰프리필드시린지(브롤루시주맙)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20200728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278892]브롤루시주맙",
+ "main_item_ingr_eng": "Brolucizumab",
+ "edi_code": "653603301",
+ "atc_code": "S01LA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005466",
+ "revisions": [
+  {
+   "revision_id": "202005466-2b013fef",
+   "content_sha256": "2b013fefe218092b5e95856fa54e21926c2299e0636498acc70f86f08504f70d",
+   "ee_text": "신생혈관성 (습성) 연령관련 황반변성의 치료 당뇨병성 황반부종의 치료",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:45Z",
+   "last_observed_at": "2026-09-06T21:46:45Z",
+   "official_revision_date": "2022-08-04"
+  },
+  {
+   "revision_id": "202005466-d733d4b8",
+   "content_sha256": "d733d4b8da5e355538aeddcda45b339474f83474d2be36c5f16c436fc7543870",
+   "ee_text": "신생혈관성 (습성) 연령관련 황반변성의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-07-28",
+   "first_observed_at": "2026-09-06T21:46:45Z",
+   "last_observed_at": "2026-09-06T21:46:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:45Z"
+}

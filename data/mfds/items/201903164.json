@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903164",
+ "item_name": "글리아나연질캡슐(콜린알포세레이트)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20190516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257700]콜린알포세레이트",
+ "main_item_ingr_eng": "Choline Alfoscerate",
+ "edi_code": "645605110",
+ "atc_code": "N07AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903164",
+ "revisions": [
+  {
+   "revision_id": "201903164-c6ed4bce",
+   "content_sha256": "c6ed4bced73a36daeea3af14805852b82b3dbc784a75f54f289ac349507c4f74",
+   "ee_text": "- 뇌혈관 결손에 의한 2차 증상 및 변성 또는 퇴행성 뇌기질성 정신증후군 : 기억력저하와 착란, 의욕 및 자발성저하로 인한 방향감각장애, 의욕 및 자발성 저하, 집중력감소 ☆국내임상시험결과 추가제출",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:14Z",
+   "last_observed_at": "2026-09-06T21:46:14Z",
+   "official_revision_date": "2021-07-28"
+  },
+  {
+   "revision_id": "201903164-9d79fe9d",
+   "content_sha256": "9d79fe9d5bc58b000e9faaeb7c237d3a33dff84b7e4c90f60f65c0601b035cdb",
+   "ee_text": "- 뇌혈관 결손에 의한 2차 증상 및 변성 또는 퇴행성 뇌기질성 정신증후군 : 기억력저하와 착란, 의욕 및 자발성저하로 인한 방향감각장애, 의욕 및 자발성 저하, 집중력감소 - 감정 및 행동변화 : 정서불안, 자극과민성, 주위무관심 - 노인성 가성우울증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-05-16",
+   "first_observed_at": "2026-09-06T21:46:14Z",
+   "last_observed_at": "2026-09-06T21:46:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:14Z"
+}

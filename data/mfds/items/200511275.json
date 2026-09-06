@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:33:30Z",
  "revisions": [
   {
-   "revision_id": "200511275-49cf747f",
-   "content_sha256": "49cf747f8bcdeecfb1d5050ade158c70945a0022d1028df31b5b2ba92fb3602b",
-   "ee_text": "- 조직이식 거부반응 방지 - 이식편대숙주질환(graft versus-host disease, GVHD) 방지",
+   "revision_id": "200511275-89f5393b",
+   "content_sha256": "89f5393b74ea22350a85382a096f5fd2972201496eb4d1b0d324890cd8c0757c",
+   "ee_text": "1. 신이식 : 동종의 신이식 환자에 대한 거부반응 방지 2. 간이식 : 동종의 간이식 환자에 대한 거부반응 방지 3. 골수이식 - 조직이식 거부반응 방지 - 이식편대숙주질환(graft versus-host disease, GVHD) 방지",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200511275/EE",
    "first_observed_at": "2026-08-27T12:33:30Z",
-   "last_observed_at": "2026-08-28T13:24:09Z"
+   "last_observed_at": "2026-09-06T21:44:30Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200511275-5bced8cb",

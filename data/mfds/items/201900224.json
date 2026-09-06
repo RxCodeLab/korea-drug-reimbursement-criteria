@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900224",
+ "item_name": "헴리브라피하주사(에미시주맙, 유전자재조합)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20190117",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268799]에미시주맙|[M268799]에미시주맙|[M268799]에미시주맙|[M268799]에미시주맙|[M268799]에미시주맙",
+ "main_item_ingr_eng": "Emicizumab",
+ "edi_code": "644914641,644914651,644914661,644914671,644914681",
+ "atc_code": "B02BX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900224",
+ "revisions": [
+  {
+   "revision_id": "201900224-8a1052c0",
+   "content_sha256": "8a1052c0d4a701ad6349394d5ec13ee16a96ecc847242bd5f4ba6589699e3129",
+   "ee_text": "(성인 및 소아) 1. 혈액응고 제VIII인자에 대한 억제인자를 보유한 A형 혈우병(선천성 혈액응고 제VIII인자 결핍)환자에서의 출혈 빈도 감소 또는 예방을 위한 일상적인 예방요법(routine prophylaxis) 2. 혈액응고 제VIII인자에 대한 억제인자를 보유하지 않은 중증 A형 혈우병(선천성 혈액응고 제VIII인자 결핍)환자에서의 출혈 빈도 감소 또는 예방을 위한 일상적인 예방요법(routine prophylaxis)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:06Z",
+   "last_observed_at": "2026-09-06T21:46:06Z",
+   "official_revision_date": "2020-03-26"
+  },
+  {
+   "revision_id": "201900224-904b00ea",
+   "content_sha256": "904b00ea89127358c6d5a48a675d79cca053f674c8581c22a1cf91441e3fbaf2",
+   "ee_text": "혈액응고 제VIII인자에 대한 억제인자를 보유한 A형 혈우병 (선천성 혈액응고 제VIII인자 결핍) 환자에서의 출혈 빈도 감소 또는 예방을 위한 일상적인 예방요법(routine prophylaxis)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-01-17",
+   "first_observed_at": "2026-09-06T21:46:06Z",
+   "last_observed_at": "2026-09-06T21:46:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:06Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102686",
+ "item_name": "대한싸이텍주5밀리그램/100밀리리터(졸레드론산일수화물)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20210326",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253522]졸레드론산일수화물",
+ "main_item_ingr_eng": "Zoledronic Acid Monohydrate",
+ "edi_code": "",
+ "atc_code": "M05BA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102686",
+ "revisions": [
+  {
+   "revision_id": "202102686-ca03b4e9",
+   "content_sha256": "ca03b4e9c254c705c39e92e481bb13fec25b88895d3035839fe367d065dc5f40",
+   "ee_text": "* 5 mg/100 mL 1. 골다공증의 치료 (1) 폐경 후 여성의 대퇴골, 척추 및 비척추 골다공증성 골절의 발생율 감소 (2) 저충격 고관절 골절 후 새로운 골절 발생율 감소 (3) 남성의 골다공증 치료 2. 폐경 후 여성의 골다공증 예방 3. 글루코코르티코이드에 의한 골다공증의 치료 및 예방 4. 골파제트병의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:06Z",
+   "last_observed_at": "2026-09-06T21:47:06Z",
+   "official_revision_date": "2021-03-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:06Z"
+}

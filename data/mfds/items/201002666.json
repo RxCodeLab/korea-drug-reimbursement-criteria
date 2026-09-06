@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201002666",
+ "item_name": "에스케이항트롬빈III주500단위(건조농축사람항트롬빈III)",
+ "entp_name": "에스케이플라즈마(주)",
+ "permit_date": "20100409",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249811]농축사람항트롬빈III",
+ "main_item_ingr_eng": "Human Antithrombin Ⅲ Concentrate",
+ "edi_code": "050800201",
+ "atc_code": "B01AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002666",
+ "revisions": [
+  {
+   "revision_id": "201002666-56d7c1ea",
+   "content_sha256": "56d7c1ea965316bf7c961a7415b77ac5f0975f9ae88f2a27eebeb04147b68894",
+   "ee_text": "1. 선천성 항 트롬빈 III 결핍에 기인하는 혈전색전합병증의 예방 및 치료 2. 후천성 항 트롬빈 III 결핍의 예방 및 치료 - 중독, 간염, 대상부전 간경변증 등에 의한 급성 간부전증 - 패혈증, 다발성외상, 양수색전증 등에 있어서의 소모성 응혈이상증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201002666/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:45Z",
+   "last_observed_at": "2026-09-06T21:44:45Z"
+  },
+  {
+   "revision_id": "201002666-16560d53",
+   "content_sha256": "16560d539f7edd3a7f49336874d98abb2f63393866cd84c0417aa28b91594374",
+   "ee_text": "1. 선천성 항 트롬빈 III 결핍에 기인하는 혈전색전합병증의 예방 및 치료 2. 후천성 항 트롬빈 III 결핍의 예방 및 치료 - 중독, 간염, 대상부전 간경변증 등에 의한 급성 간부전증 - 패혈증, 다발성외상, 양수색전증 등에 있어서의 소모성 응혈이상증 - 혈액투석 - 집중치료 혈장 반출법",
+   "ee_doc_id": "51",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-07-17",
+   "first_observed_at": "2026-09-06T21:44:45Z",
+   "last_observed_at": "2026-09-06T21:44:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:45Z"
+}

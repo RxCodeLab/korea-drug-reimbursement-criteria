@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104031",
+ "item_name": "동아제약헤모연고",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20210521",
+ "cancel_date": "20260521",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040131]리도카인|[M051015]알란토인|[M223240]토코페롤아세테이트|[M223298]프레드니솔론아세테이트",
+ "main_item_ingr_eng": "Allantoin/Lidocaine/Prednisolone Acetate/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "C05AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104031",
+ "revisions": [
+  {
+   "revision_id": "202104031-ccf3f0dd",
+   "content_sha256": "ccf3f0dd4457cd0902b96ca6b422fc6e467bfd3e9adb4d135ba3ed360e14d37d",
+   "ee_text": "치열·치핵의 아픔·가려움·부종(부기)·출혈의 일시적 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:19Z",
+   "last_observed_at": "2026-09-06T21:47:19Z",
+   "official_revision_date": "2021-05-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:19Z"
+}

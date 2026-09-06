@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "M02AA31",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001082",
+ "history_fetched_at": "2026-08-27T12:15:32Z",
  "revisions": [
   {
    "revision_id": "202001082-b7f2dd95",
@@ -19,9 +20,9 @@
    "ee_text": "요통, 어깨 결림에 따른 어깨 통증, 관절통, 근육통, 건초염(손․ ∙ 손목 통증), 팔꿈치 통증(테니스 엘보우 등), 타박상, 염좌(삠)",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:15:32Z",
-   "last_observed_at": "2026-08-27T12:15:32Z",
-   "official_revision_date": "2020-02-17"
+   "last_observed_at": "2026-09-06T21:46:29Z",
+   "official_revision_date": "2020-02-17",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:15:32Z"
+ ]
 }

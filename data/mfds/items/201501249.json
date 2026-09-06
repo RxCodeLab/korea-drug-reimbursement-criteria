@@ -7,11 +7,12 @@
  "permit_date": "20150310",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M279284]L-멘톨|[M040131]리도카인|[M051499]크로타미톤|[M051543]클로트리마졸",
+ "main_item_ingr": "[M040131]리도카인|[M051499]크로타미톤|[M051543]클로트리마졸|[M279284]L-멘톨",
  "main_item_ingr_eng": "Clotrimazole/Crotamiton/L-Menthol/Lidocaine",
  "edi_code": "",
  "atc_code": "D01AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501249",
+ "history_fetched_at": "2026-08-28T13:24:41Z",
  "revisions": [
   {
    "revision_id": "201501249-4a196b2a",
@@ -19,8 +20,9 @@
    "ee_text": "무좀, 완선(사타구니백선), 체부백선",
    "ee_doc_id": "20",
    "first_observed_at": "2026-08-28T13:24:41Z",
-   "last_observed_at": "2026-08-28T13:24:41Z",
-   "official_revision_date": "2024-11-11"
+   "last_observed_at": "2026-09-06T21:45:22Z",
+   "official_revision_date": "2024-11-11",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201501249-3e2a151a",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:41Z",
    "last_observed_at": "2026-08-28T13:24:41Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:41Z"
+ ]
 }

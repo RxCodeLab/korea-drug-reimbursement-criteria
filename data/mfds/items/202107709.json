@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107709",
+ "item_name": "베르쿠보정10밀리그램(베리시구앗(미분화))",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20211130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281787]베리시구앗(미분화)",
+ "main_item_ingr_eng": "Vericiguat Micronized",
+ "edi_code": "641106170",
+ "atc_code": "C01DX22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107709",
+ "revisions": [
+  {
+   "revision_id": "202107709-3864c271",
+   "content_sha256": "3864c2713da07a90d93e2ab378a6a00751b857c0facb0e1fb346dc52a0a78558",
+   "ee_text": "만성 심부전 : 최근에 심부전으로 인한 입원 또는 외래 정맥용 이뇨제 투여를 경험한 좌심실 박출률이 45% 미만으로 저하된 증상성 만성 심부전 환자에서 심혈관질환으로 인한 사망 및 심부전으로 인한 입원 위험 감소 이 약은 다른 심부전 치료제와 병용하여 투여한다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:28Z",
+   "last_observed_at": "2026-09-06T21:47:28Z",
+   "official_revision_date": "2021-11-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:28Z"
+}

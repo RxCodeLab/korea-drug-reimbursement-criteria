@@ -7,11 +7,12 @@
  "permit_date": "20200416",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040131]리도카인|[M223237]테트라히드로졸린염산염|[M203915]클로르헥시딘염산염",
+ "main_item_ingr": "[M040131]리도카인|[M203915]클로르헥시딘염산염|[M223237]테트라히드로졸린염산염",
  "main_item_ingr_eng": "Chlorhexidine Hydrochloride/Lidocaine/Tetrahydrozoline Hydrochloride",
  "edi_code": "",
  "atc_code": "C05AD01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002671",
+ "history_fetched_at": "2026-08-28T13:25:17Z",
  "revisions": [
   {
    "revision_id": "202002671-ccf3f0dd",
@@ -19,9 +20,9 @@
    "ee_text": "치열·치핵의 아픔·가려움·부종(부기)·출혈의 일시적 완화",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:17Z",
-   "last_observed_at": "2026-08-28T13:25:17Z",
-   "official_revision_date": "2020-04-16"
+   "last_observed_at": "2026-09-06T21:46:34Z",
+   "official_revision_date": "2020-04-16",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:17Z"
+ ]
 }

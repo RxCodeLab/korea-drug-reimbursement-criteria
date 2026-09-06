@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005381",
+ "item_name": "베클루리주정맥주사용동결건조분말(렘데시비르)",
+ "entp_name": "길리어드사이언스코리아(유)",
+ "permit_date": "20200724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279177]렘데시비르",
+ "main_item_ingr_eng": "Remdesivir",
+ "edi_code": "625900141",
+ "atc_code": "J05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005381",
+ "revisions": [
+  {
+   "revision_id": "202005381-b09cb2d3",
+   "content_sha256": "b09cb2d336c78c5d75b28c31b6374f6ac06b3738b3ba84ce267ad72e9615a169",
+   "ee_text": "1) PCR 검사 등을 통해 확진된, 다음 중 어느 하나 이상에 해당하는 입원한 성인 및 소아(생후 28일 이상이고 체중 3 kg 이상) 코로나바이러스감염증-19 환자의 치료: ‧ 폐렴 ‧ 실내공기(room air)에서 산소포화도(SpO2) 94% 이하인 환자 ‧ 보조산소 치료가 필요한 환자 ‧ 기계환기나 체외막산소요법(ECMO)이 필요한 환자 2) PCR 검사 등을 통해 확진된, 중증으로 진행될 위험이 높은 경증 및 중등증의 성인 및 소아(체중 40 kg 이상) 코로나바이러스감염증-19 환자의 치료",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:45Z",
+   "last_observed_at": "2026-09-06T21:46:45Z",
+   "official_revision_date": "2024-12-03"
+  },
+  {
+   "revision_id": "202005381-e3d03a20",
+   "content_sha256": "e3d03a20011984e8507ffed337eca1913eccf3c5e4023f25c547ecebe4055aa4",
+   "ee_text": "PCR 검사 등을 통해 코로나바이러스감염증-19가 확진된 환자로서, 다음 중 어느 하나 이상에 해당하는 성인 및 소아(12세 이상이고 40 kg 이상)의 입원 환자 ‧폐렴 ‧실내공기(room air)에서 산소포화도(SpO2) 94% 이하인 환자 ‧보조산소 치료가 필요한 환자 ‧비침습적 또는 침습적 기계환기나 체외막산소요법(ECMO)이 필요한 환자",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-01-07",
+   "first_observed_at": "2026-09-06T21:46:45Z",
+   "last_observed_at": "2026-09-06T21:46:45Z"
+  },
+  {
+   "revision_id": "202005381-3f1adcb4",
+   "content_sha256": "3f1adcb4f459c57195444cd3895c46b892a8bd78f709f84c27122721a473e244",
+   "ee_text": "PCR 검사 등을 통해 코로나바이러스감염증-19가 확진된 환자로서, 다음 중 어느 하나 이상에 해당하는 중증의 입원 환자 ․실내공기(room air)에서 산소포화도(SpO2) 94% 이하인 환자 ․보조산소 치료가 필요한 환자 ․비침습적 또는 침습적 기계환기나 체외막산소요법(ECMO)이 필요한 환자",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-07-24",
+   "first_observed_at": "2026-09-06T21:46:45Z",
+   "last_observed_at": "2026-09-06T21:46:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:45Z"
+}

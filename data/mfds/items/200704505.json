@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "N06DX02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704505",
+ "history_fetched_at": "2026-08-28T13:24:12Z",
  "revisions": [
   {
    "revision_id": "200704505-37d7a0e9",
@@ -19,8 +20,9 @@
    "ee_text": "이명(귀울림), 두통, 기억력감퇴, 집중력장애, 우울감, 어지러움 등의 치매성증상을 수반하는 기질성 뇌기능장애의 치료",
    "ee_doc_id": "17",
    "first_observed_at": "2026-08-28T13:24:12Z",
-   "last_observed_at": "2026-08-28T13:24:12Z",
-   "official_revision_date": "2019-10-15"
+   "last_observed_at": "2026-09-06T21:44:36Z",
+   "official_revision_date": "2019-10-15",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200704505-5a176a31",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:12Z",
    "last_observed_at": "2026-08-28T13:24:12Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:12Z"
+ ]
 }

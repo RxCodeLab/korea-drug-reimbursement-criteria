@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401470",
+ "item_name": "오라페인큐겔",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20240619",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222842]리도카인염산염수화물|[M278021]염화세틸피리디늄수화물",
+ "main_item_ingr_eng": "Cetylpyridinium Chloride Hydrate/Lidocaine Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "A01AD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401470",
+ "revisions": [
+  {
+   "revision_id": "202401470-029e0fa3",
+   "content_sha256": "029e0fa30924ba8ffac89437fb9e33ba1d5c6b5edaadb889edd8aa6f7c84cc2d",
+   "ee_text": "의치 자극이나 입안의 궤양으로 인한 통증 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:49Z",
+   "last_observed_at": "2026-09-06T21:47:49Z",
+   "official_revision_date": "2024-06-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:49Z"
+}

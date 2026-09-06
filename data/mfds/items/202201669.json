@@ -1,0 +1,58 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201669",
+ "item_name": "스카이리치프리필드펜주150mg/mL(리산키주맙, 유전자재조합)",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20220422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265303]리산키주맙",
+ "main_item_ingr_eng": "Risankizumab",
+ "edi_code": "624900391",
+ "atc_code": "L04AC18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201669",
+ "revisions": [
+  {
+   "revision_id": "202201669-8cf1014a",
+   "content_sha256": "8cf1014a91c168ce814fa9ff4e1ce71890bde2e3883a5abaf2b3529ee613d376",
+   "ee_text": "1. 판상 건선 광선요법 또는 전신치료요법(생물학적 요법 포함)을 필요로 하는 중등도에서 중증의 성인(18세 이상) 판상 건선의 치료 2. 건선성 관절염 이전에 DMARDs(disease-modifying anti-rheumatic drug)에 대한 반응이 적절하지 않거나 내약성이 없는 성인(18세 이상)의 활동성 건선성 관절염의 치료 3. 손발바닥 농포증 보편적인 치료에 반응이 불충분하거나, 또는 내약성이 없는 중등도에서 중증의 성인(18세 이상) 손발바닥 농포증의 치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:33Z",
+   "last_observed_at": "2026-09-06T21:47:33Z",
+   "official_revision_date": "2024-09-13"
+  },
+  {
+   "revision_id": "202201669-16fee0dc",
+   "content_sha256": "16fee0dc019d918bded982fd3ade609c592e4d92a2984ae497f841ca48081d95",
+   "ee_text": "1. 판상 건선 광선요법 또는 전신치료요법(생물학적 요법 포함)을 필요로 하는 중등도에서 중증의 성인 판상 건선의 치료 2. 건선성 관절염 이전에 DMARDs(disease-modifying anti-rheumatic drug)에 대한 반응이 적절하지 않거나 내약성이 없는 성인의 활동성 건선성 관절염의 치료 3. 손발바닥 농포증 보편적인 치료에 반응이 불충분하거나, 또는 내약성이 없는 중등도에서 중증의 성인(18세 이상) 손발바닥 농포증의 치료",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-04-09",
+   "first_observed_at": "2026-09-06T21:47:33Z",
+   "last_observed_at": "2026-09-06T21:47:33Z"
+  },
+  {
+   "revision_id": "202201669-8743a1c1",
+   "content_sha256": "8743a1c1a836ace571fea6997f5008e9e07e89b02fa6e5d2036d3fc85fcb5ab7",
+   "ee_text": "1. 판상 건선 광선요법 또는 전신치료요법(생물학적 요법 포함)을 필요로 하는 중등도에서 중증의 성인 판상 건선의 치료 2. 건선성 관절염 이전에 DMARDs(disease-modifying anti-rheumatic drug)에 대한 반응이 적절하지 않거나 내약성이 없는 성인의 활동성 건선성 관절염의 치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-08-31",
+   "first_observed_at": "2026-09-06T21:47:33Z",
+   "last_observed_at": "2026-09-06T21:47:33Z"
+  },
+  {
+   "revision_id": "202201669-f0c62d2f",
+   "content_sha256": "f0c62d2fd1631e5a85885d2772285e192deb979cf12236fff8584cac753de0fb",
+   "ee_text": "광선요법 또는 전신치료요법(생물학적 요법 포함)을 필요로 하는 중등도에서 중증의 성인 판상 건선의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-04-22",
+   "first_observed_at": "2026-09-06T21:47:33Z",
+   "last_observed_at": "2026-09-06T21:47:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:33Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "S01XA20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005203",
+ "history_fetched_at": "2026-08-27T11:05:53Z",
  "revisions": [
   {
    "revision_id": "202005203-62c237a2",
@@ -19,9 +20,9 @@
    "ee_text": "다음 증상에서 눈의 습윤 ․ 먼지, 바람, 건조한 공기, 장기간의 컴퓨터사용에 의한 눈의 건조감, 이물감, 피로감 ․ 콘택트렌즈 착용에 의한 불쾌감",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T11:05:53Z",
-   "last_observed_at": "2026-08-27T11:05:53Z",
-   "official_revision_date": "2020-07-21"
+   "last_observed_at": "2026-09-06T21:46:39Z",
+   "official_revision_date": "2020-07-21",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T11:05:53Z"
+ ]
 }

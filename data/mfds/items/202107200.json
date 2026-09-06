@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107200",
+ "item_name": "제테마더톡신주200단위(클로스트리디움보툴리눔독소A형)",
+ "entp_name": "(주)제테마",
+ "permit_date": "20211029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096119]클로스트리디움보툴리눔독소A형",
+ "main_item_ingr_eng": "Clostridium Botulinum Toxin Type A",
+ "edi_code": "",
+ "atc_code": "M03AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107200",
+ "revisions": [
+  {
+   "revision_id": "202107200-0d859d61",
+   "content_sha256": "0d859d61c8ebddb467f911fda8da7fe7c1257cd6beaaae89c51807a00e0dbf18",
+   "ee_text": "19세 이상 만 65세 이하의 성인에 있어서 눈썹주름근(Corrugator Muscle) 그리고/또는 눈살근(Procerus Muscle) 활동과 관련된 중등증 내지 중증의 심한 미간 주름의 일시적 개선",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:26Z",
+   "last_observed_at": "2026-09-06T21:47:26Z",
+   "official_revision_date": "2025-11-20"
+  },
+  {
+   "revision_id": "202107200-1f8e9505",
+   "content_sha256": "1f8e95057cfc8ecb9f73b8594909661319bb1a11b7ab06be0c838de51c712127",
+   "ee_text": "만 19세 이상 65세 이하의 성인에 있어서 눈썹주름근(Corrugator Muscle) 그리고/또는 눈살근(Procerus Muscle) 활동과 관련된 중등도 내지 중증의 심한 미간 주름의 일시적 개선이다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-10-29",
+   "first_observed_at": "2026-09-06T21:47:26Z",
+   "last_observed_at": "2026-09-06T21:47:26Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:26Z"
+}

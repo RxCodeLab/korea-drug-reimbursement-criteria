@@ -7,11 +7,12 @@
  "permit_date": "20170418",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M279284]L-멘톨|[M040131]리도카인|[M040264]살리실산|[M246643]에코나졸질산염",
+ "main_item_ingr": "[M040131]리도카인|[M040264]살리실산|[M246643]에코나졸질산염|[M279284]L-멘톨",
  "main_item_ingr_eng": "Econazole Nitrate/L-Menthol/Lidocaine/Salicylic Acid",
  "edi_code": "",
  "atc_code": "D01AE",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701906",
+ "history_fetched_at": "2026-08-28T13:24:55Z",
  "revisions": [
   {
    "revision_id": "201701906-4a196b2a",
@@ -19,9 +20,9 @@
    "ee_text": "무좀, 완선(사타구니백선), 체부백선",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-28T13:24:55Z",
-   "last_observed_at": "2026-08-28T13:24:55Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:45:48Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:55Z"
+ ]
 }

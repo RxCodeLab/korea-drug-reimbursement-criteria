@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204655",
+ "item_name": "리브텐시티정200밀리그램(마리바비르)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20221227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283312]마리바비르(미분화)",
+ "main_item_ingr_eng": "Maribavir Micronized",
+ "edi_code": "696300730",
+ "atc_code": "J05AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204655",
+ "revisions": [
+  {
+   "revision_id": "202204655-c8bec71d",
+   "content_sha256": "c8bec71dcc846d62f21580bc764b0289d6b6c6cb0053e1da99cacc751013b6b7",
+   "ee_text": "간시클로버, 발간시클로버, 포스카네트 또는 시도포비어 중 1 개 이상에 내성이 있거나 불응성인 성인 환자에서 이식 후 거대세포바이러스(CMV) 감염 및 질병의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:38Z",
+   "last_observed_at": "2026-09-06T21:47:38Z",
+   "official_revision_date": "2022-12-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:38Z"
+}

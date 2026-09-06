@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201785",
+ "item_name": "리벨서스정(세마글루티드)",
+ "entp_name": "노보노디스크제약(주)",
+ "permit_date": "20220502",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265401]세마글루티드|[M265401]세마글루티드|[M265401]세마글루티드",
+ "main_item_ingr_eng": "Semaglutide",
+ "edi_code": "",
+ "atc_code": "A10BJ06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201785",
+ "revisions": [
+  {
+   "revision_id": "202201785-795f13de",
+   "content_sha256": "795f13def1f2aec16a2db2d7339b8aa7b5fa00030fb3883d8f43ac965b7d051e",
+   "ee_text": "이 약은 제2형 당뇨병 조절이 충분하지 않은 성인에서 혈당조절 개선을 위해 식이요법과 운동요법의 보조제로서 다음 요법으로 투여한다. - 단독투여 - 다른 당뇨병 치료제와 이 약의 병용 투여",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:33Z",
+   "last_observed_at": "2026-09-06T21:47:33Z",
+   "official_revision_date": "2022-05-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:33Z"
+}

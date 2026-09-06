@@ -7,7 +7,7 @@
  "permit_date": "20120524",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M255819]토코페롤아세테이트 2배산|[M236913]제피아스코르브산|[M223289]폴산|[M040133]리보플라빈|[M223262]티아민질산염|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M102050]콜레칼시페롤농축분말|[M040262]산화마그네슘|[M246028]황산망간수화물|[M243785]산화아연|[M246343]산화제이구리|[M051783]푸마르산철|[M244748]판토텐산칼슘|[M050704]비오틴|[M225607]시아노코발라민 1%|[M051233]유비데카레논",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M050704]비오틴|[M051233]유비데카레논|[M051783]푸마르산철|[M102050]콜레칼시페롤농축분말|[M204304]피리독신염산염|[M223262]티아민질산염|[M223289]폴산|[M225607]시아노코발라민 1%|[M236913]제피아스코르브산|[M243785]산화아연|[M244748]판토텐산칼슘|[M246028]황산망간수화물|[M246343]산화제이구리|[M255819]토코페롤아세테이트 2배산",
  "main_item_ingr_eng": "Ascorbic Acid Coated/Biotin/Calcium Pantothenate/Cholecalciferol Concentrate Powder/Cupric Oxide/Cyanocobalamin 1%/Ferrous Fumarate/Folic Acid/Magnesium Oxide/Manganese Sulfate Hydrate/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate/Tocopherol Acetate Powder 50%/Ubidecarenone/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11AA01",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:32:38Z",
  "revisions": [
   {
-   "revision_id": "201205043-af9ed00c",
-   "content_sha256": "af9ed00c72ee9d24e1896e3a1b4ee1c6f9d957f46cc9ba9ba52140cc512e8c4e",
-   "ee_text": ": 임신∙수유기, 육체피로, 병중∙병후(병을 앓는 동안이나 회복 후)의 체력저하시, 발 육기, 노년기 : 뼈∙이의 발육불량, 구루병의 예방",
+   "revision_id": "201205043-a59cd52e",
+   "content_sha256": "a59cd52e6d67327b44fa76c58b8cf8081445243f21d320b2b88551333286d846",
+   "ee_text": "○ 다음 경우의 비타민 B1, B2, B6, B12, C, D, E의 보급 : 임신∙수유기, 육체피로, 병중∙병후(병을 앓는 동안이나 회복 후)의 체력저하시, 발 육기, 노년기 ○ 이 약에 함유된 비타민 등의 효능∙효과는 다음과 같다. : 뼈∙이의 발육불량, 구루병의 예방 ○ 철 결핍성 빈혈의 예방 및 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201205043/EE",
    "first_observed_at": "2026-08-27T10:32:38Z",
-   "last_observed_at": "2026-08-28T13:24:28Z"
+   "last_observed_at": "2026-09-06T21:44:51Z",
+   "normalizer_version": 3
   }
  ]
 }

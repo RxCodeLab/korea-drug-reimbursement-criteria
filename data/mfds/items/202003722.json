@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003722",
+ "item_name": "자톨정20밀리그램(리바록사반)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20200521",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278406]리바록사반(미분화)",
+ "main_item_ingr_eng": "Rivaroxaban Micronized",
+ "edi_code": "654005620",
+ "atc_code": "B01AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003722",
+ "revisions": [
+  {
+   "revision_id": "202003722-6e038a26",
+   "content_sha256": "6e038a26ae9eaa40496e05fc15fcf3dc2b80601e30581436e4757f22d30dce57",
+   "ee_text": "1. 비판막성 심방세동 환자에서 뇌졸중 및 전신 색전증의 위험 감소 2. 심재성 정맥혈전증 및 폐색전증의 치료 3. 심재성 정맥혈전증 및 폐색전증의 재발 위험 감소 4. 하지의 주요 정형외과 수술(슬관절 또는 고관절 치환술)을 받은 성인 환자의 정맥혈전색전증 예방",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:36Z",
+   "last_observed_at": "2026-09-06T21:46:36Z",
+   "official_revision_date": "2021-08-23"
+  },
+  {
+   "revision_id": "202003722-461aff52",
+   "content_sha256": "461aff525f450ef7fe2e5a35910b47ed5a418237a381d50d29cac5f7d9005d0e",
+   "ee_text": "1. 비판막성 심방세동 환자에서 뇌졸중 및 전신 색전증의 위험 감소 2. 심재성 정맥혈전증 및 폐색전증의 치료 3. 심재성 정맥혈전증 및 폐색전증의 재발 위험 감소 4. 하지의 주요 정형외과 수술(슬관절 또는 고관절 치환술)을 받은 성인 환자의 정맥혈전색전증 예방 5. 심장표지자(cardiac biomarker) 상승을 동반한 급성관상동맥증후군을 경험한 환자에서 아스피린과의 병용 혹은 아스피린 및 클로피도그렐과 병용투여 시 죽상동맥혈전성 사건(심혈관계 이상으로 인한 사망, 심근경색)의 발생률 감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-05-21",
+   "first_observed_at": "2026-09-06T21:46:36Z",
+   "last_observed_at": "2026-09-06T21:46:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:36Z"
+}

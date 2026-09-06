@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202009238",
+ "item_name": "에너제어흡입용캡슐150/50/160마이크로그램",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20201224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070188]모메타손푸로에이트|[M259646]글리코피로니움브롬화물|[M265151]인다카테롤아세트산염",
+ "main_item_ingr_eng": "Glycopyrronium Bromide/Indacaterol Acetate/Mometasone Furoate",
+ "edi_code": "653603360",
+ "atc_code": "R03AL12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009238",
+ "revisions": [
+  {
+   "revision_id": "202009238-0067acc9",
+   "content_sha256": "0067acc9de7e5202eeb1b100d21f8c85793d328a0d625166e4bab5683faae080",
+   "ee_text": "지속성 베타2 효능약과 흡입 코르티코스테로이드제의 병용 유지 요법으로 적절히 조절되지 않는 성인 천식 환자의 1일 1회 천식 유지 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:52Z",
+   "last_observed_at": "2026-09-06T21:46:52Z",
+   "official_revision_date": "2020-12-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:52Z"
+}

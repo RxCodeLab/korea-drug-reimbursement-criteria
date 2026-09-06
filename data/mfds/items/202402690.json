@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402690",
+ "item_name": "암부트라프리필드시린지주(부트리시란나트륨)",
+ "entp_name": "메디슨파마코리아주식회사",
+ "permit_date": "20241115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285035]부트리시란나트륨",
+ "main_item_ingr_eng": "Vutrisiran Sodium",
+ "edi_code": "079900011",
+ "atc_code": "N07XX18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402690",
+ "revisions": [
+  {
+   "revision_id": "202402690-713dcaa2",
+   "content_sha256": "713dcaa29261ed3c216d7f45a8ca2ebfa1a5f5711c55f8b9966d0c9f1d65118a",
+   "ee_text": "트랜스티레틴 가족성 아밀로이드성 다발신경병증 (1단계 또는 2단계 다발신경병증이 있는 성인 환자) 정상형(wild type) 또는 유전성 트랜스티레틴 아밀로이드성 심근병증(ATTR-CM) 성인 환자의 심혈관계 사망, 심혈관계 관련 입원 및 심부전으로 인한 긴급 내원의 감소",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:52Z",
+   "last_observed_at": "2026-09-06T21:47:52Z",
+   "official_revision_date": "2026-03-26"
+  },
+  {
+   "revision_id": "202402690-214efd61",
+   "content_sha256": "214efd61c9c4f02d0dbfe4ba8ab6636d7cc9bb080407847ebb3d8bccd1814417",
+   "ee_text": "트랜스티레틴 가족성 아밀로이드성 다발신경병증 (1단계 또는 2단계 다발신경병증이 있는 성인 환자)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-11-15",
+   "first_observed_at": "2026-09-06T21:47:52Z",
+   "last_observed_at": "2026-09-06T21:47:52Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:52Z"
+}

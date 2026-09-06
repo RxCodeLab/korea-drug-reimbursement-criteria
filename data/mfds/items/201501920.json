@@ -7,7 +7,7 @@
  "permit_date": "20150409",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223240]토코페롤아세테이트|[M051015]알란토인|[M222973]디펜히드라민염산염|[M203915]클로르헥시딘염산염|[M223353]히드로코르티손아세테이트|[M204422]dl-메틸에페드린염산염|[M040131]리도카인",
+ "main_item_ingr": "[M040131]리도카인|[M051015]알란토인|[M203915]클로르헥시딘염산염|[M204422]dl-메틸에페드린염산염|[M222973]디펜히드라민염산염|[M223240]토코페롤아세테이트|[M223353]히드로코르티손아세테이트",
  "main_item_ingr_eng": "Allantoin/Chlorhexidine Hydrochloride/DL-Methylephedrine Hydrochloride/Diphenhydramine Hydrochloride/Hydrocortisone Acetate/Lidocaine/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "C05AA01",
@@ -20,7 +20,8 @@
    "ee_text": "치열ㆍ치핵의 아픔ㆍ가려움, 부종(부기)ㆍ출혈의 일시적 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201501920/EE",
    "first_observed_at": "2026-08-27T12:29:52Z",
-   "last_observed_at": "2026-08-28T13:24:42Z"
+   "last_observed_at": "2026-09-06T21:45:23Z",
+   "normalizer_version": 3
   }
  ]
 }

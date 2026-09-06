@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605864",
+ "item_name": "케프라엑스알서방정500밀리그램(레비티라세탐)",
+ "entp_name": "한국유씨비제약(주)",
+ "permit_date": "20160930",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096537]레비티라세탐",
+ "main_item_ingr_eng": "Levetiracetam",
+ "edi_code": "654100860",
+ "atc_code": "N03AX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605864",
+ "revisions": [
+  {
+   "revision_id": "201605864-57b77635",
+   "content_sha256": "57b77635f186717f0f8d9af180f38fdde241d8eccbe1a4a45e4847e12b6c9394",
+   "ee_text": "1. 단독요법 : 처음 뇌전증으로 진단된 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(12세 이상) 2. 부가요법 : 기존 1차 뇌전증치료제 투여로 적절하게 조절이 되지 않는 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(12세 이상)",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:44Z",
+   "last_observed_at": "2026-09-06T21:45:44Z",
+   "official_revision_date": "2021-04-02"
+  },
+  {
+   "revision_id": "201605864-6c5587f0",
+   "content_sha256": "6c5587f0b7c8fae4da6fa70a57f5f28d25d85de7365eeb59e17e0c4a0c67ec4b",
+   "ee_text": "부가요법 기존 1차 간질치료제 투여로 적절하게 조절이 되지 않는 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(12세 이상)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:45:44Z",
+   "last_observed_at": "2026-09-06T21:45:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:44Z"
+}

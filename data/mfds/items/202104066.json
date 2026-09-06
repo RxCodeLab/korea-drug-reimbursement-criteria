@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104066",
+ "item_name": "트렘피어원프레스오토인젝터주(구셀쿠맙,유전자재조합)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20210524",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266258]구셀쿠맙",
+ "main_item_ingr_eng": "Guselkumab",
+ "edi_code": "646902511",
+ "atc_code": "L04AC16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104066",
+ "revisions": [
+  {
+   "revision_id": "202104066-9a0a2b44",
+   "content_sha256": "9a0a2b444cfaf0997464833b1bb6142dc4233426c85fedc707c50b12acf2142b",
+   "ee_text": "1. 판상 건선 광선 요법 또는 전신치료요법을 필요로 하는 중등도에서 중증의 성인 판상 건선의 치료 2. 손발바닥 농포증 보편적인 치료에 반응이 불충분한 중등도에서 중증의 성인 손발바닥 농포증의 치료 3. 건선성 관절염 이전에 DMARDs(disease-modifying anti-rheumatic drug)에 대한 반응이 적절하지 않거나 내약성이 없는 성인 활동성 건선성 관절염의 치료 4. 궤양성 대장염 및 크론병 보편적인 치료제, 생물학적 제제 또는 소분자약제 등에 적절히 반응하지 않거나, 반응이 없어지거나, 내약성이 없는 중등도에서 중증의 성인 활성 궤양성 대장염 또는 크론병의 치료",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:19Z",
+   "last_observed_at": "2026-09-06T21:47:19Z",
+   "official_revision_date": "2025-08-21"
+  },
+  {
+   "revision_id": "202104066-1550a9e2",
+   "content_sha256": "1550a9e2a0320af9b0b4f76ce068cae03f71a1a764f3c46a5c6c7b02c207379c",
+   "ee_text": "1. 판상 건선 광선 요법 또는 전신치료요법을 필요로 하는 중등도에서 중증의 성인 판상 건선의 치료. 2. 손발바닥 농포증 보편적인 치료에 반응이 불충분한 중등도에서 중증의 성인 손발바닥 농포증의 치료. 3. 건선성 관절염 이전에 DMARDs(disease-modifying anti-rheumatic drug)에 대한 반응이 적절하지 않거나 내약성이 없는 성인 활동성 건선성 관절염의 치료.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-05-24",
+   "first_observed_at": "2026-09-06T21:47:19Z",
+   "last_observed_at": "2026-09-06T21:47:19Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:19Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201202527",
+ "item_name": "카바글루확산정200밀리그램(카르글루민산)",
+ "entp_name": "(주)삼오제약",
+ "permit_date": "20120403",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254317]카르글루민산",
+ "main_item_ingr_eng": "Carglumic Acid",
+ "edi_code": "659700920",
+ "atc_code": "A16AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201202527",
+ "revisions": [
+  {
+   "revision_id": "201202527-e5bc81cf",
+   "content_sha256": "e5bc81cfa2fbf298f221d4709a4a46772eedf3288f27892a1ec933d13220fb17",
+   "ee_text": "NAGS(N-acetylglutamate synthase) 결핍 또는 이소발레르산혈증 또는 메틸말론산혈증 또는 프로피온산혈증으로 인한 고암모니아혈증",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:50Z",
+   "last_observed_at": "2026-09-06T21:44:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:50Z"
+}

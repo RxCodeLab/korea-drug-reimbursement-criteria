@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403353",
+ "item_name": "감마-글로불린주(사람면역글로불린)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20041115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100202]사람면역글로불린-지",
+ "main_item_ingr_eng": "Human Normal Immunoglobulin G",
+ "edi_code": "",
+ "atc_code": "J06BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403353",
+ "revisions": [
+  {
+   "revision_id": "200403353-df67b7d6",
+   "content_sha256": "df67b7d6603305d6fc65a01ce68165300282a10c152f373777f68bf566fc0dc9",
+   "ee_text": "1. 저 및 무감마글로불린혈증 2. 다음 바이러스성 질환의 예방 및 증상 경감 : 홍역, A형 간염, 폴리오",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:23Z",
+   "last_observed_at": "2026-09-06T21:44:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:23Z"
+}

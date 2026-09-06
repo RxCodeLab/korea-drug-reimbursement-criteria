@@ -12,16 +12,17 @@
  "edi_code": "053500130",
  "atc_code": "N01BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801686",
+ "history_fetched_at": "2026-08-28T13:24:59Z",
  "revisions": [
   {
-   "revision_id": "201801686-84c40fc2",
-   "content_sha256": "84c40fc27762957bb7499ea05792f4f11f08879d4b58d940c22de3c997b7a9ef",
-   "ee_text": "- 침윤마취 - 치관 및 가공의치의 절단 및 설치 - 잇몸근처 및 잇몸하 스케일링\" />",
+   "revision_id": "201801686-39a10d3a",
+   "content_sha256": "39a10d3a41006ce3c54cc8322487b1c889d9d4212e38aded702a5c2881c15d9e",
+   "ee_text": "다음과 같은 구강점막의 국소마취 - 침윤마취 - 치관 및 가공의치의 절단 및 설치 - 잇몸근처 및 잇몸하 스케일링",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:24:59Z",
-   "last_observed_at": "2026-08-28T13:24:59Z",
-   "official_revision_date": "2018-04-20"
+   "last_observed_at": "2026-09-06T21:45:58Z",
+   "official_revision_date": "2018-04-20",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:59Z"
+ ]
 }

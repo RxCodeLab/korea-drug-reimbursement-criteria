@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403374",
+ "item_name": "녹십자-히스토불린주(건조히스타민가사람면역글로불린)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20041115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100202]사람면역글로불린-지|[M246436]히스타민염산염",
+ "main_item_ingr_eng": "Histamine Dihydrochloride/Human Normal Immunoglobulin G",
+ "edi_code": "",
+ "atc_code": "J06BB30",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403374",
+ "revisions": [
+  {
+   "revision_id": "200403374-924e62ec",
+   "content_sha256": "924e62eccfd14b90b9184913b56954cc598c28c4b317f5dd3bc8a94286757389",
+   "ee_text": "기관지 천식, 만성 두드러기, 알레르기성 비염",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:23Z",
+   "last_observed_at": "2026-09-06T21:44:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:23Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600308",
+ "item_name": "이잠비아프리필드시린지(데노수맙)",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20260204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260379]데노수맙",
+ "main_item_ingr_eng": "Denosumab",
+ "edi_code": "640008101",
+ "atc_code": "M05BX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600308",
+ "revisions": [
+  {
+   "revision_id": "202600308-e839726b",
+   "content_sha256": "e839726bd024d2b7cab9d55579eec5a49dcaeedd1aadb22d8fe44565f19fecf3",
+   "ee_text": "1. 폐경 후 여성 골다공증 환자의 치료 2. 남성 골다공증 환자의 골밀도 증가를 위한 치료 3. 글루코코르티코이드 유발성 골다공증의 치료 4. 안드로겐 차단요법을 받고 있는 비전이성 전립선암 환자의 골 소실 치료 5. 아로마타제 저해제 보조요법을 받고 있는 여성 유방암 환자의 골 소실 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:48:01Z",
+   "last_observed_at": "2026-09-06T21:48:01Z",
+   "official_revision_date": "2026-02-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:48:01Z"
+}

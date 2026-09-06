@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908209",
+ "item_name": "에이베리스점안액0.002%(오미데네팍이소프로필)(1회용), 에이베리스점안액0.002%(오미데네팍이소프로필)",
+ "entp_name": "한국산텐제약(주)",
+ "permit_date": "20191203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269683]오미데네팍이소프로필|[M269683]오미데네팍이소프로필",
+ "main_item_ingr_eng": "Omidenepag Isopropyl",
+ "edi_code": "665600301,665600351",
+ "atc_code": "S01EX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908209",
+ "revisions": [
+  {
+   "revision_id": "201908209-12e18226",
+   "content_sha256": "12e18226622fcbd722adb9c0717cba630d27742d883697f294a0801a4685775b",
+   "ee_text": "다음의 질환의 안압하강 : 개방각 녹내장, 고안압증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:25Z",
+   "last_observed_at": "2026-09-06T21:46:25Z",
+   "official_revision_date": "2019-12-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:25Z"
+}

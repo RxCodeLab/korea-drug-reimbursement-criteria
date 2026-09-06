@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "N02CD02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003590",
+ "history_fetched_at": "2026-08-27T12:03:29Z",
  "revisions": [
   {
    "revision_id": "202003590-6fb57dc5",
@@ -19,9 +20,9 @@
    "ee_text": "간헐적 군발 두통 성인 환자에서 군발 기간 동안 군발 두통 발작의 감소",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:03:29Z",
-   "last_observed_at": "2026-08-27T12:03:29Z",
-   "official_revision_date": "2020-05-18"
+   "last_observed_at": "2026-09-06T21:46:36Z",
+   "official_revision_date": "2020-05-18",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:03:29Z"
+ ]
 }

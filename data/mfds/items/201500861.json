@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500861",
+ "item_name": "심퍼니주(골리무맙, 유전자재조합)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20150217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255195]골리무맙(유전자재조합, 숙주 : Sp2/0-Ag14, 벡터 : p1860, p1865)",
+ "main_item_ingr_eng": "Golimumab (rDNA, Host: Sp2/0-Ag14, Vector : p1860, p1865)",
+ "edi_code": "646902051",
+ "atc_code": "L04AB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500861",
+ "revisions": [
+  {
+   "revision_id": "201500861-c9a6d735",
+   "content_sha256": "c9a6d7350e05a01b672be573fa36ad3ecc26e60a2429a747c20cd3f1cdb28e9d",
+   "ee_text": "1. 류마티스 관절염 이 약은 메토트렉세이트와 병용하여 투여한다. 메토트렉세이트를 포함한 질환완화약제(DMARDs) 치료에 불충분한 반응을 보인 성인 환자에서 중등도에서 중증의 활성 류마티스 관절염의 치료 이 약은 관절 손상 진행 속도를 감소시키고(X-선 측정 결과) 신체 활동 기능을 향상시킨다. 2. 건선성 관절염 이 약은 단독 또는 메토트렉세이트와 병용하여 투여한다. 기존의 질환완화약제(DMARDs) 치료에 불충분한 반응을 보인 성인 환자에서 활성 건선성 관절염의 치료 이 약은 X선으로 측정했을 때 질환과 관련된 구조적 손상 진행의 지연 및 신체 활동 기능을 향상시킨다. 3. 강직성 척추염 보편적인 치료에 불충분한 반응을 보인 성인 환자에서 중등도에서 중증의 활성 강직성 척추염의 치료",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:21Z",
+   "last_observed_at": "2026-09-06T21:45:21Z",
+   "official_revision_date": "2017-12-27"
+  },
+  {
+   "revision_id": "201500861-8e7038c6",
+   "content_sha256": "8e7038c6c374d116c0482a7ba69e5c05baa8f28c7937043a82e1441490a3094f",
+   "ee_text": "류마티스 관절염 이 약은 메토트렉세이트와 병용하여 투여한다. 메토트렉세이트를 포함한 질환완화약제(DMARDs) 치료에 불충분한 반응을 보인 성인 환자에서 중등도에서 중증의 활성 류마티스 관절염의 치료 이 약은 관절 손상 진행 속도를 감소시키고(X-선 측정 결과) 신체 활동 기능을 향상시킨다.",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:45:21Z",
+   "last_observed_at": "2026-09-06T21:45:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:21Z"
+}

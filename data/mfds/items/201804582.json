@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804582",
+ "item_name": "엑스케인크림(리도카인)",
+ "entp_name": "(주)인트로바이오파마",
+ "permit_date": "20181119",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804582",
+ "revisions": [
+  {
+   "revision_id": "201804582-643d4e1b",
+   "content_sha256": "643d4e1b22d0628f41c667e523b04a970ee3df8a976a411ca18ff233aa11b98b",
+   "ee_text": "남성 성기 촉각의 예민성 감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:03Z",
+   "last_observed_at": "2026-09-06T21:46:03Z",
+   "official_revision_date": "2018-11-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:03Z"
+}

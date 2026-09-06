@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502412",
+ "item_name": "테바도네페질구강붕해정5밀리그램(도네페질염산염일수화물)",
+ "entp_name": "(주)한독테바",
+ "permit_date": "20150423",
+ "cancel_date": "20250423",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M232430]도네페질염산염일수화물",
+ "main_item_ingr_eng": "Donepezil Hydrochloride Monohydrate",
+ "edi_code": "",
+ "atc_code": "N06DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502412",
+ "revisions": [
+  {
+   "revision_id": "201502412-9f426fa1",
+   "content_sha256": "9f426fa1ed8b6229740fe8f1a36ff9d60501a1c17a6ffe386a0f6b5d0acd47fa",
+   "ee_text": "알츠하이머형 치매증상의 치료",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:23Z",
+   "last_observed_at": "2026-09-06T21:45:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:23Z"
+}

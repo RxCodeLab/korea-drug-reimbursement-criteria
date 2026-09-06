@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502560",
+ "item_name": "빈다켈캡슐20밀리그램(타파미디스메글루민염)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20150428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261964]타파미디스메글루민염(미분화)",
+ "main_item_ingr_eng": "Tafamidis Meglumine Micronized",
+ "edi_code": "648902910",
+ "atc_code": "N07XX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502560",
+ "revisions": [
+  {
+   "revision_id": "201502560-53da4481",
+   "content_sha256": "53da4481c917053235d491eb616010e47a28311fe026684cdb6d0e3ddfb913f8",
+   "ee_text": "트랜스티레틴 가족성 아밀로이드성 다발신경병증(이 약은 1단계 증후성 다발신경병증 성인 환자에서 말초신경 손상을 지연시킨다.)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:24Z",
+   "last_observed_at": "2026-09-06T21:45:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:24Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904305",
+ "item_name": "아로나민케어디엠정",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20190621",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040262]산화마그네슘|[M212136]유비데카레논10%|[M223289]폴산|[M255819]토코페롤아세테이트 2배산|[M256157]시아노코발라민100배산|[M258994]아스코르브산",
+ "main_item_ingr_eng": "Ascorbic Acid/Cyanocobalamin Powder 1%/Folic Acid/Magnesium Oxide/Tocopherol Acetate Powder 50%/Ubidecarenone 10%",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904305",
+ "revisions": [
+  {
+   "revision_id": "201904305-c31e172d",
+   "content_sha256": "c31e172d4d13b9bbcfe3605586889309a791f0264365e0a927e32dffcefbdbbc",
+   "ee_text": "○ 다음경우의 비타민 E, C의 보급 - 육체피로- 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:16Z",
+   "last_observed_at": "2026-09-06T21:46:16Z",
+   "official_revision_date": "2019-06-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:16Z"
+}

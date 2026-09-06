@@ -7,7 +7,7 @@
  "permit_date": "20251028",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M260057]엠파글리플로진|[M268745]리나글립틴(미분화)|[M244179]메트포르민염산염",
+ "main_item_ingr": "[M244179]메트포르민염산염|[M260057]엠파글리플로진|[M268745]리나글립틴(미분화)",
  "main_item_ingr_eng": "Empagliflozin/Linagliptin Micronized/Metformin Hydrochloride",
  "edi_code": "",
  "atc_code": "",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:40:36Z",
  "revisions": [
   {
-   "revision_id": "202502780-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202502780-2492aac3",
+   "content_sha256": "2492aac33058af0ec6305289e6c146bcac06aba6fc49225c07c2d45be11b7ea9",
+   "ee_text": "이 약은 엠파글리플로진과 리나글립틴과 메트포르민의 병용투여가 적합한 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202502780/EE",
    "first_observed_at": "2026-08-27T12:40:36Z",
-   "last_observed_at": "2026-08-28T13:25:38Z"
+   "last_observed_at": "2026-09-06T21:47:59Z",
+   "normalizer_version": 3
   }
  ]
 }

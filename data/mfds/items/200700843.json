@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "S01XA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700843",
+ "history_fetched_at": "2026-08-28T13:24:11Z",
  "revisions": [
   {
    "revision_id": "200700843-4a35340c",
@@ -19,7 +20,8 @@
    "ee_text": "야맹증, 눈의 건조감의 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200700843/EE",
    "first_observed_at": "2026-08-28T13:24:11Z",
-   "last_observed_at": "2026-08-28T13:24:11Z"
+   "last_observed_at": "2026-09-06T21:44:34Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200700843-84c16ed8",
@@ -39,6 +41,5 @@
    "first_observed_at": "2026-08-28T13:24:11Z",
    "last_observed_at": "2026-08-28T13:24:11Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:11Z"
+ ]
 }

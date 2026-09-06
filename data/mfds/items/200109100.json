@@ -7,11 +7,12 @@
  "permit_date": "20010206",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M257129]포르모테롤푸마르산염수화물|[M256708]부데소니드(미분화)",
+ "main_item_ingr": "[M256708]부데소니드(미분화)|[M257129]포르모테롤푸마르산염수화물",
  "main_item_ingr_eng": "Budesonide Micronized/Formoterol Fumarate Hydrate",
  "edi_code": "650700291",
  "atc_code": "R03AK07",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109100",
+ "history_fetched_at": "2026-08-28T13:23:59Z",
  "revisions": [
   {
    "revision_id": "200109100-418ce448",
@@ -19,9 +20,9 @@
    "ee_text": "천식환자의 치료",
    "ee_doc_id": "16",
    "first_observed_at": "2026-08-28T13:23:59Z",
-   "last_observed_at": "2026-08-28T13:23:59Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:44:17Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:59Z"
+ ]
 }

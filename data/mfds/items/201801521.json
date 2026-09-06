@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801521",
+ "item_name": "스텔라라정맥주사(우스테키누맙)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20180406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252411]우스테키누맙",
+ "main_item_ingr_eng": "Ustekinumab",
+ "edi_code": "646902251",
+ "atc_code": "L04AC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801521",
+ "revisions": [
+  {
+   "revision_id": "201801521-789aa16e",
+   "content_sha256": "789aa16e6ba30725b15a4a34e175ce7832086d16c4ba1fa64d9ce654a8ddb36b",
+   "ee_text": "성인 1. 크론병 코르티코스테로이드제 또는 면역억제제 또는 TNF-α 저해제 치료에 반응을 나타내지 않거나, 내약성이 없는 경우 또는 이러한 치료방법이 금기인 중등증에서 중증의 활성 크론병의 치료 2. 궤양성 대장염 코르티코스테로이드제 또는 면역억제제 또는 생물의약품(TNF-α 저해제 또는 인테그린 저해제) 치료에 반응을 나타내지 않거나, 내약성이 없는 경우 또는 이러한 치료방법이 금기인 중등도에서 중증의 활성 궤양성 대장염의 치료",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:57Z",
+   "last_observed_at": "2026-09-06T21:45:57Z",
+   "official_revision_date": "2019-11-21"
+  },
+  {
+   "revision_id": "201801521-48777369",
+   "content_sha256": "48777369cc1f0f8e4e09f0a78039ae16a5845ea7fbbb31b97014696324a05f39",
+   "ee_text": "성인 크론병 코르티코스테로이드제 또는 면역억제제 또는 TNF-α 저해제 치료에 반응을 나타내지 않거나, 내약성이 없는 경우 또는 이러한 치료방법이 금기인 중등도에서 중증의 활성 크론병의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-04-06",
+   "first_observed_at": "2026-09-06T21:45:57Z",
+   "last_observed_at": "2026-09-06T21:45:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:57Z"
+}

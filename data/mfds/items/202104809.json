@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104809",
+ "item_name": "치오맥스연고",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20210623",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인|[M051015]알란토인|[M223240]토코페롤아세테이트|[M223298]프레드니솔론아세테이트|[M264046]DL-메틸에페드린염산염",
+ "main_item_ingr_eng": "Allantoin/DL-Methylephedrine Hydrochloride/Lidocaine/Prednisolone Acetate/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "C05AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104809",
+ "revisions": [
+  {
+   "revision_id": "202104809-09f57f5f",
+   "content_sha256": "09f57f5f32264c84ed33845dd2fe978748463d4dec82f280c304fa84f7f19db5",
+   "ee_text": "치열ㆍ치핵의 아픔ㆍ가려움ㆍ부종(부기)ㆍ출혈의 일시적 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:21Z",
+   "last_observed_at": "2026-09-06T21:47:21Z",
+   "official_revision_date": "2021-06-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:21Z"
+}

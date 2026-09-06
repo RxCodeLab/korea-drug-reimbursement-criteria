@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:37:56Z",
  "revisions": [
   {
-   "revision_id": "200403500-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200403500-28dc6bcd",
+   "content_sha256": "28dc6bcd0036e625dd4c54383c2d01515a374a751b2a2b5f4e3d0ecd82405acb",
+   "ee_text": "1. 정맥림프 기능부전과 관련된 증상개선(하지둔중감, 통증, 하지불안증상) 2. 유방암 치료로 인한 림프부종(특히, 피부긴장의 자각증상)의 보조요법제로 물리 치료 시 병용",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200403500/EE",
    "first_observed_at": "2026-08-27T13:37:56Z",
-   "last_observed_at": "2026-08-28T13:24:06Z"
+   "last_observed_at": "2026-09-06T21:44:24Z",
+   "normalizer_version": 3
   }
  ]
 }

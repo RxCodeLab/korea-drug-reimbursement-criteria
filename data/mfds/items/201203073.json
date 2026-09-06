@@ -7,7 +7,7 @@
  "permit_date": "20120420",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M281737]에스트라디올발레레이트(미분화)|[M252442]디에노게스트(미분화)|[M281737]에스트라디올발레레이트(미분화)|[M252442]디에노게스트(미분화)|[M281737]에스트라디올발레레이트(미분화)|[M281737]에스트라디올발레레이트(미분화)",
+ "main_item_ingr": "[M252442]디에노게스트(미분화)|[M252442]디에노게스트(미분화)|[M281737]에스트라디올발레레이트(미분화)|[M281737]에스트라디올발레레이트(미분화)|[M281737]에스트라디올발레레이트(미분화)|[M281737]에스트라디올발레레이트(미분화)",
  "main_item_ingr_eng": "Dienogest Micronized/Estradiol Valerate Micronized",
  "edi_code": "",
  "atc_code": "G03AB08",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:13:11Z",
  "revisions": [
   {
-   "revision_id": "201203073-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201203073-ea3195ac",
+   "content_sha256": "ea3195aca6f7c98535edeef6db857c9a46d551568d6e112329a846bd4f95941f",
+   "ee_text": "1. 경구피임 2. 피임법으로 경구 피임제를 선택한 여성에 한하여 기질적 원인이 없는 월경과다.",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201203073/EE",
    "first_observed_at": "2026-08-27T12:13:11Z",
-   "last_observed_at": "2026-08-28T13:24:27Z"
+   "last_observed_at": "2026-09-06T21:44:51Z",
+   "normalizer_version": 3
   }
  ]
 }

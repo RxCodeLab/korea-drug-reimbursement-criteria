@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108815",
+ "item_name": "지스로맥스주사500㎎(아지트로마이신수화물)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20010712",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250781]아지트로마이신수화물",
+ "main_item_ingr_eng": "Azithromycin Hydrate",
+ "edi_code": "648900891",
+ "atc_code": "J01FA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108815",
+ "revisions": [
+  {
+   "revision_id": "200108815-cd9a5196",
+   "content_sha256": "cd9a5196446b1ef0fa3eef8131182b760ac754d2d23234696bb5d43c5813ba8a",
+   "ee_text": "1. 유효균종 황색포도구균, 폐렴연쇄구균, 화농성연쇄구균(A군), 기타 연쇄구균속, 헤모필루스 인플루엔자, 헤모필루스 파라인플루엔자, 브란하멜라 카타라시스, 박테로이드 후라질리스, 대장균, 백일해균, 파라백일해균, 보렐리아 부르그도르페리, 헤모필루스 듀크레이, 임균, 트라코마 클라미디아, 레지오넬라 뉴모필라, 마이코플라스마 폐렴균, 마이코플라스마 호미니스, 캄필러박터속, 톡소플라스마 곤디어, 매독 트레포네마 2. 적응증 지역사회획득성 폐렴 골반감염증",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:17Z",
+   "last_observed_at": "2026-09-06T21:44:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:17Z"
+}

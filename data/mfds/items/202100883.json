@@ -9,7 +9,7 @@
  "status": "유효기간만료",
  "main_item_ingr": "[M256941]도네페질염산염수화물",
  "main_item_ingr_eng": "Donepezil Hydrochloride Hydrate",
- "edi_code": "645306610",
+ "edi_code": "",
  "atc_code": "N06DA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100883",
  "history_fetched_at": "2026-08-27T08:02:17Z",
@@ -20,7 +20,8 @@
    "ee_text": "중등도에서 중증의 알츠하이머형 치매증상의 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202100883/EE",
    "first_observed_at": "2026-08-27T08:02:17Z",
-   "last_observed_at": "2026-08-28T13:25:23Z"
+   "last_observed_at": "2026-09-06T21:46:59Z",
+   "normalizer_version": 3
   }
  ]
 }

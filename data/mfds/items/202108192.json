@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202108192",
+ "item_name": "펙수클루정40밀리그램(펙수프라잔염산염)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20211230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281896]펙수프라잔염산염",
+ "main_item_ingr_eng": "Fexuprazan Hydrochloride",
+ "edi_code": "641607630",
+ "atc_code": "A02BC10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108192",
+ "revisions": [
+  {
+   "revision_id": "202108192-952e94b5",
+   "content_sha256": "952e94b5224bd2d8c6bde8acbd0d048882425363c38c0fa645e57f00926f049e",
+   "ee_text": "1. 미란성 위식도역류질환의 치료 2. 헬리코박터파일로리 제균을 위한 항생제 병용요법",
+   "ee_doc_id": "29",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:29Z",
+   "last_observed_at": "2026-09-06T21:47:29Z",
+   "official_revision_date": "2026-04-30"
+  },
+  {
+   "revision_id": "202108192-37f5cbb7",
+   "content_sha256": "37f5cbb774107ef31ff62daacdd6a541e292aef4de53c62dd417b76021b3f4a7",
+   "ee_text": "미란성 위식도역류질환의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-12-30",
+   "first_observed_at": "2026-09-06T21:47:29Z",
+   "last_observed_at": "2026-09-06T21:47:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:29Z"
+}

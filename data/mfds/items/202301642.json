@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301642",
+ "item_name": "캄지오스캡슐15밀리그램(마바캄텐)",
+ "entp_name": "(유)한국비엠에스제약",
+ "permit_date": "20230523",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283801]마바캄텐(미분화)",
+ "main_item_ingr_eng": "Mavacamten Micronized",
+ "edi_code": "658700810",
+ "atc_code": "C01EB24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301642",
+ "revisions": [
+  {
+   "revision_id": "202301642-e5599396",
+   "content_sha256": "e5599396da518feb4bbc509bd45ab23005d3e70aa351a8adadbc065eb23eb8f1",
+   "ee_text": "증상성(NYHA class II-III) 폐색성 비대성 심근병증 성인 환자의 운동 기능 및 증상 개선을 위한 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:44Z",
+   "last_observed_at": "2026-09-06T21:47:44Z",
+   "official_revision_date": "2023-05-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:44Z"
+}

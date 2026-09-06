@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005887",
+ "item_name": "빈다맥스캡슐61밀리그램(타파미디스)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20200819",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279366]타파미디스",
+ "main_item_ingr_eng": "Tafamidis",
+ "edi_code": "648903510",
+ "atc_code": "N07XX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005887",
+ "revisions": [
+  {
+   "revision_id": "202005887-9a421919",
+   "content_sha256": "9a4219198154a5d08f6010f59d00d0f248b106a99643195fc17ac75155fa949d",
+   "ee_text": "정상형(wild type) 또는 유전성 트랜스티레틴 아밀로이드성 심근병증(ATTR-CM) 성인 환자의 심혈관계 사망률 및 심혈관계 관련 입원의 감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:45Z",
+   "last_observed_at": "2026-09-06T21:46:45Z",
+   "official_revision_date": "2020-08-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:45Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200703274",
+ "item_name": "토피솔밀크로션(메틸프레드니솔론아세폰산염)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20070320",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M241237]메틸프레드니솔론아세폰산염",
+ "main_item_ingr_eng": "Methylprednisolone Aceponate",
+ "edi_code": "670301772,670301773,670301775",
+ "atc_code": "D07AC14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703274",
+ "revisions": [
+  {
+   "revision_id": "200703274-d77faf26",
+   "content_sha256": "d77faf26f4e448c0bd89e3d185bf122e5e3aa3482f804f4390f757ee62e9dc14",
+   "ee_text": "습진(아토피피부염, 심상성습진 등)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:35Z",
+   "last_observed_at": "2026-09-06T21:44:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:35Z"
+}

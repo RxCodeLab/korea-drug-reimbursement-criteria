@@ -7,11 +7,12 @@
  "permit_date": "20111229",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M204423]dl-캄파|[M252019]부테나핀염산염|[M203064]리도카인염산염일수화물",
+ "main_item_ingr": "[M203064]리도카인염산염일수화물|[M204423]dl-캄파|[M252019]부테나핀염산염",
  "main_item_ingr_eng": "Butenafine Hydrochloride/DL-Camphor/Lidocaine Hydrochloride Monohydrate",
  "edi_code": "",
  "atc_code": "D01AE20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201112308",
+ "history_fetched_at": "2026-08-28T13:24:27Z",
  "revisions": [
   {
    "revision_id": "201112308-4a196b2a",
@@ -19,9 +20,9 @@
    "ee_text": "무좀, 완선(사타구니백선), 체부백선",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:24:27Z",
-   "last_observed_at": "2026-08-28T13:24:27Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:44:50Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:27Z"
+ ]
 }

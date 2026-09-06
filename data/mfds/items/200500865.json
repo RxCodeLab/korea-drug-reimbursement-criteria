@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "N01BB52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500865",
+ "history_fetched_at": "2026-08-28T13:24:07Z",
  "revisions": [
   {
-   "revision_id": "200500865-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200500865-83b86f81",
+   "content_sha256": "83b86f81666b8f2ccda367ba78012ab0048e9657539854201a35afc21ae11c80",
+   "ee_text": "1. 주사바늘 삽입시 또는 표재성 외과적 처치시 피부의 표면마취 2. 생식기 점막 표면마취(예 : 콘딜롬 제거전)",
    "ee_doc_id": "21",
    "first_observed_at": "2026-08-28T13:24:07Z",
-   "last_observed_at": "2026-08-28T13:24:07Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:44:26Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:07Z"
+ ]
 }

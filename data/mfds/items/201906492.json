@@ -12,6 +12,7 @@
  "edi_code": "670304351",
  "atc_code": "R03AL09",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906492",
+ "history_fetched_at": "2026-08-28T13:25:11Z",
  "revisions": [
   {
    "revision_id": "201906492-1c6c80cf",
@@ -19,8 +20,9 @@
    "ee_text": "1. 성인에서 지속성 베타2-효능약과 흡입용 코르티코스테로이드 병용요법으로 적절히 조절되지 않고 반복적 악화 이력이 있는 천식의 유지요법 2. 성인에서 지속성 베타2-효능약과 흡입용 코르티코스테로이드 병용요법 또는 지속성 베타2-효능약과 지속성 무스카린 수용체 길항제 병용요법으로 적절히 조절되지 않는 중증의 만성폐쇄성폐질환(COPD)의 유지요법 (증상 조절 및 악화 감소)",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:25:11Z",
-   "last_observed_at": "2026-08-28T13:25:11Z",
-   "official_revision_date": "2023-04-20"
+   "last_observed_at": "2026-09-06T21:46:21Z",
+   "official_revision_date": "2023-04-20",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201906492-a490cc3e",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:25:11Z",
    "last_observed_at": "2026-08-28T13:25:11Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:11Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410460",
+ "item_name": "에토미데이트리푸로주",
+ "entp_name": "비브라운코리아(주)",
+ "permit_date": "20260213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088929]에토미데이트",
+ "main_item_ingr_eng": "Etomidate",
+ "edi_code": "667400511",
+ "atc_code": "N01AX07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410460",
+ "revisions": [
+  {
+   "revision_id": "200410460-d1eb4e5c",
+   "content_sha256": "d1eb4e5c50a2b3799ba598ba9c759f2ee1b1b187dc18ae66436836be3e43ec09",
+   "ee_text": "전신마취 유도제",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:25Z",
+   "last_observed_at": "2026-09-06T21:44:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:25Z"
+}

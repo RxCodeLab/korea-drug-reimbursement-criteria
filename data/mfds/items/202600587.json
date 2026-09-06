@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600587",
+ "item_name": "동아제약비스무트차살리실산염현탁액",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20260226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251876]비스무트차살리실산염",
+ "main_item_ingr_eng": "Bismuth Subsalicylate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600587",
+ "revisions": [
+  {
+   "revision_id": "202600587-a3dbc434",
+   "content_sha256": "a3dbc43440be2700c981e62146649ee351b3c0f3a226caa628ef9f57ba92bd65",
+   "ee_text": "- 여행자 설사 및 설사의 완화 - 과식 및 과음으로 인한 복부 불편감 완화 : 속쓰림, 소화불량, 오심(구역), 가스, 트림, 복부팽만감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:48:02Z",
+   "last_observed_at": "2026-09-06T21:48:02Z",
+   "official_revision_date": "2026-02-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:48:02Z"
+}

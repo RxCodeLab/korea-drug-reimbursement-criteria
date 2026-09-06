@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201102738",
+ "item_name": "리브감마에스앤주5%[말토즈첨가사람면역글로불린(pH4.25)]",
+ "entp_name": "에스케이플라즈마(주)",
+ "permit_date": "20110428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100202]사람면역글로불린-지",
+ "main_item_ingr_eng": "Human Normal Immunoglobulin G",
+ "edi_code": "050800011,050800021,050800031,050800051,050800071,050800391",
+ "atc_code": "J06BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102738",
+ "revisions": [
+  {
+   "revision_id": "201102738-244c5992",
+   "content_sha256": "244c5992d62ce42d557264e03caa16a19528bec54a75ed9e9425e963957e8ada",
+   "ee_text": "1. 저 및 무감마글로불린혈증 2. 중증감염증에 항생물질 병용 3. 특발혈소판감소자색반병(타제가 무효로서 현저한 출혈경향이 있고, 외과적 처치 또는 출산 등 일시적 지혈관리를 필요로 하는 경우) 4. 길랑바레 증후군(급성특발다발신경염) 5. 가와사키병(관상동맥합병증 예방목적)",
+   "ee_doc_id": "43",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:46Z",
+   "last_observed_at": "2026-09-06T21:44:46Z",
+   "official_revision_date": "2020-08-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:46Z"
+}

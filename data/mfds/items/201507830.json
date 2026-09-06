@@ -7,11 +7,12 @@
  "permit_date": "20151123",
  "cancel_date": "20251123",
  "status": "유효기간만료",
- "main_item_ingr": "[M085155]시클로피록스올아민|[M222842]리도카인염산염수화물|[M040264]살리실산",
+ "main_item_ingr": "[M040264]살리실산|[M085155]시클로피록스올아민|[M222842]리도카인염산염수화물",
  "main_item_ingr_eng": "Ciclopirox Olamine/Lidocaine Hydrochloride Hydrate/Salicylic Acid",
  "edi_code": "",
  "atc_code": "D01AE",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507830",
+ "history_fetched_at": "2026-08-28T13:24:46Z",
  "revisions": [
   {
    "revision_id": "201507830-4a196b2a",
@@ -19,9 +20,9 @@
    "ee_text": "무좀, 완선(사타구니백선), 체부백선",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:24:46Z",
-   "last_observed_at": "2026-08-28T13:24:46Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:45:29Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:46Z"
+ ]
 }

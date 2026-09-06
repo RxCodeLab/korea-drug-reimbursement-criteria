@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501748",
+ "item_name": "티로피움흡입용캡슐(브롬화티오트로피움일수화물)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20150331",
+ "cancel_date": "20240926",
+ "status": "취하",
+ "main_item_ingr": "[M261811]브롬화티오트로피움일수화물(미분화)",
+ "main_item_ingr_eng": "Tiotropium Bromide Hydrate Micronized",
+ "edi_code": "",
+ "atc_code": "R03BB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501748",
+ "revisions": [
+  {
+   "revision_id": "201501748-c31ffbee",
+   "content_sha256": "c31ffbeedb3bbb6e6ecaa86717259be4b206c7cadad5b83f5b138a595c939e98",
+   "ee_text": "기관지확장제로 만성폐쇄성 폐질환의 유지요법제로 사용한다.",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:23Z",
+   "last_observed_at": "2026-09-06T21:45:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:23Z"
+}

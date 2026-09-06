@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603944",
+ "item_name": "덱사겔점안겔(덱사메타손인산나트륨)",
+ "entp_name": "(주)바슈헬스코리아",
+ "permit_date": "20060228",
+ "cancel_date": "20251001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M082700]덱사메타손인산나트륨",
+ "main_item_ingr_eng": "Dexamethasone Disodium Phosphate",
+ "edi_code": "",
+ "atc_code": "S01BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603944",
+ "revisions": [
+  {
+   "revision_id": "200603944-0bd410ec",
+   "content_sha256": "0bd410ecd8794ec23fc2f7150e1ec785f1796a94f2589fe0be063eec9cde2c31",
+   "ee_text": "외안부 및 전안부의 스테로이드 민감성 염증 : 안검염, 결막염, 홍채염",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:31Z",
+   "last_observed_at": "2026-09-06T21:44:31Z",
+   "official_revision_date": "2018-01-16"
+  },
+  {
+   "revision_id": "200603944-0298a820",
+   "content_sha256": "0298a820290fcd12886f0ea718db6f2a57d8276f106e9415f694651bffa82d3a",
+   "ee_text": "외안부 및 전안부의 스테로이드 민감성 염증 : 간검염, 결막염, 홍채염",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:44:31Z",
+   "last_observed_at": "2026-09-06T21:44:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:31Z"
+}

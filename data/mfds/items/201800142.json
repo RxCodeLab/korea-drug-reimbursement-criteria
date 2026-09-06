@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800142",
+ "item_name": "카노아정(콜린알포세레이트)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20180110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257700]콜린알포세레이트",
+ "main_item_ingr_eng": "Choline Alfoscerate",
+ "edi_code": "650204870",
+ "atc_code": "N07AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800142",
+ "revisions": [
+  {
+   "revision_id": "201800142-c6ed4bce",
+   "content_sha256": "c6ed4bced73a36daeea3af14805852b82b3dbc784a75f54f289ac349507c4f74",
+   "ee_text": "- 뇌혈관 결손에 의한 2차 증상 및 변성 또는 퇴행성 뇌기질성 정신증후군 : 기억력저하와 착란, 의욕 및 자발성저하로 인한 방향감각장애, 의욕 및 자발성 저하, 집중력감소 ☆국내임상시험결과 추가제출",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:55Z",
+   "last_observed_at": "2026-09-06T21:45:55Z",
+   "official_revision_date": "2021-07-28"
+  },
+  {
+   "revision_id": "201800142-97042eff",
+   "content_sha256": "97042effb79946804e6609a11620f1b5909efae39b57948db2958e33754f79a8",
+   "ee_text": "○ 뇌혈관 결손에 의한 2차 증상 및 변성 또는 퇴행성 뇌기질성 정신증후군 : 기억력저하와 착란, 의욕 및 자발성저하로 인한 방향감각장애, 의욕 및 자발성저하, 집중력 감소 ○ 감정 및 행동변화 : 정서불안, 자극과민성, 주위무관심 ○ 노인성 가성우울증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-01-10",
+   "first_observed_at": "2026-09-06T21:45:55Z",
+   "last_observed_at": "2026-09-06T21:45:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:55Z"
+}

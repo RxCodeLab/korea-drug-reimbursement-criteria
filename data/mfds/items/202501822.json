@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "H05AA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501822",
+ "history_fetched_at": "2026-08-27T12:02:17Z",
  "revisions": [
   {
    "revision_id": "202501822-9214efc2",
@@ -19,7 +20,8 @@
    "ee_text": "폐경기 이후 여성 및 골절의 위험이 높은 남성에 대한 골다공증의 치료 골절의 위험이 높은 여성 및 남성에 있어서 지속적인 글루코코르티코이드 요법과 관련된 골다공증의 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202501822/EE",
    "first_observed_at": "2026-08-27T12:02:17Z",
-   "last_observed_at": "2026-08-27T12:02:17Z"
+   "last_observed_at": "2026-09-06T21:47:57Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "202501822-fc4b62f3",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-27T12:02:17Z",
    "last_observed_at": "2026-08-27T12:02:17Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:02:17Z"
+ ]
 }

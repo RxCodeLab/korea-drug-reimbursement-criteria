@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007903",
+ "item_name": "락트케어로션12%(락트산암모늄액)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20201116",
+ "cancel_date": "20251116",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M268832]락트산암모늄액",
+ "main_item_ingr_eng": "Ammonium Lactate Solution",
+ "edi_code": "",
+ "atc_code": "D02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007903",
+ "revisions": [
+  {
+   "revision_id": "202007903-4a8fcb44",
+   "content_sha256": "4a8fcb44e44b2ada688fe866c0c586d3fea780ddafeb79c352c116aafd13a1fe",
+   "ee_text": "건조하고 거친 피부(건조증), 심상성어린선(魚鱗蘚)(보통어린선) 및 이로 인한 가려움의 일시적 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:51Z",
+   "last_observed_at": "2026-09-06T21:46:51Z",
+   "official_revision_date": "2020-11-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:51Z"
+}

@@ -7,7 +7,7 @@
  "permit_date": "20230228",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M258339]다파글리플로진프로판디올수화물|[M086024]글리메피리드",
+ "main_item_ingr": "[M086024]글리메피리드|[M258339]다파글리플로진프로판디올수화물",
  "main_item_ingr_eng": "Dapagliflozin Propanediol Hydrate/Glimepiride",
  "edi_code": "622805020",
  "atc_code": "A10BD32",
@@ -20,7 +20,8 @@
    "ee_text": "이 약은 글리메피리드와 다파글리플로진의 병용투여가 적합한 제2형 당뇨병 환자의 혈당 조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202300716/EE",
    "first_observed_at": "2026-08-27T13:29:29Z",
-   "last_observed_at": "2026-08-28T13:25:33Z"
+   "last_observed_at": "2026-09-06T21:47:39Z",
+   "normalizer_version": 3
   }
  ]
 }

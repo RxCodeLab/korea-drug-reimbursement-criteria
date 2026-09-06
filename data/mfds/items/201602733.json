@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602733",
+ "item_name": "프로젤카인겔9.6%(리도카인)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20160518",
+ "cancel_date": "20260518",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602733",
+ "revisions": [
+  {
+   "revision_id": "201602733-643d4e1b",
+   "content_sha256": "643d4e1b22d0628f41c667e523b04a970ee3df8a976a411ca18ff233aa11b98b",
+   "ee_text": "남성 성기 촉각의 예민성 감소",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:35Z",
+   "last_observed_at": "2026-09-06T21:45:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:35Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199702380",
+ "item_name": "하나니트로글리세린0.6밀리그람설하정",
+ "entp_name": "하나제약(주)",
+ "permit_date": "19970322",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M104323]희석된니트로글리세린(니트로글리세린2%유당)",
+ "main_item_ingr_eng": "Dilute Nitroglycerin (Nitroglycerin 2% In Lactose)",
+ "edi_code": "657802310",
+ "atc_code": "C01DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702380",
+ "revisions": [
+  {
+   "revision_id": "199702380-2617eac7",
+   "content_sha256": "2617eac7b7a22aaf1cf077e91893bba3f377019388d49ff9e1796785b0996d5f",
+   "ee_text": "(경구 : 정제) 협심증 (주사제) 1. 수술전·후의 혈압조절 : 심장 수술중의 고혈압조절 및 수술중의 저혈압유지, 심혈관계 수술중과 수술후 심근허혈의 치료 2. 급성심근경색에 수반되는 울혈성심부전(만성심부전의 급성악화기 포함) 3. 협심증 : 불안정형협심증 또는 질산염 설하정 및 β-차단제로 치료되지 않는 협심증 (경피흡수제) 협심증",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:13Z",
+   "last_observed_at": "2026-09-06T21:44:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:13Z"
+}

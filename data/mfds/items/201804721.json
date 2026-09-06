@@ -12,16 +12,17 @@
  "edi_code": "059600501",
  "atc_code": "M09AX01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804721",
+ "history_fetched_at": "2026-08-27T11:05:08Z",
  "revisions": [
   {
-   "revision_id": "201804721-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201804721-5d314dee",
+   "content_sha256": "5d314dee349efd2f5724e683886c0f295a6be1c816b2b8024fa14a183ee3e46c",
+   "ee_text": "슬관절의 골관절염, 견관절주위염 치료",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T11:05:08Z",
-   "last_observed_at": "2026-08-27T11:05:08Z",
-   "official_revision_date": "2018-11-28"
+   "last_observed_at": "2026-09-06T21:46:04Z",
+   "official_revision_date": "2018-11-28",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T11:05:08Z"
+ ]
 }

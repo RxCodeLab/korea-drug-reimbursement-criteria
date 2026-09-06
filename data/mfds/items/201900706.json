@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900706",
+ "item_name": "답토신주500밀리그램(답토마이신)",
+ "entp_name": "(주)펜믹스",
+ "permit_date": "20190129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269559]답토마이신",
+ "main_item_ingr_eng": "Daptomycin",
+ "edi_code": "",
+ "atc_code": "J01XX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900706",
+ "revisions": [
+  {
+   "revision_id": "201900706-35a9864f",
+   "content_sha256": "35a9864f383f80adf20ce8ec916b49fc9fc8653eea272773bde939597916380d",
+   "ee_text": "유효균종 이 약은 다음 미생물의 시험관내 및 임상적 감염에 활성을 나타낸다. * 통성호기성 그람양성균 : Staphylococcus aureus(methicillin-내성균주 포함), Streptococcus pyogenes, Streptococcus agalactiae, Streptococcus dysgalactiae subsp equisimilis, Enterococcus faecalis(vancomycin-감수성 균주에 한함) 적응증 1. 성인의 그람양성균에 의한 복합성 피부 및 피부 연조직 감염 2. 성인의 Methicillin 감수성 균주 및 내성 균주에 의한 right-side 심내막염을 포함하는 Staphylococcus aureus 균혈증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:06Z",
+   "last_observed_at": "2026-09-06T21:46:06Z",
+   "official_revision_date": "2019-01-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:06Z"
+}

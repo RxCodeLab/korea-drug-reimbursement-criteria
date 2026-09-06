@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500638",
+ "item_name": "씨트렐린구강붕해정5밀리그램(탈티렐린수화물)",
+ "entp_name": "에이치엘비제약(주)",
+ "permit_date": "20150206",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261532]탈티렐린수화물",
+ "main_item_ingr_eng": "Taltirelin Hydrate",
+ "edi_code": "647303020",
+ "atc_code": "N07XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500638",
+ "revisions": [
+  {
+   "revision_id": "201500638-769dd7d2",
+   "content_sha256": "769dd7d201cafe33f84641d82df01d84d4f033f5646755c4d4b5a00ad2d19c5f",
+   "ee_text": "척수 소뇌 변성증에 의한 운동 실조의 개선 이 약은 운동실조를 보이는 다른 유사질환이 있으므로 병력 청취 및 전신의 물리적 소견에 따라 전문의의 정확한 진단 후에 투여한다.",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:20Z",
+   "last_observed_at": "2026-09-06T21:45:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:20Z"
+}

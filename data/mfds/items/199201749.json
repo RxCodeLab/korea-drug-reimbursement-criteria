@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201749",
+ "item_name": "에트비주250단위(건조농축사람 혈액응고제VIII인자(건조열처리)\r\n)",
+ "entp_name": "에스케이플라즈마(주)",
+ "permit_date": "19920609",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200791]사람혈액응고제8인자",
+ "main_item_ingr_eng": "Human Blood Coagulation Factor VIII",
+ "edi_code": "050800211",
+ "atc_code": "B02BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201749",
+ "revisions": [
+  {
+   "revision_id": "199201749-e53be1ef",
+   "content_sha256": "e53be1ef21d5a44745b8bedc982c6c952bdf77996d0d2fd2f0f51f98ce574d47",
+   "ee_text": "혈액응고 제Ⅷ인자 결핍환자에 대해 혈장중의 혈액응고 제Ⅷ인자를 보충하여 출혈을 억제",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:10Z",
+   "last_observed_at": "2026-09-06T21:44:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:10Z"
+}

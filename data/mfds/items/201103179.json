@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201103179",
+ "item_name": "닥사스정500마이크로그램(로플루밀라스트)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20110516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252180]로플루밀라스트(미분화)",
+ "main_item_ingr_eng": "Roflumilast Micronized",
+ "edi_code": "650701060",
+ "atc_code": "R03DX07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103179",
+ "revisions": [
+  {
+   "revision_id": "201103179-e16711f9",
+   "content_sha256": "e16711f9710135c52ac649de2a2cc8bf102a15ca5efb3ca54cf2b794f51d8645",
+   "ee_text": "기관지확장제의 부가요법제로서, 증상악화 병력이 있고, 만성기관지염을 수반한 중증의 만성폐쇄성폐질환의 유지요법제",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:46Z",
+   "last_observed_at": "2026-09-06T21:44:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:46Z"
+}

@@ -9,9 +9,10 @@
  "status": "정상",
  "main_item_ingr": "[M282714]비베그론",
  "main_item_ingr_eng": "Vibegron",
- "edi_code": "",
+ "edi_code": "645406270",
  "atc_code": "G04BD15",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203951",
+ "history_fetched_at": "2026-08-29T23:00:49Z",
  "revisions": [
   {
    "revision_id": "202203951-3bc8a478",
@@ -19,9 +20,9 @@
    "ee_text": "과민성 방광의 배뇨 절박감, 빈뇨 및 절박성 요실금 증상의 치료",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-29T23:00:49Z",
-   "last_observed_at": "2026-08-29T23:00:49Z",
-   "official_revision_date": "2022-10-31"
+   "last_observed_at": "2026-09-06T21:47:37Z",
+   "official_revision_date": "2022-10-31",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-29T23:00:49Z"
+ ]
 }

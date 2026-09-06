@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105576",
+ "item_name": "아조비오토인젝터주(프레마네주맙,유전자재조합)",
+ "entp_name": "(주)한독테바",
+ "permit_date": "20210727",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280800]프레마네주맙",
+ "main_item_ingr_eng": "Fremanezumab",
+ "edi_code": "626900951",
+ "atc_code": "N02CD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105576",
+ "revisions": [
+  {
+   "revision_id": "202105576-8560c881",
+   "content_sha256": "8560c8815e40e68de1f9975fba8cd993e79feb6a8e13b538861b7c3fdb052ad4",
+   "ee_text": "성인에서의 편두통의 예방 체중 45kg 이상인 6-17세 소아에서의 삽화성 편두통의 예방",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:23Z",
+   "last_observed_at": "2026-09-06T21:47:23Z",
+   "official_revision_date": "2026-05-04"
+  },
+  {
+   "revision_id": "202105576-53156d91",
+   "content_sha256": "53156d910c57c43e31450d3d4d03e2b93a70090334539ab608ef3c01d099d117",
+   "ee_text": "성인에서의 편두통의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-07-27",
+   "first_observed_at": "2026-09-06T21:47:23Z",
+   "last_observed_at": "2026-09-06T21:47:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:23Z"
+}

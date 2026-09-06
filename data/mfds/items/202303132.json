@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303132",
+ "item_name": "스카이리치주(리산키주맙,유전자재조합)",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20231115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265303]리산키주맙",
+ "main_item_ingr_eng": "Risankizumab",
+ "edi_code": "",
+ "atc_code": "L04AC18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303132",
+ "revisions": [
+  {
+   "revision_id": "202303132-13b264ab",
+   "content_sha256": "13b264ab5c16eaa8ba24746702f2334177e122ac00b55054ca871947803f6b06",
+   "ee_text": "크론병 기존 치료제나 생물학적제제등에 적절히 반응하지 않거나, 반응이 없어지거나, 내약성이 없는 중등도에서 중증의 활성 크론병 성인 환자(18세 이상)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:46Z",
+   "last_observed_at": "2026-09-06T21:47:46Z",
+   "official_revision_date": "2023-11-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:46Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402080",
+ "item_name": "레주록정200밀리그램(벨루모수딜메실산염(미분화))",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20240829",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284820]벨루모수딜메실산염(미분화)",
+ "main_item_ingr_eng": "Belumosudil Mesylate Micronized",
+ "edi_code": "652001620",
+ "atc_code": "L04AA48",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402080",
+ "revisions": [
+  {
+   "revision_id": "202402080-42936fd0",
+   "content_sha256": "42936fd06e34796c8628f7de1abfd320e8b305ec6bb39c6e007466bc122ec4ad",
+   "ee_text": "이전에 2차 이상의 전신 요법에 실패한 만성 이식편대숙주 질환이 있는 성인 및 12세 이상의 소아 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:51Z",
+   "last_observed_at": "2026-09-06T21:47:51Z",
+   "official_revision_date": "2024-08-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:51Z"
+}

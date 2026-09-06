@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199704518",
+ "item_name": "비스코트점안액",
+ "entp_name": "한국알콘(주)",
+ "permit_date": "19970609",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081277]히알우론산나트륨|[M225042]황산 콘드로이친 나트륨",
+ "main_item_ingr_eng": "Sodium Chondroitin Sulfate/Sodium Hyaluronate",
+ "edi_code": "652400241",
+ "atc_code": "S01KA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199704518",
+ "revisions": [
+  {
+   "revision_id": "199704518-558ce2a1",
+   "content_sha256": "558ce2a17aabb9a0dd8c550cac018e8bd83b1f54d4b6e25ca520f6686c95347b",
+   "ee_text": "백내장 적출 및 인공 수정체 이식을 포함한 각종 전방부 안과 수술의 보조제",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:13Z",
+   "last_observed_at": "2026-09-06T21:44:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:13Z"
+}

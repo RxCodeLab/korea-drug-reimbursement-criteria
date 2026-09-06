@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401888",
+ "item_name": "엡글리스오토인젝터주250밀리그램(레브리키주맙)",
+ "entp_name": "한국릴리(유)",
+ "permit_date": "20240805",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284823]레브리키주맙",
+ "main_item_ingr_eng": "Lebrikizumab",
+ "edi_code": "670801381",
+ "atc_code": "D11AH10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401888",
+ "revisions": [
+  {
+   "revision_id": "202401888-9d9c4635",
+   "content_sha256": "9d9c46355724662237ffb1e1b1da9994465218db18c5d1c73639cbfe0d427996",
+   "ee_text": "아토피 피부염 성인 및 12세 이상의 청소년(체중 40kg 이상)에서 국소치료제로 적절히 조절되지 않거나 이들 치료제가 권장되지 않는 중등도에서 중증의 아토피 피부염의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:50Z",
+   "last_observed_at": "2026-09-06T21:47:50Z",
+   "official_revision_date": "2024-08-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:50Z"
+}

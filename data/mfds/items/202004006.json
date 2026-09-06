@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004006",
+ "item_name": "휴겐에프정(빌베리건조엑스)",
+ "entp_name": "(주)휴비스트제약",
+ "permit_date": "20200528",
+ "cancel_date": "20250528",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M115507]빌베리 건조엑스",
+ "main_item_ingr_eng": "Bilberry Fruit Dried Extract",
+ "edi_code": "",
+ "atc_code": "S01L",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004006",
+ "revisions": [
+  {
+   "revision_id": "202004006-476a34fa",
+   "content_sha256": "476a34fab0ce0fa8504fe5d3dc2931da7a60628f243aadd471542a2c6976a32d",
+   "ee_text": "1. 당뇨병에 의한 망막변성 및 눈의 혈관장애 개선 2. 야맹증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:37Z",
+   "last_observed_at": "2026-09-06T21:46:37Z",
+   "official_revision_date": "2020-05-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:37Z"
+}

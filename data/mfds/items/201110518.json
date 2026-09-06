@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201110518",
+ "item_name": "유라스타주5밀리그램/100밀리리터(졸레드론산일수화물)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20111130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253522]졸레드론산일수화물",
+ "main_item_ingr_eng": "Zoledronic Acid Monohydrate",
+ "edi_code": "644501841",
+ "atc_code": "M05BA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110518",
+ "revisions": [
+  {
+   "revision_id": "201110518-ca03b4e9",
+   "content_sha256": "ca03b4e9c254c705c39e92e481bb13fec25b88895d3035839fe367d065dc5f40",
+   "ee_text": "* 5 mg/100 mL 1. 골다공증의 치료 (1) 폐경 후 여성의 대퇴골, 척추 및 비척추 골다공증성 골절의 발생율 감소 (2) 저충격 고관절 골절 후 새로운 골절 발생율 감소 (3) 남성의 골다공증 치료 2. 폐경 후 여성의 골다공증 예방 3. 글루코코르티코이드에 의한 골다공증의 치료 및 예방 4. 골파제트병의 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201110518/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:48Z",
+   "last_observed_at": "2026-09-06T21:44:48Z"
+  },
+  {
+   "revision_id": "201110518-f8df3ee6",
+   "content_sha256": "f8df3ee618cba93eab9bba52c540d000df9bdac63bd118283ccd09438783fd8f",
+   "ee_text": "(주사제) * 5 mg/100 mL 1. 골다공증의 치료 (1) 폐경 후 여성의 대퇴골, 척추 및 비척추 골다공증성 골절의 발생율 감소 (2) 저충격 고관절 골절 후 새로운 골절 발생율 감소 (3) 남성의 골다공증 치료 2. 폐경 후 여성의 골다공증 예방 3. 글루코코르티코이드에 의한 골다공증의 치료 및 예방 4. 골파제트병의 치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:44:48Z",
+   "last_observed_at": "2026-09-06T21:44:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:48Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907532",
+ "item_name": "레비에필정250밀리그램(레비티라세탐)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20191028",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096537]레비티라세탐",
+ "main_item_ingr_eng": "Levetiracetam",
+ "edi_code": "671706210",
+ "atc_code": "N03AX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907532",
+ "revisions": [
+  {
+   "revision_id": "201907532-8b936642",
+   "content_sha256": "8b9366429001060939c70141ae320225cc50a05f73201750e195a4147297d27a",
+   "ee_text": "1. 단독요법 처음 뇌전증으로 진단된 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(16세 이상) 2. 부가요법 - 기존 1차 뇌전증치료제 투여로 적절하게 조절이 되지 않는 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(4세 이상) - 소아 간대성 근경련 뇌전증(Juvenile Myoclonic Epilepsy)환자의 근간대성 발작의 치료(12세 이상) - 특발성 전신성 뇌전증(Idiopathic Generalized Epilepsy) 환자의 1차성 전신 강직-간대 발작의 치료(12세 이상) 레비티라세탐 주사제는 경구투여가 일시적으로 불가능한 환자에 투여한다.",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:22Z",
+   "last_observed_at": "2026-09-06T21:46:22Z",
+   "official_revision_date": "2022-11-01"
+  },
+  {
+   "revision_id": "201907532-1753b4f7",
+   "content_sha256": "1753b4f7e7e2251f5bd3b0fa3ed415f3ec17d8b6140b8922195dd03687830c73",
+   "ee_text": "1. 단독요법 처음 간질로 진단된 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(16세 이상) 2. 부가요법 - 기존 1차 간질치료제 투여로 적절하게 조절이 되지 않는 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(4세 이상) - 소아 간대성 근경련 간질(Juvenile Myoclonic Epilepsy)환자의 근간대성 발작의 치료(12세 이상) - 특발성 전신성 간질(Idiopathic Generalized Epilepsy) 환자의 1차성 전신 강직-간대 발작의 치료(12세 이상) 레비티라세탐 주사제는 경구투여가 일시적으로 불가능한 환자에 투여한다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-10-28",
+   "first_observed_at": "2026-09-06T21:46:22Z",
+   "last_observed_at": "2026-09-06T21:46:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:22Z"
+}

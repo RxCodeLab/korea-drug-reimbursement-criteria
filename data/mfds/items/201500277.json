@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500277",
+ "item_name": "엠디카인크림(리도카인)",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20150119",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500277",
+ "revisions": [
+  {
+   "revision_id": "201500277-643d4e1b",
+   "content_sha256": "643d4e1b22d0628f41c667e523b04a970ee3df8a976a411ca18ff233aa11b98b",
+   "ee_text": "남성 성기 촉각의 예민성 감소",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:20Z",
+   "last_observed_at": "2026-09-06T21:45:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:20Z"
+}

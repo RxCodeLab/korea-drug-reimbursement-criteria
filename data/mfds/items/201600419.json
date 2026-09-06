@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600419",
+ "item_name": "텍피데라캡슐240밀리그램(디메틸푸마르산염)",
+ "entp_name": "한국에자이(주)",
+ "permit_date": "20160122",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263444]디메틸푸마르산염",
+ "main_item_ingr_eng": "Dimethyl Fumarate",
+ "edi_code": "621100230",
+ "atc_code": "L04AX07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600419",
+ "revisions": [
+  {
+   "revision_id": "201600419-53a781be",
+   "content_sha256": "53a781be1078057c304cdff13cc8a2132c725e4eedbf4e5a9318d6c16c865ac4",
+   "ee_text": "만 13세 이상의 소아 및 성인 환자에 대한 재발 이장성 다발성경화증의 치료",
+   "ee_doc_id": "34",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:31Z",
+   "last_observed_at": "2026-09-06T21:45:31Z",
+   "official_revision_date": "2023-05-25"
+  },
+  {
+   "revision_id": "201600419-9f1643ae",
+   "content_sha256": "9f1643ae74f50af787d47bf2d609dbfad43f1d66e8787a11f92c0dcdc5a1fd95",
+   "ee_text": "재발 이장성 다발성경화증의 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:45:31Z",
+   "last_observed_at": "2026-09-06T21:45:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:31Z"
+}

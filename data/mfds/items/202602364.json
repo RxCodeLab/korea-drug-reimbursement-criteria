@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602364",
+ "item_name": "에독큐정15밀리그램(에독사반토실산염수화물)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20260812",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M262653]에독사반토실산염수화물",
+ "main_item_ingr_eng": "Edoxaban Tosylate Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602364",
+ "revisions": [
+  {
+   "revision_id": "202602364-a47a9c2c",
+   "content_sha256": "a47a9c2c07a8c3ab5c8bb702bcd5113465a99a4c6f5f2f3ae5db55cbc0eee55b",
+   "ee_text": "1. 비판막성 심방세동 환자에서 뇌졸중 및 전신색전증의 위험 감소 2. 심재성 정맥혈전증 및 폐색전증의 치료 3. 심재성 정맥혈전증 및 폐색전증의 재발 위험 감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:48:08Z",
+   "last_observed_at": "2026-09-06T21:48:08Z",
+   "official_revision_date": "2026-08-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:48:08Z"
+}

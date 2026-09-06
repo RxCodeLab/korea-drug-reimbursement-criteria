@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200009385",
+ "item_name": "일리움아자닐주사",
+ "entp_name": "(주)보람농산",
+ "permit_date": "20000602",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088441]아자페론|[M090624]염산싸이라진|[M210478]구연산펜타닐",
+ "main_item_ingr_eng": "Azaperone/Fentanyl Citrate/Xylazine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009385",
+ "revisions": [
+  {
+   "revision_id": "200009385-93790d87",
+   "content_sha256": "93790d877aa1f9a85e6e33db41fa91e7f41cf5e5c2caf5a6ddca7da388d7a6bb",
+   "ee_text": "1. 다음의 처치를 위한 사슴의 진정 및 보정을 위하여 사용함 - 녹용절단, 이표부착, 백신 접종, 정액채취, 수정란 이식, 방사선 촬영, 외과처치, 산과 처치, 약물투여 2. 전신마취를 위한 전처치에 사용",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:16Z",
+   "last_observed_at": "2026-09-06T21:44:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:16Z"
+}

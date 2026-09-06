@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:54:02Z",
  "revisions": [
   {
-   "revision_id": "201404128-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201404128-c14d7ac0",
+   "content_sha256": "c14d7ac0edd7f6c0213b76616df550303a1323e416f1a01d811cecf5441ba7cc",
+   "ee_text": "1. 만성신부전환자의 빈혈 2. 고형암의 화학요법에 의한 빈혈",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201404128/EE",
    "first_observed_at": "2026-08-27T13:54:02Z",
-   "last_observed_at": "2026-08-28T13:24:37Z"
+   "last_observed_at": "2026-09-06T21:45:15Z",
+   "normalizer_version": 3
   }
  ]
 }

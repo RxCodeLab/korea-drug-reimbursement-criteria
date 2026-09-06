@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600118",
+ "item_name": "풀미케어분무용현탁액(미분화부데소니드)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20260113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093821]미분화부데소니드",
+ "main_item_ingr_eng": "Budesonide Micronized",
+ "edi_code": "654006321",
+ "atc_code": "R03BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600118",
+ "revisions": [
+  {
+   "revision_id": "202600118-ecd23b42",
+   "content_sha256": "ecd23b421330df46b7b5a5903e42e7be2e1538cfc23e7b5fcb80b501b3c7d345",
+   "ee_text": "기관지 천식 (특히 스테로이드 요법의 다른 치료가 불충분하거나 적절치 않은 경우), 유아와 소아의 급성 후두 기관 기관지염(크룹)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:48:00Z",
+   "last_observed_at": "2026-09-06T21:48:00Z",
+   "official_revision_date": "2026-01-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:48:00Z"
+}

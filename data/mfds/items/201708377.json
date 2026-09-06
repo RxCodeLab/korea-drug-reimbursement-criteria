@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708377",
+ "item_name": "젝스트프리필드펜주150마이크로그램(에피네프린타르타르산염)",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "20171214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251244]에피네프린타르타르산염",
+ "main_item_ingr_eng": "Epinephrine Tartrate",
+ "edi_code": "653103761",
+ "atc_code": "C01CA24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708377",
+ "revisions": [
+  {
+   "revision_id": "201708377-209e35f6",
+   "content_sha256": "209e35f692d7172eb6e5b7c4703c7913304fa554c918d61cbaec878cf6ed4964",
+   "ee_text": "다음에 의한 중증 급성 알레르기 반응(아나필락시스)의 응급처치 - 곤충 침에 쏘이거나 또는 물림 - 음식물, 약물, 기타 항원 - 특발성 또는 운동-유도 아나필락시스",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:53Z",
+   "last_observed_at": "2026-09-06T21:45:53Z",
+   "official_revision_date": "2017-12-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:53Z"
+}

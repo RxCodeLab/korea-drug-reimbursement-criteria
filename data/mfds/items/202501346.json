@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501346",
+ "item_name": "엑스브릭주(데노수맙)",
+ "entp_name": "삼성바이오에피스(주)",
+ "permit_date": "20250530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260379]데노수맙",
+ "main_item_ingr_eng": "Denosumab",
+ "edi_code": "051500201",
+ "atc_code": "M05BX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501346",
+ "revisions": [
+  {
+   "revision_id": "202501346-32353863",
+   "content_sha256": "3235386360798f2cdbb760a0798babb0cd5cad8f22dba18450351c8776ad74e9",
+   "ee_text": "1. 다발성 골수종 및 고형암의 골전이 환자에서 골격계 증상(skeletal-related events) 발생 위험 감소. - 골격계 증상은 병리학적 골절, 뼈에 대한 방사선 조사, 척수압박, 뼈 수술을 말한다. 2. 성인 및 골 성숙이 완료된 청소년에서 절제가 불가능하거나 수술적 절제가 중증의 이환을 일으킬 가능성이 있는 골거대세포종 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:56Z",
+   "last_observed_at": "2026-09-06T21:47:56Z",
+   "official_revision_date": "2025-05-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:56Z"
+}

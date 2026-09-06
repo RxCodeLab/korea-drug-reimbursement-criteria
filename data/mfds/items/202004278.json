@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004278",
+ "item_name": "시어스테그프리미움겔9.6%(리도카인)",
+ "entp_name": "(주)시어스제약",
+ "permit_date": "20200608",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004278",
+ "revisions": [
+  {
+   "revision_id": "202004278-4fcb6df6",
+   "content_sha256": "4fcb6df611a1429d5663504c1dc97d6b0b9c469237a031ac633700b5524319ad",
+   "ee_text": "남성 성기 촉각의 예민성 감소.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:38Z",
+   "last_observed_at": "2026-09-06T21:46:38Z",
+   "official_revision_date": "2020-06-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:38Z"
+}

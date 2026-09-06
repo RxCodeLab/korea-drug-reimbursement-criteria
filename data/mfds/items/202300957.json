@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300957",
+ "item_name": "젤잔즈시럽1mg/mL(토파시티닙시트르산염)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20230320",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259196]토파시티닙시트르산염",
+ "main_item_ingr_eng": "Tofacitinib Citrate",
+ "edi_code": "648903841",
+ "atc_code": "L04AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300957",
+ "revisions": [
+  {
+   "revision_id": "202300957-c399e177",
+   "content_sha256": "c399e177792c3af4187e0df69afac89f0f4e032aec2678612fd52c151cd98480",
+   "ee_text": "다음의 환자에서는 기존 치료제에 적절히 반응하지 않거나 내약성이없는 경우에 한하여 이 약을 사용하여야 한다. - 다 음 - 가. 심혈관계 고위험군 환자 나. 악성 종양 위험이 있는 환자 1. 다발성 소아 특발성 관절염(pJIA) 및 소아 건선성 관절염(jPsA) 만2세 이상 만 18세 미만에서 이전 항류마티스제제(DMARD)에 적절히 반응하지 않은 활동성 다발성 소아 특발성 관절염(pJIA: 류마티스 인자 양성[RF+] 또는 음성[RF-] 다발성 관절염 및 확장성 소수 관절염)과 소아 건선성 관절염(jPsA)의 치료. 이 약은 메토트렉세이트(MTX)와 병용투여 할 수 있으며, 메토트렉세이트에 내약성이 없거나 메토트렉세이트 투여가 부적절한 경우 단독요법으로 투여할 수 있다. 이 약을 생물학적 항류마티스제제 또는 아자티오프린 및 사이클로스포린과 같은 강력한 면역억제제와 함께 사용해서는 안 된다",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:39Z",
+   "last_observed_at": "2026-09-06T21:47:39Z",
+   "official_revision_date": "2023-03-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:39Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003490",
+ "item_name": "스킬라렌스장용정30밀리그램(디메틸푸마르산염)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20200514",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278700]디메틸푸마르산염(미분화)",
+ "main_item_ingr_eng": "Dimethyl fumarate Micronized",
+ "edi_code": "670304470",
+ "atc_code": "L04AX07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003490",
+ "revisions": [
+  {
+   "revision_id": "202003490-4fd527ca",
+   "content_sha256": "4fd527cab4e7732901ea1c03dde6916552c43833b489b1f740b575ce9067aa40",
+   "ee_text": "전신치료 대상 성인 환자의 중등도~중증 판상 건선 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:36Z",
+   "last_observed_at": "2026-09-06T21:46:36Z",
+   "official_revision_date": "2020-05-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:36Z"
+}

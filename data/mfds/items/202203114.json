@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203114",
+ "item_name": "톨비스정30밀리그램(톨밥탄)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20220728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M277635]톨밥탄",
+ "main_item_ingr_eng": "Tolvaptan",
+ "edi_code": "671807520",
+ "atc_code": "C03XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203114",
+ "revisions": [
+  {
+   "revision_id": "202203114-6575d91a",
+   "content_sha256": "6575d91a759df7b3ba35fbba5d5d54235f346ff6e611dad7ecf9ccb06b8c3398",
+   "ee_text": "1. 심부전, 항이뇨호르몬 분비 이상 증후군(SIADH) 환자 등에서 임상적으로 유의한 고혈량성(hypervolemic) 또는 정상혈량성(euvolemic)인 저나트륨혈증 [혈청 중 나트륨 농도가 125mEq/L 미만의 저나트륨혈증, 또는 증상이 있으며 수분제한에 의한 보정을 할 수 없는 저나트륨혈증]의 치료 2. 최초 투여시 만성신질환 1~4단계에 해당되며, 빠르게 진행되고 있는 상염색체우성 다낭신장병(ADPKD, autosomal dominant polycystic kidney disease) 성인 환자에서의 낭종 생성 및 신기능 저하 진행의 지연",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:35Z",
+   "last_observed_at": "2026-09-06T21:47:35Z",
+   "official_revision_date": "2022-07-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:35Z"
+}

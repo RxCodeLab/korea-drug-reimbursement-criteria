@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503640",
+ "item_name": "아다멜엔주",
+ "entp_name": "프레지니우스카비코리아(주)",
+ "permit_date": "20150608",
+ "cancel_date": "20250608",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040434]염화아연|[M040473]요오드화칼륨|[M097351]아셀렌산나트륨|[M223322]플루오르화나트륨|[M250273]몰리브덴산나트륨수화물|[M250274]염화크롬수화물|[M262184]염화제이구리수화물|[M262185]염화제이철수화물|[M262186]염화망간수화물",
+ "main_item_ingr_eng": "Chromic Chloride Hydrate/Cupric Chloride Hydrate/Ferric Chloride Hydrate/Manganese Chloride Hydrate/Potassium Iodide/Sodium Fluoride/Sodium Molybdate Hydrate/Sodium Selenite Pentahydrate/Zinc Chloride",
+ "edi_code": "",
+ "atc_code": "B05XA30",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503640",
+ "revisions": [
+  {
+   "revision_id": "201503640-a3af1293",
+   "content_sha256": "a3af129393baf4db8ca2f57652b6421d94207f1d93e0458df0bf639a5c9790dc",
+   "ee_text": "정맥 영양 공급시 미량원소 보급",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:24Z",
+   "last_observed_at": "2026-09-06T21:45:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:24Z"
+}

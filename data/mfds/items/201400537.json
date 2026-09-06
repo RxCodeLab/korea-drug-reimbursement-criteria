@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400537",
+ "item_name": "프리스틱서방정50밀리그램(데스벤라팍신숙신산염일수화물)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20140206",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258837]데스벤라팍신숙신산염일수화물",
+ "main_item_ingr_eng": "Desvenlafaxine Succinate Monohydrate",
+ "edi_code": "648902780",
+ "atc_code": "N06AX23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400537",
+ "revisions": [
+  {
+   "revision_id": "201400537-cf12792b",
+   "content_sha256": "cf12792bdcc39b7d393fa41a10419696c6a134ddf983f933b1d5869114761ea5",
+   "ee_text": "주요 우울증",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:08Z",
+   "last_observed_at": "2026-09-06T21:45:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:08Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604177",
+ "item_name": "에스케이리바록사반정2.5밀리그램",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20160706",
+ "cancel_date": "20260706",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M254091]리바록사반(미세화)",
+ "main_item_ingr_eng": "Rivaroxaban Micronized",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604177",
+ "revisions": [
+  {
+   "revision_id": "201604177-1b85e93f",
+   "content_sha256": "1b85e93f6d67ea8b09ea00f5939d35c083ad42bc5b3dd1161b36675478b0adfa",
+   "ee_text": "1. 심장표지자(cardiac biomarker) 상승을 동반한 급성관상동맥증후군을 경험한 환자에서 아스피린과의 병용 혹은 아스피린 및 클로피도그렐과 병용투여 시 죽상동맥혈전성 사건(심혈관계 이상으로 인한 사망, 심근경색)의 발생률 감소 2. 허혈성 사건의 발생 위험성이 높은 관상동맥질환 또는 증상이 있는 말초동맥질환 성인 환자에서 아스피린과 병용하여 죽상동맥혈전성 사건(뇌졸중, 심근경색 및 심혈관계 이상으로 인한 사망)의 위험 감소",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:41Z",
+   "last_observed_at": "2026-09-06T21:45:41Z",
+   "official_revision_date": "2020-03-26"
+  },
+  {
+   "revision_id": "201604177-461aff52",
+   "content_sha256": "461aff525f450ef7fe2e5a35910b47ed5a418237a381d50d29cac5f7d9005d0e",
+   "ee_text": "1. 비판막성 심방세동 환자에서 뇌졸중 및 전신 색전증의 위험 감소 2. 심재성 정맥혈전증 및 폐색전증의 치료 3. 심재성 정맥혈전증 및 폐색전증의 재발 위험 감소 4. 하지의 주요 정형외과 수술(슬관절 또는 고관절 치환술)을 받은 성인 환자의 정맥혈전색전증 예방 5. 심장표지자(cardiac biomarker) 상승을 동반한 급성관상동맥증후군을 경험한 환자에서 아스피린과의 병용 혹은 아스피린 및 클로피도그렐과 병용투여 시 죽상동맥혈전성 사건(심혈관계 이상으로 인한 사망, 심근경색)의 발생률 감소",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:45:41Z",
+   "last_observed_at": "2026-09-06T21:45:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:41Z"
+}

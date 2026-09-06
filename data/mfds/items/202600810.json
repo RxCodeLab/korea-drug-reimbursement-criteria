@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600810",
+ "item_name": "엔도카인액(리도카인염산염수화물)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20260323",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222842]리도카인염산염수화물",
+ "main_item_ingr_eng": "Lidocaine Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "R02AD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600810",
+ "revisions": [
+  {
+   "revision_id": "202600810-cc5d28ab",
+   "content_sha256": "cc5d28ab9c1b992e3757d7fceee5c98a78b30b6dc8d66b6fbd035e19a8980567",
+   "ee_text": "1. 이비인후과 영역 : 구강ㆍ인두 점막의 자극, 염증시 국소마취 2. 치과 영역 : X-선 촬영 또는 치과 인상(dental impressions)시의 구역 억제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:48:02Z",
+   "last_observed_at": "2026-09-06T21:48:02Z",
+   "official_revision_date": "2026-03-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:48:02Z"
+}

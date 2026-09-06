@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600604",
+ "item_name": "설멈츄정",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20260227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M110460]스코폴리아 엑스3배산|[M223040]베르베린탄닌산염|[M223064]비스무트차질산염|[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Berberine Tannate/Bismuth Subnitrate/Scopolia Extract Powder 33.3%/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A07BB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600604",
+ "revisions": [
+  {
+   "revision_id": "202600604-d59142a7",
+   "content_sha256": "d59142a748fa046ed69d6d9a224b6984245f55651b28920d28c8ba43ba0264d5",
+   "ee_text": "설사, 복통(배아픔)을 수반하는 설사, 체함, 묽은 변, 토사",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:48:02Z",
+   "last_observed_at": "2026-09-06T21:48:02Z",
+   "official_revision_date": "2026-02-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:48:02Z"
+}

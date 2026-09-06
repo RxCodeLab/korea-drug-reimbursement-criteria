@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200804833",
+ "item_name": "메노푸어주(메노트로핀에이치피)",
+ "entp_name": "한국페링제약(주)",
+ "permit_date": "20080428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M231891]메노트로핀에이치피",
+ "main_item_ingr_eng": "Menotrophin HP",
+ "edi_code": "",
+ "atc_code": "G03GA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804833",
+ "revisions": [
+  {
+   "revision_id": "200804833-5ddac09a",
+   "content_sha256": "5ddac09a73e611a7eaeb384b71a0c4446632aca239907975a8eed39ace033b37",
+   "ee_text": "다음과 같은 여성의 불임증 치료 1 . 클로미펜구연산염으로 치료되지 않는 여성의 무배란증 (WHO 그룹 II에 해당하는 환자) 2. 불임여성의 보조생식술 실시 중 다수의 난포를 성숙시키기 위한 조절된 난포과자극 유도",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:40Z",
+   "last_observed_at": "2026-09-06T21:44:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:40Z"
+}

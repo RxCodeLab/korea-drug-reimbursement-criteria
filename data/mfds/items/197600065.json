@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197600065",
+ "item_name": "알키록산정(시클로포스파미드정)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19760414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040333]시클로포스파미드",
+ "main_item_ingr_eng": "Cyclophosphamide",
+ "edi_code": "644901400",
+ "atc_code": "L01AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600065",
+ "revisions": [
+  {
+   "revision_id": "197600065-f833698d",
+   "content_sha256": "f833698d59ad68f4adaa2e2703c9bc98efaecddb725718a681d3a5248540d89e",
+   "ee_text": "단독 또는 다른 항암제와 병용요법 1. 악성림프종, 호지킨병, 림프구림프종(nodular, diffuse), 혼합세포형 림프종, 조직구성림프종, 버킷림프종 2. 다발성골수종 3. 백혈병-만성림프성백혈병, 만성과립구성백혈병, 급성골수성백혈병, 단핵구백혈병, 소아 급성간세포성백혈병 4. 균상식육증 5. 신경모세포종 6. 난소암 7. 망막아종 8. 유방암",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:06Z",
+   "last_observed_at": "2026-09-06T21:44:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:06Z"
+}

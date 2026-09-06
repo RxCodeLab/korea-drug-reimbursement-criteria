@@ -7,21 +7,22 @@
  "permit_date": "20250905",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M259862]솔리페나신숙신산염|[M243979]탐스로신염산염",
+ "main_item_ingr": "[M243979]탐스로신염산염|[M259862]솔리페나신숙신산염",
  "main_item_ingr_eng": "Solifenacin Succinate/Tamsulosin Hydrochloride",
  "edi_code": "677200350",
  "atc_code": "G04CA53",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502343",
+ "history_fetched_at": "2026-08-27T13:23:46Z",
  "revisions": [
   {
-   "revision_id": "202502343-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202502343-379af14b",
+   "content_sha256": "379af14b64dfa7eda32ce19b192da820a5791baec8b10446677191e8477d406a",
+   "ee_text": "성인 남성에서 탐스로신 단독요법에 적절히 반응하지 않는 양성 전립샘비대증에 따른 중등도 내지 중증 저장증상(빈뇨, 요절박) 및 배뇨증상의 치료",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:23:46Z",
-   "last_observed_at": "2026-08-27T13:23:46Z",
-   "official_revision_date": "2025-09-05"
+   "last_observed_at": "2026-09-06T21:47:58Z",
+   "official_revision_date": "2025-09-05",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:23:46Z"
+ ]
 }

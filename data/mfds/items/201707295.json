@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:08:41Z",
  "revisions": [
   {
-   "revision_id": "201707295-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201707295-a7cc0f7a",
+   "content_sha256": "a7cc0f7a579f264ee0310cc5ff09cd0dbe7e21cf2112fdcc2dfeb0281b4afd0d",
+   "ee_text": "1. 기관지천식 2. 알레르기비염 3. 두드러기, 습진.피부염, 피부가려움, 가려움발진(痒疹), 가려움을 동반한 보통건선",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201707295/EE",
    "first_observed_at": "2026-08-27T13:08:41Z",
-   "last_observed_at": "2026-08-28T13:24:57Z"
+   "last_observed_at": "2026-09-06T21:45:52Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201707295-ab2cd774",

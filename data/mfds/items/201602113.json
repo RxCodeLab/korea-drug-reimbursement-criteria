@@ -1,0 +1,58 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602113",
+ "item_name": "엔트레스토필름코팅정200밀리그램(사쿠비트릴·발사르탄나트륨염수화물)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20160414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263824]사쿠비트릴·발사르탄나트륨염수화물",
+ "main_item_ingr_eng": "Sacubitril·Valsartan Sodium Hydrate",
+ "edi_code": "653602730",
+ "atc_code": "C09DX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602113",
+ "revisions": [
+  {
+   "revision_id": "201602113-581386f9",
+   "content_sha256": "581386f957da89ce0ad5dbf7440e62576c379e09c6d7640ec6345e8efee5f48f",
+   "ee_text": "1. 만성 심부전 : 좌심실 수축기능이 정상보다 낮은 만성 심부전 환자(NYHA class II-IV)에서 심혈관 질환으로 인한 사망 및 심부전으로 인한 입원 위험성 감소 이 약은 다른 심부전 치료제와 병용하여 투여한다. 2. 본태성 고혈압",
+   "ee_doc_id": "46",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:34Z",
+   "last_observed_at": "2026-09-06T21:45:34Z",
+   "official_revision_date": "2025-07-01"
+  },
+  {
+   "revision_id": "201602113-ed95aa7a",
+   "content_sha256": "ed95aa7a3e34ef65a485c6985ebada104bc04da0a5140d3e3c32fc8a3ec1e339",
+   "ee_text": "만성 심부전 : 좌심실 수축기능이 정상보다 낮은 만성 심부전 환자(NYHA class II-IV)에서 심혈관 질환으로 인한 사망 및 심부전으로 인한 입원 위험성 감소 이 약은 다른 심부전 치료제와 병용하여 투여한다.",
+   "ee_doc_id": "35",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-10-06",
+   "first_observed_at": "2026-09-06T21:45:34Z",
+   "last_observed_at": "2026-09-06T21:45:34Z"
+  },
+  {
+   "revision_id": "201602113-b0bff108",
+   "content_sha256": "b0bff1086d910759e280574751c4e8c4f6d575bee8f310386992153d245dbe05",
+   "ee_text": "만성 심부전 : 좌심실 수축기능이 정상보다 낮은 만성 심부전 환자(NYHA class II-IV)에서 심혈관 질환으로 인한 사망 및 심부전으로 인한 입원 위험성 감소 이 약은 좌심실 수축기능이 저하된(좌심실 박출률≤40%) 만성 심부전 환자에서 안지오텐신 수용체 길항제(ARB) 또는 안지오텐신전환효소(ACE) 억제제를 대신하여 다른 심부전 치료제와 병용하여 투여한다.",
+   "ee_doc_id": "33",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-02-14",
+   "first_observed_at": "2026-09-06T21:45:34Z",
+   "last_observed_at": "2026-09-06T21:45:34Z"
+  },
+  {
+   "revision_id": "201602113-71fc39a1",
+   "content_sha256": "71fc39a17e3a6195e1f661e3218ec2d748124607ecc69b8c51f00bb1d134e853",
+   "ee_text": "만성 심부전 : 좌심실 수축기능이 저하된 만성 심부전 환자(NYHA class II-IV)에서 심혈관 질환으로 인한 사망 및 심부전으로 인한 입원 위험성 감소 이 약은 안지오텐신 수용체 길항제(ARB) 또는 안지오텐신전환효소(ACE) 억제제를 대신하여 다른 심부전 치료제와 병용하여 투여한다.",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:45:34Z",
+   "last_observed_at": "2026-09-06T21:45:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:34Z"
+}

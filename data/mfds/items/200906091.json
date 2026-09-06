@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906091",
+ "item_name": "파사렉트연고(희석니트로글리세린)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20090803",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088774]희석니트로글리세린",
+ "main_item_ingr_eng": "Dilute Nitroglycerin",
+ "edi_code": "",
+ "atc_code": "C05AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906091",
+ "revisions": [
+  {
+   "revision_id": "200906091-03b40f97",
+   "content_sha256": "03b40f97858803582d54da8e276bc2e265f3d9876ce2aea70917f0b50654e160",
+   "ee_text": "- 의사에 의해 진단된 항문열창의 치료 및 완화 - 치질수술 후의 상처치유 보조 및 통증 완화",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:44Z",
+   "last_observed_at": "2026-09-06T21:44:44Z",
+   "official_revision_date": "2022-02-04"
+  },
+  {
+   "revision_id": "200906091-7ac381f5",
+   "content_sha256": "7ac381f50a170a941f8c7c62f0c210c69a183cb0e38823e9bce67baddc940fde",
+   "ee_text": "의사에 의해 진단된 항문열창의 치료 및 완화",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:44:44Z",
+   "last_observed_at": "2026-09-06T21:44:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:44Z"
+}

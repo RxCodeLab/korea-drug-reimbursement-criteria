@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501435",
+ "item_name": "하이페질정23밀리그램(도네페질염산염일수화물)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20150318",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M232430]도네페질염산염일수화물",
+ "main_item_ingr_eng": "Donepezil Hydrochloride Monohydrate",
+ "edi_code": "642003510",
+ "atc_code": "N06DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501435",
+ "revisions": [
+  {
+   "revision_id": "201501435-5847dcc0",
+   "content_sha256": "5847dcc022443997dddca714ab3b5fe567898f8d9105ca5d732fbcce040b7f7c",
+   "ee_text": "중등도에서 중증의 알츠하이머형 치매증상의 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:22Z",
+   "last_observed_at": "2026-09-06T21:45:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:22Z"
+}

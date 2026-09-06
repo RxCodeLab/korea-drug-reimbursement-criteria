@@ -7,11 +7,12 @@
  "permit_date": "20010724",
  "cancel_date": "20250701",
  "status": "유효기간만료",
- "main_item_ingr": "[M080221]스코폴리아엑스|[M223064]비스무트차질산염|[M223039]베르베린염화물수화물|[M223110]아크리놀수화물",
+ "main_item_ingr": "[M080221]스코폴리아엑스|[M223039]베르베린염화물수화물|[M223064]비스무트차질산염|[M223110]아크리놀수화물",
  "main_item_ingr_eng": "Acrinol Hydrate/Berberine Chloride Hydrate/Bismuth Subnitrate/Scopolia Extract",
  "edi_code": "",
  "atc_code": "A07AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102777",
+ "history_fetched_at": "2026-08-28T13:23:59Z",
  "revisions": [
   {
    "revision_id": "200102777-d59142a7",
@@ -19,9 +20,9 @@
    "ee_text": "설사, 복통(배아픔)을 수반하는 설사, 체함, 묽은 변, 토사",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-28T13:23:59Z",
-   "last_observed_at": "2026-08-28T13:23:59Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:44:17Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:59Z"
+ ]
 }

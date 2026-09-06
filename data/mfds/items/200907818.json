@@ -7,7 +7,7 @@
  "permit_date": "20091102",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M223262]티아민질산염|[M246028]황산망간수화물|[M243785]산화아연|[M089702]셀레늄함유건조효모|[M223240]토코페롤아세테이트|[M258994]아스코르브산|[M270558]β-카로틴 현탁액30%|[M051233]유비데카레논",
+ "main_item_ingr": "[M040133]리보플라빈|[M051233]유비데카레논|[M089702]셀레늄함유건조효모|[M223240]토코페롤아세테이트|[M223262]티아민질산염|[M243785]산화아연|[M246028]황산망간수화물|[M258994]아스코르브산|[M270558]β-카로틴 현탁액30%",
  "main_item_ingr_eng": "Ascorbic Acid/Beta-Carotene Suspension 30%/Manganese Sulfate Hydrate/Riboflavin/Selenium In Dried Yeast/Thiamine Nitrate/Tocopherol Acetate/Ubidecarenone/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:32:33Z",
  "revisions": [
   {
-   "revision_id": "200907818-7966e8bf",
-   "content_sha256": "7966e8bfc925f1314cd4c99c749a26312df59038c53cf3acab2d359f63a8b2ba",
-   "ee_text": "1 , B 2 , C의 보급\">",
+   "revision_id": "200907818-7c17f8be",
+   "content_sha256": "7c17f8bea8e3e177c083715c2be4f51b18fb986abd120471ebeb35ff6a7d1a3b",
+   "ee_text": "다음 경우의 비타민 A, E, B1, B2, C의 보급 - 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다 ㆍ 비타민 A(β-카로틴 현탁액30%) * 눈의 건조감의 완화 * 야맹증(밤에 잘 못보는 증상) ㆍ 비타민 E(토코페롤아세테이트) * 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨ㆍ목결림, 수족저림ㆍ수족냉증(손발이 차가움) 아연의 보급",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200907818/EE",
    "first_observed_at": "2026-08-27T10:32:33Z",
-   "last_observed_at": "2026-08-28T13:24:22Z"
+   "last_observed_at": "2026-09-06T21:44:45Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200907818-d59af096",

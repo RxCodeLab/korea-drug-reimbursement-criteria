@@ -7,7 +7,7 @@
  "permit_date": "20150831",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M262661]올로다테롤염산염|[M260630]티오트로퓸브롬화물수화물",
+ "main_item_ingr": "[M260630]티오트로퓸브롬화물수화물|[M262661]올로다테롤염산염",
  "main_item_ingr_eng": "Olodaterol Hydrochloride/Tiotropium Bromide Hydrate",
  "edi_code": "653501492,653501493",
  "atc_code": "R03AL06",
@@ -20,7 +20,8 @@
    "ee_text": "기관지확장제로서 성인의 만성폐쇄성폐질환의 증상 완화를 위한 유지요법제",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201506154/EE",
    "first_observed_at": "2026-08-27T11:56:49Z",
-   "last_observed_at": "2026-08-28T13:24:45Z"
+   "last_observed_at": "2026-09-06T21:45:27Z",
+   "normalizer_version": 3
   }
  ]
 }

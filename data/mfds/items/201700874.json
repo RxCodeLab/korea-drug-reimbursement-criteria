@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:33:39Z",
  "revisions": [
   {
-   "revision_id": "201700874-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201700874-022b180b",
+   "content_sha256": "022b180b7921e9d4b4f2d5b3b2e514901c2bcb8619d7aab6da5317e7fde82b5f",
+   "ee_text": "1. 신이식 : 동종의 신이식 환자에 대한 거부반응 방지 2. 간이식 : 동종의 간이식 환자에 대한 거부반응 방지",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201700874/EE",
    "first_observed_at": "2026-08-27T12:33:39Z",
-   "last_observed_at": "2026-08-28T13:24:54Z"
+   "last_observed_at": "2026-09-06T21:45:47Z",
+   "normalizer_version": 3
   }
  ]
 }

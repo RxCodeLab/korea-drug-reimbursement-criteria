@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404453",
+ "item_name": "엑스지바주(데노수맙)",
+ "entp_name": "암젠코리아유한회사",
+ "permit_date": "20140929",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260379]데노수맙",
+ "main_item_ingr_eng": "Denosumab",
+ "edi_code": "052300061",
+ "atc_code": "M05BX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404453",
+ "revisions": [
+  {
+   "revision_id": "201404453-ba3e57f3",
+   "content_sha256": "ba3e57f3db372075113ee49f8e3ac581b25ed0123d5506f05b087918e66cd55c",
+   "ee_text": "1. 다발성 골수종 및 고형암의 골전이 환자에서 골격계 증상(skeletal-related events) 발생 위험 감소 골격계 증상은 병리학적 골절, 뼈에 대한 방사선 조사, 척수압박, 뼈 수술을 말한다. 2. 성인 및 골 성숙이 완료된 청소년에서 절제가 불가능하거나 수술적 절제가 중증의 이환을 일으킬 가능성이 있는 골거대세포종 치료",
+   "ee_doc_id": "38",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:16Z",
+   "last_observed_at": "2026-09-06T21:45:16Z",
+   "official_revision_date": "2026-03-27"
+  },
+  {
+   "revision_id": "201404453-28e773ae",
+   "content_sha256": "28e773aecbf71d628290bcf63ec007986543c413ffa840a8bde9a2dad9c7bf74",
+   "ee_text": "1. 다발성 골수종 및 고형암의 골전이 환자에서 골격계 증상(skeletal-related events) 발생 위험 감소. 골격계 증상은 병리학적 골절, 뼈에 대한 방사선 조사, 척수압박, 뼈 수술을 말한다. 2. 성인 및 골 성숙이 완료된 청소년에서 절제가 불가능하거나 수술적 절제가 중증의 이환을 일으킬 가능성이 있는 골거대세포종 치료",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-02-14",
+   "first_observed_at": "2026-09-06T21:45:16Z",
+   "last_observed_at": "2026-09-06T21:45:16Z"
+  },
+  {
+   "revision_id": "201404453-41f649a3",
+   "content_sha256": "41f649a387d2e4b2674511c2a2bdbaf5a947108f63998a7cad126e9ae6afd442",
+   "ee_text": "1. 고형암의 골전이 환자에서 골격계 증상(skeletal-related events) 발생 위험 감소. 단 다발성 골수종 환자는 제외한다. 골격계 증상은 병리학적 골절, 뼈에 대한 방사선 조사, 척수압박, 뼈 수술을 말한다. 2. 성인 및 골 성숙이 완료된 청소년에서 절제가 불가능하거나 수술적 절제가 중증의 이환을 일으킬 가능성이 있는 골거대세포종 치료",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:45:16Z",
+   "last_observed_at": "2026-09-06T21:45:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:16Z"
+}

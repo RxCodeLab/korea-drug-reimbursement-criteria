@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202009336",
+ "item_name": "와킥스필름코팅정5밀리그램(피톨리산트염산염)",
+ "entp_name": "타나베파마코리아주식회사",
+ "permit_date": "20201230",
+ "cancel_date": "20241018",
+ "status": "취하",
+ "main_item_ingr": "[M280197]피톨리산트염산염",
+ "main_item_ingr_eng": "Pitolisant Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N07XX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009336",
+ "revisions": [
+  {
+   "revision_id": "202009336-e7514fd8",
+   "content_sha256": "e7514fd8595109f2673ff0e719f200232291b0090679a1aff5500b1a31d82ef7",
+   "ee_text": "탈력발작을 동반하거나 동반하지 않는 성인의 기면증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:53Z",
+   "last_observed_at": "2026-09-06T21:46:53Z",
+   "official_revision_date": "2020-12-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:53Z"
+}

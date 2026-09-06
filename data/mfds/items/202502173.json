@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502173",
+ "item_name": "트렘피어정맥주사(구셀쿠맙, 유전자재조합)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20250821",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266258]구셀쿠맙",
+ "main_item_ingr_eng": "Guselkumab",
+ "edi_code": "646902851",
+ "atc_code": "L04AC16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502173",
+ "revisions": [
+  {
+   "revision_id": "202502173-8180710f",
+   "content_sha256": "8180710f1952cb17cec1e76d99ec7f4684d4e0aacbf11c89736265e86cc16adb",
+   "ee_text": "1. 궤양성 대장염 및 크론병 보편적인 치료제, 생물학적 제제 또는 소분자약제 등에 적절히 반응하지 않거나, 반응이 없어지거나, 내약성이 없는 중등도에서 중증의 성인 활성 궤양성 대장염 또는 크론병의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:58Z",
+   "last_observed_at": "2026-09-06T21:47:58Z",
+   "official_revision_date": "2025-08-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:58Z"
+}

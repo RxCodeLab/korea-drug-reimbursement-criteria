@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007593",
+ "item_name": "큐엘파마아지트로마이신수화물정",
+ "entp_name": "주식회사큐엘파마",
+ "permit_date": "20201105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250781]아지트로마이신수화물",
+ "main_item_ingr_eng": "Azithromycin Hydrate",
+ "edi_code": "673400350",
+ "atc_code": "J01FA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007593",
+ "revisions": [
+  {
+   "revision_id": "202007593-c8ed5207",
+   "content_sha256": "c8ed52075599eb114f5ea33ffa90d321798da0204b4c2c5d86ff80866dc58c01",
+   "ee_text": "○ 유효균종 황색포도구균, 폐렴연쇄구균, 스트렙토콕쿠스 피오게네스(그룹 A-베타-용혈성), 기타연쇄구균, 인플루엔자균, 파라인플루엔자균, 카타르구균, 박테로이드 프라질리스, 대장균, 백일해균, 파라백일해균, 보렐리아 부르그도르페리, 연성하감균, 임균, 클라미디아 트라코마티스, 레기오넬라 뉴모필라, 폐렴 미코플라즈마, 마이코플라스마 호미니스, 캄필로박터, 톡소플라스마근디어, 매독균 ○ 적응증 - 기관지염, 폐렴 등 하부호흡기 감염증 - 부비동염, 인두염, 편도선염 등 상부호흡기 감염증 - 피부 및 연조직 감염증 - 중이염 - 클라미디아 트라코마티스에 의한 단순 생식기 감염증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:50Z",
+   "last_observed_at": "2026-09-06T21:46:50Z",
+   "official_revision_date": "2020-11-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:50Z"
+}

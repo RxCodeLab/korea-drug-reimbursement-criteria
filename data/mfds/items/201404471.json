@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404471",
+ "item_name": "에리자스나잘스프레이(덱사메타손시페실레이트)",
+ "entp_name": "(주)유영제약",
+ "permit_date": "20140929",
+ "cancel_date": "20241211",
+ "status": "취하",
+ "main_item_ingr": "[M260415]덱사메타손시페실레이트(미분화)",
+ "main_item_ingr_eng": "Dexamethasone Cipecilate Micronized",
+ "edi_code": "",
+ "atc_code": "R01AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404471",
+ "revisions": [
+  {
+   "revision_id": "201404471-9e323b4b",
+   "content_sha256": "9e323b4baa6c87771bc0d32e1ffe4a814784f1b50f7a1f8585ac5cbcf4a2fedd",
+   "ee_text": "연중 알레르기 비염",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:16Z",
+   "last_observed_at": "2026-09-06T21:45:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:16Z"
+}

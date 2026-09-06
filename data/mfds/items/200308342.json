@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308342",
+ "item_name": "페링가니트0.1%주사(니트로글리세린)",
+ "entp_name": "에리슨제약(주)",
+ "permit_date": "20031111",
+ "cancel_date": "20260204",
+ "status": "취하",
+ "main_item_ingr": "[M257143]묽은니트로글리세린",
+ "main_item_ingr_eng": "Dilute Nitroglycerin",
+ "edi_code": "",
+ "atc_code": "C01DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308342",
+ "revisions": [
+  {
+   "revision_id": "200308342-2eb98637",
+   "content_sha256": "2eb98637cebcaba4d99c9e3754561e07ea1b64c23acca21df47cb565f4f2d347",
+   "ee_text": "1. 수술 전 후의 혈압조절 : 심장 수술후의 고혈압 조절 및 수술 중의 저혈압 유지, 심혈관계 수술중과 수술 후 심근 허혈의 치료 2. 급성 심근경색에 수반되는 울혈성 심부전(만성 심부전의 급성 악화기 포함) 3. 협심증 : 불안정형 협심증 또는 질산염 설하정 및 베타 차단제로 치료되지 않는 협심증",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:20Z",
+   "last_observed_at": "2026-09-06T21:44:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:20Z"
+}

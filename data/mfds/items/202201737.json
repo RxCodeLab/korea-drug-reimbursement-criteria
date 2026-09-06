@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201737",
+ "item_name": "오젬픽프리필드펜(세마글루티드)",
+ "entp_name": "노보노디스크제약(주)",
+ "permit_date": "20220428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265401]세마글루티드",
+ "main_item_ingr_eng": "Semaglutide",
+ "edi_code": "654400641,654400651",
+ "atc_code": "A10BJ06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201737",
+ "revisions": [
+  {
+   "revision_id": "202201737-5a405999",
+   "content_sha256": "5a405999ab9a517e1c71fe6ac897ce1d7ddf910ea1b2673afe6ca97d50532486",
+   "ee_text": "･ 이 약은 제2형 당뇨병 조절이 충분하지 않은 성인에서 식이요법과 운동요법의 보조제로서 다음 요법으로 투여한다. - 단독 투여 - 다른 당뇨병 치료제와 이 약의 병용 투여 ･ 제2형 당뇨병과 확증된 심혈관계 질환 성인환자에서 주요 심혈관계 사건(심혈관계 질환 사망, 비치명적 심근경색 또는 비치명적 뇌졸중) 위험을 감소시키기 위해 투여한다. ･ 제2형 당뇨병과 만성 신장병이 있는 성인 환자에서 추정 사구체 여과율 [(estimated glomerular filtration rate (eGFR)]의 지속적인 감소, 말기 신장병에 도달 및 심혈관계 질환 사망 위험을 감소시키기 위해 투여한다.",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:33Z",
+   "last_observed_at": "2026-09-06T21:47:33Z",
+   "official_revision_date": "2025-08-28"
+  },
+  {
+   "revision_id": "202201737-54f3f881",
+   "content_sha256": "54f3f881f587a2677ee7e6003fd38ad2a3be5922b3465d1f8ae3bf6793cf8947",
+   "ee_text": "이 약은 제2형 당뇨병 조절이 충분하지 않은 성인에서 식이요법과 운동요법의 보조제로서 다음 요법으로 투여한다. - 단독 투여 - 다른 당뇨병 치료제와 이 약의 병용 투여 제2형 당뇨병과 확증된 심혈관계 질환 성인환자에서 주요 심혈관계 사건(심혈관계 질환 사망, 비치명적 심근경색 또는 비치명적 뇌졸중) 위험성을 감소시키기 위해 투여한다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-04-28",
+   "first_observed_at": "2026-09-06T21:47:33Z",
+   "last_observed_at": "2026-09-06T21:47:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:33Z"
+}

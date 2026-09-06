@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004515",
+ "item_name": "이바나파연고(덱사메타손)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20200622",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040080]덱사메타손",
+ "main_item_ingr_eng": "Dexamethasone",
+ "edi_code": "",
+ "atc_code": "A01AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004515",
+ "revisions": [
+  {
+   "revision_id": "202004515-981bb0b8",
+   "content_sha256": "981bb0b8c550f9b73c949f339c956d636dc2a83d9c7d7400c214134be737cabb",
+   "ee_text": "다음 질환에 의한 염증의 완화 : 미란(짓무름) 또는 궤양을 수반하는 난치성 구내염(입안염) 및 설염(혀염)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:38Z",
+   "last_observed_at": "2026-09-06T21:46:38Z",
+   "official_revision_date": "2020-06-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:38Z"
+}

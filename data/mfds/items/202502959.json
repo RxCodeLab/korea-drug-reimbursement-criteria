@@ -7,11 +7,12 @@
  "permit_date": "20251114",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223240]토코페롤아세테이트|[M113747]레티놀팔미테이트 유|[M051015]알란토인|[M203915]클로르헥시딘염산염|[M223279]페닐레프린염산염|[M040131]리도카인",
+ "main_item_ingr": "[M040131]리도카인|[M051015]알란토인|[M113747]레티놀팔미테이트 유|[M203915]클로르헥시딘염산염|[M223240]토코페롤아세테이트|[M223279]페닐레프린염산염",
  "main_item_ingr_eng": "Allantoin/Chlorhexidine Hydrochloride/Lidocaine/Phenylephrine Hydrochloride/Retinol Palmitate Oil/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "C05AD01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502959",
+ "history_fetched_at": "2026-09-06T04:18:32Z",
  "revisions": [
   {
    "revision_id": "202502959-62af61c2",
@@ -19,9 +20,9 @@
    "ee_text": "치열ㆍ치핵의 아픔ㆍ가려움ㆍ부종(부기)ㆍ출혈의 일시적 완화 및 소독",
    "ee_doc_id": "1",
    "first_observed_at": "2026-09-06T04:18:32Z",
-   "last_observed_at": "2026-09-06T04:18:32Z",
-   "official_revision_date": "2025-11-14"
+   "last_observed_at": "2026-09-06T21:47:59Z",
+   "official_revision_date": "2025-11-14",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-09-06T04:18:32Z"
+ ]
 }

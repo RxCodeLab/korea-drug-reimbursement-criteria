@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:48:02Z",
  "revisions": [
   {
-   "revision_id": "201302169-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201302169-f044a1e1",
+   "content_sha256": "f044a1e10de2edd4acfa7db585caefdf125bd28581520e58510da17ffd3bf509",
+   "ee_text": "1. 위궤양 2. 다음 질환의 위점막병변(미란,출혈,발적,부종)의 개선 : 급성위염, 만성위염의 급성악화기",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201302169/EE",
    "first_observed_at": "2026-08-27T13:48:02Z",
-   "last_observed_at": "2026-08-28T13:24:29Z"
+   "last_observed_at": "2026-09-06T21:45:01Z",
+   "normalizer_version": 3
   }
  ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410128",
+ "item_name": "이뮤네이트주500(사람혈액응고제8인자-500IU,폰빌레브란트인자로서250IU이상)",
+ "entp_name": "대한적십자사",
+ "permit_date": "20041230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200791]사람혈액응고제8인자",
+ "main_item_ingr_eng": "Human Blood Coagulation Factor VIII",
+ "edi_code": "655300141",
+ "atc_code": "B02BD06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410128",
+ "revisions": [
+  {
+   "revision_id": "200410128-e5988afe",
+   "content_sha256": "e5988afe1fb89125ed50f9493f3c57e6ba449f2aeca5caf94467250b94d2bc30",
+   "ee_text": "폰 빌레브란트 질병 환자의 치료",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:25Z",
+   "last_observed_at": "2026-09-06T21:44:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:25Z"
+}

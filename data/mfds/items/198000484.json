@@ -7,7 +7,7 @@
  "permit_date": "19801227",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M246643]에코나졸질산염|[M040662]트리암시놀론아세토니드",
+ "main_item_ingr": "[M040662]트리암시놀론아세토니드|[M246643]에코나졸질산염",
  "main_item_ingr_eng": "Econazole Nitrate/Triamcinolone Acetonide",
  "edi_code": "648601334",
  "atc_code": "D01A",
@@ -20,7 +20,8 @@
    "ee_text": "- 염증상 피부사상균증 : 무좀, 완선, 두부백선 - 어루러기, 피부칸디다증 - 알레르기성 또는 염증성 피부질환",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198000484/EE",
    "first_observed_at": "2026-08-27T12:07:18Z",
-   "last_observed_at": "2026-08-28T13:23:38Z"
+   "last_observed_at": "2026-09-06T21:44:07Z",
+   "normalizer_version": 3
   }
  ]
 }

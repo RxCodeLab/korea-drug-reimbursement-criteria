@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403283",
+ "item_name": "에스포젠프리필드주4000IU/mL(인에리스로포이에틴,유전자재조합)(수출명:에리틴프리필드주,네오틴프리필드주,엘지에스포젠프리필드주,이포티브프리필드주,에스포젠프리필드플러스주,에포비탄프리필드주)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20040623",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091843]인에리스로포이에틴(유전자재조합)(벡터;pMI-EP060-BiP-DHFR 숙주;CH0 dhfr-ATCC CRL9096)|[M091843]인에리스로포이에틴(유전자재조합)(벡터;pMI-EP060-BiP-DHFR 숙주;CH0 dhfr-ATCC CRL9096)|[M091843]인에리스로포이에틴(유전자재조합)(벡터;pMI-EP060-BiP-DHFR 숙주;CH0 dhfr-ATCC CRL9096)|[M091843]인에리스로포이에틴(유전자재조합)(벡터;pMI-EP060-BiP-DHFR 숙주;CH0 dhfr-ATCC CRL9096)",
+ "main_item_ingr_eng": "Human Erythropoietin (rDNA, Vector; pMI-EP060-BiP-DHFR, Host; CH0 dhfr-ATCC CRL9096)",
+ "edi_code": "668900331,668900341",
+ "atc_code": "B03XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403283",
+ "revisions": [
+  {
+   "revision_id": "200403283-9a02326e",
+   "content_sha256": "9a02326e68ef68b42b10de532bb76ccf221ae54b0412e2e9ea0905eed33b0b3c",
+   "ee_text": "만성신부전 환자에게 나타나는 빈혈 1) 증후성 빈혈 2) 수혈이 필요한 빈혈",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:23Z",
+   "last_observed_at": "2026-09-06T21:44:23Z",
+   "official_revision_date": "2020-12-21"
+  },
+  {
+   "revision_id": "200403283-a6840c9f",
+   "content_sha256": "a6840c9f055f8849d1e576838cf50843129b788e6bb6974c9898f502f32d5717",
+   "ee_text": "1. 만성신부전 환자에게 나타나는 빈혈 1) 증후성 빈혈 2) 수혈이 필요한 빈혈 2. 예측 효능ㆍ효과 1) 수술시행환자의 자기혈 저혈 2) 화학요법을 받는 암환자에게 나타나는 빈혈",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:44:23Z",
+   "last_observed_at": "2026-09-06T21:44:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:23Z"
+}

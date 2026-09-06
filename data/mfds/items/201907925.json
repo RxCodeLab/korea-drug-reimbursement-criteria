@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907925",
+ "item_name": "레비원정1000밀리그램(레비티라세탐)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20191114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096537]레비티라세탐",
+ "main_item_ingr_eng": "Levetiracetam",
+ "edi_code": "657806910",
+ "atc_code": "N03AX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907925",
+ "revisions": [
+  {
+   "revision_id": "201907925-d0c195cf",
+   "content_sha256": "d0c195cf34eec4c5a3e2129869025dda6a507530bf0059f0763b802b713d0cba",
+   "ee_text": "1. 단독요법 처음 뇌전증로 진단된 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(4세 이상) 2. 부가요법 - 기존 1차 뇌전증치료제 투여로 적절하게 조절이 되지 않는 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(4세 이상) - 소아 간대성 근경련 뇌전증(Juvenile Myoclonic Epilepsy)환자의 근간대성 발작의 치료(12세 이상) - 특발성 전신성 뇌전증(Idiopathic Generalized Epilepsy) 환자의 1차성 전신 강직-간대 발작의 치료(12세 이상) 레비티라세탐 주사제는 경구투여가 일시적으로 불가능한 환자에 투여한다.",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:24Z",
+   "last_observed_at": "2026-09-06T21:46:24Z",
+   "official_revision_date": "2022-10-31"
+  },
+  {
+   "revision_id": "201907925-b5e4a1cc",
+   "content_sha256": "b5e4a1cc24e7363c3bfbfc0b250c28b83b3219f2c881aa5f2c73bc6f52a8dab2",
+   "ee_text": "1. 단독요법 처음 간질로 진단된 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(4세 이상) 2. 부가요법 - 기존 1차 간질치료제 투여로 적절하게 조절이 되지 않는 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(4세 이상) - 소아 간대성 근경련 간질(Juvenile Myoclonic Epilepsy)환자의 근간대성 발작의 치료(12세 이상) - 특발성 전신성 간질(Idiopathic Generalized Epilepsy) 환자의 1차성 전신 강직-간대 발작의 치료(12세 이상) 레비티라세탐 주사제는 경구투여가 일시적으로 불가능한 환자에 투여한다.",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-10-21",
+   "first_observed_at": "2026-09-06T21:46:24Z",
+   "last_observed_at": "2026-09-06T21:46:24Z"
+  },
+  {
+   "revision_id": "201907925-3585a9b1",
+   "content_sha256": "3585a9b1b89fc4edbedc4bf9b1cc39eaba57d331a709b30de715c72090f0669b",
+   "ee_text": "1. 단독요법 처음 간질로 진단된 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(16세 이상) 2. 부가요법 - 기존 1차 간질치료제 투여로 적절하게 조절이 되지 않는 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(4세 이상) - 소아 간대성 근경련 간질(Juvenile Myoclonic Epilepsy)환자의 근간대성 발작의 치료(12세 이상) - 특발성 전신성 간질(Idiopathic Generalized Epilepsy) 환자의 1차성 전신 강직-간대 발작의 치료(12세 이상)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-11-14",
+   "first_observed_at": "2026-09-06T21:46:24Z",
+   "last_observed_at": "2026-09-06T21:46:24Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:24Z"
+}

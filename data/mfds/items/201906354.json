@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A02BX14",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906354",
+ "history_fetched_at": "2026-08-27T13:48:30Z",
  "revisions": [
   {
    "revision_id": "201906354-fd3f1734",
@@ -19,9 +20,9 @@
    "ee_text": "1. 위궤양 2. 다음 질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:48:30Z",
-   "last_observed_at": "2026-08-27T13:48:30Z",
-   "official_revision_date": "2019-09-06"
+   "last_observed_at": "2026-09-06T21:46:20Z",
+   "official_revision_date": "2019-09-06",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:48:30Z"
+ ]
 }

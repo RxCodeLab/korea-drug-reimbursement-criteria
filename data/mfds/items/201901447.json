@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R06AX24",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901447",
+ "history_fetched_at": "2026-08-27T13:08:45Z",
  "revisions": [
   {
    "revision_id": "201901447-1037b837",
@@ -19,7 +20,8 @@
    "ee_text": "1. 기관지천식 2. 알레르기비염 3. 두드러기, 습진ㆍ피부염, 피부가려움, 가려움발진(痒疹), 가려움을 동반한 보통건선",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201901447/EE",
    "first_observed_at": "2026-08-27T13:08:45Z",
-   "last_observed_at": "2026-08-27T13:08:45Z"
+   "last_observed_at": "2026-09-06T21:46:08Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201901447-bb0e734a",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-27T13:08:45Z",
    "last_observed_at": "2026-08-27T13:08:45Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:08:45Z"
+ ]
 }

@@ -9,7 +9,7 @@
  "status": "정상",
  "main_item_ingr": "[M260872]폴마콕시브",
  "main_item_ingr_eng": "Polmacoxib",
- "edi_code": "052701440",
+ "edi_code": "052701440,670402640",
  "atc_code": "M01AH07",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202342",
  "history_fetched_at": "2026-08-27T13:17:16Z",
@@ -20,7 +20,8 @@
    "ee_text": "골관절염(퇴행관절염)의 증상이나 징후의 완화 선택성 COX-2 억제제인 이 약을 투여하는 경우, 개개 환자의 전반적인 위험성을 평가해야 한다. (사용상의 주의사항 5. 일반적 주의 참고).",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202202342/EE",
    "first_observed_at": "2026-08-27T13:17:16Z",
-   "last_observed_at": "2026-08-28T13:25:29Z"
+   "last_observed_at": "2026-09-06T21:47:34Z",
+   "normalizer_version": 3
   }
  ]
 }

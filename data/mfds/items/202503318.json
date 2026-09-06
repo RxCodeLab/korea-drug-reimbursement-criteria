@@ -9,9 +9,10 @@
  "status": "정상",
  "main_item_ingr": "[M286015]펜플루라민염산염",
  "main_item_ingr_eng": "Fenfluramine Hydrochloride",
- "edi_code": "",
- "atc_code": "",
+ "edi_code": "654101101",
+ "atc_code": "N03AX26",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503318",
+ "history_fetched_at": "2026-08-29T23:00:36Z",
  "revisions": [
   {
    "revision_id": "202503318-42478845",
@@ -19,9 +20,9 @@
    "ee_text": "2세 이상의 드라벳증후군 환자에서 발작 치료를 위한 부가요법",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-29T23:00:36Z",
-   "last_observed_at": "2026-08-29T23:00:36Z",
-   "official_revision_date": "2025-12-18"
+   "last_observed_at": "2026-09-06T21:47:59Z",
+   "official_revision_date": "2025-12-18",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-29T23:00:36Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "19980122",
  "cancel_date": "20260401",
  "status": "유효기간만료",
- "main_item_ingr": "[M080328]트록세루틴|[M251920]헵타미놀염산염|[M088948]은행엽건조엑스",
+ "main_item_ingr": "[M080328]트록세루틴|[M088948]은행엽건조엑스|[M251920]헵타미놀염산염",
  "main_item_ingr_eng": "Ginkgo Biloba Leaf Dried Extract/Heptaminol Hydrochloride/Troxerutin",
  "edi_code": "",
  "atc_code": "C05B",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801815",
+ "history_fetched_at": "2026-08-28T13:23:49Z",
  "revisions": [
   {
    "revision_id": "199801815-2a8065c4",
@@ -19,9 +20,9 @@
    "ee_text": "정맥류로 인한 다음 증상 : 하지 중압감, 정맥염 치핵과 관련된 여러증상",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:23:49Z",
-   "last_observed_at": "2026-08-28T13:23:49Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:44:14Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:49Z"
+ ]
 }

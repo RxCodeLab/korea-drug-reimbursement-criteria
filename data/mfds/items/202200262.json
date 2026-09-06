@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200262",
+ "item_name": "심비코트라피헬러흡입제80/2.25마이크로그램",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20220114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084482]부데소니드|[M257129]포르모테롤푸마르산염수화물",
+ "main_item_ingr_eng": "Budesonide/Formoterol Fumarate Hydrate",
+ "edi_code": "650701271",
+ "atc_code": "R03AK07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200262",
+ "revisions": [
+  {
+   "revision_id": "202200262-418ce448",
+   "content_sha256": "418ce4481b90140358563a9f29fe39ada31e07806c40d7aa876f6a79e759b37d",
+   "ee_text": "천식환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:30Z",
+   "last_observed_at": "2026-09-06T21:47:30Z",
+   "official_revision_date": "2022-01-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:30Z"
+}

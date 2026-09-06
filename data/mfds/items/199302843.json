@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199302843",
+ "item_name": "아이브이에프엠주150아이유(메노트로핀)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "19930712",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085252]메노트로핀|[M085252]메노트로핀",
+ "main_item_ingr_eng": "Menotrophin",
+ "edi_code": "668900251",
+ "atc_code": "G03GA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199302843",
+ "revisions": [
+  {
+   "revision_id": "199302843-4b51d081",
+   "content_sha256": "4b51d08174e5555769a0e25b0065543f1a0433def709d1a8b9e8045ddcb48e16",
+   "ee_text": "1) 여성 : 무월경, 무배란증 2) 남성 : 저성선자극호르몬성 성선기능저하증, 무정자증",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:11Z",
+   "last_observed_at": "2026-09-06T21:44:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:11Z"
+}

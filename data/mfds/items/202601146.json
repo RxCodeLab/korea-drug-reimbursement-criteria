@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "M09AX07",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601146",
+ "history_fetched_at": "2026-08-27T12:13:35Z",
  "revisions": [
   {
    "revision_id": "202601146-e9622252",
@@ -19,7 +20,8 @@
    "ee_text": "5q 척수성 근위축증의 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601146/EE",
    "first_observed_at": "2026-08-27T12:13:35Z",
-   "last_observed_at": "2026-08-27T12:13:35Z"
+   "last_observed_at": "2026-09-06T21:48:03Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "202601146-b3593a8c",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-27T12:13:35Z",
    "last_observed_at": "2026-08-27T12:13:35Z"
   }
- ],
- "history_fetched_at": "2026-08-27T12:13:35Z"
+ ]
 }

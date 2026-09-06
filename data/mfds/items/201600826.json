@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600826",
+ "item_name": "스트렌식주40mg/mL(아스포타제알파)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20160212",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263549]아스포타제알파|[M263549]아스포타제알파|[M263549]아스포타제알파|[M263549]아스포타제알파",
+ "main_item_ingr_eng": "Asfotase Alpha",
+ "edi_code": "650701331,650701341,650701351,650701361",
+ "atc_code": "A16AB13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600826",
+ "revisions": [
+  {
+   "revision_id": "201600826-52555881",
+   "content_sha256": "5255588196e63603cdd7ea566a04d20e89c4d2cf9b138f07d86340e3b3dda665",
+   "ee_text": "소아기에 발병한 저인산효소증 환자의 골 증상을 치료하기 위한 장기간의 효소 대체 요법 소아기는 주산기/영아기(발병 시 생후 0~6개월) 및 청소년기(발병 시 생후 6개월~만 18세)를 포함한다.",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:32Z",
+   "last_observed_at": "2026-09-06T21:45:32Z",
+   "official_revision_date": "2019-06-11"
+  },
+  {
+   "revision_id": "201600826-6467221a",
+   "content_sha256": "6467221a462c72164bc9981e78d57b00668321acc0b046842cf827912061ed4a",
+   "ee_text": "소아기에 발병한 저인산증 환자의 골 증상을 치료하기 위한 장기간의 효소 대체 요법",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:45:32Z",
+   "last_observed_at": "2026-09-06T21:45:32Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:32Z"
+}

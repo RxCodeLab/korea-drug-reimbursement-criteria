@@ -7,11 +7,12 @@
  "permit_date": "20190222",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051015]알란토인|[M040131]리도카인|[M223240]토코페롤아세테이트|[M223298]프레드니솔론아세테이트",
+ "main_item_ingr": "[M040131]리도카인|[M051015]알란토인|[M223240]토코페롤아세테이트|[M223298]프레드니솔론아세테이트",
  "main_item_ingr_eng": "Allantoin/Lidocaine/Prednisolone Acetate/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "C05AA04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901128",
+ "history_fetched_at": "2026-08-28T13:25:04Z",
  "revisions": [
   {
    "revision_id": "201901128-09f57f5f",
@@ -19,9 +20,9 @@
    "ee_text": "치열ㆍ치핵의 아픔ㆍ가려움ㆍ부종(부기)ㆍ출혈의 일시적 완화",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:04Z",
-   "last_observed_at": "2026-08-28T13:25:04Z",
-   "official_revision_date": "2019-02-22"
+   "last_observed_at": "2026-09-06T21:46:08Z",
+   "official_revision_date": "2019-02-22",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:04Z"
+ ]
 }

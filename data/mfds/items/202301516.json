@@ -7,11 +7,12 @@
  "permit_date": "20230510",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M256672]비페닐디메틸디카르복실레이트|[M256157]시아노코발라민100배산|[M040133]리보플라빈|[M204304]피리독신염산염|[M253171]아데닌염산염|[M081379]항독성간장엑스|[M283775]L-카르니틴나파디실산염",
+ "main_item_ingr": "[M040133]리보플라빈|[M081379]항독성간장엑스|[M204304]피리독신염산염|[M253171]아데닌염산염|[M256157]시아노코발라민100배산|[M256672]비페닐디메틸디카르복실레이트|[M283775]L-카르니틴나파디실산염",
  "main_item_ingr_eng": "Adenine Hydrochloride/Antitoxic Liver Extract/Biphenyl Dimethyl Dicarboxylate/Cyanocobalamin Powder 1%/L-Carnitine Napadisilate/Pyridoxine Hydrochloride/Riboflavin",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301516",
+ "history_fetched_at": "2026-08-27T12:32:01Z",
  "revisions": [
   {
    "revision_id": "202301516-3837c64d",
@@ -19,9 +20,9 @@
    "ee_text": "트란스아미나제(SGPT)가 상승된 간질환",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:32:01Z",
-   "last_observed_at": "2026-08-27T12:32:01Z",
-   "official_revision_date": "2023-05-10"
+   "last_observed_at": "2026-09-06T21:47:44Z",
+   "official_revision_date": "2023-05-10",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:32:01Z"
+ ]
 }

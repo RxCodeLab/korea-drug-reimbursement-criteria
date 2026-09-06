@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "N06DX02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700890",
+ "history_fetched_at": "2026-08-28T13:24:11Z",
  "revisions": [
   {
-   "revision_id": "200700890-2cd5a700",
-   "content_sha256": "2cd5a700974a41bf612103a389da8469c0506f62c12abbd0c7461836e032e298",
-   "ee_text": "이명, 두통, 기억력 감퇴, 집중력장애, 우울감, 어지러움 등의 치매성 증상을 수반하는 기질성 뇌기능장애의 치료",
+   "revision_id": "200700890-da3325d9",
+   "content_sha256": "da3325d9f05c354d477aa4ccb7e0cc13b42f82497198c3aeaac6913d3a691b62",
+   "ee_text": "1. 주효능ㆍ효과 이명, 두통, 기억력 감퇴, 집중력장애, 우울감, 어지러움 등의 치매성 증상을 수반하는 기질성 뇌기능장애의 치료",
    "ee_doc_id": "16",
    "first_observed_at": "2026-08-28T13:24:11Z",
-   "last_observed_at": "2026-08-28T13:24:11Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:44:34Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:11Z"
+ ]
 }

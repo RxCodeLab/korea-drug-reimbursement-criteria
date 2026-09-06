@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501159",
+ "item_name": "펙수클루정20밀리그램(펙수프라잔염산염)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20250512",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281896]펙수프라잔염산염",
+ "main_item_ingr_eng": "Fexuprazan Hydrochloride",
+ "edi_code": "641608340",
+ "atc_code": "A02BC10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501159",
+ "revisions": [
+  {
+   "revision_id": "202501159-a0412d33",
+   "content_sha256": "a0412d3383663f10a6abe3af38a6ffba4995bb88fb30ada61982ea180eb555a4",
+   "ee_text": "비스테로이드소염진통제(NSAIDs) 유도성 소화성궤양(위궤양 및 십이지장궤양)의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:55Z",
+   "last_observed_at": "2026-09-06T21:47:55Z",
+   "official_revision_date": "2025-05-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:55Z"
+}

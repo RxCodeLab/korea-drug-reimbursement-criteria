@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300449",
+ "item_name": "로프레사점안액0.02%(네타르수딜메실산염)",
+ "entp_name": "한국산텐제약(주)",
+ "permit_date": "20230203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283449]네타르수딜메실산염",
+ "main_item_ingr_eng": "Netarsudil Mesylate",
+ "edi_code": "665600341",
+ "atc_code": "S01EX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300449",
+ "revisions": [
+  {
+   "revision_id": "202300449-3949fcc5",
+   "content_sha256": "3949fcc5206ca8ac0e9d7c46cad29b9c494016b4fa0103195c1d719ef5e0c979",
+   "ee_text": "다음 질환의 안압 하강 : 개방각 녹내장, 고안압증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:39Z",
+   "last_observed_at": "2026-09-06T21:47:39Z",
+   "official_revision_date": "2023-02-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:39Z"
+}

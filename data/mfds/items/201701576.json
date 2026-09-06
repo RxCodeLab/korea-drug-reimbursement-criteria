@@ -7,11 +7,12 @@
  "permit_date": "20170331",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M258339]다파글리플로진프로판디올수화물|[M251489]삭사글립틴수화물",
+ "main_item_ingr": "[M251489]삭사글립틴수화물|[M258339]다파글리플로진프로판디올수화물",
  "main_item_ingr_eng": "Dapagliflozin Propanediol Hydrate/Saxagliptin Hydrate",
  "edi_code": "650701050",
  "atc_code": "A10BD21",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701576",
+ "history_fetched_at": "2026-08-28T13:24:55Z",
  "revisions": [
   {
    "revision_id": "201701576-5d806527",
@@ -19,8 +20,9 @@
    "ee_text": "이 약은 다파글리플로진과 삭사글립틴의 병용투여가 적합한 제 2형 당뇨병 환자의 혈당 조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
    "ee_doc_id": "18",
    "first_observed_at": "2026-08-28T13:24:55Z",
-   "last_observed_at": "2026-08-28T13:24:55Z",
-   "official_revision_date": "2022-03-14"
+   "last_observed_at": "2026-09-06T21:45:48Z",
+   "official_revision_date": "2022-03-14",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201701576-ecd44ab8",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:55Z",
    "last_observed_at": "2026-08-28T13:24:55Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:55Z"
+ ]
 }

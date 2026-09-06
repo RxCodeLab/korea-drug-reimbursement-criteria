@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000411",
+ "item_name": "인베가서방정6밀리그램(팔리페리돈)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20200128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M220478]팔리페리돈|[M220478]팔리페리돈",
+ "main_item_ingr_eng": "Paliperidone",
+ "edi_code": "646902310",
+ "atc_code": "N05AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000411",
+ "revisions": [
+  {
+   "revision_id": "202000411-7431109c",
+   "content_sha256": "7431109cfd1381dcc635044e23d658e03266a6f20713658556d60a720689ff3e",
+   "ee_text": "1. 정신분열병(조현병)의 치료 2. 정신분열(조현)정동장애의 급성 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:28Z",
+   "last_observed_at": "2026-09-06T21:46:28Z",
+   "official_revision_date": "2020-01-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:28Z"
+}

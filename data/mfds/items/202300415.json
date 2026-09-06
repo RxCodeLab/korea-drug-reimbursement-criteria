@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300415",
+ "item_name": "엔젤라프리필드펜주24mg(소마트로곤)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20230131",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283467]소마트로곤",
+ "main_item_ingr_eng": "Somatrogon",
+ "edi_code": "648903821",
+ "atc_code": "H01AC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300415",
+ "revisions": [
+  {
+   "revision_id": "202300415-5e5bb868",
+   "content_sha256": "5e5bb8684359fc7705665c9153911097e9d7443488ea7d533ea388b4ebb07b63",
+   "ee_text": "뇌하수체 성장호르몬 분비장애로 인한 소아(만3세 이상)의 성장부전",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:38Z",
+   "last_observed_at": "2026-09-06T21:47:38Z",
+   "official_revision_date": "2023-01-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:38Z"
+}

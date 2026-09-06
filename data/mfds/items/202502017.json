@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502017",
+ "item_name": "센비도주(테스토스테론운데카노에이트)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20250801",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234840]테스토스테론운데카노에이트",
+ "main_item_ingr_eng": "Testosterone Undecanoate",
+ "edi_code": "",
+ "atc_code": "G03BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502017",
+ "revisions": [
+  {
+   "revision_id": "202502017-ed6ac68a",
+   "content_sha256": "ed6ac68a9509c49ecf70bed8fe4f4e4ab7b99d49faedd84350929fe7e694aef9",
+   "ee_text": "남성의 일차성 및 이차성 성선기능저하증에 테스토스테론 대치치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:57Z",
+   "last_observed_at": "2026-09-06T21:47:57Z",
+   "official_revision_date": "2025-08-01"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:57Z"
+}

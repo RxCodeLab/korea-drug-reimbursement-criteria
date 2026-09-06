@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806434",
+ "item_name": "타로암모늄락테이트로션12%(젖산암모늄액)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20080611",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M089636]젖산암모늄액",
+ "main_item_ingr_eng": "Ammonium Lactate Solution",
+ "edi_code": "",
+ "atc_code": "D02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806434",
+ "revisions": [
+  {
+   "revision_id": "200806434-4a8fcb44",
+   "content_sha256": "4a8fcb44e44b2ada688fe866c0c586d3fea780ddafeb79c352c116aafd13a1fe",
+   "ee_text": "건조하고 거친 피부(건조증), 심상성어린선(魚鱗蘚)(보통어린선) 및 이로 인한 가려움의 일시적 완화",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:41Z",
+   "last_observed_at": "2026-09-06T21:44:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:41Z"
+}

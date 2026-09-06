@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707223",
+ "item_name": "푸레파인좌제",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20170925",
+ "cancel_date": "20231101",
+ "status": "취하",
+ "main_item_ingr": "[M040131]리도카인|[M051015]알란토인|[M203915]클로르헥시딘염산염|[M204434]L-멘톨|[M223237]테트라히드로졸린염산염",
+ "main_item_ingr_eng": "Allantoin/Chlorhexidine Hydrochloride/L-Menthol/Lidocaine/Tetrahydrozoline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C05AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707223",
+ "revisions": [
+  {
+   "revision_id": "201707223-ccf3f0dd",
+   "content_sha256": "ccf3f0dd4457cd0902b96ca6b422fc6e467bfd3e9adb4d135ba3ed360e14d37d",
+   "ee_text": "치열·치핵의 아픔·가려움·부종(부기)·출혈의 일시적 완화",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:51Z",
+   "last_observed_at": "2026-09-06T21:45:51Z",
+   "official_revision_date": "2017-09-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:51Z"
+}

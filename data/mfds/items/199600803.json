@@ -12,6 +12,7 @@
  "edi_code": "656001050",
  "atc_code": "N01BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199600803",
+ "history_fetched_at": "2026-08-28T13:23:47Z",
  "revisions": [
   {
    "revision_id": "199600803-66b8b34c",
@@ -19,8 +20,9 @@
    "ee_text": "1. 표면마취와 윤활작용 1) 방광경검사, 카테터 삽입, 소식자법, 기타 요도내 수술시 남성ㆍ여성의 요도 2) 위내시경, 기관지경과 같은 내시경 검사시 비강 및 인두강 3) 직장경 검사시 4) 삽관시 2. 방광염 및 요도염의 통증 경감",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:23:47Z",
-   "last_observed_at": "2026-08-28T13:23:47Z",
-   "official_revision_date": "2018-04-18"
+   "last_observed_at": "2026-09-06T21:44:12Z",
+   "official_revision_date": "2018-04-18",
+   "normalizer_version": 3
   },
   {
    "revision_id": "199600803-35e292ab",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:47Z",
    "last_observed_at": "2026-08-28T13:23:47Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:47Z"
+ ]
 }

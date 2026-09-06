@@ -7,7 +7,7 @@
  "permit_date": "20240221",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M223289]폴산|[M236913]제피아스코르브산|[M243785]산화아연|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M244748]판토텐산칼슘|[M096428]벤포티아민|[M051233]유비데카레논|[M244365]셀레늄함유건조효모|[M040262]산화마그네슘|[M117558]시아노코발라민 1000배산|[M249150]d-비오틴|[M247683]콜린타르타르산염|[M040488]이노시톨|[M223167]우르소데옥시콜산|[M255819]토코페롤아세테이트 2배산|[M202809]감마-오리자놀|[M102050]콜레칼시페롤농축분말",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M040488]이노시톨|[M051233]유비데카레논|[M096428]벤포티아민|[M102050]콜레칼시페롤농축분말|[M117558]시아노코발라민 1000배산|[M202809]감마-오리자놀|[M204304]피리독신염산염|[M223167]우르소데옥시콜산|[M223289]폴산|[M236913]제피아스코르브산|[M243785]산화아연|[M244365]셀레늄함유건조효모|[M244748]판토텐산칼슘|[M247683]콜린타르타르산염|[M249150]d-비오틴|[M255819]토코페롤아세테이트 2배산",
  "main_item_ingr_eng": "Ascorbic Acid Coated/Benfotiamine/Calcium Pantothenate/Cholecalciferol Concentrate Powder/Choline Tartrate/Cyanocobalamin Powder 0.1%/D-Biotin/Folic Acid/Gamma-Oryzanol/Inositol/Magnesium Oxide/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Selenium In Dried Yeast/Tocopherol Acetate Powder 50%/Ubidecarenone/Ursodeoxycholic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:33:48Z",
  "revisions": [
   {
-   "revision_id": "202400366-67113f96",
-   "content_sha256": "67113f96d925b8ca631843df4d268a9bf25dd564f99344538b7eb5d69397f013",
-   "ee_text": "1 , B 2 , B 6 , C의 보급\">",
+   "revision_id": "202400366-f869eac4",
+   "content_sha256": "f869eac4f10f1535a16ff0c7a80d34d57ae19f42737ce6a492e7652dba0309e0",
+   "ee_text": "○ 다음 경우의 비타민 D, E, B1, B2, B6, C의 보급 - 육체피로 - 임신·수유기 - 병중·병후 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. • 뼈, 이의 발육불량 • 구루병의 예방 • 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등), 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 • 각기 • 눈의피로 ○ 아연의 보급",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202400366/EE",
    "first_observed_at": "2026-08-27T10:33:48Z",
-   "last_observed_at": "2026-08-27T10:53:05Z"
+   "last_observed_at": "2026-09-06T21:47:47Z",
+   "normalizer_version": 3
   }
  ]
 }

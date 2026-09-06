@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401812",
+ "item_name": "엑스지바프리필드시린지(데노수맙)",
+ "entp_name": "암젠코리아유한회사",
+ "permit_date": "20240726",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260379]데노수맙",
+ "main_item_ingr_eng": "Denosumab",
+ "edi_code": "052300151",
+ "atc_code": "M05BX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401812",
+ "revisions": [
+  {
+   "revision_id": "202401812-e86f8c0b",
+   "content_sha256": "e86f8c0be2b237b4279d5809edea8969e85059659c6c7dc8ca41f38aa7478350",
+   "ee_text": "1. 다발성 골수종 및 고형암의 골전이 환자에서 골격계 증상(skeletal-related events)발생 위험 감소 골격계 증상은 병리학적 골절, 뼈에 대한 방사선 조사, 척수압박, 뼈 수술을 말한다. 2. 성인 및 골 성숙이 완료된 청소년에서 절제가 불가능하거나 수술적 절제가 중증의 이환을 일으킬 가능성이 있는 골거대세포종 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:50Z",
+   "last_observed_at": "2026-09-06T21:47:50Z",
+   "official_revision_date": "2026-03-27"
+  },
+  {
+   "revision_id": "202401812-435119a8",
+   "content_sha256": "435119a8e0c14e7870346c6ceecb31a47f67843341045a59830e9d7eaf9e0615",
+   "ee_text": "1. 다발성 골수종 및 고형암의 골전이 환자에서 골격계 증상(skeletal-related events)발생 위험 감소 골격계 증상은 병리학적 골절, 뼈에 대한 방사선 조사, 척수압박, 뼈 수술을 말한다. 2. 성인 및 골 성숙이 완료된 청소년에서 절제가 불가능하거나 수술적 절제가 중증의 이환을 일으킬 가능성이 있는 골거대세포종 치료.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-07-26",
+   "first_observed_at": "2026-09-06T21:47:50Z",
+   "last_observed_at": "2026-09-06T21:47:50Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:50Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201885",
+ "item_name": "네폭실캡슐500mg(구연산제이철수화물)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20220509",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282661]구연산제이철수화물",
+ "main_item_ingr_eng": "Ferric Citrate Hydrate",
+ "edi_code": "668903410",
+ "atc_code": "V03AE08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201885",
+ "revisions": [
+  {
+   "revision_id": "202201885-e410f29e",
+   "content_sha256": "e410f29e4ff98f003c2bc4c38c13884d0487d8a9c48e2ecfeab490604c597d8a",
+   "ee_text": "혈액투석을 받고 있는 만성 신장질환 환자의 고인산혈증 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:34Z",
+   "last_observed_at": "2026-09-06T21:47:34Z",
+   "official_revision_date": "2022-05-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:34Z"
+}

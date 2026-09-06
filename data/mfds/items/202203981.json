@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203981",
+ "item_name": "로페라신캡슐",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20221102",
+ "cancel_date": "20250314",
+ "status": "취하",
+ "main_item_ingr": "[M099577]스코폴리아엑스10배산|[M223039]베르베린염화물수화물|[M223064]비스무트차질산염|[M223110]아크리놀수화물",
+ "main_item_ingr_eng": "Acrinol Hydrate/Berberine Chloride Hydrate/Bismuth Subnitrate/Scopolia Extract Powder 10%",
+ "edi_code": "",
+ "atc_code": "A07BB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203981",
+ "revisions": [
+  {
+   "revision_id": "202203981-4d81a983",
+   "content_sha256": "4d81a983b0fd7f1037c0fd6015bde6f9f62ee72fcfa44ea0b79edc7ffe70613e",
+   "ee_text": "설사, 복통(배아픔)을 수반하는 설사, 묽은 변, 토사",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:37Z",
+   "last_observed_at": "2026-09-06T21:47:37Z",
+   "official_revision_date": "2022-11-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:37Z"
+}

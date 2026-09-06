@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003392",
+ "item_name": "이프더케어장용정",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20200511",
+ "cancel_date": "20240329",
+ "status": "취하",
+ "main_item_ingr": "[M204304]피리독신염산염|[M250452]독시라민숙신산염",
+ "main_item_ingr_eng": "Doxylamine Succinate/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AA59",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003392",
+ "revisions": [
+  {
+   "revision_id": "202003392-e5b97458",
+   "content_sha256": "e5b974580bf658969afec19fc63e8b03ae4e126303a5a2d0872db7cc935111b1",
+   "ee_text": "보존적 요법에 반응하지 않는 임부의 구역 및 구토 조절",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:35Z",
+   "last_observed_at": "2026-09-06T21:46:35Z",
+   "official_revision_date": "2020-05-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:35Z"
+}

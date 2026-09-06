@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198200943",
+ "item_name": "삼진로라제팜주",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19820902",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088374]로라제팜",
+ "main_item_ingr_eng": "Lorazepam",
+ "edi_code": "642901181,642901191,647806101",
+ "atc_code": "N05BA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200943",
+ "revisions": [
+  {
+   "revision_id": "198200943-8254827d",
+   "content_sha256": "8254827d36ca2cae7df988012aea05268ca4e6e34b635a49ff9312d224f5bc23",
+   "ee_text": "(경구 : 정제) 1. 신경증에서의 불안·긴장·우울 2. 정신신체장애(자율신경실조증, 심장신경증)에서의 불안·긴장·우울 3. 마취전 투약 (주사제) 경구투여가 불가능한 경우 및 경구투여보다 신속한 효과를 필요로 하는 경우 : 1. 마취전 투약 2. 다음 검사시의 불안·긴장 : 내시경검사, 기관지경검사, 동맥촬영 3. 급성 불안, 급성 흥분 또는 급성 조증",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:07Z",
+   "last_observed_at": "2026-09-06T21:44:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:07Z"
+}

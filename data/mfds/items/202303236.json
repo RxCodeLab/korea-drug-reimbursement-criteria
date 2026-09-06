@@ -7,11 +7,12 @@
  "permit_date": "20231129",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M269209]인삼40%에탄올건조엑스|[M088948]은행엽건조엑스",
+ "main_item_ingr": "[M088948]은행엽건조엑스|[M269209]인삼40%에탄올건조엑스",
  "main_item_ingr_eng": "Ginkgo Biloba Leaf Dried Extract/Ginseng 40% Ethanol Dried Extract",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303236",
+ "history_fetched_at": "2026-08-28T13:25:35Z",
  "revisions": [
   {
    "revision_id": "202303236-c5ecca3a",
@@ -19,9 +20,9 @@
    "ee_text": "- 집중력 및 주의력 저하, 기억력감퇴 - 다음과 같은 말초 동맥 순환장애 증상의 개선 : 현기증",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:35Z",
-   "last_observed_at": "2026-08-28T13:25:35Z",
-   "official_revision_date": "2023-11-29"
+   "last_observed_at": "2026-09-06T21:47:46Z",
+   "official_revision_date": "2023-11-29",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:35Z"
+ ]
 }

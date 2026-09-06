@@ -7,11 +7,12 @@
  "permit_date": "20241122",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M279284]L-멘톨|[M206708]DL-캄파|[M040131]리도카인|[M215133]에녹솔론|[M051499]크로타미톤|[M222973]디펜히드라민염산염",
+ "main_item_ingr": "[M040131]리도카인|[M051499]크로타미톤|[M206708]DL-캄파|[M215133]에녹솔론|[M222973]디펜히드라민염산염|[M279284]L-멘톨",
  "main_item_ingr_eng": "Crotamiton/DL-Camphor/Diphenhydramine Hydrochloride/Enoxolone/L-Menthol/Lidocaine",
  "edi_code": "",
  "atc_code": "D04A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402764",
+ "history_fetched_at": "2026-08-27T12:30:32Z",
  "revisions": [
   {
    "revision_id": "202402764-668a70ea",
@@ -19,9 +20,9 @@
    "ee_text": "습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물림, 두드러기, 동창",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:30:32Z",
-   "last_observed_at": "2026-08-27T12:30:32Z",
-   "official_revision_date": "2024-11-22"
+   "last_observed_at": "2026-09-06T21:47:52Z",
+   "official_revision_date": "2024-11-22",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:30:32Z"
+ ]
 }

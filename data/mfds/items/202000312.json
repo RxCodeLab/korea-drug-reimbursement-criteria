@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000312",
+ "item_name": "에포틴플러스프리필드주10000IU/mL(재조합사람에리스로포이에틴)",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20200120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M114319]재조합사람에리스로포이에틴(숙주: CHO dhfr-, 벡터:pDCE)|[M114319]재조합사람에리스로포이에틴(숙주: CHO dhfr-, 벡터:pDCE)|[M114319]재조합사람에리스로포이에틴(숙주: CHO dhfr-, 벡터:pDCE)|[M114319]재조합사람에리스로포이에틴(숙주: CHO dhfr-, 벡터:pDCE)|[M114319]재조합사람에리스로포이에틴(숙주: CHO dhfr-, 벡터:pDCE)|[M114319]재조합사람에리스로포이에틴(숙주: CHO dhfr-, 벡터:pDCE)",
+ "main_item_ingr_eng": "Recombinant Human Erythropoietin (Host: CHO dhfr-, Vector: pDCE)",
+ "edi_code": "652606641,652606651,652606671,652606681,652606691",
+ "atc_code": "B03XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000312",
+ "revisions": [
+  {
+   "revision_id": "202000312-74278112",
+   "content_sha256": "742781121f29222cc77836e8dcd2b776e25d83275145f0e24645bce5118d2cd8",
+   "ee_text": "1. 만성신부전 환자에게 나타나는 다음의 빈혈 1) 증후성 빈혈 2) 수혈이 필요한 빈혈",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:27Z",
+   "last_observed_at": "2026-09-06T21:46:27Z",
+   "official_revision_date": "2020-01-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:27Z"
+}

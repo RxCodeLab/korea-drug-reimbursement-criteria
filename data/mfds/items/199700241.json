@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700241",
+ "item_name": "알푸로덱스주20마이크로그램(알프로스타딜알파덱스)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "19970421",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085333]알프로스타딜알파덱스",
+ "main_item_ingr_eng": "Alprostadil Alfadex",
+ "edi_code": "658600751",
+ "atc_code": "C01EA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700241",
+ "revisions": [
+  {
+   "revision_id": "199700241-bd6eb922",
+   "content_sha256": "bd6eb922d2a097db548091ff4d4bcf434cde940a461b698e2a31f00a7ae5ac6d",
+   "ee_text": "1. 진동병에서 말초혈행장애에 수반하는 자각증상의 개선 및 말초순환·신경·운동기능장애의 회복(점적 정맥주사) 2. 혈행재건술 후의 혈류유지(점적 정맥주사) 3. 만성동맥폐색증[폐색성혈전혈관염(버거병), 폐색성동맥경화증]에 의한 사지궤양 및 안정시 동통의 개선(동맥주사 또는 동맥주사가 부적당한 경우에는 점적 정맥주사)",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:12Z",
+   "last_observed_at": "2026-09-06T21:44:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:12Z"
+}

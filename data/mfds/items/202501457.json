@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501457",
+ "item_name": "로클라탄점안액0.02/0.005%(네타르수딜, 라타노프로스트)",
+ "entp_name": "한국산텐제약(주)",
+ "permit_date": "20250613",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089240]라타노프로스트|[M283449]네타르수딜메실산염",
+ "main_item_ingr_eng": "Latanoprost/Netarsudil Mesylate",
+ "edi_code": "",
+ "atc_code": "S01EE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501457",
+ "revisions": [
+  {
+   "revision_id": "202501457-8ea6be28",
+   "content_sha256": "8ea6be28c95c053eadb95e0508d33fbaf1a2a63f77e119e74571a283dc9d7798",
+   "ee_text": "네타르수딜 또는 프로스타글란딘 유도체 단독요법으로 안압 감소가 불충분한 경우, 다음 질환의 안압 하강 : 개방각 녹내장, 고안압증",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:56Z",
+   "last_observed_at": "2026-09-06T21:47:56Z",
+   "official_revision_date": "2025-10-14"
+  },
+  {
+   "revision_id": "202501457-3318cadd",
+   "content_sha256": "3318cadd0162dc7489c6f875c44dc4dac356bfdd23ced83148b2cff1bf51a8ee",
+   "ee_text": "네타르수딜 또는 프로스타글란틴 유도체 단독요법으로 안압 감소가 불충분한 경우, 다음 질환의 안압 하강 : 개방각 녹내장, 고안압증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2025-06-13",
+   "first_observed_at": "2026-09-06T21:47:56Z",
+   "last_observed_at": "2026-09-06T21:47:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:56Z"
+}

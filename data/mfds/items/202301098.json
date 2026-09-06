@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301098",
+ "item_name": "래반포르테주입크림",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20230331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인|[M051015]알란토인|[M223240]토코페롤아세테이트|[M223298]프레드니솔론아세테이트",
+ "main_item_ingr_eng": "Allantoin/Lidocaine/Prednisolone Acetate/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "C05AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301098",
+ "revisions": [
+  {
+   "revision_id": "202301098-29228f4a",
+   "content_sha256": "29228f4a39fc156550635892185e640588f028e474980191f71332ba2939f8cf",
+   "ee_text": "치열․치핵의 아픔․가려움․부종(부기)․출혈의 일시적 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:40Z",
+   "last_observed_at": "2026-09-06T21:47:40Z",
+   "official_revision_date": "2023-03-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:40Z"
+}

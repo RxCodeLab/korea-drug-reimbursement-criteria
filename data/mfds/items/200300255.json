@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T11:03:19Z",
  "revisions": [
   {
-   "revision_id": "200300255-ff090829",
-   "content_sha256": "ff09082944a4dd0f05c8dec266e788e953d80f6975dde702020396a6a91d7b6c",
-   "ee_text": "- 쇼그렌증후군, 피부점막안증후군(스티븐스-존슨증후군), 건성안증후군과 같은 내인성 질환 - 수술 후, 약제성, 외상, 콘텍트렌즈 착용 등에 의한 외인성 질환",
+   "revision_id": "200300255-1794fa62",
+   "content_sha256": "1794fa6239b040bca154c1088b4b331edab55354af7bcbec97d1446c057536ed",
+   "ee_text": "다음 질환에 의한 각결막 상피장애 : - 쇼그렌증후군, 피부점막안증후군(스티븐스-존슨증후군), 건성안증후군과 같은 내인성 질환 - 수술 후, 약제성, 외상, 콘텍트렌즈 착용 등에 의한 외인성 질환",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200300255/EE",
    "first_observed_at": "2026-08-27T11:03:19Z",
-   "last_observed_at": "2026-08-28T13:24:01Z"
+   "last_observed_at": "2026-09-06T21:44:19Z",
+   "normalizer_version": 3
   }
  ]
 }

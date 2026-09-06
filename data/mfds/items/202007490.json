@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007490",
+ "item_name": "에브리스디건조시럽0.75mg/mL(리스디플람)",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "20201102",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279845]리스디플람",
+ "main_item_ingr_eng": "Risdiplam",
+ "edi_code": "645001511",
+ "atc_code": "M09AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007490",
+ "revisions": [
+  {
+   "revision_id": "202007490-e9622252",
+   "content_sha256": "e9622252e07d75968aad5d0a14952e03c5f3a08c25aba7d258396bc426919f1c",
+   "ee_text": "5q 척수성 근위축증의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:50Z",
+   "last_observed_at": "2026-09-06T21:46:50Z",
+   "official_revision_date": "2020-11-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:50Z"
+}

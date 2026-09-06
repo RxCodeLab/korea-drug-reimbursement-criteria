@@ -7,7 +7,7 @@
  "permit_date": "20061107",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M258994]아스코르브산|[M223240]토코페롤아세테이트|[M089702]셀레늄함유건조효모|[M222995]리보플라빈부티레이트|[M223262]티아민질산염|[M050704]비오틴|[M040262]산화마그네슘|[M223289]폴산|[M246028]황산망간수화물|[M243785]산화아연|[M051233]유비데카레논",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040262]산화마그네슘|[M050704]비오틴|[M051233]유비데카레논|[M089702]셀레늄함유건조효모|[M204304]피리독신염산염|[M222995]리보플라빈부티레이트|[M223240]토코페롤아세테이트|[M223262]티아민질산염|[M223289]폴산|[M243785]산화아연|[M244748]판토텐산칼슘|[M246028]황산망간수화물|[M258994]아스코르브산",
  "main_item_ingr_eng": "Ascorbic Acid/Biotin/Calcium Pantothenate/Folic Acid/Magnesium Oxide/Manganese Sulfate Hydrate/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Selenium In Dried Yeast/Thiamine Nitrate/Tocopherol Acetate/Ubidecarenone/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:32:24Z",
  "revisions": [
   {
-   "revision_id": "200608158-b6f37573",
-   "content_sha256": "b6f37573d792ce9ccd1d8eb8695d1470f0ffffcb5ca355b6f1144517ed8c4d76",
-   "ee_text": "1 , B 2 , B 6 , C, E의 보급\"> 1 ]]> 2 ]]>",
+   "revision_id": "200608158-b15add2a",
+   "content_sha256": "b15add2a814ced02e1a80e33fe9107ab3921b22e977e1d5d6b7132b799829a4f",
+   "ee_text": "1. 다음경우의 비타민 B1, B2, B6, C, E의 보급 - 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 2. 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. - 비타민 E 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨·목 결림, 수족저림·수족냉증(손발이 차가움) - 비타민 B1 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) 각기 ·눈의 피로 - 비타민 B2 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200608158/EE",
    "first_observed_at": "2026-08-27T10:32:24Z",
-   "last_observed_at": "2026-08-28T13:24:11Z"
+   "last_observed_at": "2026-09-06T21:44:34Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200608158-6b3e7708",

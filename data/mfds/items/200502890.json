@@ -7,11 +7,12 @@
  "permit_date": "20050713",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M233313]폴리믹신B황산염|[M202893]네오마이신황산염|[M040080]덱사메타손",
+ "main_item_ingr": "[M040080]덱사메타손|[M202893]네오마이신황산염|[M233313]폴리믹신B황산염",
  "main_item_ingr_eng": "Dexamethasone/Neomycin Sulfate/Polymyxin B Sulfate",
  "edi_code": "645300053",
  "atc_code": "S01CA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502890",
+ "history_fetched_at": "2026-08-28T13:24:08Z",
  "revisions": [
   {
    "revision_id": "200502890-888e8fce",
@@ -19,9 +20,9 @@
    "ee_text": "폴리믹신 B 황산염 및 네오마이신황산염에 감수성균에 의한 결막염, 안검염, 각막염",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:24:08Z",
-   "last_observed_at": "2026-08-28T13:24:08Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:44:29Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:08Z"
+ ]
 }

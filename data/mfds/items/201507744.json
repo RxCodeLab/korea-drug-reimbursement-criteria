@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507744",
+ "item_name": "카미스타드-엔 겔",
+ "entp_name": "진양제약(주)",
+ "permit_date": "20151117",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222842]리도카인염산염수화물|[M262732]카밀레화틴크(1:4.5)",
+ "main_item_ingr_eng": "Chamomiila Tincture (1:4.5)/Lidocaine Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507744",
+ "revisions": [
+  {
+   "revision_id": "201507744-9078d1a4",
+   "content_sha256": "9078d1a4d90a94c9f629c302b8c3cca42cdebc0f30afdb3eac6ea3bd18a89fd8",
+   "ee_text": "다음 질환에 의한 염증의 완화 : 경증의 구내염(입안염) 및 잇몸염",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:28Z",
+   "last_observed_at": "2026-09-06T21:45:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:28Z"
+}

@@ -12,16 +12,17 @@
  "edi_code": "645100761,645104361",
  "atc_code": "N01BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300121",
+ "history_fetched_at": "2026-08-28T13:23:39Z",
  "revisions": [
   {
-   "revision_id": "198300121-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "198300121-dd5d1c4b",
+   "content_sha256": "dd5d1c4bd8574682fcbc52bf6c58a6b1826209e6a1b3d759db5f091ac59e5ffa",
+   "ee_text": "1. [마취] 경막외마취, 전달마취, 침윤마취, 표면마취 2. [내과적 사용] 심실성 부정맥",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:23:39Z",
-   "last_observed_at": "2026-08-28T13:23:39Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:44:07Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:39Z"
+ ]
 }

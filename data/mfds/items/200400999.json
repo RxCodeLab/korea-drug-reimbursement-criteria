@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400999",
+ "item_name": "니페론씨알서방정40밀리그램(니페디핀)",
+ "entp_name": "에리슨제약(주)",
+ "permit_date": "20040827",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050164]니페디핀",
+ "main_item_ingr_eng": "Nifedipine",
+ "edi_code": "620500010",
+ "atc_code": "C08CA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400999",
+ "revisions": [
+  {
+   "revision_id": "200400999-26d73531",
+   "content_sha256": "26d735317264b92719f1af61207daf2e96198d76684ee559a341be742b47a206",
+   "ee_text": "고혈압, 관동맥심질환 (만성안정성협심증, 이형협심증, 심근경색후 증후군)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200400999/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:21Z",
+   "last_observed_at": "2026-09-06T21:44:21Z"
+  },
+  {
+   "revision_id": "200400999-90c903c9",
+   "content_sha256": "90c903c9a36fe2fc3f7756d32c063b887e8c69f23088b917feaf54cc72b01cd0",
+   "ee_text": "관상동맥성 심장질환의 초기 및 장기치료(특히 관부전증, 협심증, 심근경색 후 증후군, 휴식시의 협심증, Prinzmetal's angina), 본태성 및 이차성 고혈압, 레이노 증후군",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:44:21Z",
+   "last_observed_at": "2026-09-06T21:44:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:21Z"
+}

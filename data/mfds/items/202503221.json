@@ -12,6 +12,7 @@
  "edi_code": "698505180",
  "atc_code": "A02BX14",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503221",
+ "history_fetched_at": "2026-08-27T13:39:34Z",
  "revisions": [
   {
    "revision_id": "202503221-62660dad",
@@ -19,9 +20,9 @@
    "ee_text": "다음 질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:39:34Z",
-   "last_observed_at": "2026-08-27T13:39:34Z",
-   "official_revision_date": "2025-12-09"
+   "last_observed_at": "2026-09-06T21:47:59Z",
+   "official_revision_date": "2025-12-09",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:39:34Z"
+ ]
 }

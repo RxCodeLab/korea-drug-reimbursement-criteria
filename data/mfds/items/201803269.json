@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803269",
+ "item_name": "일라리스주사액(카나키누맙,유전자재조합)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20180809",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263335]카나키누맙",
+ "main_item_ingr_eng": "Canakinumab",
+ "edi_code": "653603321",
+ "atc_code": "L04AC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803269",
+ "revisions": [
+  {
+   "revision_id": "201803269-92e2b4b7",
+   "content_sha256": "92e2b4b7b85bc646d2b8546741fdf3a1e8ba478726732473c69ce267c0f10b8d",
+   "ee_text": "1. 소아 (만 2세 이상) 및 성인에서의 크리오피린 관련 주기적 증후군 (Cryopyrin-Associated Periodic Syndroms, CAPS)의 치료 •가족성 한냉 자가염증성 증후군 (Familial Cold Autoinflammatory Syndrom, FCAS)/ 가족성 한냉 두드러기 (Familial Cold Urticaria, FCU) •머클-웰스 증후군 (Muckle-Wells Syndroms, MWS) •신생아 발현 다발성 염증 질환 (Neonatal-Onset Multisystem Inflammatory Disease, NOMID)/ 만성 영아 신경 피부 관절 증후군 (Chronic Infantile Neurolocial, Cutaneous, Articular Syndrom, CINCA) 2. 소아 (만 2세 이상) 및 성인에서의 종양괴사인자 수용체 관련 주기적 증후군 (Tumor Necrosis Factor receptor Associated Periodic Syndrome, TRAPS)의 치료 3. 소아 (만 2세 이상) 및 성인에서의 고면역글로불린D증후군/메발론산 키나아제 결핍증(Hyperimmunoglobulin D Syndrome/Mevalonate Kinase Deficiency, HIDS/MKD)의 치료 4. 소아 (만 2세 이상) 및 성인에서의 콜키신이 금기이거나, 내약성이 없거나, 또는 최고 내약 용량의 콜키신에도 적절한 반응을 나타내지 않는 가족성 지중해 열 (Familial Mediterranean Fever, FMF)의 치료. 필요시 콜키신과 병용 5. 만 2세 이상 환자에서 기존의 전신 요법에 적절한 반응을 나타내지 않는 활동성 전신성 소아 특발성 관절염(Systemic Juvenile Idiopathic Arthritis)의 치료",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:46:01Z",
+   "last_observed_at": "2026-09-06T21:46:01Z",
+   "official_revision_date": "2021-09-13"
+  },
+  {
+   "revision_id": "201803269-dc327e57",
+   "content_sha256": "dc327e57e9d728cc9959ea4ac22b70d92361f321e62471950c80b5a7dfd4360f",
+   "ee_text": "1. 크리오피린 관련 주기적 증후군 (Cryopyrin-Associated Periodic Syndroms, CAPS) : 다음을 포함한 만 2세 이상의 소아 및 성인에서의 크리오피린 관련 주기적 증후군 •가족성 한냉 자가염증성 증후군 (Familial Cold Autoinflammatory Syndrom, FCAS/ 가족성 한냉 두드러기 (Familial Cold Urticaria, FCU) •머클-웰스 증후군 (Muckle-Wells Syndroms, MWS) •신생아 발현 다발성 염증 질환 (Neonatal-Onset Multisystem Inflammatory Disease, NOMID)/ 만성 영아 신경 피부 관절 증후군 (Chronic Infantile Neurolocial, Cutaneous, Articular Syndrom, CINCA) 2. 전신성 소아 특발성 관절염 (Systemic Juvenile Idiopathic Arthritis) : 기존의 전신 요법에 적절한 반응을 나타내지 않는 만 2세 이상의 환자에서 활동성 전신성 소아 특발성 관절염",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-10-10",
+   "first_observed_at": "2026-09-06T21:46:01Z",
+   "last_observed_at": "2026-09-06T21:46:01Z"
+  },
+  {
+   "revision_id": "201803269-d8a667cf",
+   "content_sha256": "d8a667cf58f2d79f2f27e5e939b4f247dd03888728252a6fa3cffe7330a844f2",
+   "ee_text": "1. 크리오피린 관련 주기적 증후군 (Cryopyrin-Associated Periodic Syndroms, CAPS) : 다음을 포함한 2세 이상의 소아 및 성인에서의 크리오피린 관련 주기적 증후군 •가족성 한냉 자가염증성 증후군 (Familial Cold Autoinflammatory Syndrom, FCAS/ 가족성 한냉 두드러기 (Familial Cold Urticaria, FCU) •머클-웰스 증후군 (Muckle-Wells Syndroms, MWS) •신생아 발현 다발성 염증 질환 (Neonatal-Onset Multisystem Inflammatory Disease, NOMID)/ 만성 영아 신경 피부 관절 증후군 (Chronic Infantile Neurolocial, Cutaneous, Articular Syndrom, CINCA) 2. 전신성 소아 특발성 관절염 (Systemic Juvenile Idiopathic Arthritis) : 기존의 전신 요법에 적절한 반응을 나타내지 않는 2세 이상의 환자에서 활동성 전신성 소아 특발성 관절염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-08-09",
+   "first_observed_at": "2026-09-06T21:46:01Z",
+   "last_observed_at": "2026-09-06T21:46:01Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:46:01Z"
+}

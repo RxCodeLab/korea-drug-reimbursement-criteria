@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402853",
+ "item_name": "피라지르프리필드시린지(이카티반트아세테이트)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20140626",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259787]이카티반트아세테이트",
+ "main_item_ingr_eng": "Icatibant Acetate",
+ "edi_code": "696300611",
+ "atc_code": "B06AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402853",
+ "revisions": [
+  {
+   "revision_id": "201402853-8a305c7d",
+   "content_sha256": "8a305c7d0d70bfe5b148090acf3c02cb7113c78b555f3c13e0dac85ffef99021",
+   "ee_text": "만 2세 이상에서 C1-에스테라제 억제제 결핍으로 인한 유전성 혈관부종(HAE)의 급성발작증상의 치료",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:11Z",
+   "last_observed_at": "2026-09-06T21:45:11Z",
+   "official_revision_date": "2019-07-31"
+  },
+  {
+   "revision_id": "201402853-f909315a",
+   "content_sha256": "f909315a6fa87a25a0642a45bd23e91cd958741f0a7d6405b50fe9f9cd873b46",
+   "ee_text": "성인에서 C1-에스테라제 억제제 결핍으로 인한 유전성 혈관부종(HAE)의 급성발작증상의 치료",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:45:11Z",
+   "last_observed_at": "2026-09-06T21:45:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:11Z"
+}

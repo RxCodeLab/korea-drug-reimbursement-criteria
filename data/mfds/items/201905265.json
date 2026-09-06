@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "N01BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905265",
+ "history_fetched_at": "2026-08-28T13:25:09Z",
  "revisions": [
   {
    "revision_id": "201905265-711fcaa7",
@@ -19,9 +20,9 @@
    "ee_text": "다음 경우에서의 통증의 일시적 경감 : 치질, 경증(가벼운 증상)의 화상, 외상(상처), 자상(찔린상처)",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:09Z",
-   "last_observed_at": "2026-08-28T13:25:09Z",
-   "official_revision_date": "2019-07-24"
+   "last_observed_at": "2026-09-06T21:46:18Z",
+   "official_revision_date": "2019-07-24",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:09Z"
+ ]
 }

@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "S01L",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605119",
+ "history_fetched_at": "2026-08-27T13:50:22Z",
  "revisions": [
   {
-   "revision_id": "201605119-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201605119-476a34fa",
+   "content_sha256": "476a34fab0ce0fa8504fe5d3dc2931da7a60628f243aadd471542a2c6976a32d",
+   "ee_text": "1. 당뇨병에 의한 망막변성 및 눈의 혈관장애 개선 2. 야맹증",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-27T13:50:22Z",
-   "last_observed_at": "2026-08-27T13:50:22Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:45:42Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:50:22Z"
+ ]
 }

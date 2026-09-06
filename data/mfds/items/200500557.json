@@ -7,7 +7,7 @@
  "permit_date": "20051006",
  "cancel_date": "20231102",
  "status": "취하",
- "main_item_ingr": "[M099839]산화아연|[M089702]셀레늄함유건조효모|[M083515]에르고칼시페롤과립|[M227389]토코페롤아세테이트50%|[M223262]티아민질산염|[M100456]리보플라빈3배산|[M241190]피리독신염산염3배산|[M255994]시아노코발라민1000배산|[M040679]판토텐산칼슘|[M226183]아스코르빈산과립97%|[M082985]황산망간일수화물|[M246343]산화제이구리|[M248244]레티놀팔미테이트과립|[M040064]니코틴산아미드|[M223289]폴산|[M051233]유비데카레논|[M091374]무수인산수소칼슘|[M040806]황산칼륨|[M040473]요오드화칼륨|[M051783]푸마르산철|[M040262]산화마그네슘",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040262]산화마그네슘|[M040473]요오드화칼륨|[M040679]판토텐산칼슘|[M040806]황산칼륨|[M051233]유비데카레논|[M051783]푸마르산철|[M082985]황산망간일수화물|[M083515]에르고칼시페롤과립|[M089702]셀레늄함유건조효모|[M091374]무수인산수소칼슘|[M099839]산화아연|[M100456]리보플라빈3배산|[M223262]티아민질산염|[M223289]폴산|[M226183]아스코르빈산과립97%|[M227389]토코페롤아세테이트50%|[M241190]피리독신염산염3배산|[M246343]산화제이구리|[M248244]레티놀팔미테이트과립|[M255994]시아노코발라민1000배산",
  "main_item_ingr_eng": "Anhydrous Dibasic Calcium Phosphate/Ascorbic Acid Granules 97%/Calcium Pantothenate/Cupric Oxide/Cyanocobalamin Powder 0.1%/Ergocalciferol Granules/Ferrous Fumarate/Folic Acid/Magnesium Oxide/Manganese Sulfate Hydrate/Nicotinamide/Potassium Iodide/Potassium Sulfate/Pyridoxine Hydrochloride Powder 33.3%/Retinol Palmitate Granules/Riboflavin Powder 33.3%/Selenium In Dried Yeast/Thiamine Nitrate/Tocopherol Acetate 50%/Ubidecarenone/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11AB",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:32:18Z",
  "revisions": [
   {
-   "revision_id": "200500557-3eeabb8b",
-   "content_sha256": "3eeabb8b00a8fe929de3ccd3bdaefe402d77654766482c94e8ba57736dc4504a",
-   "ee_text": "- 육체피로, 임신·수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ눈의 건조감의 완화, 야맹증(밤에 잘 못보는 증상) ㆍ뼈, 이의 발육불량, 구루병의 예방 ㆍ다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) ㆍ각기, 눈의피로",
+   "revision_id": "200500557-288f63dc",
+   "content_sha256": "288f63dc31b1e6085bcb972fb09d5e258c9fd533615e12ff66dd7b79e4097932",
+   "ee_text": "○ 다음경우의 비타민 (A, D, E, B1, B2, B6, C)의 보급 - 육체피로, 임신·수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ눈의 건조감의 완화, 야맹증(밤에 잘 못보는 증상) ㆍ뼈, 이의 발육불량, 구루병의 예방 ㆍ다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) ㆍ각기, 눈의피로 ○ 아연의 보급",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200500557/EE",
    "first_observed_at": "2026-08-27T10:32:18Z",
-   "last_observed_at": "2026-08-28T13:24:07Z"
+   "last_observed_at": "2026-09-06T21:44:26Z",
+   "normalizer_version": 3
   }
  ]
 }

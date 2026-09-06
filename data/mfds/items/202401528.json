@@ -7,11 +7,12 @@
  "permit_date": "20240625",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M260745]트레할로스수화물|[M222910]히알루론산나트륨",
+ "main_item_ingr": "[M222910]히알루론산나트륨|[M260745]트레할로스수화물",
  "main_item_ingr_eng": "Sodium Hyaluronate/Trehalose Hydrate",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401528",
+ "history_fetched_at": "2026-08-27T11:05:59Z",
  "revisions": [
   {
    "revision_id": "202401528-eef7f653",
@@ -19,9 +20,9 @@
    "ee_text": "다음의 외부 요인으로 발생하는 눈의 건조 증상(불쾌감, 찌르는듯한 통증, 자극)에서 눈의 습윤 : 바람, 연기, 공해, 먼지, 건조한 열, 에어컨, 항공여행, 장시간 컴퓨터 사용",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T11:05:59Z",
-   "last_observed_at": "2026-08-27T11:05:59Z",
-   "official_revision_date": "2024-06-25"
+   "last_observed_at": "2026-09-06T21:47:49Z",
+   "official_revision_date": "2024-06-25",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T11:05:59Z"
+ ]
 }

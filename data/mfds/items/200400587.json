@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400587",
+ "item_name": "글립타이드정200밀리그람(설글리코타이드)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20040120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080903]설글리코타이드",
+ "main_item_ingr_eng": "Sulglycotide",
+ "edi_code": "",
+ "atc_code": "A02BX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400587",
+ "revisions": [
+  {
+   "revision_id": "200400587-3d6adb77",
+   "content_sha256": "3d6adb77a3440544669411d39d0452122997e864c8df426a27317f00d98ebd7c",
+   "ee_text": "<삭제> ※ 제출된 임상시험 결과가 유효성을 입증하지 못함",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200400587/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:21Z",
+   "last_observed_at": "2026-09-06T21:44:21Z"
+  },
+  {
+   "revision_id": "200400587-2a86ea14",
+   "content_sha256": "2a86ea14631bfba0a9ec7484ab7540ac0f4ddb6f80a67a37c76f48aa214dc6dd",
+   "ee_text": "위.십이지장궤양, 위.십이지장염 ☆국내임상시험결과 추가제출(의약품 재평가 진행 중)",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-01-27",
+   "first_observed_at": "2026-09-06T21:44:21Z",
+   "last_observed_at": "2026-09-06T21:44:21Z"
+  },
+  {
+   "revision_id": "200400587-be78ee45",
+   "content_sha256": "be78ee45ddaaad6675eddcd00b9c327bc17390ce58b5bb231e71a5982d919dd4",
+   "ee_text": "위.십이지장궤양, 위.십이지장염",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-06T21:44:21Z",
+   "last_observed_at": "2026-09-06T21:44:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:21Z"
+}

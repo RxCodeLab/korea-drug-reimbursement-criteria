@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800191",
+ "item_name": "디멘스타정(콜린알포세레이트)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20180112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257700]콜린알포세레이트",
+ "main_item_ingr_eng": "Choline Alfoscerate",
+ "edi_code": "642803040",
+ "atc_code": "N07AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800191",
+ "revisions": [
+  {
+   "revision_id": "201800191-5857f9ad",
+   "content_sha256": "5857f9ad560e04ebbaa5569b90a9fdeeedfb7ecdd47619485a09c47e0a36c873",
+   "ee_text": "○ 뇌혈관 결손에 의한 2차 증상 및 변성 또는 퇴행성 뇌기질성 정신증후군 : 기억력저하와 착란, 의욕 및 자발성저하로 인한 방향감각장애, 의욕 및 자발성저하, 집중력 감소 ☆국내임상시험결과 추가제출",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:55Z",
+   "last_observed_at": "2026-09-06T21:45:55Z",
+   "official_revision_date": "2021-07-28"
+  },
+  {
+   "revision_id": "201800191-97042eff",
+   "content_sha256": "97042effb79946804e6609a11620f1b5909efae39b57948db2958e33754f79a8",
+   "ee_text": "○ 뇌혈관 결손에 의한 2차 증상 및 변성 또는 퇴행성 뇌기질성 정신증후군 : 기억력저하와 착란, 의욕 및 자발성저하로 인한 방향감각장애, 의욕 및 자발성저하, 집중력 감소 ○ 감정 및 행동변화 : 정서불안, 자극과민성, 주위무관심 ○ 노인성 가성우울증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-01-12",
+   "first_observed_at": "2026-09-06T21:45:55Z",
+   "last_observed_at": "2026-09-06T21:45:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:55Z"
+}

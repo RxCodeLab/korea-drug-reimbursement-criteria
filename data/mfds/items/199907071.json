@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199907071",
+ "item_name": "니트로링구알스프레이(희석한니트로글리세린용액)",
+ "entp_name": "(주)한국유니팜",
+ "permit_date": "19990326",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M214344]희석한니트로글리세린용액",
+ "main_item_ingr_eng": "Dilute Nitroglycerin Solution",
+ "edi_code": "685800141",
+ "atc_code": "C01DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907071",
+ "revisions": [
+  {
+   "revision_id": "199907071-a56b61b9",
+   "content_sha256": "a56b61b9814614312c8fae2e651bcb27192532760c7e20f13f1d5b68f724f5c2",
+   "ee_text": "관상동맥질환으로 인한 협심증 발작시 응급치료 및 협심증 발작예방",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:15Z",
+   "last_observed_at": "2026-09-06T21:44:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:15Z"
+}

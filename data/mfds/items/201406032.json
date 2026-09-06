@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201406032",
+ "item_name": "알콕시아정30밀리그램(에토리콕시브)",
+ "entp_name": "한국오가논(주)",
+ "permit_date": "20141223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260064]에토리콕시브",
+ "main_item_ingr_eng": "Etoricoxib",
+ "edi_code": "073100310",
+ "atc_code": "M01AH05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406032",
+ "revisions": [
+  {
+   "revision_id": "201406032-6e33f4eb",
+   "content_sha256": "6e33f4eb4878123cc676a091d98b18c89cb2c95513b808992eccfbfbc3048dc9",
+   "ee_text": "골관절염(퇴행관절염)의 증상이나 징후의 완화 선택성 COX-2 억제제인 이 약을 투여하는 경우, 개개 환자의 전반적인 위험성을 평가해야 한다. (사용상의 주의사항 5. 일반적 주의 참고)",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:20Z",
+   "last_observed_at": "2026-09-06T21:45:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:20Z"
+}

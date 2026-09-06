@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706864",
+ "item_name": "엘록테이트주[에프모록토코그알파(혈액응고인자VIII-Fc융합단백, 유전자재조합)]",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20170829",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266732]에프모록토코그알파(혈액응고인자VIII-Fc융합단백, 유전자재조합)",
+ "main_item_ingr_eng": "Efmoroctocog-Alpha (Blood Coagulation Factor VIII, rDNA)",
+ "edi_code": "652001161,652001171,652001181,652001191",
+ "atc_code": "B02BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706864",
+ "revisions": [
+  {
+   "revision_id": "201706864-0cdd95f6",
+   "content_sha256": "0cdd95f6069aac9c283c65b55d37b54a08cc96ee9d9f14b72dffefd58e7f90ff",
+   "ee_text": "A형 혈우병(선천성 VIII 인자 결핍) 환자에서의 - 출혈 억제 및 예방 - 수술전후 관리 (외과적 수술 시 출혈 억제 및 예방) - 출혈의 빈도 감소 또는 예방을 위한 일상적인 예방요법 이 약은 본 빌레브란트 인자를 함유하고 있지 않으므로 본 빌레브란트 (von Willebrands disease) 환자의 치료에는 사용하지 않는다.",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:45:51Z",
+   "last_observed_at": "2026-09-06T21:45:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:45:51Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107969",
+ "item_name": "리바록신정2.5밀리그램(리바록사반)",
+ "entp_name": "메딕스제약(주)",
+ "permit_date": "20211215",
+ "cancel_date": "20251028",
+ "status": "취하",
+ "main_item_ingr": "[M264293]리바록사반(미분화)",
+ "main_item_ingr_eng": "Rivaroxaban Micronized",
+ "edi_code": "",
+ "atc_code": "B01AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107969",
+ "revisions": [
+  {
+   "revision_id": "202107969-1b85e93f",
+   "content_sha256": "1b85e93f6d67ea8b09ea00f5939d35c083ad42bc5b3dd1161b36675478b0adfa",
+   "ee_text": "1. 심장표지자(cardiac biomarker) 상승을 동반한 급성관상동맥증후군을 경험한 환자에서 아스피린과의 병용 혹은 아스피린 및 클로피도그렐과 병용투여 시 죽상동맥혈전성 사건(심혈관계 이상으로 인한 사망, 심근경색)의 발생률 감소 2. 허혈성 사건의 발생 위험성이 높은 관상동맥질환 또는 증상이 있는 말초동맥질환 성인 환자에서 아스피린과 병용하여 죽상동맥혈전성 사건(뇌졸중, 심근경색 및 심혈관계 이상으로 인한 사망)의 위험 감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:28Z",
+   "last_observed_at": "2026-09-06T21:47:28Z",
+   "official_revision_date": "2021-12-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:28Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "N01BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501623",
+ "history_fetched_at": "2026-08-28T13:24:42Z",
  "revisions": [
   {
    "revision_id": "201501623-b5ff72ef",
@@ -19,9 +20,9 @@
    "ee_text": "대상포진 후 신경통증 완화",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:24:42Z",
-   "last_observed_at": "2026-08-28T13:24:42Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-06T21:45:23Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:42Z"
+ ]
 }

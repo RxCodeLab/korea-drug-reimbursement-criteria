@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198501803",
+ "item_name": "로라반정0.5밀리그램(로라제팜)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "19850628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088374]로라제팜",
+ "main_item_ingr_eng": "Lorazepam",
+ "edi_code": "657200180",
+ "atc_code": "N05BA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198501803",
+ "revisions": [
+  {
+   "revision_id": "198501803-89f05f7d",
+   "content_sha256": "89f05f7db64ea1515cabb8a043bcb1d0527a8310393125e5f9cea89e556e9801",
+   "ee_text": "1. 신경증에서의 불안·긴장·우울 2. 정신신체장애(자율신경실조증, 심장신경증)에서의 불안·긴장·우울 3. 마취전 투약 이 약은 일상적 스트레스와 연관된 불안 또는 긴장의 경우 이 약의 치료가 필요하지 않으며, 임상학적으로 증상이 심각하거나 환자의 행동에 심한 장애가 있을 경우에만 사용한다.",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:44:08Z",
+   "last_observed_at": "2026-09-06T21:44:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:44:08Z"
+}

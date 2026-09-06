@@ -7,11 +7,12 @@
  "permit_date": "20181109",
  "cancel_date": "20240327",
  "status": "취하",
- "main_item_ingr": "[M250452]독시라민숙신산염|[M204304]피리독신염산염",
+ "main_item_ingr": "[M204304]피리독신염산염|[M250452]독시라민숙신산염",
  "main_item_ingr_eng": "Doxylamine Succinate/Pyridoxine Hydrochloride",
  "edi_code": "",
  "atc_code": "A04A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804470",
+ "history_fetched_at": "2026-08-28T13:25:02Z",
  "revisions": [
   {
    "revision_id": "201804470-e5b97458",
@@ -19,9 +20,9 @@
    "ee_text": "보존적 요법에 반응하지 않는 임부의 구역 및 구토 조절",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:02Z",
-   "last_observed_at": "2026-08-28T13:25:02Z",
-   "official_revision_date": "2018-11-09"
+   "last_observed_at": "2026-09-06T21:46:03Z",
+   "official_revision_date": "2018-11-09",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:02Z"
+ ]
 }

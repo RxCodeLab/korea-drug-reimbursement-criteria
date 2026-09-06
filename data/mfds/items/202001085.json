@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A01AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001085",
+ "history_fetched_at": "2026-08-28T13:25:15Z",
  "revisions": [
   {
    "revision_id": "202001085-029e0fa3",
@@ -19,9 +20,9 @@
    "ee_text": "의치 자극이나 입안의 궤양으로 인한 통증 완화",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:15Z",
-   "last_observed_at": "2026-08-28T13:25:15Z",
-   "official_revision_date": "2020-02-17"
+   "last_observed_at": "2026-09-06T21:46:29Z",
+   "official_revision_date": "2020-02-17",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:15Z"
+ ]
 }

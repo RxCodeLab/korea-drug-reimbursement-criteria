@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301911",
+ "item_name": "싹프린현탁액(비스무트차살리실산염)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20230621",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251876]비스무트차살리실산염",
+ "main_item_ingr_eng": "Bismuth Subsalicylate",
+ "edi_code": "",
+ "atc_code": "A07BB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301911",
+ "revisions": [
+  {
+   "revision_id": "202301911-5ca36fe4",
+   "content_sha256": "5ca36fe45abbe876e64e338cf288998304b0782bf65bad3f820bffd457507005",
+   "ee_text": "⋅ 설사 및 여행자 설사에 기인한 복통의 완화 ⋅ 과식 및 과음으로 인한 다음의 증상을 완화한다. : 소화불량, 속쓰림, 오심, 트림, 복부팽만감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-06T21:47:44Z",
+   "last_observed_at": "2026-09-06T21:47:44Z",
+   "official_revision_date": "2023-06-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-06T21:47:44Z"
+}
