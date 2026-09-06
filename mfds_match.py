@@ -45,6 +45,27 @@
      (`ferric` 6자, 8종·38건), `Albumin`(7자, 1종) 등 다른 짧은 단일 토큰은 전부
      정상적으로 매칭되고, 표본 검사 결과 매칭된 화합물은 전부 검색어와 실제로
      관련된 변형(같은 활성 성분의 다른 염류)이었다.
+
+   **결함**(리더 검증 중 발견) — 이 스톱워드 방어가 `Antithrombin III, human`
+   전체를 실패 처리해버렸다. 그런데 우주에 국내 품목 2건이 실재한다(`안티트롬빈Ⅲ주
+   500아이유`, `에스케이항트롬빈III주500단위`, 둘 다 EDI 코드 보유, 인덱스 성분명
+   `Human Antithrombin Ⅲ Concentrate`). 원인은 두 가지가 겹쳐 있었다: (1) 로마
+   숫자 `Ⅲ`(U+2162)가 `GREEK` 정규화 표에 없어 `words()`가 그냥 삼켰다 —
+   검색어 쪽 `Antithrombin III`(아스키 `III`)는 토큰 `{antithrombin, iii}`가
+   나오는데 인덱스 쪽 `Human Antithrombin Ⅲ Concentrate`는 `Ⅲ`가 사라져
+   `{human, antithrombin}`이 나와 애초에 `iii` 토큰이 서로 어긋났다. `Ⅰ`~`Ⅹ`
+   로마 숫자 유니코드 문자를 아스키 로마 숫자로 정규화하는 항목을 `GREEK`에
+   추가했다. (2) `components()`가 `human` 컴포넌트를 스톱워드로 걸러내지 않고
+   그대로 교집합에 넣어, `antithrombiniii` 쪽이 매칭돼도 `human` 쪽 빈 집합과의
+   교집합이 공집합이 됐다. `match_terms()`에서 컴포넌트 토큰 집합 전체가
+   `GENERIC_TOKEN_STOPWORDS`뿐인 컴포넌트(`human` 단독)는 교집합 대상에서
+   제외하도록 고쳤다 — 스톱워드 토큰 자체를 없애는 게 아니라(단일 토큰 매칭
+   방어는 그대로 유지), **나머지 유의미한 컴포넌트(`antithrombiniii`)만으로
+   충분히 특이하면 매칭**하게 했다. 복합제 검색어처럼 모든 컴포넌트가
+   스톱워드뿐이면(현실에 없음) 교집합 대상이 빈 리스트가 되어 실패 처리된다
+   (기존 단일 토큰 방어와 동일하게 안전). 전량 우주 재측정 결과 `human` 토큰을
+   가진 다른 150개 무관 품목(Erythropoietin·Albumin 등)은 여전히 매칭되지
+   않았다 — `antithrombiniii`가 그 품목들의 인덱스 키에 없기 때문이다.
 5. **무기염이 양이온으로 과하게 묭리는 문제**(토큰 부분집합 도입 직후 실측에서 발견) —
    `Ammonium lactate`가 `Ammonium Chloride`가 들어간 기침약 23건을 무관하게 쓸어왔다.
    원인: `base()`/`token_set()`이 수식어 끝자리를 반복 제거하면서 `Sodium Chloride`,
@@ -68,7 +89,8 @@
     `ITEM_SEQ` 집합. 정확/접두 일치에 쓴다.
   - `token_index: dict[frozenset[str], set[str]]` — 정규화된 영문 성분 토큰 집합 → 매칭되는
     `ITEM_SEQ` 집합. 검색어 토큰 집합이 색인 키의 부분집합이면 매칭된다(중간에 단어가
-    낀 상황 대응). 복합제는 `MAIN_INGR_ENG`을 `/`로 쪼개 성분마다 양쪽 색인에 등록한다.
+    낀 상황 대응). 복합제는 `MAIN_INGR_ENG`을 `MULTIPART_INGR_SEPARATOR`(`/`와 가운데점
+    계열)로 쪼개 성분마다 양쪽 색인에 등록한다.
   - `name_index: list[tuple[str, str]]` — (영숙자+한글만 남긴 소문자 품명, `ITEM_SEQ`).
     fallback 품명 부분 문자열 검색에 쓴다.
 - `MatchResult` — `matched: set[str]`(매칭된 품목 seq), `matched_terms: int`,
@@ -108,7 +130,11 @@ import collections
 import re
 from dataclasses import dataclass, field
 
-GREEK = {"α": "alpha", "β": "beta", "γ": "gamma", "δ": "delta", "ⅷ": "viii", "ⅸ": "ix"}
+GREEK = {
+    "α": "alpha", "β": "beta", "γ": "gamma", "δ": "delta",
+    "ⅰ": "i", "ⅱ": "ii", "ⅲ": "iii", "ⅳ": "iv", "ⅴ": "v",
+    "ⅵ": "vi", "ⅶ": "vii", "ⅷ": "viii", "ⅸ": "ix", "ⅹ": "x",
+}
 
 # 성분명 뒤에 붙는 염·수화물·부형 수식어(단어 단위로 뗀다)
 QUALIFIERS = {
@@ -153,6 +179,12 @@ SINGLE_TOKEN_MIN_LENGTH = 6
 SALT_CATIONS = {"sodium", "potassium", "calcium", "magnesium", "ammonium"}
 
 DOSE = re.compile(r"\d+(?:[.,]\d+)?\s*(?:mg|g|mcg|㎍|iu|ml|밀리그램|밀리그람|그램|단위|만단위|%)", re.I)
+# 가운데점 계열(· U+00B7, ‧, •, ∙). 우주 성분명(`MAIN_INGR_ENG`)과 검색어 양쪽 다
+# 복합제 성분 구분자로 쓴다(예: 우주 키 `Sacubitril·Valsartan Sodium Hydrate`, 검색어
+# `Sacubitril· Valsartan`). `및`/`and`는 여기 넣지 않는다 — 우주 성분명에 `Root and Rhizome`처럼
+# 단일 성분 명칭에 " and "가 박혀 들어가는 경우(한약 생약재 173건)가 있어 `build_index`에서
+# 이 구분자를 쓰면 성분명이 잘려나간다.
+MULTIPART_INGR_SEPARATOR = re.compile(r"[/·‧•∙]")
 # 영숫자와 한글 사이 경계에 공백을 끼워 붙어버린 두 단어를 분리한다(예: Paricalcitol주사제).
 LATIN_HANGUL_BOUNDARY = re.compile(r"(?<=[a-z0-9])(?=[\uac00-\ud7a3])|(?<=[\uac00-\ud7a3])(?=[a-z0-9])")
 WORD_SPLIT = re.compile(r"[^a-z0-9\uac00-\ud7a3]+")
@@ -211,7 +243,7 @@ def components(term: object) -> list[tuple[str, frozenset[str]]]:
 
     단일 성분 검색어(구분자 없음)는 원소 하나짜리 리스트이다.
     """
-    parts = re.split(r"[+,/]| 및 | and ", str(term or ""))
+    parts = re.split(r"[+,/]|[·‧•∙]| 및 | and ", str(term or ""))
     out: list[tuple[str, frozenset[str]]] = []
     for p in parts:
         b = base(p)
@@ -260,7 +292,7 @@ def build_index(universe_rows: list[dict]) -> Index:
         if is_export_only(row.get("ITEM_NAME")):
             continue
         seq = str(row["ITEM_SEQ"])
-        for part in str(row.get("MAIN_INGR_ENG") or "").split("/"):
+        for part in MULTIPART_INGR_SEPARATOR.split(str(row.get("MAIN_INGR_ENG") or "")):
             key = base(part)
             if key:
                 eng_index[key].add(seq)
@@ -323,6 +355,14 @@ def match_terms(index: Index, groups: list[tuple[str, list[str]]]) -> MatchResul
     단일 성분 검색어는 성분 토큰이 하나뿐이라 그 성분이 든 모든 품목(단일제+복합제)을
     잡는다 — 이건 의도된 동작이다(예: `Metformin` 검색어는 메트포르민이 든 복합제도
     급여기준 대상이므로 잡아야 한다).
+
+    교집합 대상에서 `GENERIC_TOKEN_STOPWORDS`로만 이루어진 컴포넌트(`significant`가
+    거른 버린 컴포넌트)는 제외한다 — `Antithrombin III, human`의 `human`처럼
+    수십 종의 무관 화합물에 공통으로 붙는 수식어는 교집합 조건으로 쓰면 대부분의
+    무관 품목을 걸러낸다(그 토큰이 단독이라 집합이 되더라도 자체 허용되지도 못함).
+    나머지 유의미한 컴포넌트(예: `antithrombiniii`)만으로 교집합을 요구하면 실제로
+    관련있는 품목만 남고, 모든 컴포넌트가 스톱워드뿐이면(현실에 없음) 이전처럼
+    실패 처리된다.
     """
     eng_index, token_index, name_index = index.eng_index, index.token_index, index.name_index
     matched: set[str] = set()
@@ -331,8 +371,11 @@ def match_terms(index: Index, groups: list[tuple[str, list[str]]]) -> MatchResul
     for head, fallbacks in groups:
         found: set[str] = set()
         parts = components(head)
-        if parts:
-            sets = [lookup(eng_index, token_index, b, t) for b, t in parts]
+        significant = [
+            (b, t) for b, t in parts if not (t and t <= GENERIC_TOKEN_STOPWORDS)
+        ]
+        if significant:
+            sets = [lookup(eng_index, token_index, b, t) for b, t in significant]
             if all(sets):
                 found = set.intersection(*sets)
         if found:

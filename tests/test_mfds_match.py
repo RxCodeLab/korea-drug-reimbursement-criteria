@@ -199,6 +199,58 @@ def test_inorganic_salt_cation_anion_pair_not_collapsed_to_bare_cation():
     assert "51" not in result.matched
 
 
+def test_generic_stopword_component_excluded_from_intersection_when_other_component_specific():
+    """`Antithrombin III, human`은 실제 국내 품목 2건을 놓치면 안 된다.
+
+    `human`은 `GENERIC_TOKEN_STOPWORDS`에 있어 단독 토큰 매칭에서는 여전히 제외되지만,
+    복합제 교집합 계산에서는 `human`뿐인 컴포넌트를 교집합에서 븼고(스톱워드만으로
+    구성된 컴포넌트는 그 자체로 종료 조건이 되지 못한다), 나머지 유의미한 컴포넌트
+    (`antithrombiniii`)만으로 충분히 특이하면 매칭해야 한다.
+    """
+    idx = mm.build_index([
+        row("70", "안티트롬빈Ⅲ주500아이유(건조농축사람항트롬빈Ⅲ)", "Human Antithrombin Ⅲ Concentrate"),
+        row("71", "사람에리스로포이에틴주", "Recombinant Human Erythropoietin"),
+        row("72", "사람혈청알부민주", "Human Normal Serum Albumin"),
+    ])
+    result = mm.match_terms(idx, [("Antithrombin III, human", [])])
+    assert result.matched == {"70"}
+    # 스톱워드가 밖명무슬하게 풀렸다면 무관 Erythropoietin/Albumin 품목까지 쓸어온다.
+    assert "71" not in result.matched
+    assert "72" not in result.matched
+
+
+def test_generic_stopword_only_term_still_fails():
+    """모든 컴포넌트가 스톱워드뿐인 검색어는 여전히 실패로 서다(단독으로서는 과매칭
+    위험이 그대로 남아 있어 실패 처리가 맞다)."""
+    idx = mm.build_index([
+        row("73", "사람에리스로포이에틴주", "Recombinant Human Erythropoietin"),
+    ])
+    result = mm.match_terms(idx, [("Human", [])])
+    assert result.matched == set()
+    assert result.failed_terms == ["Human"]
+
+
+def test_middle_dot_separator_splits_combination_components():
+    """가운데점(· U+00B7)은 `+`/`,`처럼 복합제 성분 구분자다.
+
+    회귀: 구분자 목록에 없으면 `components("Sacubitril\u00b7 Valsartan")`가 두 성분을
+    `sacubitrilvalsartan`으로 붙여버려 우주의 개별 사쿠비트릴/발사르탄 품목을 못 잡는다.
+    우주 성분명에도 같은 가운데점이 붙어있을 수 있어(`Sacubitril·Valsartan Sodium
+    Hydrate`) `build_index`도 같은 구분자로 쪼개야 두 성분이 따로 색인된다.
+    """
+    parts = mm.components("Sacubitril\u00b7 Valsartan")
+    assert [b for b, _ in parts] == ["sacubitril", "valsartan"]
+
+    idx = mm.build_index([
+        row("80", "엔트레스토필름코팅정100밀리그램(사쿠비트릴·발사르탄나트륨염수화물)", "Sacubitril·Valsartan Sodium Hydrate"),
+        row("81", "엔트레스토필름코팅정200밀리그램(사쿠비트릴·발사르탄나트륨염수화물)", "Sacubitril·Valsartan Sodium Hydrate"),
+        row("82", "단일발사르탄정", "Valsartan"),
+    ])
+    result = mm.match_terms(idx, [("Sacubitril\u00b7 Valsartan", [])])
+    assert result.matched == {"80", "81"}
+    assert "82" not in result.matched
+
+
 def test_exact_match_does_not_suppress_prefix_broadening():
     """검색어 기본형이 색인에 정확히 일치하는 품목이 있어도, 접두 매칭으로 넓힐 수 있는
     같은 활성 성분의 다른 염류 변형을 놓치면 안 된다.
