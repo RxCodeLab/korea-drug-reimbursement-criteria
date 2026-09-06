@@ -187,6 +187,18 @@ def test_build_index_adds_role_and_ordinal(tmp_path, monkeypatch):
     assert notice["ordinal"] == 2
 
 
+def test_is_currently_matched_requires_normalizer_version():
+    # normalizer_version이 없으면(옛 검색어 API 시절 수집, 재수집 안 됨) 게시 대상이 아니다.
+    assert not build_site.is_currently_matched({"revisions": [{"content_sha256": "a"}]})
+    assert not build_site.is_currently_matched({"revisions": []})
+    assert not build_site.is_currently_matched({})
+    assert build_site.is_currently_matched({"revisions": [{"normalizer_version": 3}]})
+    # 가장 최신(revisions[0]) 기준이다 — 과거 개정에 버전이 있어도 현행이 없으면 제외된다.
+    assert not build_site.is_currently_matched({
+        "revisions": [{"content_sha256": "a"}, {"normalizer_version": 3}],
+    })
+
+
 def test_build_mfds_public_writes_search_and_detail_indexes(tmp_path, monkeypatch):
     source = tmp_path / "mfds" / "items"
     public = tmp_path / "public"
@@ -210,11 +222,22 @@ def test_build_mfds_public_writes_search_and_detail_indexes(tmp_path, monkeypatc
             "content_sha256": "a" * 64,
             "ee_text": "제2형 당뇨병",
             "ee_doc_id": "EE-1",
+            "normalizer_version": 3,
             "first_observed_at": "2026-08-21T00:00:00Z",
             "last_observed_at": "2026-08-21T01:00:00Z",
         }],
     }
+    unmatched_item = {**item, "item_seq": "202600002", "item_name": "검토대상아님"}
+    unmatched_item["revisions"] = [{
+        "revision_id": "202600002-" + "b" * 8,
+        "content_sha256": "b" * 64,
+        "ee_text": "무관 품목",
+        "ee_doc_id": "EE-2",
+        "first_observed_at": "2026-08-21T00:00:00Z",
+        "last_observed_at": "2026-08-21T01:00:00Z",
+    }]
     (source / "202600001.json").write_text(json.dumps(item, ensure_ascii=False), encoding="utf-8")
+    (source / "202600002.json").write_text(json.dumps(unmatched_item, ensure_ascii=False), encoding="utf-8")
     monkeypatch.setattr(build_site, "MFDS_ITEMS", source)
     monkeypatch.setattr(build_site, "PUBLIC", public)
 
@@ -227,6 +250,8 @@ def test_build_mfds_public_writes_search_and_detail_indexes(tmp_path, monkeypatc
     assert written == {"fields": list(build_site.MFDS_INDEX_FIELDS), "rows": index}
     assert "status" not in written["fields"] and "last_observed_at" not in written["fields"] and "source_url" not in written["fields"]
     assert json.loads((public / "mfds" / "items" / "202600001.json").read_text(encoding="utf-8")) == item
+    # 재수집된 적 없는(normalizer_version 없는) 품목은 색인과 상세 어느 쪽에도 실리지 않는다.
+    assert not (public / "mfds" / "items" / "202600002.json").exists()
 
 
 def test_criterion_groups_and_items_are_newest_first():

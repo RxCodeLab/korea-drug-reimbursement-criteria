@@ -72,8 +72,29 @@ def _compact_json(value: object) -> str:
     return json.dumps(value, ensure_ascii=False, sort_keys=True, separators=(",", ":")) + "\n"
 
 
+def is_currently_matched(record: dict) -> bool:
+    """저장된 품목이 현재 고시 매칭 대상으로 재수집된 적이 있는지 저장 파일만으로 판별한다.
+
+    fetch_mfds.merge_item은 병합할 때마다(신규·변경·무변경 불문) revisions[0]에
+    NORMALIZER_VERSION을 적어 넣는다 — 이 필드가 있다는 것은 전량 열거 + 로컬 매칭
+    체제에서 이 품목이 실제로 매칭되어 처리됐다는 뜻이다. 검색어 API 시절에 모여
+    그 뒤로 한 번도 재수집되지 않은 레코드는 이 필드가 없다(실측: 26,168건 중
+    18,931건이 여기 해당하고, 그중 128건은 옛 파싱 버그로 본문이 깨져 있다).
+    빌드 시점에는 우주 목록이 없어 mfds_match.match_terms를 다시 돌릴 수 없으므로
+    이 저장 시점 표시로 판별한다.
+    """
+    revisions = record.get("revisions") or []
+    return bool(revisions) and bool(revisions[0].get("normalizer_version"))
+
+
 def build_mfds_public() -> list[list[object]]:
-    """허가 품목 색인(열 배열)과 품목별 상세 JSON을 쓴다."""
+    """허가 품목 색인(열 배열)과 품목별 상세 JSON을 쓴다.
+
+    저장소에는 옛 검색어 방식 시절 수집된, 더는 고시 급여기준과 무관하다고 판정돼
+    갱신 대상에서 빠진 품목도 남아 있다(is_currently_matched 참고). 그런 품목은
+    낡거나(일부는 옛 파싱 버그로 본문이 깨져) 있어 게시하지 않는다 — 저장 파일
+    자체는 지우지 않아 다음에 고시가 개정돼 다시 매칭되면 그대로 재사용된다.
+    """
     rows: list[list[object]] = []
     output = PUBLIC / "mfds"
     if output.exists():
@@ -87,6 +108,8 @@ def build_mfds_public() -> list[list[object]]:
         record = json.loads(path.read_text(encoding="utf-8"))
         if record.get("complete") is not True:
             raise RuntimeError(f"내용이 온전하지 않은 MFDS 항목입니다: {path}")
+        if not is_currently_matched(record):
+            continue
         revisions = record.get("revisions") or []
         rows.append([
             record["item_seq"],
