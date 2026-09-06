@@ -6,6 +6,9 @@ on:
       - main
     paths:
       - .github/workflows/update.yml
+      - "*.py"
+      - requirements.txt
+      - tests/**
   workflow_dispatch:
     inputs:
       law_changes_since:
@@ -37,13 +40,6 @@ jobs:
       - uses: actions/checkout@v7
         with:
           fetch-depth: 0
-      - name: Restore raw upstream archive
-        uses: actions/cache/restore@v6
-        with:
-          path: data/raw
-          key: raw-linux-${{ github.run_id }}
-          restore-keys: |
-            raw-linux-
       - name: Install rhwp
         shell: bash
         run: |
@@ -64,10 +60,16 @@ jobs:
           python-version: "3.12"
           cache: pip
       - name: Install dependencies
-        run: python -m pip install --disable-pip-version-check -r requirements.txt
+        run: python -m pip install --disable-pip-version-check -r requirements.txt pytest pyyaml
+      # 파서·검증 회귀는 수집 전에 잡는다. 테스트가 깨지면 이 실행은 게시하지 않는다.
+      - name: Run tests
+        env:
+          RHWP_BIN: rhwp
+        run: python -m pytest -q
       # 법제처 장애(해외 IP 시간대 제한 등) 시에도 뒤 단계를 막지 않는다.
       # 급여기준 신규분만 다음 성공 런으로 미뤄지고, 불완전 자료는 ingest/verify가 걸러낸다.
-      - name: Fetch and validate upstream archive
+      # 실패는 report-upstream job이 issue로 알린다.
+      - name: Fetch law notices
         id: fetch_law
         continue-on-error: true
         env:
@@ -81,14 +83,6 @@ jobs:
           else
             python fetch_law.py
           fi
-          python - <<'PY'
-          import os
-          from pathlib import Path
-          secret = os.environ["LAW_OC"]
-          for path in [Path("data/versions.json"), *Path("data/raw").glob("*/meta.json")]:
-              if secret in path.read_text(encoding="utf-8"):
-                  raise SystemExit(f"LAW_OC leaked into {path}")
-          PY
       - name: Fetch MFDS permit data
         id: fetch_mfds
         continue-on-error: true
@@ -108,13 +102,38 @@ jobs:
       - name: Verify candidate publication
         run: python verify.py
       - name: Build static search
-        run: python build_site.py
-      - name: Save raw upstream archive
-        if: ${{ always() }}
-        uses: actions/cache/save@v6
-        with:
-          path: data/raw
-          key: raw-linux-${{ github.run_id }}
+        env:
+          LAW_FETCH: ${{ steps.fetch_law.outcome }}
+          MFDS_FETCH: ${{ steps.fetch_mfds.outcome }}
+        run: |
+          export COLLECTION_STATUS="$(printf '{"run_at":"%s","law":"%s","mfds":"%s"}' "$(date -u +%Y-%m-%dT%H:%M:%SZ)" "$LAW_FETCH" "$MFDS_FETCH")"
+          python build_site.py
+      # 게시 직전 최후 검사. 수집 성공/실패와 무관하게 실행되고, 비밀값이 저장·게시 자료(원본 메타, 정규화, MFDS,
+      # 공개 DB, Pages 산출물) 어디에든 남았으면 job을 실패시켜 artifact 업로드·커밋·배포를 막는다.
+      # continue-on-error 안에 두면 감지해도 게시가 진행된다.
+      - name: Audit collected data for leaked secrets
+        env:
+          LAW_OC: ${{ secrets.LAW_OC }}
+          DATA_GO_KEY: ${{ secrets.DATA_GO_KEY }}
+        run: |
+          python - <<'PY'
+          import os
+          import sys
+          import urllib.parse
+          from pathlib import Path
+          secrets = [value for value in (os.environ.get("LAW_OC"), os.environ.get("DATA_GO_KEY")) if value]
+          forms = {form for value in secrets for form in (value, urllib.parse.quote(value, safe=""), urllib.parse.quote_plus(value))}
+          encoded = [form.encode("utf-8") for form in forms]
+          paths = [Path("data/versions.json"), *Path("data/raw").glob("*/meta.json"),
+                   *Path("data/normalized").glob("*.json"), *Path("data/mfds").glob("*.json"),
+                   *Path("data/mfds/items").glob("*.json"), Path("data/criteria.db"),
+                   *(path for path in Path("public").rglob("*") if path.is_file())]
+          leaked = [path for path in paths if path.is_file() and any(form in path.read_bytes() for form in encoded)]
+          if leaked:
+              print("::error::비밀값이 저장 자료에 남았습니다: " + ", ".join(map(str, leaked[:10])))
+              sys.exit(1)
+          print(f"비밀값 누출 없음 ({len(paths)}개 파일 검사)")
+          PY
       - uses: actions/upload-artifact@v7
         with:
           name: publication-candidate
@@ -178,14 +197,40 @@ jobs:
           sha256sum candidate/criteria.db > candidate/criteria.db.sha256
           gh release create "$TAG" candidate/criteria.db candidate/criteria.db.sha256 --target "$(git rev-parse HEAD)" --title "$TAG" --notes "Verified automated drug-criteria snapshot."
 
+  # 수집 실패는 런이 초록색으로 끝나므로 여기서 issue로 알린다. 같은 issue가 열려 있으면 본문을 최신 실패로 갱신한다.
   report-upstream:
     needs: build
     if: needs.build.outputs.law_fetch == 'failure' || needs.build.outputs.mfds_fetch == 'failure'
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     steps:
       - name: Report stale upstream data
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          LAW_FETCH: ${{ needs.build.outputs.law_fetch }}
+          MFDS_FETCH: ${{ needs.build.outputs.mfds_fetch }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
+          today="$(TZ=Asia/Seoul date +%Y-%m-%d)"
+          body="$(printf '%s\n' \
+            "상위 데이터 수집이 실패해 검증된 기존 자료로 배포했습니다. 이번 실행의 신규분은 일부 반영되지 않았을 수 있습니다." \
+            "" \
+            "- 실행일(KST): $today" \
+            "- 법제처 고시: $LAW_FETCH" \
+            "- 식약처 허가정보: $MFDS_FETCH" \
+            "- 로그: $RUN_URL")"
           echo "::warning::상위 데이터 수집이 실패해 검증된 기존 자료로 배포했습니다. 이번 실행의 신규분은 일부 반영되지 않았을 수 있습니다."
+          { echo "## 상위 데이터 수집 실패"; echo; echo "$body"; } >> "$GITHUB_STEP_SUMMARY"
+          gh label create upstream-failure --color d73a4a --description "상위 데이터 수집 실패" --force
+          existing="$(gh issue list --label upstream-failure --state open --limit 1 --json number --jq '.[0].number // empty')"
+          if [ -n "$existing" ]; then
+            # 장애가 길어지면 매일 댓글이 쌓여 알림 피로만 남는다. 열린 issue 본문을 최신 실패로 갱신한다.
+            gh issue edit "$existing" --body "$body"
+          else
+            gh issue create --title "[수집 실패] $today" --label upstream-failure --body "$body"
+          fi
 
   deploy-pages:
     needs: build
