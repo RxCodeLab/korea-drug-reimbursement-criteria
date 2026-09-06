@@ -166,3 +166,14 @@ def test_fetch_reconcile_refetches_even_when_meta_is_valid(tmp_path, monkeypatch
     url, params = calls[0]
     assert url == fetch_law.SVC_URL
     assert params["ID"] == "1"
+
+
+def test_fetch_version_rejects_response_without_service_envelope(tmp_path, monkeypatch):
+    """오류 JSON을 빈 서비스로 취급하면 첨부 0건의 complete manifest가 정상 manifest를 덮어쓴다."""
+    monkeypatch.setattr(fetch_law, "RAW", tmp_path)
+    monkeypatch.setattr(fetch_law, "require_oc", lambda: "oc")
+    monkeypatch.setattr(fetch_law, "api_json", lambda url, params: {"Law": {"오류": "인증 실패 OC=secret"}})
+    item = {"행정규칙일련번호": "1", "시행일자": "20260101", "발령일자": "20251231", "발령번호": "1", "행정규칙명": "약제"}
+    with pytest.raises(RuntimeError, match="AdmRulService"):
+        fetch_law.fetch_version(item)
+    assert not (tmp_path / "20260101_1" / "meta.json").exists()

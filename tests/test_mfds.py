@@ -75,17 +75,56 @@ def test_content_hash_is_sha256_of_normalized_text():
     assert fetch_mfds.content_sha256(text) == hashlib.sha256("두통".encode("utf-8")).hexdigest()
 
 
+def history_page(*rows: str) -> bytes:
+    """의약품안전나라 변경이력 페이지의 실제 구조(hist_list 표 안의 detailHist 링크)."""
+    body = "".join(f'<tr><td class="pc-tr"><span>★</span></td><td>{row}</td></tr>' for row in rows)
+    return (
+        '<div id="list"><h2 class="title-t">변경이력</h2>'
+        '<table id="hist_list" class="tb_list type2"><thead><tr><th>선택</th><th>순번</th><th>변경일자</th></tr></thead>'
+        f"<tbody>{body}</tbody></table></div>"
+    ).encode("utf-8")
+
+
+def history_link(doc_id: str, date: str, cdata: str) -> str:
+    return (
+        f'<a href="#" data-docdata="&lt;DOC title=&quot;효능효과&quot;&gt;&lt;PARAGRAPH&gt;&lt;![CDATA[{cdata}]]&gt;'
+        f'&lt;/PARAGRAPH&gt;&lt;/DOC&gt;" onclick="detailHist(&#39;{doc_id}&#39;, &#39;{date}&#39;, this); return false;">'
+        f"<span>{date}</span></a>"
+    )
+
+
 def test_parse_history_extracts_official_revision():
-    source = """
-    <a data-docdata="&lt;DOC title=&quot;효능효과&quot;&gt;&lt;PARAGRAPH&gt;&lt;![CDATA[과거 적응증]]&gt;&lt;/PARAGRAPH&gt;&lt;/DOC&gt;"
-       onclick="detailHist(&#39;52&#39;, &#39;2023-06-16&#39;, this); return false;">2023-06-16</a>
-    """.encode()
+    source = history_page(history_link("52", "2023-06-16", "과거 적응증"))
 
     (revision,) = fetch_mfds.parse_history(source, "201310308", "2026-08-21T00:00:00Z")
 
     assert revision["ee_text"] == "과거 적응증"
     assert revision["ee_doc_id"] == "52"
     assert revision["official_revision_date"] == "2023-06-16"
+
+
+def test_parse_history_keeps_clinical_inequalities_inside_cdata():
+    """`<[^>]+>` 태그 제거를 XML 파싱 뒤에 또 걸면 'CrCl < 30 또는 CrCl > 60'이 'CrCl 60'이 된다."""
+    source = history_page(history_link("7", "2024-01-01", "CrCl &lt; 30 mL/min 또는 CrCl &gt; 60 mL/min인 환자"))
+    (revision,) = fetch_mfds.parse_history(source, "1", "2026-08-21T00:00:00Z")
+    assert revision["ee_text"] == "CrCl < 30 mL/min 또는 CrCl > 60 mL/min인 환자"
+
+
+def test_normalize_ee_keeps_inequalities_in_xml_and_html():
+    xml = "<DOC><PARAGRAPH><![CDATA[CrCl < 30 또는 CrCl > 60]]></PARAGRAPH></DOC>"
+    assert fetch_mfds.normalize_ee(xml) == "CrCl < 30 또는 CrCl > 60"
+    assert fetch_mfds.normalize_ee("<p>CrCl &lt; 30 또는 &gt; 60</p><p>두통</p>") == "CrCl < 30 또는 > 60 두통"
+
+
+@pytest.mark.parametrize("page", [b"<html></html>", "<html><body>점검 중입니다</body></html>".encode("utf-8"), b""])
+def test_parse_history_rejects_pages_without_history_table(page):
+    """차단·점검 페이지나 바뀜 마크업을 '이력 없음'으로 취급하면 history_fetched_at이 기록돼 영원히 재시도하지 않는다."""
+    with pytest.raises(RuntimeError, match="변경이력 표 없음"):
+        fetch_mfds.parse_history(page, "1", "2026-08-21T00:00:00Z")
+
+
+def test_parse_history_accepts_explicit_empty_table():
+    assert fetch_mfds.parse_history(history_page(), "1", "2026-08-21T00:00:00Z") == []
 
 
 def test_search_terms_drop_class_words_filenames_and_duplicates(tmp_path):
@@ -491,11 +530,7 @@ def test_merge_history_keeps_undated_current_revision_first(tmp_path):
     assert item["history_fetched_at"] == observed
 
 
-HISTORY_PAGE = (
-    '<a data-docdata="&lt;DOC&gt;&lt;PARAGRAPH&gt;&lt;![CDATA[과거 적응증]]&gt;'
-    '&lt;/PARAGRAPH&gt;&lt;/DOC&gt;" '
-    'onclick="detailHist(&#39;7&#39;, &#39;2023-06-16&#39;, this); return false;">2023-06-16</a>'
-).encode("utf-8")
+HISTORY_PAGE = history_page(history_link("7", "2023-06-16", "과거 적응증"))
 
 
 def test_main_backfills_history_for_unchanged_item_missing_it(monkeypatch, tmp_path):
@@ -789,3 +824,157 @@ def test_backfill_resumes_after_last_completed_month(monkeypatch, tmp_path):
     assert fetch_mfds.main(["--changes-since", "20200101", "--skip-history"]) == 0
     assert calls == ["20200201"]
     assert not fetch_mfds.BACKFILL_PATH.exists()
+
+
+def test_unchanged_recapture_keeps_official_revision_date(tmp_path):
+    """허가이력 병합 뒤 같은 내용을 다시 받아도 official_revision_date·ee_doc_id가 남아야 한다."""
+    observed = "2026-08-21T00:00:00Z"
+    item = api_item(91, ee="<DOC><P>현재 적응증</P></DOC>")
+    fetch_mfds.merge_item(item, tmp_path, observed)
+    text = fetch_mfds.normalize_ee(item["EE_DOC_DATA"])
+    digest = fetch_mfds.content_sha256(text)
+    fetch_mfds.merge_history("91", [{
+        "revision_id": f"91-{digest[:8]}", "content_sha256": digest, "ee_text": text,
+        "ee_doc_id": "official-9", "official_revision_date": "2023-06-16",
+        "first_observed_at": observed, "last_observed_at": observed,
+    }], tmp_path, observed)
+
+    assert fetch_mfds.merge_item(item, tmp_path, "2026-08-22T00:00:00Z") == "unchanged"
+    (revision,) = json.loads((tmp_path / "91.json").read_text(encoding="utf-8"))["revisions"]
+    assert revision["official_revision_date"] == "2023-06-16"
+    assert revision["ee_doc_id"] == "official-9"
+    assert revision["first_observed_at"] == observed
+    assert revision["last_observed_at"] == "2026-08-22T00:00:00Z"
+    assert json.loads((tmp_path / "91.json").read_text(encoding="utf-8"))["history_fetched_at"] == observed
+
+
+def test_reverted_text_moves_known_revision_to_front_without_duplicate(tmp_path):
+    """A→B→A 복귀는 같은 해시를 두 번 넣지 않고 기존 개정을 현행으로 되돌린다(verify 중복 오류 방지)."""
+    t1, t2, t3 = "2026-08-01T00:00:00Z", "2026-08-02T00:00:00Z", "2026-08-03T00:00:00Z"
+    fetch_mfds.merge_item(api_item(92, ee="<p>A</p>"), tmp_path, t1)
+    fetch_mfds.merge_item(api_item(92, ee="<p>B</p>"), tmp_path, t2)
+    assert fetch_mfds.merge_item(api_item(92, ee="<p>A</p>"), tmp_path, t3) == "changed"
+    document = json.loads((tmp_path / "92.json").read_text(encoding="utf-8"))
+    assert [revision["ee_text"] for revision in document["revisions"]] == ["A", "B"]
+    assert document["revisions"][0]["first_observed_at"] == t1
+    assert document["revisions"][0]["last_observed_at"] == t3
+    assert verify.validate_mfds_items(tmp_path) == []
+
+
+def test_incomplete_page_fails_instead_of_advancing(monkeypatch):
+    """totalCount보다 적게 받았는데 페이지가 끝나면 누락된 채 성공하지 말고 실패해야 한다."""
+    def respond(params):
+        page = int(params["pageNo"])
+        items = [api_item(1), api_item(2)] if page == 1 else []
+        return envelope({"totalCount": "5", "items": items})
+
+    monkeypatch.setattr(fetch_mfds, "http_get", FakeApi(respond))
+    with pytest.raises(RuntimeError, match="불완전"):
+        fetch_mfds.collect_pages(SERVICE_KEY, "main_item_ingr", "Clonazepam", 2, None)
+
+
+def test_short_last_page_with_matching_total_is_complete(monkeypatch):
+    fake = FakeApi(lambda params: envelope({"totalCount": "1", "items": [api_item(1)]}))
+    monkeypatch.setattr(fetch_mfds, "http_get", fake)
+    assert len(fetch_mfds.collect_pages(SERVICE_KEY, "main_item_ingr", "Clonazepam", 100, None)) == 1
+
+
+@pytest.mark.parametrize(("name", "expected"), [
+    ("에스암로디핀베실산염이수화물", "에스암로디핀"),
+    ("다파글리플로진프로판디올수화물", "다파글리플로진"),
+    ("클로나제팜", "클로나제팜"),
+    ("메트포르민염산염", "메트포르민"),
+])
+def test_base_ingredient_strips_longest_suffix_first(name, expected):
+    assert fetch_mfds.base_ingredient(name) == expected
+
+
+def test_change_feed_uses_stored_ingredient_combinations_as_seeds(monkeypatch, tmp_path):
+    """저장된 A+B 복합제 때문에 B+C, C 품목까지 재귀적으로 딸려오면 안 된다."""
+    monkeypatch.setattr(fetch_mfds, "today_kst", lambda: "20260901")
+    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
+    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(tmp_path / "normalized", ["Alpha 경구제"]))
+    items = tmp_path / "items"
+    items.mkdir()
+    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
+    fetch_mfds.merge_item(api_item(1, MAIN_ITEM_INGR="[M1]알파린"), items, "2026-08-01T00:00:00Z")
+    fetch_mfds.merge_item(api_item(2, MAIN_ITEM_INGR="[M1]알파린|[M2]베타린"), items, "2026-08-01T00:00:00Z")
+    fetch_mfds.save_sync("20260820", {"Alpha"})
+    changed_rows = [
+        api_item(3, MAIN_ITEM_INGR="[M1]알파린염산염|[M9]감마린"),   # 알파 포함 → 유관
+        api_item(4, MAIN_ITEM_INGR="[M2]베타린|[M3]감마린"),         # 베타만 겹침 → 무관(예전 규칙은 수집)
+        api_item(5, MAIN_ITEM_INGR="[M2]베타린"),                  # 무관
+    ]
+
+    def respond(url, params=None, retries=3):
+        params = params or {}
+        if "start_change_date" in params:
+            return envelope({"totalCount": str(len(changed_rows)), "items": changed_rows})
+        return envelope({"totalCount": "0"})
+
+    monkeypatch.setattr(fetch_mfds, "http_get", respond)
+    with contextlib.redirect_stdout(io.StringIO()):
+        assert fetch_mfds.main(["--skip-history"]) == 0
+    assert sorted(p.stem for p in items.glob("*.json")) == ["1", "2", "3"]
+
+
+def test_pending_history_is_backfilled_after_change_feed(monkeypatch, tmp_path, capsys):
+    """변경분에 다시 나타나지 않는 이력 미수집 품목도 실행 끝에 상한 안에서 백필한다."""
+    monkeypatch.setattr(fetch_mfds, "today_kst", lambda: "20260901")
+    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
+    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(tmp_path / "normalized", ["Alpha 경구제"]))
+    items = tmp_path / "items"
+    items.mkdir()
+    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
+    for seq in (1, 2, 3):
+        fetch_mfds.merge_item(api_item(seq, MAIN_ITEM_INGR="[M1]알파"), items, "2026-08-01T00:00:00Z")
+    fetch_mfds.save_sync("20260820", {"Alpha"})
+    history_calls: list[str] = []
+
+    def respond(url, params=None, retries=3):
+        params = params or {}
+        if url == fetch_mfds.HISTORY_URL:
+            history_calls.append(params["itemSeq"])
+            return HISTORY_PAGE
+        return envelope({"totalCount": "0"})
+
+    monkeypatch.setattr(fetch_mfds, "http_get", respond)
+    assert fetch_mfds.main(["--history-backfill-limit", "2"]) == 0
+    assert history_calls == ["1", "2"]
+    assert fetch_mfds.history_pending("3", items) is True
+    assert "과거 허가이력=2건" in capsys.readouterr().out
+
+    history_calls.clear()
+    with contextlib.redirect_stdout(io.StringIO()):
+        assert fetch_mfds.main(["--history-backfill-limit", "2"]) == 0
+    assert history_calls == ["3"]
+
+
+def test_max_items_truncation_does_not_advance_sync(monkeypatch, tmp_path):
+    """상한으로 잘린 실행이 검색어를 완료로 기록하면 미처리 품목이 영원히 빠진다."""
+    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
+    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(tmp_path / "normalized", ["Clonazepam 경구제"]))
+    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", tmp_path / "items")
+    fake = FakeApi(lambda params: envelope({"totalCount": "2", "items": [api_item(31), api_item(32)]}))
+    monkeypatch.setattr(fetch_mfds, "http_get", fake)
+    buffer = io.StringIO()
+    with contextlib.redirect_stdout(buffer):
+        assert fetch_mfds.main(["--max-terms", "1", "--max-items", "1", "--skip-history"]) == 0
+    assert not fetch_mfds.SYNC_PATH.exists()
+    assert "동기화 상태를 갱신하지 않습니다" in buffer.getvalue()
+
+
+def test_whitespace_only_differences_do_not_create_phantom_revisions(tmp_path):
+    """API 본문과 변경이력 본문이 띄어쓰기만 다르면 같은 개정으로 본다(저장 자료의 1%가 이 유령 개정)."""
+    observed = "2026-08-21T00:00:00Z"
+    fetch_mfds.merge_item(api_item(93, ee="<DOC><P>1. 수분 보급</P><P>2. 희석제</P></DOC>"), tmp_path, observed)
+    spaced = "1. 수분 보급  2. 희석제"
+    fetch_mfds.merge_history("93", [{
+        "revision_id": f"93-{fetch_mfds.content_sha256(spaced)[:8]}", "content_sha256": fetch_mfds.content_sha256(spaced),
+        "ee_text": spaced, "ee_doc_id": "19", "official_revision_date": "2017-09-20",
+        "first_observed_at": observed, "last_observed_at": observed,
+    }], tmp_path, observed)
+    (revision,) = json.loads((tmp_path / "93.json").read_text(encoding="utf-8"))["revisions"]
+    assert revision["official_revision_date"] == "2017-09-20"
+    assert fetch_mfds.merge_item(api_item(93, ee="<DOC><P>1.  수분 보급</P><P>2. 희석제</P></DOC>"), tmp_path, "2026-08-22T00:00:00Z") == "unchanged"
+    assert len(json.loads((tmp_path / "93.json").read_text(encoding="utf-8"))["revisions"]) == 1

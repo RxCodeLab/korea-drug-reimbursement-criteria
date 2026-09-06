@@ -188,7 +188,11 @@ def fetch_version(it: dict, reconcile: bool = False) -> None:
     if not reconcile and meta_p.exists() and completed_meta_valid(meta_p, it):
         return
     j = api_json(SVC_URL, {"OC": oc, "target": "admrul", "ID": seq, "type": "JSON"})
-    svc = j.get("AdmRulService", {})
+    svc = j.get("AdmRulService")
+    if not isinstance(svc, dict):
+        # 오류 응답(인증 실패, 점검 등)은 AdmRulService 없이 온다. 빈 서비스로 취급하면
+        # 첨부 0건의 complete manifest가 정상 manifest를 덮어쓴다.
+        raise RuntimeError(f"법제처 응답에 AdmRulService가 없습니다: {redact_text(json.dumps(j, ensure_ascii=False)[:200])}")
     att = svc.get("첨부파일", {}) or {}
     pairs = attachment_pairs(att.get("첨부파일링크", []), att.get("첨부파일명", []))
     vdir.mkdir(parents=True, exist_ok=True)
