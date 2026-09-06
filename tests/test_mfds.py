@@ -1,5 +1,6 @@
 import contextlib
 import hashlib
+import html
 import io
 import json
 
@@ -115,6 +116,38 @@ def test_normalize_ee_keeps_inequalities_in_xml_and_html():
     xml = "<DOC><PARAGRAPH><![CDATA[CrCl < 30 또는 CrCl > 60]]></PARAGRAPH></DOC>"
     assert fetch_mfds.normalize_ee(xml) == "CrCl < 30 또는 CrCl > 60"
     assert fetch_mfds.normalize_ee("<p>CrCl &lt; 30 또는 &gt; 60</p><p>두통</p>") == "CrCl < 30 또는 > 60 두통"
+
+
+# nedrug.mfds.go.kr에서 직접 받은 투엑스비듀얼정(202003660) 변경이력 원문. 속성값 안의 &lt;sub&gt;는
+# 이스케이프된 채가 정상이고(풀리면 속성값 안에서 태그가 열려 XML이 깨진다), API가 EE_DOC_DATA를
+# 이미 한 번 더 이스케이프해 줄 수도 있으므로 둘 다 같은 결과가 나와야 한다.
+TXB_DUAL_ONCE_ESCAPED = '<DOC title="효능효과" type="EE">\n  <SECTION title="">\n    <ARTICLE title="1. 다음 경우의 비타민 D, E, B&lt;sub&gt;1&lt;/sub&gt;, B&lt;sub&gt;2&lt;/sub&gt;, B&lt;sub&gt;6&lt;/sub&gt;, C의 보급">\n      <PARAGRAPH tagName="p" textIndent="" marginLeft=""><![CDATA[- 육체피로]]></PARAGRAPH>\n      <PARAGRAPH tagName="p" textIndent="" marginLeft=""><![CDATA[- 임신·수유기]]></PARAGRAPH>\n      <PARAGRAPH tagName="p" textIndent="" marginLeft=""><![CDATA[- 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시]]></PARAGRAPH>\n      <PARAGRAPH tagName="p" textIndent="" marginLeft=""><![CDATA[- 발육기]]></PARAGRAPH>\n      <PARAGRAPH tagName="p" textIndent="" marginLeft=""><![CDATA[- 노년기]]></PARAGRAPH>\n      <PARAGRAPH tagName="p" textIndent="" marginLeft=""><![CDATA[- 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다.]]></PARAGRAPH>\n      <PARAGRAPH tagName="p" textIndent="0" marginLeft="2"><![CDATA[· 뼈, 이의 발육불량]]></PARAGRAPH>\n      <PARAGRAPH tagName="p" textIndent="0" marginLeft="2"><![CDATA[· 구루병의 예방]]></PARAGRAPH>\n      <PARAGRAPH tagName="p" textIndent="0" marginLeft="2"><![CDATA[· 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등)]]></PARAGRAPH>\n      <PARAGRAPH tagName="p" textIndent="0" marginLeft="2"><![CDATA[· 각기]]></PARAGRAPH>\n      <PARAGRAPH tagName="p" textIndent="0" marginLeft="2"><![CDATA[· 눈의피로]]></PARAGRAPH>\n      <PARAGRAPH tagName="p" textIndent="0" marginLeft="2"><![CDATA[· 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염]]></PARAGRAPH>\n    </ARTICLE>\n    <ARTICLE title="2. 아연의 보급" />\n  </SECTION>\n</DOC>'
+
+TXB_DUAL_EXPECTED_EE_TEXT = '1. 다음 경우의 비타민 D, E, B1, B2, B6, C의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. · 뼈, 이의 발육불량 · 구루병의 예방 · 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) · 각기 · 눈의피로 · 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 2. 아연의 보급'
+
+
+def test_normalize_ee_matches_real_mfds_document_once_and_double_escaped():
+    """nedrug 변경이력 페이지는 data-docdata 속성을 HTML에 맞게 한 번 더 이스케이프해서 내려준다.
+    HTMLParser가 그 속성값을 읽으면 여기의 TXB_DUAL_ONCE_ESCAPED 가 되고, 이것이 normalize_ee 의 입력(EE_DOC_DATA)이다.
+    API 가 이것을 한 번 더 이스케이프해 줄 수도 있으므로(이스케이프 깊이가 입력마다 다를 수 있다), 둘다 같은 결과여야 한다."""
+    once = TXB_DUAL_ONCE_ESCAPED
+    twice = html.escape(once, quote=True)
+    assert once != twice
+
+    result_once = fetch_mfds.normalize_ee(once)
+    result_twice = fetch_mfds.normalize_ee(twice)
+
+    assert result_once == result_twice == TXB_DUAL_EXPECTED_EE_TEXT
+    assert '">' not in result_once
+    assert "<sub>" not in result_once and "</sub>" not in result_once
+    assert "B1" in result_once and "B2" in result_once and "B6" in result_once
+    # 빈 title("")인 SECTION 은 본문에 들어오지 않는다(이 문서는 빈 문자열이라 구별 불가능하므로 실제로 들어오는것이 없음을 확인).
+    assert result_once.count("  ") == 0
+
+
+def test_normalize_ee_skips_empty_titles_but_keeps_non_empty_ones():
+    xml = '<DOC title=""><SECTION title=""><ARTICLE title="1. 제목"><![CDATA[본문]]></ARTICLE></SECTION></DOC>'
+    assert fetch_mfds.normalize_ee(xml) == "1. 제목 본문"
 
 
 @pytest.mark.parametrize("page", [b"<html></html>", "<html><body>점검 중입니다</body></html>".encode("utf-8"), b""])
@@ -517,6 +550,49 @@ def test_merge_history_keeps_undated_current_revision_first(tmp_path):
     assert item["history_fetched_at"] == observed
 
 
+def test_merge_history_upgrades_stale_doc_id_text_without_new_revision(tmp_path):
+    """저장된 이력 레코드가 구버전 normalize_ee 산출물을 가지고 있고 ee_doc_id가 같으면, 재수집은
+    가짜 개정을 추가하지 않고 본문만 최신 정규화 결과로 갱신해야 한다."""
+    observed = "2026-08-21T00:00:00Z"
+    fetch_mfds.merge_item(api_item(53, ee="<DOC><P>현재 적응증</P></DOC>"), tmp_path, observed)
+    path = tmp_path / "53.json"
+    item = json.loads(path.read_text(encoding="utf-8"))
+    stale_text = "효능효과 과거 적응증"
+    stale_hash = fetch_mfds.content_sha256(stale_text)
+    item["revisions"].append({
+        "revision_id": f"53-{stale_hash[:8]}",
+        "content_sha256": stale_hash,
+        "ee_text": stale_text,
+        "ee_doc_id": "old",
+        "official_revision_date": "2020-02-11",
+        "first_observed_at": observed,
+        "last_observed_at": observed,
+    })
+    path.write_text(json.dumps(item, ensure_ascii=False), encoding="utf-8")
+
+    fresh_text = "과거 적응증"
+    fresh_hash = fetch_mfds.content_sha256(fresh_text)
+    later = "2026-09-06T00:00:00Z"
+    history = [{
+        "revision_id": f"53-{fresh_hash[:8]}",
+        "content_sha256": fresh_hash,
+        "ee_text": fresh_text,
+        "ee_doc_id": "old",
+        "normalizer_version": fetch_mfds.NORMALIZER_VERSION,
+        "official_revision_date": "2020-02-11",
+        "first_observed_at": later,
+        "last_observed_at": later,
+    }]
+
+    added = fetch_mfds.merge_history("53", history, tmp_path, later)
+
+    assert added == 0
+    document = json.loads(path.read_text(encoding="utf-8"))
+    assert len(document["revisions"]) == 2
+    assert [revision["ee_text"] for revision in document["revisions"]] == ["현재 적응증", "과거 적응증"]
+    assert verify.validate_mfds_items(tmp_path) == []
+
+
 HISTORY_PAGE = history_page(history_link("7", "2023-06-16", "과거 적응증"))
 
 
@@ -801,6 +877,48 @@ def test_reverted_text_moves_known_revision_to_front_without_duplicate(tmp_path)
     assert [revision["ee_text"] for revision in document["revisions"]] == ["A", "B"]
     assert document["revisions"][0]["first_observed_at"] == t1
     assert document["revisions"][0]["last_observed_at"] == t3
+    assert verify.validate_mfds_items(tmp_path) == []
+
+
+def test_merge_item_upgrades_stale_normalizer_output_without_new_revision(tmp_path):
+    """저장된 레코드가 구버전 normalize_ee가 만든 깨진 텍스트를 가지고 있고 EE_DOC_DATA 자체는 안
+    바뀌었으면, 재수집은 가짜 개정을 추가하지 않고 현행 레코드를 제자리 갱신해야 한다
+    (실측: 투엑스비듀얼정 202003660 재수집 시 변경이력이 설명 없이 부풀려서는 안 된다)."""
+    observed_at = "2026-08-28T13:25:18Z"
+    item = api_item(94, ee="<DOC title=\"효능효과\"><ARTICLE title=\"1. 제목\"><![CDATA[본문]]></ARTICLE></DOC>")
+    fetch_mfds.merge_item(item, tmp_path, observed_at)
+    path = tmp_path / "94.json"
+    document = json.loads(path.read_text(encoding="utf-8"))
+    # 구버전(예: DOC title 포함, ARTICLE title 미포함)이 만든 것처럼 깨진 텍스트로 되돌리고
+    # normalizer_version을 지워 "구버전 산출물"을 흉내낸다.
+    stale_text = "효능효과 본문"
+    stale_hash = fetch_mfds.content_sha256(stale_text)
+    document["revisions"][0]["ee_text"] = stale_text
+    document["revisions"][0]["content_sha256"] = stale_hash
+    document["revisions"][0]["revision_id"] = f"94-{stale_hash[:8]}"
+    document["revisions"][0].pop("normalizer_version", None)
+    path.write_text(json.dumps(document, ensure_ascii=False), encoding="utf-8")
+
+    later = "2026-09-06T00:00:00Z"
+    result = fetch_mfds.merge_item(item, tmp_path, later)
+
+    assert result == "unchanged"
+    updated = json.loads(path.read_text(encoding="utf-8"))
+    assert len(updated["revisions"]) == 1
+    assert updated["revisions"][0]["ee_text"] == "1. 제목 본문"
+    assert updated["revisions"][0]["normalizer_version"] == fetch_mfds.NORMALIZER_VERSION
+    assert updated["revisions"][0]["last_observed_at"] == later
+    assert verify.validate_mfds_items(tmp_path) == []
+
+
+def test_merge_item_still_detects_real_change_at_same_normalizer_version(tmp_path):
+    """정규화 버전이 같으면(구버전 마이그레이션 경로가 아니면) 실제 내용 변경은 여전히 새 개정으로 쌓인다."""
+    t1, t2 = "2026-08-01T00:00:00Z", "2026-08-02T00:00:00Z"
+    fetch_mfds.merge_item(api_item(95, ee="<p>원래 적응증</p>"), tmp_path, t1)
+    result = fetch_mfds.merge_item(api_item(95, ee="<p>진짜 바뀐 적응증</p>"), tmp_path, t2)
+    assert result == "changed"
+    document = json.loads((tmp_path / "95.json").read_text(encoding="utf-8"))
+    assert [revision["ee_text"] for revision in document["revisions"]] == ["진짜 바뀐 적응증", "원래 적응증"]
     assert verify.validate_mfds_items(tmp_path) == []
 
 

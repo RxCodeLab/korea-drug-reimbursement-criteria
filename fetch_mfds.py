@@ -81,17 +81,62 @@ def _html_text(fragment: str) -> str:
     return " ".join(collector.parts)
 
 
-def normalize_ee(raw: object) -> str:
-    text = html.unescape(str(raw or ""))
+INLINE_MARKUP = re.compile(r"</?[a-zA-Z][^<>]*>")
+
+
+def _is_xml_shaped(text: str) -> bool:
     stripped = text.lstrip()
-    if stripped.startswith("<?xml") or stripped.startswith("<DOC"):
+    return stripped.startswith("<?xml") or stripped.startswith("<DOC")
+
+
+def _xml_ee_parts(elem: ET.Element) -> Iterable[str]:
+    """`SECTION`/`ARTICLE` 의 title 속성과 본문 텍스트를 문서 순서로 낸다.
+
+    최상위 `DOC title`(실측 항상 "효능효과")은 문서 종류 라벨일 뿐 적응증 본문이 아니어서 제외한다
+    (이 함수는 자식부터 호출되므로 DOC 자체에서는 호출되지 않는다; normalize_ee가 root의
+    자식부터 순회한다). `ARTICLE`(그리고 내용이 있는 `SECTION`) title은 진짜 항목 제목이라 포함한다.
+
+    나온고시 원문은 'ARTICLE title="1. ... B&lt;sub&gt;1&lt;/sub&gt;..."' 처럼 항목 제목 안에
+    아래첨자를 이스케이프해 둔다. itertext()는 속성을 읽지 않아 이 제목이 통째로 빠지므로 여기서
+    직접 꺼낸다. ET가 속성값을 파싱하면서 `&lt;sub&gt;`를 리터럴 `<sub>` 문자로 풀어주는데, 사람이
+    읽을 제목에 마크업이 남으면 안 되므로(그리고 'B<sub>1</sub>'는 'B1'로 붙어야 의미가 맞으므로)
+    INLINE_MARKUP으로 태그만 벗기고 안쪽 텍스트는 그대로 붙인다. 빈 title("")은 건너뛴다.
+    """
+    if elem.tag in ("SECTION", "ARTICLE"):
+        title = (elem.get("title") or "").strip()
+        if title:
+            yield INLINE_MARKUP.sub("", title)
+    if elem.text:
+        yield elem.text
+    for child in elem:
+        yield from _xml_ee_parts(child)
+        if child.tail:
+            yield child.tail
+
+
+def normalize_ee(raw: object) -> str:
+    """효능효과 원문을 사람이 읽는 텍스트로 정규화한다.
+
+    API가 주는 EE_DOC_DATA는 이스케이프 깊이가 균일하지 않다: 이미 유효한 XML로 온 경우
+    (ARTICLE title 안의 &lt;sub&gt;는 XML 속성값 안에서 정상적으로 이스케이프된 상태) 그대로
+    파싱해야 하고, 문서 전체가 한 번 더 HTML 이스케이프된 채로 온 경우 unescape 한 번을 거쳐야
+    파싱된다. 그래서 원문 그대로 먼저 파싱을 시도하고, 실패할 때만 unescape 후 재시도한다.
+    이 순서를 뒤집어 무조건 먼저 unescape 하면, 이미 유효한 XML의 속성값 안 &lt;sub&gt;가 진짜
+    <sub> 태그로 풀려 속성값 안에서 태그가 열린 것처럼 보여 XML이 깨진다(실측 사례:
+    투엑스비듀얼정 202003660).
+    """
+    text = str(raw or "")
+    once = html.unescape(text)
+    for candidate in (text, once) if once != text else (text,):
+        if not _is_xml_shaped(candidate):
+            continue
         try:
-            # XML 파싱이 되면 itertext가 이미 순수 텍스트다. 여기에 태그 제거를 다시 걸면 본문의 부등식이 사라진다.
-            text = " ".join(ET.fromstring(text).itertext())
-            return WHITESPACE.sub(" ", text).strip()
+            parsed = ET.fromstring(candidate)
         except ET.ParseError:
-            pass
-    return WHITESPACE.sub(" ", _html_text(text)).strip()
+            continue
+        joined = " ".join(part for part in _xml_ee_parts(parsed) if part)
+        return WHITESPACE.sub(" ", joined).strip()
+    return WHITESPACE.sub(" ", _html_text(once)).strip()
 
 
 def content_sha256(text: str) -> str:
@@ -102,6 +147,20 @@ def revision_key(text: str) -> str:
     """개정 동일성 키. API 본문과 변경이력 본문은 띄어쓰기만 다르게 오는 경우가 있어(저장 품목의 1%)
     해시만 비교하면 같은 효능·효과가 개정 두 건으로 보인다. 저장 해시는 그대로 두고 비교에만 쓴다."""
     return WHITESPACE.sub("", text)
+
+
+# normalize_ee의 추출 규칙이 바뀜 때마다 올린다. 저장된 레코드의 normalizer_version이 이 값보다 낮으면
+# 그 레코드의 ee_text는 예전 로직이 만든 것이다. 이를 이용해 merge_item/merge_history는 "같은 EE_DOC_DATA,
+# 다른 추출 결과"를 새 개정이 아니라 기존 레코드의 제자리 갱신으로 처리해, 재수집 시 가짜 개정이 쌓이는
+# 것을 막는다(실측: 투엑스비듀얼정 202003660, ARTICLE title 포함 수정).
+NORMALIZER_VERSION = 2
+
+
+def _normalizer_version(revision: dict) -> int:
+    try:
+        return int(revision.get("normalizer_version") or 0)
+    except (TypeError, ValueError):
+        return 0
 
 
 def load_titles(normalized_dir: Path) -> list[str]:
@@ -252,6 +311,7 @@ def parse_history(raw: bytes, item_seq: str, observed_at: str) -> list[dict]:
             "content_sha256": digest,
             "ee_text": text,
             "ee_doc_id": official_id,
+            "normalizer_version": NORMALIZER_VERSION,
             "official_revision_date": official_date,
             "first_observed_at": observed_at,
             "last_observed_at": observed_at,
@@ -426,24 +486,36 @@ def merge_item(item: dict, items_dir: Path, observed_at: str) -> str:
         (r for r in revisions if r.get("content_sha256") == digest or revision_key(str(r.get("ee_text") or "")) == key),
         None,
     )
-    if known is None:
-        status = "changed" if revisions else "new"
-        revisions.insert(0, {
-            "revision_id": f"{seq}-{digest[:8]}",
-            "content_sha256": digest,
-            "ee_text": ee_text,
-            "ee_doc_id": ee_doc_id,
-            "first_observed_at": observed_at,
-            "last_observed_at": observed_at,
-        })
-    else:
+    if known is None and revisions and _normalizer_version(revisions[0]) < NORMALIZER_VERSION:
+        # 현행 문서(revisions[0])를 이미 예전 normalize_ee 로직이 만든 텍스트로 가지고 있는데, 이번에도
+        # 매칭이 안 된다면 허가사항이 실제로 바뀜 게 아니라 normalize_ee 로직 변경으로 같은 EE_DOC_DATA의
+        # 추출 결과만 달라진 것이다(실측: 투엑스비듀얼정 202003660). 새 개정을 쌓지 않고 현행 레코드를
+        # 최신 정규화 결과로 제자리 갱신한다. 버전이 이미 최신인 레코드는 이 경로에 들어오지 않으므로
+        # 실제 개정은 여전히 새 레코드로 추가된다.
+        known = revisions[0]
+        known["ee_text"] = ee_text
+        known["content_sha256"] = digest
+        known["revision_id"] = f"{seq}-{digest[:8]}"
+    if known is not None:
         status = "unchanged" if revisions[0] is known else "changed"
+        known["normalizer_version"] = NORMALIZER_VERSION
         known["last_observed_at"] = observed_at
         if not known.get("ee_doc_id"):
             known["ee_doc_id"] = ee_doc_id
         if revisions[0] is not known:
             revisions.remove(known)
             revisions.insert(0, known)
+    else:
+        status = "changed" if revisions else "new"
+        revisions.insert(0, {
+            "revision_id": f"{seq}-{digest[:8]}",
+            "content_sha256": digest,
+            "ee_text": ee_text,
+            "ee_doc_id": ee_doc_id,
+            "normalizer_version": NORMALIZER_VERSION,
+            "first_observed_at": observed_at,
+            "last_observed_at": observed_at,
+        })
     record = scalar_fields(item, seq)
     history_fetched_at = str((existing or {}).get("history_fetched_at") or "").strip()
     if history_fetched_at:
@@ -461,16 +533,42 @@ def merge_history(
     API가 현행으로 보고한 개정에는 official_revision_date가 없어 날짜 역순 정렬에서
     과거 개정에 밀리므로, 정렬 뒤에도 맨 앞에 오도록 고정한다. 수집 시각을
     history_fetched_at에 남겨 다음 실행이 재수집 대상을 판단하게 한다.
+
+    같은 ee_doc_id(MFDS 허가사항 문서 식별자)를 가진 레코드가 이미 있는데 저장된
+    normalizer_version이 지금보다 낮으면, 허가사항이 실제로 바뀐 게 아니라 normalize_ee
+    로직이 바뀌어 같은 원문의 추출 결과만 달라진 것이다(실측: 투엑스비듀얼정 202003660).
+    이 경우 새 개정을 추가하지 않고 기존 레코드의 본문만 최신 정규화 결과로 갱신해,
+    재수집 때마다 가짜 개정이 쌓이는 것을 막는다. 버전이 이미 최신인데 ee_doc_id가 같고
+    텍스트가 다른 경우는(예: 202107475처럼 API가 같은 순번에 다른 문서를 돌려준 사례) 실제
+    개정으로 보고 새 레코드를 추가한다 — doc_id만으로 병합하면 서로 다른 개정이 뭉개진다.
     """
     path = items_dir / f"{item_seq}.json"
     item = json.loads(path.read_text(encoding="utf-8"))
     revisions = item["revisions"]
     current_hash = revisions[0]["content_sha256"] if revisions else ""
     by_key = {revision_key(revision["ee_text"]): revision for revision in revisions}
+    by_doc_id = {
+        str(revision.get("ee_doc_id") or "").strip(): revision
+        for revision in revisions
+        if str(revision.get("ee_doc_id") or "").strip() and _normalizer_version(revision) < NORMALIZER_VERSION
+    }
     added = 0
     for official in history:
+        official_doc_id = str(official.get("ee_doc_id") or "").strip()
         existing = by_key.get(revision_key(official["ee_text"]))
+        migrated = False
+        if existing is None and official_doc_id:
+            existing = by_doc_id.get(official_doc_id)
+            migrated = existing is not None
         if existing is not None:
+            if migrated:
+                by_key.pop(revision_key(existing["ee_text"]), None)
+                existing["ee_text"] = official["ee_text"]
+                existing["content_sha256"] = official["content_sha256"]
+                existing["revision_id"] = official["revision_id"]
+                existing["normalizer_version"] = official.get("normalizer_version", NORMALIZER_VERSION)
+                by_key[revision_key(official["ee_text"])] = existing
+                by_doc_id.pop(official_doc_id, None)
             existing["ee_doc_id"] = official["ee_doc_id"]
             existing["official_revision_date"] = official["official_revision_date"]
             continue
