@@ -2,11 +2,9 @@ from __future__ import annotations
 
 import hashlib
 import json
-import os
 import re
 import shutil
 import unicodedata
-from datetime import datetime, timedelta, timezone
 from urllib.parse import quote
 
 from html import escape as html_escape
@@ -16,6 +14,7 @@ from search import ACTION_LABELS, ROLE_ORDER
 
 NORMALIZED = DATA / "normalized"
 MFDS_ITEMS = DATA / "mfds" / "items"
+COLLECTION_STATUS_PATH = DATA / "collection.json"
 PUBLIC = BASE / "public"
 SITE_URL = "https://rxcodelab.github.io/korea-drug-reimbursement-criteria/"
 REPO_URL = "https://github.com/RxCodeLab/korea-drug-reimbursement-criteria"
@@ -27,7 +26,6 @@ MFDS_INDEX_FIELDS = (
     "permit_date", "revision_count", "content_key",
 )
 MFDS_CONTENT_KEY_CHARS = 12
-KST = timezone(timedelta(hours=9))
 
 
 def load_normalized() -> list[dict]:
@@ -120,7 +118,7 @@ HTML = r'''<!doctype html>
 <link rel="canonical" href="https://rxcodelab.github.io/korea-drug-reimbursement-criteria/">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"약제 급여기준 변경 이력 검색","url":"https://rxcodelab.github.io/korea-drug-reimbursement-criteria/","description":"약제명과 성분명으로 보건복지부 약제 급여기준의 신설·변경·삭제 이력을 검색합니다.","inLanguage":"ko","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://rxcodelab.github.io/korea-drug-reimbursement-criteria/?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
 <style>
-body{font-family:system-ui,"Malgun Gothic",sans-serif;max-width:1000px;margin:2rem auto;padding:0 1rem;line-height:1.55;color:#1d2433}input{width:100%;box-sizing:border-box;padding:.8rem;font-size:1rem;border:1px solid #8993a4;border-radius:6px}.hint,.meta{color:#5b6575}.group{margin:1.5rem 0;border-top:2px solid #28364d}.group h2{font-size:1.15rem}details{border:1px solid #ccd2dc;border-radius:6px;margin:.5rem 0;padding:.5rem .8rem}summary{cursor:pointer;font-weight:600}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#f5f7fa;padding:.8rem}.badge{color:#a33;margin-left:.5rem}.revision{font-weight:700;margin:.6rem 0 .2rem}.empty{padding:2rem 0;color:#5b6575}.related{margin-top:2rem;border-color:#8993a4}.related>.group{margin-left:.5rem}.catalog{margin-top:2rem;color:#5b6575;font-size:.9rem}.catalog ul{columns:2;margin:.5rem 0;padding-left:1.2rem}.warn{color:#a33}footer{margin-top:2.5rem;padding-top:.8rem;border-top:1px solid #ccd2dc;color:#5b6575;font-size:.9rem}
+body{font-family:system-ui,"Malgun Gothic",sans-serif;max-width:1000px;margin:2rem auto;padding:0 1rem;line-height:1.55;color:#1d2433}input{width:100%;box-sizing:border-box;padding:.8rem;font-size:1rem;border:1px solid #8993a4;border-radius:6px}.hint,.meta{color:#5b6575}.group{margin:1.5rem 0;border-top:2px solid #28364d}.group h2{font-size:1.15rem}details{border:1px solid #ccd2dc;border-radius:6px;margin:.5rem 0;padding:.5rem .8rem}summary{cursor:pointer;font-weight:600}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#f5f7fa;padding:.8rem}.badge{color:#a33;margin-left:.5rem}.revision{font-weight:700;margin:.6rem 0 .2rem}.empty{padding:2rem 0;color:#5b6575}.related{margin-top:2rem;border-color:#8993a4}.related>.group{margin-left:.5rem}.catalog{margin-top:2rem;color:#5b6575;font-size:.9rem}.catalog ul{columns:2;margin:.5rem 0;padding-left:1.2rem}footer{margin-top:2.5rem;padding-top:.8rem;border-top:1px solid #ccd2dc;color:#5b6575;font-size:.9rem}
 </style></head><body>
 <h1>약제 급여기준 변경 이력 검색</h1><p class="hint">한글 또는 영문 검색어를 공백으로 나누어 입력하면, 하나라도 포함된 항목을 표시합니다.</p>
 <input id="q" type="search" autocomplete="off" placeholder="예: dapagliflozin 다파글리플로진" autofocus><p id="status" class="meta"></p><main id="results"></main>
@@ -237,22 +235,22 @@ def latest_notice_label(documents: list[dict]) -> str:
     return f"최근 갱신: {date} · "
 
 
-def collection_status_label(raw: str | None) -> str:
-    """워크플로가 COLLECTION_STATUS로 넘긴 마지막 수집 시도 결과. 수집 실패를 발령일자 뒤에 숨기지 않는다."""
-    if not raw:
+def last_success_label() -> str:
+    """data/collection.json에 워크플로가 기록한 마지막 수집 성공 날짜. 실패·시도 정보는 절대 담지 않는다.
+
+    파일이 없으면(최초 실행, 기존 저장소) 빈 문자열 — 이 부분을 생략하고 조용히 넘어간다.
+    """
+    if not COLLECTION_STATUS_PATH.is_file():
         return ""
     try:
-        status = json.loads(raw)
-        run_at = datetime.fromisoformat(str(status["run_at"]).replace("Z", "+00:00")).astimezone(KST)
-    except (ValueError, KeyError, TypeError):
-        raise RuntimeError(f"COLLECTION_STATUS 형식이 잘못되었습니다: {raw!r}") from None
-    labels = {"success": "성공", "failure": "실패", "skipped": "건너뜀", "cancelled": "취소"}
-    parts = [f"마지막 수집 시도: {run_at.strftime('%Y-%m-%d %H:%M')} KST"]
-    for key, name in (("law", "법제처"), ("mfds", "식약처")):
-        outcome = str(status.get(key) or "")
-        label = labels.get(outcome, outcome or "?")
-        parts.append(f"{name} {label}" if outcome == "success" else f'<span class="warn">{name} {html_escape(label)}</span>')
-    return " · ".join(parts) + " · "
+        status = json.loads(COLLECTION_STATUS_PATH.read_text(encoding="utf-8"))
+        raw_date = str(status["last_success_date"])
+    except (ValueError, KeyError, TypeError, json.JSONDecodeError):
+        raise RuntimeError(f"{COLLECTION_STATUS_PATH} 형식이 잘못되었습니다") from None
+    if not raw_date:
+        return ""
+    date = f"{raw_date[:4]}-{raw_date[4:6]}-{raw_date[6:8]}"
+    return f"마지막 수집 성공: {date} · "
 
 
 SLUG_STRIP = re.compile("[^0-9a-z가-힣]+")
@@ -331,7 +329,7 @@ def criteria_page(newest: dict, items: list[dict], url_path: str) -> str:
         '.meta{color:#5b6575}article{border:1px solid #ccd2dc;border-radius:6px;'
         'margin:1rem 0;padding:.8rem}h2{font-size:1.05rem;margin:.2rem 0}'
         'pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#f5f7fa;padding:.8rem}'
-        '.warn{color:#a33}footer{margin-top:2.5rem;padding-top:.8rem;border-top:1px solid #ccd2dc;'
+        'footer{margin-top:2.5rem;padding-top:.8rem;border-top:1px solid #ccd2dc;'
         'color:#5b6575;font-size:.9rem}</style></head><body>',
         f"<h1>{html_escape(title)}</h1>",
     ]
@@ -419,7 +417,7 @@ def main() -> None:
     index = build_index(documents)
     mfds_rows = build_mfds_public()
     (PUBLIC / "search-index.json").write_text(_compact_json(index), encoding="utf-8")
-    footer_label = latest_notice_label(documents) + collection_status_label(os.environ.get("COLLECTION_STATUS"))
+    footer_label = latest_notice_label(documents) + last_success_label()
     catalog = build_criteria_pages(documents, footer_label)
     write_crawler_files([SITE_URL] + [SITE_URL + path for _, path in catalog])
     (PUBLIC / "index.html").write_text(render_index_page(catalog, footer_label) + "\n", encoding="utf-8")

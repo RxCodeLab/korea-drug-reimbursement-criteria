@@ -422,28 +422,51 @@ def test_cli_haystack_matches_browser_search_key():
     assert search.matches(record, ["없는말", "DAPA"]) and not search.matches(record, ["없는말"])
 
 
-def test_collection_status_label_shows_last_attempt_and_failures():
-    label = build_site.collection_status_label('{"run_at":"2026-09-05T22:03:19Z","law":"failure","mfds":"success"}')
-    assert "마지막 수집 시도: 2026-09-06 07:03 KST" in label
-    assert '<span class="warn">법제처 실패</span>' in label and "식약처 성공" in label
-    assert build_site.collection_status_label(None) == ""
+def test_last_success_label_reads_state_file_and_omits_failure_detail(tmp_path, monkeypatch):
+    """푸터는 마지막 수집 성공 날짜만 보여야 하고, 시도·실패 정보는 절대 담지 않아야 한다."""
+    state = tmp_path / "collection.json"
+    monkeypatch.setattr(build_site, "COLLECTION_STATUS_PATH", state)
+
+    assert build_site.last_success_label() == ""  # 파일이 없으면(최초 실행) 조용히 생략된다
+
+    state.write_text(json.dumps({"last_success_date": "20260906"}), encoding="utf-8")
+    label = build_site.last_success_label()
+    assert label == "마지막 수집 성공: 2026-09-06 · "
+    assert "실패" not in label and "시도" not in label and "warn" not in label
+
+    state.write_text("not json", encoding="utf-8")
     with pytest.raises(RuntimeError):
-        build_site.collection_status_label("not json")
+        build_site.last_success_label()
 
 
-def test_index_footer_includes_collection_status(tmp_path, monkeypatch):
+def test_index_footer_shows_last_success_date_without_failure_markup(tmp_path, monkeypatch):
     normalized = tmp_path / "normalized"
     normalized.mkdir()
     (normalized / "seq-1.json").write_text(json.dumps(normalized_document(), ensure_ascii=False), encoding="utf-8")
     monkeypatch.setattr(build_site, "NORMALIZED", normalized)
     monkeypatch.setattr(build_site, "PUBLIC", tmp_path / "public")
-    monkeypatch.setenv("COLLECTION_STATUS", '{"run_at":"2026-09-05T22:03:19Z","law":"failure","mfds":"failure"}')
+    monkeypatch.setattr(build_site, "COLLECTION_STATUS_PATH", tmp_path / "collection.json")
+    build_site.main()
+
+    def footer(content: str) -> str:
+        return content.split("<footer>", 1)[1].split("</footer>", 1)[0]
+
+    page = (tmp_path / "public" / "index.html").read_text(encoding="utf-8")
+    detail = next((tmp_path / "public" / "criteria").glob("*.html")).read_text(encoding="utf-8")
+    for content in (page, detail):
+        section = footer(content)
+        assert "최근 갱신: 2024-12-31" in section
+        assert "실패" not in section and "시도" not in section and "warn" not in section
+
+    (tmp_path / "collection.json").write_text(json.dumps({"last_success_date": "20260906"}), encoding="utf-8")
     build_site.main()
     page = (tmp_path / "public" / "index.html").read_text(encoding="utf-8")
     detail = next((tmp_path / "public" / "criteria").glob("*.html")).read_text(encoding="utf-8")
     for content in (page, detail):
-        assert "최근 갱신: 2024-12-31" in content
-        assert "마지막 수집 시도: 2026-09-06 07:03 KST" in content and "식약처 실패" in content
+        section = footer(content)
+        assert "최근 갱신: 2024-12-31" in section
+        assert "마지막 수집 성공: 2026-09-06" in section
+        assert "실패" not in section and "시도" not in section and "warn" not in section
 
 
 def test_identity_slug_is_stable_across_title_changes(tmp_path, monkeypatch):

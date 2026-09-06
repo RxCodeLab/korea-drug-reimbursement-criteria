@@ -1,3 +1,4 @@
+import json
 import os
 import subprocess
 from pathlib import Path
@@ -85,12 +86,52 @@ def test_raw_archive_cache_is_gone():
     assert "actions/cache" not in _source()
 
 
-def test_build_site_receives_collection_status():
+def test_build_site_no_longer_receives_collection_status():
+    """푸터는 실패·시도 정보를 담지 않으므로 COLLECTION_STATUS 경로는 사라져야 한다."""
     build = _step(_source(), "build", "Build static search")
-    assert "LAW_FETCH: ${{ steps.fetch_law.outcome }}" in build
-    assert "MFDS_FETCH: ${{ steps.fetch_mfds.outcome }}" in build
-    assert 'COLLECTION_STATUS="$(printf \'{"run_at":"%s","law":"%s","mfds":"%s"}\'' in build
-    assert "python build_site.py" in build
+    assert "COLLECTION_STATUS" not in build
+    assert "LAW_FETCH" not in build
+    run_line = [line for line in build.splitlines() if line.strip().startswith("run:")]
+    assert run_line == ["        run: python build_site.py"]
+
+
+def test_last_success_recorded_only_when_both_fetches_succeed_before_build():
+    """법제처·식약처 둘 다 성공한 실행만 상태 파일을 갱신한다. 하나라도 실패하면 구식 자료로 검증되지 않은 자료가 있을 수 있어
+    "안전한 날짜"로 신뢰할 수 없다."""
+    source = _source()
+    record_step = _step(source, "build", "Record last successful collection date")
+    assert record_step.startswith(
+        "name: Record last successful collection date\n"
+        "        if: steps.fetch_law.outcome == 'success' && steps.fetch_mfds.outcome == 'success'\n"
+    )
+    assert "data/collection.json" in record_step
+    assert "last_success_date" in record_step
+
+    names = [step.split("\n", 1)[0] for step in _steps(source, "build") if step.startswith("name: ")]
+    order = [names.index(f"name: {name}") for name in
+             ("Verify candidate publication", "Record last successful collection date", "Build static search")]
+    assert order == sorted(order)
+
+
+def test_record_last_success_step_actually_runs(tmp_path):
+    """run 블록을 미리 뿑아 bash로 실제 실행해, 파일이 없는 상태에서 시작해 성공/실패 각각을 검증한다."""
+    record_step = _step(_source(), "build", "Record last successful collection date")
+    run_block = record_step.split("run: |\n", 1)[1]
+    run_lines = [line[10:] if line.startswith(" " * 10) else line for line in run_block.split("\n")]
+    run_script = "\n".join(run_lines).rstrip("\n")
+
+    workdir = tmp_path / "run"
+    workdir.mkdir()
+    result = subprocess.run(["bash", "-c", run_script], capture_output=True, text=True, cwd=workdir)
+    assert result.returncode == 0, result.stderr
+    state = json.loads((workdir / "data" / "collection.json").read_text(encoding="utf-8"))
+    assert set(state) == {"last_success_date"}
+    assert len(state["last_success_date"]) == 8 and state["last_success_date"].isdigit()
+
+
+def test_secret_audit_scans_collection_state_file():
+    audit = _step(_source(), "build", "Audit collected data for leaked secrets")
+    assert 'Path("data/collection.json")' in audit
 
 
 def test_upstream_failure_opens_or_updates_issue():
@@ -103,6 +144,17 @@ def test_upstream_failure_opens_or_updates_issue():
     assert "gh issue comment" not in report  # 장애가 길어져도 댓글이 매일 쌓이지 않는다
     assert "GITHUB_STEP_SUMMARY" in report
     assert "exit 1" not in report
+
+
+def test_publish_data_commits_collection_state_file():
+    """상태 파일을 git add 대상에 넣지 않으면 다음 실행에서 사라진다."""
+    source = _source()
+    commit = _step(source, "publish-data", "Promote canonical data and commit")
+    assert "data/collection.json" in commit
+    assert "git add -f data/collection.json" in commit
+    assert "upload-artifact" not in commit
+    build_body = source.split("\n  build:\n", 1)[1].split("\n\n  publish-data:", 1)[0]
+    assert "data/collection.json" in build_body  # upload-artifact path
 
 
 def test_pages_deploy_does_not_wait_for_data_commit():
