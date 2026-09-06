@@ -19,6 +19,8 @@ RULE_NAME = "요양급여의 적용기준 및 방법에 관한 세부사항(약�
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) drug-criteria-tracker/1.0"
 DATE_YYYYMMDD = re.compile(r"^\d{8}$")
+# URL 쿼리에 나타나면 인증정보로 간주하는 키. 저장·게시되는 모든 URL 검사가 이 집합 하나를 쓴다.
+CREDENTIAL_QUERY_KEYS = frozenset({"oc", "law_oc", "api_key", "apikey", "key", "token", "access_token"})
 
 
 def today_kst() -> str:
@@ -55,13 +57,24 @@ def require_oc() -> str:
     return OC
 
 
+def has_credential_query(url: str) -> bool:
+    """URL 쿼리에 인증정보 키가 들어 있으면 True. 해석할 수 없는 URL도 안전하지 않은 것으로 본다."""
+    if "law_oc" in url.casefold():
+        return True
+    try:
+        query = urllib.parse.parse_qsl(urllib.parse.urlsplit(url).query, keep_blank_values=True)
+    except ValueError:
+        return True
+    return any(key.casefold() in CREDENTIAL_QUERY_KEYS for key, _ in query)
+
+
 def credential_free_url(url: str) -> str:
     parts = urllib.parse.urlsplit(url)
     query = urllib.parse.parse_qsl(parts.query, keep_blank_values=True)
     safe_query = [
         (key, value)
         for key, value in query
-        if key.lower() not in {"oc", "api_key", "apikey", "key", "token", "access_token"}
+        if key.casefold() not in CREDENTIAL_QUERY_KEYS
     ]
     return urllib.parse.urlunsplit(
         (parts.scheme, parts.netloc, parts.path, urllib.parse.urlencode(safe_query), "")
@@ -92,6 +105,10 @@ def redact_text(text: str) -> str:
     )
 
 
+# 소켓 단위 대기 시간. 해외 IP 차단으로 응답이 아예 없을 때 60초×3회가 호출마다 쌍여 30분을 낭비했다.
+HTTP_TIMEOUT_SECONDS = 15
+
+
 def http_get(url: str, params: dict | None = None, retries: int = 3) -> bytes:
     if params:
         url = url + ("&" if "?" in url else "?") + urllib.parse.urlencode(params)
@@ -99,7 +116,7 @@ def http_get(url: str, params: dict | None = None, retries: int = 3) -> bytes:
     for i in range(retries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA, "Referer": "https://www.law.go.kr/"})
-            with urllib.request.urlopen(req, timeout=60) as r:
+            with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT_SECONDS) as r:
                 return r.read()
         except Exception as e:  # noqa: BLE001
             last = e

@@ -454,3 +454,129 @@ def test_database_keeps_distinct_attachments_with_same_content(
     connection = sqlite3.connect(database)
     assert connection.execute("SELECT count(*) FROM attachments").fetchone()[0] == 2
     connection.close()
+
+
+REAL_ANNEX_PDF = Path(__file__).resolve().parent.parent / "data" / "raw" / "20260901_2026-176" / "002_별지. 신설 및 변경 급여기준.pdf"
+
+
+def test_real_2026_176_annex_separates_sirolimus_from_copd_inhaler() -> None:
+    """2026-176 고시 원문은 `(품명∶라파뮨` 과 `[222］` 처럼 전각 구분 기호를 쓴다.
+
+    이 문자를 놓치면 Sirolimus 제목에 본문이 들어가고 Budesonide 복합제 기준이
+    Sirolimus 본문에 합쳐진다(실제 배포됐던 오염). 원문 파일이 없으면 실패한다.
+    """
+    assert REAL_ANNEX_PDF.is_file(), f"회귀 원문이 없습니다: {REAL_ANNEX_PDF}"
+    blocks = ingest.split_blocks(documents.extract_document(REAL_ANNEX_PDF, "pdf"))
+    (sirolimus,) = [block for block in blocks if block["title"].startswith("Sirolimus")]
+    (inhaler,) = [block for block in blocks if block["title"].startswith("Budesonide +Formoterol")]
+    assert (sirolimus["class_no"], inhaler["class_no"]) == ("142", "222")
+    assert sirolimus["title"] == "Sirolimus시럽제 (품명:라파뮨 시럽)"
+    assert sirolimus["class_header"] == "[142] 자격료법제(비특이성 면역원제포함)"
+    assert sirolimus["body"].startswith("식품의약품안전처장이 인정한 범위 내에서 투여 시 약값 전액을")
+    assert "Budesonide" not in sirolimus["body"]
+    assert "[222]" not in sirolimus["body"]
+    assert inhaler["title"] == "Budesonide +Formoterol fumarate + Glycopyrronium bromide 흡입제"
+    assert inhaler["class_header"] == "[222] 진해거담제"
+    assert inhaler["body"].startswith("허가사항범위 내에서아래와같은 기준으로투여 시 요양급여를")
+    assert all(len(block["title"]) <= 200 for block in blocks)
+
+
+def test_split_blocks_normalizes_fullwidth_punctuation_before_matching() -> None:
+    text = "\n".join([
+        "［142］ 자격료법제",
+        "［142］",
+        "Sirolimus시럽제",
+        "（품명∶라파뮨",
+        "시럽）",
+        "약값 전액을 환자가 부담토록 함.",
+        "［222］",
+        "Budesonide 흡입제",
+        "허가사항 범위 내에서 인정함.",
+    ])
+    blocks = ingest.split_blocks(text)
+    assert [(b["class_no"], b["title"]) for b in blocks] == [
+        ("142", "Sirolimus시럽제 (품명:라파뮨 시럽)"),
+        ("222", "Budesonide 흡입제"),
+    ]
+    assert blocks[0]["body"] == "약값 전액을 환자가 부담토록 함."
+    assert blocks[0]["class_header"] == "[142] 자격료법제"
+    assert ingest.norm_title("142", blocks[0]["title"]) == ingest.norm_title("142", "Sirolimus시럽제 (품명:라파뮨 시럽)")
+
+
+def test_split_blocks_stops_title_at_body_opening_line() -> None:
+    """품명 없이 제목이 여러 줄이면 본문 첫 줄('허가사항…')은 제목에 붙지 않는다."""
+    text = "\n".join([
+        "[259] 기타의 비뇨생식기관 및 항문용약",
+        "[259]",
+        "만성폐쇄성폐질환",
+        "흡입용 치료제",
+        "허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정함.",
+        "- 아 래 -",
+        "○ 조건",
+    ])
+    (block,) = ingest.split_blocks(text)
+    assert block["title"] == "만성폐쇄성폐질환 흡입용 치료제"
+    assert block["body"].startswith("허가사항 범위 내에서")
+
+
+def test_split_blocks_assigns_class_header_by_class_number() -> None:
+    """분류 헤더가 한 쪽에 여럿 나열되면 각 항목은 자기 분류번호의 헤더를 가진다."""
+    text = "\n".join([
+        "[142] 자격료법제",
+        "[222] 진해거담제",
+        "[142]",
+        "A(품명: 가)",
+        "본문 A",
+        "[222]",
+        "B(품명: 나)",
+        "본문 B",
+    ])
+    first, second = ingest.split_blocks(text)
+    assert first["class_header"] == "[142] 자격료법제"
+    assert second["class_header"] == "[222] 진해거담제"
+
+
+def test_norm_title_folds_compatibility_characters_into_one_identity() -> None:
+    """Ⅷ와 VIII로 표기만 다른 같은 약제가 두 이력으로 갈라지지 않는다(실데이터에서 1쌍 발견)."""
+    assert ingest.norm_title("339", "Recombinant blood coagulation factor Ⅷ 주사제 (품명: 애드베이트주 등)") == \
+        ingest.norm_title("339", "Recombinant blood coagulation factor VIII 주사제 (품명: 애드베이트주)")
+    assert ingest.norm_title("131", "Dexamethasone 700㎍ 이식제") == "[131]dexamethasone700μg이식제"
+
+
+def test_next_class_header_does_not_leak_into_previous_body() -> None:
+    """다음 분류의 헤더 줄('[222] 진해거담제')이 직전 항목 본문 끝에 붙지 않는다(배포 페이지 367개 중 295개에 있던 결함)."""
+    text = "\n".join([
+        "[142] 자격료법제(비특이성 면역원제포함)",
+        "[142]",
+        "Sirolimus 시럽제 (품명:라파뮨 시럽)",
+        "약값 전액을 환자가 부담토록 함.",
+        " - 장기이식거부 반응",
+        "[222] 진해거담제",
+        "구  분",
+        "세부인정기준 및 방법",
+        "[222]",
+        "Budesonide 흡입제",
+        "허가사항 범위 내에서 인정함.",
+    ])
+    first, second = ingest.split_blocks(text)
+    assert first["body"] == "약값 전액을 환자가 부담토록 함.\n - 장기이식거부 반응"
+    assert second["class_header"] == "[222] 진해거담제"
+    assert second["body"] == "허가사항 범위 내에서 인정함."
+
+
+def test_split_blocks_accepts_class_number_and_title_on_one_line() -> None:
+    """'[113] Cannabidiol (품명: …)'처럼 번호와 제목이 한 줄이면 분류 헤더가 아니라 항목이다(예전엔 조용히 사라짐)."""
+    text = "\n".join([
+        "[113] 항전간제",
+        "[113] Cannabidiol (품명: 에피디올렉스 내복액)",
+        "식품의약품안전처장이 인정한 범위 내에서 인정함.",
+        "[114] 해열진통소염제",
+        "[114] Fremanezumab 주사제 (품명: 아조비오토인젝터주,",
+        "아조비프리필드시린지주)",
+        "허가사항 범위 내에서 인정함.",
+    ])
+    first, second = ingest.split_blocks(text)
+    assert (first["class_no"], first["title"], first["class_header"]) == ("113", "Cannabidiol (품명: 에피디올렉스 내복액)", "[113] 항전간제")
+    assert first["body"] == "식품의약품안전처장이 인정한 범위 내에서 인정함."
+    assert second["title"] == "Fremanezumab 주사제 (품명: 아조비오토인젝터주, 아조비프리필드시린지주)"
+    assert second["body"] == "허가사항 범위 내에서 인정함."

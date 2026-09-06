@@ -6,11 +6,31 @@ import re
 import subprocess
 from pathlib import Path
 
-PARSER_VERSION = "documents-11-rhwp-0.8.4"
+# 환경 문제(pypdf 미설치)는 문서 오류로 위장되지 않고 import 시점에 그대로 터져야 한다.
+from pypdf import PdfReader
+
+PARSER_VERSION = "documents-15-rhwp-0.8.4"
 _MAX_RHWP_OUTPUT = 128 * 1024 * 1024
 _MAX_STDERR = 8 * 1024
 _HEADER = re.compile(r"^\[(?:\d{3}|일반원칙)\](?:\s+\S.*)?$")
 _ACTION = re.compile(r"\[\s*(신\s*설|변\s*경|삭\s*제)\s*\]")
+# 고시 원문은 같은 구분 기호를 전각·유사 문자로 섮어 쓴다(예: `(품명∶`, `[222］`).
+# 구조 파싱은 이 표로 정규화한 텍스트만 다룬다. NFKC는 ∶(U+2236)를 바꾸지 않고
+# 본문의 로마숫자·단위 기호까지 바꾸므로 쓰지 않는다.
+_PUNCTUATION_MAP = str.maketrans({
+    "∶": ":", "：": ":",
+    "［": "[", "］": "]",
+    "（": "(", "）": ")",
+})
+
+
+def normalize_punctuation(text: str) -> str:
+    """전각·유사 구분 기호를 ASCII로 맞춘다. 항목 경계 판정은 이 결과만 본다."""
+    return text.translate(_PUNCTUATION_MAP)
+
+
+def _is_class_header(line: str) -> bool:
+    return _HEADER.fullmatch(normalize_punctuation(line.strip())) is not None
 
 
 class ExtractionError(RuntimeError):
@@ -308,11 +328,12 @@ def _reconstruct_tables(tables_payload: dict[str, object], structure_payload: di
     structure = structure_payload.get("structure")
     if not isinstance(structure, dict):
         raise ExtractionError("rhwp JSON 구조 preamble이 잘못되었습니다")
-    preamble = structure["preamble"]
+    # 조문 앞 문단이 없는 문서(질의응답 등)는 preamble 키 자체를 내지 않는다.
+    preamble = structure.get("preamble", [])
     if not isinstance(preamble, list) or not all(isinstance(line, str) for line in preamble):
         raise ExtractionError("rhwp JSON 구조 preamble이 잘못되었습니다")
     table_lines = [_table_lines(table) for table in tables]
-    headers = [line.strip() for line in preamble if _HEADER.fullmatch(line.strip())]
+    headers = [normalize_punctuation(line.strip()) for line in preamble if _is_class_header(line)]
     if table_count == 0:
         return None
     if len(headers) != table_count:
@@ -333,10 +354,10 @@ def _reconstruct_tables(tables_payload: dict[str, object], structure_payload: di
                 continue
             class_header = next(
                 (
-                    line.strip()
+                    normalize_punctuation(line.strip())
                     for text in header_texts
                     for line in text.splitlines()
-                    if _HEADER.fullmatch(line.strip())
+                    if _is_class_header(line)
                 ),
                 None,
             )
@@ -356,7 +377,7 @@ def _reconstruct_tables(tables_payload: dict[str, object], structure_payload: di
         marker = _ACTION.search(line)
         if marker:
             action = re.sub(r"\s", "", marker.group(1))
-        elif _HEADER.fullmatch(line.strip()):
+        elif _is_class_header(line):
             header_actions.append(action)
 
     lines: list[str] = []
@@ -380,8 +401,6 @@ def extract_rhwp(path: Path) -> str:
 
 def extract_pdf(path: Path) -> str:
     try:
-        from pypdf import PdfReader
-
         reader = PdfReader(str(path))
         return "\n".join(page.extract_text() or "" for page in reader.pages).strip()
     except Exception as exc:
@@ -391,6 +410,7 @@ def extract_pdf(path: Path) -> str:
 def extract_document(path: Path, document_format: str) -> str:
     dispatch = {"hwpx": extract_rhwp, "hwp": extract_rhwp, "pdf": extract_pdf}
     try:
-        return dispatch[document_format.lower()](path)
+        extractor = dispatch[document_format.lower()]
     except KeyError as exc:
         raise ExtractionError(f"지원하지 않는 문서 형식입니다: {document_format}") from exc
+    return normalize_punctuation(extractor(path))

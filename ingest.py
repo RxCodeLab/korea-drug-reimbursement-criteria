@@ -9,10 +9,8 @@ import tempfile
 import unicodedata
 from pathlib import Path
 from typing import Any
-from urllib.parse import parse_qsl, urlsplit
-
-from common import DATA, DB_PATH, RAW
-from documents import PARSER_VERSION, ExtractionError, extract_document
+from common import DATA, DB_PATH, RAW, has_credential_query
+from documents import PARSER_VERSION, ExtractionError, extract_document, normalize_punctuation
 
 NORMALIZED = DATA / "normalized"
 _SCHEMA_VERSION = 1
@@ -20,12 +18,15 @@ _REQUIRED_ROLES = {"annex", "notice"}
 _ROLES = {"annex", "notice", "qa", "transition", "reason", "comparison", "other"}
 _FORMAT_RANK = {"hwpx": 0, "hwp": 1, "pdf": 2}
 
+# 아래 정규식은 documents.normalize_punctuation을 거친 텍스트(ASCII 구분 기호)만 다룬다.
 RE_CLASS_HEADER = re.compile(r"^\[(\d{3}|일반원칙)\]\s*(\S.*)$")
 RE_ITEM_NO = re.compile(r"^\[(\d{3}|일반원칙)\]$")
 RE_ACTION = re.compile(r"\[\s*(신\s*설|변\s*경|삭\s*제)\s*\]")
-RE_PUMMYEONG = re.compile(r"\(품명\s*[::]")
+RE_PUMMYEONG = re.compile(r"\(품명\s*:")
 RE_NUMBERED_CONDITION = re.compile(r"^\d+[.)]")
 RE_PAGE_NUMBER = re.compile(r"^-\s*\d+\s*-$")
+# 제목 줄 뒤에 공백 없이 이어지는 본문 첨 줄. 이 줄부터는 제목에 붙이지 않는다.
+RE_BODY_START = re.compile(r"^(허가사항|식품의약품안전처장|각\s*약제|동\s*약제|약값|아래와|[○※●□■-]\s*\S)")
 
 
 def _canonical(value: Any) -> bytes:
@@ -34,15 +35,6 @@ def _canonical(value: Any) -> bytes:
 
 def _fingerprint(meta: dict[str, Any]) -> str:
     return hashlib.sha256(_canonical({"version": meta["version"], "attachments": meta["attachments"]})).hexdigest()
-
-
-def _safe_url(url: str) -> bool:
-    if "law_oc" in url.casefold():
-        return False
-    try:
-        return all(key.casefold() != "oc" for key, _ in parse_qsl(urlsplit(url).query, keep_blank_values=True))
-    except ValueError:
-        return False
 
 
 def _validate_meta(path: Path) -> dict[str, Any]:
@@ -66,7 +58,7 @@ def _validate_meta(path: Path) -> dict[str, Any]:
             raise RuntimeError(f"지원하지 않거나 내용이 온전하지 않은 첨부파일입니다: {path}")
         if not isinstance(attachment["ordinal"], int) or attachment["ordinal"] in seen_ordinals:
             raise RuntimeError(f"첨부파일 순번이 중복되었거나 잘못되었습니다: {path}")
-        if not _safe_url(str(attachment["source_url"])):
+        if has_credential_query(str(attachment["source_url"])):
             raise RuntimeError(f"인증정보가 포함된 원본 URL은 허용되지 않습니다: {path}")
         seen_ordinals.add(attachment["ordinal"])
     return meta
@@ -113,11 +105,27 @@ def _clean_body(lines: list[str], class_no: str, title: str) -> str:
     return "\n".join(cleaned).strip()
 
 
+def _is_layout_artifact(line: str) -> bool:
+    """쪽 번호·표 머리글·빈 줄처럼 원문 내용이 아닌 줄."""
+    compact = re.sub(r"\s+", "", line)
+    return not compact or compact in {"구분", "세부인정기준및방법"} or RE_PAGE_NUMBER.fullmatch(line.strip()) is not None
+
+
+def _artifact_follows(lines: list[str], start: int, window: int = 4) -> bool:
+    """이어지는 몇 줄 안에 쪽 번호나 표 머리글이 있으면 True(쪽 나눔 직전이란 뜻)."""
+    return any(
+        _is_layout_artifact(lines[k]) and lines[k].strip()
+        for k in range(start, min(len(lines), start + window))
+    )
+
+
 def split_blocks(text: str) -> list[dict[str, str]]:
-    lines = text.split("\n")
+    lines = normalize_punctuation(text).split("\n")
     blocks: list[dict[str, Any]] = []
     action = ""
     class_header = ""
+    # 한 쪽에 분류 헤더가 여럿 연달아 나오면 항목은 자기 분류번호의 헤더를 가진다.
+    class_headers: dict[str, str] = {}
     current: dict[str, Any] | None = None
     i = 0
     while i < len(lines):
@@ -130,9 +138,16 @@ def split_blocks(text: str) -> list[dict[str, str]]:
         match = RE_CLASS_HEADER.match(line)
         if match and not RE_PUMMYEONG.search(line):
             class_header = line
+            class_headers[match.group(1)] = line
+            # 분류 헤더 줄은 표 머리글이다. 그대로 두면 바로 앞 항목의 본문 끝에 다음 분류명이 붙는다.
+            i += 1
+            continue
         item = RE_ITEM_NO.match(line)
-        if item:
-            if current and item.group(1) == current["class_no"] and i + 1 < len(lines):
+        # '[113] Cannabidiol (품명: …)'처럼 분류번호와 제목이 한 줄에 온 항목. 품명이 있으면 분류 헤더가 아니라 항목이다.
+        inline_item = None if item or not match else (match if RE_PUMMYEONG.search(line) else None)
+        if item or inline_item:
+            number = (item or inline_item).group(1)
+            if item and current and number == current["class_no"] and i + 1 < len(lines):
                 repeated_title = re.sub(r"\s+", "", lines[i + 1])
                 current_base = re.sub(r"\s+", "", current["title"].split("(", 1)[0])
                 if repeated_title and current_base and repeated_title == current_base:
@@ -146,18 +161,32 @@ def split_blocks(text: str) -> list[dict[str, str]]:
                     continue
             if current:
                 blocks.append(current)
-            title_lines: list[str] = []
+            title_lines: list[str] = [inline_item.group(2).strip()] if inline_item else []
+            # 쪽 나눔으로 본문 첫 줄이 제목보다 앞에 놀인 경우 그 줄들을 본문으로 돌린다.
+            displaced: list[str] = []
             j = i + 1
-            while j < len(lines) and len(title_lines) < 8:
+            title_closed = bool(title_lines) and title_lines[0].endswith(")")
+            while not title_closed and j < len(lines) and len(title_lines) < 8:
                 candidate = lines[j].strip()
                 if RE_ITEM_NO.match(candidate) or RE_NUMBERED_CONDITION.match(candidate):
                     break
+                has_title = any(title_lines)
+                if not has_title and _is_layout_artifact(candidate):
+                    j += 1
+                    continue
+                if RE_BODY_START.match(candidate) and has_title:
+                    break
+                if (not has_title and (displaced or RE_BODY_START.match(candidate))
+                        and len(displaced) < 3 and _artifact_follows(lines, j + 1)):
+                    displaced.append(lines[j])
+                    j += 1
+                    continue
                 title_lines.append(candidate)
                 title = " ".join(title_lines)
                 if RE_PUMMYEONG.search(title) and title.endswith(")"):
                     j += 1
                     break
-                if item.group(1) == "일반원칙" and candidate:
+                if number == "일반원칙" and candidate:
                     j += 1
                     while j < len(lines):
                         continuation = lines[j].strip()
@@ -171,9 +200,12 @@ def split_blocks(text: str) -> list[dict[str, str]]:
                     break
                 j += 1
             title = " ".join(title_lines).strip()
-            item_header = f"[일반원칙] {title}" if item.group(1) == "일반원칙" else class_header
-            current = {"action": action, "class_no": item.group(1), "class_header": item_header,
-                       "title": title, "body_lines": []}
+            if number == "일반원칙":
+                item_header = f"[일반원칙] {title}"
+            else:
+                item_header = class_headers.get(number, class_header)
+            current = {"action": action, "class_no": number, "class_header": item_header,
+                       "title": title, "body_lines": displaced}
             i = j
             continue
         if current is not None:
@@ -195,8 +227,12 @@ def split_blocks(text: str) -> list[dict[str, str]]:
 
 
 def norm_title(class_no: str, title: str) -> str:
+    """항목 식별자. 품명 앞머리를 공백·가운뎃점 없이 소문자로 만든다.
+
+    NFKC로 Ⅷ→VIII, ㎍→μg 같은 호환 문자를 풀어 같은 약제가 표기만 다른 고시에서 두 이력으로 갈라지지 않게 한다.
+    """
     head = re.split(r"\(품명", title)[0]
-    return f"[{class_no}]" + re.sub(r"[\s··]+", "", head).lower()
+    return f"[{class_no}]" + re.sub(r"[\s·ㆍ]+", "", unicodedata.normalize("NFKC", head)).lower()
 
 
 def _attachment_path(version_dir: Path, attachment: dict[str, Any]) -> Path:
@@ -335,9 +371,7 @@ def main() -> None:
     for version_dir in sorted(RAW.iterdir()):
         meta_path = version_dir / "meta.json"
         if version_dir.is_dir() and meta_path.is_file():
-            normalized = _parse_version(version_dir, _validate_meta(meta_path))
-            normalized_path = NORMALIZED / f"{normalized['version']['행정규칙일련번호']}.json"
-            documents.append(json.loads(normalized_path.read_text(encoding="utf-8")))
+            documents.append(_parse_version(version_dir, _validate_meta(meta_path)))
     versions, entries = _rebuild_database(documents)
     print(f"버전={versions}개 항목={entries}개 → {DB_PATH}")
 
