@@ -1,8 +1,10 @@
 """공공데이터포털 의약품 제품 허가정보 수집기.
 
-data/normalized/*.json의 항목 제목에서 검색어를 유도해 의약품 제품 허가정보
-상세(효능효과 문서 포함)를 조회하고 data/mfds/items/<ITEM_SEQ>.json에 개정
-이력을 병합한다. DATA_GO_KEY가 없으면 한 줄 안내 후 건너뛴다.
+전량 열거(조건 없는 질의를 pageNo로 넘기며 numOfRows=500씩 받는다) 뒤
+`mfds_match`로 고시 검색어와 로컬 매칭한 품목만 data/mfds/items/<ITEM_SEQ>.json에
+개정 이력을 병합한다(--full, 최초 구축·주간 재구축). 평일 실행은 검색어 API 대신
+변경일자 구간 질의(collect_changed)로 받은 변경분을 같은 로컬 매칭으로 걸러 갱신한다.
+DATA_GO_KEY가 없으면 한 줄 안내 후 건너뛴다.
 """
 
 import argparse
@@ -24,6 +26,7 @@ from threading import Lock
 from common import (
     DATA, DATE_YYYYMMDD, atomic_json, http_get, parse_changes_since, redact_text, today_kst,
 )
+from mfds_match import build_index, match_terms
 
 API_URL = "https://apis.data.go.kr/1471000/DrugPrdtPrmsnInfoService07/getDrugPrdtPrmsnDtlInq06"
 DETAIL_URL = "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail"
@@ -37,10 +40,12 @@ DEFAULT_INCREMENTAL_WORKERS = 8
 REQUEST_SLEEP = 0.0
 RESULT_OK = "00"
 HISTORY_FAILURE_LIMIT = 5
-TERM_FAILURE_LIMIT = 10
 # 변경분 처리 뒤 이력이 없는 기존 품목을 실행당 이만큼 더 백필한다. 실패한 품목이 변경분에 다시
 # 나타나지 않으면 영원히 방치되던 문제를 막는다.
 DEFAULT_HISTORY_BACKFILL_LIMIT = 200
+# 공공데이터포털 numOfRows 상한(1000 이상은 코드=11 오류). 전량 열거는 이 값으로 42,985건을 86회 호출로 받는다(실측).
+UNIVERSE_PAGE_SIZE = 500
+TERM_FAILURE_DISPLAY_LIMIT = 20
 
 CLASS_HEADER = re.compile(r"^\[[^\]]*\]\s*")
 PUMMYEONG = re.compile(r"\(\s*품명\s*[:∶]?\s*([^)]*)\)")
@@ -50,7 +55,6 @@ LATIN = re.compile(r"[A-Za-z0-9]")
 FORM_SUFFIX = re.compile(
     r"\s+(?:경구제|주사제|외용제|흡입제|점안제|비강분무제|좌제|연고제|액제|패취제|서방형제제)$"
 )
-INGR_CODE = re.compile(r"^\[[^\]]*\]\s*")
 HISTORY_TABLE_ID = "hist_list"
 HISTORY_ONCLICK = re.compile(r"detailHist\(\s*'([^']+)'\s*,\s*'(\d{4}-\d{2}-\d{2})'")
 
@@ -291,20 +295,16 @@ def collect_query(
         page_no += 1
 
 
-def collect_pages(
-    service_key: str, search_param: str, term: str, page_size: int, max_items: int | None,
-) -> list[dict]:
-    """search_param=term 조건을 totalCount에 맞춰 페이지 단위로 수집한다."""
-    return collect_query(service_key, {search_param: term}, page_size, max_items)
-
-
 def collect_changed(
     service_key: str, start_date: str, end_date: str, page_size: int,
 ) -> list[dict]:
     """변경일자 구간의 품목 변경분을 받아온다.
 
-    공공데이터포털은 증분 인자 없는 반복 호출을 시간당 100회로 제한하므로,
-    평시 실행은 전체 검색 대신 이 변경분 질의를 쓴다.
+    평일 증분은 전량 열거 대신 이 변경분 질의를 쓴다. 실측으로 확인된 제약은 호출
+    인자 유무가 아니라 호출 횟수·일일 트래픽 쿼터다 — 증분 인자 없는 반복 호출이
+    시간당 100회로 막힌다는 기존 주석은 실측과 다르다(86회 연속 호출에 실패 0). 이 경로는
+    날짜 질의로만 잡히는 6,205건(CHANGE_DATE 공란)을 영원히 놓치므로 주 1회 전량 열거(--full)가
+    따로 필요하다.
     """
     return collect_query(
         service_key,
@@ -313,76 +313,39 @@ def collect_changed(
     )
 
 
-# 한글 성분명 끝의 염·수화물·에스터류 접미어. 기본 성분명을 얻을 때 반복 제거한다.
-SALT_SUFFIXES = (
-    "수화물", "무수물", "반수화물", "일수화물", "이수화물", "삼수화물",
-    "프로판디올", "포르메이트", "베실산염", "캄실산염", "토실산염", "메실산염",
-    "푸마르산염", "타르타르산염", "말레산염", "옥살산염", "숙신산염", "아세트산염",
-    "시트르산염", "시트르산", "염산염", "브롬화수소산염", "황산염", "인산염", "질산염",
-    "나트륨", "칼륨", "칼슘", "마그네슘",
-)
-TRAILING_PAREN = re.compile(r"\([^)]*\)$")
+def collect_universe(service_key: str, page_size: int = UNIVERSE_PAGE_SIZE) -> list[dict]:
+    """조건 없는 질의(`{}`)로 전 품목을 열거한다.
 
-
-# 긴 접미어부터 떼어야 '…베실산염이수화물'이 '…베실산염이'로 남지 않는다.
-_SALT_SUFFIXES_LONGEST_FIRST = sorted(SALT_SUFFIXES, key=len, reverse=True)
-
-
-def base_ingredient(name: str) -> str:
-    """염·수화물 접미어를 벗겨 기본 성분명을 얻는다. 예) 다파글리플로진포르메이트 → 다파글리플로진"""
-    name = TRAILING_PAREN.sub("", name.strip())
-    changed = True
-    while changed and len(name) > 3:
-        changed = False
-        for suffix in _SALT_SUFFIXES_LONGEST_FIRST:
-            if name.endswith(suffix) and len(name) - len(suffix) > 2:
-                name = name[: -len(suffix)].strip()
-                changed = True
-                break
-    return name
-
-
-def base_ingredient_set(row: dict) -> frozenset[str]:
-    """품목의 MAIN_ITEM_INGR을 기본 성분명 집합으로 정규화한다."""
-    return frozenset(
-        base for part in str(row.get("MAIN_ITEM_INGR") or "").split("|")
-        if (base := base_ingredient(INGR_CODE.sub("", part.strip())))
-    )
-
-
-def expand_by_ingredient(
-    service_key: str, rows: list[dict], page_size: int, max_items: int | None,
-) -> list[dict]:
-    """품명으로 찾은 품목의 한글 성분명으로 재검색해 다른 염의 제네릭까지 넓힌다.
-
-    성분 검색은 한글명만 매칭되고 고시 제목의 성분명은 영문이라, 품명 검색이
-    성공하면 그 품목의 기본 성분명(염·수화물 접미어 제거)으로 확장한다. 성분
-    조합마다 가장 긴(가장 특이적인) 성분 하나만 조회해 메트포르민 같은 범용
-    성분 전체를 쓸어오지 않게 하고, 시드 조합을 포함하는 품목만 채택한다.
+    첫 응답의 totalCount를 진실로 삼고, 수집한 고유 ITEM_SEQ 수가 그것과 다르면
+    RuntimeError로 실패한다(조용한 누락 금지). numOfRows 상한은 500(실측: 1000 이상은
+    코드=11 오류). 42,985건 기준 86회 호출로 끝난다.
     """
-    merged = {str(row.get("ITEM_SEQ") or ""): row for row in rows}
-    for seed in {base_ingredient_set(row) for row in rows} - {frozenset()}:
-        probe = max(seed, key=len)
-        for row in collect_pages(service_key, "main_item_ingr", probe, page_size, max_items):
-            if seed <= base_ingredient_set(row):
-                merged.setdefault(str(row.get("ITEM_SEQ") or ""), row)
-    expanded = list(merged.values())
-    return expanded[:max_items] if max_items is not None else expanded
-
-
-def collect_term(
-    service_key: str, head: str, fallbacks: list[str], page_size: int, max_items: int | None,
-) -> tuple[list[dict], str | None]:
-    """main_item_ingr 우선 → 같은 검색어 item_name → 품명 item_name 순서로 시도한다."""
-    attempts = [("main_item_ingr", head), ("item_name", head)]
-    attempts += [("item_name", fallback) for fallback in fallbacks]
-    for search_param, term in attempts:
-        rows = collect_pages(service_key, search_param, term, page_size, max_items)
-        if rows:
-            if search_param == "item_name":
-                rows = expand_by_ingredient(service_key, rows, page_size, max_items)
-            return rows, search_param
-    return [], None
+    collected: list[dict] = []
+    seen: set[str] = set()
+    page_no = 1
+    total = None
+    while True:
+        body = fetch_page(service_key, {}, page_no, page_size)
+        time.sleep(REQUEST_SLEEP)
+        rows = body_items(body)
+        if total is None:
+            try:
+                total = int(body.get("totalCount") or 0)
+            except (TypeError, ValueError):
+                total = 0
+        for row in rows:
+            seq = str(row.get("ITEM_SEQ") or "").strip()
+            if seq and seq not in seen:
+                seen.add(seq)
+                collected.append(row)
+        if not rows or len(rows) < page_size:
+            break
+        page_no += 1
+    if len(seen) != total:
+        raise RuntimeError(
+            f"MFDS 전량 열거 건수 불일치: 고유 {len(seen)}건 수집, totalCount={total}건"
+        )
+    return collected
 
 
 def scalar_fields(item: dict, seq: str) -> dict:
@@ -515,7 +478,10 @@ BACKFILL_PATH = DATA / "mfds" / "backfill.json"
 
 
 def load_sync() -> dict | None:
-    """마지막 변경분 동기화 상태를 읽는다. 없거나 손상됐으면 None."""
+    """마지막 변경분 동기화 상태를 읽는다. 없거나 손상되었으면 None.
+
+    구버전 파일의 `seen_heads` 필드는 조용히 무시한다(검색어 sweep이 사라지면서 더 이상 쓰이지 않는다).
+    """
     try:
         sync = json.loads(SYNC_PATH.read_text(encoding="utf-8"))
     except (OSError, ValueError):
@@ -525,10 +491,14 @@ def load_sync() -> dict | None:
     return sync
 
 
-def save_sync(last_change_date: str, seen_heads: set[str]) -> None:
+def save_sync(last_change_date: str, last_full_run: str | None) -> None:
+    """동기화 상태를 쓴다. `last_full_run`은 마지막 전량 열거(--full) 시각(UTC ISO)이다 —
+    평일 증분만으로는 CHANGE_DATE가 빈 6,205건을 영원히 놓치므로, 이 값으로 전량 이후 경과시간을
+    판단한다.
+    """
     atomic_json(SYNC_PATH, {
         "last_change_date": last_change_date,
-        "seen_heads": sorted(seen_heads),
+        "last_full_run": last_full_run,
     })
 
 
@@ -572,35 +542,26 @@ def next_date(value: str) -> str:
     return (datetime.strptime(value, "%Y%m%d").date() + timedelta(days=1)).strftime("%Y%m%d")
 
 
-def stored_seed_sets(items_dir: Path) -> frozenset[frozenset[str]]:
-    """저장된 품목별 기본 성분 조합. 변경분에서 유관 신규 품목을 고르는 기준.
+def match_relevant_seqs(rows: list[dict], groups: list[tuple[str, list[str]]]) -> set[str]:
+    """행 목록에 mfds_match 규칙을 적용해 고시 검색어에 걸리는 ITEM_SEQ만 골라낸다.
 
-    expand_by_ingredient와 같은 규칙(조합 전체를 포함하는 품목만)을 쓴다. 성분 하나라도 겹치면
-    받던 예전 규칙은 A → A+B → B+C → C 로 범위가 고시와 무관하게 재귀 확장됐다.
+    변경분 행만으로 새 색인을 만들어 매번 다시 매칭한다(전량 우주 색인과 달리 건수가
+    적어 스캐니용 색인 재사용이 더 비심).
     """
-    seeds: set[frozenset[str]] = set()
-    for path in items_dir.glob("*.json"):
-        try:
-            item = json.loads(path.read_text(encoding="utf-8"))
-        except (OSError, ValueError):
-            continue
-        bases = base_ingredient_set({"MAIN_ITEM_INGR": item.get("main_item_ingr", "")})
-        if bases:
-            seeds.add(bases)
-    return frozenset(seeds)
+    return match_terms(build_index(rows), groups).matched
 
 
-def is_related(row: dict, seeds: frozenset[frozenset[str]]) -> bool:
-    bases = base_ingredient_set(row)
-    return any(seed <= bases for seed in seeds)
-
-
-def _print_summary(stats: dict) -> None:
+def _print_summary(stats: dict, failed_terms: list[str] | None = None) -> None:
     print(
         f"[MFDS] 수집 항목={stats['fetched']}건, 신규 개정={stats['new']}건, "
         f"과거 허가이력={stats['history']}건, 변동 없음={stats['unchanged']}건, "
-        f"이력 미수집={stats['history_skipped']}건, 검색 실패={stats['term_failures']}건"
+        f"이력 미수집={stats['history_skipped']}건, 매칭 실패={stats['match_failures']}건"
     )
+    if failed_terms:
+        shown = failed_terms[:TERM_FAILURE_DISPLAY_LIMIT]
+        print(
+            f"[MFDS] 매칭 실패 검색어 {len(failed_terms)}건(상위 {len(shown)}건): {shown}"
+        )
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -643,7 +604,7 @@ def main(argv: list[str] | None = None) -> int:
         groups = groups[: args.max_terms]
 
     stats = {"fetched": 0, "new": 0, "history": 0, "unchanged": 0,
-             "history_skipped": 0, "term_failures": 0}
+             "history_skipped": 0, "match_failures": 0}
     history_state = {"enabled": not args.skip_history, "failures": 0}
     seen: set[str] = set()
     state_lock = Lock()
@@ -707,67 +668,37 @@ def main(argv: list[str] | None = None) -> int:
                 seen.add(seq)
             collect_history(seq, now_utc())
 
-    def sweep(sweep_groups: list[tuple[str, list[str]]]) -> set[str]:
-        """검색어 목록을 훑어 수집하고, 성공한 검색어 앞머리를 돌려준다.
-
-        검색 실패는 검색어 단위로 넘긴다. 실패한 검색어는 다음 실행에서
-        다시 시도되고, 연속 실패가 이어지면 지금까지 저장분을 지키며 멈춘다.
-        """
-        succeeded: set[str] = set()
-        consecutive = 0
-        for head, fallbacks in sweep_groups:
-            if budget_exhausted():
-                break
-            try:
-                rows, _search_param = collect_term(service_key, head, fallbacks, args.page_size, budget_left())
-                consecutive = 0
-                succeeded.add(head)
-            except RuntimeError as exc:
-                stats["term_failures"] += 1
-                consecutive += 1
-                print(f"검색어 수집 실패({head}): {exc}")
-                if consecutive >= TERM_FAILURE_LIMIT:
-                    print("연속 실패로 수집을 중단합니다. 지금까지 저장한 품목은 유지됩니다.")
-                    break
-                continue
-            for row in rows:
-                if budget_exhausted():
-                    break
-                process_row(row)
-        return succeeded
-
     sync = load_sync()
     has_items = ITEMS_DIR.is_dir() and any(ITEMS_DIR.glob("*.json"))
     end_date = today_kst()
+    previous_full_run = str((sync or {}).get("last_full_run") or "") or None
 
-    def finish(save_state) -> int:
-        """상한으로 잘린 실행은 동기화 상태를 전진시키지 않는다. 미처리분이 완료된 것처럼 기록되면 다음 실행이 그 범위를 건너뛴다."""
+    def finish(save_state, failed_terms=None):
         if budget_exhausted():
             print("--max-items 상한에 도달해 동기화 상태를 갱신하지 않습니다. 다음 실행이 같은 범위를 다시 처리합니다.")
         else:
             save_state()
         if history_state["enabled"] and args.history_backfill_limit:
             backfill_pending_history(args.history_backfill_limit)
-        _print_summary(stats)
+        _print_summary(stats, failed_terms)
         return 0
 
     if args.full or (not args.changes_since and (sync is None or not has_items)):
-        # 최초 구축·재구축: 전체 검색어 수집. 증분 인자 없는 호출은 시간당
-        # 100회 제한 대상이라 평시에는 아래 변경분 경로를 쓴다.
-        succeeded = sweep(groups)
-        if stats["fetched"] == 0 and stats["term_failures"]:
-            _print_summary(stats)
-            return 1  # 아무것도 수집하지 못한 채 실패만 났다면 전체를 실패로 처리한다
-        return finish(lambda: save_sync(end_date, succeeded))
-
-    seen_heads = set((sync or {}).get("seen_heads") or [])
-    # 1) 새 고시로 들어온 검색어만 검색한다 (건수가 적어 제한과 무관)
-    # 과거 변경분 백필은 검색어 API의 시간당 제한을 피하는 전용 경로다.
-    succeeded = set() if args.changes_since else sweep(
-        [(head, fb) for head, fb in groups if head not in seen_heads]
-    )
-    # 유관 신규 판정 기준은 실행당 한 번만 읽는다(품목 전체를 파싱하므로 창마다 반복하면 비싸다).
-    seeds = stored_seed_sets(ITEMS_DIR)
+        try:
+            universe = collect_universe(service_key)
+        except RuntimeError as exc:
+            print(f"전량 열거 실패: {exc}")
+            return 1
+        match_result = match_terms(build_index(universe), groups)
+        stats["match_failures"] = len(match_result.failed_terms)
+        by_seq = {str(row.get("ITEM_SEQ") or ""): row for row in universe}
+        for seq in sorted(match_result.matched):
+            if budget_exhausted():
+                break
+            row = by_seq.get(seq)
+            if row is not None:
+                process_row(row)
+        return finish(lambda: save_sync(end_date, now_utc()), match_result.failed_terms)
 
     def process_changed_range(start_date: str, range_end: str) -> bool:
         try:
@@ -778,10 +709,11 @@ def main(argv: list[str] | None = None) -> int:
             print(f"변경분 조회 실패({start_date}~{range_end}): {exc}")
             return False
         known = frozenset(path.stem for path in ITEMS_DIR.glob("*.json"))
+        matched = match_relevant_seqs(changed, groups)
         eligible = []
         for row in changed:
             seq = str(row.get("ITEM_SEQ") or "").strip()
-            if seq and (seq in known or is_related(row, seeds)):
+            if seq and (seq in known or seq in matched):
                 eligible.append(row)
                 left = budget_left()
                 if left is not None and len(eligible) >= left:
@@ -805,12 +737,12 @@ def main(argv: list[str] | None = None) -> int:
             save_backfill(args.changes_since, cursor, backfill_end)
         BACKFILL_PATH.unlink(missing_ok=True)
         previous_sync_date = str((sync or {}).get("last_change_date") or "")
-        return finish(lambda: save_sync(max(previous_sync_date, backfill_end), seen_heads))
+        return finish(lambda: save_sync(max(previous_sync_date, backfill_end), previous_full_run))
 
     if not process_changed_range(str((sync or {})["last_change_date"]), end_date):
         _print_summary(stats)
         return 1
-    return finish(lambda: save_sync(end_date, seen_heads | succeeded))
+    return finish(lambda: save_sync(end_date, previous_full_run))
 
 
 if __name__ == "__main__":

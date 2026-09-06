@@ -30,6 +30,7 @@ def api_item(seq, ee="<p>이 약은</p>\n두통에 사용", **overrides):
         "CANCEL_DATE": "",
         "CANCEL_NAME": "정상",
         "MAIN_ITEM_INGR": "성분",
+        "MAIN_INGR_ENG": "Clonazepam",  # mfds_match가 이 필드로 색인한다. 기본값은 대부분의 테스트 검색어(Clonazepam)와 맞추었다.
         "EDI_CODE": "642101470",
         "ATC_CODE": "N02BA01",
         "EE_DOC_ID": f"EE-{seq}",
@@ -145,16 +146,16 @@ def test_search_terms_drop_class_words_filenames_and_duplicates(tmp_path):
     ]
 
 
-def test_request_carries_service_key_and_single_search_param(monkeypatch):
+def test_universe_request_carries_service_key_and_no_search_param(monkeypatch):
     fake = FakeApi(lambda params: envelope({"totalCount": "0"}))
     monkeypatch.setattr(fetch_mfds, "http_get", fake)
-    fetch_mfds.collect_pages(SERVICE_KEY, "main_item_ingr", "Clonazepam", 100, None)
+    fetch_mfds.collect_universe(SERVICE_KEY, page_size=100)
     (url, params), = fake.calls
     assert url == fetch_mfds.API_URL
     assert params["serviceKey"] == SERVICE_KEY
     assert params["type"] == "json"
     assert params["numOfRows"] == "100"
-    assert params["main_item_ingr"] == "Clonazepam"
+    assert "main_item_ingr" not in params
     assert "item_name" not in params
 
 
@@ -170,7 +171,7 @@ def test_body_items_accepts_common_json_envelopes(items):
     assert fetch_mfds.body_items({"items": items})[0]["ITEM_SEQ"] == "1"
 
 
-def test_pagination_follows_total_count_and_stops(monkeypatch):
+def test_universe_pagination_follows_total_count_and_stops(monkeypatch):
     rows = [api_item(i) for i in range(5)]
 
     def respond(params):
@@ -180,116 +181,47 @@ def test_pagination_follows_total_count_and_stops(monkeypatch):
 
     fake = FakeApi(respond)
     monkeypatch.setattr(fetch_mfds, "http_get", fake)
-    collected = fetch_mfds.collect_pages(SERVICE_KEY, "main_item_ingr", "Clonazepam", 2, None)
+    collected = fetch_mfds.collect_universe(SERVICE_KEY, page_size=2)
     assert [item["ITEM_SEQ"] for item in collected] == [str(i) for i in range(5)]
     assert [params["pageNo"] for _, params in fake.calls] == ["1", "2", "3"]
 
 
-def test_single_dict_items_become_a_one_element_list(monkeypatch):
+def test_universe_single_dict_items_become_a_one_element_list(monkeypatch):
     fake = FakeApi(lambda params: envelope({"totalCount": "1", "items": api_item(7)}))
     monkeypatch.setattr(fetch_mfds, "http_get", fake)
-    collected = fetch_mfds.collect_pages(SERVICE_KEY, "main_item_ingr", "Clonazepam", 100, None)
+    collected = fetch_mfds.collect_universe(SERVICE_KEY, page_size=100)
     assert [item["ITEM_SEQ"] for item in collected] == ["7"]
     assert len(fake.calls) == 1
 
 
-def test_missing_items_means_no_results(monkeypatch):
+def test_universe_missing_items_means_no_results(monkeypatch):
     fake = FakeApi(lambda params: envelope({"totalCount": "0"}))
     monkeypatch.setattr(fetch_mfds, "http_get", fake)
-    assert fetch_mfds.collect_pages(SERVICE_KEY, "main_item_ingr", "Clonazepam", 100, None) == []
+    assert fetch_mfds.collect_universe(SERVICE_KEY, page_size=100) == []
     assert len(fake.calls) == 1
 
 
-def test_max_items_truncates_collection(monkeypatch):
-    rows = [api_item(i) for i in range(10)]
-    fake = FakeApi(lambda params: envelope({"totalCount": "10", "items": rows}))
-    monkeypatch.setattr(fetch_mfds, "http_get", fake)
-    collected = fetch_mfds.collect_pages(SERVICE_KEY, "main_item_ingr", "Clonazepam", 100, 3)
-    assert [item["ITEM_SEQ"] for item in collected] == ["0", "1", "2"]
-    assert len(fake.calls) == 1
-
-
-def test_item_name_fallback_after_empty_primary(monkeypatch):
+def test_universe_count_mismatch_raises(monkeypatch):
+    """첫 응답의 totalCount와 수집한 고유 ITEM_SEQ 수가 다르면 조용히 넘어가지 않고 실패한다."""
     def respond(params):
-        if params.get("main_item_ingr") or params.get("item_name") == "Clonazepam":
-            return envelope({"totalCount": "0"})
-        return envelope({"totalCount": "1", "items": api_item(9, ITEM_NAME="리보트릴정")})
+        page = int(params["pageNo"])
+        items = [api_item(1)] if page == 1 else []
+        return envelope({"totalCount": "5", "items": items})
 
-    fake = FakeApi(respond)
-    monkeypatch.setattr(fetch_mfds, "http_get", fake)
-    rows, search_param = fetch_mfds.collect_term(
-        SERVICE_KEY, "Clonazepam", ["리보트릴정"], 100, None,
-    )
-    assert search_param == "item_name"
-    assert [item["ITEM_NAME"] for item in rows] == ["리보트릴정"]
-    attempted = [
-        (key, value)
-        for _, params in fake.calls
-        for key, value in params.items()
-        if key in {"main_item_ingr", "item_name"}
-    ]
-    assert attempted == [
-        ("main_item_ingr", "Clonazepam"),
-        ("item_name", "Clonazepam"),
-        ("item_name", "리보트릴정"),
-        ("main_item_ingr", "성분"),  # 품명 검색 성공 시 한글 성분명으로 확장
-    ]
+    monkeypatch.setattr(fetch_mfds, "http_get", FakeApi(respond))
+    with pytest.raises(RuntimeError, match="불일치"):
+        fetch_mfds.collect_universe(SERVICE_KEY, page_size=2)
 
 
-def test_flat_envelope_without_response_wrapper(monkeypatch):
+def test_universe_flat_envelope_without_response_wrapper(monkeypatch):
     """실제 DrugPrdtPrmsnInfoService07은 response 래퍼 없이 {header, body}를 반환한다."""
     flat = json.dumps({
         "header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."},
         "body": {"totalCount": "1", "items": [api_item(8)]},
     }, ensure_ascii=False).encode("utf-8")
     monkeypatch.setattr(fetch_mfds, "http_get", FakeApi(lambda params: flat))
-    collected = fetch_mfds.collect_pages(SERVICE_KEY, "main_item_ingr", "다파글리플로진", 100, None)
+    collected = fetch_mfds.collect_universe(SERVICE_KEY, page_size=100)
     assert [item["ITEM_SEQ"] for item in collected] == ["8"]
-
-
-def test_item_name_hit_expands_to_base_ingredient_generics(monkeypatch):
-    """품명 검색 성공 시 염·수화물을 벗긴 기본 성분명으로 다른 염 제네릭까지 수집한다."""
-    branded = api_item(91, ITEM_NAME="포시가정", MAIN_ITEM_INGR="[M258339]다파글리플로진프로판디올수화물")
-    other_salt = api_item(92, ITEM_NAME="다파프로정", MAIN_ITEM_INGR="[M279811]다파글리플로진포르메이트")
-    combo = api_item(93, ITEM_NAME="직듀오서방정",
-                     MAIN_ITEM_INGR="[M244179]메트포르민염산염|[M258339]다파글리플로진프로판디올수화물")
-
-    def respond(params):
-        if params.get("item_name") == "포시가정":
-            return envelope({"totalCount": "1", "items": [branded]})
-        if params.get("main_item_ingr") == "다파글리플로진":
-            return envelope({"totalCount": "3", "items": [branded, other_salt, combo]})
-        return envelope({"totalCount": "0"})
-
-    monkeypatch.setattr(fetch_mfds, "http_get", FakeApi(respond))
-    rows, search_param = fetch_mfds.collect_term(
-        SERVICE_KEY, "Dapagliflozin", ["포시가정"], 100, None,
-    )
-    assert search_param == "item_name"
-    # 시드({다파글리플로진}) 조합을 포함하는 품목만 채택: 다른 염·복합제 포함
-    assert sorted(item["ITEM_NAME"] for item in rows) == ["다파프로정", "직듀오서방정", "포시가정"]
-
-
-def test_expand_probes_most_specific_ingredient_only(monkeypatch):
-    """복합제 시드는 가장 긴 성분 하나만 조회해 범용 성분 전체 수집을 피한다."""
-    combo = api_item(94, ITEM_NAME="직듀오서방정",
-                     MAIN_ITEM_INGR="[M244179]메트포르민염산염|[M258339]다파글리플로진프로판디올수화물")
-    metformin_only = api_item(95, ITEM_NAME="다이아벡스정", MAIN_ITEM_INGR="[M244179]메트포르민염산염")
-    probed = []
-
-    def respond(params):
-        if params.get("item_name") == "직듀오서방정":
-            return envelope({"totalCount": "1", "items": [combo]})
-        ingr = params.get("main_item_ingr")
-        if ingr and not ingr.isascii():  # 영문 성분 검색은 실제 API처럼 0건
-            probed.append(ingr)
-            return envelope({"totalCount": "2", "items": [combo, metformin_only]})
-        return envelope({"totalCount": "0"})
-
-    monkeypatch.setattr(fetch_mfds, "http_get", FakeApi(respond))
-    rows, _ = fetch_mfds.collect_term(SERVICE_KEY, "Dapagliflozin + Metformin", ["직듀오서방정"], 100, None)
-    assert probed == ["다파글리플로진"]  # 메트포르민 단독 조회 없음
-    assert [item["ITEM_NAME"] for item in rows] == ["직듀오서방정"]  # 시드 조합 미포함 품목 제외
 
 
 def test_first_capture_creates_revision(tmp_path):
@@ -390,6 +322,7 @@ def test_valid_changes_since_still_skips_without_key(monkeypatch):
 
 
 def test_main_persists_items_without_service_key(monkeypatch, tmp_path):
+    """--full은 전량 열거(검색어 없는 질의) 뒤 mfds_match로 걸러진 품목만 저장한다."""
     monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
     monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
         tmp_path / "normalized", ["Clonazepam 경구제 (품명: 리보트릴정 등)"],
@@ -399,8 +332,10 @@ def test_main_persists_items_without_service_key(monkeypatch, tmp_path):
     monkeypatch.setattr(fetch_mfds, "http_get", fake)
     buffer = io.StringIO()
     with contextlib.redirect_stdout(buffer):
-        assert fetch_mfds.main(["--max-terms", "1"]) == 0
+        assert fetch_mfds.main(["--full"]) == 0
     assert fake.calls and fake.calls[0][1]["serviceKey"] == SERVICE_KEY
+    assert "main_item_ingr" not in fake.calls[0][1]
+    assert "item_name" not in fake.calls[0][1]
     files = sorted((tmp_path / "items").glob("*.json"))
     assert [path.name for path in files] == ["21.json", "22.json"]
     for path in files:
@@ -412,6 +347,9 @@ def test_main_persists_items_without_service_key(monkeypatch, tmp_path):
     assert "수집 항목=2건" in buffer.getvalue()
     assert "신규 개정=2건" in buffer.getvalue()
     assert "변동 없음=0건" in buffer.getvalue()
+    sync = json.loads(fetch_mfds.SYNC_PATH.read_text(encoding="utf-8"))
+    assert sync["last_full_run"]
+    assert "seen_heads" not in sync
 
 
 def test_main_respects_max_items(monkeypatch, tmp_path):
@@ -421,7 +359,7 @@ def test_main_respects_max_items(monkeypatch, tmp_path):
     fake = FakeApi(lambda params: envelope({"totalCount": "2", "items": [api_item(31), api_item(32)]}))
     monkeypatch.setattr(fetch_mfds, "http_get", fake)
     with contextlib.redirect_stdout(io.StringIO()):
-        assert fetch_mfds.main(["--max-terms", "1", "--max-items", "1"]) == 0
+        assert fetch_mfds.main(["--full", "--max-items", "1"]) == 0
     assert [path.name for path in sorted((tmp_path / "items").glob("*.json"))] == ["31.json"]
 
 
@@ -554,7 +492,7 @@ def test_main_backfills_history_for_unchanged_item_missing_it(monkeypatch, tmp_p
     monkeypatch.setattr(fetch_mfds, "http_get", respond)
     buffer = io.StringIO()
     with contextlib.redirect_stdout(buffer):
-        assert fetch_mfds.main(["--max-terms", "1"]) == 0
+        assert fetch_mfds.main(["--full"]) == 0
 
     assert history_calls == ["61"]
     assert "변동 없음=1건" in buffer.getvalue()
@@ -566,7 +504,7 @@ def test_main_backfills_history_for_unchanged_item_missing_it(monkeypatch, tmp_p
 
     history_calls.clear()
     with contextlib.redirect_stdout(io.StringIO()):
-        assert fetch_mfds.main(["--max-terms", "1"]) == 0
+        assert fetch_mfds.main(["--full"]) == 0
     assert history_calls == []
 
 
@@ -589,7 +527,7 @@ def test_history_failure_skips_item_and_disables_after_streak(monkeypatch, tmp_p
         return envelope({"totalCount": str(len(rows)), "items": rows})
 
     monkeypatch.setattr(fetch_mfds, "http_get", respond)
-    assert fetch_mfds.main(["--max-terms", "1"]) == 0
+    assert fetch_mfds.main(["--full"]) == 0
 
     out = capsys.readouterr().out
     assert "이력 수집을 중단합니다" in out
@@ -601,8 +539,8 @@ def test_history_failure_skips_item_and_disables_after_streak(monkeypatch, tmp_p
         assert fetch_mfds.history_pending(seq, items) is True
 
 
-def test_search_failure_skips_term_and_keeps_collected_items(monkeypatch, tmp_path, capsys):
-    """검색 실패는 검색어 단위로 넘기고, 저장한 품목은 유지한 채 성공 종료한다."""
+def test_match_failures_are_reported_but_do_not_fail_run(monkeypatch, tmp_path, capsys):
+    """매칭 실패 검색어는 건수와 상위 목록으로 보고되고, 매칭된 품목은 그대로 저장된다."""
     monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
     monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
         tmp_path / "normalized",
@@ -610,29 +548,27 @@ def test_search_failure_skips_term_and_keeps_collected_items(monkeypatch, tmp_pa
     ))
     items = tmp_path / "items"
     monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
+    universe = [
+        api_item(71, MAIN_INGR_ENG="Alpha"),
+        api_item(72, MAIN_INGR_ENG="Gamma"),
+        # Beta는 우주에 없어 매칭 실패로 남는다.
+    ]
 
     def respond(url, params=None, retries=3):
-        term = (params or {}).get("main_item_ingr") or (params or {}).get("item_name")
-        if term == "Beta":
-            raise RuntimeError("MFDS API 오류: 코드=01, 메시지=System Error!!")
-        if term == "Alpha":
-            return envelope({"totalCount": "1", "items": [api_item(71)]})
-        if term == "Gamma":
-            return envelope({"totalCount": "1", "items": [api_item(72)]})
-        return envelope({"totalCount": "0"})
+        return envelope({"totalCount": str(len(universe)), "items": universe})
 
     monkeypatch.setattr(fetch_mfds, "http_get", respond)
-    assert fetch_mfds.main(["--skip-history"]) == 0
+    assert fetch_mfds.main(["--full", "--skip-history"]) == 0
 
     out = capsys.readouterr().out
-    assert "검색어 수집 실패(Beta)" in out
-    assert "검색 실패=1건" in out
-    # 실패한 검색어 앞뒤의 품목은 모두 저장된다
+    assert "매칭 실패=1건" in out
+    assert "매칭 실패 검색어 1건" in out
+    assert "Beta" in out
     assert sorted(p.stem for p in items.glob("*.json")) == ["71", "72"]
 
 
-def test_all_search_failures_exit_nonzero(monkeypatch, tmp_path):
-    """수집이 0건인데 실패만 있으면 크게 실패해 조용한 빈 수집을 막는다."""
+def test_full_enumeration_api_failure_exits_nonzero(monkeypatch, tmp_path):
+    """전량 열거 자체가 실패하면 조용한 빈 수집을 막기 위해 크게 실패한다."""
     monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
     monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
         tmp_path / "normalized", ["Alpha 경구제"],
@@ -643,9 +579,8 @@ def test_all_search_failures_exit_nonzero(monkeypatch, tmp_path):
         raise RuntimeError("MFDS API 오류: 코드=01, 메시지=System Error!!")
 
     monkeypatch.setattr(fetch_mfds, "http_get", respond)
-    import contextlib, io
     with contextlib.redirect_stdout(io.StringIO()):
-        assert fetch_mfds.main(["--skip-history"]) == 1
+        assert fetch_mfds.main(["--full", "--skip-history"]) == 1
 
 
 def test_incremental_mode_uses_change_feed(monkeypatch, tmp_path, capsys):
@@ -666,18 +601,17 @@ def test_incremental_mode_uses_change_feed(monkeypatch, tmp_path, capsys):
     items = tmp_path / "items"
     items.mkdir()
     monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
-    # 기존 저장 품목(클로나제팜)과 동기화 상태를 준비한다
+    # 기존 저장 품목(클로나제팔)과 동기화 상태를 준비한다
     fetch_mfds.merge_item(
-        api_item(61, MAIN_ITEM_INGR="[M1]클로나제팜"), items, "2026-08-01T00:00:00Z",
+        api_item(61, MAIN_INGR_ENG="Clonazepam"), items, "2026-08-01T00:00:00Z",
     )
-    fetch_mfds.save_sync("20260820", {"Clonazepam"})
+    fetch_mfds.save_sync("20260820", None)
 
     changed_rows = [
-        api_item(61, ee="<p>개정된 적응증</p>", MAIN_ITEM_INGR="[M1]클로나제팜"),  # 기존 품목의 갱신
-        api_item(62, ITEM_NAME="새클로정", MAIN_ITEM_INGR="[M2]클로나제팜염산염"),   # 유관 신규(같은 기본 성분)
-        api_item(63, ITEM_NAME="무관정", MAIN_ITEM_INGR="[M3]메트포르민염산염"),     # 무관 성분 → 제외
+        api_item(61, ee="<p>개정된 적응증</p>", MAIN_INGR_ENG="Clonazepam"),  # 기존 품목의 갱신
+        api_item(62, ITEM_NAME="새클로정", MAIN_INGR_ENG="Clonazepam Hydrochloride"),   # 매칭(접두 일치)
+        api_item(63, ITEM_NAME="무관정", MAIN_INGR_ENG="Metformin Hydrochloride"),     # 무관 성분 → 제외
     ]
-    search_calls: list[dict] = []
 
     def respond(url, params=None, retries=3):
         params = params or {}
@@ -686,7 +620,6 @@ def test_incremental_mode_uses_change_feed(monkeypatch, tmp_path, capsys):
         if "start_change_date" in params:
             assert params["start_change_date"] == "20200101"
             return envelope({"totalCount": str(len(changed_rows)), "items": changed_rows})
-        search_calls.append(dict(params))
         return envelope({"totalCount": "0"})
 
     monkeypatch.setattr(fetch_mfds, "http_get", respond)
@@ -694,52 +627,13 @@ def test_incremental_mode_uses_change_feed(monkeypatch, tmp_path, capsys):
         "--skip-history", "--incremental-workers", "2", "--changes-since", "20200101",
     ]) == 0
 
-    # 검색어는 이미 본 것뿐이라 검색 질의가 없어야 한다
     assert worker_counts == [2]
-    assert search_calls == []
     assert sorted(p.stem for p in items.glob("*.json")) == ["61", "62"]
     updated = json.loads((items / "61.json").read_text(encoding="utf-8"))
     assert updated["revisions"][0]["ee_text"] == "개정된 적응증"
     sync = json.loads(fetch_mfds.SYNC_PATH.read_text(encoding="utf-8"))
     assert sync["last_change_date"] == "20260820"
     assert "변동 없음=0건" in capsys.readouterr().out
-
-
-def test_incremental_mode_searches_only_new_heads(monkeypatch, tmp_path):
-    """새 고시로 들어온 검색어만 검색하고 seen_heads에 누적한다."""
-    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
-    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
-        tmp_path / "normalized",
-        ["Clonazepam 경구제", "Dapagliflozin 경구제 (품명: 포시가정)"],
-    ))
-    items = tmp_path / "items"
-    items.mkdir()
-    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
-    fetch_mfds.merge_item(api_item(61), items, "2026-08-01T00:00:00Z")
-    fetch_mfds.save_sync("20260820", {"Clonazepam"})
-    searched_terms: list[str] = []
-
-    def respond(url, params=None, retries=3):
-        params = params or {}
-        if url == fetch_mfds.HISTORY_URL:
-            return b"<html></html>"
-        if "start_change_date" in params:
-            return envelope({"totalCount": "0"})
-        searched_terms.append(params.get("main_item_ingr") or params.get("item_name"))
-        if params.get("item_name") == "포시가정":
-            return envelope({"totalCount": "1", "items": [
-                api_item(70, ITEM_NAME="포시가정", MAIN_ITEM_INGR="[M4]다파글리플로진프로판디올수화물"),
-            ]})
-        return envelope({"totalCount": "0"})
-
-    monkeypatch.setattr(fetch_mfds, "http_get", respond)
-    assert fetch_mfds.main([]) == 0
-
-    assert "Clonazepam" not in searched_terms  # 이미 본 검색어는 재검색하지 않는다
-    assert "Dapagliflozin" in searched_terms
-    sync = json.loads(fetch_mfds.SYNC_PATH.read_text(encoding="utf-8"))
-    assert set(sync["seen_heads"]) == {"Clonazepam", "Dapagliflozin"}
-    assert (items / "70.json").exists()
 
 
 def test_incremental_change_feed_failure_exits_nonzero(monkeypatch, tmp_path):
@@ -751,7 +645,7 @@ def test_incremental_change_feed_failure_exits_nonzero(monkeypatch, tmp_path):
     items.mkdir()
     monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
     fetch_mfds.merge_item(api_item(61), items, "2026-08-01T00:00:00Z")
-    fetch_mfds.save_sync("20260820", {"Clonazepam"})
+    fetch_mfds.save_sync("20260820", None)
 
     def respond(url, params=None, retries=3):
         if "start_change_date" in (params or {}):
@@ -778,7 +672,7 @@ def test_main_skip_history_leaves_item_pending_backfill(monkeypatch, tmp_path):
 
     monkeypatch.setattr(fetch_mfds, "http_get", bomb)
     with contextlib.redirect_stdout(io.StringIO()):
-        assert fetch_mfds.main(["--max-terms", "1", "--skip-history"]) == 0
+        assert fetch_mfds.main(["--full", "--skip-history"]) == 0
 
     assert fetch_mfds.history_pending("71", items) is True
 
@@ -793,9 +687,9 @@ def test_backfill_resumes_after_last_completed_month(monkeypatch, tmp_path):
     items.mkdir()
     monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
     fetch_mfds.merge_item(
-        api_item(81, MAIN_ITEM_INGR="[M1]클로나제팜"), items, "2020-01-01T00:00:00Z",
+        api_item(81, MAIN_INGR_ENG="Clonazepam"), items, "2020-01-01T00:00:00Z",
     )
-    fetch_mfds.save_sync("20200229", {"Clonazepam"})
+    fetch_mfds.save_sync("20200229", None)
     calls = []
 
     def fail_february(url, params=None, retries=3):
@@ -861,49 +755,19 @@ def test_reverted_text_moves_known_revision_to_front_without_duplicate(tmp_path)
     assert verify.validate_mfds_items(tmp_path) == []
 
 
-def test_incomplete_page_fails_instead_of_advancing(monkeypatch):
-    """totalCount보다 적게 받았는데 페이지가 끝나면 누락된 채 성공하지 말고 실패해야 한다."""
-    def respond(params):
-        page = int(params["pageNo"])
-        items = [api_item(1), api_item(2)] if page == 1 else []
-        return envelope({"totalCount": "5", "items": items})
-
-    monkeypatch.setattr(fetch_mfds, "http_get", FakeApi(respond))
-    with pytest.raises(RuntimeError, match="불완전"):
-        fetch_mfds.collect_pages(SERVICE_KEY, "main_item_ingr", "Clonazepam", 2, None)
-
-
-def test_short_last_page_with_matching_total_is_complete(monkeypatch):
-    fake = FakeApi(lambda params: envelope({"totalCount": "1", "items": [api_item(1)]}))
-    monkeypatch.setattr(fetch_mfds, "http_get", fake)
-    assert len(fetch_mfds.collect_pages(SERVICE_KEY, "main_item_ingr", "Clonazepam", 100, None)) == 1
-
-
-@pytest.mark.parametrize(("name", "expected"), [
-    ("에스암로디핀베실산염이수화물", "에스암로디핀"),
-    ("다파글리플로진프로판디올수화물", "다파글리플로진"),
-    ("클로나제팜", "클로나제팜"),
-    ("메트포르민염산염", "메트포르민"),
-])
-def test_base_ingredient_strips_longest_suffix_first(name, expected):
-    assert fetch_mfds.base_ingredient(name) == expected
-
-
-def test_change_feed_uses_stored_ingredient_combinations_as_seeds(monkeypatch, tmp_path):
-    """저장된 A+B 복합제 때문에 B+C, C 품목까지 재귀적으로 딸려오면 안 된다."""
+def test_change_feed_uses_mfds_match_for_relevance(monkeypatch, tmp_path):
+    """변경분 행만으로 mfds_match가 고시 검색어와 연결된 품목만 골라낸다."""
     monkeypatch.setattr(fetch_mfds, "today_kst", lambda: "20260901")
     monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
     monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(tmp_path / "normalized", ["Alpha 경구제"]))
     items = tmp_path / "items"
     items.mkdir()
     monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
-    fetch_mfds.merge_item(api_item(1, MAIN_ITEM_INGR="[M1]알파린"), items, "2026-08-01T00:00:00Z")
-    fetch_mfds.merge_item(api_item(2, MAIN_ITEM_INGR="[M1]알파린|[M2]베타린"), items, "2026-08-01T00:00:00Z")
-    fetch_mfds.save_sync("20260820", {"Alpha"})
+    fetch_mfds.merge_item(api_item(1, MAIN_INGR_ENG="Alpha"), items, "2026-08-01T00:00:00Z")
+    fetch_mfds.save_sync("20260820", None)
     changed_rows = [
-        api_item(3, MAIN_ITEM_INGR="[M1]알파린염산염|[M9]감마린"),   # 알파 포함 → 유관
-        api_item(4, MAIN_ITEM_INGR="[M2]베타린|[M3]감마린"),         # 베타만 겹침 → 무관(예전 규칙은 수집)
-        api_item(5, MAIN_ITEM_INGR="[M2]베타린"),                  # 무관
+        api_item(3, MAIN_INGR_ENG="Alpha Hydrochloride"),   # 검색어 Alpha의 접두 일치 → 유관
+        api_item(4, MAIN_INGR_ENG="Gamma"),                 # 연결 없는 성분 → 제외
     ]
 
     def respond(url, params=None, retries=3):
@@ -915,7 +779,7 @@ def test_change_feed_uses_stored_ingredient_combinations_as_seeds(monkeypatch, t
     monkeypatch.setattr(fetch_mfds, "http_get", respond)
     with contextlib.redirect_stdout(io.StringIO()):
         assert fetch_mfds.main(["--skip-history"]) == 0
-    assert sorted(p.stem for p in items.glob("*.json")) == ["1", "2", "3"]
+    assert sorted(p.stem for p in items.glob("*.json")) == ["1", "3"]
 
 
 def test_pending_history_is_backfilled_after_change_feed(monkeypatch, tmp_path, capsys):
@@ -927,8 +791,8 @@ def test_pending_history_is_backfilled_after_change_feed(monkeypatch, tmp_path, 
     items.mkdir()
     monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", items)
     for seq in (1, 2, 3):
-        fetch_mfds.merge_item(api_item(seq, MAIN_ITEM_INGR="[M1]알파"), items, "2026-08-01T00:00:00Z")
-    fetch_mfds.save_sync("20260820", {"Alpha"})
+        fetch_mfds.merge_item(api_item(seq, MAIN_INGR_ENG="Alpha"), items, "2026-08-01T00:00:00Z")
+    fetch_mfds.save_sync("20260820", None)
     history_calls: list[str] = []
 
     def respond(url, params=None, retries=3):
@@ -951,7 +815,7 @@ def test_pending_history_is_backfilled_after_change_feed(monkeypatch, tmp_path, 
 
 
 def test_max_items_truncation_does_not_advance_sync(monkeypatch, tmp_path):
-    """상한으로 잘린 실행이 검색어를 완료로 기록하면 미처리 품목이 영원히 빠진다."""
+    """상한으로 잘린 실행이 전량 열거를 완료로 기록하면 미처리 품목이 영원히 빠진다."""
     monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
     monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(tmp_path / "normalized", ["Clonazepam 경구제"]))
     monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", tmp_path / "items")
@@ -959,7 +823,7 @@ def test_max_items_truncation_does_not_advance_sync(monkeypatch, tmp_path):
     monkeypatch.setattr(fetch_mfds, "http_get", fake)
     buffer = io.StringIO()
     with contextlib.redirect_stdout(buffer):
-        assert fetch_mfds.main(["--max-terms", "1", "--max-items", "1", "--skip-history"]) == 0
+        assert fetch_mfds.main(["--full", "--max-items", "1", "--skip-history"]) == 0
     assert not fetch_mfds.SYNC_PATH.exists()
     assert "동기화 상태를 갱신하지 않습니다" in buffer.getvalue()
 
