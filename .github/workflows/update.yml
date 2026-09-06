@@ -19,8 +19,17 @@ on:
         description: 의약품 허가정보 변경분을 이 날짜(YYYYMMDD)부터 다시 조회 (비우면 증분)
         required: false
         default: ""
+      full_sweep:
+        description: "의약품 허가정보를 토요일처럼 조건 없이 전량 열거 후 로컬 매칭 (기본: 증분)"
+        required: false
+        default: false
+        type: boolean
   schedule:
-    - cron: "17 20 * * *"
+    # 21:23 KST(UTC+9) = 12:23 UTC 같은 날짜. 정각(:00)은 GitHub Actions 큐 지연이 커서 피한다.
+    # 평일 저녁: 월~금 증분 (`python fetch_mfds.py`).
+    - cron: "23 12 * * 1-5"
+    # 토요일 저녁: 전량 열거 (`python fetch_mfds.py --full`). 일요일은 실행하지 않는다.
+    - cron: "23 12 * * 6"
 
 concurrency:
   group: drug-criteria-publication
@@ -89,10 +98,15 @@ jobs:
         env:
           DATA_GO_KEY: ${{ secrets.DATA_GO_KEY }}
           MFDS_CHANGES_SINCE: ${{ inputs.mfds_changes_since }}
+          # 토요일 cron만 전량 열거. workflow_dispatch는 full_sweep 입력으로 선택. push/평일 cron은 증분.
+          MFDS_FULL_SWEEP: ${{ github.event.schedule == '23 12 * * 6' || inputs.full_sweep }}
         run: |
           test -n "$DATA_GO_KEY" || { echo "DATA_GO_KEY repository secret is required"; exit 1; }
           mfds_changes_since="${MFDS_CHANGES_SINCE}"
-          if [ -n "$mfds_changes_since" ]; then
+          if [ "$MFDS_FULL_SWEEP" = "true" ]; then
+            # --full과 --changes-since는 함께 쓸 수 없다(fetch_mfds.py가 거부).
+            python fetch_mfds.py --full
+          elif [ -n "$mfds_changes_since" ]; then
             python fetch_mfds.py --changes-since "$mfds_changes_since"
           else
             python fetch_mfds.py
