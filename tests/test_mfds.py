@@ -213,6 +213,55 @@ def test_universe_count_mismatch_raises(monkeypatch):
         fetch_mfds.collect_universe(SERVICE_KEY, page_size=2)
 
 
+def test_universe_exact_multiple_of_page_size_stops_normally(monkeypatch):
+    """totalCount가 page_size의 정확한 배수면 헛호출 1회(빈 마지막 페이지)가 붙는데,
+    그게 페이지 상한 오판으로 실패하면 안 된다."""
+    rows = [api_item(i) for i in range(4)]
+
+    def respond(params):
+        page, size = int(params["pageNo"]), int(params["numOfRows"])
+        chunk = rows[(page - 1) * size: page * size]
+        return envelope({"pageNo": page, "numOfRows": size, "totalCount": str(len(rows)), "items": chunk})
+
+    fake = FakeApi(respond)
+    monkeypatch.setattr(fetch_mfds, "http_get", fake)
+    collected = fetch_mfds.collect_universe(SERVICE_KEY, page_size=2)
+    assert [item["ITEM_SEQ"] for item in collected] == [str(i) for i in range(4)]
+    assert [params["pageNo"] for _, params in fake.calls] == ["1", "2", "3"]
+
+
+def test_universe_unbounded_full_pages_raises_page_cap_error(monkeypatch):
+    """범위 밖 페이지에서 API가 작은 totalCount를 유지한 채 매 페이지마다 새 ITEM_SEQ를 계속 만들어
+    꽉 찬 페이지를 준다면(진전 없음 감지에는 걸리지 않지만 종료도 안 되므로) 페이지 상한으로
+    무한 루프를 막아야 한다."""
+    def respond(params):
+        page, size = int(params["pageNo"]), int(params["numOfRows"])
+        chunk = [api_item(f"p{page}-{i}") for i in range(size)]
+        return envelope({"pageNo": page, "numOfRows": size, "totalCount": "5", "items": chunk})
+
+    fake = FakeApi(respond)
+    monkeypatch.setattr(fetch_mfds, "http_get", fake)
+    with pytest.raises(RuntimeError, match="페이지 상한"):
+        fetch_mfds.collect_universe(SERVICE_KEY, page_size=2)
+    # 무한 루프가 아니라 상한 근처에서 멈췄는지 확인한다.
+    assert len(fake.calls) < 100
+
+
+def test_universe_repeated_page_raises_no_progress_error(monkeypatch):
+    """같은 꽉 찬 페이지가 그대로 반복되면(순환) 새 ITEM_SEQ가 늘지 않아 즉시 실패한다."""
+    same_chunk = [api_item(1), api_item(2)]
+
+    def respond(params):
+        page, size = int(params["pageNo"]), int(params["numOfRows"])
+        return envelope({"pageNo": page, "numOfRows": size, "totalCount": "999999", "items": same_chunk})
+
+    fake = FakeApi(respond)
+    monkeypatch.setattr(fetch_mfds, "http_get", fake)
+    with pytest.raises(RuntimeError, match="진전 없음"):
+        fetch_mfds.collect_universe(SERVICE_KEY, page_size=2)
+    assert len(fake.calls) == 2
+
+
 def test_universe_flat_envelope_without_response_wrapper(monkeypatch):
     """실제 DrugPrdtPrmsnInfoService07은 response 래퍼 없이 {header, body}를 반환한다."""
     flat = json.dumps({

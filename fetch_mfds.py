@@ -319,11 +319,24 @@ def collect_universe(service_key: str, page_size: int = UNIVERSE_PAGE_SIZE) -> l
     첫 응답의 totalCount를 진실로 삼고, 수집한 고유 ITEM_SEQ 수가 그것과 다르면
     RuntimeError로 실패한다(조용한 누락 금지). numOfRows 상한은 500(실측: 1000 이상은
     코드=11 오류). 42,985건 기준 86회 호출로 끝난다.
+
+    종료 조건은 "빈 페이지 또는 부족한 페이지" 하나만 믿지 않는다. 범위 밖 페이지에서
+    API가 꽉 찬 페이지를 계속 주면(마지막 페이지 반복, 순환, 오류 페이로드를 200으로 반환)
+    무한 루프가 될 수 있고, 그 경우 건수 불일치 검사는 루프 뒤에 있어 도달하지도 못한다.
+    그래서 두 가지 강제 종료 장치를 둔다:
+    1) 페이지 상한 — totalCount/page_size로 기대 페이지 수를 구하고 여유를 더한다. 여유의
+       최소값 2는 totalCount가 page_size의 정확한 배수일 때 정상 경로에서도 빈 페이지를
+       확인하려 한 번 더 호출하는 것을 흡수하기 위함이고, 나머지(기대 페이지의 10%)는
+       ~8분짜리 수집 도중 신규 품목이 등록돼 totalCount가 소폭 늘어나는 경우의 페이지
+       증가분을 흡수하기 위함이다.
+    2) 진전 없음 감지 — 한 페이지를 다 처리했는데 고유 ITEM_SEQ 수가 하나도 안 늘면
+       같은 페이지 반복이나 순환으로 보고 즉시 실패한다.
     """
     collected: list[dict] = []
     seen: set[str] = set()
     page_no = 1
     total = None
+    max_pages = None
     while True:
         body = fetch_page(service_key, {}, page_no, page_size)
         time.sleep(REQUEST_SLEEP)
@@ -333,6 +346,9 @@ def collect_universe(service_key: str, page_size: int = UNIVERSE_PAGE_SIZE) -> l
                 total = int(body.get("totalCount") or 0)
             except (TypeError, ValueError):
                 total = 0
+            expected_pages = max(1, -(-total // page_size))
+            max_pages = expected_pages + max(2, expected_pages // 10)
+        before = len(seen)
         for row in rows:
             seq = str(row.get("ITEM_SEQ") or "").strip()
             if seq and seq not in seen:
@@ -340,7 +356,17 @@ def collect_universe(service_key: str, page_size: int = UNIVERSE_PAGE_SIZE) -> l
                 collected.append(row)
         if not rows or len(rows) < page_size:
             break
+        if len(seen) == before:
+            raise RuntimeError(
+                f"MFDS 전량 열거 진전 없음: pageNo={page_no}에서 새 ITEM_SEQ 0건 "
+                f"(누적 {len(seen)}건, totalCount={total}건) — 같은 페이지 반복 또는 순환 의심"
+            )
         page_no += 1
+        if page_no > max_pages:
+            raise RuntimeError(
+                f"MFDS 전량 열거 페이지 상한 초과: pageNo={page_no} > 상한 {max_pages} "
+                f"(누적 {len(seen)}건, totalCount={total}건) — 범위 밖 페이지가 정상 응답을 반환하는 것으로 의심"
+            )
     if len(seen) != total:
         raise RuntimeError(
             f"MFDS 전량 열거 건수 불일치: 고유 {len(seen)}건 수집, totalCount={total}건"
