@@ -7,11 +7,12 @@
  "permit_date": "19880203",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050463]메토카르바몰",
+ "main_item_ingr": "[M050463]메토카르바몰|[M050463]메토카르바몰",
  "main_item_ingr_eng": "Methocarbamol",
  "edi_code": "654000311",
  "atc_code": "M03BA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800544",
+ "history_fetched_at": "2026-08-28T13:23:41Z",
  "revisions": [
   {
    "revision_id": "198800544-4f8bba2e",
@@ -19,9 +20,8 @@
    "ee_text": "근골격계 질환에 수반하는 동통성 연축 : 요배통증, 경견완증후군, 견관절주위염, 변형성척추증",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:23:41Z",
-   "last_observed_at": "2026-08-28T13:23:41Z",
+   "last_observed_at": "2026-09-06T04:18:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:41Z"
+ ]
 }
