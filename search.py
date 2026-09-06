@@ -89,60 +89,44 @@ def group_documents(records: list[dict]) -> list[list[dict]]:
     return ordered
 
 
-DATE_TERM = re.compile(r"(\d{4})-?(\d{2})-?(\d{2})")
-NOTICE_TERM = re.compile(r"제?(\d{4}-\d{1,4})호?")
+# 웹 페이지와 같은 검색 계약: 대소문자 무시 부분문자열, 목록의 필드를 줄바꿈으로 이은 본문, 검색어 간 OR.
+# FTS5 단어 토큰 검색은 '다파글리플로진을'처럼 조사가 붙은 한글이나 'dapa' 같은 앞부분 검색에 웹과 다른 결과를 냈다.
+# 항목이 천 개 단위라 SQL로 거르지 않고 전부 읽어 파이썬에서 같은 규칙으로 걸러낸다(SQLite lower()는 ASCII만 접는다).
 
 
-def split_terms(terms: list[str]) -> tuple[list[str], list[str], list[str]]:
-    """검색어를 본문(FTS) 검색어와 시행일·고시번호 조건으로 나눈다.
+def haystack(record: dict) -> str:
+    """레코드 하나의 검색 대상 문자열. 브라우저 쪽 `searchableCriterion`과 같은 순서·구분자다."""
+    return "\n".join([
+        record["title"], record["body"], record["class_header"],
+        date_label(record["effective_date"]), record["effective_date"], f"고시 제{record['notice_number']}호",
+    ])
 
-    `2026-04-01`·`20260401`은 시행일로, `2026-92`·`제2026-92호`는 고시번호로
-    해석해 본문에 없는 날짜·번호 검색도 동작하게 한다.
-    """
-    text_terms: list[str] = []
-    dates: list[str] = []
-    notices: list[str] = []
-    for term in terms:
-        date = DATE_TERM.fullmatch(term)
-        notice = NOTICE_TERM.fullmatch(term)
-        if date:
-            dates.append("".join(date.groups()))
-        elif notice:
-            notices.append(notice.group(1))
-        else:
-            text_terms.append(term)
-    return text_terms, dates, notices
+
+def matches(record: dict, terms: list[str]) -> bool:
+    hay = haystack(record).casefold()
+    return any(term.casefold() in hay for term in terms if term)
 
 
 def query(terms: list[str]) -> list[sqlite3.Row]:
     if not DB_PATH.is_file():
         raise RuntimeError(f"검색 DB가 없습니다: {DB_PATH} (`python ingest.py`를 먼저 실행하세요)")
-    text_terms, dates, notices = split_terms(terms)
-    conditions: list[str] = []
-    params: list[str] = []
-    if text_terms:
-        conditions.append("e.id IN (SELECT rowid FROM fts WHERE fts MATCH ?)")
-        params.append(" OR ".join(f'"{t.replace(chr(34), chr(34) * 2)}"' for t in text_terms))
-    if dates:
-        conditions.append(f"v.효력일 IN ({','.join('?' * len(dates))})")
-        params.extend(dates)
-    if notices:
-        conditions.append(f"v.발령번호 IN ({','.join('?' * len(notices))})")
-        params.extend(notices)
+    terms = [term for term in terms if term]
+    if not terms:
+        return []
     con = sqlite3.connect(DB_PATH)
     con.row_factory = sqlite3.Row
     try:
         try:
-            return con.execute(f"""
+            rows = con.execute("""
                 SELECT e.*, v.효력일, v.발령번호, v.일련번호,
                        a.original_name AS source_name, a.sha256 AS source_sha256,
                        a.role AS source_role, a.ordinal AS source_ordinal
                 FROM entries e
                 JOIN versions v ON v.ver_id = e.ver_id
                 JOIN attachments a ON a.attachment_id = e.attachment_id
-                WHERE {" OR ".join(conditions)}
                 ORDER BY e.norm_key, v.효력일, v.일련번호
-            """, params).fetchall()
+            """).fetchall()
+            return [row for row in rows if matches(record_from_row(row), terms)]
         except sqlite3.DatabaseError as exc:
             raise RuntimeError("검색 DB 스키마가 오래됐거나 손상됐습니다. `python ingest.py`로 다시 생성하세요") from exc
     finally:

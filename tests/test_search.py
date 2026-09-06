@@ -113,7 +113,9 @@ def test_static_index_is_deterministic_and_contains_provenance(tmp_path, monkeyp
     assert row["source_sha256"] == "a" * 64
     assert "다파글리플로진" in row["body"]
     page = (public / "index.html").read_text(encoding="utf-8")
-    assert "notice:'고시문'" in page
+    assert 'const actionLabels={"notice":"고시문"' in page
+    assert '"notice":"고시문"' in page and '"comparison":"변경대비표"' in page
+    assert 'const roleRanks={"notice":0' in page
     assert "관련 고시문 및 첨부자료" in page
     assert "효능·효과가 같은 품목은 함께 표시합니다." in page
     assert "source_sha256.slice" not in page
@@ -158,15 +160,6 @@ def test_query_matches_effective_date_and_notice_number(tmp_path, monkeypatch):
     # 본문 검색어와 날짜를 섞으면 어느 쪽이든 일치한 항목을 돌려준다(OR)
     rows = search.query(["없는약제", "2026-04-01"])
     assert [row["발령번호"] for row in rows] == ["2026-92"]
-
-
-def test_split_terms_classifies_dates_and_notices():
-    text, dates, notices = search.split_terms(
-        ["다파글리플로진", "2026-04-01", "20260401", "제2026-92호", "2026-117"],
-    )
-    assert text == ["다파글리플로진"]
-    assert dates == ["20260401", "20260401"]
-    assert notices == ["2026-92", "2026-117"]
 
 
 def test_query_reports_missing_database(tmp_path, monkeypatch):
@@ -227,21 +220,13 @@ def test_build_mfds_public_writes_search_and_detail_indexes(tmp_path, monkeypatc
 
     index = build_site.build_mfds_public()
 
-    assert index == [{
-        "item_seq": "202600001",
-        "item_name": "시험약",
-        "entp_name": "시험제약",
-        "main_item_ingr": "Dapagliflozin",
-        "main_item_ingr_eng": "Dapagliflozin",
-        "status": "정상",
-        "permit_date": "20260101",
-        "revision_count": 1,
-        "current_content_sha256": "a" * 64,
-        "last_observed_at": "2026-08-21T01:00:00Z",
-        "source_url": item["source_url"],
-    }]
+    assert index == [[
+        "202600001", "시험약", "시험제약", "Dapagliflozin", "Dapagliflozin", "20260101", 1, "a" * 12,
+    ]]
+    written = json.loads((public / "mfds" / "search-index.json").read_text(encoding="utf-8"))
+    assert written == {"fields": list(build_site.MFDS_INDEX_FIELDS), "rows": index}
+    assert "status" not in written["fields"] and "last_observed_at" not in written["fields"] and "source_url" not in written["fields"]
     assert json.loads((public / "mfds" / "items" / "202600001.json").read_text(encoding="utf-8")) == item
-    assert json.loads((public / "mfds" / "search-index.json").read_text(encoding="utf-8")) == index
 
 
 def test_criterion_groups_and_items_are_newest_first():
@@ -331,8 +316,18 @@ def test_static_page_has_footer_and_no_disclaimer(tmp_path, monkeypatch):
     # 품명 검색은 정확→전방→부분문자열→성분 계층이며 부분수열 매칭은 없어야 한다
     assert "const mfdsTier=" in page
     assert "fuzzyContains" not in page
-    # 정확 일치가 존재하면 그것만 반환한다
-    assert "pairs=pairs.filter(pair=>pair[0]===0)" in page
+    # 정확 일치는 순위만 올린다. 다른 검색어의 결과를 지우면 안내한 OR 검색 계약과 어긋난다.
+    assert "pairs=pairs.filter(pair=>pair[0]===0)" not in page
+    assert ".filter(pair=>pair[0]<4).sort((a,b)=>a[0]-b[0])" in page
+    # 허가 색인은 첫 검색어 입력 때 한 번만 받고, 검색 키는 로드 시 1회 계산하며, 입력은 debounce 한다
+    assert "function ensureMfds()" in page and "fetch('mfds/search-index.json')" in page.split("function ensureMfds()")[1]
+    assert "fetch('mfds/search-index.json')" not in page.split("function ensureMfds()")[0]
+    assert "rows.map(searchableCriterion)" in page and "record.hay.includes(term)" in page
+    assert "setTimeout(render,150)" in page
+    # 데이터셋별 실패를 구분해 알린다
+    assert "급여기준 색인을 불러오지 못했습니다" in page and "허가 품목 색인을 불러오지 못했습니다" in page
+    # 상세 페이지 URL은 최신 제목이 아니라 항목 식별자에서 나온다
+    assert 'href="criteria/219-dapagliflozin%EA%B2%BD%EA%B5%AC%EC%A0%9C.html"' in page
     # 묶음 대표는 계층이 가장 좋은 품목이어야 한다
     assert "products.reduce((best,item)=>mfdsTier(item,terms||[])" in page
     # SEO: canonical·JSON-LD·크롤러 파일·정적 약제 목록
@@ -352,7 +347,7 @@ def test_static_page_has_footer_and_no_disclaimer(tmp_path, monkeypatch):
     assert "고시 제2024-1호" in detail
     assert "admRulLsInfoP.do?admRulSeq=seq-1" in detail
     assert 'rel="canonical"' in detail
-    assert f'href="criteria/{pages[0].name}"' in page.replace("dapagliflozin-%EA%B2%BD%EA%B5%AC%EC%A0%9C", pages[0].name.removesuffix(".html")) or "criteria/dapagliflozin" in page
+    assert pages[0].name == "219-dapagliflozin경구제.html"
     assert sitemap.count("<loc>") == 2
     assert "history.replaceState" in page
     # 시행일(2026-04-01·20260401)과 고시번호도 검색 대상에 포함된다
@@ -390,3 +385,101 @@ def test_cli_report_orders_newest_first_with_footer():
     assert report.index("새 제목") < report.index("옛 제목")
     assert "2026-03-01 시행 · 고시 제2026-42호" in report
     assert "관련 고시문 및 첨부자료 2건" in report
+
+
+def test_cli_query_follows_web_substring_contract(tmp_path, monkeypatch):
+    """CLI는 웹과 같은 규칙(대소문자 무시 부분문자열, 같은 필드, 검색어 간 OR)이어야 한다.
+
+    FTS5 단어 검색은 'dapa' 같은 앞부분, '다파글리플로진을' 같은 조사 붙은 한글, 분류 헤더를 놓쳤다.
+    """
+    import ingest
+
+    document = _search_db_document()
+    document["entries"][0]["body"] = "다파글리플로진을 투여할 때 급여 기준 본문"
+    database = tmp_path / "criteria.db"
+    monkeypatch.setattr(ingest, "DB_PATH", database)
+    ingest._rebuild_database([document])
+    monkeypatch.setattr(search, "DB_PATH", database)
+
+    for terms in (["dapa"], ["DAPAGLIFLOZIN"], ["다파글리플로진"], ["[219] 기타"], ["고시 제2026-92호"]):
+        assert [row["title"] for row in search.query(terms)] == ["Dapagliflozin 경구제"], terms
+    assert search.query(["없는말"]) == []
+    assert search.query([""]) == []
+    assert len(search.query(["없는말", "dapa"])) == 1
+
+
+def test_cli_haystack_matches_browser_search_key():
+    """파이썬 haystack과 브라우저 searchableCriterion은 같은 필드를 같은 순서·구분자로 잇는다."""
+    page = build_site.render_index_page([], "")
+    assert ("hay:(record.title+'\\n'+record.body+'\\n'+record.class_header+'\\n'"
+            "+dateLabel(record.effective_date)+'\\n'+record.effective_date+'\\n고시 제'+record.notice_number+'호')"
+            ".toLocaleLowerCase('ko')") in page
+    record = criterion_record("a", "20260401", "2026-92", title="Dapagliflozin 경구제", class_header="[219] 기타",
+                              notice_number="2026-92")
+    assert search.haystack(record) == "\n".join([
+        "Dapagliflozin 경구제", "Dapagliflozin 경구제 본문", "[219] 기타", "2026-04-01", "20260401", "고시 제2026-92호",
+    ])
+    assert search.matches(record, ["없는말", "DAPA"]) and not search.matches(record, ["없는말"])
+
+
+def test_collection_status_label_shows_last_attempt_and_failures():
+    label = build_site.collection_status_label('{"run_at":"2026-09-05T22:03:19Z","law":"failure","mfds":"success"}')
+    assert "마지막 수집 시도: 2026-09-06 07:03 KST" in label
+    assert '<span class="warn">법제처 실패</span>' in label and "식약처 성공" in label
+    assert build_site.collection_status_label(None) == ""
+    with pytest.raises(RuntimeError):
+        build_site.collection_status_label("not json")
+
+
+def test_index_footer_includes_collection_status(tmp_path, monkeypatch):
+    normalized = tmp_path / "normalized"
+    normalized.mkdir()
+    (normalized / "seq-1.json").write_text(json.dumps(normalized_document(), ensure_ascii=False), encoding="utf-8")
+    monkeypatch.setattr(build_site, "NORMALIZED", normalized)
+    monkeypatch.setattr(build_site, "PUBLIC", tmp_path / "public")
+    monkeypatch.setenv("COLLECTION_STATUS", '{"run_at":"2026-09-05T22:03:19Z","law":"failure","mfds":"failure"}')
+    build_site.main()
+    page = (tmp_path / "public" / "index.html").read_text(encoding="utf-8")
+    detail = next((tmp_path / "public" / "criteria").glob("*.html")).read_text(encoding="utf-8")
+    for content in (page, detail):
+        assert "최근 갱신: 2024-12-31" in content
+        assert "마지막 수집 시도: 2026-09-06 07:03 KST" in content and "식약처 실패" in content
+
+
+def test_identity_slug_is_stable_across_title_changes(tmp_path, monkeypatch):
+    """같은 항목의 최신 품명이 바뀌어도 상세 페이지 URL은 그대로여야 한다(기존 URL 404 방지)."""
+    normalized = tmp_path / "normalized"
+    normalized.mkdir()
+    first = normalized_document()
+    (normalized / "seq-1.json").write_text(json.dumps(first, ensure_ascii=False), encoding="utf-8")
+    monkeypatch.setattr(build_site, "NORMALIZED", normalized)
+    monkeypatch.setattr(build_site, "PUBLIC", tmp_path / "public")
+    build_site.main()
+    before = sorted(p.name for p in (tmp_path / "public" / "criteria").glob("*.html"))
+
+    second = normalized_document()
+    second["version"] = {**second["version"], "시행일자": "20260301", "발령번호": "2026-42", "행정규칙일련번호": "seq-2"}
+    second["entries"][0]["title"] = "Dapagliflozin 경구제 (품명: 포시가정 10밀리그램 등)"
+    (normalized / "seq-2.json").write_text(json.dumps(second, ensure_ascii=False), encoding="utf-8")
+    build_site.main()
+    after = sorted(p.name for p in (tmp_path / "public" / "criteria").glob("*.html"))
+
+    assert before == after == ["219-dapagliflozin경구제.html"]
+    assert build_site.identity_slug("[일반원칙]고가의약품") == "일반원칙-고가의약품"
+
+
+def test_colliding_slugs_get_order_independent_suffixes():
+    """Ⅷ/Ⅸ처럼 슬러그가 겹치는 식별자는 정렬 순서와 무관하게 각자 고정 URL을 가져야 한다."""
+    a = "[339]recombinantbloodcoagulationfactorⅷ-fcfusionproteinefmoroctocogα주사제"
+    b = "[339]recombinantbloodcoagulationfactorⅸ-fcfusionproteineftrenonacogα주사제"
+    # NFKC가 Ⅷ→viii, Ⅸ→ix로 풀어 슬러그가 애초에 다르다
+    assert build_site.identity_slug(a) != build_site.identity_slug(b)
+    assert build_site.identity_slug(a).startswith("339-recombinantbloodcoagulationfactorviii")
+    # 그래도 겹치는 경우(예: 특수문자만 다른 식별자)는 양쪽 모두 해시 접미어를 받는다
+    c, d = "[100]drug+a", "[100]drug-a"
+    assert build_site.identity_slug(c) == build_site.identity_slug(d)
+    forward = build_site.page_slugs([c, d])
+    backward = build_site.page_slugs([d, c])
+    assert forward == backward
+    assert forward[c] != forward[d] and all(slug.startswith("100-drug-a-") for slug in forward.values())
+    assert build_site.page_slugs([c]) == {c: "100-drug-a"}

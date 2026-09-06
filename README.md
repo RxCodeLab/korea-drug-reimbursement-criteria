@@ -29,4 +29,8 @@ dapagliflozin
 
 ## 자료 갱신
 
-매일 새 고시가 있는지 확인하고 검증을 통과한 자료만 검색 결과에 반영합니다. 갱신 과정에서 문제가 발견되면 마지막으로 정상 확인된 자료를 유지합니다.
+매일 새 고시가 있는지 확인하고 검증을 통과한 자료만 검색 결과에 반영합니다. 갱신 과정에서 문제가 발견되면 마지막으로 정상 확인된 자료를 유지합니다. 상위 기관 수집이 실패한 날은 검색 페이지 아래에 마지막 수집 시도 결과를 표시하고, 이 저장소에 `upstream-failure` 라벨의 issue로 기록합니다.
+
+## 데이터 내려받기
+
+검증을 통과한 자료는 [Releases](https://github.com/RxCodeLab/korea-drug-reimbursement-criteria/releases)에 SQLite 스냅샷(`criteria.db`)으로도 공개됩니다. `versions`·`attachments`·`entries` 테이블과, `entries`의 제목·본문을 색인한 FTS5 가상 테이블 `fts`(`SELECT rowid FROM fts WHERE fts MATCH '다파글리플로진'`)를 직접 질의할 수 있습니다.

@@ -1,31 +1,51 @@
 from __future__ import annotations
 
+import hashlib
 import json
+import os
 import re
 import shutil
-from pathlib import Path
+import unicodedata
+from datetime import datetime, timedelta, timezone
 from urllib.parse import quote
 
 from html import escape as html_escape
 
 from common import BASE, DATA
+from search import ACTION_LABELS, ROLE_ORDER
 
 NORMALIZED = DATA / "normalized"
 MFDS_ITEMS = DATA / "mfds" / "items"
 PUBLIC = BASE / "public"
 SITE_URL = "https://rxcodelab.github.io/korea-drug-reimbursement-criteria/"
 REPO_URL = "https://github.com/RxCodeLab/korea-drug-reimbursement-criteria"
-FOOTER_LABEL_PLACEHOLDER = "__LATEST_NOTICE__"
+FOOTER_LABEL_PLACEHOLDER = "__FOOTER_LABEL__"
 MAX_BODY_CHARS = 50_000
+# 허가 색인 행의 열 순서. 브라우저는 이 순서로 객체를 복원한다. 24,596행이라 키 이름을 행마다 싣지 않는다.
+MFDS_INDEX_FIELDS = (
+    "item_seq", "item_name", "entp_name", "main_item_ingr", "main_item_ingr_eng",
+    "permit_date", "revision_count", "content_key",
+)
+MFDS_CONTENT_KEY_CHARS = 12
+KST = timezone(timedelta(hours=9))
 
-def build_index() -> list[dict]:
-    records: list[dict] = []
+
+def load_normalized() -> list[dict]:
+    """정규화 문서를 한 번만 읽는다. 색인·목록·상세 페이지·최근 갱신 문구가 모두 이 목록을 쓴다."""
     if not NORMALIZED.is_dir():
-        return records
+        return []
+    documents = []
     for path in sorted(NORMALIZED.glob("*.json")):
         document = json.loads(path.read_text(encoding="utf-8"))
         if document.get("complete") is not True:
             raise RuntimeError(f"내용이 온전하지 않은 정규화 문서입니다: {path}")
+        documents.append(document)
+    return documents
+
+
+def build_index(documents: list[dict]) -> list[dict]:
+    records: list[dict] = []
+    for document in documents:
         version = document["version"]
         attachments = {a["ordinal"]: a for a in document["attachments"]}
         for entry in document["entries"]:
@@ -48,44 +68,44 @@ def build_index() -> list[dict]:
                 "ordinal": source["ordinal"],
             })
     return sorted(records, key=lambda r: (r["key"], r["effective_date"], r["sequence"], r["source_sha256"]))
+
+
 def _compact_json(value: object) -> str:
     return json.dumps(value, ensure_ascii=False, sort_keys=True, separators=(",", ":")) + "\n"
 
 
-def build_mfds_public() -> list[dict]:
-    index: list[dict] = []
+def build_mfds_public() -> list[list[object]]:
+    """허가 품목 색인(열 배열)과 품목별 상세 JSON을 쓴다."""
+    rows: list[list[object]] = []
     output = PUBLIC / "mfds"
     if output.exists():
         shutil.rmtree(output)
     output.mkdir(parents=True)
     if not MFDS_ITEMS.is_dir():
-        (output / "search-index.json").write_text(_compact_json(index), encoding="utf-8")
-        return index
+        (output / "search-index.json").write_text(_compact_json({"fields": list(MFDS_INDEX_FIELDS), "rows": rows}), encoding="utf-8")
+        return rows
     items_dir = output / "items"
     for path in sorted(MFDS_ITEMS.glob("*.json")):
         record = json.loads(path.read_text(encoding="utf-8"))
         if record.get("complete") is not True:
             raise RuntimeError(f"내용이 온전하지 않은 MFDS 항목입니다: {path}")
         revisions = record.get("revisions") or []
-        index.append({
-            "item_seq": record["item_seq"],
-            "item_name": record["item_name"],
-            "entp_name": record["entp_name"],
-            "main_item_ingr": record["main_item_ingr"],
-            "main_item_ingr_eng": record.get("main_item_ingr_eng", ""),
-            "status": record["status"],
-            "permit_date": record["permit_date"],
-            "revision_count": len(revisions),
-            "current_content_sha256": revisions[0]["content_sha256"] if revisions else "",
-            "last_observed_at": revisions[0]["last_observed_at"] if revisions else "",
-            "source_url": record["source_url"],
-        })
+        rows.append([
+            record["item_seq"],
+            record["item_name"],
+            record["entp_name"],
+            record["main_item_ingr"],
+            record.get("main_item_ingr_eng", ""),
+            record["permit_date"],
+            len(revisions),
+            revisions[0]["content_sha256"][:MFDS_CONTENT_KEY_CHARS] if revisions else "",
+        ])
         target = items_dir / path.name
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(_compact_json(record), encoding="utf-8")
-    index.sort(key=lambda r: (r["item_name"], r["item_seq"]))
-    (output / "search-index.json").write_text(_compact_json(index), encoding="utf-8")
-    return index
+    rows.sort(key=lambda r: (r[1], r[0]))
+    (output / "search-index.json").write_text(_compact_json({"fields": list(MFDS_INDEX_FIELDS), "rows": rows}), encoding="utf-8")
+    return rows
 
 
 HTML = r'''<!doctype html>
@@ -100,19 +120,20 @@ HTML = r'''<!doctype html>
 <link rel="canonical" href="https://rxcodelab.github.io/korea-drug-reimbursement-criteria/">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"약제 급여기준 변경 이력 검색","url":"https://rxcodelab.github.io/korea-drug-reimbursement-criteria/","description":"약제명과 성분명으로 보건복지부 약제 급여기준의 신설·변경·삭제 이력을 검색합니다.","inLanguage":"ko","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://rxcodelab.github.io/korea-drug-reimbursement-criteria/?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
 <style>
-body{font-family:system-ui,"Malgun Gothic",sans-serif;max-width:1000px;margin:2rem auto;padding:0 1rem;line-height:1.55;color:#1d2433}input{width:100%;box-sizing:border-box;padding:.8rem;font-size:1rem;border:1px solid #8993a4;border-radius:6px}.hint,.meta{color:#5b6575}.group{margin:1.5rem 0;border-top:2px solid #28364d}.group h2{font-size:1.15rem}details{border:1px solid #ccd2dc;border-radius:6px;margin:.5rem 0;padding:.5rem .8rem}summary{cursor:pointer;font-weight:600}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#f5f7fa;padding:.8rem}.badge{color:#a33;margin-left:.5rem}.revision{font-weight:700;margin:.6rem 0 .2rem}.empty{padding:2rem 0;color:#5b6575}.related{margin-top:2rem;border-color:#8993a4}.related>.group{margin-left:.5rem}.catalog{margin-top:2rem;color:#5b6575;font-size:.9rem}.catalog ul{columns:2;margin:.5rem 0;padding-left:1.2rem}footer{margin-top:2.5rem;padding-top:.8rem;border-top:1px solid #ccd2dc;color:#5b6575;font-size:.9rem}
+body{font-family:system-ui,"Malgun Gothic",sans-serif;max-width:1000px;margin:2rem auto;padding:0 1rem;line-height:1.55;color:#1d2433}input{width:100%;box-sizing:border-box;padding:.8rem;font-size:1rem;border:1px solid #8993a4;border-radius:6px}.hint,.meta{color:#5b6575}.group{margin:1.5rem 0;border-top:2px solid #28364d}.group h2{font-size:1.15rem}details{border:1px solid #ccd2dc;border-radius:6px;margin:.5rem 0;padding:.5rem .8rem}summary{cursor:pointer;font-weight:600}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#f5f7fa;padding:.8rem}.badge{color:#a33;margin-left:.5rem}.revision{font-weight:700;margin:.6rem 0 .2rem}.empty{padding:2rem 0;color:#5b6575}.related{margin-top:2rem;border-color:#8993a4}.related>.group{margin-left:.5rem}.catalog{margin-top:2rem;color:#5b6575;font-size:.9rem}.catalog ul{columns:2;margin:.5rem 0;padding-left:1.2rem}.warn{color:#a33}footer{margin-top:2.5rem;padding-top:.8rem;border-top:1px solid #ccd2dc;color:#5b6575;font-size:.9rem}
 </style></head><body>
 <h1>약제 급여기준 변경 이력 검색</h1><p class="hint">한글 또는 영문 검색어를 공백으로 나누어 입력하면, 하나라도 포함된 항목을 표시합니다.</p>
 <input id="q" type="search" autocomplete="off" placeholder="예: dapagliflozin 다파글리플로진" autofocus><p id="status" class="meta"></p><main id="results"></main>
 __DRUG_CATALOG__
-<footer>__LATEST_NOTICE__<a href="https://github.com/RxCodeLab/korea-drug-reimbursement-criteria">데이터 수집·검증 과정 보기</a></footer>
+<footer>__FOOTER_LABEL__<a href="https://github.com/RxCodeLab/korea-drug-reimbursement-criteria">데이터 수집·검증 과정 보기</a></footer>
 <script>
-const q=document.querySelector('#q'),status=document.querySelector('#status'),root=document.querySelector('#results');let rows=[],mfdsRows=null;
+const q=document.querySelector('#q'),status=document.querySelector('#status'),root=document.querySelector('#results');
 const el=(tag,text,cls)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n};
-const actionLabels={notice:'고시문',comparison:'변경대비표',reason:'개정이유',qa:'질의응답',transition:'경과규정',other:'기타자료',annex:'별지','':'기준'};
+const actionLabels=__ACTION_LABELS__;
 const actionLabel=action=>actionLabels[action]??action;
-const roleRanks={notice:0,reason:1,comparison:2,annex:3,transition:4,qa:5,other:6};
-const roleRank=role=>roleRanks[role]??7;
+const roleRanks=__ROLE_RANKS__;
+const roleRank=role=>roleRanks[role]??Object.keys(roleRanks).length;
+const MFDS_DETAIL_URL='https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=';
 const dateLabel=date=>`${date.slice(0,4)}-${date.slice(4,6)}-${date.slice(6)}`;
 const versionHeader=record=>`${dateLabel(record.effective_date)} 시행 · 고시 제${record.notice_number}호`;
 const noticeLink=seq=>{const a=el('a','국가법령정보센터 원문');a.href=`https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=${encodeURIComponent(seq)}`;a.target='_blank';a.rel='noopener';return a};
@@ -120,7 +141,10 @@ const byNewest=(a,b)=>b.effective_date.localeCompare(a.effective_date)||b.sequen
 const byRole=(a,b)=>roleRank(a.role)-roleRank(b.role)||a.ordinal-b.ordinal;
 const baseName=name=>name.replace(/[(].*$/,'');
 const brandName=name=>baseName(name).replace(/[0-9][0-9./]*(밀리그램|밀리그람|그램|그람|밀리리터|리터|마이크로그램|mg|㎎|ml|㎖|g|iu|%|만단위|단위).*$/i,'').trim().toLocaleLowerCase('ko');
-const mfdsTier=(item,terms)=>{const brand=brandName(item.item_name),name=item.item_name.toLocaleLowerCase('ko'),exact=(item.entp_name+'|'+item.main_item_ingr+'|'+item.main_item_ingr_eng).toLocaleLowerCase('ko');if(terms.some(t=>brand===t))return 0;if(terms.some(t=>brand.startsWith(t)))return 1;if(terms.some(t=>name.includes(t)))return 2;if(terms.some(t=>exact.includes(t)))return 3;return 4};
+// 검색 키는 로드 시 한 번만 계산한다. 키 입력마다 2만 행의 문자열을 다시 만들면 입력이 끊긴다.
+const searchableCriterion=record=>({...record,hay:(record.title+'\n'+record.body+'\n'+record.class_header+'\n'+dateLabel(record.effective_date)+'\n'+record.effective_date+'\n고시 제'+record.notice_number+'호').toLocaleLowerCase('ko')});
+const searchableMfds=item=>({...item,source_url:MFDS_DETAIL_URL+encodeURIComponent(item.item_seq),brand:brandName(item.item_name),nameKey:item.item_name.toLocaleLowerCase('ko'),exactKey:(item.entp_name+'|'+item.main_item_ingr+'|'+item.main_item_ingr_eng).toLocaleLowerCase('ko')});
+const mfdsTier=(item,terms)=>{if(terms.some(t=>item.brand===t))return 0;if(terms.some(t=>item.brand.startsWith(t)))return 1;if(terms.some(t=>item.nameKey.includes(t)))return 2;if(terms.some(t=>item.exactKey.includes(t)))return 3;return 4};
 const distinctClassHeader=record=>{const header=record.class_header.replace(/^\[[^\]]+\]\s*/,'').replace(/\s+/g,''),title=record.title.replace(/\s+/g,'');return header&&!header.startsWith(title)&&!title.startsWith(header)};
 const TRUNCATED='\n\n[검색 색인에는 본문 일부만 표시됩니다. 전체 내용은 DB에서 확인하세요.]';
 function groupsBy(records,field){const groups=new Map();for(const record of records){if(!groups.has(record[field]))groups.set(record[field],[]);groups.get(record[field]).push(record)}return[...groups.values()]}
@@ -132,7 +156,7 @@ function indicationGroups(items){
   const ingredients=groupsBy(items,'main_item_ingr');
   return ingredients.map(products=>({
     ingredient:products[0].main_item_ingr||'성분 미상',
-    groups:groupsBy(products,'current_content_sha256').map(group=>group.sort((a,b)=>{
+    groups:groupsBy(products,'content_key').map(group=>group.sort((a,b)=>{
       const aDate=a.permit_date||'99999999',bDate=b.permit_date||'99999999';
       return aDate.localeCompare(bDate)||a.item_name.localeCompare(b.item_name);
     }))
@@ -183,19 +207,27 @@ function appendMfds(items,container,terms){
   }
   container.append(section);
 }
-function render(){const terms=q.value.trim().toLocaleLowerCase('ko').split(/\s+/).filter(Boolean);root.replaceChildren();if(!terms.length){status.textContent=`전체 ${rows.length.toLocaleString()}개 항목`;root.append(el('p','검색어를 입력해 주세요.','empty'));return}const hits=rows.filter(record=>{const hay=(record.title+'\n'+record.body+'\n'+record.class_header+'\n'+dateLabel(record.effective_date)+'\n'+record.effective_date+'\n고시 제'+record.notice_number+'호').toLocaleLowerCase('ko');return terms.some(term=>hay.includes(term))});const criteria=hits.filter(record=>record.class_no),documents=hits.filter(record=>!record.class_no),criterionGroups=groupCriteria(criteria),documentGroups=groupDocuments(documents),mfdsItems=(()=>{let pairs=(mfdsRows||[]).map(item=>[mfdsTier(item,terms),item]).filter(pair=>pair[0]<4);if(pairs.some(pair=>pair[0]===0))pairs=pairs.filter(pair=>pair[0]===0);return pairs.sort((a,b)=>a[0]-b[0]).map(pair=>pair[1])})();status.textContent=`급여기준 ${criterionGroups.length.toLocaleString()}개 · 개정 이력 ${criteria.length.toLocaleString()}건 · 관련 문서 ${documents.length.toLocaleString()}건${mfdsRows?` · 허가 품목 ${mfdsItems.length.toLocaleString()}개`:''}`;appendCriteria(criterionGroups,root);if(mfdsItems.length)appendMfds(mfdsItems,root,terms);if(documents.length){const related=el('details',undefined,'related');related.append(el('summary',`관련 고시문 및 첨부자료 ${documents.length.toLocaleString()}건`));appendDocuments(documentGroups,related);root.append(related)}}
+// 데이터셋별 로딩 상태. 실패는 조용히 넘기지 않고 status 문구에 남긴다.
+const data={criteria:{rows:null,state:'loading'},mfds:{rows:null,state:'idle'}};
+function stateNote(){const notes=[];if(data.criteria.state==='failed')notes.push('급여기준 색인을 불러오지 못했습니다');if(data.mfds.state==='failed')notes.push('허가 품목 색인을 불러오지 못했습니다');if(data.mfds.state==='loading')notes.push('허가 품목 불러오는 중…');return notes.length?` · ${notes.join(' · ')}`:''}
+function render(){const terms=q.value.trim().toLocaleLowerCase('ko').split(/\s+/).filter(Boolean);root.replaceChildren();const rows=data.criteria.rows||[];if(!terms.length){status.textContent=`전체 ${rows.length.toLocaleString()}개 항목${stateNote()}`;root.append(el('p','검색어를 입력해 주세요.','empty'));return}ensureMfds();const hits=rows.filter(record=>terms.some(term=>record.hay.includes(term)));const criteria=hits.filter(record=>record.class_no),documents=hits.filter(record=>!record.class_no),criterionGroups=groupCriteria(criteria),documentGroups=groupDocuments(documents);
+// 정확 일치는 순위만 올린다. 정확 일치가 있다고 다른 검색어의 결과를 지우면 안내한 OR 검색과 어긋난다.
+const mfdsItems=(data.mfds.rows||[]).map(item=>[mfdsTier(item,terms),item]).filter(pair=>pair[0]<4).sort((a,b)=>a[0]-b[0]).map(pair=>pair[1]);status.textContent=`급여기준 ${criterionGroups.length.toLocaleString()}개 · 개정 이력 ${criteria.length.toLocaleString()}건 · 관련 문서 ${documents.length.toLocaleString()}건${data.mfds.rows?` · 허가 품목 ${mfdsItems.length.toLocaleString()}개`:''}${stateNote()}`;appendCriteria(criterionGroups,root);if(mfdsItems.length)appendMfds(mfdsItems,root,terms);if(documents.length){const related=el('details',undefined,'related');related.append(el('summary',`관련 고시문 및 첨부자료 ${documents.length.toLocaleString()}건`));appendDocuments(documentGroups,related);root.append(related)}}
 const initialQuery=new URLSearchParams(location.search).get('q');if(initialQuery)q.value=initialQuery;
 const syncUrl=()=>{const term=q.value.trim();history.replaceState(null,'',term?`?q=${encodeURIComponent(term)}`:location.pathname)};
-fetch('search-index.json').then(r=>{if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json()}).then(data=>{rows=data;render()}).catch(e=>{status.textContent='검색 자료를 불러오지 못했습니다.';console.error(e)});q.addEventListener('input',()=>{syncUrl();render()});
-fetch('mfds/search-index.json').then(r=>{if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json()}).then(data=>{mfdsRows=data;render()}).catch(()=>{mfdsRows=null});
+let renderTimer=null;const scheduleRender=()=>{clearTimeout(renderTimer);renderTimer=setTimeout(render,150)};
+fetch('search-index.json').then(r=>{if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json()}).then(rows=>{data.criteria={rows:rows.map(searchableCriterion),state:'ready'};render()}).catch(e=>{data.criteria={rows:[],state:'failed'};render();console.error(e)});
+// 허가 색인은 급여 색인보다 크므로 첫 검색어가 들어올 때 한 번만 받는다.
+function ensureMfds(){if(data.mfds.state!=='idle')return;data.mfds.state='loading';fetch('mfds/search-index.json').then(r=>{if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json()}).then(index=>{const fields=index.fields;data.mfds={rows:index.rows.map(row=>searchableMfds(Object.fromEntries(fields.map((field,i)=>[field,row[i]])))),state:'ready'};render()}).catch(e=>{data.mfds={rows:null,state:'failed'};render();console.error(e)})}
+q.addEventListener('input',()=>{syncUrl();scheduleRender()});
 </script></body></html>'''
 
 
-def latest_notice_label() -> str:
+def latest_notice_label(documents: list[dict]) -> str:
     """수록된 가장 최근 발령 고시로 '최근 갱신' 문구를 만든다. 자료가 없으면 빈 문자열."""
     latest = ("", "")
-    for path in sorted(NORMALIZED.glob("*.json")) if NORMALIZED.is_dir() else []:
-        version = json.loads(path.read_text(encoding="utf-8")).get("version") or {}
+    for document in documents:
+        version = document.get("version") or {}
         key = (str(version.get("발령일자") or ""), str(version.get("발령번호") or ""))
         if key[0] > latest[0]:
             latest = key
@@ -203,6 +235,24 @@ def latest_notice_label() -> str:
         return ""
     date = f"{latest[0][:4]}-{latest[0][4:6]}-{latest[0][6:8]}"
     return f"최근 갱신: {date} · "
+
+
+def collection_status_label(raw: str | None) -> str:
+    """워크플로가 COLLECTION_STATUS로 넘긴 마지막 수집 시도 결과. 수집 실패를 발령일자 뒤에 숨기지 않는다."""
+    if not raw:
+        return ""
+    try:
+        status = json.loads(raw)
+        run_at = datetime.fromisoformat(str(status["run_at"]).replace("Z", "+00:00")).astimezone(KST)
+    except (ValueError, KeyError, TypeError):
+        raise RuntimeError(f"COLLECTION_STATUS 형식이 잘못되었습니다: {raw!r}") from None
+    labels = {"success": "성공", "failure": "실패", "skipped": "건너뜀", "cancelled": "취소"}
+    parts = [f"마지막 수집 시도: {run_at.strftime('%Y-%m-%d %H:%M')} KST"]
+    for key, name in (("law", "법제처"), ("mfds", "식약처")):
+        outcome = str(status.get(key) or "")
+        label = labels.get(outcome, outcome or "?")
+        parts.append(f"{name} {label}" if outcome == "success" else f'<span class="warn">{name} {html_escape(label)}</span>')
+    return " · ".join(parts) + " · "
 
 
 SLUG_STRIP = re.compile("[^0-9a-z가-힣]+")
@@ -214,16 +264,36 @@ def slugify(title: str) -> str:
     return slug[:80].rstrip("-") or "criteria"
 
 
-def criteria_groups() -> list[list[dict]]:
+def identity_slug(block_identity: str) -> str:
+    """항목 식별자(block_identity)로 만든 슬러그. 최신 품명이 바뀌어도 URL이 유지된다.
+
+    NFKC로 Ⅷ→VIII 같은 호환 문자를 풀어 혐액응고인자 Ⅷ/Ⅸ처럼 로마숫자만 다른 식별자가 같은 슬러그로 무너지지 않게 한다.
+    """
+    return slugify(unicodedata.normalize("NFKC", block_identity).replace("[", "").replace("]", "-"))
+
+
+def page_slugs(identities: list[str]) -> dict[str, str]:
+    """식별자별 페이지 슬러그. 슬러그가 겹치는 식별자는 양쪽 모두 식별자 해시를 붙여, 정렬 순서와 무관하게 URL이 고정된다."""
+    base = {identity: identity_slug(identity) for identity in identities}
+    counts: dict[str, int] = {}
+    for slug in base.values():
+        counts[slug] = counts.get(slug, 0) + 1
+    return {
+        identity: slug if counts[slug] == 1 else f"{slug}-{hashlib.sha256(identity.encode('utf-8')).hexdigest()[:6]}"
+        for identity, slug in base.items()
+    }
+
+
+def criteria_groups(documents: list[dict]) -> list[list[dict]]:
     """항목(block_identity)별 급여기준 개정 전문을 최신 순으로 묶는다."""
     groups: dict[str, list[dict]] = {}
-    for path in sorted(NORMALIZED.glob("*.json")) if NORMALIZED.is_dir() else []:
-        document = json.loads(path.read_text(encoding="utf-8"))
+    for document in documents:
         version = document["version"]
         for entry in document["entries"]:
             if not entry["class_no"]:
                 continue
             groups.setdefault(entry["block_identity"], []).append({
+                "identity": entry["block_identity"],
                 "title": entry["title"],
                 "class_header": entry["class_header"],
                 "action": entry["action"],
@@ -261,7 +331,7 @@ def criteria_page(newest: dict, items: list[dict], url_path: str) -> str:
         '.meta{color:#5b6575}article{border:1px solid #ccd2dc;border-radius:6px;'
         'margin:1rem 0;padding:.8rem}h2{font-size:1.05rem;margin:.2rem 0}'
         'pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#f5f7fa;padding:.8rem}'
-        'footer{margin-top:2.5rem;padding-top:.8rem;border-top:1px solid #ccd2dc;'
+        '.warn{color:#a33}footer{margin-top:2.5rem;padding-top:.8rem;border-top:1px solid #ccd2dc;'
         'color:#5b6575;font-size:.9rem}</style></head><body>',
         f"<h1>{html_escape(title)}</h1>",
     ]
@@ -285,22 +355,19 @@ def criteria_page(newest: dict, items: list[dict], url_path: str) -> str:
     return chr(10).join(parts)
 
 
-def build_criteria_pages() -> list[tuple[str, str]]:
+def build_criteria_pages(documents: list[dict], footer_label: str) -> list[tuple[str, str]]:
     """항목별 정적 페이지를 쓰고 (제목, 상대 URL) 목록을 돌려준다."""
     output = PUBLIC / "criteria"
     if output.exists():
         shutil.rmtree(output)
     entries: list[tuple[str, str]] = []
-    used: dict[str, int] = {}
-    label = latest_notice_label()
-    for items in criteria_groups():
+    groups = criteria_groups(documents)
+    slugs = page_slugs([items[0]["identity"] for items in groups])
+    for items in groups:
         newest = items[0]
-        slug = slugify(newest["title"])
-        used[slug] = used.get(slug, 0) + 1
-        if used[slug] > 1:
-            slug = f"{slug}-{used[slug]}"
+        slug = slugs[newest["identity"]]
         url_path = f"criteria/{quote(slug)}.html"
-        page = criteria_page(newest, items, url_path).replace(FOOTER_LABEL_PLACEHOLDER, label)
+        page = criteria_page(newest, items, url_path).replace(FOOTER_LABEL_PLACEHOLDER, footer_label)
         output.mkdir(parents=True, exist_ok=True)
         (output / f"{slug}.html").write_text(page + chr(10), encoding="utf-8")
         entries.append((newest["title"], url_path))
@@ -336,17 +403,27 @@ def write_crawler_files(page_urls: list[str]) -> None:
     (PUBLIC / "robots.txt").write_text(chr(10).join(robots_lines), encoding="utf-8")
 
 
+def render_index_page(catalog: list[tuple[str, str]], footer_label: str) -> str:
+    role_ranks = {role: rank for rank, role in enumerate(ROLE_ORDER)}
+    return (
+        HTML.replace("__ACTION_LABELS__", json.dumps(ACTION_LABELS, ensure_ascii=False, separators=(",", ":")))
+        .replace("__ROLE_RANKS__", json.dumps(role_ranks, ensure_ascii=False, separators=(",", ":")))
+        .replace(FOOTER_LABEL_PLACEHOLDER, footer_label)
+        .replace("__DRUG_CATALOG__", static_drug_list(catalog))
+    )
+
+
 def main() -> None:
     PUBLIC.mkdir(parents=True, exist_ok=True)
-    index = build_index()
-    mfds_index = build_mfds_public()
+    documents = load_normalized()
+    index = build_index(documents)
+    mfds_rows = build_mfds_public()
     (PUBLIC / "search-index.json").write_text(_compact_json(index), encoding="utf-8")
-    page = HTML.replace("__LATEST_NOTICE__", latest_notice_label())
-    catalog = build_criteria_pages()
-    page = page.replace("__DRUG_CATALOG__", static_drug_list(catalog))
+    footer_label = latest_notice_label(documents) + collection_status_label(os.environ.get("COLLECTION_STATUS"))
+    catalog = build_criteria_pages(documents, footer_label)
     write_crawler_files([SITE_URL] + [SITE_URL + path for _, path in catalog])
-    (PUBLIC / "index.html").write_text(page + "\n", encoding="utf-8")
-    print(f"검색 항목 {len(index)}개, 허가 품목 {len(mfds_index)}개, 기준 페이지 {len(catalog)}개를 {PUBLIC}에 생성했습니다.")
+    (PUBLIC / "index.html").write_text(render_index_page(catalog, footer_label) + "\n", encoding="utf-8")
+    print(f"검색 항목 {len(index)}개, 허가 품목 {len(mfds_rows)}개, 기준 페이지 {len(catalog)}개를 {PUBLIC}에 생성했습니다.")
 
 
 if __name__ == "__main__":
