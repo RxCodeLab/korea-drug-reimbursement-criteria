@@ -20,12 +20,16 @@ SITE_URL = "https://rxcodelab.github.io/korea-drug-reimbursement-criteria/"
 REPO_URL = "https://github.com/RxCodeLab/korea-drug-reimbursement-criteria"
 FOOTER_LABEL_PLACEHOLDER = "__FOOTER_LABEL__"
 MAX_BODY_CHARS = 50_000
-# 허가 색인 행의 열 순서. 브라우저는 이 순서로 객체를 복원한다. 24,596행이라 키 이름을 행마다 싣지 않는다.
+# 허가 색인 행의 열 순서. 브라우저는 이 순서로 객체를 복원한다. 수만 행(전량 수집 기준 약 4만건)이라 키 이름을 행마다 싣지 않는다.
 MFDS_INDEX_FIELDS = (
     "item_seq", "item_name", "entp_name", "main_item_ingr", "main_item_ingr_eng",
     "permit_date", "revision_count", "content_key",
 )
 MFDS_CONTENT_KEY_CHARS = 12
+# ee_text에 남은 진짜 HTML 태그와 미해제 엔티티. normalize_ee가 v3에서 이 둘 다 정리하지만,
+# 재수집이 아직 안 된 예전 레코드는 이것이 남아 있을 수 있다(실측: 26,168건 중 1건).
+EE_TAG = re.compile(r"<[a-zA-Z/][^>]*>")
+EE_ENTITY = re.compile(r"&[a-zA-Z#][a-zA-Z0-9]*;")
 
 
 def load_normalized() -> list[dict]:
@@ -72,28 +76,31 @@ def _compact_json(value: object) -> str:
     return json.dumps(value, ensure_ascii=False, sort_keys=True, separators=(",", ":")) + "\n"
 
 
-def is_currently_matched(record: dict) -> bool:
-    """저장된 품목이 현재 고시 매칭 대상으로 재수집된 적이 있는지 저장 파일만으로 판별한다.
+def has_clean_current_text(record: dict) -> bool:
+    """현행(revisions[0]) 효능·효과 본문이 게시 가능한 상태인지 판별한다.
 
-    fetch_mfds.merge_item은 병합할 때마다(신규·변경·무변경 불문) revisions[0]에
-    NORMALIZER_VERSION을 적어 넣는다 — 이 필드가 있다는 것은 전량 열거 + 로컬 매칭
-    체제에서 이 품목이 실제로 매칭되어 처리됐다는 뜻이다. 검색어 API 시절에 모여
-    그 뒤로 한 번도 재수집되지 않은 레코드는 이 필드가 없다(실측: 26,168건 중
-    18,931건이 여기 해당하고, 그중 128건은 옛 파싱 버그로 본문이 깨져 있다).
-    빌드 시점에는 우주 목록이 없어 mfds_match.match_terms를 다시 돌릴 수 없으므로
-    이 저장 시점 표시로 판별한다.
+    수집 범위가 고시 매칭 품목에서 식약처 허가 전량으로 바뀌면서(사용자 결정: 급여
+    여부와 무관하게 모두 게시), 수집된 모든 품목을 게시한다. 유일한 예외는 다음
+    한 가지다: normalize_ee 구버전(v3 이전)이 만든 텍스트가 아직 재수집되지 않은 채
+    남아 있으면(실측: 26,168건 중 1건, 단일 사례에서 HTML 태그·미해제 엔티티가 그대로 남았다)
+    그 문자열 자체가 깨져 있어 게시하지 않는다. 재수집되면(리더가 별도로 실행)
+    NORMALIZER_VERSION=3이 기록되며 텍스트도 갱신되어 자동으로 게시 대상에 들어온다 —
+    저장 파일 자체는 지우지 않아 이 함수가 다음 빌드에서 자동으로 다시 포함한다.
     """
     revisions = record.get("revisions") or []
-    return bool(revisions) and bool(revisions[0].get("normalizer_version"))
+    if not revisions:
+        return False
+    text = str(revisions[0].get("ee_text") or "")
+    return not (EE_TAG.search(text) or EE_ENTITY.search(text))
 
 
 def build_mfds_public() -> list[list[object]]:
     """허가 품목 색인(열 배열)과 품목별 상세 JSON을 쓴다.
 
-    저장소에는 옛 검색어 방식 시절 수집된, 더는 고시 급여기준과 무관하다고 판정돼
-    갱신 대상에서 빠진 품목도 남아 있다(is_currently_matched 참고). 그런 품목은
-    낡거나(일부는 옛 파싱 버그로 본문이 깨져) 있어 게시하지 않는다 — 저장 파일
-    자체는 지우지 않아 다음에 고시가 개정돼 다시 매칭되면 그대로 재사용된다.
+    수집된(=EE_DOC_DATA가 있는) 모든 식약처 허가 품목을 게시한다 — 급여기준과
+    연결되는지는 더 이상 게시 조건이 아니다(사용자 결정). 단, 예전 파싱 버그로
+    본문이 깨진(태그·엔티티가 그대로 남은) 예전 레코드는 has_clean_current_text로 거른다
+    — 저장 파일 자체는 지우지 않아 다음 재수집이 텍스트를 고치면 그대로 게시 대상이 된다.
     """
     rows: list[list[object]] = []
     output = PUBLIC / "mfds"
@@ -108,7 +115,7 @@ def build_mfds_public() -> list[list[object]]:
         record = json.loads(path.read_text(encoding="utf-8"))
         if record.get("complete") is not True:
             raise RuntimeError(f"내용이 온전하지 않은 MFDS 항목입니다: {path}")
-        if not is_currently_matched(record):
+        if not has_clean_current_text(record):
             continue
         revisions = record.get("revisions") or []
         rows.append([
@@ -199,7 +206,7 @@ function loadMfdsItem(item,target,currentOnly){
 function appendMfds(items,container,terms){
   const section=el('section',undefined,'group mfds');
   section.append(el('h2','식약처 허가 적응증'));
-  section.append(el('p','효능·효과가 같은 품목은 함께 표시합니다.','meta'));
+  section.append(el('p','효능·효과가 같은 품목은 함께 표시합니다. 식약처 허가 품목 전체를 대상으로 하며, 건강보험 급여 여부와 무관합니다.','meta'));
   for(const ingredient of indicationGroups(items)){
     section.append(el('h3',ingredient.ingredient));
     for(const products of ingredient.groups){
@@ -444,7 +451,8 @@ def main() -> None:
     catalog = build_criteria_pages(documents, footer_label)
     write_crawler_files([SITE_URL] + [SITE_URL + path for _, path in catalog])
     (PUBLIC / "index.html").write_text(render_index_page(catalog, footer_label) + "\n", encoding="utf-8")
-    print(f"검색 항목 {len(index)}개, 허가 품목 {len(mfds_rows)}개, 기준 페이지 {len(catalog)}개를 {PUBLIC}에 생성했습니다.")
+    print(f"검색 항목 {len(index)}개, 식약처 허가 품목 {len(mfds_rows)}개(급여기준과 무관한 품목 포함), "
+          f"기준 페이지 {len(catalog)}개를 {PUBLIC}에 생성했습니다.")
 
 
 if __name__ == "__main__":

@@ -187,15 +187,19 @@ def test_build_index_adds_role_and_ordinal(tmp_path, monkeypatch):
     assert notice["ordinal"] == 2
 
 
-def test_is_currently_matched_requires_normalizer_version():
-    # normalizer_version이 없으면(옛 검색어 API 시절 수집, 재수집 안 됨) 게시 대상이 아니다.
-    assert not build_site.is_currently_matched({"revisions": [{"content_sha256": "a"}]})
-    assert not build_site.is_currently_matched({"revisions": []})
-    assert not build_site.is_currently_matched({})
-    assert build_site.is_currently_matched({"revisions": [{"normalizer_version": 3}]})
-    # 가장 최신(revisions[0]) 기준이다 — 과거 개정에 버전이 있어도 현행이 없으면 제외된다.
-    assert not build_site.is_currently_matched({
-        "revisions": [{"content_sha256": "a"}, {"normalizer_version": 3}],
+def test_has_clean_current_text_rejects_only_stale_markup_leftovers():
+    # 파손이 없으면(정상) 게시 대상이다.
+    assert build_site.has_clean_current_text({"revisions": [{"ee_text": "당뇨병"}]})
+    assert build_site.has_clean_current_text({"revisions": [{"ee_text": ""}]})
+    # revisions 자체가 없으면 게시 대상이 아니다.
+    assert not build_site.has_clean_current_text({"revisions": []})
+    assert not build_site.has_clean_current_text({})
+    # 현행(revisions[0]) 텍스트에 예전 파싱 버그의 HTML 태그·미해제 엔티티가 남아 있으면 게시하지 않는다.
+    assert not build_site.has_clean_current_text({"revisions": [{"ee_text": "위<sup>.</sup>십이지장굴양"}]})
+    assert not build_site.has_clean_current_text({"revisions": [{"ee_text": "&nbsp;적응증"}]})
+    # 과거 개정에 깨진 텍스트가 있어도 현행이 깨끗하면 게시 대상이다.
+    assert build_site.has_clean_current_text({
+        "revisions": [{"ee_text": "깨끗함"}, {"ee_text": "<sup>깨짐</sup>"}],
     })
 
 
@@ -227,8 +231,10 @@ def test_build_mfds_public_writes_search_and_detail_indexes(tmp_path, monkeypatc
             "last_observed_at": "2026-08-21T01:00:00Z",
         }],
     }
-    unmatched_item = {**item, "item_seq": "202600002", "item_name": "검토대상아님"}
-    unmatched_item["revisions"] = [{
+    # normalizer_version이 없는(옛 검색어 API 시절 수집, 아직 재수집 안 됨) 품목도 게시 대상이다 —
+    # 급여기준과의 연결 여부는 더 이상 게시 조건이 아니다. ee_text가 깨끗하면(태그·엔티티 잔존 없음) 실린다.
+    unrematched_item = {**item, "item_seq": "202600002", "item_name": "무관 품목"}
+    unrematched_item["revisions"] = [{
         "revision_id": "202600002-" + "b" * 8,
         "content_sha256": "b" * 64,
         "ee_text": "무관 품목",
@@ -236,22 +242,35 @@ def test_build_mfds_public_writes_search_and_detail_indexes(tmp_path, monkeypatc
         "first_observed_at": "2026-08-21T00:00:00Z",
         "last_observed_at": "2026-08-21T01:00:00Z",
     }]
+    # 옛 파싱 버그로 본문에 HTML 태그가 그대로 남은 레코드는 재수집 전까지 게시하지 않는다.
+    broken_item = {**item, "item_seq": "202600003", "item_name": "깨진 품목"}
+    broken_item["revisions"] = [{
+        "revision_id": "202600003-" + "c" * 8,
+        "content_sha256": "c" * 64,
+        "ee_text": "위<sup>.</sup>십이지장궤양",
+        "ee_doc_id": "EE-3",
+        "first_observed_at": "2026-08-21T00:00:00Z",
+        "last_observed_at": "2026-08-21T01:00:00Z",
+    }]
     (source / "202600001.json").write_text(json.dumps(item, ensure_ascii=False), encoding="utf-8")
-    (source / "202600002.json").write_text(json.dumps(unmatched_item, ensure_ascii=False), encoding="utf-8")
+    (source / "202600002.json").write_text(json.dumps(unrematched_item, ensure_ascii=False), encoding="utf-8")
+    (source / "202600003.json").write_text(json.dumps(broken_item, ensure_ascii=False), encoding="utf-8")
     monkeypatch.setattr(build_site, "MFDS_ITEMS", source)
     monkeypatch.setattr(build_site, "PUBLIC", public)
 
     index = build_site.build_mfds_public()
 
-    assert index == [[
-        "202600001", "시험약", "시험제약", "Dapagliflozin", "Dapagliflozin", "20260101", 1, "a" * 12,
-    ]]
+    assert index == [
+        ["202600002", "무관 품목", "시험제약", "Dapagliflozin", "Dapagliflozin", "20260101", 1, "b" * 12],
+        ["202600001", "시험약", "시험제약", "Dapagliflozin", "Dapagliflozin", "20260101", 1, "a" * 12],
+    ]
     written = json.loads((public / "mfds" / "search-index.json").read_text(encoding="utf-8"))
     assert written == {"fields": list(build_site.MFDS_INDEX_FIELDS), "rows": index}
     assert "status" not in written["fields"] and "last_observed_at" not in written["fields"] and "source_url" not in written["fields"]
     assert json.loads((public / "mfds" / "items" / "202600001.json").read_text(encoding="utf-8")) == item
-    # 재수집된 적 없는(normalizer_version 없는) 품목은 색인과 상세 어느 쪽에도 실리지 않는다.
-    assert not (public / "mfds" / "items" / "202600002.json").exists()
+    assert json.loads((public / "mfds" / "items" / "202600002.json").read_text(encoding="utf-8")) == unrematched_item
+    # 옛 파싱 버그로 본문이 깨진 레코드는 재수집되기 전까지 색인과 상세 어느 쪽에도 실리지 않는다.
+    assert not (public / "mfds" / "items" / "202600003.json").exists()
 
 
 def test_criterion_groups_and_items_are_newest_first():

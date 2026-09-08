@@ -1,9 +1,13 @@
 """공공데이터포털 의약품 제품 허가정보 수집기.
 
-전량 열거(조건 없는 질의를 pageNo로 넘기며 numOfRows=500씩 받는다) 뒤
-`mfds_match`로 고시 검색어와 로컬 매칭한 품목만 data/mfds/items/<ITEM_SEQ>.json에
-개정 이력을 병합한다(--full, 최초 구축·주간 재구축). 평일 실행은 검색어 API 대신
-변경일자 구간 질의(collect_changed)로 받은 변경분을 같은 로컬 매칭으로 걸러 갱신한다.
+전량 열거(조건 없는 질의를 pageNo로 넘기며 numOfRows=500씩 받는다)로 받은 품목을 전부
+data/mfds/items/<ITEM_SEQ>.json에 개정 이력과 함께 병합한다(--full, 최초 구축·주간
+재구축). 평일 실행은 변경일자 구간 질의(collect_changed)로 받은 변경분을 마찬가지로
+전부 반영한다. 급여기준 고시와 무관해도(급여 대상이 아니어도) 식약처 허가 품목이면
+수집·게시 대상이다 — 예전에는 `mfds_match`로 고시 검색어와 로컬 매칭된 품목만 걸렀지만,
+슈글렛정(ipragliflozin)처럼 성분명이 고시 제목이 아니라 본문 표에만 등장하는 경우
+검색어 자체가 안 만들어져 5,948품목이 누락되는 문제가 있었다. `mfds_match`는 고시
+검색어와 품목을 잇는 별도 용도로 남겨 두었을 뿐, 이 수집기는 더 이상 임포트하지 않는다.
 DATA_GO_KEY가 없으면 한 줄 안내 후 건너뛴다.
 """
 
@@ -26,7 +30,6 @@ from threading import Lock
 from common import (
     DATA, DATE_YYYYMMDD, atomic_json, http_get, parse_changes_since, redact_text, today_kst,
 )
-from mfds_match import build_index, match_terms
 
 API_URL = "https://apis.data.go.kr/1471000/DrugPrdtPrmsnInfoService07/getDrugPrdtPrmsnDtlInq06"
 DETAIL_URL = "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail"
@@ -45,7 +48,6 @@ HISTORY_FAILURE_LIMIT = 5
 DEFAULT_HISTORY_BACKFILL_LIMIT = 200
 # 공공데이터포털 numOfRows 상한(1000 이상은 코드=11 오류). 전량 열거는 이 값으로 42,985건을 86회 호출로 받는다(실측).
 UNIVERSE_PAGE_SIZE = 500
-TERM_FAILURE_DISPLAY_LIMIT = 20
 
 CLASS_HEADER = re.compile(r"^\[[^\]]*\]\s*")
 PUMMYEONG = re.compile(r"\(\s*품명\s*[:∶]?\s*([^)]*)\)")
@@ -712,31 +714,16 @@ def next_date(value: str) -> str:
     return (datetime.strptime(value, "%Y%m%d").date() + timedelta(days=1)).strftime("%Y%m%d")
 
 
-def match_relevant_seqs(rows: list[dict], groups: list[tuple[str, list[str]]]) -> set[str]:
-    """행 목록에 mfds_match 규칙을 적용해 고시 검색어에 걸리는 ITEM_SEQ만 골라낸다.
-
-    변경분 행만으로 새 색인을 만들어 매번 다시 매칭한다(전량 우주 색인과 달리 건수가
-    적어 스캐니용 색인 재사용이 더 비심).
-    """
-    return match_terms(build_index(rows), groups).matched
-
-
-def _print_summary(stats: dict, failed_terms: list[str] | None = None) -> None:
+def _print_summary(stats: dict) -> None:
     print(
         f"[MFDS] 수집 항목={stats['fetched']}건, 신규 개정={stats['new']}건, "
         f"과거 허가이력={stats['history']}건, 변동 없음={stats['unchanged']}건, "
-        f"이력 미수집={stats['history_skipped']}건, 매칭 실패={stats['match_failures']}건"
+        f"이력 미수집={stats['history_skipped']}건"
     )
-    if failed_terms:
-        shown = failed_terms[:TERM_FAILURE_DISPLAY_LIMIT]
-        print(
-            f"[MFDS] 매칭 실패 검색어 {len(failed_terms)}건(상위 {len(shown)}건): {shown}"
-        )
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="공공데이터포털 의약품 제품 허가정보 수집")
-    parser.add_argument("--max-terms", type=int, default=None, help="검색어 상한(기본: 전체)")
     parser.add_argument("--max-items", type=int, default=None, help="저장 항목 상한(기본: 제한 없음)")
     parser.add_argument("--page-size", type=int, default=DEFAULT_PAGE_SIZE, help="페이지당 건수")
     parser.add_argument("--incremental-workers", type=int, default=DEFAULT_INCREMENTAL_WORKERS,
@@ -747,9 +734,9 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--history-backfill-limit", type=int, default=DEFAULT_HISTORY_BACKFILL_LIMIT,
                         help="변경분 처리 뒤 이력이 없는 기존 품목을 이만큼 추가 백필(기본: 200)")
     parser.add_argument("--full", action="store_true",
-                        help="변경분 대신 전체 검색어로 수집(최초 구축·재구축용)")
+                        help="변경분 대신 전량 열거로 수집(최초 구축·주간 재구축용)")
     args = parser.parse_args(argv)
-    for name in ("max-terms", "max-items", "page-size", "incremental-workers", "history-backfill-limit"):
+    for name in ("max-items", "page-size", "incremental-workers", "history-backfill-limit"):
         value = getattr(args, name.replace("-", "_"))
         if value is not None and value < 1:
             parser.error(f"--{name}은(는) 1 이상이어야 합니다")
@@ -769,12 +756,8 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     service_key = urllib.parse.unquote(service_key)
 
-    groups = term_groups_from_titles(load_titles(NORMALIZED_DIR))
-    if args.max_terms is not None:
-        groups = groups[: args.max_terms]
-
     stats = {"fetched": 0, "new": 0, "history": 0, "unchanged": 0,
-             "history_skipped": 0, "match_failures": 0}
+             "history_skipped": 0}
     history_state = {"enabled": not args.skip_history, "failures": 0}
     seen: set[str] = set()
     state_lock = Lock()
@@ -843,14 +826,14 @@ def main(argv: list[str] | None = None) -> int:
     end_date = today_kst()
     previous_full_run = str((sync or {}).get("last_full_run") or "") or None
 
-    def finish(save_state, failed_terms=None):
+    def finish(save_state):
         if budget_exhausted():
             print("--max-items 상한에 도달해 동기화 상태를 갱신하지 않습니다. 다음 실행이 같은 범위를 다시 처리합니다.")
         else:
             save_state()
         if history_state["enabled"] and args.history_backfill_limit:
             backfill_pending_history(args.history_backfill_limit)
-        _print_summary(stats, failed_terms)
+        _print_summary(stats)
         return 0
 
     if args.full or (not args.changes_since and (sync is None or not has_items)):
@@ -859,16 +842,11 @@ def main(argv: list[str] | None = None) -> int:
         except RuntimeError as exc:
             print(f"전량 열거 실패: {exc}")
             return 1
-        match_result = match_terms(build_index(universe), groups)
-        stats["match_failures"] = len(match_result.failed_terms)
-        by_seq = {str(row.get("ITEM_SEQ") or ""): row for row in universe}
-        for seq in sorted(match_result.matched):
+        for row in universe:
             if budget_exhausted():
                 break
-            row = by_seq.get(seq)
-            if row is not None:
-                process_row(row)
-        return finish(lambda: save_sync(end_date, now_utc()), match_result.failed_terms)
+            process_row(row)
+        return finish(lambda: save_sync(end_date, now_utc()))
 
     def process_changed_range(start_date: str, range_end: str) -> bool:
         try:
@@ -878,16 +856,15 @@ def main(argv: list[str] | None = None) -> int:
         except RuntimeError as exc:
             print(f"변경분 조회 실패({start_date}~{range_end}): {exc}")
             return False
-        known = frozenset(path.stem for path in ITEMS_DIR.glob("*.json"))
-        matched = match_relevant_seqs(changed, groups)
         eligible = []
         for row in changed:
             seq = str(row.get("ITEM_SEQ") or "").strip()
-            if seq and (seq in known or seq in matched):
-                eligible.append(row)
-                left = budget_left()
-                if left is not None and len(eligible) >= left:
-                    break
+            if not seq:
+                continue
+            eligible.append(row)
+            left = budget_left()
+            if left is not None and len(eligible) >= left:
+                break
         with ThreadPoolExecutor(max_workers=args.incremental_workers) as executor:
             list(executor.map(process_row, eligible))
         return True

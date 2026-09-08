@@ -473,7 +473,7 @@ def test_valid_changes_since_still_skips_without_key(monkeypatch):
 
 
 def test_main_persists_items_without_service_key(monkeypatch, tmp_path):
-    """--full은 전량 열거(검색어 없는 질의) 뒤 mfds_match로 걸러진 품목만 저장한다."""
+    """--full은 전량 열거(검색어 없는 질의)로 받은 품목을 매칭 필터 없이 전부 저장한다."""
     monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
     monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
         tmp_path / "normalized", ["Clonazepam 경구제 (품명: 리보트릴정 등)"],
@@ -501,6 +501,23 @@ def test_main_persists_items_without_service_key(monkeypatch, tmp_path):
     sync = json.loads(fetch_mfds.SYNC_PATH.read_text(encoding="utf-8"))
     assert sync["last_full_run"]
     assert "seen_heads" not in sync
+
+
+def test_full_saves_universe_without_notice_matching(monkeypatch, tmp_path):
+    """--full은 mfds_match 필터가 사라졌다: 고시 제목과 전혀 연결되지 않는 성분도 그대로 저장된다
+    (슈글렛정 사례: ipragliflozin이 고시 제목이 아니라 본문에만 등장해 검색어가 안 만들어지던 문제)."""
+    monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
+    # 고시 제목이 당뇨병 용제라는 분류명일 뿐 이럼로 이 성분명은 term_groups_from_titles에 전혀 잡히지 않는다.
+    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
+        tmp_path / "normalized", ["당뇨병 용제"],
+    ))
+    monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", tmp_path / "items")
+    universe = [api_item(51, ITEM_NAME="슈글렛정", MAIN_INGR_ENG="Ipragliflozin")]
+    fake = FakeApi(lambda params: envelope({"totalCount": "1", "items": universe}))
+    monkeypatch.setattr(fetch_mfds, "http_get", fake)
+    with contextlib.redirect_stdout(io.StringIO()):
+        assert fetch_mfds.main(["--full", "--skip-history"]) == 0
+    assert [path.stem for path in sorted((tmp_path / "items").glob("*.json"))] == ["51"]
 
 
 def test_main_respects_max_items(monkeypatch, tmp_path):
@@ -733,8 +750,8 @@ def test_history_failure_skips_item_and_disables_after_streak(monkeypatch, tmp_p
         assert fetch_mfds.history_pending(seq, items) is True
 
 
-def test_match_failures_are_reported_but_do_not_fail_run(monkeypatch, tmp_path, capsys):
-    """매칭 실패 검색어는 건수와 상위 목록으로 보고되고, 매칭된 품목은 그대로 저장된다."""
+def test_full_no_longer_reports_notice_match_failures(monkeypatch, tmp_path, capsys):
+    """mfds_match 필터가 없어졌으므로 고시 연결 없는 성분도 그대로 저장되고, 요약에 더 이상 "매칭 실패"가 나오지 않는다."""
     monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
     monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
         tmp_path / "normalized",
@@ -745,7 +762,7 @@ def test_match_failures_are_reported_but_do_not_fail_run(monkeypatch, tmp_path, 
     universe = [
         api_item(71, MAIN_INGR_ENG="Alpha"),
         api_item(72, MAIN_INGR_ENG="Gamma"),
-        # Beta는 우주에 없어 매칭 실패로 남는다.
+        api_item(73, MAIN_INGR_ENG="Delta"),  # 고시 제목 어느 검색어와도 연결되지 않지만 이제 저장된다.
     ]
 
     def respond(url, params=None, retries=3):
@@ -755,10 +772,8 @@ def test_match_failures_are_reported_but_do_not_fail_run(monkeypatch, tmp_path, 
     assert fetch_mfds.main(["--full", "--skip-history"]) == 0
 
     out = capsys.readouterr().out
-    assert "매칭 실패=1건" in out
-    assert "매칭 실패 검색어 1건" in out
-    assert "Beta" in out
-    assert sorted(p.stem for p in items.glob("*.json")) == ["71", "72"]
+    assert "매칭 실패" not in out
+    assert sorted(p.stem for p in items.glob("*.json")) == ["71", "72", "73"]
 
 
 def test_full_enumeration_api_failure_exits_nonzero(monkeypatch, tmp_path):
@@ -778,7 +793,7 @@ def test_full_enumeration_api_failure_exits_nonzero(monkeypatch, tmp_path):
 
 
 def test_incremental_mode_uses_change_feed(monkeypatch, tmp_path, capsys):
-    """동기화 상태가 있으면 검색 대신 변경분 질의로 갱신·유관 신규만 처리한다."""
+    """동기화 상태가 있으면 전량 열거 대신 변경분 질의로 갱신하고, 변경분은 고시 연결과 상관없이 전부 저장한다."""
     real_executor = fetch_mfds.ThreadPoolExecutor
     worker_counts = []
 
@@ -803,8 +818,8 @@ def test_incremental_mode_uses_change_feed(monkeypatch, tmp_path, capsys):
 
     changed_rows = [
         api_item(61, ee="<p>개정된 적응증</p>", MAIN_INGR_ENG="Clonazepam"),  # 기존 품목의 갱신
-        api_item(62, ITEM_NAME="새클로정", MAIN_INGR_ENG="Clonazepam Hydrochloride"),   # 매칭(접두 일치)
-        api_item(63, ITEM_NAME="무관정", MAIN_INGR_ENG="Metformin Hydrochloride"),     # 무관 성분 → 제외
+        api_item(62, ITEM_NAME="새클로정", MAIN_INGR_ENG="Clonazepam Hydrochloride"),   # 신규
+        api_item(63, ITEM_NAME="무관정", MAIN_INGR_ENG="Metformin Hydrochloride"),     # 고시와 무관해도 이제 저장된다
     ]
 
     def respond(url, params=None, retries=3):
@@ -822,7 +837,7 @@ def test_incremental_mode_uses_change_feed(monkeypatch, tmp_path, capsys):
     ]) == 0
 
     assert worker_counts == [2]
-    assert sorted(p.stem for p in items.glob("*.json")) == ["61", "62"]
+    assert sorted(p.stem for p in items.glob("*.json")) == ["61", "62", "63"]
     updated = json.loads((items / "61.json").read_text(encoding="utf-8"))
     assert updated["revisions"][0]["ee_text"] == "개정된 적응증"
     sync = json.loads(fetch_mfds.SYNC_PATH.read_text(encoding="utf-8"))
@@ -991,8 +1006,8 @@ def test_merge_item_still_detects_real_change_at_same_normalizer_version(tmp_pat
     assert verify.validate_mfds_items(tmp_path) == []
 
 
-def test_change_feed_uses_mfds_match_for_relevance(monkeypatch, tmp_path):
-    """변경분 행만으로 mfds_match가 고시 검색어와 연결된 품목만 골라낸다."""
+def test_change_feed_saves_all_rows_without_notice_matching(monkeypatch, tmp_path):
+    """평일 증분도 고시 검색어와 연결되는지와 무관하게 변경분 전부를 저장한다(mfds_match 필터 제거)."""
     monkeypatch.setattr(fetch_mfds, "today_kst", lambda: "20260901")
     monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
     monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(tmp_path / "normalized", ["Alpha 경구제"]))
@@ -1002,8 +1017,8 @@ def test_change_feed_uses_mfds_match_for_relevance(monkeypatch, tmp_path):
     fetch_mfds.merge_item(api_item(1, MAIN_INGR_ENG="Alpha"), items, "2026-08-01T00:00:00Z")
     fetch_mfds.save_sync("20260820", None)
     changed_rows = [
-        api_item(3, MAIN_INGR_ENG="Alpha Hydrochloride"),   # 검색어 Alpha의 접두 일치 → 유관
-        api_item(4, MAIN_INGR_ENG="Gamma"),                 # 연결 없는 성분 → 제외
+        api_item(3, MAIN_INGR_ENG="Alpha Hydrochloride"),   # 기존 검색어와 연결됨
+        api_item(4, MAIN_INGR_ENG="Gamma"),                 # 연결 없는 성분이어도 이제 함께 저장된다
     ]
 
     def respond(url, params=None, retries=3):
@@ -1015,7 +1030,7 @@ def test_change_feed_uses_mfds_match_for_relevance(monkeypatch, tmp_path):
     monkeypatch.setattr(fetch_mfds, "http_get", respond)
     with contextlib.redirect_stdout(io.StringIO()):
         assert fetch_mfds.main(["--skip-history"]) == 0
-    assert sorted(p.stem for p in items.glob("*.json")) == ["1", "3"]
+    assert sorted(p.stem for p in items.glob("*.json")) == ["1", "3", "4"]
 
 
 def test_pending_history_is_backfilled_after_change_feed(monkeypatch, tmp_path, capsys):
