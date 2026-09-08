@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201700525",
+ "item_name": "케라신주(케토롤락트로메타민)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "20170131",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084703]케토롤락트로메타민",
+ "main_item_ingr_eng": "Ketorolac Tromethamine",
+ "edi_code": "647804481",
+ "atc_code": "M01AB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700525",
+ "revisions": [
+  {
+   "revision_id": "201700525-4b170c16",
+   "content_sha256": "4b170c167c9959bd0bca3d69ede29c5e1eddac45181fc11584a1c507178c1f59",
+   "ee_text": "1. 중등도 및 중증의 급성통증(수술 후 통증 포함)에 대한 단기요법 2. 2세 이상의 소아 마약성 진통제가 금기인 중증의 수술 후 통증",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:29Z",
+   "last_observed_at": "2026-09-08T08:51:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:29Z"
+}

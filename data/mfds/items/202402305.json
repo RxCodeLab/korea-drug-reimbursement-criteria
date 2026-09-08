@@ -7,11 +7,12 @@
  "permit_date": "20240924",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M258994]아스코르브산|[M223083]시메티콘|[M040438]염화칼륨|[M040426]염화나트륨|[M257776]무수황산나트륨|[M103014]폴리에틸렌글리콜3350",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M103014]폴리에틸렌글리콜3350|[M223083]시메티콘|[M257776]무수황산나트륨|[M258994]아스코르브산",
  "main_item_ingr_eng": "Anhydrous Sodium Sulfate/Ascorbic Acid/Polyethylene Glycol 3350/Potassium Chloride/Simethicone/Sodium Chloride",
  "edi_code": "650103321",
  "atc_code": "A06AD65",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402305",
+ "history_fetched_at": "2026-08-28T13:25:36Z",
  "revisions": [
   {
    "revision_id": "202402305-63a1a21e",
@@ -19,9 +20,9 @@
    "ee_text": "대장내시경 검사, 대장 X선 검사 시의 전처치용 장세척",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:36Z",
-   "last_observed_at": "2026-08-28T13:25:36Z",
-   "official_revision_date": "2024-09-24"
+   "last_observed_at": "2026-09-08T09:03:21Z",
+   "official_revision_date": "2024-09-24",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:36Z"
+ ]
 }

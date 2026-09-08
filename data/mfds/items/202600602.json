@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600602",
+ "item_name": "케이업정(시트룰린말산염)",
+ "entp_name": "주식회사케이에스제약",
+ "permit_date": "20260227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247305]시트룰린말산염",
+ "main_item_ingr_eng": "Citrulline Malate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600602",
+ "revisions": [
+  {
+   "revision_id": "202600602-e99da86b",
+   "content_sha256": "e99da86b6198a87dd2bf80686ccc86fd270a384c88639b0c3f98a424f5e2146c",
+   "ee_text": "기능 무력증의 보조치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:50Z",
+   "last_observed_at": "2026-09-08T09:04:50Z",
+   "official_revision_date": "2026-02-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:50Z"
+}

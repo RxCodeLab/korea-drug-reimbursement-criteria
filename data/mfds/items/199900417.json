@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900417",
+ "item_name": "로딘엑스엘정400밀리그램(미분화에토돌락)",
+ "entp_name": "건일제약(주)",
+ "permit_date": "19990415",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257127]미분화에토돌락",
+ "main_item_ingr_eng": "Etodolac Micronized",
+ "edi_code": "646800580",
+ "atc_code": "M01AB08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900417",
+ "revisions": [
+  {
+   "revision_id": "199900417-d2c454ac",
+   "content_sha256": "d2c454ac1759ac90e9a7680533ada71fc45217857fefe2df07e7302693c5805c",
+   "ee_text": "* 400 mg 류마티스관절염, 골관절염",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:32Z",
+   "last_observed_at": "2026-09-08T08:32:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:32Z"
+}

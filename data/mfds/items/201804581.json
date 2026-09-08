@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804581",
+ "item_name": "치앤싹캡슐(디오스민)",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20181119",
+ "cancel_date": "20231119",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M082272]디오스민",
+ "main_item_ingr_eng": "Diosmin",
+ "edi_code": "",
+ "atc_code": "C05CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804581",
+ "revisions": [
+  {
+   "revision_id": "201804581-8ac154e8",
+   "content_sha256": "8ac154e8c07627c446d73f17fba1022105d48bec2c9970483076551b202e1014",
+   "ee_text": "1. 치질 2. 다음 질환에 의한 여러 증상(하지중압감, 동통, 부종 등)의 개선 : 정맥류, 정맥부전(임신시 포함), 정맥염후증후군 3. 모세혈관취약증에 의한 출혈증상 : 자반(자주색반점)증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:50Z",
+   "last_observed_at": "2026-09-08T08:53:50Z",
+   "official_revision_date": "2018-11-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:50Z"
+}

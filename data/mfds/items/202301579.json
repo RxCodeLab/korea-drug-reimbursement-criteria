@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301579",
+ "item_name": "정우쌍화탕연조엑스",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20230517",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086603]쌍화탕연조엑스",
+ "main_item_ingr_eng": "Ssanghwatang Soft Extract",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301579",
+ "revisions": [
+  {
+   "revision_id": "202301579-ff9e97e1",
+   "content_sha256": "ff9e97e188e23d7e7789e1a6c680cfd5678d9c281cb7b80002e161c2acdcd2fe",
+   "ee_text": "허약체질, 피로회복, 과로, 자한(自汗, 정신이 멀쩡하고 움직이지도 않았는데 저절로 땀이 나는 증상), 병중병후",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:05Z",
+   "last_observed_at": "2026-09-08T09:02:05Z",
+   "official_revision_date": "2023-05-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:05Z"
+}

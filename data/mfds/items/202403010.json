@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202403010",
+ "item_name": "파워텐션액(L-아스파르트산-L-아르기닌수화물)",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20241218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258544]L-아스파르트산-L-아르기닌수화물",
+ "main_item_ingr_eng": "L-Arginine-L-Aspartate Hydrate",
+ "edi_code": "",
+ "atc_code": "V06DD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403010",
+ "revisions": [
+  {
+   "revision_id": "202403010-e62ad235",
+   "content_sha256": "e62ad23536029772168f54b5cbb7289630e260c2543d6fc90bb523fe82514a80",
+   "ee_text": "1. 정신적·신체적 기능무력 증상의 보조요법 2. 회복기간(아미노산 결핍상태) 동안의 보조요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:33Z",
+   "last_observed_at": "2026-09-08T09:03:33Z",
+   "official_revision_date": "2024-12-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:33Z"
+}

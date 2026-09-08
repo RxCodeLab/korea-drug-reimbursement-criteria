@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300810",
+ "item_name": "태극야디타스크림(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20031009",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020001]황산겐타마이신|[M071592]플루오시노니드",
+ "main_item_ingr_eng": "Fluocinonide/Gentamicin Sulfate",
+ "edi_code": "",
+ "atc_code": "D07CC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300810",
+ "revisions": [
+  {
+   "revision_id": "200300810-de3e017e",
+   "content_sha256": "de3e017ed0566c3ba1393bb34c6b320affc746724389c8dd99dd7c78135d0485",
+   "ee_text": "알레르기성.염증성 피부질환(급만성습진, 접촉피부염, 아토피피부염, 지루피부염, 만성단순태선, 간찰진, 박탈피부염, 구진상 두드러기, 건선, 가려움증(항문, 음부), 일광피부염, 원형탈모증, 1도화상, 벌레물린데, 2차 세균감염 피부질환",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:52Z",
+   "last_observed_at": "2026-09-08T08:36:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:52Z"
+}

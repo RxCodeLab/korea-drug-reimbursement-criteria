@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109267",
+ "item_name": "제네틱스350주사(이오비트리돌)",
+ "entp_name": "게르베코리아(주)",
+ "permit_date": "20011112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086785]이오비트리돌",
+ "main_item_ingr_eng": "Iobitridol",
+ "edi_code": "654900101,654900102,654900103,654900104",
+ "atc_code": "V08AB11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109267",
+ "revisions": [
+  {
+   "revision_id": "200109267-9ff5e8ec",
+   "content_sha256": "9ff5e8ece374bbf325d2398bc73d94ed8943b3223e786c6f1f4daecec12aaf73",
+   "ee_text": "(주사제 350 mgI/mL) 성인 및 소아 : 정맥요로조영(IVP), CT 조영증강(두부, 체부), 동맥조영, 혈관심장 조영",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200109267/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:55Z",
+   "last_observed_at": "2026-09-08T08:35:55Z"
+  },
+  {
+   "revision_id": "200109267-b3a9300e",
+   "content_sha256": "b3a9300e28afc08a7d68ec71ac61200cabc78924a7db6ff2d126210c494337ca",
+   "ee_text": "성인 및 소아 : 정맥요로조영(IVP), CT 조영증강(두부, 체부), 동맥조영, 혈관심장 조영",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:35:55Z",
+   "last_observed_at": "2026-09-08T08:35:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:55Z"
+}

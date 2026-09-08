@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302004",
+ "item_name": "트리세녹스주2mg/mL(삼산화비소)(바이알)",
+ "entp_name": "클리니젠코리아(유)",
+ "permit_date": "20230629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250326]삼산화비소",
+ "main_item_ingr_eng": "Arsenic Trioxide",
+ "edi_code": "076100091",
+ "atc_code": "L01XX27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302004",
+ "revisions": [
+  {
+   "revision_id": "202302004-2bd866d5",
+   "content_sha256": "2bd866d5ff96c5761f55bd9fd8026206df71e58bc495cb5de096fe49ebae2461",
+   "ee_text": "염색체검사[t(15;17)전좌] 및/또는 유전자검사[Pro-Myelocytic Leukaemia/Retinoic-Acid-Receptor-alpha (PML/RAR-alpha)유전자]에 의해 급성전골수구성백혈병으로 진단된 환자에 사용한다. 다른 급성골수구성 백혈병(AML) 아형에 대한 반응률에 대해서는 조사된 바가 없다. 1. 새롭게 진단된 저위험(백혈구 수 ≤10×109/L) 급성전골수구성백혈병 성인 환자에서 트레티노인을 병용하는 관해 유도 및 공고요법 2. 성인 불응성 또는 재발성 급성전골수구성백혈병 환자의 관해 유도 및 공고요법 (이전의 치료로서 트레티노인과 화학요법을 포함해야 한다.) 이 약에 의해 완전관해된 후 재발한 급성전골수구성백혈병에 대해서, 이 약의 유효성·안전성은 확립되어 있지 않다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:12Z",
+   "last_observed_at": "2026-09-08T09:02:12Z",
+   "official_revision_date": "2023-06-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:12Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201976",
+ "item_name": "팜젠아시클로버연고(수출명:파시버연고)",
+ "entp_name": "(주)팜젠사이언스",
+ "permit_date": "19920713",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "670100954",
+ "atc_code": "D06BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201976",
+ "revisions": [
+  {
+   "revision_id": "199201976-e79b1565",
+   "content_sha256": "e79b15652e795be5df4af050b2d2ab03e4467ab316fb135873aa446d6322af21",
+   "ee_text": "단순포진 바이러스 감염증(초기 및 재발성 생식기 포진과 구순포진 포함)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:30Z",
+   "last_observed_at": "2026-09-08T08:28:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:30Z"
+}

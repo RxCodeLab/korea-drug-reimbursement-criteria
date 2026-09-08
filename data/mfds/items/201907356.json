@@ -7,7 +7,7 @@
  "permit_date": "20191018",
  "cancel_date": "20241018",
  "status": "유효기간만료",
- "main_item_ingr": "[M202582]D-판테놀|[M215133]에녹솔론|[M206708]DL-캄파|[M203279]살리실산메틸|[M230875]l-멘톨|[M222965]디부카인염산염|[M222973]디펜히드라민염산염",
+ "main_item_ingr": "[M202582]D-판테놀|[M203279]살리실산메틸|[M206708]DL-캄파|[M215133]에녹솔론|[M222965]디부카인염산염|[M222973]디펜히드라민염산염|[M230875]l-멘톨",
  "main_item_ingr_eng": "DL-Camphor/Dexpanthenol/Dibucaine Hydrochloride/Diphenhydramine Hydrochloride/Enoxolone/L-Menthol/Methyl Salicylate",
  "edi_code": "",
  "atc_code": "D04A",
@@ -20,7 +20,8 @@
    "ee_text": "습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물림, 두드러기, 동창",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201907356/EE",
    "first_observed_at": "2026-08-27T12:30:14Z",
-   "last_observed_at": "2026-08-28T13:25:12Z"
+   "last_observed_at": "2026-09-08T08:56:44Z",
+   "normalizer_version": 3
   }
  ]
 }

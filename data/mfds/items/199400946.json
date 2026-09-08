@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199400946",
+ "item_name": "베탁정(베탁솔롤염산염)",
+ "entp_name": "진양제약(주)",
+ "permit_date": "19940618",
+ "cancel_date": "20240701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222850]베탁솔롤염산염",
+ "main_item_ingr_eng": "Betaxolol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C07AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400946",
+ "revisions": [
+  {
+   "revision_id": "199400946-01de180f",
+   "content_sha256": "01de180f8c879f88cba3b6f0407e52b94fa1aa68017d928fc6ac552f6ec83136",
+   "ee_text": "본태성고혈압, 협심증",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:13Z",
+   "last_observed_at": "2026-09-08T08:29:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:13Z"
+}

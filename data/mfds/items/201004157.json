@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004157",
+ "item_name": "코탁셀주(파클리탁셀)(수출용)(수출명:①Paclitaxel-Asteria Inj. ②Kotaxel Inj. ③MEDIBILS Paclitaxel)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20100623",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088462]파클리탁셀",
+ "main_item_ingr_eng": "Paclitaxel",
+ "edi_code": "",
+ "atc_code": "L01CD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004157",
+ "revisions": [
+  {
+   "revision_id": "201004157-d4241c93",
+   "content_sha256": "d4241c93c4d5c26219c3304e04103d7ef7848ae4e533aa5d2aa534e62f4ddad0",
+   "ee_text": "이 약은 난소암 또는 유방암 또는 폐암의 치료에 단독으로 혹은 병용하여 사용된다. 1) 난소암 (1) 다른 화학요법제와 병용하여 1차 요법제로 사용 (2) 표준 요법에 실패한 전이성 난소암의 치료에 2차 요법제로 사용 2) 유방암 (1) 표준요법에 실패한 전이성 유방암의 치료에 2차 요법제로 사용 (2) 결절 양성 유방암의 보조치료:표준 독소루비신 함유 병용 화학요법후 사용 (3) HER2(Human Epidermal growth factor Receptor 2 protein)가 과발현(IHC 3+ 또는 FISH 양성)되고 화학요법 치료를 받은 경험이 없는 전이성 유방암에 트라스투주맙과 병용요법제로 사용 3) 폐암 : 진행성 비소세포 폐암의 치료에 1차 요법제로 사용 4) 위암 : 진행성 및 전이성 또는 국소 재발성 위암",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:07Z",
+   "last_observed_at": "2026-09-08T08:44:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:07Z"
+}

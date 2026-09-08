@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308396",
+ "item_name": "폴락스산(폴리에틸렌글리콜4000)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20030314",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243338]폴리에틸렌글리콜4000",
+ "main_item_ingr_eng": "Polyethylene Glycol 4000",
+ "edi_code": "",
+ "atc_code": "A06AD15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308396",
+ "revisions": [
+  {
+   "revision_id": "200308396-8ff00411",
+   "content_sha256": "8ff00411e105f07b7dfcee63f3cbc142be0532eb0e36e59eb1e7bae65cec8d1c",
+   "ee_text": "변비",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:24Z",
+   "last_observed_at": "2026-09-08T08:37:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:24Z"
+}

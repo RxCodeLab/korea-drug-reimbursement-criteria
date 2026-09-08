@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201203772",
+ "item_name": "뉴라스타프리필드시린지주(페그필그라스팀)",
+ "entp_name": "한국쿄와기린(주)",
+ "permit_date": "20120503",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254483]페그필그라스팀",
+ "main_item_ingr_eng": "Pegfilgrastim",
+ "edi_code": "666300291",
+ "atc_code": "L03AA13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201203772",
+ "revisions": [
+  {
+   "revision_id": "201203772-f4c04636",
+   "content_sha256": "f4c0463606ed7dd739461e73229709e6c0f92f4361fcc07133390c31ecedb1ce",
+   "ee_text": "악성 종양에 대한 세포독성 화학요법을 투여 받는 환자의 발열성 호중구감소증의 발생과 호중구감소증의 기간 감소 (만성 골수성 백혈병과 골수이형성증후군은 제외함)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:16Z",
+   "last_observed_at": "2026-09-08T08:45:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:16Z"
+}

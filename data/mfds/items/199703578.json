@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199703578",
+ "item_name": "앤지덤패취0.2밀리그람/시간(희석된니트로글리세린)(수출용)",
+ "entp_name": "(주)삼양바이오팜",
+ "permit_date": "19970926",
+ "cancel_date": "20260303",
+ "status": "취하",
+ "main_item_ingr": "[M104103]희석된니트로글리세린",
+ "main_item_ingr_eng": "Dilute Nitroglycerin",
+ "edi_code": "",
+ "atc_code": "C01DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703578",
+ "revisions": [
+  {
+   "revision_id": "199703578-e992e107",
+   "content_sha256": "e992e107f54ee1c9811c98b00177763d3b71b4e91a303dce2a8d05067ed8a8ba",
+   "ee_text": "협심증.",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:30Z",
+   "last_observed_at": "2026-09-08T08:31:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:30Z"
+}

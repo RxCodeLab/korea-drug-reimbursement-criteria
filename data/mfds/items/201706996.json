@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706996",
+ "item_name": "안티푸라민액티브롤파스(펠비낙)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20170906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083570]펠비낙",
+ "main_item_ingr_eng": "Felbinac",
+ "edi_code": "",
+ "atc_code": "M02AA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706996",
+ "revisions": [
+  {
+   "revision_id": "201706996-425b56f0",
+   "content_sha256": "425b56f057fb3e4ff79abd7ad36bfcd10801912e346252602b3bf6bd24551ddb",
+   "ee_text": "다음 질환 및 증상의 진통·소염(항염) : 퇴행성관절염(골(뼈)관절염), 어깨관절주위염, 건(힘줄)·건초염(힘줄윤활막염), 건(힘줄)주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기)·동통(통증)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:19Z",
+   "last_observed_at": "2026-09-08T08:52:19Z",
+   "official_revision_date": "2019-08-26"
+  },
+  {
+   "revision_id": "201706996-69aed2d3",
+   "content_sha256": "69aed2d3bf8b83cf20a33b38c923f7cb376c98632ade7193c14ba0fbe7bfe057",
+   "ee_text": "다음 질환 및 증상의 진통·소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건·건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통, 외상후의 종창·동통",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:52:19Z",
+   "last_observed_at": "2026-09-08T08:52:19Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:19Z"
+}

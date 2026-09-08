@@ -7,11 +7,12 @@
  "permit_date": "19820520",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051318]전호|[M051301]자소엽|[M040538]진피|[M040202]반하|[M040187]목향|[M050752]생강|[M040536]지실|[M051291]인삼|[M040004]갈근|[M040006]감초|[M040048]길경|[M040071]대추|[M040225]복령",
+ "main_item_ingr": "[M040004]갈근|[M040006]감초|[M040048]길경|[M040071]대추|[M040187]목향|[M040202]반하|[M040225]복령|[M040536]지실|[M040538]진피|[M050752]생강|[M051291]인삼|[M051301]자소엽|[M051318]전호",
  "main_item_ingr_eng": "Aucklandiae Radix/Citrus Unshiu Peel/Ginseng/Jujube/Licorice/Perilla Leaf/Peucedani Radix/Pinellia Tuber/Platycodon Root/Poncirus Immature Fruit/Poria/Pueraria Root/Raw Ginger",
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200469",
+ "history_fetched_at": "2026-08-28T13:23:38Z",
  "revisions": [
   {
    "revision_id": "198200469-f4d43d83",
@@ -19,8 +20,9 @@
    "ee_text": "감기, 기침",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:23:38Z",
-   "last_observed_at": "2026-08-28T13:23:38Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:26:48Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   },
   {
    "revision_id": "198200469-ba471e66",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:38Z",
    "last_observed_at": "2026-08-28T13:23:38Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:38Z"
+ ]
 }

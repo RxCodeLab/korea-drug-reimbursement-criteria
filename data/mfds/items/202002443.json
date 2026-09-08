@@ -7,11 +7,12 @@
  "permit_date": "20200407",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M101579]히드로코르티손|[M088335]클로트리마졸",
+ "main_item_ingr": "[M088335]클로트리마졸|[M101579]히드로코르티손",
  "main_item_ingr_eng": "Clotrimazole/Hydrocortisone",
  "edi_code": "057001002",
  "atc_code": "D01AC20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002443",
+ "history_fetched_at": "2026-08-28T13:25:16Z",
  "revisions": [
   {
    "revision_id": "202002443-eb2a40ae",
@@ -19,9 +20,9 @@
    "ee_text": "염증, 가려움 및 습진 등의 임상증상을 수반하는 피부 진균증 : 1) 백선 2) 피부 칸디다증 3) 어루러기",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:16Z",
-   "last_observed_at": "2026-08-28T13:25:16Z",
-   "official_revision_date": "2020-04-07"
+   "last_observed_at": "2026-09-08T08:58:20Z",
+   "official_revision_date": "2020-04-07",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:16Z"
+ ]
 }

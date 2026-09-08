@@ -7,11 +7,12 @@
  "permit_date": "19800927",
  "cancel_date": "20230927",
  "status": "폐업",
- "main_item_ingr": "[M050752]생강|[M040225]복령|[M040202]반하",
+ "main_item_ingr": "[M040202]반하|[M040225]복령|[M050752]생강",
  "main_item_ingr_eng": "Pinellia Tuber/Poria/Raw Ginger",
  "edi_code": "",
  "atc_code": "A04AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000041",
+ "history_fetched_at": "2026-08-28T13:23:38Z",
  "revisions": [
   {
    "revision_id": "198000041-edbe524a",
@@ -19,9 +20,9 @@
    "ee_text": "입덧, 구토, 구역",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:23:38Z",
-   "last_observed_at": "2026-08-28T13:23:38Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:39Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:38Z"
+ ]
 }

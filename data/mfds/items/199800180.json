@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199800180",
+ "item_name": "마빌정10밀리그람(알렌드론산나트륨)(수출명:유니크정)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "19980706",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222873]알렌드론산나트륨수화물",
+ "main_item_ingr_eng": "Sodium Alendronate Hydrate",
+ "edi_code": "644500230",
+ "atc_code": "M05BA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199800180",
+ "revisions": [
+  {
+   "revision_id": "199800180-70bfc22f",
+   "content_sha256": "70bfc22fd467265dc2f8e40febb7f5f680e8a65744bdb197877e70da4f160bfc",
+   "ee_text": "* 10 mg 1. 폐경 후 여성의 골다공증 치료 2. 남성의 골다공증 치료 3. 글루코코르티코이드에 의한 골다공증 치료(에스트로겐을 복용하지 않는 폐경 후 여성에 한함)",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:37Z",
+   "last_observed_at": "2026-09-08T08:31:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:37Z"
+}

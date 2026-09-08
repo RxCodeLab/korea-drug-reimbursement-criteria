@@ -7,11 +7,12 @@
  "permit_date": "19641029",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040213]인삼|[M082091]생지황즙|[M096631]꿀(봉밀)|[M040225]복령",
+ "main_item_ingr": "[M040213]인삼|[M040225]복령|[M082091]생지황즙|[M096631]꿀(봉밀)",
  "main_item_ingr_eng": "Ginseng/Honey/Poria/Rehmanniae Glutinosae Liboschitz var. Purpureae Makino",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196400090",
+ "history_fetched_at": "2026-08-28T13:23:36Z",
  "revisions": [
   {
    "revision_id": "196400090-20a4afa0",
@@ -19,9 +20,9 @@
    "ee_text": "다음의 경우의 자양강장 : 병중병후, 허약체질, 육체피로, 권태, 갱년기 장애",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:23:36Z",
-   "last_observed_at": "2026-08-28T13:23:36Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:15Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:36Z"
+ ]
 }

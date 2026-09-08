@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201559",
+ "item_name": "유니스틴주사액1mg/mL(시스플라틴)(수출명: Newplatin Inj.1mg/mL, Cytosplat Inj.1mg/mL, Nextin Inj.1mg/mL, Kupunistin Inj.1mg/mL, KU Cisplatin Inj.50mg/50mL)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "19921216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081325]시스플라틴",
+ "main_item_ingr_eng": "Cisplatin",
+ "edi_code": "644302871",
+ "atc_code": "L01XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201559",
+ "revisions": [
+  {
+   "revision_id": "199201559-88119334",
+   "content_sha256": "881193347630bde515be223f90fcd89f5ae89676f8113a44cb98c1bbce4ed5da",
+   "ee_text": "고환암, 방광암, 전립선암, 난소암, 두경부암, 폐암, 식도암, 위암, 자궁경부암",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:27Z",
+   "last_observed_at": "2026-09-08T08:28:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:27Z"
+}

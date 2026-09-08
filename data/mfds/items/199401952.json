@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199401952",
+ "item_name": "디프라크림(디플로라손아세테이트)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "19940428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256746]디플로라손아세테이트",
+ "main_item_ingr_eng": "Diflorasone Acetate",
+ "edi_code": "649800322,649800323",
+ "atc_code": "D07AC10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199401952",
+ "revisions": [
+  {
+   "revision_id": "199401952-6003cdef",
+   "content_sha256": "6003cdef6cbf12f934245df7e414fa52d5a0afcb2b865358dc9a00023d6b65d4",
+   "ee_text": "습진ㆍ피부염군(만성단순태선, 지루피부염, 진행성 지장각피증), 건선, 양진군(구진두드러기)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:18Z",
+   "last_observed_at": "2026-09-08T08:29:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:18Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199704621",
+ "item_name": "염몰핀주사(모르핀염산염수화물)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "19970313",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M230907]모르핀염산염수화물",
+ "main_item_ingr_eng": "Morphine Hydrochloride Hydrate",
+ "edi_code": "657801481",
+ "atc_code": "N02AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199704621",
+ "revisions": [
+  {
+   "revision_id": "199704621-240f8144",
+   "content_sha256": "240f8144935ce3ccf91ccabcf6656ffaf77fda45b40efd827f580ff13bcd54e2",
+   "ee_text": "1. 심한 통증의 완화 2. 심한 기침발작의 진정 3. 전신마취의 보조",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:35Z",
+   "last_observed_at": "2026-09-08T08:31:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:35Z"
+}

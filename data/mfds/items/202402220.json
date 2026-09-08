@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402220",
+ "item_name": "니프로카트(탄산수소나트륨)",
+ "entp_name": "주식회사니프로동덕메디칼",
+ "permit_date": "20240911",
+ "cancel_date": "20250616",
+ "status": "폐업",
+ "main_item_ingr": "[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402220",
+ "revisions": [
+  {
+   "revision_id": "202402220-cf257124",
+   "content_sha256": "cf25712479ebbe9f04fee518e4835fab91291d64821594d529260473c4d238b9",
+   "ee_text": "1. 급.만성 신부전 환자의 탄산수소염형 혈액투석시 투석액 조제 2. 유독물 해독을 위한 혈액투석시 투석액 조제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:19Z",
+   "last_observed_at": "2026-09-08T09:03:19Z",
+   "official_revision_date": "2024-09-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:19Z"
+}

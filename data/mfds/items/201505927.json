@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505927",
+ "item_name": "크램팩스정",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20150824",
+ "cancel_date": "20250824",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040063]니코틴산|[M040594]콜레칼시페롤|[M222935]글루콘산칼슘수화물",
+ "main_item_ingr_eng": "Calcium Gluconate Hydrate/Cholecalciferol/Nicotinic Acid",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505927",
+ "revisions": [
+  {
+   "revision_id": "201505927-318abc6f",
+   "content_sha256": "318abc6fa62c979446b8d33db5800a0aa9f50b5c2741b2aa9e25ba3bc8264be6",
+   "ee_text": "야간 근육 경련",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:31Z",
+   "last_observed_at": "2026-09-08T08:49:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:31Z"
+}

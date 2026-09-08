@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197500052",
+ "item_name": "중외옥시토신주",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19751115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281009]옥시토신농축액",
+ "main_item_ingr_eng": "Oxytocin Concentrate Solution",
+ "edi_code": "644903291",
+ "atc_code": "H01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197500052",
+ "revisions": [
+  {
+   "revision_id": "197500052-d94e77ce",
+   "content_sha256": "d94e77ceae7b99553b612c4030cc8f51cb64bc25e870a528a5062609535d7e59",
+   "ee_text": "다음 경우의 자궁수축의 유발, 촉진 및 자궁출혈의 치료 : 분만유도, 진통미약, 분만후 출혈, 이완성 자궁출혈, 자궁퇴축부전, 제왕절개술(태아만출 후), 유산, 인공임신중절",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:21Z",
+   "last_observed_at": "2026-09-08T08:26:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:21Z"
+}

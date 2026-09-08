@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502633",
+ "item_name": "카리올연고",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20150430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200675]베타메타손디프로피오네이트|[M249551]칼시포트리올일수화물",
+ "main_item_ingr_eng": "Betamethasone Dipropionate/Calcipotriol Monohydrate",
+ "edi_code": "653403181",
+ "atc_code": "D05AX52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502633",
+ "revisions": [
+  {
+   "revision_id": "201502633-51b2ec3a",
+   "content_sha256": "51b2ec3ad54ccea626ea235ae64ab376fc9813ba20823e89c7018824b93d4af4",
+   "ee_text": "판상형 건선의 국소치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:56Z",
+   "last_observed_at": "2026-09-08T08:48:56Z",
+   "official_revision_date": "2020-04-06"
+  },
+  {
+   "revision_id": "201502633-5bf05da3",
+   "content_sha256": "5bf05da396441adf999298079cd3106f6f29fc9f1e8642b53893d2fabcdffa1e",
+   "ee_text": "건선의 국소 치료",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:48:56Z",
+   "last_observed_at": "2026-09-08T08:48:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:56Z"
+}

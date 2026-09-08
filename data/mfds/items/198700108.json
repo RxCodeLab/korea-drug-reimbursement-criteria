@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700108",
+ "item_name": "이연트롬빈동결건조분말5000단위",
+ "entp_name": "이연제약(주)",
+ "permit_date": "19870210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040658]트롬빈",
+ "main_item_ingr_eng": "Thrombin",
+ "edi_code": "658601560",
+ "atc_code": "B02BC06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700108",
+ "revisions": [
+  {
+   "revision_id": "198700108-98860a2a",
+   "content_sha256": "98860a2a1efaa71134c77d4e83ed20fc177efec3678a1fbaa46fe3b6866ca733",
+   "ee_text": "통상의 결찰에 의해 지혈이 곤란한 소혈관, 모세혈관 및 실질장기에서의 출혈(예를 들면 외상에 수반하는 출혈, 수술중의 출혈, 골성출혈, 방광출혈, 발치후의 출혈, 비출혈 및 상부소화관에서의 출혈 등)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:20Z",
+   "last_observed_at": "2026-09-08T08:27:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:20Z"
+}

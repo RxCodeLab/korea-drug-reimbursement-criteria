@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200110066",
+ "item_name": "알레락정5㎎(올로파타딘염산염)",
+ "entp_name": "한국쿄와기린(주)",
+ "permit_date": "20020108",
+ "cancel_date": "20251205",
+ "status": "취하",
+ "main_item_ingr": "[M233188]올로파타딘염산염",
+ "main_item_ingr_eng": "Olopatadine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200110066",
+ "revisions": [
+  {
+   "revision_id": "200110066-7006e250",
+   "content_sha256": "7006e250f7cd9d1f14e837d78e222d3df2cd74cbb173d301e206aa482207c9bd",
+   "ee_text": "ㆍ성인 : 알레르기비염, 담마진, 피부질환(습진·피부염, 양진, 피부소양증, 심상성건선)에 따른 가려움증 ㆍ소아 : 알레르기비염, 담마진, 피부질환(습진·피부염, 피부소양증)에 따른 가려움증",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:58Z",
+   "last_observed_at": "2026-09-08T08:35:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:58Z"
+}

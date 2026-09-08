@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200004042",
+ "item_name": "지로티프Ⅱ주(정제브이아이장티푸스백신)",
+ "entp_name": "(주)보령바이오파마",
+ "permit_date": "20000223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091829]장티푸스균정제브이아이협막폴리사카라이드원말(균주:Salmonella typhi Ty2)",
+ "main_item_ingr_eng": "Purified Typhoid VI Polysaccharide Powder (Strain: Salmonella Typhi Ty2)",
+ "edi_code": "",
+ "atc_code": "J07AP03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004042",
+ "revisions": [
+  {
+   "revision_id": "200004042-0973f8a2",
+   "content_sha256": "0973f8a2b640a1acaec857fc7acae31d311654fedbffaa6719d997525e34157b",
+   "ee_text": "장티푸스의 예방",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:13Z",
+   "last_observed_at": "2026-09-08T08:34:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:13Z"
+}

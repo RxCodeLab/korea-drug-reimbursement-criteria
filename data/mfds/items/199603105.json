@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199603105",
+ "item_name": "세파실캡슐(세파드록실일수화물)(수출명:1.CEXILCAP.2.RUSEFASTCap.3.ZICORAXILCap.4.CFD500Cap.)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "19960426",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020179]세파드록실일수화물|[M020179]세파드록실일수화물",
+ "main_item_ingr_eng": "Cefadroxil Monohydrate",
+ "edi_code": "647200300",
+ "atc_code": "J01DB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199603105",
+ "revisions": [
+  {
+   "revision_id": "199603105-dc3f183f",
+   "content_sha256": "dc3f183fb999888cc7046111ca7a3e9c80550894393d96458da44c4be3b6bbfd",
+   "ee_text": "○ 유효균종 베타용혈성연쇄구균, 포도구균(페니실리나제 생성균 포함), 폐렴연쇄구균, 대장균, 프로테우스 미라빌리스, 클레브시엘라 ○ 적응증 - 신우신염, 방광염, 요도염 - 피부 및 피부조직 감염증 - 인두염, 편도염",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:26Z",
+   "last_observed_at": "2026-09-08T08:30:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:26Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605339",
+ "item_name": "파제오0.7%점안액(올로파타딘염산염)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20160831",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233188]올로파타딘염산염",
+ "main_item_ingr_eng": "Olopatadine Hydrochloride",
+ "edi_code": "653603231",
+ "atc_code": "S01GX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605339",
+ "revisions": [
+  {
+   "revision_id": "201605339-978c0b90",
+   "content_sha256": "978c0b90873a9a05e5413f26dc4503fcaf59cf5d9dc135f3ab356a270815df23",
+   "ee_text": "알레르기성 결막염과 관련된 안구 가려움증의 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:11Z",
+   "last_observed_at": "2026-09-08T08:51:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:11Z"
+}

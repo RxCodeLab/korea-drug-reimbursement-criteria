@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700443",
+ "item_name": "코딜라트정(페노테롤브롬화수소산염)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "19871002",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222898]페노테롤브롬화수소산염",
+ "main_item_ingr_eng": "Fenoterol Hydrobromide",
+ "edi_code": "670301320",
+ "atc_code": "R03CC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700443",
+ "revisions": [
+  {
+   "revision_id": "198700443-820fd011",
+   "content_sha256": "820fd01169e9f0886f4fe22708531b5fdf0bf1a2f50b90fca3f996053461135e",
+   "ee_text": "다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:22Z",
+   "last_observed_at": "2026-09-08T08:27:22Z",
+   "official_revision_date": "2020-11-30"
+  },
+  {
+   "revision_id": "198700443-d67d66ba",
+   "content_sha256": "d67d66ba573afed45cc502e907afe0c5c47bb8120a7b6a48958a55b133f5b473",
+   "ee_text": "다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 만성기관지염, 폐기종, 진폐증",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:27:22Z",
+   "last_observed_at": "2026-09-08T08:27:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:22Z"
+}

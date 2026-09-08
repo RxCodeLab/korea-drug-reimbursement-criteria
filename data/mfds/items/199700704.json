@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700704",
+ "item_name": "이지에프외용액0.005%(재조합인간상피세포성장인자)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "19970304",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247622]재조합인간상피세포성장인자 (숙주:Escherichia coli JM101, 벡터:pTE105)",
+ "main_item_ingr_eng": "Recombinant Human Epidermal Growth Factor (Host: Escherichia Coli JM101, Vector: pTE105)",
+ "edi_code": "641602122",
+ "atc_code": "D03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700704",
+ "revisions": [
+  {
+   "revision_id": "199700704-9841c4d1",
+   "content_sha256": "9841c4d10198164ab7027788683861eb2a548b2d4dbe11255d5eb0e083907ee7",
+   "ee_text": "혈당관리가 양호하지 아니한 환자(공복혈당이 140 mg/dl 이상이거나 HbA1c 8% 초과)의 당뇨병성 족부궤양",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:48Z",
+   "last_observed_at": "2026-09-08T08:30:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:48Z"
+}

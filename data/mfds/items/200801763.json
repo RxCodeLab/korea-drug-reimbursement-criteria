@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801763",
+ "item_name": "올로피딘정5밀리그램(올로파타딘염산염)",
+ "entp_name": "(주)제뉴파마",
+ "permit_date": "20080213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233188]올로파타딘염산염",
+ "main_item_ingr_eng": "Olopatadine Hydrochloride",
+ "edi_code": "698003860",
+ "atc_code": "R06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801763",
+ "revisions": [
+  {
+   "revision_id": "200801763-0844b43d",
+   "content_sha256": "0844b43d2231ca5624cf78229e56a57e28117f907d59f5e144ff83127a2552ac",
+   "ee_text": "• 성인 : 알레르기비염, 담마진, 피부질환(습진·피부염, 양진, 피부소양증, 심상성건선)에 따른 가려움증 ⦁ 소아 : 알레르기비염, 담마진, 피부질환(습진·피부염, 피부소양증)에 따른 가려움증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200801763/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:17Z",
+   "last_observed_at": "2026-09-08T08:42:17Z"
+  },
+  {
+   "revision_id": "200801763-e9a82d1c",
+   "content_sha256": "e9a82d1c0f9a0440fe53e2f8e18402d4e0af9bbd923a0fb5502247ae355a820c",
+   "ee_text": "⦁성인 : 알레르기비염, 담마진, 피부질환(습진·피부염, 양진, 피부소양증, 심상성건선)에 따른 가려움증 ⦁소아 : 알레르기비염, 담마진, 피부질환(습진·피부염, 피부소양증)에 따른 가려움증",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:17Z",
+   "last_observed_at": "2026-09-08T08:42:17Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:17Z"
+}

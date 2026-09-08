@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200802232",
+ "item_name": "실루민캡슐11.3mg(황산시부트라민)(수출용)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20080227",
+ "cancel_date": "20251211",
+ "status": "취하",
+ "main_item_ingr": "[M212922]황산시부트라민",
+ "main_item_ingr_eng": "Sibutramine Sulfate",
+ "edi_code": "",
+ "atc_code": "A08AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802232",
+ "revisions": [
+  {
+   "revision_id": "200802232-2890ff17",
+   "content_sha256": "2890ff172e43304e27d254c22ae2cefd574ab9dd8c91b309ad6a08daaf0aa827",
+   "ee_text": "체질량지수(BMI) 30kg/㎡ 이상 또는 다른 위험인자(예: 당뇨, 이상지방혈증)가 있는 체질량지수(BMI) 27kg/㎡ 이상의 비만환자에 있어 저칼로리식이와 함께 체중감소 또는 체중유지를 포함한 비만관리 내에서의 보조요법",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:18Z",
+   "last_observed_at": "2026-09-08T08:42:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:18Z"
+}

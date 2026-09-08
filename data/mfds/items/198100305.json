@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198100305",
+ "item_name": "삼진페니토인나트륨주사100밀리그램",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19811012",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051707]페니토인나트륨",
+ "main_item_ingr_eng": "Phenytoin Sodium",
+ "edi_code": "647801121",
+ "atc_code": "N03AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100305",
+ "revisions": [
+  {
+   "revision_id": "198100305-e3b03129",
+   "content_sha256": "e3b03129fccc00e566eb2bea3455c59ab3b4042b6100e1c83eaeca876aa6d1c8",
+   "ee_text": "(정제)(캡슐제) 뇌전증 : 강직간대발작(대발작), 부분발작(초첨발작), 정신운동성발작 (주사제) 1. 뇌전증중첩상태 2. 경구투여로 발작의 억제가 불가능한 경우(특히 의식장애, 수술중·수술후) 3. 1차라인 치료가 효과적이지 않은 디기탈리스로 유도된 심부정맥",
+   "ee_doc_id": "28",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:45Z",
+   "last_observed_at": "2026-09-08T08:26:45Z",
+   "official_revision_date": "2024-11-20"
+  },
+  {
+   "revision_id": "198100305-6a5df234",
+   "content_sha256": "6a5df23428e3be8750ba1aa2cf95dc2de6a3ca9ab9363e292edd9e2bc91d0a97",
+   "ee_text": "(정제)(캡슐제) 간질 : 강직간대발작(대발작), 부분발작(초첨발작), 정신운동성발작 (주사제) 1. 간질중첩상태 2. 경구투여로 발작의 억제가 불가능한 경우(특히 의식장애, 수술중·수술후) 3. 1차라인 치료가 효과적이지 않은 디기탈리스로 유도된 심부정맥",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:26:45Z",
+   "last_observed_at": "2026-09-08T08:26:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:45Z"
+}

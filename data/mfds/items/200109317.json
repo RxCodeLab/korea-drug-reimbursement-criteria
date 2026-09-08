@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109317",
+ "item_name": "화이자빈크리스틴황산염주1mg/mL",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20010212",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095696]황산빈크리스틴",
+ "main_item_ingr_eng": "Vincristine Sulfate",
+ "edi_code": "648902981,648903111",
+ "atc_code": "L01CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109317",
+ "revisions": [
+  {
+   "revision_id": "200109317-3e183440",
+   "content_sha256": "3e1834402911cc171305d207309a5b135e5f19481f5f8b3d78a76133f44cc7e0",
+   "ee_text": "급성백혈병, 호지킨병, 림프육종, 세망세포육종, 신경모세포종, 횡문근육종, 윌름즈종양(Wilms'tumor) 등의 치료 시 다른 항암제와 병용요법",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:55Z",
+   "last_observed_at": "2026-09-08T08:35:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:55Z"
+}

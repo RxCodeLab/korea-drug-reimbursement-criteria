@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905935",
+ "item_name": "로멕스겔(메트로니다졸)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20190822",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040170]메트로니다졸",
+ "main_item_ingr_eng": "Metronidazole",
+ "edi_code": "057000101,057000103",
+ "atc_code": "D06BX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905935",
+ "revisions": [
+  {
+   "revision_id": "201905935-8cdc7287",
+   "content_sha256": "8cdc7287974a3bf11ea6431db4ec826b530df640ef01e6f6572b5953547dc740",
+   "ee_text": "세균질염(헤모필루스균, 가드네렐라균, 비특이적균, 코리네박테륨 또는 혐기성균에 의한 질염)",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:10Z",
+   "last_observed_at": "2026-09-08T08:56:10Z",
+   "official_revision_date": "2023-01-18"
+  },
+  {
+   "revision_id": "201905935-dfe1ce8a",
+   "content_sha256": "dfe1ce8aee232585c9b1efcef576492cd9958462ed955bac218ae4b30e3edd5f",
+   "ee_text": "- 주사 - 세균질염(헤모필루스균, 가드네렐라균, 비특이적균, 코리네박테륨 또는 혐기성균에 의한 질염)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-08-22",
+   "first_observed_at": "2026-09-08T08:56:10Z",
+   "last_observed_at": "2026-09-08T08:56:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:10Z"
+}

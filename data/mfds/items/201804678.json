@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804678",
+ "item_name": "스트렌투엑스정(애엽95%에탄올연조엑스(20→1))",
+ "entp_name": "(주)일화",
+ "permit_date": "20181127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266999]애엽95%에탄올연조엑스(20→1)",
+ "main_item_ingr_eng": "Artemisiae Argyi Folium 95% Ethanol Soft Extract (20→1)",
+ "edi_code": "640903730",
+ "atc_code": "A02X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804678",
+ "revisions": [
+  {
+   "revision_id": "201804678-3391ade7",
+   "content_sha256": "3391ade7777be7627894f7ed6a55318a1dec4ccc2bca1a8e06cb57c9e9892b1c",
+   "ee_text": "1. 다음 질환의 위점막 병변(미란(짓무름), 출혈, 발적, 부종) 개선 : 급성위염, 만성위염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:51Z",
+   "last_observed_at": "2026-09-08T08:53:51Z",
+   "official_revision_date": "2018-11-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:51Z"
+}

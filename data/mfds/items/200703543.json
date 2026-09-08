@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200703543",
+ "item_name": "프로류킨주(알데스류킨, 유전자재조합)",
+ "entp_name": "클리니젠코리아(유)",
+ "permit_date": "20070328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088553]알데스류킨",
+ "main_item_ingr_eng": "Aldesleukin",
+ "edi_code": "076100031",
+ "atc_code": "L03AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703543",
+ "revisions": [
+  {
+   "revision_id": "200703543-128b6c65",
+   "content_sha256": "128b6c6580aecda7fa36c6e6d3b3c23137a7720ec89f8781d9651897dcd4d22b",
+   "ee_text": "성인(18세 이상)의 전이성 신장세포암, 단 아래의 3가지 예후인자를 동시에 전부 가진 환자는 제외한다. - 환자의 상태가 ECOG(Eastern Cooperative Oncology Group) 1또는 그 이상인 경우 - 전이된 부위(폐전이, 골전이, 기타 부위로의 전이로 분류함)가 1군데보다 많은 경우 - 종양의 최초 진단일과 프로류킨 치료 시작일자 사이의 기간이 24개월 미만인 경우",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:18Z",
+   "last_observed_at": "2026-09-08T08:41:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:18Z"
+}

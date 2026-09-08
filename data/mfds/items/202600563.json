@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600563",
+ "item_name": "페라스틸디액(과아세트산액1.73%)",
+ "entp_name": "(주)에이치피앤씨",
+ "permit_date": "20260225",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269200]과아세트산액1.73%",
+ "main_item_ingr_eng": "Peracetic Acid Solution 1.73%",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600563",
+ "revisions": [
+  {
+   "revision_id": "202600563-b7cbdec0",
+   "content_sha256": "b7cbdec0294ec9983c3ab3fe16f51cb50587088f3ab630a8fd30b5a7f9bbad34",
+   "ee_text": "혈액투석장치의 세척 및 멸균",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:49Z",
+   "last_observed_at": "2026-09-08T09:04:49Z",
+   "official_revision_date": "2026-02-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:49Z"
+}

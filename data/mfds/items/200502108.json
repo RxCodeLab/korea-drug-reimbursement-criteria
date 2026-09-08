@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502108",
+ "item_name": "엘카닌주20아이유(엘카토닌)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20051201",
+ "cancel_date": "20260401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M085515]엘카토닌",
+ "main_item_ingr_eng": "Elcatonin",
+ "edi_code": "657801421",
+ "atc_code": "H05BA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502108",
+ "revisions": [
+  {
+   "revision_id": "200502108-3c78e5eb",
+   "content_sha256": "3c78e5ebd2f9975097467064600c7ff83ad4fdf8f3e5af7fef2e28cec65edada",
+   "ee_text": "골다공증, 고칼슘혈증, 파제트병",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:17Z",
+   "last_observed_at": "2026-09-08T08:39:17Z",
+   "official_revision_date": "2019-01-15"
+  },
+  {
+   "revision_id": "200502108-0b4943ff",
+   "content_sha256": "0b4943ff281759cf4766087ea4fa91eb13d007082c17cd2db2a5a339213afcc8",
+   "ee_text": "골다공증",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:39:17Z",
+   "last_observed_at": "2026-09-08T08:39:17Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:17Z"
+}

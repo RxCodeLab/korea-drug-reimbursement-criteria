@@ -7,7 +7,7 @@
  "permit_date": "20161020",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M243979]탐스로신염산염|[M095435]타다라필",
+ "main_item_ingr": "[M095435]타다라필|[M243979]탐스로신염산염",
  "main_item_ingr_eng": "Tadalafil/Tamsulosin Hydrochloride",
  "edi_code": "",
  "atc_code": "G04CA54",
@@ -20,7 +20,8 @@
    "ee_text": "양성 전립선 비대증과 발기부전 치료를 위해 탐스로신염산염과 타다라필의 병용투여를 대체하는 경우에 사용한다.",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201606202/EE",
    "first_observed_at": "2026-08-27T13:23:11Z",
-   "last_observed_at": "2026-08-28T13:24:53Z"
+   "last_observed_at": "2026-09-08T08:51:17Z",
+   "normalizer_version": 3
   }
  ]
 }

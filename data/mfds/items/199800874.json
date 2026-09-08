@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199800874",
+ "item_name": "터치메드연고",
+ "entp_name": "동화약품(주)",
+ "permit_date": "19980217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215133]에녹솔론|[M224138]아줄렌설폰산나트륨|[M279321]염화세틸피리디늄",
+ "main_item_ingr_eng": "Cetylpyridinium Chloride/Enoxolone/Soluble Azulene",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199800874",
+ "revisions": [
+  {
+   "revision_id": "199800874-def64a97",
+   "content_sha256": "def64a97e8ce8c92082d2c684781b6ac28105445732a9c95dee304491056e6d2",
+   "ee_text": "구내염, 설염.",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:44Z",
+   "last_observed_at": "2026-09-08T08:31:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:44Z"
+}

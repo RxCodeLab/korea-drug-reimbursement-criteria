@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908661",
+ "item_name": "레코벨프리필드펜(폴리트로핀델타)(유전자재조합)",
+ "entp_name": "한국페링제약(주)",
+ "permit_date": "20191227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270741]폴리트로핀델타|[M270741]폴리트로핀델타|[M270741]폴리트로핀델타",
+ "main_item_ingr_eng": "Follitropin delta",
+ "edi_code": "652500421,652500422,652500423",
+ "atc_code": "G03GA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908661",
+ "revisions": [
+  {
+   "revision_id": "201908661-df7e60a4",
+   "content_sha256": "df7e60a4b81be2b3a48433092956bddc72ea12d197d3e67ca9f772eb33808952",
+   "ee_text": "체외수정(in vitro fertilization, IVF) 또는 세포질 내 정자 주입술(intracytoplasmic sperm injection, ICSI)과 같은 보조생식술(Assisted Reproductive Technology, ART)을 받는 여성에서 다수의 난포를 성숙시키기 위한 조절된 난소 자극(Controlled Ovarian Stimulation)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:21Z",
+   "last_observed_at": "2026-09-08T08:57:21Z",
+   "official_revision_date": "2019-12-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:21Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201103168",
+ "item_name": "로이코소듐주5%(폴리네이트나트륨)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20110516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252178]폴리네이트나트륨",
+ "main_item_ingr_eng": "Sodium Folinate",
+ "edi_code": "649805341,649806111",
+ "atc_code": "V03AF06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103168",
+ "revisions": [
+  {
+   "revision_id": "201103168-375af1dd",
+   "content_sha256": "375af1dd92d536a68a061bd5b176d9952906ecd6974e29afc902e50fac745ef8",
+   "ee_text": "1. 엽산대사길항제의 독성경감 2. 진행성대장암에서 5-Fluorouracil(5-FU)과의 병용투여",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:37Z",
+   "last_observed_at": "2026-09-08T08:44:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:37Z"
+}

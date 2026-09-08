@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003497",
+ "item_name": "모글원큐스프레이",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20200514",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222851]벤지다민염산염|[M250372]세틸피리디늄염화물수화물",
+ "main_item_ingr_eng": "Benzydamine Hydrochloride/Cetylpyridinium Chloride Hydrate",
+ "edi_code": "",
+ "atc_code": "R02AX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003497",
+ "revisions": [
+  {
+   "revision_id": "202003497-7fa094b0",
+   "content_sha256": "7fa094b0e47fc08b60049da54bfb91f66ba41eda4078c03b55cde6980d773f8f",
+   "ee_text": "다음 질환에 의한 통증 및 염증 완화 및 살균: 치은염, 구내염, 인두염, 후두염, 발치 전·후",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:47Z",
+   "last_observed_at": "2026-09-08T08:58:47Z",
+   "official_revision_date": "2020-05-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:47Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007064",
+ "item_name": "비코윈정",
+ "entp_name": "코스맥스파마(주)",
+ "permit_date": "20201015",
+ "cancel_date": "20251015",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050687]비사코딜|[M081950]도큐세이트나트륨|[M085757]티니벨리센나열매가루|[M110305]센나엽 가루",
+ "main_item_ingr_eng": "Bisacodyl/Docusate Sodium/Senna Leaf Powder/Tinnevelly Senna Fruit Powder",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007064",
+ "revisions": [
+  {
+   "revision_id": "202007064-5b266025",
+   "content_sha256": "5b2660256010bb704afdcd6637560a95e3d44292e639ef282c16d6fc9723e4a1",
+   "ee_text": "․ 변비 ․ 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:31Z",
+   "last_observed_at": "2026-09-08T08:59:31Z",
+   "official_revision_date": "2020-10-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:31Z"
+}

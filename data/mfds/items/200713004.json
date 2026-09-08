@@ -7,20 +7,13 @@
  "permit_date": "20071204",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M096429]시아노코발라민|[M204304]피리독신염산염|[M040133]리보플라빈|[M223258]티아민염산염|[M258994]아스코르브산|[M223240]토코페롤아세테이트|[M200412]로얄젤리",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M096429]시아노코발라민|[M200412]로얄젤리|[M204304]피리독신염산염|[M223240]토코페롤아세테이트|[M223258]티아민염산염|[M258994]아스코르브산",
  "main_item_ingr_eng": "Ascorbic Acid/Cyanocobalamin/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Royal Jelly/Thiamine Hydrochloride/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713004",
+ "history_fetched_at": "2026-09-08T08:42:04Z",
  "revisions": [
-  {
-   "revision_id": "200713004-dcad61d5",
-   "content_sha256": "dcad61d5ec182390a60c9a097c3aeb92f19411669162dc05f2afe4859a36aea4",
-   "ee_text": "1 , B 2 , B 6 , C, E의 보급.\">",
-   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200713004/EE",
-   "first_observed_at": "2026-08-28T13:24:15Z",
-   "last_observed_at": "2026-08-28T13:24:15Z"
-  },
   {
    "revision_id": "200713004-6e2a3ef4",
    "content_sha256": "6e2a3ef4cee55416064f34a023fff70254e0cc2bfc897160f1b0c02a6ab2d338",
@@ -28,8 +21,16 @@
    "ee_doc_id": "14",
    "official_revision_date": "2017-09-23",
    "first_observed_at": "2026-08-28T13:24:15Z",
+   "last_observed_at": "2026-09-08T08:42:04Z",
+   "normalizer_version": 3
+  },
+  {
+   "revision_id": "200713004-dcad61d5",
+   "content_sha256": "dcad61d5ec182390a60c9a097c3aeb92f19411669162dc05f2afe4859a36aea4",
+   "ee_text": "1 , B 2 , B 6 , C, E의 보급.\">",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200713004/EE",
+   "first_observed_at": "2026-08-28T13:24:15Z",
    "last_observed_at": "2026-08-28T13:24:15Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:15Z"
+ ]
 }

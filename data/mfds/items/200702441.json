@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200702441",
+ "item_name": "스코렉스정[마늘건조엑스(100→1)](수출명:수퍼키드정)(수출용)",
+ "entp_name": "삼익제약(주)",
+ "permit_date": "20070226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M272535]마늘 건조엑스(100→1)",
+ "main_item_ingr_eng": "Allium Sativum Dried Extract (100→1)",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702441",
+ "revisions": [
+  {
+   "revision_id": "200702441-badadcea",
+   "content_sha256": "badadcea5904ad70e528c40c06735b00cd10492c0a90beaeeecd1006b0a6a958",
+   "ee_text": "피로 및 권태감, 신경통, 류마티즘, 허약체질, 식욕부진, 신진대사 이상, 결핵성 환자의 체력증강, 유즙부족",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:09Z",
+   "last_observed_at": "2026-09-08T08:41:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:09Z"
+}

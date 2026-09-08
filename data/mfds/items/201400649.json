@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400649",
+ "item_name": "레이버솔주350(이오버솔)(수출용)",
+ "entp_name": "일성아이에스(주)",
+ "permit_date": "20140213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088691]이오버솔",
+ "main_item_ingr_eng": "Ioversol",
+ "edi_code": "",
+ "atc_code": "V08AB07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400649",
+ "revisions": [
+  {
+   "revision_id": "201400649-3713ccc1",
+   "content_sha256": "3713ccc1e7e95129155ad1cf2145e7c6f048e11ce580d4341bde0b3ee85246ea",
+   "ee_text": "관상동맥조영 및 좌심실조영, CT 조영증강(두부, 체부), 정맥요로조영(IVP), 정맥조영, 정맥 디지털감산혈관조영(IVDSA)",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:47Z",
+   "last_observed_at": "2026-09-08T08:46:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:47Z"
+}

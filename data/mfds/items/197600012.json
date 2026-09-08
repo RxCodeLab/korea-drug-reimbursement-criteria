@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197600012",
+ "item_name": "마이센스과립(온경탕)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19760114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245463]온경탕연조엑스(4.45→1)",
+ "main_item_ingr_eng": "Onkyung-tang Soft Extract (4.45→1)",
+ "edi_code": "",
+ "atc_code": "G02CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600012",
+ "revisions": [
+  {
+   "revision_id": "197600012-db7da9c6",
+   "content_sha256": "db7da9c612514b1fcaa902a664a15d7696785c83d7e31082a9ba1667d05e7d7c",
+   "ee_text": "손발이 화끈거리며 입술이 마르는 사람의 다음 증상 : 월경불순, 월경곤란, 대하, 갱년기장애, 불면, 신경과민, 습진, 하지의 냉감, 동창",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:23Z",
+   "last_observed_at": "2026-09-08T08:26:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:23Z"
+}

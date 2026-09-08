@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502643",
+ "item_name": "정주용 헤파불린에스앤주(정맥주사용 B형 간염 사람면역글로불린)",
+ "entp_name": "에스케이플라즈마(주)",
+ "permit_date": "20150430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M010128]B형간염사람면역글로불린|[M010128]B형간염사람면역글로불린",
+ "main_item_ingr_eng": "Hepatitis B Human Normal Immunoglobulin",
+ "edi_code": "050800241,050800381",
+ "atc_code": "J06BB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502643",
+ "revisions": [
+  {
+   "revision_id": "201502643-b0af0d9e",
+   "content_sha256": "b0af0d9e458bd5c068e57d3f565ef87738802d5f5dfa8958c12984ba620c5b61",
+   "ee_text": "간이식환자에서 B형 간염의 재발 방지",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:57Z",
+   "last_observed_at": "2026-09-08T08:48:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:57Z"
+}

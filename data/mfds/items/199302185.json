@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199302185",
+ "item_name": "파라손연고(퓨시드산나트륨)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "19931204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243954]퓨시드산나트륨",
+ "main_item_ingr_eng": "Sodium Fusidate",
+ "edi_code": "",
+ "atc_code": "D06AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199302185",
+ "revisions": [
+  {
+   "revision_id": "199302185-eed7711b",
+   "content_sha256": "eed7711b7589b179abf5ff5c0c3a26079de1b3c20a0ff9b0479f646cda3ea530",
+   "ee_text": "○ 유효균종 포도구균, 연쇄구균, 코리네박테륨, 클로스트리듐 ○ 적응증 - 농피증(고름피부증)(농가진(고름딱지증), 감염성습진양피부염, 심상성여드름(보통여드름), 모낭염, 종기 및 종기증, 화농성한선염, 농가진성(고름딱지증성)습진), 화상ㆍ외상(상처)ㆍ봉합(꿰맴)창ㆍ식피창(피부이식 후 생긴 상처)에 의한 2차 감염",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:51Z",
+   "last_observed_at": "2026-09-08T08:28:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:51Z"
+}

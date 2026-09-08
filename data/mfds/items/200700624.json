@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200700624",
+ "item_name": "스코테린액(과아세트산액0.13%)",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20070117",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258141]과아세트산액0.13%",
+ "main_item_ingr_eng": "Peracetic Acid Solution 0.13%",
+ "edi_code": "670400030",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700624",
+ "revisions": [
+  {
+   "revision_id": "200700624-fc2dbac6",
+   "content_sha256": "fc2dbac6a29735d2b6ce45136ff7f64cbe02e3f65085e82a1684d6c044ea5ed3",
+   "ee_text": "의료기구의 멸균 및 살균소독 (열에 민감한 내시경 포함)",
+   "ee_doc_id": "32",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:54Z",
+   "last_observed_at": "2026-09-08T08:40:54Z",
+   "official_revision_date": "2017-12-06"
+  },
+  {
+   "revision_id": "200700624-eb89962f",
+   "content_sha256": "eb89962f7e1dbdff59ebea123abab99179cd12af90a17724a530d76f396531f2",
+   "ee_text": "의료기구의 살균ㆍ소독 : 자바라관, 실리콘 튜브, 비닐 튜브, 실리콘캡, 실리콘 마개, 메스 손잡이, 내시경류",
+   "ee_doc_id": "31",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:40:54Z",
+   "last_observed_at": "2026-09-08T08:40:54Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:54Z"
+}

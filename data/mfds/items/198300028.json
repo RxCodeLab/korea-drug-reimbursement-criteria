@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300028",
+ "item_name": "자미온과립(산조인탕)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19830629",
+ "cancel_date": "20231001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M245466]산조인탕연조엑스(8.04→1)",
+ "main_item_ingr_eng": "",
+ "edi_code": "",
+ "atc_code": "N05CM",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300028",
+ "revisions": [
+  {
+   "revision_id": "198300028-411199cf",
+   "content_sha256": "411199cf5fdf40c21796b8460c41e18fdde472ee2ea4a8ecc0790fb12622bf23",
+   "ee_text": "심신이 피로하고 허약하여 잠을 자지 못하는 경우",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:50Z",
+   "last_observed_at": "2026-09-08T08:26:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:50Z"
+}

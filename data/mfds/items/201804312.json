@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804312",
+ "item_name": "가네리버연질캡슐175mg(밀크시슬열매건조엑스)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20181031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268656]밀크시슬열매건조엑스",
+ "main_item_ingr_eng": "Milk-Thistle Fruit Dried Extract",
+ "edi_code": "649104110",
+ "atc_code": "A05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804312",
+ "revisions": [
+  {
+   "revision_id": "201804312-bfb18088",
+   "content_sha256": "bfb180885e7c393eedaf85b56b8086895ea6e55403416d76d93454f4a9748137",
+   "ee_text": "다음 질환의 보조 치료 : 독성 간질환 , 만성 간염, 간경변",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:46Z",
+   "last_observed_at": "2026-09-08T08:53:46Z",
+   "official_revision_date": "2018-10-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:46Z"
+}

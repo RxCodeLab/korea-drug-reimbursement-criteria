@@ -7,7 +7,7 @@
  "permit_date": "20060629",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M247470]시트르산칼슘수화물|[M099907]콜레칼시페롤과립",
+ "main_item_ingr": "[M099907]콜레칼시페롤과립|[M247470]시트르산칼슘수화물",
  "main_item_ingr_eng": "Calcium Citrate Hydrate/Cholecalciferol Granules",
  "edi_code": "657801750",
  "atc_code": "A12AX",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:37:01Z",
  "revisions": [
   {
-   "revision_id": "200607004-f7022ca8",
-   "content_sha256": "f7022ca8a2c11c117c38b8a737bf75f221d6de68eff4fd53217e5b5e6622dbda",
-   "ee_text": "- 임신·수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능᠊효과는 다음과 같다. ⦁ 뼈, 이의 발육불량 ⦁ 구루병의 예방",
+   "revision_id": "200607004-062ea2e0",
+   "content_sha256": "062ea2e0477b8da4d62eb6f31a4bbdc9b85133b1e7c537309a3a7a18b2a58e18",
+   "ee_text": "1. 다음 경우의 비타민D의 보급 - 임신·수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능᠊효과는 다음과 같다. ⦁ 뼈, 이의 발육불량 ⦁ 구루병의 예방 2. 칼슘결핍 및 기타 칼슘의 보급",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200607004/EE",
    "first_observed_at": "2026-08-27T10:37:01Z",
-   "last_observed_at": "2026-08-28T13:24:10Z"
+   "last_observed_at": "2026-09-08T08:40:28Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200607004-e3b0c442",

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200009117",
+ "item_name": "온코타이스주(비씨지StrainTice)",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "20000616",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M237135]비씨지(Tice균주)",
+ "main_item_ingr_eng": "BCG (Tice)",
+ "edi_code": "655501211",
+ "atc_code": "L03AX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009117",
+ "revisions": [
+  {
+   "revision_id": "200009117-546a7ddc",
+   "content_sha256": "546a7ddc5b21ab06e68a6111ecf41c5b6bdf691b59b1c7e2698e0c113a7ff1b7",
+   "ee_text": "방광 요로상피내암(CIS) 및 Ta 또는 T1단계의 초기나 재발의 표재성 요로상피 세포암의 경요도절제술(TUR) 후 보조요법",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:42Z",
+   "last_observed_at": "2026-09-08T08:34:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:42Z"
+}

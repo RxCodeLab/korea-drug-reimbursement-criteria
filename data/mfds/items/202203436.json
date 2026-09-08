@@ -3,7 +3,7 @@
  "complete": true,
  "item_seq": "202203436",
  "item_name": "지엘디에노게스트정2밀리그램",
- "entp_name": "지엘파마(주)",
+ "entp_name": "지엘팜텍(주)",
  "permit_date": "20220830",
  "cancel_date": "",
  "status": "정상",
@@ -12,6 +12,7 @@
  "edi_code": "649702940",
  "atc_code": "G03DB08",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203436",
+ "history_fetched_at": "2026-08-27T13:17:21Z",
  "revisions": [
   {
    "revision_id": "202203436-ff14c775",
@@ -19,9 +20,9 @@
    "ee_text": "자궁내막증",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:17:21Z",
-   "last_observed_at": "2026-08-27T13:17:21Z",
-   "official_revision_date": "2022-08-30"
+   "last_observed_at": "2026-09-08T09:01:32Z",
+   "official_revision_date": "2022-08-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:17:21Z"
+ ]
 }

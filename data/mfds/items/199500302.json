@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199500302",
+ "item_name": "오페란점안액(오플록사신)(수출명:비플록사신점안액,픽소미나점안액)",
+ "entp_name": "국제약품(주)",
+ "permit_date": "19950426",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081639]오플록사신",
+ "main_item_ingr_eng": "Ofloxacin",
+ "edi_code": "643701851",
+ "atc_code": "S01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500302",
+ "revisions": [
+  {
+   "revision_id": "199500302-509a9661",
+   "content_sha256": "509a9661b6808cbfe34197913af6019e6a07e7a75d4f09b1611aae79f4390729",
+   "ee_text": "<유효균종> 본제 감수성의 포도구균속, 연쇄상구균속, 폐렴구균, 장구균속, 소구균속, 모락셀라속, 간균속, 클렙시엘라속, 세라치아속, 프로테우스속, 모르가넬라 모르가니, 프로비덴시아속, 혈호균속[인플루엔자균, 헤모필루스 애집티우스 (Koch-Weeks bacillus)], 슈도모나스속, 녹농균, 벅홀데리아 세파시스, 스테노트로포모나스(산토모나스)말토필리아, 아시네토박터속, 프로피오니박테리움아크네스 <적응증> 안검염, 누낭염, 맥립종, 결막염, 검판선염, 각막염(각막궤양을 포함), 안과 수술 전후의 무균화 요법",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:26Z",
+   "last_observed_at": "2026-09-08T08:29:26Z",
+   "official_revision_date": "2023-03-22"
+  },
+  {
+   "revision_id": "199500302-43acca8d",
+   "content_sha256": "43acca8ddf7f90f62d121f2c00bf515c9559e502b0c80e663e5fd6421f6b5f20",
+   "ee_text": "<유효군종> 본제 감수성의 포도구균속, 연쇄상구균속, 폐렴구균, 장구균속, 소구균속, 모락셀라속, 간균속, 클렙시엘라속, 세라치아속, 프로테우스속, 모르가넬라 모르가니, 프로비덴시아속, 혈호균속[인플루엔자균, 헤모필루스 애집티우스 (Koch-Weeks bacillus)], 슈도모나스속, 녹농균, 벅홀데리아 세파시스, 스테노트로포모나스(산토모나스)말토필리아, 아시네토박터속, 프로피오니박테리움아크네스 <적응증> 안검염, 누낭염, 맥립종, 결막염, 검판선염, 각막염(각막궤양을 포함), 안과 수술 전후의 무균화 요법",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:29:26Z",
+   "last_observed_at": "2026-09-08T08:29:26Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:26Z"
+}

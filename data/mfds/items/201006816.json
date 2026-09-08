@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201006816",
+ "item_name": "글리올란(5-아미노레불린산염산염)",
+ "entp_name": "베르토코리아유한책임회사",
+ "permit_date": "20101112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251111]5-아미노레불린산 염산염",
+ "main_item_ingr_eng": "5-Aminolevulinic Acid Hydrochloride",
+ "edi_code": "",
+ "atc_code": "L01XD04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006816",
+ "revisions": [
+  {
+   "revision_id": "201006816-9da64809",
+   "content_sha256": "9da64809b3874c167543a81bdcd5e93a765becd37cf53bc8581028de4fb07e0c",
+   "ee_text": "성인환자의 악성 신경교종(WHO grade III, IV) 수술 시 악성 조직의 시각화",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:18Z",
+   "last_observed_at": "2026-09-08T08:44:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:18Z"
+}

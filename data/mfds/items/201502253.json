@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502253",
+ "item_name": "에프벡스쿨플라스타(플루르비프로펜)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20150415",
+ "cancel_date": "20250415",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051827]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502253",
+ "revisions": [
+  {
+   "revision_id": "201502253-eaa1767d",
+   "content_sha256": "eaa1767d6993fe39abb0bd74039df9c96ca6a2e5a5d6346af704cfa669f4e6a8",
+   "ee_text": "다음 질환 및 증상의 진통, 소염(항염) 1. 퇴행성관절염(골관절염) 2. 어깨관절주위염 3. 건(힘줄)·건초(힘줄윤활막)염 4. 상완골(위팔뼈)상과염(테니스엘보우 등) 5. 근육통 6. 외상(상처)후의 종창(부기)·동통(통증)",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:48Z",
+   "last_observed_at": "2026-09-08T08:48:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:48Z"
+}

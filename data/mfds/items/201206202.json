@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206202",
+ "item_name": "에코덤합텐항원류",
+ "entp_name": "주식회사에코덤",
+ "permit_date": "20120720",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093527]알러젠추출물",
+ "main_item_ingr_eng": "Allergen Extract",
+ "edi_code": "",
+ "atc_code": "V01AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206202",
+ "revisions": [
+  {
+   "revision_id": "201206202-8d497677",
+   "content_sha256": "8d4976774ee3f9d50265ecd19c75d8e90f327234d3e0d6c807e1f5ebb5f9f134",
+   "ee_text": "알레르기성 접촉성피부질환의 알레르겐의 확인",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:24Z",
+   "last_observed_at": "2026-09-08T08:45:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:24Z"
+}

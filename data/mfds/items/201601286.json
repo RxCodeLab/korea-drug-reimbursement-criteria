@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201601286",
+ "item_name": "프락스바인드주사제(이다루시주맙)",
+ "entp_name": "한국베링거인겔하임(주)",
+ "permit_date": "20160304",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263645]이다루시주맙",
+ "main_item_ingr_eng": "Idarucizumab",
+ "edi_code": "653501561",
+ "atc_code": "V03AB37",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601286",
+ "revisions": [
+  {
+   "revision_id": "201601286-2dd939a9",
+   "content_sha256": "2dd939a92b80c7215490305086e39703fd388ccecea4e61c32d2493f480a8f66",
+   "ee_text": "이 약은 프라닥사캡슐(다비가트란에텍실레이트메실산염) 특이적 역전제로서 프라닥사캡슐 투여 환자에서 다음과 같은 항응고효과의 긴급 역전이 필요한 경우에 사용한다. ㆍ 응급 수술/긴급 처치 시 ㆍ 생명을 위협하거나 조절되지 않는 출혈 발생 시",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:19Z",
+   "last_observed_at": "2026-09-08T08:50:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:19Z"
+}

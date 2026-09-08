@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200802869",
+ "item_name": "영풍날리딕스산정500mg(수출용)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20080314",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040054]날리딕스산",
+ "main_item_ingr_eng": "Nalidixic Acid",
+ "edi_code": "",
+ "atc_code": "J01MB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802869",
+ "revisions": [
+  {
+   "revision_id": "200802869-6ac0a873",
+   "content_sha256": "6ac0a87372812ff5cf4757c9c9e9f0aabbb70ed3d34da2bc250621cf1f4f91a8",
+   "ee_text": "1. 유효균종 1) 대장균, 이질균, 장염비브리오균 2) 감성 프로테우스속, 폐염간균, 살모넬라균속(파라티프스 A균, 티프스균파라티프스 B균 제외), 콜레브시엘라, 엔테로박테르속, 균종(명칭변경) : 그람음성균, 간균 2. 적응증 1) 주 효능효과 신우신염, 신우염, 방광염, 요도염 2) 다음 질환에도 사용할 수 있다. 임질, 세균성이질, 장염, 담낭담관염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:21Z",
+   "last_observed_at": "2026-09-08T08:42:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:21Z"
+}

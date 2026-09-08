@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800009",
+ "item_name": "아카리작스12SQ집먼지진드기 설하정",
+ "entp_name": "한국애보트(유)",
+ "permit_date": "20180102",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267181]집먼지진드기정제추출물(Der pte)|[M267182]집먼지진드기정제추출물(Der far)",
+ "main_item_ingr_eng": "Purified House Dust Mite Allergen Extract (Der far)/Purified House Dust Mite Allergen Extract (Der pte)",
+ "edi_code": "",
+ "atc_code": "V01AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800009",
+ "revisions": [
+  {
+   "revision_id": "201800009-4a6e9db9",
+   "content_sha256": "4a6e9db937f331cbbabdca748864f23adaaabe8cb8c9d041067d5e8cc5593756",
+   "ee_text": "5세 이상의 소아 및 성인에서 약물로 증상이 조절되지 않는 집먼지진드기에 의한 중등도~중증의 알레르기성 비염의 치료 성인에서 약물로 증상이 조절되지 않는 집먼지진드기에 의한 알레르기성 천식의 치료",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:45Z",
+   "last_observed_at": "2026-09-08T08:52:45Z",
+   "official_revision_date": "2025-04-18"
+  },
+  {
+   "revision_id": "201800009-ea22e885",
+   "content_sha256": "ea22e8852d56194caaf10106ff85439bca8ce4c306a027aad3def4e74f4f49ae",
+   "ee_text": "성인 및 만12세 이상 소아에서 약물로 증상이 조절되지 않는 집먼지진드기에 의한 중등도~중증의 알레르기성 비염의 치료 성인에서 약물로 증상이 조절되지 않는 집먼지진드기에 의한 알레르기성 천식의 치료",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-01-03",
+   "first_observed_at": "2026-09-08T08:52:45Z",
+   "last_observed_at": "2026-09-08T08:52:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:45Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199202409",
+ "item_name": "아이오브릭스주240(이오헥솔)",
+ "entp_name": "(주)태준제약",
+ "permit_date": "19920226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088960]이오헥솔",
+ "main_item_ingr_eng": "Iohexol",
+ "edi_code": "650100632,650100634",
+ "atc_code": "V08AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199202409",
+ "revisions": [
+  {
+   "revision_id": "199202409-c9eb9f26",
+   "content_sha256": "c9eb9f2699cd9365ccc8ac8d6ec9d7698e80dd85ba410f819b86abd045be8b5d",
+   "ee_text": "1. 척수조영 2. 혈관조영 3. CT 조영증강 4. 체강조영 : 관절조영, 내시경역행췌담관조영(ERP/ERCP), 헤르니아조영, 자궁난관조영, 침샘조영, 소화관조영",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:32Z",
+   "last_observed_at": "2026-09-08T08:28:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:32Z"
+}

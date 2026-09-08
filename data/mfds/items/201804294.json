@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:01:39Z",
  "revisions": [
   {
-   "revision_id": "201804294-83e57e4d",
-   "content_sha256": "83e57e4d8236fadb3e2985794b4c9b434bf47f21b49fd1721c23350af39714cb",
-   "ee_text": "1.중등도의 통증(특히 수술 후)의 단기간 치료 2.발열의 단기간 치료",
+   "revision_id": "201804294-e239b8b9",
+   "content_sha256": "e239b8b910f73f8a533598195dc2e25d6c13fc7d7018eefaa605da5c62d8c7db",
+   "ee_text": "통증이나 고열로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 1.중등도의 통증(특히 수술 후)의 단기간 치료 2.발열의 단기간 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201804294/EE",
    "first_observed_at": "2026-08-27T13:01:39Z",
-   "last_observed_at": "2026-08-28T13:25:02Z"
+   "last_observed_at": "2026-09-08T08:53:45Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201804294-f06a2360",

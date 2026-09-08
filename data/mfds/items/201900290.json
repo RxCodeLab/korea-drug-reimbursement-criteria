@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900290",
+ "item_name": "목앤파워스프레이(플루르비프로펜)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20190121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "R02AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900290",
+ "revisions": [
+  {
+   "revision_id": "201900290-dddf96ff",
+   "content_sha256": "dddf96ffc82eb03cb8c613563e4360c93d3ec8dac1e7c07be9b2e2c3f7d257ea",
+   "ee_text": "인후염의 단기 증상 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:06Z",
+   "last_observed_at": "2026-09-08T08:54:06Z",
+   "official_revision_date": "2019-01-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:06Z"
+}

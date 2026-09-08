@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200009043",
+ "item_name": "지이헬스케어세레텍주사(엑사메타짐)",
+ "entp_name": "지이헬스케어에이에스한국지점",
+ "permit_date": "20000829",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089319]엑사메타짐",
+ "main_item_ingr_eng": "Exametazime",
+ "edi_code": "",
+ "atc_code": "V09AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009043",
+ "revisions": [
+  {
+   "revision_id": "200009043-fb1322da",
+   "content_sha256": "fb1322da32d52926924204f565a6f66cd878c6518cbce662888e1458287897cf",
+   "ee_text": "1. 진단용 방사성의약품인 엑사메타짐테크네튬(99mTc) 주사액의 조제용 2. 엑사메타짐테크네튬(99mTc) 주사액의 효능ㆍ효과 성인 및 소아에서, 1) 뇌 관류 SPECT에서 다음을 포함하는 국부 뇌혈류 이상의 진단 - 뇌혈관질환(특히 급성 뇌졸중, 만성 허혈 및 일시적 허혈성 발작)을 가지고 있는 환자의 평가 - 간질 병소의 수술 전 측면화 및 국소화 - 치매(특히 알츠하이머병 및 전두측두엽 치매)가 의심되는 환자의 평가 - 뇌사 진단의 보조 기술 2) in vitro에서 백혈구를 엑사메타짐테크네튬(99mTc)으로 표지한 후 재주사하여 그 위치에 대한 신티그래피 : 국소감염부위(복부내 감염)의 확인, 염증성 장질환의 위치 확인",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:39Z",
+   "last_observed_at": "2026-09-08T08:34:39Z",
+   "official_revision_date": "2021-03-23"
+  },
+  {
+   "revision_id": "200009043-1f813e4a",
+   "content_sha256": "1f813e4a4046b0ed66d333ccf4352141d29cc745048149cc04b93ddfc5bb7ff6",
+   "ee_text": "1. 진단용 방사성의약품인 엑사메타짐테크네튬(99mTc) 주사액의 조제용 2. 엑사메타짐테크네튬(99mTc) 주사액의 효능ㆍ효과 1) 뇌 신티그래피 뇌졸중, 다른 뇌혈관 질환, 간질, 알츠하이머병, 다른 형태의 치매, 일시적 허혈성 발작, 편두통, 뇌종양 등으로 발생하는 국부 뇌혈류 이상의 진단 2) in vitro에서 백혈구를 엑사메타짐테크네튬(99mTc)으로 표지한 후 재주사하여 그 위치에 대한 신티그래피 : 국소감염부위(복부내 감염)의 확인, 염증성 장질환의 위치 확인",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:34:39Z",
+   "last_observed_at": "2026-09-08T08:34:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:39Z"
+}

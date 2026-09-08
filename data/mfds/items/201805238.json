@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805238",
+ "item_name": "훼럼포유연질캡슐",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20181224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223289]폴산|[M254564]폴리말토오스수산화제이철착염",
+ "main_item_ingr_eng": "Ferric Hydroxide Polymaltose Complex/Folic Acid",
+ "edi_code": "",
+ "atc_code": "B03AD04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805238",
+ "revisions": [
+  {
+   "revision_id": "201805238-1681c4cf",
+   "content_sha256": "1681c4cfa0daf817c00737ea1b0f63d6a0af5071aa3e2dca44878822c03a789f",
+   "ee_text": "철 결핍성 빈혈",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:57Z",
+   "last_observed_at": "2026-09-08T08:53:57Z",
+   "official_revision_date": "2018-12-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:57Z"
+}

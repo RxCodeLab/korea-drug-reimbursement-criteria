@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201191",
+ "item_name": "다이펜탈크림(천연캡사이신)",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20020823",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050720]천연캡사이신",
+ "main_item_ingr_eng": "Capsaicin",
+ "edi_code": "664600381",
+ "atc_code": "M02AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201191",
+ "revisions": [
+  {
+   "revision_id": "200201191-d577ec39",
+   "content_sha256": "d577ec39128b6ecb15842ab598678f768eb65af583efc64fd275fa63eb0399ae",
+   "ee_text": "당뇨병성 신경증, 대상포진에 의한 신경통, 류마티스성 관절염, 골관절염에 수반하는 통증의 일시적인 완화",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:10Z",
+   "last_observed_at": "2026-09-08T08:36:10Z",
+   "official_revision_date": "2012-12-30"
+  },
+  {
+   "revision_id": "200201191-6c235af0",
+   "content_sha256": "6c235af0fbaecfd5943fbb9f7cb9a4642d80a5783b5cfd7b38efecec0de09226",
+   "ee_text": "당뇨병성 신경증, 대상포진에 의한 신경통, 류마치스성 관절염, 골관절염에 수반하는 동통의 완화",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:36:10Z",
+   "last_observed_at": "2026-09-08T08:36:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:10Z"
+}

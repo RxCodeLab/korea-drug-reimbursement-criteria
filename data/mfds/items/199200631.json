@@ -12,6 +12,7 @@
  "edi_code": "670302061",
  "atc_code": "A03FA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200631",
+ "history_fetched_at": "2026-08-28T13:23:44Z",
  "revisions": [
   {
    "revision_id": "199200631-9b5c441d",
@@ -19,9 +20,9 @@
    "ee_text": "오심, 구토 증상의 완화",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:23:44Z",
-   "last_observed_at": "2026-08-28T13:23:44Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:28:22Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:44Z"
+ ]
 }

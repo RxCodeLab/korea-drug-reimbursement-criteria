@@ -7,11 +7,12 @@
  "permit_date": "20000812",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M082727]감초엑스산|[M089608]세신엑스산|[M089524]생지황엑스산|[M089535]황금엑스산|[M089505]창출엑스산|[M089600]백지엑스산|[M089533]천궁엑스산|[M089564]방풍엑스산|[M089546]강활엑스산",
+ "main_item_ingr": "[M082727]감초엑스산|[M089505]창출엑스산|[M089524]생지황엑스산|[M089533]천궁엑스산|[M089535]황금엑스산|[M089546]강활엑스산|[M089564]방풍엑스산|[M089600]백지엑스산|[M089608]세신엑스산",
  "main_item_ingr_eng": "Angelica Dahurica Root Extract Powder/Asiasarum Root and Rhizome Extract Powder/Atractylodes Rhizome Extract Powder/Cnidium Rhizome Extract Powder/Glycyrrhiza Extract Powder/Ostericum Root Extract Powder/Rehmanniae Radix Recens Extract Powder/Saposhnikovia Root Extract Powder/Scutellaria Root Extract Powder",
  "edi_code": "",
  "atc_code": "N02BG",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005594",
+ "history_fetched_at": "2026-08-28T13:23:56Z",
  "revisions": [
   {
    "revision_id": "200005594-9ffab8db",
@@ -19,8 +20,9 @@
    "ee_text": "한방건강보험용",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:23:56Z",
-   "last_observed_at": "2026-08-28T13:23:56Z",
-   "official_revision_date": "2020-05-26"
+   "last_observed_at": "2026-09-08T08:34:23Z",
+   "official_revision_date": "2020-05-26",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200005594-ff32c91b",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:56Z",
    "last_observed_at": "2026-08-28T13:23:56Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:56Z"
+ ]
 }

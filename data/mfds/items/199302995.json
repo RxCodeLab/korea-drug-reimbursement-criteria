@@ -7,11 +7,12 @@
  "permit_date": "19930317",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051704]말레인산페니라민|[M222937]나파졸린염산염|[M051704]말레인산페니라민|[M222937]나파졸린염산염",
+ "main_item_ingr": "[M051704]말레인산페니라민|[M051704]말레인산페니라민|[M222937]나파졸린염산염|[M222937]나파졸린염산염",
  "main_item_ingr_eng": "Naphazoline Hydrochloride/Pheniramine Maleate",
  "edi_code": "",
  "atc_code": "S01GA51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199302995",
+ "history_fetched_at": "2026-08-28T13:23:45Z",
  "revisions": [
   {
    "revision_id": "199302995-34673ac4",
@@ -19,8 +20,9 @@
    "ee_text": "안자극‧충혈의 일시적 완화",
    "ee_doc_id": "25",
    "first_observed_at": "2026-08-28T13:23:45Z",
-   "last_observed_at": "2026-08-28T13:23:45Z",
-   "official_revision_date": "2021-01-14"
+   "last_observed_at": "2026-09-08T08:28:56Z",
+   "official_revision_date": "2021-01-14",
+   "normalizer_version": 3
   },
   {
    "revision_id": "199302995-65587d16",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:45Z",
    "last_observed_at": "2026-08-28T13:23:45Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:45Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206771",
+ "item_name": "비코실린정",
+ "entp_name": "한솔신약(주)",
+ "permit_date": "20120913",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M081899]센나엽가루|[M081950]도큐세이트나트륨|[M237598]Tinnevelly 센나열매가루",
+ "main_item_ingr_eng": "Bisacodyl/Docusate Sodium/Senna Leaf Powder/Tinnevelly Senna Fruit Powder",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206771",
+ "revisions": [
+  {
+   "revision_id": "201206771-c94ce093",
+   "content_sha256": "c94ce0931f0b2a5703f0ccce7a10d317bde865979f9b824984e14d1edaa5baca",
+   "ee_text": "ㆍ 변비 ㆍ 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부(배부분)팽만, 장내이상발효, 치질",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:29Z",
+   "last_observed_at": "2026-09-08T08:45:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:29Z"
+}

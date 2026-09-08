@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600067",
+ "item_name": "아트라제주(헤모코아귤라제액)(수출용)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20060306",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100530]헤모코아귤라제액",
+ "main_item_ingr_eng": "Hemocoagulase Solution",
+ "edi_code": "",
+ "atc_code": "B02BX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600067",
+ "revisions": [
+  {
+   "revision_id": "200600067-f64586e6",
+   "content_sha256": "f64586e6f839e3c63b1e328afeb15dcde7d8d4c3e0ae9183d761166ca100255c",
+   "ee_text": "출혈, 1차 및 2차 출혈증후군의 예방 및 치료(폐출혈, 비출혈, 구강내 출혈, 성기출혈, 신출혈, 창상으로부터의 출혈 등)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:44Z",
+   "last_observed_at": "2026-09-08T08:39:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:44Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "196400037",
+ "item_name": "라식스정(푸로세미드)",
+ "entp_name": "(주)한독",
+ "permit_date": "19640630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040715]푸로세미드",
+ "main_item_ingr_eng": "Furosemide",
+ "edi_code": "652100200",
+ "atc_code": "C03CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196400037",
+ "revisions": [
+  {
+   "revision_id": "196400037-340c17ab",
+   "content_sha256": "340c17ab57d2e88674512cbbecfd1f2ab21462b318d72389355dbfa9b0d02dcb",
+   "ee_text": "(경구 : 정제) 고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 말초혈관성부종 (주사제) 고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 급성폐부종",
+   "ee_doc_id": "28",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:15Z",
+   "last_observed_at": "2026-09-08T08:26:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:15Z"
+}

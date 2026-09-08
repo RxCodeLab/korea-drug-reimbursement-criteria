@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401853",
+ "item_name": "게리브론300장용성연질캡슐(미르톨)",
+ "entp_name": "(주)셀릭스",
+ "permit_date": "20040603",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096297]미르톨",
+ "main_item_ingr_eng": "Myrtol",
+ "edi_code": "",
+ "atc_code": "R05CB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401853",
+ "revisions": [
+  {
+   "revision_id": "200401853-edf14f01",
+   "content_sha256": "edf14f01caf6deb32094709a48c5afedddd0d18c84b66243783c77f1f8bfc905",
+   "ee_text": "다음 질환에 사용할 수 있다. 다음 질환에서의 객담배출곤란 : 급,만성기관지염, 부비강염",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:55Z",
+   "last_observed_at": "2026-09-08T08:37:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:55Z"
+}

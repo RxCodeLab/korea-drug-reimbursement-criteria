@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000605",
+ "item_name": "아이비프로시럽(아이비엽30%에탄올건조엑스(5∼7.5→1))",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20200204",
+ "cancel_date": "20250204",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M270144]아이비엽30%에탄올건조엑스(5~7.5→1)",
+ "main_item_ingr_eng": "Ivy Leaf 30 % Ethanol Dried Extract (5～7.5→1)",
+ "edi_code": "",
+ "atc_code": "R05CA12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000605",
+ "revisions": [
+  {
+   "revision_id": "202000605-c97a48c0",
+   "content_sha256": "c97a48c0b1c7324b9ac6ca660300774646bd7c09cf796a7bef9bd11c4ccda4b0",
+   "ee_text": "만성 염증성 기관지 질환의 증상 개선, 기침을 동반한 호흡기의 급성 염증 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:42Z",
+   "last_observed_at": "2026-09-08T08:57:42Z",
+   "official_revision_date": "2020-02-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:42Z"
+}

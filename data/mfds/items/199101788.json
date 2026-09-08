@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199101788",
+ "item_name": "아이월드소시호탕엑스과립",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "19910529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086610]소시호탕건조엑스",
+ "main_item_ingr_eng": "Sosihotang Dried Extracts",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101788",
+ "revisions": [
+  {
+   "revision_id": "199101788-b155c712",
+   "content_sha256": "b155c712fde877b740813829c4f5d3dd6f3ac161f19d19f476cda3db02b3df6e",
+   "ee_text": "구역, 식욕감퇴(식욕부진), 위염, 위장허약, 피로 및 감기 후기 증상",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:15Z",
+   "last_observed_at": "2026-09-08T08:28:15Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:15Z"
+}

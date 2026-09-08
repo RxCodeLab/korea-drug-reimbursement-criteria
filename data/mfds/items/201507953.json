@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507953",
+ "item_name": "루코네스트주(코네스타트 알파, 유전자재조합사람C1에스테라제억제제)))",
+ "entp_name": "에이치제이협진(주)",
+ "permit_date": "20151127",
+ "cancel_date": "20251127",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M263166]코네스타트 알파(유전자재조합 사람 C1 에스테라제 억제제)",
+ "main_item_ingr_eng": "Conestat Alpha",
+ "edi_code": "",
+ "atc_code": "B06AC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507953",
+ "revisions": [
+  {
+   "revision_id": "201507953-6aa7ed03",
+   "content_sha256": "6aa7ed03accec3a7df920e5f9e29eda5ab9973934c989bdafa4e6b016cf198a2",
+   "ee_text": "구강인두 및 후두부를 제외한 성인의 유전성 혈관부종의 급성발작증상 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:55Z",
+   "last_observed_at": "2026-09-08T08:49:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:55Z"
+}

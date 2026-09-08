@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:27:32Z",
  "revisions": [
   {
-   "revision_id": "200403082-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200403082-3b0c0f95",
+   "content_sha256": "3b0c0f953dfd338da110b2e894b2b68cf6f06e71de2b038e0e52aab52ea05a7a",
+   "ee_text": "1. 고혈압, 협심증 2. 좌심실 수축기능이 저하된 안정형 만성 심부전의 치료 : 이 약은 ACE저해제 및 이뇨제, 그리고 필요에 따라 강심배당체와 병용한다.",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200403082/EE",
    "first_observed_at": "2026-08-27T12:27:32Z",
-   "last_observed_at": "2026-08-28T13:24:05Z"
+   "last_observed_at": "2026-09-08T08:38:14Z",
+   "normalizer_version": 3
   }
  ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401455",
+ "item_name": "노즈진정120밀리그램(펙소페나딘염산염)",
+ "entp_name": "(주)비보존제약",
+ "permit_date": "20240614",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246634]펙소페나딘염산염",
+ "main_item_ingr_eng": "Fexofenadine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AX26",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401455",
+ "revisions": [
+  {
+   "revision_id": "202401455-20fc57ac",
+   "content_sha256": "20fc57ac45e1ca14f8a40766296bda97e917e0f1b495b58bbe20f0537dacab9a",
+   "ee_text": "알레르기비염 증상 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:03Z",
+   "last_observed_at": "2026-09-08T09:03:03Z",
+   "official_revision_date": "2024-06-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:03Z"
+}

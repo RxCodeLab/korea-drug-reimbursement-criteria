@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603934",
+ "item_name": "레버미어플렉스펜주100단위/밀리리터",
+ "entp_name": "노보노디스크제약(주)",
+ "permit_date": "20060316",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253720]인슐린디터머(숙주:S. Cerevisiae, 벡터: pAK729.6.16-△amp)",
+ "main_item_ingr_eng": "Insulin Detemir (Host: Saccharomyces Cerevisiae, Vector: pAK729.6.16-△amp)",
+ "edi_code": "654400201",
+ "atc_code": "A10AD06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603934",
+ "revisions": [
+  {
+   "revision_id": "200603934-25caef34",
+   "content_sha256": "25caef34c763af91941a83b7410d2ff08e2a3aee26f8bb605a0ec7ba0480bfd3",
+   "ee_text": "만 1세 이상의 소아와 청소년 및 성인에서의 당뇨병 치료",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:02Z",
+   "last_observed_at": "2026-09-08T08:40:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:02Z"
+}

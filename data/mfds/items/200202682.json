@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200202682",
+ "item_name": "케트로정(케토롤락트로메타민염)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20021216",
+ "cancel_date": "20240401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222885]케토롤락트로메타민염",
+ "main_item_ingr_eng": "Ketorolac Tromethamine",
+ "edi_code": "",
+ "atc_code": "M01AB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202682",
+ "revisions": [
+  {
+   "revision_id": "200202682-31374861",
+   "content_sha256": "31374861b27d8fcd775fbf566c01a7e4bbd1913ed6d8e001f87f710a6651b8f1",
+   "ee_text": "중등도 및 중증의 급성통증(수술후 통증 포함)에 대한 단기요법",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:23Z",
+   "last_observed_at": "2026-09-08T08:36:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:23Z"
+}

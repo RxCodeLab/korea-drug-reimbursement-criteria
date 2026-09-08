@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303028",
+ "item_name": "휴브낙점안액(브롬페낙나트륨수화물)(1회용)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20231030",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254744]브롬페낙나트륨수화물",
+ "main_item_ingr_eng": "Bromfenac Sodium Hydrate",
+ "edi_code": "670609211",
+ "atc_code": "S01BC11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303028",
+ "revisions": [
+  {
+   "revision_id": "202303028-f13b4f32",
+   "content_sha256": "f13b4f32ab754c2a2560122e74c48144c7d9421685023656f3180b1f698816ab",
+   "ee_text": "외안부 및 전안부의 염증성 질환의 대증치료(안검염, 결막염, 공막염(상공막염을 포함), 수술후 염증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:28Z",
+   "last_observed_at": "2026-09-08T09:02:28Z",
+   "official_revision_date": "2023-10-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:28Z"
+}

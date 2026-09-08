@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907490",
+ "item_name": "비엠하이디3오랄액(콜레칼시페롤)",
+ "entp_name": "(주)한국비엠아이",
+ "permit_date": "20191028",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040594]콜레칼시페롤",
+ "main_item_ingr_eng": "Cholecalciferol",
+ "edi_code": "",
+ "atc_code": "A11CC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907490",
+ "revisions": [
+  {
+   "revision_id": "201907490-d4294407",
+   "content_sha256": "d4294407ce7ec9970ae9a1def42c43e7b8621500159bb0f90e854c749442bd72",
+   "ee_text": "비타민D 결핍의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:50Z",
+   "last_observed_at": "2026-09-08T08:56:50Z",
+   "official_revision_date": "2019-10-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:50Z"
+}

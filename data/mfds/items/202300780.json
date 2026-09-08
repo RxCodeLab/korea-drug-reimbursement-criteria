@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300780",
+ "item_name": "쎄스콘시즌액티브정",
+ "entp_name": "지엘팜텍(주)",
+ "permit_date": "20230307",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095487]레보노르게스트렐|[M223147]에티닐에스트라디올|[M223147]에티닐에스트라디올",
+ "main_item_ingr_eng": "Ethinyl Estradiol/Levonorgestrel",
+ "edi_code": "",
+ "atc_code": "G03AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300780",
+ "revisions": [
+  {
+   "revision_id": "202300780-3ce3ac5f",
+   "content_sha256": "3ce3ac5f80b0228deb555aefefaf2e7ddaca7d1c1ba78cd2d1d13a611f474189",
+   "ee_text": "피임",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:54Z",
+   "last_observed_at": "2026-09-08T09:01:54Z",
+   "official_revision_date": "2023-03-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:54Z"
+}

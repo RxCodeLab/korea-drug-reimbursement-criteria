@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800075",
+ "item_name": "한풍도인엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040086]도인",
+ "main_item_ingr_eng": "Peach Kernel",
+ "edi_code": "",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800075",
+ "revisions": [
+  {
+   "revision_id": "198800075-0e23827b",
+   "content_sha256": "0e23827b3d9ef0ebd82bef997e04deb34cdf8ff707a37c4b2616b675d0245511",
+   "ee_text": "진통, 소염, 해독, 통변",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:30Z",
+   "last_observed_at": "2026-09-08T08:27:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:30Z"
+}

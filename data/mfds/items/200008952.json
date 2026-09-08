@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008952",
+ "item_name": "에리우스정(데스로라타딘(미분화))",
+ "entp_name": "한국오가논(주)",
+ "permit_date": "20001031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253523]데스로라타딘(미분화)",
+ "main_item_ingr_eng": "Desloratadine Micronized",
+ "edi_code": "073100180",
+ "atc_code": "R06AX27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008952",
+ "revisions": [
+  {
+   "revision_id": "200008952-40add6b9",
+   "content_sha256": "40add6b93c1a3951fe37c9a48e84e4ec004c82394a4dc52fc36ff65dd0a8eb6f",
+   "ee_text": "다음 질환의 증상 완화 1. 알레르기성 비염 2. 만성 특발성 두드러기",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:37Z",
+   "last_observed_at": "2026-09-08T08:34:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:37Z"
+}

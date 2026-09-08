@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106932",
+ "item_name": "케실산정500밀리그램(도베실산칼슘수화물)",
+ "entp_name": "엔비케이제약(주)",
+ "permit_date": "20211014",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257668]도베실산칼슘수화물",
+ "main_item_ingr_eng": "Dobesilate Calcium Hydrate",
+ "edi_code": "054801610",
+ "atc_code": "C05BX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106932",
+ "revisions": [
+  {
+   "revision_id": "202106932-13b02137",
+   "content_sha256": "13b02137da1ff2288167dc2a629f45adc86bea8a581e031b13ee1ad6256fe336",
+   "ee_text": "항진된 모세혈관 파열과 투과장애를 수반하는 혈관손상, 당뇨병성모세혈관장애, 당뇨병성망막병증, 정맥기능부전, 혈전후 증후군, 말초울혈성부종, 치질.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:40Z",
+   "last_observed_at": "2026-09-08T09:00:40Z",
+   "official_revision_date": "2021-10-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:40Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501129",
+ "item_name": "기어케어정",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20250508",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040139]맥문동|[M051200]용안육|[M051291]인삼|[M051377]석창포|[M051932]현삼|[M064512]산조인초|[M081401]복신|[M084847]백자인거유|[M085177]원지강제|[M272231]당귀주세|[M285437]지황주세",
+ "main_item_ingr_eng": "Acori Graminei Rhizoma/Angelicae Gigantis Radix/Ginseng/Liriope Tuber/Longan Arillus/Polygalae Radix/Poria Sclertum Cum Pini Radix/Rehmannia Root/Scrophularia Root/Thuja Seed",
+ "edi_code": "",
+ "atc_code": "N07XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501129",
+ "revisions": [
+  {
+   "revision_id": "202501129-33247637",
+   "content_sha256": "3324763745d9945354ebe1456ee46f5a4dc6d6b8b0981f66b003cf3079c87e9b",
+   "ee_text": "건망증, 기억력감퇴, 신경안정",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:54Z",
+   "last_observed_at": "2026-09-08T09:03:54Z",
+   "official_revision_date": "2025-05-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:54Z"
+}

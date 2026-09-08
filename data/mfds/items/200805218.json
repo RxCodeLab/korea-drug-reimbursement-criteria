@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805218",
+ "item_name": "키페낙에스첩부제(플루르비프로펜)",
+ "entp_name": "코스맥스파마(주)",
+ "permit_date": "20080507",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805218",
+ "revisions": [
+  {
+   "revision_id": "200805218-d719f6b1",
+   "content_sha256": "d719f6b1b22db82870df8403f24f481d1f0a53cc093f0bd1c7be546625cfb7e9",
+   "ee_text": "다음 질환 및 증상의 진통, 소염(항염) - 퇴행성관절염(골관절염), 어깨관절주위염, 건(힘줄)·건초염(힘줄윤활막염), 상완골(위팔뼈)상과염 (테니스엘보우 등), 근육통, 외상(상처)후의 종창(부기) ·동통(통증)",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:29Z",
+   "last_observed_at": "2026-09-08T08:42:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:29Z"
+}

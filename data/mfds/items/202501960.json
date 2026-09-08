@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501960",
+ "item_name": "락토프레시정",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20250729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051231]락토바실루스스포로게네스균|[M100297]셀룰라제|[M110224]스코폴리아 엑스|[M223083]시메티콘",
+ "main_item_ingr_eng": "Cellulase/Lactobacillus Sporogenes/Scopolia Extract/Simethicone",
+ "edi_code": "",
+ "atc_code": "A07FA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501960",
+ "revisions": [
+  {
+   "revision_id": "202501960-a13348c6",
+   "content_sha256": "a13348c67da4a18444153ab8c9733e07afe65541e01ad2ff82c2ede164e9c386",
+   "ee_text": "정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:08Z",
+   "last_observed_at": "2026-09-08T09:04:08Z",
+   "official_revision_date": "2025-07-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:08Z"
+}

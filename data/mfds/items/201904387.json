@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904387",
+ "item_name": "에피네프린프리필드시린지주1:10,000",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20190626",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251244]에피네프린타르타르산염",
+ "main_item_ingr_eng": "Epinephrine Tartrate",
+ "edi_code": "",
+ "atc_code": "C01CA24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904387",
+ "revisions": [
+  {
+   "revision_id": "201904387-f3c8c37f",
+   "content_sha256": "f3c8c37fff2c95c5d9f984cd9bb0041559651ec84fe36599d30f4a9f0343c315",
+   "ee_text": "1. 심정지의 보조치료 (성인 및 체중 5kg 초과 소아) 2. 성인에서의 급성 아나필락시스성 쇽",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:41Z",
+   "last_observed_at": "2026-09-08T08:55:41Z",
+   "official_revision_date": "2019-06-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:41Z"
+}

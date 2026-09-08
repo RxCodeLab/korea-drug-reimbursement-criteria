@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900535",
+ "item_name": "피실리안트피내반응용,아루카베민피내반응용,프란진피내반응용,타이페라실린피내반응용(수출용)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "19991008",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020192]피페라실린나트륨",
+ "main_item_ingr_eng": "Piperacillin Sodium",
+ "edi_code": "",
+ "atc_code": "J01CA12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900535",
+ "revisions": [
+  {
+   "revision_id": "199900535-f8b4facd",
+   "content_sha256": "f8b4facd783ead5cd36f4f36f65beb660ef8364071e6ecffca62c28138047c00",
+   "ee_text": "피페라실린나트륨 주사제 사용시의 피내반응에 사용한다.",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:34Z",
+   "last_observed_at": "2026-09-08T08:32:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:34Z"
+}

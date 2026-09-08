@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004981",
+ "item_name": "루타테라주(루테튬(177Lu) 옥소도트레오타이드)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20200709",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279098]루테튬(177Lu)옥소도트레오타이드액",
+ "main_item_ingr_eng": "Lutetium(177Lu) Oxodotreotide Solution",
+ "edi_code": "653603311",
+ "atc_code": "V10XX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004981",
+ "revisions": [
+  {
+   "revision_id": "202004981-d035275d",
+   "content_sha256": "d035275d0571637a477d96d2232a20236a94dd420c8d56936c08fdd491917fcb",
+   "ee_text": "소마토스타틴 수용체 양성의 위‧장‧췌장계 성인 신경내분비종양(Gastroenteropancreatic neuroendocrine tumors, GEP-NET)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:14Z",
+   "last_observed_at": "2026-09-08T08:59:14Z",
+   "official_revision_date": "2020-07-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:14Z"
+}

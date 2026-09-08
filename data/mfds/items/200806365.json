@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806365",
+ "item_name": "알러딘정(펙소페나딘염산염)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20080609",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246634]펙소페나딘염산염",
+ "main_item_ingr_eng": "Fexofenadine Hydrochloride",
+ "edi_code": "670604370",
+ "atc_code": "R06AX26",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806365",
+ "revisions": [
+  {
+   "revision_id": "200806365-f9ba9595",
+   "content_sha256": "f9ba9595eb2095d2fc7e3d448e43fa2966dffb41d57b59d61ee009bed21a5133",
+   "ee_text": "* 120 mg 알레르기비염 증상 완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200806365/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:35Z",
+   "last_observed_at": "2026-09-08T08:42:35Z"
+  },
+  {
+   "revision_id": "200806365-20fc57ac",
+   "content_sha256": "20fc57ac45e1ca14f8a40766296bda97e917e0f1b495b58bbe20f0537dacab9a",
+   "ee_text": "알레르기비염 증상 완화",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:35Z",
+   "last_observed_at": "2026-09-08T08:42:35Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:35Z"
+}

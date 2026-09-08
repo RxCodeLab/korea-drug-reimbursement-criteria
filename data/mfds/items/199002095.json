@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199002095",
+ "item_name": "현대제스트릴정10밀리그램(리시노프릴)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "19900808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M023167]리시노프릴",
+ "main_item_ingr_eng": "Lisinopril",
+ "edi_code": "642001330",
+ "atc_code": "C09AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199002095",
+ "revisions": [
+  {
+   "revision_id": "199002095-1ac0b0a1",
+   "content_sha256": "1ac0b0a146ab3f58b0a0fc676317f894af4e5883cc7f3532f32080a13eb647bd",
+   "ee_text": "1.고혈압 2.울혈성 심부전: 이뇨제 또는 디기랄리스 투여시의 보조치료제 3.당뇨병 환자의 신장합병증: 정상혈압의 인슐린 의존성, 고혈압의 인슐린 비의존성 당뇨병의 합병증으로 미세알부민뇨를 나타내는 초기 신증",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:05Z",
+   "last_observed_at": "2026-09-08T08:28:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:05Z"
+}

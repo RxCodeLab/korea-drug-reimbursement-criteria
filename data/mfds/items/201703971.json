@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201703971",
+ "item_name": "파이브로정200밀리그램(피르페니돈)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20170615",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255129]피르페니돈|[M255129]피르페니돈",
+ "main_item_ingr_eng": "Pirfenidone",
+ "edi_code": "642404230",
+ "atc_code": "L04AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201703971",
+ "revisions": [
+  {
+   "revision_id": "201703971-bb5efbcb",
+   "content_sha256": "bb5efbcb319281966e4a2736afff113f5012c34aabbdb5a040afeb5023b9cdd1",
+   "ee_text": "특발성폐섬유증의 치료",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:57Z",
+   "last_observed_at": "2026-09-08T08:51:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:57Z"
+}

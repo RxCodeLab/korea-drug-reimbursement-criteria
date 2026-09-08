@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201104437",
+ "item_name": "타진서방정 40/20mg",
+ "entp_name": "한국먼디파마 유한회사",
+ "permit_date": "20110718",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M238042]옥시코돈염산염|[M246655]날록손염산염이수화물",
+ "main_item_ingr_eng": "Naloxone Hydrochloride Dihydrate/Oxycodone Hydrochloride",
+ "edi_code": "678000210",
+ "atc_code": "N02AA55",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104437",
+ "revisions": [
+  {
+   "revision_id": "201104437-27c8ed7b",
+   "content_sha256": "27c8ed7ba5829bd0fcf341f9fcfeba8c30596d07ab46c7664ccd944f0828bc79",
+   "ee_text": "마약성 진통제의 사용을 필요로 하는 중등증 및 중증의 통증",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:46Z",
+   "last_observed_at": "2026-09-08T08:44:46Z",
+   "official_revision_date": "2017-12-08"
+  },
+  {
+   "revision_id": "201104437-adaef2d2",
+   "content_sha256": "adaef2d2a2f10c3a37ed163eacd94ed2fe941cab66fa884c01fd70a0028ae41e",
+   "ee_text": "마약성 진통제의 사용을 필요로 하는 중등증 및 중증의 통증 도파민 작용제 투여 후 증상 조절이 되지 않는 중증 및 고도 중증의 특발성 하지 불안 증후군의 2차 치료제",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:46Z",
+   "last_observed_at": "2026-09-08T08:44:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:46Z"
+}

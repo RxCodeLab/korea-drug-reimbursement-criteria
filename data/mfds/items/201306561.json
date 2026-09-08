@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201306561",
+ "item_name": "히드랄주(히드랄라진염산염)(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "20130402",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223346]히드랄라진염산염",
+ "main_item_ingr_eng": "Hydralazine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C02DB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306561",
+ "revisions": [
+  {
+   "revision_id": "201306561-8be264a9",
+   "content_sha256": "8be264a9329ff62ab89971cf9816fdb77a724c14531ed1d1f43d9d28c0e8db60",
+   "ee_text": "(경구 : 정제) 본태성고혈압, 임신중독증에 의한 고혈압 (주사제) 다음 경우의 중증의 본태성고혈압 : 경구투여가 불가능한 경우, 응급성고혈압(고혈압성 발증)",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:58Z",
+   "last_observed_at": "2026-09-08T08:45:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:58Z"
+}

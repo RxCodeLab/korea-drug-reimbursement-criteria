@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206084",
+ "item_name": "폴로틴주사20mg/ml(프랄라트렉세이트)",
+ "entp_name": "한국먼디파마(유)",
+ "permit_date": "20120712",
+ "cancel_date": "20240207",
+ "status": "취하",
+ "main_item_ingr": "[M254995]프랄라트렉세이트",
+ "main_item_ingr_eng": "Pralatrexate",
+ "edi_code": "",
+ "atc_code": "L01BA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206084",
+ "revisions": [
+  {
+   "revision_id": "201206084-9a5fe7c0",
+   "content_sha256": "9a5fe7c0e616fa16e5a254b118c397a0c3b6e80fc491fa9b2e023ecc2194bf04",
+   "ee_text": "성인에서의 재발성 또는 불응성의 말초 T 세포 림프종의 치료 (이 적응증은 전반적인 반응률에 근거한 것이다. 질병 진행이 없는 생존률 또는 전체 생존률 면에서의 개선과 같은 임상적 유익성은 아직 입증되지 않았다.)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:22Z",
+   "last_observed_at": "2026-09-08T08:45:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:22Z"
+}

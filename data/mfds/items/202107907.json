@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107907",
+ "item_name": "카로맥스현탁액(폴리스티렌설폰산칼슘)",
+ "entp_name": "코스맥스파마(주)",
+ "permit_date": "20211213",
+ "cancel_date": "20251015",
+ "status": "취하",
+ "main_item_ingr": "[M081346]폴리스티렌설폰산칼슘",
+ "main_item_ingr_eng": "Calcium Polystyrene Sulfonate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107907",
+ "revisions": [
+  {
+   "revision_id": "202107907-6a45fe70",
+   "content_sha256": "6a45fe702e51072910b144754359a3fecf4a3dd13897f7f01b88ecd6ea113167",
+   "ee_text": "고칼륨혈증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:52Z",
+   "last_observed_at": "2026-09-08T09:00:52Z",
+   "official_revision_date": "2021-12-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:52Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801874",
+ "item_name": "카리나제정(칼리디노게나제)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "19980818",
+ "cancel_date": "20241001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M082140]칼리디노게나제",
+ "main_item_ingr_eng": "Kallidinogenase",
+ "edi_code": "",
+ "atc_code": "C04AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801874",
+ "revisions": [
+  {
+   "revision_id": "199801874-0f75946d",
+   "content_sha256": "0f75946dce84f8ab498bdc3d1084614bd5d38128c45eea6500a2b492bc22cd13",
+   "ee_text": "1. 다음 질환에 의한 말초순환장애: 고혈압, 메니에르증후군, 폐색성혈전혈관염(버거병) 2. 갱년기장애, 망맥락막의 순환장애에 의한 여러 증상의 개선",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:58Z",
+   "last_observed_at": "2026-09-08T08:31:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:58Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200209640",
+ "item_name": "인판릭스주(흡착디프테리아,파상풍톡소이드및정제백일해혼합백신)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20020702",
+ "cancel_date": "20250106",
+ "status": "취하",
+ "main_item_ingr": "[M104500]파상풍톡소이드(균주명:Massachusetts주)|[M104501]디프테리아톡소이드(균주명:Mass8주)|[M245422]백일해톡소이드(균주명:Tohama주, 1상)|[M245423]불활화백일해균선모적혈구응집소(균주명:Tohama주, 1상)|[M245424]불활화백일해균69kDa외막단백질(균주명:Tohama주, 1상)",
+ "main_item_ingr_eng": "B. Pertussis Toxoid (Strain: Tohama, Phase 1)/Diphtheria Toxoid (Strain: Mass8 Strain)/Inactivated B. Pertussis B69kDa outer membrane Protein (Strain: Tohama, Phase 1)/Inactivated B. pertussis Filamentous Hemagglutinin (Strain: Tohama, Phase 1)/Tetanus Toxoid (Strain: Massachusetts)",
+ "edi_code": "",
+ "atc_code": "J07A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200209640",
+ "revisions": [
+  {
+   "revision_id": "200209640-22c1e6b2",
+   "content_sha256": "22c1e6b21f3c6da02c0d98690fe408e333234913bf155ee1b3a68382a94fabb2",
+   "ee_text": "디프테리아, 파상풍 및 백일해의 예방",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:32Z",
+   "last_observed_at": "2026-09-08T08:36:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:32Z"
+}

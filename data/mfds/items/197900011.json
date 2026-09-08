@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900011",
+ "item_name": "한풍소청룡탕엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19790403",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M111088]소청룡탕 연조엑스",
+ "main_item_ingr_eng": "Socheongryongtang Soft Extract",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900011",
+ "revisions": [
+  {
+   "revision_id": "197900011-e4a5f91e",
+   "content_sha256": "e4a5f91ea7da4bc76cf2af8abb579e30c60020daf2ce385e5105aae71d66a9ce",
+   "ee_text": "기관지염, 기관지천식, 콧물, 묽은 가래를 수반하는 기침, 비염",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:31Z",
+   "last_observed_at": "2026-09-08T08:26:31Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:31Z"
+}

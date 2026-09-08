@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201104046",
+ "item_name": "스타마릴주(약독황열생바이러스백신)(관납용)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20110630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252482]약독 황열 생바이러스 17D(AB237주)",
+ "main_item_ingr_eng": "Live Attenuated Yellow Fever Virus 17D (AB237)",
+ "edi_code": "",
+ "atc_code": "J07BL01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104046",
+ "revisions": [
+  {
+   "revision_id": "201104046-3177c643",
+   "content_sha256": "3177c6436f04ae61f3af79ac01702eb80f9c9cdabd15ef9c3a3c2a055ea71cb7",
+   "ee_text": "생후 9개월 이상의 소아 및 성인에서 황열바이러스에 의한 황열의 예방 아래와 같은 대상자들에 백신 접종이 권장된다. - 해당 질환의 풍토병이 발생하는 지역을 여행 또는 경유하거나 해당 지역에 거주하는 자 - 해당 백신의 접종을 필요로 하는 국가로의 여행자(이전 여행지에 따라 달라질 수 있음) - 감염 가능성이 있는 물질을 취급하는 자(예. 실험실 종사자)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:44Z",
+   "last_observed_at": "2026-09-08T08:44:44Z",
+   "official_revision_date": "2018-07-18"
+  },
+  {
+   "revision_id": "201104046-7d7849d9",
+   "content_sha256": "7d7849d949ec30522de2e52298f53ad7e564bc78938cbaddf4b787603285b697",
+   "ee_text": "9개월 이상의 소아 및 성인에서 황열병의 예방 아래와 같은 대상자들에 백신 접종이 권장된다. - 해당질환의 풍토병이 발생하는 지역을 통과하는 여행자 및 거주자 - 해당백신의 접종을 필요로 하는 국가로의 여행자(이전 여행지에 따라 달라질 수 있음) - 감염 가능성이 있는 물질을 취급하는자(예. 실험실 종사자)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:44Z",
+   "last_observed_at": "2026-09-08T08:44:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:44Z"
+}

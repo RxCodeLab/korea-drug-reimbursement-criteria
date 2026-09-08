@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "V04CX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006503",
+ "history_fetched_at": "2026-08-28T13:24:24Z",
  "revisions": [
   {
    "revision_id": "201006503-d3d8b647",
@@ -19,9 +20,9 @@
    "ee_text": "위장내 H. pylori 감염 진단의 보조수단으로 위의 요소분해효소(gastric urease) 검사",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-28T13:24:24Z",
-   "last_observed_at": "2026-08-28T13:24:24Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:44:17Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:24Z"
+ ]
 }

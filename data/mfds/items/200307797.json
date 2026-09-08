@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200307797",
+ "item_name": "비쥬다인주사(베르테포르핀)",
+ "entp_name": "디케이에스에이치코리아(주)",
+ "permit_date": "20030501",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091377]베르테포르핀",
+ "main_item_ingr_eng": "Verteporfin",
+ "edi_code": "055500101",
+ "atc_code": "S01LA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307797",
+ "revisions": [
+  {
+   "revision_id": "200307797-f448c022",
+   "content_sha256": "f448c0224e256d140ba15eb1a1bbebf863527bb9c2e1f6b7bac067f9f42e2c47",
+   "ee_text": "다음 환자의 광역학요법(Photodynamic Therapy) 1. 연령 관련 황반변성(age-related macular degeneration)에 의한 주로 전형적이거나 또는 잠재적 타입의 황반하 맥락막 신생혈관(subfoveal choroidal neovascularization)을 가진 환자 2. 병적근시(pathologic myopia) 또는 안히스토플라스마중에 의한 황반하 맥락막 신생혈관을 가진 환자 (병리적 근시에 의한 황반하 맥락막 신생혈관의 치료에 대한 임상시험결과(1차유효성 평가 변수 : 시력저하가 3lines 이하의 환자비율)에서 치료 후 1년에서 비쥬다인 투여군은 위약군에 비해 통계학적으로 유의한 효과를 나타내었으나(비쥬다인 86%, 위약67%), 2년에서는 더 이상 유의한 차이가 없었다(비쥬다인79%, 위약72%).)",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:19Z",
+   "last_observed_at": "2026-09-08T08:37:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:19Z"
+}

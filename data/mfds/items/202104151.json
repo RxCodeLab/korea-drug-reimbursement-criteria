@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104151",
+ "item_name": "제일비타민케이1주사액(피토나디온주사액)(수출용)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20210525",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202029]피토나디온",
+ "main_item_ingr_eng": "Phytonadione",
+ "edi_code": "",
+ "atc_code": "B02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104151",
+ "revisions": [
+  {
+   "revision_id": "202104151-c9e15ff0",
+   "content_sha256": "c9e15ff037ada48552120451994755082a6f3b26910d8281bdd4bc0f565b7db7",
+   "ee_text": "1. 신생아 출혈성질환의 예방과 치료 2. 급성 또는 경구투여가 어려운 경우의 비타민 K 결핍 또는 비타민 K의 활성이상으로 인한 다음의 혈액응고질환 1) 쿠마린(coumarin) 유도체에 의한 항응고제 유도성 프로트롬빈 결핍증 2) 항생제, 살리실산 제제 등에 의하여 2차적으로 발생되는 저프로트롬빈혈증 3. 비타민 K의 합성 또는 흡수제한으로 인하여 2차적으로 발생되는 저프로트롬빈혈증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:14Z",
+   "last_observed_at": "2026-09-08T09:00:14Z",
+   "official_revision_date": "2021-05-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:14Z"
+}

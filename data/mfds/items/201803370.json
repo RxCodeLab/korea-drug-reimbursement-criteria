@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803370",
+ "item_name": "가텍스주(테두글루타이드)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20180817",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268137]테두글루타이드",
+ "main_item_ingr_eng": "Teduglutide",
+ "edi_code": "",
+ "atc_code": "A16AX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803370",
+ "revisions": [
+  {
+   "revision_id": "201803370-64e888bc",
+   "content_sha256": "64e888bc785e1a766f204de70ec538cbf32e9fb515973e146c73c93fb02c53ed",
+   "ee_text": "비경구 영양에 의존하고 있는 만1세 이상의 단장 증후군 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:32Z",
+   "last_observed_at": "2026-09-08T08:53:32Z",
+   "official_revision_date": "2018-08-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:32Z"
+}

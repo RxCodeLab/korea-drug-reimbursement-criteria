@@ -7,19 +7,21 @@
  "permit_date": "19950128",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M096429]시아노코발라민|[M051151]감마오리자놀|[M222995]리보플라빈부티레이트|[M225044]판토텐산 칼슘|[M040488]이노시톨|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M051415]푸르설티아민|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040488]이노시톨|[M051151]감마오리자놀|[M051415]푸르설티아민|[M096429]시아노코발라민|[M204304]피리독신염산염|[M222995]리보플라빈부티레이트|[M225044]판토텐산 칼슘|[M256191]콘드로이틴설페이트나트륨",
  "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin/Fursultiamine/Gamma-Oryzanol/Inositol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Sodium Chondroitin Sulfate",
  "edi_code": "",
  "atc_code": "A11EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502659",
+ "history_fetched_at": "2026-08-28T13:23:47Z",
  "revisions": [
   {
-   "revision_id": "199502659-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "199502659-d644fc3d",
+   "content_sha256": "d644fc3dac71c5f6653da4e3958a080863e1cecf6cec1dd1e37fe08897aae7b4",
+   "ee_text": "- 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 견통등), 수족저림, 각기, 변비, 눈의 피로 - 다음 경우의 비타민B1 보급 : 육체피로, 임신.수유기, 병중.병후의 체력저하시",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199502659/EE",
    "first_observed_at": "2026-08-28T13:23:47Z",
-   "last_observed_at": "2026-08-28T13:23:47Z"
+   "last_observed_at": "2026-09-08T08:29:49Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "199502659-b63c5ce2",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:47Z",
    "last_observed_at": "2026-08-28T13:23:47Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:47Z"
+ ]
 }

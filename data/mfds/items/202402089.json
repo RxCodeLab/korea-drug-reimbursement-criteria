@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402089",
+ "item_name": "위자임정",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20240829",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100297]셀룰라제|[M110317]판크레아틴 장용과립|[M223083]시메티콘|[M223167]우르소데옥시콜산|[M261920]디아스타제·프로테아제100",
+ "main_item_ingr_eng": "Cellulase/Diastase·Protease 100/Pancreatin Enteric Coated Granules/Simethicone/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402089",
+ "revisions": [
+  {
+   "revision_id": "202402089-286238c3",
+   "content_sha256": "286238c3b12d46d86e2ad405992ae10e43fd39d2ee3a5cf7ad3fca20120802ff",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:16Z",
+   "last_observed_at": "2026-09-08T09:03:16Z",
+   "official_revision_date": "2024-08-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:16Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200809293",
+ "item_name": "새사래첩부제(퓨시드산나트륨)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20080905",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243954]퓨시드산나트륨",
+ "main_item_ingr_eng": "Sodium Fusidate",
+ "edi_code": "",
+ "atc_code": "D06AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809293",
+ "revisions": [
+  {
+   "revision_id": "200809293-550a8a06",
+   "content_sha256": "550a8a065c7d83e6879836c31e5ad4e88bb019bac2e7b6903d55907d28c91f63",
+   "ee_text": "유효균종 - 포도구균 적응증 - 농피증(고름피부증)(농가진(고름딱지증), 모낭염, 종기), 화상ㆍ외상(상처)ㆍ봉합창ㆍ식피창(피부 이식 후 생긴 상처)에 의한 2차 감염",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:48Z",
+   "last_observed_at": "2026-09-08T08:42:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:48Z"
+}

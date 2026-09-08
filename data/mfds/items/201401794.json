@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401794",
+ "item_name": "일동옥살리플라틴주사100밀리그램(수출용)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20140414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089133]옥살리플라틴",
+ "main_item_ingr_eng": "Oxaliplatin",
+ "edi_code": "",
+ "atc_code": "L01XA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401794",
+ "revisions": [
+  {
+   "revision_id": "201401794-451905ff",
+   "content_sha256": "451905ff96c9c373bd9a760fa4617b06daaeb80870f0b160aa3a5ac9000fcdda",
+   "ee_text": "1. 전이성 결장, 직장암에 1차 치료제로써 5-fluorouracil과 folinic acid(leucovorin)와 병용 투여한다. 2. 원발 종양을 수술로 완전히 절제(complete resection)한 stage III (Duke's C)의 결장암에 5-fluorouracil과 folinic acid(leucovorin)를 병용하여 보조적 요법(adjuvant treatment)으로 사용 3. 수술이 불가능한 진행성 또는 전이성 위암",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:57Z",
+   "last_observed_at": "2026-09-08T08:46:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:57Z"
+}

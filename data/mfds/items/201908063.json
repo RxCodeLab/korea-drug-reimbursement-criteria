@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908063",
+ "item_name": "올로스카점안액(올로파타딘염산염)",
+ "entp_name": "(주)오스코리아제약",
+ "permit_date": "20191125",
+ "cancel_date": "20241125",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M233188]올로파타딘염산염",
+ "main_item_ingr_eng": "Olopatadine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S01GX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908063",
+ "revisions": [
+  {
+   "revision_id": "201908063-50267db1",
+   "content_sha256": "50267db165b8023ba9787ced7cdc75c23f27eff82e2d140b6058c957df155c21",
+   "ee_text": "알레르기성 결막염으로 인한 증상 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:07Z",
+   "last_observed_at": "2026-09-08T08:57:07Z",
+   "official_revision_date": "2019-11-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:07Z"
+}

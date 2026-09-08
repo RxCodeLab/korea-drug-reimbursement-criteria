@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604292",
+ "item_name": "나자케어나잘스프레이액(모메타손푸로에이트일수화물)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20160712",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264264]모메타손푸로에이트일수화물",
+ "main_item_ingr_eng": "Mometasone Furoate Monohydrate",
+ "edi_code": "642104881,642104891",
+ "atc_code": "R01AD09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604292",
+ "revisions": [
+  {
+   "revision_id": "201604292-89c0059e",
+   "content_sha256": "89c0059e390114ab77342c9e2b424bbbc807d568f95454937fdef9fde14b7438",
+   "ee_text": "1. 성인 및 2세 이상의 소아: 계절 알레르기비염 및 연중비염. 중등도~중증의 계절 알레르기 비염의 증상이 있었던 환자에서 예방요법은 화분기 시작 예정일(알러젠 노출예정일)의 2주~4주 전에 시작할 수 있다. 2. 18세 이상의 성인: 비용종 3. 성인 및 12세 이상의 청소년: 중증의 세균 감염이 없는 급성 비부비동염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:00Z",
+   "last_observed_at": "2026-09-08T08:51:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:00Z"
+}

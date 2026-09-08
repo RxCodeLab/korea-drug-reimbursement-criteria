@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003388",
+ "item_name": "멜라인장용정(브로멜라인)",
+ "entp_name": "(주)아리제약",
+ "permit_date": "20200511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095415]브로멜라인",
+ "main_item_ingr_eng": "Bromelain",
+ "edi_code": "058200800",
+ "atc_code": "M09AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003388",
+ "revisions": [
+  {
+   "revision_id": "202003388-1456c510",
+   "content_sha256": "1456c510dcbbeb41af3aa1c06e5e57b5213edf99603cb038fb9157c3f13e5173",
+   "ee_text": "○ 부종(부기)을 동반한 염증 증상의 완화, 외상(상처) 또는 수술 후의 부종(부기)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:44Z",
+   "last_observed_at": "2026-09-08T08:58:44Z",
+   "official_revision_date": "2020-05-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:44Z"
+}

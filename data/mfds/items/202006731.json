@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006731",
+ "item_name": "칼시톤정100/1000",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20201005",
+ "cancel_date": "20251005",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051564]탄산칼슘|[M086116]농축콜레칼시페롤",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006731",
+ "revisions": [
+  {
+   "revision_id": "202006731-7b7d9332",
+   "content_sha256": "7b7d93326d5c961102cb6f5ac77aebac2cdeae51317dee60263a0f1bacaa2f5a",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신 ∙ 수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능 ∙ 효과는 다음과 같습니다. ∙ 뼈, 이의 발육불량 ∙ 구루병의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:27Z",
+   "last_observed_at": "2026-09-08T08:59:27Z",
+   "official_revision_date": "2020-10-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:27Z"
+}

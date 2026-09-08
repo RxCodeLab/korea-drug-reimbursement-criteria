@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206336",
+ "item_name": "피레스파정200밀리그램(피르페니돈)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20120731",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255129]피르페니돈",
+ "main_item_ingr_eng": "Pirfenidone",
+ "edi_code": "642904490",
+ "atc_code": "L04AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206336",
+ "revisions": [
+  {
+   "revision_id": "201206336-bb5efbcb",
+   "content_sha256": "bb5efbcb319281966e4a2736afff113f5012c34aabbdb5a040afeb5023b9cdd1",
+   "ee_text": "특발성폐섬유증의 치료",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:25Z",
+   "last_observed_at": "2026-09-08T08:45:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:25Z"
+}

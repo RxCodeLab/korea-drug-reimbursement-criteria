@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402910",
+ "item_name": "뉴큐어엠라델루민주사액(피에스엠에이1007(18F)액)",
+ "entp_name": "주식회사뉴큐어엠",
+ "permit_date": "20241211",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285084]피에스엠에이1007(18F)액",
+ "main_item_ingr_eng": "PSMA-1007(18F)",
+ "edi_code": "",
+ "atc_code": "V09IX17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402910",
+ "revisions": [
+  {
+   "revision_id": "202402910-a90d4006",
+   "content_sha256": "a90d4006e4ff6dbc54f5b4c9d7683112a0bd984183b439852f6012400f71384f",
+   "ee_text": "다음 경우의 양전자 방출 단층 촬영(Positron Emission Tomography, PET)에 사용한다. 전립선암의 이전 치료 후 혈중 전립선 특이 항원(Prostate Specific Antigen, PSA)의 상승으로 전립선암의 재발이 의심되는 경우",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:32Z",
+   "last_observed_at": "2026-09-08T09:03:32Z",
+   "official_revision_date": "2024-12-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:32Z"
+}

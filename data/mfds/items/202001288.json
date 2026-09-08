@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001288",
+ "item_name": "속싹정",
+ "entp_name": "아이큐어(주)",
+ "permit_date": "20200224",
+ "cancel_date": "20250224",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040629]탄산마그네슘|[M040634]침강탄산칼슘|[M207094]탄산수소나트륨|[M243293]건조수산화알루미늄겔",
+ "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel/Magnesium Carbonate/Precipitated Calcium Carbonate/Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "A02AH",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001288",
+ "revisions": [
+  {
+   "revision_id": "202001288-48cfb7db",
+   "content_sha256": "48cfb7db69b5a13a209d8cd96fe2113e5aef3c837268a1a7cddb56bb7b46b768",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부(상복부)팽만감, 체함, 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:53Z",
+   "last_observed_at": "2026-09-08T08:57:53Z",
+   "official_revision_date": "2020-02-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:53Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004950",
+ "item_name": "케프로텍카타플라스마(케토프로펜)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20200709",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004950",
+ "revisions": [
+  {
+   "revision_id": "202004950-69aed2d3",
+   "content_sha256": "69aed2d3bf8b83cf20a33b38c923f7cb376c98632ade7193c14ba0fbe7bfe057",
+   "ee_text": "다음 질환 및 증상의 진통·소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건·건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통, 외상후의 종창·동통",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:14Z",
+   "last_observed_at": "2026-09-08T08:59:14Z",
+   "official_revision_date": "2020-07-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:14Z"
+}

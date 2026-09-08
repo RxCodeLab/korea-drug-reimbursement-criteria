@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603713",
+ "item_name": "자니엠정(레르카니디핀염산염)",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20160621",
+ "cancel_date": "20260621",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M250577]레르카니디핀염산염",
+ "main_item_ingr_eng": "Lercanidipine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C08CA13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603713",
+ "revisions": [
+  {
+   "revision_id": "201603713-16cb10e5",
+   "content_sha256": "16cb10e5c73b4404c0e7ca462b34a456457aba1d00bf844882a0747442e04125",
+   "ee_text": "경증 ～ 중등도 본태고혈압",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:51Z",
+   "last_observed_at": "2026-09-08T08:50:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:51Z"
+}

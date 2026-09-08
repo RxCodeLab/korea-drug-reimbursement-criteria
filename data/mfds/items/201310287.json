@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310287",
+ "item_name": "크라시에강조탕엑스산",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20131125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040071]대추|[M050752]생강",
+ "main_item_ingr_eng": "Jujube/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310287",
+ "revisions": [
+  {
+   "revision_id": "201310287-7550b6c8",
+   "content_sha256": "7550b6c876297adfd2c8850e73005624c9e0adf45baac89226a4a71b6dd690d9",
+   "ee_text": "조제 또는 제조용",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:32Z",
+   "last_observed_at": "2026-09-08T08:46:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:32Z"
+}

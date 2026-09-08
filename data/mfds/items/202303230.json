@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303230",
+ "item_name": "유로렉스정(메테나민히푸르산염)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20231128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284283]메테나민히푸르산염",
+ "main_item_ingr_eng": "Methenamine Hippurate",
+ "edi_code": "",
+ "atc_code": "J01XX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303230",
+ "revisions": [
+  {
+   "revision_id": "202303230-e806ec90",
+   "content_sha256": "e806ec904e74b328bc0f01d6df7235d929c00eb3759a2588d4a1fe98e6ebb142",
+   "ee_text": "재발성 요로 감염의 예방 - 이 약은 원인균 및 항생제 감수성 정보를 이용할 수 없거나, 사용 가능한 적절한 항생제가 없는 환자에서 사용한다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:32Z",
+   "last_observed_at": "2026-09-08T09:02:32Z",
+   "official_revision_date": "2023-11-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:32Z"
+}

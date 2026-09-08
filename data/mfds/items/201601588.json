@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201601588",
+ "item_name": "카누마주(세벨리파제알파)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20160321",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263730]세벨리파제알파",
+ "main_item_ingr_eng": "Sebelipase Alpha",
+ "edi_code": "",
+ "atc_code": "A16AB14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601588",
+ "revisions": [
+  {
+   "revision_id": "201601588-2f2e11c8",
+   "content_sha256": "2f2e11c8c32be4e245b69891ba7a03c43731ba5b5c28dff74189f1b27ab9a07b",
+   "ee_text": "리소좀산 지질분해효소(LAL) 결핍증 환자의 장기 효소 대체 요법",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:22Z",
+   "last_observed_at": "2026-09-08T08:50:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:22Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800103",
+ "item_name": "한풍지모엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040535]지모",
+ "main_item_ingr_eng": "Anemarrhena Rhizome",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800103",
+ "revisions": [
+  {
+   "revision_id": "198800103-a18a9a09",
+   "content_sha256": "a18a9a0940f434c6ad99ef38c50aae1a54767b3d817d8d0da9d85ee5d9e4bd12",
+   "ee_text": "해열, 진정, 거담, 구갈",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:33Z",
+   "last_observed_at": "2026-09-08T08:27:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:33Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002543",
+ "item_name": "야일라정10밀리그램(바데나필염산염)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20200410",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250916]바데나필염산염수화물",
+ "main_item_ingr_eng": "Vardenafil Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "G04BE09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002543",
+ "revisions": [
+  {
+   "revision_id": "202002543-6fd9b14e",
+   "content_sha256": "6fd9b14ee727a0985caca7c0488c1a773a97b94635a6b43506389075ef777a3c",
+   "ee_text": "발기부전의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:21Z",
+   "last_observed_at": "2026-09-08T08:58:21Z",
+   "official_revision_date": "2020-04-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:21Z"
+}

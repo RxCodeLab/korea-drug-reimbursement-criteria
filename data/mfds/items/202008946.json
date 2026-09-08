@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008946",
+ "item_name": "미야리산엔젤과립",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20201217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040133]리보플라빈|[M115690]클로스트리디움부티리쿰미야이리II588균|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Clostridium Butyricum Miyairi II 588/Pyridoxine Hydrochloride/Riboflavin",
+ "edi_code": "",
+ "atc_code": "A07FA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008946",
+ "revisions": [
+  {
+   "revision_id": "202008946-21e8f8d2",
+   "content_sha256": "21e8f8d20dbb525937cce8d59be9390f0eac967e0cc3d887436b95dec5794608",
+   "ee_text": "정장, 묽은 변, 변비, 복부팽만감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:46Z",
+   "last_observed_at": "2026-09-08T08:59:46Z",
+   "official_revision_date": "2020-12-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:46Z"
+}

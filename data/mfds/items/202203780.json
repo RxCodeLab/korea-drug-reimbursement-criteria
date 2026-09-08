@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203780",
+ "item_name": "비사린정",
+ "entp_name": "(주)일화",
+ "permit_date": "20221007",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M081950]도큐세이트나트륨",
+ "main_item_ingr_eng": "Bisacodyl/Docusate Sodium",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203780",
+ "revisions": [
+  {
+   "revision_id": "202203780-8092f99e",
+   "content_sha256": "8092f99eabbf1a01a945fdb731cc2b62cd1b10c754461093008e341ecc3c2b94",
+   "ee_text": "· 변비 · 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:35Z",
+   "last_observed_at": "2026-09-08T09:01:35Z",
+   "official_revision_date": "2022-10-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:35Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004225",
+ "item_name": "킴스테오브로민캡슐300밀리그램(테오브로민)",
+ "entp_name": "(주)킴스제약",
+ "permit_date": "20200604",
+ "cancel_date": "20250604",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M253552]테오브로민",
+ "main_item_ingr_eng": "Theobromine",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004225",
+ "revisions": [
+  {
+   "revision_id": "202004225-97a84abb",
+   "content_sha256": "97a84abb5c02e815b57c99cc2fc77dc0f30cabd61e01641a06ddaa28121b20e1",
+   "ee_text": "하기 질환으로 인한 기침의 완화 1) 비염, 부비동염 또는 비인후염에 의한 후비루 2) 급·만성기관지염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:05Z",
+   "last_observed_at": "2026-09-08T08:59:05Z",
+   "official_revision_date": "2020-06-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:05Z"
+}

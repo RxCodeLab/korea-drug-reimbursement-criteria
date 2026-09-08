@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403254",
+ "item_name": "듀라티얼즈안연고(무수액체라놀린)",
+ "entp_name": "한국알콘(주)",
+ "permit_date": "19940704",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091245]무수액체라놀린",
+ "main_item_ingr_eng": "Lanolin",
+ "edi_code": "652400042",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403254",
+ "revisions": [
+  {
+   "revision_id": "199403254-e68ae7e4",
+   "content_sha256": "e68ae7e4d264ec436eaab30be1831d8fc9bd87c74654d82801c0ef834f0fa5fe",
+   "ee_text": "다음 상태에서 눈을 보호하거나 윤활하게 하기 위한 윤활 보조제 1) 건성 각막염(야간에 사용) 2) 안과 수술시, 수술하지 않은 눈의 보호, 윤활할 때 3) 수술후 윤활제 4) 안과 이외 수술시 눈을 보호, 윤활할 때",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:22Z",
+   "last_observed_at": "2026-09-08T08:29:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:22Z"
+}

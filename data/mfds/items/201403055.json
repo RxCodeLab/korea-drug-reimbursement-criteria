@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403055",
+ "item_name": "아노로62.5엘립타",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20140710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259813]빌란테롤트리페나테이트(미분화)|[M259864]유메클리디늄브롬화물(미분화)",
+ "main_item_ingr_eng": "Umeclidinium Bromide Micronized/Vilanterol Trifenatate Micronized",
+ "edi_code": "650002960",
+ "atc_code": "R03AL03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403055",
+ "revisions": [
+  {
+   "revision_id": "201403055-e7d4941a",
+   "content_sha256": "e7d4941ab1ac964fbda2d8f2f8f4e997978650fc56c41251f4accffe792eeac1",
+   "ee_text": "기관지확장제로서 성인의 만성폐쇄성폐질환의 증상 완화를 위한 유지요법제",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:17Z",
+   "last_observed_at": "2026-09-08T08:47:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:17Z"
+}

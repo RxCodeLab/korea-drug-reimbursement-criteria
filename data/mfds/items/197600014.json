@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197600014",
+ "item_name": "시계론과립(시호계지탕엑스과립)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19760327",
+ "cancel_date": "20240312",
+ "status": "취하",
+ "main_item_ingr": "[M088631]시호계지탕연조엑스",
+ "main_item_ingr_eng": "Sihogyejitang Soft Extract",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600014",
+ "revisions": [
+  {
+   "revision_id": "197600014-1dbc33e1",
+   "content_sha256": "1dbc33e1bf172050845bb3f0e75eaa8f1a2fbf8701ddc3e1111667ecc8d8b707",
+   "ee_text": "대부분 복통을 수반한 위장염, 미열·추위·두통·구역이 있는 감기, 감기 후기 증상",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:23Z",
+   "last_observed_at": "2026-09-08T08:26:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:23Z"
+}

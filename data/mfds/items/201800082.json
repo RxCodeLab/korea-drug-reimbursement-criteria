@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800082",
+ "item_name": "씨씨케이바시트라신아연연고(수출용)",
+ "entp_name": "시믹씨엠오코리아주식회사",
+ "permit_date": "20180108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083538]바시트라신아연",
+ "main_item_ingr_eng": "Bacitracin Zinc",
+ "edi_code": "",
+ "atc_code": "D06AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800082",
+ "revisions": [
+  {
+   "revision_id": "201800082-c6fc9f95",
+   "content_sha256": "c6fc9f950146dc30e84c281d7abef499879980696fcdd34a99de9b0d38f69c77",
+   "ee_text": "경미한 베임, 창상, 화상에 의한 감염증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:46Z",
+   "last_observed_at": "2026-09-08T08:52:46Z",
+   "official_revision_date": "2018-01-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:46Z"
+}

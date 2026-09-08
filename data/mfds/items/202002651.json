@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002651",
+ "item_name": "원타제정",
+ "entp_name": "(주)시어스제약",
+ "permit_date": "20200414",
+ "cancel_date": "20250414",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051649]결정트립신|[M095415]브로멜라인",
+ "main_item_ingr_eng": "Bromelain/Crystallized Trypsin",
+ "edi_code": "",
+ "atc_code": "M09AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002651",
+ "revisions": [
+  {
+   "revision_id": "202002651-6c9494cf",
+   "content_sha256": "6c9494cfce915c20dad060c694c8e562e43838f14c41a7ebacfcb6fa063f2d38",
+   "ee_text": "다음 질환 및 증상의 염증성 부종의 완화 : 수술 및 외상후, 유즙울체",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:23Z",
+   "last_observed_at": "2026-09-08T08:58:23Z",
+   "official_revision_date": "2020-04-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:23Z"
+}

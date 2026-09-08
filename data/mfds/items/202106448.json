@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106448",
+ "item_name": "멜스팔주50밀리그램(멜팔란염산염)",
+ "entp_name": "위너마크팜",
+ "permit_date": "20210909",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270486]멜팔란염산염",
+ "main_item_ingr_eng": "Melphalan Hydrochloride",
+ "edi_code": "074300011",
+ "atc_code": "L01AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106448",
+ "revisions": [
+  {
+   "revision_id": "202106448-93c1e82e",
+   "content_sha256": "93c1e82ec56bed9b40dd260368c5346fe502655b6157445ca3e5f6a4ee3eded0",
+   "ee_text": "다발성골수종",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:34Z",
+   "last_observed_at": "2026-09-08T09:00:34Z",
+   "official_revision_date": "2021-09-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:34Z"
+}

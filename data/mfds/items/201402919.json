@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402919",
+ "item_name": "렐바200엘립타",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20140701",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259812]플루티카손푸로에이트(미분화)|[M259813]빌란테롤트리페나테이트(미분화)",
+ "main_item_ingr_eng": "Fluticasone Furoate Micronized/Vilanterol Trifenatate Micronized",
+ "edi_code": "650002930",
+ "atc_code": "R03AK10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402919",
+ "revisions": [
+  {
+   "revision_id": "201402919-70f124d2",
+   "content_sha256": "70f124d28bac619928ac7d487f03b2bf4c53ecba1b7599f94334e889bb96be88",
+   "ee_text": "1. 지속성 베타2-효능약과 흡입용 코르티코스테로이드의 병용투여가 적절하다고 판단된 12세 이상 청소년 및 성인의 정기적인 천식 치료",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:14Z",
+   "last_observed_at": "2026-09-08T08:47:14Z",
+   "official_revision_date": "2018-04-18"
+  },
+  {
+   "revision_id": "201402919-3dd95f0a",
+   "content_sha256": "3dd95f0ace66ef9422bec4d14f755bad56ae6afeafa02716a5420edd08c49d31",
+   "ee_text": "1. 흡입용 코르티코스테로이드로 적절히 조절되지 않고 필요시 속효성 베타2-효능약을 사용하는 환자에서 지속성 베타2-효능약과 흡입용 코르티코스테로이드의 병용투여가 적절하다고 판단된 12세 이상 소아 및 성인의 정기적인 천식 치료",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:47:14Z",
+   "last_observed_at": "2026-09-08T08:47:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:14Z"
+}

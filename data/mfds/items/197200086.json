@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197200086",
+ "item_name": "보스민액(에피네프린)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "19720617",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040421]에피네프린",
+ "main_item_ingr_eng": "Epinephrine",
+ "edi_code": "645400393",
+ "atc_code": "R03AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197200086",
+ "revisions": [
+  {
+   "revision_id": "197200086-24450fa3",
+   "content_sha256": "24450fa337c9b5bb2f71c973eed4f9231eb4ab36dfc82f72a0ff49e35a0301b3",
+   "ee_text": "기관지 천식 발작의 완화, 국소 부위의 출혈 (외상, 코, 입, 인후두 점막의 출혈)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:18Z",
+   "last_observed_at": "2026-09-08T08:26:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:18Z"
+}

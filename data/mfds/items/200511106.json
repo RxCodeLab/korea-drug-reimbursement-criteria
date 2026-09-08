@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511106",
+ "item_name": "테모달캡슐20밀리그램(테모졸로미드)",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "20051209",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M212372]테모졸로미드",
+ "main_item_ingr_eng": "Temozolomide",
+ "edi_code": "655501010",
+ "atc_code": "L01AX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511106",
+ "revisions": [
+  {
+   "revision_id": "200511106-fe9734a3",
+   "content_sha256": "fe9734a38ed4a5f47b0d82152317c5fee5cd0dc9a50962b2a3fb21a76477f236",
+   "ee_text": "1) 새로이 진단된 다형성 교아종(Glioblastoma multiforme)의 치료 ; 초기에는 방사선 치료와 병용하며, 이후 단독으로 투여한다. 2) 표준요법에 실패한 재발성, 진행성 다형성 교아종(Glioblastoma multiforme) 및 미분화성상세포종(Anaplastic astrocytoma)의 치료",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:36Z",
+   "last_observed_at": "2026-09-08T08:39:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:36Z"
+}

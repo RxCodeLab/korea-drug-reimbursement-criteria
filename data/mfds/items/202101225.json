@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101225",
+ "item_name": "빌다글정50밀리그램(빌다글립틴염산염)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20210210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268387]빌다글립틴염산염",
+ "main_item_ingr_eng": "Vildagliptin Hydrochloride",
+ "edi_code": "643508480",
+ "atc_code": "A10BH02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101225",
+ "revisions": [
+  {
+   "revision_id": "202101225-39b8bab5",
+   "content_sha256": "39b8bab5520515613bc7ef918c08588e6858583fbf3a6ced0df9feaca22e9c40",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. - 단독요법 - 병용요법",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:56Z",
+   "last_observed_at": "2026-09-08T08:59:56Z",
+   "official_revision_date": "2021-11-12"
+  },
+  {
+   "revision_id": "202101225-0afc37a8",
+   "content_sha256": "0afc37a81dbcecb31fddead402e32dce52f1a19154b1fe9ae1e6aceb4ce02137",
+   "ee_text": "이 약은 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 이 약은 단독요법으로 투여한다. 2. 이전 당뇨병 약물치료를 받은 경험이 없으며 단독요법으로 충분한 혈당조절이 어려운 경우 메트포르민과 병용투여한다. 3. 설포닐우레아 또는 메트포르민 또는 티아졸리딘디온 단독요법으로 충분한 혈당조절을 할 수 없는 경우 이 약과 병용투여한다. 4. 설포닐우레아 및 메트포르민 병용요법으로 충분한 혈당조절을 할 수 없는 경우, 이 약과 병용투여한다. 5. 인슐린(인슐린 단독 또는 메트포르민 병용)요법으로 충분한 혈당조절을 할 수 없는 경우, 이 약과 병용투여한다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-02-10",
+   "first_observed_at": "2026-09-08T08:59:56Z",
+   "last_observed_at": "2026-09-08T08:59:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:56Z"
+}

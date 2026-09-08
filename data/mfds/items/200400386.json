@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400386",
+ "item_name": "에스텔정(에바스틴)",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "20041126",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085337]에바스틴",
+ "main_item_ingr_eng": "Ebastine",
+ "edi_code": "655601410",
+ "atc_code": "R06AX22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400386",
+ "revisions": [
+  {
+   "revision_id": "200400386-8ece25a5",
+   "content_sha256": "8ece25a5994c4068d77864ee62b3afe7fbd8af50daf3bc6aa15967a0d5bfaa38",
+   "ee_text": "알레르기성 비염ㆍ결막염ㆍ피부염, 만성두드러기",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:33Z",
+   "last_observed_at": "2026-09-08T08:37:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:33Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197400574",
+ "item_name": "한풍쌍화탕엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19741125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086603]쌍화탕연조엑스",
+ "main_item_ingr_eng": "Ssanghwatang Soft Extract",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400574",
+ "revisions": [
+  {
+   "revision_id": "197400574-ff9e97e1",
+   "content_sha256": "ff9e97e188e23d7e7789e1a6c680cfd5678d9c281cb7b80002e161c2acdcd2fe",
+   "ee_text": "허약체질, 피로회복, 과로, 자한(自汗, 정신이 멀쩡하고 움직이지도 않았는데 저절로 땀이 나는 증상), 병중병후",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:21Z",
+   "last_observed_at": "2026-09-08T08:26:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:21Z"
+}

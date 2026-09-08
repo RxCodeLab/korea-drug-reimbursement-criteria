@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301089",
+ "item_name": "노코틴정1밀리그램(바레니클린옥살산염수화물)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20230331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265225]바레니클린옥살산염수화물",
+ "main_item_ingr_eng": "Varenicline Oxalate Hydrate",
+ "edi_code": "",
+ "atc_code": "N07BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301089",
+ "revisions": [
+  {
+   "revision_id": "202301089-79eeaf18",
+   "content_sha256": "79eeaf18cf99e171faa4bb799b7612a9381801bfb70ab8f027501829b9ee0928",
+   "ee_text": "금연치료의 보조요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:58Z",
+   "last_observed_at": "2026-09-08T09:01:58Z",
+   "official_revision_date": "2023-03-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:58Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511077",
+ "item_name": "소노뷰주(설파헥사플루오라이드)",
+ "entp_name": "브라코이미징코리아(유)",
+ "permit_date": "20050621",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102330]설파헥사플루오라이드",
+ "main_item_ingr_eng": "Sulfur Hexafluoride",
+ "edi_code": "",
+ "atc_code": "V08DA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511077",
+ "revisions": [
+  {
+   "revision_id": "200511077-c632ee80",
+   "content_sha256": "c632ee8077780101edf146281acfee03fae81b4a6321f588cc9fc2f545a421b3",
+   "ee_text": "심장초음파, 거대(대뇌동맥, 두개외 경동맥(extracranial carotid), 말초동맥) 및 미세혈관계(간, 유방 혈관) 도플러 검사시, 도플러 신호강도가 충분치 않은 환자 혈류의 신호증강(신호/잡음비의 향상) 소아의 방광요관역류의 확인을 위한 요로초음파",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:36Z",
+   "last_observed_at": "2026-09-08T08:39:36Z",
+   "official_revision_date": "2018-08-30"
+  },
+  {
+   "revision_id": "200511077-e8670ad8",
+   "content_sha256": "e8670ad8940c98254c6a97b96d17a6feaf4f9ab3e3dcc4a38e51f7b109accc28",
+   "ee_text": "심장초음파, 거대(대뇌동맥, 두개외 경동맥(extracranial carotid), 말초동맥) 및 미세혈관계(간, 유방 혈관) 도플러 검사시, 도플러 신호강도가 충분치 않은 환자 혈류의 신호증강(신호/잡음비의 향상)",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:39:36Z",
+   "last_observed_at": "2026-09-08T08:39:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:36Z"
+}

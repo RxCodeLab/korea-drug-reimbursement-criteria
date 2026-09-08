@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400052",
+ "item_name": "코리아퓸2002(산화에틸렌)",
+ "entp_name": "대덕가스(주)",
+ "permit_date": "20140107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254144]산화에틸렌",
+ "main_item_ingr_eng": "Ethylene Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400052",
+ "revisions": [
+  {
+   "revision_id": "201400052-ad1a2416",
+   "content_sha256": "ad1a2416c961172a0f75eb275e54cad6366858af21ba678790bd03def51f1034",
+   "ee_text": "고온이나 습도에 민감한 섬세하고 예리한 외과기구, 안이비과, 성형외과기구, 현미경 미세 수술기구, 장비의부속품, 플라스틱 및 다공성 물질, 전기기구 등 의료용기기의 멸균",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:40Z",
+   "last_observed_at": "2026-09-08T08:46:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:40Z"
+}

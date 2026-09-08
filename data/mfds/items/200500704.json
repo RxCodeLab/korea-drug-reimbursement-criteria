@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500704",
+ "item_name": "프라스칼-디정750밀리그람",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20050808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050064]구연산칼슘|[M082625]건조콜레칼시페롤",
+ "main_item_ingr_eng": "Calcium Citrate/Dried Cholecalciferol",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500704",
+ "revisions": [
+  {
+   "revision_id": "200500704-b9c05b86",
+   "content_sha256": "b9c05b8624d76eac575382722119ae8c19f0b88570b2ef9619994df782d06cb1",
+   "ee_text": "○ 다음 경우의 비타민 D의 보급 - 임신•수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. • 뼈, 이의 발육불량 • 구루병의 예방 ○ 칼슘결핍 및 기타 칼슘의 보급",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:59Z",
+   "last_observed_at": "2026-09-08T08:38:59Z",
+   "official_revision_date": "2021-08-11"
+  },
+  {
+   "revision_id": "200500704-faf5d4ee",
+   "content_sha256": "faf5d4ee4b141dbeb5b1e0a81d10ce3020f2c503008f8d124934e7a6291d66af",
+   "ee_text": "1. 칼슘결핍 및 칼슘의 보급 2. 뼈, 이의 발육불량, 구루병의 예방 3. 비타민D의 보급 : 임신·수유기, 발육기, 노년기",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:38:59Z",
+   "last_observed_at": "2026-09-08T08:38:59Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:59Z"
+}

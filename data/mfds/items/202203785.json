@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203785",
+ "item_name": "스파이크박스2주(엘라소메란,이멜라소메란)(사스코로나바이러스-2 mRNA 백신)",
+ "entp_name": "모더나코리아(주)",
+ "permit_date": "20221007",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283076]사스코로나바이러스-2 스파이크 단백질 발현 메신저 리보핵산(엘라소메란)(숙주: DIG315, 벡터: PL-022856)|[M283081]사스코로나바이러스-2 스파이크 단백질 발현 메신저 리보핵산(이멜라소메란)(숙주: DIG315, 벡터: PL-028274)",
+ "main_item_ingr_eng": "SARS-CoV-2 Spike Protein encoded messenger Ribonucleic Acid(Elasomeran)(Host: DIG315, Vector: PL-022856)/SARS-CoV-2 Spike Protein encoded messenger Ribonucleic Acid(Imelasomeran)(Host: DIG315, Vector: PL-028274)",
+ "edi_code": "",
+ "atc_code": "V",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203785",
+ "revisions": [
+  {
+   "revision_id": "202203785-5fa720b9",
+   "content_sha256": "5fa720b96e8a7a4e0ee21dbbef8f7659741732afa7e4bea543d0ecee53945dd6",
+   "ee_text": "18세 이상에서 SARS-CoV-2 바이러스에 의한 코로나19의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:36Z",
+   "last_observed_at": "2026-09-08T09:01:36Z",
+   "official_revision_date": "2022-10-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:36Z"
+}

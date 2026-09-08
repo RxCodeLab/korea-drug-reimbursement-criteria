@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701870",
+ "item_name": "소프티아연고(요소)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "19970408",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040457]요소",
+ "main_item_ingr_eng": "Urea",
+ "edi_code": "645601141",
+ "atc_code": "D02AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701870",
+ "revisions": [
+  {
+   "revision_id": "199701870-5f8abced",
+   "content_sha256": "5f8abceddb0fd6e379dd5060886e3651146a3c571e9cd46791490b47d1437e66",
+   "ee_text": "진행성 지장각피증(주부습진의 건조형), 손ㆍ발바닥 각피증, 어린선(魚鱗蘚), 노인성 건피증, 모공성 태선, 아토피피부",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:09Z",
+   "last_observed_at": "2026-09-08T08:31:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:09Z"
+}

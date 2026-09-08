@@ -7,11 +7,12 @@
  "permit_date": "20141203",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M245287]정제어유(고단위 오메가-3 지방산 함유)|[M102759]정제올리브유|[M250010]중쇄트리글리세리드|[M081583]정제대두유",
+ "main_item_ingr": "[M081583]정제대두유|[M102759]정제올리브유|[M245287]정제어유(고단위 오메가-3 지방산 함유)|[M250010]중쇄트리글리세리드",
  "main_item_ingr_eng": "Purified Fish Oil (High Dose Omega-3 Fatty Acids)/Purified Olive Oil/Refined Soybean Oil/Triglycerides Medium-Chain",
  "edi_code": "",
  "atc_code": "B05BA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405732",
+ "history_fetched_at": "2026-08-28T13:24:40Z",
  "revisions": [
   {
    "revision_id": "201405732-3eb2397f",
@@ -19,9 +20,9 @@
    "ee_text": "비경구 영양요법을 필요로 하는 환자(경구 혹은 위장관 영양공급이 불가능, 불충분 또는 제한되는 경우)에게 에너지와 필수지방산 및 오메가-3 지방산의 공급",
    "ee_doc_id": "3",
    "first_observed_at": "2026-08-28T13:24:40Z",
-   "last_observed_at": "2026-08-28T13:24:40Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:48:05Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:40Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201110672",
+ "item_name": "우레아13C브래스테스트키트(13C요소50밀리그램)",
+ "entp_name": "세정엠아이(주)",
+ "permit_date": "20111208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096440]13C-요소",
+ "main_item_ingr_eng": "Urea (13C)",
+ "edi_code": "",
+ "atc_code": "V04CX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110672",
+ "revisions": [
+  {
+   "revision_id": "201110672-d39d682d",
+   "content_sha256": "d39d682d1f6b1c3df92578590ff98c812f12f8fe35be3cab23bea868079c30ef",
+   "ee_text": "헬리코박터 파이로리의 감염 진단",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:04Z",
+   "last_observed_at": "2026-09-08T08:45:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:04Z"
+}

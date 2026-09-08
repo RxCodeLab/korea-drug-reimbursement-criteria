@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200605379",
+ "item_name": "바이카니틴주(L-카르니틴)(수출용)",
+ "entp_name": "(주)바이넥스",
+ "permit_date": "20060614",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100470]엘카르니틴",
+ "main_item_ingr_eng": "L-Carnitine",
+ "edi_code": "",
+ "atc_code": "A16AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605379",
+ "revisions": [
+  {
+   "revision_id": "200605379-ba3c7bdf",
+   "content_sha256": "ba3c7bdfa352267c5d78fd3f85b68ac5daa409ed0a0c3866e74b4c488da0d3f8",
+   "ee_text": "1. 1차성, 2차성 카르니틴결핍증 2. 허혈성심질환에 의한 심근대사장애 : 협심증, 급성심근경색 3. 혈액투석중인 말기 신 질환자의 카르니틴 결핍증 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:21Z",
+   "last_observed_at": "2026-09-08T08:40:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:21Z"
+}

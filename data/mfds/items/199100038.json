@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199100038",
+ "item_name": "리메시드정(니메술리드)(수출명 : SHIN POONG NIMESULIDE Tablet 100mg)(수출용)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "19911224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M228297]니메수리드",
+ "main_item_ingr_eng": "Nimesulide",
+ "edi_code": "",
+ "atc_code": "M01AX17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100038",
+ "revisions": [
+  {
+   "revision_id": "199100038-96dd3fc4",
+   "content_sha256": "96dd3fc4f734bbe6c342014219b624cbe3cfe64741b0ce3fdf1be3fc1b67f114",
+   "ee_text": "급성통증(수술후 통증, 치통, 두통, 요통), 원발성 월경통 니메술리드는 2차 치료 목적으로만 사용해야 하며, 환자 개개인의 전반적인 위험성 평가에 근거하여 처방해야 한다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:06Z",
+   "last_observed_at": "2026-09-08T08:28:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:06Z"
+}

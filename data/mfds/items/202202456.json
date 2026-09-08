@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202456",
+ "item_name": "엘라오일정(울리프리스탈아세테이트)",
+ "entp_name": "지엘팜텍(주)",
+ "permit_date": "20220613",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M114896]울리프리스탈아세테이트",
+ "main_item_ingr_eng": "Ulipristal Acetate",
+ "edi_code": "",
+ "atc_code": "G03AD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202456",
+ "revisions": [
+  {
+   "revision_id": "202202456-6661f1cd",
+   "content_sha256": "6661f1cd38f8830d79ff2b321758944e9399815524f2a6c2086475f4c6504fbd",
+   "ee_text": "무방비한 성교 또는 피임방법의 실패로 인한 경우, 성교후 120시간(5일) 이내에 즉시 사용하는 응급피임약",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:23Z",
+   "last_observed_at": "2026-09-08T09:01:23Z",
+   "official_revision_date": "2022-06-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:23Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200907723",
+ "item_name": "리케루스과립(바실루스리케니포르미스균)",
+ "entp_name": "(주)바이넥스",
+ "permit_date": "20091027",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균",
+ "main_item_ingr_eng": "Bacillus Licheniformis",
+ "edi_code": "",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907723",
+ "revisions": [
+  {
+   "revision_id": "200907723-e75673aa",
+   "content_sha256": "e75673aa72a0781fee090ea87b88da33242b2e3b273d76c19a58ad5c1b77ccf6",
+   "ee_text": "급ㆍ 만성장염, 급ㆍ만성설사, 급성이질, 각종원인에 기인한 장내 이상발효",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:35Z",
+   "last_observed_at": "2026-09-08T08:43:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:35Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401519",
+ "item_name": "카멘정5밀리그람(카르비마졸)",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20041229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081383]카르비마졸|[M081383]카르비마졸",
+ "main_item_ingr_eng": "Carbimazole",
+ "edi_code": "664600870",
+ "atc_code": "H03BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401519",
+ "revisions": [
+  {
+   "revision_id": "200401519-3a6ba087",
+   "content_sha256": "3a6ba087dd3a2225a1c618ce61f300396c3341d38fb140b90ec9fa61b7ba9bb7",
+   "ee_text": "갑상샘 기능 감소를 필요로 하는 다음의 상태: 1. 갑상샘 기능 항진증 2. 갑상샘 기능 항진증에서의 갑상샘 절제술 전처치 3. 방사성 요오드 요법의 전처치 및 병용요법",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:50Z",
+   "last_observed_at": "2026-09-08T08:37:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:50Z"
+}

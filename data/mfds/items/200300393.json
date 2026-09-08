@@ -1,0 +1,58 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300393",
+ "item_name": "티에스원캡슐20,25",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20030729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051785]테가푸르|[M051785]테가푸르|[M250313]기메라실|[M250313]기메라실|[M250314]오테라실칼륨|[M250314]오테라실칼륨",
+ "main_item_ingr_eng": "Gimeracil/Oteracil Potassium/Tegafur",
+ "edi_code": "645401930,645401940",
+ "atc_code": "L01BC53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300393",
+ "revisions": [
+  {
+   "revision_id": "200300393-fe9114de",
+   "content_sha256": "fe9114de7b8900dbbd29d418995307e71500ebdf33bb793049d4dade308c03b6",
+   "ee_text": "1. 위암 1) 진행성 및 전이성 또는 재발성 위암, 위암의 수술 후 보조화학요법 2) 도세탁셀 및 옥살리플라틴 과 병용하여 절제 가능한 국소 진행성 위암의 수술 전 보조요법 2. 두경부암 진행성 또는 재발성 두경부암 3. 췌장암 국소 진행성 또는 전이성 췌장암",
+   "ee_doc_id": "45",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:44Z",
+   "last_observed_at": "2026-09-08T08:36:44Z",
+   "official_revision_date": "2026-06-01"
+  },
+  {
+   "revision_id": "200300393-67a6484f",
+   "content_sha256": "67a6484fa663b95e6d0164b355633fc4367d8c6d18c93d62f9814c261fb3a3f3",
+   "ee_text": "1. 위암 1) 진행성 및 전이성 또는 재발성 위암, 위암의 수술 후 보조화학요법 2) 도세탁셀 및 옥살리플라틴 과 병용하여 절제 가능한 국소 진행성 위암의 수술 전 보조요법 2. 두경부암 진행성 또는 재발성 두경부암 3. 췌장암 국소 진행성 또는 전이성 췌장암 4.비소세포폐암 이전에 백금화학요법으로 치료받은 경험이 있는 국소 진행성 또는 전이성 비소세포폐암",
+   "ee_doc_id": "42",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-05-30",
+   "first_observed_at": "2026-09-08T08:36:44Z",
+   "last_observed_at": "2026-09-08T08:36:44Z"
+  },
+  {
+   "revision_id": "200300393-0aef0973",
+   "content_sha256": "0aef0973307c29078b15cb4518514011e523a60769895f2f907a20b6a2f432a9",
+   "ee_text": "1. 위암 진행성 및 전이성 또는 재발성 위암, 위암의 수술 후 보조화학요법 2. 두경부암 진행성 또는 재발성 두경부암 3. 췌장암 국소 진행성 또는 전이성 췌장암 4.비소세포폐암 이전에 백금화학요법으로 치료받은 경험이 있는 국소 진행성 또는 전이성 비소세포폐암",
+   "ee_doc_id": "27",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-03-19",
+   "first_observed_at": "2026-09-08T08:36:44Z",
+   "last_observed_at": "2026-09-08T08:36:44Z"
+  },
+  {
+   "revision_id": "200300393-084c25e8",
+   "content_sha256": "084c25e81aa6357dc7a5ab26cd194ea5612d61b1c434d5c09ce441d554789630",
+   "ee_text": "1. 위암 진행성 및 전이성 또는 재발성 위암, 위암의 수술 후 보조화학요법 2. 두경부암 진행성 또는 재발성 두경부암 3. 췌장암 국소 진행성 또는 전이성 췌장암",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:36:44Z",
+   "last_observed_at": "2026-09-08T08:36:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:44Z"
+}

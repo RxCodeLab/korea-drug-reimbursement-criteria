@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805049",
+ "item_name": "세이락정",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20181212",
+ "cancel_date": "20231212",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050379]리파제|[M223167]우르소데옥시콜산|[M267745]디아스타제·프로테아제·셀룰라제",
+ "main_item_ingr_eng": "Diastase·Protease·Cellulase/Lipase/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805049",
+ "revisions": [
+  {
+   "revision_id": "201805049-286238c3",
+   "content_sha256": "286238c3b12d46d86e2ad405992ae10e43fd39d2ee3a5cf7ad3fca20120802ff",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:55Z",
+   "last_observed_at": "2026-09-08T08:53:55Z",
+   "official_revision_date": "2018-12-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:55Z"
+}

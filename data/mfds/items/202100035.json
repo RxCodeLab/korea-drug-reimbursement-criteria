@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202100035",
+ "item_name": "덴탈필크림",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20210104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040717]프레드니솔론|[M278021]염화세틸피리디늄수화물",
+ "main_item_ingr_eng": "Cetylpyridinium Chloride Hydrate/Prednisolone",
+ "edi_code": "",
+ "atc_code": "A01AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100035",
+ "revisions": [
+  {
+   "revision_id": "202100035-0dc2bf79",
+   "content_sha256": "0dc2bf79289883a6647fe6cafd552345027761b28adcba00b9a59289526d8426",
+   "ee_text": "입술 통증, 구각염, 구내염, 치은염, 치아 통증 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:49Z",
+   "last_observed_at": "2026-09-08T08:59:49Z",
+   "official_revision_date": "2021-01-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:49Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200807831",
+ "item_name": "신신펠비낙로오션(펠비낙)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20080716",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M083570]펠비낙",
+ "main_item_ingr_eng": "Felbinac",
+ "edi_code": "",
+ "atc_code": "M02AA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807831",
+ "revisions": [
+  {
+   "revision_id": "200807831-0dbd74fb",
+   "content_sha256": "0dbd74fbbdc0faaff46d2912a07fd1755e873324b80da028b5e3f14074956c36",
+   "ee_text": "다음과 같은 질환 및 증상의 소염(항염) · 진통 퇴행성관절염(골관절염), 요통, 어깨관절 주위염, 건(힘줄) · 건초염(힘줄윤활막염), 건(힘줄)주위염, 상완골(위팔뼈)상과염(테니스엘보우), 근육통, 외상(상처) 후의 종창(부기) · 동통(통증)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:43Z",
+   "last_observed_at": "2026-09-08T08:42:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:43Z"
+}

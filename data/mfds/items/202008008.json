@@ -12,6 +12,7 @@
  "edi_code": "657807441",
  "atc_code": "S01XA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008008",
+ "history_fetched_at": "2026-08-28T13:25:22Z",
  "revisions": [
   {
    "revision_id": "202008008-78e6ce1c",
@@ -19,8 +20,9 @@
    "ee_text": "노인성 백내장 초기증상으로서의 렌즈혼탁",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:25:22Z",
-   "last_observed_at": "2026-08-28T13:25:22Z",
-   "official_revision_date": "2023-08-24"
+   "last_observed_at": "2026-09-08T08:59:40Z",
+   "official_revision_date": "2023-08-24",
+   "normalizer_version": 3
   },
   {
    "revision_id": "202008008-07374039",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:25:22Z",
    "last_observed_at": "2026-08-28T13:25:22Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:22Z"
+ ]
 }

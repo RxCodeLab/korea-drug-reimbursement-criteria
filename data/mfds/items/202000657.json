@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000657",
+ "item_name": "알사킨정1밀리그램(라사길린메실산염)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20200205",
+ "cancel_date": "20250205",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M257939]라사길린메실산염",
+ "main_item_ingr_eng": "Rasagiline Mesylate",
+ "edi_code": "",
+ "atc_code": "N04BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000657",
+ "revisions": [
+  {
+   "revision_id": "202000657-c2249984",
+   "content_sha256": "c22499843f2ad1e0a7d9a39e5a6dbcba0369d6e4b6b4a9c80f3f97c8bb0f5779",
+   "ee_text": "특발성 파킨슨병의 치료 : 1) 초기 단독요법 또는 효능제의 보조요법 2) 운동 동요 증상(end of dose fluctuations)이 있는 환자에서 레보도파의 보조요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:43Z",
+   "last_observed_at": "2026-09-08T08:57:43Z",
+   "official_revision_date": "2020-02-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:43Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601781",
+ "item_name": "데이비고필름코팅정10밀리그램(렘보렉산트)",
+ "entp_name": "한국에자이(주)",
+ "permit_date": "20260623",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266421]렘보렉산트",
+ "main_item_ingr_eng": "Lemborexant",
+ "edi_code": "",
+ "atc_code": "N05CJ02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601781",
+ "revisions": [
+  {
+   "revision_id": "202601781-5783c10c",
+   "content_sha256": "5783c10c071956704f6de5a476145f09c3eb880ca9dae0a92a0dc5735980f99a",
+   "ee_text": "수면 개시 또는 수면 유지가 어려운 성인 불면증 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:20Z",
+   "last_observed_at": "2026-09-08T09:05:20Z",
+   "official_revision_date": "2026-06-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:20Z"
+}

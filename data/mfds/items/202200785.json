@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200785",
+ "item_name": "정우감초엑스정",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20220221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281656]감초연조엑스(2.4~3.0→1)",
+ "main_item_ingr_eng": "Licorice Soft Extract(2.4~3.0→1)",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200785",
+ "revisions": [
+  {
+   "revision_id": "202200785-0f17433b",
+   "content_sha256": "0f17433b9658a846d22e3345c5a0aa8dbec304160573c883e00ff65d04dd9385",
+   "ee_text": "조제용",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:08Z",
+   "last_observed_at": "2026-09-08T09:01:08Z",
+   "official_revision_date": "2022-02-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:08Z"
+}

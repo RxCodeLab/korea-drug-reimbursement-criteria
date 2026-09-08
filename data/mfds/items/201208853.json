@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201208853",
+ "item_name": "페르빈카타플라스마(펠비낙)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20121128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083570]펠비낙",
+ "main_item_ingr_eng": "Felbinac",
+ "edi_code": "",
+ "atc_code": "M02AA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208853",
+ "revisions": [
+  {
+   "revision_id": "201208853-18194e9c",
+   "content_sha256": "18194e9ccb12ccdb3ef8905523d3038bfa3245ac0c54ce1e9b20023c75d9fc20",
+   "ee_text": "다음 질환 및 증상의 진통 ㆍ 소염(항염) : 퇴행성관절염(골관절염), 어깨관절주위염, 건·건초염(힘줄윤활막염), 건주위염, 상완골상과염(테니스 엘보우 등), 근육통, 외상후의 종창(부기)·동통(통증)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:37Z",
+   "last_observed_at": "2026-09-08T08:45:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:37Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102863",
+ "item_name": "테넬리탁정20밀리그램(테네리글립틴이토실산염이수화물)",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20210401",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279310]테네리글립틴이토실산염이수화물",
+ "main_item_ingr_eng": "Teneligliptin Ditosylate Dihydrate",
+ "edi_code": "690303410",
+ "atc_code": "A10BH08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102863",
+ "revisions": [
+  {
+   "revision_id": "202102863-63dc24ca",
+   "content_sha256": "63dc24ca51b44da09c478e6b94e704ca52c8127129bdd35a8e300fbb2f1ab53d",
+   "ee_text": "이 약은 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 단독요법 병용요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:05Z",
+   "last_observed_at": "2026-09-08T09:00:05Z",
+   "official_revision_date": "2021-04-01"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:05Z"
+}

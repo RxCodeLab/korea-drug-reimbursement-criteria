@@ -7,11 +7,12 @@
  "permit_date": "20000823",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M202893]네오마이신황산염|[M233313]폴리믹신B황산염|[M083538]바시트라신아연|[M101579]히드로코르티손",
+ "main_item_ingr": "[M083538]바시트라신아연|[M101579]히드로코르티손|[M202893]네오마이신황산염|[M233313]폴리믹신B황산염",
  "main_item_ingr_eng": "Bacitracin Zinc/Hydrocortisone/Neomycin Sulfate/Polymyxin B Sulfate",
  "edi_code": "",
  "atc_code": "D07CA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200003005",
+ "history_fetched_at": "2026-08-28T13:23:55Z",
  "revisions": [
   {
    "revision_id": "200003005-d42dc23e",
@@ -19,9 +20,9 @@
    "ee_text": "코르티코이드에 반응하는 2차 감염성 피부질환",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:23:55Z",
-   "last_observed_at": "2026-08-28T13:23:55Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:34:04Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:55Z"
+ ]
 }

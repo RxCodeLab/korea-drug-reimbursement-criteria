@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201103159",
+ "item_name": "모티리톤정",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20110516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252175]현호색·견우자(5:1) 50% 에탄올 연조엑스(9.5~11.5→1)",
+ "main_item_ingr_eng": "Corydalis Tuber & Pharbitis Seed 50% Ethanol Extract",
+ "edi_code": "642506570",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103159",
+ "revisions": [
+  {
+   "revision_id": "201103159-624f4cf3",
+   "content_sha256": "624f4cf3d413a8923f18d8f5bbc6c4a1969040d637cadec4542a5e6538a91615",
+   "ee_text": "기능성 소화불량증",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:37Z",
+   "last_observed_at": "2026-09-08T08:44:37Z",
+   "official_revision_date": "2017-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:37Z"
+}

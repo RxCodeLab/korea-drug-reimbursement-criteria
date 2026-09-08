@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199300103",
+ "item_name": "세레브렌주(프로티렐린타르타르산염수화물)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "19930105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223312]프로티렐린타르타르산염수화물",
+ "main_item_ingr_eng": "Protirelin Tartrate Hydrate",
+ "edi_code": "648501541",
+ "atc_code": "V04CJ02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199300103",
+ "revisions": [
+  {
+   "revision_id": "199300103-cf2bee3e",
+   "content_sha256": "cf2bee3edd8564609588fa71fd0759c48214a95a7159cfeb48c0655ab613e9bb",
+   "ee_text": "1. 뇌하수체 갑상선자극호르몬(TSH)분비기능 검사 1) 채혈시간 : 이 약 주사전과 주사후 30분에 채혈하지만 필요에 따라서 다시 경시적으로 채혈한다. 2) 측정범위 : TSH측정키트를 사용하여 방사선면역측정법(RIA)에 의해 측정한다. 3) 정상범위 : 혈중 TSH의 정상범위는 방사선면역측정법의 조작법 및 판정기준에 의해 약간 차이가 있으므로 시설마다 설정해야 하나, 보통 정상인에서는 이 약 투여후 30분에 피크에 도달하여 혈중 TSH치는 10μU/㎖ 이상이 된다. 또한, 투여전의 혈중 TSH치는 5μU/㎖ 이하이다. 2. 다음 질환에 의한 지속적인 의식장애(혼수, 반혼수 제외) 1) 두부외상 2) 지주막하출혈(증상발현 후 3주이내) 3. 척수소뇌변성증에 의한 운동실조의 개선",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:40Z",
+   "last_observed_at": "2026-09-08T08:28:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:40Z"
+}

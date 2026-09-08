@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300048",
+ "item_name": "파미레이250주사액(이오파미돌)",
+ "entp_name": "동국생명과학(주)",
+ "permit_date": "20031009",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085529]이오파미돌",
+ "main_item_ingr_eng": "Iopamidol",
+ "edi_code": "073600094,073600099,073600106",
+ "atc_code": "V08AB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300048",
+ "revisions": [
+  {
+   "revision_id": "200300048-261f867c",
+   "content_sha256": "261f867cbd5dd4171dc8cbfa77566758fa22bf0e0e925ece661a2f39382fd684",
+   "ee_text": "(주사제 250 mgI/mL) 혈관조영 : 1. 뇌동맥조영 2. 요로조영 3. CT조영증강: 두부체부",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:40Z",
+   "last_observed_at": "2026-09-08T08:36:40Z",
+   "official_revision_date": "2024-01-02"
+  },
+  {
+   "revision_id": "200300048-c60d9d5e",
+   "content_sha256": "c60d9d5e11284171612ee26c2274a61b65740d7d3be73d63001d462c1e1e138b",
+   "ee_text": "(주사제 200 mgI/mL) 1. 뇌수조조영 2. 척수조영 3. 혈관조영 : 디지털감산혈관조영(DSA) (주사제 250 mgI/mL) 혈관조영 : 1. 뇌동맥조영 2. 요로조영 3. CT조영증강: 두부체부 (주사제 300 mgI/mL) 1. 뇌수조조영 2. 척수조영 3. 혈관조영 : 동맥조영, 정맥조영 4. 정맥요로조영(IVP) 5. CT 조영증강 (주사제 370 mgI/mL) 1. 혈관조영 : 관상동맥조영, 흉부대동맥조영, 복부대동맥조영, 심장혈관조영, 선택적 내장동맥조영, 말초동맥조영 2. 정맥요로조영(IVP) 3. CT 조영증강",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-11-21",
+   "first_observed_at": "2026-09-08T08:36:40Z",
+   "last_observed_at": "2026-09-08T08:36:40Z"
+  },
+  {
+   "revision_id": "200300048-38d5e1a6",
+   "content_sha256": "38d5e1a673480f16667f96474505343886ceeeb81b9cb12cc4f67d3daa9f1d18",
+   "ee_text": "(주사제 200 mgI/mL) 1. 뇌수조조영 2. 척수조영 3. 혈관조영 : 디지털감산혈관조영(DSA) (주사제 250 mgI/mL) 혈관조영 : 1. 말초정맥조영 2. 뇌동맥조영 (주사제 300 mgI/mL) 1. 뇌수조조영 2. 척수조영 3. 혈관조영 : 동맥조영, 정맥조영 4. 정맥요로조영(IVP) 5. CT 조영증강 (주사제 370 mgI/mL) 1. 혈관조영 : 관상동맥조영, 흉부대동맥조영, 복부대동맥조영, 심장혈관조영, 선택적 내장동맥조영, 말초동맥조영 2. 정맥요로조영(IVP) 3. CT 조영증강",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:36:40Z",
+   "last_observed_at": "2026-09-08T08:36:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:40Z"
+}

@@ -7,21 +7,22 @@
  "permit_date": "20000502",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M081978]알로에엑스|[M070200]중주석산-베타-디메칠아미노에탄올|[M089480]레시친|[M040126]초산레티놀|[M040397]에르고칼시페롤|[M241582]초산토코페롤|[M071150]질산치아민|[M040133]리보플라빈|[M240075]염산피리독신|[M040806]황산칼륨|[M051962]황산망간|[M088252]아스코르빈산|[M040064]니코틴산아미드|[M240076]판토텐산칼슘|[M051783]푸마르산철|[M071715]황산구리|[M040262]산화마그네슘|[M243785]산화아연|[M040358]인산수소칼슘|[M071033]인삼엑스",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040126]초산레티놀|[M040133]리보플라빈|[M040262]산화마그네슘|[M040358]인산수소칼슘|[M040397]에르고칼시페롤|[M040806]황산칼륨|[M051783]푸마르산철|[M051962]황산망간|[M070200]중주석산-베타-디메칠아미노에탄올|[M071033]인삼엑스|[M071150]질산치아민|[M071715]황산구리|[M081978]알로에엑스|[M088252]아스코르빈산|[M089480]레시친|[M240075]염산피리독신|[M240076]판토텐산칼슘|[M241582]초산토코페롤|[M243785]산화아연",
  "main_item_ingr_eng": "Aloe Extract/Ascorbic Acid/Beta-Dimethylaminoethanol Bitartrate/Calcium Pantothenate/Calcium Phosphate Dibasic/Copper Sulfate/Ergocalciferol/Ferrous Fumarate/Ginseng Extract/Lecithin/Magnesium Oxide/Manganese Sulfate/Nicotinamide/Potassium Sulfate/Pyridoxine Hydrochloride/Retinol Acetate/Riboflavin/Thiamine Nitrate/Tocopherol Acetate/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11AB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004648",
+ "history_fetched_at": "2026-08-28T13:23:56Z",
  "revisions": [
   {
-   "revision_id": "200004648-37932978",
-   "content_sha256": "37932978c069a7705099a0b9e0e9a921cb75c590851aff3171c5bba72530046b",
-   "ee_text": "허약체질, 식욕부진, 영양불량, 소모성 질환, 육체피로, 임신·수유기, 발육기 및 노년기 자양강장, 피로회복",
+   "revision_id": "200004648-129cea24",
+   "content_sha256": "129cea24f269998c5a1d4a73d17e905d38e5af88971bdcdb53392b353c5a448c",
+   "ee_text": "1. 다음 경우의 비타민 및 무기질 보급: 허약체질, 식욕부진, 영양불량, 소모성 질환, 육체피로, 임신·수유기, 발육기 및 노년기 2. 병중·병후의 체력 저하시 자양강장, 피로회복",
    "ee_doc_id": "3",
    "first_observed_at": "2026-08-28T13:23:56Z",
-   "last_observed_at": "2026-08-28T13:23:56Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:34:18Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:56Z"
+ ]
 }

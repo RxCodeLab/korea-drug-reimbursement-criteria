@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601398",
+ "item_name": "오메드플러스정10/300mg(오메프라졸,침강탄산칼슘)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20260513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M083698]오메프라졸",
+ "main_item_ingr_eng": "Omeprazole/Precipitated Calcium Carbonate",
+ "edi_code": "644705280",
+ "atc_code": "A02BC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601398",
+ "revisions": [
+  {
+   "revision_id": "202601398-6ff89bab",
+   "content_sha256": "6ff89bab90c6b7368fd4a4878dcc8f2f502d658708c8c5d5acd01f57256c82c5",
+   "ee_text": "- 위궤양, 십이지장궤양의 단기치료 - 역류성 식도염 및 위식도 역류질환(GERD)의 증상(가슴앓이, 토출 등) 치료 - 심한 역류성 식도염과 잘 치료되지 않는 소화성궤양의 유지요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:11Z",
+   "last_observed_at": "2026-09-08T09:05:11Z",
+   "official_revision_date": "2026-05-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:11Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200705737",
+ "item_name": "유니볼드정(피나스테리드)(수출용)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20070517",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089174]피나스테리드",
+ "main_item_ingr_eng": "Finasteride",
+ "edi_code": "",
+ "atc_code": "G04CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705737",
+ "revisions": [
+  {
+   "revision_id": "200705737-7448f1ce",
+   "content_sha256": "7448f1ce31b28db33c45ad928cc55df4c01994ea480f918aeba2b1594a6d6a83",
+   "ee_text": "양성전립선 비대증의 치료 : 비후된 전립선의 퇴행, 요류 개선, 양성전립선비대증의 증상의 개선, 급성요폐의 발생빈도 감소, 전립선 경요도 절제술(Transurethral Resection of the Postate) 및 전립선 절제수술 등을 포함한 수술의 필요성 감소",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:31Z",
+   "last_observed_at": "2026-09-08T08:41:31Z",
+   "official_revision_date": "2017-09-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:31Z"
+}

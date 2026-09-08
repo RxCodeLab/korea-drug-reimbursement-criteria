@@ -3,7 +3,7 @@
  "complete": true,
  "item_seq": "200302155",
  "item_name": "파모콤푸츄정",
- "entp_name": "지엘파마(주)",
+ "entp_name": "지엘팜텍(주)",
  "permit_date": "20031007",
  "cancel_date": "",
  "status": "정상",
@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A02BA53",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302155",
+ "history_fetched_at": "2026-08-28T13:24:03Z",
  "revisions": [
   {
    "revision_id": "200302155-f920d928",
@@ -19,9 +20,9 @@
    "ee_text": "위산과다 및 속쓰림과 관련된 가슴앓이의 경감",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:24:03Z",
-   "last_observed_at": "2026-08-28T13:24:03Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:37:10Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:03Z"
+ ]
 }

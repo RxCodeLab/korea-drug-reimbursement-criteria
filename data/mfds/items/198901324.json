@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198901324",
+ "item_name": "유니토랄캡슐(수출용)(수출명:TefudexCaps.)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "19890418",
+ "cancel_date": "20241218",
+ "status": "취하",
+ "main_item_ingr": "[M051785]테가푸르|[M071967]우라실",
+ "main_item_ingr_eng": "Tegafur/Uracil",
+ "edi_code": "",
+ "atc_code": "L01BC53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901324",
+ "revisions": [
+  {
+   "revision_id": "198901324-86841e2a",
+   "content_sha256": "86841e2a1e18f27eec62f7cac9ea4a9ef008e028add4706fb655a7323b9d8dd4",
+   "ee_text": "다음 질환의 자각적, 타각적 증상의 완화 : 두경부암, 위암, 결장ㆍ직장암, 간암, 담낭ㆍ담관암, 췌장암, 폐암, 유방암, 방광암, 전립선암, 자궁경부암",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:53Z",
+   "last_observed_at": "2026-09-08T08:27:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:53Z"
+}

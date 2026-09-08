@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802906",
+ "item_name": "니코픽스정0.5mg(바레니클린살리실산염)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20180712",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266101]바레니클린살리실산염",
+ "main_item_ingr_eng": "Varenicline Salicylate",
+ "edi_code": "",
+ "atc_code": "N07BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802906",
+ "revisions": [
+  {
+   "revision_id": "201802906-79eeaf18",
+   "content_sha256": "79eeaf18cf99e171faa4bb799b7612a9381801bfb70ab8f027501829b9ee0928",
+   "ee_text": "금연치료의 보조요법",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201802906/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:22Z",
+   "last_observed_at": "2026-09-08T08:53:22Z"
+  },
+  {
+   "revision_id": "201802906-772abc05",
+   "content_sha256": "772abc052a516b22a969bda0e56ddbcef996fe0edf4f7b540b0b8e64b3721185",
+   "ee_text": "금연치료의 보조용법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-07-12",
+   "first_observed_at": "2026-09-08T08:53:22Z",
+   "last_observed_at": "2026-09-08T08:53:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:22Z"
+}

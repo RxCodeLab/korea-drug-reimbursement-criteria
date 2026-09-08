@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801146",
+ "item_name": "콜드패드정(수출용)(수출명 : Coldfed Tab.)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20180313",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222724]페닐레프린염산염|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/Phenylephrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01BA53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801146",
+ "revisions": [
+  {
+   "revision_id": "201801146-a500fe35",
+   "content_sha256": "a500fe357335888b0020310bfff5698afb84b2f9db2a06479db7ec6e608103ba",
+   "ee_text": "- 감기 또는 알레르기성 및 혈관운동성 비염에 의한 다음 증상의 완화 : 재치기, 콧물, 코막힘, 눈물 - 부비동염에 의함 비충혈의 일시적 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:56Z",
+   "last_observed_at": "2026-09-08T08:52:56Z",
+   "official_revision_date": "2018-03-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:56Z"
+}

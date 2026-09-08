@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200414",
+ "item_name": "생장환에스정",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20020726",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M081899]센나엽가루|[M081950]도큐세이트나트륨|[M237598]Tinnevelly 센나열매가루",
+ "main_item_ingr_eng": "Bisacodyl/Docusate Sodium/Senna Leaf Powder/Tinnevelly Senna Fruit Powder",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200414",
+ "revisions": [
+  {
+   "revision_id": "200200414-dca99ff0",
+   "content_sha256": "dca99ff07580eec6d417135f80913c03a7272e41b2e496391b6dac1f344a331b",
+   "ee_text": "변비, 변비에 수반하는 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부(배부분)팽만, 장내이상발효, 치질",
+   "ee_doc_id": "34",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:02Z",
+   "last_observed_at": "2026-09-08T08:36:02Z",
+   "official_revision_date": "2025-08-30"
+  },
+  {
+   "revision_id": "200200414-a787aed0",
+   "content_sha256": "a787aed0be2300ac79b15e365d12e5211c9d90cc246999b803736e186c9862f1",
+   "ee_text": "변비, 변비에 수반하는 다음 증상의 완화 : 머리가 무거움, 역상, 피부거침, 부스럼, 식욕부진(식욕감퇴), 복부(배부분)팽만, 장내이상발효, 치질",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:36:02Z",
+   "last_observed_at": "2026-09-08T08:36:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:02Z"
+}

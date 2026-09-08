@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906807",
+ "item_name": "에포시드주(에토포시드)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20090909",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081926]에토포시드",
+ "main_item_ingr_eng": "Etoposide",
+ "edi_code": "",
+ "atc_code": "L01CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906807",
+ "revisions": [
+  {
+   "revision_id": "200906807-4ab1d97b",
+   "content_sha256": "4ab1d97b88889c6fa694788df05a721109ec393a7d61d26036455d5c88775fe3",
+   "ee_text": "(주사제) 소세포폐암, 악성림프종, 급성백혈병, 고환종양, 방광암, 융모성질환",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:32Z",
+   "last_observed_at": "2026-09-08T08:43:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:32Z"
+}

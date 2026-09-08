@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900554",
+ "item_name": "안타신정",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "19990504",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040308]건조수산화알루미늄겔|[M040629]탄산마그네슘",
+ "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel/Magnesium Carbonate",
+ "edi_code": "",
+ "atc_code": "A02AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900554",
+ "revisions": [
+  {
+   "revision_id": "199900554-92e9faa4",
+   "content_sha256": "92e9faa443e434f17879b0f06959e5e796e3c042b727e8007517b5afea134fed",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 식체(체함)(위체), 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:35Z",
+   "last_observed_at": "2026-09-08T08:32:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:35Z"
+}

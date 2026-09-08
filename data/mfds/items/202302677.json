@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302677",
+ "item_name": "마크릴렌과립(마시모렐린아세트산염)",
+ "entp_name": "주식회사엔케이메디텍",
+ "permit_date": "20230907",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283779]마시모렐린아세트산염",
+ "main_item_ingr_eng": "Macimorelin Acetate",
+ "edi_code": "",
+ "atc_code": "V04CD06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302677",
+ "revisions": [
+  {
+   "revision_id": "202302677-8d83b0de",
+   "content_sha256": "8d83b0de3448f64c274b94065fb18038004d82b94138291f0734c9c54593a208",
+   "ee_text": "성인 성장 호르몬 결핍의 진단",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:23Z",
+   "last_observed_at": "2026-09-08T09:02:23Z",
+   "official_revision_date": "2023-09-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:23Z"
+}

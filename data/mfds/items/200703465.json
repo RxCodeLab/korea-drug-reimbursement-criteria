@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200703465",
+ "item_name": "태극바시트라신아연연고(수출명 : 바시트라신 퍼스트에이드 안티바이오틱연고)(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20070327",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083538]바시트라신아연",
+ "main_item_ingr_eng": "Bacitracin Zinc",
+ "edi_code": "",
+ "atc_code": "D06AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703465",
+ "revisions": [
+  {
+   "revision_id": "200703465-c6fc9f95",
+   "content_sha256": "c6fc9f950146dc30e84c281d7abef499879980696fcdd34a99de9b0d38f69c77",
+   "ee_text": "경미한 베임, 창상, 화상에 의한 감염증",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:18Z",
+   "last_observed_at": "2026-09-08T08:41:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:18Z"
+}

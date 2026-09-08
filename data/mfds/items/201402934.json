@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402934",
+ "item_name": "세바타캡슐60밀리그램(둘록세틴염산염)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "20140702",
+ "cancel_date": "20250109",
+ "status": "취하",
+ "main_item_ingr": "[M259598]둘록세틴염산염장용과립",
+ "main_item_ingr_eng": "Duloxetine Hydrochloride Enteric-Coated Granules",
+ "edi_code": "",
+ "atc_code": "N06AX21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402934",
+ "revisions": [
+  {
+   "revision_id": "201402934-48f91a66",
+   "content_sha256": "48f91a6689dcf38a5c001f9c72523926275ca2366a92051aea5dd484f21ce069",
+   "ee_text": "주요 우울장애의 치료 범불안장애의 치료 당뇨병성 말초 신경병증성 통증의 치료 섬유근육통의 치료 비스테로이드성 소염진통제(NSAIDs)에 반응이 적절하지 않은 골관절염 통증의 치료",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:14Z",
+   "last_observed_at": "2026-09-08T08:47:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:14Z"
+}

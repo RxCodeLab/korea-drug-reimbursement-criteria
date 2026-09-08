@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "D03AX03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000373",
+ "history_fetched_at": "2026-08-28T13:25:14Z",
  "revisions": [
   {
    "revision_id": "202000373-0039d593",
@@ -19,9 +20,9 @@
    "ee_text": "상처, 화상, 찢긴 상처(수유기 중의 유두균열(갈라짐) 등), 욕창, 급ㆍ만성 피부염, 습진, 피부 궤양, 기저귀 발진, 햇볕에 탄 곳(일광피부염)",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:14Z",
-   "last_observed_at": "2026-08-28T13:25:14Z",
-   "official_revision_date": "2020-01-22"
+   "last_observed_at": "2026-09-08T08:57:34Z",
+   "official_revision_date": "2020-01-22",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:14Z"
+ ]
 }

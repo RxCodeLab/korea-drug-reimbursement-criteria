@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200004060",
+ "item_name": "녹십자아시클로버크림",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20000103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "",
+ "atc_code": "D06BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004060",
+ "revisions": [
+  {
+   "revision_id": "200004060-29c364e8",
+   "content_sha256": "29c364e8eb05e1a7964b9c388eec99dbcc27e4bef3d4e7e7e0e292be53363b2c",
+   "ee_text": "단순포진[물집] 바이러스 감염증(초기 및 재발성 생식기 포진[물집]과 구순포진[물집] 포함)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:13Z",
+   "last_observed_at": "2026-09-08T08:34:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:13Z"
+}

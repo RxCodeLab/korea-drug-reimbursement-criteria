@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104062",
+ "item_name": "이화의료용질소",
+ "entp_name": "이화산업가스주식회사",
+ "permit_date": "20210524",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040542]질소",
+ "main_item_ingr_eng": "Nitrogen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104062",
+ "revisions": [
+  {
+   "revision_id": "202104062-df22f0fb",
+   "content_sha256": "df22f0fb2856eadc619daaf4d5da5caf2640e32bf6bce7085b436b7f7ab7be01",
+   "ee_text": "의료용가스(제제용)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:13Z",
+   "last_observed_at": "2026-09-08T09:00:13Z",
+   "official_revision_date": "2021-05-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:13Z"
+}

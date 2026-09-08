@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804572",
+ "item_name": "유파론에프정(애엽95%에탄올연조엑스(20→1))",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20181116",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266999]애엽95%에탄올연조엑스(20→1)",
+ "main_item_ingr_eng": "Artemisiae Argyi Folium 95% Ethanol Soft Extract (20→1)",
+ "edi_code": "653404240",
+ "atc_code": "A02X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804572",
+ "revisions": [
+  {
+   "revision_id": "201804572-4e24e9d2",
+   "content_sha256": "4e24e9d2a0ff182d7b1c8fbd0f6c1a98d11f92b511fe1376907f3caa9df54cd0",
+   "ee_text": "다음 질환의 위점막 병변(미란(짓무름), 출혈, 발적, 부종) 개선 : 급성위염, 만성위염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:49Z",
+   "last_observed_at": "2026-09-08T08:53:49Z",
+   "official_revision_date": "2018-11-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:49Z"
+}

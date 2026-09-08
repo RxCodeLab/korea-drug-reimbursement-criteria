@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500482",
+ "item_name": "칼딥정(레르카니디핀염산염)",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20050524",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250577]레르카니디핀염산염",
+ "main_item_ingr_eng": "Lercanidipine Hydrochloride",
+ "edi_code": "693900050",
+ "atc_code": "C08CA13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500482",
+ "revisions": [
+  {
+   "revision_id": "200500482-16cb10e5",
+   "content_sha256": "16cb10e5c73b4404c0e7ca462b34a456457aba1d00bf844882a0747442e04125",
+   "ee_text": "경증 ～ 중등도 본태고혈압",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:55Z",
+   "last_observed_at": "2026-09-08T08:38:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:55Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201007257",
+ "item_name": "명인갈란타민서방캡슐16밀리그램(갈란타민브롬화수소산염)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20101129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243021]갈란타민브롬화수소산염",
+ "main_item_ingr_eng": "Galantamine Hydrobromide",
+ "edi_code": "651903350",
+ "atc_code": "N06DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007257",
+ "revisions": [
+  {
+   "revision_id": "201007257-576a8932",
+   "content_sha256": "576a89329adfdcc8ad7fdef4e72a2ad76d5a96033d0c4565d046f3c77f4ea521",
+   "ee_text": "알쯔하이머 형태의 경등도, 중등도 치매 증상의 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:20Z",
+   "last_observed_at": "2026-09-08T08:44:20Z",
+   "official_revision_date": "2017-09-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:20Z"
+}

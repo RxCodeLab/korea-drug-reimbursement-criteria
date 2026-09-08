@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202187",
+ "item_name": "액토시드피에이산(과탄산나트륨)",
+ "entp_name": "(주)준팜",
+ "permit_date": "20220523",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095079]과탄산나트륨",
+ "main_item_ingr_eng": "Sodium Percarbonate",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202187",
+ "revisions": [
+  {
+   "revision_id": "202202187-3b80a396",
+   "content_sha256": "3b80a396e4686638afd8471c1361ed5cd3dfadc9cd64d8d420ac1ef720623f93",
+   "ee_text": "의료기구의 소독 및 멸균(열에 민감한 내시경 포함)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:20Z",
+   "last_observed_at": "2026-09-08T09:01:20Z",
+   "official_revision_date": "2022-05-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:20Z"
+}

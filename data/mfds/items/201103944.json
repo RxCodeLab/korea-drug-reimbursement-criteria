@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201103944",
+ "item_name": "엠피돈정5mg(옥시코돈염산염)(수출용)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20110624",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M238042]옥시코돈염산염",
+ "main_item_ingr_eng": "Oxycodone Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103944",
+ "revisions": [
+  {
+   "revision_id": "201103944-53e48317",
+   "content_sha256": "53e4831718c999539892d5dea004e5014e2dfa78cddde729fef048928b5ff1cb",
+   "ee_text": "마약성 진통제 사용이 필요한 중등도 및 심함 통증의 완화",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:43Z",
+   "last_observed_at": "2026-09-08T08:44:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:43Z"
+}

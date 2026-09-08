@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503365",
+ "item_name": "휴온스리도카인염산염수화물주2% (수출용)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20251223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222842]리도카인염산염수화물",
+ "main_item_ingr_eng": "Lidocaine Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503365",
+ "revisions": [
+  {
+   "revision_id": "202503365-dd5d1c4b",
+   "content_sha256": "dd5d1c4bd8574682fcbc52bf6c58a6b1826209e6a1b3d759db5f091ac59e5ffa",
+   "ee_text": "1. [마취] 경막외마취, 전달마취, 침윤마취, 표면마취 2. [내과적 사용] 심실성 부정맥",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:35Z",
+   "last_observed_at": "2026-09-08T09:04:35Z",
+   "official_revision_date": "2025-12-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:35Z"
+}

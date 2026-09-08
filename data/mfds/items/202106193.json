@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106193",
+ "item_name": "뉴로나타-알주(자가골수유래중간엽줄기세포)",
+ "entp_name": "코아스템켐온(주)",
+ "permit_date": "20210827",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252182]자가골수유래 중간엽줄기세포",
+ "main_item_ingr_eng": "Autologous Bone Marrow-Derived Mesenchymal Stem Cell",
+ "edi_code": "",
+ "atc_code": "B05AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106193",
+ "revisions": [
+  {
+   "revision_id": "202106193-5cbedbf3",
+   "content_sha256": "5cbedbf3821e53836da5b2fe4b21e236f2e7aa3f36b5753ea4a85f445c2e7a41",
+   "ee_text": "리루졸과 병용 시 진행이 느린 근위축성측삭경화증 환자(ALSFRS-R로 평가한 ALS 기능 저하 속도가 월당 1.02점 이내인 경우)의 질병 진행속도 완화",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:31Z",
+   "last_observed_at": "2026-09-08T09:00:31Z",
+   "official_revision_date": "2026-05-26"
+  },
+  {
+   "revision_id": "202106193-ee6fd855",
+   "content_sha256": "ee6fd8551167a2eb36f93bae5432e132fb58492ce67db2f899fcf38355fbc2b4",
+   "ee_text": "리루졸과 병용하여 근위축성측삭경화증의 질환 진행속도 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-08-27",
+   "first_observed_at": "2026-09-08T09:00:31Z",
+   "last_observed_at": "2026-09-08T09:00:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:31Z"
+}

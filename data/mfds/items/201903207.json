@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903207",
+ "item_name": "아미티자연질캡슐8마이크로그램(루비프로스톤)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20190517",
+ "cancel_date": "20240202",
+ "status": "취하",
+ "main_item_ingr": "[M269621]루비프로스톤",
+ "main_item_ingr_eng": "Lubiprostone",
+ "edi_code": "",
+ "atc_code": "A06AX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903207",
+ "revisions": [
+  {
+   "revision_id": "201903207-0ae3aaef",
+   "content_sha256": "0ae3aaeffe0878fc7dacaa69932b6a46f593b805bbc375204ae627fc6982f16b",
+   "ee_text": "1. 성인에서 만성 특발성 변비의 치료 2. 만성 비암성 통증 성인환자에서 마약성 진통제(opioid) 유발성 변비의 치료. - 디페닐헵탄 마약성진통제(예. 메타돈)을 복용하는 환자에서 이 약의 유효성은 확립되지 않았다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:12Z",
+   "last_observed_at": "2026-09-08T08:55:12Z",
+   "official_revision_date": "2019-05-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:12Z"
+}

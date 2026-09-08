@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206226",
+ "item_name": "젤보라프정240밀리그램(베무라페닙)",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "20120723",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282778]베무라페닙고체분산체",
+ "main_item_ingr_eng": "Vemurafenib Solid Dispersions",
+ "edi_code": "645001290",
+ "atc_code": "L01EC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206226",
+ "revisions": [
+  {
+   "revision_id": "201206226-2f7e9bfe",
+   "content_sha256": "2f7e9bfedd5df1b981827a51fccaceeab197c074739c14da96848943718aaa25",
+   "ee_text": "BRAFV600E 변이가 확인된 수술이 불가능하거나 전이성인 흑색종",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:24Z",
+   "last_observed_at": "2026-09-08T08:45:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:24Z"
+}

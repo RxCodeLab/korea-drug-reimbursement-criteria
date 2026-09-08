@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200903813",
+ "item_name": "지르세틴액(세티리진염산염)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20090529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222857]세티리진염산염",
+ "main_item_ingr_eng": "Cetirizine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AE07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903813",
+ "revisions": [
+  {
+   "revision_id": "200903813-37212e7c",
+   "content_sha256": "37212e7cca6c229826df2f100a5b569dedf505ea06ac3c29ac79f43af1d96509",
+   "ee_text": "계절성 및 다년성 알레르기성 비염, 알레르기성 결막염, 만성 특발성 두드러기, 피부소양증",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:17Z",
+   "last_observed_at": "2026-09-08T08:43:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:17Z"
+}

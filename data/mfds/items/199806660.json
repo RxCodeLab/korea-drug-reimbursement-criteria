@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199806660",
+ "item_name": "베톱틱점안액(베탁솔롤염산염)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "19980601",
+ "cancel_date": "20250328",
+ "status": "취하",
+ "main_item_ingr": "[M222850]베탁솔롤염산염",
+ "main_item_ingr_eng": "Betaxolol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S01ED02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806660",
+ "revisions": [
+  {
+   "revision_id": "199806660-11903449",
+   "content_sha256": "11903449b5722e79a2400b1ff30f8868ec2fa350ea428432ca0d215364dbd4e6",
+   "ee_text": "1) 안압상승 2) 만성 개방각 녹내장 3) 호흡기질환을 수반하는 녹내장 또는 안구 고혈압 4) 현재 여러 종류의 다른 녹내장 치료요법을 실시하고 있는 녹내장 환자 또는 안구 고혈압환자.",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199806660/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:23Z",
+   "last_observed_at": "2026-09-08T08:32:23Z"
+  },
+  {
+   "revision_id": "199806660-bf9ce2e9",
+   "content_sha256": "bf9ce2e98254a56a5c4d936bc0ca72bbabb21b7fee2b019b7daede382097c758",
+   "ee_text": "1. 안압상승 2. 만성 개방각 녹내장 3. 호흡기질환을 수반하는 녹내장 또는 안구 고혈압 4. 현재 여러 종류의 다른 녹내장 치료요법을 실시하고 있는 녹내장 환자 또는 안구 고혈압환자.",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:32:23Z",
+   "last_observed_at": "2026-09-08T08:32:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:23Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606436",
+ "item_name": "녹십자티디백신프리필드시린지주",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20161101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091722]디프테리아톡소이드(Park-Williams Noㆍ8균주)|[M217392]파상풍톡소이드(Harvard 균주)",
+ "main_item_ingr_eng": "Diphtheria Toxoid (Strain: Park-Williams No.8)/Tetanus Toxoid (Strain: Harvard)",
+ "edi_code": "",
+ "atc_code": "J07AM51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606436",
+ "revisions": [
+  {
+   "revision_id": "201606436-8ac7338e",
+   "content_sha256": "8ac7338ec4216c03cf95bd41a1a5acdeb1c6af121b74087833b7f174657675aa",
+   "ee_text": "디프테리아, 파상풍의 예방",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:18Z",
+   "last_observed_at": "2026-09-08T08:51:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:18Z"
+}

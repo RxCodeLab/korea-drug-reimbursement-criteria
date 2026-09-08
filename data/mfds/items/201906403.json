@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906403",
+ "item_name": "뉴포그릴정100mg(사르포그렐레이트염산염)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20190910",
+ "cancel_date": "20240910",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M261406]사르포그렐레이트염산염",
+ "main_item_ingr_eng": "Sarpogrelate Hydrochloride",
+ "edi_code": "",
+ "atc_code": "B01AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906403",
+ "revisions": [
+  {
+   "revision_id": "201906403-067dc29b",
+   "content_sha256": "067dc29b0e6cb6572867e7bb25599390d3912709880804b72ccb4cbd9c786b43",
+   "ee_text": "만성 동맥폐색증(버거씨병, 폐색성동맥경화증, 당뇨병성말초혈관병증등)에 의한 궤양, 동통 및 냉감 등의허혈성 제증상 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:21Z",
+   "last_observed_at": "2026-09-08T08:56:21Z",
+   "official_revision_date": "2019-09-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:21Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402664",
+ "item_name": "속엔큐플러스정",
+ "entp_name": "성이바이오제약주식회사",
+ "permit_date": "20241111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M081950]도큐세이트나트륨",
+ "main_item_ingr_eng": "Bisacodyl/Docusate Sodium",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402664",
+ "revisions": [
+  {
+   "revision_id": "202402664-67c9849f",
+   "content_sha256": "67c9849fc9830cea0be2913a020eb3aa14b5efb5171b0cc71a6d7ca56f89ea8f",
+   "ee_text": "- 변비 - 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부(배부분)팽만, 장내 이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:26Z",
+   "last_observed_at": "2026-09-08T09:03:26Z",
+   "official_revision_date": "2024-11-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:26Z"
+}

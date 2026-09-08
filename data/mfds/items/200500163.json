@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500163",
+ "item_name": "테라세프론세립(세프테람피복실)(수출용)(수출명:Teracefronfinegranule)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20050531",
+ "cancel_date": "20250714",
+ "status": "취하",
+ "main_item_ingr": "[M085679]세프테람피복실",
+ "main_item_ingr_eng": "Cefteram Pivoxil",
+ "edi_code": "",
+ "atc_code": "J01DD18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500163",
+ "revisions": [
+  {
+   "revision_id": "200500163-d4de77f8",
+   "content_sha256": "d4de77f8cb6b153574ed07ba6d60f3b7f819d43e291e7c766d2194c799df9d0b",
+   "ee_text": "○ 유효균종 연쇄구균(장내구균제외), 폐렴연쇄구균, 대장균, 클레브시엘라, 프로테우스(프로테우스 미라빌리스, 프로테우스 불가리스, 모르가네라 모르가니, 프로비덴시아 레트게리, 프로비덴시아 인콘스탄스), 인플루엔자균 ○ 적응증 - 인후두염(인두염, 후두염), 편도염(편도주위염, 편도주위농양), 중이염, 부비동염 - 급성기관지염, 폐렴 - 요로감염증(신우신염, 방광염) - 성홍열",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:49Z",
+   "last_observed_at": "2026-09-08T08:38:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:49Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201002132",
+ "item_name": "에코파스쿨(수출용)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20100317",
+ "cancel_date": "20260824",
+ "status": "취하",
+ "main_item_ingr": "[M070611]살리실산글리콜|[M208129]ℓ- 멘톨|[M223240]토코페롤아세테이트|[M241854]dℓ-캄파",
+ "main_item_ingr_eng": "DL-Camphor/Glycol Salicylate/L-Menthol/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002132",
+ "revisions": [
+  {
+   "revision_id": "201002132-68b52eb6",
+   "content_sha256": "68b52eb698fa8b1e2a183fe9b12866aa69dbdf403c2077bc8b9e4d46b143f33d",
+   "ee_text": "다음 통증의 완화 : 근육통, 관절통, 어깨결림, 신경통, 류마티스통증, 요통",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:52Z",
+   "last_observed_at": "2026-09-08T08:43:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:52Z"
+}

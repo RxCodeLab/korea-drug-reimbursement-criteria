@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802106",
+ "item_name": "트루맥스액(시트룰린말산염)",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20180518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247305]시트룰린말산염",
+ "main_item_ingr_eng": "Citrulline Malate",
+ "edi_code": "",
+ "atc_code": "A16AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802106",
+ "revisions": [
+  {
+   "revision_id": "201802106-78586f8f",
+   "content_sha256": "78586f8f5625ed88b7b884120da961e23c96fa763915729015a9e72273a960e6",
+   "ee_text": "기능 무기력증의 보조치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:08Z",
+   "last_observed_at": "2026-09-08T08:53:08Z",
+   "official_revision_date": "2018-05-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:08Z"
+}

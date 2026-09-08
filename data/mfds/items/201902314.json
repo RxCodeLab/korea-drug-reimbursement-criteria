@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902314",
+ "item_name": "에이치아이엠에스피에이액(고농도아세트산평형혼합물)",
+ "entp_name": "주식회사삼현제약",
+ "permit_date": "20190416",
+ "cancel_date": "20240416",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M269413]고농도아세트산평형혼합물",
+ "main_item_ingr_eng": "Highly Concentrated Balanced Mixture of Acetic Acid",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902314",
+ "revisions": [
+  {
+   "revision_id": "201902314-70f40505",
+   "content_sha256": "70f40505eff23463ca59d37b7ca041e7bc624f4bb406dafcc0a0ae24b370321c",
+   "ee_text": "의료기구의 멸균 및 소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:50Z",
+   "last_observed_at": "2026-09-08T08:54:50Z",
+   "official_revision_date": "2019-04-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:50Z"
+}

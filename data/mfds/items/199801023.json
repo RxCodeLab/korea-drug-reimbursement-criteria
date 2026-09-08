@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801023",
+ "item_name": "사브릴정500밀리그램(비가바트린)",
+ "entp_name": "(주)한독",
+ "permit_date": "19980611",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088971]비가바트린",
+ "main_item_ingr_eng": "Vigabatrin",
+ "edi_code": "652100480",
+ "atc_code": "N03AG04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801023",
+ "revisions": [
+  {
+   "revision_id": "199801023-128af5a3",
+   "content_sha256": "128af5a3420011938a6ffd66ee18ddf4d2f2dfef1810dade09f105e413a6ce5c",
+   "ee_text": "- 다른 항뇌전증약으로 충분히 조절되지 않거나 다른 항뇌전증약과 병용요법을 실시할 수 없는 저항성 부분 뇌전증(2차성 전신화 발작의 유무에 관계없이) 환자에 대하여 다른 항뇌전증약과의 병용요법 - 영아연축(West Syndrome)의 치료에 대한 단독요법",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:45Z",
+   "last_observed_at": "2026-09-08T08:31:45Z",
+   "official_revision_date": "2019-07-10"
+  },
+  {
+   "revision_id": "199801023-0a4bf4c3",
+   "content_sha256": "0a4bf4c35405abf455e1babdc7ef24ef617e8cb09300429ba5772e2657fd644b",
+   "ee_text": "효능 및 효과 ­ 다른 간질 치료제로 충분히 조절되지 않거나 다른 간질치료제와 병용요법을 실시할 수 없는 저항성 부분 간질(2차성 전신화 발작의 유무에 관계없이) 환자에 대하여 다른 간질치료제와 병용요법 ­ 영아연축(West Syndrome)의 치료에 대한 단독요법",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:31:45Z",
+   "last_observed_at": "2026-09-08T08:31:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:45Z"
+}

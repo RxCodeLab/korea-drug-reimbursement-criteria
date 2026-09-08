@@ -7,11 +7,12 @@
  "permit_date": "20200129",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M222875]암로디핀베실산염|[M090395]텔미사르탄",
+ "main_item_ingr": "[M090395]텔미사르탄|[M222875]암로디핀베실산염",
  "main_item_ingr_eng": "Amlodipine Besylate/Telmisartan",
  "edi_code": "654305320",
  "atc_code": "C09DB04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000462",
+ "history_fetched_at": "2026-08-28T13:25:14Z",
  "revisions": [
   {
    "revision_id": "202000462-3ab3b3b4",
@@ -19,9 +20,9 @@
    "ee_text": "텔미사르탄 또는 암로디핀 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:14Z",
-   "last_observed_at": "2026-08-28T13:25:14Z",
-   "official_revision_date": "2020-01-29"
+   "last_observed_at": "2026-09-08T08:57:37Z",
+   "official_revision_date": "2020-01-29",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:14Z"
+ ]
 }

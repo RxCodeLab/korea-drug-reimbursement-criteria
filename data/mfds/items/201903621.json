@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903621",
+ "item_name": "본레일정",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20190531",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267025]당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+ "main_item_ingr_eng": "Angelica Gigas Root·Chaenomelis Fructus·Saposhnikovia Root·Dipsaci Radix·Acanthopanax Root Bark·Achyranthes Root·Clematidis Radix·Cinnamon Bark·Gentianae Macrophyllae Radix·Cnidium Rhizome·Gastrodia Rhizome·Safflower 25% Ethanol Soft Extract (3.5→1)",
+ "edi_code": "645405520",
+ "atc_code": "M01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903621",
+ "revisions": [
+  {
+   "revision_id": "201903621-958d7f96",
+   "content_sha256": "958d7f96f86377a840c17aca570346357bea1899facbf545452403fd0da5092a",
+   "ee_text": "골관절증 증상 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:29Z",
+   "last_observed_at": "2026-09-08T08:55:29Z",
+   "official_revision_date": "2019-05-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:29Z"
+}

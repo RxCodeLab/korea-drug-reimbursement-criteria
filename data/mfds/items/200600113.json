@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600113",
+ "item_name": "대웅벤라팍신서방캡슐(벤라팍신염산염)(수출용)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20060123",
+ "cancel_date": "20231204",
+ "status": "취하",
+ "main_item_ingr": "[M091246]염산벤라팍신서방성과립",
+ "main_item_ingr_eng": "Venlafaxine Hydrochloride Extended-Release Granules",
+ "edi_code": "",
+ "atc_code": "N06AX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600113",
+ "revisions": [
+  {
+   "revision_id": "200600113-21b91325",
+   "content_sha256": "21b913258fe84b51b05d65b1b858346a8e2404d196de897b5d5e8760c3d0b700",
+   "ee_text": "우울증 사회공포증",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:45Z",
+   "last_observed_at": "2026-09-08T08:39:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:45Z"
+}

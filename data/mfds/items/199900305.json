@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900305",
+ "item_name": "이소틴연질캡슐[(이소트레티노인)(수출명:MARTOCO-10)](수출용)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "19990909",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088250]이소트레티노인|[M088250]이소트레티노인",
+ "main_item_ingr_eng": "Isotretinoin",
+ "edi_code": "",
+ "atc_code": "D10BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900305",
+ "revisions": [
+  {
+   "revision_id": "199900305-0e3fa406",
+   "content_sha256": "0e3fa4069fc5db57ad53e1e5d67171bb439b8972c3512aa941b7bb83870e75de",
+   "ee_text": "다른 치료법으로 잘 치료되지 않는 중증의 여드름(결절성, 낭포성, 응괴성), 특히 체간 병변과 관련된 낭포성 및 응괴성 여드름",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:31Z",
+   "last_observed_at": "2026-09-08T08:32:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:31Z"
+}

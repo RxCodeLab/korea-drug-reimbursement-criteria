@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905925",
+ "item_name": "멜라스민캡슐(트라넥삼산)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20190821",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051614]트라넥삼산",
+ "main_item_ingr_eng": "Tranexamic Acid",
+ "edi_code": "",
+ "atc_code": "B02AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905925",
+ "revisions": [
+  {
+   "revision_id": "201905925-6841a95b",
+   "content_sha256": "6841a95b35962cbb175a241f8065d65292bd4808200bdf29a25b8045fc6b99ec",
+   "ee_text": "1. 전신적 섬유소용해항진과 관련있다고 생각되는 출혈 경향(백혈병, 재생불량성 빈혈, 자반병, 암 등 및 수술 중ㆍ수술 후의 이상 출혈) 2. 국소적 섬유소용해항진과 관련있다고 생각되는 이상출혈 (폐출혈, 성기출혈, 신출혈, 전립선 수술 중ㆍ수술 후의 이상 출혈)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:10Z",
+   "last_observed_at": "2026-09-08T08:56:10Z",
+   "official_revision_date": "2019-08-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:10Z"
+}

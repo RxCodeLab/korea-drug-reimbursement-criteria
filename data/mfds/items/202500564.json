@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500564",
+ "item_name": "란스타정15/600밀리그램(란소프라졸,침강탄산칼슘)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20250314",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M085578]란소프라졸",
+ "main_item_ingr_eng": "Lansoprazole/Precipitated Calcium Carbonate",
+ "edi_code": "649808310",
+ "atc_code": "A02BC53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500564",
+ "revisions": [
+  {
+   "revision_id": "202500564-12ab58e8",
+   "content_sha256": "12ab58e8bc7aac7bd5f01ebb158d78d9894d9024de7328d7c80a85ccf7019413",
+   "ee_text": "1. 활동성 십이지장궤양의 단기치료 2. 활동성 양성 위궤양의 단기치료 3. 십이지장궤양의 치료 후 유지요법 4. 위식도 역류질환 관련 증상의 단기치료 5. 미란성 역류식도염의 단기치료 6. 미란성 역류식도염의 치료후 유지요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:45Z",
+   "last_observed_at": "2026-09-08T09:03:45Z",
+   "official_revision_date": "2025-03-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:45Z"
+}

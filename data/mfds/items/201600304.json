@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600304",
+ "item_name": "이오솔주350(이오버솔)(수출용)",
+ "entp_name": "(주)오스코리아제약",
+ "permit_date": "20160118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088691]이오버솔",
+ "main_item_ingr_eng": "Ioversol",
+ "edi_code": "",
+ "atc_code": "V08AB07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600304",
+ "revisions": [
+  {
+   "revision_id": "201600304-800957dc",
+   "content_sha256": "800957dc670f3ee3edab86e6fd9fd18de12981d51943ba57fbef3cca8ab40d49",
+   "ee_text": "성인 : 관상동맥조영 및 좌심실조영, CT 조영증강(두부, 체부), 정맥요로조영(IVP), 정맥조영, 정맥 디지털감산혈관조영(IVDSA) 소아 : 심혈관조영술",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:07Z",
+   "last_observed_at": "2026-09-08T08:50:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:07Z"
+}

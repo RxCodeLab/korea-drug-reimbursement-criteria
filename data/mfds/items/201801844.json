@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801844",
+ "item_name": "경남생맥산액",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20180430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040139]맥문동|[M040213]인삼|[M040445]오미자",
+ "main_item_ingr_eng": "Ginseng/Liriope Tuber/Schisandra Fruit",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801844",
+ "revisions": [
+  {
+   "revision_id": "201801844-e576958c",
+   "content_sha256": "e576958c55bf0ecd64746de8da50f8a1a52634851592e4bdc8a14a2f23cea345",
+   "ee_text": "하절기의 다음 증상 : 전신권태, 목마름, 땀과다",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:06Z",
+   "last_observed_at": "2026-09-08T08:53:06Z",
+   "official_revision_date": "2018-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:06Z"
+}

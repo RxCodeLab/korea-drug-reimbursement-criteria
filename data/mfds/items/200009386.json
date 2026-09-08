@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200009386",
+ "item_name": "옥시콘틴서방정10밀리그램(옥시코돈염산염)",
+ "entp_name": "한국먼디파마 유한회사",
+ "permit_date": "20000901",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M238042]옥시코돈염산염",
+ "main_item_ingr_eng": "Oxycodone Hydrochloride",
+ "edi_code": "678000090",
+ "atc_code": "N02AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009386",
+ "revisions": [
+  {
+   "revision_id": "200009386-f8c70963",
+   "content_sha256": "f8c709631a64ffd09ef2fba9d1367bb39a26a3421b315aea773b8056da239312",
+   "ee_text": "마약성 진통제의 사용을 필요로 하는 중등도 및 중증 통증의 조절",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:43Z",
+   "last_observed_at": "2026-09-08T08:34:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:43Z"
+}

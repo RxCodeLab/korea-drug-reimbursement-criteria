@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903544",
+ "item_name": "벤클렉스타정50밀리그램(베네토클락스)",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20190529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266370]베네토클락스",
+ "main_item_ingr_eng": "Venetoclax",
+ "edi_code": "624900350",
+ "atc_code": "L01XX52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903544",
+ "revisions": [
+  {
+   "revision_id": "201903544-700b9b44",
+   "content_sha256": "700b9b444f23568ed394592ddd3fad57d04facaf00680c113f105a7207e39c97",
+   "ee_text": "만성 림프구성 백혈병 이전에 치료받은 적이 없는 만성 림프구성 백혈병 성인 환자에서 오비누투주맙과의 병용 요법 이전에 적어도 하나의 치료를 받은 만성 림프구성 백혈병 성인 환자에서 리툭시맙과의 병용 요법 화학면역요법 및 B 세포 수용체 경로 저해제에 재발 또는 불응인 만성 림프구성 백혈병 성인 환자에서 단독 요법 급성 골수성 백혈병 만 75세 이상, 또는 집중 유도화학요법에 적합하지 않은 동반질환이 있는 새로 진단된 급성 골수성 백혈병 성인 환자에서 아자시티딘 또는 데시타빈과의 병용요법",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:27Z",
+   "last_observed_at": "2026-09-08T08:55:27Z",
+   "official_revision_date": "2021-01-08"
+  },
+  {
+   "revision_id": "201903544-63943ad8",
+   "content_sha256": "63943ad8f3a9fac6def4b35fac778c85b7e12613ccc608472fb927c9acb89a22",
+   "ee_text": "이전에 적어도 하나의 치료를 받은 만성 림프구성 백혈병 성인 환자에서 리툭시맙과의 병용 요법 화학면역요법 및 B 세포 수용체 경로 저해제에 재발 또는 불응인 만성 림프구성 백혈병 성인 환자에서 단독 요법",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-03-26",
+   "first_observed_at": "2026-09-08T08:55:27Z",
+   "last_observed_at": "2026-09-08T08:55:27Z"
+  },
+  {
+   "revision_id": "201903544-25ecab1d",
+   "content_sha256": "25ecab1dc18878e93c6e9f4a071b4531a8de88c08902e0c3f4d813c8cc7d2f6c",
+   "ee_text": "화학면역요법 및 B 세포 수용체 경로 저해제에 재발 또는 불응인 만성 림프구성 백혈병 환자에서 단독 요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-05-29",
+   "first_observed_at": "2026-09-08T08:55:27Z",
+   "last_observed_at": "2026-09-08T08:55:27Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:27Z"
+}

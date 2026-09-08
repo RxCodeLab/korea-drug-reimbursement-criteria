@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199704622",
+ "item_name": "디코데서방정(디히드로코데인타르타르산염)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "19970313",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249060]디히드로코데인타르타르산염",
+ "main_item_ingr_eng": "Dihydrocodeine Tartrate",
+ "edi_code": "657800350",
+ "atc_code": "N02AA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199704622",
+ "revisions": [
+  {
+   "revision_id": "199704622-bef58b97",
+   "content_sha256": "bef58b97250d2a94c0a37652d18373b3ac6e97699a69a9bbaf06ce5e5a57c9d4",
+   "ee_text": "암 및 기타 만성질환 환자에서의 중등도 및 심한 통증의 완화",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:35Z",
+   "last_observed_at": "2026-09-08T08:31:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:35Z"
+}

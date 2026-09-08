@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001488",
+ "item_name": "위더스라푸티딘정10밀리그램(라푸티딘)",
+ "entp_name": "위더스제약(주)",
+ "permit_date": "20200303",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255655]라푸티딘",
+ "main_item_ingr_eng": "Lafutidine",
+ "edi_code": "660703350",
+ "atc_code": "A02BA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001488",
+ "revisions": [
+  {
+   "revision_id": "202001488-f0f5247b",
+   "content_sha256": "f0f5247bfc3da3fb01293f006735c67e6abd63fff1068932cb0933830db6ac7f",
+   "ee_text": "1. 위궤양, 십이지장 궤양 2. 급성위염 및 만성위염의 위점막병변의 개선 3. Helicobacter pylori에 감염된 소화성 궤양 환자에 대한 항생제 병용요법 4. 마취전 투약 5. 역류성 식도염 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:58Z",
+   "last_observed_at": "2026-09-08T08:57:58Z",
+   "official_revision_date": "2020-03-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:58Z"
+}

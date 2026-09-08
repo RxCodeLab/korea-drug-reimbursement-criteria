@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403314",
+ "item_name": "수펜탈주사50마이크로그램/밀리리터(수펜타닐시트르산염)",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "19940926",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247989]수펜타닐시트르산염",
+ "main_item_ingr_eng": "Sufentanil Citrate",
+ "edi_code": "653101021,653101031",
+ "atc_code": "N01AH03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403314",
+ "revisions": [
+  {
+   "revision_id": "199403314-d92c490e",
+   "content_sha256": "d92c490ed6568a232c2244da938ff3640f94aaff407480e06930132c91d660a6",
+   "ee_text": "1. 전신마취 진통제 2. 100 % 산소와 병행해서 다음과 같은 환자의 마취유도 및 유지를 위한 마취제 : 심혈관이나 신경외과 분야 등의 대수술을 받고 있는 환자",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:23Z",
+   "last_observed_at": "2026-09-08T08:29:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:23Z"
+}

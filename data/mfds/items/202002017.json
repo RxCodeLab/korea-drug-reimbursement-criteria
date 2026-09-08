@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002017",
+ "item_name": "천일의료용산소",
+ "entp_name": "(주)천일가스",
+ "permit_date": "20200323",
+ "cancel_date": "20250323",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040256]산소",
+ "main_item_ingr_eng": "Oxygen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002017",
+ "revisions": [
+  {
+   "revision_id": "202002017-5a6bfe33",
+   "content_sha256": "5a6bfe33d1c9a1ab7f746f3641d1564c226b6215bba81c08596c0334d29f8fe5",
+   "ee_text": "〇 의료용가스 - 다음과 같은 광범위한 질환에서의 산소결핍증 치료 · 호흡근의 마비 · 일산화탄소 중독 · 출혈, 외상, 쇼크 · 마취 시의 호흡마비 · 중증의 심질환(순환계 허탈 등) · 폐부종 등으로 인한 기도의 폐쇄 - 폐쇄 순환 마취 시 단독 투여 또는 이산화탄소와 병용투여",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:10Z",
+   "last_observed_at": "2026-09-08T08:58:10Z",
+   "official_revision_date": "2020-03-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:10Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "20040518",
  "cancel_date": "20250401",
  "status": "유효기간만료",
- "main_item_ingr": "[M255819]토코페롤아세테이트 2배산|[M250406]아스코르브산과립|[M051437]카르바조크롬|[M256212]리소짐염산염",
+ "main_item_ingr": "[M051437]카르바조크롬|[M250406]아스코르브산과립|[M255819]토코페롤아세테이트 2배산|[M256212]리소짐염산염",
  "main_item_ingr_eng": "Ascorbic Acid Granules/Carbazochrome/Lysozyme Hydrochloride/Tocopherol Acetate Powder 50%",
  "edi_code": "",
  "atc_code": "A01AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404168",
+ "history_fetched_at": "2026-08-28T13:24:06Z",
  "revisions": [
   {
    "revision_id": "200404168-9b3405ea",
@@ -19,8 +20,9 @@
    "ee_text": "치주(치아주위조직)치료 후 치은염(잇몸염), 경·중등도 치주(치아주위조직)염의 보조치료",
    "ee_doc_id": "21",
    "first_observed_at": "2026-08-28T13:24:06Z",
-   "last_observed_at": "2026-08-28T13:24:06Z",
-   "official_revision_date": "2021-06-22"
+   "last_observed_at": "2026-09-08T08:38:30Z",
+   "official_revision_date": "2021-06-22",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200404168-9db36f22",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:06Z",
    "last_observed_at": "2026-08-28T13:24:06Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:06Z"
+ ]
 }

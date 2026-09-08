@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199200350",
+ "item_name": "유니프릴정10밀리그램(에날라프릴말레산염)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "19920819",
+ "cancel_date": "20240701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223118]에날라프릴말레산염",
+ "main_item_ingr_eng": "Enalapril Maleate",
+ "edi_code": "",
+ "atc_code": "C09AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200350",
+ "revisions": [
+  {
+   "revision_id": "199200350-147343ff",
+   "content_sha256": "147343ff50592cb8d66f534cd32ad28db9803fe5832bc5b4ffd8acfddf4e0432",
+   "ee_text": "1. 고혈압 2. 심부전 : 이뇨제 및 디기탈리스 투여시의 보조치료제",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:21Z",
+   "last_observed_at": "2026-09-08T08:28:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:21Z"
+}

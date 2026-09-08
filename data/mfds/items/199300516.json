@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199300516",
+ "item_name": "하린서방정(펜톡시필린)",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "19930512",
+ "cancel_date": "20241001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051736]펜톡시필린",
+ "main_item_ingr_eng": "Pentoxifylline",
+ "edi_code": "",
+ "atc_code": "C04AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199300516",
+ "revisions": [
+  {
+   "revision_id": "199300516-5deae6cb",
+   "content_sha256": "5deae6cb2a4e65f54c48c6658a4445a2363261f501f6181ec02c39e77fd41d86",
+   "ee_text": "1. 뇌순환장애(허혈 및 뇌졸중후증상, 어지러움·두통·건망증 등 뇌동맥경화증 증상) 2. 눈의 혈류순환장애 3. 말초동맥순환장애(간헐성파행, 휴식시 동통, 당뇨병성혈관병증, 위축증, 혈관신경병증)",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:44Z",
+   "last_observed_at": "2026-09-08T08:28:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:44Z"
+}

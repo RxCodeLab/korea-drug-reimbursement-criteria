@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199101825",
+ "item_name": "비치과립(갈근탕가천궁신이엑스)",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "19910911",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M104757]갈근탕가천궁신이건조엑스",
+ "main_item_ingr_eng": "Galgeuntanggacheongungsini Dried Extracts",
+ "edi_code": "",
+ "atc_code": "R01B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101825",
+ "revisions": [
+  {
+   "revision_id": "199101825-13625422",
+   "content_sha256": "13625422f5e86af02c6b14379a561bbeddbcc1ba7c3e11d2f936fda41aa2c052",
+   "ee_text": "코막힘, 부비동염, 만성비염",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:15Z",
+   "last_observed_at": "2026-09-08T08:28:15Z",
+   "official_revision_date": "2010-04-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:15Z"
+}

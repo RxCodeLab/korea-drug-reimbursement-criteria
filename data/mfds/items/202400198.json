@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400198",
+ "item_name": "벨라콜린주(데옥시콜산)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20240125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280524]데옥시콜산",
+ "main_item_ingr_eng": "Deoxycholic acid",
+ "edi_code": "",
+ "atc_code": "D11AX24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400198",
+ "revisions": [
+  {
+   "revision_id": "202400198-af3b2351",
+   "content_sha256": "af3b23514b60f1798db2b00a0ac2f22af91d29846e7702d1c44eaeaa510add88",
+   "ee_text": "성인의 중등증 ~ 중증의 돌출되거나 과도한 턱밑지방의 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:39Z",
+   "last_observed_at": "2026-09-08T09:02:39Z",
+   "official_revision_date": "2024-01-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:39Z"
+}

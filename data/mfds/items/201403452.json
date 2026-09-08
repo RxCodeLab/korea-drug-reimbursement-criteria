@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403452",
+ "item_name": "제놀하이드로카타플라스마(플루르비프로펜)",
+ "entp_name": "아이큐어(주)",
+ "permit_date": "20140729",
+ "cancel_date": "20240729",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051827]플루르비프로펜|[M051827]플루르비프로펜|[M051827]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403452",
+ "revisions": [
+  {
+   "revision_id": "201403452-6533927d",
+   "content_sha256": "6533927d153ae6ba39d395182e7d905e5d9281ee4dc1a40e2182c532033c9acf",
+   "ee_text": "다음 질환 및 증상의 진통 ㆍ 소염(항염) : 퇴행성관절염(골(뼈)관절염), 어깨관절주위염, 건(힘줄) ㆍ 건초염(힘줄윤활막염), 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기) ㆍ 동통(통증)",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:23Z",
+   "last_observed_at": "2026-09-08T08:47:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:23Z"
+}

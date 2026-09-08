@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705496",
+ "item_name": "메코라캡슐(메코발라민)(수출용)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20170710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050436]메코발라민",
+ "main_item_ingr_eng": "Mecobalamin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705496",
+ "revisions": [
+  {
+   "revision_id": "201705496-8decc895",
+   "content_sha256": "8decc8954d659385ea0ae7ce7d488a9c6b948e96827ff307406f3575366a4def",
+   "ee_text": "말초성 신경장애",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:05Z",
+   "last_observed_at": "2026-09-08T08:52:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:05Z"
+}

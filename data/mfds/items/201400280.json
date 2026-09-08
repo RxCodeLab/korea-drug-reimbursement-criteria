@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400280",
+ "item_name": "조피고주(라듐-223염화물)",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20140121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258738]라듐-223 염화물 용액",
+ "main_item_ingr_eng": "Radium 223 Dichloride Solution",
+ "edi_code": "",
+ "atc_code": "V10XX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400280",
+ "revisions": [
+  {
+   "revision_id": "201400280-3118dbc6",
+   "content_sha256": "3118dbc6a0c4e27428a5e1ffa1ceb22f42f7d35ec4aa2d6b28c3a20d8e162b44",
+   "ee_text": "내장전이가 없으며 증상이 있는 골 전이된 거세저항성 전립선암의 치료",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:42Z",
+   "last_observed_at": "2026-09-08T08:46:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:42Z"
+}

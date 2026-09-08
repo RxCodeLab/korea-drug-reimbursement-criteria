@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502592",
+ "item_name": "푸레파스피드정(미세정제플라보노이드분획물)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20250930",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083140]미세정제플라보노이드분획물",
+ "main_item_ingr_eng": "Purified and Micronized Flavonoid Fraction",
+ "edi_code": "",
+ "atc_code": "C05CA53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502592",
+ "revisions": [
+  {
+   "revision_id": "202502592-29fae203",
+   "content_sha256": "29fae2035e44a2cf6b6cb78de66e9525395ebe66cf9f9f84e8cd49d2fabd9d8c",
+   "ee_text": "1. 정맥임파부전 : 하지부종, 통증, 초기욕창 2. 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:19Z",
+   "last_observed_at": "2026-09-08T09:04:19Z",
+   "official_revision_date": "2025-09-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:19Z"
+}

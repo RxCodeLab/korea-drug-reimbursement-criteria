@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001801",
+ "item_name": "삼진아르기닌연질캡슐(아르기닌티디아시케이트)[수출명: Argen soft capsule](수출용)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19980714",
+ "cancel_date": "20250117",
+ "status": "취하",
+ "main_item_ingr": "[M080276]아르기닌티디아시케이트",
+ "main_item_ingr_eng": "Arginine Tidiacicate",
+ "edi_code": "",
+ "atc_code": "A05BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001801",
+ "revisions": [
+  {
+   "revision_id": "200001801-5e57f5de",
+   "content_sha256": "5e57f5de9c94748ac8ef01af48c45c9444403cf7a77b6844f5fd84cb6391e93c",
+   "ee_text": "다음 질환의 보조 치료 : 간기능장애, 독성 간질환, 초기 간경변",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:49Z",
+   "last_observed_at": "2026-09-08T08:33:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:49Z"
+}

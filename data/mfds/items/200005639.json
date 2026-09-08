@@ -7,11 +7,12 @@
  "permit_date": "20000814",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M089119]당귀엑스산|[M089533]천궁엑스산|[M090093]작약엑스산|[M089536]숙지황엑스산|[M082727]감초엑스산|[M089528]복령엑스산|[M089527]백출엑스산|[M051650]인삼엑스산",
+ "main_item_ingr": "[M051650]인삼엑스산|[M082727]감초엑스산|[M089119]당귀엑스산|[M089527]백출엑스산|[M089528]복령엑스산|[M089533]천궁엑스산|[M089536]숙지황엑스산|[M090093]작약엑스산",
  "main_item_ingr_eng": "Angelica Gigas Root Extract Powder/Atractylodes Rhizoma Alba Extract Powder/Cnidium Rhizome Extract Powder/Ginseng Extract Powder/Glycyrrhiza Extract Powder/Peony Root Extract Powder/Poria Extract Powder/Prepared Rehmannia Root Extract Powder",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005639",
+ "history_fetched_at": "2026-08-28T13:23:56Z",
  "revisions": [
   {
    "revision_id": "200005639-9ffab8db",
@@ -19,8 +20,9 @@
    "ee_text": "한방건강보험용",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:23:56Z",
-   "last_observed_at": "2026-08-28T13:23:56Z",
-   "official_revision_date": "2020-09-03"
+   "last_observed_at": "2026-09-08T08:34:25Z",
+   "official_revision_date": "2020-09-03",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200005639-ff32c91b",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:56Z",
    "last_observed_at": "2026-08-28T13:23:56Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:56Z"
+ ]
 }

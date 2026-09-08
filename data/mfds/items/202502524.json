@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502524",
+ "item_name": "유니코돈정10밀리그램(옥시코돈염산염)(수출용)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20250923",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M238042]옥시코돈염산염",
+ "main_item_ingr_eng": "Oxycodone Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502524",
+ "revisions": [
+  {
+   "revision_id": "202502524-fbe5af36",
+   "content_sha256": "fbe5af361a00c89397e70fb9af247536406e820429968f3e5457b116c2e6c0f5",
+   "ee_text": "마약성 진통제 사용이 필요한 중등도 및 심한 통증의 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:17Z",
+   "last_observed_at": "2026-09-08T09:04:17Z",
+   "official_revision_date": "2025-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:17Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A01AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401972",
+ "history_fetched_at": "2026-08-28T13:24:05Z",
  "revisions": [
   {
    "revision_id": "200401972-dabaa4b0",
@@ -19,9 +20,9 @@
    "ee_text": "위열(胃熱)에 의한 치통",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:24:05Z",
-   "last_observed_at": "2026-08-28T13:24:05Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:37:57Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:05Z"
+ ]
 }

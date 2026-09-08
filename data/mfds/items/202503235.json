@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503235",
+ "item_name": "라디컷현탁액(에다라본)",
+ "entp_name": "타나베파마코리아주식회사",
+ "permit_date": "20251210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M201202]에다라본",
+ "main_item_ingr_eng": "Edaravone",
+ "edi_code": "",
+ "atc_code": "N07XX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503235",
+ "revisions": [
+  {
+   "revision_id": "202503235-9c1e5ab3",
+   "content_sha256": "9c1e5ab3134de2311ea62e4f68eb8e95634cb4e6562caaff115788aa8ce57557",
+   "ee_text": "근위축성측삭경화증(ALS)에 의한 기능장애의 진행을 늦추어 준다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:31Z",
+   "last_observed_at": "2026-09-08T09:04:31Z",
+   "official_revision_date": "2025-12-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:31Z"
+}

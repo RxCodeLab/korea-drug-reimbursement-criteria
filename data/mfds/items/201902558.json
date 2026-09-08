@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902558",
+ "item_name": "제이클로벨액(클로베타솔프로피오네이트)",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20190424",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223224]클로베타솔프로피오네이트",
+ "main_item_ingr_eng": "Clobetasol Propionate",
+ "edi_code": "690300901",
+ "atc_code": "D07AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902558",
+ "revisions": [
+  {
+   "revision_id": "201902558-339998b1",
+   "content_sha256": "339998b18c9655b594bcea9613357e3314f6a326a516aa88831ed0cda092e1bf",
+   "ee_text": "주로 두부의 피부질환(습진ㆍ피부염군, 건선)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:56Z",
+   "last_observed_at": "2026-09-08T08:54:56Z",
+   "official_revision_date": "2019-04-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:56Z"
+}

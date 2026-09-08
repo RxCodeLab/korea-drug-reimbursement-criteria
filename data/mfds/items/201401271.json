@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401271",
+ "item_name": "리조덱플렉스터치주100단위/밀리리터",
+ "entp_name": "노보노디스크제약(주)",
+ "permit_date": "20140320",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M097114]인슐린아스파트|[M259097]인슐린데글루덱",
+ "main_item_ingr_eng": "Insulin Aspart/Insulin Degludec",
+ "edi_code": "654400541",
+ "atc_code": "A10AD06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401271",
+ "revisions": [
+  {
+   "revision_id": "201401271-7f0a971b",
+   "content_sha256": "7f0a971bd72886702d64a5e15c217f496ad91b2ac8eb45105e81942efb38699f",
+   "ee_text": "만 2세 이상의 소아와 청소년 및 성인에서의 당뇨병 치료",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:51Z",
+   "last_observed_at": "2026-09-08T08:46:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:51Z"
+}

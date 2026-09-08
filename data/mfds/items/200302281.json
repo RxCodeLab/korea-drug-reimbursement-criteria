@@ -7,11 +7,12 @@
  "permit_date": "20031222",
  "cancel_date": "20231122",
  "status": "취하",
- "main_item_ingr": "[M222857]세티리진염산염|[M203364]슈도에페드린염산염",
+ "main_item_ingr": "[M203364]슈도에페드린염산염|[M222857]세티리진염산염",
  "main_item_ingr_eng": "Cetirizine Hydrochloride/Pseudoephedrine Hydrochloride",
  "edi_code": "",
  "atc_code": "R01BA52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302281",
+ "history_fetched_at": "2026-08-28T13:24:03Z",
  "revisions": [
   {
    "revision_id": "200302281-dc892be8",
@@ -19,9 +20,9 @@
    "ee_text": "다음 증상을 수반하는 계절성 및 다년성 알레르기 비염의 완화 : 코막힘, 재채기, 콧물, 눈 코의 소양증",
    "ee_doc_id": "13",
    "first_observed_at": "2026-08-28T13:24:03Z",
-   "last_observed_at": "2026-08-28T13:24:03Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:37:12Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:03Z"
+ ]
 }

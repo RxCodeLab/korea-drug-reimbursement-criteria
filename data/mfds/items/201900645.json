@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900645",
+ "item_name": "명인아캄프로세이트정333mg(아캄프로세이트칼슘)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20190125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102626]아캄프로세이트칼슘",
+ "main_item_ingr_eng": "Acamprosate Calcium",
+ "edi_code": "651904740",
+ "atc_code": "N07BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900645",
+ "revisions": [
+  {
+   "revision_id": "201900645-de4f0362",
+   "content_sha256": "de4f0362fdf532211fb844afbb933367b67048b26e65bdf0afb98e8bd6bf9ba7",
+   "ee_text": "심리적 상담과 병행하여 알코올 의존성 환자의 해독후 금주유지요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:09Z",
+   "last_observed_at": "2026-09-08T08:54:09Z",
+   "official_revision_date": "2019-01-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:09Z"
+}

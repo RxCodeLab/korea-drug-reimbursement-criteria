@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107299",
+ "item_name": "니콤감초엑스정",
+ "entp_name": "한국한의약진흥원",
+ "permit_date": "20211103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281656]감초연조엑스(2.4~3.0→1)",
+ "main_item_ingr_eng": "Licorice Soft Extract(2.4~3.0→1)",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107299",
+ "revisions": [
+  {
+   "revision_id": "202107299-0f17433b",
+   "content_sha256": "0f17433b9658a846d22e3345c5a0aa8dbec304160573c883e00ff65d04dd9385",
+   "ee_text": "조제용",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:45Z",
+   "last_observed_at": "2026-09-08T09:00:45Z",
+   "official_revision_date": "2021-11-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:45Z"
+}

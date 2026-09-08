@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801700",
+ "item_name": "장락에프환",
+ "entp_name": "신화제약(주)",
+ "permit_date": "20180420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040538]진피|[M040813]후박|[M050805]센나열매|[M082795]센나엽",
+ "main_item_ingr_eng": "Citrus Unshiu Peel/Magnolia Bark/Senna Leaf/Sennae Fructus",
+ "edi_code": "",
+ "atc_code": "A06AB56",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801700",
+ "revisions": [
+  {
+   "revision_id": "201801700-4ceccbe1",
+   "content_sha256": "4ceccbe19e9052553b38679ff7f1296f94929b031052d1363477cb99d1c2504a",
+   "ee_text": "﹡ 변비 ﹡ 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:03Z",
+   "last_observed_at": "2026-09-08T08:53:03Z",
+   "official_revision_date": "2018-04-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:03Z"
+}

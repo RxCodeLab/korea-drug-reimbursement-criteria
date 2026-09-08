@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200521",
+ "item_name": "심에틴주300mg(시메티딘)(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "20020612",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050857]시메티딘",
+ "main_item_ingr_eng": "Cimetidine",
+ "edi_code": "",
+ "atc_code": "A02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200521",
+ "revisions": [
+  {
+   "revision_id": "200200521-88a76371",
+   "content_sha256": "88a763716347aa9d27c9bc8dd46918cef3c8ee5c3491602cc371ef166d3a094d",
+   "ee_text": "1. 주효능효과 위 십이지장 궤양, 역류성식도염, 폴링거-엘리슨 증후군, 상부소화관 출혈(소화성 궤양, 급성스트레스 궤양, 출혈성 위염에 의한)재발성 궤양",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:04Z",
+   "last_observed_at": "2026-09-08T08:36:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:04Z"
+}

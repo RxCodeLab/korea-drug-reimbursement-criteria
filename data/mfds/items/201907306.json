@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907306",
+ "item_name": "실로텔서방캡슐200밀리그램(실로스타졸)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20191017",
+ "cancel_date": "20241017",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M070044]실로스타졸",
+ "main_item_ingr_eng": "Cilostazol",
+ "edi_code": "",
+ "atc_code": "B01AC23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907306",
+ "revisions": [
+  {
+   "revision_id": "201907306-01dd6081",
+   "content_sha256": "01dd6081a2db071008dbeb22971c8c43b643f7d02ee482e929502373726d85bd",
+   "ee_text": "1. 만성동맥폐색증(버거씨병, 폐색성 동맥경화증. 당뇨병성 말초혈관병증 등)에 따른 궤양, 동통 및 냉감 등 허혈성 제증상의 개선 2. 뇌경색(심인성뇌색전증 제외) 발증 후 재발억제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:42Z",
+   "last_observed_at": "2026-09-08T08:56:42Z",
+   "official_revision_date": "2019-10-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:42Z"
+}

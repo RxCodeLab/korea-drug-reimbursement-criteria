@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902614",
+ "item_name": "마인트롤정(세인트존스워트80%메탄올건조엑스)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20190425",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258013]세인트존스워트80%메탄올건조엑스",
+ "main_item_ingr_eng": "St. John's Wort 80% Methanol Dried Extract",
+ "edi_code": "",
+ "atc_code": "N06AX25",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902614",
+ "revisions": [
+  {
+   "revision_id": "201902614-a6a2876f",
+   "content_sha256": "a6a2876fb8b97853b886e8c211b598b28195e0a6e2cff603490e451182f9ba7e",
+   "ee_text": "- 불안, 무기력 상태의 완화 - 가볍고 일시적인 우울증상의 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:58Z",
+   "last_observed_at": "2026-09-08T08:54:58Z",
+   "official_revision_date": "2019-04-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:58Z"
+}

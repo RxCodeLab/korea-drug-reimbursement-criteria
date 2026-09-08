@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301215",
+ "item_name": "더미손크림(모메타손푸로에이트)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20031020",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070188]모메타손푸로에이트|[M070188]모메타손푸로에이트",
+ "main_item_ingr_eng": "Mometasone Furoate",
+ "edi_code": "653000301",
+ "atc_code": "D07AC13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301215",
+ "revisions": [
+  {
+   "revision_id": "200301215-bef85d47",
+   "content_sha256": "bef85d47224b82ae30c98800f2233112ed8a35b393254e02570858f122dd6700",
+   "ee_text": "코르티코이드에 반응하는 피부질환의 가려움 및 염증의 완화",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:58Z",
+   "last_observed_at": "2026-09-08T08:36:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:58Z"
+}

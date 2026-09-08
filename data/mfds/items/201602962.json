@@ -7,21 +7,22 @@
  "permit_date": "20160526",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M087237]프릴로카인|[M040131]리도카인",
+ "main_item_ingr": "[M040131]리도카인|[M087237]프릴로카인",
  "main_item_ingr_eng": "Lidocaine/Prilocaine",
  "edi_code": "",
  "atc_code": "N01BB52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602962",
+ "history_fetched_at": "2026-08-28T13:24:49Z",
  "revisions": [
   {
-   "revision_id": "201602962-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201602962-a2e24df4",
+   "content_sha256": "a2e24df400d2881e6f34390dec9a4c68f53e21364ce1057886795f68a32089a3",
+   "ee_text": "1. 주사바늘 삽입시 또는 표재성 외과적 처치 시 피부의 표면마취 2. 생식기 점막 표면마취(예 : 콘딜롬 제거전) 3. 세척이나 표제성 수술(예 : 피브린, 농, 피사부위의 제거)에 앞서 다리궤양의 표면마취",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:24:49Z",
-   "last_observed_at": "2026-08-28T13:24:49Z",
-   "official_revision_date": "2021-07-16"
+   "last_observed_at": "2026-09-08T08:50:39Z",
+   "official_revision_date": "2021-07-16",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:49Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20201118",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M083069]글루타민|[M070702]시티딘|[M051213]우리딘",
+ "main_item_ingr": "[M051213]우리딘|[M070702]시티딘|[M083069]글루타민",
  "main_item_ingr_eng": "Cytidine/Glutamine/Uridine",
  "edi_code": "",
  "atc_code": "N07XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007983",
+ "history_fetched_at": "2026-08-28T13:25:22Z",
  "revisions": [
   {
    "revision_id": "202007983-4845cba6",
@@ -19,9 +20,9 @@
    "ee_text": "혈관성 뇌질환 후유증, 기억력 장해, 집중력 장해 등의 정신 신경쇠약",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:22Z",
-   "last_observed_at": "2026-08-28T13:25:22Z",
-   "official_revision_date": "2020-11-18"
+   "last_observed_at": "2026-09-08T08:59:40Z",
+   "official_revision_date": "2020-11-18",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:22Z"
+ ]
 }

@@ -7,7 +7,7 @@
  "permit_date": "20131126",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M020307]설박탐나트륨|[M020092]암피실린나트륨|[M020307]설박탐나트륨|[M020092]암피실린나트륨",
+ "main_item_ingr": "[M020092]암피실린나트륨|[M020092]암피실린나트륨|[M020307]설박탐나트륨|[M020307]설박탐나트륨",
  "main_item_ingr_eng": "Ampicillin Sodium/Sulbactam Sodium",
  "edi_code": "",
  "atc_code": "J01CR01",
@@ -20,7 +20,8 @@
    "ee_text": "(적응균종) 본제에 감성의 포도구균속(球菌屬), 폐렴구균, 모락셀라(브란하멜라)·카타라리스, 대장균, 프로테우스속, 인플루엔자균 (적응증) 폐렴, 폐농증(폐화농증), 방광염, 복막염",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201310306/EE",
    "first_observed_at": "2026-08-27T13:53:23Z",
-   "last_observed_at": "2026-08-28T13:24:33Z"
+   "last_observed_at": "2026-09-08T08:46:32Z",
+   "normalizer_version": 3
   }
  ]
 }

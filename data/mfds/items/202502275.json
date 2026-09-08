@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502275",
+ "item_name": "에크락겔5%(소프피로니움브롬화물)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20250829",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285793]소프피로니움브롬화물",
+ "main_item_ingr_eng": "Sofpironium Bromide",
+ "edi_code": "",
+ "atc_code": "D11AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502275",
+ "revisions": [
+  {
+   "revision_id": "202502275-db68056b",
+   "content_sha256": "db68056b06286c0cb9e39c0871f975760580a48ab4cab3f49834a6acf15bc884",
+   "ee_text": "원발성 겨드랑이 다한증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:13Z",
+   "last_observed_at": "2026-09-08T09:04:13Z",
+   "official_revision_date": "2025-08-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:13Z"
+}

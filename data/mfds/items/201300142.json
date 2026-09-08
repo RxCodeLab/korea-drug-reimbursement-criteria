@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201300142",
+ "item_name": "비타씨주(아스코르브산)(수출용)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20130108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258994]아스코르브산",
+ "main_item_ingr_eng": "Ascorbic Acid",
+ "edi_code": "",
+ "atc_code": "A11GA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300142",
+ "revisions": [
+  {
+   "revision_id": "201300142-167ffbd7",
+   "content_sha256": "167ffbd7bbc775d40e054310484e9341d416c7bf8e5e22b32afcb114268f608f",
+   "ee_text": "괴혈병 예방과 치료에 비타민 C를 권장한다. 급성 결핍 환자나 경구 섭취된 아스코르빈산 흡수가 불확실한 환자에게는 비경구적 투약이 바람직하다. 경증 결핍은 결함 있는 뼈와 치아의 성장, 치은염, 잇몸 출혈, 흔들리는 치아를 포함할 수 있다. 발열 상태, 만성 질병, 감염 (폐렴, 백일해, 결핵, 디프테리아, 부비동염, 류마티스 열 등)은 아스코르브산의 요구를 증가시킨다. 혈관 장애, 화상, 골절 및 상처 치료의 지연은 일일섭취량을 증가시킨다",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:43Z",
+   "last_observed_at": "2026-09-08T08:45:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:43Z"
+}

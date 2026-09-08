@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605919",
+ "item_name": "제일엠지주(황산마그네슘수화물)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20161006",
+ "cancel_date": "20260327",
+ "status": "취하",
+ "main_item_ingr": "[M080356]황산마그네슘수화물",
+ "main_item_ingr_eng": "Magnesium Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "A12CC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605919",
+ "revisions": [
+  {
+   "revision_id": "201605919-c855bfd9",
+   "content_sha256": "c855bfd941fe578603bd62177637ac22028d4cef3cb9bc4bebd57c916cfd2063",
+   "ee_text": "저마그네슘혈증에 의한 경련, 자간, 전해질보급(저마그네슘혈증), 자궁경직(분만촉진)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:14Z",
+   "last_observed_at": "2026-09-08T08:51:14Z",
+   "official_revision_date": "2021-09-30"
+  },
+  {
+   "revision_id": "201605919-ecadc67e",
+   "content_sha256": "ecadc67e07c5d75031559601f3653d7d05561b7d836ebefaa1f0e81272f72369",
+   "ee_text": "경련, 자간, 전해질보급(저마그네슘혈증), 자궁경직(분만촉진)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:51:14Z",
+   "last_observed_at": "2026-09-08T08:51:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:14Z"
+}

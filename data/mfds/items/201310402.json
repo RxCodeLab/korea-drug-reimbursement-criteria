@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310402",
+ "item_name": "디푸로날정80밀리그램(플로로글루시놀수화물)",
+ "entp_name": "한국넬슨제약(주)",
+ "permit_date": "20131129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256211]플로로글루시놀수화물",
+ "main_item_ingr_eng": "Phloroglucinol Hydrate",
+ "edi_code": "656701920",
+ "atc_code": "A03AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310402",
+ "revisions": [
+  {
+   "revision_id": "201310402-34660e2f",
+   "content_sha256": "34660e2f446d2bc730210b4015e58580bf3c68ba855aec168e014e63c55f2638",
+   "ee_text": "(경구 : 설하정) - 비뇨기계의 경련 및 통증 : 신염성 산통 - 소화관 및 담도계의 기능장애에 의한 통증 - 부인과의 경련성 통증 - 임신중 수축의 보조치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:34Z",
+   "last_observed_at": "2026-09-08T08:46:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:34Z"
+}

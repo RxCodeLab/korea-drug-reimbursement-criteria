@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199502076",
+ "item_name": "광동타목시펜정20밀리그램(타목시펜시트르산염)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "19950203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222891]타목시펜시트르산염",
+ "main_item_ingr_eng": "Tamoxifen Citrate",
+ "edi_code": "641800860",
+ "atc_code": "L02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502076",
+ "revisions": [
+  {
+   "revision_id": "199502076-5bf8d5d5",
+   "content_sha256": "5bf8d5d5ad5559f855aa5515c602545e942b9522f95dcf253e521078dc23808d",
+   "ee_text": "유방암",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:42Z",
+   "last_observed_at": "2026-09-08T08:29:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:42Z"
+}

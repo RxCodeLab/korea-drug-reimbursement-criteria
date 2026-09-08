@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309706",
+ "item_name": "알마돈정",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20131014",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040629]탄산마그네슘|[M229291]건조수산화알루미늄 겔",
+ "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel/Magnesium Carbonate",
+ "edi_code": "",
+ "atc_code": "A02AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309706",
+ "revisions": [
+  {
+   "revision_id": "201309706-6024ce51",
+   "content_sha256": "6024ce51939977122a5a1b988e348fff56590780fd84d1ea322d291a4e15684b",
+   "ee_text": "위산과다, 속쓰림, 위부(상복부)불쾌감, 위부(상복부)팽만감, 체함, 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:25Z",
+   "last_observed_at": "2026-09-08T08:46:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:25Z"
+}

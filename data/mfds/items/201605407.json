@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605407",
+ "item_name": "복합소부날캡슐(수출용)",
+ "entp_name": "진양제약(주)",
+ "permit_date": "20160902",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080308]소브레롤|[M220819]L-카르보시스테인",
+ "main_item_ingr_eng": "L-Carbocisteine/Sobrerol",
+ "edi_code": "",
+ "atc_code": "R05CB10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605407",
+ "revisions": [
+  {
+   "revision_id": "201605407-6e52c34c",
+   "content_sha256": "6e52c34c70b9326f07f35dda8ebb51c3d6f1e105555f19acf534cb8a35f12987",
+   "ee_text": "1. 다음 질환에서의 점액 및 점액농분비물의 용해(녹임) ㆍ 배출 1) 기관지염, 기관지확장증, 기관지폐렴 특히 천식, 폐기종 등의 호흡기부전이 수반될 때 2) 폐결핵이나 진폐증이 수반되는 기관지 카타르 3) 비인두염, 후두기관염 2. 수술시 호흡기 합병증의 예방과 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:11Z",
+   "last_observed_at": "2026-09-08T08:51:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:11Z"
+}

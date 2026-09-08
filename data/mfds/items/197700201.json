@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197700201",
+ "item_name": "메네스정(베타히스틴메실산염)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "19770323",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223045]베타히스틴메실산염",
+ "main_item_ingr_eng": "Betahistine Mesylate",
+ "edi_code": "657301550",
+ "atc_code": "N07CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197700201",
+ "revisions": [
+  {
+   "revision_id": "197700201-0bc4a6c0",
+   "content_sha256": "0bc4a6c0e349b32bef7e849c8c7dda4d273a6c432a2d568bf89aac759dc34b2b",
+   "ee_text": "메니에르병에 의한 어지러움",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:27Z",
+   "last_observed_at": "2026-09-08T08:26:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:27Z"
+}

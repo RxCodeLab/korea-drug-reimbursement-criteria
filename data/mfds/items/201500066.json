@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500066",
+ "item_name": "리메린주(디페메린염산염)(수출용)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20150107",
+ "cancel_date": "20251211",
+ "status": "취하",
+ "main_item_ingr": "[M253050]디페메린염산염",
+ "main_item_ingr_eng": "Difemerine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A03AA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500066",
+ "revisions": [
+  {
+   "revision_id": "201500066-90ac0293",
+   "content_sha256": "90ac0293f5422a52c0c3a89d6c43394a72ff421a2e7bb1ab7bb6c9d1d6be1180",
+   "ee_text": "(경구 : 정제, 캡슐제)(주사제) 소화기계 및 비뇨기계의 경련",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:15Z",
+   "last_observed_at": "2026-09-08T08:48:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:15Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201109515",
+ "item_name": "토포칸주(토포테칸염산염)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "20111103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244792]토포테칸염산염",
+ "main_item_ingr_eng": "Topotecan Hydrochloride",
+ "edi_code": "644308261",
+ "atc_code": "L01CE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109515",
+ "revisions": [
+  {
+   "revision_id": "201109515-d7cb56cd",
+   "content_sha256": "d7cb56cd4be152bcb58fa1ead7f0f897b6c63c2d523b5601faf4a312e978cd1e",
+   "ee_text": "1. 표준화학요법에 실패한 전이성 난소암 2. 1차 화학요법에 실패한 재발성 소세포폐암 3.수술요법 또는 방사선 요법으로 치료되지 않는 Ⅳ-B기, 재발성, 지속성 자궁경부암",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:57Z",
+   "last_observed_at": "2026-09-08T08:44:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:57Z"
+}

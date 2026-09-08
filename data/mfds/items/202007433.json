@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007433",
+ "item_name": "리콤비맥스주(필그라스팀)(수출용)",
+ "entp_name": "보란파마",
+ "permit_date": "20201030",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M277832]필그라스팀",
+ "main_item_ingr_eng": "Filgrastim",
+ "edi_code": "",
+ "atc_code": "L03AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007433",
+ "revisions": [
+  {
+   "revision_id": "202007433-a2ede4f3",
+   "content_sha256": "a2ede4f35b8b13d241b0f80b1058b80c909d323213f62eebefa904567594222a",
+   "ee_text": "1. 중증 만성 호중구감소증 환자 2. 골수억제 화학 요법을 받은 암 환자 3. 골수 이식을 받는 암 환자 4. 암 환자의 말초혈액생성세포의 수집 및 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:35Z",
+   "last_observed_at": "2026-09-08T08:59:35Z",
+   "official_revision_date": "2020-10-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:35Z"
+}

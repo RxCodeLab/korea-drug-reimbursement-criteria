@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198400034",
+ "item_name": "한풍생강사심탕엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19840710",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M243937]생강사심탕연조엑스",
+ "main_item_ingr_eng": "Saenggangsasimtang Soft Extract",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400034",
+ "revisions": [
+  {
+   "revision_id": "198400034-c9d037cc",
+   "content_sha256": "c9d037cc626b464bb72eef39f12de48bf76c16b79011073f5f8a0491c6eab1b0",
+   "ee_text": "명치가 답답한 감이 있고, 트림을 수반하는 다음 증상 : 속쓰림, 구역, 구토, 설사, 위장염, 구취",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:55Z",
+   "last_observed_at": "2026-09-08T08:26:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:55Z"
+}

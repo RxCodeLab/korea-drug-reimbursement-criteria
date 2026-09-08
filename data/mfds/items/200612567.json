@@ -7,20 +7,22 @@
  "permit_date": "20061220",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M102050]콜레칼시페롤농축분말|[M051564]탄산칼슘",
+ "main_item_ingr": "[M051564]탄산칼슘|[M102050]콜레칼시페롤농축분말",
  "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Powder",
  "edi_code": "664900510",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200612567",
+ "history_fetched_at": "2026-08-28T13:24:11Z",
  "revisions": [
   {
-   "revision_id": "200612567-944100cc",
-   "content_sha256": "944100cc161d1a75e098b148aeeef580f76e20c8c3bdd043b3158ad2cc8bee78",
-   "ee_text": "- 임신ㆍ수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ 비타민D(콜레칼시페롤농축분말) : 뼈ㆍ이의 발육불량, 구루병의 예방",
+   "revision_id": "200612567-f3c0f5fd",
+   "content_sha256": "f3c0f5fd7cdb0f8221e3ba3b771583045f75842daa4d90d82bc8722e8395fd11",
+   "ee_text": "○ 다음 경우의 비타민 D의 보급 - 임신ㆍ수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ 비타민D(콜레칼시페롤농축분말) : 뼈ㆍ이의 발육불량, 구루병의 예방 ○ 칼슘 결핍 및 기타 칼슘의 보급",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:24:11Z",
-   "last_observed_at": "2026-08-28T13:24:11Z",
-   "official_revision_date": "2021-09-03"
+   "last_observed_at": "2026-09-08T08:40:50Z",
+   "official_revision_date": "2021-09-03",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200612567-9797cc33",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:11Z",
    "last_observed_at": "2026-08-28T13:24:11Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:11Z"
+ ]
 }

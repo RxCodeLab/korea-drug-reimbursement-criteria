@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902472",
+ "item_name": "비테인캡슐",
+ "entp_name": "(주)서흥",
+ "permit_date": "20190422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051745]함당펩신|[M241790]베타인염산염",
+ "main_item_ingr_eng": "Betaine Hydrochloride/Saccharated Pepsin",
+ "edi_code": "",
+ "atc_code": "A09AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902472",
+ "revisions": [
+  {
+   "revision_id": "201902472-267deb98",
+   "content_sha256": "267deb98f21e6db40836262d7070bb2f6672a1706b24fd30a1b3eb104d362e27",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:55Z",
+   "last_observed_at": "2026-09-08T08:54:55Z",
+   "official_revision_date": "2019-04-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:55Z"
+}

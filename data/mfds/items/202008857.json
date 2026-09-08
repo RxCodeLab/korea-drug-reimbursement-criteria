@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008857",
+ "item_name": "칼시맥스100정",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20201216",
+ "cancel_date": "20251216",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051564]탄산칼슘|[M102050]콜레칼시페롤농축분말",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Powder",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008857",
+ "revisions": [
+  {
+   "revision_id": "202008857-7b7d9332",
+   "content_sha256": "7b7d93326d5c961102cb6f5ac77aebac2cdeae51317dee60263a0f1bacaa2f5a",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신 ∙ 수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능 ∙ 효과는 다음과 같습니다. ∙ 뼈, 이의 발육불량 ∙ 구루병의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:45Z",
+   "last_observed_at": "2026-09-08T08:59:45Z",
+   "official_revision_date": "2020-12-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:45Z"
+}

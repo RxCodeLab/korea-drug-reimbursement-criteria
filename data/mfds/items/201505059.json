@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505059",
+ "item_name": "루브리칸트에스티안연고(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20150724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040676]유동파라핀|[M088336]백색바셀린",
+ "main_item_ingr_eng": "Liquid Paraffin/White Petrolatum",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505059",
+ "revisions": [
+  {
+   "revision_id": "201505059-bd1150a9",
+   "content_sha256": "bd1150a9a909c93df0d902fdfa034969a80b4eb635c591b7b2ece0bfe0d0f03e",
+   "ee_text": "- 안구 자극 및 작열감 일시적 완화 - 안구 자극 악화 예방을 위한 윤활제",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:24Z",
+   "last_observed_at": "2026-09-08T08:49:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:24Z"
+}

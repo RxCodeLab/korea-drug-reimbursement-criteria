@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200903700",
+ "item_name": "플루아드프리필드시린지주(인플루엔자표면항원MF59C.1어쥬번트백신)",
+ "entp_name": "시퀴러스코리아(유)",
+ "permit_date": "20090526",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286540]정제불활화인플루엔자바이러스항원B형[B/Tokyo/EIS13-175/2025]|[M286563]정제불활화인플루엔자바이러스항원A형[A/Missouri/11/2025 IVR-279(H1N1)]|[M286606]정제불활화인플루엔자바이러스항원A형[A/Michigan/105/2025IVR-285(H3N2)]",
+ "main_item_ingr_eng": "Purified  influenza  virus  antigen B/Tokyo/EIS13-175/2025/Purified Inactivated Influenza Virus Antigen A[A/Michigan/105/2025IVR-285(H3N2)]/Purified influenza virus antigen A/Missouri/11/2025 IVR-279(H1N1)",
+ "edi_code": "",
+ "atc_code": "J07BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903700",
+ "revisions": [
+  {
+   "revision_id": "200903700-de33a9f0",
+   "content_sha256": "de33a9f0ed1eaaf48567f1459f11633dd561af01e58d6209035a3cef6b18bd76",
+   "ee_text": "만 65세 이상의 노인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "32",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:16Z",
+   "last_observed_at": "2026-09-08T08:43:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:16Z"
+}

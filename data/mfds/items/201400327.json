@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400327",
+ "item_name": "캐싸일라주160밀리그램(트라스투주맙엠탄신)",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "20140124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258764]트라스투주맙엠탄신",
+ "main_item_ingr_eng": "Trastuzumab Emtansine",
+ "edi_code": "645001341",
+ "atc_code": "L01FD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400327",
+ "revisions": [
+  {
+   "revision_id": "201400327-f2ff11c8",
+   "content_sha256": "f2ff11c89a0a6bb1da233227f54d2fb6e6adfe6b8e972093826d4dbacefec886",
+   "ee_text": "○ 전이성 유방암 HER2(Human Epidermal growth factor Receptor 2 protein) 양성, 이전에 치료 요법으로 트라스투주맙과 탁산계 약물을 별도로 각각 투여하거나 또는 동시에 병용 투여한 적이 있는 절제 불가능한 국소진행성 또는 전이성 유방암 환자로서 다음 중 하나에 해당해야 함 ; • 국소 진행성 또는 전이성 질환에 대한 이전 치료를 받은 적이 있는 환자 또는 • 수술 후 보조요법(adjuvant therapy)을 받는 도중 또는 완료 후 6개월 이내에 재발한 환자 ○ 조기 유방암 탁산 및 트라스투주맙 기반의 수술 전 보조요법을 받은 후 침습적 잔존 병변이 있는 HER2 양성 조기 유방암 환자에서 수술 후 보조요법으로서 단독 투여",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:43Z",
+   "last_observed_at": "2026-09-08T08:46:43Z",
+   "official_revision_date": "2019-08-08"
+  },
+  {
+   "revision_id": "201400327-b465fcff",
+   "content_sha256": "b465fcfff1d6cbd53903010bb7395c63308ff64f918b31917fef7df92bd3916a",
+   "ee_text": "HER2 양성, 이전에 치료 요법으로 트라스투주맙과 탁산계 약물을 별도로 각각 투여하거나 또는 동시에 병용 투여한 적이 있는 절제 불가능한 국소진행성 또는 전이성 유방암 환자로서 다음 중 하나에 해당해야 함 ; • 국소 진행성 또는 전이성 질환에 대한 이전 치료를 받은 적이 있는 환자 또는 • 수술 후 보조요법(adjuvant therapy)을 받는 도중 또는 완료 후 6개월 이내에 재발한 환자",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-22",
+   "first_observed_at": "2026-09-08T08:46:43Z",
+   "last_observed_at": "2026-09-08T08:46:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:43Z"
+}

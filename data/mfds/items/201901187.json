@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901187",
+ "item_name": "액티브피록시캄겔(피록시캄)",
+ "entp_name": "일양바이오팜(주)",
+ "permit_date": "20190226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071634]피록시캄",
+ "main_item_ingr_eng": "Piroxicam",
+ "edi_code": "",
+ "atc_code": "M02AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901187",
+ "revisions": [
+  {
+   "revision_id": "201901187-56e42c76",
+   "content_sha256": "56e42c76abbc620db40c50452035241501221bb6ec3254efa96b11f57782c3b6",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) : 퇴행성관절염(골관절염), 어깨관절주위염, 건염(힘줄염)ㆍ건초염(힘줄윤활막염), 건주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통(근염, 근막염 등), 외상후의 종창(부기)ㆍ동통(통증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:22Z",
+   "last_observed_at": "2026-09-08T08:54:22Z",
+   "official_revision_date": "2019-02-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:22Z"
+}

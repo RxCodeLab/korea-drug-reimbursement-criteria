@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401321",
+ "item_name": "플루빅토주(루테튬(177Lu) 비피보타이드테트라세탄)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20240529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284676]루테튬(177Lu) 비피보타이드테트라세탄액",
+ "main_item_ingr_eng": "Lutetium(177Lu) Vipivotide Tetraxetan Solution",
+ "edi_code": "",
+ "atc_code": "V10XX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401321",
+ "revisions": [
+  {
+   "revision_id": "202401321-c59f8e73",
+   "content_sha256": "c59f8e7385b74234356f6d9485d1e09e044a1633aad03b16ad925bd7e5f3e7e5",
+   "ee_text": "이전에 안드로겐 수용체 경로 차단(ARPI) 치료와 탁산 기반의 화학요법을 받았던 전립선 특이 막 항원(PSMA) 양성 전이성 거세저항성 전립선암(mCRPC) 성인 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:00Z",
+   "last_observed_at": "2026-09-08T09:03:00Z",
+   "official_revision_date": "2024-05-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:00Z"
+}

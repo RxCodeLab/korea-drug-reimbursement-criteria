@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907580",
+ "item_name": "레보크린시럽(레보드로프로피진)",
+ "entp_name": "독립바이오제약(주)",
+ "permit_date": "20191030",
+ "cancel_date": "20241030",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M253916]레보드로프로피진",
+ "main_item_ingr_eng": "Levodropropizine",
+ "edi_code": "",
+ "atc_code": "R05DB27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907580",
+ "revisions": [
+  {
+   "revision_id": "201907580-2d59075b",
+   "content_sha256": "2d59075b7ad0189bb7a1a4a18d5c398bac6a4898bc5736e132af7688550490f3",
+   "ee_text": "다음 질환에서의 기침 : 급·만성기관지염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:53Z",
+   "last_observed_at": "2026-09-08T08:56:53Z",
+   "official_revision_date": "2019-10-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:53Z"
+}

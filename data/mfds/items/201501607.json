@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501607",
+ "item_name": "필콘정(폴리카르보필칼슘)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20150326",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257625]폴리카르보필칼슘",
+ "main_item_ingr_eng": "Calcium Polycarbophil",
+ "edi_code": "641705000",
+ "atc_code": "A06AC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501607",
+ "revisions": [
+  {
+   "revision_id": "201501607-04e016f4",
+   "content_sha256": "04e016f47cf83f05081f9320cb7a0694f1c2a22c227ff0e3c6a1d561a86ad6d2",
+   "ee_text": "만성변비, 비특이성 설사, 과민대장증후군에서의 변비 보조요법 및 설사",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:42Z",
+   "last_observed_at": "2026-09-08T08:48:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:42Z"
+}

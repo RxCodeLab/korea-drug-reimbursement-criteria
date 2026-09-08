@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401660",
+ "item_name": "테르가제주(베라히알루로니다제알파(히알루로니다제,유전자재조합))",
+ "entp_name": "(주)알테오젠",
+ "permit_date": "20240705",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284781]베라히알루로니다제알파(히알루로니다제,유전자재조합)|[M284781]베라히알루로니다제알파(히알루로니다제,유전자재조합)",
+ "main_item_ingr_eng": "Berahyaluronidase Alfa (Recombinant Hyaluronidase)",
+ "edi_code": "",
+ "atc_code": "B06AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401660",
+ "revisions": [
+  {
+   "revision_id": "202401660-d3245abf",
+   "content_sha256": "d3245abf5bbf5a392e1380fd84fd3a7c3a43955affde2c43df4b7afd352d2ceb",
+   "ee_text": "- 피하주사나 근육주사, 국소마취제 및 피하주입 시 침투력 증가 - 조직 내에 과다하게 존재하는 체액 및 혈액의 재흡수 촉진",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:08Z",
+   "last_observed_at": "2026-09-08T09:03:08Z",
+   "official_revision_date": "2024-12-05"
+  },
+  {
+   "revision_id": "202401660-16901f50",
+   "content_sha256": "16901f50f8914d81c8a82bac98f7c4677d9099d7e833be1841fc3fd73eca61d1",
+   "ee_text": "피하주사나 근육주사, 국소마취제 및 피하주입 시 침투력 증가",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-07-05",
+   "first_observed_at": "2026-09-08T09:03:08Z",
+   "last_observed_at": "2026-09-08T09:03:08Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:08Z"
+}

@@ -10,8 +10,9 @@
  "main_item_ingr": "[M222973]디펜히드라민염산염",
  "main_item_ingr_eng": "Diphenhydramine Hydrochloride",
  "edi_code": "",
- "atc_code": "",
+ "atc_code": "N05CM",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602046",
+ "history_fetched_at": "2026-08-27T12:30:39Z",
  "revisions": [
   {
    "revision_id": "202602046-d5a600e4",
@@ -19,9 +20,9 @@
    "ee_text": "일시적 불면증의 완화",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:30:39Z",
-   "last_observed_at": "2026-08-27T12:30:39Z",
-   "official_revision_date": "2026-07-15"
+   "last_observed_at": "2026-09-08T09:05:32Z",
+   "official_revision_date": "2026-07-15",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:30:39Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200811432",
+ "item_name": "슬림락정",
+ "entp_name": "(주)선일양행",
+ "permit_date": "20081205",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050687]비사코딜|[M245135]센나및센나열매메탄올건조엑스(1000→7)",
+ "main_item_ingr_eng": "Bisacodyl/Senna·Sennae Fructus Methanol Dried Extract (1000→7)",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811432",
+ "revisions": [
+  {
+   "revision_id": "200811432-09303084",
+   "content_sha256": "09303084334c25b1b13e66810125b1d39b3cc98af43cb66c9d4b4a81412c368f",
+   "ee_text": "· 변비 · 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만감, 장내이상발효, 치핵",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:57Z",
+   "last_observed_at": "2026-09-08T08:42:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:57Z"
+}

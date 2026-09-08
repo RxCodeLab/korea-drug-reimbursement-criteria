@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201650",
+ "item_name": "파모포스정",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20220421",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040306]수산화마그네슘|[M040634]침강탄산칼슘|[M081653]파모티딘",
+ "main_item_ingr_eng": "Famotidine/Magnesium Hydroxide/Precipitated Calcium Carbonate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201650",
+ "revisions": [
+  {
+   "revision_id": "202201650-f920d928",
+   "content_sha256": "f920d928cca1e1be31a1b1ed680f027511fa20cd055519d34d18a0ee6e92d86f",
+   "ee_text": "위산과다 및 속쓰림과 관련된 가슴앓이의 경감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:16Z",
+   "last_observed_at": "2026-09-08T09:01:16Z",
+   "official_revision_date": "2022-04-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:16Z"
+}

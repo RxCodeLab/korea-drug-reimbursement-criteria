@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201607375",
+ "item_name": "두드리진시럽(히드록시진염산염)",
+ "entp_name": "삼아제약(주)",
+ "permit_date": "20161229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223358]히드록시진염산염",
+ "main_item_ingr_eng": "Hydroxyzine Hydrochloride",
+ "edi_code": "645702771",
+ "atc_code": "N05BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607375",
+ "revisions": [
+  {
+   "revision_id": "201607375-74356ad1",
+   "content_sha256": "74356ad1cf4ee19bc64151062cf5ea8cefd01c4fbdecb56518b84cebcdbfa853",
+   "ee_text": "1. 수술 후, 신경증에서의 불안, 긴장, 초조 2. 두드러기, 피부질환에 수반하는 가려움(습진, 피부염, 피부가려움증)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:24Z",
+   "last_observed_at": "2026-09-08T08:51:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:24Z"
+}

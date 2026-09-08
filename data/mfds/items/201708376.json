@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708376",
+ "item_name": "프로베블루주0.5%(메틸렌블루)",
+ "entp_name": "(주)삼오제약",
+ "permit_date": "20171214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203114]메틸렌블루",
+ "main_item_ingr_eng": "Methylene Blue",
+ "edi_code": "",
+ "atc_code": "V03AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708376",
+ "revisions": [
+  {
+   "revision_id": "201708376-52dbbfc4",
+   "content_sha256": "52dbbfc4cca9d1d215a7f6a8df06bdea18f0e714516f97515bfd93613d4e7fcc",
+   "ee_text": "약물에 의한 메트헤모글로빈혈증",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:40Z",
+   "last_observed_at": "2026-09-08T08:52:40Z",
+   "official_revision_date": "2017-12-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:40Z"
+}

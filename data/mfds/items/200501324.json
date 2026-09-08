@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "M02AX10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501324",
+ "history_fetched_at": "2026-08-28T13:24:08Z",
  "revisions": [
   {
-   "revision_id": "200501324-afb29362",
-   "content_sha256": "afb293627842fee4340b3c9b0cb4eb546b7ed45c74ab7a05a8be0fd9d1f8f3d6",
-   "ee_text": "; 관절염, 정액낭염, 건염, 근육통, 삠, 타박상, 근육경련",
+   "revision_id": "200501324-f30cae4a",
+   "content_sha256": "f30cae4abba465da9cfaa36b3b4ab4bc154c06b062403819e2e95e256acf1d77",
+   "ee_text": "다음증상의 통증의 완화 ; 관절염, 정액낭염, 건염, 근육통, 삠, 타박상, 근육경련",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:24:08Z",
-   "last_observed_at": "2026-08-28T13:24:08Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:39:08Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:08Z"
+ ]
 }

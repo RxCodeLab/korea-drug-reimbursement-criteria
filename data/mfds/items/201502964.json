@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502964",
+ "item_name": "뮤코로솔정(암브록솔염산염)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20150518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233843]암브록솔염산염",
+ "main_item_ingr_eng": "Ambroxol Hydrochloride",
+ "edi_code": "644806170",
+ "atc_code": "R05CB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502964",
+ "revisions": [
+  {
+   "revision_id": "201502964-4cc22e22",
+   "content_sha256": "4cc22e22281d92c5168dd2891da29bb676905024c728e4bdf2b12fc7d8e8df2e",
+   "ee_text": "점액분비장애로 인한 다음의 급·만성 호흡기질환 : 급·만성기관지염, 천식성기관 지염",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:03Z",
+   "last_observed_at": "2026-09-08T08:49:03Z",
+   "official_revision_date": "2020-01-29"
+  },
+  {
+   "revision_id": "201502964-8e259480",
+   "content_sha256": "8e259480868a028c201d693d8996e15597fbf2a4a106a76eed4b3dd26b0c9d4e",
+   "ee_text": "1. 주효능 효과 점액분비장애로 인한 급ㆍ만성 호흡기질환 : 급ㆍ만성기관지염, 천식성기관지염, 부비강염, 건성비염",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:49:03Z",
+   "last_observed_at": "2026-09-08T08:49:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:03Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "640904880",
  "atc_code": "R03DC02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601087",
+ "history_fetched_at": "2026-08-27T13:23:59Z",
  "revisions": [
   {
    "revision_id": "202601087-0f416b3a",
@@ -19,9 +20,9 @@
    "ee_text": "1. 기관지 천식 2. 알레르기성 비염",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:23:59Z",
-   "last_observed_at": "2026-08-27T13:23:59Z",
-   "official_revision_date": "2026-04-15"
+   "last_observed_at": "2026-09-08T09:05:01Z",
+   "official_revision_date": "2026-04-15",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:23:59Z"
+ ]
 }

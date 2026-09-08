@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002242",
+ "item_name": "삼성부스피론정5밀리그램(부스피론염산염)",
+ "entp_name": "삼성제약(주)",
+ "permit_date": "20200331",
+ "cancel_date": "20250331",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222852]부스피론염산염",
+ "main_item_ingr_eng": "Buspirone Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N05BE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002242",
+ "revisions": [
+  {
+   "revision_id": "202002242-c96fc2d3",
+   "content_sha256": "c96fc2d3c19b3e7a353d9e77b446b916f8da8dd8f984019852274bdef143e4c7",
+   "ee_text": "불안장애의 치료 또는 불안증상의 단기완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:16Z",
+   "last_observed_at": "2026-09-08T08:58:16Z",
+   "official_revision_date": "2020-03-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:16Z"
+}

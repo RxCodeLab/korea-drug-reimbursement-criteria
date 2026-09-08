@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902600",
+ "item_name": "페북탐정40mg(페북소스타트)",
+ "entp_name": "구주제약(주)",
+ "permit_date": "20190425",
+ "cancel_date": "20240425",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M245186]페북소스타트",
+ "main_item_ingr_eng": "Febuxostat",
+ "edi_code": "",
+ "atc_code": "M04AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902600",
+ "revisions": [
+  {
+   "revision_id": "201902600-ac947503",
+   "content_sha256": "ac947503dcdce39353c16982b28cdc5bf8f9498385ae7fe5c449e05587bc1423",
+   "ee_text": "통풍환자에서의 만성적 고요산혈증의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:57Z",
+   "last_observed_at": "2026-09-08T08:54:57Z",
+   "official_revision_date": "2019-04-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:57Z"
+}

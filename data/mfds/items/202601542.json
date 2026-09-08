@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601542",
+ "item_name": "신신파스뉴젠플라스타",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20260528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070611]살리실산글리콜|[M206708]DL-캄파|[M279284]L-멘톨",
+ "main_item_ingr_eng": "DL-Camphor/Glycol Salicylate/L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601542",
+ "revisions": [
+  {
+   "revision_id": "202601542-d46a1307",
+   "content_sha256": "d46a1307638df789885bd5e60e48250e313ac95335e5a8a0a08f9b7dd77b480d",
+   "ee_text": "- 다음 증상의 진통·소염(항염) : 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 신경통, 류마티스통증 - 피부가려움, 벌레물린데 - 동창(언 상처)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:14Z",
+   "last_observed_at": "2026-09-08T09:05:14Z",
+   "official_revision_date": "2026-05-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:14Z"
+}

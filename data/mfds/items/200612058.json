@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200612058",
+ "item_name": "나리텍정20mg(말레인산에날라프릴)(수출용)",
+ "entp_name": "(주)메디카코리아",
+ "permit_date": "20061129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082059]말레인산에날라프릴",
+ "main_item_ingr_eng": "Enalapril Maleate",
+ "edi_code": "",
+ "atc_code": "C09AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200612058",
+ "revisions": [
+  {
+   "revision_id": "200612058-62e07ac4",
+   "content_sha256": "62e07ac4f080a61ef997162b5fb6cc428da9064fb2906781447e891d656a01fa",
+   "ee_text": "1. 고혈압 2. 심부전 : 이뇨제 및 디기탈리스 투여시의 보조치료제효능효과",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:48Z",
+   "last_observed_at": "2026-09-08T08:40:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:48Z"
+}

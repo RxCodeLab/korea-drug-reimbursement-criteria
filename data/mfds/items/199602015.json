@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199602015",
+ "item_name": "아트락트정(클로르페네신카르바메이트)",
+ "entp_name": "한국넬슨제약(주)",
+ "permit_date": "19960827",
+ "cancel_date": "20251001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223210]클로르페네신카르바메이트",
+ "main_item_ingr_eng": "Chlorphenesin Carbamate",
+ "edi_code": "",
+ "atc_code": "M03BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602015",
+ "revisions": [
+  {
+   "revision_id": "199602015-f69833da",
+   "content_sha256": "f69833da8e365d9189f90ac93ef38ae52f964b1c63ca1b311dd00cac9c4d93dc",
+   "ee_text": "근골격계 질환에 수반하는 동통(통증)성 연축(수축과 이완) : 요배(허리, 등)통증, 변형성척추증, 추간판헤르니아, 척추분리ㆍ전위(변위)증, 척추골다공증, 경견완증후군(목어깨팔증후군)",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:19Z",
+   "last_observed_at": "2026-09-08T08:30:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:19Z"
+}

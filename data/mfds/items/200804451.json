@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200804451",
+ "item_name": "욘델리스주사1.0밀리그램(트라벡테딘)",
+ "entp_name": "베르토코리아유한책임회사",
+ "permit_date": "20080422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M230801]트라벡테딘",
+ "main_item_ingr_eng": "Trabectedin",
+ "edi_code": "",
+ "atc_code": "L01CX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804451",
+ "revisions": [
+  {
+   "revision_id": "200804451-2ed29684",
+   "content_sha256": "2ed29684a6420c98579827ae4bfa094b52fb629f2098c9c7be1701117873c1f8",
+   "ee_text": "안트라사이클린 및 이포스파마이드 치료요법에 실패했거나, 이들 약제 투여가 부적합한, 진행된 연조직 육종",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:26Z",
+   "last_observed_at": "2026-09-08T08:42:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:26Z"
+}

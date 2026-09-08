@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199901120",
+ "item_name": "인사이드PX겔쿨(수출용)",
+ "entp_name": "시믹씨엠오코리아주식회사",
+ "permit_date": "19990206",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071634]피록시캄|[M223240]토코페롤아세테이트|[M279284]L-멘톨",
+ "main_item_ingr_eng": "L-Menthol/Piroxicam/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "M02AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901120",
+ "revisions": [
+  {
+   "revision_id": "199901120-7818699d",
+   "content_sha256": "7818699df3d167d5204fb893214fbfa7391f02ffb031a858dcd57dd8660d1fdb",
+   "ee_text": "관절통, 요통, 어깨결림에 따른 어깨통증, 건초염(손과 손목의 통증), 팔꿈치 통증(테니스 엘보우 등), 근육통, 타박, 염좌",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:40Z",
+   "last_observed_at": "2026-09-08T08:32:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:40Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200503332",
+ "item_name": "멘타덤카타플라스마(엘멘톨)(수출용)(수출명:MenthandermCold＆HotPainreliefPatch)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20050531",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M219244]엘 멘톨",
+ "main_item_ingr_eng": "L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503332",
+ "revisions": [
+  {
+   "revision_id": "200503332-6535a188",
+   "content_sha256": "6535a188c8deda31d4270511424293d4ecebb8ed3fe85e573b4a5346fecd39af",
+   "ee_text": "다음 질환 및 증상의 진통 ·소염 : 삠, 타박상, 근육통, 관절통, 골절통, 요통, 어깨결림, 동창",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:31Z",
+   "last_observed_at": "2026-09-08T08:39:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:31Z"
+}

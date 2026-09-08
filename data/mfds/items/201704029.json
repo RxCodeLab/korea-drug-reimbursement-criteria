@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201704029",
+ "item_name": "보령플루Ⅷ테트라백신주(프리필드시린지)(인플루엔자분할백신)",
+ "entp_name": "(주)보령바이오파마",
+ "permit_date": "20170620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266472]정제 불활화 인플루엔자 바이러스 항원 B형 [B/Phuket/3073/2013 - like strain (B/Phuket/3073/2013, wild type)]|[M282833]정제불활화인플루엔자바이러스항원B형[B/Austria/1359417/2021 - like strain (B/Michigan/01/2021, wild type)]|[M283939]정제불활화인플루엔자바이러스항원A형[A/Victoria/4897/2022 (H1N1)pdm09 - like strain (A/Victoria/4897/2022, IVR-238)]|[M284739]정제불활화인플루엔자바이러스항원A형[A/Thailand/8/2022 (H3N2)-like strain (A/California/122/2022, SAN-022)]",
+ "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A [A/Thailand/8/2022 (H3N2)-like strain (A/California/122/2022, SAN-022)]/Purified Inactivated Influenza Virus Antigen B [B/Austria/1359417/2021 - like strain (B/Michigan/01/2021, wild type)]/Purified Inactivated Influenza Virus Antigen B [B/Phuket/3073/2013 - like strain (B/Phuket/3073/2013, wild type)]/Purified influenza virus antigen(split virion, inactivated) [A/Victoria/4897/2022 (H1N1)pdm09 - like strain (A/Victoria/4897/2022, IVR-238)]",
+ "edi_code": "",
+ "atc_code": "J07BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704029",
+ "revisions": [
+  {
+   "revision_id": "201704029-be17fc32",
+   "content_sha256": "be17fc32642dea5c72b1ecf72a4d08eabf07278af8971d75b71b0c1ee61d57e4",
+   "ee_text": "생후 6개월 이상의 소아, 청소년, 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스들에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:58Z",
+   "last_observed_at": "2026-09-08T08:51:58Z",
+   "official_revision_date": "2018-07-06"
+  },
+  {
+   "revision_id": "201704029-1742973b",
+   "content_sha256": "1742973b7d3833b30fc6eea91529007d03bbdee5e321d330d69b8feb5be076b6",
+   "ee_text": "만 3세 이상의 소아, 청소년, 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스들에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:51:58Z",
+   "last_observed_at": "2026-09-08T08:51:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:58Z"
+}

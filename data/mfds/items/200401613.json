@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401613",
+ "item_name": "무코나캡슐(티오콜키코시드)(수출용)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20040416",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251172]티오콜키코시드",
+ "main_item_ingr_eng": "Thiocolchicoside",
+ "edi_code": "",
+ "atc_code": "M03BX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401613",
+ "revisions": [
+  {
+   "revision_id": "200401613-3c3415f9",
+   "content_sha256": "3c3415f9fa9d62325c10f9ac2bd12421e33bfdc7bf04cdf3bf02a5b046cca9e3",
+   "ee_text": "급성 척추질환으로 인한 동통성 근육수축의 보조치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:51Z",
+   "last_observed_at": "2026-09-08T08:37:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:51Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199100461",
+ "item_name": "한올아푸록산정300밀리그램(프로글루메타신말레산염)",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "19910329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256432]프로글루메타신말레산염",
+ "main_item_ingr_eng": "Proglumetacin Dimaleate",
+ "edi_code": "",
+ "atc_code": "M01AB14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100461",
+ "revisions": [
+  {
+   "revision_id": "199100461-ca58f117",
+   "content_sha256": "ca58f1174daf89f8e0a36b49168c514c7afbdc9b347f5703d0bf71d1ae685bda",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 류마티양 관절염,골관절염(퇴행성 관절질환),견관절주위염,외상에 의한 염증",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:08Z",
+   "last_observed_at": "2026-09-08T08:28:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:08Z"
+}

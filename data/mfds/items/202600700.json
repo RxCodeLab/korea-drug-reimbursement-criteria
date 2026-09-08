@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600700",
+ "item_name": "다트로웨이주100mg(다토포타맙데룩스테칸)",
+ "entp_name": "한국다이이찌산쿄(주)",
+ "permit_date": "20260309",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286220]다토포타맙데룩스테칸",
+ "main_item_ingr_eng": "Datopotamab Deruxtecan",
+ "edi_code": "",
+ "atc_code": "L01FX35",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600700",
+ "revisions": [
+  {
+   "revision_id": "202600700-fee9906d",
+   "content_sha256": "fee9906dc498cd3fd3795b1065b0629d0bf8272410697f6f3c2aaec8751ce0dc",
+   "ee_text": "절제 불가능한 또는 전이성인 호르몬 수용체(HR) 양성, HER2-음성(IHC 0, IHC 1+ 또는 IHC 2+/ISH-) 유방암으로, 이전에 내분비 기반 치료와 진행성 단계에서 전신 화학요법 치료를 받은 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:52Z",
+   "last_observed_at": "2026-09-08T09:04:52Z",
+   "official_revision_date": "2026-03-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:52Z"
+}

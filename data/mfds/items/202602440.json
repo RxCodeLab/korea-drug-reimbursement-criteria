@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602440",
+ "item_name": "동광미녹시딜정2.5mg",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20260824",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081480]미녹시딜",
+ "main_item_ingr_eng": "Minoxidil",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602440",
+ "revisions": [
+  {
+   "revision_id": "202602440-f2401e03",
+   "content_sha256": "f2401e03ef5cbfb0dff1e687bcada28f07df71a936c62e0c9db7c1d79cb2c8fc",
+   "ee_text": "1) 증후성 또는 표적기관 손상에 의한 고혈압 2) 이뇨제와 두 종류의 혈압강하제를 병용투여하는 최대용량에도 반응하지 않는 고혈압(불응성고혈압)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:38Z",
+   "last_observed_at": "2026-09-08T09:05:38Z",
+   "official_revision_date": "2026-08-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:38Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403919",
+ "item_name": "프라실정(프로필치오우라실)(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20041021",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040734]프로필치오우라실",
+ "main_item_ingr_eng": "Propylthiouracil",
+ "edi_code": "",
+ "atc_code": "H03BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403919",
+ "revisions": [
+  {
+   "revision_id": "200403919-8891b45d",
+   "content_sha256": "8891b45db07732fc0728c1eca0fe5792fd4c4f635785a2f3aa3e145c562bef42",
+   "ee_text": "갑상선기능항진증",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:27Z",
+   "last_observed_at": "2026-09-08T08:38:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:27Z"
+}

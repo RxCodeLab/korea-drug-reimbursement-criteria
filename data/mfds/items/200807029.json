@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200807029",
+ "item_name": "인텔렌스정(에트라비린)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20080625",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M236272]에트라비린",
+ "main_item_ingr_eng": "Etravirine",
+ "edi_code": "646901050",
+ "atc_code": "J05AG04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807029",
+ "revisions": [
+  {
+   "revision_id": "200807029-a88ebfb3",
+   "content_sha256": "a88ebfb34ea28ab4a2e9c19d8c313822e34ee7ddece96a23a5fa7f2cc86b7dea",
+   "ee_text": "항레트로바이러스제 치료 경험이 있는, 비뉴클레오사이드 역전사효소 저해제(NNRTI) 및 다른 항레트로바이러스제 사용에 실패한 HIV-1-감염 성인 환자의 치료를 위한 다른 항레트로바이러스제와 병용 요법",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:38Z",
+   "last_observed_at": "2026-09-08T08:42:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:38Z"
+}

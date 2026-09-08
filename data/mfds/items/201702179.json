@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702179",
+ "item_name": "코미아스피린정(수출용)",
+ "entp_name": "(주)코미팜",
+ "permit_date": "20170427",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040355]아스피린",
+ "main_item_ingr_eng": "Aspirin",
+ "edi_code": "",
+ "atc_code": "N02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702179",
+ "revisions": [
+  {
+   "revision_id": "201702179-7ffd044a",
+   "content_sha256": "7ffd044a1934875c73d924b665d64628c64afddb1f500d497545bec7ce050340",
+   "ee_text": "1. 주효능 효과 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 감기로 인한 발열 및 동통(통증), 치통, 두통, 월경통, 신경통, 요통(허리통), 관절통, 근육통 2. 다음 질환에도 사용할 수 있다. 류마티열, 섬유조직증식증, 수술후 동통(통증), 인후통(목구멍 통증), 염좌(삠)통, 좌골(궁둥이뼈)신경통",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:46Z",
+   "last_observed_at": "2026-09-08T08:51:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:46Z"
+}

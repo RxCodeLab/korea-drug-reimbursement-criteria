@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502157",
+ "item_name": "모틴주사액(파모티딘)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20250820",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081653]파모티딘",
+ "main_item_ingr_eng": "Famotidine",
+ "edi_code": "651905431",
+ "atc_code": "A02BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502157",
+ "revisions": [
+  {
+   "revision_id": "202502157-b49ae5d8",
+   "content_sha256": "b49ae5d82cf055256e2c6ab831a6c019e6a7000ea2ce20edd5cd23387df2b315",
+   "ee_text": "상부소화관출혈(소화성궤양, 급성스트레스성궤양, 출혈성위염에 의한), 졸링거-엘리슨증후군, 신체적 스트레스(대수술후, 중증의 뇌혈관장해ㆍ 두부외상ㆍ다장기부전ㆍ중증의 화상)에 의한 상부소화관출혈의 억제, 마취전 투약",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:12Z",
+   "last_observed_at": "2026-09-08T09:04:12Z",
+   "official_revision_date": "2025-08-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:12Z"
+}

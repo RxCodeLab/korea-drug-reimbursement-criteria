@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200706541",
+ "item_name": "미르탁스정30밀리그램(미르타자핀)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20070607",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088893]미르타자핀",
+ "main_item_ingr_eng": "Mirtazapine",
+ "edi_code": "668100030",
+ "atc_code": "N06AX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706541",
+ "revisions": [
+  {
+   "revision_id": "200706541-4fb1dfc6",
+   "content_sha256": "4fb1dfc662e55f3e98d6fdf7b8ba3a5ab18ca7969229873098e4fc16d257bd92",
+   "ee_text": "주요우울증",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:34Z",
+   "last_observed_at": "2026-09-08T08:41:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:34Z"
+}

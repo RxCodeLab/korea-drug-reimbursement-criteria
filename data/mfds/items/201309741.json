@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309741",
+ "item_name": "자이데나정75밀리그램(유데나필)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20131015",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102602]유데나필",
+ "main_item_ingr_eng": "Udenafil",
+ "edi_code": "",
+ "atc_code": "G04BE11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309741",
+ "revisions": [
+  {
+   "revision_id": "201309741-6fd9b14e",
+   "content_sha256": "6fd9b14ee727a0985caca7c0488c1a773a97b94635a6b43506389075ef777a3c",
+   "ee_text": "발기부전의 치료",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:26Z",
+   "last_observed_at": "2026-09-08T08:46:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:26Z"
+}

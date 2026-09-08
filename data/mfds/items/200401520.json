@@ -12,16 +12,17 @@
  "edi_code": "664601030",
  "atc_code": "B03BB01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401520",
+ "history_fetched_at": "2026-08-28T13:24:04Z",
  "revisions": [
   {
-   "revision_id": "200401520-65b834b5",
-   "content_sha256": "65b834b5bf651185d62a975d6cc17bb03d394c841af66bf6386c89870657b225",
-   "ee_text": "소모성 질환, 임부ㆍ수유부 1) 영양결핍성빈혈, 임신성빈혈, 소아빈혈 2) 항전간제, 항말라리아제 투여로 인한 빈혈",
+   "revision_id": "200401520-360c1f8c",
+   "content_sha256": "360c1f8c9ecf1182465c47994b2c58c0a5f5b7a885de0c5e22a91a41f4aad046",
+   "ee_text": "1. 폴산결핍증의 예방 및 치료 2. 폴산의 수요가 증대하여 식사로부터 섭취가 불충분한 경우의 보급 소모성 질환, 임부ㆍ수유부 3. 흡수부전증후군(스프루 등) 4. 악성빈혈의 보조요법(비타민 B12 결핍으로 인한 빈혈 제외) 5. 다음 질환 중 폴산의 결핍 또는 대사장애가 관여한다고 추정되는 경우 1) 영양결핍성빈혈, 임신성빈혈, 소아빈혈 2) 항전간제, 항말라리아제 투여로 인한 빈혈 6. 알콜중독 및 간질환에 관련된 거대적아구성빈혈 7. 재생불량성빈혈 8. 과립구감소증",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:24:04Z",
-   "last_observed_at": "2026-08-28T13:24:04Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:37:50Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:04Z"
+ ]
 }

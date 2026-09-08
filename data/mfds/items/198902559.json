@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198902559",
+ "item_name": "메프친정50마이크로그램(프로카테롤염산염수화물)",
+ "entp_name": "한국오츠카제약(주)",
+ "permit_date": "19891118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223307]프로카테롤염산염수화물",
+ "main_item_ingr_eng": "Procaterol Hydrochloride Hydrate",
+ "edi_code": "649900040",
+ "atc_code": "R03CC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198902559",
+ "revisions": [
+  {
+   "revision_id": "198902559-9228d6e5",
+   "content_sha256": "9228d6e5e44f096d57f2576105ab980f4b698de37e52f10db8b09631f264d3e3",
+   "ee_text": "다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 급·만성기관지염, 폐기종",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:56Z",
+   "last_observed_at": "2026-09-08T08:27:56Z",
+   "official_revision_date": "2021-07-12"
+  },
+  {
+   "revision_id": "198902559-f5253b11",
+   "content_sha256": "f5253b11d2b637307f275a96acc14522466f634c2bc5fda795b3dda70b1713d6",
+   "ee_text": "(경구 : 정제 50μg) 1. 주효능 효과 다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 급·만성기관지염, 폐기종 (경구 : 정제 25μg, 시럽제) 1. 주효능 효과 다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 급·만성기관지염, 폐기종, 천식양기관지염",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:27:56Z",
+   "last_observed_at": "2026-09-08T08:27:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:56Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200102122",
+ "item_name": "이뮤골드액(에키나시아엑스)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20010628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089645]에키나시아엑스",
+ "main_item_ingr_eng": "Echinacea Extract",
+ "edi_code": "",
+ "atc_code": "R07AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102122",
+ "revisions": [
+  {
+   "revision_id": "200102122-029ebd2e",
+   "content_sha256": "029ebd2eb2bf9adea2eff0f6f6adc7d10c43cefbafe0c11a96ac22ecb720e3ed",
+   "ee_text": "재발성 기도감염의 보조요법",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:20Z",
+   "last_observed_at": "2026-09-08T08:35:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:20Z"
+}

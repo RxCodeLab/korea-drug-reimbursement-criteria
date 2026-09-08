@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R03AK07",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105306",
+ "history_fetched_at": "2026-08-28T13:25:25Z",
  "revisions": [
   {
    "revision_id": "202105306-62014043",
@@ -19,9 +20,9 @@
    "ee_text": "1. 천식환자의 치료 2. 중증의 만성폐쇄성폐질환",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:25Z",
-   "last_observed_at": "2026-08-28T13:25:25Z",
-   "official_revision_date": "2021-07-13"
+   "last_observed_at": "2026-09-08T09:00:23Z",
+   "official_revision_date": "2021-07-13",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:25Z"
+ ]
 }

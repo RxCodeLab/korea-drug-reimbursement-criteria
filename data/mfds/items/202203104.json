@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203104",
+ "item_name": "화인백정",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20220727",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M114289]세인트존스워트80%메탄올 엑스|[M256377]서양승마추출액",
+ "main_item_ingr_eng": "Cimicifuga Rhizome Extract/St. John's Wort 80% Methanol Extract",
+ "edi_code": "",
+ "atc_code": "G02CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203104",
+ "revisions": [
+  {
+   "revision_id": "202203104-38d6203e",
+   "content_sha256": "38d6203e570db97347d618e78f392600d3c98b1a79bc9490f4c7404cd06589e3",
+   "ee_text": "갱년기 다음 증상의 완화 · 홍조, 땀이 남 · 정신적 긴장, 신경과민, 집중력 부족, 불면, 불안 또는 우울증상 · 생리전의 불쾌감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:29Z",
+   "last_observed_at": "2026-09-08T09:01:29Z",
+   "official_revision_date": "2022-07-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:29Z"
+}

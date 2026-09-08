@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001574",
+ "item_name": "조스파타정40밀리그램(길테리티닙푸마르산염)",
+ "entp_name": "한국아스텔라스제약(주)",
+ "permit_date": "20200306",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278276]길테리티닙푸마르산염",
+ "main_item_ingr_eng": "Gilteritinib fumarate",
+ "edi_code": "677200290",
+ "atc_code": "L01EX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001574",
+ "revisions": [
+  {
+   "revision_id": "202001574-fc1eb568",
+   "content_sha256": "fc1eb568ef7c06c7d882e97eebc8d9879dee926c7fe61493e88ff9f96e096ace",
+   "ee_text": "FLT3 변이 양성인 재발 또는 불응성 급성 골수성 백혈병 성인 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:59Z",
+   "last_observed_at": "2026-09-08T08:57:59Z",
+   "official_revision_date": "2020-03-06"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:59Z"
+}

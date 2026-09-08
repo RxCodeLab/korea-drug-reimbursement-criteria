@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201205628",
+ "item_name": "레토프라정20밀리그램(에스-판토프라졸나트륨 삼수화물)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20120618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254776]에스-판토프라졸나트륨삼수화물",
+ "main_item_ingr_eng": "S-Pantoprazole Sodium Trihydrate",
+ "edi_code": "650203850",
+ "atc_code": "A02BC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205628",
+ "revisions": [
+  {
+   "revision_id": "201205628-91da76d4",
+   "content_sha256": "91da76d4449d527299f4a46c483acd4994928fe7ded55feda6281f253d845c1c",
+   "ee_text": "- 십이지장궤양 - 위궤양 - 중등도 ∼ 중증의 역류성 식도염",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:20Z",
+   "last_observed_at": "2026-09-08T08:45:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:20Z"
+}

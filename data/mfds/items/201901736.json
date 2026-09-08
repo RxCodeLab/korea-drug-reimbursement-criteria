@@ -1,0 +1,58 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901736",
+ "item_name": "제줄라캡슐100밀리그램(니라파립토실산염일수화물)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20190322",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269158]니라파립토실산염일수화물",
+ "main_item_ingr_eng": "Niraparib Tosylate Monohydrate",
+ "edi_code": "696300550",
+ "atc_code": "L01XK02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901736",
+ "revisions": [
+  {
+   "revision_id": "201901736-5aae354b",
+   "content_sha256": "5aae354b2a579b36746feb7c222a177dd70613bfaffab94465f6cb0866989738",
+   "ee_text": "1차 백금기반 항암화학요법에 반응(부분 또는 완전반응)한 난소암(난관암 또는 일차 복막암 포함) 성인 환자의 단독 유지요법 2차 이상의 백금기반 항암화학요법에 반응(부분 또는 완전반응)한 백금민감성 재발성 고도장액성 난소암(난관암 또는 일차 복막암 포함) 성인 환자의 단독 유지요법",
+   "ee_doc_id": "31",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:35Z",
+   "last_observed_at": "2026-09-08T08:54:35Z",
+   "official_revision_date": "2023-01-02"
+  },
+  {
+   "revision_id": "201901736-587d47c1",
+   "content_sha256": "587d47c14ba274749a735022422414acdffcc60c9dc304a6bdbadb79414e5b3e",
+   "ee_text": "1차 백금기반 항암화학요법에 반응(부분 또는 완전반응)한 난소암(난관암 또는 일차 복막암 포함) 성인 환자의 단독 유지요법 2차 이상의 백금기반 항암화학요법에 반응(부분 또는 완전반응)한 백금민감성 재발성 고도장액성 난소암(난관암 또는 일차 복막암 포함) 성인 환자의 단독 유지요법 이전에 3차 이상의 항암화학요법을 투여 받은 적이 있는 1) BRCA 변이(백금 민감성 여부에 무관) 또는 2) 백금 민감성 상동재조합결핍 (HRD) 양성인 재발성 난소암(난관암 또는 일차 복막암 성인 환자 포함)의 단독 치료 요법",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-08-03",
+   "first_observed_at": "2026-09-08T08:54:35Z",
+   "last_observed_at": "2026-09-08T08:54:35Z"
+  },
+  {
+   "revision_id": "201901736-c717ff6a",
+   "content_sha256": "c717ff6a56b9cef3235851855b7700e95f21c352ffe2b2cda7b6144853764b2b",
+   "ee_text": "2차 이상의 백금기반요법에 반응(부분 또는 완전반응)한 백금민감성 재발성 고도장액성 난소암(난관암 또는 일차 복막암 포함) 성인 환자의 단독 유지요법 이전에 3차 이상의 항암화학요법을 투여 받은 적이 있는 1) BRCA 변이(백금 민감성 여부에 무관) 또는 2) 백금 민감성 상동재조합결핍 (HRD) 양성인 재발성 난소암(난관암 또는 일차 복막암 성인 환자 포함)의 단독 치료 요법",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-12-24",
+   "first_observed_at": "2026-09-08T08:54:35Z",
+   "last_observed_at": "2026-09-08T08:54:35Z"
+  },
+  {
+   "revision_id": "201901736-8a89c18f",
+   "content_sha256": "8a89c18f8f46488e494f57ba753ca40510722226dd794a2d5a07bbff6eeb248b",
+   "ee_text": "2차 이상의 백금기반요법에 반응(부분 또는 완전반응)한 백금민감성 재발성 고도장액성 난소암(난관암 또는 일차 복막암 포함) 성인 환자의 단독 유지요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-03-22",
+   "first_observed_at": "2026-09-08T08:54:35Z",
+   "last_observed_at": "2026-09-08T08:54:35Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:35Z"
+}

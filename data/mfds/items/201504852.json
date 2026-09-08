@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201504852",
+ "item_name": "루브리칸트프레쉬안연고(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20150714",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040676]유동파라핀|[M088336]백색바셀린",
+ "main_item_ingr_eng": "Liquid Paraffin/White Petrolatum",
+ "edi_code": "",
+ "atc_code": "S01XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504852",
+ "revisions": [
+  {
+   "revision_id": "201504852-b5a62681",
+   "content_sha256": "b5a626817bb1b98fb117ee580661271b18cd34acbd8f76e1ed2e6628bb1b85e0",
+   "ee_text": "- 안구의 작열감 예방 - 안구건조 경감",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:21Z",
+   "last_observed_at": "2026-09-08T08:49:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:21Z"
+}

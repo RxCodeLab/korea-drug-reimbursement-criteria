@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199806838",
+ "item_name": "하나알펜타닐주사",
+ "entp_name": "하나제약(주)",
+ "permit_date": "19980707",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247958]알펜타닐염산염",
+ "main_item_ingr_eng": "Alfentanil Hydrochloride",
+ "edi_code": "657802511",
+ "atc_code": "N01AH02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806838",
+ "revisions": [
+  {
+   "revision_id": "199806838-a46aa390",
+   "content_sha256": "a46aa390aa4939a93674b4f27d8c30630fa11c77e9b5af2b83c22086187cd78b",
+   "ee_text": "1) 아산화질소/산소와 함께 마취 유지 시 점적 정맥주사로 투여하는 진통보조제 2) 감시마취관리(Monitored Anesthesia Care) 시의 진통보조제 3) 기관내삽관이나 조절호흡이 필요한 전신수술에서 마취유도를 위한 1차 마취제 4) 바르비튜레이트/아산화질소/산소와 함께 마취유지 시 증량투여하는 진통보조제",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:26Z",
+   "last_observed_at": "2026-09-08T08:32:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:26Z"
+}

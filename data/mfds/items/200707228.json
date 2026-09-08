@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200707228",
+ "item_name": "로타텍액[경구용 약독화 로타생바이러스백신(사람-소 재배열)]",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "20070622",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M212872]약독 G1 재배열 로타생바이러스(바이러스주: 사람WI79-소WC3 재배열, 세포주: Vero)\r\n|[M212873]약독 G2 재배열 로타생바이러스(바이러스주: 사람SC2-소WC3 재배열, 세포주: Vero)\r\n|[M212874]약독 G3 재배열 로타생바이러스(바이러스주: 사람WI78-소WC3 재배열, 세포주: Vero)\r\n|[M212875]약독 G4 재배열 로타생바이러스(바이러스주: 사람BrB-소WC3 재배열, 세포주: Vero)\r\n|[M212876]약독 P1A[8] 재배열 로타생바이러스(바이러스주: 사람WI79-소WC3 재배열, 세포주: Vero)",
+ "main_item_ingr_eng": "Live Attenuated G1 Reassortant Rotavirus (Strain: Human WI79-Bovine WC3, Cell Strain: Vero)/Live Attenuated G2 Reassortant Rotavirus (Strain: Human SC2-Bovine WC3, Cell Strain: Vero)/Live Attenuated G3 Reassortant Rotavirus (Strain: Human WI78-Bovine WC3, Cell Strain: Vero)/Live Attenuated G4 Reassortant Rotavirus (Strain: Human BrB-Bovine WC3, Cell Strain: Vero)/Live Attenuated P1A[8] Reassortant Rotavirus (Strain: Human WI79-Bovine WC3, Cell Strain: Vero)",
+ "edi_code": "",
+ "atc_code": "J07BH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707228",
+ "revisions": [
+  {
+   "revision_id": "200707228-38f27fa9",
+   "content_sha256": "38f27fa9daa49c0716c442b6e7853b19751c34fd7ea8de58e013fb0bcf567733",
+   "ee_text": "영아에서 G1, G2, G3, G4, G9P1A[8] 혈청형 로타바이러스에 의한 위장관염 예방",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:37Z",
+   "last_observed_at": "2026-09-08T08:41:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:37Z"
+}

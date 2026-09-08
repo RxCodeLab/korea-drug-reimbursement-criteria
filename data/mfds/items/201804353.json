@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804353",
+ "item_name": "베포린비정(베포타스틴베실산염)",
+ "entp_name": "삼아제약(주)",
+ "permit_date": "20181101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255128]베포타스틴베실산염",
+ "main_item_ingr_eng": "Bepotastine Besylate",
+ "edi_code": "645702840",
+ "atc_code": "R06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804353",
+ "revisions": [
+  {
+   "revision_id": "201804353-8eb8216e",
+   "content_sha256": "8eb8216ec66b3bda43acd7bedc3272b83fa7309c7be1029d464048637e920e94",
+   "ee_text": "다년성 알레르기성 비염, 만성 두드러기, 피부질환에 수반된 소양증(습진·피부염, 피부소양증, 양진)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:47Z",
+   "last_observed_at": "2026-09-08T08:53:47Z",
+   "official_revision_date": "2018-11-01"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:47Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200707211",
+ "item_name": "플로손점안액(플루오로메톨론)(1회용), 플로손점안액(플루오로메톨론)",
+ "entp_name": "(주)옵투스제약",
+ "permit_date": "20070622",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051832]플루오로메톨론|[M051832]플루오로메톨론",
+ "main_item_ingr_eng": "Fluorometholone",
+ "edi_code": "674100212,674101331",
+ "atc_code": "S01BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707211",
+ "revisions": [
+  {
+   "revision_id": "200707211-40c017a9",
+   "content_sha256": "40c017a97e0173717b929a8a6c9f414a6cbd3adcc28d7ef51a90b662b4a31c2d",
+   "ee_text": "외안부의 및 전안부의 염증성 질환(안검염, 결막염, 각막염, 공막염, 상공막염, 홍채염, 홍채모양체염, 포도막염, 수술 후 염증 등)",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:36Z",
+   "last_observed_at": "2026-09-08T08:41:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:36Z"
+}

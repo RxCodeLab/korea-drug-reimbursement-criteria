@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606430",
+ "item_name": "마미센스정",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20161101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204304]피리독신염산염|[M223289]폴산|[M243439]판토텐산칼슘|[M254564]폴리말토오스수산화제이철착염|[M255994]시아노코발라민1000배산",
+ "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin Powder 0.1%/Ferric Hydroxide Polymaltose Complex/Folic Acid/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "B03AE10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606430",
+ "revisions": [
+  {
+   "revision_id": "201606430-a5305496",
+   "content_sha256": "a530549662c2efb6a0ebca71ed3399385e2f615d8d97b4b05f11b590410afdd2",
+   "ee_text": "○ 철 결핍성 빈혈의 예방 및 치료 ○ 다음경우의 비타민 B6의 보급 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하 시",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:18Z",
+   "last_observed_at": "2026-09-08T08:51:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:18Z"
+}

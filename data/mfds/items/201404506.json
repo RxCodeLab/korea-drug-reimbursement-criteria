@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:24:56Z",
  "revisions": [
   {
-   "revision_id": "201404506-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201404506-0e5039af",
+   "content_sha256": "0e5039af0cfde2b5940b7db977fa0344f6d2b58711242539e4cddc063aeea447",
+   "ee_text": "1. 마취유도 및/또는 마취유지의 진통. 2. 기계적 환기를 실시중인 중환자의 진통 및 진정(18세 이상)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201404506/EE",
    "first_observed_at": "2026-08-27T13:24:56Z",
-   "last_observed_at": "2026-08-28T13:24:38Z"
+   "last_observed_at": "2026-09-08T08:47:44Z",
+   "normalizer_version": 3
   }
  ]
 }

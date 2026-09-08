@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501119",
+ "item_name": "사포린정(사르포그렐레이트염산염)",
+ "entp_name": "(주)킵스바이오파마",
+ "permit_date": "20150304",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261406]사르포그렐레이트염산염",
+ "main_item_ingr_eng": "Sarpogrelate Hydrochloride",
+ "edi_code": "693201410",
+ "atc_code": "B01AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501119",
+ "revisions": [
+  {
+   "revision_id": "201501119-1a3496eb",
+   "content_sha256": "1a3496eb43aa8aba47e78aade57694acc1b573831936a29879366cd5eadb6378",
+   "ee_text": "만성 동맥폐색증(버거씨병, 폐색성동맥경화증, 당뇨병성말초혈관병증등)에 의한 궤양, 통증 및 냉감 등의 허혈성 증상 개선",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:34Z",
+   "last_observed_at": "2026-09-08T08:48:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:34Z"
+}

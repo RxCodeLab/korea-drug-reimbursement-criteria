@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200710378",
+ "item_name": "대한적십자사부산혈액원동결침전물제거혈장(동결침전물제거혈장)",
+ "entp_name": "대한적십자사부산혈액원",
+ "permit_date": "20070911",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M216713]동결침전물제거혈장",
+ "main_item_ingr_eng": "Plasma Cryoprecipitates",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710378",
+ "revisions": [
+  {
+   "revision_id": "200710378-ea7dd0de",
+   "content_sha256": "ea7dd0deb4e78d9329bdd667b35be45b1598ba4dc6ae8e13e1a4f3d109c92c9b",
+   "ee_text": "혈전성저혈소판혈증자색반병의 치료에 사용한다.",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:54Z",
+   "last_observed_at": "2026-09-08T08:41:54Z",
+   "official_revision_date": "2020-08-18"
+  },
+  {
+   "revision_id": "200710378-75e52cc7",
+   "content_sha256": "75e52cc7171d467f6a3956dfbcc577b061722cb2e0023b0873272f940877e6fd",
+   "ee_text": "동결침전물제거혈장은 혈전성혈소판감소성자반증의 치료에 사용한다",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:41:54Z",
+   "last_observed_at": "2026-09-08T08:41:54Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:54Z"
+}

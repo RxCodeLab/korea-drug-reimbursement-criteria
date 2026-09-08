@@ -7,19 +7,21 @@
  "permit_date": "20070118",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M089565]L-아스파라긴산-L-오르니친|[M223240]토코페롤아세테이트|[M081581]마늘유동엑스",
+ "main_item_ingr": "[M081581]마늘유동엑스|[M089565]L-아스파라긴산-L-오르니친|[M223240]토코페롤아세테이트",
  "main_item_ingr_eng": "Allium Sativum Fluid Extract/L-Ornithine-L-Aspartate Hydrate/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A05BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700758",
+ "history_fetched_at": "2026-08-28T13:24:11Z",
  "revisions": [
   {
-   "revision_id": "200700758-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200700758-5e57f5de",
+   "content_sha256": "5e57f5de9c94748ac8ef01af48c45c9444403cf7a77b6844f5fd84cb6391e93c",
+   "ee_text": "다음 질환의 보조 치료 : 간기능장애, 독성 간질환, 초기 간경변",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200700758/EE",
    "first_observed_at": "2026-08-28T13:24:11Z",
-   "last_observed_at": "2026-08-28T13:24:11Z"
+   "last_observed_at": "2026-09-08T08:40:55Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200700758-e4cabf21",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:11Z",
    "last_observed_at": "2026-08-28T13:24:11Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:11Z"
+ ]
 }

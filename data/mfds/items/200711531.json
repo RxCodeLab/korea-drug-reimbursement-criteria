@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711531",
+ "item_name": "케어덤로션0.05%(데소니드)",
+ "entp_name": "주식회사 노바엠헬스케어",
+ "permit_date": "20071023",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200279]데소니드",
+ "main_item_ingr_eng": "Desonide",
+ "edi_code": "073200671",
+ "atc_code": "D07AB08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711531",
+ "revisions": [
+  {
+   "revision_id": "200711531-dc1a2363",
+   "content_sha256": "dc1a2363f7bcbd4ada4eb267d9d4e703702555005874afe9a857b69eeec9ddc0",
+   "ee_text": "코르티코스테로이드제에 반응하는 피부질환의 가려움 및 염증의 경감",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:59Z",
+   "last_observed_at": "2026-09-08T08:41:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:59Z"
+}

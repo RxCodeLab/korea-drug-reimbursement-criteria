@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201598",
+ "item_name": "한국유나이티드닥티노마이신주(수출용)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "19921228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085416]닥티노마이신",
+ "main_item_ingr_eng": "Dactinomycin",
+ "edi_code": "",
+ "atc_code": "L01DA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201598",
+ "revisions": [
+  {
+   "revision_id": "199201598-ecda1729",
+   "content_sha256": "ecda1729a6ba24dc1d3ec6c3f5a5616f0a8eedbddd32ba79e27cb7ec43fcfdae",
+   "ee_text": "윌름즈종양, 융모상피종, 파괴성포상기태, 횡문근육종, 고환종양, 유잉육종, 포도상육종(방사선 요법과 병용시 좋은 효과를 나타낼 수 있다.)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:28Z",
+   "last_observed_at": "2026-09-08T08:28:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:28Z"
+}

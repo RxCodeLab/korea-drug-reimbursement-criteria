@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801147",
+ "item_name": "로치실정(프로필티오우라실)(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20180313",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M223317]프로필티오우라실",
+ "main_item_ingr_eng": "Propylthiouracil",
+ "edi_code": "",
+ "atc_code": "H03BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801147",
+ "revisions": [
+  {
+   "revision_id": "201801147-8891b45d",
+   "content_sha256": "8891b45db07732fc0728c1eca0fe5792fd4c4f635785a2f3aa3e145c562bef42",
+   "ee_text": "갑상선기능항진증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:56Z",
+   "last_observed_at": "2026-09-08T08:52:56Z",
+   "official_revision_date": "2018-03-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:56Z"
+}

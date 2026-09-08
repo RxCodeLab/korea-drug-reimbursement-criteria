@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601088",
+ "item_name": "속코제로캡슐",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20260415",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050446]메퀴타진|[M086528]벨라돈나총알칼로이드|[M203364]슈도에페드린염산염|[M223183]카페인무수물|[M256386]글리시리진산이칼륨",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Belladonna Total Alkaloid/Dipotassium Glycyrrhizinate/Mequitazine/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601088",
+ "revisions": [
+  {
+   "revision_id": "202601088-23c66616",
+   "content_sha256": "23c66616cff2bf2abecc2edaa029791a8c335c6b0c03b6e7579d2df4128999bf",
+   "ee_text": "코감기(급성 비염(코염)), 알레르기성 비염(코염) 또는 부비동염에 의한 다음 증상의 완화 : 코막힘, 콧물, 재채기, 눈물, 인후(목구멍)통, 머리 무거움",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:01Z",
+   "last_observed_at": "2026-09-08T09:05:01Z",
+   "official_revision_date": "2026-04-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:01Z"
+}

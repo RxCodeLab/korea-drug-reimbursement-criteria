@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "N05CH01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201219",
+ "history_fetched_at": "2026-08-27T13:25:10Z",
  "revisions": [
   {
    "revision_id": "202201219-7d0674a4",
@@ -19,9 +20,9 @@
    "ee_text": "밤에 깊은 잠을 잘 수 있도록 도움을 줌, 시차 증상을 줄일 수 있음",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:25:10Z",
-   "last_observed_at": "2026-08-27T13:25:10Z",
-   "official_revision_date": "2022-03-28"
+   "last_observed_at": "2026-09-08T09:01:13Z",
+   "official_revision_date": "2022-03-28",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:25:10Z"
+ ]
 }

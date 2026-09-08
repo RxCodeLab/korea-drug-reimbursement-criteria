@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501317",
+ "item_name": "니스틴정(니스타틴)(수출용)(수출명:IntermedicNystatintablet)",
+ "entp_name": "천우신약(주)",
+ "permit_date": "20050920",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020020]니스타틴",
+ "main_item_ingr_eng": "Nystatin",
+ "edi_code": "",
+ "atc_code": "A07AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501317",
+ "revisions": [
+  {
+   "revision_id": "200501317-85a57598",
+   "content_sha256": "85a575985bc1eb91e66baea00a5baeaa29e86cf3e08ac392b8306cdcae7e3b0e",
+   "ee_text": "(정제)(시럽제) ○ 유효균종 칸디다 ○ 적응증 소화관칸디다증, 구강칸디다증 (질좌제) ○ 유효균종 칸디다 ○ 적응증 외음질칸디다증",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:08Z",
+   "last_observed_at": "2026-09-08T08:39:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:08Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401424",
+ "item_name": "인타신첩부제(인도메타신)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20040317",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040508]인도메타신",
+ "main_item_ingr_eng": "Indometacin",
+ "edi_code": "",
+ "atc_code": "M02AA23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401424",
+ "revisions": [
+  {
+   "revision_id": "200401424-231ebd00",
+   "content_sha256": "231ebd00952c5e5c938fac61baf8fff6aa5bc05b03d3e6f4f35108437c6b32e3",
+   "ee_text": "다음 질환 및 증상의 진통•소염(항염): 퇴행성 관절염(골관절염), 어깨관절주위염, 건(힘줄)•건초염(힘줄윤활막염), 건주위염, 상완골(위팔뼈)상과염 (테니스엘보우 등), 근육통, 외상(상처)후의 종창(부기)•동통(통증)",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:48Z",
+   "last_observed_at": "2026-09-08T08:37:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:48Z"
+}

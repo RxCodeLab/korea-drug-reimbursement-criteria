@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002075",
+ "item_name": "한풍감초엑스정",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20200325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M116722]감초 연조엑스(2.4~2.9→1)",
+ "main_item_ingr_eng": "Glycyrrhiza Soft Extract (2.4~2.9→1)",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002075",
+ "revisions": [
+  {
+   "revision_id": "202002075-0f17433b",
+   "content_sha256": "0f17433b9658a846d22e3345c5a0aa8dbec304160573c883e00ff65d04dd9385",
+   "ee_text": "조제용",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:11Z",
+   "last_observed_at": "2026-09-08T08:58:11Z",
+   "official_revision_date": "2020-03-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:11Z"
+}

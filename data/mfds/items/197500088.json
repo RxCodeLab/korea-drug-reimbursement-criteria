@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197500088",
+ "item_name": "암포젤정(건조수산화알루미늄겔)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "19751125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M229291]건조수산화알루미늄 겔",
+ "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel",
+ "edi_code": "",
+ "atc_code": "A02AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197500088",
+ "revisions": [
+  {
+   "revision_id": "197500088-2832a483",
+   "content_sha256": "2832a483b70837e4a0ddd551b889b205b47d2af4c2c376677ea23f34e9c38889",
+   "ee_text": "1. 주효능 효과 다음 질환의 제산작용 및 증상의 개선 : 위.십이지장궤양, 위염, 위산과다",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:21Z",
+   "last_observed_at": "2026-09-08T08:26:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:21Z"
+}

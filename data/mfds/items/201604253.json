@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604253",
+ "item_name": "플레그리디펜주125마이크로그램(페그인터페론베타-1a,유전자재조합)",
+ "entp_name": "한국에자이(주)",
+ "permit_date": "20160711",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264255]페그인터페론베타-1a",
+ "main_item_ingr_eng": "Peginterferon Beta-1A",
+ "edi_code": "621100211",
+ "atc_code": "L03AB13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604253",
+ "revisions": [
+  {
+   "revision_id": "201604253-5e3b2d61",
+   "content_sha256": "5e3b2d613909277d4be36573d3fbea49167dc4c7fd8bf1c8750042aa2fcac209",
+   "ee_text": "재발성 다발성 경화증의 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:59Z",
+   "last_observed_at": "2026-09-08T08:50:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:59Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103414",
+ "item_name": "아크리프크림0.005%(트리파로텐)",
+ "entp_name": "갈더마코리아(주)",
+ "permit_date": "20210427",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279030]트리파로텐",
+ "main_item_ingr_eng": "Trifarotene",
+ "edi_code": "",
+ "atc_code": "D10AD06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103414",
+ "revisions": [
+  {
+   "revision_id": "202103414-5bae452b",
+   "content_sha256": "5bae452b6d89847fe75f108ba8f693c1c038bc024a271cda6e52fc7014b62ad6",
+   "ee_text": "만 9세 이상에서 면포, 구진, 농포가 나타나는 중등도 여드름의 국소치료(얼굴 또는 몸통)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:08Z",
+   "last_observed_at": "2026-09-08T09:00:08Z",
+   "official_revision_date": "2021-04-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:08Z"
+}

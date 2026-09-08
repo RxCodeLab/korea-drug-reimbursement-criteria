@@ -7,11 +7,12 @@
  "permit_date": "20020410",
  "cancel_date": "20230927",
  "status": "폐업",
- "main_item_ingr": "[M040216]백지|[M040329]승마|[M040048]길경|[M210181]내복자|[M050041]고본|[M040789]황금|[M040004]갈근",
+ "main_item_ingr": "[M040004]갈근|[M040048]길경|[M040216]백지|[M040329]승마|[M040789]황금|[M050041]고본|[M210181]내복자",
  "main_item_ingr_eng": "Angelica Dahurica Root/Cimicifuga Rhizome/Ligustici Tenuissimi Rhizoma et Radix/Platycodon Root/Pueraria Root/Raphani Semen/Scutellaria Root",
  "edi_code": "",
  "atc_code": "A16AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200115",
+ "history_fetched_at": "2026-08-28T13:23:59Z",
  "revisions": [
   {
    "revision_id": "200200115-49d5e1af",
@@ -19,9 +20,9 @@
    "ee_text": "태음인의 구역, 구토",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:23:59Z",
-   "last_observed_at": "2026-08-28T13:23:59Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:35:59Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:59Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403836",
+ "item_name": "브린텔릭스정10밀리그램(보티옥세틴브롬화수소산염)",
+ "entp_name": "한국룬드벡(주)",
+ "permit_date": "20140819",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260128]보티옥세틴브롬화수소산염",
+ "main_item_ingr_eng": "Vortioxetine Hydrobromide",
+ "edi_code": "668000110",
+ "atc_code": "N06AX26",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403836",
+ "revisions": [
+  {
+   "revision_id": "201403836-0a2479f6",
+   "content_sha256": "0a2479f6d4bbcfef2d52b3f9bbbaab414b89d139c9f8f731ebae13d81e0bd38e",
+   "ee_text": "주요우울장애의 치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:32Z",
+   "last_observed_at": "2026-09-08T08:47:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:32Z"
+}

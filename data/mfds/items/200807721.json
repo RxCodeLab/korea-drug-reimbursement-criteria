@@ -7,21 +7,22 @@
  "permit_date": "20080711",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M247355]황산제이구리수화물|[M246028]황산망간수화물|[M223289]폴산|[M265578]시아노코발라민1000배산|[M227509]아스코르브산97%과립|[M222934]글루콘산제일철수화물",
+ "main_item_ingr": "[M222934]글루콘산제일철수화물|[M223289]폴산|[M227509]아스코르브산97%과립|[M246028]황산망간수화물|[M247355]황산제이구리수화물|[M265578]시아노코발라민1000배산",
  "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Cupric Sulfate Hydrate/Cyanocobalamin Powder 0.1%/Ferrous Gluconate Hydrate/Folic Acid/Manganese Sulfate Hydrate",
  "edi_code": "",
  "atc_code": "B03AE10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807721",
+ "history_fetched_at": "2026-08-28T13:24:18Z",
  "revisions": [
   {
-   "revision_id": "200807721-518264a7",
-   "content_sha256": "518264a7bb79aa56f0faa3b407decceb8310235a9342fd4f2bd9f9f77c51f399",
-   "ee_text": "- 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후의 체력저하시",
+   "revision_id": "200807721-4ba7cc40",
+   "content_sha256": "4ba7cc405adbc63c45f2356459351765b1e280943bb1162ea98d93dff432b899",
+   "ee_text": "ㆍ다음 경우의 비타민 C의 보급 - 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후의 체력저하시 ㆍ철 결핍성 빈혈의 예방 및 치료",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:24:18Z",
-   "last_observed_at": "2026-08-28T13:24:18Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:42:43Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:18Z"
+ ]
 }

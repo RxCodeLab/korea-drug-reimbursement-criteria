@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197000076",
+ "item_name": "보나링에이정(디멘히드리네이트)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19700416",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040096]디멘히드리네이트",
+ "main_item_ingr_eng": "Dimenhydrinate",
+ "edi_code": "641700560",
+ "atc_code": "A04AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197000076",
+ "revisions": [
+  {
+   "revision_id": "197000076-0c08cf33",
+   "content_sha256": "0c08cf33c0d01a6c747ae0607947cd93d31d9ea0121f23af02d7b62a89311b18",
+   "ee_text": "(경구 : 정제, 시럽제) 1. 주효능·효과 1) 멀미·메니에르증후군·방사선숙취에 의한 구역·구토·어지러움 2) 수술후 구역·구토 (경구 : 껌정) 멀미에 의한 어지러움·구토·두통의 예방 및 완화",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:16Z",
+   "last_observed_at": "2026-09-08T08:26:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:16Z"
+}

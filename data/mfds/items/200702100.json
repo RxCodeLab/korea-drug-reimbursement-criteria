@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200702100",
+ "item_name": "레보스정(레보드로프로피진)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20070215",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090122]레보드로프로피진",
+ "main_item_ingr_eng": "Levodropropizine",
+ "edi_code": "621802120",
+ "atc_code": "R05DB27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702100",
+ "revisions": [
+  {
+   "revision_id": "200702100-6ff67135",
+   "content_sha256": "6ff67135b99854fda74c622615959fdcb2c44025c131889c321deeef21b8bec0",
+   "ee_text": "다음 질환에서의 기침 :급·만성기관지염",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:04Z",
+   "last_observed_at": "2026-09-08T08:41:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:04Z"
+}

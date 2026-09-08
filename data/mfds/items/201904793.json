@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904793",
+ "item_name": "파마테오브로민캡슐",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20190717",
+ "cancel_date": "20240717",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M253552]테오브로민",
+ "main_item_ingr_eng": "Theobromine",
+ "edi_code": "",
+ "atc_code": "R03DA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904793",
+ "revisions": [
+  {
+   "revision_id": "201904793-0c6ed8b8",
+   "content_sha256": "0c6ed8b8ceb67e7efdbcd4646b05f9c48e27b61842ee5f7d9ec726a028c3335f",
+   "ee_text": "하기 질환으로 인한 기침의 완화 1) 비염, 부비동염 또는 비인후염에 의한 후비루 2) 급∙만성기관지염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:52Z",
+   "last_observed_at": "2026-09-08T08:55:52Z",
+   "official_revision_date": "2019-07-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:52Z"
+}

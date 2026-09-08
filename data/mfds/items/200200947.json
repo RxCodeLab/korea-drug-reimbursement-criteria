@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200947",
+ "item_name": "맨담케토플라스타(케토프로펜)",
+ "entp_name": "(주)보령",
+ "permit_date": "20020413",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200947",
+ "revisions": [
+  {
+   "revision_id": "200200947-d9fc9bcf",
+   "content_sha256": "d9fc9bcf6e2571977fdef297630ba38a20ac0e96f058b90eb3a8819c59ecf70b",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염[항염] : 퇴행성관절염(골[뼈]관절염), 어깨관절주위염, 건ㆍ건초염[힘줄염ㆍ힘줄윤활막염], 건[힘줄]주위염, 상완골[위팔뼈]상과염(테니스 엘보우 등), 근육통, 외상[상처]후의 종창[부기]ㆍ동통[통증]",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:08Z",
+   "last_observed_at": "2026-09-08T08:36:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:08Z"
+}

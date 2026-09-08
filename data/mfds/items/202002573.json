@@ -7,11 +7,12 @@
  "permit_date": "20200410",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M258994]아스코르브산|[M204410]D-소르비톨|[M223336]피코설페이트나트륨수화물",
+ "main_item_ingr": "[M204410]D-소르비톨|[M223336]피코설페이트나트륨수화물|[M258994]아스코르브산",
  "main_item_ingr_eng": "Ascorbic Acid/D-Sorbitol/Sodium Picosulfate Hydrate",
  "edi_code": "",
  "atc_code": "A06AB58",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002573",
+ "history_fetched_at": "2026-08-28T13:25:17Z",
  "revisions": [
   {
    "revision_id": "202002573-b125b022",
@@ -19,9 +20,9 @@
    "ee_text": "대장(X선, 내시경) 검사 시의 전처치용 장세척",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:17Z",
-   "last_observed_at": "2026-08-28T13:25:17Z",
-   "official_revision_date": "2020-04-10"
+   "last_observed_at": "2026-09-08T08:58:22Z",
+   "official_revision_date": "2020-04-10",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:17Z"
+ ]
 }

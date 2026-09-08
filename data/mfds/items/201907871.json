@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907871",
+ "item_name": "엑소티핀액1%(나프티핀염산염)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20191112",
+ "cancel_date": "20241112",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M253457]나프티핀염산염",
+ "main_item_ingr_eng": "Naftifine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "D01AE22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907871",
+ "revisions": [
+  {
+   "revision_id": "201907871-e816ae97",
+   "content_sha256": "e816ae9750c40a20f28d41f240040bf05a28bb1bc356e0c7bbb2bca4cb2c909e",
+   "ee_text": "다음의 피부진균증 1) 백선 : 족부백선, 수부백선, 고부백선(완선), 체부백선 2) 피부칸디다증 3) 어루러기 4) 조갑(손ㆍ발톱) 진균증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:01Z",
+   "last_observed_at": "2026-09-08T08:57:01Z",
+   "official_revision_date": "2019-11-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:01Z"
+}

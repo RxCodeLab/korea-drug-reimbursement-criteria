@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303315",
+ "item_name": "대성의료종합가스의료용아산화질소",
+ "entp_name": "대성의료종합가스(주)",
+ "permit_date": "20231211",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040349]아산화질소",
+ "main_item_ingr_eng": "Nitrous Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303315",
+ "revisions": [
+  {
+   "revision_id": "202303315-72c872cd",
+   "content_sha256": "72c872cdcff9311df451863486e41dfc8fc3601a36162405959417ea4179828c",
+   "ee_text": "전신마취 진통 및 진정.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:33Z",
+   "last_observed_at": "2026-09-08T09:02:33Z",
+   "official_revision_date": "2023-12-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:33Z"
+}

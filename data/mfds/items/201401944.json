@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401944",
+ "item_name": "장제로정",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20140422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M081950]도큐세이트나트륨",
+ "main_item_ingr_eng": "Bisacodyl/Docusate Sodium",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401944",
+ "revisions": [
+  {
+   "revision_id": "201401944-1cdb72fb",
+   "content_sha256": "1cdb72fbb9ea1f0fee692c9a677ad81a7ed80d608354c99363590ff176deda5a",
+   "ee_text": "·변비 ·변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:58Z",
+   "last_observed_at": "2026-09-08T08:46:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:58Z"
+}

@@ -12,16 +12,17 @@
  "edi_code": "645100863",
  "atc_code": "B05XA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400077",
+ "history_fetched_at": "2026-08-28T13:23:37Z",
  "revisions": [
   {
-   "revision_id": "197400077-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "197400077-c6c0c80c",
+   "content_sha256": "c6c0c80c4941a1022c9f332c61d30110c3757923889a0a9b62e249fe2e6a65dc",
+   "ee_text": "1. 저칼륨혈증(이뇨제 투여후의 저칼륨혈증 포함) 2. 디기탈리스 중독",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:23:37Z",
-   "last_observed_at": "2026-08-28T13:23:37Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:20Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:37Z"
+ ]
 }

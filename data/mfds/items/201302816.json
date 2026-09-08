@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201302816",
+ "item_name": "나조큐어나잘스프레이(모메타손푸로에이트)",
+ "entp_name": "국제약품(주)",
+ "permit_date": "20130130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070188]모메타손푸로에이트",
+ "main_item_ingr_eng": "Mometasone Furoate",
+ "edi_code": "643703601",
+ "atc_code": "R01AD09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201302816",
+ "revisions": [
+  {
+   "revision_id": "201302816-031ff351",
+   "content_sha256": "031ff351001020dfa17ca3ff626ee3fe3a74105848dd033dedf21013f475bb41",
+   "ee_text": "1. 성인 및 2세 이상의 소아 : 계절 알레르기비염 및 연중비염. 중등도∼중증의 계절 알레르기 비염의 증상이 있었던 환자에서 예방요법은 화분기 시작예정일(알러젠 노출예정일)의 2주～4주 전에 시작할 수 있다. 2. 18세 이상의 성인 : 비용종 3. 성인 및 12세 이상의 청소년 : 중증의 세균 감염이 없는 급성 비부비동염",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:46Z",
+   "last_observed_at": "2026-09-08T08:45:46Z",
+   "official_revision_date": "2021-01-04"
+  },
+  {
+   "revision_id": "201302816-dddb669b",
+   "content_sha256": "dddb669ba5cf06699fc8b700f290a2497feafc5727520d2fb1a0277ff7e098c4",
+   "ee_text": "1. 성인 및 2세 이상의 소아 : 계절성 알러지성 비염의 예방 및 치료. 다년성 비염의 치료. 예방요법은 화분기 시작예정일(알러젠 노출예정일)의 2주～4주 전에 시작할 수 있다. 2. 18세 이상의 성인에서의 비용종의 치료 3. 성인 및 12세 이상의 청소년에서의 중증의 세균 감염이 없는 급성 비부비동염의 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:46Z",
+   "last_observed_at": "2026-09-08T08:45:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:46Z"
+}

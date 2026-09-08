@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "L01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200091",
+ "history_fetched_at": "2026-08-27T12:23:53Z",
  "revisions": [
   {
    "revision_id": "201200091-e97c9de8",
@@ -19,9 +20,9 @@
    "ee_text": "간세포암종의 치료",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-27T12:23:53Z",
-   "last_observed_at": "2026-08-27T12:23:53Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:45:07Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:23:53Z"
+ ]
 }

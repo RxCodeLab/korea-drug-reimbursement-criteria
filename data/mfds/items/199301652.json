@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199301652",
+ "item_name": "페르본주사50밀리그람(폴리네이트칼슘)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19930729",
+ "cancel_date": "20250109",
+ "status": "취하",
+ "main_item_ingr": "[M099285]폴리네이트칼슘",
+ "main_item_ingr_eng": "Calcium Folinate",
+ "edi_code": "",
+ "atc_code": "V03AF03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301652",
+ "revisions": [
+  {
+   "revision_id": "199301652-d4aff390",
+   "content_sha256": "d4aff3908dd9e30a857e5611f9343cc6fefa3118380cb62c419e2be871380307",
+   "ee_text": "1. 엽산대사길항제의 독성 경감 2. 진행성대장암에서의 5-Fluorouracil(5-FU)과의 병용투여",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:49Z",
+   "last_observed_at": "2026-09-08T08:28:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:49Z"
+}

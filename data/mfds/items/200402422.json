@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402422",
+ "item_name": "이텍스부설판정(부설판)(수출용)(수출명:ETEXBUSULFANTabs.,TasulfanTabs.2mg)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20040720",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040226]부설판",
+ "main_item_ingr_eng": "Busulfan",
+ "edi_code": "",
+ "atc_code": "L01AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402422",
+ "revisions": [
+  {
+   "revision_id": "200402422-dc963600",
+   "content_sha256": "dc96360040840d8686f53f817e6f858bbcb6bd4860b27ac1324741ea3490e922",
+   "ee_text": "만성 과립구성 백혈병, 진성 다혈구 혈증의 경감유도 특히 방사선 동위원소인 인(P32) 요법에 내성이 생긴 경우나 현저한 혈소판 증가증이 있는 경우에 유효하다. 진성 혈소판 혈증이나 골수 섬유증에도 사용할 수 있다.",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:03Z",
+   "last_observed_at": "2026-09-08T08:38:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:03Z"
+}

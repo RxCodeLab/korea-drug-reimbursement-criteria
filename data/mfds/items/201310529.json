@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310529",
+ "item_name": "한국원자력의학원요오드123 에프피씨아이티주사액",
+ "entp_name": "한국원자력의학원",
+ "permit_date": "20131204",
+ "cancel_date": "20231204",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M252014]N-(3-플루오르프로필)-2베타-카르복시-메톡시-3베타-(4-[123I]아이오도페닐)-트로판",
+ "main_item_ingr_eng": "N-3-(Fluoroprolyl)-2Beta-Carbomethoxy-3Beta-(4-[123I]Iodophenyl)Nortropane",
+ "edi_code": "",
+ "atc_code": "V09AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310529",
+ "revisions": [
+  {
+   "revision_id": "201310529-7b814da9",
+   "content_sha256": "7b814da9254f68dc922caa0a5ccc858b0ab49c57caf98217d36915e8a27d3a22",
+   "ee_text": "이 약은 도파민성 신경퇴행을 의심하게 하는 증상과 징후를 보이는 환자(파킨슨 병을 포함한 파킨슨증, 본태성 진전)에서 단일광자방출단층촬영(SPECT) 영상을 이용하여 흑질선조체 도파민 신경세포 소실 여부를 평가하기 위하여 사용한다.",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:34Z",
+   "last_observed_at": "2026-09-08T08:46:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:34Z"
+}

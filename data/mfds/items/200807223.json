@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200807223",
+ "item_name": "스토프정",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20080630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084756]현초가루|[M223039]베르베린염화물수화물|[M223110]아크리놀수화물",
+ "main_item_ingr_eng": "Acrinol Hydrate/Berberine Chloride Hydrate/Geranium Herb Powder",
+ "edi_code": "",
+ "atc_code": "A07AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807223",
+ "revisions": [
+  {
+   "revision_id": "200807223-1d914b41",
+   "content_sha256": "1d914b4143613a0c9c4ae07070e163524f6fb085b4b522ee9b9d72fcc1fae60e",
+   "ee_text": "설사, 체함, 묽은 변, 토사",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:40Z",
+   "last_observed_at": "2026-09-08T08:42:40Z",
+   "official_revision_date": "2020-01-16"
+  },
+  {
+   "revision_id": "200807223-09d4f272",
+   "content_sha256": "09d4f27280304e371f7fcb77c52d6ccef53a2d48809442da2ffe6a8b857cb6e5",
+   "ee_text": "설사, 식체, 묽은 변, 토사",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:40Z",
+   "last_observed_at": "2026-09-08T08:42:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:40Z"
+}

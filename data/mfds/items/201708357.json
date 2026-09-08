@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708357",
+ "item_name": "동구콜레칼시페롤주300,000IU",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20171213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040594]콜레칼시페롤",
+ "main_item_ingr_eng": "Cholecalciferol",
+ "edi_code": "",
+ "atc_code": "A11CC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708357",
+ "revisions": [
+  {
+   "revision_id": "201708357-db90837b",
+   "content_sha256": "db90837b2aaf508030f2fb0ba578fa124f399938c9d1345ab034868a6fef9d70",
+   "ee_text": "흡수장애가 있는 비타민D결핍증의 위험이 높은 성인에서 비타민 D 결핍의 예방 및 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:39Z",
+   "last_observed_at": "2026-09-08T08:52:39Z",
+   "official_revision_date": "2017-12-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:39Z"
+}

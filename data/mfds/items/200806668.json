@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806668",
+ "item_name": "카나쿨린정(칼리디노게나제)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20080618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082140]칼리디노게나제",
+ "main_item_ingr_eng": "Kallidinogenase",
+ "edi_code": "670302150",
+ "atc_code": "C04AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806668",
+ "revisions": [
+  {
+   "revision_id": "200806668-6326af0f",
+   "content_sha256": "6326af0ff1c7a7d797d28cff9d1c95cfe61196cb2ce41ef0e1b17f0c8a8215b6",
+   "ee_text": "1. 다음 질환에 의한 말초순환장애 : 고혈압, 메니에르증후군, 폐색성혈전혈관염(버거병) 2. 갱년기장애, 망맥락막의 순환장애에 의한 여러 증상의 개선",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:36Z",
+   "last_observed_at": "2026-09-08T08:42:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:36Z"
+}

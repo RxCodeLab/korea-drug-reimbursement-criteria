@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198601380",
+ "item_name": "소아용코판시럽(클렌부테롤염산염)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "19860328",
+ "cancel_date": "20250101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222889]클렌부테롤염산염",
+ "main_item_ingr_eng": "Clenbuterol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R03CC13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198601380",
+ "revisions": [
+  {
+   "revision_id": "198601380-c5a5f39e",
+   "content_sha256": "c5a5f39e05bbdf31cac2fe99acb16c66d463348fc86475c6a26c1f17882d6769",
+   "ee_text": "다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식 흡입제를 사용할 수 없는 환자에서 사용한다.",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:15Z",
+   "last_observed_at": "2026-09-08T08:27:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:15Z"
+}

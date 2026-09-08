@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500361",
+ "item_name": "퓨어아크네크림(수출용)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20050425",
+ "cancel_date": "20251016",
+ "status": "취하",
+ "main_item_ingr": "[M085085]히드리스벤조일퍼옥시드",
+ "main_item_ingr_eng": "Hydrous Benzoyl Peroxide",
+ "edi_code": "",
+ "atc_code": "D10AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500361",
+ "revisions": [
+  {
+   "revision_id": "200500361-acdb17bd",
+   "content_sha256": "acdb17bd87a80739e792f02a68074312933eb1b5877b83d235996897fd07a885",
+   "ee_text": "심상성여드름(보통여드름)",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:52Z",
+   "last_observed_at": "2026-09-08T08:38:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:52Z"
+}

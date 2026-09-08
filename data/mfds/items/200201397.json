@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201397",
+ "item_name": "프리비투스현탁액(레보클로페라스틴펜디조산염)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20020214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247577]레보클로페라스틴펜디조산염|[M247577]레보클로페라스틴펜디조산염|[M247577]레보클로페라스틴펜디조산염|[M247577]레보클로페라스틴펜디조산염",
+ "main_item_ingr_eng": "Levocloperastine Fendizoate",
+ "edi_code": "671803511,671803514",
+ "atc_code": "R05DB21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201397",
+ "revisions": [
+  {
+   "revision_id": "200201397-0414c643",
+   "content_sha256": "0414c643b5e383ae87299682faa10a5b46d6ea512eb066aab4dccf9d781a634a",
+   "ee_text": "기침의 완화",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:12Z",
+   "last_observed_at": "2026-09-08T08:36:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:12Z"
+}

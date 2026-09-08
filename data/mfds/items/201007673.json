@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201007673",
+ "item_name": "루미간점안액0.01%(비마토프로스트)",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20101224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100596]비마토프로스트",
+ "main_item_ingr_eng": "Bimatoprost",
+ "edi_code": "624900481",
+ "atc_code": "S01EE03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007673",
+ "revisions": [
+  {
+   "revision_id": "201007673-82518bd4",
+   "content_sha256": "82518bd417ce68b34eb6d9fd56ac123606e582e810e4aaa415cfc7d14be951a7",
+   "ee_text": "다음 질환의 안압하강 : 개방각 녹내장, 고안압증",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:20Z",
+   "last_observed_at": "2026-09-08T08:44:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:20Z"
+}

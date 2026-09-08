@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801610",
+ "item_name": "포토프린주사75밀리그램(포르피머나트륨)",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20080211",
+ "cancel_date": "20250731",
+ "status": "취하",
+ "main_item_ingr": "[M096205]포르피머나트륨",
+ "main_item_ingr_eng": "Porfimer Sodium",
+ "edi_code": "",
+ "atc_code": "L01XD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801610",
+ "revisions": [
+  {
+   "revision_id": "200801610-6e8615c7",
+   "content_sha256": "6e8615c70851f3bdee7b1dd570c4207b00aea2f27a4ebafa4b61a9a044995bcc",
+   "ee_text": "포토프린을 이용한 광역학요법을 다음에 적용할 수 있다. - 완전 폐쇄성 식도암 또는 Nd:YAG 레이저술로 충분히 치료할 수 없 는 부분 폐쇄성 식도암 환자의 완화 - 완전 또는 부분 폐쇄성 기관지내의 비소세포폐암(NSCLC)환자의 폐쇄 감소와 증상의 완화",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:16Z",
+   "last_observed_at": "2026-09-08T08:42:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:16Z"
+}

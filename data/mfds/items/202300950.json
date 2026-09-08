@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300950",
+ "item_name": "카빅티주(실타캅타젠오토류셀)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20230316",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283594]실타캅타젠오토류셀|[M283594]실타캅타젠오토류셀",
+ "main_item_ingr_eng": "Ciltacabtagene Autoleucel",
+ "edi_code": "",
+ "atc_code": "L01XL05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300950",
+ "revisions": [
+  {
+   "revision_id": "202300950-5b3282b8",
+   "content_sha256": "5b3282b8d05217ac35597c12ec49c2ff53a987d8100b92d986a71989ceab259b",
+   "ee_text": "이전에 프로테아좀억제제 및 면역조절제제를 포함하여 1차 이상의 치료를 받은 경우로서 레날리도마이드에 불응한 재발 또는 불응성 다발골수종의 치료",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:55Z",
+   "last_observed_at": "2026-09-08T09:01:55Z",
+   "official_revision_date": "2025-11-28"
+  },
+  {
+   "revision_id": "202300950-5cf05f4e",
+   "content_sha256": "5cf05f4e538d9318651e4c247083a8562fc05c25dc0fa28215c4d436ec6745c0",
+   "ee_text": "이전에 프로테아좀억제제, 면역조절제제, 항-CD38 항체를 포함하여 적어도 4가지 치료를 받은 재발 또는 불응성 다발골수종의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-03-16",
+   "first_observed_at": "2026-09-08T09:01:55Z",
+   "last_observed_at": "2026-09-08T09:01:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:55Z"
+}

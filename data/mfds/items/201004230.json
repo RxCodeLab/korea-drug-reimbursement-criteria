@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004230",
+ "item_name": "모니메이트정(모니플루메이트)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20100629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092795]모니플루메이트",
+ "main_item_ingr_eng": "Morniflumate",
+ "edi_code": "648102910",
+ "atc_code": "M01AX22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004230",
+ "revisions": [
+  {
+   "revision_id": "201004230-17924304",
+   "content_sha256": "17924304c49c97f008ec0dff01b250befbe3233a06d725c98601a2aba874ab44",
+   "ee_text": "다음 질환 및 증상의 진통, 소염 - 호흡기질환 (후두염, 기관염, 기관지염) - 이비인후과질환 (부비동염, 이염, 편도염, 인두염) - 골관절질환",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:07Z",
+   "last_observed_at": "2026-09-08T08:44:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:07Z"
+}

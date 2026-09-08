@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503786",
+ "item_name": "뉴헴포르테시럽(수출용)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20150611",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050081]글루콘산망간|[M085156]글루콘산구리|[M222934]글루콘산제일철수화물",
+ "main_item_ingr_eng": "Copper Gluconate/Ferrous Gluconate Hydrate/Manganese Gluconate",
+ "edi_code": "",
+ "atc_code": "B03AE10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503786",
+ "revisions": [
+  {
+   "revision_id": "201503786-4a80c7a8",
+   "content_sha256": "4a80c7a87282f21cc035b399dd21b9d097785020ba7cd89ff9d123472d9a6c7a",
+   "ee_text": "1. 철 결핍성 빈혈 2. 철분 결핍의 예방 및 치료 : 임산부, 미숙아, 쌍둥이, 철 결핍모 신생아",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:12Z",
+   "last_observed_at": "2026-09-08T08:49:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:12Z"
+}

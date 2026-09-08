@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906285",
+ "item_name": "동아제약미니보라정",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20190904",
+ "cancel_date": "20240904",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M095487]레보노르게스트렐|[M223147]에티닐에스트라디올",
+ "main_item_ingr_eng": "Ethinyl Estradiol/Levonorgestrel",
+ "edi_code": "",
+ "atc_code": "G03AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906285",
+ "revisions": [
+  {
+   "revision_id": "201906285-3ce3ac5f",
+   "content_sha256": "3ce3ac5f80b0228deb555aefefaf2e7ddaca7d1c1ba78cd2d1d13a611f474189",
+   "ee_text": "피임",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:18Z",
+   "last_observed_at": "2026-09-08T08:56:18Z",
+   "official_revision_date": "2019-09-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:18Z"
+}

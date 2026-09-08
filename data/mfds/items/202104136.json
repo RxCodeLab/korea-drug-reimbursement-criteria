@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104136",
+ "item_name": "속청케어액",
+ "entp_name": "(주)종근당",
+ "permit_date": "20210525",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040536]지실|[M040775]현호색|[M040813]후박|[M083205]감초엑스|[M101459]진피70%에탄올틴크(1→5)|[M246203]DL-카르니틴염산염|[M279284]L-멘톨|[M280906]창출30%에탄올유동엑스(1→1)|[M280907]육계50%에탄올틴크(1→5)",
+ "main_item_ingr_eng": "Atractylodes Rhizome 30% Ethanol Fluid Extract (1→1)/Cinnamon Bark 50% Ethanol Tincture (1→5)/Citrus Unshiu Peel 70% Ethanol Tincture (1→5)/Corydalis Tuber/DL-Carnitine Hydrochloride/Glycyrrhiza Extract/L-Menthol/Magnolia Bark/Poncirus Immature Fruit",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104136",
+ "revisions": [
+  {
+   "revision_id": "202104136-5c988f87",
+   "content_sha256": "5c988f878a90ba2cd8594143f1c258e36afdc3787bbedc6931c7027eb76d1842",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:14Z",
+   "last_observed_at": "2026-09-08T09:00:14Z",
+   "official_revision_date": "2021-05-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:14Z"
+}

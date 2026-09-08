@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903756",
+ "item_name": "엔테젠정1mg(엔테카비르)",
+ "entp_name": "(주)셀릭스",
+ "permit_date": "20190605",
+ "cancel_date": "20240605",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M252071]엔테카비르",
+ "main_item_ingr_eng": "Entecavir",
+ "edi_code": "",
+ "atc_code": "J05AF10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903756",
+ "revisions": [
+  {
+   "revision_id": "201903756-99dedef1",
+   "content_sha256": "99dedef15560056205d99b8fa5dcb7da3826ba8d0e6c958d8a6fb344c71651bf",
+   "ee_text": "활동성 바이러스의 복제가 확인되고, 혈청 아미노전이효소(ALT 또는 AST)의 지속적 상승 또는 조직학적으로 활동성 질환이 확인된 성인(16세 이상)의 만성 B형 간염바이러스 감염의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:31Z",
+   "last_observed_at": "2026-09-08T08:55:31Z",
+   "official_revision_date": "2019-06-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:31Z"
+}

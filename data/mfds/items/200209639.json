@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200209639",
+ "item_name": "말라론정",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20020308",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090774]염산프로구아닐|[M095955]아토바쿠온",
+ "main_item_ingr_eng": "Atovaquone/Proguanil Hydrochloride",
+ "edi_code": "650000330",
+ "atc_code": "P01BB51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200209639",
+ "revisions": [
+  {
+   "revision_id": "200209639-66537089",
+   "content_sha256": "665370895230e46a748cafc96c3e4fa22c866b12a4efd6cc93d39a7a573f6a75",
+   "ee_text": "- Plasmodium falciparum 말라리아의 예방 - 급성, 비복합성 Plasmodium falciparum 말라리아의 치료",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:32Z",
+   "last_observed_at": "2026-09-08T08:36:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:32Z"
+}

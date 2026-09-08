@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805988",
+ "item_name": "아서틸정8밀리그람(페린도프릴-t-부틸아민)",
+ "entp_name": "한국세르비에(주)",
+ "permit_date": "20080528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258860]페린도프릴-t-부틸아민",
+ "main_item_ingr_eng": "Perindopril Tert-Butylamine",
+ "edi_code": "676300070",
+ "atc_code": "C09AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805988",
+ "revisions": [
+  {
+   "revision_id": "200805988-e9d9c8b0",
+   "content_sha256": "e9d9c8b06e6be0b58f8c8a1bdc861d6496754f73d2ff501dbbc4b1d88234bed0",
+   "ee_text": "1. 고혈압 2. 울혈 심부전: 비칼륨보전 이뇨제 및 디기탈리스 투여시의 보조치료제 3. 안정형 관상동맥 질환: 심근경색 및/또는 혈관재생술의 병력이 있는 안정형 관상동맥질환 환자에서 심혈관 질환으로 인한 사망 또는 비치명적 심근경색에 대한 위험성 감소",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:33Z",
+   "last_observed_at": "2026-09-08T08:42:33Z",
+   "official_revision_date": "2020-04-20"
+  },
+  {
+   "revision_id": "200805988-7b93082c",
+   "content_sha256": "7b93082c28cae18b817b6bd9771f4aab8bfbb0e4b0721fb0f3d548b76de613e5",
+   "ee_text": "1. 고혈압 2. 울혈성 심부전: 이뇨제 및 디기탈리스 투여시의 보조치료제 3. 안정형 관상동맥 질환: 심근경색 및/또는 혈관재생술의 병력이 있는 안정형 관상동맥질환 환자에서 심혈관 질환으로 인한 사망 또는 비치명적 심근경색에 대한 위험성 감소",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:33Z",
+   "last_observed_at": "2026-09-08T08:42:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:33Z"
+}

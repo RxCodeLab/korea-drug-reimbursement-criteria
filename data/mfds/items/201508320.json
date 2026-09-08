@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508320",
+ "item_name": "노펜피록시캄겔(피록시캄)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20151218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071634]피록시캄",
+ "main_item_ingr_eng": "Piroxicam",
+ "edi_code": "",
+ "atc_code": "M02AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508320",
+ "revisions": [
+  {
+   "revision_id": "201508320-56e42c76",
+   "content_sha256": "56e42c76abbc620db40c50452035241501221bb6ec3254efa96b11f57782c3b6",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) : 퇴행성관절염(골관절염), 어깨관절주위염, 건염(힘줄염)ㆍ건초염(힘줄윤활막염), 건주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통(근염, 근막염 등), 외상후의 종창(부기)ㆍ동통(통증)",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:00Z",
+   "last_observed_at": "2026-09-08T08:50:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:00Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200210355",
+ "item_name": "씨디제박스주(일본뇌염생바이러스백신)",
+ "entp_name": "(주)글로박스",
+ "permit_date": "20020307",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093788]약독일본뇌염생바이러스(바이러스주:SA14-14-2)",
+ "main_item_ingr_eng": "Live Attenuated Japanese Encephalitis Virus (Strain: SA14-14-2)",
+ "edi_code": "",
+ "atc_code": "J07BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210355",
+ "revisions": [
+  {
+   "revision_id": "200210355-48577ff5",
+   "content_sha256": "48577ff528404dcf06feb9eb9a469c49f562aaec304dbacb8cc5fb5c2cb9e8cb",
+   "ee_text": "일본뇌염의 예방",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:37Z",
+   "last_observed_at": "2026-09-08T08:36:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:37Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500906",
+ "item_name": "종근당비칼루타마이드정80밀리그램(비칼루타마이드)(수출용)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20150223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089188]비칼루타마이드",
+ "main_item_ingr_eng": "Bicalutamide",
+ "edi_code": "",
+ "atc_code": "L02BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500906",
+ "revisions": [
+  {
+   "revision_id": "201500906-89230675",
+   "content_sha256": "89230675256a7a654933c157a9887747d6adcd4939bfe07f7f95dd240c113b7d",
+   "ee_text": "전립선암",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:30Z",
+   "last_observed_at": "2026-09-08T08:48:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:30Z"
+}

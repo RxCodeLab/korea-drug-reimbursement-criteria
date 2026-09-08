@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200712543",
+ "item_name": "제일펠비낙첩부제(펠비낙)",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20071116",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M083570]펠비낙",
+ "main_item_ingr_eng": "Felbinac",
+ "edi_code": "",
+ "atc_code": "M02AA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712543",
+ "revisions": [
+  {
+   "revision_id": "200712543-c64ea389",
+   "content_sha256": "c64ea3897b0735da616c0da705bac55c20f2a1c7cf2a987d7f0b960b1f5b166c",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) : 퇴행성관절염(골(뼈)관절염), 어깨관절주위염, 건ㆍ건초염(힘줄ㆍ힘줄윤활막염), 건(힘줄)주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기)ㆍ동통(통증)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:02Z",
+   "last_observed_at": "2026-09-08T08:42:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:02Z"
+}

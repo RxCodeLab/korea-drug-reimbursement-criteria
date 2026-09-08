@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700017",
+ "item_name": "디스켄주4000단위(키모파파인)(수출용)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "19871218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M229963]키모파파인(purified)",
+ "main_item_ingr_eng": "Purified Chymopapain",
+ "edi_code": "",
+ "atc_code": "M09AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700017",
+ "revisions": [
+  {
+   "revision_id": "198700017-90fa80ea",
+   "content_sha256": "90fa80ea271dccdd1187a76a71b1b3d673d979f9791f818e680a6d3c45e20326",
+   "ee_text": "명확한 증후 또는 보존 요법의 적정 치료기간에 증후의 개선이 없는 요추간 추간판탈출증",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:19Z",
+   "last_observed_at": "2026-09-08T08:27:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:19Z"
+}

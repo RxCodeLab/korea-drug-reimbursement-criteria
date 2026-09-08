@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199907234",
+ "item_name": "화이자류코보린주15mg(폴리네이트칼슘)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "19991115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099285]폴리네이트칼슘",
+ "main_item_ingr_eng": "Calcium Folinate",
+ "edi_code": "648902951",
+ "atc_code": "V03AF03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907234",
+ "revisions": [
+  {
+   "revision_id": "199907234-67f6dfed",
+   "content_sha256": "67f6dfed450683ba49ea53d5d7cb99184cc1a6ecf0984face3d2223f93e217fd",
+   "ee_text": "(주사제) 1. 엽산대사길항제의 독성 경감 2. 진행성대장암에서의 5-Fluorouracil(5-FU)과의 병용투여 (정제) 엽산대사길항제의 독성 경감",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:23Z",
+   "last_observed_at": "2026-09-08T08:33:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:23Z"
+}

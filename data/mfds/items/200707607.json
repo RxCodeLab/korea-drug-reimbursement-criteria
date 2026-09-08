@@ -7,21 +7,22 @@
  "permit_date": "20070703",
  "cancel_date": "20240220",
  "status": "취하",
- "main_item_ingr": "[M095543]염산시프로플록사신|[M040080]덱사메타손",
+ "main_item_ingr": "[M040080]덱사메타손|[M095543]염산시프로플록사신",
  "main_item_ingr_eng": "Ciprofloxacin Hydrochloride/Dexamethasone",
  "edi_code": "",
  "atc_code": "S01CA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707607",
+ "history_fetched_at": "2026-08-28T13:24:13Z",
  "revisions": [
   {
-   "revision_id": "200707607-4a170b9a",
-   "content_sha256": "4a170b9a65cee78e21a2b9a22ac19180afbc40073fbaaf0d5f498c100bfc8416",
-   "ee_text": "전방포도염, 홍채염, 모양체염, 알러지성 봄철 결막염, 대상포진 각막염, 표층점모양 각막염 그리고 비특이성 표층각막염",
+   "revision_id": "200707607-dd5411c1",
+   "content_sha256": "dd5411c102a8f1750e8733d5f41f9f3c0f231e08ce1fbc4e33fcf1ca4ff9ec21",
+   "ee_text": "1. 결막염, 각막염, 박테리아성 감염, 그리고 스테로이드의 치료효과를 보이는 다음 염증성 질환의 치료 : 전방포도염, 홍채염, 모양체염, 알러지성 봄철 결막염, 대상포진 각막염, 표층점모양 각막염 그리고 비특이성 표층각막염 2. 화학물질이나 방사선, 열화상, 또는 이물질의 침입으로 인한 각막 손상의 치료 3. 수술 후 염증반응 감소 및 이식조직에 의한 부작용 경감",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:24:13Z",
-   "last_observed_at": "2026-08-28T13:24:13Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:41:38Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:13Z"
+ ]
 }

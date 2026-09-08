@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201201060",
+ "item_name": "신신에어파스-오(수출용)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20120222",
+ "cancel_date": "20260824",
+ "status": "취하",
+ "main_item_ingr": "[M070611]살리실산글리콜|[M203279]살리실산메틸|[M204418]d-캄파|[M223254]티몰|[M279284]L-멘톨",
+ "main_item_ingr_eng": "D-Camphor/Glycol Salicylate/L-Menthol/Methyl Salicylate/Thymol",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201060",
+ "revisions": [
+  {
+   "revision_id": "201201060-15a7defb",
+   "content_sha256": "15a7defb394f25a120ce367c3191c875e211125a9e2805561bd4dfcc40fd6e10",
+   "ee_text": "다음 경우에서의 근육이나 관절 통증의 일시적 경감 : 관절염, 근육통, 염좌, 타박상, 삠",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:11Z",
+   "last_observed_at": "2026-09-08T08:45:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:11Z"
+}

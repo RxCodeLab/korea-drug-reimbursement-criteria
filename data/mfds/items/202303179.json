@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303179",
+ "item_name": "헤리틴연질캡슐",
+ "entp_name": "메딕스제약(주)",
+ "permit_date": "20231121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M204304]피리독신염산염|[M213686]시아노코발라민0.1%|[M222934]글루콘산제일철수화물|[M223289]폴산|[M250837]오로트산수화물|[M258994]아스코르브산",
+ "main_item_ingr_eng": "Ascorbic Acid/Cyanocobalamin 0.1%/Ferrous Gluconate Hydrate/Folic Acid/Nicotinamide/Orotic Acid Hydrate/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "B03AE10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303179",
+ "revisions": [
+  {
+   "revision_id": "202303179-66fa5b22",
+   "content_sha256": "66fa5b2256bbb5f3da96774cab983d0d3ceecbd842875a581bcff3ad7aac274b",
+   "ee_text": "1. 철 결핍성 빈혈의 예방 및 치료 2. 다음 경우의 비타민 B6, C 의 보급 - 육체피로 - 임신, 수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력 저하 시",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:32Z",
+   "last_observed_at": "2026-09-08T09:02:32Z",
+   "official_revision_date": "2023-11-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:32Z"
+}

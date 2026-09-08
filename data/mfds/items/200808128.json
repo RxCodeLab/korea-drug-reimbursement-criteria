@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R05F",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808128",
+ "history_fetched_at": "2026-08-28T13:24:18Z",
  "revisions": [
   {
    "revision_id": "200808128-02c130a1",
@@ -19,9 +20,9 @@
    "ee_text": "가래가 끊어지지 않는 기침, 기관지염, 기관지천식",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:24:18Z",
-   "last_observed_at": "2026-08-28T13:24:18Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:42:43Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:18Z"
+ ]
 }

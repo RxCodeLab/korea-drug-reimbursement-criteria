@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601540",
+ "item_name": "동국지노멜라질연질캡슐",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20260528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020020]니스타틴|[M200243]니푸라텔",
+ "main_item_ingr_eng": "Nifuratel/Nystatin",
+ "edi_code": "",
+ "atc_code": "G01AA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601540",
+ "revisions": [
+  {
+   "revision_id": "202601540-c96d2118",
+   "content_sha256": "c96d21188e7fb481970918695d3f140e6b040c0d7e6a561100db73dea18e2e20",
+   "ee_text": "○ 유효균종 칸디다균, 트리코모나스, 세균 ○ 적응증 외음부 질염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:14Z",
+   "last_observed_at": "2026-09-08T09:05:14Z",
+   "official_revision_date": "2026-05-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:14Z"
+}

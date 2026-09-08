@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310922",
+ "item_name": "푸루메론점안액(플루오로메톨론)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20131230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051832]플루오로메톨론",
+ "main_item_ingr_eng": "Fluorometholone",
+ "edi_code": "661904232",
+ "atc_code": "S01BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310922",
+ "revisions": [
+  {
+   "revision_id": "201310922-163a31ff",
+   "content_sha256": "163a31ff61e617126cb876d7a0807ec0589d4a7476ee7c04b8af4cc74404336c",
+   "ee_text": "외안부 및 전안부의 염증성 질환(안검염(눈꺼풀염), 결막염, 각막염, 공막염, 상공막염, 홍채염, 홍채모양체염, 포도막염, 수술 후 염증 등)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:39Z",
+   "last_observed_at": "2026-09-08T08:46:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:39Z"
+}

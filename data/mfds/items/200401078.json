@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401078",
+ "item_name": "밤부콜시럽(밤부테롤염산염)(수출용)",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20040528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222849]밤부테롤염산염",
+ "main_item_ingr_eng": "Bambuterol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R03CC12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401078",
+ "revisions": [
+  {
+   "revision_id": "200401078-a1a7c78f",
+   "content_sha256": "a1a7c78f7ca0b09b30a03e6552842056f52975ab0292f129598c6089a788fb17",
+   "ee_text": "기관지천식, 기관지경련을 수반하는 만성기관지염, 폐기종 및 기타 폐관련 질환",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:43Z",
+   "last_observed_at": "2026-09-08T08:37:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:43Z"
+}

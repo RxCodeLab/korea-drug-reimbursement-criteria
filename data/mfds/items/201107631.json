@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201107631",
+ "item_name": "피라젬정800mg(피라세탐)(수출용)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20111004",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101651]피라세탐",
+ "main_item_ingr_eng": "Piracetam",
+ "edi_code": "",
+ "atc_code": "N06BX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107631",
+ "revisions": [
+  {
+   "revision_id": "201107631-50246465",
+   "content_sha256": "5024646500ad274e47418e40fb7dd47ff575a3ebe7d8f41a7249b9b3832e65d7",
+   "ee_text": "고령자의 인지력 장애(집중력·기억력 장애) 증상의 개선",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201107631/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:54Z",
+   "last_observed_at": "2026-09-08T08:44:54Z"
+  },
+  {
+   "revision_id": "201107631-4b637afd",
+   "content_sha256": "4b637afdb3a4e70434064f381fe98b9a3f35c0ae637244b1d9e016e11eef059a",
+   "ee_text": "[분류번호 119 기타의 중추신경용약] [허가사항 변경지시(정보처리) (허가심사조정과-1228호, 2009. 07.27)] 고령자의 인지력 장애(집중력·기억력 장애) 증상의 개선",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:54Z",
+   "last_observed_at": "2026-09-08T08:44:54Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:54Z"
+}

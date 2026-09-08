@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103993",
+ "item_name": "제일약품에피네프린주(수출용)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20210520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040421]에피네프린",
+ "main_item_ingr_eng": "Epinephrine",
+ "edi_code": "",
+ "atc_code": "C01CA24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103993",
+ "revisions": [
+  {
+   "revision_id": "202103993-33471bcd",
+   "content_sha256": "33471bcd743cae36d2d113d8275698bb214143b51cb288c4bd06392db4479d57",
+   "ee_text": "기관지 천식 발작의 완화, 혈청병ㆍ두드러기ㆍ맥관신경성 부종의 증상 완화, 약물에 의한 쇽ㆍ심정지의 보조치료, 국소마취제 효력의 지속",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:11Z",
+   "last_observed_at": "2026-09-08T09:00:11Z",
+   "official_revision_date": "2021-05-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:11Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300870",
+ "item_name": "레보진시럽(레보드로프로피진)",
+ "entp_name": "(주)비보존제약",
+ "permit_date": "20030228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090122]레보드로프로피진",
+ "main_item_ingr_eng": "Levodropropizine",
+ "edi_code": "658200261",
+ "atc_code": "R05DB27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300870",
+ "revisions": [
+  {
+   "revision_id": "200300870-2d59075b",
+   "content_sha256": "2d59075b7ad0189bb7a1a4a18d5c398bac6a4898bc5736e132af7688550490f3",
+   "ee_text": "다음 질환에서의 기침 : 급·만성기관지염",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:53Z",
+   "last_observed_at": "2026-09-08T08:36:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:53Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199802572",
+ "item_name": "광동독시플루리딘캡슐200밀리그램",
+ "entp_name": "광동제약(주)",
+ "permit_date": "19981120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085422]독시플루리딘",
+ "main_item_ingr_eng": "Doxifluridine",
+ "edi_code": "",
+ "atc_code": "L01BC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802572",
+ "revisions": [
+  {
+   "revision_id": "199802572-7ae76610",
+   "content_sha256": "7ae766101193eb790b074ff38666e658c568dd9b71fedd3f9ce4bc09a786f8d7",
+   "ee_text": "위암, 결장·직장암, 유방암",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:06Z",
+   "last_observed_at": "2026-09-08T08:32:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:06Z"
+}

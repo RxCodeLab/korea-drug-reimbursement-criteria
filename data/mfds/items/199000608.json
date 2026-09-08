@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199000608",
+ "item_name": "오큐호마핀점안액(호마트로핀브롬화수소산염)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "19901019",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223343]호마트로핀브롬화수소산염",
+ "main_item_ingr_eng": "Homatropine Hydrobromide",
+ "edi_code": "643901251",
+ "atc_code": "S01FA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000608",
+ "revisions": [
+  {
+   "revision_id": "199000608-33df0883",
+   "content_sha256": "33df0883816cbd203f4474c0d83b175bc77510ebd0770b4fb30f3a9acef95fd7",
+   "ee_text": "진단 또는 치료를 목적으로 하는 산동 및 조절마비",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:59Z",
+   "last_observed_at": "2026-09-08T08:27:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:59Z"
+}

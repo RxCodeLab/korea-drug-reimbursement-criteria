@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200708895",
+ "item_name": "큐프린주(노르에피네프린타르타르산염수화물)",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "20070731",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252333]노르에피네프린타르타르산염수화물|[M252333]노르에피네프린타르타르산염수화물",
+ "main_item_ingr_eng": "Norepinephrine Tartrate Hydrate",
+ "edi_code": "653101501,653101831,653102771",
+ "atc_code": "C01CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708895",
+ "revisions": [
+  {
+   "revision_id": "200708895-288bec29",
+   "content_sha256": "288bec294f6c1b8fbb0ce9385bb8f55e5dd4a7725f37b548e447704beb7c0ac8",
+   "ee_text": "1. 각종 질환에 따르는 급성 저혈압 또는 쇽의 보조치료(심근경색에 의한 쇽, 패혈증으로 인한 쇽, 아나필락시성 쇽, 순환 혈액량 저하에 따르는 급성 저혈압 또는 쇽, 전신마취시 의 급성 저혈압 등) 2. 심정지의 보조치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:45Z",
+   "last_observed_at": "2026-09-08T08:41:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:45Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104003",
+ "item_name": "펠루비에스정(펠루비프로펜트로메타민)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20210520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280916]펠루비프로펜트로메타민(미분화)",
+ "main_item_ingr_eng": "Pelubiprofen Tromethamine",
+ "edi_code": "671807340",
+ "atc_code": "M01AE20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104003",
+ "revisions": [
+  {
+   "revision_id": "202104003-a1e0cee8",
+   "content_sha256": "a1e0cee87c6f6182226ecbfe835d992f450961df6cbc245f1438971699b71e2a",
+   "ee_text": "1. 다음 질환의 증상이나 징후의 완화 : 골관절염, 류마티스관절염, 요통(허리통증) 2. 다음 질환의 해열 : 급성 상기도염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:12Z",
+   "last_observed_at": "2026-09-08T09:00:12Z",
+   "official_revision_date": "2021-05-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:12Z"
+}

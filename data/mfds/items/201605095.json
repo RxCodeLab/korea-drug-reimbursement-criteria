@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605095",
+ "item_name": "이누쿨인후스프레이액(포비돈요오드)",
+ "entp_name": "일양바이오팜(주)",
+ "permit_date": "20160825",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051757]포비돈요오드",
+ "main_item_ingr_eng": "Povidone Iodine",
+ "edi_code": "",
+ "atc_code": "R02AA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605095",
+ "revisions": [
+  {
+   "revision_id": "201605095-8f2eb4ff",
+   "content_sha256": "8f2eb4ff452c6e4a97964c2646d37788e736a59394ac6ca6c8ebbf3cce8749d2",
+   "ee_text": "구강내(입안) 살균소독, 인두염, 후두염, 구내염(입안염), 발치(이를 뽑음) 후 및 구내(입안) 수술 후 살균소독, 구취(입냄새)증",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:10Z",
+   "last_observed_at": "2026-09-08T08:51:10Z",
+   "official_revision_date": "2021-09-17"
+  },
+  {
+   "revision_id": "201605095-af4966b8",
+   "content_sha256": "af4966b86abf4da23efcea15189670b3bc1acb8ec7a8a23aed362f59ed31a52a",
+   "ee_text": "구강내 살균소독, 인두염, 후두염, 구내염, 발치후 및 구내수술후 살균소독, 구취증",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:51:10Z",
+   "last_observed_at": "2026-09-08T08:51:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:10Z"
+}

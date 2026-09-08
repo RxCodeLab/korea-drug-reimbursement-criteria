@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200803520",
+ "item_name": "아브락산주(파클리탁셀)",
+ "entp_name": "(유)한국비엠에스제약",
+ "permit_date": "20080331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088462]파클리탁셀",
+ "main_item_ingr_eng": "Paclitaxel",
+ "edi_code": "658700951",
+ "atc_code": "L01CD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803520",
+ "revisions": [
+  {
+   "revision_id": "200803520-61dcb336",
+   "content_sha256": "61dcb336db0778c94ece8e354c1ddfeefccfa1dfb07784f711bcc4b5399a24c4",
+   "ee_text": "1. 유방암 표준화학요법에 실패한 전이성 유방암의 치료에 2차 요법제로 사용 2. 췌장암 젬시타빈과 병용하여 전이성 췌장선암의 치료에 1차 요법제로 사용 3. 폐암 카보플라틴과 병용하여 국소 진행성 또는 전이성 비소세포폐암의 치료에 1차 요법제로 사용",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:24Z",
+   "last_observed_at": "2026-09-08T08:42:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:24Z"
+}

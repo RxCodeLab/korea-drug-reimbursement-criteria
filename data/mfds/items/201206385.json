@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206385",
+ "item_name": "명인엔타카폰정200밀리그램",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20120803",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088786]엔타카폰",
+ "main_item_ingr_eng": "Entacapone",
+ "edi_code": "651903720",
+ "atc_code": "N04BX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206385",
+ "revisions": [
+  {
+   "revision_id": "201206385-c11c36d6",
+   "content_sha256": "c11c36d68c6ad1ce6911960f1578b54bb8a79e588c4ff302336950a6ff3b858d",
+   "ee_text": "레보도파/도파 탈탄산효소억제제 표준요법으로 증상이 개선되지 않는 파킨슨 증후군 환자에 대하여 레보도파/도파 탈탄산효소 억제제의 보조치료제",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:25Z",
+   "last_observed_at": "2026-09-08T08:45:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:25Z"
+}

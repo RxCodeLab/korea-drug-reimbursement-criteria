@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200708534",
+ "item_name": "젤독스캡슐20밀리그램(지프라시돈염산염일수화물)",
+ "entp_name": "비아트리스코리아(주)",
+ "permit_date": "20070724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251493]지프라시돈염산염 일수화물",
+ "main_item_ingr_eng": "Ziprasidone Hydrochloride Monohydrate",
+ "edi_code": "073400090",
+ "atc_code": "N05AE04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708534",
+ "revisions": [
+  {
+   "revision_id": "200708534-b81d1113",
+   "content_sha256": "b81d1113884427198da5686dfdb21c862b89cd9954054f787dc59784272921b1",
+   "ee_text": "1. 조현병의 치료 2. 양극성 장애 1형의 치료 - 양극성 장애 1형과 관련된 조증 혹은 혼재 삽화 (episode)의 급성치료 - 양극성 장애 1형 치료 유지를 위한 보조요법",
+   "ee_doc_id": "39",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:42Z",
+   "last_observed_at": "2026-09-08T08:41:42Z",
+   "official_revision_date": "2023-03-31"
+  },
+  {
+   "revision_id": "200708534-786f0518",
+   "content_sha256": "786f0518cc2e870af6a7af686b373eb5ee865b8bb893a17fce2b2756b5f2656f",
+   "ee_text": "1. 정신분열병의 치료 2. 양극성 장애 1형의 치료 - 양극성 장애 1형과 관련된 조증 혹은 혼재 삽화 (episode)의 급성치료 - 양극성 장애 1형 치료 유지를 위한 보조요법",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:41:42Z",
+   "last_observed_at": "2026-09-08T08:41:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:42Z"
+}

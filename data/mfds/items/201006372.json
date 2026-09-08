@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201006372",
+ "item_name": "프레지스타정600밀리그램(다루나비르에탄올레이트)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20101020",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258751]다루나비르에탄올레이트",
+ "main_item_ingr_eng": "Darunavir Ethanolate",
+ "edi_code": "646901650",
+ "atc_code": "J05AE10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006372",
+ "revisions": [
+  {
+   "revision_id": "201006372-693e865d",
+   "content_sha256": "693e865d53a94c3a4f79866d571e143b8e420cb0ea1e47c16fbc2f1235e4b4be",
+   "ee_text": "항레트로바이러스제 치료경험이 있고, 다른 프로테아제 저해제의 사용에 실패한 HIV 감염 성인환자의 치료를 위한 다른 항레트로바이러스제와 병용요법",
+   "ee_doc_id": "25",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:16Z",
+   "last_observed_at": "2026-09-08T08:44:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:16Z"
+}

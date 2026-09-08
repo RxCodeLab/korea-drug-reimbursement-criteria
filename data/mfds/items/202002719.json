@@ -9,7 +9,7 @@
  "status": "정상",
  "main_item_ingr": "[M243979]탐스로신염산염",
  "main_item_ingr_eng": "Tamsulosin Hydrochloride",
- "edi_code": "674402200",
+ "edi_code": "674402200,698505260",
  "atc_code": "G04CA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002719",
  "history_fetched_at": "2026-08-27T13:23:17Z",
@@ -20,7 +20,8 @@
    "ee_text": "양성 전립샘비대증에 따른 배뇨장애",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202002719/EE",
    "first_observed_at": "2026-08-27T13:23:17Z",
-   "last_observed_at": "2026-08-28T13:25:17Z"
+   "last_observed_at": "2026-09-08T08:58:25Z",
+   "normalizer_version": 3
   }
  ]
 }

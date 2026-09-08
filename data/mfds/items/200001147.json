@@ -12,6 +12,7 @@
  "edi_code": "656000661",
  "atc_code": "D07AA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001147",
+ "history_fetched_at": "2026-08-28T13:23:53Z",
  "revisions": [
   {
    "revision_id": "200001147-ad052cc2",
@@ -19,9 +20,9 @@
    "ee_text": "습진, 피부염군(진행성 지장각피증, 만성단순태선 포함), 양진(가려움발진)군(구진두드러기 포함), 벌레물린데, 건선(건선,마른비늘증), 손 ㆍ 발바닥농포(고름물집)증",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:23:53Z",
-   "last_observed_at": "2026-08-28T13:23:53Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:33:39Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:53Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002305",
+ "item_name": "한신저령탕엑스과립",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20000808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040225]복령|[M040638]택사|[M050905]아교|[M051313]저령|[M071732]활석",
+ "main_item_ingr_eng": "Alisma Rhizome/Asini Corii Colla/Polyporus Sclerotium/Poria/Talc",
+ "edi_code": "",
+ "atc_code": "C03X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002305",
+ "revisions": [
+  {
+   "revision_id": "200002305-26bbd29f",
+   "content_sha256": "26bbd29fbd652aacf2ec9b6c4d1739dc39c18b0a27b16a2b86a7bc2bfb19d796",
+   "ee_text": "요량이 감소하여 요가 나오기 어렵거나, 배뇨통 또는 잔뇨감이 있는 증상",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:55Z",
+   "last_observed_at": "2026-09-08T08:33:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:55Z"
+}

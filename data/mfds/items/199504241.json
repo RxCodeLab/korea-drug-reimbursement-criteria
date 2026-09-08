@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199504241",
+ "item_name": "로지맥스서방정",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "19950718",
+ "cancel_date": "20231004",
+ "status": "취하",
+ "main_item_ingr": "[M084735]펠로디핀|[M111248]메토프롤롤숙신산염",
+ "main_item_ingr_eng": "Felodipine/Metoprolol Succinate",
+ "edi_code": "",
+ "atc_code": "C07FB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199504241",
+ "revisions": [
+  {
+   "revision_id": "199504241-27222081",
+   "content_sha256": "27222081e3ea8da3ac9aef0da5de3fd297565d808acc4cdd6d93f71a97047236",
+   "ee_text": "단독요법으로 혈압이 적절히 조절되지 않는 고혈압",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:54Z",
+   "last_observed_at": "2026-09-08T08:29:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:54Z"
+}

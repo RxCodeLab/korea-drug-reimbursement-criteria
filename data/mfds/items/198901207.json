@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198901207",
+ "item_name": "알말정10밀리그램(아로티놀롤염산염)",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "19890802",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223094]아로티놀롤염산염",
+ "main_item_ingr_eng": "Arotinolol Hydrochloride",
+ "edi_code": "640002870",
+ "atc_code": "C07AG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901207",
+ "revisions": [
+  {
+   "revision_id": "198901207-e35fa985",
+   "content_sha256": "e35fa9852df2a32e7bca2586fd6b425e3180978071de32523eb525baf29dfe34",
+   "ee_text": "본태성고혈압(경증-중등도), 협심증, 빈맥성부정맥 본태성진전",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:52Z",
+   "last_observed_at": "2026-09-08T08:27:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:52Z"
+}

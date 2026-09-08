@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201759",
+ "item_name": "테리글정20밀리그램(테네리글립틴이토실산염이수화물)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20220427",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279310]테네리글립틴이토실산염이수화물",
+ "main_item_ingr_eng": "Teneligliptin Ditosylate Dihydrate",
+ "edi_code": "648507990",
+ "atc_code": "A10BH08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201759",
+ "revisions": [
+  {
+   "revision_id": "202201759-77960c27",
+   "content_sha256": "77960c2752cdaf39caaf2ebed21d34f998ab16a18432b006d18f8f3e845c2a87",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법 보조제로 투여한다. - 단독요법 - 병용요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:17Z",
+   "last_observed_at": "2026-09-08T09:01:17Z",
+   "official_revision_date": "2022-04-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:17Z"
+}

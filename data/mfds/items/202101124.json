@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101124",
+ "item_name": "렉키로나주960mg(레그단비맙)(단클론항체,유전자재조합)",
+ "entp_name": "(주)셀트리온",
+ "permit_date": "20210205",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280230]레그단비맙",
+ "main_item_ingr_eng": "Regdanvimab",
+ "edi_code": "",
+ "atc_code": "J06BD06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101124",
+ "revisions": [
+  {
+   "revision_id": "202101124-fe4b4295",
+   "content_sha256": "fe4b429583142c672fb30503185f4cd3517dfc2d4731d004513ffbf7b1226057",
+   "ee_text": "PCR 검사 등을 통해 코로나바이러스감염증-19가 확진된 성인으로서, 다음 기준에 모두 해당하는 고위험군 경증*에서 모든 중등증 환자의 치료 1) 실내 공기에서 산소포화도가 94%를 초과하는 자 2) 보조적인 산소 공급이 필요하지 않은 자 3) 투여 전 7일 이내에 증상이 발현한 자 * 고위험군 경증 : 고령자(50세 초과), 비만(체질량지수[BMI] 30kg/m2 초과), 심혈관질환(고혈압 포함), 만성 폐질환(천식 포함), 당뇨, 만성 신장질환(투석 포함), 만성 간질환, 질환 또는 치료에 의한 면역 억제 상태(예: 암치료, 골수 또는 장기 이식, 면역결핍, HIV, 겸상 적혈구 빈혈, 지중해 빈혈, 그리고 면역 약화 약물의 장기간 복용) 중 하나 이상에 해당하는 경증 환자",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:55Z",
+   "last_observed_at": "2026-09-08T08:59:55Z",
+   "official_revision_date": "2021-09-17"
+  },
+  {
+   "revision_id": "202101124-fa90154b",
+   "content_sha256": "fa90154b64727855ff41ecf2cc7b16863eec2b45aac2d06d21de17d319a30d36",
+   "ee_text": "PCR 검사 등을 통해 코로나바이러스감염증-19가 확진된 성인 환자로서, 다음 기준에 모두 해당하는 고위험군 경증*에서 중등증 환자의 임상 증상 개선 1) 실내 공기에서 산소포화도가 94%를 초과하는 자 2) 보조적인 산소 공급이 필요하지 않은 자 3) 투여 전 7일 이내에 증상이 발현한 자 * 고위험군 경증 : 60세 이상이거나 기저질환(심혈관계 질환, 만성호흡기계 질환, 당뇨병, 고혈압 중 하나 이상)을 가진 경증 환자",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-02-05",
+   "first_observed_at": "2026-09-08T08:59:55Z",
+   "last_observed_at": "2026-09-08T08:59:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:55Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000973",
+ "item_name": "비짐프로정30밀리그램(다코미티닙수화물)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20200214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270711]다코미티닙수화물",
+ "main_item_ingr_eng": "Dacomitinib Hydrate",
+ "edi_code": "648903480",
+ "atc_code": "L01XE47",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000973",
+ "revisions": [
+  {
+   "revision_id": "202000973-8ef5935a",
+   "content_sha256": "8ef5935a7484c4c9066f9af0c879074dc436fcd94926b70029b15e195b6a551c",
+   "ee_text": "상피세포성장인자수용체(EGFR) 엑손 19 결손 또는 엑손 21 L858R 치환 변이가 있는 국소 진행성 또는 전이성 비소세포폐암(NSCLC) 환자의 1차 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202000973/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:48Z",
+   "last_observed_at": "2026-09-08T08:57:48Z"
+  },
+  {
+   "revision_id": "202000973-d70d8d4d",
+   "content_sha256": "d70d8d4d774336c7e25576d58954c5b43bc2b87d92ee4390fc513d074b613e34",
+   "ee_text": "상피세포성장인자수용체(EGFR) 엑손 19 결손 또는 엑손 21 L858R 치환 변이가 있는 국소 진행성 또는 전이성 비소세포폐암 환자의 1차 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-02-14",
+   "first_observed_at": "2026-09-08T08:57:48Z",
+   "last_observed_at": "2026-09-08T08:57:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:48Z"
+}

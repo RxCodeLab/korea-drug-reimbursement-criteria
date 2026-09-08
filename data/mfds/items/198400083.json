@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198400083",
+ "item_name": "엑셀라제캅셀(수출용)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "19840906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081340]사낙타제|[M081341]메이세라제|[M081342]오리파제2S|[M090580]푸록타제|[M227507]췌장성 소화효소 TA",
+ "main_item_ingr_eng": "Olipase 2S/Pancreatin TA/Proctase",
+ "edi_code": "",
+ "atc_code": "A09AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400083",
+ "revisions": [
+  {
+   "revision_id": "198400083-7452ccaf",
+   "content_sha256": "7452ccaffe03841310d3bce618b125fc86d178bce805d43152bc800defd4d1d9",
+   "ee_text": "소화불량, 과식시 소화촉진, 식욕부진, 복부(배부분)팽만감, 장내이상발효성 설사, 소화불량성 설사, 소화선분비 부전에 의한 위장질환, 소화기능장애(급만성 위장 카타르, 췌장(이자)ㆍ간장ㆍ담낭(쓸개) 기능부전, 저효소증, 위하수(위처짐), 만성 소모성질환 등), 수술후의 소화력감퇴(특히 위절제, 그 외의 소화기 수술후 및 담낭(쓸개)절제후 등), 악골의 부상, 구강(입안)점막 및 설(혀)염증ㆍ발치(이를 뽑음)후 등의 저작(씹기)부전, 소화기능 조장",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:55Z",
+   "last_observed_at": "2026-09-08T08:26:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:55Z"
+}

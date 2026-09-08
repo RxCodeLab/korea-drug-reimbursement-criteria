@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198801976",
+ "item_name": "암브로콜정(암브록솔,클렌부테롤)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "19880603",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222889]클렌부테롤염산염|[M233843]암브록솔염산염",
+ "main_item_ingr_eng": "Ambroxol Hydrochloride/Clenbuterol Hydrochloride",
+ "edi_code": "643501840",
+ "atc_code": "R03CC63",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198801976",
+ "revisions": [
+  {
+   "revision_id": "198801976-f760d1a6",
+   "content_sha256": "f760d1a606be843af49a64bacfb30282f275b2ca8cdb24f8da82789bec7b071a",
+   "ee_text": "다음 질환에서의 기관지경련 및 점액과다분비 : 기관지천식, 폐기종, 기관지염 ··",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:40Z",
+   "last_observed_at": "2026-09-08T08:27:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:40Z"
+}

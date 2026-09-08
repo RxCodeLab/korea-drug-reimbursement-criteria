@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401529",
+ "item_name": "엔드린캡슐(에르도스테인)(수출용)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20240625",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086745]에르도스테인",
+ "main_item_ingr_eng": "Erdosteine",
+ "edi_code": "",
+ "atc_code": "R05CB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401529",
+ "revisions": [
+  {
+   "revision_id": "202401529-18346c6c",
+   "content_sha256": "18346c6c313d554d62ce37805cb601cac6d95da5cd49957045929e2b89f3c6e0",
+   "ee_text": "급ㆍ만성 호흡기질환에서의 점액용해 및 거담",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:05Z",
+   "last_observed_at": "2026-09-08T09:03:05Z",
+   "official_revision_date": "2024-06-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:05Z"
+}

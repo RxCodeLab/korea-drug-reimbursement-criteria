@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804851",
+ "item_name": "가모사드정(모사프리드시트르산염수화물)",
+ "entp_name": "풍림무약(주)",
+ "permit_date": "20181130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234050]모사프리드시트르산염수화물",
+ "main_item_ingr_eng": "Mosapride Citrate Dihydrate",
+ "edi_code": "649001850",
+ "atc_code": "A03FA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804851",
+ "revisions": [
+  {
+   "revision_id": "201804851-6e49ab70",
+   "content_sha256": "6e49ab7051abf1f3b818a9080ba4e1e478bcfff9754f1db27de9296b6e39e4c0",
+   "ee_text": "기능성소화불량으로 인한 소화기증상(속쓰림, 구역, 구토)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:53Z",
+   "last_observed_at": "2026-09-08T08:53:53Z",
+   "official_revision_date": "2018-11-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:53Z"
+}

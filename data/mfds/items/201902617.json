@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902617",
+ "item_name": "한신비스카-에프환",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20190425",
+ "cancel_date": "20240425",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M082823]아선약가루|[M084756]현초가루|[M088473]고삼가루|[M229810]황백가루",
+ "main_item_ingr_eng": "Gambir Powder/Geranium Herb Powder/Phellodendron Bark Powder/Sophora Root Powder",
+ "edi_code": "",
+ "atc_code": "A07X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902617",
+ "revisions": [
+  {
+   "revision_id": "201902617-1d914b41",
+   "content_sha256": "1d914b4143613a0c9c4ae07070e163524f6fb085b4b522ee9b9d72fcc1fae60e",
+   "ee_text": "설사, 체함, 묽은 변, 토사",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:58Z",
+   "last_observed_at": "2026-09-08T08:54:58Z",
+   "official_revision_date": "2019-04-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:58Z"
+}

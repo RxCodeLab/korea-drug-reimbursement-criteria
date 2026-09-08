@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500805",
+ "item_name": "모닝엘시럽(락툴로오스액)",
+ "entp_name": "(주)보령바이오파마",
+ "permit_date": "20250404",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251918]락툴로오스액",
+ "main_item_ingr_eng": "Lactulose Concentrate Solution",
+ "edi_code": "670502541",
+ "atc_code": "A06AD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500805",
+ "revisions": [
+  {
+   "revision_id": "202500805-6659cb9b",
+   "content_sha256": "6659cb9b43ba017714884d16d99756ea06d4aba96bae032472f131f99db2c644",
+   "ee_text": "변비 - 만성변비 - 영·유아 및 소아의 변비 - 분만 후의 변비",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:49Z",
+   "last_observed_at": "2026-09-08T09:03:49Z",
+   "official_revision_date": "2025-04-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:49Z"
+}

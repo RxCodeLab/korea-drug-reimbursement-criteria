@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "D06BB53",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001369",
+ "history_fetched_at": "2026-08-28T13:25:15Z",
  "revisions": [
   {
    "revision_id": "202001369-ba19f35c",
@@ -19,8 +20,9 @@
    "ee_text": "재발성 구순포진(입술물집)의 초기 치료",
    "ee_doc_id": "2",
    "first_observed_at": "2026-08-28T13:25:15Z",
-   "last_observed_at": "2026-08-28T13:25:15Z",
-   "official_revision_date": "2020-03-11"
+   "last_observed_at": "2026-09-08T08:57:55Z",
+   "official_revision_date": "2020-03-11",
+   "normalizer_version": 3
   },
   {
    "revision_id": "202001369-17336351",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:25:15Z",
    "last_observed_at": "2026-08-28T13:25:15Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:15Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199001007",
+ "item_name": "에이디마이신주사액(독소루비신염산염)",
+ "entp_name": "(주)보령",
+ "permit_date": "19901122",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222835]독소루비신염산염",
+ "main_item_ingr_eng": "Doxorubicin Hydrochloride",
+ "edi_code": "641902931,641905921",
+ "atc_code": "L01DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001007",
+ "revisions": [
+  {
+   "revision_id": "199001007-5d0999fb",
+   "content_sha256": "5d0999fb1cbedd067b133aa9ad1b9639cdf4a2463b9fadbac9fe93a5baa69dec",
+   "ee_text": "악성 림프종(림프육종, 호지킨병 및 비호지킨병), 소화기암(위암, 간암, 직장암, 담낭 및 담관암, 결장암, 췌장암), 급성골수성백혈병, 연조직골육종, 유방암, 난소암, 폐암, 기관지암, 방광암, 윌름즈종양",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:02Z",
+   "last_observed_at": "2026-09-08T08:28:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:02Z"
+}

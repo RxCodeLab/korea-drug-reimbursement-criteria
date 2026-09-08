@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199906994",
+ "item_name": "타코실",
+ "entp_name": "대한적십자사",
+ "permit_date": "19990106",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040658]트롬빈|[M088518]피브리노겐",
+ "main_item_ingr_eng": "Fibrinogen/Thrombin",
+ "edi_code": "655300150,655300230,655300240,655300400",
+ "atc_code": "B02BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199906994",
+ "revisions": [
+  {
+   "revision_id": "199906994-228f2137",
+   "content_sha256": "228f2137b68a5fa94d9f7760eea193048cbea3abb5b23f3c2d316a48944422cf",
+   "ee_text": "1. 기존 치료법으로 조절할 수 없는 경우 또는 기존 치료법으로 불충분하다고 예상되는 경우의 출혈 또는 담즙, 림프, 액, 공기누출 2. 간, 비장, 췌장, 신장, 폐, 부신, 갑상선, 림프절과 같은 실질적 기관 수술시의 지혈 및 조직접착, 또한 이비인후과, 부인과, 비뇨기과, 혈관계, 뼈(예를 들면 해면골)수술, 외상 관련 수술시의 지혈",
+   "ee_doc_id": "32",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:16Z",
+   "last_observed_at": "2026-09-08T08:33:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:16Z"
+}

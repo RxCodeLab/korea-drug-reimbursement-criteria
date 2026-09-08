@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103143",
+ "item_name": "경방내소산연조엑스(단미엑스혼합제)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20210415",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266591]진피연조엑스(2.3~2.8→1)|[M266607]지실연조엑스(3.6~4.4→1)|[M266876]건강연조엑스(2.9~3.6→1)|[M267645]신곡연조엑스(1.4∼1.7→1)|[M268056]산사연조엑스(2.2∼2.7→1)|[M268069]사인연조엑스(3.1∼3.8→1)|[M268073]반하연조엑스(0.7~0.8→1)|[M268319]향부자연조엑스(2.8~3.5→1)|[M268326]복령연조엑스(5.8~7.8→1)|[M280741]삼릉연조엑스(5.4～7.2→1)|[M280742]아출연조엑스(4.1～5.6→1)",
+ "main_item_ingr_eng": "Amomum Fruit Soft Extract(3.1∼3.8→1)/Citrus Unshiu Peel Soft Extract (2.3~2.8→1)/Cyperus Rhizome Soft Extract (2.8~3.5→1)/Ginger Soft Extract (2.9~3.6→1)/Hawthorn Fruit Soft Extract (2.2∼2.7→1)/Massa Medicata Fermentata Soft Extract (1.4∼1.7→1)/Pinellia Tuber Soft Extract (0.7∼0.8→1)/Poncirus Immature Fruit Soft Extract (3.6~4.4→1)/Poria Soft Extract (5.8∼7.8→1)/Sparganium Rhizome Soft Extract(5.4～7.2→1)/Zedoary Soft Extract(4.1～5.6→1)",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103143",
+ "revisions": [
+  {
+   "revision_id": "202103143-9ffab8db",
+   "content_sha256": "9ffab8db76a804e1d1cbc4908979daa7e6a691cd5d66815ae2c842365e05355c",
+   "ee_text": "한방건강보험용",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:07Z",
+   "last_observed_at": "2026-09-08T09:00:07Z",
+   "official_revision_date": "2021-04-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:07Z"
+}

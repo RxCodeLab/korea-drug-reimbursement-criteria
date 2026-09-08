@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603880",
+ "item_name": "디아카트산(탄산수소나트륨)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20060405",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Sodium Bicarbonate",
+ "edi_code": "644900641",
+ "atc_code": "B05ZA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603880",
+ "revisions": [
+  {
+   "revision_id": "200603880-38866f36",
+   "content_sha256": "38866f3638dae6a5a9165015d0dc3133d6cbafdea1b85a766ad607459d7de8e4",
+   "ee_text": "1. 급 만성 신부전 환자의 탄산수소염형 혈액투석시 투석액 조제 2. 유독물 해독을 위한 혈약 투석시 투석액 조제",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:58Z",
+   "last_observed_at": "2026-09-08T08:39:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:58Z"
+}

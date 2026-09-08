@@ -7,21 +7,22 @@
  "permit_date": "20140915",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M255819]토코페롤아세테이트 2배산|[M250406]아스코르브산과립|[M218189]농축콜레칼시페롤(분말형)|[M089702]셀레늄함유건조효모",
+ "main_item_ingr": "[M089702]셀레늄함유건조효모|[M218189]농축콜레칼시페롤(분말형)|[M250406]아스코르브산과립|[M255819]토코페롤아세테이트 2배산",
  "main_item_ingr_eng": "Ascorbic Acid Granules/Cholecalciferol Concentrate Powder/Selenium In Dried Yeast/Tocopherol Acetate Powder 50%",
  "edi_code": "",
  "atc_code": "A11JB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404221",
+ "history_fetched_at": "2026-08-28T13:24:37Z",
  "revisions": [
   {
-   "revision_id": "201404221-b4c37a61",
-   "content_sha256": "b4c37a616a671883b868f3f601d92c8d8d6c61029a94ddc0b4e6996fd058eb41",
-   "ee_text": "- 육체 피로 - 임신 ㆍ 수유기 - 병중 ㆍ 병후(병을 앓는 동안이나 회복 후)의 체력 저하시 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ‧ 뼈, 이의 발육불량 ‧ 구루병의 예방 ‧ 말초혈행장애 및 갱년기시 다음 증상의 완화: 어깨 ‧ 목결림, 수족저림 ‧ 수족냉증(손발이 차가움)",
+   "revision_id": "201404221-d143292e",
+   "content_sha256": "d143292e79a7711a9a844a84a041a035fd2369b74863a8c4d04653d9a8b79b6a",
+   "ee_text": "1. 다음 경우의 비타민 C, D, E의 보급 - 육체 피로 - 임신 ㆍ 수유기 - 병중 ㆍ 병후(병을 앓는 동안이나 회복 후)의 체력 저하시 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ‧ 뼈, 이의 발육불량 ‧ 구루병의 예방 ‧ 말초혈행장애 및 갱년기시 다음 증상의 완화: 어깨 ‧ 목결림, 수족저림 ‧ 수족냉증(손발이 차가움) 2. 셀레늄의 보급",
    "ee_doc_id": "19",
    "first_observed_at": "2026-08-28T13:24:37Z",
-   "last_observed_at": "2026-08-28T13:24:37Z",
-   "official_revision_date": "2024-01-31"
+   "last_observed_at": "2026-09-08T08:47:39Z",
+   "official_revision_date": "2024-01-31",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:37Z"
+ ]
 }

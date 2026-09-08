@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201101033",
+ "item_name": "비니카핀주(니카르디핀염산염)",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "20110228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222948]니카르디핀염산염",
+ "main_item_ingr_eng": "Nicardipine Hydrochloride",
+ "edi_code": "653102531,653102581,653103331",
+ "atc_code": "C08CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101033",
+ "revisions": [
+  {
+   "revision_id": "201101033-ca1fc13c",
+   "content_sha256": "ca1fc13ca9794ff491c698fa2b2d6db301c2a3bb69f97ff80f93ef7e9c8c1576",
+   "ee_text": "수술시 이상고혈압의 구급처치, 응급성 고혈압증",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:30Z",
+   "last_observed_at": "2026-09-08T08:44:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:30Z"
+}

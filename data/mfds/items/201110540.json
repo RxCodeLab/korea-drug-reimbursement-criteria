@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201110540",
+ "item_name": "로타릭스 프리필드(경구용 약독화 로타 생바이러스 백신)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20111201",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251455]약독 사람 로타 생바이러스 (바이러스주: RIX4414주)",
+ "main_item_ingr_eng": "Live Attenuated Human Rotavirus (Strain: Rix4414)",
+ "edi_code": "",
+ "atc_code": "J07BH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110540",
+ "revisions": [
+  {
+   "revision_id": "201110540-16c3d395",
+   "content_sha256": "16c3d3955ac1acdbc74dfd0b5007ea154dfdc735e5a4d2b2d5e95819065478bf",
+   "ee_text": "생후 6주 이상의 영아에서 로타바이러스(G1P[8], G2P[4], G3P[8], G4P[8], G9P[8])에 의한 위장관염의 예방",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:04Z",
+   "last_observed_at": "2026-09-08T08:45:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:04Z"
+}

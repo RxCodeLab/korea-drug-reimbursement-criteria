@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401486",
+ "item_name": "엡킨리주4mg/0.8mL(엡코리타맙,유전자재조합)",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20240620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284744]엡코리타맙",
+ "main_item_ingr_eng": "Epcoritamab",
+ "edi_code": "624900601",
+ "atc_code": "L01FX27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401486",
+ "revisions": [
+  {
+   "revision_id": "202401486-07556431",
+   "content_sha256": "0755643130d305ff2701b6d7c098b4a7a7cafde84f69723b07ee9afdabf3d274",
+   "ee_text": "미만성 거대 B세포 림프종 (Diffuse large B-cell lymphoma, DLBCL) 두 가지 이상의 전신 치료 후 재발성 또는 불응성 미만성 거대 B세포 림프종 성인 환자(18세 이상)의 치료에서 단독요법 이 약의 유효성을 치료적확증시험에서 입증한 자료는 없다. 소포성 림프종 (Follicular lymphoma, FL) 재발성 또는 불응성 소포성 림프종 성인 환자(18세 이상)의 치료에서 레날리도마이드 및 리툭시맙과의 병용요법 두 가지 이상의 전신 치료 후 재발성 또는 불응성 소포성 림프종 성인 환자(18세 이상)의 치료에서 단독요법",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:04Z",
+   "last_observed_at": "2026-09-08T09:03:04Z",
+   "official_revision_date": "2026-07-22"
+  },
+  {
+   "revision_id": "202401486-2f5c8dc9",
+   "content_sha256": "2f5c8dc920b2d3c307fb190ce8078e887b6df6570821d81925ca72f500ad74bd",
+   "ee_text": "두 가지 이상의 전신 치료 후 재발성 또는 불응성 미만성 거대 B세포 림프종(diffuse large B-cell lymphoma, DLBCL) 성인(18세 이상) 환자의 치료 이 약의 유효성을 치료적확증시험에서 입증한 자료는 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-06-20",
+   "first_observed_at": "2026-09-08T09:03:04Z",
+   "last_observed_at": "2026-09-08T09:03:04Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:04Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500325",
+ "item_name": "제뉴원트리플플러스연고(수출용)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20150121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083538]바시트라신아연|[M202893]네오마이신황산염|[M233313]폴리믹신B황산염|[M246661]프라목신염산염",
+ "main_item_ingr_eng": "Bacitracin Zinc/Neomycin Sulfate/Polymyxin B Sulfate/Pramoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "D06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500325",
+ "revisions": [
+  {
+   "revision_id": "201500325-85d725e9",
+   "content_sha256": "85d725e9d4147c58817206151be00ff1915956a552770f9bdfe313502da03962",
+   "ee_text": "· 감수성균에 의한 화상감염, 외이도(바깥귀길)염 · 1차피부질환(농가진(고름딱지증), 농창, 심상성 모창(털종기증), 조갑주위염(손발톱주위염)), 2차피부염(습진, 포진(물집) 및 지루 피부염, 외과 절개 및 피부이식후 감염증) · 기타 외상(상처)의 염증 및 화농(곪음)증",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:21Z",
+   "last_observed_at": "2026-09-08T08:48:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:21Z"
+}

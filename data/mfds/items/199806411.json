@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199806411",
+ "item_name": "님벡스주(시스아트라쿠륨베실산염)",
+ "entp_name": "타나베파마코리아주식회사",
+ "permit_date": "19980516",
+ "cancel_date": "20240911",
+ "status": "취하",
+ "main_item_ingr": "[M247535]시스아트라쿠륨베실산염",
+ "main_item_ingr_eng": "Cisatracurium Besylate",
+ "edi_code": "",
+ "atc_code": "M03AC11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806411",
+ "revisions": [
+  {
+   "revision_id": "199806411-0019b7e4",
+   "content_sha256": "0019b7e47cf071d87cac4e76c67f601b64a2b0bcacb9af0e972c24e179f3942a",
+   "ee_text": "전신마취시 또는 중환자의 진정시 골격근 이완, 기관내 삽판 및 기계적 환기를 용이하게 하기 위한 보조",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:21Z",
+   "last_observed_at": "2026-09-08T08:32:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:21Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803124",
+ "item_name": "베리온서방정(베포타스틴살리실산염)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20180730",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256601]베포타스틴살리실산염|[M256601]베포타스틴살리실산염",
+ "main_item_ingr_eng": "Bepotastine Salicylate",
+ "edi_code": "645305910",
+ "atc_code": "R06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803124",
+ "revisions": [
+  {
+   "revision_id": "201803124-3e89cfd0",
+   "content_sha256": "3e89cfd07dcf7b69fecde779385be8943b2b46b8f7b97a0583bc2445c2484708",
+   "ee_text": "다년성 알레르기성 비염, 만성 두드러기, 피부질환에 수반된 소양증(습진.피부염, 피부소양증, 양진)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:27Z",
+   "last_observed_at": "2026-09-08T08:53:27Z",
+   "official_revision_date": "2018-11-14"
+  },
+  {
+   "revision_id": "201803124-5c4fd20d",
+   "content_sha256": "5c4fd20db77ce253ea83a5886ac59b6e94a3fe329d92899ab6c72f419decd355",
+   "ee_text": "다년성 알레르기성 비염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-07-30",
+   "first_observed_at": "2026-09-08T08:53:27Z",
+   "last_observed_at": "2026-09-08T08:53:27Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:27Z"
+}

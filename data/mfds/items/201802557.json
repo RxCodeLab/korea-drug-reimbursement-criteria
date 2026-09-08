@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802557",
+ "item_name": "렉센에스연고",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20180619",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051015]알란토인|[M223240]토코페롤아세테이트|[M223353]히드로코르티손아세테이트|[M246661]프라목신염산염",
+ "main_item_ingr_eng": "Allantoin/Hydrocortisone Acetate/Pramoxine Hydrochloride/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "C05AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802557",
+ "revisions": [
+  {
+   "revision_id": "201802557-09f57f5f",
+   "content_sha256": "09f57f5f32264c84ed33845dd2fe978748463d4dec82f280c304fa84f7f19db5",
+   "ee_text": "치열ㆍ치핵의 아픔ㆍ가려움ㆍ부종(부기)ㆍ출혈의 일시적 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:17Z",
+   "last_observed_at": "2026-09-08T08:53:17Z",
+   "official_revision_date": "2018-06-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:17Z"
+}

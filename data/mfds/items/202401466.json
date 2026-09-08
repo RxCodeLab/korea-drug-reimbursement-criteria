@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401466",
+ "item_name": "보노라인370주(이오파미돌)",
+ "entp_name": "씨엠에스제약(주)",
+ "permit_date": "20240618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085529]이오파미돌",
+ "main_item_ingr_eng": "Iopamidol",
+ "edi_code": "079000011,079000021",
+ "atc_code": "V08AB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401466",
+ "revisions": [
+  {
+   "revision_id": "202401466-20ab1004",
+   "content_sha256": "20ab100446076e76063ad4611313cf1ea2fa67e2f68fcf590c774af6422fb018",
+   "ee_text": "(주사제 370 mgI/mL) 1. 혈관조영: 관상동맥조영, 흉부대동맥조영, 복부대동맥조영, 심장혈관조영, 선택적 내장동맥조영, 말초동맥조영 2. 정맥요로조영(IVP) 3. CT 조영증강",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:03Z",
+   "last_observed_at": "2026-09-08T09:03:03Z",
+   "official_revision_date": "2024-06-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:03Z"
+}

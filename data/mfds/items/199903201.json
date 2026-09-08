@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199903201",
+ "item_name": "휴온스메페남산정(수출명:KWNSTANFORTETab.)(수출용)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "19991018",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050476]메페남산|[M050476]메페남산",
+ "main_item_ingr_eng": "Mefenamic Acid",
+ "edi_code": "",
+ "atc_code": "M01AG01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199903201",
+ "revisions": [
+  {
+   "revision_id": "199903201-69f346cb",
+   "content_sha256": "69f346cbb5d1a90cc981a9afb2a70c34c6000cae89e803d5ed57fc39139c23cc",
+   "ee_text": "다음 질환에 사용할 수 있다. - 두통, 치통, 요통, 골관절염(퇴행성 관절질환) 외상후, 수술후, 분만후 염증 및 동통(통증), 부비동염에 수반하는 동통(통증), 월경통",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:59Z",
+   "last_observed_at": "2026-09-08T08:32:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:59Z"
+}

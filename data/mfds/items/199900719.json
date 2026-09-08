@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900719",
+ "item_name": "팔렉신캡슐500밀리그램(세팔렉신수화물)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "19990920",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223075]세팔렉신수화물",
+ "main_item_ingr_eng": "Cefalexin Hydrate",
+ "edi_code": "642703590",
+ "atc_code": "J01DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900719",
+ "revisions": [
+  {
+   "revision_id": "199900719-5084e8a8",
+   "content_sha256": "5084e8a8acd28648066081450b396691a1b5fdb767e83284e495ff998f5bb3a2",
+   "ee_text": "○ 유효균종 세팔렉신에 감수성인 용혈연쇄구균, 폐렴연쇄구균, 황색포도구균(페니실린내성균 포함) 및 기타 포도구균(메티실린내성균 제외), 프로테우스 미라빌리스, 임균, 대장균, 클레브시엘라 ○ 적응증 - 편도염, 인후두염, 기관지염, 기관지확장증(감염 시), 폐렴 - 신우신염, 방광염, 임질, 요도염, 전립선염, 부고환염 - 연조직염, 농가진, 부스럼, 옹종 - 중이염, 부비동염 - 림프절염 - 창상감염 - 치과감염, 발치 후 감염예방",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:36Z",
+   "last_observed_at": "2026-09-08T08:32:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:36Z"
+}

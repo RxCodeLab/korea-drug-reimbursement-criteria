@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908399",
+ "item_name": "유니티어즈점안액(1회용)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20191213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040083]덱스트란70|[M102967]히프로멜로오스",
+ "main_item_ingr_eng": "Dextran 70/Hypromellose",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908399",
+ "revisions": [
+  {
+   "revision_id": "201908399-78f8714d",
+   "content_sha256": "78f8714dd50c400aa226cc507f08dd245f8861ac0fa52971545e8513fa703868",
+   "ee_text": "눈물 분비 부족 및 점액부족에 의한 눈의 건조",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:16Z",
+   "last_observed_at": "2026-09-08T08:57:16Z",
+   "official_revision_date": "2019-12-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:16Z"
+}

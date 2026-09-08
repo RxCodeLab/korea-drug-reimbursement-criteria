@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905812",
+ "item_name": "비보존아데포비어정10밀리그램(아데포비어디피복실)",
+ "entp_name": "(주)비보존제약",
+ "permit_date": "20190816",
+ "cancel_date": "20240816",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M101796]아데포비어디피복실",
+ "main_item_ingr_eng": "Adefovir Dipivoxil",
+ "edi_code": "",
+ "atc_code": "J05AF08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905812",
+ "revisions": [
+  {
+   "revision_id": "201905812-384b95ec",
+   "content_sha256": "384b95ec85d68739cca5fb961adbe19a01698a471a8e730b0bca4155ef54231b",
+   "ee_text": "활동성 바이러스 복제가 확인되고, 혈청 아미노전달효소(ALT 또는 AST) 가 지속적으로 상승되거나 조직학적으로 활동성 질환이 확인된 만성 B형 간염 바이러스 감염증 환자의 치료 (조직학적, 바이러스학적, 생화학적, 혈청학적 반응을 근거로 대상성 간기능을 나타내는 HBeAg+ 및 HBeAg- 만성 B형 간염 환자 및 대상성 혹은 비대상성 간기능을 나타내는 라미부딘 내성 B형 간염 환자)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:07Z",
+   "last_observed_at": "2026-09-08T08:56:07Z",
+   "official_revision_date": "2019-08-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:07Z"
+}

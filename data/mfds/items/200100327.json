@@ -12,16 +12,17 @@
  "edi_code": "645101221",
  "atc_code": "B05ZA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100327",
+ "history_fetched_at": "2026-08-28T13:23:58Z",
  "revisions": [
   {
-   "revision_id": "200100327-2163387d",
-   "content_sha256": "2163387d86ef3e1d91698527cb9e0053bef8d489c66a24a00125ca51e7735d54",
-   "ee_text": "1. 탄산수소농도가 높은 탄산수소형 투석액에서는 중증 알칼리증을 일으킬 수 있는 경우 2. 당농도가 낮은 투석액에서는 당뇨병 등 혈당치 관리가 곤란하고 투석개시 시 높은 혈당치(200mg/dL정도)를 보이는 경우 3. 칼륨, 마그네슘이 높은 투석액에서는 고칼륨혈증, 고마그네슘혈증의 개선이 불충분한 경우",
+   "revision_id": "200100327-bcfa41e0",
+   "content_sha256": "bcfa41e05fb3647fc39760437c0470dc64d981725900ccba73ca4531c9743615",
+   "ee_text": "만성 신부전 환자에 사용되는 인공신장투석 관류액의 염기성 용액으로서 활성형 비타민 D3 제제나 칼슘제제의 투여 등에 의한 고칼슘혈증에 있어서 다음과 같은 경우에 사용한다. 1. 탄산수소농도가 높은 탄산수소형 투석액에서는 중증 알칼리증을 일으킬 수 있는 경우 2. 당농도가 낮은 투석액에서는 당뇨병 등 혈당치 관리가 곤란하고 투석개시 시 높은 혈당치(200mg/dL정도)를 보이는 경우 3. 칼륨, 마그네슘이 높은 투석액에서는 고칼륨혈증, 고마그네슘혈증의 개선이 불충분한 경우",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:23:58Z",
-   "last_observed_at": "2026-08-28T13:23:58Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:34:50Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:58Z"
+ ]
 }

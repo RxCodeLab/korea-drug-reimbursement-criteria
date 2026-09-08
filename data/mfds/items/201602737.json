@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602737",
+ "item_name": "피라맥스과립",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20160518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250630]알테수네이트|[M256524]피로나리딘인산염",
+ "main_item_ingr_eng": "Artesunate/Pyronaridine Phosphate",
+ "edi_code": "",
+ "atc_code": "P01BF06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602737",
+ "revisions": [
+  {
+   "revision_id": "201602737-bb613cad",
+   "content_sha256": "bb613cadf47166fd30d708a7c123366e9dc894ba8bd9748c1807a7baddc2fabd",
+   "ee_text": "열대열원충(Plasmodium falciparum)이나 삼일열원충(Plasmodium vivax)로 인한 합병증이 수반되지 않은, 급성 말라리아 감염된 5kg이상 20kg미만 유∙소아 환자의 치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:37Z",
+   "last_observed_at": "2026-09-08T08:50:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:37Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402911",
+ "item_name": "에클리라제뉴에어400마이크로그램(아클리디니움브롬화물(미분화))",
+ "entp_name": "주식회사에스피씨코리아",
+ "permit_date": "20140630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259809]아클리디니움브롬화물(미분화)",
+ "main_item_ingr_eng": "Aclidinium Bromide Micronized",
+ "edi_code": "056800031",
+ "atc_code": "R03BB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402911",
+ "revisions": [
+  {
+   "revision_id": "201402911-9640c3a4",
+   "content_sha256": "9640c3a45d55789899e46c233121751dd03945c4507836fb014f8b6d21b746ae",
+   "ee_text": "기관지확장제로 만성폐쇄성 폐질환의 유지요법제",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:13Z",
+   "last_observed_at": "2026-09-08T08:47:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:13Z"
+}

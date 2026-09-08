@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201001174",
+ "item_name": "부티덱점안액(히알우론산나트륨)(수출용)(수출명:BUTIDEC)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20100203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081277]히알우론산나트륨",
+ "main_item_ingr_eng": "Sodium Hyaluronate",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001174",
+ "revisions": [
+  {
+   "revision_id": "201001174-f27633b0",
+   "content_sha256": "f27633b0cfcae5db1bce5fd894dc379f73a8c1558ee035ed59144dd354c7787a",
+   "ee_text": "다음 질환에 의한 각결막상피장해 치료보조제 쇼그렌증후군, 스티븐스-존슨증후군, 안구건조증후군 등의 내인성 질환, 수술후 약제성, 외상, 하드콘택트렌즈착용 등에 의한 외인성 질환",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:48Z",
+   "last_observed_at": "2026-09-08T08:43:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:48Z"
+}

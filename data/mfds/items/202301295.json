@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301295",
+ "item_name": "필로지낙스질연질캡슐(네오마이신황산염, 니스타틴, 폴리믹신B황산염)",
+ "entp_name": "(주)필인터내셔널",
+ "permit_date": "20230419",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020020]니스타틴|[M202893]네오마이신황산염|[M233313]폴리믹신B황산염",
+ "main_item_ingr_eng": "Neomycin Sulfate/Nystatin/Polymyxin B Sulfate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301295",
+ "revisions": [
+  {
+   "revision_id": "202301295-d518b916",
+   "content_sha256": "d518b91662a2477e1f17b126162ae374ea6f3a59c15fa655a623c571379356de",
+   "ee_text": "질칸디다증 및 비특이성 세균성질염의 국소 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:01Z",
+   "last_observed_at": "2026-09-08T09:02:01Z",
+   "official_revision_date": "2023-04-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:01Z"
+}

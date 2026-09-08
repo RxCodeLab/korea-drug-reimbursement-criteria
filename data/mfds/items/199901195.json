@@ -7,7 +7,7 @@
  "permit_date": "19990706",
  "cancel_date": "20240503",
  "status": "취하",
- "main_item_ingr": "[M207093]메타규산알루민산마그네슘 (건조물로서)|[M223262]티아민질산염|[M236913]제피아스코르브산|[M050924]알릴이소프로필아세틸요소|[M040133]리보플라빈|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040133]리보플라빈|[M040353]아세트아미노펜|[M050924]알릴이소프로필아세틸요소|[M207093]메타규산알루민산마그네슘 (건조물로서)|[M223262]티아민질산염|[M236913]제피아스코르브산",
  "main_item_ingr_eng": "Acetaminophen/Allylisopropylacetylurea/Ascorbic Acid Coated/Magnesium Aluminometasilicate/Riboflavin/Thiamine Nitrate",
  "edi_code": "",
  "atc_code": "N02BE51",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:56:57Z",
  "revisions": [
   {
-   "revision_id": "199901195-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "199901195-ce206736",
+   "content_sha256": "ce2067368c49d2c72181a0a31b54128a323d4ef507048fd4d0685344e3500acb",
+   "ee_text": "1. 두통 치통 발치후 동통 인후통 귀의 통증 관절통 신경통 요통 근육통 견통 타박통 골절통 염좌통 월경통(생리통) 외상통의 진통. 2. 오한 발열시의 해열.",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199901195/EE",
    "first_observed_at": "2026-08-27T12:56:57Z",
-   "last_observed_at": "2026-08-28T13:23:51Z"
+   "last_observed_at": "2026-09-08T08:32:42Z",
+   "normalizer_version": 3
   }
  ]
 }

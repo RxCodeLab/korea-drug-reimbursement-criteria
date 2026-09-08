@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410130",
+ "item_name": "애바가드외용액",
+ "entp_name": "솔벤텀코리아주식회사",
+ "permit_date": "20040712",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089677]에탄올|[M243030]글루콘산클로르헥시딘액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution/Ethanol",
+ "edi_code": "",
+ "atc_code": "D08AC52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410130",
+ "revisions": [
+  {
+   "revision_id": "200410130-7d1d43b8",
+   "content_sha256": "7d1d43b8b612c309d6bfe432e4d3887a0b050c426d00a447ff691fdf4840135a",
+   "ee_text": "수술시 수술자 및 보건위생종사자의 손 소독",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:40Z",
+   "last_observed_at": "2026-09-08T08:38:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:40Z"
+}

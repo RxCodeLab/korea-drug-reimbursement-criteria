@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508115",
+ "item_name": "디오베트리에이연고(칼시포트리올)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20151203",
+ "cancel_date": "20251203",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M092796]칼시포트리올",
+ "main_item_ingr_eng": "Calcipotriol",
+ "edi_code": "",
+ "atc_code": "D05AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508115",
+ "revisions": [
+  {
+   "revision_id": "201508115-f599a4c1",
+   "content_sha256": "f599a4c1a7aa28db64c54436da30de09e5d0b6223664ad0cab4126d9f08a4c2b",
+   "ee_text": "건선(경증 및 중등증)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201508115/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:58Z",
+   "last_observed_at": "2026-09-08T08:49:58Z"
+  },
+  {
+   "revision_id": "201508115-c5b42a94",
+   "content_sha256": "c5b42a94001dfcda8aba610e6559210a1f0d70adbd9a0193824c6435fa377024",
+   "ee_text": "건선(경증 또는 중등증)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-11-27",
+   "first_observed_at": "2026-09-08T08:49:58Z",
+   "last_observed_at": "2026-09-08T08:49:58Z"
+  },
+  {
+   "revision_id": "201508115-ad5a2775",
+   "content_sha256": "ad5a2775a1a061fbdbe767176e0f89b3255f69f4d79483ee608525177cd161ed",
+   "ee_text": "건선(경증 또는 중등도)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:49:58Z",
+   "last_observed_at": "2026-09-08T08:49:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:58Z"
+}

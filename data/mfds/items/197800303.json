@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197800303",
+ "item_name": "부광메티마졸정5밀리그램",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19780418",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050423]메티마졸",
+ "main_item_ingr_eng": "Methimazole",
+ "edi_code": "642200680",
+ "atc_code": "H03BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197800303",
+ "revisions": [
+  {
+   "revision_id": "197800303-eb7c5c01",
+   "content_sha256": "eb7c5c0164f53a190a7ab5491dde8714a98c05d0c0e1479b1b27acdacd43cbdb",
+   "ee_text": "1. 갑상선기능항진증 2. 아전 갑상선 절제술과 방사선 요오드 요법을 시행하려고 하는 갑상선기능항진증",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:30Z",
+   "last_observed_at": "2026-09-08T08:26:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:30Z"
+}

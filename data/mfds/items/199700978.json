@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700978",
+ "item_name": "아크라톤정50밀리그램(아클라토늄나파디실산염)",
+ "entp_name": "(주)일화",
+ "permit_date": "19970626",
+ "cancel_date": "20251001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M256737]아클라토늄나파디실산염",
+ "main_item_ingr_eng": "Aclatonium Napadisilate",
+ "edi_code": "",
+ "atc_code": "A03F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700978",
+ "revisions": [
+  {
+   "revision_id": "199700978-8093b728",
+   "content_sha256": "8093b7287dee5a05482ab302d55ba1c6e4f2ea47a486e01f8757afcf2e321439",
+   "ee_text": "다음 경우의 소화기 기능이상(구역, 구토, 식욕부진, 복부팽만감) : 만성위염, 담도이상운동, 소화관 수술후",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199700978/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:52Z",
+   "last_observed_at": "2026-09-08T08:30:52Z"
+  },
+  {
+   "revision_id": "199700978-b59909f5",
+   "content_sha256": "b59909f58d1973717814927b266aedcea8fe9b1f37d711ddcda5165b3725fd1d",
+   "ee_text": "다음 경우의 소화기 기능이상(구역, 구토, 식욕부진, 복부팽만감) : 만성위염, 담도디스키네시아, 소화관 수술후",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:30:52Z",
+   "last_observed_at": "2026-09-08T08:30:52Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:52Z"
+}

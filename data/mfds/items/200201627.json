@@ -7,11 +7,12 @@
  "permit_date": "20021227",
  "cancel_date": "20250701",
  "status": "유효기간만료",
- "main_item_ingr": "[M040135]마황|[M040048]길경|[M051377]석창포|[M040139]맥문동|[M040445]오미자|[M210181]내복자|[M089646]건율|[M040487]의이인",
+ "main_item_ingr": "[M040048]길경|[M040135]마황|[M040139]맥문동|[M040445]오미자|[M040487]의이인|[M051377]석창포|[M089646]건율|[M210181]내복자",
  "main_item_ingr_eng": "Acori Graminei Rhizoma/Castaneae Semen/Coix Seed/Ephedra Herb/Liriope Tuber/Platycodon Root/Raphani Semen/Schisandra Fruit",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201627",
+ "history_fetched_at": "2026-08-28T13:24:00Z",
  "revisions": [
   {
    "revision_id": "200201627-f1adc908",
@@ -19,9 +20,9 @@
    "ee_text": "태음인의 식체(위체), 비만(痞滿), 설사, 중풍",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:24:00Z",
-   "last_observed_at": "2026-08-28T13:24:00Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:36:14Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:00Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107880",
+ "item_name": "오자넥스크림(오제녹사신)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20211210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281861]오제녹사신(미분화)",
+ "main_item_ingr_eng": "Ozenoxacin(micronized)",
+ "edi_code": "",
+ "atc_code": "D06AX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107880",
+ "revisions": [
+  {
+   "revision_id": "202107880-01c8fbe2",
+   "content_sha256": "01c8fbe28876daa5d5c625938a69c430ece9e577ed393e89fdae762b2bb6a560",
+   "ee_text": "1. 유효균종 황색포도상구균(S. aureus), 화농성연쇄상구균(S. pyogenes) 2. 적응증 농가진의 단기 국소 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:52Z",
+   "last_observed_at": "2026-09-08T09:00:52Z",
+   "official_revision_date": "2021-12-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:52Z"
+}

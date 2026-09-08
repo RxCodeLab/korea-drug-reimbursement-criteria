@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308344",
+ "item_name": "케토민주10밀리그램/밀리리터(케타민염산염)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20130723",
+ "cancel_date": "20251217",
+ "status": "취하",
+ "main_item_ingr": "[M223186]케타민염산염",
+ "main_item_ingr_eng": "Ketamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308344",
+ "revisions": [
+  {
+   "revision_id": "201308344-05f72aac",
+   "content_sha256": "05f72aac953fbe718dc0bac62852ef4f9c63c2b5745dcde7fad7e640500abe49",
+   "ee_text": "1. 수술, 검사 및 외과적 처치시의 전신마취 2. 흡입마취의 유도 3. 기타 마취제 사용시의 보조",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:12Z",
+   "last_observed_at": "2026-09-08T08:46:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:12Z"
+}

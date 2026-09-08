@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800109",
+ "item_name": "오랄페인릴리프겔(아미노벤조산에틸)(수출용)",
+ "entp_name": "시믹씨엠오코리아주식회사",
+ "permit_date": "20180109",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203437]아미노벤조산에틸",
+ "main_item_ingr_eng": "Ethyl Aminobenzoate",
+ "edi_code": "",
+ "atc_code": "N01BA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800109",
+ "revisions": [
+  {
+   "revision_id": "201800109-4c5e44cb",
+   "content_sha256": "4c5e44cbf8e558bcdf89034db6b4d8ff47c25f0c0e46158b34ab53abc363e2ac",
+   "ee_text": "치과영역에 있어서의 표면마취",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:46Z",
+   "last_observed_at": "2026-09-08T08:52:46Z",
+   "official_revision_date": "2018-01-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:46Z"
+}

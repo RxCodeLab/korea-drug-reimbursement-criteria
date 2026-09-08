@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400593",
+ "item_name": "아크덤겔(가수과산화벤조일)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20240321",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247420]가수과산화벤조일",
+ "main_item_ingr_eng": "Hydrous Benzoyl Peroxide",
+ "edi_code": "",
+ "atc_code": "D10AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400593",
+ "revisions": [
+  {
+   "revision_id": "202400593-bd31978c",
+   "content_sha256": "bd31978ce8f3e02e9ef4fcd221f837e02ab5cdf8c4c480bf12a77125f181cec0",
+   "ee_text": "심상성 여드름(보통여드름)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:49Z",
+   "last_observed_at": "2026-09-08T09:02:49Z",
+   "official_revision_date": "2024-03-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:49Z"
+}

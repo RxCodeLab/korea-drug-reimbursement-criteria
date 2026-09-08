@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805225",
+ "item_name": "휴메토론티점안액",
+ "entp_name": "(주)휴메딕스",
+ "permit_date": "20181221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051832]플루오로메톨론|[M223237]테트라히드로졸린염산염",
+ "main_item_ingr_eng": "Fluorometholone/Tetrahydrozoline Hydrochloride",
+ "edi_code": "683101241",
+ "atc_code": "S01B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805225",
+ "revisions": [
+  {
+   "revision_id": "201805225-70d6583f",
+   "content_sha256": "70d6583ff3faad4f7b7767da6bd446fdb0afcee6c647e3bab6b014bbb6f16499",
+   "ee_text": "1.심한 종창과 혈관내 충혈이 있는 급성 비감염성 결막염.알레르기성 각막염 2.전안부의 비감염성 염증(전포도막염, 상공막염, 공막염) 3.사시절개술 및 백내장, 녹내장 수술후 염증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:57Z",
+   "last_observed_at": "2026-09-08T08:53:57Z",
+   "official_revision_date": "2018-12-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:57Z"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105598",
+ "item_name": "엑스포비오정20밀리그램(셀리넥서)",
+ "entp_name": "(주)보령",
+ "permit_date": "20210729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281242]셀리넥서",
+ "main_item_ingr_eng": "Selinexor",
+ "edi_code": "074400010,641908860",
+ "atc_code": "L01XX66",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105598",
+ "revisions": [
+  {
+   "revision_id": "202105598-c95f84ff",
+   "content_sha256": "c95f84ff732d89297b99744c76803be046cd18975d56a3e81009e38302d46036",
+   "ee_text": "1. 이전에 한 가지 이상의 치료를 받은 다발골수종 성인 환자의 치료에 보르테조밉 및 덱사메타손과의 병용요법 2. 이전에 네 가지의 치료 요법에서 적어도 두 가지 프로테아좀 억제제, 적어도 두 가지 면역조절 이미드 치료제 그리고 적어도 한 가지의 anti-CD38 항체 치료를 받은 경우로, 재발 또는 불응성 다발골수종이 있는 성인 환자에 대한 덱사메타손과의 병용요법 3. 두 가지 이상의 전신치료 후 재발 또는 불응성 미만성 거대 B 세포 림프종 성인 환자의 치료",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:25Z",
+   "last_observed_at": "2026-09-08T09:00:25Z",
+   "official_revision_date": "2024-10-15"
+  },
+  {
+   "revision_id": "202105598-811f84b5",
+   "content_sha256": "811f84b57a97567757c273987d27241217c88bd9de0cf67d34a9ae38481efbb9",
+   "ee_text": "1. 이전에 네 가지의 치료 요법에서 적어도 두 가지 프로테아좀 억제제, 적어도 두 가지 면역조절 이미드 치료제 그리고 적어도 한 가지의 anti-CD38 항체 치료 를 받은 경우로, 재발 또는 불응성 다발골수종이 있는 성인 환자에 대한 덱사메타손과의 병용요법 2. 두 가지 이상의 전신치료 후 재발 또는 불응성 미만성 거대 B 세포 림프종 성인환자의 치료",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-10-25",
+   "first_observed_at": "2026-09-08T09:00:25Z",
+   "last_observed_at": "2026-09-08T09:00:25Z"
+  },
+  {
+   "revision_id": "202105598-82afb425",
+   "content_sha256": "82afb425115924d53c86b6127383a439e918de95e70901380161226eff7ee909",
+   "ee_text": "1. 이전에 네 가지의 치료 요법에서 적어도 두 가지 프로테아좀 억제제, 적어도 두 가지 면역조절 이미드 치료제 그리고 적어도 한 가지의 anti-CD38 항체 치료 를 받은 경우로, 재발 또는 불응성 다발성 골수종이 있는 성인 환자에 대한 덱사메타손과의 병용요법 2. 두 가지 이상의 전신치료 후 재발 또는 불응성 미만성 거대 B 세포 림프종 성인환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-07-29",
+   "first_observed_at": "2026-09-08T09:00:25Z",
+   "last_observed_at": "2026-09-08T09:00:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:25Z"
+}

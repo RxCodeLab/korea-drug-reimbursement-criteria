@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108434",
+ "item_name": "크린카트씨(무수구연산)",
+ "entp_name": "밴티브코리아주식회사",
+ "permit_date": "20010509",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040033]무수구연산",
+ "main_item_ingr_eng": "Anhydrous Citric Acid",
+ "edi_code": "646601680",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108434",
+ "revisions": [
+  {
+   "revision_id": "200108434-252df86e",
+   "content_sha256": "252df86e472eaf9810915a5d42227635a1b1a91cce405ddb1a8451df5d84263e",
+   "ee_text": "인공신장기의 투석액 통로로부터 칼슘 및 마그네슘 침전물을 제거",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:45Z",
+   "last_observed_at": "2026-09-08T08:35:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:45Z"
+}

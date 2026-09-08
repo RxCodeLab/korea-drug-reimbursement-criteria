@@ -7,11 +7,12 @@
  "permit_date": "20120521",
  "cancel_date": "20251001",
  "status": "유효기간만료",
- "main_item_ingr": "[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨",
  "main_item_ingr_eng": "Potassium Chloride/Sodium Chloride",
  "edi_code": "",
  "atc_code": "S01XA20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201204832",
+ "history_fetched_at": "2026-08-28T13:24:27Z",
  "revisions": [
   {
    "revision_id": "201204832-77fba31e",
@@ -19,9 +20,9 @@
    "ee_text": "눈의 피로, 누액(눈물)의 보조(눈의 건조), 하드콘택트렌즈 또는 소프트렌즈 착용 시 불쾌감, 눈의 침침함. (눈곱이 많을 때 등)",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:24:27Z",
-   "last_observed_at": "2026-08-28T13:24:27Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:45:17Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:27Z"
+ ]
 }

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200810693",
+ "item_name": "덴트미정(옥수수불검화정량추출물)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20081029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M098768]옥수수불검화정량추출물",
+ "main_item_ingr_eng": "Titrated Extract of Zea Mays L. Unsaponifiable Fraction",
+ "edi_code": "",
+ "atc_code": "A01A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810693",
+ "revisions": [
+  {
+   "revision_id": "200810693-15b8f90c",
+   "content_sha256": "15b8f90cd4e49abde167bd87c7103aa549c74254c8b278ead473c2d51a099aab",
+   "ee_text": "치주치료 후 치은염, 경ㆍ중등도 치주염의 보조치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200810693/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:54Z",
+   "last_observed_at": "2026-09-08T08:42:54Z"
+  },
+  {
+   "revision_id": "200810693-ba9b1fe8",
+   "content_sha256": "ba9b1fe88cafa7f3b06d34ec0e22ab42b50808504feb352f9fa2693bb12e09e8",
+   "ee_text": "(정제) 치주질환[치아지지조직질환, 치은염, 치주증(유년형 치주염)] (캡슐제) 치주(치아주위조직)질환[치아지지조직질환, 치은염, 치주(치아주위조직)증(유년형 치주(치아주위조직)염)]",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:54Z",
+   "last_observed_at": "2026-09-08T08:42:54Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:54Z"
+}

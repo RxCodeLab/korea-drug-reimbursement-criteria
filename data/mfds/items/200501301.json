@@ -12,6 +12,7 @@
  "edi_code": "650300340",
  "atc_code": "N06DX01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501301",
+ "history_fetched_at": "2026-08-28T13:24:07Z",
  "revisions": [
   {
    "revision_id": "200501301-4e0bf075",
@@ -19,7 +20,8 @@
    "ee_text": "중등도에서 중증의 알츠하이머병 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200501301/EE",
    "first_observed_at": "2026-08-28T13:24:07Z",
-   "last_observed_at": "2026-08-28T13:24:07Z"
+   "last_observed_at": "2026-09-08T08:39:07Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200501301-a67c9c3c",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:07Z",
    "last_observed_at": "2026-08-28T13:24:07Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:07Z"
+ ]
 }

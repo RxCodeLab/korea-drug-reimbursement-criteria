@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199502380",
+ "item_name": "명문염산부피바카인헤비주사0.5%(수출명: ALCAINE(Bupivacaine·HCl Heavy Inj 0.5%)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "19951213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M232507]부피바카인염산염수화물",
+ "main_item_ingr_eng": "Bupivacaine Hydrochloride Hydrate",
+ "edi_code": "649801341",
+ "atc_code": "N01BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502380",
+ "revisions": [
+  {
+   "revision_id": "199502380-d1ceea17",
+   "content_sha256": "d1ceea17c8f6937bf108a4b227ff9813fe56ac861775af5b274b90f4cbb3886c",
+   "ee_text": "(주사제 : 0.25%, 0.5%) 전달마취, 경막외마취 (주사제 : 0.75%) 외과수술시 요추 경막외 마취 (0.5% 부피바카인염산염포도당주사액) 수술(예 : 2-3시간이 소요되는 요로기계 및 하지 수술, 45-60분이 소요되는 복부수술)시 척추마취",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:46Z",
+   "last_observed_at": "2026-09-08T08:29:46Z",
+   "official_revision_date": "2020-09-22"
+  },
+  {
+   "revision_id": "199502380-8ba3c9c9",
+   "content_sha256": "8ba3c9c99cae79b00bcbccdf8933627f0ddf7a06efdfb12d9a2365de9a07901c",
+   "ee_text": "(주사제 : 0.25%, 0.5%) 전달마취, 경막외마취 (주사제 : 0.75%) 외과수술시 요추 경막외 마취 (0.5% 염산부피바카인포도당주사액) 수술(예 : 2-3시간이 소요되는 요로기계 및 하지 수술, 45-60분이 소요되는 복부수술)시 척추마취",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:29:46Z",
+   "last_observed_at": "2026-09-08T08:29:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:46Z"
+}

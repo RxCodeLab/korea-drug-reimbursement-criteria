@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511010",
+ "item_name": "부광더모픽스겔(세르타코나졸질산염)(수입명:Dermofixgel)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20050302",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M230519]세르타코나졸질산염",
+ "main_item_ingr_eng": "Sertaconazole Nitrate",
+ "edi_code": "",
+ "atc_code": "D01AC14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511010",
+ "revisions": [
+  {
+   "revision_id": "200511010-b72b58d0",
+   "content_sha256": "b72b58d031a77f758da6b457615474ff5c71278197eee8e88f558024c5ea830c",
+   "ee_text": "효모균(pityrosporum)에 의한 비듬",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:35Z",
+   "last_observed_at": "2026-09-08T08:39:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:35Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309248",
+ "item_name": "센세돌연질캡슐(옥수수불검화정량추출물)(수출용)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20130909",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M098768]옥수수불검화정량추출물",
+ "main_item_ingr_eng": "Titrated Extract of Zea Mays L. Unsaponifiable Fraction",
+ "edi_code": "",
+ "atc_code": "A01A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309248",
+ "revisions": [
+  {
+   "revision_id": "201309248-86c42c8a",
+   "content_sha256": "86c42c8a2ac29e40df8f51d22c3a7a06ba353460c8ba09d5bae464c104336db0",
+   "ee_text": "치주질환(치아지지조직질환, 치은염, 치주증(유년형 치주염))",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:20Z",
+   "last_observed_at": "2026-09-08T08:46:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:20Z"
+}

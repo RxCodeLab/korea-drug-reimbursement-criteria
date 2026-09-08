@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200812014",
+ "item_name": "유리토스정(이미다페나신)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20081231",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245357]이미다페나신",
+ "main_item_ingr_eng": "Imidafenacin",
+ "edi_code": "668901560",
+ "atc_code": "G04BD14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200812014",
+ "revisions": [
+  {
+   "revision_id": "200812014-bb94bd04",
+   "content_sha256": "bb94bd041a38c6f719456a50bed80351d8815f8dd091963333248f0483d18da2",
+   "ee_text": "절박성 요실금, 빈뇨, 요절박과 같은 과민성방광 증상의 치료",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:59Z",
+   "last_observed_at": "2026-09-08T08:42:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:59Z"
+}

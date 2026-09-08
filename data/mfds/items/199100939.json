@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199100939",
+ "item_name": "에스파손겔0.05%(데속시메타손)",
+ "entp_name": "(주)한독",
+ "permit_date": "19911213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050197]데속시메타손",
+ "main_item_ingr_eng": "Desoximetasone",
+ "edi_code": "652101021",
+ "atc_code": "D07AC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100939",
+ "revisions": [
+  {
+   "revision_id": "199100939-6b3f88fa",
+   "content_sha256": "6b3f88fa583d3a0538f7eea82721a19cfd0f9e6cca1b794bcab9772621bb3cde",
+   "ee_text": "다음의 코르티코이드 반응성 피부질환 : 접촉피부염, 화폐상피부염, 만성단순태선(신경피부염), 원형홍 반성루푸스, 아토피피부염, 지루피부염, 건선, 벌레물린데, 한포진, 양진, 간찰진",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199100939/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:10Z",
+   "last_observed_at": "2026-09-08T08:28:10Z"
+  },
+  {
+   "revision_id": "199100939-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:28:10Z",
+   "last_observed_at": "2026-09-08T08:28:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:10Z"
+}

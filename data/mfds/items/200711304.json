@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711304",
+ "item_name": "토스트렉스겔2%(테스토스테론)",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20071012",
+ "cancel_date": "20241121",
+ "status": "취하",
+ "main_item_ingr": "[M040639]테스토스테론",
+ "main_item_ingr_eng": "Testosterone",
+ "edi_code": "",
+ "atc_code": "G03BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711304",
+ "revisions": [
+  {
+   "revision_id": "200711304-d8494542",
+   "content_sha256": "d84945422f5c6b2156aa1f188d2adb9a8b826b4771dd027a4437ca93619aa9df",
+   "ee_text": "임상 증상과 실험실 분석에 의해 테스토스테론 결핍이 확인된 남성 성선기능저하증에 대한 호르몬대치치료",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:57Z",
+   "last_observed_at": "2026-09-08T08:41:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:57Z"
+}

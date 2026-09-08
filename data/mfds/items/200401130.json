@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401130",
+ "item_name": "모바린액3%(미녹시딜)",
+ "entp_name": "해태에이치티비(주)",
+ "permit_date": "20040713",
+ "cancel_date": "20250529",
+ "status": "취하",
+ "main_item_ingr": "[M081480]미녹시딜",
+ "main_item_ingr_eng": "Minoxidil",
+ "edi_code": "",
+ "atc_code": "D11AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401130",
+ "revisions": [
+  {
+   "revision_id": "200401130-e1c5bbe6",
+   "content_sha256": "e1c5bbe6b517465ec043472b8e07228b97f1bbca23eade729f514c5d8ed867a4",
+   "ee_text": "남성형 탈모증(안드로젠탈모증) 및 여성형 탈모증(안드로젠탈모증)의 치료",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:43Z",
+   "last_observed_at": "2026-09-08T08:37:43Z",
+   "official_revision_date": "2021-05-20"
+  },
+  {
+   "revision_id": "200401130-efb91717",
+   "content_sha256": "efb917176d526aae919349e1bb716963338d8f0899c866004e4b4db9fd6020e8",
+   "ee_text": "· 남성형 탈모증(안드로젠탈모증) 및 여성형 탈모증(안드로젠탈모증)의 치료(2 %, 3 %에 한함) · 남성형 탈모증(안드로젠탈모증)의 치료(5 %에 한함)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:37:43Z",
+   "last_observed_at": "2026-09-08T08:37:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:43Z"
+}

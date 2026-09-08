@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206640",
+ "item_name": "그라트릴오디정(그라니세트론염산염)",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "20120830",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M254683]그라니세트론염산염",
+ "main_item_ingr_eng": "Granisetron Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A04AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206640",
+ "revisions": [
+  {
+   "revision_id": "201206640-e05a7537",
+   "content_sha256": "e05a7537514e24fd99c9727e0a6049a95574be1073bb945b51587c4d7bfd6072",
+   "ee_text": "화학요법, 방사선요법에 의해 유발되는 구역 및 구토",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:28Z",
+   "last_observed_at": "2026-09-08T08:45:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:28Z"
+}

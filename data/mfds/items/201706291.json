@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706291",
+ "item_name": "닌라로캡슐3밀리그램(익사조밉시트레이트)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20170728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266478]익사조밉시트레이트",
+ "main_item_ingr_eng": "Ixazomib Citrate",
+ "edi_code": "696300460",
+ "atc_code": "L01XG03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706291",
+ "revisions": [
+  {
+   "revision_id": "201706291-e62b976f",
+   "content_sha256": "e62b976fad4385895137bf2fa6c50b4927c6f122b9d8d21861d4dbbca5c08311",
+   "ee_text": "1. 이전에 한 가지 이상의 치료를 받은 다발골수종 환자의 치료에 레날리도마이드 및 덱사메타손과의 병용요법 2. 자가조혈모세포 이식을 받은 다발골수종 환자의 유지요법 3. 자가조혈모세포 이식을 받지 않은 다발골수종 환자의 유지요법",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:09Z",
+   "last_observed_at": "2026-09-08T08:52:09Z",
+   "official_revision_date": "2021-09-14"
+  },
+  {
+   "revision_id": "201706291-baf7a05d",
+   "content_sha256": "baf7a05def337fe80f584125e6a8063e65d067e7cc156feb3b9f47a7d7cbe638",
+   "ee_text": "1. 이전에 한 가지 이상의 치료를 받은 다발골수종 환자의 치료에 레날리도마이드 및 덱사메타손과의 병용요법 2. 자가조혈모세포 이식을 받은 다발골수종 환자의 유지요법",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-03-18",
+   "first_observed_at": "2026-09-08T08:52:09Z",
+   "last_observed_at": "2026-09-08T08:52:09Z"
+  },
+  {
+   "revision_id": "201706291-5de22125",
+   "content_sha256": "5de221258c6eaf83135199641ec42d5bddb36284d271fab1fae90da4cedcc6e3",
+   "ee_text": "이전에 한 가지 이상의 치료를 받은 다발성골수종 환자의 치료에 레날리도마이드 및 덱사메타손과의 병용요법",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:52:09Z",
+   "last_observed_at": "2026-09-08T08:52:09Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:09Z"
+}

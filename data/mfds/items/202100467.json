@@ -1,0 +1,58 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202100467",
+ "item_name": "렉라자정80밀리그램(레이저티닙메실산염일수화물)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20210118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280186]레이저티닙메실산염일수화물",
+ "main_item_ingr_eng": "Lazertinib Mesylate Monohydrate",
+ "edi_code": "642105660",
+ "atc_code": "L01EB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100467",
+ "revisions": [
+  {
+   "revision_id": "202100467-9865f28b",
+   "content_sha256": "9865f28be7fbf54a5befae172d2f3106e0d831eef30fa8d161e98c7f0bf0891b",
+   "ee_text": "<단독요법> EGFR 엑손 19 결손 또는 엑손 21(L858R) 치환 변이된 국소 진행성 또는 전이성 비소세포폐암 환자의 1차 치료 이전에 EGFR-TKI로 치료받은 적이 있는 EGFR T790M 변이 양성 국소 진행성 또는 전이성 비소세포폐암 환자의 치료 <병용요법> EGFR 엑손 19 결손 또는 엑손 21(L858R) 치환 변이된 국소 진행성 또는 전이성 비소세포폐암 환자의 1차 치료에서 아미반타맙과 병용요법",
+   "ee_doc_id": "28",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:51Z",
+   "last_observed_at": "2026-09-08T08:59:51Z",
+   "official_revision_date": "2025-06-02"
+  },
+  {
+   "revision_id": "202100467-9cdf2a89",
+   "content_sha256": "9cdf2a899b8ae82da2b788984a129fe78a1ecaf1efb2b4d7513461d64ed1f059",
+   "ee_text": "EGFR 엑손 19 결손 또는 엑손 21(L858R) 치환 변이된 국소 진행성 또는 전이성 비소세포폐암 환자의 1차 치료 이전에 EGFR-TKI로 치료받은 적이 있는 EGFR T790M 변이 양성 국소 진행성 또는 전이성 비소세포폐암 환자의 치료",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-11-28",
+   "first_observed_at": "2026-09-08T08:59:51Z",
+   "last_observed_at": "2026-09-08T08:59:51Z"
+  },
+  {
+   "revision_id": "202100467-bc792d24",
+   "content_sha256": "bc792d24715a31946ab476ec80953a965658bcf9cc0cebd39180202f1a5b9803",
+   "ee_text": "EGFR 엑손 19 결손 또는 엑손 21(L858R) 치환 변이된 국소 진행성 또는 전이성 비소세포폐암 환자의 1차 치료 이전에 EGFR-TKI로 치료받은 적이 있는 EGFR T790M 변이 양성 국소 진행성 또는 전이성 비소세포폐암 환자의 치료(유효성은 반응률 및 반응기간에 근거하였으며, 생존기간의 개선을 입증한 자료는 없다)",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-06-30",
+   "first_observed_at": "2026-09-08T08:59:51Z",
+   "last_observed_at": "2026-09-08T08:59:51Z"
+  },
+  {
+   "revision_id": "202100467-6510fe06",
+   "content_sha256": "6510fe06633f5b809905908ace9145a3bfd9af0b5e9c7fb59a66ed446cff9d47",
+   "ee_text": "이전에 EGFR-TKI로 치료받은 적이 있는 EGFR T790M 변이 양성 국소 진행성 또는 전이성 비소세포폐암 환자의 치료 이 약의 유효성은 반응률 및 반응기간에 근거하였으며, 생존기간의 개선을 입증한 자료는 없다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-01-19",
+   "first_observed_at": "2026-09-08T08:59:51Z",
+   "last_observed_at": "2026-09-08T08:59:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:51Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200808116",
+ "item_name": "피블라스트 스프레이 (트라페르민)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20080724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M239108]트라페르민(숙주:대장균 B주(ATCC 23848), 벡터:pTsF-9Δgal)",
+ "main_item_ingr_eng": "Trafermin (Host: E.Coli B (ATCC 23848), Vector: pTsF-9Δgal)",
+ "edi_code": "",
+ "atc_code": "D03AX15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808116",
+ "revisions": [
+  {
+   "revision_id": "200808116-f30c8ce9",
+   "content_sha256": "f30c8ce919a929ffc3040f036ee294bbf52538317c459e85fe3d7a5bc389de3d",
+   "ee_text": "욕창, 화상(2도 또는 3도)으로 인한 국소적 피부손상, 하지궤양",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:43Z",
+   "last_observed_at": "2026-09-08T08:42:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:43Z"
+}

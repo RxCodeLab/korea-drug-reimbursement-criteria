@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400080",
+ "item_name": "카린올주사(칼시트리올)(수출용)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20140109",
+ "cancel_date": "20240220",
+ "status": "취하",
+ "main_item_ingr": "[M082905]칼시트리올",
+ "main_item_ingr_eng": "Calcitriol",
+ "edi_code": "",
+ "atc_code": "A11CC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400080",
+ "revisions": [
+  {
+   "revision_id": "201400080-70b6df62",
+   "content_sha256": "70b6df6287d999e866d331a71c89bd69545b8e15c3f430cd29af39b4b5eac506",
+   "ee_text": "1. 만성신장투석환자의 저칼슘혈증의 관리 2. 상승된 부갑상선호르몬수치의 현저한 감소작용으로 신성 뼈형성장애 개선",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:40Z",
+   "last_observed_at": "2026-09-08T08:46:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:40Z"
+}

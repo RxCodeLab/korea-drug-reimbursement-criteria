@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203601",
+ "item_name": "영진올란자핀정5밀리그램",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20220919",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089222]올란자핀",
+ "main_item_ingr_eng": "Olanzapine",
+ "edi_code": "642405070",
+ "atc_code": "N05AH03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203601",
+ "revisions": [
+  {
+   "revision_id": "202203601-42b4745c",
+   "content_sha256": "42b4745c05bd3d2fb6d4604f9367584539026067fa6d940b588b182a44aae6ef",
+   "ee_text": "1. 조현병 2. 양극성장애 - 양극성장애 1형과 관련된 조증 및 혼재삽화의 치료 - 올란자핀 투여로 조증삽화에 반응을 보인 환자들에 있어서 양극성 장애의 재발방지 - 양극성장애 I형과 관련된 우울삽화의 급성 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:33Z",
+   "last_observed_at": "2026-09-08T09:01:33Z",
+   "official_revision_date": "2022-09-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:33Z"
+}

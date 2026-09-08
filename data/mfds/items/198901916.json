@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R05CB07",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901916",
+ "history_fetched_at": "2026-08-28T13:23:42Z",
  "revisions": [
   {
    "revision_id": "198901916-7778b9a8",
@@ -19,7 +20,8 @@
    "ee_text": "분비기능이 항진된 급ㆍ만성 호흡기 장애 : 급·만성기관지염, 호흡장애(천식, 기침)를 수반한 기관지염, 비인두염, 후두기관염",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198901916/EE",
    "first_observed_at": "2026-08-28T13:23:42Z",
-   "last_observed_at": "2026-08-28T13:23:42Z"
+   "last_observed_at": "2026-09-08T08:27:55Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "198901916-c278a45f",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:42Z",
    "last_observed_at": "2026-08-28T13:23:42Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:42Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602187",
+ "item_name": "티엔시나정",
+ "entp_name": "(주)시어스제약",
+ "permit_date": "20260728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Precipitated Calcium Carbonate/Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602187",
+ "revisions": [
+  {
+   "revision_id": "202602187-3ba523b3",
+   "content_sha256": "3ba523b3cb5b3be91a0973ddd654e556cf2c3a12293214adae3b52fd64d88a43",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:34Z",
+   "last_observed_at": "2026-09-08T09:05:34Z",
+   "official_revision_date": "2026-07-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:34Z"
+}

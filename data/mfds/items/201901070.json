@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901070",
+ "item_name": "휴메론플러스점안액",
+ "entp_name": "(주)휴비스트제약",
+ "permit_date": "20190221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051832]플루오로메톨론|[M223237]테트라히드로졸린염산염",
+ "main_item_ingr_eng": "Fluorometholone/Tetrahydrozoline Hydrochloride",
+ "edi_code": "628801271",
+ "atc_code": "S01B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901070",
+ "revisions": [
+  {
+   "revision_id": "201901070-b98433ed",
+   "content_sha256": "b98433ede8f3067ba8a21e2f4a3fbbf4a35e0e2eaf5de671281071b0485aba13",
+   "ee_text": "1. 심한 부종과 충혈이 있는 급성 비감염성 결막염ㆍ알레르기성 각막염 2. 전안부의 비감염성 염증(전포도막염, 상공막염, 공막염) 3. 사시절개술ㆍ백내장ㆍ녹내장 수술 후 염증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:20Z",
+   "last_observed_at": "2026-09-08T08:54:20Z",
+   "official_revision_date": "2019-02-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:20Z"
+}

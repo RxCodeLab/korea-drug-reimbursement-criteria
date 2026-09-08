@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307660",
+ "item_name": "액트비트정(수출용)",
+ "entp_name": "초당약품공업(주)",
+ "permit_date": "20130611",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040133]리보플라빈|[M096429]시아노코발라민|[M223289]폴산|[M223292]푸르설티아민염산염|[M248795]피리독살포스페이트수화물|[M255819]토코페롤아세테이트 2배산|[M268925]마늘건조엑스(100→1)",
+ "main_item_ingr_eng": "Allium Sativum Dried Extract (100→1)/Cyanocobalamin/Folic Acid/Fursultiamine Hydrochloride/Pyridoxal Phosphate Hydrate/Riboflavin/Tocopherol Acetate Powder 50%",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307660",
+ "revisions": [
+  {
+   "revision_id": "201307660-94aa0826",
+   "content_sha256": "94aa0826bfbb11dd5418f3c7b89b2e38407d5e22616c3534ddc7da789d94f23d",
+   "ee_text": "1. 다음경우의 비타민 E, B , B , B 의 보급 - 육체피로, 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시, 노년기 2. 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. - 다음증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) - 각기 - 눈의 피로",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:06Z",
+   "last_observed_at": "2026-09-08T08:46:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:06Z"
+}

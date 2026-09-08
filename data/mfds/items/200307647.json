@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200307647",
+ "item_name": "싸이토텍정200마이크로그램(미소프로스톨100배산)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20060901",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257626]미소프로스톨 100배산",
+ "main_item_ingr_eng": "Misoprostol 1%",
+ "edi_code": "648900540",
+ "atc_code": "A02BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307647",
+ "revisions": [
+  {
+   "revision_id": "200307647-a658b150",
+   "content_sha256": "a658b150c5f8a48c3410ed8961e6e3765f738dd98f7b8c158e434084e0a3ce99",
+   "ee_text": "1. 주효능 효과 위ㆍ십이지장궤양, 비스테로이드성 소염진통제 투여로 인한 위ㆍ십이지장염 및 위ㆍ십이지장궤양의 예방과 치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:18Z",
+   "last_observed_at": "2026-09-08T08:37:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:18Z"
+}

@@ -7,7 +7,7 @@
  "permit_date": "20141119",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M222893]트라마돌염산염|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M222893]트라마돌염산염",
  "main_item_ingr_eng": "Acetaminophen/Tramadol Hydrochloride",
  "edi_code": "622802150",
  "atc_code": "N02AJ13",
@@ -20,7 +20,8 @@
    "ee_text": "중등도-중증의 급·만성 통증",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201405383/EE",
    "first_observed_at": "2026-08-27T13:00:23Z",
-   "last_observed_at": "2026-08-28T13:24:39Z"
+   "last_observed_at": "2026-09-08T08:47:59Z",
+   "normalizer_version": 3
   }
  ]
 }

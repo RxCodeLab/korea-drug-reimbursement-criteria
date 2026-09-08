@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "M02AX10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707249",
+ "history_fetched_at": "2026-08-28T13:24:13Z",
  "revisions": [
   {
-   "revision_id": "200707249-695d8fd9",
-   "content_sha256": "695d8fd95e400afa6f97fff4623ec74d364d485867cf8c050d8ac6fe2b63073e",
-   "ee_text": ": 요통, 관절통, 근육통, 삠, 타박상",
+   "revision_id": "200707249-a6fc4fc0",
+   "content_sha256": "a6fc4fc00c1fa4ab30228e6bede38fa252fd7f3b3a1704e896dcf50eab63fc47",
+   "ee_text": "다음 증상의 진통ㆍ소염 : 요통, 관절통, 근육통, 삠, 타박상",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:24:13Z",
-   "last_observed_at": "2026-08-28T13:24:13Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:41:37Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:13Z"
+ ]
 }

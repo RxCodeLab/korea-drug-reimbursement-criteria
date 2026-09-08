@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302343",
+ "item_name": "틱스타정(리팍시민)",
+ "entp_name": "(주)삼오제약",
+ "permit_date": "20230807",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050186]리팍시민",
+ "main_item_ingr_eng": "Rifaximin",
+ "edi_code": "",
+ "atc_code": "A07AA11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302343",
+ "revisions": [
+  {
+   "revision_id": "202302343-d55c34f4",
+   "content_sha256": "d55c34f4d746669778c18b77e454917d9a007e0f8fc57ccb88a8033eff7f2f62",
+   "ee_text": "18세 이상 환자에서 현성 간성뇌증 재발감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:17Z",
+   "last_observed_at": "2026-09-08T09:02:17Z",
+   "official_revision_date": "2023-08-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:17Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701154",
+ "item_name": "디아미크롱정(글리클라지드)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "19970113",
+ "cancel_date": "20240320",
+ "status": "취하",
+ "main_item_ingr": "[M222831]글리클라지드",
+ "main_item_ingr_eng": "Gliclazide",
+ "edi_code": "",
+ "atc_code": "A10BB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701154",
+ "revisions": [
+  {
+   "revision_id": "199701154-c0d20eb3",
+   "content_sha256": "c0d20eb34321a3373c95df7bb6cf2afd2f98d7bcd33bafa074a0343d35c40cab",
+   "ee_text": "제 2형 당뇨병(식사요법, 운동요법으로 충분한 효과를 얻을 수 없는 경우에 한함.)",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:55Z",
+   "last_observed_at": "2026-09-08T08:30:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:55Z"
+}

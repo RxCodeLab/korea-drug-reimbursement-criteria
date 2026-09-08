@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200422",
+ "item_name": "노즈펜정",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20020321",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100527]신이청폐탕배농산급탕가시호창출건조엑스",
+ "main_item_ingr_eng": "",
+ "edi_code": "",
+ "atc_code": "R01B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200422",
+ "revisions": [
+  {
+   "revision_id": "200200422-705f1282",
+   "content_sha256": "705f128295a86809cb8155e48d970af752bc96b201d237701e3568ff2de647a2",
+   "ee_text": "부비동염, 비(鼻)카타르, 코막힘, 취비증(코에서 냄새가 나는 증상)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:02Z",
+   "last_observed_at": "2026-09-08T08:36:02Z",
+   "official_revision_date": "2010-04-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:02Z"
+}

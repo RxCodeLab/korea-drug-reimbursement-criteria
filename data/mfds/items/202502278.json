@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502278",
+ "item_name": "스파이크박스엘피주(사스코로나바이러스-2 mRNA 백신)",
+ "entp_name": "모더나코리아(주)",
+ "permit_date": "20250829",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285787]사스코로나바이러스-2 스파이크 단백질 발현 메신저 리보핵산(SARS-CoV-2 LP.8.1 mRNA)(숙주: DIG315, 벡터: PL-049777)",
+ "main_item_ingr_eng": "SARS-CoV-2 Spike Protein encoded messenger Ribonucleic Acid(SARS-CoV-2 LP.8.1 mRNA)(Host: DIG315, Vector: PL-049777)",
+ "edi_code": "",
+ "atc_code": "J07BN01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502278",
+ "revisions": [
+  {
+   "revision_id": "202502278-6f73364b",
+   "content_sha256": "6f73364b97012319717048daff3d7678e7a3fcf444e0e59d1f9ff5ff5349a77b",
+   "ee_text": "12세 이상에서 SARS-CoV-2 바이러스에 의한 코로나19의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:13Z",
+   "last_observed_at": "2026-09-08T09:04:13Z",
+   "official_revision_date": "2025-08-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:13Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600356",
+ "item_name": "메디아벤엘정(나프타존)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20160120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200173]나프타존",
+ "main_item_ingr_eng": "Naftazone",
+ "edi_code": "659901070",
+ "atc_code": "C05CX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600356",
+ "revisions": [
+  {
+   "revision_id": "201600356-eeb33905",
+   "content_sha256": "eeb33905323f331e2a452ad70d69e396eaf7a84810d552c4eb0db76d624688ef",
+   "ee_text": "1. 정맥부전에 의한 증상(다리중압감, 통증, 부종, 야간 종아리 경련)의 개선 2. 통증 정맥류의 개선",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:07Z",
+   "last_observed_at": "2026-09-08T08:50:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:07Z"
+}

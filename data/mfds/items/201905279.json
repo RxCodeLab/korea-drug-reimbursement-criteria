@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905279",
+ "item_name": "케이타솔액(클로베타솔프로피오네이트)",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20190724",
+ "cancel_date": "20240930",
+ "status": "취하",
+ "main_item_ingr": "[M223224]클로베타솔프로피오네이트",
+ "main_item_ingr_eng": "Clobetasol Propionate",
+ "edi_code": "",
+ "atc_code": "D07AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905279",
+ "revisions": [
+  {
+   "revision_id": "201905279-339998b1",
+   "content_sha256": "339998b18c9655b594bcea9613357e3314f6a326a516aa88831ed0cda092e1bf",
+   "ee_text": "주로 두부의 피부질환(습진ㆍ피부염군, 건선)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:55Z",
+   "last_observed_at": "2026-09-08T08:55:55Z",
+   "official_revision_date": "2019-07-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:55Z"
+}

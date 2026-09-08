@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700490",
+ "item_name": "가스텍정(미소프로스톨)(수출명:BEEALLETIN)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "19970324",
+ "cancel_date": "20250401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M257626]미소프로스톨 100배산",
+ "main_item_ingr_eng": "Misoprostol 1%",
+ "edi_code": "",
+ "atc_code": "A02BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700490",
+ "revisions": [
+  {
+   "revision_id": "199700490-2bb54c04",
+   "content_sha256": "2bb54c04c70e417bf624706e44614dacfbf5a949d7ccb548d978ed16235b9e5c",
+   "ee_text": "1. 주효능 효과 위.십이지장궤양, 비스테로이드성 소염진통제 투여로 인한 위.십이지장염 및 위.십이지장궤양의 예방과 치료",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:44Z",
+   "last_observed_at": "2026-09-08T08:30:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:44Z"
+}

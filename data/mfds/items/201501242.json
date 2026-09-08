@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501242",
+ "item_name": "크라시에마황탕엑스세립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20150309",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261691]마황탕엑스",
+ "main_item_ingr_eng": "Mahwangtang Extract",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501242",
+ "revisions": [
+  {
+   "revision_id": "201501242-b503f890",
+   "content_sha256": "b503f89048bd7686de2c704626d4e79ce1f1b90407305428c1780194051d5592",
+   "ee_text": "감기 초기에 오한, 발열, 두통, 몸살이 있는 다음 증상 : 감기, 코감기",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:35Z",
+   "last_observed_at": "2026-09-08T08:48:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:35Z"
+}

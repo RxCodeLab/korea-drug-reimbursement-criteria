@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701638",
+ "item_name": "크네마정(비페닐디메칠디카르복실레이트)(수출용)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "19970227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083508]비페닐디메칠디카르복실레이트",
+ "main_item_ingr_eng": "Biphenyl Dimethyl Dicarboxylate",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701638",
+ "revisions": [
+  {
+   "revision_id": "199701638-2f9d4b74",
+   "content_sha256": "2f9d4b74c05a9788e44dae351ad34d86f302d359bcaed66e0fe2b82d2f0a1e6e",
+   "ee_text": "지속적으로 SGTP가 상승되어있는 만성, 활동성B형간염, 간경화증, 약물로 인한 간염",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:05Z",
+   "last_observed_at": "2026-09-08T08:31:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:05Z"
+}

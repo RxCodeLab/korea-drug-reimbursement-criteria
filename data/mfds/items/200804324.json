@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200804324",
+ "item_name": "헤모크린알피(수출명:헤모크린알피)(수출용)",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20080419",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082366]과산화수소수35%|[M212447]아세트산 무수물",
+ "main_item_ingr_eng": "Glacial Acetic Acid/Hydrogen Peroxide Solution 35%",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804324",
+ "revisions": [
+  {
+   "revision_id": "200804324-b6c826bd",
+   "content_sha256": "b6c826bd677f679f9fc50aa86f1ccdf135b57551a57812f255bf87d6c8aafaf3",
+   "ee_text": "이 약은 중공사(hollow fiber)형 투석기의 실험실적(in vitro)세정 및 소독용으로 사용된다. 이 약의 사용용도는 시스템 제조사가 과초산용으로 검증한 투석기 재생 자동화 및 수동 시스템이다. 이 약은 투석기 재생용으로만 사용되도록 제제화 되었기 때문에 사용자는 투석기 재생용으로 만든 과초산 원액을 사용하기 위해 재생 시스템 제조자가 권고하는 희석지침서를 준수하여야 한다.",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:26Z",
+   "last_observed_at": "2026-09-08T08:42:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:26Z"
+}

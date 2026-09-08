@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303158",
+ "item_name": "로얄스타진크림",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20231116",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101579]히드로코르티손|[M200412]로얄젤리",
+ "main_item_ingr_eng": "Hydrocortisone/Royal Jelly",
+ "edi_code": "",
+ "atc_code": "D07XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303158",
+ "revisions": [
+  {
+   "revision_id": "202303158-84fa0bd8",
+   "content_sha256": "84fa0bd881f15dc2c89c1f607c75ed7730f59cb2aad9822359f8231d1c0fe5e6",
+   "ee_text": "알레르기 피부염, 화장독, 땀띠, 가려움, 접촉피부염(기저귀 발진), 면도 자극, 피부 거칠어짐 방지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:31Z",
+   "last_observed_at": "2026-09-08T09:02:31Z",
+   "official_revision_date": "2023-11-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:31Z"
+}

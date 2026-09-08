@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199200928",
+ "item_name": "삼천당아시클로버정(수출명:베록스정)",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "19920515",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "651200850",
+ "atc_code": "J05AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200928",
+ "revisions": [
+  {
+   "revision_id": "199200928-73ccd39a",
+   "content_sha256": "73ccd39a1d15bd0186d484a1b9d6d883fe27283592be2f1d4868ea00bc764ef3",
+   "ee_text": "(정제)(시럽제)(현탁제) 1. 초발성 및 재발성 생식기포진을 포함한 피부 및 점막조직의 단순포진 바이러스 감염증의 치료 및 예방 2. 대상포진 바이러스 감염증의 치료, 특히 급성시의 통증에 효과가 있다. 반면 포진후 신경통에 대한 효과는 아직 증명되지 않았다. 3. 2세 이상 소아의 수두 치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:24Z",
+   "last_observed_at": "2026-09-08T08:28:24Z",
+   "official_revision_date": "2018-08-02"
+  },
+  {
+   "revision_id": "199200928-81114a56",
+   "content_sha256": "81114a56c31e7159495448c62a84d1d46c795e395f33f920180329943713df26",
+   "ee_text": "(정제)(캡슐제)(시럽제)(현탁액) 1. 초발성 및 재발성 생식기포진을 포함한 피부 및 점막조직의 단순포진 바이러스 감염증의 치료 및 예방 2. 대상포진 바이러스 감염증의 치료, 특히 급성시의 통증에 효과가 있다. 반면 포진후 신경통에 대한 효과는 아직 증명되지 않았다. 3. 2세 이상 소아의 수두 치료 (주사제) 1. 면역기능정상 환자 : 중증 초발성 생식기포진, 재발성 수두대상포진 바이러스 감염증, 단순포진성 뇌염 2. 면역기능저하 환자 : 단순포진 바이러스 감염증의 치료 및 예방, 초발성 및 재발성 수두대상포진바이러스 감염증, 단순포진성 뇌염",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:28:24Z",
+   "last_observed_at": "2026-09-08T08:28:24Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:24Z"
+}

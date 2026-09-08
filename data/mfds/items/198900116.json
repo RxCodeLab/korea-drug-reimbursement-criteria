@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198900116",
+ "item_name": "한풍정제부자산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19890323",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M103995]정제부자(가공부자)",
+ "main_item_ingr_eng": "Pulvis Aconiti Tuberis Purificaum",
+ "edi_code": "",
+ "atc_code": "C01EB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900116",
+ "revisions": [
+  {
+   "revision_id": "198900116-f65bc20e",
+   "content_sha256": "f65bc20ef98b11c201a07cc977328321719cbe4e3938aa3f6a29e0dbf61dd2d9",
+   "ee_text": "진통, 강심, 이뇨",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:47Z",
+   "last_observed_at": "2026-09-08T08:27:47Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:47Z"
+}

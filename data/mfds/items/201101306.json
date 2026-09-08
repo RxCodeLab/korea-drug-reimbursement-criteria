@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201101306",
+ "item_name": "시네츄라시럽",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20110311",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M217121]아이비엽30%에탄올엑스(5~7.5→1)|[M217121]아이비엽30%에탄올엑스(5~7.5→1)|[M251833]황련수포화부탄올건조엑스(4.5~7→1)|[M251833]황련수포화부탄올건조엑스(4.5~7→1)",
+ "main_item_ingr_eng": "Coptis Butanol Dried Extract(4.5~7→1)/Ivy Leaf 30% Ethanol Extract (5~7.5→1)",
+ "edi_code": "650203651,650203654,650203656",
+ "atc_code": "R05CA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101306",
+ "revisions": [
+  {
+   "revision_id": "201101306-582529a7",
+   "content_sha256": "582529a78e912dc0d78c0026889be4e5ac434f1b4330d75f8e24286e2c686c57",
+   "ee_text": "1. 다음 질병으로 인한 기침, 가래 : 급성 상기도 감염, 만성 염증성 기관지염 2. 급성 기관지염",
+   "ee_doc_id": "72",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:31Z",
+   "last_observed_at": "2026-09-08T08:44:31Z",
+   "official_revision_date": "2021-04-29"
+  },
+  {
+   "revision_id": "201101306-a4776d39",
+   "content_sha256": "a4776d39f19d6f567d1a0dfb71069455d4e4ffe8f028ed014bb572105fb06e65",
+   "ee_text": "다음 질병으로 인한 기침, 가래 : 급성 상기도 감염, 만성 염증성 기관지염",
+   "ee_doc_id": "48",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:31Z",
+   "last_observed_at": "2026-09-08T08:44:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:31Z"
+}

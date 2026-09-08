@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102967",
+ "item_name": "코비드-19백신얀센주(사스코로나바이러스-2 바이러스벡터백신)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20210407",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280703]재조합 코로나바이러스 스파이크 단백질 발현 아데노바이러스 벡터(숙주: PER.C6 TetR, 벡터: Ad26.COV2.S)",
+ "main_item_ingr_eng": "Recombinant Adenovirus Vector encoded SARS-CoV-2 Spike Protein(Host: PER.C6 TetR, Vector: Ad26.COV2.S)",
+ "edi_code": "",
+ "atc_code": "J07BX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102967",
+ "revisions": [
+  {
+   "revision_id": "202102967-1ac6a467",
+   "content_sha256": "1ac6a467a5c730cafa8e420c9241af9c8b70c859c0f72587ee2968fb6fbe14a6",
+   "ee_text": "18세 이상에서 SARS-CoV-2 바이러스에 의해 발생하는 코로나19의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:06Z",
+   "last_observed_at": "2026-09-08T09:00:06Z",
+   "official_revision_date": "2021-04-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:06Z"
+}

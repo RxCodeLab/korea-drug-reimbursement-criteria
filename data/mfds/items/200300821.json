@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300821",
+ "item_name": "태극바시트라신연고(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20030422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020054]바시트라신|[M020054]바시트라신",
+ "main_item_ingr_eng": "Bacitracin",
+ "edi_code": "",
+ "atc_code": "D06AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300821",
+ "revisions": [
+  {
+   "revision_id": "200300821-7868d7d6",
+   "content_sha256": "7868d7d669541edc7269c4979235045dbaeb583335e89a2708b995e32fedfcd0",
+   "ee_text": "1. 유효균종 : 바시트라신 감수성균 2. 적응증 : 경미한 베임, 창상, 화상에 의한 감염증",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:52Z",
+   "last_observed_at": "2026-09-08T08:36:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:52Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503117",
+ "item_name": "로켈마현탁용분말10그램(지르코늄사이클로규산나트륨)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20251128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285939]지르코늄사이클로규산나트륨",
+ "main_item_ingr_eng": "Zirconium Cyclosilicate Sodium",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503117",
+ "revisions": [
+  {
+   "revision_id": "202503117-7a185f1b",
+   "content_sha256": "7a185f1b6c59fea238ef2ba09366efc99a33672ef72abebe2e7ea6318ed63a05",
+   "ee_text": "성인 고칼륨혈증의 치료 이 약은 약효 발현 시간이 느리기 때문에 생명을 위협하는 고칼륨혈증의 응급치료 목적으로 단독 사용하는 것은 권장하지 않는다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:28Z",
+   "last_observed_at": "2026-09-08T09:04:28Z",
+   "official_revision_date": "2025-11-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:28Z"
+}

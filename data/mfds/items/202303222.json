@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303222",
+ "item_name": "한풍소승기탕엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20231127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040073]대황|[M040536]지실|[M040813]후박",
+ "main_item_ingr_eng": "Magnolia Bark/Poncirus Immature Fruit/Rhubarb",
+ "edi_code": "",
+ "atc_code": "A06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303222",
+ "revisions": [
+  {
+   "revision_id": "202303222-8ff00411",
+   "content_sha256": "8ff00411e105f07b7dfcee63f3cbc142be0532eb0e36e59eb1e7bae65cec8d1c",
+   "ee_text": "변비",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:32Z",
+   "last_observed_at": "2026-09-08T09:02:32Z",
+   "official_revision_date": "2023-11-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:32Z"
+}

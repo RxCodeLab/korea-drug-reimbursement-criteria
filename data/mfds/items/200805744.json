@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805744",
+ "item_name": "타이거밤카타플라스마(수출용)(수출명 : Tiger Balm Pain Relieving Patch)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20080522",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095224]고추엑스|[M206708]DL-캄파|[M279284]L-멘톨",
+ "main_item_ingr_eng": "Capsicum Extract/DL-Camphor/L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805744",
+ "revisions": [
+  {
+   "revision_id": "200805744-5e1f57fd",
+   "content_sha256": "5e1f57fd93f2ee8ec11769adb9519eee4bb703a39b255ed2f5c92841fcad6411",
+   "ee_text": "다음 증상의 일시적인 통증 완화 ; 근육통, 관절염",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:32Z",
+   "last_observed_at": "2026-09-08T08:42:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:32Z"
+}

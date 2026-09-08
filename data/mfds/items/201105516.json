@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201105516",
+ "item_name": "코러스클로파지민연질캡슐(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20110824",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081881]클로파지민",
+ "main_item_ingr_eng": "Clofazimine",
+ "edi_code": "",
+ "atc_code": "J04BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201105516",
+ "revisions": [
+  {
+   "revision_id": "201105516-391f15ef",
+   "content_sha256": "391f15ef6c82675c3fb4999970a76cb4f933410995318eab70f0ca9bc0a3c824",
+   "ee_text": "1. 한센병 1) 나병종나병과 중간나병 2) 답손에 내성이 있는 나병종나병과 중간나병 3) 나병결절홍반과 같은 나병반응",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:51Z",
+   "last_observed_at": "2026-09-08T08:44:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:51Z"
+}

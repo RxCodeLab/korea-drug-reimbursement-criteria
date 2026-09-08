@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201200232",
+ "item_name": "헌터라제(이두설파제-베타)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20120109",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286354]이두설파제-베타",
+ "main_item_ingr_eng": "Idursulfase-β",
+ "edi_code": "643604891",
+ "atc_code": "A16AB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200232",
+ "revisions": [
+  {
+   "revision_id": "201200232-398840cc",
+   "content_sha256": "398840cc81055782c5a5b65f611b1ac03a785a86fc34d92d0d719002ac0300b2",
+   "ee_text": "헌터 증후군(뮤코다당증 II형, MPS II) 환자에게 효소대체요법으로 사용한다.",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:08Z",
+   "last_observed_at": "2026-09-08T08:45:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:08Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501062",
+ "item_name": "베나치오프로액",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20250430",
+ "cancel_date": "20250627",
+ "status": "취하",
+ "main_item_ingr": "[M040006]감초|[M040007]건강|[M040538]진피|[M040548]창출|[M040775]현호색|[M040811]회향|[M050036]육계|[M050729]산사|[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Atractylodes Rhizome/Cinnamon Bark/Citrus Unshiu Peel/Corydalis Tuber/Fennel/Ginger/Hawthorn Fruit/Licorice/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501062",
+ "revisions": [
+  {
+   "revision_id": "202501062-5c988f87",
+   "content_sha256": "5c988f878a90ba2cd8594143f1c258e36afdc3787bbedc6931c7027eb76d1842",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:53Z",
+   "last_observed_at": "2026-09-08T09:03:53Z",
+   "official_revision_date": "2025-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:53Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500820",
+ "item_name": "배리트락스주(흡착탄저백신(유전자재조합))",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20250408",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285139]재조합 탄저 방어항원 단백(균주명: Bacillus brevis 47-5Q주, 벡터: pNU212-mPA)",
+ "main_item_ingr_eng": "Recombinant Anthrax Protective Antigen",
+ "edi_code": "",
+ "atc_code": "J07AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500820",
+ "revisions": [
+  {
+   "revision_id": "202500820-5919d1a9",
+   "content_sha256": "5919d1a9e8b28e112d6aa4b68cc98d4d825f25194b8eb7dbf68e69436b69c795",
+   "ee_text": "탄저균의 노출위험이 높은 19세 이상 65세 미만 성인에서 탄저균으로 인한 감염증의 노출 전 예방 이 약의 유효성은 동물시험에서 유효성(중화항체가, 생존율) 결과와 건강한 사람에서 근육주사로 유도된 면역원성 결과에 근거한다. 동물시험에서는 이 약의 근육주사 후 탄저균의 피하투여를 통한 공격시험에서 생존율을 평가하였고, 탄저균 흡입투여에 대한 이 약의 방어능을 시험한 자료는 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:49Z",
+   "last_observed_at": "2026-09-08T09:03:49Z",
+   "official_revision_date": "2025-04-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:49Z"
+}

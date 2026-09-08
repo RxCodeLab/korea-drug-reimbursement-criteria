@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308068",
+ "item_name": "피내용건조비씨지백신AJV주(피내용건조비씨지백신)",
+ "entp_name": "(주)엑세스파마",
+ "permit_date": "20030929",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263954]칼멭게량균(Mycobacterium bovis(B.C.G))(Danish 1331주)",
+ "main_item_ingr_eng": "Mycobacterium Bovis(B.C.G) Danish 1131",
+ "edi_code": "",
+ "atc_code": "J07AN01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308068",
+ "revisions": [
+  {
+   "revision_id": "200308068-e894cee6",
+   "content_sha256": "e894cee635ebae669106451099a8177be08a9e18a9de0a159de5f49a4f2ce6d9",
+   "ee_text": "결핵의 예방",
+   "ee_doc_id": "29",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:22Z",
+   "last_observed_at": "2026-09-08T08:37:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:22Z"
+}

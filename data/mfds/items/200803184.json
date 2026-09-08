@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200803184",
+ "item_name": "본필정70밀리그램(알렌드론산나트륨수화물)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20080321",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222873]알렌드론산나트륨수화물",
+ "main_item_ingr_eng": "Sodium Alendronate Hydrate",
+ "edi_code": "649804050",
+ "atc_code": "M05BA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803184",
+ "revisions": [
+  {
+   "revision_id": "200803184-0f5aef87",
+   "content_sha256": "0f5aef875676e98dff5cbd66d82aab650e495da4f4b3745675576d34b0966d17",
+   "ee_text": "1. 폐경 후 여성의 골다공증 치료 2. 남성의 골다공증 치료",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:22Z",
+   "last_observed_at": "2026-09-08T08:42:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:22Z"
+}

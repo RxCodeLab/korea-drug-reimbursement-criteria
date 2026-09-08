@@ -7,7 +7,7 @@
  "permit_date": "20090514",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M222973]디펜히드라민염산염|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M222973]디펜히드라민염산염",
  "main_item_ingr_eng": "Acetaminophen/Diphenhydramine Hydrochloride",
  "edi_code": "",
  "atc_code": "N02BE51",
@@ -20,7 +20,8 @@
    "ee_text": "두통, 동통 및 불면증을 수반하는 통증, 발열의 일시적 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200903285/EE",
    "first_observed_at": "2026-08-27T12:29:45Z",
-   "last_observed_at": "2026-08-28T13:24:21Z"
+   "last_observed_at": "2026-09-08T08:43:15Z",
+   "normalizer_version": 3
   }
  ]
 }

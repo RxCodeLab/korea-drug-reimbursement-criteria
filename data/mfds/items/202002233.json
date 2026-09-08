@@ -12,6 +12,7 @@
  "edi_code": "060500660",
  "atc_code": "C09CA08",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002233",
+ "history_fetched_at": "2026-08-28T13:25:16Z",
  "revisions": [
   {
    "revision_id": "202002233-3859dffe",
@@ -19,9 +20,9 @@
    "ee_text": "본태성 고혈압의 치료",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:16Z",
-   "last_observed_at": "2026-08-28T13:25:16Z",
-   "official_revision_date": "2020-03-31"
+   "last_observed_at": "2026-09-08T08:58:15Z",
+   "official_revision_date": "2020-03-31",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:16Z"
+ ]
 }

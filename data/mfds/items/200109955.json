@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109955",
+ "item_name": "날페인주사20밀리그램(날부핀염산염)(수출명:아크날주사20밀리그램)(수출용)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20010208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257272]날부핀염산염",
+ "main_item_ingr_eng": "Nalbuphine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02AF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109955",
+ "revisions": [
+  {
+   "revision_id": "200109955-3bd494c5",
+   "content_sha256": "3bd494c562ccd8529d7db4370f31d1f9c5d9bc13e11baebc540600d08d497654",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 중등도 및 심한 동통, 마취보조제로서 수술전후 및 분만시 동통",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:57Z",
+   "last_observed_at": "2026-09-08T08:35:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:57Z"
+}

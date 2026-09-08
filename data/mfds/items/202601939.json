@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601939",
+ "item_name": "구미헥시1%에타외용액",
+ "entp_name": "구미제약(주)",
+ "permit_date": "20260703",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089677]에탄올|[M089677]에탄올|[M223220]클로르헥시딘글루콘산염 액|[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution/Ethanol",
+ "edi_code": "",
+ "atc_code": "D08AC52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601939",
+ "revisions": [
+  {
+   "revision_id": "202601939-c3e2b660",
+   "content_sha256": "c3e2b66079391b934a17edcacc3849014737facad9058bddc37be95277fd32cb",
+   "ee_text": "수술시 수술자 및 보건위생종사자의 손소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:28Z",
+   "last_observed_at": "2026-09-08T09:05:28Z",
+   "official_revision_date": "2026-07-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:28Z"
+}

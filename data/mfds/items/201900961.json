@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900961",
+ "item_name": "나벨빈연질캡슐30밀리그램(비노렐빈타르타르산염)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20190215",
+ "cancel_date": "20240215",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222855]비노렐빈타르타르산염",
+ "main_item_ingr_eng": "Vinorelbine Tartrate",
+ "edi_code": "",
+ "atc_code": "L01CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900961",
+ "revisions": [
+  {
+   "revision_id": "201900961-3b6f83da",
+   "content_sha256": "3b6f83da51f2094aa548dd81035a30cff4e6364638540d4015300aef1fe03f40",
+   "ee_text": "비소세포폐암, 진행성 유방암",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:16Z",
+   "last_observed_at": "2026-09-08T08:54:16Z",
+   "official_revision_date": "2019-02-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:16Z"
+}

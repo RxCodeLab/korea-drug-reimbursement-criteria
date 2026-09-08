@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600160",
+ "item_name": "나드정",
+ "entp_name": "(주)킵스바이오파마",
+ "permit_date": "20260119",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040063]니코틴산|[M040064]니코틴산아미드|[M222991]레티놀팔미테이트|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr_eng": "Nicotinamide/Nicotinic Acid/Retinol Palmitate/Tocopherol Acetate Powder 50%",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600160",
+ "revisions": [
+  {
+   "revision_id": "202600160-b64aa75d",
+   "content_sha256": "b64aa75d52595b24363ae71fb2684447d4af383d362cae8a9db555e3a4b97174",
+   "ee_text": "○ 다음 경우의 비타민 A, E의 보급 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 ○ 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. - 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨ᆞ목결림, 수족저림, 수족냉증(손발이 차가움) - 눈의 건조감의 완화 - 야맹증(밤에 잘 못보는 증상)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:40Z",
+   "last_observed_at": "2026-09-08T09:04:40Z",
+   "official_revision_date": "2026-01-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:40Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200203653",
+ "item_name": "경방형방도적산엑스과립(동의수세보원)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20020829",
+ "cancel_date": "20240401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040186]목통|[M040205]방풍|[M050022]강활|[M050227]독활|[M051318]전호|[M051363]생지황|[M051932]현삼|[M051936]형개|[M096303]괄루인",
+ "main_item_ingr_eng": "Akebia Stem/Aralia Continentalis Root/Ostericum Root/Peucedani Radix/Rehmanniae Radix Recens/Saposhnikovia Root/Schizonepeta Spike/Scrophularia Root/Trichosanthes Seed",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200203653",
+ "revisions": [
+  {
+   "revision_id": "200203653-bd8baaf1",
+   "content_sha256": "bd8baaf1f30eef5025502859e0605b1b73a225bb33a66925dad98cbe0b232c93",
+   "ee_text": "소양인의 감기가 오래되어 오한, 발열, 두통, 가슴이 답답한 증상",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:27Z",
+   "last_observed_at": "2026-09-08T08:36:27Z",
+   "official_revision_date": "2010-04-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:27Z"
+}

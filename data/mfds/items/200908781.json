@@ -12,6 +12,7 @@
  "edi_code": "640902240",
  "atc_code": "A05AA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908781",
+ "history_fetched_at": "2026-08-28T13:24:22Z",
  "revisions": [
   {
    "revision_id": "200908781-41705fd8",
@@ -19,9 +20,9 @@
    "ee_text": "지속적으로 SGPT가 상승되어 있는 만성지속성 간염",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:24:22Z",
-   "last_observed_at": "2026-08-28T13:24:22Z",
-   "official_revision_date": "2017-09-22"
+   "last_observed_at": "2026-09-08T08:43:40Z",
+   "official_revision_date": "2017-09-22",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:22Z"
+ ]
 }

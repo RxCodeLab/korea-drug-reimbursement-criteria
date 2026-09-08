@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801546",
+ "item_name": "휴온스시메티딘주사(수출용)(수출명 :KWANG MYUNG CIMETIDINE Injection)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20080204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050857]시메티딘",
+ "main_item_ingr_eng": "Cimetidine",
+ "edi_code": "",
+ "atc_code": "A02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801546",
+ "revisions": [
+  {
+   "revision_id": "200801546-04b793d7",
+   "content_sha256": "04b793d7760317c78edd40465d96b99cdbe105c0fe7db6d31c259a0957e7a5ca",
+   "ee_text": "1. 주효능 효과 위.십이지장궤양, 역류성식도염, 졸링거-엘리슨증후군, 상부소화관출혈(소화성궤양, 급성스트레스궤양, 출혈성위염에 의한), 재발성궤양",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:15Z",
+   "last_observed_at": "2026-09-08T08:42:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:15Z"
+}

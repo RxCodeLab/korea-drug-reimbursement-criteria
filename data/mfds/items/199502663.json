@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199502663",
+ "item_name": "아시로빈크림(아시클로버)(수출용)(수출명:아시클로버크림,클로브락스크림)",
+ "entp_name": "(주)서울제약",
+ "permit_date": "19950823",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버|[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "",
+ "atc_code": "D06BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502663",
+ "revisions": [
+  {
+   "revision_id": "199502663-ee61b533",
+   "content_sha256": "ee61b533c32a08bd7d2e567bcec2c5938d7713c536f6f3c6cb4f77e1e0ed0a0c",
+   "ee_text": "단순포진(물집) 바이러스 감염증(초기 및 재발성 생식기 포진(물집)과 구순(입술)포진(물집)포함)",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:49Z",
+   "last_observed_at": "2026-09-08T08:29:49Z",
+   "official_revision_date": "2020-12-15"
+  },
+  {
+   "revision_id": "199502663-e79b1565",
+   "content_sha256": "e79b15652e795be5df4af050b2d2ab03e4467ab316fb135873aa446d6322af21",
+   "ee_text": "단순포진 바이러스 감염증(초기 및 재발성 생식기 포진과 구순포진 포함)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:29:49Z",
+   "last_observed_at": "2026-09-08T08:29:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:49Z"
+}

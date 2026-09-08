@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600715",
+ "item_name": "이스카도큐1밀리그램주사액[비스쿰알붐(아종:쿠에르쿠스)수용성추출물(1→5)로써 5밀리그램]",
+ "entp_name": "(주)하스피케어",
+ "permit_date": "20160203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263505]비스쿰알붐(아종:쿠에르쿠스)수용성추출물(1→5)",
+ "main_item_ingr_eng": "Viscum Album (Host Tree:Quercus) Hydrosoluble Extract (1→5)",
+ "edi_code": "",
+ "atc_code": "L01CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600715",
+ "revisions": [
+  {
+   "revision_id": "201600715-68634883",
+   "content_sha256": "686348831d46ef554a316110a1b73b217a966bcae691b5e915c7c4a638732e00",
+   "ee_text": "종양의 치료, 종양수술후 재발의 예방, 전암증 병소 조혈기관의 악성질환",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:12Z",
+   "last_observed_at": "2026-09-08T08:50:12Z",
+   "official_revision_date": "2026-01-27"
+  },
+  {
+   "revision_id": "201600715-6cffba94",
+   "content_sha256": "6cffba949ba7a46c9f05ebe5250a0ba3062824fa74a357fef87fc571afbcd4f8",
+   "ee_text": "종양의 치료, 종양수술후 재발의 예방, 전암증 병소 조혈기관의 악성질환, 골수기능의 자극",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:50:12Z",
+   "last_observed_at": "2026-09-08T08:50:12Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:12Z"
+}

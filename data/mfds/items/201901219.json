@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901219",
+ "item_name": "로카민시럽(수출용)(수출명:Kalomin syrup)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "20190227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257385]펠라고니움시도이데스11%에탄올엑스(1→8~10)·글리세린혼합액(8:2)",
+ "main_item_ingr_eng": "Pelargonium Sidoides 11% Ethanol Extract (1→8~10)·Glycerin Mixed Solution (8:2)",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901219",
+ "revisions": [
+  {
+   "revision_id": "201901219-ea5568b6",
+   "content_sha256": "ea5568b690cb6cb950330ca4acd716ff402db49d2f6c525f6c1650519b6b59e3",
+   "ee_text": "감기나 기침의 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:22Z",
+   "last_observed_at": "2026-09-08T08:54:22Z",
+   "official_revision_date": "2019-02-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:22Z"
+}

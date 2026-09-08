@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108708",
+ "item_name": "하브릭스주(A형간염백신)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20010906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092260]A형간염바이러스항원(균주명:HM175주)|[M092260]A형간염바이러스항원(균주명:HM175주)",
+ "main_item_ingr_eng": "Hepatitis A Virus Antigen (Strain: HM175)",
+ "edi_code": "",
+ "atc_code": "J07BC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108708",
+ "revisions": [
+  {
+   "revision_id": "200108708-e717819d",
+   "content_sha256": "e717819d3f3a8aa79ab5f339c64c9798012b6f4f900d23d584ed23e0029f702c",
+   "ee_text": "A형 간염의 예방",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:47Z",
+   "last_observed_at": "2026-09-08T08:35:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:47Z"
+}

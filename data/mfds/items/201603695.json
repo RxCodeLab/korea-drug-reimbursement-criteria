@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603695",
+ "item_name": "렉사멜정20mg(에스시탈로프람옥살산염)",
+ "entp_name": "(주)씨티씨바이오",
+ "permit_date": "20160621",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234885]에스시탈로프람옥살산염",
+ "main_item_ingr_eng": "Escitalopram Oxalate",
+ "edi_code": "669501940",
+ "atc_code": "N06AB10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603695",
+ "revisions": [
+  {
+   "revision_id": "201603695-615dbb5c",
+   "content_sha256": "615dbb5c9b65b9bf03744420c05a583e4648c2c3cf6a95a0ec738567c8df8e73",
+   "ee_text": "주요우울장애, 광장공포증을 수반하거나 수반하지 않는 공황장애, 사회불안장애(사회공포증), 범불안장애, 강박장애의 치료",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:51Z",
+   "last_observed_at": "2026-09-08T08:50:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:51Z"
+}

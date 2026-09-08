@@ -9,9 +9,10 @@
  "status": "정상",
  "main_item_ingr": "[M242614]메만틴염산염",
  "main_item_ingr_eng": "Memantine Hydrochloride",
- "edi_code": "",
+ "edi_code": "622805310",
  "atc_code": "N06DX01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003049",
+ "history_fetched_at": "2026-08-28T13:25:17Z",
  "revisions": [
   {
    "revision_id": "202003049-4e0bf075",
@@ -19,9 +20,9 @@
    "ee_text": "중등도에서 중증의 알츠하이머병 치료",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:17Z",
-   "last_observed_at": "2026-08-28T13:25:17Z",
-   "official_revision_date": "2020-04-27"
+   "last_observed_at": "2026-09-08T08:58:34Z",
+   "official_revision_date": "2020-04-27",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:17Z"
+ ]
 }

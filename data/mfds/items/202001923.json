@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001923",
+ "item_name": "메가옥티로정40밀리그램(옥틸로늄브롬화물)",
+ "entp_name": "(주)엘앤씨바이오",
+ "permit_date": "20200319",
+ "cancel_date": "20240904",
+ "status": "취하",
+ "main_item_ingr": "[M247676]옥틸로늄브롬화물",
+ "main_item_ingr_eng": "Octylonium Bromide",
+ "edi_code": "",
+ "atc_code": "A03AB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001923",
+ "revisions": [
+  {
+   "revision_id": "202001923-0f805065",
+   "content_sha256": "0f805065a8f97a9b319e5678796f45f7d3c8b677ab2798d9b0b90727eb6604ec",
+   "ee_text": "위ㆍ장관 경련 및 과민성 대장증후군",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:07Z",
+   "last_observed_at": "2026-09-08T08:58:07Z",
+   "official_revision_date": "2020-03-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:07Z"
+}

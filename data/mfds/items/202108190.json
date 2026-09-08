@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202108190",
+ "item_name": "훼민업정",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20211229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256377]서양승마추출액|[M258013]세인트존스워트80%메탄올건조엑스",
+ "main_item_ingr_eng": "Cimicifuga Rhizome Extract/St. John's Wort 80% Methanol Dried Extract",
+ "edi_code": "",
+ "atc_code": "G02CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108190",
+ "revisions": [
+  {
+   "revision_id": "202108190-a2f6eb1b",
+   "content_sha256": "a2f6eb1bb98b7a4ee579aedaaf4035d43c0c5bfa0941544014caa058f339ba8f",
+   "ee_text": "갱년기 다음 증상의 완화 ·홍조, 땀이 남 ·정신적 긴장, 신경과민, 집중력 부족, 불면, 불안 또는 우울증상 ·생리전의 불쾌감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:55Z",
+   "last_observed_at": "2026-09-08T09:00:55Z",
+   "official_revision_date": "2021-12-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:55Z"
+}

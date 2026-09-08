@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900782",
+ "item_name": "현대티볼론정2.5밀리그램",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20190131",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083880]티볼론",
+ "main_item_ingr_eng": "Tibolone",
+ "edi_code": "642004280",
+ "atc_code": "G03CX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900782",
+ "revisions": [
+  {
+   "revision_id": "201900782-5f77b297",
+   "content_sha256": "5f77b2979c88b845c42e735f0e39c808cd7802c4567d877e2f01508596961769",
+   "ee_text": "1) 폐경 후 1년이 경과한 여성의 에스트로겐 결핍 증상 2) (다른 골다공증 예방약이 금기이거나 내약성이 없는 경우) 골절 위험성이 높은 폐경 이후 여성의 골다공증 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:11Z",
+   "last_observed_at": "2026-09-08T08:54:11Z",
+   "official_revision_date": "2019-01-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:11Z"
+}

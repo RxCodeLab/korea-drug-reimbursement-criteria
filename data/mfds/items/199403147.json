@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403147",
+ "item_name": "스칸도네스트3%주(염산메피바카인)",
+ "entp_name": "(주)신흥",
+ "permit_date": "19940322",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081743]염산메피바카인",
+ "main_item_ingr_eng": "Mepivacaine Hydrochloride",
+ "edi_code": "657900041",
+ "atc_code": "N01BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403147",
+ "revisions": [
+  {
+   "revision_id": "199403147-4f2b3afb",
+   "content_sha256": "4f2b3afbb4e359c755cf473420365c16fea603a17d634572173f37b0d801beb9",
+   "ee_text": "구강 및 턱부위의 침윤마취 또는 전달마취",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:21Z",
+   "last_observed_at": "2026-09-08T08:29:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:21Z"
+}

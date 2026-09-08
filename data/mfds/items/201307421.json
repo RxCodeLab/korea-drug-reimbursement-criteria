@@ -7,7 +7,7 @@
  "permit_date": "20130522",
  "cancel_date": "20240521",
  "status": "취하",
- "main_item_ingr": "[M204304]피리독신염산염|[M040133]리보플라빈|[M223262]티아민질산염|[M203450]아스코르브산|[M248796]셀레늄가루 0.1%|[M099839]산화아연|[M250857]β-카로틴현탁액30%|[M223240]토코페롤아세테이트|[M051233]유비데카레논",
+ "main_item_ingr": "[M040133]리보플라빈|[M051233]유비데카레논|[M099839]산화아연|[M203450]아스코르브산|[M204304]피리독신염산염|[M223240]토코페롤아세테이트|[M223262]티아민질산염|[M248796]셀레늄가루 0.1%|[M250857]β-카로틴현탁액30%",
  "main_item_ingr_eng": "Ascorbic Acid/Beta-Carotene Suspension 30%/Pyridoxine Hydrochloride/Riboflavin/Selenium Powder 0.1%/Thiamine Nitrate/Tocopherol Acetate/Ubidecarenone/Zinc Oxide",
  "edi_code": "",
  "atc_code": "",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:32:40Z",
  "revisions": [
   {
-   "revision_id": "201307421-67113f96",
-   "content_sha256": "67113f96d925b8ca631843df4d268a9bf25dd564f99344538b7eb5d69397f013",
-   "ee_text": "1 , B 2 , B 6 , C의 보급\">",
+   "revision_id": "201307421-25f8a0ec",
+   "content_sha256": "25f8a0ec89706a565102cea5fc8976d4f6af0c6da5816fb8e2bf2adfc5ea6ef0",
+   "ee_text": "○ 다음경우의 비타민 A, E, B1, B2, B6, C의 보급 - 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 - 눈의 건조감의 완화 - 야맹증(밤에 잘 못보는 증상) - 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨ㆍ목결림, 수족저림ㆍ수족냉증(손발이 차가움) - 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 ○ 아연의 보급",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201307421/EE",
    "first_observed_at": "2026-08-27T10:32:40Z",
-   "last_observed_at": "2026-08-27T10:53:05Z"
+   "last_observed_at": "2026-09-08T08:46:03Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201307421-50651cd5",

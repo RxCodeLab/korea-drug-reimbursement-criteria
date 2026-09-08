@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199203470",
+ "item_name": "명문염산페치딘주사",
+ "entp_name": "명문제약(주)",
+ "permit_date": "19921207",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223282]페티딘염산염",
+ "main_item_ingr_eng": "Pethidine Hydrochloride",
+ "edi_code": "649801381",
+ "atc_code": "N02AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199203470",
+ "revisions": [
+  {
+   "revision_id": "199203470-8079367e",
+   "content_sha256": "8079367e139c691dac9fc3d33d9881d51bdbe9b3316d7e8b969a962d70cba2d1",
+   "ee_text": "1. 격렬한 통증의 완화, 진정, 진경 2. 마취전 투약 3. 마취시의 보조 4. 무통분만",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:39Z",
+   "last_observed_at": "2026-09-08T08:28:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:39Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508230",
+ "item_name": "플루오미진질정(데쿠알리늄염화물)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20151211",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M118315]데쿠알리늄염화물",
+ "main_item_ingr_eng": "Dequalinium Chloride",
+ "edi_code": "",
+ "atc_code": "G01AC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508230",
+ "revisions": [
+  {
+   "revision_id": "201508230-bab717e3",
+   "content_sha256": "bab717e3af1eb65c24c5710730d74ea8f0ab53bb80b01143f9df7d927eb1549f",
+   "ee_text": "세균성 및 진균성(칸디다성) 질염",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:59Z",
+   "last_observed_at": "2026-09-08T08:49:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:59Z"
+}

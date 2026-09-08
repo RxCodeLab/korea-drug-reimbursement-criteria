@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "M03BA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302732",
+ "history_fetched_at": "2026-08-28T13:24:03Z",
  "revisions": [
   {
    "revision_id": "200302732-fe869c5c",
@@ -19,9 +20,9 @@
    "ee_text": "근골격계 질환에 수반하는 동통성 연축 : 요배통증, 경견완증후군, 견관절주위염, 변행성 척추증",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:24:03Z",
-   "last_observed_at": "2026-08-28T13:24:03Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:37:15Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:03Z"
+ ]
 }

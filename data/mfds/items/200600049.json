@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600049",
+ "item_name": "글루패스트정10밀리그램(미티글리니드칼슘수화물)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20060221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252108]미티글리니드칼슘수화물",
+ "main_item_ingr_eng": "Mitiglinide Calcium Hydrate",
+ "edi_code": "644900420",
+ "atc_code": "A10BX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600049",
+ "revisions": [
+  {
+   "revision_id": "200600049-cadc400e",
+   "content_sha256": "cadc400e48890316fda282772e3fa5c0eb95b7264c466e238b52e756363f88d3",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 단독요법 2. 병용요법",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:43Z",
+   "last_observed_at": "2026-09-08T08:39:43Z",
+   "official_revision_date": "2021-09-10"
+  },
+  {
+   "revision_id": "200600049-83c44f10",
+   "content_sha256": "83c44f1037946313760f0795e2cf41545ad739dd9aee1eae6e6e3ecea41de139",
+   "ee_text": "이 약은 인슐린 비의존성 (제2형) 당뇨병 환자의 식후 혈당조절을 개선하기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 이 약은 단독요법으로 투여한다. 2. α-글루코시다제 저해제 또는 메트포르민 또는 치아졸리딘디온계 약물 단독요법으로 충분히 혈당조절을 할 수 없는 경우 이 약을 병용투여한다.",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:39:43Z",
+   "last_observed_at": "2026-09-08T08:39:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:43Z"
+}

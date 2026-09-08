@@ -7,11 +7,12 @@
  "permit_date": "20221128",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040769]행인|[M082761]인삼가루|[M082823]아선약가루|[M083617]세네가가루|[M040059]노스카핀|[M082634]길경가루|[M070009]감초가루",
+ "main_item_ingr": "[M040059]노스카핀|[M040769]행인|[M070009]감초가루|[M082634]길경가루|[M082761]인삼가루|[M082823]아선약가루|[M083617]세네가가루",
  "main_item_ingr_eng": "Apricot Kernel/Gambir Powder/Ginseng Powder/Glycyrrhiza Powder/Noscapine/Platycodon Root Powder/Senega Powder",
  "edi_code": "",
  "atc_code": "R05F",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204271",
+ "history_fetched_at": "2026-08-28T13:25:31Z",
  "revisions": [
   {
    "revision_id": "202204271-da6ae941",
@@ -19,9 +20,9 @@
    "ee_text": "기침, 가래",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:31Z",
-   "last_observed_at": "2026-08-28T13:25:31Z",
-   "official_revision_date": "2022-11-28"
+   "last_observed_at": "2026-09-08T09:01:42Z",
+   "official_revision_date": "2022-11-28",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:31Z"
+ ]
 }

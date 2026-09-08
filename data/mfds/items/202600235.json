@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600235",
+ "item_name": "일양원비액(수출용)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20260128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040030]구기자|[M040064]니코틴산아미드|[M040133]리보플라빈|[M051291]인삼|[M102908]타우린|[M204304]피리독신염산염|[M223183]카페인무수물|[M223262]티아민질산염",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Ginseng/Lycium Fruit/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Taurine/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600235",
+ "revisions": [
+  {
+   "revision_id": "202600235-e44cdf86",
+   "content_sha256": "e44cdf86c98a1abdc6202a7aa991e4f3cdc33f0e06d932b0952ac1ebccca32ba",
+   "ee_text": "1) 자양강장 2) 허약체질 3) 육체피로, 병중병후(병을 앓는 동안이나 회복 후), 발열성 소모성질환의 영양보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:42Z",
+   "last_observed_at": "2026-09-08T09:04:42Z",
+   "official_revision_date": "2026-01-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:42Z"
+}

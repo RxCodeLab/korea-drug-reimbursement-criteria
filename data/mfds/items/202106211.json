@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106211",
+ "item_name": "이뮨셀엘씨주(엘씨자가혈액유래티림프구)",
+ "entp_name": "주식회사지씨셀",
+ "permit_date": "20210827",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269423]엘씨자가혈액유래티림프구",
+ "main_item_ingr_eng": "LC Autologous Blood Origin T Lymphocyte",
+ "edi_code": "",
+ "atc_code": "L01XL",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106211",
+ "revisions": [
+  {
+   "revision_id": "202106211-5c6648c8",
+   "content_sha256": "5c6648c80ac94cc5288914e02896572f3b15e342e9d2333c0289ca1bb2e84983",
+   "ee_text": "간세포암 제거술(수술, 고주파절제술, 경피적에탄올 주입술) 후 종양제거가 확인된 환자에서 보조요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:31Z",
+   "last_observed_at": "2026-09-08T09:00:31Z",
+   "official_revision_date": "2021-08-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:31Z"
+}

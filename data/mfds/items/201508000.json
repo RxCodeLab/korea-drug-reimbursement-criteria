@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508000",
+ "item_name": "제일쿨팝겔(디클로페낙디에틸암모늄)",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20151130",
+ "cancel_date": "20251130",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M249599]디클로페낙디에틸암모늄",
+ "main_item_ingr_eng": "Diclofenac Diethylammonium",
+ "edi_code": "",
+ "atc_code": "M02AA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508000",
+ "revisions": [
+  {
+   "revision_id": "201508000-45c045c9",
+   "content_sha256": "45c045c9cf05511cef99b4f6f0f81b1c9ae8ee681de9e2b7594f2e929749660f",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) : 1. 건(힘줄), 인대, 근육 및 관절의 외상(상처)성 염증(삠, 타박상 등) 2. 연조직 류마티스의 국소형(건초염(힘줄윤활막염), 어깨손증후군, 점액낭염, 관절주위염 등) 3. 류마티스 질환의 국소형(말초관절 및 척추의 골(뼈)관절증 등)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:56Z",
+   "last_observed_at": "2026-09-08T08:49:56Z",
+   "official_revision_date": "2022-12-01"
+  },
+  {
+   "revision_id": "201508000-4f30d0a6",
+   "content_sha256": "4f30d0a676a35b815210a97dcfe24afd4b49014bb7371462ec2f1e7e8becfd26",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염 : 1. 건, 인대, 근육 및 관절의 외상성 염증(삠, 타박상 등) 2. 연조직 류마티스의 국소형(건초염, 어깨손증후군, 점액낭염, 관절주위염 등) 3. 류마티스 질환의 국소형(말초관절 및 척추의 골관절증 등)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:49:56Z",
+   "last_observed_at": "2026-09-08T08:49:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:56Z"
+}

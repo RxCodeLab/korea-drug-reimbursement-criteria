@@ -7,19 +7,21 @@
  "permit_date": "20070629",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M082696]동클로로필|[M083515]에르고칼시페롤과립|[M243499]레티놀팔미테이트유|[M082813]사유",
+ "main_item_ingr": "[M082696]동클로로필|[M082813]사유|[M083515]에르고칼시페롤과립|[M243499]레티놀팔미테이트유",
  "main_item_ingr_eng": "Chlorophyllin Copper/Ergocalciferol Granules/Retinol Palmitate Oil/Snake Oil",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707533",
+ "history_fetched_at": "2026-08-28T13:24:13Z",
  "revisions": [
   {
-   "revision_id": "200707533-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200707533-dda53685",
+   "content_sha256": "dda536859560b82740f8d92ce938a63bf2fe37da5abd4e674fb47b3db52bf2b6",
+   "ee_text": "1. 다음 증상의 완화 : 눈의 건조감 2. 치골의 발육불량 3. 야맹증(밤에 잘 못 보는 증상) 4. 구루병 예방 5. 다음 경우의 비타민 A, D의 보급 : 임신수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후) 체력저하 때, 발육기, 노년기",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200707533/EE",
    "first_observed_at": "2026-08-28T13:24:13Z",
-   "last_observed_at": "2026-08-28T13:24:13Z"
+   "last_observed_at": "2026-09-08T08:41:38Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200707533-48dc62e8",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:13Z",
    "last_observed_at": "2026-08-28T13:24:13Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:13Z"
+ ]
 }

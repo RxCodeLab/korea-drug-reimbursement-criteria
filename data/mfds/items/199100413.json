@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199100413",
+ "item_name": "일동올베탐캡슐(아시피목스)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "19910820",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085111]아시피목스",
+ "main_item_ingr_eng": "Acipimox",
+ "edi_code": "642901790",
+ "atc_code": "C10AD06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100413",
+ "revisions": [
+  {
+   "revision_id": "199100413-966405b3",
+   "content_sha256": "966405b35c8d44f408f21a01cc5e5a7b3bf7a7b7f47de46fdde376667c71e0af",
+   "ee_text": "이 약은 스타틴 혹은 피브레이트와 같은 다른 치료제에 적절한 반응을 보이지 않는 다음 환자의 중성지방을 감소시키기 위한 대체 혹은 부가 요법으로 사용한다. - 고트리글리세라이드혈증 (Ⅳ형) - 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형 (Ⅱb형) 이 약은 식이요법 및 비약물 치료요법(예: 운동요법, 체중감량)을 시도해 본 이후에 사용해야 한다. 이 약을 이용한 고지방단백혈증 치료는 심질환 이환율이나 사망률을 감소시키지 않았다.",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:08Z",
+   "last_observed_at": "2026-09-08T08:28:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:08Z"
+}

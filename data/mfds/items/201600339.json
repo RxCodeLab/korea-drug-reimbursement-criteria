@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600339",
+ "item_name": "타폭센정60밀리그램(다폭세틴염산염)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20160119",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245211]다폭세틴염산염",
+ "main_item_ingr_eng": "Dapoxetine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "G04BX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600339",
+ "revisions": [
+  {
+   "revision_id": "201600339-04d88444",
+   "content_sha256": "04d8844439a8b96b1ffd6b18517d2982b688b63a4d92653a57bcccd7c74c81df",
+   "ee_text": "조루증의 치료 - 질 내 삽입 후 사정까지의 시간이 2분 미만인 경우로, 조루증이 지속적이거나 재발하여, 개인적 고통이 크거나 대인관계에 어려움이 있으며, 사정제어가 잘 안 되는 경우",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:07Z",
+   "last_observed_at": "2026-09-08T08:50:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:07Z"
+}

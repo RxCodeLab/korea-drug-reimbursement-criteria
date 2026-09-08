@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R05F",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201676",
+ "history_fetched_at": "2026-08-28T13:24:00Z",
  "revisions": [
   {
    "revision_id": "200201676-e4a5f91e",
@@ -19,9 +20,9 @@
    "ee_text": "기관지염, 기관지천식, 콧물, 묽은 가래를 수반하는 기침, 비염",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:24:00Z",
-   "last_observed_at": "2026-08-28T13:24:00Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:36:14Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:00Z"
+ ]
 }

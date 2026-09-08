@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002690",
+ "item_name": "옥시에이드점비액(옥시메타졸린염산염)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20200416",
+ "cancel_date": "20250416",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223162]옥시메타졸린염산염|[M223162]옥시메타졸린염산염",
+ "main_item_ingr_eng": "Oxymetazoline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002690",
+ "revisions": [
+  {
+   "revision_id": "202002690-2ee64b9a",
+   "content_sha256": "2ee64b9a5331e1eb1a33de8b70e6657b35482945682b6774eda9bb071016edf1",
+   "ee_text": "부비동염, 알레르기 비염, 코감기(급성 비염)으로 인한 코막힘 증상의 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:24Z",
+   "last_observed_at": "2026-09-08T08:58:24Z",
+   "official_revision_date": "2020-04-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:24Z"
+}

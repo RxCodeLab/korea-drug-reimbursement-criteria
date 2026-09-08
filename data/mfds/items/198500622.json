@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500622",
+ "item_name": "명인페르페나진정4밀리그램",
+ "entp_name": "명인제약(주)",
+ "permit_date": "19850812",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091367]페르페나진",
+ "main_item_ingr_eng": "Perphenazine",
+ "edi_code": "651900920",
+ "atc_code": "N05AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500622",
+ "revisions": [
+  {
+   "revision_id": "198500622-2e357a03",
+   "content_sha256": "2e357a0313c9fd713338387cbea8e332f424d5b540cb922c9d46eea62116afff",
+   "ee_text": "정신분열병, 수술전·후의 구토, 메니에르증후군에 의한 어지러움, 이명",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:03Z",
+   "last_observed_at": "2026-09-08T08:27:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:03Z"
+}

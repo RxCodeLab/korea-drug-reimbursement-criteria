@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502369",
+ "item_name": "앤줍고크림(델고시티닙)",
+ "entp_name": "레오파마(유)",
+ "permit_date": "20250908",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285803]델고시티닙",
+ "main_item_ingr_eng": "Delgocitinib",
+ "edi_code": "",
+ "atc_code": "D11AH11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502369",
+ "revisions": [
+  {
+   "revision_id": "202502369-b1e58490",
+   "content_sha256": "b1e58490fe387e56b5598c31e156fe60f00b7f08b9c201eeda91731bddde7f6c",
+   "ee_text": "국소 스테로이드 치료에 반응하지 않거나 국소 스테로이드 치료가 적절하지 않은 성인의 중등증에서 중증 만성 손 습진",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:16Z",
+   "last_observed_at": "2026-09-08T09:04:16Z",
+   "official_revision_date": "2025-09-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:16Z"
+}

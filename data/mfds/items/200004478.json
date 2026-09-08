@@ -7,11 +7,12 @@
  "permit_date": "20000907",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040523]작약|[M040071]대추|[M040536]지실|[M050752]생강|[M040279]석고|[M050897]신이|[M040789]황금|[M040006]감초|[M082529]비파엽|[M040048]길경|[M040548]창출|[M040564]치자|[M040336]시호|[M040329]승마|[M040535]지모|[M040139]맥문동",
+ "main_item_ingr": "[M040006]감초|[M040048]길경|[M040071]대추|[M040139]맥문동|[M040279]석고|[M040329]승마|[M040336]시호|[M040523]작약|[M040535]지모|[M040536]지실|[M040548]창출|[M040564]치자|[M040789]황금|[M050752]생강|[M050897]신이|[M082529]비파엽",
  "main_item_ingr_eng": "Anemarrhena Rhizome/Atractylodes Rhizome/Bupleurum Root/Cimicifuga Rhizome/Eriobotrya Leaf/Gardenia Fruit/Gypsum Fibrosum/Jujube/Licorice/Liriope Tuber/Magnoliae Flos/Peony Root/Platycodon Root/Poncirus Immature Fruit/Raw Ginger/Scutellaria Root",
  "edi_code": "",
  "atc_code": "R01B",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004478",
+ "history_fetched_at": "2026-08-28T13:23:56Z",
  "revisions": [
   {
    "revision_id": "200004478-705f1282",
@@ -19,9 +20,9 @@
    "ee_text": "부비동염, 비(鼻)카타르, 코막힘, 취비증(코에서 냄새가 나는 증상)",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:23:56Z",
-   "last_observed_at": "2026-08-28T13:23:56Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:34:16Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:56Z"
+ ]
 }

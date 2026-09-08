@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309356",
+ "item_name": "통에존에스겔(피록시캄)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20130913",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071634]피록시캄",
+ "main_item_ingr_eng": "Piroxicam",
+ "edi_code": "",
+ "atc_code": "M02AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309356",
+ "revisions": [
+  {
+   "revision_id": "201309356-edf7e895",
+   "content_sha256": "edf7e89503298cda8996d79f0e9d3cb0b173548dba2524243ad4fcf4a6d74ec1",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건ㆍ건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통(근염, 근막염 등), 외상후의 종창ㆍ동통",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:21Z",
+   "last_observed_at": "2026-09-08T08:46:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:21Z"
+}

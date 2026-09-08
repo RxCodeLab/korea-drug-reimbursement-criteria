@@ -7,7 +7,7 @@
  "permit_date": "19970321",
  "cancel_date": "20251016",
  "status": "취하",
- "main_item_ingr": "[M243785]산화아연|[M051640]트리클로카반|[M100749]팔미틴산레티놀유|[M040108]디펜히드라민|[M040397]에르고칼시페롤",
+ "main_item_ingr": "[M040108]디펜히드라민|[M040397]에르고칼시페롤|[M051640]트리클로카반|[M100749]팔미틴산레티놀유|[M243785]산화아연",
  "main_item_ingr_eng": "Diphenhydramine/Ergocalciferol/Retinol Palmitate Oil/Triclocarban/Zinc Oxide",
  "edi_code": "",
  "atc_code": "D04A",
@@ -20,7 +20,8 @@
    "ee_text": "기저귀 발진, 땀띠, 습진, 미란(진무름), 옻 등에 의한 피부염, 가려움, 동창, 벌레물린데, 두드러기",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199701184/EE",
    "first_observed_at": "2026-08-27T12:29:28Z",
-   "last_observed_at": "2026-08-28T13:23:48Z"
+   "last_observed_at": "2026-09-08T08:30:56Z",
+   "normalizer_version": 3
   }
  ]
 }

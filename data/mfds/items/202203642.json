@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203642",
+ "item_name": "젭젤카주(러비넥테딘)",
+ "entp_name": "(주)보령",
+ "permit_date": "20220922",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283057]러비넥테딘",
+ "main_item_ingr_eng": "Lurbinectedin",
+ "edi_code": "",
+ "atc_code": "L01XX69",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203642",
+ "revisions": [
+  {
+   "revision_id": "202203642-f60c8ce9",
+   "content_sha256": "f60c8ce9cab39660cfeedbabf115bf0e08a35ad2712661c114a30b3f4a5d432e",
+   "ee_text": "1) 1차 백금기반 화학요법에 실패한 전이성 소세포폐암 이 약의 효능효과는 반응율과 반응기간에 근거했으며 생존기간을 입증한 자료는 없다. 2) 아테졸리주맙, 카보플라틴 및 에토포시드로 구성된 1차 유도치료 후 질병이 진행되지 않은 확장병기 소세포폐암 성인 환자의 유지치료로서 아테졸리주맙과의 병용요법",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:34Z",
+   "last_observed_at": "2026-09-08T09:01:34Z",
+   "official_revision_date": "2026-07-28"
+  },
+  {
+   "revision_id": "202203642-8cb1bfdf",
+   "content_sha256": "8cb1bfdfe4919aa7215d18d21a42b29d2b99adcbd1e09964d2cf78a822e890e8",
+   "ee_text": "1차 백금기반 화학요법에 실패한 전이성 소세포폐암 이 약의 효능효과는 반응율과 반응기간에 근거했으며 생존기간을 입증한 자료는 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-09-22",
+   "first_observed_at": "2026-09-08T09:01:34Z",
+   "last_observed_at": "2026-09-08T09:01:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:34Z"
+}

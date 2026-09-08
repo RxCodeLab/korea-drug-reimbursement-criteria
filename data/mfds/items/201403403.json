@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403403",
+ "item_name": "아세타졸정(아세타졸아미드)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20140725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040351]아세타졸아미드",
+ "main_item_ingr_eng": "Acetazolamide",
+ "edi_code": "645304940",
+ "atc_code": "S01EC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403403",
+ "revisions": [
+  {
+   "revision_id": "201403403-dda669b0",
+   "content_sha256": "dda669b0998c97846f644b506da247c5ebef3d60eae970e8b005bd70451c8811",
+   "ee_text": "울혈심부전에 의한 부종, 녹내장의 완화, 뇌전증, 폐기종에서의 호흡성 산증의 개선",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:22Z",
+   "last_observed_at": "2026-09-08T08:47:22Z",
+   "official_revision_date": "2023-09-25"
+  },
+  {
+   "revision_id": "201403403-2d22fa28",
+   "content_sha256": "2d22fa2840ead7ef0c57b582aeec984ce4b1c1ec9719faf26be85daf1855be26",
+   "ee_text": "울혈심부전에 의한 부종, 녹내장의 완화, 간질, 폐기종에서의 호흡성 산증의 개선",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:47:22Z",
+   "last_observed_at": "2026-09-08T08:47:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:22Z"
+}

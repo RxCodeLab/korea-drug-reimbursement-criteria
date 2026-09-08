@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200137",
+ "item_name": "덱스메딘프리믹스주(덱스메데토미딘염산염)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20220107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250146]덱스메데토미딘염산염",
+ "main_item_ingr_eng": "Dexmedetomidine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N05CM18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200137",
+ "revisions": [
+  {
+   "revision_id": "202200137-7ae0b255",
+   "content_sha256": "7ae0b255b2a7e9708fb404634f4b670c7efa4576c2e94fbcc094d9b12fb53c5d",
+   "ee_text": "1. 집중치료 관리하의 진정 집중치료 관리 하에 초기 삽관되어 인공호흡을 실시하는 성인 환자의 진정. 2. 수술 및 시술 시 비삽관 성인 환자의 의식하 진정 (1) 감시 하 마취 관리(Monitored Anesthesia Care, MAC) (2) 의식 하 광섬유 삽관(Awake Fiberoptic Intubation, AFI)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:56Z",
+   "last_observed_at": "2026-09-08T09:00:56Z",
+   "official_revision_date": "2025-08-21"
+  },
+  {
+   "revision_id": "202200137-122bf77c",
+   "content_sha256": "122bf77c4e7feff76a5cad8697b133b832db6e5f4bd4343018e544ae3578c388",
+   "ee_text": "1. 집중치료 관리하의 진정 집중치료 관리 하에 초기 삽관되어 인공호흡을 실시하는 환자의 진정. 2. 수술 및 시술 시 비삽관 환자의 의식하 진정 (1) 감시 하 마취 관리(Monitored Anesthesia Care, MAC) (2) 의식 하 광섬유 삽관(Awake Fiberoptic Intubation, AFI)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-01-07",
+   "first_observed_at": "2026-09-08T09:00:56Z",
+   "last_observed_at": "2026-09-08T09:00:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:56Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003581",
+ "item_name": "라시렉트정1.0밀리그램(라사길린메실산염)",
+ "entp_name": "안국뉴팜(주)",
+ "permit_date": "20200518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257939]라사길린메실산염",
+ "main_item_ingr_eng": "Rasagiline Mesylate",
+ "edi_code": "",
+ "atc_code": "N04BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003581",
+ "revisions": [
+  {
+   "revision_id": "202003581-b1701273",
+   "content_sha256": "b1701273d349160e58d74d9f114bdf3bde14b9eef3712c676dbd283d847ebc5c",
+   "ee_text": "특발성 파킨슨병의 치료: 1) 초기 단독요법 또는 도파민 효능제의 보조요법 2) 운동 동요 증상(end of dose fluctuations)이 있는 환자에서 레보도파의 보조요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:49Z",
+   "last_observed_at": "2026-09-08T08:58:49Z",
+   "official_revision_date": "2020-05-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:49Z"
+}

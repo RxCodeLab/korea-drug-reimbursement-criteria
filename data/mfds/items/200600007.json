@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600007",
+ "item_name": "베라클정(베라프로스트나트륨)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20060313",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040128]베라프로스트나트륨",
+ "main_item_ingr_eng": "Beraprost Sodium",
+ "edi_code": "648501260",
+ "atc_code": "B01AC19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600007",
+ "revisions": [
+  {
+   "revision_id": "200600007-c1b0cb38",
+   "content_sha256": "c1b0cb383a701225bd5a97a7ad04074ded66dffc5d0c7cc66ebee0b9ff217c6b",
+   "ee_text": "만성동맥폐색증(버거씨병, 폐색성 동맥경화증, 당뇨병성 말초혈관병증 등)에 동반한 궤양, 동통 및 냉감의 개선, 원발성 폐고혈압증",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:42Z",
+   "last_observed_at": "2026-09-08T08:39:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:42Z"
+}

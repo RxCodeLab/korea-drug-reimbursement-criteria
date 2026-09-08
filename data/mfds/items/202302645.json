@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302645",
+ "item_name": "멀티원딥정",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20230905",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083577]비스벤티아민|[M084707]크롬함유건조효모|[M096429]시아노코발라민|[M204304]피리독신염산염|[M210377]아셀렌산나트륨오수화물|[M243785]산화아연|[M246028]황산망간수화물",
+ "main_item_ingr_eng": "Bisbentiamine/Chromium in Dried Yeast/Cyanocobalamin/Manganese Sulfate Hydrate/Pyridoxine Hydrochloride/Sodium Selenite Pentahydrate/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302645",
+ "revisions": [
+  {
+   "revision_id": "202302645-ebf67336",
+   "content_sha256": "ebf6733607e373ea7ff785c6898a09e0a2d4af03859ceab93f1d8a8957d26595",
+   "ee_text": "1. 다음경우의 비타민 B1, B6의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시 2. 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등), 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 - 각기 - 눈의 피로 3. 아연의 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:22Z",
+   "last_observed_at": "2026-09-08T09:02:22Z",
+   "official_revision_date": "2023-09-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:22Z"
+}

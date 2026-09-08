@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007945",
+ "item_name": "아사콜디알정1600밀리그람(메살라진)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20201117",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083890]메살라진",
+ "main_item_ingr_eng": "Mesalazine",
+ "edi_code": "641607450",
+ "atc_code": "A07EC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007945",
+ "revisions": [
+  {
+   "revision_id": "202007945-69c17596",
+   "content_sha256": "69c175965d3e9a7f1334f624d15f148362d10f8e69e575bd3273ae3ad0bb9be6",
+   "ee_text": "경증 및 중등증의 활동성 궤양성 대장염의 치료 및 치료유지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:39Z",
+   "last_observed_at": "2026-09-08T08:59:39Z",
+   "official_revision_date": "2020-11-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:39Z"
+}

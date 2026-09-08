@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905481",
+ "item_name": "모사프리엠정(모사프리드시트르산염수화물)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20190801",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234050]모사프리드시트르산염수화물",
+ "main_item_ingr_eng": "Mosapride Citrate Dihydrate",
+ "edi_code": "622803730",
+ "atc_code": "A03FA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905481",
+ "revisions": [
+  {
+   "revision_id": "201905481-3a22bc40",
+   "content_sha256": "3a22bc407224485c52d40a8eeac1e5be3a7829a56f78f32eb3a95d3e28f9b8c8",
+   "ee_text": "기능성소화불량(만성위염)에 수반하는 소화기능이상 (가슴쓰림, 오심, 구토)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:59Z",
+   "last_observed_at": "2026-09-08T08:55:59Z",
+   "official_revision_date": "2019-08-01"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:59Z"
+}

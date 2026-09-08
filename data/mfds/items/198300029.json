@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300029",
+ "item_name": "한풍오미자엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19830629",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040445]오미자",
+ "main_item_ingr_eng": "Schisandra Fruit",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300029",
+ "revisions": [
+  {
+   "revision_id": "198300029-2ac182fd",
+   "content_sha256": "2ac182fd00f56fc607684d2da999f2128d95a257cf0013fc1e61dda17e4d9953",
+   "ee_text": "거담, 진해, 지갈, 지한, 번열, 폐결핵, 구토, 명목, 곽란",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:49Z",
+   "last_observed_at": "2026-09-08T08:26:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:49Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200701617",
+ "item_name": "케어트로핀바이알주(소마트로핀)(수출명:CARETROPIN)(수출용)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20070205",
+ "cancel_date": "20231027",
+ "status": "취하",
+ "main_item_ingr": "[M247392]소마트로핀(균주: E.coli BL21(DE3), 벡터: pT0191)",
+ "main_item_ingr_eng": "Somatropin (Strain: E.coli BL21(DE3), Vector: pT0191)",
+ "edi_code": "",
+ "atc_code": "H01AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701617",
+ "revisions": [
+  {
+   "revision_id": "200701617-4884dbf0",
+   "content_sha256": "4884dbf054429b13e8a52b615c8611274f8fc2622c3c67b1c450dbfedd3db62a",
+   "ee_text": "성인 : two dynamic test에 의해 확인된 성장호르몬 결핍증을 가진 성인의 성장호르몬 대체요법으로서 환자는 아래의 기준을 충족시켜야 한다. 1) 유년기 개시형 결핍증 (Childhood Onset): 유년기에 성장호르몬 결핍증으로 진단받은 환자는 성장호르몬 대체요법을 시작하기 전에 반드시 재평가를 받아 성장호르몬 결핍증임이 확인되어야 한다. 2) 성인기 개시형 결핍증 (Adult Onset): 성장호르몬 대체요법을 시작하기 전에 시상하부 또는 뇌하수체 질환 등에 의한 2차적 성장호르몬 결핍증과 적어도 한 가지 이상의 다른 호르몬 결핍증(프로락틴 제외)이 진단되어야 하며, 적절한 대체요법을 받고 있어야 한다.",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:01Z",
+   "last_observed_at": "2026-09-08T08:41:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:01Z"
+}

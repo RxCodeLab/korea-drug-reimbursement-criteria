@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502795",
+ "item_name": "수두박스주(수두생바이러스백신)(수출명: 브이제트박스주, 바리셀라백신-지씨씨주, 바리셀)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20050118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092630]약독수두생바이러스(균주:MAV/06 Strain)",
+ "main_item_ingr_eng": "Live Attenuated Varicella Virus (Strain: MAV/06)",
+ "edi_code": "",
+ "atc_code": "J07BK01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502795",
+ "revisions": [
+  {
+   "revision_id": "200502795-dde0cbbb",
+   "content_sha256": "dde0cbbb4b78328916ccd665f7cdd6fe17673f6a66d77d2d86b79a1af9280e02",
+   "ee_text": "수두의 예방",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:25Z",
+   "last_observed_at": "2026-09-08T08:39:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:25Z"
+}

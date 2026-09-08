@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202009318",
+ "item_name": "보령A형간염백신프리필드시린지주(A형간염백신)",
+ "entp_name": "(주)보령바이오파마",
+ "permit_date": "20201229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280169]불활화A형간염바이러스항원(바이러스주: TZ84, 세포주 : 2BS)|[M280169]불활화A형간염바이러스항원(바이러스주: TZ84, 세포주 : 2BS)",
+ "main_item_ingr_eng": "Inactivated Hepatitis A Virus Antigen(Strain:  TZ84, Cell Strain: 2BS)",
+ "edi_code": "",
+ "atc_code": "J07BC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009318",
+ "revisions": [
+  {
+   "revision_id": "202009318-ae7dc451",
+   "content_sha256": "ae7dc4515a50b48de8e67ac9a934d89cb35a520f5238bf38c287f9db2136fc54",
+   "ee_text": "생후 12개월 이상의 소아 및 성인에서 A형 간염 바이러스에 의한 질병의 예방",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:48Z",
+   "last_observed_at": "2026-09-08T08:59:48Z",
+   "official_revision_date": "2025-03-17"
+  },
+  {
+   "revision_id": "202009318-a62490d5",
+   "content_sha256": "a62490d53547132d95eb2f1b01287ca90702e6ee68de7ae8e410b743642a008f",
+   "ee_text": "생후 12개월 이상~만 2세 미만의 소아와 만 16세 이상의 청소년 및 성인에서 A형 간염 바이러스에 의한 질병의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-12-29",
+   "first_observed_at": "2026-09-08T08:59:48Z",
+   "last_observed_at": "2026-09-08T08:59:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:48Z"
+}

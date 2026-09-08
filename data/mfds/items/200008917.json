@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008917",
+ "item_name": "다이이치염화탈륨(201TI)주사액",
+ "entp_name": "새한산업",
+ "permit_date": "20001021",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093570]염화탈륨(201Tl)",
+ "main_item_ingr_eng": "Thallium Chloride (201Tl)",
+ "edi_code": "656900020",
+ "atc_code": "V09GX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008917",
+ "revisions": [
+  {
+   "revision_id": "200008917-6b2156f1",
+   "content_sha256": "6b2156f153dccf777b20b79e0fd7d70b685e48d28cfdec8d1a0139c858e7bae1",
+   "ee_text": "1. 심근 신티그래피에 의한 심장질환의 진단 2. 종양 신티그래피에 의한 뇌종양, 갑상선종양, 폐종양, 골ㆍ연조직종양 및 종격종양의 진단 3. 부갑상선 신티그래피에 의한 부갑상선 질환의 진단",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:34Z",
+   "last_observed_at": "2026-09-08T08:34:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:34Z"
+}

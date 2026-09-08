@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201301481",
+ "item_name": "한국의료용산소",
+ "entp_name": "한국수소(주)",
+ "permit_date": "20040414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040256]산소",
+ "main_item_ingr_eng": "Oxygen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301481",
+ "revisions": [
+  {
+   "revision_id": "201301481-5a6bfe33",
+   "content_sha256": "5a6bfe33d1c9a1ab7f746f3641d1564c226b6215bba81c08596c0334d29f8fe5",
+   "ee_text": "〇 의료용가스 - 다음과 같은 광범위한 질환에서의 산소결핍증 치료 · 호흡근의 마비 · 일산화탄소 중독 · 출혈, 외상, 쇼크 · 마취 시의 호흡마비 · 중증의 심질환(순환계 허탈 등) · 폐부종 등으로 인한 기도의 폐쇄 - 폐쇄 순환 마취 시 단독 투여 또는 이산화탄소와 병용투여",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:44Z",
+   "last_observed_at": "2026-09-08T08:45:44Z",
+   "official_revision_date": "2020-02-06"
+  },
+  {
+   "revision_id": "201301481-e6b731f1",
+   "content_sha256": "e6b731f1afa8d167a2c9cc628378e52befae6201f18d59c21f02624e262c7d2b",
+   "ee_text": "산소 결핍 등 이 일어났을 때 하는 산소 흡입 또는 폐쇄 순환 마취기에 단독 혹은 이산화탄소와 함께 사용 호흡근의 마비, 일산화탄소, 아질산, 코카인 등에 의한 중독시의 기사, 출혈, 의상쇼크, 마취시의 호흡마비, 순환계허탈, 관혈관 질환 두부외상, 급성신염 및 요독증세의 심기능 장해, 폐염, 폐부종 기도의 패쇄.",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:44Z",
+   "last_observed_at": "2026-09-08T08:45:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:44Z"
+}

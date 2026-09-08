@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199904088",
+ "item_name": "그린포비돈세정액(포비돈요오드)",
+ "entp_name": "(주)그린제약",
+ "permit_date": "19990813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215884]포비돈 요오드",
+ "main_item_ingr_eng": "Povidone Iodine",
+ "edi_code": "",
+ "atc_code": "D08AG02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199904088",
+ "revisions": [
+  {
+   "revision_id": "199904088-2106038b",
+   "content_sha256": "2106038b25efde94cca35eb0c13f1291e1d8093868e3c5e5ea27e837aa3242e8",
+   "ee_text": "- 수술자의 손 및 팔의 살균소독 - 수술부위의 살균소독",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199904088/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:03Z",
+   "last_observed_at": "2026-09-08T08:33:03Z"
+  },
+  {
+   "revision_id": "199904088-ca069991",
+   "content_sha256": "ca06999100befcfc4bd609c7b2ee3e5a05b5092d2512c06479b175844ec32520",
+   "ee_text": "(10% 액)(흡착면봉)(흡착탈지면) - 찢긴 상처, 화상, 창상의 살균소독 - 궤양, 농양의 살균소독 - 감염피부면의 소독 - 수술부위의 살균소독 - 주사 및 카테터부위의 소독 (7.5% 액) - 찢긴 상처, 화상, 창상의 살균소독 - 감염피부면의 소독 (세정액, 세액/7.5%) - 수술자의 손 및 팔의 살균소독 - 수술부위의 살균소독 (에어로솔제) - 찢긴 상처, 화상, 창상의 살균소독 - 감염피부면의 소독 - 수술부위의 살균소독 (연고제) - 찢긴 상처, 화상, 창상, 욕창의 살균소독 - 궤양, 농양의 살균소독 - 감염피부면의 살균소독 - 주사 및 카테터부위의 살균소독",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:33:03Z",
+   "last_observed_at": "2026-09-08T08:33:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:03Z"
+}

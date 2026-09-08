@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303044",
+ "item_name": "메타리빈액0.05%(자일로메타졸린염산염)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20231101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257887]자일로메타졸린염산염",
+ "main_item_ingr_eng": "Xylometazoline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303044",
+ "revisions": [
+  {
+   "revision_id": "202303044-37e02323",
+   "content_sha256": "37e02323438a58b9b9d8b3e639d8805034dfb1e1d7fde275ab2ac2dddbd1e5ee",
+   "ee_text": "코감기(급성비염(코염)), 알레르기성 비염(코염) 또는 부비동염에 의한 다음 증상의 완화 : 코막힘, 콧물, 재채기, 머리무거움",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:29Z",
+   "last_observed_at": "2026-09-08T09:02:29Z",
+   "official_revision_date": "2023-11-01"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:29Z"
+}

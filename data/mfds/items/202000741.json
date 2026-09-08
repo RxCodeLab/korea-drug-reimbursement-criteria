@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000741",
+ "item_name": "유니온셀레늄주(아셀렌산나트륨오수화물)(수출용)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20200207",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M210377]아셀렌산나트륨오수화물",
+ "main_item_ingr_eng": "Sodium Selenite Pentahydrate",
+ "edi_code": "",
+ "atc_code": "B05XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000741",
+ "revisions": [
+  {
+   "revision_id": "202000741-a7228b0e",
+   "content_sha256": "a7228b0ecde22c5742dcf1a08cb06fb837f35f9adff5c98e2e062b194a5e7358",
+   "ee_text": "영양공급으로 보충될 수 없는 셀레늄 결핍 환자에서 셀레늄 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:44Z",
+   "last_observed_at": "2026-09-08T08:57:44Z",
+   "official_revision_date": "2020-02-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:44Z"
+}

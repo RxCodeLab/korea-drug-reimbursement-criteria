@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402947",
+ "item_name": "어나프라주(오피란제린염산염)",
+ "entp_name": "(주)비보존제약",
+ "permit_date": "20241212",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285047]오피란제린염산염",
+ "main_item_ingr_eng": "Opiranserin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402947",
+ "revisions": [
+  {
+   "revision_id": "202402947-9a14ccbe",
+   "content_sha256": "9a14ccbebc3ea536403e47da42cd75936ddeaa543056747da814447c2b958c72",
+   "ee_text": "성인에서 수술 후 중등도에서 중증의 급성통증 조절을 위한 단기요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:32Z",
+   "last_observed_at": "2026-09-08T09:03:32Z",
+   "official_revision_date": "2024-12-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:32Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803752",
+ "item_name": "아케인겔(리도카인)(수출용)",
+ "entp_name": "시믹씨엠오코리아주식회사",
+ "permit_date": "20180917",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803752",
+ "revisions": [
+  {
+   "revision_id": "201803752-643d4e1b",
+   "content_sha256": "643d4e1b22d0628f41c667e523b04a970ee3df8a976a411ca18ff233aa11b98b",
+   "ee_text": "남성 성기 촉각의 예민성 감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:37Z",
+   "last_observed_at": "2026-09-08T08:53:37Z",
+   "official_revision_date": "2018-09-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:37Z"
+}

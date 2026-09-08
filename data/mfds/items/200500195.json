@@ -12,6 +12,7 @@
  "edi_code": "645902260",
  "atc_code": "C08CA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500195",
+ "history_fetched_at": "2026-08-28T13:24:07Z",
  "revisions": [
   {
    "revision_id": "200500195-b360e542",
@@ -19,9 +20,9 @@
    "ee_text": "고혈압, 관상동맥의 고정폐쇄(안정협심증) 또는 관상혈관계의 혈관경련수축(이형협심증)에 의한 심근성허혈증",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:24:07Z",
-   "last_observed_at": "2026-08-28T13:24:07Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:38:49Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:07Z"
+ ]
 }

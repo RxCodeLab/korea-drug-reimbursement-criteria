@@ -7,11 +7,12 @@
  "permit_date": "19880420",
  "cancel_date": "20251001",
  "status": "유효기간만료",
- "main_item_ingr": "[M223081]스코폴라민브롬화수소산염수화물|[M223276]파파베린염산염|[M203437]아미노벤조산에틸",
+ "main_item_ingr": "[M203437]아미노벤조산에틸|[M223081]스코폴라민브롬화수소산염수화물|[M223276]파파베린염산염",
  "main_item_ingr_eng": "Ethyl Aminobenzoate/Papaverine Hydrochloride/Scopolamine Hydrobromide Hydrate",
  "edi_code": "",
  "atc_code": "A03ED",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800445",
+ "history_fetched_at": "2026-08-28T13:23:41Z",
  "revisions": [
   {
    "revision_id": "198800445-f60eda4b",
@@ -19,9 +20,9 @@
    "ee_text": "위통,복통,산통,위산과다,속쓰림.",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:23:41Z",
-   "last_observed_at": "2026-08-28T13:23:41Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:27:35Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:41Z"
+ ]
 }

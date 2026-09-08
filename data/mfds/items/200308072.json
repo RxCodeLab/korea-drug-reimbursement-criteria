@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308072",
+ "item_name": "테세오스주(3,3-디포스포노-1,2-프로판디카르복실산나트륨)",
+ "entp_name": "새한산업",
+ "permit_date": "20030416",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M103745]3,3-디포스포노-1,2-프로판디카르복실산(DPD)나트륨",
+ "main_item_ingr_eng": "Sodium 3,3-Diphospho-1,2-Propanedicarboxylic Acid (DPD)",
+ "edi_code": "656904842",
+ "atc_code": "V09B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308072",
+ "revisions": [
+  {
+   "revision_id": "200308072-026e6abb",
+   "content_sha256": "026e6abb12c26e9058bbd501f35ea164daaea3a708db565c1eb1f191b63f3bc5",
+   "ee_text": "1. 진단용 방사성의약품인 테크네륨(99mTc)-DPD주사액의 조제용 2. 테크네튬(99mTc)-DPD 주사액의 효능‧효과 : 1) 뼈 신티그래피에 의한 골형성 변형 진단 2) 심장 신티그래피에 의한 심장 트랜스티레틴 아밀로이드증(ATTR) 진단",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:22Z",
+   "last_observed_at": "2026-09-08T08:37:22Z",
+   "official_revision_date": "2023-08-21"
+  },
+  {
+   "revision_id": "200308072-89cd4649",
+   "content_sha256": "89cd46499aa0a81838b6e5566d1774e9aeae5b8e5f6be9c4d1e22cada82e539c",
+   "ee_text": "골혈성 변형 진단을 위한 뼈영상조영제로 사용되는 테크네륨(99mTc)-DPD주사액의 조재용",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:37:22Z",
+   "last_observed_at": "2026-09-08T08:37:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:22Z"
+}

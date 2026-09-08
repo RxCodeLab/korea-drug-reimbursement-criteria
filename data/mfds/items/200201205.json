@@ -12,6 +12,7 @@
  "edi_code": "640001500",
  "atc_code": "C01CA07",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201205",
+ "history_fetched_at": "2026-08-28T13:24:00Z",
  "revisions": [
   {
    "revision_id": "200201205-d585419d",
@@ -19,9 +20,9 @@
    "ee_text": "심장질환이나 심장수술로 인해 수축력이 저하된 심부전증의 단기치료시 심박출력 증가.",
    "ee_doc_id": "13",
    "first_observed_at": "2026-08-28T13:24:00Z",
-   "last_observed_at": "2026-08-28T13:24:00Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:36:10Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:00Z"
+ ]
 }

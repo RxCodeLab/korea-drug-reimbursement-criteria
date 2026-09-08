@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202955",
+ "item_name": "로드정제수",
+ "entp_name": "(주)로드제약기술",
+ "permit_date": "20220718",
+ "cancel_date": "20231128",
+ "status": "폐업",
+ "main_item_ingr": "[M007131]정제수",
+ "main_item_ingr_eng": "Purified Water",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202955",
+ "revisions": [
+  {
+   "revision_id": "202202955-4cc3e91a",
+   "content_sha256": "4cc3e91a2a83fdcd004f9aa74b28b120518fe771bf7c6e25af857ad3d9fd3a79",
+   "ee_text": "약품의 용제, 시약의 조제에 사용",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:27Z",
+   "last_observed_at": "2026-09-08T09:01:27Z",
+   "official_revision_date": "2022-07-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:27Z"
+}

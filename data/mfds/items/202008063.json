@@ -7,11 +7,12 @@
  "permit_date": "20201120",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M253520]p-아미노벤조산|[M103054]L-시스틴|[M244748]판토텐산칼슘|[M223262]티아민질산염|[M081430]케라틴|[M051971]약용효모",
+ "main_item_ingr": "[M051971]약용효모|[M081430]케라틴|[M103054]L-시스틴|[M223262]티아민질산염|[M244748]판토텐산칼슘|[M253520]p-아미노벤조산",
  "main_item_ingr_eng": "Calcium Pantothenate/Keratin/L-Cystine/Medicinal Yeast/Thiamine Nitrate/p-Aminobenzoic Acid",
  "edi_code": "",
  "atc_code": "D11AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008063",
+ "history_fetched_at": "2026-08-28T13:25:22Z",
  "revisions": [
   {
    "revision_id": "202008063-b65af219",
@@ -19,9 +20,9 @@
    "ee_text": "1. 손상된 모발, 감염성이 아닌 손톱의 발육 부진 2. 탈모의 보조치료",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:22Z",
-   "last_observed_at": "2026-08-28T13:25:22Z",
-   "official_revision_date": "2020-11-20"
+   "last_observed_at": "2026-09-08T08:59:40Z",
+   "official_revision_date": "2020-11-20",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:22Z"
+ ]
 }

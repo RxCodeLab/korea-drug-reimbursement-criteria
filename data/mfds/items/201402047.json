@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402047",
+ "item_name": "휴온스에피리드배합주(수출용)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20140430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인|[M040421]에피네프린|[M040423]염산",
+ "main_item_ingr_eng": "Epinephrine/Hydrochloric Acid/Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402047",
+ "revisions": [
+  {
+   "revision_id": "201402047-160ca4f3",
+   "content_sha256": "160ca4f38b699bfb2e9cd71805ea2af064dfc725a0b94577eed8a376703ceecf",
+   "ee_text": "치과영역에 대한 침윤마취 또는 전달마취",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:00Z",
+   "last_observed_at": "2026-09-08T08:47:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:00Z"
+}

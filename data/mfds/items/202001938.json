@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "R03CC11",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001938",
+ "history_fetched_at": "2026-08-27T13:24:52Z",
  "revisions": [
   {
-   "revision_id": "202001938-6a5e970c",
-   "content_sha256": "6a5e970c2e4f900e608c0e5f4e29fcbc7412d8e39148b84369fce599e021d57a",
-   "ee_text": ": 기관지 천식, 급성 기관지염, 만성 기관지염, 폐기종",
+   "revision_id": "202001938-d9914978",
+   "content_sha256": "d99149781e5971e645401e5333c5f8e12f5b151ffae4e2efe026a447f5685791",
+   "ee_text": "다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지 천식, 급성 기관지염, 만성 기관지염, 폐기종",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:24:52Z",
-   "last_observed_at": "2026-08-27T13:24:52Z",
-   "official_revision_date": "2020-03-19"
+   "last_observed_at": "2026-09-08T08:58:08Z",
+   "official_revision_date": "2020-03-19",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:24:52Z"
+ ]
 }

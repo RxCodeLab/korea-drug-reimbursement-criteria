@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601589",
+ "item_name": "엔플론시아프리필드시린지(클레스로비맙)",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "20260601",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286420]클레스로비맙",
+ "main_item_ingr_eng": "Clesrovimab",
+ "edi_code": "",
+ "atc_code": "J06BD10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601589",
+ "revisions": [
+  {
+   "revision_id": "202601589-3c735c17",
+   "content_sha256": "3c735c17b8861bf940e88b8f427e124522972a7a1106b6d77f74abcb6f2fd3a2",
+   "ee_text": "다음 신생아 및 영아에서 호흡기 세포융합 바이러스(RSV, Respiratory Syncytial Virus)로 인한 하기도 질환의 예방 - 생후 첫 RSV 계절에 진입하거나 생후 첫 RSV 계절 도중인 신생아 및 영아",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:15Z",
+   "last_observed_at": "2026-09-08T09:05:15Z",
+   "official_revision_date": "2026-06-01"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:15Z"
+}

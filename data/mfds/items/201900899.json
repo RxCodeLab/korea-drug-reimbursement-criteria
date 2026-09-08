@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900899",
+ "item_name": "비탁스캡슐(포도엽건조엑스)",
+ "entp_name": "(주)일화",
+ "permit_date": "20190213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256079]포도엽건조엑스",
+ "main_item_ingr_eng": "Vitis Vinifera Leaf Dried Extract",
+ "edi_code": "640903790",
+ "atc_code": "C05CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900899",
+ "revisions": [
+  {
+   "revision_id": "201900899-1055eee6",
+   "content_sha256": "1055eee6d1e6ff4f0d7464850d8b269c3dfe2c7ecc0bee7cc3792f085d458998",
+   "ee_text": "만성정맥부전으로 인한 다음 증상의 개선 : 하지부종, 하지중압감, 통증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:14Z",
+   "last_observed_at": "2026-09-08T08:54:14Z",
+   "official_revision_date": "2019-02-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:14Z"
+}

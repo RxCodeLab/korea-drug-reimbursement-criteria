@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003864",
+ "item_name": "장이락산(바실루스리케니포르미스균)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20200526",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균",
+ "main_item_ingr_eng": "Bacillus Licheniformis",
+ "edi_code": "641806891",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003864",
+ "revisions": [
+  {
+   "revision_id": "202003864-1fa90620",
+   "content_sha256": "1fa906201801558b3a30b633d2433b0c1aec7e8efbd48780650d6ef2c0c7ce59",
+   "ee_text": "급•만성 장염, 급•만성 설사, 급성 이질, 각종 원인에 기인한 장내 이상발효",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:58Z",
+   "last_observed_at": "2026-09-08T08:58:58Z",
+   "official_revision_date": "2020-05-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:58Z"
+}

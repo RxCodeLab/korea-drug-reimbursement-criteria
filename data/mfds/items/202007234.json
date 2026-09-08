@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007234",
+ "item_name": "피알탑플라스타(피록시캄)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20201022",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071634]피록시캄",
+ "main_item_ingr_eng": "Piroxicam",
+ "edi_code": "",
+ "atc_code": "M02AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007234",
+ "revisions": [
+  {
+   "revision_id": "202007234-6cf333f8",
+   "content_sha256": "6cf333f8f1a4a6c0246d6af6cb5e9641c19c646e578d72afdf5773fadf702b47",
+   "ee_text": "퇴행성관절염(골관절염), 건초염(힘줄윤활막염), 근육통, 골관절통, 외상후 동통(통증) 및 골절 치유후의 동통(통증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:33Z",
+   "last_observed_at": "2026-09-08T08:59:33Z",
+   "official_revision_date": "2020-10-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:33Z"
+}

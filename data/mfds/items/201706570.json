@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706570",
+ "item_name": "헤모로이달릴리프크림(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20170814",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223279]페닐레프린염산염|[M246661]프라목신염산염",
+ "main_item_ingr_eng": "Phenylephrine Hydrochloride/Pramoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C05A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706570",
+ "revisions": [
+  {
+   "revision_id": "201706570-0b01ca4e",
+   "content_sha256": "0b01ca4e6164f3296a423d5445a03f246d3556e044656650628ff347afb72f45",
+   "ee_text": "치질, 항문직장 질환, 염증이 있는 치질 부위, 치핵과 관련된 항문직장의 가려움 및 작열감과 불쾌감의 일시적 완화",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:13Z",
+   "last_observed_at": "2026-09-08T08:52:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:13Z"
+}

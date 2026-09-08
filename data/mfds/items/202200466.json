@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200466",
+ "item_name": "일이관지사역산환",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20220127",
+ "cancel_date": "20260106",
+ "status": "취하",
+ "main_item_ingr": "[M040006]감초|[M040336]시호|[M040523]작약|[M040536]지실",
+ "main_item_ingr_eng": "Bupleurum Root/Licorice/Peony Root/Poncirus Immature Fruit",
+ "edi_code": "",
+ "atc_code": "A03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200466",
+ "revisions": [
+  {
+   "revision_id": "202200466-d7617ae5",
+   "content_sha256": "d7617ae5d8a17ba4347a5e618dcd807b653a15c3252568f3d120484af3f37f7c",
+   "ee_text": "흉복부가 무겁고 괴로움이 있는 경우의 다음 증상 : 위염, 위통, 복통(배아픔)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:01Z",
+   "last_observed_at": "2026-09-08T09:01:01Z",
+   "official_revision_date": "2022-01-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:01Z"
+}

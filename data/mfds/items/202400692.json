@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400692",
+ "item_name": "크레온캡슐35000(판크레아스분말)",
+ "entp_name": "한국애보트(유)",
+ "permit_date": "20240329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254733]판크레아스분말",
+ "main_item_ingr_eng": "Pancrease Powder",
+ "edi_code": "",
+ "atc_code": "A09AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400692",
+ "revisions": [
+  {
+   "revision_id": "202400692-e8e4563f",
+   "content_sha256": "e8e4563f4e73f1dc57d4a189adbb8c75116a351a5c66974460028a46138b0b9c",
+   "ee_text": "(캡슐제) 췌장 외분비 기능장애",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:52Z",
+   "last_observed_at": "2026-09-08T09:02:52Z",
+   "official_revision_date": "2024-03-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:52Z"
+}

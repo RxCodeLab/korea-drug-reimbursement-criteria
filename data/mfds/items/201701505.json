@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701505",
+ "item_name": "일화디페낙베타주(디클로페낙β-디메틸아미노에탄올)",
+ "entp_name": "(주)일화",
+ "permit_date": "20170329",
+ "cancel_date": "20260331",
+ "status": "취하",
+ "main_item_ingr": "[M252249]디클로페낙β-디메틸아미노에탄올",
+ "main_item_ingr_eng": "Diclofenac Beta-Dimethylaminoethanol",
+ "edi_code": "",
+ "atc_code": "M01AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701505",
+ "revisions": [
+  {
+   "revision_id": "201701505-5d2f6dbe",
+   "content_sha256": "5d2f6dbee7d51cb568c957f5abefe672e018846bad62733e38e6f1e2a51703b4",
+   "ee_text": "다음 질환에 사용할 수 있다. - 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염 - 외상후 · 수술후 염증 및 동통, 급성통풍, 신 및 간산통",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:41Z",
+   "last_observed_at": "2026-09-08T08:51:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:41Z"
+}

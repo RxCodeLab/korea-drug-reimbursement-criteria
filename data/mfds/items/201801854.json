@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801854",
+ "item_name": "옥테니셉트액",
+ "entp_name": "(주)한국유니팜",
+ "permit_date": "20180430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M201905]페녹시에탄올|[M277236]옥테니딘염산염",
+ "main_item_ingr_eng": "Octenidine Hydrochloride/Phenoxyethanol",
+ "edi_code": "",
+ "atc_code": "D08AJ57",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801854",
+ "revisions": [
+  {
+   "revision_id": "201801854-918664a8",
+   "content_sha256": "918664a8970a9b37028ab44fcf626769b34c62eda7689bc7115a2b355eaf7b49",
+   "ee_text": "- 질, 외음부, 음경귀두를 포함한 항문생식기 부분에서 진단, 수술 전 및 카테터 삽입 전 소독 - 작은 상처부위의 단기적인 소독",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:06Z",
+   "last_observed_at": "2026-09-08T08:53:06Z",
+   "official_revision_date": "2021-03-15"
+  },
+  {
+   "revision_id": "201801854-cea4e95a",
+   "content_sha256": "cea4e95a6d9c57f884665ffe0867b73abd7674ef0309a6a652c5213ae340dab5",
+   "ee_text": "– 항문생식기 부분(질, 외음부, 음경귀두 포함)에서 진단, 수술 전 및 카테터 삽입 전 소독 – 작은 상처부위의 단기적인 소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-04-30",
+   "first_observed_at": "2026-09-08T08:53:06Z",
+   "last_observed_at": "2026-09-08T08:53:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:06Z"
+}

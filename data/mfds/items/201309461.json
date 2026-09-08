@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309461",
+ "item_name": "톡클리어겔2.5%(가수과산화벤조일)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20130927",
+ "cancel_date": "20230927",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M247420]가수과산화벤조일",
+ "main_item_ingr_eng": "Hydrous Benzoyl Peroxide",
+ "edi_code": "",
+ "atc_code": "D10AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309461",
+ "revisions": [
+  {
+   "revision_id": "201309461-b8bfe64e",
+   "content_sha256": "b8bfe64e44d13f6bc1d0e2cf2e94d9f4fa9fd2d0923d94818f863a63180acf26",
+   "ee_text": "심상성 여드름(보통 여드름)",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:22Z",
+   "last_observed_at": "2026-09-08T08:46:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:22Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199601855",
+ "item_name": "베타베이트크림(클로베타솔프로피오네이트)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "19960917",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223224]클로베타솔프로피오네이트",
+ "main_item_ingr_eng": "Clobetasol Propionate",
+ "edi_code": "642800751,642800752",
+ "atc_code": "D07AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199601855",
+ "revisions": [
+  {
+   "revision_id": "199601855-77660b30",
+   "content_sha256": "77660b30d7fda5b7010eb562e571c8a7a0393ca3589dff012b7330f5eb99cf5f",
+   "ee_text": "(연고제)(크림제) 습진ㆍ피부염군(진행성 지장각피증, 만성단순태선, 광피부염을 포함), 양진군(구진두드러기를 포함), 손ㆍ발바닥농포증, 건선 (액제) 주로 두부의 피부질환(습진ㆍ피부염군, 건선)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:17Z",
+   "last_observed_at": "2026-09-08T08:30:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:17Z"
+}

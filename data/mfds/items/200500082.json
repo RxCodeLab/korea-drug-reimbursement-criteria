@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "L02AE02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500082",
+ "history_fetched_at": "2026-08-28T13:24:07Z",
  "revisions": [
   {
-   "revision_id": "200500082-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200500082-cd17634d",
+   "content_sha256": "cd17634d71820949bb4fb504d4529b07ee7e3fcaeb09eff8d92f2bf8d8c715a1",
+   "ee_text": "1. 자궁내막증 2. 과다월경, 하복통, 요통 및 빈혈등을 수반한 자궁근종에서 근종핵의 축소 및 증상의 개선 3. 중추성 사춘기 조발성",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:24:07Z",
-   "last_observed_at": "2026-08-28T13:24:07Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:38:47Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:07Z"
+ ]
 }

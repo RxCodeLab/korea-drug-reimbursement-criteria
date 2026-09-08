@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199302790",
+ "item_name": "니트로주사1퍼센트(희석된니트로글리세린)-수출용",
+ "entp_name": "명문제약(주)",
+ "permit_date": "19930611",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088774]희석니트로글리세린",
+ "main_item_ingr_eng": "Dilute Nitroglycerin",
+ "edi_code": "",
+ "atc_code": "C01DA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199302790",
+ "revisions": [
+  {
+   "revision_id": "199302790-654d7604",
+   "content_sha256": "654d760453d874d0cefb54818b7c6ae9242d09d856668553f1084c7cbd0d1d28",
+   "ee_text": "1. 수술전후의 혈압 조정 : 심장 수술중의 고혈압조절 및 수술중의 저혈압유지. 심혈관계 수술중과 수술후 심근허혈의 치료 2. 급성 심근경색에 수반되는 울혈성 심부전증(만성심부전의 급성악화기 포함) 3. 협심증의 치료 : 불안정형협심증 또는 질산염 설하정 및 β-차단제로 치료되지 않는 협심증",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:53Z",
+   "last_observed_at": "2026-09-08T08:28:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:53Z"
+}

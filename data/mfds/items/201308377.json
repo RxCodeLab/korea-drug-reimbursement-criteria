@@ -12,14 +12,16 @@
  "edi_code": "",
  "atc_code": "A11JB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308377",
+ "history_fetched_at": "2026-08-28T13:24:31Z",
  "revisions": [
   {
-   "revision_id": "201308377-f2d4a443",
-   "content_sha256": "f2d4a443f298e5bb7209ffa96b89f371903ee2fbfa69cbc76fe1fa3e4be902fa",
-   "ee_text": "- 노년기 - 이 약에 함유된 비타민 등의 효능•효과는 다음과 같습니다. ● 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨·목결림, 수족저림·수족냉증",
+   "revision_id": "201308377-b3fd66d3",
+   "content_sha256": "b3fd66d3d40d4b347f4b4d12e9ad3c4eb2a966b8bea07a0b961174e992fd664d",
+   "ee_text": "○ 다음경우의 비타민 E의 보급 - 노년기 - 이 약에 함유된 비타민 등의 효능•효과는 다음과 같습니다. ● 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨·목결림, 수족저림·수족냉증 ○ 마그네슘결핍으로 인한 근육경련",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201308377/EE",
    "first_observed_at": "2026-08-28T13:24:31Z",
-   "last_observed_at": "2026-08-28T13:24:31Z"
+   "last_observed_at": "2026-09-08T08:46:12Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201308377-c1383139",
@@ -39,6 +41,5 @@
    "first_observed_at": "2026-08-28T13:24:31Z",
    "last_observed_at": "2026-08-28T13:24:31Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:31Z"
+ ]
 }

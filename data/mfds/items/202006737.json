@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006737",
+ "item_name": "한풍오령산정",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20201005",
+ "cancel_date": "20251005",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M267585]백출연조엑스(1.4∼1.7→1)|[M267648]택사연조엑스(2.8∼3.4→1)|[M279618]복령연조엑스(14.0∼17.1→1)|[M279619]육계연조엑스(7.9∼9.6→1)|[M279620]저령건조엑스(56.8∼69.4→1)",
+ "main_item_ingr_eng": "Alisma Rhizome Soft Extract(2.8∼3.4→1)/Atractylodes Rhizome White Soft Extract (1.4∼1.7→1)/Cinnamon Bark Soft Extract (7.9~9.6→1)/Polyporus Sclerotium Dry Extract(56.8∼69.4→1)/Poria Soft Extract (14.0~17.1→1)",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006737",
+ "revisions": [
+  {
+   "revision_id": "202006737-613e9c21",
+   "content_sha256": "613e9c21bb818e8cb1937d8fa76b20c4937da5fb59658d14c62821ac0cdd930d",
+   "ee_text": "태양증(太陽證; 오한, 발열, 두통, 몸살, 코막힘, 기침 등을 수반하는 감기)이 속에 침입하여 생긴 다음 증상 : 번갈(煩渴; 입 마름, 갈증), 소변불리(小便不利; 배뇨장애, 요량감소)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:27Z",
+   "last_observed_at": "2026-09-08T08:59:27Z",
+   "official_revision_date": "2020-10-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:27Z"
+}

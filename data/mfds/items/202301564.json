@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301564",
+ "item_name": "메코이에프정",
+ "entp_name": "동성제약(주)",
+ "permit_date": "20230516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050436]메코발라민|[M204304]피리독신염산염|[M223289]폴산|[M223292]푸르설티아민염산염|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr_eng": "Folic Acid/Fursultiamine Hydrochloride/Mecobalamin/Pyridoxine Hydrochloride/Tocopherol Acetate Powder 50%",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301564",
+ "revisions": [
+  {
+   "revision_id": "202301564-603a35c3",
+   "content_sha256": "603a35c3503af1547eaa5cdc47dca31f38d3aaae2a511bdddd029c98374b5ba9",
+   "ee_text": "○ 다음경우의 비타민 E, B1, B6의 보급 - 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 - 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. · 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨․목결림, 수족저림․수족냉증(손발이 차가움) · 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) · 각기 · 눈의피로",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:05Z",
+   "last_observed_at": "2026-09-08T09:02:05Z",
+   "official_revision_date": "2023-05-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:05Z"
+}

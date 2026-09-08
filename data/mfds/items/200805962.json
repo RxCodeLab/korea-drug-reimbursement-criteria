@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805962",
+ "item_name": "리루텍정(리루졸)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20080528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093987]리루졸",
+ "main_item_ingr_eng": "Riluzole",
+ "edi_code": "652000220",
+ "atc_code": "N07XX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805962",
+ "revisions": [
+  {
+   "revision_id": "200805962-3dcbaac2",
+   "content_sha256": "3dcbaac2513aa90776f41725aa5978e4a95427034dc9530622dce9c2fa2bb1c7",
+   "ee_text": "근위축성측삭경화증 (amyotrophic lateral sclerosis) 환자의 생존기간을 연장시키거나 기관절개시점을 늦추어 준다.",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:33Z",
+   "last_observed_at": "2026-09-08T08:42:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:33Z"
+}

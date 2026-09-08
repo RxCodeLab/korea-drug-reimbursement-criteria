@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904202",
+ "item_name": "새로탄정80밀리그램(발사르탄)",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20190617",
+ "cancel_date": "20240617",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M090403]발사르탄",
+ "main_item_ingr_eng": "Valsartan",
+ "edi_code": "",
+ "atc_code": "C09CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904202",
+ "revisions": [
+  {
+   "revision_id": "201904202-17e03747",
+   "content_sha256": "17e03747706e937d1fcfe1645029ecee5c14d24e8c3c80a5745715c5b183a31d",
+   "ee_text": "(정제) 1. 본태고혈압 2. 심부전 ACE억제제에 불내성(intolerant)인 심부전(NYHA class Ⅱ ∼ Ⅳ) 3. 심근경색 후의 사망 위험성 감소 증상, 증후 혹은 방사선학적으로 좌심실 부전 및/또는 좌심실 수축 기능 부전을 가진 임상적으로 안정된 환자에서의 심근경색 후 사망 위험성 감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:35Z",
+   "last_observed_at": "2026-09-08T08:55:35Z",
+   "official_revision_date": "2019-06-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:35Z"
+}

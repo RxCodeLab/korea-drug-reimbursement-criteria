@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000366",
+ "item_name": "개스판연질캡슐(수출용)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20000811",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071401]캐레웨이유|[M089664]페파민트유",
+ "main_item_ingr_eng": "Caraway Oil/Peppermint Oil",
+ "edi_code": "",
+ "atc_code": "A03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000366",
+ "revisions": [
+  {
+   "revision_id": "200000366-4c4eb345",
+   "content_sha256": "4c4eb345db4f1e4b50b5da1a1a4523dfcde9a0399d414a2eba2ca397a6732e4c",
+   "ee_text": "소화불량, 위장관 경련, 가스 제거, 복부(배부분)팽만감",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:31Z",
+   "last_observed_at": "2026-09-08T08:33:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:31Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000311",
+ "item_name": "앱스틸라주[로녹토코그알파(혈액응고인자VIII, 유전자재조합)]",
+ "entp_name": "씨에스엘코리아(유)",
+ "permit_date": "20200120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270862]로녹토코그알파(혈액응고인자VIII, 유전자재조합)|[M270862]로녹토코그알파(혈액응고인자VIII, 유전자재조합)|[M270862]로녹토코그알파(혈액응고인자VIII, 유전자재조합)|[M270862]로녹토코그알파(혈액응고인자VIII, 유전자재조합)|[M270862]로녹토코그알파(혈액응고인자VIII, 유전자재조합)",
+ "main_item_ingr_eng": "Lonoctocog  alfa",
+ "edi_code": "059700011,059700012,059700013,059700014",
+ "atc_code": "B02BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000311",
+ "revisions": [
+  {
+   "revision_id": "202000311-71250bd7",
+   "content_sha256": "71250bd758b6e402c37d2c8e68a1ffb8ec1b11b6ea54c615a7cf2fa010d03c81",
+   "ee_text": "A형 혈우병 (혈액응고 제 8인자의 선천성 결핍) 성인 및 소아 환자에서의 - 출혈 억제 및 예방 - 출혈 예방 또는 빈도 감소를 위한 일상적인 예방요법 - 수술 전후 예방 (외과적 예방) 이 약은 본 빌레브란트 환자의 치료에는 사용되지 않는다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:32Z",
+   "last_observed_at": "2026-09-08T08:57:32Z",
+   "official_revision_date": "2020-01-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:32Z"
+}

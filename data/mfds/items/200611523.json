@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200611523",
+ "item_name": "토렘정2.5밀리그람(토라세미드)",
+ "entp_name": "한국메나리니(주)",
+ "permit_date": "20061208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M087101]토라세미드",
+ "main_item_ingr_eng": "Torsemide",
+ "edi_code": "674900250",
+ "atc_code": "C03CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611523",
+ "revisions": [
+  {
+   "revision_id": "200611523-d43ebf69",
+   "content_sha256": "d43ebf698d59aa6104eb270a85b82cb203867705e390ad20a4c2be0a6eb400cd",
+   "ee_text": "* 2.5 mg 경증 내지 중등도 본태고혈압",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200611523/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:47Z",
+   "last_observed_at": "2026-09-08T08:40:47Z"
+  },
+  {
+   "revision_id": "200611523-5c2c8ed0",
+   "content_sha256": "5c2c8ed095b850501f0c282269cf1c05c7f2fefd33a6a6729e89b8f493874a58",
+   "ee_text": "경증 내지 중등도 본태고혈압",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:40:47Z",
+   "last_observed_at": "2026-09-08T08:40:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:47Z"
+}

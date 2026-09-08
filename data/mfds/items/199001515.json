@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199001515",
+ "item_name": "베타베이트액(클로베타솔프로피오네이트)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "19901220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223224]클로베타솔프로피오네이트",
+ "main_item_ingr_eng": "Clobetasol Propionate",
+ "edi_code": "642800731",
+ "atc_code": "D07AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001515",
+ "revisions": [
+  {
+   "revision_id": "199001515-339998b1",
+   "content_sha256": "339998b18c9655b594bcea9613357e3314f6a326a516aa88831ed0cda092e1bf",
+   "ee_text": "주로 두부의 피부질환(습진ㆍ피부염군, 건선)",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:03Z",
+   "last_observed_at": "2026-09-08T08:28:03Z",
+   "official_revision_date": "2022-09-14"
+  },
+  {
+   "revision_id": "199001515-77660b30",
+   "content_sha256": "77660b30d7fda5b7010eb562e571c8a7a0393ca3589dff012b7330f5eb99cf5f",
+   "ee_text": "(연고제)(크림제) 습진ㆍ피부염군(진행성 지장각피증, 만성단순태선, 광피부염을 포함), 양진군(구진두드러기를 포함), 손ㆍ발바닥농포증, 건선 (액제) 주로 두부의 피부질환(습진ㆍ피부염군, 건선)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:28:03Z",
+   "last_observed_at": "2026-09-08T08:28:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:03Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405445",
+ "item_name": "메낙트라주(수막구균(A,C,Y,W-135)다당류-DT단백접합백신)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20141121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267595]수막구균 혈청형 A 다당류와 디프테리아톡소이드 접합 단백질|[M267596]수막구균 혈청형 C 다당류와 디프테리아톡소이드 접합 단백질|[M267597]수막구균 혈청형 Y 다당류와 디프테리아톡소이드 접합 단백질|[M267598]수막구균 혈청형 W-135 다당류와 디프테리아톡소이드 접합 단백질",
+ "main_item_ingr_eng": "Meningococcal A Polysaccharide C.diptheria Conjugate Antigen/Meningococcal C Polysaccharide C.diptheria Conjugate Antigen/Meningococcal W-135 Polysaccharide C.diptheria Conjugate Antigen/Meningococcal Y Polysaccharide C.diptheria Conjugate Antigen",
+ "edi_code": "",
+ "atc_code": "J07AH08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405445",
+ "revisions": [
+  {
+   "revision_id": "201405445-af383e2b",
+   "content_sha256": "af383e2b87bb39b6aba627e9c64ff23e71063104ef1983d08ea3154c6e28a5b7",
+   "ee_text": "9개월 ~ 만 55세의 유·소아 및 성인에서 Neisseria meningitidis A, C, W135 및 Y 군에 의한 침습성 수막구균 질환의 예방",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:00Z",
+   "last_observed_at": "2026-09-08T08:48:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:00Z"
+}

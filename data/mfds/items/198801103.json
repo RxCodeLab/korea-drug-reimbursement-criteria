@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198801103",
+ "item_name": "오스테민캡슐(결정글루코사민황산염)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19880227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247626]결정글루코사민황산염",
+ "main_item_ingr_eng": "Crystallized Glucosamine Sulfate",
+ "edi_code": "",
+ "atc_code": "M01AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198801103",
+ "revisions": [
+  {
+   "revision_id": "198801103-157efe2f",
+   "content_sha256": "157efe2fa6095a71b14a8892580b9db6502aaa0d5ff09d9ad055a984fbdd4a25",
+   "ee_text": "경증(가벼운 증상)에서 중등도의 골(뼈)관절염(퇴행성관절염)",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:36Z",
+   "last_observed_at": "2026-09-08T08:27:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:36Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201506765",
+ "item_name": "오부틴정(옥시부티닌염산염)(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20150924",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246163]옥시부티닌염산염",
+ "main_item_ingr_eng": "Oxybutynin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "G04BD04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506765",
+ "revisions": [
+  {
+   "revision_id": "201506765-43054676",
+   "content_sha256": "430546764519c0515a8006146df3b23fe4d5f7f4f77b8f501b854456d20e58e0",
+   "ee_text": "비억제성 반사신경성 방광에 기인한 불안정한 방광상태의 빈뇨, 절박뇨, 요실금",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:37Z",
+   "last_observed_at": "2026-09-08T08:49:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:37Z"
+}

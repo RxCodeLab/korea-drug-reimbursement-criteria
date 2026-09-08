@@ -12,16 +12,17 @@
  "edi_code": "641901241",
  "atc_code": "R05CB01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700683",
+ "history_fetched_at": "2026-08-28T13:23:41Z",
  "revisions": [
   {
-   "revision_id": "198700683-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "198700683-d2203a17",
+   "content_sha256": "d2203a17994887676576a93478d3de18baade569a1354d45d57f048a6c667d33",
+   "ee_text": "1. 다음 질환에서의 객담배출곤란 : 기관지천식, 만성기관지염, 기관지확장증, 폐결핵, 폐기종, 상기도염(인·후두염), 폐화농증, 폐렴, 낭성섬유증, 수술후 폐합병증 2. 다음 경우에서의 전·후 처치 : 기관지조영, 기관지경 검사, 폐암 세포진, 기관절개술",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:23:41Z",
-   "last_observed_at": "2026-08-28T13:23:41Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:27:23Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:41Z"
+ ]
 }

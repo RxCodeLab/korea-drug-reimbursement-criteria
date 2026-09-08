@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200700562",
+ "item_name": "가스피란정5밀리그람(모사프리드시트르산염수화물)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20070109",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253090]모사프리드시트르산염수화물",
+ "main_item_ingr_eng": "Mosapride Citrate Dihydrate",
+ "edi_code": "642400010",
+ "atc_code": "A03FA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700562",
+ "revisions": [
+  {
+   "revision_id": "200700562-6e49ab70",
+   "content_sha256": "6e49ab7051abf1f3b818a9080ba4e1e478bcfff9754f1db27de9296b6e39e4c0",
+   "ee_text": "기능성소화불량으로 인한 소화기증상(속쓰림, 구역, 구토)",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:53Z",
+   "last_observed_at": "2026-09-08T08:40:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:53Z"
+}

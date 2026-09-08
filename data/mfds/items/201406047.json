@@ -12,15 +12,8 @@
  "edi_code": "622802281",
  "atc_code": "D01AC20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406047",
+ "history_fetched_at": "2026-09-08T08:48:11Z",
  "revisions": [
-  {
-   "revision_id": "201406047-3302208c",
-   "content_sha256": "3302208c473471f3520f807f11f2b8a91d593ee329d28cc54f1850183f44bc2a",
-   "ee_text": "1) 백선 2) 피부 칸디다증 3) 어루러기",
-   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201406047/EE",
-   "first_observed_at": "2026-08-28T13:24:40Z",
-   "last_observed_at": "2026-08-28T13:24:40Z"
-  },
   {
    "revision_id": "201406047-eb2a40ae",
    "content_sha256": "eb2a40aefa605b4358cad1f5ab92cbf0bf94bab7d7259cbaee4785b371559258",
@@ -28,8 +21,16 @@
    "ee_doc_id": "4",
    "official_revision_date": "2017-09-23",
    "first_observed_at": "2026-08-28T13:24:40Z",
+   "last_observed_at": "2026-09-08T08:48:11Z",
+   "normalizer_version": 3
+  },
+  {
+   "revision_id": "201406047-3302208c",
+   "content_sha256": "3302208c473471f3520f807f11f2b8a91d593ee329d28cc54f1850183f44bc2a",
+   "ee_text": "1) 백선 2) 피부 칸디다증 3) 어루러기",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201406047/EE",
+   "first_observed_at": "2026-08-28T13:24:40Z",
    "last_observed_at": "2026-08-28T13:24:40Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:40Z"
+ ]
 }

@@ -12,16 +12,17 @@
  "edi_code": "643305630",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000406",
+ "history_fetched_at": "2026-08-28T13:24:22Z",
  "revisions": [
   {
-   "revision_id": "201000406-70e2b5c6",
-   "content_sha256": "70e2b5c63f8a4f7384508e1b4a4dd6d6733a457f627e1bec0d76ac53245abb01",
-   "ee_text": "- 임신 ㆍ 수유기, 발육기, 노년기 - 뼈, 이의 발육불량 - 구루병의 예방",
+   "revision_id": "201000406-aa7c278d",
+   "content_sha256": "aa7c278ddc8e6b637e4d4a4b4c57b74aa8f18b61a795b372ac34dfbef844e594",
+   "ee_text": "○ 다음 경우의 비타민 D의 보급 - 임신 ㆍ 수유기, 발육기, 노년기 ○ 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. - 뼈, 이의 발육불량 - 구루병의 예방 ○ 칼슘결핍 및 기타 칼슘의 보급",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:24:22Z",
-   "last_observed_at": "2026-08-28T13:24:22Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:43:45Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:22Z"
+ ]
 }

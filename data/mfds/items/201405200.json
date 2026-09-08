@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405200",
+ "item_name": "퓨쳐켐소듐플루오라이드F-18주사액",
+ "entp_name": "(주)퓨쳐켐헬스케어",
+ "permit_date": "20141107",
+ "cancel_date": "20241107",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M255887]플루오르화나트륨 F-18액",
+ "main_item_ingr_eng": "Sodium Fluoride (18F) Solution",
+ "edi_code": "",
+ "atc_code": "V09IX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405200",
+ "revisions": [
+  {
+   "revision_id": "201405200-890bf07e",
+   "content_sha256": "890bf07edd99d2db1ff147f7ac6c767905c07ef256b143029ebff5a27f59e90e",
+   "ee_text": "다음 경우의 양전자방출 단층촬영(Positron emission tomography, PET)에 사용한다. 1) 변화된 골형성 활성 영역을 확인하기 위한 뼈의 촬영",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:57Z",
+   "last_observed_at": "2026-09-08T08:47:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:57Z"
+}

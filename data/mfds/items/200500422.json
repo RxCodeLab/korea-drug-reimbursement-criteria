@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500422",
+ "item_name": "소아용후로목스세립(세프카펜피복실염산염수화물)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20050517",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251235]세프카펜피복실염산염수화물",
+ "main_item_ingr_eng": "Cefcapene Pivoxil Hydrochloride Hydrate",
+ "edi_code": "642900792",
+ "atc_code": "J01DD17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500422",
+ "revisions": [
+  {
+   "revision_id": "200500422-2f498fbc",
+   "content_sha256": "2f498fbc0fc1d54a2dfde9dcf3475b5c75ce3e0f5ad220af998ff8ef1ae6c928",
+   "ee_text": "포도상구균속, 연쇄상구균속, 펩토스트렙토코카스속, 임균, 모락셀라카타라리스, 프로피오니박테륨속, 대장균, 시트로박터속, 클레브시엘라속, 엔테로박터속, 세라티아속, 프로테우스속, 모르가넬라모르가니, 프로비덴시아속, 인플루엔자균, 박테로이드속 1. 모낭염, 절, 절종증, 옹, 전염성농가진, 단독 봉와염, 림프관염, 표저, 화농성조위염, 피하농양, 한선염, 감염성분류 2. 인후두염(인후두의 농양), 급성기관지염, 편도염(편도주위염, 편도주위농양), 폐렴 3. 신우신염, 방광염 4. 성홍열 5. 중이염, 부비강염",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:54Z",
+   "last_observed_at": "2026-09-08T08:38:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:54Z"
+}

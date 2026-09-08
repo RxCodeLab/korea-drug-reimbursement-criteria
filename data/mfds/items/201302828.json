@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201302828",
+ "item_name": "세보프레인흡입액(세보플루란)",
+ "entp_name": "일성아이에스(주)",
+ "permit_date": "20130130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085441]세보플루란",
+ "main_item_ingr_eng": "Seboflurane",
+ "edi_code": "655403041",
+ "atc_code": "N01AB08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201302828",
+ "revisions": [
+  {
+   "revision_id": "201302828-8f072698",
+   "content_sha256": "8f07269810ec791010c678bb8b7e4748b2d25e906f757f10c1e8d3ea2e6e585b",
+   "ee_text": "전신마취",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:46Z",
+   "last_observed_at": "2026-09-08T08:45:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:46Z"
+}

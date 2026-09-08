@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197600483",
+ "item_name": "신일비사코딜정",
+ "entp_name": "신일제약(주)",
+ "permit_date": "19760629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜",
+ "main_item_ingr_eng": "Bisacodyl",
+ "edi_code": "",
+ "atc_code": "A06AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600483",
+ "revisions": [
+  {
+   "revision_id": "197600483-298fa504",
+   "content_sha256": "298fa50427e13dedd3be18122fbaabf353dd0a4e0795e23198e82d015aa2bbf9",
+   "ee_text": "급만성 변비, 수술전후, 장내분변제거, X-선 촬영시 장내분변 제거",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:25Z",
+   "last_observed_at": "2026-09-08T08:26:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:25Z"
+}

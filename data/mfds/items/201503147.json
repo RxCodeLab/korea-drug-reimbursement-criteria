@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503147",
+ "item_name": "제피티닙정250밀리그램(게피티니브)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20150526",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099313]게피티니브",
+ "main_item_ingr_eng": "Gefitinib",
+ "edi_code": "643507210",
+ "atc_code": "L01EB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503147",
+ "revisions": [
+  {
+   "revision_id": "201503147-09997652",
+   "content_sha256": "099976529ca75d8d9a9be994bcafbdd34fe751cd06604ba1baed0107676504d4",
+   "ee_text": "EGFR TK 활성 변이가 있는 국소 진행성 또는 전이성 비소세포폐암의 치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:05Z",
+   "last_observed_at": "2026-09-08T08:49:05Z",
+   "official_revision_date": "2019-02-21"
+  },
+  {
+   "revision_id": "201503147-986d04e7",
+   "content_sha256": "986d04e729409c42c0d0542eb6c6ea93db5131460836cb6a5b6e5e0b4517dc99",
+   "ee_text": "○ EGFR 활성 변이가 있는 국소 진행성 또는 전이성 비소세포폐암의 1차 치료 ○ 기존의 화학요법에 실패한 비소세포폐암(수술 불가능 또는 재발한 경우)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:49:05Z",
+   "last_observed_at": "2026-09-08T08:49:05Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:05Z"
+}

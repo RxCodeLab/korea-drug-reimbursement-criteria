@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200003",
+ "item_name": "폴리덴주(폴리데옥시리보뉴클레오티드나트륨)",
+ "entp_name": "(주)일화",
+ "permit_date": "20220103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261380]폴리데옥시리보뉴클레오티드나트륨",
+ "main_item_ingr_eng": "Polydeoxyribonucleotide Sodium",
+ "edi_code": "",
+ "atc_code": "D03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200003",
+ "revisions": [
+  {
+   "revision_id": "202200003-7e636ad2",
+   "content_sha256": "7e636ad2eb88ae64034b130b187974b7b4c821f5214da39ce5796b43507affc8",
+   "ee_text": "피부이식으로 인한 상처의 치료 및 조직 수복",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:56Z",
+   "last_observed_at": "2026-09-08T09:00:56Z",
+   "official_revision_date": "2022-01-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:56Z"
+}

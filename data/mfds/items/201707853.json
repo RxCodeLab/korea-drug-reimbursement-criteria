@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707853",
+ "item_name": "폴비정",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20171109",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096429]시아노코발라민|[M204304]피리독신염산염|[M223289]폴산",
+ "main_item_ingr_eng": "Cyanocobalamin/Folic Acid/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707853",
+ "revisions": [
+  {
+   "revision_id": "201707853-7e5aec46",
+   "content_sha256": "7e5aec4621adef234c7bc1dcf0b317decfdad6d1a6feded88bce8c30e23ebde5",
+   "ee_text": "1. 다음 경우의 비타민 B6의 보급 : - 임신·수유기, 병중·병후(병을 앓는 동안이나 회복 후)의 체력 저하시 - 이 약에 함유된 비타민 등의 효능 · 효과는 다음과 같다. · 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201707853/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:33Z",
+   "last_observed_at": "2026-09-08T08:52:33Z"
+  },
+  {
+   "revision_id": "201707853-4f4b5b23",
+   "content_sha256": "4f4b5b23387406c2ec7630a0a8999c0406cc6d16de81600d2f97f4cf0ccaae5f",
+   "ee_text": "1. 다음 경우의 비타민 B6의 보급 : - 임신 ⋅ 수유기, 병중⋅병후(병을 앓는 동안이나 회복 후)의 체력 저하시 - 이 약에 함유된 비타민 등의 효능 ⋅ 효과는 다음과 같다. ▪ 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-11-09",
+   "first_observed_at": "2026-09-08T08:52:33Z",
+   "last_observed_at": "2026-09-08T08:52:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:33Z"
+}

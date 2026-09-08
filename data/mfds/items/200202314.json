@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200202314",
+ "item_name": "스파몰정(플로로글루시놀수화물)(수출용)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20020713",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256211]플로로글루시놀수화물",
+ "main_item_ingr_eng": "Phloroglucinol Hydrate",
+ "edi_code": "",
+ "atc_code": "A03AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202314",
+ "revisions": [
+  {
+   "revision_id": "200202314-9a0592b8",
+   "content_sha256": "9a0592b86cf651764109212af7a365af783380cae975308aa88444de42251efa",
+   "ee_text": "- 비뇨기계의 경련 및 통증 : 신염성 산통 - 소화관 및 담도계의 기능장애에 의한 통증 - 부인과의 경련성 통증 - 임신중 수축의 보조치료",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:21Z",
+   "last_observed_at": "2026-09-08T08:36:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:21Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "20150320",
  "cancel_date": "20250320",
  "status": "유효기간만료",
- "main_item_ingr": "[M050107]금은화|[M051105]연교|[M040538]진피|[M040225]복령|[M040214]백출|[M040070]당귀|[M040523]작약|[M040790]황기|[M040006]감초|[M040216]백지|[M040213]인삼",
+ "main_item_ingr": "[M040006]감초|[M040070]당귀|[M040213]인삼|[M040214]백출|[M040216]백지|[M040225]복령|[M040523]작약|[M040538]진피|[M040790]황기|[M050107]금은화|[M051105]연교",
  "main_item_ingr_eng": "Angelica Dahurica Root/Angelica Gigas Root/Astragalus Root/Atractylodes Rhizome White/Citrus Unshiu Peel/Forsythia Fruit/Ginseng/Licorice/Lonicera Flower/Peony Root/Poria",
  "edi_code": "",
  "atc_code": "J01XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501468",
+ "history_fetched_at": "2026-08-28T13:24:41Z",
  "revisions": [
   {
    "revision_id": "201501468-ff8fd06c",
@@ -19,8 +20,9 @@
    "ee_text": "림프절염, 항문주위염, 유선염 등의 화농(곪음)성질환",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:24:41Z",
-   "last_observed_at": "2026-08-28T13:24:41Z",
-   "official_revision_date": "2019-08-09"
+   "last_observed_at": "2026-09-08T08:48:38Z",
+   "official_revision_date": "2019-08-09",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201501468-9d29426a",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:41Z",
    "last_observed_at": "2026-08-28T13:24:41Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:41Z"
+ ]
 }

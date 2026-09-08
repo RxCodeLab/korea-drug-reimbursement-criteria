@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401576",
+ "item_name": "프레미나질크림(결합형에스트로겐 4.29%)",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20240628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259850]결합형에스트로겐4.29%",
+ "main_item_ingr_eng": "Conjugated Estrogens 4.29%",
+ "edi_code": "",
+ "atc_code": "G03CA57",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401576",
+ "revisions": [
+  {
+   "revision_id": "202401576-121bb369",
+   "content_sha256": "121bb369da57570c5391f9d0c03555d42aa2bdef114800afc741749e0da504ab",
+   "ee_text": "위축성질염, 외음위축증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:06Z",
+   "last_observed_at": "2026-09-08T09:03:06Z",
+   "official_revision_date": "2024-06-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:06Z"
+}

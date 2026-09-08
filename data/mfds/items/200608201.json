@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200608201",
+ "item_name": "쎌라트설피리드캡슐(설피리드)(수출용)",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "20060927",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050794]설피리드",
+ "main_item_ingr_eng": "Sulpiride",
+ "edi_code": "",
+ "atc_code": "A02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608201",
+ "revisions": [
+  {
+   "revision_id": "200608201-c78fe2cf",
+   "content_sha256": "c78fe2cff207298c36e9b926e80004852069bd169c62b9c8daa857d6849411a5",
+   "ee_text": "1. 주효능 효과 위.십이지장궤양",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:36Z",
+   "last_observed_at": "2026-09-08T08:40:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:36Z"
+}

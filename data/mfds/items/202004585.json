@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004585",
+ "item_name": "스프라바토나잘스프레이(에스케타민염산염)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20200623",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265122]에스케타민염산염",
+ "main_item_ingr_eng": "Esketamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N06AX27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004585",
+ "revisions": [
+  {
+   "revision_id": "202004585-608bfb7c",
+   "content_sha256": "608bfb7c4d01199bdbd38c993c4a2601742037b83e57feb936cb0464e6eca4a9",
+   "ee_text": "최소 2개 이상의 다른 경구 항우울제에 적절히 반응하지 않는 성인의 중등도에서 중증의 주요 우울장애 (치료저항성 우울증) 치료 급성 자살 생각 또는 행동이 있는 성인의 중등도에서 중증의 주요 우울장애에서 우울 증상의 빠른 개선 이 약은 경구 항우울제와 병용 투여한다. 이 약은 자살 예방 또는 자살 생각이나 행동 감소에 대한 효과가 입증되지 않았다. 이 약의 첫 투여 후 우울 증상이 개선되더라도, 입원이 필요하지 않음을 의미하는 것은 아니다.",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:09Z",
+   "last_observed_at": "2026-09-08T08:59:09Z",
+   "official_revision_date": "2020-12-16"
+  },
+  {
+   "revision_id": "202004585-020a208c",
+   "content_sha256": "020a208c22dbfe9d003d51987cfd0072c93b20508cccad7fcd97776242525bcd",
+   "ee_text": "최소 2개 이상의 다른 경구용 항우울제에 적절히 반응하지 않는 성인의 중등도에서 증증의 주요 우울장애 (치료저항성 우울증) 치료 이 약은 경구용 항우울제와 병용 투여한다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-06-23",
+   "first_observed_at": "2026-09-08T08:59:09Z",
+   "last_observed_at": "2026-09-08T08:59:09Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:09Z"
+}

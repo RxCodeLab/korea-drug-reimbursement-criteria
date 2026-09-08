@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201109899",
+ "item_name": "베리너트주500아이유(사람 C1-에스테라제 억제제)",
+ "entp_name": "씨에스엘코리아(유)",
+ "permit_date": "20111111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253397]사람 C1-에스테라제 억제제",
+ "main_item_ingr_eng": "Human C1-Esterase Inhibitor",
+ "edi_code": "",
+ "atc_code": "B06AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109899",
+ "revisions": [
+  {
+   "revision_id": "201109899-0af18b72",
+   "content_sha256": "0af18b72e6c00934c2b50e551d2b890f923c9bd1940fe9335e1807b8858aefc8",
+   "ee_text": "성인 및 청소년의 복부, 안면 및 후두부에서 발생한 유전성 혈관 부종의 I형 및 II형 급성 발작 증상 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:02Z",
+   "last_observed_at": "2026-09-08T08:45:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:02Z"
+}

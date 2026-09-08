@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511127",
+ "item_name": "애피드라주바이알(인슐린글루리신,유전자재조합)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20050325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286029]인슐린글루리신(유전자재조합)",
+ "main_item_ingr_eng": "Insulin Glulisine (rDNA)",
+ "edi_code": "652000341",
+ "atc_code": "A10AB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511127",
+ "revisions": [
+  {
+   "revision_id": "200511127-80b39471",
+   "content_sha256": "80b3947117c69ab2becdfe4b139a0423c976c2b08b8724d0f9f6bc3cd1889b29",
+   "ee_text": "만 4세 이상의 어린이와 청소년 및 성인에서의 당뇨병",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:37Z",
+   "last_observed_at": "2026-09-08T08:39:37Z",
+   "official_revision_date": "2021-05-10"
+  },
+  {
+   "revision_id": "200511127-8e94f671",
+   "content_sha256": "8e94f671eaad223a33a28d3f2fe3fc3bc77ed1ae9356fe54fe443af757460249",
+   "ee_text": "4세 이상의 어린이와 청소년 및 성인에서의 당뇨병",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:39:37Z",
+   "last_observed_at": "2026-09-08T08:39:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:37Z"
+}

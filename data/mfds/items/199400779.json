@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199400779",
+ "item_name": "로푸록스네일라카(시클로피록스)",
+ "entp_name": "(주)한독",
+ "permit_date": "19940114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085228]시클로피록스",
+ "main_item_ingr_eng": "Ciclopirox",
+ "edi_code": "652100271",
+ "atc_code": "D01AE14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400779",
+ "revisions": [
+  {
+   "revision_id": "199400779-85a1c0bd",
+   "content_sha256": "85a1c0bda19e08cbcf9ed3600c4fdd43b12b29b0d30b81704faa41f54ad6b079",
+   "ee_text": "조갑진균증(손발톱진균증)(손, 발톱무좀)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:11Z",
+   "last_observed_at": "2026-09-08T08:29:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:11Z"
+}

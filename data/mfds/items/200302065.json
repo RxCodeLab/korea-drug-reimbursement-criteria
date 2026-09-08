@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302065",
+ "item_name": "플루펜카타플라스마(플루르비프로펜)",
+ "entp_name": "(주)티디에스팜",
+ "permit_date": "20031031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089049]플루르비프로펜|[M089049]플루르비프로펜|[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302065",
+ "revisions": [
+  {
+   "revision_id": "200302065-0ab64307",
+   "content_sha256": "0ab643076bd186cfca2205bce1f91a608641c50cc2d8352e145587e24e35127c",
+   "ee_text": "다음 질환 및 증상의 진통 ㆍ 소염(항염) : 퇴행성관절염(골관절염), 어깨관절주위염, 건 ㆍ 건초염(힘줄윤활막염),상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상후의 종창(부기)ㆍ 동통(통증)",
+   "ee_doc_id": "25",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:08Z",
+   "last_observed_at": "2026-09-08T08:37:08Z",
+   "official_revision_date": "2020-11-05"
+  },
+  {
+   "revision_id": "200302065-4e2b5688",
+   "content_sha256": "4e2b5688f5bb1f9970d5f4a7c32f75fbbf0028003aac94aaa114d7e8da0d8238",
+   "ee_text": "다음 질환 및 증상의 진통 ㆍ 소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건 ㆍ 건초염, 상완골상과염(테니스 엘보우 등), 근육통, 외상후의 종창 ㆍ 동통",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:37:08Z",
+   "last_observed_at": "2026-09-08T08:37:08Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:08Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199702371",
+ "item_name": "베타신주사(라베타롤염산염)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "19970305",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257161]라베타롤염산염",
+ "main_item_ingr_eng": "Labetalol Hydrochloride",
+ "edi_code": "657800901",
+ "atc_code": "C07AG01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702371",
+ "revisions": [
+  {
+   "revision_id": "199702371-eac312a5",
+   "content_sha256": "eac312a56821485a9b8ead1808824628de9afd6952acfb28558f6c853b104219",
+   "ee_text": "(경구 : 정제) 고혈압, 협심증을 수반한 고혈압, 임신성고혈압 (주사제) 임신성고혈압을 포함한 응급성고혈압, 급성심근경색에 의한 고혈압, 마취시 혈압강하",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:17Z",
+   "last_observed_at": "2026-09-08T08:31:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:17Z"
+}

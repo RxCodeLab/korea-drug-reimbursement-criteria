@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004918",
+ "item_name": "코타디아정(피오글리타존염산염)(수출용)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20100809",
+ "cancel_date": "20231030",
+ "status": "취하",
+ "main_item_ingr": "[M260948]피오글리타존염",
+ "main_item_ingr_eng": "Pioglitazone Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A10BG03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004918",
+ "revisions": [
+  {
+   "revision_id": "201004918-246b2dcf",
+   "content_sha256": "246b2dcfb9d5cc4cdb7179ee3bc7fb5371004b878d6164b6d43b62d0f27a8a7b",
+   "ee_text": "이약은 제2형 당뇨병 환자(인슐린비의존형) 혈당조절을 위하여 식사요법 및 운동요법과 함께 보조치료제로 사용된다. 이약은 단독요법으로 사용할 수 있으며 필요에 따라서는 식사요법 및 운동요법과 함께 다른 약제를 사용했음에도 불구하고 혈당개선효과를 보지 못했을 경우에는 설포닐우레아제, 메트포민, 혹은 인슐린과 함께 병용요법도 가능하다. 제2형 당뇨병환자는 이 외에도 영양 상담이 필요하며 경우에 따라서는 체중감량도 요구되고. 운동요법도 실시하여야 한다. 제2형 당뇨병 환자에 있어서 이러한 노력들은 초기치료뿐만 아니라 약물요법의 효력을 유지하기 위해서도 중요하다.",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:11Z",
+   "last_observed_at": "2026-09-08T08:44:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:11Z"
+}

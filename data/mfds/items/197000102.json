@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197000102",
+ "item_name": "대원아미노필린정(아미노필린수화물)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "19700211",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223100]아미노필린수화물",
+ "main_item_ingr_eng": "Aminophylline Hydrate",
+ "edi_code": "671800510",
+ "atc_code": "R03DA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197000102",
+ "revisions": [
+  {
+   "revision_id": "197000102-2c4c0ddc",
+   "content_sha256": "2c4c0ddc807e5c98cbb9953562a27732114b83fd327e8cb7e839873b9acae16b",
+   "ee_text": "1. 다음 질환의 기도폐쇄성장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 천식기관지염, 폐기종, 만성기관지염 2. 울혈심부전, 심장천식(발작예방)",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:16Z",
+   "last_observed_at": "2026-09-08T08:26:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:16Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "20180521",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M243794]황백연조엑스 (3.3→1)|[M243795]치자연조엑스 (3.0→1)|[M070611]살리실산글리콜|[M279284]L-멘톨|[M206708]DL-캄파|[M223240]토코페롤아세테이트|[M113801]황백 연조엑스(3.3→1)|[M113762]치자 연조엑스(3.0→1)|[M223240]토코페롤아세테이트|[M204423]dl-캄파|[M070611]살리실산글리콜|[M230875]l-멘톨|[M204423]dl-캄파|[M223240]토코페롤아세테이트|[M243794]황백연조엑스 (3.3→1)|[M243795]치자연조엑스 (3.0→1)|[M070611]살리실산글리콜|[M230875]l-멘톨",
+ "main_item_ingr": "[M070611]살리실산글리콜|[M070611]살리실산글리콜|[M070611]살리실산글리콜|[M113762]치자 연조엑스(3.0→1)|[M113801]황백 연조엑스(3.3→1)|[M204423]dl-캄파|[M204423]dl-캄파|[M206708]DL-캄파|[M223240]토코페롤아세테이트|[M223240]토코페롤아세테이트|[M223240]토코페롤아세테이트|[M230875]l-멘톨|[M230875]l-멘톨|[M243794]황백연조엑스 (3.3→1)|[M243794]황백연조엑스 (3.3→1)|[M243795]치자연조엑스 (3.0→1)|[M243795]치자연조엑스 (3.0→1)|[M279284]L-멘톨",
  "main_item_ingr_eng": "DL-Camphor/Gardenia Fruit Soft Extract (3.0→1)/Glycol Salicylate/L-Menthol/Phellodendron Bark Soft Extract (3.3→1)/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "M02AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802142",
+ "history_fetched_at": "2026-08-28T13:25:00Z",
  "revisions": [
   {
    "revision_id": "201802142-dd13a363",
@@ -19,8 +20,9 @@
    "ee_text": "다음 증상의 진통 ㆍ 소염(항염) 1) 삠 2) 타박상 3) 근육통 4) 관절통 5) 골(뼈)절통 6) 요(허리)통 7) 어깨결림 8) 동창(언 상처)",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:25:00Z",
-   "last_observed_at": "2026-08-28T13:25:00Z",
-   "official_revision_date": "2022-07-08"
+   "last_observed_at": "2026-09-08T08:53:09Z",
+   "official_revision_date": "2022-07-08",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201802142-8b0773df",
@@ -40,6 +42,5 @@
    "first_observed_at": "2026-08-28T13:25:00Z",
    "last_observed_at": "2026-08-28T13:25:00Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:00Z"
+ ]
 }

@@ -12,6 +12,7 @@
  "edi_code": "655601471",
  "atc_code": "L02AE02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709819",
+ "history_fetched_at": "2026-08-28T13:24:14Z",
  "revisions": [
   {
    "revision_id": "200709819-e9124b14",
@@ -19,8 +20,9 @@
    "ee_text": "1. 진행성 전립선암 2. 중추성 사춘기 조발증",
    "ee_doc_id": "31",
    "first_observed_at": "2026-08-28T13:24:14Z",
-   "last_observed_at": "2026-08-28T13:24:14Z",
-   "official_revision_date": "2025-02-19"
+   "last_observed_at": "2026-09-08T08:41:50Z",
+   "official_revision_date": "2025-02-19",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200709819-9c01a907",
@@ -40,6 +42,5 @@
    "first_observed_at": "2026-08-28T13:24:14Z",
    "last_observed_at": "2026-08-28T13:24:14Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:14Z"
+ ]
 }

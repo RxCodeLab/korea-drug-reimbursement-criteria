@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200709018",
+ "item_name": "케프란점안액0.025%(케토티펜푸마르산염)(수출용)",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20070803",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081819]푸마르산케토티펜",
+ "main_item_ingr_eng": "Ketotifen Fumarate",
+ "edi_code": "",
+ "atc_code": "S01GX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709018",
+ "revisions": [
+  {
+   "revision_id": "200709018-b068c6f5",
+   "content_sha256": "b068c6f51999816b3dfb061a2179da1f24d94bccc5591e5739c6849eb8b9f7d8",
+   "ee_text": "계절성 알러지성 결막염",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:46Z",
+   "last_observed_at": "2026-09-08T08:41:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:46Z"
+}

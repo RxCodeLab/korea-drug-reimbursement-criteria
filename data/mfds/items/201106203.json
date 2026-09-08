@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201106203",
+ "item_name": "그린진에프주1000단위(베록토코그알파)(혈액응고인자VIII,유전자재조합)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20110906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250527]베록토코그알파(혈액응고인자VIII,유전자재조합)(숙주:CHO(Chinese Hamster Ovary) DG44, 발현벡터 pCMVFVIII-A, pCMVFVIII-C, pCMV/zeo-vWF)  \r\n|[M250527]베록토코그알파(혈액응고인자VIII,유전자재조합)(숙주:CHO(Chinese Hamster Ovary) DG44, 발현벡터 pCMVFVIII-A, pCMVFVIII-C, pCMV/zeo-vWF)  \r\n|[M250527]베록토코그알파(혈액응고인자VIII,유전자재조합)(숙주:CHO(Chinese Hamster Ovary) DG44, 발현벡터 pCMVFVIII-A, pCMVFVIII-C, pCMV/zeo-vWF)",
+ "main_item_ingr_eng": "Beroctocog Alpha (Blood Coagulation Factor VIII, rDNA, Host: Chinese Hamster Ovary, DG44, Vector: pCMVFVIII-A, pCMVFVIII-C, pCMV/zeo-vWF)",
+ "edi_code": "643604871",
+ "atc_code": "B02BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106203",
+ "revisions": [
+  {
+   "revision_id": "201106203-9384c34a",
+   "content_sha256": "9384c34af0223d25ec06bbe6b3a7b7fb1991654b2361bdf46282b127163caafb",
+   "ee_text": "혈우병 A 환자의 출혈 증상의 조절과 지혈 및 일상 생활 또는 수술 시 출혈 예방, 이 약은 von Willebrand 인자 결핍증 환자에게는 사용하지 않는다.",
+   "ee_doc_id": "34",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:53Z",
+   "last_observed_at": "2026-09-08T08:44:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:53Z"
+}

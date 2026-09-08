@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502565",
+ "item_name": "푸소라연고",
+ "entp_name": "삼아제약(주)",
+ "permit_date": "20150428",
+ "cancel_date": "20250428",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M200675]베타메타손디프로피오네이트|[M261479]칼시포트리올수화물",
+ "main_item_ingr_eng": "Betamethasone Dipropionate/Calcipotriol Hydrate",
+ "edi_code": "",
+ "atc_code": "D05AX52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502565",
+ "revisions": [
+  {
+   "revision_id": "201502565-f1d2a442",
+   "content_sha256": "f1d2a4423d3a6e2b5edb34d452dad85003176de0a23ae427eb03bf3135aec12b",
+   "ee_text": "(연고제) 판상형 건선의 국소치료 (겔제) 성인 : 중등도∼중증의 두피건선 및 두피 외 판상형 건선의 국소치료",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:54Z",
+   "last_observed_at": "2026-09-08T08:48:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:54Z"
+}

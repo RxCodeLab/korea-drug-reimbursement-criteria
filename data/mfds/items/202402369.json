@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402369",
+ "item_name": "청혈단캡슐(수출명:NeuroRescueX HH333 Capsules)(수출용)",
+ "entp_name": "경진제약(주)",
+ "permit_date": "20241004",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040073]대황|[M040564]치자|[M040789]황금|[M040792]황련|[M040793]황백",
+ "main_item_ingr_eng": "Coptis Rhizome/Gardenia Fruit/Phellodendron Bark/Rhubarb/Scutellaria Root",
+ "edi_code": "",
+ "atc_code": "N07XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402369",
+ "revisions": [
+  {
+   "revision_id": "202402369-62ab3664",
+   "content_sha256": "62ab36641eb31cb84f93d897c2ae1d179b7ebcee21132815fda0acebda121750",
+   "ee_text": "다음 질환에 대한 보조 요법: 뇌혈관 질환, 심혈관 질환",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:22Z",
+   "last_observed_at": "2026-09-08T09:03:22Z",
+   "official_revision_date": "2024-10-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:22Z"
+}

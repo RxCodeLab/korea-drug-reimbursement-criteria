@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500139",
+ "item_name": "알보칠가글액(벤지다민염산염)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20250117",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222851]벤지다민염산염",
+ "main_item_ingr_eng": "Benzydamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A01AD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500139",
+ "revisions": [
+  {
+   "revision_id": "202500139-322f8755",
+   "content_sha256": "322f87555c333670a811ce04cc76050fe219fa13bd46b03f7609514da0a8c0d6",
+   "ee_text": "1. 주효능 효과 다음 질환에 의한 염증의 완화 : 치은염, 구내염, 아구창, 발치전ㆍ후, 인두염, 편도염, 방사선요법 및 삽관법 등의 물리적 원인에 의한 구강점막염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:38Z",
+   "last_observed_at": "2026-09-08T09:03:38Z",
+   "official_revision_date": "2025-01-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:38Z"
+}

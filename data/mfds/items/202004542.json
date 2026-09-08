@@ -7,20 +7,22 @@
  "permit_date": "20200622",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M210377]아셀렌산나트륨오수화물|[M102050]콜레칼시페롤농축분말",
+ "main_item_ingr": "[M102050]콜레칼시페롤농축분말|[M210377]아셀렌산나트륨오수화물",
  "main_item_ingr_eng": "Cholecalciferol Concentrate Powder/Sodium Selenite Pentahydrate",
  "edi_code": "",
  "atc_code": "A11CC55",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004542",
+ "history_fetched_at": "2026-08-28T13:25:20Z",
  "revisions": [
   {
-   "revision_id": "202004542-233e6b2e",
-   "content_sha256": "233e6b2e6f8a5e80372b81ff5e863f9929d4950dd09c93d178b6864b385965dd",
-   "ee_text": "- 임신ㆍ수유기, 발육기, 노년기 - 뼈, 이의 발육불량 - 구루병의 예방",
+   "revision_id": "202004542-1dc59c13",
+   "content_sha256": "1dc59c1336b81f949cef63f816705f1e34c6b5e591a2556f006426fbc2646e27",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신ㆍ수유기, 발육기, 노년기 2. 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. - 뼈, 이의 발육불량 - 구루병의 예방 3. 셀레늄의 보급",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:25:20Z",
-   "last_observed_at": "2026-08-28T13:25:20Z",
-   "official_revision_date": "2024-01-09"
+   "last_observed_at": "2026-09-08T08:59:09Z",
+   "official_revision_date": "2024-01-09",
+   "normalizer_version": 3
   },
   {
    "revision_id": "202004542-72a1a427",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:25:20Z",
    "last_observed_at": "2026-08-28T13:25:20Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:20Z"
+ ]
 }

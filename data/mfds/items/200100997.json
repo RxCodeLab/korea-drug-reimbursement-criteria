@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100997",
+ "item_name": "에쟈스민정(로라타딘)",
+ "entp_name": "(주)제뉴파마",
+ "permit_date": "20010731",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082724]로라타딘",
+ "main_item_ingr_eng": "Loratadine",
+ "edi_code": "698000870",
+ "atc_code": "R06AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100997",
+ "revisions": [
+  {
+   "revision_id": "200100997-266bda52",
+   "content_sha256": "266bda52ccb61875a92c97f9d24fcfcd6752852a4644dfc4c1982b8e94e52b37",
+   "ee_text": "알레르기성 비염(재채기, 코막힘, 가려움, 눈의 작열감), 만성 특발성 두드러기",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:01Z",
+   "last_observed_at": "2026-09-08T08:35:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:01Z"
+}

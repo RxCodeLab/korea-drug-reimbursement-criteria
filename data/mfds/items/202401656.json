@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401656",
+ "item_name": "타이바소흡입액0.6mg/mL(트레프로스티닐)",
+ "entp_name": "(주)안트로젠",
+ "permit_date": "20240705",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249084]트레프로스티닐",
+ "main_item_ingr_eng": "Treprostinil",
+ "edi_code": "",
+ "atc_code": "B01AC21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401656",
+ "revisions": [
+  {
+   "revision_id": "202401656-74a3d9f0",
+   "content_sha256": "74a3d9f0060d70b5719fde0b422e18df6959294d6dbdb433e9f0dd79756714d0",
+   "ee_text": "간질성폐질환 연관 폐고혈압 (PH-ILD; WHO 그룹3)의 운동능력 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:08Z",
+   "last_observed_at": "2026-09-08T09:03:08Z",
+   "official_revision_date": "2024-07-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:08Z"
+}

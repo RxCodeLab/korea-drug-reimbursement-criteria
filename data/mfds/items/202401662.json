@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401662",
+ "item_name": "에피졸외용액(에피나코나졸)",
+ "entp_name": "(주)메디카코리아",
+ "permit_date": "20240708",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265866]에피나코나졸",
+ "main_item_ingr_eng": "Efinaconazole",
+ "edi_code": "",
+ "atc_code": "D01AC19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401662",
+ "revisions": [
+  {
+   "revision_id": "202401662-85177778",
+   "content_sha256": "851777782bf82cafb7293d47af43d2a2703f3aa34273a0171393bea8dbfc8419",
+   "ee_text": "피부사상균에 의한 조갑(손발톱)진균증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:09Z",
+   "last_observed_at": "2026-09-08T09:03:09Z",
+   "official_revision_date": "2024-07-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:09Z"
+}

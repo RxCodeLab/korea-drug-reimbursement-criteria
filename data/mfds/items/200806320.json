@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806320",
+ "item_name": "아프머스플라스타(디클로페낙디에칠암모늄)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20080609",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M086205]디클로페낙디에칠암모늄",
+ "main_item_ingr_eng": "Diclofenac Diethylammonium",
+ "edi_code": "",
+ "atc_code": "M02AA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806320",
+ "revisions": [
+  {
+   "revision_id": "200806320-87db13d4",
+   "content_sha256": "87db13d47f82e0a7de1544ea4cf94cfd91e16f1a79dbc45bf44265db4085c563",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염 1) 변형성관절염 2) 견관절주위염 3) 건ㆍ건초염 4) 건주위염 5) 상완골상과염(테니스 엘보우 등) 6) 외상 후의 종창ㆍ동통(타박, 좌상, 염좌 등) 7) 근육통",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:35Z",
+   "last_observed_at": "2026-09-08T08:42:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:35Z"
+}

@@ -7,7 +7,7 @@
  "permit_date": "20050408",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223015]DL-메티오닌|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223015]DL-메티오닌",
  "main_item_ingr_eng": "Acetaminophen/DL-Methionine",
  "edi_code": "",
  "atc_code": "N02BE51",
@@ -20,7 +20,8 @@
    "ee_text": "두통, 치통, 관절통, 신경통, 근육통, 염좌통(삔 통증), 월경통(생리통)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502128/EE",
    "first_observed_at": "2026-08-27T12:57:39Z",
-   "last_observed_at": "2026-08-28T13:24:08Z"
+   "last_observed_at": "2026-09-08T08:39:17Z",
+   "normalizer_version": 3
   }
  ]
 }

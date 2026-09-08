@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100705",
+ "item_name": "리바린캅셀(리바비린)(수출용)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20011213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070313]리바비린",
+ "main_item_ingr_eng": "Ribavirin",
+ "edi_code": "",
+ "atc_code": "J05AP01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100705",
+ "revisions": [
+  {
+   "revision_id": "200100705-f002ca8b",
+   "content_sha256": "f002ca8b274e5c8899e1e8e7f55134431f29316a47a83bd9632fba2f9247b416",
+   "ee_text": "만성 C형 간염에서 인터페론 알파 2b주사와 병용투여",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:58Z",
+   "last_observed_at": "2026-09-08T08:34:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:58Z"
+}

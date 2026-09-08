@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201105106",
+ "item_name": "액티큐정",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20110808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M081950]도큐세이트나트륨",
+ "main_item_ingr_eng": "Bisacodyl/Docusate Sodium",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201105106",
+ "revisions": [
+  {
+   "revision_id": "201105106-bf92c318",
+   "content_sha256": "bf92c318631cb414795d54fd9837283cda8c3aaacc9b33dfea3e8063d6e1f959",
+   "ee_text": "ㆍ 변비 ㆍ 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:49Z",
+   "last_observed_at": "2026-09-08T08:44:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:49Z"
+}

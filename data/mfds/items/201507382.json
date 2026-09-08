@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507382",
+ "item_name": "디테린정100밀리그램(사프롭테린이염산염)",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20151027",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M262983]사프롭테린이염산염",
+ "main_item_ingr_eng": "Sapropterin Dihydrochloride",
+ "edi_code": "652606220",
+ "atc_code": "A16AX07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507382",
+ "revisions": [
+  {
+   "revision_id": "201507382-fc3e9d3f",
+   "content_sha256": "fc3e9d3fd584da4e50049d36e87f87e1cab34e359b7888ea48e7c9732b9c03bc",
+   "ee_text": "테트라하이드로비옵테린(tetrahydrobiopterin, BH4)에 반응하는 페닐케톤뇨증 환자의 혈중 페닐알라닌 농도 감소",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:44Z",
+   "last_observed_at": "2026-09-08T08:49:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:44Z"
+}

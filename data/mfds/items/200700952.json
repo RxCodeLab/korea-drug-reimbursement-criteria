@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200700952",
+ "item_name": "콤비간점안액",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20070123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222894]티몰롤말레산염|[M251494]브리모니딘타르타르산염",
+ "main_item_ingr_eng": "Brimonidine Tartrate/Timolol Maleate",
+ "edi_code": "624900501",
+ "atc_code": "S01ED51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700952",
+ "revisions": [
+  {
+   "revision_id": "200700952-44cb50f2",
+   "content_sha256": "44cb50f2f3ba4b8e4da916e276e978e36ae9453ed4b9799f81ffd400cb533fff",
+   "ee_text": "다음 환자에서의 안압 감소: 국소 베타차단제에 불충분하게 반응하는 만성 개방각 녹내장 환자, 고안압증 환자",
+   "ee_doc_id": "25",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:56Z",
+   "last_observed_at": "2026-09-08T08:40:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:56Z"
+}

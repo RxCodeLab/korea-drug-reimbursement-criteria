@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201002507",
+ "item_name": "코민포연질캡슐(수출용)",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20100406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051415]푸르설티아민|[M084984]카제인가수분해물|[M089480]레시친|[M244748]판토텐산칼슘",
+ "main_item_ingr_eng": "Calcium Pantothenate/Casein Hydrolysate/Fursultiamine/Lecithin",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002507",
+ "revisions": [
+  {
+   "revision_id": "201002507-e0448a8e",
+   "content_sha256": "e0448a8e83009132853c705df2542b5c4cc7ae9b71348132c407c89f17402651",
+   "ee_text": "자양강장, 허약체질, 육체피로, 병중ㆍ 병후, 발열성소모성 질환, 임신기ㆍ 수유기 등의 영양보급",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:55Z",
+   "last_observed_at": "2026-09-08T08:43:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:55Z"
+}

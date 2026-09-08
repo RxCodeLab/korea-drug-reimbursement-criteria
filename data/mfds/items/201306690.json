@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201306690",
+ "item_name": "제스윈크림(데소나이드)",
+ "entp_name": "제이더블유신약(주)",
+ "permit_date": "20130405",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089940]데소나이드",
+ "main_item_ingr_eng": "Desonide",
+ "edi_code": "644102291",
+ "atc_code": "D07AB08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306690",
+ "revisions": [
+  {
+   "revision_id": "201306690-dc1a2363",
+   "content_sha256": "dc1a2363f7bcbd4ada4eb267d9d4e703702555005874afe9a857b69eeec9ddc0",
+   "ee_text": "코르티코스테로이드제에 반응하는 피부질환의 가려움 및 염증의 경감",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201306690/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:58Z",
+   "last_observed_at": "2026-09-08T08:45:58Z"
+  },
+  {
+   "revision_id": "201306690-0722e58a",
+   "content_sha256": "0722e58ad45601085ef343b2dad8da753d549a288212d091d243a2cb0cf98707",
+   "ee_text": "(크림제) 코르티코스테로이드제에 반응하는 피부질환의 가려움 및 염증의 경감",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:58Z",
+   "last_observed_at": "2026-09-08T08:45:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:58Z"
+}

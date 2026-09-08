@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200103999",
+ "item_name": "구미태고액1%(알킬디아미노에틸글리신염산염액)",
+ "entp_name": "구미제약(주)",
+ "permit_date": "20010129",
+ "cancel_date": "20260401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M257839]알킬디아미노에틸글리신염산염액40%",
+ "main_item_ingr_eng": "Alkyldiaminoethylglycine Hydrochloride Solution 40%",
+ "edi_code": "",
+ "atc_code": "D08AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200103999",
+ "revisions": [
+  {
+   "revision_id": "200103999-1ff0141c",
+   "content_sha256": "1ff0141c7258428e5d12b1f1430877912044e880d0064fe28cd4c469266b9734",
+   "ee_text": "- 손 및 피부의 소독 - 수술부위의 피부소독 - 수술부위의 점막소독 - 피부ㆍ점막의 창상부위 소독 - 의료 용구의 소독 - 수술실 병실 가구 기구 물품 등의 소독",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:42Z",
+   "last_observed_at": "2026-09-08T08:35:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:42Z"
+}

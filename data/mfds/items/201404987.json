@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404987",
+ "item_name": "퓨쳐켐암모니아N13주사액",
+ "entp_name": "(주)퓨쳐켐헬스케어",
+ "permit_date": "20141028",
+ "cancel_date": "20241028",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M260596]암모니아 N13 액",
+ "main_item_ingr_eng": "Ammonia N13 Solution",
+ "edi_code": "",
+ "atc_code": "V09GX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404987",
+ "revisions": [
+  {
+   "revision_id": "201404987-664c444b",
+   "content_sha256": "664c444b0e767fc770f53d504c4d42c95b728707f23695a8d9d2403dac3c5675",
+   "ee_text": "양전자방출단층촬영(Positron emission tomography, PET)을 이용한 다음의 심근관류평가에 사용한다. 1)심근 관류 영상과 병용하여 관상동맥질환, 좌심실기능이상 환자에서의 잔류 포도당대사 및 가역적인 수축기 기능소실이 있는 좌심실 심근의 확인 2)MBF(Myocardial blood flow 심근혈류) 및 CRF(Coronary flow reserve: 관상동맥예비혈량)의 측정 3) 심근의 에너지대사, 지방산대사, 산소대사율의 측정",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:52Z",
+   "last_observed_at": "2026-09-08T08:47:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:52Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200604184",
+ "item_name": "판토라인주(판토프라졸나트륨세스키히드레이트)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20060529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089465]판토프라졸나트륨세스키히드레이트",
+ "main_item_ingr_eng": "Pantoprazole Sodium Sesquihydrate",
+ "edi_code": "642503571",
+ "atc_code": "A02BC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604184",
+ "revisions": [
+  {
+   "revision_id": "200604184-c9577dcd",
+   "content_sha256": "c9577dcdb61ba3606911b8e32050e2b9930899eeb31458d55536e0ed31d0a320",
+   "ee_text": "- 십이지장궤양 - 위궤양 - 중등도 ∼ 중증의 역류식도염 - 졸링거엘리슨증후군 및 기타 병리학적 위산 과분비 상태",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:10Z",
+   "last_observed_at": "2026-09-08T08:40:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:10Z"
+}

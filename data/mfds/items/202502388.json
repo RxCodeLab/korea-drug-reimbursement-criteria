@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502388",
+ "item_name": "메리트지주(N(2)-L-알라닐-L-글루타민)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20250909",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M111326]N(2)-L-알라닐-L-글루타민",
+ "main_item_ingr_eng": "N(2)-L-Alanyl-L-glutamine",
+ "edi_code": "",
+ "atc_code": "B05XB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502388",
+ "revisions": [
+  {
+   "revision_id": "202502388-987fdcc6",
+   "content_sha256": "987fdcc61451158c2d2a895295b70d01b794c728cd8816643df42ca056e061d8",
+   "ee_text": "정맥영양요법을 실시하는 경우 아미노산 수액이나 아미노산 함유 수액에 보충하여 글루타민 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:16Z",
+   "last_observed_at": "2026-09-08T09:04:16Z",
+   "official_revision_date": "2025-09-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:16Z"
+}

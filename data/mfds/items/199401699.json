@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199401699",
+ "item_name": "광동원탕",
+ "entp_name": "광동제약(주)",
+ "permit_date": "19940922",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095974]원탕연조엑스",
+ "main_item_ingr_eng": "Wontang Soft Extract",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199401699",
+ "revisions": [
+  {
+   "revision_id": "199401699-c3223da6",
+   "content_sha256": "c3223da69e1312fb05b2ba50e826bc060108627cafaec822bb154eea80768e21",
+   "ee_text": "체력저하로 인한 인후통을 수반하는 감기, 몸살, 발열, 두통",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:17Z",
+   "last_observed_at": "2026-09-08T08:29:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:17Z"
+}

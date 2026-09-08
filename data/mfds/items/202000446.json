@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000446",
+ "item_name": "크레셈바주200mg(이사부코나조늄황산염)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20200129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268759]이사부코나조늄황산염",
+ "main_item_ingr_eng": "Isavuconazonium sulphate",
+ "edi_code": "",
+ "atc_code": "J02AC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000446",
+ "revisions": [
+  {
+   "revision_id": "202000446-229654e4",
+   "content_sha256": "229654e4bab8465b2e60c7d9dbc42f6f95ada4144f33bd8b313a5757cc2820c6",
+   "ee_text": "1. 만 18세 이상 성인에서의 침습성 아스페르길루스증 치료 2. 만 18세 이상 성인에서의 암포테리신 B 투여가 적합하지 않은 침습성 털곰팡이증 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:37Z",
+   "last_observed_at": "2026-09-08T08:57:37Z",
+   "official_revision_date": "2020-01-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:37Z"
+}

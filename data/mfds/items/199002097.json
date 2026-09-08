@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199002097",
+ "item_name": "엘로톤서방캡슐50밀리그램(이소소르비드일질산염서방과립)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "19900929",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270002]이소소르비드일질산염서방과립",
+ "main_item_ingr_eng": "Isosorbide Mononitrate Extended-Release Granules",
+ "edi_code": "",
+ "atc_code": "C01DA14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199002097",
+ "revisions": [
+  {
+   "revision_id": "199002097-0cdb2c99",
+   "content_sha256": "0cdb2c99066b5793066900244e83a5683bef1763103568b1950262680d0d68f9",
+   "ee_text": "1. 관동맥심질환(협심증, 심근경색등) 2. 울혈성심부전의 보조요법(강심배당체 또는 이뇨제와 병용)",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:05Z",
+   "last_observed_at": "2026-09-08T08:28:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:05Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "20111122",
  "cancel_date": "20250701",
  "status": "유효기간만료",
- "main_item_ingr": "[M262149]디아스타제·프로테아제|[M040631]탄산수소나트륨|[M050448]메타규산알루민산마그네슘",
+ "main_item_ingr": "[M040631]탄산수소나트륨|[M050448]메타규산알루민산마그네슘|[M262149]디아스타제·프로테아제",
  "main_item_ingr_eng": "Diastase·Protease/Magnesium Aluminometasilicate/Sodium Bicarbonate",
  "edi_code": "",
  "atc_code": "A09AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110192",
+ "history_fetched_at": "2026-08-28T13:24:27Z",
  "revisions": [
   {
    "revision_id": "201110192-6add23d0",
@@ -19,8 +20,9 @@
    "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림, 소화불량, 식욕감퇴(식욕부진), 과식, 소화촉진, 소화불량으로 인한 위부팽만감.",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:24:27Z",
-   "last_observed_at": "2026-08-28T13:24:27Z",
-   "official_revision_date": "2020-05-26"
+   "last_observed_at": "2026-09-08T08:45:03Z",
+   "official_revision_date": "2020-05-26",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201110192-ba12e1f5",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:27Z",
    "last_observed_at": "2026-08-28T13:24:27Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:27Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402899",
+ "item_name": "파마나라트립탄구강붕해정2.5밀리그램(나라트립탄염산염)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20241209",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249577]나라트립탄염산염",
+ "main_item_ingr_eng": "Naratriptan Hydrochloride",
+ "edi_code": "653007050",
+ "atc_code": "N02CC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402899",
+ "revisions": [
+  {
+   "revision_id": "202402899-28da461e",
+   "content_sha256": "28da461ef7bf5c0f0059abd49733971b35d37bee7561645b0ea67b83559fc68b",
+   "ee_text": "전조증이 수반되거나 수반되지 않는 편두통의 조속한 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:32Z",
+   "last_observed_at": "2026-09-08T09:03:32Z",
+   "official_revision_date": "2024-12-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:32Z"
+}

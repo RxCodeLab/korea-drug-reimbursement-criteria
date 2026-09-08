@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201204936",
+ "item_name": "멘비오[(수막구균 A,C,W135,Y)- CRM197단백 접합 백신]",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20120522",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254634]수막구균 A군 올리고당과 디프테리아 CRM197 단백질 접합체|[M254635]수막구균 C군 올리고당과 디프테리아 CRM197 단백질 접합체|[M254636]수막구균 W135군 올리고당과 디프테리아 CRM197 단백질 접합체|[M254637]수막구균 Y군 올리고당과 디프테리아 CRM197 단백질 접합체",
+ "main_item_ingr_eng": "Meningococcal Group A Oligosaccharide Diptheriae CRM197 Protein Conjugate Antigen/Meningococcal Group C Oligosaccharide Diptheriae CRM197 Protein Conjugate Antigen/Meningococcal Group W135 Oligosaccharide Diptheriae CRM197 Protein Conjugate Antigen/Meningococcal Group Y Oligosaccharide Diptheriae CRM197 Protein Conjugate Antigen",
+ "edi_code": "",
+ "atc_code": "J07AH08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201204936",
+ "revisions": [
+  {
+   "revision_id": "201204936-f799b5f5",
+   "content_sha256": "f799b5f5e43288b713e7a1194b7ff3164336bb3ef71935d421d115d6187fa016",
+   "ee_text": "생후 2개월 이상의 소아 ~ 만 55세 이하의 성인에서 Neisseria meningitidis A, C, W135 및 Y 군에 의한 침습성 수막구균 질환의 예방 (단, 생후 2개월~생후 23개월의 영아에서 Neisseria meningitidis A군의 효능효과는 입증되지 않음)",
+   "ee_doc_id": "36",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:17Z",
+   "last_observed_at": "2026-09-08T08:45:17Z",
+   "official_revision_date": "2019-03-06"
+  },
+  {
+   "revision_id": "201204936-50946e9c",
+   "content_sha256": "50946e9c224b97363aa8443ab2ed9e256137ba1986096dd91d50e671080b2d1a",
+   "ee_text": "2개월 이상의 소아 ~ 만 55세 이하의 성인에서 Neisseria meningitidis A, C, W135 및 Y 군에 의한 침습성 수막구균 질환의 예방 (단, 2개월~23개월의 영아에서 Neisseria meningitidis A군의 효능효과는 입증되지 않음)",
+   "ee_doc_id": "35",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-10-23",
+   "first_observed_at": "2026-09-08T08:45:17Z",
+   "last_observed_at": "2026-09-08T08:45:17Z"
+  },
+  {
+   "revision_id": "201204936-f3374bec",
+   "content_sha256": "f3374becab701758391b518f7b0d99241766c9c4295b86b35a54e7351f1e4aee",
+   "ee_text": "2개월～55세의 영유아, 소아, 청소년 및 성인에서 Neisseria meningitidis A, C, W135 및 Y 군에 의한 침습성 수막구균 질환의 예방 (단, 2개월~23개월의 영유아에서 Neisseria meningitidis A군의 효능효과는 입증되지 않음)",
+   "ee_doc_id": "29",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:17Z",
+   "last_observed_at": "2026-09-08T08:45:17Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:17Z"
+}

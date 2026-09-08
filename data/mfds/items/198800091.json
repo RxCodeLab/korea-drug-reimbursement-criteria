@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800091",
+ "item_name": "한풍삼릉엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M050747]삼릉",
+ "main_item_ingr_eng": "Sparganium Rhizome",
+ "edi_code": "",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800091",
+ "revisions": [
+  {
+   "revision_id": "198800091-9df5111e",
+   "content_sha256": "9df5111ea0b1aac9802569b0c015395b06814e75166f919e79370496cbfd6e43",
+   "ee_text": "어혈(월경불순)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:31Z",
+   "last_observed_at": "2026-09-08T08:27:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:31Z"
+}

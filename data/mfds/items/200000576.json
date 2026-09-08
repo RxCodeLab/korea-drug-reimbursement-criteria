@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000576",
+ "item_name": "티로민주(티로프라미드염산염)",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "20000215",
+ "cancel_date": "20251001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M224812]티로프라미드염산염",
+ "main_item_ingr_eng": "Tiropramide Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A03AC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000576",
+ "revisions": [
+  {
+   "revision_id": "200000576-770d2012",
+   "content_sha256": "770d2012a1f10cd306dd20ec6c66ef345873542e72dd6a4cadbb99870903e4f4",
+   "ee_text": "1. 다음 질환에서의 급성 경련성 복통 간담도산통, 여러 원인에 의한 복부산통, 신장ㆍ요관 산통 2. 다음 질환에서의 복부경련 및 동통 위장관 이상운동증, 담석증, 담낭염, 수술후 유착",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:34Z",
+   "last_observed_at": "2026-09-08T08:33:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:34Z"
+}

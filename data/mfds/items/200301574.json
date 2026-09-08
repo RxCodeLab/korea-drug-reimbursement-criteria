@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301574",
+ "item_name": "리보렌연질캡슐(수출용)(수출용:리버민연질캡슐)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20031202",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040558]염산치아민|[M086692]시아노코발라민|[M089207]카르두스마리아누스엑스|[M240075]염산피리독신|[M240076]판토텐산칼슘",
+ "main_item_ingr_eng": "Calcium Pantothenate/Cardus Marianus Extract/Cyanocobalamin/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301574",
+ "revisions": [
+  {
+   "revision_id": "200301574-c81d2995",
+   "content_sha256": "c81d2995ed5aeed65139beb23da20ad4e93e8fea90501c7b17cf8aa0433d2e61",
+   "ee_text": "＊다음 질환의 보조치료 : 만성 간질환, 독성 간질환",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:02Z",
+   "last_observed_at": "2026-09-08T08:37:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:02Z"
+}

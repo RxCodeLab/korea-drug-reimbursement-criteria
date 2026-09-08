@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200804588",
+ "item_name": "홀록산주1000밀리그람(이포스파마이드)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20080424",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085777]이포스파마이드",
+ "main_item_ingr_eng": "Ifosfamide",
+ "edi_code": "642202521",
+ "atc_code": "L01AA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804588",
+ "revisions": [
+  {
+   "revision_id": "200804588-f250f7f7",
+   "content_sha256": "f250f7f7f74bf3da6a50fa0cfb4e09413b637b8db0df00f5c77906a2d65d24e9",
+   "ee_text": "기관지암, 소세포기관지암, 난소암, 유방암, 고환종, 췌장암, 악성림프종, 골육종, 연조직 육종(평활근종, 횡문근종, 연골육종), 자궁경부암, 두경부암, 유잉육종",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:27Z",
+   "last_observed_at": "2026-09-08T08:42:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:27Z"
+}

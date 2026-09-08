@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200713117",
+ "item_name": "단일가스켐의료용질소",
+ "entp_name": "단일가스켐(주)",
+ "permit_date": "20071207",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040542]질소",
+ "main_item_ingr_eng": "Nitrogen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713117",
+ "revisions": [
+  {
+   "revision_id": "200713117-c47013b7",
+   "content_sha256": "c47013b7cf9900ca1ec992f286d75db54b89572ae30c855a182eeeb414c33fea",
+   "ee_text": "의료용 가스(제재용)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:05Z",
+   "last_observed_at": "2026-09-08T08:42:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:05Z"
+}

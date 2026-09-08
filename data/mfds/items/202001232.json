@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001232",
+ "item_name": "알로판텐정100mg(덱스판테놀)",
+ "entp_name": "(주)제뉴파마",
+ "permit_date": "20200221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082390]덱스판테놀",
+ "main_item_ingr_eng": "Dexpanthenol",
+ "edi_code": "",
+ "atc_code": "D11AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001232",
+ "revisions": [
+  {
+   "revision_id": "202001232-aa54f74a",
+   "content_sha256": "aa54f74ac901e70b6a721915c197ab12fabb9bbf3979ba719215d99da283ae27",
+   "ee_text": "탈모의 보조치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:53Z",
+   "last_observed_at": "2026-09-08T08:57:53Z",
+   "official_revision_date": "2020-02-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:53Z"
+}

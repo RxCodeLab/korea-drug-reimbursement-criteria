@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301337",
+ "item_name": "페마자이레정13.5밀리그램(페미가티닙)",
+ "entp_name": "(주)한독",
+ "permit_date": "20230425",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283698]페미가티닙",
+ "main_item_ingr_eng": "Pemigatinib",
+ "edi_code": "652105860",
+ "atc_code": "L01EN02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301337",
+ "revisions": [
+  {
+   "revision_id": "202301337-af87ebc9",
+   "content_sha256": "af87ebc9244ca973f6cd2ccbc1ea5a392f4c481f74a87862bc56ee83930b5bf8",
+   "ee_text": "1회 이상의 전신치료를 받은 성인에서 FGFR2(fibroblast growth factor receptor 2, 섬유아세포 성장인자 수용체2) 융합 또는 재배열이 존재하는 국소진행성 또는 전이성 담관암",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:01Z",
+   "last_observed_at": "2026-09-08T09:02:01Z",
+   "official_revision_date": "2023-04-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:01Z"
+}

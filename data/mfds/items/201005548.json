@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201005548",
+ "item_name": "라이스정(집먼지진드기정제추출물)(유지요법)",
+ "entp_name": "(주)신영로파마",
+ "permit_date": "20100915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093002]집먼지진드기정제추출물",
+ "main_item_ingr_eng": "Purified House Dust Mite Allergen Extract",
+ "edi_code": "",
+ "atc_code": "V01AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005548",
+ "revisions": [
+  {
+   "revision_id": "201005548-9bb0a729",
+   "content_sha256": "9bb0a729c17d2703f684408fce36a11b946eeddc4b994e046e6107354ea22795",
+   "ee_text": "IgE 매개 알러젠에 대한 특이면역요법-집먼지진드기에 의한 알레르기성 비염, 결막염, 천식의 치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:14Z",
+   "last_observed_at": "2026-09-08T08:44:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:14Z"
+}

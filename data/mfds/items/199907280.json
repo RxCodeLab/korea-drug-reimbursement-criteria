@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199907280",
+ "item_name": "달마돔정(플루라제팜염산염)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "19990805",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223321]플루라제팜염산염",
+ "main_item_ingr_eng": "Flurazepam Hydrochloride",
+ "edi_code": "642800250",
+ "atc_code": "N05CD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907280",
+ "revisions": [
+  {
+   "revision_id": "199907280-dda91a97",
+   "content_sha256": "dda91a97d927c8b3cf1451bcec0570e3a5216b745e9d41de0007c201c2f3e774",
+   "ee_text": "잠들기 어렵거나, 밤에 자주 깨거나 새벽에 잠이 깨는 불면증, 수면휴식을 필요로 하는 급만성 병적상태",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:24Z",
+   "last_observed_at": "2026-09-08T08:33:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:24Z"
+}

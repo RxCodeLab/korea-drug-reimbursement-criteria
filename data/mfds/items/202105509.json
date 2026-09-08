@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105509",
+ "item_name": "카티라이프(바솔자가연골유래연골세포)",
+ "entp_name": "(주)바이오솔루션",
+ "permit_date": "20210722",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269478]바솔자가연골유래연골세포|[M269478]바솔자가연골유래연골세포",
+ "main_item_ingr_eng": "Basol Autologous Chondrocyte",
+ "edi_code": "",
+ "atc_code": "M09AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105509",
+ "revisions": [
+  {
+   "revision_id": "202105509-8b777f51",
+   "content_sha256": "8b777f518b4db657c64e8a56085727c25ac4781719440465f8ba0b3136b04ba1",
+   "ee_text": "무릎 연골결손 (ICRS grade III 또는 IV, 결손면적 2 내지 10 cm2)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:24Z",
+   "last_observed_at": "2026-09-08T09:00:24Z",
+   "official_revision_date": "2021-07-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:24Z"
+}

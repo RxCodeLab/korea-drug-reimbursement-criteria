@@ -7,7 +7,7 @@
  "permit_date": "20150416",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M246643]에코나졸질산염|[M222973]디펜히드라민염산염|[M040131]리도카인|[M051499]크로타미톤",
+ "main_item_ingr": "[M040131]리도카인|[M051499]크로타미톤|[M222973]디펜히드라민염산염|[M246643]에코나졸질산염",
  "main_item_ingr_eng": "Crotamiton/Diphenhydramine Hydrochloride/Econazole Nitrate/Lidocaine",
  "edi_code": "",
  "atc_code": "D01AC",
@@ -20,7 +20,8 @@
    "ee_text": "무좀, 완선, 체부백선",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201502317/EE",
    "first_observed_at": "2026-08-27T12:29:53Z",
-   "last_observed_at": "2026-08-28T13:24:42Z"
+   "last_observed_at": "2026-09-08T08:48:50Z",
+   "normalizer_version": 3
   }
  ]
 }

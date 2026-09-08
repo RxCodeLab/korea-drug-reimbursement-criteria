@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199504271",
+ "item_name": "엠엠알II(홍역,유행성이하선염및풍진혼합생바이러스백신)",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "19950701",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246017]약독유행성이하선염생바이러스[Jeryl Lynn(B Level)주]|[M246018]약독풍진생바이러스(Wistar RA 27/3주)|[M255452]약독홍역생바이러스(Enders' Edmonston주)",
+ "main_item_ingr_eng": "Live Attenuated Measles Virus/Live Attenuated Mumps Virus (Strain: Jeryl Lynn B Level)/Live Attenuated Rubella Virus (Strain: Wistar RA 27/3)",
+ "edi_code": "",
+ "atc_code": "J07BD52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199504271",
+ "revisions": [
+  {
+   "revision_id": "199504271-8c89ed7a",
+   "content_sha256": "8c89ed7a3f89fdbb206a054faf92598133fb880931ca38751f15ee5d5c48d278",
+   "ee_text": "홍역, 유행성이하선염 및 풍진의 예방",
+   "ee_doc_id": "30",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:55Z",
+   "last_observed_at": "2026-09-08T08:29:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:55Z"
+}

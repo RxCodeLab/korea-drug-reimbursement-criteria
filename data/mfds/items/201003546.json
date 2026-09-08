@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003546",
+ "item_name": "경남글루코사민캡슐500mg\n(결정글루코사민황산염)(수출용)(수출명: Teoramin500capsule)",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20100517",
+ "cancel_date": "20250623",
+ "status": "취하",
+ "main_item_ingr": "[M247626]결정글루코사민황산염",
+ "main_item_ingr_eng": "Crystallized Glucosamine Sulfate",
+ "edi_code": "",
+ "atc_code": "M01AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003546",
+ "revisions": [
+  {
+   "revision_id": "201003546-a0d101ee",
+   "content_sha256": "a0d101ee56e2258d92c9b32198de4acb52b48c2d02ad9182571af03f745700f2",
+   "ee_text": "다음 질환에 사용할 수 있다. : 골관절염(퇴행성 관절질환)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:03Z",
+   "last_observed_at": "2026-09-08T08:44:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:03Z"
+}

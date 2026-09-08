@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700095",
+ "item_name": "몰톤에스시럽(수출용)",
+ "entp_name": "(주)종근당",
+ "permit_date": "19871124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040442]엽산|[M040488]이노시톨|[M051914]헤모글로빈|[M082390]덱스판테놀|[M085143]간장엑스|[M089482]아미노에칠설폰산|[M096429]시아노코발라민|[M240075]염산피리독신",
+ "main_item_ingr_eng": "Cyanocobalamin/Dexpanthenol/Folic Acid/Hemoglobin/Inositol/Liver Extract/Nicotinamide/Pyridoxine Hydrochloride/Taurine",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700095",
+ "revisions": [
+  {
+   "revision_id": "198700095-ba65ef67",
+   "content_sha256": "ba65ef679532db0b5fbd42ee1270373536a8634fa538f7be9faa9fe9e25a85bd",
+   "ee_text": "체력증강, 병중병후, 회복촉진, 식욕증진, 간장보호, 피로회복, 어린이 발육촉진, 빈혈치료, 기타 함유 비타민 결핍증 치료",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:19Z",
+   "last_observed_at": "2026-09-08T08:27:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:19Z"
+}

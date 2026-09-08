@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200700152",
+ "item_name": "포토딘주(헤마토포르피린유도체)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20070104",
+ "cancel_date": "20250724",
+ "status": "취하",
+ "main_item_ingr": "[M205671]헤마토포르피린유도체",
+ "main_item_ingr_eng": "Hematoporphyrine Derivatives",
+ "edi_code": "",
+ "atc_code": "L01XD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700152",
+ "revisions": [
+  {
+   "revision_id": "200700152-be869fb8",
+   "content_sha256": "be869fb85a16d7091a5a50a61bca877bfc42d3d8f5740bbf7213c4cbb8a67ad5",
+   "ee_text": "수술 등의 다른 근치적 치료가 불가능 한 경우 또는 폐 또는 자궁 경부의 기능온존(機能溫存)이 필요한 환자에게 다른 치료법을 사용 할 수 없는 경우 일 때, 또한 내시경적 으로 병소 전용(全容)을 관찰 할 수 있으며 레이저 광 조사(照射)가 가능한 다음의 질환 ①. 조기폐암(병기 0기 또는 병기 1기 폐암) ②. 표재형(表在型) 식도암 ③. 표재형 조기 위암 ④. 자궁 경부 초기암 및 이형성(異形成) ⑤. 표재형 인후암 ⑥. 피부 기저 세포암",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:51Z",
+   "last_observed_at": "2026-09-08T08:40:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:51Z"
+}

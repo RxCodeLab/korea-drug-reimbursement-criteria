@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803941",
+ "item_name": "디라손크림(디플로라손아세테이트)",
+ "entp_name": "(주)시어스제약",
+ "permit_date": "20181008",
+ "cancel_date": "20231008",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M256746]디플로라손아세테이트",
+ "main_item_ingr_eng": "Diflorasone Acetate",
+ "edi_code": "",
+ "atc_code": "D07AC10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803941",
+ "revisions": [
+  {
+   "revision_id": "201803941-6003cdef",
+   "content_sha256": "6003cdef6cbf12f934245df7e414fa52d5a0afcb2b865358dc9a00023d6b65d4",
+   "ee_text": "습진ㆍ피부염군(만성단순태선, 지루피부염, 진행성 지장각피증), 건선, 양진군(구진두드러기)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:40Z",
+   "last_observed_at": "2026-09-08T08:53:40Z",
+   "official_revision_date": "2018-10-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:40Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106185",
+ "item_name": "하티셀그램-에이엠아이(자가골수유래중간엽줄기세포)",
+ "entp_name": "파미셀주식회사",
+ "permit_date": "20210826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266522]자가골수유래중간엽줄기세포|[M266522]자가골수유래중간엽줄기세포|[M266522]자가골수유래중간엽줄기세포",
+ "main_item_ingr_eng": "Autologous Bone Marrow-Derived Mesenchymal Stem Cell",
+ "edi_code": "",
+ "atc_code": "B05AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106185",
+ "revisions": [
+  {
+   "revision_id": "202106185-9ff28d82",
+   "content_sha256": "9ff28d82b07c3ec926d941f6a62860d7929cc810b72a28f01469a428491559e2",
+   "ee_text": "흉통 발현 후 72시간 이내에 관상동맥성형술을 시행하여 재관류된 급성 심근경색 환자 중 좌심실 구혈률이 40% 이하인 환자에서의 좌심실 구혈률의 개선",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:30Z",
+   "last_observed_at": "2026-09-08T09:00:30Z",
+   "official_revision_date": "2026-02-27"
+  },
+  {
+   "revision_id": "202106185-09e06dec",
+   "content_sha256": "09e06decc3c9872fbdbd84a8f97988d5270b9859d0301cda58f7000d6e63128f",
+   "ee_text": "흉통 발현 후 72시간 이내에 관상동맥성형술을 시행하여 재관류된 급성 심근경색 환자에서의 좌심실 구혈률의 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-08-26",
+   "first_observed_at": "2026-09-08T09:00:30Z",
+   "last_observed_at": "2026-09-08T09:00:30Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:30Z"
+}

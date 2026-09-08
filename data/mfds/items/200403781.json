@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403781",
+ "item_name": "플루졸정(플루벤다졸)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20040703",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081956]플루벤다졸",
+ "main_item_ingr_eng": "Flubendazole",
+ "edi_code": "",
+ "atc_code": "P02CA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403781",
+ "revisions": [
+  {
+   "revision_id": "200403781-1d9c7d88",
+   "content_sha256": "1d9c7d8815ac053f979092026abf1aabb090d7714bd64ac32c5427e93a6d61a1",
+   "ee_text": "회충, 요충, 편충, 십이지장충의 감염 및 이들 혼합감염의 구제",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:25Z",
+   "last_observed_at": "2026-09-08T08:38:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:25Z"
+}

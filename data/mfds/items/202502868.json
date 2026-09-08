@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502868",
+ "item_name": "아크루퍼캡슐30밀리그램(제이철말톨)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20251105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285923]제이철말톨",
+ "main_item_ingr_eng": "Ferric Maltol",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502868",
+ "revisions": [
+  {
+   "revision_id": "202502868-5fdd86a8",
+   "content_sha256": "5fdd86a8c052f65320853239b3a19296779e5bb2544cc434e3c418277789ee8f",
+   "ee_text": "성인에서 철 결핍증의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:23Z",
+   "last_observed_at": "2026-09-08T09:04:23Z",
+   "official_revision_date": "2025-11-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:23Z"
+}

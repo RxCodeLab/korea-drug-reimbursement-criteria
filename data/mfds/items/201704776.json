@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201704776",
+ "item_name": "아이클루시그정15밀리그램(포나티닙염산염)",
+ "entp_name": "한국오츠카제약(주)",
+ "permit_date": "20170626",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265056]포나티닙 염산염",
+ "main_item_ingr_eng": "Ponatinib Hydrochloride",
+ "edi_code": "649900450",
+ "atc_code": "L01EA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704776",
+ "revisions": [
+  {
+   "revision_id": "201704776-ba793159",
+   "content_sha256": "ba793159d8958fda5f3972c2ad2070cdc37a8c2740478740e0f7ee1e1cd78344",
+   "ee_text": "1. 새로 진단된 필라델피아 염색체 양성 급성 림프구성 백혈병 (Ph+ ALL) 성인 환자의 치료로서 화학요법과의 병용 요법. 이 약의 유효성은 유도단계 종료 시점에 미세잔존질환 (MRD) 음성 완전 관해율(CR)을 근거로 하고 있다. 2. 다른 티로신 키나제 억제제 (TKI)로 치료되지 않는 만성기, 가속기, 급성기 만성 골수성 백혈병 (CML) 또는 필라델피아 염색체 양성 급성 림프구성 백혈병 (Ph+ ALL) 성인 환자의 치료. 3. T315I 양성 만성기, 가속기, 급성기 만성 골수성 백혈병(CML) 또는 T315I 양성 필라델피아 염색체 양성 급성 림프구성 백혈병 (Ph+ ALL) 성인 환자의 치료.",
+   "ee_doc_id": "36",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:00Z",
+   "last_observed_at": "2026-09-08T08:52:00Z",
+   "official_revision_date": "2025-04-14"
+  },
+  {
+   "revision_id": "201704776-79cdb3e7",
+   "content_sha256": "79cdb3e7e5a090a71e399455a5c0dbccf60a92fc159296c78c356760ceba5bcf",
+   "ee_text": "1. 다른 티로신 키나제 억제제 (TKI)로 치료되지 않는 만성기, 가속기, 급성기 만성 골수성 백혈병 (CML) 또는 필라델피아 염색체 양성 급성 림프구성 백혈병 (Ph+ ALL) 성인 환자의 치료. 2. T315I 양성 만성기, 가속기, 급성기 만성 골수성 백혈병(CML) 또는 T315I 양성 필라델피아 염색체 양성 급성 림프구성 백혈병 (Ph+ ALL) 성인 환자의 치료.",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:52:00Z",
+   "last_observed_at": "2026-09-08T08:52:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:00Z"
+}

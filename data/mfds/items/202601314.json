@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601314",
+ "item_name": "프로스타뷰주사액(플로라스타민(18F))",
+ "entp_name": "(주)퓨쳐켐",
+ "permit_date": "20260430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286378]플로라스타민(18F)",
+ "main_item_ingr_eng": "Florastamin 18F",
+ "edi_code": "",
+ "atc_code": "V09IX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601314",
+ "revisions": [
+  {
+   "revision_id": "202601314-4a4fced4",
+   "content_sha256": "4a4fced451cb1009d02893cbb1411fd25db08f7211f1be00e1db3f867181df4e",
+   "ee_text": "다음 경우의 양전자방출단층촬영(Positron emission tomography, PET)에 사용한다. - 기존 영상검사에서 이상 소견이 확인되는 재발 또는 전이성 전립선암 환자 기존 영상검사에서 이상 소견이 확인되지 않고 혈청 전립선 특이 항원(PSA) 수치 상승으로 전립선암의 재발이 의심되는 경우는 해당하지 않는다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:09Z",
+   "last_observed_at": "2026-09-08T09:05:09Z",
+   "official_revision_date": "2026-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:09Z"
+}

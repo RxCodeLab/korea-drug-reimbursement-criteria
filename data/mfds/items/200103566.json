@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200103566",
+ "item_name": "지노-브이 질연질캡슐",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20010608",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020020]니스타틴|[M202893]네오마이신황산염|[M233313]폴리믹신B황산염",
+ "main_item_ingr_eng": "Neomycin Sulfate/Nystatin/Polymyxin B Sulfate",
+ "edi_code": "649503520",
+ "atc_code": "G01AA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200103566",
+ "revisions": [
+  {
+   "revision_id": "200103566-d518b916",
+   "content_sha256": "d518b91662a2477e1f17b126162ae374ea6f3a59c15fa655a623c571379356de",
+   "ee_text": "질칸디다증 및 비특이성 세균성질염의 국소 치료",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:38Z",
+   "last_observed_at": "2026-09-08T08:35:38Z",
+   "official_revision_date": "2019-05-28"
+  },
+  {
+   "revision_id": "200103566-02297359",
+   "content_sha256": "02297359ec3703536f56f728840fba0ae12352d202f901a6ee5ba2cec009b2d3",
+   "ee_text": "비특이성 세균성질염의 국소 치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:35:38Z",
+   "last_observed_at": "2026-09-08T08:35:38Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:38Z"
+}

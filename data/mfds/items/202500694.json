@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500694",
+ "item_name": "천일의료용산소",
+ "entp_name": "(주)천일가스",
+ "permit_date": "20250325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040256]산소",
+ "main_item_ingr_eng": "Oxygen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500694",
+ "revisions": [
+  {
+   "revision_id": "202500694-ee1d21cf",
+   "content_sha256": "ee1d21cf914a9b8a8f40855c4b37c1c394948d30ac25d1917749f2ac312abc93",
+   "ee_text": "광범위한 질환에서의 산소 결핍증 치료 -호흡근의 마비 -일산화탄소 중독 -출혈,외상,쇼크 -마취 시의 호흡마비 -중증의 심질환 -폐부종 등으로 인한 기도의 폐쇄 -페쇄 순환 마취 시 단독 투여 또는 이산화탄소와 병용 투여",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:47Z",
+   "last_observed_at": "2026-09-08T09:03:47Z",
+   "official_revision_date": "2025-03-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:47Z"
+}

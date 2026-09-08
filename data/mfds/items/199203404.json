@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199203404",
+ "item_name": "베루말액",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "19921210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040264]살리실산|[M040740]플루오로우라실",
+ "main_item_ingr_eng": "Fluorouracil/Salicylic Acid",
+ "edi_code": "",
+ "atc_code": "D11AF",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199203404",
+ "revisions": [
+  {
+   "revision_id": "199203404-d03dc1f7",
+   "content_sha256": "d03dc1f72f3a14b2547543b62fb1b3b480e1b468af8332e19950cc80bf534cf8",
+   "ee_text": "사마귀",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:38Z",
+   "last_observed_at": "2026-09-08T08:28:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:38Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199101784",
+ "item_name": "아이월드오령산엑스과립",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "19910529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040214]백출|[M040225]복령|[M040638]택사|[M050037]계지|[M051313]저령",
+ "main_item_ingr_eng": "Alisma Rhizome/Atractylodes Rhizome White/Cinnamomi Ramulus/Polyporus Sclerotium/Poria",
+ "edi_code": "",
+ "atc_code": "C03X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101784",
+ "revisions": [
+  {
+   "revision_id": "199101784-d4294c42",
+   "content_sha256": "d4294c424625d24389ba60c42e303e584570329f5382eb0fb7b80cd63317b930",
+   "ee_text": "목마름, 요량감소, 구역, 구토, 복통(배아픔) 등 어느 것을 수반하는 다음 증상 : 물설사, 급성 위장염(대변이 조금 나올 뿐 배변이 끝난 느낌이 없는 상태에는 사용하지 말 것.), 더위먹음, 두통, 부종(부기)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:14Z",
+   "last_observed_at": "2026-09-08T08:28:14Z",
+   "official_revision_date": "2019-04-22"
+  },
+  {
+   "revision_id": "199101784-fb65c261",
+   "content_sha256": "fb65c2614957e2bc17ba31268f8756646358bf419f0cfb9eb8d1595128f59c5c",
+   "ee_text": "목마름, 요량감소, 구역, 구토, 복통 등 어느 것을 수반하는 다음 증상 : 물설사, 급성 위장염(대변이 조금 나올 뿐 배변이 끝난 느낌이 없는 상태에는 사용하지 말 것.), 더위먹음, 두통, 부종(부기)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2009-04-30",
+   "first_observed_at": "2026-09-08T08:28:14Z",
+   "last_observed_at": "2026-09-08T08:28:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:14Z"
+}

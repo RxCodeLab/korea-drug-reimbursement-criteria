@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:23:52Z",
  "revisions": [
   {
-   "revision_id": "201601582-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201601582-0f416b3a",
+   "content_sha256": "0f416b3ae8dc6021f2436fb132fe72c081ccf620c0925f561b63f52fdba2a1e6",
+   "ee_text": "1. 기관지 천식 2. 알레르기성 비염",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201601582/EE",
    "first_observed_at": "2026-08-27T13:23:52Z",
-   "last_observed_at": "2026-08-28T13:24:48Z"
+   "last_observed_at": "2026-09-08T08:50:22Z",
+   "normalizer_version": 3
   }
  ]
 }

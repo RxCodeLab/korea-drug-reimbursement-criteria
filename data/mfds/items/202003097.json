@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003097",
+ "item_name": "민티브레스정(클로로필린구리나트륨착염)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20200427",
+ "cancel_date": "20240214",
+ "status": "취하",
+ "main_item_ingr": "[M250551]클로로필린구리나트륨착염",
+ "main_item_ingr_eng": "Chlorophyllin Copper Complex Sodium",
+ "edi_code": "",
+ "atc_code": "A01AD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003097",
+ "revisions": [
+  {
+   "revision_id": "202003097-adb2d6cc",
+   "content_sha256": "adb2d6cc81f436b1883b510866bd14384a60696af8692f8e8a760b4808fbdce3",
+   "ee_text": "구취 제거, 숙취",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:35Z",
+   "last_observed_at": "2026-09-08T08:58:35Z",
+   "official_revision_date": "2020-04-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:35Z"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501350",
+ "item_name": "펠루비서방정(펠루비프로펜)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20150313",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M210533]펠루비프로펜",
+ "main_item_ingr_eng": "Pelubiprofen",
+ "edi_code": "671805860",
+ "atc_code": "M01AE20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501350",
+ "revisions": [
+  {
+   "revision_id": "201501350-e19b2b6e",
+   "content_sha256": "e19b2b6e07370de1d49e0bebef0071f40bc380f2a5a0182a7eab0c2c88c38966",
+   "ee_text": "다음 질환의 증상이나 징후의 완화 : 골관절염, 류마티스관절염, 요통(허리통증), 급성 통증(예 : 외상 후 동통, 원발월경통)",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:37Z",
+   "last_observed_at": "2026-09-08T08:48:37Z",
+   "official_revision_date": "2022-05-31"
+  },
+  {
+   "revision_id": "201501350-a8451f88",
+   "content_sha256": "a8451f88facc1a055715938dc319508683321e9644c261b20b6b40a50f7829fd",
+   "ee_text": "다음 질환의 증상이나 징후의 완화 : 골관절염, 류마티스관절염, 요통(허리통증), 외상 후 동통",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-06-17",
+   "first_observed_at": "2026-09-08T08:48:37Z",
+   "last_observed_at": "2026-09-08T08:48:37Z"
+  },
+  {
+   "revision_id": "201501350-4fd663fc",
+   "content_sha256": "4fd663fc914f54695fc094b24bc49a06abcb0f2bdd6308bf27f92a92db94a62f",
+   "ee_text": "다음 질환의 증상이나 징후의 완화 : 골관절염, 류마티스관절염, 요통(허리통증)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:48:37Z",
+   "last_observed_at": "2026-09-08T08:48:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:37Z"
+}

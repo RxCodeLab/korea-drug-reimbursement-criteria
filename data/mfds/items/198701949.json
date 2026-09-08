@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198701949",
+ "item_name": "하이겐-30%(산화에틸렌)",
+ "entp_name": "아시아케미칼(주)",
+ "permit_date": "19870831",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254144]산화에틸렌",
+ "main_item_ingr_eng": "Ethylene Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198701949",
+ "revisions": [
+  {
+   "revision_id": "198701949-0b54af0d",
+   "content_sha256": "0b54af0dd240a2234eeeedc688f5a6430ccd7325497d7b0008b7b8bcdb220e6b",
+   "ee_text": "다음 의료용 기계 기구의 소독및 멸균 --주사기, 수술용기구, 유리.프라스틱.고무.섬유를 원료로한 의료용 기계기구.",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:28Z",
+   "last_observed_at": "2026-09-08T08:27:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:28Z"
+}

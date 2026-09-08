@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200605515",
+ "item_name": "아데신정(삼인산아데노신이나트륨)(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20060612",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100082]삼인산아데노신이나트륨",
+ "main_item_ingr_eng": "Adenosine Disodium Triphosphate",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605515",
+ "revisions": [
+  {
+   "revision_id": "200605515-ba9248c7",
+   "content_sha256": "ba9248c75cc2eb75f34dee44e7c43da2985854ad53bef9d84b781b452c5a5e24",
+   "ee_text": "(정제) 다음 질환에 수반하는 여러 증상의 개선 : 심부전, 두부외상 후유증, 조절성 안정피로 (주사제) 다음 질환에 수반하는 여러 증상의 개선 : 근무력증, 심부전, 만성간염에 있어서의 간기능의 개선, 두부외상 후유증, 조절성 안정피로",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:23Z",
+   "last_observed_at": "2026-09-08T08:40:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:23Z"
+}

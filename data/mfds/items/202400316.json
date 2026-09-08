@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400316",
+ "item_name": "아비테론듀오정500/2.5밀리그램(아비라테론,프레드니솔론)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20240214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040717]프레드니솔론|[M262177]아비라테론아세테이트(미분화)",
+ "main_item_ingr_eng": "Abiraterone Acetate Micronized/Prednisolone",
+ "edi_code": "",
+ "atc_code": "L02BX53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400316",
+ "revisions": [
+  {
+   "revision_id": "202400316-fb2e8e56",
+   "content_sha256": "fb2e8e562aae7cc3f0a88fb60487a99beff9fbe39c82d2da8433789ea839e085",
+   "ee_text": "호르몬 반응성 고위험 전이성 전립선암(mHSPC)으로 새롭게 진단된 환자의 치료에 안드로겐 차단요법(ADT)과 병용",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:42Z",
+   "last_observed_at": "2026-09-08T09:02:42Z",
+   "official_revision_date": "2024-02-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:42Z"
+}

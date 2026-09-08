@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309703",
+ "item_name": "이메딕스치료용요오드화 나트륨(I-131)캡슐",
+ "entp_name": "(주)약진이메딕스",
+ "permit_date": "20131011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M094481]요오드화나트륨(131 I)액|[M094481]요오드화나트륨(131 I)액|[M094481]요오드화나트륨(131 I)액|[M094481]요오드화나트륨(131 I)액|[M094481]요오드화나트륨(131 I)액|[M094481]요오드화나트륨(131 I)액|[M094481]요오드화나트륨(131 I)액|[M094481]요오드화나트륨(131 I)액|[M094481]요오드화나트륨(131 I)액",
+ "main_item_ingr_eng": "Sodium Iodide (131I) Solution",
+ "edi_code": "687000291,687000310,687000331",
+ "atc_code": "V10XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309703",
+ "revisions": [
+  {
+   "revision_id": "201309703-57da352c",
+   "content_sha256": "57da352c3585d09ef721ab2be6e0fce986cdab019dfedc065730a8e18b057fb9",
+   "ee_text": "1. 갑상선기능항진증의 치료 2. 갑상선암 및 전이소(轉移巢)의 치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:25Z",
+   "last_observed_at": "2026-09-08T08:46:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:25Z"
+}

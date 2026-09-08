@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906898",
+ "item_name": "페미로살건조시럽(페미로라스트칼륨)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20190928",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088859]페미로라스트칼륨",
+ "main_item_ingr_eng": "Pemirolast Potassium",
+ "edi_code": "642004441",
+ "atc_code": "R06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906898",
+ "revisions": [
+  {
+   "revision_id": "201906898-3a8e28a9",
+   "content_sha256": "3a8e28a951d6b54ca26777af8039fc5b1cfa8b8350f502e4cd96fcb5758d6bed",
+   "ee_text": "기관지천식, 다년성 알레르기성 비염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:31Z",
+   "last_observed_at": "2026-09-08T08:56:31Z",
+   "official_revision_date": "2019-09-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:31Z"
+}

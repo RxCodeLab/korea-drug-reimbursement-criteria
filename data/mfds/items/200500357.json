@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500357",
+ "item_name": "퓨어머슬앤조인트2.5%겔(l-멘톨)(수출용)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20050228",
+ "cancel_date": "20251016",
+ "status": "취하",
+ "main_item_ingr": "[M219244]엘 멘톨",
+ "main_item_ingr_eng": "L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500357",
+ "revisions": [
+  {
+   "revision_id": "200500357-dd9d6475",
+   "content_sha256": "dd9d6475c877377d03515347c52efa007081c128d38d470e57d834f03470588f",
+   "ee_text": "다음 경우의 일시적 완화 : 동통, 근육통, 경증의 요통.관절통, 삠, 타박상",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:52Z",
+   "last_observed_at": "2026-09-08T08:38:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:52Z"
+}

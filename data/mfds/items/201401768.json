@@ -7,7 +7,7 @@
  "permit_date": "20140411",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M204422]dl-메틸에페드린염산염|[M223212]d-클로르페니라민말레산염|[M203364]슈도에페드린염산염|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M203364]슈도에페드린염산염|[M204422]dl-메틸에페드린염산염|[M223212]d-클로르페니라민말레산염",
  "main_item_ingr_eng": "Acetaminophen/D-Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Pseudoephedrine Hydrochloride",
  "edi_code": "",
  "atc_code": "R05X",
@@ -20,7 +20,8 @@
    "ee_text": "감기의 제증상(여러증상)(콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201401768/EE",
    "first_observed_at": "2026-08-27T13:00:06Z",
-   "last_observed_at": "2026-08-28T13:24:35Z"
+   "last_observed_at": "2026-09-08T08:46:56Z",
+   "normalizer_version": 3
   }
  ]
 }

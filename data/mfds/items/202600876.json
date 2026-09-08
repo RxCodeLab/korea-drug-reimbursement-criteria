@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600876",
+ "item_name": "에소듀오미니정10/350밀리그램(에스오메프라졸, 탄산수소나트륨)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20260327",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207094]탄산수소나트륨|[M283009]에스오메프라졸마그네슘삼수화물펠렛",
+ "main_item_ingr_eng": "Esomeprazole Magnesium Trihydrate Pellet/Sodium Bicarbonate",
+ "edi_code": "643310300",
+ "atc_code": "A02BC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600876",
+ "revisions": [
+  {
+   "revision_id": "202600876-4ab9e9fb",
+   "content_sha256": "4ab9e9fb022ed0b9eabcdc9bdefd7f0ac4ae0d47695c020aee54c7dd8de8a577",
+   "ee_text": "위식도 역류질환(GERD) - 미란성 역류식도염의 치료 - 식도염 환자의 재발방지를 위한 장기간 유지요법 - 식도염이 없는 위식도 역류질환의 증상 치료요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:56Z",
+   "last_observed_at": "2026-09-08T09:04:56Z",
+   "official_revision_date": "2026-03-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:56Z"
+}

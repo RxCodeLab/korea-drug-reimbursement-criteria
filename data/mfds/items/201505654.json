@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505654",
+ "item_name": "투제오주솔로스타(인슐린글라진, 유전자재조합)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20150813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M201508]인슐린글라진(유전자재조합)",
+ "main_item_ingr_eng": "Insulin Glargine (rDNA)",
+ "edi_code": "652000951",
+ "atc_code": "A10AE04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505654",
+ "revisions": [
+  {
+   "revision_id": "201505654-a130feb8",
+   "content_sha256": "a130feb8dcc51433f107a86e2967e4ccef9c56d41be9be22e000a96b63054b34",
+   "ee_text": "만 6세 이상의 어린이와 청소년 및 성인에서의 당뇨병 치료",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:29Z",
+   "last_observed_at": "2026-09-08T08:49:29Z",
+   "official_revision_date": "2021-04-23"
+  },
+  {
+   "revision_id": "201505654-e6cb52aa",
+   "content_sha256": "e6cb52aa5079b838227d590357493638a65ac553d9517b7fb6de256b4b095069",
+   "ee_text": "6세 이상의 어린이와 청소년 및 성인에서의 당뇨병 치료",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-10-30",
+   "first_observed_at": "2026-09-08T08:49:29Z",
+   "last_observed_at": "2026-09-08T08:49:29Z"
+  },
+  {
+   "revision_id": "201505654-21a25099",
+   "content_sha256": "21a25099977daf6d102fdcbac045bf0d31d77f4ab6e0db08d966f42f58cbe5cf",
+   "ee_text": "성인에서의 당뇨병 치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:49:29Z",
+   "last_observed_at": "2026-09-08T08:49:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:29Z"
+}

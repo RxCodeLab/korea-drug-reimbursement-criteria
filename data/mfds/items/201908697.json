@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908697",
+ "item_name": "펜시비어크림(펜시클로버)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20191230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093652]펜시클로버",
+ "main_item_ingr_eng": "Penciclovir",
+ "edi_code": "671706271",
+ "atc_code": "D06BB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908697",
+ "revisions": [
+  {
+   "revision_id": "201908697-1b75bb8f",
+   "content_sha256": "1b75bb8fa04b6ec364b8d93df77a2ab5eb86bf4c361abfce4d67611f34809762",
+   "ee_text": "단순포진 바이러스 감염증(입술포진)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:23Z",
+   "last_observed_at": "2026-09-08T08:57:23Z",
+   "official_revision_date": "2019-12-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:23Z"
+}

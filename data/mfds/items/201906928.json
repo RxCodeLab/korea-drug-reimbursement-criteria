@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906928",
+ "item_name": "씨지코프정(레보드로프로피진)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20190930",
+ "cancel_date": "20240930",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M253916]레보드로프로피진",
+ "main_item_ingr_eng": "Levodropropizine",
+ "edi_code": "",
+ "atc_code": "R05DB27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906928",
+ "revisions": [
+  {
+   "revision_id": "201906928-a13eeef7",
+   "content_sha256": "a13eeef78218b46f821381d81f7e57fd7c354756d9720d76dadd92b0fcc840f1",
+   "ee_text": "다음 질환에서의 기침 : 급, 만성 기관지염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:33Z",
+   "last_observed_at": "2026-09-08T08:56:33Z",
+   "official_revision_date": "2019-09-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:33Z"
+}

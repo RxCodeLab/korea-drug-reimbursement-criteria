@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301067",
+ "item_name": "알타렌과립(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20030701",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095125]수용성아줄렌|[M202240]L-글루타민",
+ "main_item_ingr_eng": "L-Glutamine/Soluble Azulene",
+ "edi_code": "",
+ "atc_code": "A02X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301067",
+ "revisions": [
+  {
+   "revision_id": "200301067-27694b1c",
+   "content_sha256": "27694b1caaa42d9e6d91c14d76266fdf446ac0fb96e75a4671a39772d8750b3a",
+   "ee_text": "다음 질환에 관련된 증상의 개선 : 위ㆍ십이지장궤양, 위염",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:56Z",
+   "last_observed_at": "2026-09-08T08:36:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:56Z"
+}

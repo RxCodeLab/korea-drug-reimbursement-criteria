@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200908976",
+ "item_name": "써포넬연질캡슐(수출용)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20091221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040133]리보플라빈|[M223167]우르소데옥시콜산|[M223262]티아민질산염",
+ "main_item_ingr_eng": "Riboflavin/Thiamine Nitrate/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A05AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908976",
+ "revisions": [
+  {
+   "revision_id": "200908976-a1ed44d3",
+   "content_sha256": "a1ed44d3f0afa799e035a2e5d8cf273412a951354381f6fa6763e2ed8fc40ae0",
+   "ee_text": "○만성 간질환의 간기능 개선 ○간기능 장애에 의한 전신권태, 소화불량, 식욕부진, 육체피로",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:42Z",
+   "last_observed_at": "2026-09-08T08:43:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:42Z"
+}

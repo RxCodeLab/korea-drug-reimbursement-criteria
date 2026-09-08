@@ -7,11 +7,12 @@
  "permit_date": "20250602",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223081]스코폴라민브롬화수소산염수화물|[M040133]리보플라빈|[M222972]디페니돌염산염",
+ "main_item_ingr": "[M040133]리보플라빈|[M222972]디페니돌염산염|[M223081]스코폴라민브롬화수소산염수화물",
  "main_item_ingr_eng": "Difenidol Hydrochloride/Riboflavin/Scopolamine Hydrobromide Hydrate",
  "edi_code": "",
  "atc_code": "A04AD51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501360",
+ "history_fetched_at": "2026-08-28T13:25:37Z",
  "revisions": [
   {
    "revision_id": "202501360-9e10f901",
@@ -19,9 +20,9 @@
    "ee_text": "멀미에 의한 어지러움·구토·두통의 예방 및 완화",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:37Z",
-   "last_observed_at": "2026-08-28T13:25:37Z",
-   "official_revision_date": "2025-06-02"
+   "last_observed_at": "2026-09-08T09:03:57Z",
+   "official_revision_date": "2025-06-02",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:37Z"
+ ]
 }

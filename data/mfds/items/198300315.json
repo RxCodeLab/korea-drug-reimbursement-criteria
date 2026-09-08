@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300315",
+ "item_name": "클로헥신크림",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "19830615",
+ "cancel_date": "20260401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M084553]강세트리마이드40%용액|[M244239]클로르헥시딘글루콘산염액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution/Strong Cetrimide Solution 40%",
+ "edi_code": "",
+ "atc_code": "D08AC52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300315",
+ "revisions": [
+  {
+   "revision_id": "198300315-49c6645d",
+   "content_sha256": "49c6645df2eac88b2c8286eeffc340f4e43763c40a7eb61ad3608c32fb72ae11",
+   "ee_text": "경증의 외상ㆍ화상, 창상면의 살균소독",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:52Z",
+   "last_observed_at": "2026-09-08T08:26:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:52Z"
+}

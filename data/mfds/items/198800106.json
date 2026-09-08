@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800106",
+ "item_name": "한풍지실엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040536]지실",
+ "main_item_ingr_eng": "Poncirus Immature Fruit",
+ "edi_code": "",
+ "atc_code": "A16A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800106",
+ "revisions": [
+  {
+   "revision_id": "198800106-8688cf3c",
+   "content_sha256": "8688cf3c8874874d728c0b965b407995227d2a2d25b47337b0bd548716322311",
+   "ee_text": "피부 소양증, 소화불량, 위복부팽만감",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198800106/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:33Z",
+   "last_observed_at": "2026-09-08T08:27:33Z"
+  },
+  {
+   "revision_id": "198800106-b1b8e748",
+   "content_sha256": "b1b8e748562d92400c5cea21c059a1431714be7a8389f40cbf39f5ccaa5ea36a",
+   "ee_text": "효능ㆍ효과 : 피부 소양증, 소화불량, 위복부팽만감",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:27:33Z",
+   "last_observed_at": "2026-09-08T08:27:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:33Z"
+}

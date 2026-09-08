@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802022",
+ "item_name": "트렐리지엘립타",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20180511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259812]플루티카손푸로에이트(미분화)|[M259813]빌란테롤트리페나테이트(미분화)|[M259864]유메클리디늄브롬화물(미분화)",
+ "main_item_ingr_eng": "Fluticasone Furoate Micronized/Umeclidinium Bromide Micronized/Vilanterol Trifenatate Micronized",
+ "edi_code": "650003141",
+ "atc_code": "R03AL08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802022",
+ "revisions": [
+  {
+   "revision_id": "201802022-cf4c6f24",
+   "content_sha256": "cf4c6f246d4bad9e9866d5b5b7de9ec322e28a3ad2f8623125f54c8699732ea3",
+   "ee_text": "1. 성인에서 지속성 베타2-효능약과 흡입용 코르티코스테로이드 복합요법 또는 지속성 베타2-효능약과 지속성 무스카린 수용체 길항제 복합요법으로 적절히 조절되지 않는 중등도 및 중증의 만성폐쇄성폐질환의 유지요법 (증상 조절 및 악화 감소) 2. 성인에서 지속성 베타2-효능약과 흡입용 코르티코스테로이드 병용요법으로 적절히 조절되지 않는 천식의 유지요법",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:08Z",
+   "last_observed_at": "2026-09-08T08:53:08Z",
+   "official_revision_date": "2022-08-10"
+  },
+  {
+   "revision_id": "201802022-31c893f4",
+   "content_sha256": "31c893f48e15d1bf5e176712245be6667a34bc750271faddfb15945ba754fe19",
+   "ee_text": "성인에서 지속성 베타2-효능약과 흡입용 코르티코스테로이드 복합요법 또는 지속성 베타2-효능약과 지속성 무스카린 수용체 길항제 복합요법으로 적절히 조절되지 않는 중등도 및 중증의 만성폐쇄성폐질환의 유지요법 (증상 조절 및 악화 감소)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-02-15",
+   "first_observed_at": "2026-09-08T08:53:08Z",
+   "last_observed_at": "2026-09-08T08:53:08Z"
+  },
+  {
+   "revision_id": "201802022-8cf54902",
+   "content_sha256": "8cf54902995790f042adece14aa8f70298e3a4da335fc7cac0742853e2a39f32",
+   "ee_text": "성인에서 지속성 베타2-효능약과 흡입용 코르티코스테로이드 복합요법으로 적절히 조절되지 않는 중등도 및 중증의 만성폐쇄성폐질환의 유지요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-05-11",
+   "first_observed_at": "2026-09-08T08:53:08Z",
+   "last_observed_at": "2026-09-08T08:53:08Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:08Z"
+}

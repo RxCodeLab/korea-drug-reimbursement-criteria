@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303307",
+ "item_name": "컬럼비주(글로피타맙)",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "20231207",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284284]글로피타맙|[M284284]글로피타맙",
+ "main_item_ingr_eng": "Glofitamab",
+ "edi_code": "",
+ "atc_code": "L01FX28",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303307",
+ "revisions": [
+  {
+   "revision_id": "202303307-9d3d7b7c",
+   "content_sha256": "9d3d7b7c4af328780f63c4bb87af4fbab53ab15b73ec536bba515c5592b8aa7a",
+   "ee_text": "1. 자가 조혈 모세포 이식(ASCT)이 적합하지 않은 재발성 또는 불응성 미만성 거대 B세포 림프종 NOS (DLBCL Not Otherwise Specified) 성인 환자에서 젬시타빈 및 옥살리플라틴과의 병용요법 2. 두 가지 이상의 전신치료 후 재발성 또는 불응성 미만성 거대 B세포 림프종 성인 환자의 치료",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:33Z",
+   "last_observed_at": "2026-09-08T09:02:33Z",
+   "official_revision_date": "2025-07-11"
+  },
+  {
+   "revision_id": "202303307-2e9b6b89",
+   "content_sha256": "2e9b6b89c04e4005bbc5a1d208ff948a9570d2966286dde2bc1b92497a02cb51",
+   "ee_text": "두 가지 이상의 전신치료 후 재발성 또는 불응성 미만성 거대 B세포 림프종 성인 환자의 치료 이 약의 유효성을 치료적확증시험에서 입증한 자료는 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-12-07",
+   "first_observed_at": "2026-09-08T09:02:33Z",
+   "last_observed_at": "2026-09-08T09:02:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:33Z"
+}

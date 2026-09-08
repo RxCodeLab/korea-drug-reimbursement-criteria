@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800110",
+ "item_name": "한풍치자엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040564]치자",
+ "main_item_ingr_eng": "Gardenia Fruit",
+ "edi_code": "",
+ "atc_code": "A05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800110",
+ "revisions": [
+  {
+   "revision_id": "198800110-e8e88354",
+   "content_sha256": "e8e8835477208216c1a0f8e1e89c33d2a317fca2cfba69b6d60bffeb8088c2fe",
+   "ee_text": "해열, 황달, 진정",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:33Z",
+   "last_observed_at": "2026-09-08T08:27:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:33Z"
+}

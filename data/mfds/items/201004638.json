@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004638",
+ "item_name": "휴온스헤파린나트륨주사100IU",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20100722",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249378]헤파린나트륨",
+ "main_item_ingr_eng": "Heparin Sodium",
+ "edi_code": "",
+ "atc_code": "B01AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004638",
+ "revisions": [
+  {
+   "revision_id": "201004638-09e6269c",
+   "content_sha256": "09e6269c00a0ad8a057b205ab34b91abf8d6ccde39e94cd0a51a5d9112d27bed",
+   "ee_text": "정맥용 카테터나 캐뉼라의 개통성 유지(이 약은 카테터나 캐뉼라의 세척용으로 사용한다.)",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:09Z",
+   "last_observed_at": "2026-09-08T08:44:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:09Z"
+}

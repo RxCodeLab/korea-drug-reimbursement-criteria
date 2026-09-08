@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199704367",
+ "item_name": "슈프레인액(데스플루란)",
+ "entp_name": "주식회사박스터코리아",
+ "permit_date": "19970816",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086203]데스플루란",
+ "main_item_ingr_eng": "Desflurane",
+ "edi_code": "078200091",
+ "atc_code": "N01AB07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199704367",
+ "revisions": [
+  {
+   "revision_id": "199704367-66750a40",
+   "content_sha256": "66750a40e80a10bd085adf04ff2e73b35ccca30f7b4d35903948220a2394fff5",
+   "ee_text": "성인 : 수술시 마취 유도 및 유지 유아 및 소아 : 수술시 마취의 유지",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:32Z",
+   "last_observed_at": "2026-09-08T08:31:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:32Z"
+}

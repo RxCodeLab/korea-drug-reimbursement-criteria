@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199906589",
+ "item_name": "엠에스종합 의료용산소",
+ "entp_name": "엠에스종합가스(주)",
+ "permit_date": "19990504",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040256]산소",
+ "main_item_ingr_eng": "Oxygen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199906589",
+ "revisions": [
+  {
+   "revision_id": "199906589-5a6bfe33",
+   "content_sha256": "5a6bfe33d1c9a1ab7f746f3641d1564c226b6215bba81c08596c0334d29f8fe5",
+   "ee_text": "〇 의료용가스 - 다음과 같은 광범위한 질환에서의 산소결핍증 치료 · 호흡근의 마비 · 일산화탄소 중독 · 출혈, 외상, 쇼크 · 마취 시의 호흡마비 · 중증의 심질환(순환계 허탈 등) · 폐부종 등으로 인한 기도의 폐쇄 - 폐쇄 순환 마취 시 단독 투여 또는 이산화탄소와 병용투여",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:15Z",
+   "last_observed_at": "2026-09-08T08:33:15Z",
+   "official_revision_date": "2020-02-06"
+  },
+  {
+   "revision_id": "199906589-9f817e9a",
+   "content_sha256": "9f817e9a6c976af58e963fed967218f7a5a383f4aea4f288589fe02114c96fa6",
+   "ee_text": "산소결핍증이 일어났을 때 산소흡입 또는 폐색순환 마취시에 단독 혹은 이산화탄소와 함께 사용 호흡근의 마비, 일산화탄소, 아질산, 코가인 등에 의한 중독시의 가사",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-27",
+   "first_observed_at": "2026-09-08T08:33:15Z",
+   "last_observed_at": "2026-09-08T08:33:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:15Z"
+}

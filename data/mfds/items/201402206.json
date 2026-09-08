@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402206",
+ "item_name": "모비록캄캡슐7.5mg(멜록시캄)",
+ "entp_name": "위더스제약(주)",
+ "permit_date": "20140513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086439]멜록시캄",
+ "main_item_ingr_eng": "Meloxicam",
+ "edi_code": "660702660",
+ "atc_code": "M01AC06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402206",
+ "revisions": [
+  {
+   "revision_id": "201402206-6a8e0cb4",
+   "content_sha256": "6a8e0cb4b9f17d12a7495fb2260f8880aaa24f88e177e2eb6d8a16aa461df634",
+   "ee_text": "1. 통증과 운동실조를 수반하는 골관절염(퇴행관절염)의 급성악화시 단기간의 증상치료 2. 류마티스관절염의 증상치료 3. 강직척추염의 증상치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:02Z",
+   "last_observed_at": "2026-09-08T08:47:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:02Z"
+}

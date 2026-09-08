@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502064",
+ "item_name": "시알라나액(글리코피로니움브롬화물)",
+ "entp_name": "(주)비씨월드헬스케어",
+ "permit_date": "20250808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259646]글리코피로니움브롬화물",
+ "main_item_ingr_eng": "Glycopyrronium Bromide",
+ "edi_code": "",
+ "atc_code": "A03AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502064",
+ "revisions": [
+  {
+   "revision_id": "202502064-7ca27ed4",
+   "content_sha256": "7ca27ed4d471214b98710f2dcfe374f5efd38ac7f5f5a79168ddf8fdcf40c731",
+   "ee_text": "만성 신경 질환이 있는 소아(3세 ∼ 18세 미만)의 중증 타액 분비(만성 중증 침흘림) 감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:10Z",
+   "last_observed_at": "2026-09-08T09:04:10Z",
+   "official_revision_date": "2025-08-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:10Z"
+}

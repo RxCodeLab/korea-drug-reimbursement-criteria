@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500192",
+ "item_name": "뉴큐어엠소듐플루오라이드F-18주사액",
+ "entp_name": "주식회사뉴큐어엠",
+ "permit_date": "20250124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M116653]플루오르화나트륨(18F) 액",
+ "main_item_ingr_eng": "Sodium Fluoride (18F) Solution",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500192",
+ "revisions": [
+  {
+   "revision_id": "202500192-1e7ba6fc",
+   "content_sha256": "1e7ba6fc4c8ac6166fe5f638309cf921fb36c2f2ba045f4c1b1c7c24bfa2c949",
+   "ee_text": "1. 다음 경우의 양전자방출 단층촬영(Positron emission tomography, PET)에 사용한다. 1.1 변화된 골형성 활성 영역을 확인하기 위한 뼈의 촬영",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:39Z",
+   "last_observed_at": "2026-09-08T09:03:39Z",
+   "official_revision_date": "2025-01-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:39Z"
+}

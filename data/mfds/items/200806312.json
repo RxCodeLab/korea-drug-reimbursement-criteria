@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806312",
+ "item_name": "티모베타롤엘에이0.5%점안액(티몰롤말레산염)",
+ "entp_name": "(주)태준제약",
+ "permit_date": "20080605",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222894]티몰롤말레산염",
+ "main_item_ingr_eng": "Timolol Maleate",
+ "edi_code": "",
+ "atc_code": "S01ED01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806312",
+ "revisions": [
+  {
+   "revision_id": "200806312-7e8315c1",
+   "content_sha256": "7e8315c1a3b2a0d3a0b51391ff91c37354e176b911acf4fec68b70b01ced58fb",
+   "ee_text": "다음에서의 안압 하강 : 만성 개방각 녹내장 환자, 무수정체성 녹내장 환자, 속발성 녹내장 환자, 안압상승 환자",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:35Z",
+   "last_observed_at": "2026-09-08T08:42:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:35Z"
+}

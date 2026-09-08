@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "N02AX02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806032",
+ "history_fetched_at": "2026-08-28T13:24:17Z",
  "revisions": [
   {
-   "revision_id": "200806032-52bda490",
-   "content_sha256": "52bda490d2e67b5a95cd0323940ac8d1efd6bbaa880b652499086be5dcfdd515",
-   "ee_text": "중증 및 중등도의 급만성 동통 (각종 암 등) 진단 및 수술 후 동통",
+   "revision_id": "200806032-6a9d77f2",
+   "content_sha256": "6a9d77f25bd23751c3cc214bfe3e90e62c81bbba11f2ce47ac126ad625687b61",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 중증 및 중등도의 급만성 동통 (각종 암 등) 진단 및 수술 후 동통",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:24:17Z",
-   "last_observed_at": "2026-08-28T13:24:17Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:42:34Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:17Z"
+ ]
 }

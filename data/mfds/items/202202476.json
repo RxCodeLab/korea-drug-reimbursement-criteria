@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202476",
+ "item_name": "아젤핀정16밀리그램(아젤니디핀)",
+ "entp_name": "(주)메디카코리아",
+ "permit_date": "20220613",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281394]아젤니디핀",
+ "main_item_ingr_eng": "Azelnidipine",
+ "edi_code": "646005560",
+ "atc_code": "C08CA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202476",
+ "revisions": [
+  {
+   "revision_id": "202202476-f5de4319",
+   "content_sha256": "f5de43194093da461a59c6b7b7985e7ba1927c86ac648c5766f5eeea5afba976",
+   "ee_text": "고혈압",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:23Z",
+   "last_observed_at": "2026-09-08T09:01:23Z",
+   "official_revision_date": "2022-06-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:23Z"
+}

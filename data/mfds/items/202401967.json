@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401967",
+ "item_name": "인퓨젬주10밀리그램/밀리리터(젬시타빈염산염)",
+ "entp_name": "리퓨어헬스케어(주)",
+ "permit_date": "20240813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254894]젬시타빈염산염",
+ "main_item_ingr_eng": "Gemcitabine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "L01BC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401967",
+ "revisions": [
+  {
+   "revision_id": "202401967-d3da7bce",
+   "content_sha256": "d3da7bce8c0299e7c0ab50ac779c0a5ddf746c3d95d465e40466314146da782d",
+   "ee_text": "1. 비소세포폐암 1) 시스플라틴과 병용하여 국소 진행성 또는 전이성 비소세포폐암의 1차 치료 2) 단독 투여하여 국소 진행성 또는 전이성 비소세포폐암의 고식적 치료 2. 췌장암 국소 진행성 또는 전이성 췌장암의 1차 치료 3. 방광암 국소 진행성 또는 전이성 방광암에 시스플라틴과 병용 4. 유방암 임상적으로 금기가 아닌 이상 이전의 안트라사이클린계 약물을 포함한 보조화학요법에 실패한 국소적으로 진행된 유방암 또는 전이성 유방암에 파클리탁셀과 병용 5. 난소암 백금화합물 요법을 완료하고 최소 6개월 후 재발된 전이성 난소암 환자들의 치료를 목적으로 카보플라틴과 병용 6. 담도암 화학요법 치료를 받은 경험이 없는 수술이 불가능한 국소진행성 또는 전이성 담도암에 시스플라틴과 병용",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:13Z",
+   "last_observed_at": "2026-09-08T09:03:13Z",
+   "official_revision_date": "2024-08-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:13Z"
+}

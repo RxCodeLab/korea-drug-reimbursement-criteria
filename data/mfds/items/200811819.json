@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200811819",
+ "item_name": "아로사민캡슐500밀리그램(결정황산글루코사민)(수출용)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20081223",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M050075]결정황산글루코사민",
+ "main_item_ingr_eng": "Crystallized Glucosamine Sulfate",
+ "edi_code": "",
+ "atc_code": "M01AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811819",
+ "revisions": [
+  {
+   "revision_id": "200811819-a0d101ee",
+   "content_sha256": "a0d101ee56e2258d92c9b32198de4acb52b48c2d02ad9182571af03f745700f2",
+   "ee_text": "다음 질환에 사용할 수 있다. : 골관절염(퇴행성 관절질환)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:59Z",
+   "last_observed_at": "2026-09-08T08:42:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:59Z"
+}

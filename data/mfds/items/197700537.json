@@ -7,11 +7,12 @@
  "permit_date": "19771103",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M249060]디히드로코데인타르타르산염|[M223211]클로르페니라민말레산염|[M204422]dl-메틸에페드린염산염|[M223183]카페인무수물",
+ "main_item_ingr": "[M204422]dl-메틸에페드린염산염|[M223183]카페인무수물|[M223211]클로르페니라민말레산염|[M249060]디히드로코데인타르타르산염",
  "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dihydrocodeine Tartrate",
  "edi_code": "641900090",
  "atc_code": "R05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197700537",
+ "history_fetched_at": "2026-08-28T13:23:37Z",
  "revisions": [
   {
    "revision_id": "197700537-da6ae941",
@@ -19,9 +20,9 @@
    "ee_text": "기침, 가래",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:23:37Z",
-   "last_observed_at": "2026-08-28T13:23:37Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:27Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:37Z"
+ ]
 }

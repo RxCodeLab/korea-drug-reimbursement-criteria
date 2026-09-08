@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501187",
+ "item_name": "맨담플루비플라스타(플루르비프로펜)",
+ "entp_name": "(주)보령",
+ "permit_date": "20050607",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M089049]플루르비프로펜|[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501187",
+ "revisions": [
+  {
+   "revision_id": "200501187-150f1b8c",
+   "content_sha256": "150f1b8ce47e4bdaa3f7546170d0466b2c20ebc4f114bbf0069703ac7535d85b",
+   "ee_text": "다음 질환 및 증상의 진통, 소염 - 퇴행성관절염(골[뼈]관절염), 어깨관절주위염, 건ㆍ건초염[힘줄ㆍ힘줄 윤활막염], 상완골[위팔뼈]상과염 (테니스엘보우 등), 근육통, 외상[상처]후의 종창[부기] ㆍ동통[통증]",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:05Z",
+   "last_observed_at": "2026-09-08T08:39:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:05Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600885",
+ "item_name": "대한적십자사서울동부혈액원전혈(전혈)",
+ "entp_name": "대한적십자사서울동부혈액원",
+ "permit_date": "20060127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280586]전혈",
+ "main_item_ingr_eng": "Whole Human Blood",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600885",
+ "revisions": [
+  {
+   "revision_id": "200600885-4cc5e0cc",
+   "content_sha256": "4cc5e0cc8ef4fa2fc6134f81c5ffce97e6016747bc6f602cafc797127611ffe0",
+   "ee_text": "산소운반능과 혈액량보충이 동시에 요구될 때 사용한다. 급성실혈 환자와 지속된 실혈에 의하여 총 혈액량의 25% 이상의 출혈이 있어 출혈쇽에 빠질 우려가 있는 환자의 우선적인 적응증이 된다.",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:57Z",
+   "last_observed_at": "2026-09-08T08:39:57Z",
+   "official_revision_date": "2021-12-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:57Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500973",
+ "item_name": "가티플로점안액(가티플록사신수화물)",
+ "entp_name": "(주)한독",
+ "permit_date": "20050525",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257538]가티플록사신수화물",
+ "main_item_ingr_eng": "Gatifloxacin Hydrate",
+ "edi_code": "652100011",
+ "atc_code": "S01AE06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500973",
+ "revisions": [
+  {
+   "revision_id": "200500973-5b595584",
+   "content_sha256": "5b59558416ee05fe3e38d82f683e48e981e58bbaa5ae4ab0e340d49963231580",
+   "ee_text": "본제에 감수성이 있는 다음의 균종에 의한 세균성 결막염, 검판선염, 각막염(각막궤양 포함)의 치료, 안과수술시 무균화요법 포도상구균속, 연쇄상구균속, 폐렴구균, 장구균속, 코리네박테리움속, 모락셀라(브란하멜라)-카타랄리스, 시트로박터-프룬디, 크렙시엘라-뉴모니아에, 세라치아속, 모르가넬라-모르가니, 인플루엔자균, 슈도모나스속, 녹농균, 스핑고모나스-파우치모빌리스, 스테노트로포모나스(크산토모나스)-말토필리아, 아시네토박터속, 아크네균",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:01Z",
+   "last_observed_at": "2026-09-08T08:39:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:01Z"
+}

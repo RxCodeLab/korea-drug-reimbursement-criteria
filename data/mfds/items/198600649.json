@@ -7,21 +7,22 @@
  "permit_date": "19861105",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M070806]아진타미드|[M040678]판크레아틴|[M226008]셀룰라제4000|[M223083]시메티콘",
+ "main_item_ingr": "[M040678]판크레아틴|[M070806]아진타미드|[M223083]시메티콘|[M226008]셀룰라제4000",
  "main_item_ingr_eng": "Azintamide/Cellulase 4000/Pancreatin/Simethicone",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600649",
+ "history_fetched_at": "2026-08-28T13:23:40Z",
  "revisions": [
   {
-   "revision_id": "198600649-ed7b6ea4",
-   "content_sha256": "ed7b6ea4f372f331232a16256efea4dd5d697e796cbb1185b83be964d8470c5a",
-   "ee_text": "소화효소결핍 및 담즙분비부전으로 인한 다음의 증상 :",
+   "revision_id": "198600649-2083ad8a",
+   "content_sha256": "2083ad8a3563d89b487fb01c68cdc0061f64369f6a909f48385a91d884627c3f",
+   "ee_text": "소화효소결핍 및 담즙분비부전으로 인한 다음의 증상 : 1. 부패 및 발효성 소화장애(가스제거) 2. 복부팽만감 3. 소화불량",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:23:40Z",
-   "last_observed_at": "2026-08-28T13:23:40Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:27:12Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:40Z"
+ ]
 }

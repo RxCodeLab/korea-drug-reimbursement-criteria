@@ -7,11 +7,12 @@
  "permit_date": "20000812",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M089515]대추엑스산|[M089512]생강엑스산|[M082727]감초엑스산|[M089525]계지엑스산|[M090093]작약엑스산|[M089573]마황엑스산|[M089599]갈근엑스산",
+ "main_item_ingr": "[M082727]감초엑스산|[M089512]생강엑스산|[M089515]대추엑스산|[M089525]계지엑스산|[M089573]마황엑스산|[M089599]갈근엑스산|[M090093]작약엑스산",
  "main_item_ingr_eng": "Cinnamomi Ramulus Extract Powder/Ephedra Herb Extract Powder/Glycyrrhiza Extract Powder/Jujube Extract Powder/Peony Root Extract Powder/Pueraria Root Extract Powder/Raw Ginger Extract Powder",
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005592",
+ "history_fetched_at": "2026-08-28T13:23:56Z",
  "revisions": [
   {
    "revision_id": "200005592-9ffab8db",
@@ -19,8 +20,9 @@
    "ee_text": "한방건강보험용",
    "ee_doc_id": "13",
    "first_observed_at": "2026-08-28T13:23:56Z",
-   "last_observed_at": "2026-08-28T13:23:56Z",
-   "official_revision_date": "2020-07-02"
+   "last_observed_at": "2026-09-08T08:34:23Z",
+   "official_revision_date": "2020-07-02",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200005592-ff32c91b",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:56Z",
    "last_observed_at": "2026-08-28T13:23:56Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:56Z"
+ ]
 }

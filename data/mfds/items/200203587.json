@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200203587",
+ "item_name": "탑사인카타플라스마(펠비낙)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20021021",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083570]펠비낙|[M083570]펠비낙",
+ "main_item_ingr_eng": "Felbinac",
+ "edi_code": "",
+ "atc_code": "M02AA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200203587",
+ "revisions": [
+  {
+   "revision_id": "200203587-6440f171",
+   "content_sha256": "6440f171e873dc663b7d43c4339d63d8c7fb3dd465456ec312486688ec6da93d",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건ㆍ건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통, 외상후의 종창ㆍ동통",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:27Z",
+   "last_observed_at": "2026-09-08T08:36:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:27Z"
+}

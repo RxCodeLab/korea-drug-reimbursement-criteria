@@ -1,0 +1,68 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707242",
+ "item_name": "카보메틱스정20밀리그램(카보잔티닙)",
+ "entp_name": "입센코리아(주)",
+ "permit_date": "20170926",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266850]카보잔티닙(S)-말산염",
+ "main_item_ingr_eng": "Cabozantinib (S)-malate",
+ "edi_code": "681400130",
+ "atc_code": "L01EX07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707242",
+ "revisions": [
+  {
+   "revision_id": "201707242-1051e42c",
+   "content_sha256": "1051e42c70bca359f5ae37dbf417fa2008d02fc93425ceb4ac180941fc5290c0",
+   "ee_text": "1) 신장세포암의 치료 (1) 이전에 VEGF(Vascular endothelial growth factor) 표적요법으로 치료 받은 적이 있는 진행성 신장세포암 환자에서의 단독요법 (2) 진행성 신장세포암 환자에서의 1차 치료로서 니볼루맙과의 병용요법 2) 간세포암의 치료 : 이전에 소라페닙으로 치료 받은 적이 있는 간세포암의 치료 3) 분화갑상선암의 치료 이전에 VEGF 표적요법 치료를 받은 적이 있거나, 치료 중 질병이 진행된, 방사성 요오드 요법(RAI)에 대해 적합하지 않거나 불응성인 국소 진행성 또는 전이성 분화갑상선암(DTC) 환자에서의 단독요법 4) 신경 내분비 종양의 치료 소마토스타틴 유사체를 제외하고 이전에 전신요법을 받은 적이 있는 절제 불가능한 국소 진행성 또는 전이성의 고도로 분화된 췌장 외 신경내분비종양(epNET) 및 췌장 신경 내분비 종양(pNET)",
+   "ee_doc_id": "36",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:24Z",
+   "last_observed_at": "2026-09-08T08:52:24Z",
+   "official_revision_date": "2026-01-28"
+  },
+  {
+   "revision_id": "201707242-95e08d03",
+   "content_sha256": "95e08d03b873494aa68650d82148f1db267b6aae1478a1a2b4b98a4109852c0b",
+   "ee_text": "1) 신장세포암의 치료 (1) 이전에 VEGF(Vascular endothelial growth factor) 표적요법으로 치료 받은 적이 있는 진행성 신장세포암 환자에서의 단독요법 (2) 진행성 신장세포암 환자에서의 1차 치료로서 니볼루맙과의 병용요법 2) 간세포암의 치료 : 이전에 소라페닙으로 치료 받은 적이 있는 간세포암의 치료 3) 분화갑상선암의 치료 이전에 VEGF 표적요법 치료를 받은 적이 있거나, 치료 중 질병이 진행된, 방사성 요오드 요법(RAI)에 대해 적합하지 않거나 불응성인 국소 진행성 또는 전이성 분화갑상선암(DTC) 환자에서의 단독요법",
+   "ee_doc_id": "29",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-10-05",
+   "first_observed_at": "2026-09-08T08:52:24Z",
+   "last_observed_at": "2026-09-08T08:52:24Z"
+  },
+  {
+   "revision_id": "201707242-c9e4fb7d",
+   "content_sha256": "c9e4fb7d4cc7e8f9cb6285fe0b2ee99cd3e2564cbb573baefc423f20b3c3c130",
+   "ee_text": "1) 신장세포암의 치료 (1) 이전에 VEGF(Vascular endothelial growth factor) 표적요법으로 치료 받은 적이 있는 진행성 신장세포암 환자에서의 단독요법 (2) 진행성 신장세포암 환자에서의 1차 치료로서 니볼루맙과의 병용요법 2) 간세포암의 치료 : 이전에 소라페닙으로 치료 받은 적이 있는 간세포암의 치료",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-03-10",
+   "first_observed_at": "2026-09-08T08:52:24Z",
+   "last_observed_at": "2026-09-08T08:52:24Z"
+  },
+  {
+   "revision_id": "201707242-ffd55098",
+   "content_sha256": "ffd55098897cacec4d891d184c2818bd27fb692c147206ba96db65d92602dca3",
+   "ee_text": "1) 신장세포암의 치료 이전에 VEGF(Vascular endothelial growth factor) 표적요법의 치료 받은 적이 있는 진행성 신장세포암의 치료 2) 간세포암의 치료 이전에 소라페닙으로 치료 받은 적이 있는 간세포암 환자의 치료",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-10-11",
+   "first_observed_at": "2026-09-08T08:52:24Z",
+   "last_observed_at": "2026-09-08T08:52:24Z"
+  },
+  {
+   "revision_id": "201707242-0b515bc1",
+   "content_sha256": "0b515bc1e3ca89fd4b4c38325daad0d091473971e35664bba6082016a756d5bb",
+   "ee_text": "이전에 VEGF(Vascular endothelial growth factor) 표적요법의 치료 받은 적이 있는 진행성 신장세포암의 치료",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-28",
+   "first_observed_at": "2026-09-08T08:52:24Z",
+   "last_observed_at": "2026-09-08T08:52:24Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:24Z"
+}

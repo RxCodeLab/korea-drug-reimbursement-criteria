@@ -7,11 +7,12 @@
  "permit_date": "20140718",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M268097]카르보시스테인|[M223062]브롬헥신염산염",
+ "main_item_ingr": "[M223062]브롬헥신염산염|[M268097]카르보시스테인",
  "main_item_ingr_eng": "Bromhexine Hydrochloride/Carbocisteine",
  "edi_code": "",
  "atc_code": "R05CB10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403225",
+ "history_fetched_at": "2026-08-28T13:24:36Z",
  "revisions": [
   {
    "revision_id": "201403225-2ef8d572",
@@ -19,9 +20,9 @@
    "ee_text": "가래, 기침을 유발하는 가래",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-28T13:24:36Z",
-   "last_observed_at": "2026-08-28T13:24:36Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:47:20Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:36Z"
+ ]
 }

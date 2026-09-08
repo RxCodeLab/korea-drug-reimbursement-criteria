@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100383",
+ "item_name": "핀베린정(피나베륨브롬화물)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20010309",
+ "cancel_date": "20240425",
+ "status": "취하",
+ "main_item_ingr": "[M249750]피나베륨브롬화물",
+ "main_item_ingr_eng": "Pinaverium Bromide",
+ "edi_code": "",
+ "atc_code": "A03AX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100383",
+ "revisions": [
+  {
+   "revision_id": "200100383-951e1ebc",
+   "content_sha256": "951e1ebcae33f580bcc42729903f5050a16afdaf7007db71efae44d79226c5e1",
+   "ee_text": "1. 주효능 효과 과민성대장증후군(복통, 복부팽만감, 복부경련, 변비, 설사, 변비와 설사의 반복 , 구역, 구토), 담관운동부전",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:52Z",
+   "last_observed_at": "2026-09-08T08:34:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:52Z"
+}

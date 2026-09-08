@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200510972",
+ "item_name": "피케이멜즈인퓨전주(아만타딘황산염)",
+ "entp_name": "한화제약(주)",
+ "permit_date": "20050824",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258880]아만타딘황산염",
+ "main_item_ingr_eng": "Amantadine Sulfate",
+ "edi_code": "651600771",
+ "atc_code": "N04BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200510972",
+ "revisions": [
+  {
+   "revision_id": "200510972-2913b345",
+   "content_sha256": "2913b3459779ca699ac55fc6aba6a6f6c59da6d8021d900fe8a6342cca4155da",
+   "ee_text": "파킨슨 증후군의 급성 악화 시 무운동성 발작의 초기 및 단기 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:34Z",
+   "last_observed_at": "2026-09-08T08:39:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:34Z"
+}

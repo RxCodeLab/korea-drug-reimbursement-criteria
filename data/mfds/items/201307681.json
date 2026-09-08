@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307681",
+ "item_name": "이스토닥스주10밀리그램(로미뎁신)",
+ "entp_name": "세엘진(유)",
+ "permit_date": "20130611",
+ "cancel_date": "20241016",
+ "status": "폐업",
+ "main_item_ingr": "[M257168]로미뎁신",
+ "main_item_ingr_eng": "Romidepsin",
+ "edi_code": "",
+ "atc_code": "L01XH02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307681",
+ "revisions": [
+  {
+   "revision_id": "201307681-336fd446",
+   "content_sha256": "336fd446766b18d94b1dda28c45d23c188c9654e41dc250087ff6ceadeac99ca",
+   "ee_text": "이전에 한 가지 이상의 화학요법을 받은 재발성 또는 불응성 말초성 T세포 림프종(PTCL)의 치료. (이 약에 대한 유효성은 반응률에 근거를 두고 있으며 생존 기간 연장 등과 같은 임상적 유의성은 아직 입증되지 않았다.)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:06Z",
+   "last_observed_at": "2026-09-08T08:46:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:06Z"
+}

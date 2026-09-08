@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601035",
+ "item_name": "가네존정350밀리그램(밀크시슬열매건조엑스)",
+ "entp_name": "(주)이든파마",
+ "permit_date": "20260410",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268656]밀크시슬열매건조엑스",
+ "main_item_ingr_eng": "Milk-Thistle Fruit Dried Extract",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601035",
+ "revisions": [
+  {
+   "revision_id": "202601035-b8068dc9",
+   "content_sha256": "b8068dc97376dd1b09395b9a0d13707cf6f48c85b3eb7698b24f81a5c137c74e",
+   "ee_text": "다음질환의 보조치료: 독성 간질환, 만성간염, 간경변",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:00Z",
+   "last_observed_at": "2026-09-08T09:05:00Z",
+   "official_revision_date": "2026-04-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:00Z"
+}

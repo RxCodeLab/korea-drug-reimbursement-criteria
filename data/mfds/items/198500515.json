@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500515",
+ "item_name": "소말겐정(탈니플루메이트)",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "19850319",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081412]탈니플루메이트",
+ "main_item_ingr_eng": "Talniflumate",
+ "edi_code": "652600250",
+ "atc_code": "M01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500515",
+ "revisions": [
+  {
+   "revision_id": "198500515-fc59bb11",
+   "content_sha256": "fc59bb1123f7a830249b57062125a3bb2495ffd6c07006e93c0b0ed58d0d0f22",
+   "ee_text": "류마티스관절염, 골관절염(퇴행관절염)",
+   "ee_doc_id": "26",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:02Z",
+   "last_observed_at": "2026-09-08T08:27:02Z",
+   "official_revision_date": "2018-06-09"
+  },
+  {
+   "revision_id": "198500515-2beb0e0f",
+   "content_sha256": "2beb0e0f3ed51cff07a8e5c5b9df126510ac1f4d3a699afde915ebd2533720d1",
+   "ee_text": "류마티스관절염, 골관절염(퇴행관절염) 외상후 동통, 수술후 염증 및 동통, 인두염, 편도염, 이염, 부비동염 ※ 효능·효과 중 ‘외상후 동통, 수술후 염증 및 동통, 인두염, 편도염, 이염, 부비동염’ 에 대한 국내임상시험결과 추가 제출.",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:27:02Z",
+   "last_observed_at": "2026-09-08T08:27:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:02Z"
+}

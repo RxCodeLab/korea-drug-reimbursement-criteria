@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402784",
+ "item_name": "삼오팜프리딘서방정10밀리그램(팜프리딘)",
+ "entp_name": "(주)삼오제약",
+ "permit_date": "20140623",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255276]팜프리딘",
+ "main_item_ingr_eng": "Fampridine",
+ "edi_code": "",
+ "atc_code": "N07XX07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402784",
+ "revisions": [
+  {
+   "revision_id": "201402784-ae250383",
+   "content_sha256": "ae2503832f9a7ab6759b72bb4aa31e6cdbc8acfcc550fdae0d47980a4d3c76bb",
+   "ee_text": "보행장애를 동반한 다발성 경화증 성인환자(확장장애상태척도(Expanded Disability Status Scale, EDSS) 4-7)에서의 보행능력 개선",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:09Z",
+   "last_observed_at": "2026-09-08T08:47:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:09Z"
+}

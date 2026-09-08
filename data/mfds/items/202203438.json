@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "N05CF04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203438",
+ "history_fetched_at": "2026-08-27T13:25:43Z",
  "revisions": [
   {
    "revision_id": "202203438-810bee3a",
@@ -19,9 +20,9 @@
    "ee_text": "불면증",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:25:43Z",
-   "last_observed_at": "2026-08-27T13:25:43Z",
-   "official_revision_date": "2022-08-31"
+   "last_observed_at": "2026-09-08T09:01:32Z",
+   "official_revision_date": "2022-08-31",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:25:43Z"
+ ]
 }

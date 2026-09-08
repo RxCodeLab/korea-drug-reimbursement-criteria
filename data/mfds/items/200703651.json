@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200703651",
+ "item_name": "메티다졸주사(메트로니다졸)(수출용)",
+ "entp_name": "천우신약(주)",
+ "permit_date": "20070329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040170]메트로니다졸",
+ "main_item_ingr_eng": "Metronidazole",
+ "edi_code": "",
+ "atc_code": "J01XD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703651",
+ "revisions": [
+  {
+   "revision_id": "200703651-62f11864",
+   "content_sha256": "62f118648d820ea798356a30bca56e4108d6f3564bff17f742180c11a800d329",
+   "ee_text": "1. 유효균종 혐기성균 : Bacteroides속(특히 B. fragilis), Fusobacteria속, Eubacteria 속, Clostridia속, 혐기성 Streptococci속 2. 적응증 1) 혐기성균에 의한 다음 질환 패혈증 및 균혈증, 뇌농양, 괴저성폐염, 골수염, 산욕기 패혈증, 골반농양, 골반봉와직염, 수술후 창상 감염증 2) 수술후 혐기성균(특히 Bacteroides속, 혐기성 Streptococci속)에 의한 감염증의 예방",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:19Z",
+   "last_observed_at": "2026-09-08T08:41:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:19Z"
+}

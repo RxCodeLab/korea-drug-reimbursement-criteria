@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908052",
+ "item_name": "조플루자정40밀리그램(발록사비르마르복실)",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "20191122",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268731]발록사비르 마르복실",
+ "main_item_ingr_eng": "Baloxavir Marboxil",
+ "edi_code": "",
+ "atc_code": "J05AX25",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908052",
+ "revisions": [
+  {
+   "revision_id": "201908052-47862678",
+   "content_sha256": "478626784f6e0cd2d60076a781ec99354990b465c11ee878c7430efd48e958f7",
+   "ee_text": "1. 인플루엔자 감염증의 치료 성인 및 만 1세 이상 소아에서의 인플루엔자 A형 또는 B형 바이러스 감염증의 치료(인플루엔자 감염의 초기증상 발현 48시간 이내에 투여를 시작한다.) 2. 노출 후 인플루엔자 감염증의 예방 성인 및 만 1세 이상 소아의 인플루엔자 A형 또는 B형 바이러스 감염증의 노출 후 예방요법 (인플루엔자 바이러스 감염증에 대한 예방의 일차 요법은 백신요법이며 이 약은 예방접종을 대체할 수 없다.)",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:07Z",
+   "last_observed_at": "2026-09-08T08:57:07Z",
+   "official_revision_date": "2023-10-19"
+  },
+  {
+   "revision_id": "201908052-0c66fa15",
+   "content_sha256": "0c66fa15322c9666410a53ce7771c1199a09cf1a252daefab6b247a995fb966c",
+   "ee_text": "1. 인플루엔자 감염증의 치료 성인 및 만 12세 이상 청소년에서의 인플루엔자 A형 또는 B형 바이러스 감염증의 치료(인플루엔자 감염의 초기증상 발현 48시간 이내에 투여를 시작한다.) 2. 인플루엔자 감염증의 예방: 성인 및 만 12세 이상 청소년의 인플루엔자 A형 또는 인플루엔자 B형 바이러스 감염증의 노출 후 예방요법 (인플루엔자 바이러스 감염증에 대한 예방의 일차 요법은 백신요법이며 이 약은 예방접종을 대체할 수 없다.)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-01-15",
+   "first_observed_at": "2026-09-08T08:57:07Z",
+   "last_observed_at": "2026-09-08T08:57:07Z"
+  },
+  {
+   "revision_id": "201908052-69549226",
+   "content_sha256": "69549226575bda4e7597a6a85e67d3480d74ce512aacd01e8cec0c978b3df845",
+   "ee_text": "성인 및 만 12세 이상 청소년의 인플루엔자 A형 또는 B형 바이러스 감염증의 치료(인플루엔자 감염의 초기증상 발현 48시간 이내에 투여를 시작한다.)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-11-22",
+   "first_observed_at": "2026-09-08T08:57:07Z",
+   "last_observed_at": "2026-09-08T08:57:07Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:07Z"
+}

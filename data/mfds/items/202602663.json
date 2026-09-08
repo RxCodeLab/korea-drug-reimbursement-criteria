@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602663",
+ "item_name": "알리플포르테산",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20260907",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204304]피리독신염산염|[M249960]사카로마이세스보울라르디균",
+ "main_item_ingr_eng": "Pyridoxine Hydrochloride/Saccharomyces Boulardii",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602663",
+ "revisions": [
+  {
+   "revision_id": "202602663-bc61baa7",
+   "content_sha256": "bc61baa72d1fcab770556855507e27ed97d1b58d4fdcdc9e334d88f498abf68d",
+   "ee_text": "○ 정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:44Z",
+   "last_observed_at": "2026-09-08T09:05:44Z",
+   "official_revision_date": "2026-09-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:44Z"
+}

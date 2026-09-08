@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200900740",
+ "item_name": "뮤코펙트정(암브록솔염산염)",
+ "entp_name": "오펠라헬스케어코리아(주)",
+ "permit_date": "20090120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233843]암브록솔염산염",
+ "main_item_ingr_eng": "Ambroxol Hydrochloride",
+ "edi_code": "074200050",
+ "atc_code": "R05CB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900740",
+ "revisions": [
+  {
+   "revision_id": "200900740-5e81edc3",
+   "content_sha256": "5e81edc363e1d6a134b03b4018fa340e6cd5cb3874edcd5e0f95dd7bebb8b268",
+   "ee_text": "점액분비장애로 인한 다음의 급·만성 호흡기질환 : 급·만성기관지염, 천식성기관지염",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200900740/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:02Z",
+   "last_observed_at": "2026-09-08T08:43:02Z"
+  },
+  {
+   "revision_id": "200900740-6c5e04fe",
+   "content_sha256": "6c5e04fe2587b9b5391ce6e9a8373144f7a6e4ff855b63082f35302f070f92d3",
+   "ee_text": "(정제)(캡슐제)(시럽제)(흡입제) 점액분비장애로 인한 다음의 급·만성 호흡기질환 : 급·만성기관지염, 천식성기관지염",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:43:02Z",
+   "last_observed_at": "2026-09-08T08:43:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:02Z"
+}

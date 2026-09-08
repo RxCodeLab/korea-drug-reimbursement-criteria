@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199902754",
+ "item_name": "메타파손겔(데속시메타손)",
+ "entp_name": "제이더블유신약(주)",
+ "permit_date": "19990422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050197]데속시메타손",
+ "main_item_ingr_eng": "Desoximetasone",
+ "edi_code": "644100211",
+ "atc_code": "D07AC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902754",
+ "revisions": [
+  {
+   "revision_id": "199902754-da87a97e",
+   "content_sha256": "da87a97efc1036882cb3b2059e5ede8bb0264d66d74f08f8549073ff3a037ef6",
+   "ee_text": "다음의 코르티코이드 반응성 피부질환 : 접촉피부염, 화폐상피부염, 만성단순태선(신경피부염), 원형홍반성루푸스, 아토피피부염, 지루피부염, 건선, 벌레물린데, 한포진, 양진, 간찰진",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:56Z",
+   "last_observed_at": "2026-09-08T08:32:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:56Z"
+}

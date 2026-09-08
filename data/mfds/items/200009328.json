@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "V10XA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009328",
+ "history_fetched_at": "2026-08-28T13:23:57Z",
  "revisions": [
   {
-   "revision_id": "200009328-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200009328-0223f395",
+   "content_sha256": "0223f39588e3680f56ffffa640da6ada77e0f936c372f0bbfa7967e928af70f5",
+   "ee_text": "1. 갑상선 기능 항진증의 치료 2. 갑상선암 및 전이소의 치료",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:23:57Z",
-   "last_observed_at": "2026-08-28T13:23:57Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:34:43Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:57Z"
+ ]
 }

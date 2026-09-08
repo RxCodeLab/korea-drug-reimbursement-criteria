@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199907419",
+ "item_name": "정장생캡슐(바실루스리케니포르미스균)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "19990205",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균",
+ "main_item_ingr_eng": "Bacillus Licheniformis",
+ "edi_code": "654001460",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907419",
+ "revisions": [
+  {
+   "revision_id": "199907419-9ee51c46",
+   "content_sha256": "9ee51c46d59be2519b9568d9ac08f62245823b7314bf0daf80c4fb8a5e40eee9",
+   "ee_text": "급ㆍ만성장염(창자염), 급ㆍ만성설사, 급성이질 각종 원인에 기인한 장내 이상발효",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:26Z",
+   "last_observed_at": "2026-09-08T08:33:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:26Z"
+}

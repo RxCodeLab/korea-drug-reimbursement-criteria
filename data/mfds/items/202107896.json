@@ -7,11 +7,12 @@
  "permit_date": "20211213",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040548]창출|[M040071]대추|[M040225]복령|[M040214]백출|[M040523]작약|[M040638]택사|[M051313]저령|[M040538]진피|[M040813]후박|[M040006]감초|[M040007]건강|[M050036]육계",
+ "main_item_ingr": "[M040006]감초|[M040007]건강|[M040071]대추|[M040214]백출|[M040225]복령|[M040523]작약|[M040538]진피|[M040548]창출|[M040638]택사|[M040813]후박|[M050036]육계|[M051313]저령",
  "main_item_ingr_eng": "Alisma Rhizome/Atractylodes Rhizome/Atractylodes Rhizome White/Cinnamon Bark/Citrus Unshiu Peel/Ginger/Jujube/Licorice/Magnolia Bark/Peony Root/Polyporus Sclerotium/Poria",
  "edi_code": "",
  "atc_code": "A16AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107896",
+ "history_fetched_at": "2026-08-28T13:25:27Z",
  "revisions": [
   {
    "revision_id": "202107896-deae580e",
@@ -19,9 +20,9 @@
    "ee_text": "물설사, 구토, 목마름, 요량감소를 수반하는 다음 증상 : 식체(위체), 더위먹음, 복냉, 급성 위장염, 복통",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:27Z",
-   "last_observed_at": "2026-08-28T13:25:27Z",
-   "official_revision_date": "2021-12-13"
+   "last_observed_at": "2026-09-08T09:00:52Z",
+   "official_revision_date": "2021-12-13",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:27Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200800175",
+ "item_name": "지메탄연질캡슐(옥수수불검화정량추출물)(수출용)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20080104",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M098768]옥수수불검화정량추출물",
+ "main_item_ingr_eng": "Titrated Extract of Zea Mays L. Unsaponifiable Fraction",
+ "edi_code": "",
+ "atc_code": "A01A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800175",
+ "revisions": [
+  {
+   "revision_id": "200800175-85595d1b",
+   "content_sha256": "85595d1b834c5ab93efaf423b00efe99f96de19c6190a80e434dfb26167cd263",
+   "ee_text": "치주질환(치아주위조직질환)[치아지지조직질환,치은염(잇몸염), 치주증(유년형 치주염)]",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:09Z",
+   "last_observed_at": "2026-09-08T08:42:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:09Z"
+}

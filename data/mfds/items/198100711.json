@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198100711",
+ "item_name": "센틸정5밀리그람(클로바잠)",
+ "entp_name": "(주)한독",
+ "permit_date": "19810212",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051537]클로바잠",
+ "main_item_ingr_eng": "Clobazam",
+ "edi_code": "652100530",
+ "atc_code": "N05BA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100711",
+ "revisions": [
+  {
+   "revision_id": "198100711-c51476ae",
+   "content_sha256": "c51476ae7aeb179470a9a6e09b988e45f0e182dbac2f6422fc58e8a086e569db",
+   "ee_text": "1. 불안, 긴장 2. 다음 경우에서의 불안, 긴장: 정신신체장애, 자율신경장애, 수면장애, 기질성 장애 3. 항경련제 단독요법으로 충분히 안정화되지 않는 간질환자에 있어서의 보조치료",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:46Z",
+   "last_observed_at": "2026-09-08T08:26:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:46Z"
+}

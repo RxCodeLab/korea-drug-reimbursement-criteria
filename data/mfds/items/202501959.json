@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501959",
+ "item_name": "이토베비정9밀리그램(이나볼리십)",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "20250729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285705]이나볼리십",
+ "main_item_ingr_eng": "Inavolisib",
+ "edi_code": "",
+ "atc_code": "L01EM06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501959",
+ "revisions": [
+  {
+   "revision_id": "202501959-114cd5cb",
+   "content_sha256": "114cd5cbb20c253743d3b47c37141c82ae4536402a0919275d37c2ba1480f385",
+   "ee_text": "수술 후 보조내분비요법 중 또는 완료 후 12개월 이내 재발한 호르몬 수용체(HR)-양성, 사람상피세포성장인자수용체 2(HER2)-음성 및 PIK3CA 변이가 확인된 국소 진행성 또는 전이성 유방암 성인 환자에서 팔보시클립 및 풀베스트란트와의 병용투여 보조요법으로 CDK4/6 억제제 치료 경험이 있는 경우 CDK4/6 억제제 치료 종료 후 12개월을 초과하여야 한다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:07Z",
+   "last_observed_at": "2026-09-08T09:04:07Z",
+   "official_revision_date": "2025-07-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:07Z"
+}

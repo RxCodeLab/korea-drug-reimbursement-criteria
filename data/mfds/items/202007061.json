@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007061",
+ "item_name": "아이케어톡점안액(폴리데옥시리보뉴클레오티드나트륨)(1회용)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20201015",
+ "cancel_date": "20251015",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M261380]폴리데옥시리보뉴클레오티드나트륨",
+ "main_item_ingr_eng": "Polydeoxyribonucleotide Sodium",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007061",
+ "revisions": [
+  {
+   "revision_id": "202007061-1668c4f8",
+   "content_sha256": "1668c4f857cf2329a9ecdde741ac5ccef8a2bc08395df4dd72a2c6e31064a52c",
+   "ee_text": "1. 영양부족으로 인한 각막, 결막의 궤양성 질환에 영양공급 2. 콘택트렌즈 착용 등으로 인한 각막, 결막의 미세손상",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:31Z",
+   "last_observed_at": "2026-09-08T08:59:31Z",
+   "official_revision_date": "2020-10-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:31Z"
+}

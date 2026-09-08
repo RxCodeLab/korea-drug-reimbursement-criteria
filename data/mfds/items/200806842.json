@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806842",
+ "item_name": "이센트레스정(랄테그라비르칼륨)",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "20080623",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M235768]랄테그라비르칼륨",
+ "main_item_ingr_eng": "Raltegravir Potassium",
+ "edi_code": "655500660",
+ "atc_code": "J05AJ01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806842",
+ "revisions": [
+  {
+   "revision_id": "200806842-ff3c50e1",
+   "content_sha256": "ff3c50e126bd27a835a436bd1d5baaf0064989d1b0551c7326830f227f4fcb5a",
+   "ee_text": "성인 HIV-1 감염 성인환자의 치료를 위한 다른 항레트로바이러스제와 병용요법 소아 HIV-1에 감염된 청소년 및 최소 체중 25 kg 이상의 6세 이상 소아의 치료를 위한 다른 항레트로바이러스제와 병용요법.",
+   "ee_doc_id": "36",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:37Z",
+   "last_observed_at": "2026-09-08T08:42:37Z",
+   "official_revision_date": "2020-04-01"
+  },
+  {
+   "revision_id": "200806842-fd1e3499",
+   "content_sha256": "fd1e3499a91a429a09ad5b6653deb082eb6e5115cdd4133d122c3cc1ea1a5a0e",
+   "ee_text": "성인 HIV-1 감염 성인환자의 치료를 위한 다른 항레트로바이러스제와 병용요법 이 약의 유효성은 3건의 이중맹검 대조 임상시험에서 혈장 HIV-1 RNA 레벨에 대한 분석에 근거한다. 이 중 2 건의 임상시험은 임상적으로 진행된, 항레트로바이러스제 (비뉴클레오시드유사체역전사효소저해제(NNRTI), 뉴클레오시드유사체역전사효소저해제(NRTI), 단백분해효소억제제(PI))로 치료경험이 있는 성인환자를 대상으로 96주간 수행되었으며, 1건의 임상시험은 치료 경험이 없는 성인 환자를 대상으로 240주간 수행되었다. 이 약과 다른 활성 약물을 병용하는 것은 치료 반응을 높이는 것과 관련이 있을 수 있다. 소아 HIV-1에 감염된 청소년 및 최소 체중 25 kg 이상의 6세 이상 소아의 치료를 위한 다른 항레트로바이러스제와 병용요법.",
+   "ee_doc_id": "28",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:37Z",
+   "last_observed_at": "2026-09-08T08:42:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:37Z"
+}

@@ -12,16 +12,17 @@
  "edi_code": "650304630",
  "atc_code": "A10BH05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900179",
+ "history_fetched_at": "2026-08-28T13:25:03Z",
  "revisions": [
   {
-   "revision_id": "201900179-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201900179-cadc400e",
+   "content_sha256": "cadc400e48890316fda282772e3fa5c0eb95b7264c466e238b52e756363f88d3",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 단독요법 2. 병용요법",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:25:03Z",
-   "last_observed_at": "2026-08-28T13:25:03Z",
-   "official_revision_date": "2024-12-05"
+   "last_observed_at": "2026-09-08T08:54:03Z",
+   "official_revision_date": "2024-12-05",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:03Z"
+ ]
 }

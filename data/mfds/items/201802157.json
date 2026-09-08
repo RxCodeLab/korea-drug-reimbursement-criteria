@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802157",
+ "item_name": "니조랄2%액(케토코나졸)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20180524",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080618]케토코나졸",
+ "main_item_ingr_eng": "Ketoconazole",
+ "edi_code": "",
+ "atc_code": "D01AC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802157",
+ "revisions": [
+  {
+   "revision_id": "201802157-370c8a94",
+   "content_sha256": "370c8a94cd233cbf28527f57d9038f44da48ca6642f5889fae07cb906fea4dee",
+   "ee_text": "효모균(Malassezia furfur (이전명칭: Pityrosporum))에 의한 비듬, 지루피부염의 치료와 재발방지 및 어루러기의 치료",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:09Z",
+   "last_observed_at": "2026-09-08T08:53:09Z",
+   "official_revision_date": "2020-01-20"
+  },
+  {
+   "revision_id": "201802157-d6562ed3",
+   "content_sha256": "d6562ed30aa8331ddfd5ad055dfb67bbb73ba841b5054b09e0aeab9dd296968a",
+   "ee_text": "효모균(Malassezia furfur (이전명칭: Pityrosporum))에 의한 비듬, 지루피부염 및 어루러기의 치료 및 재발방지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-05-24",
+   "first_observed_at": "2026-09-08T08:53:09Z",
+   "last_observed_at": "2026-09-08T08:53:09Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:09Z"
+}

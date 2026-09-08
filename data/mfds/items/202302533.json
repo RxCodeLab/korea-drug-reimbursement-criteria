@@ -7,11 +7,12 @@
  "permit_date": "20230825",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M244179]메트포르민염산염|[M221584]빌다글립틴",
+ "main_item_ingr": "[M221584]빌다글립틴|[M244179]메트포르민염산염",
  "main_item_ingr_eng": "Metformin Hydrochloride/Vildagliptin",
  "edi_code": "622805150",
  "atc_code": "A10BD08",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302533",
+ "history_fetched_at": "2026-08-28T13:25:34Z",
  "revisions": [
   {
    "revision_id": "202302533-9eb5c44f",
@@ -19,9 +20,9 @@
    "ee_text": "이 약은 빌다글립틴과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상사키기 위해 식사요법 및 운동용법의 보조제로 투여한다.",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:34Z",
-   "last_observed_at": "2026-08-28T13:25:34Z",
-   "official_revision_date": "2023-08-25"
+   "last_observed_at": "2026-09-08T09:02:22Z",
+   "official_revision_date": "2023-08-25",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:34Z"
+ ]
 }

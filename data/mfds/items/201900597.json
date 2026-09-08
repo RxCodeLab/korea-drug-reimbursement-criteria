@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900597",
+ "item_name": "아르틸렌투엑스정(애엽95%에탄올연조엑스(20→1))",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20190123",
+ "cancel_date": "20250626",
+ "status": "취하",
+ "main_item_ingr": "[M266999]애엽95%에탄올연조엑스(20→1)",
+ "main_item_ingr_eng": "Artemisiae Argyi Folium 95% Ethanol Soft Extract (20→1)",
+ "edi_code": "",
+ "atc_code": "A02X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900597",
+ "revisions": [
+  {
+   "revision_id": "201900597-3391ade7",
+   "content_sha256": "3391ade7777be7627894f7ed6a55318a1dec4ccc2bca1a8e06cb57c9e9892b1c",
+   "ee_text": "1. 다음 질환의 위점막 병변(미란(짓무름), 출혈, 발적, 부종) 개선 : 급성위염, 만성위염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:08Z",
+   "last_observed_at": "2026-09-08T08:54:08Z",
+   "official_revision_date": "2019-01-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:08Z"
+}

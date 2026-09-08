@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900914",
+ "item_name": "뮤로신크림(무피로신칼슘)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20190214",
+ "cancel_date": "20240214",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M091196]무피로신칼슘",
+ "main_item_ingr_eng": "Mupirocin Calcium",
+ "edi_code": "",
+ "atc_code": "D06AX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900914",
+ "revisions": [
+  {
+   "revision_id": "201900914-4291e278",
+   "content_sha256": "4291e278b1de7f07e5300c5445a76ceb38152168bf62b11a2066bb027981ef73",
+   "ee_text": "1. 유효균종 황색포도상구균, 스트렙토코쿠스 피오게네스 2. 적응증 외상성 피부 병변의 2차 감염 (길이 10cm 또는 면적 100cm2 이하에 한함)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:15Z",
+   "last_observed_at": "2026-09-08T08:54:15Z",
+   "official_revision_date": "2019-02-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:15Z"
+}

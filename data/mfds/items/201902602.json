@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902602",
+ "item_name": "메가티로정(티로프라미드염산염)",
+ "entp_name": "(주)엘앤씨바이오",
+ "permit_date": "20190425",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M224812]티로프라미드염산염",
+ "main_item_ingr_eng": "Tiropramide Hydrochloride",
+ "edi_code": "060500600",
+ "atc_code": "A03AC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902602",
+ "revisions": [
+  {
+   "revision_id": "201902602-1b74342d",
+   "content_sha256": "1b74342d45ef6fdf5bb66d9b2380c19fa41dd599a6e05c17522036dc3ed38680",
+   "ee_text": "1. 다음 질환에서의 급성 경련성 동통 : 간담도 산통, 여러 원인에 의한 복부산통, 신장ㆍ요관의 산통 2. 다음 질환에서의 복부 경련 및 동통 : 위장관 이상운동증, 담석증, 담낭염, 수술 후 유착",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:57Z",
+   "last_observed_at": "2026-09-08T08:54:57Z",
+   "official_revision_date": "2019-04-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:57Z"
+}

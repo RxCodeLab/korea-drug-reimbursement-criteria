@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007082",
+ "item_name": "오라센스액(플루르비프로펜), 오라센스액(페퍼민트)(플루르비프로펜)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20201015",
+ "cancel_date": "20251015",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M089049]플루르비프로펜|[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "R02AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007082",
+ "revisions": [
+  {
+   "revision_id": "202007082-10d3242a",
+   "content_sha256": "10d3242a5e13410c329e1dae140b838be978a66e61ab0322b904cf4fe44ed68b",
+   "ee_text": "다음 질환에 의한 염증의 완화 ㆍ구내염(입안염), 치은염(잇몸염), 인두염 등의 구강인두의 염증 ㆍ치과 보존치료 또는 발치 후",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:31Z",
+   "last_observed_at": "2026-09-08T08:59:31Z",
+   "official_revision_date": "2020-10-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:31Z"
+}

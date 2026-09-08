@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007057",
+ "item_name": "베라카인액10.56%(리도카인)(수출용)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20201014",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007057",
+ "revisions": [
+  {
+   "revision_id": "202007057-643d4e1b",
+   "content_sha256": "643d4e1b22d0628f41c667e523b04a970ee3df8a976a411ca18ff233aa11b98b",
+   "ee_text": "남성 성기 촉각의 예민성 감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:31Z",
+   "last_observed_at": "2026-09-08T08:59:31Z",
+   "official_revision_date": "2020-10-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:31Z"
+}

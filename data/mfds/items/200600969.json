@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600969",
+ "item_name": "대한적십자사전북특별자치도혈액원동결혈장(동결혈장)",
+ "entp_name": "대한적십자사전북특별자치도혈액원",
+ "permit_date": "20060127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215863]동결혈장",
+ "main_item_ingr_eng": "Frozen Plasma",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600969",
+ "revisions": [
+  {
+   "revision_id": "200600969-2aa41fed",
+   "content_sha256": "2aa41fedfc68650a1ec790bf16e1dfa72f2b6b285a8455f91d289327cba47536",
+   "ee_text": "주로 혈액응고인자의 보충을 위해 사용한다.",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:04Z",
+   "last_observed_at": "2026-09-08T08:40:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:04Z"
+}

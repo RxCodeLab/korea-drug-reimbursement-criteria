@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201126",
+ "item_name": "라니타손크림(낙산클로베타손)(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20020520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101580]낙산클로베타손",
+ "main_item_ingr_eng": "Clobetasone Butyrate",
+ "edi_code": "",
+ "atc_code": "D07AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201126",
+ "revisions": [
+  {
+   "revision_id": "200201126-99520176",
+   "content_sha256": "9952017676d29ac549f0691334697910887833bdcd2e9d8cc50154e7e9944483",
+   "ee_text": "다음 질환을 포함하는 모든 형태의 피부염 및 습진 : 아토피피부염, 광피부염, 자극성 및 알레르기피부염(기저귀발진을 포함), 지루피부염",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:09Z",
+   "last_observed_at": "2026-09-08T08:36:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:09Z"
+}

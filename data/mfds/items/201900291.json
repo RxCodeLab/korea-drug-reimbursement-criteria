@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900291",
+ "item_name": "하이드라섹캡슐100mg(라세카도트릴)",
+ "entp_name": "한국애보트(유)",
+ "permit_date": "20190121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090882]라세카도트릴",
+ "main_item_ingr_eng": "Racecadotril",
+ "edi_code": "",
+ "atc_code": "A07XA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900291",
+ "revisions": [
+  {
+   "revision_id": "201900291-c1bbd5b9",
+   "content_sha256": "c1bbd5b9224254e84faf04cea4d924d08382d2398467e7c06f98b838acb4dd57",
+   "ee_text": "성인의 급성 설사 증상 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:06Z",
+   "last_observed_at": "2026-09-08T08:54:06Z",
+   "official_revision_date": "2019-01-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:06Z"
+}

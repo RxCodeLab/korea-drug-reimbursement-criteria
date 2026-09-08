@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201231",
+ "item_name": "더마딥판텐연고(덱스판테놀)",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20220329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278679]덱스판테놀",
+ "main_item_ingr_eng": "Dexpanthenol",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201231",
+ "revisions": [
+  {
+   "revision_id": "202201231-3603e1d3",
+   "content_sha256": "3603e1d3f4879a97dacbc44542799be5daa08ba524a749b21e921bbd2aee9172",
+   "ee_text": "상처, 화상, 찢긴 상처(수유기 중의 유두균열(갈라짐) 등), 욕창, 급.만성 피부염, 습진, 피부궤양, 기저귀발진, 햇볕에 탄 데(일광피부염)의 보조치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:13Z",
+   "last_observed_at": "2026-09-08T09:01:13Z",
+   "official_revision_date": "2022-03-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:13Z"
+}

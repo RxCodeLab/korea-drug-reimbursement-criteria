@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199002752",
+ "item_name": "헤르벤주50밀리그램(딜티아젬염산염)",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "19900314",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222982]딜티아젬염산염",
+ "main_item_ingr_eng": "Diltiazem Hydrochloride",
+ "edi_code": "640003951",
+ "atc_code": "C08DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199002752",
+ "revisions": [
+  {
+   "revision_id": "199002752-1143d7da",
+   "content_sha256": "1143d7da50dbd76671e70bca60b48014e8040751de7c0780417bb45a0fbc0de0",
+   "ee_text": "1. 빈맥성부정맥(상실성) 2. 수술시 이상 고혈압의 구급처치, 응급성고혈압(고혈압성발증) 3. 불안정 협심증",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:06Z",
+   "last_observed_at": "2026-09-08T08:28:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:06Z"
+}

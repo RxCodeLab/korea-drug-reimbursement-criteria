@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R05F",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000043",
+ "history_fetched_at": "2026-08-28T13:23:38Z",
  "revisions": [
   {
    "revision_id": "198000043-615c22f6",
@@ -19,9 +20,9 @@
    "ee_text": "기침을 하면서 하복부에서 가슴부위로 치솟고 두근거림을 호소하는 사람의 다음 증상 : 만성기관지염",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-28T13:23:38Z",
-   "last_observed_at": "2026-08-28T13:23:38Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:26:39Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:38Z"
+ ]
 }

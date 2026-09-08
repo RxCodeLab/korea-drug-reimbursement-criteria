@@ -7,11 +7,12 @@
  "permit_date": "19801030",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040521]자근|[M040070]당귀",
+ "main_item_ingr": "[M040070]당귀|[M040521]자근",
  "main_item_ingr_eng": "Angelica Gigas Root/Lithospermum Root",
  "edi_code": "",
  "atc_code": "D11AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000042",
+ "history_fetched_at": "2026-08-28T13:23:38Z",
  "revisions": [
   {
    "revision_id": "198000042-6d2b440c",
@@ -19,9 +20,9 @@
    "ee_text": "거친 피부(추위로 살갗이 튼데), 동상, 땀띠, 항문열창, 옻 등으로 인한 피부염",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:23:38Z",
-   "last_observed_at": "2026-08-28T13:23:38Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:39Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:38Z"
+ ]
 }

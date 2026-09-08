@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801623",
+ "item_name": "아모롤정20마이크로그램(푸마르산포르모테롤)(수출용)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20080211",
+ "cancel_date": "20260316",
+ "status": "취하",
+ "main_item_ingr": "[M081683]푸마르산포르모테롤",
+ "main_item_ingr_eng": "Formoterol Fumarate",
+ "edi_code": "",
+ "atc_code": "R03CC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801623",
+ "revisions": [
+  {
+   "revision_id": "200801623-725d5ac0",
+   "content_sha256": "725d5ac0e5d0d0e560a7deb426b880f67f93b1209ec825d3fbe834fa092794b1",
+   "ee_text": "1. 주효능 효과 다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지 천식, 급·만성기관지염, 폐기종, 천식성기관지염",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:16Z",
+   "last_observed_at": "2026-09-08T08:42:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:16Z"
+}

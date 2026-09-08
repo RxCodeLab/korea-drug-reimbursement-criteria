@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206389",
+ "item_name": "한국바이오켐플루오로우라실주사500밀리그램(수출용)",
+ "entp_name": "한국바이오켐제약(주)",
+ "permit_date": "20120803",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040740]플루오로우라실",
+ "main_item_ingr_eng": "Fluorouracil",
+ "edi_code": "",
+ "atc_code": "L01BC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206389",
+ "revisions": [
+  {
+   "revision_id": "201206389-1961c752",
+   "content_sha256": "1961c752b9789462ed927e09a95a73fe1cf3a4c2e57f8eb6104728091a04b4fd",
+   "ee_text": "(주사제) 다음 질환의 자각적 및 타각적 증상의 완화 1. 암종 : 결장암, 직장암, 유방암, 위암, 간암, 췌장암, 난소암, 자궁암 2. 다음 질환에 대해서는 다른 항종양제 또는 방사선요법과 병용 : 식도암, 폐암, 악암, 설암 (크림제) 피부악성종양 : 유극세포암, 기저세포암, 보웬병(Bowen's disease), 파제트병(Paget's disease), 방사선각화종, 노인성 각화종",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:25Z",
+   "last_observed_at": "2026-09-08T08:45:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:25Z"
+}

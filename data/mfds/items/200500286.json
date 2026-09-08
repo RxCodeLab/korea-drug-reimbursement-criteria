@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500286",
+ "item_name": "모노맥스서방정50밀리그람(이소소르비드5모노니트레이트)(수출용)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20051031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M098218]이소소르비드5모노니트레이트몬탄글리콜왁스혼합물40%",
+ "main_item_ingr_eng": "Isosorbide-5-Mononitrate Montan Glycol Wax Mixture 40%",
+ "edi_code": "",
+ "atc_code": "C01DA14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500286",
+ "revisions": [
+  {
+   "revision_id": "200500286-64c2c99f",
+   "content_sha256": "64c2c99fbd2c61ed101e7993676384cfba344f29407a2544a5cca217d162348c",
+   "ee_text": "1. 관상동맥질환(협심증, 심근경색 등) 2. 울혈성심부전의 보조요법(강심배당체 또는 이뇨제와 병용)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:51Z",
+   "last_observed_at": "2026-09-08T08:38:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:51Z"
+}

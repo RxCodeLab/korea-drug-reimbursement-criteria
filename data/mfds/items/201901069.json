@@ -7,11 +7,12 @@
  "permit_date": "20190221",
  "cancel_date": "20240221",
  "status": "유효기간만료",
- "main_item_ingr": "[M223083]시메티콘|[M222888]클레보프리드말산염",
+ "main_item_ingr": "[M222888]클레보프리드말산염|[M223083]시메티콘",
  "main_item_ingr_eng": "Clebopride Malate/Simethicone",
  "edi_code": "",
  "atc_code": "A03FA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901069",
+ "history_fetched_at": "2026-08-28T13:25:04Z",
  "revisions": [
   {
    "revision_id": "201901069-90c8668c",
@@ -19,9 +20,9 @@
    "ee_text": "1) 공기연하증 및 고창에 수반하는 다음의 소화기능이상 : 고창성 소화불량, 신경성 위장장애, 과민성대장증후군 2) 엑스선 촬영시 장내 가스제거 3) 수술후 고창에 수반하는 소화기능이상",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:04Z",
-   "last_observed_at": "2026-08-28T13:25:04Z",
-   "official_revision_date": "2019-02-21"
+   "last_observed_at": "2026-09-08T08:54:20Z",
+   "official_revision_date": "2019-02-21",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:04Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005764",
+ "item_name": "신일클로로퀸인산염정(수출용)",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20200812",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279295]클로로퀸인산염",
+ "main_item_ingr_eng": "Chloroquine Phosphate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005764",
+ "revisions": [
+  {
+   "revision_id": "202005764-86e53893",
+   "content_sha256": "86e538938d6fe7c6e73bfe7430a52c855aa75a5d26c386615edb4f3ce8700445",
+   "ee_text": "말라리아(P. vivax, P. mailariae, P.ovale 및 감수성 P.falciparum)의 치료 및 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:20Z",
+   "last_observed_at": "2026-09-08T08:59:20Z",
+   "official_revision_date": "2020-08-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:20Z"
+}

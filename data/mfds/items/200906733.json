@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906733",
+ "item_name": "뉴브로딜주(부플로메딜염산염)(수출용)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20090907",
+ "cancel_date": "20240708",
+ "status": "취하",
+ "main_item_ingr": "[M096352]염산부플로메딜",
+ "main_item_ingr_eng": "Buflomedil Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C04AX20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906733",
+ "revisions": [
+  {
+   "revision_id": "200906733-cd0085c5",
+   "content_sha256": "cd0085c533d56111b0cd66a2f02d9c0d2df90586798202dc3d7bf807c399f6b5",
+   "ee_text": "다음 질환에 의한 말초순환장애 : 레이노병 및 레이노증후군, 간헐성파행, 폐색성혈전혈관염(버거병), 홍청색증, 맥관저의 경련",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:32Z",
+   "last_observed_at": "2026-09-08T08:43:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:32Z"
+}

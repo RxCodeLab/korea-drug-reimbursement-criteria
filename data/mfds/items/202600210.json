@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600210",
+ "item_name": "넴루비오프리필드펜(네몰리주맙)",
+ "entp_name": "갈더마코리아(주)",
+ "permit_date": "20260123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286101]네몰리주맙",
+ "main_item_ingr_eng": "Nemolizumab",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600210",
+ "revisions": [
+  {
+   "revision_id": "202600210-30b9f6f3",
+   "content_sha256": "30b9f6f3af2651df694fbcb6a3143140748a976761f4cc895615d1b564da24cd",
+   "ee_text": "1. 아토피 피부염 전신요법의 대상이 되는 12세 이상의 청소년 및 성인에서 국소 치료제로 적절히 조절되지 않거나 이들 치료제가 권장되지 않는 중등도에서 중증 아토피 피부염의 치료 2. 결절성 가려움 발진(양진) 전신요법의 대상이 되는 성인(18세 이상)에서 중등도에서 중증 결절성 가려움 발진(양진)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:41Z",
+   "last_observed_at": "2026-09-08T09:04:41Z",
+   "official_revision_date": "2026-01-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:41Z"
+}

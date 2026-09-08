@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400340",
+ "item_name": "쎄닐톤에이캡슐",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20240216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284528]호밀·큰조아재비·옥수수아세톤건조엑스(2.7∼7.5→1) ·말토덱스트린혼합물(1:2)|[M284529]호밀·큰조아재비·옥수수아세톤연조엑스(12∼28→1)",
+ "main_item_ingr_eng": "Secale Cereale (Rye)·Phleum Pratense·Corn Acetone Dried Extract (2.7∼7.5→1)·Maltodextrin Mixture (1:2)/Secale Cereale (Rye)·Phleum Pratense·Corn Acetone Soft Extract (12∼28→1)",
+ "edi_code": "",
+ "atc_code": "G04CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400340",
+ "revisions": [
+  {
+   "revision_id": "202400340-e51c7180",
+   "content_sha256": "e51c7180c4f05fc03b0041dbd322ee3c7097e80155129401078d2b052a4411ea",
+   "ee_text": "다음 질환의 증상 개선 : 만성 비세균성 전립선염, 양성 전립선 비대증에 의한 배뇨장애",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:43Z",
+   "last_observed_at": "2026-09-08T09:02:43Z",
+   "official_revision_date": "2024-02-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:43Z"
+}

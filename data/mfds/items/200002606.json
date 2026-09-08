@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002606",
+ "item_name": "영일염산프라조신정5밀리그램(염산프라조신)(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20000222",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M081961]염산프라조신",
+ "main_item_ingr_eng": "Prazosin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C02CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002606",
+ "revisions": [
+  {
+   "revision_id": "200002606-9fb1ad5f",
+   "content_sha256": "9fb1ad5fc078a336c7d3fe9e6f50482cd11fce04551d920f573d1d4f2b393770",
+   "ee_text": "1. 고혈압, 울혈성심부전, 레이노병 및 레이노증후군 2. 양성전립선비대에 의한 배뇨장애",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:59Z",
+   "last_observed_at": "2026-09-08T08:33:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:59Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004956",
+ "item_name": "쎄넥스캡슐400밀리그램(세레콕시브)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20200709",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089149]세레콕시브",
+ "main_item_ingr_eng": "Celecoxib",
+ "edi_code": "662504540",
+ "atc_code": "M01AH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004956",
+ "revisions": [
+  {
+   "revision_id": "202004956-d8eba3bd",
+   "content_sha256": "d8eba3bd2948ece8f198a81d2bc5f872b872f5a8150c4d5a070e6f1e87736734",
+   "ee_text": "1. 강직척추염의 증상 및 징후의 완화 2. 성인의 급성 통증 완화(수술후, 발치후 진통) 3. 원발월경통",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:14Z",
+   "last_observed_at": "2026-09-08T08:59:14Z",
+   "official_revision_date": "2020-07-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:14Z"
+}

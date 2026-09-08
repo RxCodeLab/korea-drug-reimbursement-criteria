@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101778",
+ "item_name": "아네톤정(카르보닐철)(수출명:아네툰정)",
+ "entp_name": "(주)셀릭스",
+ "permit_date": "20011025",
+ "cancel_date": "20250625",
+ "status": "취하",
+ "main_item_ingr": "[M089765]카르보닐철",
+ "main_item_ingr_eng": "Carbonyl Iron",
+ "edi_code": "",
+ "atc_code": "B03A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101778",
+ "revisions": [
+  {
+   "revision_id": "200101778-850b832a",
+   "content_sha256": "850b832af6a74585b7b14b9977404207dcc91ff32f4ff9c3a14d1750078cd797",
+   "ee_text": "철결핍성 빈혈의 예방 및 치료",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:17Z",
+   "last_observed_at": "2026-09-08T08:35:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:17Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804691",
+ "item_name": "케어시딜액",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20181127",
+ "cancel_date": "20231127",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M081480]미녹시딜|[M204304]피리독신염산염|[M223240]토코페롤아세테이트|[M230875]l-멘톨",
+ "main_item_ingr_eng": "L-Menthol/Minoxidil/Pyridoxine Hydrochloride/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "D11AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804691",
+ "revisions": [
+  {
+   "revision_id": "201804691-bbdac689",
+   "content_sha256": "bbdac689385fd504a529668820faaf6ccc53e4e4123cc0de299b4c2362535a69",
+   "ee_text": "남성형 탈모증(안드로젠탈모증)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:52Z",
+   "last_observed_at": "2026-09-08T08:53:52Z",
+   "official_revision_date": "2018-11-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:52Z"
+}

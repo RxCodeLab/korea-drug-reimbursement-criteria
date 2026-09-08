@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "M02AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501325",
+ "history_fetched_at": "2026-08-28T13:24:08Z",
  "revisions": [
   {
-   "revision_id": "200501325-ad264828",
-   "content_sha256": "ad264828c4e02c154bc2da604216cdf1363a22b7b67a287299fa28d0ec7b94b1",
-   "ee_text": "; 근육통, 관절염",
+   "revision_id": "200501325-5e1f57fd",
+   "content_sha256": "5e1f57fd93f2ee8ec11769adb9519eee4bb703a39b255ed2f5c92841fcad6411",
+   "ee_text": "다음 증상의 일시적인 통증 완화 ; 근육통, 관절염",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:24:08Z",
-   "last_observed_at": "2026-08-28T13:24:08Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:39:08Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:08Z"
+ ]
 }

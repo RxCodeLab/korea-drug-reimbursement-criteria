@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200103374",
+ "item_name": "트인비액",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20010516",
+ "cancel_date": "20250212",
+ "status": "취하",
+ "main_item_ingr": "[M051704]말레인산페니라민|[M259063]페니레프린염산염",
+ "main_item_ingr_eng": "Pheniramine Maleate/Phenylephrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200103374",
+ "revisions": [
+  {
+   "revision_id": "200103374-343df25d",
+   "content_sha256": "343df25defdb8eb4d3f40a03dbd5ea6b31b00a70f34453624e5ff8bc00a257ca",
+   "ee_text": "감기, 고초열, 부비강염, 상기도 알레르기에 의한 비충혈의 일시적 완화",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:37Z",
+   "last_observed_at": "2026-09-08T08:35:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:37Z"
+}

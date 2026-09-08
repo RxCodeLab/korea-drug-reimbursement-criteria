@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200704",
+ "item_name": "브리스턴프리필드주(슈가마덱스나트륨)",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20220214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255552]슈가마덱스나트륨",
+ "main_item_ingr_eng": "Sugammadex Sodium",
+ "edi_code": "",
+ "atc_code": "V03AB35",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200704",
+ "revisions": [
+  {
+   "revision_id": "202200704-0cb11415",
+   "content_sha256": "0cb11415c44cdd8663f981531ccb77fca8f54afc05fc7cc96981a7440f55a61e",
+   "ee_text": "2세 이상 환자에서 로쿠로늄 또는 베쿠로늄에 의해 유도된 신경근 차단의 역전",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:07Z",
+   "last_observed_at": "2026-09-08T09:01:07Z",
+   "official_revision_date": "2025-12-04"
+  },
+  {
+   "revision_id": "202200704-e848d9b5",
+   "content_sha256": "e848d9b5e895862dd5abf0bd166ec6c565408a84b711ecad5474c57ca581c32f",
+   "ee_text": "로쿠로늄 또는 베쿠로늄에 의해 유도된 신경근 차단의 역전",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-02-14",
+   "first_observed_at": "2026-09-08T09:01:07Z",
+   "last_observed_at": "2026-09-08T09:01:07Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:07Z"
+}

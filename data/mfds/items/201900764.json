@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900764",
+ "item_name": "맨질크림(우레아)",
+ "entp_name": "시믹씨엠오코리아주식회사",
+ "permit_date": "20190131",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089404]우레아",
+ "main_item_ingr_eng": "Urea",
+ "edi_code": "",
+ "atc_code": "D02AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900764",
+ "revisions": [
+  {
+   "revision_id": "201900764-5f8abced",
+   "content_sha256": "5f8abceddb0fd6e379dd5060886e3651146a3c571e9cd46791490b47d1437e66",
+   "ee_text": "진행성 지장각피증(주부습진의 건조형), 손ㆍ발바닥 각피증, 어린선(魚鱗蘚), 노인성 건피증, 모공성 태선, 아토피피부",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:11Z",
+   "last_observed_at": "2026-09-08T08:54:11Z",
+   "official_revision_date": "2019-01-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:11Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900029",
+ "item_name": "한풍치자엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19790731",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040564]치자",
+ "main_item_ingr_eng": "Gardenia Fruit",
+ "edi_code": "",
+ "atc_code": "A05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900029",
+ "revisions": [
+  {
+   "revision_id": "197900029-04f6a8b6",
+   "content_sha256": "04f6a8b689a82262f67a7c08644749344066f0f206abc0ee0d91a4a432372130",
+   "ee_text": "황달, 토혈, 비혈",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:32Z",
+   "last_observed_at": "2026-09-08T08:26:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:32Z"
+}

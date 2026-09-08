@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000034",
+ "item_name": "한풍온청음엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19800506",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M243933]온청음연조엑스",
+ "main_item_ingr_eng": "Oncheongeum Soft Extract",
+ "edi_code": "",
+ "atc_code": "G02CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000034",
+ "revisions": [
+  {
+   "revision_id": "198000034-72deac09",
+   "content_sha256": "72deac099d94c77a264db67caf57a83594f27913f784c6d3169016928a952af3",
+   "ee_text": "피부의 색과 윤기가 좋지 않고 상기(기혈이 머리 쪽으로 치밀어 오름)가 있는 사람의 다음 증상 : 월경불순, 월경곤란, 갱년기장애, 신경과민",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:37Z",
+   "last_observed_at": "2026-09-08T08:26:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:37Z"
+}

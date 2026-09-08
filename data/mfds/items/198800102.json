@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800102",
+ "item_name": "한풍지각엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M051351]지각",
+ "main_item_ingr_eng": "Aurantii Fructus Immaturus",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800102",
+ "revisions": [
+  {
+   "revision_id": "198800102-887de8b5",
+   "content_sha256": "887de8b5431c25ea370bd302f4e093e3d557f433c48487cb9fb62d52627d2a50",
+   "ee_text": "구역, 해소, 만성설사",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:32Z",
+   "last_observed_at": "2026-09-08T08:27:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:32Z"
+}

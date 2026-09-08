@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400424",
+ "item_name": "메타로신연고(무피로신)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20240229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083504]무피로신",
+ "main_item_ingr_eng": "Mupirocin",
+ "edi_code": "",
+ "atc_code": "D06AX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400424",
+ "revisions": [
+  {
+   "revision_id": "202400424-e76737ce",
+   "content_sha256": "e76737ce06c6acf01c132d04efc30512553e5583c089f9a535304b4c6be715b7",
+   "ee_text": "1. 유효균종 : 메치실린 내성균주를 포함한 황색포도상구균, 기타 포도상구균, 연쇄상구균과 같은 대부분의 피부감염증의 원인균, 대장균 및 인플루엔자균과 같은 그람음성균 2. 적응증 1) 농가진, 모낭염, 종기증, 감염성 습진과 같은 세균성 피부 감염증 2) 외상 및 화상에서의 세균성 피부 감염증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:46Z",
+   "last_observed_at": "2026-09-08T09:02:46Z",
+   "official_revision_date": "2024-02-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:46Z"
+}

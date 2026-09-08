@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199202640",
+ "item_name": "후시메드연고(퓨시드산나트륨)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "19920609",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243954]퓨시드산나트륨",
+ "main_item_ingr_eng": "Sodium Fusidate",
+ "edi_code": "",
+ "atc_code": "D06AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199202640",
+ "revisions": [
+  {
+   "revision_id": "199202640-8873e9bf",
+   "content_sha256": "8873e9bf9a380ff51f21deb10dfd1b52c13816a588f907d97c711cc12d9ec08d",
+   "ee_text": "1. 유효균종 포도구균, 연쇄구균, 코리네박테륨, 클로스트리듐 2. 적응증 농피증[고름피부증](농가진[고름딱지증], 감염성습진양 피부염, 심상성여드름(보통여드름), 모낭염, 종기 및 종기증, 화농[곪음]성 한선염, 농가진[고름딱지증]성 습진), 화상, 외상[상처], 봉합[꿰맴]창, 식피창[피부 이식 후 생긴 상처]에 의한 2차 감염",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:33Z",
+   "last_observed_at": "2026-09-08T08:28:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:33Z"
+}

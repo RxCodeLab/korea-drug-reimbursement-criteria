@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000214",
+ "item_name": "리놀에스트로키(플루르비프로펜)",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20200114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089049]플루르비프로펜|[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "R02AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000214",
+ "revisions": [
+  {
+   "revision_id": "202000214-9f12a2e1",
+   "content_sha256": "9f12a2e1c292dea16e229161cc947e8dbc9f4d66f4c646718d14da2a75c2bd69",
+   "ee_text": "인후염의 단기 증상 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:29Z",
+   "last_observed_at": "2026-09-08T08:57:29Z",
+   "official_revision_date": "2020-01-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:29Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706904",
+ "item_name": "테고캡슐20",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20170831",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051785]테가푸르|[M250313]기메라실|[M250314]오테라실칼륨",
+ "main_item_ingr_eng": "Gimeracil/Oteracil Potassium/Tegafur",
+ "edi_code": "649807210",
+ "atc_code": "L01BC53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706904",
+ "revisions": [
+  {
+   "revision_id": "201706904-ab188078",
+   "content_sha256": "ab1880789b284572f4a3fa71841754e1464d2e23ba69e725326eceba55e362b2",
+   "ee_text": "1)위암 진행성 및 전이성 또는 재발성 위암, 위암의 수술 후 보조화학요법 2)두경부암 진행성 또는 재발성 두경부암",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:18Z",
+   "last_observed_at": "2026-09-08T08:52:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:18Z"
+}

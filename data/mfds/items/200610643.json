@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200610643",
+ "item_name": "프로페스질서방정(디노프로스톤)",
+ "entp_name": "한국페링제약(주)",
+ "permit_date": "20060731",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089394]디노프로스톤",
+ "main_item_ingr_eng": "Dinoprostone",
+ "edi_code": "652500370",
+ "atc_code": "G02AD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200610643",
+ "revisions": [
+  {
+   "revision_id": "200610643-8a37d113",
+   "content_sha256": "8a37d113ccfc94c2d04834735a950cfa90218c4abd1c1f4435f998c440da4f9f",
+   "ee_text": "임신기간이 38주 이상인, 분만의 유도가 의학적 또는 산과적으로 지시된 환자에게 자궁경부숙화(cervical ripening)의 개시 및 지속을 목적으로 사용한다.",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:39Z",
+   "last_observed_at": "2026-09-08T08:40:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:39Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "B05CB01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100317",
+ "history_fetched_at": "2026-08-28T13:23:43Z",
  "revisions": [
   {
    "revision_id": "199100317-d554d367",
@@ -19,8 +20,9 @@
    "ee_text": "1) 피부, 창상면, 점막의 세정, 습포 2) 함수(양치질), 분무흡입제로서 점막세정, 객담배출 촉진 3) 의료용구의 세정",
    "ee_doc_id": "28",
    "first_observed_at": "2026-08-28T13:23:43Z",
-   "last_observed_at": "2026-08-28T13:23:43Z",
-   "official_revision_date": "2024-08-08"
+   "last_observed_at": "2026-09-08T08:28:08Z",
+   "official_revision_date": "2024-08-08",
+   "normalizer_version": 3
   },
   {
    "revision_id": "199100317-c135efc3",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:43Z",
    "last_observed_at": "2026-08-28T13:23:43Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:43Z"
+ ]
 }

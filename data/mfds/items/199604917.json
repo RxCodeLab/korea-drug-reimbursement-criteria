@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199604917",
+ "item_name": "이솝토카핀2%점안액(필로카르핀염산염)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "19960731",
+ "cancel_date": "20240930",
+ "status": "취하",
+ "main_item_ingr": "[M223342]필로카르핀염산염",
+ "main_item_ingr_eng": "Pilocarpine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S01EB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199604917",
+ "revisions": [
+  {
+   "revision_id": "199604917-f931f553",
+   "content_sha256": "f931f55365135f3225ea5e4f00b1a0302df89ab173ce9478913ba14f942aac9a",
+   "ee_text": "녹내장, 진단 또는 치료를 목적으로 하는 축동",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:32Z",
+   "last_observed_at": "2026-09-08T08:30:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:32Z"
+}

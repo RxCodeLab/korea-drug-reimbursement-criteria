@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410863",
+ "item_name": "레스피렌정 37.5밀리그람(지페프롤염산염)",
+ "entp_name": "한화제약(주)",
+ "permit_date": "20040909",
+ "cancel_date": "20231006",
+ "status": "취하",
+ "main_item_ingr": "[M254500]지페프롤염산염",
+ "main_item_ingr_eng": "Zipeprol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05DB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410863",
+ "revisions": [
+  {
+   "revision_id": "200410863-40d3a170",
+   "content_sha256": "40d3a17022bccccd18e69b2f6e83cc587bc6b6b783bdaeb75e9cab8daddbcd34",
+   "ee_text": "☆(정제)(시럽제) 급･만성기관지염의 기침 완화 ☆국내임상시험결과 추가제출",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:43Z",
+   "last_observed_at": "2026-09-08T08:38:43Z",
+   "official_revision_date": "2017-11-30"
+  },
+  {
+   "revision_id": "200410863-c135aff8",
+   "content_sha256": "c135aff89bd6ce96b6dc879dfb6f451f92bd3764883713e8911ab177d452dfb6",
+   "ee_text": "☆(정제) 기도감염, 폐의 급만성감염으로 인한 진해거담 ☆(시럽제) 진해·거담 : 급만성 호흡기질환으로 인한 기침의 완화와 거담 ☆국내임상시험결과 추가제출",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:38:43Z",
+   "last_observed_at": "2026-09-08T08:38:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:43Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199102714",
+ "item_name": "파우민주20밀리그램(테녹시캄)(수출용)",
+ "entp_name": "(주)유영제약",
+ "permit_date": "19911219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082086]테녹시캄",
+ "main_item_ingr_eng": "Tenoxicam",
+ "edi_code": "",
+ "atc_code": "M01AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199102714",
+ "revisions": [
+  {
+   "revision_id": "199102714-1bae46df",
+   "content_sha256": "1bae46df3dcf7e9ce39c14a609ce2f8a68c2d2813b0f69d3ae5d8828b7761e49",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 견관절주위염, 고관절주위염, 경견완증후군, 요통, 급성통풍, 수술후 . 외상후 염증 및 동통, 건염, 활액낭염",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:18Z",
+   "last_observed_at": "2026-09-08T08:28:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:18Z"
+}

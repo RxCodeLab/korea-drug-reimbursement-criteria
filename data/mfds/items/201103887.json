@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201103887",
+ "item_name": "유니트라주1그람(트라넥삼산)(수출용)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20110620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051614]트라넥삼산",
+ "main_item_ingr_eng": "Tranexamic Acid",
+ "edi_code": "",
+ "atc_code": "B02AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103887",
+ "revisions": [
+  {
+   "revision_id": "201103887-d3d663e9",
+   "content_sha256": "d3d663e9dae043d9d00b2e6a708c206e9e6fdf2a6489a02e82d3282ea8627ade",
+   "ee_text": "1. 전신적 섬유소용해항진과 관련있다고 생각되는 출혈 경향 (백혈병, 재생불량성 빈혈, 자반병, 암 등 및 수술 중ㆍ수술 후의 이상 출혈) 2. 국소적 섬유소용해항진과 관련있다고 생각되는 이상출혈 (폐출혈, 성기출혈, 신출혈, 전립선 수술 중ㆍ수술 후의 이상 출혈)",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:42Z",
+   "last_observed_at": "2026-09-08T08:44:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:42Z"
+}

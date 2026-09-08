@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204079",
+ "item_name": "아다셀프리필드시린지(성인용 흡착 디프테리아, 파상풍톡소이드 및 정제 백일해 혼합백신)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20221111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246674]디프테리아톡소이드(균주명:C.diphtheriae L34T1주)|[M246675]파상풍톡소이드(균주명: C.tetani Boston II 60주)|[M251558]백일해톡소이드(균주명: B. Pertussis 10536주)|[M251559]FHA(균주명: B. Pertussis 10536주)|[M251560]FIM 2+3(균주명: B. Pertussis 10536주)|[M251561]PRN(균주명: B. Pertussis 10536주)",
+ "main_item_ingr_eng": "B. Pertussis Filamentous Hemagglutinin (FHA) (Strain: 10536)/B. Pertussis Toxoid (Strain: 10536)/Diphtheria Toxoid (Strain: C.diphtheriae L34T1)/Fimbriae 2+3 (Strain: B. pertussis 10536)/PRN (Strain: B. Pertussis 10536)/Tetanus Toxoid (Strain: Boston II 60)",
+ "edi_code": "",
+ "atc_code": "J07AJ52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204079",
+ "revisions": [
+  {
+   "revision_id": "202204079-e0e066fe",
+   "content_sha256": "e0e066fe3d0ad95ba4f7469d99a8057b274627395bcd867b8f15faad0e3c88a3",
+   "ee_text": "10∼64세에서의 청소년 및 성인에서 디프테리아, 파상풍 및 백일해의 예방 임부의 임신3기 예방접종(maternal immunization)을 통한 영아 초기의 백일해에 대한 수동 면역",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:39Z",
+   "last_observed_at": "2026-09-08T09:01:39Z",
+   "official_revision_date": "2026-06-05"
+  },
+  {
+   "revision_id": "202204079-08c29041",
+   "content_sha256": "08c290413fdb59ae9b4bf9c207318ad8e2214f03ed3cece06ea4d148e4520439",
+   "ee_text": "디프테리아, 파상풍 및 백일해 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-11-11",
+   "first_observed_at": "2026-09-08T09:01:39Z",
+   "last_observed_at": "2026-09-08T09:01:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:39Z"
+}

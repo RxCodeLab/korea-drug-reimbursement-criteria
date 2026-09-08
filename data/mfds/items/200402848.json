@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402848",
+ "item_name": "로바이틴정(로바스타틴)",
+ "entp_name": "위더스제약(주)",
+ "permit_date": "20041012",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083392]로바스타틴",
+ "main_item_ingr_eng": "Lovastatin",
+ "edi_code": "",
+ "atc_code": "C10AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402848",
+ "revisions": [
+  {
+   "revision_id": "200402848-3a679d92",
+   "content_sha256": "3a679d92133e322c4de1ef52210a5e802c883a077daf9ce22df808c4f814517c",
+   "ee_text": "1. 원발성고지혈증 : 고콜레스테롤혈증(Ⅱa형), 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(Ⅱb형) 2. 고지혈증에 의한 관동맥심질환의 발병 위험성 감소",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:10Z",
+   "last_observed_at": "2026-09-08T08:38:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:10Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310842",
+ "item_name": "사일레노정3밀리그램(독세핀염산염)",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20131224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258572]독세핀염산염",
+ "main_item_ingr_eng": "Doxepin Hydrochloride",
+ "edi_code": "640006660",
+ "atc_code": "N05CM",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310842",
+ "revisions": [
+  {
+   "revision_id": "201310842-aa4f8998",
+   "content_sha256": "aa4f8998ff7f21562b85cc04c1d8394b18849cd7b0ed0809a713629bb0dfc860",
+   "ee_text": "수면유지가 어려운 불면증의 단기 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:39Z",
+   "last_observed_at": "2026-09-08T08:46:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:39Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200713454",
+ "item_name": "맥센정(수출용)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20071217",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M088824]예덕엑스|[M095314]염산피페타네이트",
+ "main_item_ingr_eng": "Mallotus Japonia Extract/Pipethanate Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A03ED",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713454",
+ "revisions": [
+  {
+   "revision_id": "200713454-1a786164",
+   "content_sha256": "1a786164b5673a91dee5dab5579ddc4b2781214de7a39241e73391974cbc4bdf",
+   "ee_text": "과민성대장증후군",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:06Z",
+   "last_observed_at": "2026-09-08T08:42:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:06Z"
+}

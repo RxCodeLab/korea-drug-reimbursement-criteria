@@ -12,6 +12,7 @@
  "edi_code": "641905940",
  "atc_code": "C09CA10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207542",
+ "history_fetched_at": "2026-08-28T13:24:29Z",
  "revisions": [
   {
    "revision_id": "201207542-8a1af7b0",
@@ -19,8 +20,9 @@
    "ee_text": "1. 본태성 고혈압 2. 고혈압의 치료요법으로서, 고혈압을 동반한 제2형 당뇨병성 만성 신장질환 환자의 단백뇨 감소",
    "ee_doc_id": "21",
    "first_observed_at": "2026-08-28T13:24:29Z",
-   "last_observed_at": "2026-08-28T13:24:29Z",
-   "official_revision_date": "2020-12-30"
+   "last_observed_at": "2026-09-08T08:45:34Z",
+   "official_revision_date": "2020-12-30",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201207542-8e3a4f0c",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:29Z",
    "last_observed_at": "2026-08-28T13:24:29Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:29Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404206",
+ "item_name": "로라젠정(로라타딘)",
+ "entp_name": "(주)셀릭스",
+ "permit_date": "20140912",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082724]로라타딘",
+ "main_item_ingr_eng": "Loratadine",
+ "edi_code": "646203720",
+ "atc_code": "R06AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404206",
+ "revisions": [
+  {
+   "revision_id": "201404206-2b5a62b0",
+   "content_sha256": "2b5a62b0fac5ea24edb85c06a7bb5e2ba183f43736ef6431ebce8af7cfe1fa06",
+   "ee_text": "알레르기성 비염(재채기, 코막힘, 가려움증, 눈의 작열감), 만성 특발성 두드러기",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:39Z",
+   "last_observed_at": "2026-09-08T08:47:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:39Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906394",
+ "item_name": "솔표위청수에이액",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20190910",
+ "cancel_date": "20240910",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M070030]건강틴크|[M082860]진피연조엑스|[M246203]DL-카르니틴염산염|[M270266]계피틴크",
+ "main_item_ingr_eng": "Cinnamon Bark Tincture/Citrus Unshiu Peel Soft Extract/DL-Carnitine Hydrochloride/Ginger Tincture",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906394",
+ "revisions": [
+  {
+   "revision_id": "201906394-5c988f87",
+   "content_sha256": "5c988f878a90ba2cd8594143f1c258e36afdc3787bbedc6931c7027eb76d1842",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:20Z",
+   "last_observed_at": "2026-09-08T08:56:20Z",
+   "official_revision_date": "2019-09-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:20Z"
+}

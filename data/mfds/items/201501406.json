@@ -12,15 +12,17 @@
  "edi_code": "656005810",
  "atc_code": "A05AA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501406",
+ "history_fetched_at": "2026-08-28T13:24:41Z",
  "revisions": [
   {
-   "revision_id": "201501406-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201501406-3a18958c",
+   "content_sha256": "3a18958cac883616245f3d154fdf7c6d1d74d4f68a5443784dc6364acbf33be1",
+   "ee_text": "1. 콜레스테롤 담석증 2. 원발 쓸개관 간경화증(Primary Biliary Cirrhosis: PBC)의 간기능 개선 3. 만성C형 간염 환자의 간기능 개선",
    "ee_doc_id": "16",
    "first_observed_at": "2026-08-28T13:24:41Z",
-   "last_observed_at": "2026-08-28T13:24:41Z",
-   "official_revision_date": "2025-06-20"
+   "last_observed_at": "2026-09-08T08:48:38Z",
+   "official_revision_date": "2025-06-20",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201501406-99328817",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:41Z",
    "last_observed_at": "2026-08-28T13:24:41Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:41Z"
+ ]
 }

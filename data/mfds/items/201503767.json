@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503767",
+ "item_name": "심브린자점안액",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20150610",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251494]브리모니딘타르타르산염|[M262199]브린졸라미드",
+ "main_item_ingr_eng": "Brimonidine Tartrate/Brinzolamide",
+ "edi_code": "653603161",
+ "atc_code": "S01EC54",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503767",
+ "revisions": [
+  {
+   "revision_id": "201503767-be8cc5d4",
+   "content_sha256": "be8cc5d454c5f9b8194fc00d8ccd7fc62d60a621db6ad4ff43882dd336100faa",
+   "ee_text": "단독요법으로 안압감소가 불충분한 경우, 고안압증 또는 개방각 녹내장 환자의 상승된 안내압 감소",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:11Z",
+   "last_observed_at": "2026-09-08T08:49:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:11Z"
+}

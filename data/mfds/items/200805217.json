@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805217",
+ "item_name": "판제딘주(세프라딘)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20080507",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251842]세프라딘·L-아르기닌",
+ "main_item_ingr_eng": "Cefradine·L-Arginine",
+ "edi_code": "647202021",
+ "atc_code": "J01DB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805217",
+ "revisions": [
+  {
+   "revision_id": "200805217-5112df4f",
+   "content_sha256": "5112df4fc84af042437f045ce184d38b22fa3f974f5a730096d588eea64d5086",
+   "ee_text": "○ 유효균종 포도구균, 폐렴연쇄구균, 인플루엔자균, 대장균, 프로테우스 미라빌리스, 클레브시엘라, 연쇄구균 ○ 적응증 - 대엽성 폐렴, 기관지염 - 방광염, 신우신염, 요도염, 전립선염 - 농양, 연조직염, 종기, 농가진 - 패혈증",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:29Z",
+   "last_observed_at": "2026-09-08T08:42:29Z",
+   "official_revision_date": "2022-10-06"
+  },
+  {
+   "revision_id": "200805217-b0a54fba",
+   "content_sha256": "b0a54fba064ca5425fe27301fcb5a5f69a7c7eef868fce103d12414f9d7b2755",
+   "ee_text": "○ 유효균종 포도구균, 폐렴연쇄구균, 인플루엔자균, 대장균, 프로테우스 미라빌리스, 클레브시엘라, 연쇄구균 ○ 적응증 - 편도염, 인두염, 대엽성 폐렴, 기관지염 - 방광염, 신우신염, 요도염, 전립선염 - 농양, 연조직염, 종기, 농가진 - 중이염 - 골감염증 - 패혈증",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:29Z",
+   "last_observed_at": "2026-09-08T08:42:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:29Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200004244",
+ "item_name": "페리시정(세인트존스워트50%에탄올건조엑스(4~6→1))",
+ "entp_name": "(주)서울제약",
+ "permit_date": "20000117",
+ "cancel_date": "20231001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M282063]세인트존스워트50%에탄올건조엑스(4~6→1)",
+ "main_item_ingr_eng": "St. John's Wort 50% Ethanol Dry Extract(4~6→1)",
+ "edi_code": "",
+ "atc_code": "N06AX25",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004244",
+ "revisions": [
+  {
+   "revision_id": "200004244-51ba9cd7",
+   "content_sha256": "51ba9cd727d2cfd16a59434a07a4fbc5858842e7467e95dd2a467f38f7244c2e",
+   "ee_text": "- 가볍고 일시적인 우울증상의 완화 - 긴장상태, 수면이상(잠들기 어려움과 자주깸)의 완화",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:14Z",
+   "last_observed_at": "2026-09-08T08:34:14Z",
+   "official_revision_date": "2020-03-03"
+  },
+  {
+   "revision_id": "200004244-018b3ea9",
+   "content_sha256": "018b3ea9697c133dd2479323ba7cbc710d9d82d7d570c33af2d62dd6f9d9e95e",
+   "ee_text": "- 가볍고 일시적인 우울증상의 완화 - 긴장상태, 수면이상(잠들기와 잠에서 깨어나기 어려움)의 완화",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:34:14Z",
+   "last_observed_at": "2026-09-08T08:34:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:14Z"
+}

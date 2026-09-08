@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309166",
+ "item_name": "오리지널릴리프점안액(테트라히드로졸린염산염)(수출용)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20130902",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223237]테트라히드로졸린염산염",
+ "main_item_ingr_eng": "Tetrahydrozoline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S01GA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309166",
+ "revisions": [
+  {
+   "revision_id": "201309166-8fc97f99",
+   "content_sha256": "8fc97f997ea9be0614efd3e5bebfa6e84458dc588c1d1e8c5e20abb50d709054",
+   "ee_text": "표재성 충혈(원인요법과 병용)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:19Z",
+   "last_observed_at": "2026-09-08T08:46:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:19Z"
+}

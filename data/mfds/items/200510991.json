@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200510991",
+ "item_name": "자이프렉사자이디스확산정10밀리그램(미세올란자핀)",
+ "entp_name": "한국릴리(유)",
+ "permit_date": "20051028",
+ "cancel_date": "20231001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M233301]미세올란자핀",
+ "main_item_ingr_eng": "Olanzapine Micronized",
+ "edi_code": "",
+ "atc_code": "N05AH03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200510991",
+ "revisions": [
+  {
+   "revision_id": "200510991-96506551",
+   "content_sha256": "96506551e53893c568044eec7ba35234fd8f5b97fb1830c2ecd0c23fcec68080",
+   "ee_text": "1. 정신분열병 2. 양극성장애 - 양극성장애 I형과 관련된 조증 및 혼재삽화의 치료 - 올란자핀 투여로 조증삽화에 반응을 보인 환자들에 있어서 양극성 장애의 재발방지 - 양극성장애 I형과 관련된 우울삽화의 급성 치료",
+   "ee_doc_id": "27",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:35Z",
+   "last_observed_at": "2026-09-08T08:39:35Z",
+   "official_revision_date": "2018-02-28"
+  },
+  {
+   "revision_id": "200510991-07e5d50c",
+   "content_sha256": "07e5d50c65dc448076c5920fda8f81a9b89ae5ece8a894b8d42387eff2b13a9e",
+   "ee_text": "1. 정신분열병 2. 양극성장애 - 양극성장애 1형과 관련된 조증 및 혼재삽화의 치료 - 올란자핀 투여로 조증삽화에 반응을 보인 환자들에 있어서 양극성 장애의 재발방지 - 양극성장애 I형과 관련된 우울삽화의 급성 치료",
+   "ee_doc_id": "26",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:39:35Z",
+   "last_observed_at": "2026-09-08T08:39:35Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:35Z"
+}

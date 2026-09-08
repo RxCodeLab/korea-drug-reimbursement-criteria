@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200905916",
+ "item_name": "이노베론필름코팅정200mg (루피나미드)",
+ "entp_name": "(주)한독",
+ "permit_date": "20090727",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258732]루피나미드",
+ "main_item_ingr_eng": "Rufinamide",
+ "edi_code": "652105320",
+ "atc_code": "N03AF03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905916",
+ "revisions": [
+  {
+   "revision_id": "200905916-517e6f14",
+   "content_sha256": "517e6f148d39db36cd8df8f39c07ee4966870e5d3036e4bba3ac64b1ac102e99",
+   "ee_text": "이 약은 1세 이상의 환자에서 레녹스-가스토 증후군과 관련된 발작 치료 시 부가요법으로 사용된다.",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:27Z",
+   "last_observed_at": "2026-09-08T08:43:27Z",
+   "official_revision_date": "2019-10-08"
+  },
+  {
+   "revision_id": "200905916-e3ed723c",
+   "content_sha256": "e3ed723c0460f890f337846523ac7b4f2e3924a4b14f7e724b5deaf47859b727",
+   "ee_text": "이 약은 4세 이상의 환자에서 레녹스-가스토 증후군과 관련된 간질 치료시 부가 요법으로 사용된다.",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:43:27Z",
+   "last_observed_at": "2026-09-08T08:43:27Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:27Z"
+}

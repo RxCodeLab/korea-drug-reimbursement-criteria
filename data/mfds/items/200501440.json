@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501440",
+ "item_name": "유니온히드록시우레아캡슐(수출용)(수출명:Uniroxy Cap. Gemini Hydroxyurea Cap.)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20050202",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085397]히드록시우레아",
+ "main_item_ingr_eng": "Hydroxyurea",
+ "edi_code": "",
+ "atc_code": "L01XX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501440",
+ "revisions": [
+  {
+   "revision_id": "200501440-5f975a27",
+   "content_sha256": "5f975a27afd7d0d719e42a012714627abfd48d082d753349ad8c3621911a24d0",
+   "ee_text": "*흑색증,내성이 있는 만성,골수성 백혈병,재발성,전이성 또는 수술이 불가능한 난소암. *방사선 요법과 병행하여 입술을 제외한 두부 및 경부의 유표피암의 국소치료.",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:09Z",
+   "last_observed_at": "2026-09-08T08:39:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:09Z"
+}

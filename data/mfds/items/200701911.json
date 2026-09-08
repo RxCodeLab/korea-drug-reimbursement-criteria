@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200701911",
+ "item_name": "아크렌겔(아다팔렌)",
+ "entp_name": "제이더블유신약(주)",
+ "permit_date": "20070208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089466]아다팔렌",
+ "main_item_ingr_eng": "Adapalene",
+ "edi_code": "",
+ "atc_code": "D10AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701911",
+ "revisions": [
+  {
+   "revision_id": "200701911-5f78d42c",
+   "content_sha256": "5f78d42cac1ca13c2cd1b1517b180b0af1cbc6bcd2e5c34f565fea6154a2a604",
+   "ee_text": "12세 이상의 면포, 구진, 농포가 나타나는 여드름의 국소치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:03Z",
+   "last_observed_at": "2026-09-08T08:41:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:03Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905706",
+ "item_name": "신신퍼메트린크림",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20190813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071543]퍼메트린",
+ "main_item_ingr_eng": "Permethrin",
+ "edi_code": "",
+ "atc_code": "P03AC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905706",
+ "revisions": [
+  {
+   "revision_id": "201905706-8d9d9605",
+   "content_sha256": "8d9d9605b8bc56758ae4e9ff7fed3d85bd80fb69b826ddcc41b42fb140bf8fbf",
+   "ee_text": "옴의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:05Z",
+   "last_observed_at": "2026-09-08T08:56:05Z",
+   "official_revision_date": "2019-08-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:05Z"
+}

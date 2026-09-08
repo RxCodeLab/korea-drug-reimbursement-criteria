@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401650",
+ "item_name": "센스킨크림",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20240705",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202582]D-판테놀|[M223353]히드로코르티손아세테이트",
+ "main_item_ingr_eng": "Dexpanthenol/Hydrocortisone Acetate",
+ "edi_code": "",
+ "atc_code": "D07XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401650",
+ "revisions": [
+  {
+   "revision_id": "202401650-49239b72",
+   "content_sha256": "49239b72fefac8267a8802887ec14000280c9e79da101da503e23ae66ef23e6a",
+   "ee_text": "알레르기성 비감염성 염증 또는 피부 자극 증상의 국소 치료: 벌레 물린 데, 가려움 및 일광 화상 후 피부 반응",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:08Z",
+   "last_observed_at": "2026-09-08T09:03:08Z",
+   "official_revision_date": "2024-07-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:08Z"
+}

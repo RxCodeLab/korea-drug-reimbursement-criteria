@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200900767",
+ "item_name": "스토마신캡슐",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20090121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279105]구풍해독탕건조엑스",
+ "main_item_ingr_eng": "Gupunghaedoktang Dried Extract",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900767",
+ "revisions": [
+  {
+   "revision_id": "200900767-a129e8ec",
+   "content_sha256": "a129e8ec55006f28cad1741011fb8a4ef449fe71f7ec63b0e13e0ac3824042e8",
+   "ee_text": "인후가 부어서 아픈 다음 증상 : 편도염, 편도주위염",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:03Z",
+   "last_observed_at": "2026-09-08T08:43:03Z",
+   "official_revision_date": "2010-04-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:03Z"
+}

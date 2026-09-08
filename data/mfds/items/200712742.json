@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200712742",
+ "item_name": "탬보코정(플레카이니드아세트산염)",
+ "entp_name": "제이더블유신약(주)",
+ "permit_date": "20071123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257171]플레카이니드아세트산염",
+ "main_item_ingr_eng": "Flecainide Acetate",
+ "edi_code": "644101040",
+ "atc_code": "C01BC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712742",
+ "revisions": [
+  {
+   "revision_id": "200712742-5e9576b6",
+   "content_sha256": "5e9576b64bba39f4a03897b1520dfe00939293381e5d5b16a8e00dd13ec878ab",
+   "ee_text": "1. 심실성부정빈맥, 심실성기외수축 2. 발작성심실성빈맥, WPW증후군 3. 다른 수단에 의해 회복된 정상리듬의 유지 4. 발작성심방세동",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:03Z",
+   "last_observed_at": "2026-09-08T08:42:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:03Z"
+}

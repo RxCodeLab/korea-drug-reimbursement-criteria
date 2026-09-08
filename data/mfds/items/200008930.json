@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008930",
+ "item_name": "뉴롤라이트",
+ "entp_name": "(주)부경에스엠",
+ "permit_date": "20000802",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091243]염산비시세이트",
+ "main_item_ingr_eng": "Bicisate Hydrochloride",
+ "edi_code": "662900010",
+ "atc_code": "V09AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008930",
+ "revisions": [
+  {
+   "revision_id": "200008930-28afa66b",
+   "content_sha256": "28afa66b2830abe560aaea43027f9d51968a255064d21ae267817aef9c197682",
+   "ee_text": "1. 진단용 방사성의약품인 비시세이트테크네튬(99mTc) 주사액의 조제용 2. 비시세이트테크네튬(99mTc)주사액의 효능ㆍ효과 : 국소뇌혈류 신티그래피",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:36Z",
+   "last_observed_at": "2026-09-08T08:34:36Z",
+   "official_revision_date": "2003-04-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:36Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501039",
+ "item_name": "메노클로정(시클로페닐)(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "19950926",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050879]시클로페닐",
+ "main_item_ingr_eng": "Cyclofenil",
+ "edi_code": "",
+ "atc_code": "G03GB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501039",
+ "revisions": [
+  {
+   "revision_id": "199501039-f38962d5",
+   "content_sha256": "f38962d5cdcd244e09c2e852fe3e1fa4d9d9e92e0c72f79fae625d01ae583c64",
+   "ee_text": "1. 갱년기장애 2. 제 1도 무월경, 무배란성 월경, 희발월경의 배란 유발",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:33Z",
+   "last_observed_at": "2026-09-08T08:29:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:33Z"
+}

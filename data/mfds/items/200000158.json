@@ -7,11 +7,12 @@
  "permit_date": "20000915",
  "cancel_date": "20230927",
  "status": "폐업",
- "main_item_ingr": "[M102072]백삼|[M040006]감초|[M040007]건강|[M040071]대추|[M040202]반하|[M040789]황금|[M040792]황련|[M050752]생강",
+ "main_item_ingr": "[M040006]감초|[M040007]건강|[M040071]대추|[M040202]반하|[M040789]황금|[M040792]황련|[M050752]생강|[M102072]백삼",
  "main_item_ingr_eng": "Coptis Rhizome/Ginger/Jujube/Licorice/Pinellia Tuber/Raw Ginger/Scutellaria Root/White Ginseng",
  "edi_code": "",
  "atc_code": "A16AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000158",
+ "history_fetched_at": "2026-08-28T13:23:53Z",
  "revisions": [
   {
    "revision_id": "200000158-c9d037cc",
@@ -19,9 +20,9 @@
    "ee_text": "명치가 답답한 감이 있고, 트림을 수반하는 다음 증상 : 속쓰림, 구역, 구토, 설사, 위장염, 구취",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:23:53Z",
-   "last_observed_at": "2026-08-28T13:23:53Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:33:29Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:53Z"
+ ]
 }

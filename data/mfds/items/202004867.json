@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004867",
+ "item_name": "돌체락원스산",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "20200703",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M103014]폴리에틸렌글리콜3350|[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Polyethylene Glycol 3350/Potassium Chloride/Sodium Bicarbonate/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "A06AD65",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004867",
+ "revisions": [
+  {
+   "revision_id": "202004867-c086e845",
+   "content_sha256": "c086e8454631c64a05c203a0c4e38c0cf6d92541ad285985f1f1e2edc3819a16",
+   "ee_text": "만성변비",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:13Z",
+   "last_observed_at": "2026-09-08T08:59:13Z",
+   "official_revision_date": "2020-07-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:13Z"
+}

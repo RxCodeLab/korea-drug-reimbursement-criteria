@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001782",
+ "item_name": "라넥사서방정500밀리그램(라놀라진)",
+ "entp_name": "한국메나리니(주)",
+ "permit_date": "20200316",
+ "cancel_date": "20260323",
+ "status": "취하",
+ "main_item_ingr": "[M278248]라놀라진",
+ "main_item_ingr_eng": "Ranolazine",
+ "edi_code": "",
+ "atc_code": "C01EB18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001782",
+ "revisions": [
+  {
+   "revision_id": "202001782-346d420c",
+   "content_sha256": "346d420cc8fa5bf54d2022ffad4354830eefd9b149bc082d06f2faaceb508e3e",
+   "ee_text": "1차 협심증 치료제(예: 베타 차단제 및/또는 칼슘 길항제)로 적절히 조절되지 않거나 내약성이 없는 안정형 협심증 환자의 증상적 치료를 위한 병용요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:04Z",
+   "last_observed_at": "2026-09-08T08:58:04Z",
+   "official_revision_date": "2020-03-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:04Z"
+}

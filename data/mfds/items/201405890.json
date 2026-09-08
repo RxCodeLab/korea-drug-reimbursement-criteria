@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405890",
+ "item_name": "트리니티화이트겔(과산화수소수35%)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20141215",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082366]과산화수소수35%",
+ "main_item_ingr_eng": "Hydrogen Peroxide Solution 35%",
+ "edi_code": "",
+ "atc_code": "V07AT",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405890",
+ "revisions": [
+  {
+   "revision_id": "201405890-3c4d5f50",
+   "content_sha256": "3c4d5f50645d0fbe67c4ff7b7928882494596123957478f4dd80e78bc04b24e0",
+   "ee_text": "치아미백",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:08Z",
+   "last_observed_at": "2026-09-08T08:48:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:08Z"
+}

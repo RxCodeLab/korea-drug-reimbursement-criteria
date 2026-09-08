@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403766",
+ "item_name": "테라크린액(글루타랄농축액)",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20140813",
+ "cancel_date": "20240813",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M258439]글루타랄농축액",
+ "main_item_ingr_eng": "Glutaral Concentrate Solution",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403766",
+ "revisions": [
+  {
+   "revision_id": "201403766-1cf8e9e1",
+   "content_sha256": "1cf8e9e19a1cc598398ed3ba85f4f058b1df9ee9cf75ade32eeb7f22dc1c9e10",
+   "ee_text": "의료 기구의 살균 소독 : 렌즈 부착의 장치류, 내시경류, 마취장비류, 인공호흡장치류, 메스, 카테-터 등의 외과수술용 기구, 산부인과, 비뇨기과용 기구, 치과용 기구 또는 보조 기구, 주사기, 체온기",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:30Z",
+   "last_observed_at": "2026-09-08T08:47:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:30Z"
+}

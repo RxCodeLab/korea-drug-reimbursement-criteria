@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001087",
+ "item_name": "후시딘겔(퓨시드산수화물)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20000407",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259971]퓨시드산수화물|[M259971]퓨시드산수화물",
+ "main_item_ingr_eng": "Fusidic Acid Hydrate",
+ "edi_code": "",
+ "atc_code": "D06AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001087",
+ "revisions": [
+  {
+   "revision_id": "200001087-4821db95",
+   "content_sha256": "4821db958bab4f1ef6ab92295f30683a82d7b738fb1a1f0cca16b14ef6e93bdf",
+   "ee_text": "(시럽제) ○ 유효균종 포도구균 ○ 적응증 - 골수염, 창상감염, 부스럼, 옹종 등 피부감염증 - 패혈증, 낭포성섬유종 - 심내막염 - 기관지 폐렴 (크림제)(겔제) ○ 유효균종 포도구균, 연쇄구균, 코리네박테륨, 클로스트리듐 ○ 적응증 - 농피증(농가진, 감염성습진양피부염, 심상성여드름(보통여드름), 모낭염, 종기 및 종기증, 화농성한선염, 농가진성습진), 화상ㆍ외상ㆍ봉합창ㆍ식피창에 의한 2차 감염",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:39Z",
+   "last_observed_at": "2026-09-08T08:33:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:39Z"
+}

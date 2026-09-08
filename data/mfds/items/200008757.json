@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008757",
+ "item_name": "싸이덱스오피에이액(오토프탈알데하이드)",
+ "entp_name": "에이에스피코리아(유)",
+ "permit_date": "20001204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091762]O-프탈알데하이드",
+ "main_item_ingr_eng": "o-Phthalaldehyde",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008757",
+ "revisions": [
+  {
+   "revision_id": "200008757-970431f8",
+   "content_sha256": "970431f8b55f75e171f3e6e0ed078535fceeb0db94dc809be0034562fb6b9ae0",
+   "ee_text": "의료기구 (내시경 등)의 살균소독",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:31Z",
+   "last_observed_at": "2026-09-08T08:34:31Z",
+   "official_revision_date": "2019-11-25"
+  },
+  {
+   "revision_id": "200008757-2a4c96f9",
+   "content_sha256": "2a4c96f9143af1be7446c7e4a0c91a96eb7ad99f379837ce2585fc731d3f77a3",
+   "ee_text": "의료기구의 화학적 멸균 또는 살균소독",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:34:31Z",
+   "last_observed_at": "2026-09-08T08:34:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:31Z"
+}

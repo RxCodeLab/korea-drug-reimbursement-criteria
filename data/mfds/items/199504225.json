@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199504225",
+ "item_name": "바리-엘백신(수두생바이러스백신)",
+ "entp_name": "보란파마",
+ "permit_date": "19950907",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246013]약독화수두생바이러스 (Oka 균주)",
+ "main_item_ingr_eng": "Live Attenuated Varicella Virus (Strain: OKA)",
+ "edi_code": "",
+ "atc_code": "J07BK01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199504225",
+ "revisions": [
+  {
+   "revision_id": "199504225-dde0cbbb",
+   "content_sha256": "dde0cbbb4b78328916ccd665f7cdd6fe17673f6a66d77d2d86b79a1af9280e02",
+   "ee_text": "수두의 예방",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:53Z",
+   "last_observed_at": "2026-09-08T08:29:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:53Z"
+}

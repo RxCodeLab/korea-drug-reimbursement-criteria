@@ -1,0 +1,58 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004999",
+ "item_name": "페라미플루주15밀리리터(페라미비르수화물)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20100813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250603]페라미비르수화물",
+ "main_item_ingr_eng": "Peramivir Hydrate",
+ "edi_code": "",
+ "atc_code": "J05AH03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004999",
+ "revisions": [
+  {
+   "revision_id": "201004999-81177b81",
+   "content_sha256": "81177b811173aaae0f1ace36a9dff8a3f685cff22fd87e0fee812bd6d86e8400",
+   "ee_text": "성인 및 6개월 이상 소아의 A형 또는 B형 인플루엔자 바이러스 감염증의 치료(인플루엔자 감염의 초기증상 발현 48시간 이내에 투여를 시작해야 한다.)",
+   "ee_doc_id": "30",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:11Z",
+   "last_observed_at": "2026-09-08T08:44:11Z",
+   "official_revision_date": "2021-11-03"
+  },
+  {
+   "revision_id": "201004999-83fa3230",
+   "content_sha256": "83fa3230d568beb893d321fbe53fbb08f2b14245ef5c11267eede923daac77bb",
+   "ee_text": "성인 및 2세 이상 소아의 A형 또는 B형 인플루엔자 바이러스 감염증의 치료(인플루엔자 감염의 초기증상 발현 48시간 이내에 투여를 시작해야 한다.)",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-08-29",
+   "first_observed_at": "2026-09-08T08:44:11Z",
+   "last_observed_at": "2026-09-08T08:44:11Z"
+  },
+  {
+   "revision_id": "201004999-e852eca0",
+   "content_sha256": "e852eca0f846cd2f35196b6d373c43da641ea704fbf9fc9069b58799a32fc9ec",
+   "ee_text": "성인 및 2세 이상 어린이 A형 또는 B형 인플루엔자 바이러스 감염증의 치료(인플루엔자 감염의 초기증상 발현 48시간 이내에 투여를 시작해야 한다.)",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-08-28",
+   "first_observed_at": "2026-09-08T08:44:11Z",
+   "last_observed_at": "2026-09-08T08:44:11Z"
+  },
+  {
+   "revision_id": "201004999-1bcbc19f",
+   "content_sha256": "1bcbc19f859cb313131ce83f9e85d2b89dff14b58cd23c8a32ebcbc6f038ac51",
+   "ee_text": "성인 A형 또는 B형 인플루엔자 바이러스 감염증의 치료(인플루엔자 감염의 초기증상 발현 48시간 이내에 투여를 시작해야 한다.)",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:11Z",
+   "last_observed_at": "2026-09-08T08:44:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:11Z"
+}

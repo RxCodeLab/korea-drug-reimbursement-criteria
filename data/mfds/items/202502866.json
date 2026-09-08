@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502866",
+ "item_name": "네프로클린액(과아세트산액1.96%)",
+ "entp_name": "(주)에이치피앤씨",
+ "permit_date": "20251105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285924]과아세트산액 1.96%",
+ "main_item_ingr_eng": "Peracetic Acid Solution 1.96%",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502866",
+ "revisions": [
+  {
+   "revision_id": "202502866-b7cbdec0",
+   "content_sha256": "b7cbdec0294ec9983c3ab3fe16f51cb50587088f3ab630a8fd30b5a7f9bbad34",
+   "ee_text": "혈액투석장치의 세척 및 멸균",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:23Z",
+   "last_observed_at": "2026-09-08T09:04:23Z",
+   "official_revision_date": "2025-11-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:23Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198200029",
+ "item_name": "한풍사역산엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19820318",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M088638]사역산연조엑스",
+ "main_item_ingr_eng": "Sayeogsan Soft Extract",
+ "edi_code": "",
+ "atc_code": "A03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200029",
+ "revisions": [
+  {
+   "revision_id": "198200029-4fe2ac8d",
+   "content_sha256": "4fe2ac8d74b52619fc28cfa2bbf714c04b940c763dc019c092a983b5d1e4805e",
+   "ee_text": "흉복부가 무겁고 괴로움이 있는 경우의 다음 증상 : 위염, 위통, 복통",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:46Z",
+   "last_observed_at": "2026-09-08T08:26:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:46Z"
+}

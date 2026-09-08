@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604521",
+ "item_name": "아르테정(애엽95%에탄올연조엑스(20→1))",
+ "entp_name": "아이큐어(주)",
+ "permit_date": "20160721",
+ "cancel_date": "20250625",
+ "status": "취하",
+ "main_item_ingr": "[M266999]애엽95%에탄올연조엑스(20→1)",
+ "main_item_ingr_eng": "Artemisiae Argyi Folium 95% Ethanol Soft Extract (20→1)",
+ "edi_code": "",
+ "atc_code": "A02X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604521",
+ "revisions": [
+  {
+   "revision_id": "201604521-9e98a017",
+   "content_sha256": "9e98a01761fe8d6034869303e9c6f15d73ca45ebd6809e87858739efe65d7aa8",
+   "ee_text": "1. 다음 질환의 위점막 병변(미란(짓무름), 출혈, 발적, 부종)의 개선: 급성위염, 만성위염 2. 비스테로이드소염진통제(NSAID) 투여로 인한 위염의 예방",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:03Z",
+   "last_observed_at": "2026-09-08T08:51:03Z",
+   "official_revision_date": "2021-11-22"
+  },
+  {
+   "revision_id": "201604521-26268f06",
+   "content_sha256": "26268f06c5e28cc955c7e75d9127fa86ab908d8f48e87b2a94657340d78a9def",
+   "ee_text": "1. 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선: 급성위염, 만성위염 2. 비스테로이드소염진통제(NSAID) 투여로 인한 위염의 예방",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:51:03Z",
+   "last_observed_at": "2026-09-08T08:51:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:03Z"
+}

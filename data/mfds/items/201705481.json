@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705481",
+ "item_name": "유리라세미주(푸로세미드)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20170710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040715]푸로세미드",
+ "main_item_ingr_eng": "Furosemide",
+ "edi_code": "645104451",
+ "atc_code": "C03CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705481",
+ "revisions": [
+  {
+   "revision_id": "201705481-11aa064d",
+   "content_sha256": "11aa064dca6ebcf693fe6f34a5a47316380b5fbfbce3e787308594d515045da1",
+   "ee_text": "고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 급성폐부종",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:04Z",
+   "last_observed_at": "2026-09-08T08:52:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:04Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004549",
+ "item_name": "휴온스부피바카인염산염주0.75%(수출용)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20200623",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256113]부피바카인염산염",
+ "main_item_ingr_eng": "Bupivacaine Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "N01BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004549",
+ "revisions": [
+  {
+   "revision_id": "202004549-ba1a5eee",
+   "content_sha256": "ba1a5eee11eaff452681a1e34ce8cb4aeb1722be2ab474fa67f2962353ed3d0c",
+   "ee_text": "지주막하 차단(척추마취)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:09Z",
+   "last_observed_at": "2026-09-08T08:59:09Z",
+   "official_revision_date": "2020-06-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:09Z"
+}

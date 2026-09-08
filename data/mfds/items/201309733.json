@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309733",
+ "item_name": "트로후레쉬스프레이(수용성아줄렌)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20131015",
+ "cancel_date": "20231015",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M095125]수용성아줄렌",
+ "main_item_ingr_eng": "Soluble Azulene",
+ "edi_code": "",
+ "atc_code": "A01AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309733",
+ "revisions": [
+  {
+   "revision_id": "201309733-5814fa6c",
+   "content_sha256": "5814fa6c08ee023384a63043ed4cead71740189b7be20775be8140f3589ccd89",
+   "ee_text": "목(인후)의 염증으로 인한 목의 통증, 목의 부종(부기), 목의 불쾌감, 목이 쉼, 구내염(입안염)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:26Z",
+   "last_observed_at": "2026-09-08T08:46:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:26Z"
+}

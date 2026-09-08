@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301532",
+ "item_name": "부설칸주(부설판)",
+ "entp_name": "파마사이언스코리아(주)",
+ "permit_date": "20230511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040226]부설판",
+ "main_item_ingr_eng": "Busulfan",
+ "edi_code": "627600261",
+ "atc_code": "L01AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301532",
+ "revisions": [
+  {
+   "revision_id": "202301532-8793ccc4",
+   "content_sha256": "8793ccc4d8e22d939f7a888a62b9cbb2b2063dafaa5383ffef19f4400f17a43e",
+   "ee_text": "다음 질환에 대하여 시클로포스파미드 와 병용하여 조혈모세포 이식시 전처치요법으로 사용한다 : 급성 백혈병, 만성 골수성 백혈병, 림프종, 골수 이형성증후군",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:03Z",
+   "last_observed_at": "2026-09-08T09:02:03Z",
+   "official_revision_date": "2023-05-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:03Z"
+}

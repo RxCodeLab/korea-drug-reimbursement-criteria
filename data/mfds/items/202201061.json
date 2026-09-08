@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A05BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201061",
+ "history_fetched_at": "2026-08-27T12:32:00Z",
  "revisions": [
   {
    "revision_id": "202201061-1daf28f4",
@@ -19,9 +20,9 @@
    "ee_text": "지속적으로 ALT가 상승되어 있는 만성간염",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:32:00Z",
-   "last_observed_at": "2026-08-27T12:32:00Z",
-   "official_revision_date": "2022-03-15"
+   "last_observed_at": "2026-09-08T09:01:11Z",
+   "official_revision_date": "2022-03-15",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:32:00Z"
+ ]
 }

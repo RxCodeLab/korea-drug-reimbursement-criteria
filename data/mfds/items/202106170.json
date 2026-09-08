@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106170",
+ "item_name": "케라힐-알로(바솔동종피부유래각질세포)",
+ "entp_name": "(주)바이오솔루션",
+ "permit_date": "20210825",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267554]바솔동종피부유래각질세포",
+ "main_item_ingr_eng": "Basol Allogeneic Skin Derived Keratinocyte",
+ "edi_code": "673300061",
+ "atc_code": "D03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106170",
+ "revisions": [
+  {
+   "revision_id": "202106170-323d5e19",
+   "content_sha256": "323d5e19da7d779849a2bdf68569ebcdbb624c88c5b00d782a619dfdabba4f70",
+   "ee_text": "심부 2도 화상의 재상피화 촉진",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:30Z",
+   "last_observed_at": "2026-09-08T09:00:30Z",
+   "official_revision_date": "2021-08-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:30Z"
+}

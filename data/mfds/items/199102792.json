@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199102792",
+ "item_name": "카데프엘릭서(디곡신)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "19911022",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040091]디곡신",
+ "main_item_ingr_eng": "Digoxin",
+ "edi_code": "645300911",
+ "atc_code": "C01AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199102792",
+ "revisions": [
+  {
+   "revision_id": "199102792-64faecf4",
+   "content_sha256": "64faecf4d507e656a28b60e199a928dabf9c2b6f3ae2a6771679135f3daf84a7",
+   "ee_text": "1. 울혈성심부전(폐부종, 심장천식 등 포함) : 판막질환, 고혈압, 허혈성심질환(심근경색, 협심증 등), 선천성심질환, 폐성심(폐혈전, 색전증, 폐기종, 폐섬유증)에 의한 것. 2. 심방세동·조동에 의한 빈맥, 발작성심방성빈맥 3. 기타 심질환(심막염, 심근질환 등), 갑상선기능항진증 및 저하증 4. 심부전 또는 각종 빈맥의 예방 및 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:19Z",
+   "last_observed_at": "2026-09-08T08:28:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:19Z"
+}

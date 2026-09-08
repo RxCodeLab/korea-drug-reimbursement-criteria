@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302142",
+ "item_name": "엔제이모주(수팀리맙)",
+ "entp_name": "(주)레코르다티코리아",
+ "permit_date": "20230712",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283921]수팀리맙",
+ "main_item_ingr_eng": "Sutimlimab",
+ "edi_code": "",
+ "atc_code": "L04AJ04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302142",
+ "revisions": [
+  {
+   "revision_id": "202302142-ede8cb93",
+   "content_sha256": "ede8cb9340feefdf15c6f275ad5d99234fee310d733e5dc57d7008c777e8e773",
+   "ee_text": "한랭응집소병(Cold Agglutinin Disease)이 있는 성인 환자의 용혈 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:13Z",
+   "last_observed_at": "2026-09-08T09:02:13Z",
+   "official_revision_date": "2023-07-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:13Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199702368",
+ "item_name": "하나도부타민염산염주사",
+ "entp_name": "하나제약(주)",
+ "permit_date": "19970226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222834]도부타민염산염",
+ "main_item_ingr_eng": "Dobutamine Hydrochloride",
+ "edi_code": "657802541",
+ "atc_code": "C01CA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702368",
+ "revisions": [
+  {
+   "revision_id": "199702368-e9afea11",
+   "content_sha256": "e9afea11e7c0100ebab3f5d7fd9ec0dcc2a2428c3f583b5fa67f047f7c8aa040",
+   "ee_text": "심장질환이나 심장수술로 인해 수축력이 저하된 심부전증의 단기 치료시 심박출력 증가",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:17Z",
+   "last_observed_at": "2026-09-08T08:31:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:17Z"
+}

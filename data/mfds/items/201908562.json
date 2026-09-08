@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908562",
+ "item_name": "시노타딘연질캡슐(로라타딘)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20191220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082724]로라타딘",
+ "main_item_ingr_eng": "Loratadine",
+ "edi_code": "",
+ "atc_code": "R06AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908562",
+ "revisions": [
+  {
+   "revision_id": "201908562-bd9897fd",
+   "content_sha256": "bd9897fd568971965f97cb3d485df5205673c30d073f6d8801b01e8ab18279bf",
+   "ee_text": "1. 알레르기성 비염 증상(재채기, 콧물, 가려움, 눈의 작열감)의 일시적인 완화 2. 만성 특발성 두드러기 증상 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:19Z",
+   "last_observed_at": "2026-09-08T08:57:19Z",
+   "official_revision_date": "2019-12-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:19Z"
+}

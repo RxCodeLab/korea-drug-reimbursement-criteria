@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200608046",
+ "item_name": "아젤리아크림(아젤라산(미분화))",
+ "entp_name": "레오파마(유)",
+ "permit_date": "20061124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284574]아젤라산(미분화)",
+ "main_item_ingr_eng": "Azelaic Acid Micronized",
+ "edi_code": "",
+ "atc_code": "D10AX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608046",
+ "revisions": [
+  {
+   "revision_id": "200608046-acdb17bd",
+   "content_sha256": "acdb17bd87a80739e792f02a68074312933eb1b5877b83d235996897fd07a885",
+   "ee_text": "심상성여드름(보통여드름)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:34Z",
+   "last_observed_at": "2026-09-08T08:40:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:34Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600159",
+ "item_name": "브롱코박솜캡슐(소아용)(동결건조균체용해물(표준화))",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20060310",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257060]동결건조균체용해물(표준화)",
+ "main_item_ingr_eng": "Standardized Lyophyllized of Bacterial Lysate",
+ "edi_code": "654000410",
+ "atc_code": "L03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600159",
+ "revisions": [
+  {
+   "revision_id": "200600159-5c8d9ab0",
+   "content_sha256": "5c8d9ab0fc24a27f3fa919ca7e753338e7c240410a0f75eee3051eb4aec90549",
+   "ee_text": "상·하기도 재발성 감염 특히 만성 호흡기 질환(기관지염,부비동염 등)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:46Z",
+   "last_observed_at": "2026-09-08T08:39:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:46Z"
+}

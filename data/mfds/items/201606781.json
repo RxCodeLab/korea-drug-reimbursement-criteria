@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606781",
+ "item_name": "텍타정40밀리그램(판토프라졸헤미마그네슘수화물)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20161125",
+ "cancel_date": "20260420",
+ "status": "취하",
+ "main_item_ingr": "[M265212]판토프라졸헤미마그네슘수화물",
+ "main_item_ingr_eng": "Pantoprazole Hemimagnesium Hydrate",
+ "edi_code": "696300370",
+ "atc_code": "A02BC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606781",
+ "revisions": [
+  {
+   "revision_id": "201606781-26b70de9",
+   "content_sha256": "26b70de9872024b023413c5cbf3ed990a2eca6c811ae869331627ccbaadd1161",
+   "ee_text": "- 헬리코박터필로리에 감염된 위·십이지장궤양의 재발 방지를 위한 항생제 병용요법 - 십이지장궤양 - 위궤양 - 중등도 ∼ 중증의 역류성 식도염 - 졸링거엘리슨증후군 및 기타 병리학적 위산 과분비 상태",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:20Z",
+   "last_observed_at": "2026-09-08T08:51:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:20Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200608197",
+ "item_name": "라리짐정(염화리소짐)(수출용)",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "20060801",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051110]염화리소짐",
+ "main_item_ingr_eng": "Lysozyme Chloride",
+ "edi_code": "",
+ "atc_code": "J05AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608197",
+ "revisions": [
+  {
+   "revision_id": "200608197-a64b0e0d",
+   "content_sha256": "a64b0e0d0a4000d27402f544092b1b0beff10b4d0471903856c666afdd8128db",
+   "ee_text": "1. 만성 부비동염의 염증성 부종의 완화 2. 다음 질환의 담객출 곤란 : 기관지염, 기관지 천식, 기관지 확장증 3. 소수술 중 또는 후의 출혈(치과, 비뇨기과영역)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:36Z",
+   "last_observed_at": "2026-09-08T08:40:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:36Z"
+}

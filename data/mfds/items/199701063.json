@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701063",
+ "item_name": "로도핀정25mg(죠테핀)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "19970926",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086840]죠테핀",
+ "main_item_ingr_eng": "Zotepine",
+ "edi_code": "642400240",
+ "atc_code": "N05AX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701063",
+ "revisions": [
+  {
+   "revision_id": "199701063-b825dd31",
+   "content_sha256": "b825dd317e318535a91354f762250625d37ac5f7be56ed7dc56c80edd1a96687",
+   "ee_text": "정신분열병",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:53Z",
+   "last_observed_at": "2026-09-08T08:30:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:53Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199906930",
+ "item_name": "페라세이프(과붕산나트륨)",
+ "entp_name": "(주)나노팜",
+ "permit_date": "19991001",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050045]과붕산나트륨",
+ "main_item_ingr_eng": "Sodium Perborate",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199906930",
+ "revisions": [
+  {
+   "revision_id": "199906930-a0fbf7b7",
+   "content_sha256": "a0fbf7b7b7540a0a182a07d376170faa23d98f108a539cbfb3e9023ec8987cb5",
+   "ee_text": "의료기구의 멸균 및 살균소독(열에 민감한 내시경 포함)",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:16Z",
+   "last_observed_at": "2026-09-08T08:33:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:16Z"
+}

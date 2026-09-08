@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "G04CA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000824",
+ "history_fetched_at": "2026-08-27T12:48:35Z",
  "revisions": [
   {
    "revision_id": "202000824-06a7ed95",
@@ -19,9 +20,9 @@
    "ee_text": "전립선 비대증에 의한 배뇨 장애",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:48:35Z",
-   "last_observed_at": "2026-08-27T12:48:35Z",
-   "official_revision_date": "2020-02-11"
+   "last_observed_at": "2026-09-08T08:57:45Z",
+   "official_revision_date": "2020-02-11",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:48:35Z"
+ ]
 }

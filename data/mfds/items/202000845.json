@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000845",
+ "item_name": "올람마우스워시가글액(벤지다민염산염)(수출용)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20200212",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222851]벤지다민염산염",
+ "main_item_ingr_eng": "Benzydamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000845",
+ "revisions": [
+  {
+   "revision_id": "202000845-fda0fc7e",
+   "content_sha256": "fda0fc7e5a1f84841d9ca32f8686e03f622d164dcb920a1ef3af6426d6f2eee1",
+   "ee_text": "다음 질환에 의한 염증의 완화 : 치은염, 구내염, 아구창, 발치 전/후, 인두염, 편도염, 방사선요법 또는 기타 신체적 이유로 인한 구강궤양",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:46Z",
+   "last_observed_at": "2026-09-08T08:57:46Z",
+   "official_revision_date": "2020-02-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:46Z"
+}

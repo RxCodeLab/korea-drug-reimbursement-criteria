@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400089",
+ "item_name": "이리노주(이리노테칸염산염)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "20240111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234818]이리노테칸염산염",
+ "main_item_ingr_eng": "Irinotecan Hydrochloride",
+ "edi_code": "",
+ "atc_code": "L01CE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400089",
+ "revisions": [
+  {
+   "revision_id": "202400089-7516a10a",
+   "content_sha256": "7516a10aea063f60f5a54596988b289dc79981ca36002810e7b7f2af5bab7351",
+   "ee_text": "1. 플루오로우라실 치료 후 재발성, 진행성인 전이성 직장암 또는 결장암 2. 선행요법 경험이 없는 진행성 직장암 또는 결장암 환자에 플루오로우라실 및 폴리네이트칼슘과 병용요법 3. 위암(수술불능 또는 재발) 4. 소세포폐암 5. 진행성 비소세포폐암",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:38Z",
+   "last_observed_at": "2026-09-08T09:02:38Z",
+   "official_revision_date": "2024-01-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:38Z"
+}

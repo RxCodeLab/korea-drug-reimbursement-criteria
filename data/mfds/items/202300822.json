@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300822",
+ "item_name": "파드셉주20밀리그램(엔포투맙베도틴)",
+ "entp_name": "한국아스텔라스제약(주)",
+ "permit_date": "20230310",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283599]엔포투맙베도틴",
+ "main_item_ingr_eng": "Enfortumab Vedotin",
+ "edi_code": "",
+ "atc_code": "L01FX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300822",
+ "revisions": [
+  {
+   "revision_id": "202300822-ee389698",
+   "content_sha256": "ee38969877f9627b7bcb396f322f1f69b24f85494106dba16193f28cc7a31a68",
+   "ee_text": "단독요법으로 이전에 PD-1 또는 PD-L1 억제제 및 백금기반 화학요법제의 치료 경험이 있는 국소진행성 또는 전이성 요로상피암 성인 환자의 치료 국소 진행성 또는 전이성 요로상피암 성인 환자의 1차 치료로서 펨브롤리주맙과의 병용요법 시스플라틴을 포함하는 항암화학요법이 불가능한 근육 침습성 방광암 환자의 치료로서 수술 전 보조요법(neoadjuvant) 및 근치적 방광절제술 이후 수술 후 보조요법(adjuvant)으로 펨브롤리주맙과의 병용요법",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:54Z",
+   "last_observed_at": "2026-09-08T09:01:54Z",
+   "official_revision_date": "2026-07-30"
+  },
+  {
+   "revision_id": "202300822-d47c7d48",
+   "content_sha256": "d47c7d48fad246f77d1c1c0fa5c1ee1f04890537850893ab796639f095ae2de4",
+   "ee_text": "국소 진행성 또는 전이성 요로상피암 성인 환자의 1차 치료로서 펨브롤리주맙과의 병용요법 단독요법으로 이전에 PD-1 또는 PD-L1 억제제 및 백금기반 화학요법제의 치료 경험이 있는 국소진행성 또는 전이성 요로상피암 성인 환자의 치료",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-07-25",
+   "first_observed_at": "2026-09-08T09:01:54Z",
+   "last_observed_at": "2026-09-08T09:01:54Z"
+  },
+  {
+   "revision_id": "202300822-98796641",
+   "content_sha256": "987966418ea9213c0e53fa6cf5701dcff61d0d9a3f7d067a2734ad911633739e",
+   "ee_text": "이전에 PD-1 또는 PD-L1 억제제 및 백금기반 화학요법제의 치료 경험이 있는 국소진행성 또는 전이성 요로상피암 성인 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-03-10",
+   "first_observed_at": "2026-09-08T09:01:54Z",
+   "last_observed_at": "2026-09-08T09:01:54Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:54Z"
+}

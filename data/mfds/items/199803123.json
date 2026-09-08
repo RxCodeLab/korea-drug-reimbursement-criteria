@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199803123",
+ "item_name": "구청껌정(수출용)",
+ "entp_name": "(주)새한제약",
+ "permit_date": "19980112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223322]플루오르화나트륨|[M230954]염화세칠피리디늄",
+ "main_item_ingr_eng": "Cetylpyridinium Chloride Hydrate/Sodium Fluoride",
+ "edi_code": "",
+ "atc_code": "A01AA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803123",
+ "revisions": [
+  {
+   "revision_id": "199803123-34ab43f9",
+   "content_sha256": "34ab43f9921119297237c72fec211eba39df330746740f290b844a9e263ea20e",
+   "ee_text": "목의 통증 완화, 감기로 인한 기침, 구강의 급.만성 감염증, 치육염, 치주염, 치석의 형성억제, 충치예방",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:11Z",
+   "last_observed_at": "2026-09-08T08:32:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:11Z"
+}

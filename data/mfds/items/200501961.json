@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501961",
+ "item_name": "올콘사이드액(글루타랄농축액)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20050120",
+ "cancel_date": "20250723",
+ "status": "취하",
+ "main_item_ingr": "[M258439]글루타랄농축액",
+ "main_item_ingr_eng": "Glutaral Concentrate Solution",
+ "edi_code": "",
+ "atc_code": "D11AF",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501961",
+ "revisions": [
+  {
+   "revision_id": "200501961-45215baa",
+   "content_sha256": "45215baaefa408786f88c86b23fc418c57090863cf81f7e5659c817774db938c",
+   "ee_text": "사마귀의 제거",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:15Z",
+   "last_observed_at": "2026-09-08T08:39:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:15Z"
+}

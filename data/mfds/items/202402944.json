@@ -7,21 +7,22 @@
  "permit_date": "20241212",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051564]탄산칼슘|[M040629]탄산마그네슘|[M256378]농축콜레칼시페롤 과립",
+ "main_item_ingr": "[M040629]탄산마그네슘|[M051564]탄산칼슘|[M256378]농축콜레칼시페롤 과립",
  "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Granules/Magnesium Carbonate",
  "edi_code": "",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402944",
+ "history_fetched_at": "2026-08-28T13:25:36Z",
  "revisions": [
   {
-   "revision_id": "202402944-df9a5de7",
-   "content_sha256": "df9a5de771c40b9e4646f22625b0e51c90fc13f98c7581737849a565f9f53300",
-   "ee_text": "- 임신·수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다 · 비타민D(농축콜레칼시페롤과립) · 뼈, 이의 발육불량 · 구루병의 예방",
+   "revision_id": "202402944-2c70cb7d",
+   "content_sha256": "2c70cb7d32f02517a4bfa73a97344997b3ec56b199a9733e26fa715fba102a25",
+   "ee_text": "O 다음 경우의 비타민 D의 보급 - 임신·수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다 · 비타민D(농축콜레칼시페롤과립) · 뼈, 이의 발육불량 · 구루병의 예방 O 칼슘 결핍 및 기타 칼슘 보급",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:36Z",
-   "last_observed_at": "2026-08-28T13:25:36Z",
-   "official_revision_date": "2024-12-12"
+   "last_observed_at": "2026-09-08T09:03:32Z",
+   "official_revision_date": "2024-12-12",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:36Z"
+ ]
 }

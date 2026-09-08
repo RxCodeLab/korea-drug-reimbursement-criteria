@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903837",
+ "item_name": "감마덱스액(차아염소산나트륨0.14%)",
+ "entp_name": "주식회사다나제약",
+ "permit_date": "20190612",
+ "cancel_date": "20240520",
+ "status": "폐업",
+ "main_item_ingr": "[M265755]차아염소산나트륨0.14%액",
+ "main_item_ingr_eng": "Sodium Hypochlorite Solution 0.14%",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903837",
+ "revisions": [
+  {
+   "revision_id": "201903837-12241ae8",
+   "content_sha256": "12241ae8efa55cee4e6ebd02f155ab12b7d0f9c6fc38da3e7b4bcd1f81be9cd0",
+   "ee_text": "의료기구의 화학적 멸균 및 살균소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:33Z",
+   "last_observed_at": "2026-09-08T08:55:33Z",
+   "official_revision_date": "2019-06-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:33Z"
+}

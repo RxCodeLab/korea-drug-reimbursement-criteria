@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701653",
+ "item_name": "위드캡슐(테프레논)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19970711",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082473]테프레논",
+ "main_item_ingr_eng": "Teprenone",
+ "edi_code": "647801890",
+ "atc_code": "A02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701653",
+ "revisions": [
+  {
+   "revision_id": "199701653-f9361bca",
+   "content_sha256": "f9361bca8c0462c652d1d9b7d02d839aab2d8b37af19fe5d1e038f1d6acafa78",
+   "ee_text": "1. 주효능 효과 위궤양, 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:06Z",
+   "last_observed_at": "2026-09-08T08:31:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:06Z"
+}

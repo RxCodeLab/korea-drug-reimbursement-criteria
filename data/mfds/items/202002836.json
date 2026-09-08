@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002836",
+ "item_name": "헥시딘와입스2%(클로르헥시딘글루콘산염)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20200422",
+ "cancel_date": "20250422",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "",
+ "atc_code": "D08AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002836",
+ "revisions": [
+  {
+   "revision_id": "202002836-8d6cf31f",
+   "content_sha256": "8d6cf31f1644008cb8b44e2a2a5fac051e5601c28a3a8be85f418e1f25d45cb7",
+   "ee_text": "보건위생종사자의 손 소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:28Z",
+   "last_observed_at": "2026-09-08T08:58:28Z",
+   "official_revision_date": "2020-04-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:28Z"
+}

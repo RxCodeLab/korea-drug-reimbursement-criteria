@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303178",
+ "item_name": "후루손점안액(플루오로메톨론)(수출용)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20231121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051832]플루오로메톨론",
+ "main_item_ingr_eng": "Fluorometholone",
+ "edi_code": "",
+ "atc_code": "S01BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303178",
+ "revisions": [
+  {
+   "revision_id": "202303178-923c6312",
+   "content_sha256": "923c63126fdb497e406a6ff16074399289d2e73dbc2d9f2f17ae940f8c3217e8",
+   "ee_text": "외안부 및 전안부의 염증성 질환(안검염, 결막염, 각막염, 공막염, 상공막염, 홍채염, 홍채모양체염, 포도막염, 수술후 염증 등)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:32Z",
+   "last_observed_at": "2026-09-08T09:02:32Z",
+   "official_revision_date": "2023-11-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:32Z"
+}

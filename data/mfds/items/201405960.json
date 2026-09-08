@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405960",
+ "item_name": "뉴라체크주사(18F 플로르베타벤)",
+ "entp_name": "(주)카이바이오텍",
+ "permit_date": "20141219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261260]플로르베타벤(18F)",
+ "main_item_ingr_eng": "Florbetaben(18F)",
+ "edi_code": "",
+ "atc_code": "V09AX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405960",
+ "revisions": [
+  {
+   "revision_id": "201405960-3e79dbab",
+   "content_sha256": "3e79dbab25dfde0ce0ac1cc0c4b1823a9f23a95f52226481fa7ed01775803027",
+   "ee_text": "다음 경우의 양전자방출단층촬영(Positron emission tomography, PET)에 사용한다. 알츠하이머병(Alzheimer's disease)과 인지장애의 기타 원인을 평가해야하는 성인 인지장애 환자에서 뇌의 베타 아밀로이드 신경반 밀도(β-amyloid neuritic plaque density)의 방사성 양전자 단층촬영(PET) 영상 확인 이 약은 임상학적인 평가와 같이 사용해야 한다. 음성스캔(negative scan)은 베타 아밀로이드 신경반이 희박하거나 없다는 것을 나타내며 알츠하이머병의 신경병리학적 진단과 일치하지는 않는다. 음성스캔은 인지장애가 알츠하이머병에 기인할 가능성을 감소시킨다. 양성스캔(positive scan)은 베타 아밀로이드 신경반의 밀도가 중등도 이상임을 나타낸다. 신경병리학적 검사에서 알츠하이머병 환자에서 베타 아밀로이드 신경반의 밀도가 유사한 양을 보였으나 베타 아밀로이드 신경반은 정상 인지능력을 가진 고령자 뿐만 아니라 다른 유형의 신경성 장애 환자에서도 존재할 수 있으므로 이 약에 의한 검사는 다른 진단검사의 보조적으로 사용되어야 한다. 사용제한 아밀로이드 신경반은 회백질 내의 신경반 축적이 증상 없는 노인과 신경퇴행성치매 (알츠하이머병, 루이소체성 치매, 파킨슨병 치매) 환자에서도 존재할 수 있으므로 양성스캔만으로 알츠하이머병 또는 다른 인지장애를 독립적으로 진단할 수 없다. 알츠하이머병의 발전을 예측하거나 치료에 대한 반응을 모니터링하기 위한 효능은 확립되어 있지 않다.",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:09Z",
+   "last_observed_at": "2026-09-08T08:48:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:09Z"
+}

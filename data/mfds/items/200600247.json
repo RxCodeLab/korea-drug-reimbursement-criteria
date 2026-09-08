@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:23:36Z",
  "revisions": [
   {
-   "revision_id": "200600247-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200600247-b4093235",
+   "content_sha256": "b409323562e1f5c804d0035e5db2c07697710859f085e20e6f80773370d7a1dc",
+   "ee_text": "1. 전조증상을 수반하거나 수반하지 않는 편두통의 조속한 완화 2. 여성의 생리주기와 관련한 편두통의 조속한 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200600247/EE",
    "first_observed_at": "2026-08-27T12:23:36Z",
-   "last_observed_at": "2026-08-28T13:24:09Z"
+   "last_observed_at": "2026-09-08T08:39:47Z",
+   "normalizer_version": 3
   }
  ]
 }

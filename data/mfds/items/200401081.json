@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401081",
+ "item_name": "엘카라틴정(염산아세틸엘카르니틴)(수출용)",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20040823",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M212193]염산아세틸-L-카르니틴",
+ "main_item_ingr_eng": "Acetyl-L-Carnitine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N06BX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401081",
+ "revisions": [
+  {
+   "revision_id": "200401081-51a9898c",
+   "content_sha256": "51a9898c4cd84a46950c7b7a51c477076a2bbd4d56e8f399d01bd3cfee377aa5",
+   "ee_text": "일차적 퇴행성 질환 뇌혈관 질환에 의한 이차적 퇴행성 질환",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:43Z",
+   "last_observed_at": "2026-09-08T08:37:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:43Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402510",
+ "item_name": "티어솝프리점안액(1회용)",
+ "entp_name": "(주)옵투스제약",
+ "permit_date": "20140603",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244311]도르졸라미드염산염|[M256384]티몰롤말레산염",
+ "main_item_ingr_eng": "Dorzolamide Hydrochloride/Timolol Maleate",
+ "edi_code": "674100831",
+ "atc_code": "S01ED51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402510",
+ "revisions": [
+  {
+   "revision_id": "201402510-670d942f",
+   "content_sha256": "670d942f0647ed52eea48c6091bb32ab2371dd4d4bd8538686aea645b72a5c8c",
+   "ee_text": "개방각 녹내장 환자 또는 베타차단제에 불충분하게 반응하는 고안압 환자의 증가된 안압 감소.",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201402510/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:06Z",
+   "last_observed_at": "2026-09-08T08:47:06Z"
+  },
+  {
+   "revision_id": "201402510-306833aa",
+   "content_sha256": "306833aa16a079ac9bb56f90d05882128267c3e7e8d4051b61676137a2432ff3",
+   "ee_text": "(점안제) 개방각 녹내장 환자 또는 베타차단제에 불충분하게 반응하는 고안압 환자의 증가된 안압 감소.",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:47:06Z",
+   "last_observed_at": "2026-09-08T08:47:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:06Z"
+}

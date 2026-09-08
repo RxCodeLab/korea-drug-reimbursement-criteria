@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008737",
+ "item_name": "류케란정(클로람부실)",
+ "entp_name": "에이징생명과학(주)",
+ "permit_date": "20000818",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040609]클로람부실",
+ "main_item_ingr_eng": "Chlorambucil",
+ "edi_code": "",
+ "atc_code": "L01AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008737",
+ "revisions": [
+  {
+   "revision_id": "200008737-de697a45",
+   "content_sha256": "de697a45a95b218fc40d6c5da58543200a3d5ffb52b5dc0e22583dc2780b7cb4",
+   "ee_text": "1. 호지킨병 2. 특이형의 비호지킨림프종 3. 만성림프모구백혈병 4. Waldenstrom´s 거대글로불린혈증",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:30Z",
+   "last_observed_at": "2026-09-08T08:34:30Z",
+   "official_revision_date": "2023-01-30"
+  },
+  {
+   "revision_id": "200008737-8a1d2c27",
+   "content_sha256": "8a1d2c278972ef23705617cc0c61e0f22148753b910b457407b8f987bfbeb4c0",
+   "ee_text": "1. 호지킨병 2. 특이형의 비호지킨림프종 3. 만성림프모구백혈병 4. Waldenstrom´s 거대글로불린혈증 5. 진행성난소암 6. 유방암",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:34:30Z",
+   "last_observed_at": "2026-09-08T08:34:30Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:30Z"
+}

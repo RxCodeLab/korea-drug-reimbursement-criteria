@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403141",
+ "item_name": "리마큐정(리마프로스트알파덱스)",
+ "entp_name": "(주)화이트생명과학",
+ "permit_date": "20140714",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M214404]리마프로스트알파덱스",
+ "main_item_ingr_eng": "Limaprost Alfadex",
+ "edi_code": "625200490",
+ "atc_code": "B01AC28",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403141",
+ "revisions": [
+  {
+   "revision_id": "201403141-77d18453",
+   "content_sha256": "77d1845349b1218c961f980792ed033df5b145dce389eb0f0ad024d58705379e",
+   "ee_text": "1. 폐색성혈전혈관염(버거병)에 의한 궤양, 동통, 냉감 등의 허혈성 증상의 개선 2. 후천성 요부척추관협착증(SLR시험에서 정상이고, 양측성의 간헐파행을 보이는 환자)에 의한 자각증상(하지동통, 하지저림) 및 보행능력의 개선",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:19Z",
+   "last_observed_at": "2026-09-08T08:47:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:19Z"
+}

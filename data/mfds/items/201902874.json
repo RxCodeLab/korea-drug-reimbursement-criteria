@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902874",
+ "item_name": "마이녹스액5%(미녹시딜)(수출용)",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20190503",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081480]미녹시딜",
+ "main_item_ingr_eng": "Minoxidil",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902874",
+ "revisions": [
+  {
+   "revision_id": "201902874-873bf89c",
+   "content_sha256": "873bf89ceda6ffb9ab1b8b354c1d96a344339187a6ee2a3114a42ff02c60b486",
+   "ee_text": "(겔제)(액제) · 남성형 탈모증(안드로젠탈모증) 및 여성형 탈모증(안드로젠탈모증)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:04Z",
+   "last_observed_at": "2026-09-08T08:55:04Z",
+   "official_revision_date": "2019-05-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:04Z"
+}

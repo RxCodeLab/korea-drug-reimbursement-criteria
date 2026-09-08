@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201200246",
+ "item_name": "자론티연질캡슐(에토숙시미드)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20120110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223146]에토숙시미드",
+ "main_item_ingr_eng": "Ethosuximide",
+ "edi_code": "661904040",
+ "atc_code": "N03AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200246",
+ "revisions": [
+  {
+   "revision_id": "201200246-6aaccd14",
+   "content_sha256": "6aaccd14e43e7238641ab5dd18eee4ebd578e7c95b6a23c9e7dabb3a5bf8b846",
+   "ee_text": "결신발작(소발작)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:08Z",
+   "last_observed_at": "2026-09-08T08:45:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:08Z"
+}

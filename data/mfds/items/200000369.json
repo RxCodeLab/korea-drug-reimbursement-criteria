@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000369",
+ "item_name": "에파리드연질캅셀(에이코사펜타엔산에칠E)(수출용)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20001213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092495]에이코사펜타엔산에칠E",
+ "main_item_ingr_eng": "Ethyl Eicosapentaenoic Acid",
+ "edi_code": "",
+ "atc_code": "C10AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000369",
+ "revisions": [
+  {
+   "revision_id": "200000369-9b36f51a",
+   "content_sha256": "9b36f51ac6b6383fa9127a6ba4c41872328e21ff9c0dcdbf7d415b50c33e4662",
+   "ee_text": "① 폐색성 동맥경화증을 수반하는 궤양, 동통 및 냉감의 개선 ② 고지혈증",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:31Z",
+   "last_observed_at": "2026-09-08T08:33:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:31Z"
+}

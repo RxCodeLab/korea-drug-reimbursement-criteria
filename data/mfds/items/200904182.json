@@ -7,11 +7,12 @@
  "permit_date": "20090616",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M222991]레티놀팔미테이트|[M245627]농축콜레칼시페롤유|[M223262]티아민질산염|[M040133]리보플라빈|[M096429]시아노코발라민|[M258994]아스코르브산",
+ "main_item_ingr": "[M040133]리보플라빈|[M096429]시아노코발라민|[M222991]레티놀팔미테이트|[M223262]티아민질산염|[M245627]농축콜레칼시페롤유|[M258994]아스코르브산",
  "main_item_ingr_eng": "Ascorbic Acid/Cholecalciferol Concentrate Oil/Cyanocobalamin/Retinol Palmitate/Riboflavin/Thiamine Nitrate",
  "edi_code": "",
  "atc_code": "A11BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904182",
+ "history_fetched_at": "2026-08-28T13:24:21Z",
  "revisions": [
   {
    "revision_id": "200904182-8bcd49aa",
@@ -19,8 +20,9 @@
    "ee_text": "1. 다음의 경우 비타민 A, D, B1, B2, C 의 보급 - 육체피로 - 임신 . 수유기 - 병중 . 병후(병을 앓는 동안이나 회복 후)의 체력 저하 시 - 발육기 - 노년기 2. 이 약에 함유된 비타민 등의 효능 ㆍ 효과는 다음과 같다 - 눈의 건조감 완화, 야맹증(밤에 잘 못 보는 증상) - 뼈. 이의 발육불량, 구루병의 예방 - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등), 각기, 눈의피로, 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
    "ee_doc_id": "18",
    "first_observed_at": "2026-08-28T13:24:21Z",
-   "last_observed_at": "2026-08-28T13:24:21Z",
-   "official_revision_date": "2021-06-23"
+   "last_observed_at": "2026-09-08T08:43:19Z",
+   "official_revision_date": "2021-06-23",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200904182-377944e1",
@@ -40,6 +42,5 @@
    "first_observed_at": "2026-08-28T13:24:21Z",
    "last_observed_at": "2026-08-28T13:24:21Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:21Z"
+ ]
 }

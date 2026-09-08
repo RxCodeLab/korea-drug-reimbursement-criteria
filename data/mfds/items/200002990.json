@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "D07CC01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002990",
+ "history_fetched_at": "2026-08-28T13:23:55Z",
  "revisions": [
   {
    "revision_id": "200002990-a198eece",
@@ -19,7 +20,8 @@
    "ee_text": "- 2차 감염된 알레르기성 또는 염증성 피부질환 : 습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염, 가려움, 건선(마른비늘증) - 1도 화상",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200002990/EE",
    "first_observed_at": "2026-08-28T13:23:55Z",
-   "last_observed_at": "2026-08-28T13:23:55Z"
+   "last_observed_at": "2026-09-08T08:34:04Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200002990-d6996968",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:55Z",
    "last_observed_at": "2026-08-28T13:23:55Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:55Z"
+ ]
 }

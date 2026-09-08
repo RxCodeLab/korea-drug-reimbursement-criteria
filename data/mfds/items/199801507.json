@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801507",
+ "item_name": "삼진피록시캄겔",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19981204",
+ "cancel_date": "20250117",
+ "status": "취하",
+ "main_item_ingr": "[M071634]피록시캄",
+ "main_item_ingr_eng": "Piroxicam",
+ "edi_code": "",
+ "atc_code": "M02AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801507",
+ "revisions": [
+  {
+   "revision_id": "199801507-7ad06fe0",
+   "content_sha256": "7ad06fe06f456353d05bcaea9f3b678d3274eee5e932d855979d4b872302d81e",
+   "ee_text": "다음 질환 및 증상의 진통·소염 (항염): 퇴행성관절염(골(뼈)관절염), 어깨관절주위염, 건(힘줄)·건초염(힘줄윤활막염), 건(힘줄)주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통(근(근육)염, 근(근육)막염 등), 외상(상처)후의 종창(부기)·동통(통증)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:53Z",
+   "last_observed_at": "2026-09-08T08:31:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:53Z"
+}

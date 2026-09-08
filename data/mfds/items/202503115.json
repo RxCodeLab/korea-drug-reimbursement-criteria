@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503115",
+ "item_name": "네오나트륨주(아세트산나트륨)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20251128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086694]아세트산나트륨",
+ "main_item_ingr_eng": "Sodium Acetate",
+ "edi_code": "",
+ "atc_code": "B05XA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503115",
+ "revisions": [
+  {
+   "revision_id": "202503115-baf7d16a",
+   "content_sha256": "baf7d16aa13d6f5bb155207b0baf161982314c35d55cbba9e2fc47667fab2df6",
+   "ee_text": "1. 경구 섭취가 제한적이거나 불가능한 환자의 저나트륨혈증 예방 및 보정 2. 표준 전해질 및 영양 수액에 보충하여 전해질 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:28Z",
+   "last_observed_at": "2026-09-08T09:04:28Z",
+   "official_revision_date": "2025-11-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:28Z"
+}

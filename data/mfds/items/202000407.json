@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "N04BC04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000407",
+ "history_fetched_at": "2026-08-27T12:34:17Z",
  "revisions": [
   {
-   "revision_id": "202000407-6c38799a",
-   "content_sha256": "6c38799a9e8d7911f34140f8a30c3cc4194613b3dc5c6f33059f4cee5258079c",
-   "ee_text": "ㆍ 특발성 파킨슨씨병 치료에 단독 요법으로 사용가능하다. ㆍ 레보도파와의 병용 투여는 on-off 현상을 억제하고 레보도파의 1일 투여량을 줄일 수 있다.",
+   "revision_id": "202000407-ef62166d",
+   "content_sha256": "ef62166d4b0ffe694c2ca42f04569223c5baebed2f707c0950a164bf6786704c",
+   "ee_text": "1. 특발성 파킨슨씨병의 치료 ㆍ 특발성 파킨슨씨병 치료에 단독 요법으로 사용가능하다. ㆍ 레보도파와의 병용 투여는 on-off 현상을 억제하고 레보도파의 1일 투여량을 줄일 수 있다. 2. 중등증에서 중증의 원발성 하지불안증후군(Restless Legs Syndrome)",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:34:17Z",
-   "last_observed_at": "2026-08-27T12:34:17Z",
-   "official_revision_date": "2020-01-23"
+   "last_observed_at": "2026-09-08T08:57:36Z",
+   "official_revision_date": "2020-01-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:34:17Z"
+ ]
 }

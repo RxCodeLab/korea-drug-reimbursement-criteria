@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906637",
+ "item_name": "코러스시클로포스파미드주500mg(시클로포스파미드)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20090901",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040333]시클로포스파미드",
+ "main_item_ingr_eng": "Cyclophosphamide",
+ "edi_code": "",
+ "atc_code": "L01AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906637",
+ "revisions": [
+  {
+   "revision_id": "200906637-b805b959",
+   "content_sha256": "b805b959a2d2d4bb5f963d760986d4d89733834275f97ecb0eefefafe6163bfd",
+   "ee_text": "1. 악성림프종 2. 다발성골수종 3. 백혈병 4. 신경모세포종 5. 난소암 6. 망막아종 7. 유방암",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:31Z",
+   "last_observed_at": "2026-09-08T08:43:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:31Z"
+}

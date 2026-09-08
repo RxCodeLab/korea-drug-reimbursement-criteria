@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200702090",
+ "item_name": "듀오트라브점안액",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20070215",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095517]트라보프로스트|[M256384]티몰롤말레산염",
+ "main_item_ingr_eng": "Timolol Maleate/Travoprost",
+ "edi_code": "653603061",
+ "atc_code": "S01ED51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702090",
+ "revisions": [
+  {
+   "revision_id": "200702090-f10d5785",
+   "content_sha256": "f10d578564bac27612686cc83501340a912004c72fddacb61c23e31b1076ed37",
+   "ee_text": "개방각 녹내장 환자 및 국소 베타 차단제 혹은 프로스타글란딘 유도체에 불충분하게 반응하는 고안압증 환자의 안압감소",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:04Z",
+   "last_observed_at": "2026-09-08T08:41:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:04Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003188",
+ "item_name": "아포리바정(아데포비어디피복실)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "20100430",
+ "cancel_date": "20250109",
+ "status": "취하",
+ "main_item_ingr": "[M101796]아데포비어디피복실",
+ "main_item_ingr_eng": "Adefovir Dipivoxil",
+ "edi_code": "",
+ "atc_code": "J05AF08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003188",
+ "revisions": [
+  {
+   "revision_id": "201003188-384b95ec",
+   "content_sha256": "384b95ec85d68739cca5fb961adbe19a01698a471a8e730b0bca4155ef54231b",
+   "ee_text": "활동성 바이러스 복제가 확인되고, 혈청 아미노전달효소(ALT 또는 AST) 가 지속적으로 상승되거나 조직학적으로 활동성 질환이 확인된 만성 B형 간염 바이러스 감염증 환자의 치료 (조직학적, 바이러스학적, 생화학적, 혈청학적 반응을 근거로 대상성 간기능을 나타내는 HBeAg+ 및 HBeAg- 만성 B형 간염 환자 및 대상성 혹은 비대상성 간기능을 나타내는 라미부딘 내성 B형 간염 환자)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201003188/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:00Z",
+   "last_observed_at": "2026-09-08T08:44:00Z"
+  },
+  {
+   "revision_id": "201003188-6bd63ec0",
+   "content_sha256": "6bd63ec01e4bb074b7c66fe61657e4e6ca22175e980ff2c112f050ffdea39fde",
+   "ee_text": "(정제) 활동성 바이러스 복제가 확인되고, 혈청 아미노전달효소(ALT 또는 AST) 가 지속적으로 상승되거나 조직학적으로 활동성 질환이 확인된 만성 B형 간염 바이러스 감염증 환자의 치료 (조직학적, 바이러스학적, 생화학적, 혈청학적 반응을 근거로 대상성 간기능을 나타내는 HBeAg+ 및 HBeAg- 만성 B형 간염 환자 및 대상성 혹은 비대상성 간기능을 나타내는 라미부딘 내성 B형 간염 환자)",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:00Z",
+   "last_observed_at": "2026-09-08T08:44:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:00Z"
+}

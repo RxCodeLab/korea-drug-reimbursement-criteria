@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400477",
+ "item_name": "대한적십자사대전세종충남혈액원다종성분채혈혈장(다종성분채혈혈장)",
+ "entp_name": "대한적십자사 대전·세종·충남혈액원",
+ "permit_date": "20240306",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284548]다종성분채혈혈장",
+ "main_item_ingr_eng": "Plasma, Pheresis [Multiple]",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400477",
+ "revisions": [
+  {
+   "revision_id": "202400477-e96ecfce",
+   "content_sha256": "e96ecfce84bc158586e8c46f92f82c7c2f62cd290eea4976f1515ba4781d78cc",
+   "ee_text": "1. 단일 응고인자 결핍의 보충 2. 와파린(Warfarin) 효과의 신속한 역전(reversal)을 위해 사용 3. 비타민 K 결핍증(Vitamin K Deficiency) 4. 급성 파종혈관내응고증 5. 혈전성 저혈소판혈증자색반병 6. 유전성 응고억제제 결핍증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:48Z",
+   "last_observed_at": "2026-09-08T09:02:48Z",
+   "official_revision_date": "2024-03-06"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:48Z"
+}

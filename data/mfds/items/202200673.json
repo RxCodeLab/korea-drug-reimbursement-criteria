@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200673",
+ "item_name": "영진부스피론정10밀리그램(부스피론염산염)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20220111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222852]부스피론염산염",
+ "main_item_ingr_eng": "Buspirone Hydrochloride",
+ "edi_code": "642405230",
+ "atc_code": "N05BE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200673",
+ "revisions": [
+  {
+   "revision_id": "202200673-c96fc2d3",
+   "content_sha256": "c96fc2d3c19b3e7a353d9e77b446b916f8da8dd8f984019852274bdef143e4c7",
+   "ee_text": "불안장애의 치료 또는 불안증상의 단기완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:05Z",
+   "last_observed_at": "2026-09-08T09:01:05Z",
+   "official_revision_date": "2022-02-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:05Z"
+}

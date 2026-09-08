@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198401384",
+ "item_name": "제일펜타조신주사액(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "19841108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051738]펜타조신",
+ "main_item_ingr_eng": "Pentazocine",
+ "edi_code": "",
+ "atc_code": "N02AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198401384",
+ "revisions": [
+  {
+   "revision_id": "198401384-5e5eaac4",
+   "content_sha256": "5e5eaac4378b25b52ce81b8431e15931d6b97fd257445100d26960b852284c43",
+   "ee_text": "(주사제) · 중등도에서 중증 통증의 완화 · 마취전 투약 및 마취보조제",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:00Z",
+   "last_observed_at": "2026-09-08T08:27:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:00Z"
+}

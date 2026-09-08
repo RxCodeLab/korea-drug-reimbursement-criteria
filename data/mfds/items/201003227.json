@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003227",
+ "item_name": "판제정(수출용)(수출명:1.PanseTab.2.Gastrozim-AsteriaTab.)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20100430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040678]판크레아틴|[M051173]우담즙엑스|[M051916]헤미셀룰라제|[M060026]디메치콘",
+ "main_item_ingr_eng": "Dimethicone/Hemicellulase/Ox Bile Extract/Pancreatin",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003227",
+ "revisions": [
+  {
+   "revision_id": "201003227-46dd5250",
+   "content_sha256": "46dd5250acc3fa26c9311a9144d7e2f2c9b043cae7a5f20ca332a8ad0a1010f5",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 식체(위체), 소화촉진, 소화불량으로 인한 위부팽만감, 방사선검사전의 가스제거",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:01Z",
+   "last_observed_at": "2026-09-08T08:44:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:01Z"
+}

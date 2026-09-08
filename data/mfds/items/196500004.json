@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "196500004",
+ "item_name": "후라시닐정(메트로니다졸)",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "19650816",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040170]메트로니다졸",
+ "main_item_ingr_eng": "Metronidazole",
+ "edi_code": "640002760",
+ "atc_code": "P01AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196500004",
+ "revisions": [
+  {
+   "revision_id": "196500004-0cab43fa",
+   "content_sha256": "0cab43fa1d6887d85b418b13c236b7493f6f39c96e0199331a8b1de1aa4a1588",
+   "ee_text": "(정제) 1.트리코모나스증 2. 혐기성균 감염증 1) 복부내감염증(복막염, 복부내농양, 간농양), 피부 및 피부조직 감염증, 부인과 감염증(자궁내막염, 자궁근내막염, 자궁관난소농양), 세균성 패혈증, 골 및 관절 감염증, 중추신경계 감염증(뇌 농양, 뇌수막염), 하기도감염증(폐렴, 농흉, 폐농양), 심내막염 2) 혐기성균(특히 박테로이드, 혐기성 스트렙토콕쿠스)에 의한 수술 후 감염의 예방 3. 아메바증 (주사제) ○ 유효균종 혐기성균 : 메트로니다졸에 감수성이 있는 박테로이드(특히 박테로이드 프라질리스), 푸소박테륨, 유박테륨, 클로스트리듐, 혐기성 스트렙토콕쿠스 ○ 적응증 1. 혐기성균 감염증 : 패혈증 및 균혈증, 뇌농양, 괴저성 폐렴, 골수염, 산욕기 패혈증, 골반농양, 자궁주위조직염, 수술 후 창상감염증 2. 혐기성균(특히 박테로이드, 혐기성 스트렙토콕쿠스)에 의한 수술 후 감염의 예방",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:15Z",
+   "last_observed_at": "2026-09-08T08:26:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:15Z"
+}

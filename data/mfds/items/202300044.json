@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300044",
+ "item_name": "크리롤액(폴리에틸렌글리콜4000)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20230104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243338]폴리에틸렌글리콜4000",
+ "main_item_ingr_eng": "Polyethylene Glycol 4000",
+ "edi_code": "",
+ "atc_code": "A06AD15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300044",
+ "revisions": [
+  {
+   "revision_id": "202300044-8ff00411",
+   "content_sha256": "8ff00411e105f07b7dfcee63f3cbc142be0532eb0e36e59eb1e7bae65cec8d1c",
+   "ee_text": "변비",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:48Z",
+   "last_observed_at": "2026-09-08T09:01:48Z",
+   "official_revision_date": "2023-01-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:48Z"
+}

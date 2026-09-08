@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502616",
+ "item_name": "라이올겔",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20150430",
+ "cancel_date": "20250430",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M200675]베타메타손디프로피오네이트|[M249551]칼시포트리올일수화물",
+ "main_item_ingr_eng": "Betamethasone Dipropionate/Calcipotriol Monohydrate",
+ "edi_code": "",
+ "atc_code": "D05AX52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502616",
+ "revisions": [
+  {
+   "revision_id": "201502616-114250b9",
+   "content_sha256": "114250b95d3cb04cbba39e2d66164890cffede9a467b082a564f1ad2d397fb2f",
+   "ee_text": "청소년(12세 이상 18세 미만) 및 성인(18세 이상) : 중등도∼중증의 두피건선 및 두피 외 판상형 건선의 국소치료",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:56Z",
+   "last_observed_at": "2026-09-08T08:48:56Z",
+   "official_revision_date": "2023-02-02"
+  },
+  {
+   "revision_id": "201502616-cb829f3e",
+   "content_sha256": "cb829f3e4fa8148f9833f5469e8c9bb4b8de95fcf56150647fc5e7aab089d279",
+   "ee_text": "성인에서 중등도∼중증의 두피건선 및 두피 외 판상형 건선의 국소치료",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-06-15",
+   "first_observed_at": "2026-09-08T08:48:56Z",
+   "last_observed_at": "2026-09-08T08:48:56Z"
+  },
+  {
+   "revision_id": "201502616-b4ad9275",
+   "content_sha256": "b4ad92758789835a7d3bf45a1c3e6b4833fe664ceb04c0f1e68336a41d2d7c66",
+   "ee_text": "성인에서 중등도-중증의 두피건선 및 두피 외 심상성 건선의 국소치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:48:56Z",
+   "last_observed_at": "2026-09-08T08:48:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:56Z"
+}

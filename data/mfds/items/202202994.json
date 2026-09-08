@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202994",
+ "item_name": "히팅플러스정(카페인무수물)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20220720",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223183]카페인무수물",
+ "main_item_ingr_eng": "Anhydrous Caffeine",
+ "edi_code": "",
+ "atc_code": "N06BC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202994",
+ "revisions": [
+  {
+   "revision_id": "202202994-6cd67daa",
+   "content_sha256": "6cd67daad4601281ec43dc79a3997d0f3f9946ecafd2522d735a99fcbaa26dd9",
+   "ee_text": "졸음",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:27Z",
+   "last_observed_at": "2026-09-08T09:01:27Z",
+   "official_revision_date": "2022-07-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:27Z"
+}

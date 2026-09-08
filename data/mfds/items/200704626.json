@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200704626",
+ "item_name": "아만타정(아만타딘황산염)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20070420",
+ "cancel_date": "20250114",
+ "status": "취하",
+ "main_item_ingr": "[M258880]아만타딘황산염",
+ "main_item_ingr_eng": "Amantadine Sulfate",
+ "edi_code": "",
+ "atc_code": "N04BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704626",
+ "revisions": [
+  {
+   "revision_id": "200704626-09aa5507",
+   "content_sha256": "09aa55075263cec036c57c2cfe9d1712380db44ff733da933595f18c49e98035",
+   "ee_text": "파킨슨증후군",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:25Z",
+   "last_observed_at": "2026-09-08T08:41:25Z",
+   "official_revision_date": "2018-12-13"
+  },
+  {
+   "revision_id": "200704626-99f968be",
+   "content_sha256": "99f968bed619f27c6f73b9fd0b42bb823e8a9d22f38ae801b53e88a8711b94b5",
+   "ee_text": "1. 파킨슨증후군 2. 인플루엔자 A형 바이러스에 의한 호흡기 감염증의 예방 및 치료",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:41:25Z",
+   "last_observed_at": "2026-09-08T08:41:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:25Z"
+}

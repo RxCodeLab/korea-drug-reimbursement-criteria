@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507921",
+ "item_name": "베이사글라퀵펜100단위/밀리리터(인슐린글라진, 유전자재조합)",
+ "entp_name": "한국릴리(유)",
+ "permit_date": "20151125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M118324]인슐린글라진",
+ "main_item_ingr_eng": "Insulin Glargine",
+ "edi_code": "670801081",
+ "atc_code": "A10AE04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507921",
+ "revisions": [
+  {
+   "revision_id": "201507921-24d345b6",
+   "content_sha256": "24d345b644b6ec271854d0194567a90e63e3274082fcc546b90543cae6f24d1f",
+   "ee_text": "2세 이상의 어린이와 청소년 및 성인에서의 인슐린 요법을 필요로 하는 당뇨병",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:54Z",
+   "last_observed_at": "2026-09-08T08:49:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:54Z"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801545",
+ "item_name": "마로비벤-에이주사",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "20080204",
+ "cancel_date": "20250616",
+ "status": "취하",
+ "main_item_ingr": "[M103653]하마메리스틴크D1|[M103654]밀레포리움틴크D3|[M103655]벨라돈나틴크D2|[M103656]아코니툼틴크D2|[M103658]카모밀라틴크D3|[M103659]심피툼틴크D6|[M103660]벨리스페렌니스틴크D2|[M103661]에치나세아플푸르틴크D2|[M103662]에치나세아안구스티폴틴크D2|[M103663]히페리쿰틴크D2|[M103664]헤파설프리스D3|[M207423]카렌두라틴크 D2|[M210529]아르니카틴크D2",
+ "main_item_ingr_eng": "Aconitum Tincture D2/Arnica Tincture D2/Belladonna Tincture D2/Bellis Perennis Tincture D2/Calendula Tincture D2/Chamomilla Tincture D3/Echinacea Angustifolia Tincture D2/Echinacea Purpurea Tincture/Hamamelis Tincture D1/Hepar Sulfuris D3/Hypericum Tincture D2/Millefolium Tincture D3/Symphytum Tincture D6",
+ "edi_code": "",
+ "atc_code": "M09AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801545",
+ "revisions": [
+  {
+   "revision_id": "200801545-fccc6c5a",
+   "content_sha256": "fccc6c5a1d690d47b64fecad389ff0dd3ba38dcca9065d5b2d87bb26f3389157",
+   "ee_text": "(주사제)☆ 수술 후 사지의 유연부 부종 및 종창 ☆ 국내임상시험 결과 추가 제출",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:15Z",
+   "last_observed_at": "2026-09-08T08:42:15Z",
+   "official_revision_date": "2020-01-06"
+  },
+  {
+   "revision_id": "200801545-635c1e90",
+   "content_sha256": "635c1e90575e80dc6431c649d42f7cdaf36d165560fbdbf5ef8ff09a2be4e1e0",
+   "ee_text": "(주사제)☆ - 여러 기관과 조직에서 염증과 관련된 염증성 및 퇴행성 과정(건초염, 경돌염, 상과염, 점액낭염, 관절주위염, 상완견갑골염) - 고관절, 무릎관절 및 작은 관절에서의 관절증 - 급성 뇌진탕 - 외상(삠, 탈구, 타박, 골절), 혈액삼출 및 관절내 삼출 - 수술 후 및 외상 후의 유연부 부종 및 종창 ☆ 국내임상시험 결과 추가 제출",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-08-02",
+   "first_observed_at": "2026-09-08T08:42:15Z",
+   "last_observed_at": "2026-09-08T08:42:15Z"
+  },
+  {
+   "revision_id": "200801545-cfb4357e",
+   "content_sha256": "cfb4357e19e19b1b94278f752013c15b6c88f0ba9317d3dd409f467382607805",
+   "ee_text": "- 여러 기관과 조직에서 염증과 관련된 염증성 및 퇴행성 과정(건초염, 경돌염, 상과염, 점액낭염, 관절주위염, 상완견갑골염) - 고관절, 무릎관절 및 작은 관절에서의 관절증 - 급성 뇌진탕 - 외상(삠, 탈구, 타박, 골절), 혈액삼출 및 관절내 삼출 - 수술 후 및 외상 후의 유연부 부종 및 종창",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:15Z",
+   "last_observed_at": "2026-09-08T08:42:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:15Z"
+}

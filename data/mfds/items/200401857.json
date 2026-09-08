@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401857",
+ "item_name": "파모시드정20밀리그램(파모티딘)",
+ "entp_name": "(주)셀릭스",
+ "permit_date": "20040703",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081653]파모티딘",
+ "main_item_ingr_eng": "Famotidine",
+ "edi_code": "646202070",
+ "atc_code": "A02BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401857",
+ "revisions": [
+  {
+   "revision_id": "200401857-a5984693",
+   "content_sha256": "a59846931c0bd21695e7b86efd4d0e08f8eed85b42e792c2d0730c30e5cf49f4",
+   "ee_text": "1. 주효능 효과 위·십이지장궤양, 문합부궤양, 상부소화관출혈(소화성궤양, 급성스트레스궤양, 출혈성위염에 의한), 역류성식도염, 졸링거-엘리슨증후군, 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:55Z",
+   "last_observed_at": "2026-09-08T08:37:55Z",
+   "official_revision_date": "2020-05-06"
+  },
+  {
+   "revision_id": "200401857-23c4cdc6",
+   "content_sha256": "23c4cdc699fd196e8c0dca8acd5b0591337ce416d3b8bb61d60a4ede3c046d0e",
+   "ee_text": "(경구) 1. 주효능 효과 위.십이지장궤양, 문합부궤양, 상부소화관출혈(소화성궤양, 급성스트레스궤양, 출혈성위염에 위 한), 역류성식도염, 졸링거-엘리슨증후군, 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개 선 : 급성위염, 만성위염의 급성악화기 (주사제) 1. 주효능 효과 상부소화관출혈(소화성궤양, 급성스트레스궤양, 출혈성위염에 의한), 졸링거-엘리슨증후군, 마취전 투약",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:37:55Z",
+   "last_observed_at": "2026-09-08T08:37:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:55Z"
+}

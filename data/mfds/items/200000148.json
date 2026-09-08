@@ -7,11 +7,12 @@
  "permit_date": "20000905",
  "cancel_date": "20230927",
  "status": "폐업",
- "main_item_ingr": "[M102072]백삼|[M040006]감초|[M040071]대추|[M040139]맥문동|[M040202]반하|[M070017]갱미",
+ "main_item_ingr": "[M040006]감초|[M040071]대추|[M040139]맥문동|[M040202]반하|[M070017]갱미|[M102072]백삼",
  "main_item_ingr_eng": "Jujube/Licorice/Liriope Tuber/Oryzae Semen/Pinellia Tuber/White Ginseng",
  "edi_code": "",
  "atc_code": "R05F",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000148",
+ "history_fetched_at": "2026-08-28T13:23:52Z",
  "revisions": [
   {
    "revision_id": "200000148-02c130a1",
@@ -19,9 +20,9 @@
    "ee_text": "가래가 끊어지지 않는 기침, 기관지염, 기관지천식",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:23:52Z",
-   "last_observed_at": "2026-08-28T13:23:52Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:33:28Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:52Z"
+ ]
 }

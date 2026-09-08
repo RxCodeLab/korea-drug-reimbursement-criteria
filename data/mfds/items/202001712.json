@@ -12,6 +12,7 @@
  "edi_code": "653404500",
  "atc_code": "G03DB08",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001712",
+ "history_fetched_at": "2026-08-27T13:24:18Z",
  "revisions": [
   {
    "revision_id": "202001712-ff14c775",
@@ -19,9 +20,9 @@
    "ee_text": "자궁내막증",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:24:18Z",
-   "last_observed_at": "2026-08-27T13:24:18Z",
-   "official_revision_date": "2020-03-12"
+   "last_observed_at": "2026-09-08T08:58:03Z",
+   "official_revision_date": "2020-03-12",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:24:18Z"
+ ]
 }

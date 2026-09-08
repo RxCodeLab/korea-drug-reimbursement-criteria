@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199602321",
+ "item_name": "폴라닐정100밀리그람(히드록시클로로퀸황산염)(수출용)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "19960329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084124]황산히드록시클로로퀸",
+ "main_item_ingr_eng": "Hydroxychloroquine Sulfate",
+ "edi_code": "",
+ "atc_code": "P01BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602321",
+ "revisions": [
+  {
+   "revision_id": "199602321-6bcafac1",
+   "content_sha256": "6bcafac1e4807114847e1fb674337262124ee59781066020c77e067c0b3401d8",
+   "ee_text": "1. 류마티스관절염, 유년성 류마티스 관절염, 원판성 및 전신홍반루푸스, 광과민성 피부질환 2. 말라리아(P. vivax, P. mailariae, P.ovale 및 감수성 P.falciparum)의 치료 및 예방",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:21Z",
+   "last_observed_at": "2026-09-08T08:30:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:21Z"
+}

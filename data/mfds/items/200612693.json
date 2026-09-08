@@ -12,6 +12,7 @@
  "edi_code": "657400400,657400710",
  "atc_code": "D08AC02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200612693",
+ "history_fetched_at": "2026-08-28T13:24:11Z",
  "revisions": [
   {
    "revision_id": "200612693-5ba92158",
@@ -19,9 +20,9 @@
    "ee_text": "수술시 수술자 및 보건 위생종사자의 손 소독",
    "ee_doc_id": "16",
    "first_observed_at": "2026-08-28T13:24:11Z",
-   "last_observed_at": "2026-08-28T13:24:11Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:40:50Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:11Z"
+ ]
 }

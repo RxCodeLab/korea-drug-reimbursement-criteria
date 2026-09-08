@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200908005",
+ "item_name": "경남트라넥삼산주250밀리그램(트라넥삼산)(수출용)",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20091111",
+ "cancel_date": "20250623",
+ "status": "취하",
+ "main_item_ingr": "[M051614]트라넥삼산",
+ "main_item_ingr_eng": "Tranexamic Acid",
+ "edi_code": "",
+ "atc_code": "B02AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908005",
+ "revisions": [
+  {
+   "revision_id": "200908005-f54ae861",
+   "content_sha256": "f54ae861fa79142c2fbdfd6567b7e39c8e6f696eda4e4008fa836578f5a006ee",
+   "ee_text": "1. 전신적 섬유소용해항진과 관련있다고 생각되는 출혈 경향 (백혈병, 재생불량성 빈 혈, 자반병, 암 등 및 수술 중ㆍ수술 후의 이상 출혈) 2. 국소적 섬유소용해항진과 관련있다고 생각되는 이상출혈 (폐출혈, 성기출혈, 신출혈, 전립선 수술 중ㆍ수술 후의 이상 출혈)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:36Z",
+   "last_observed_at": "2026-09-08T08:43:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:36Z"
+}

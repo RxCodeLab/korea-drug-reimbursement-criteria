@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900320",
+ "item_name": "대한글루콘산칼슘주",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "19990629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222935]글루콘산칼슘수화물",
+ "main_item_ingr_eng": "Calcium Gluconate Hydrate",
+ "edi_code": "645100383",
+ "atc_code": "A12AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900320",
+ "revisions": [
+  {
+   "revision_id": "199900320-dcaf3c94",
+   "content_sha256": "dcaf3c941ea2fd24219a08336b74c5fda05b9c15fdf14e2f23353fbcb4a61e71",
+   "ee_text": "○ 저칼슘혈증에 의한 테타니 또는 그 관련 증상 ○ 고칼륨혈증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199900320/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:31Z",
+   "last_observed_at": "2026-09-08T08:32:31Z"
+  },
+  {
+   "revision_id": "199900320-24f3f709",
+   "content_sha256": "24f3f7098226a7410e02ef484af9bc2e0a8d452149dbf51362acc2d001f1d2b2",
+   "ee_text": "○ 저칼슘혈증에 의한 테타니 또는 그 관련 증상 ○ 두드러기, 고칼륨혈증, 마그네슘 중독",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-08-08",
+   "first_observed_at": "2026-09-08T08:32:31Z",
+   "last_observed_at": "2026-09-08T08:32:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:31Z"
+}

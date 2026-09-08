@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003391",
+ "item_name": "케롤민정(케토롤락트로메타민)(수출용)(수출명:①Ketorolac-Asteria Tab. ②Kerolmin Tab.)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20100507",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084703]케토롤락트로메타민",
+ "main_item_ingr_eng": "Ketorolac Tromethamine",
+ "edi_code": "",
+ "atc_code": "M01AB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003391",
+ "revisions": [
+  {
+   "revision_id": "201003391-b0fa6b94",
+   "content_sha256": "b0fa6b94e813a94b101dba4fc23dcdac6f961fba13de17e69bc5556085b3e31b",
+   "ee_text": "1. 주효능·효과 중등도 및 중증의 통증에 대한 단기요법 2. 다음의 수술 후 통증에도 사용할 수 있다. 일반외과, 정형외과, 부인과, 치과수술 등",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:02Z",
+   "last_observed_at": "2026-09-08T08:44:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:02Z"
+}

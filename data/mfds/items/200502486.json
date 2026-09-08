@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502486",
+ "item_name": "뉴로메탐정(옥시라세탐)(수출용)",
+ "entp_name": "(주)하원제약",
+ "permit_date": "20050107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085324]옥시라세탐",
+ "main_item_ingr_eng": "Oxiracetam",
+ "edi_code": "",
+ "atc_code": "N06BX07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502486",
+ "revisions": [
+  {
+   "revision_id": "200502486-64274e5f",
+   "content_sha256": "64274e5f69ab7dfd54f27814ae77ff700c3f1e11c01364a06d7f9ea462cd80d4",
+   "ee_text": "다음 질환으로 인한 증상(기억력·주의력·집중력 감소, 지남력장애, 언어·행동장애, 정서불안, 의욕결핍)의 개선 : 알쯔하이머형 치매, 다발경색성 치매, 뇌기능부전으로 인한 기질성 뇌증후군",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:21Z",
+   "last_observed_at": "2026-09-08T08:39:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:21Z"
+}

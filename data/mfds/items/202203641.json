@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203641",
+ "item_name": "포텔리지오주20밀리그램(모가물리주맙)",
+ "entp_name": "한국쿄와기린(주)",
+ "permit_date": "20220922",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283074]모가물리주맙",
+ "main_item_ingr_eng": "Mogamulizumab",
+ "edi_code": "666300411",
+ "atc_code": "L01FX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203641",
+ "revisions": [
+  {
+   "revision_id": "202203641-a6318e07",
+   "content_sha256": "a6318e07b7ce62539878a45da7e1afbe17cd07ba0c05d4eada7bdf7d04faecd8",
+   "ee_text": "이전에 한 가지 이상의 전신요법을 받은 경험이 있는 균상식육종 또는 시자리증후군 성인 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:34Z",
+   "last_observed_at": "2026-09-08T09:01:34Z",
+   "official_revision_date": "2022-09-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:34Z"
+}

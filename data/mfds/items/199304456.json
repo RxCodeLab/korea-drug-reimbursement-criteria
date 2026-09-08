@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199304456",
+ "item_name": "명문모르핀염산염수화물주사",
+ "entp_name": "명문제약(주)",
+ "permit_date": "19930107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M230907]모르핀염산염수화물",
+ "main_item_ingr_eng": "Morphine Hydrochloride Hydrate",
+ "edi_code": "649801294",
+ "atc_code": "N02AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199304456",
+ "revisions": [
+  {
+   "revision_id": "199304456-240f8144",
+   "content_sha256": "240f8144935ce3ccf91ccabcf6656ffaf77fda45b40efd827f580ff13bcd54e2",
+   "ee_text": "1. 심한 통증의 완화 2. 심한 기침발작의 진정 3. 전신마취의 보조",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:58Z",
+   "last_observed_at": "2026-09-08T08:28:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:58Z"
+}

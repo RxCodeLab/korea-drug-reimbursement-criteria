@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403768",
+ "item_name": "알로신정(아세틸로이신)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20041012",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101555]아세틸로이신",
+ "main_item_ingr_eng": "Acetylleucine",
+ "edi_code": "",
+ "atc_code": "N07CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403768",
+ "revisions": [
+  {
+   "revision_id": "200403768-aabdf711",
+   "content_sha256": "aabdf71190e5295f152d73c507953242ae86eecf7b7980aabff7e3ee314ef71d",
+   "ee_text": "현기증의 치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:24Z",
+   "last_observed_at": "2026-09-08T08:38:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:24Z"
+}

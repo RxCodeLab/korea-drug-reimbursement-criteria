@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900017",
+ "item_name": "귀비론과립(가미귀비탕엑스)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19790723",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243810]가미귀비탕연조엑스",
+ "main_item_ingr_eng": "Gamigwibitang Soft Extract",
+ "edi_code": "",
+ "atc_code": "N07XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900017",
+ "revisions": [
+  {
+   "revision_id": "197900017-65b6d9d5",
+   "content_sha256": "65b6d9d5ec8d8398346b26726a05397baadc76d5ae939f6fd0042d88bbfad7b2",
+   "ee_text": "허약 체질로 혈색이 좋지 못한 사람의 다음과 같은 증상 : 빈혈, 불면증, 정신불안, 신경과민",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:31Z",
+   "last_observed_at": "2026-09-08T08:26:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:31Z"
+}

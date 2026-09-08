@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301643",
+ "item_name": "웰리렉정(벨주티판)",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "20230523",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283771]벨주티판",
+ "main_item_ingr_eng": "Belzutifan",
+ "edi_code": "",
+ "atc_code": "L01XX74",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301643",
+ "revisions": [
+  {
+   "revision_id": "202301643-b6b4f041",
+   "content_sha256": "b6b4f0414131d01513371e66ac5b85dd5dd89623de040d6878581f4d9d3e56d2",
+   "ee_text": "폰히펠-린다우(von Hippel-Lindau, VHL)병 성인 환자에서 즉각적인 수술이 필요하지 않은 신세포암, 중추 신경계 혈관 모세포종, 췌장 신경 내분비 종양의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:06Z",
+   "last_observed_at": "2026-09-08T09:02:06Z",
+   "official_revision_date": "2023-05-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:06Z"
+}

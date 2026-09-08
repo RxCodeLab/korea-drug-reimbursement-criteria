@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400297",
+ "item_name": "옴보프리필드시린지주100밀리그램/밀리리터(미리키주맙, 유전자재조합)",
+ "entp_name": "한국릴리(유)",
+ "permit_date": "20240207",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284499]미리키주맙",
+ "main_item_ingr_eng": "Mirikizumab",
+ "edi_code": "",
+ "atc_code": "L04AC24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400297",
+ "revisions": [
+  {
+   "revision_id": "202400297-c53087fe",
+   "content_sha256": "c53087fe72d64ea34d976e3d54ed0a4d80ad2ff34226e862295076862bd6082c",
+   "ee_text": "보편적인 치료제(코르티코스테로이드제 또는 면역억제제 등) 또는 생물학적 제제에 적절히 반응하지 않거나, 반응이 소실되거나 또는 내약성이 없는 성인(18세 이상)의 중등도에서 중증의 활동성 궤양성 대장염의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:41Z",
+   "last_observed_at": "2026-09-08T09:02:41Z",
+   "official_revision_date": "2024-02-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:41Z"
+}

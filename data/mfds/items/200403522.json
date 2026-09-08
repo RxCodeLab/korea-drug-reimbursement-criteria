@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A02BX02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403522",
+ "history_fetched_at": "2026-08-28T13:24:06Z",
  "revisions": [
   {
-   "revision_id": "200403522-47804c82",
-   "content_sha256": "47804c82d422b8634900271521e479066fa0620c4cc7a03de48918aba7220e3e",
-   "ee_text": "위산과다, 위,십이지장궤양,다음 질환의 위점막 병변 (미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기 역류성 식도염",
+   "revision_id": "200403522-7e7d1f29",
+   "content_sha256": "7e7d1f2929431c091e53d84ab4487c3fffbaf04b74b65ad0ee17aa286b288d34",
+   "ee_text": "1. 주효능 효과 위산과다, 위,십이지장궤양,다음 질환의 위점막 병변 (미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기 2. 다음 질환에도 사용할 수 있다. 역류성 식도염",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:24:06Z",
-   "last_observed_at": "2026-08-28T13:24:06Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:38:23Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:06Z"
+ ]
 }

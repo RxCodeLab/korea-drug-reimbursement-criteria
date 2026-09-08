@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199200560",
+ "item_name": "제일펜타스타치10%주",
+ "entp_name": "제일약품(주)",
+ "permit_date": "19920206",
+ "cancel_date": "20250228",
+ "status": "취하",
+ "main_item_ingr": "[M085217]펜타스타치",
+ "main_item_ingr_eng": "Pentastarch",
+ "edi_code": "",
+ "atc_code": "B05AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200560",
+ "revisions": [
+  {
+   "revision_id": "199200560-3a62cc8c",
+   "content_sha256": "3a62cc8c327b7ffd2e88fb8fa13c70b49ec1b9d3f40eeec5f0a3eed83841bd63",
+   "ee_text": "다른 대체 치료법이 적절하지 않은 경우에 한하여 다음 질환에 사용한다. 1. 출혈, 수술, 화상 또는 기타 외상으로 인한 혈액량 부족증 2. 백혈구분리반출술(Leukapheresis)의 보조요법",
+   "ee_doc_id": "28",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:21Z",
+   "last_observed_at": "2026-09-08T08:28:21Z",
+   "official_revision_date": "2022-08-13"
+  },
+  {
+   "revision_id": "199200560-28fa32df",
+   "content_sha256": "28fa32df6f6d462d707841ff269bdb68483bfee400ae622dc16429d59071ce88",
+   "ee_text": "1. 출혈, 수술, 화상 또는 기타 외상으로 인한 혈액량 부족증 2. 백혈구분리반출술(Leukapheresis)의 보조요법",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:28:21Z",
+   "last_observed_at": "2026-09-08T08:28:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:21Z"
+}

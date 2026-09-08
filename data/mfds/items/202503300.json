@@ -7,11 +7,12 @@
  "permit_date": "20251217",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M279284]L-멘톨|[M261256]이소프로필메틸페놀|[M040108]디펜히드라민|[M279284]L-멘톨|[M261256]이소프로필메틸페놀|[M040108]디펜히드라민",
+ "main_item_ingr": "[M040108]디펜히드라민|[M040108]디펜히드라민|[M261256]이소프로필메틸페놀|[M261256]이소프로필메틸페놀|[M279284]L-멘톨|[M279284]L-멘톨",
  "main_item_ingr_eng": "Diphenhydramine/Isopropyl Methylphenol/L-Menthol",
  "edi_code": "",
  "atc_code": "D04A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503300",
+ "history_fetched_at": "2026-08-27T12:30:36Z",
  "revisions": [
   {
    "revision_id": "202503300-08aaba1e",
@@ -19,9 +20,9 @@
    "ee_text": "벌레물린데, 가려움, 동창(언 상처)",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:30:36Z",
-   "last_observed_at": "2026-08-27T12:30:36Z",
-   "official_revision_date": "2025-12-17"
+   "last_observed_at": "2026-09-08T09:04:33Z",
+   "official_revision_date": "2025-12-17",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:30:36Z"
+ ]
 }

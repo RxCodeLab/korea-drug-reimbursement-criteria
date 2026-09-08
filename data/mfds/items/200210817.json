@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200210817",
+ "item_name": "한풍형방지황탕엑스과립(동의수세보원)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20020304",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040205]방풍|[M040225]복령|[M040257]산수유|[M040545]차전자|[M040638]택사|[M050022]강활|[M050227]독활|[M051364]숙지황|[M051936]형개",
+ "main_item_ingr_eng": "Alisma Rhizome/Aralia Continentalis Root/Cornus Fruit/Ostericum Root/Plantago Seed/Poria/Prepared Rehmannia Root/Saposhnikovia Root/Schizonepeta Spike",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210817",
+ "revisions": [
+  {
+   "revision_id": "200210817-d77287a3",
+   "content_sha256": "d77287a3fdd6e4b4d37f414e670e2a85fae7a3d1d33df7a4d0e8a0e988a2bc1c",
+   "ee_text": "소양인의 신한(身寒)설사로 인한 탈진, 복통",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:39Z",
+   "last_observed_at": "2026-09-08T08:36:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:39Z"
+}

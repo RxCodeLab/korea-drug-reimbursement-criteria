@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "L01EH03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303336",
+ "history_fetched_at": "2026-08-27T13:47:28Z",
  "revisions": [
   {
    "revision_id": "202303336-2374f6cf",
@@ -19,7 +20,8 @@
    "ee_text": "이전에 최소 2회 이상의 항-HER2 요법으로 치료를 받은 적이 있는 HER2 양성인 절제 불가능한 국소 진행성 또는 전이성 유방암 성인 환자의 치료로서 트라스투주맙 및 카페시타빈과의 병용 요법",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202303336/EE",
    "first_observed_at": "2026-08-27T13:47:28Z",
-   "last_observed_at": "2026-08-27T13:47:28Z"
+   "last_observed_at": "2026-09-08T09:02:34Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "202303336-21d6e701",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-27T13:47:28Z",
    "last_observed_at": "2026-08-27T13:47:28Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:47:28Z"
+ ]
 }

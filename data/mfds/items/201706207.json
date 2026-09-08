@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706207",
+ "item_name": "리팍신정(리팍시민)(수출용)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20170728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050186]리팍시민",
+ "main_item_ingr_eng": "Rifaximin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706207",
+ "revisions": [
+  {
+   "revision_id": "201706207-5b9f6403",
+   "content_sha256": "5b9f6403350a1b2fb32383af0cba7afb2545d16f01bfc6e18c9ca10f10797062",
+   "ee_text": "1. 그람양성균 및 그람음성균에 의한 급성장내감염에 의한 설사 증후군 2. 장내세균총의 이상으로 인한 설사(여름철 설사, 여행자 설사, 소장결장염) 3. 위장관 수술전후 장내 감염의 예방 4. 고암모니아혈증 치료의 보조요법",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:08Z",
+   "last_observed_at": "2026-09-08T08:52:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:08Z"
+}

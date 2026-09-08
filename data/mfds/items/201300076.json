@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201300076",
+ "item_name": "옴니퓨어350주(이오헥솔)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20130104",
+ "cancel_date": "20231031",
+ "status": "취하",
+ "main_item_ingr": "[M088960]이오헥솔",
+ "main_item_ingr_eng": "Iohexol",
+ "edi_code": "",
+ "atc_code": "V08AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300076",
+ "revisions": [
+  {
+   "revision_id": "201300076-e1353fd5",
+   "content_sha256": "e1353fd5720283a1829a22f7675a84596812f9613239752d86888e05b2efe635",
+   "ee_text": "(주사제 350 mgI/mL) 1. 혈관조영 2. 정맥요로조영(IVP) 3. CT 조영증강 4. 체강조영 : 관절조영, 소화관조영",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:43Z",
+   "last_observed_at": "2026-09-08T08:45:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:43Z"
+}

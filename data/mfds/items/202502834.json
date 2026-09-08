@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502834",
+ "item_name": "엑스코프리정(세노바메이트)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20251103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285908]세노바메이트|[M285908]세노바메이트|[M285908]세노바메이트|[M285908]세노바메이트|[M285908]세노바메이트|[M285908]세노바메이트",
+ "main_item_ingr_eng": "Cenobamate",
+ "edi_code": "",
+ "atc_code": "N03AX25",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502834",
+ "revisions": [
+  {
+   "revision_id": "202502834-ff6c4d22",
+   "content_sha256": "ff6c4d2232b97f5d527a2b51171884aed48e4878cec659f99002b6533ee5182b",
+   "ee_text": "성인 뇌전증 환자에서 기존 항뇌전증약으로 적절하게 조절이 되지 않으며 2차성 전신발작을 동반하거나 동반하지 않는 부분발작 치료의 부가요법",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202502834/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:22Z",
+   "last_observed_at": "2026-09-08T09:04:22Z"
+  },
+  {
+   "revision_id": "202502834-3c7a2800",
+   "content_sha256": "3c7a2800ccd643572ee49e4a51533e7e08ef4873a7c77a5d31d45169bf8678a1",
+   "ee_text": "성인의 뇌전증 환자에서 기존 항뇌전증약 투여로 적절하게 조절이 되지 않는 2차성 전신발작을 동반하거나 동반하지 않는 부분발작 치료의 부가요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2025-11-03",
+   "first_observed_at": "2026-09-08T09:04:22Z",
+   "last_observed_at": "2026-09-08T09:04:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:22Z"
+}

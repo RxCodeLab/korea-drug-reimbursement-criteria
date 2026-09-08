@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199702165",
+ "item_name": "넬슨세프라딘캡슐500밀리그램(세프라딘수화물)",
+ "entp_name": "한국넬슨제약(주)",
+ "permit_date": "19970702",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223076]세프라딘수화물",
+ "main_item_ingr_eng": "Cefradine Hydrate",
+ "edi_code": "656700310",
+ "atc_code": "J01DB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702165",
+ "revisions": [
+  {
+   "revision_id": "199702165-e7a25a5a",
+   "content_sha256": "e7a25a5ae5fd32160a46f1b36f1e9b6af640162ffcad69e3ec6a82298ef9026d",
+   "ee_text": "○ 유효균종 포도구균, 폐렴연쇄구균, 인플루엔자균, 대장균, 프로테우스 미라빌리스, 클레브시엘라, 연쇄구균 ○ 적응증 - 편도염, 인두염, 대엽성폐렴, 기관지염 - 방광염, 신우신염, 요도염, 전립선염 - 농양(고름집), 연조직염, 종기, 농가진(고름딱지증) - 중이(가운데귀)염",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:15Z",
+   "last_observed_at": "2026-09-08T08:31:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:15Z"
+}

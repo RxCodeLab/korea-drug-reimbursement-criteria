@@ -7,19 +7,21 @@
  "permit_date": "20000304",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M090038]의이인건조엑스|[M050704]비오틴|[M051865]인산피리독살|[M040064]니코틴산아미드|[M040133]리보플라빈",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M050704]비오틴|[M051865]인산피리독살|[M090038]의이인건조엑스",
  "main_item_ingr_eng": "Biotin/Coix Seed Dried Extract/Nicotinamide/Pyridoxal Phosphate Hydrate/Riboflavin",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001083",
+ "history_fetched_at": "2026-08-28T13:23:53Z",
  "revisions": [
   {
-   "revision_id": "200001083-dafac16d",
-   "content_sha256": "dafac16d72eea01c7b41c35fa7ffcce1ea4d0912bb23b6a61f949843cea35a41",
-   "ee_text": "2 , B 6 의 보급\">",
+   "revision_id": "200001083-99569f76",
+   "content_sha256": "99569f76431914660c7d03bcf2d65cab4788087bda72d9e4f725e39e7c9e1d30",
+   "ee_text": "1. 다음 증상의 완화 거칠어진 피부, 여드름, 구내염, 구각염, 구순염, 설염, 습진, 피부염, 옻오름, 짓무름 2. 다음 경우의 비타민 B2, B6의 보급 육체피로시, 임신ㆍ수유기, 병중·병후의 체력저하시",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200001083/EE",
    "first_observed_at": "2026-08-28T13:23:53Z",
-   "last_observed_at": "2026-08-28T13:23:53Z"
+   "last_observed_at": "2026-09-08T08:33:39Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200001083-ee5fa42e",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:53Z",
    "last_observed_at": "2026-08-28T13:23:53Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:53Z"
+ ]
 }

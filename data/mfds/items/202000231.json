@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000231",
+ "item_name": "실버빅사정(메만틴염산염)",
+ "entp_name": "대원바이오텍주식회사",
+ "permit_date": "20200115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M242614]메만틴염산염",
+ "main_item_ingr_eng": "Memantine Hydrochloride",
+ "edi_code": "057600540",
+ "atc_code": "N06DX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000231",
+ "revisions": [
+  {
+   "revision_id": "202000231-4e0bf075",
+   "content_sha256": "4e0bf075792576c8168dadb448bd5f4352609483edf18a5f590886ef4dde9a5a",
+   "ee_text": "중등도에서 중증의 알츠하이머병 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:30Z",
+   "last_observed_at": "2026-09-08T08:57:30Z",
+   "official_revision_date": "2020-01-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:30Z"
+}

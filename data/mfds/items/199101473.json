@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199101473",
+ "item_name": "에토폴주(에토포시드)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "19910819",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081926]에토포시드",
+ "main_item_ingr_eng": "Etoposide",
+ "edi_code": "",
+ "atc_code": "L01CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101473",
+ "revisions": [
+  {
+   "revision_id": "199101473-69351c0a",
+   "content_sha256": "69351c0a79ffc33766278801d28eea2cf20a1679193fd11c8017f1ff2dc48688",
+   "ee_text": "소세포폐암, 악성림프종, 급성백혈병, 고환종양, 방광암, 융모성질환",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:13Z",
+   "last_observed_at": "2026-09-08T08:28:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:13Z"
+}

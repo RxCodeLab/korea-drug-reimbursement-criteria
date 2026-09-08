@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201104111",
+ "item_name": "쎄레콕스캡슐200밀리그램(세레콕시브)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20110630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089149]세레콕시브",
+ "main_item_ingr_eng": "Celecoxib",
+ "edi_code": "661903990",
+ "atc_code": "M01AH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104111",
+ "revisions": [
+  {
+   "revision_id": "201104111-cf29400d",
+   "content_sha256": "cf29400df17ad77cc5bab446648673cb5e1dbf0c8b13c5dfceb19862e4f74899",
+   "ee_text": "1. 골관절염(퇴행관절염)의 증상이나 징후의 완화 2. 류마티스관절염의 증상이나 징후의 완화 3. 강직척추염의 증상 및 징후의 완화 4. 성인의 급성 통증 완화(수술후, 발치 후 진통) 5. 원발월경통",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:44Z",
+   "last_observed_at": "2026-09-08T08:44:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:44Z"
+}

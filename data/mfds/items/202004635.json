@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004635",
+ "item_name": "에퀴피나필름코팅정50밀리그램(사피나미드메실산염)",
+ "entp_name": "한국에자이(주)",
+ "permit_date": "20200624",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278326]사피나미드메실산염",
+ "main_item_ingr_eng": "safinamide mesilate",
+ "edi_code": "621100260",
+ "atc_code": "N04BD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004635",
+ "revisions": [
+  {
+   "revision_id": "202004635-2f9ddf56",
+   "content_sha256": "2f9ddf56c3c9ab92aee2bb779bfae8465215e4a27585f1e3eb2024f99cc16bb2",
+   "ee_text": "운동 동요 증상(end of dose motor fluctuations)이 있는 특발성 파킨슨병 환자에서 레보도파 함유 제제의 보조요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:10Z",
+   "last_observed_at": "2026-09-08T08:59:10Z",
+   "official_revision_date": "2020-06-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:10Z"
+}

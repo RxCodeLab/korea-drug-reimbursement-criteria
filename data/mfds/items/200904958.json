@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200904958",
+ "item_name": "티로케어겔(티로트리신)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20090706",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020148]티로트리신",
+ "main_item_ingr_eng": "Tyrothricin",
+ "edi_code": "",
+ "atc_code": "D06AX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904958",
+ "revisions": [
+  {
+   "revision_id": "200904958-32eeb528",
+   "content_sha256": "32eeb528a1b018c3bb9c5c45293066d256c8a69f54580c3894859dab23a98060",
+   "ee_text": "(겔제) 티로트리신 감수성 균에 감염된 외상(예, 찰과상), 곪은 피부감염의 개선",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:24Z",
+   "last_observed_at": "2026-09-08T08:43:24Z",
+   "official_revision_date": "2018-08-02"
+  },
+  {
+   "revision_id": "200904958-bf00fb10",
+   "content_sha256": "bf00fb104f1e47b28f1d1b92a13b9d432c13fd5c19975c0bd86ab305929abd42",
+   "ee_text": "감염의 우려가 있거나 감염된 외상(상처), 화상, 곪은 피부감염, 하지(다리)족부궤양에서의 피부진균(곰팡이)감염, 습진에서의 2차감염, 입술포진(물집)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:43:24Z",
+   "last_observed_at": "2026-09-08T08:43:24Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:24Z"
+}

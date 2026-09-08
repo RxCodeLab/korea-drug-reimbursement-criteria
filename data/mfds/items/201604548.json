@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604548",
+ "item_name": "아그라센액(L-아스파르트산-L-아르기닌수화물)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20160722",
+ "cancel_date": "20260722",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M258544]L-아스파르트산-L-아르기닌수화물",
+ "main_item_ingr_eng": "L-Arginine-L-Aspartate Hydrate",
+ "edi_code": "",
+ "atc_code": "A05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604548",
+ "revisions": [
+  {
+   "revision_id": "201604548-4d00f243",
+   "content_sha256": "4d00f243e5ab4b0a82ae59e6a71f5e8bafaf6ed7b8f103a3c629de9ae5aae8ea",
+   "ee_text": "정신적·신체적 기능무력 증상의 보조요법",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:04Z",
+   "last_observed_at": "2026-09-08T08:51:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:04Z"
+}

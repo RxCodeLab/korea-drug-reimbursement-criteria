@@ -12,6 +12,7 @@
  "edi_code": "671701861",
  "atc_code": "D01AC20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404710",
+ "history_fetched_at": "2026-08-28T13:24:06Z",
  "revisions": [
   {
    "revision_id": "200404710-eb2a40ae",
@@ -19,9 +20,9 @@
    "ee_text": "염증, 가려움 및 습진 등의 임상증상을 수반하는 피부 진균증 : 1) 백선 2) 피부 칸디다증 3) 어루러기",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:24:06Z",
-   "last_observed_at": "2026-08-28T13:24:06Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:38:34Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:06Z"
+ ]
 }

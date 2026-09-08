@@ -12,15 +12,17 @@
  "edi_code": "",
  "atc_code": "A11GA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100586",
+ "history_fetched_at": "2026-08-28T13:23:58Z",
  "revisions": [
   {
-   "revision_id": "200100586-370f1424",
-   "content_sha256": "370f142472e0836fb75a2237c7f44694e92e6a72d13ac8fb812c0c9931723286",
-   "ee_text": "1) 임신·수유기 및 병중 병후(병을 앓는 동안이나 회복 후)의 체력저하 2) 육체피로 1) 잇몸출혈, 비출혈(코피), 혈뇨 등의 모세관출혈 2) 햇빛·피부병 등에 의한 색소침착(기미, 주근깨) 3) 흡수불량",
+   "revision_id": "200100586-40ca8433",
+   "content_sha256": "40ca8433d999b2c5c18ac3eb26e8a150b264e73060482948b0c19e515073179e",
+   "ee_text": "1. 괴혈병의 예방과 치료 2. 비타민 C의 요구량이 증가하는 소모성 질환 1) 임신·수유기 및 병중 병후(병을 앓는 동안이나 회복 후)의 체력저하 2) 육체피로 3. 다음 질환 중 비타민 C 결핍으로 추정되는 경우 1) 잇몸출혈, 비출혈(코피), 혈뇨 등의 모세관출혈 2) 햇빛·피부병 등에 의한 색소침착(기미, 주근깨) 3) 흡수불량",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:23:58Z",
-   "last_observed_at": "2026-08-28T13:23:58Z",
-   "official_revision_date": "2019-08-26"
+   "last_observed_at": "2026-09-08T08:34:55Z",
+   "official_revision_date": "2019-08-26",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200100586-1967e124",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:58Z",
    "last_observed_at": "2026-08-28T13:23:58Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:58Z"
+ ]
 }

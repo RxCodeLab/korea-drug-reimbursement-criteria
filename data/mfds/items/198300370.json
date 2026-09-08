@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300370",
+ "item_name": "투수필정(아세피필린){수출명:아시아필린정(아세피필린)}(수출용)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "19830503",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M201110]아세피필린",
+ "main_item_ingr_eng": "Acepifylline",
+ "edi_code": "",
+ "atc_code": "R03DA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300370",
+ "revisions": [
+  {
+   "revision_id": "198300370-85be6d7f",
+   "content_sha256": "85be6d7fbc35cb7ffc8da4bdd6d6e0c72731e457e64336c7af29c0ba452d4c86",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 만성기관지염, 기관지천식",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:52Z",
+   "last_observed_at": "2026-09-08T08:26:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:52Z"
+}

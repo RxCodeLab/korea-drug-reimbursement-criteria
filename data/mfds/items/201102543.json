@@ -7,21 +7,22 @@
  "permit_date": "20110425",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M208932]γ-오리자놀|[M222995]리보플라빈부티레이트|[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M051415]푸르설티아민|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M051415]푸르설티아민|[M204304]피리독신염산염|[M208932]γ-오리자놀|[M222995]리보플라빈부티레이트|[M244748]판토텐산칼슘|[M256191]콘드로이틴설페이트나트륨",
  "main_item_ingr_eng": "Calcium Pantothenate/Fursultiamine/Gamma-Oryzanol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Sodium Chondroitin Sulfate",
  "edi_code": "",
  "atc_code": "A11EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102543",
+ "history_fetched_at": "2026-08-28T13:24:25Z",
  "revisions": [
   {
-   "revision_id": "201102543-d7556e33",
-   "content_sha256": "d7556e330a647b50a3a7aead9c66faa992b066db6dfa59b8283b965a49968c5f",
-   "ee_text": ": 육체피로, 임신 수유기, 병중·병후(병을 앓는 동안이나 회복 후) 체력저하시 - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) - 각기, 눈의 피로",
+   "revision_id": "201102543-2e2278fe",
+   "content_sha256": "2e2278fe86bbc0a0bd58f410c902b02970ef7d0af6cb67bad78b464c67de1556",
+   "ee_text": "· 다음 경우의 비타민 B1, B2, B6의 보급 : 육체피로, 임신 수유기, 병중·병후(병을 앓는 동안이나 회복 후) 체력저하시 · 이 약에 함유된 비타민의 효능효과는 다음과 같다 - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) - 각기, 눈의 피로",
    "ee_doc_id": "17",
    "first_observed_at": "2026-08-28T13:24:25Z",
-   "last_observed_at": "2026-08-28T13:24:25Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:44:35Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:25Z"
+ ]
 }

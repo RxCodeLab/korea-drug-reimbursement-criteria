@@ -7,11 +7,12 @@
  "permit_date": "19960214",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040048]길경|[M040006]감초",
+ "main_item_ingr": "[M040006]감초|[M040048]길경",
  "main_item_ingr_eng": "Licorice/Platycodon Root",
  "edi_code": "",
  "atc_code": "R02A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199601577",
+ "history_fetched_at": "2026-08-28T13:23:47Z",
  "revisions": [
   {
    "revision_id": "199601577-b320282c",
@@ -19,9 +20,9 @@
    "ee_text": "인후가 부어서 아픈 다음의 증상 : 편도염, 편도주위염",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:23:47Z",
-   "last_observed_at": "2026-08-28T13:23:47Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:30:16Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:47Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309913",
+ "item_name": "우루사정250밀리그램(우르소데옥시콜산)(수출용)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20131025",
+ "cancel_date": "20231018",
+ "status": "취하",
+ "main_item_ingr": "[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A05AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309913",
+ "revisions": [
+  {
+   "revision_id": "201309913-5cc184e0",
+   "content_sha256": "5cc184e0601b29068fc25f9b09cdb6a69058c94f77fb9a42833d8cf14f9dc637",
+   "ee_text": "○ 담석증 ○ 원발 쓸개관 간경화증(Primary Biliary Cirrhosis: PBC) 의 간기능 개선",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:27Z",
+   "last_observed_at": "2026-09-08T08:46:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:27Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800814",
+ "item_name": "에어가스코리아의료용아산화질소",
+ "entp_name": "주식회사에어가스코리아",
+ "permit_date": "20180213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040349]아산화질소",
+ "main_item_ingr_eng": "Nitrous Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800814",
+ "revisions": [
+  {
+   "revision_id": "201800814-cf2486e4",
+   "content_sha256": "cf2486e4c51a61f7280e3a0f7690c1218b3e43ea3d39a6b7a4273ec299898c12",
+   "ee_text": "전신 마취 진통 및 진정",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:52Z",
+   "last_observed_at": "2026-09-08T08:52:52Z",
+   "official_revision_date": "2018-02-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:52Z"
+}

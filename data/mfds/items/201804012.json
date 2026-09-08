@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804012",
+ "item_name": "글루타치정100mg(글루타티온(환원형))(수출용)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20181012",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256276]글루타티온(환원형)|[M256276]글루타티온(환원형)",
+ "main_item_ingr_eng": "Glutathione (Reduced)",
+ "edi_code": "",
+ "atc_code": "V03AB32",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804012",
+ "revisions": [
+  {
+   "revision_id": "201804012-7996c777",
+   "content_sha256": "7996c777f14feed35a84d57b52783faef59c20f20da28fe45e79d344341e432c",
+   "ee_text": "약물중독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:41Z",
+   "last_observed_at": "2026-09-08T08:53:41Z",
+   "official_revision_date": "2018-10-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:41Z"
+}

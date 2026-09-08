@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602535",
+ "item_name": "에취디졸비씨에이액",
+ "entp_name": "(주)녹십자엠에스",
+ "permit_date": "20160504",
+ "cancel_date": "20260430",
+ "status": "취하",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M227966]아세트산나트륨수화물",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Magnesium Chloride/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride",
+ "edi_code": "677402372,677402373",
+ "atc_code": "B05ZA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602535",
+ "revisions": [
+  {
+   "revision_id": "201602535-3c01d158",
+   "content_sha256": "3c01d158ae0891a075dfaea2184a82bcfdde237248e91f8b94607b6274581beb",
+   "ee_text": "만성신부전환자에 사용되는 인공신장투석의 관류액",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:32Z",
+   "last_observed_at": "2026-09-08T08:50:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:32Z"
+}

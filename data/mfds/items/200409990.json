@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200409990",
+ "item_name": "후락시파린주사5700IU(프리필드)(나드로파린칼슘)",
+ "entp_name": "(주)한독",
+ "permit_date": "20040910",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086106]나드로파린칼슘",
+ "main_item_ingr_eng": "Nadroparin Calcium",
+ "edi_code": "652105391",
+ "atc_code": "B01AB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200409990",
+ "revisions": [
+  {
+   "revision_id": "200409990-492578ca",
+   "content_sha256": "492578ca0138abf98c19d0aaba7e85716d41340dff4d66fca97038e68dfcc43c",
+   "ee_text": "1. 혈전색전증의 예방, 특히 정형외과 수술 및 일반외과 수술에 수반되는 혈전색전의 사고 예방 2. 심재성 정맥혈전증의 치료 3. 혈액투석시 체외순환에서의 혈액응고 방지 4. 불안정협심증과 비Q파(non Q wave) 심근경색의 치료",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:40Z",
+   "last_observed_at": "2026-09-08T08:38:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:40Z"
+}

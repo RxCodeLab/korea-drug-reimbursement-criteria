@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401212",
+ "item_name": "멘토리나크림",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20240520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203279]살리실산메틸|[M223240]토코페롤아세테이트|[M279284]L-멘톨",
+ "main_item_ingr_eng": "L-Menthol/Methyl Salicylate/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401212",
+ "revisions": [
+  {
+   "revision_id": "202401212-c3d2e4e9",
+   "content_sha256": "c3d2e4e93a125c9b00c87f8bc6c0ad46616e029de8db0ef2b190142d41ff7ce8",
+   "ee_text": "-다음 증상의 진통·소염(항염) : 삠, 타박상, 근육통, 관절통, 골(뼈)절통, 요(허리)통, 어깨결림, 신경통, 류마티스통증 -피부가려움, 벌레물린데 -동창(언 상처)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:59Z",
+   "last_observed_at": "2026-09-08T09:02:59Z",
+   "official_revision_date": "2024-05-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:59Z"
+}

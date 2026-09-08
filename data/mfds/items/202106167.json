@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "B05XA18",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106167",
+ "history_fetched_at": "2026-08-28T13:25:25Z",
  "revisions": [
   {
    "revision_id": "202106167-4d6c37cd",
@@ -19,9 +20,9 @@
    "ee_text": "비경구영양요법(TPN)시 아연 보충",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:25Z",
-   "last_observed_at": "2026-08-28T13:25:25Z",
-   "official_revision_date": "2021-08-25"
+   "last_observed_at": "2026-09-08T09:00:30Z",
+   "official_revision_date": "2021-08-25",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:25Z"
+ ]
 }

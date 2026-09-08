@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300042",
+ "item_name": "노량캡슐",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20230104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203437]아미노벤조산에틸|[M204304]피리독신염산염|[M223081]스코폴라민브롬화수소산염수화물|[M223183]카페인무수물|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/Ethyl Aminobenzoate/Pyridoxine Hydrochloride/Scopolamine Hydrobromide Hydrate",
+ "edi_code": "",
+ "atc_code": "A04AD51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300042",
+ "revisions": [
+  {
+   "revision_id": "202300042-54917551",
+   "content_sha256": "54917551830beb9139221f985ce4478a28167e168f9da47e5170b7ade989daa2",
+   "ee_text": "멀미에 의한 어지러움ㆍ구토ㆍ두통의 예방 및 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:48Z",
+   "last_observed_at": "2026-09-08T09:01:48Z",
+   "official_revision_date": "2023-01-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:48Z"
+}

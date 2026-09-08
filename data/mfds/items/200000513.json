@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000513",
+ "item_name": "아메톡스주25%(티오황산나트륨수화물)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20000616",
+ "cancel_date": "20251216",
+ "status": "취하",
+ "main_item_ingr": "[M223270]티오황산나트륨수화물",
+ "main_item_ingr_eng": "Sodium Thiosulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "V03AB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000513",
+ "revisions": [
+  {
+   "revision_id": "200000513-963e68d6",
+   "content_sha256": "963e68d6d0caae5f70bd605a46c55aef68bd4e2e7e6ee2f546aa413878421357",
+   "ee_text": "- 시안 및 시안화합물에 의한 중독 - 시스플라틴 유발 신독성 예방",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:32Z",
+   "last_observed_at": "2026-09-08T08:33:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:32Z"
+}

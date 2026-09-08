@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900207",
+ "item_name": "포스텐주(인산이수소칼륨)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19990716",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M242353]인산이수소칼륨",
+ "main_item_ingr_eng": "Monobasic Potassium Phosphate",
+ "edi_code": "644904253",
+ "atc_code": "B05XA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900207",
+ "revisions": [
+  {
+   "revision_id": "199900207-029c1c4c",
+   "content_sha256": "029c1c4c20594630013a6cb3ae47aeaad40cae037568c59d3f96c279f67a44c2",
+   "ee_text": "칼륨결핍을 수반하는 저인산혈증",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:29Z",
+   "last_observed_at": "2026-09-08T08:32:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:29Z"
+}

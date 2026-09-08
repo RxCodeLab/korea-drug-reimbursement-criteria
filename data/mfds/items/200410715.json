@@ -7,11 +7,12 @@
  "permit_date": "20040809",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M255949]농축콜레칼시페롤과립|[M050064]구연산칼슘",
+ "main_item_ingr": "[M050064]구연산칼슘|[M255949]농축콜레칼시페롤과립",
  "main_item_ingr_eng": "Calcium Citrate/Cholecalciferol Concentrate Granules",
  "edi_code": "675000020",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410715",
+ "history_fetched_at": "2026-08-28T13:24:06Z",
  "revisions": [
   {
    "revision_id": "200410715-2ea7691d",
@@ -19,8 +20,9 @@
    "ee_text": "○ 다음경우의 비타민 D의 보급 - 임신․수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. ․뼈, 이의 발육불량 ․구루병의 예방 ○ 칼슘결핍 및 기타 칼슘의 보급",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:24:06Z",
-   "last_observed_at": "2026-08-28T13:24:06Z",
-   "official_revision_date": "2017-12-20"
+   "last_observed_at": "2026-09-08T08:38:42Z",
+   "official_revision_date": "2017-12-20",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200410715-46dd0be8",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:06Z",
    "last_observed_at": "2026-08-28T13:24:06Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:06Z"
+ ]
 }

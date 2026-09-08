@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904465",
+ "item_name": "로테플러스점안현탁액(로테프레드놀에타보네이트, 토브라마이신)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20190628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020144]토브라마이신|[M113870]로테프레드놀에타보네이트",
+ "main_item_ingr_eng": "Loteprednol Etabonate/Tobramycin",
+ "edi_code": "645306201",
+ "atc_code": "S01CA12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904465",
+ "revisions": [
+  {
+   "revision_id": "201904465-10553b82",
+   "content_sha256": "10553b82bfb75bb87bac7dce4fe626a07c0d0e108facd6e57700c7efbf4588e6",
+   "ee_text": "○ 안구 표층에 세균 감염이 있거나, 감염의 위험이 있는 계절성 알러지성 결막염의 스테로이드 반응성 염증 치료 ○ 이 약의 항생물질(토브라마이신)에 대한 유효균종 포도상구균(황색포도상구균, 표피포도상구균, 페니실린 내성균 포함), 연쇄상구균(일부 그룹 A-베타용혈성 연쇄상구균, 비용혈성 연쇄상구균, 폐렴구균 포함), 녹농균, 대장균, 폐렴간균, 엔테로박터 에로제니스 , 프로테우스 미라빌리스, 모르가넬라 모르가니, 프로테우스 불가리스, 헤모필루스 인플루엔자, 헤모필루스 에집티우스, 결막염 호혈균, 아시네토박터 칼코아세티쿠스, 일부 나이세리아",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:42Z",
+   "last_observed_at": "2026-09-08T08:55:42Z",
+   "official_revision_date": "2019-06-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:42Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602328",
+ "item_name": "리나트정35밀리그램(무수리세드론산나트륨)",
+ "entp_name": "아이큐어(주)",
+ "permit_date": "20160426",
+ "cancel_date": "20260426",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M245359]무수리세드론산나트륨",
+ "main_item_ingr_eng": "Anhydrous Risedronate Sodium",
+ "edi_code": "",
+ "atc_code": "M05BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602328",
+ "revisions": [
+  {
+   "revision_id": "201602328-ed067073",
+   "content_sha256": "ed067073524eda12aac2e022caed4b78f05beeb5f75f3cf864e5ba76b43d666b",
+   "ee_text": "* 35 mg 1. 폐경 후 여성의 골다공증 치료와 예방 2. 남성의 골다공증 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201602328/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:30Z",
+   "last_observed_at": "2026-09-08T08:50:30Z"
+  },
+  {
+   "revision_id": "201602328-040a7759",
+   "content_sha256": "040a77597f08a688a00fe1ec7243b313df82f5b665d0edbeedb87ed5df9e70f8",
+   "ee_text": "1. 폐경 후 여성의 골다공증 치료와 예방 2. 남성의 골다공증 치료",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:50:30Z",
+   "last_observed_at": "2026-09-08T08:50:30Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:30Z"
+}

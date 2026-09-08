@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400705",
+ "item_name": "장제로큐장용정",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20240329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M081899]센나엽가루|[M081950]도큐세이트나트륨",
+ "main_item_ingr_eng": "Bisacodyl/Docusate Sodium/Senna Leaf Powder",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400705",
+ "revisions": [
+  {
+   "revision_id": "202400705-ef2fae9a",
+   "content_sha256": "ef2fae9af8c8ed8abf2d812edcd885491f897df724559a1536c8970eb9941eaa",
+   "ee_text": "ㆍ변비 ㆍ변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:52Z",
+   "last_observed_at": "2026-09-08T09:02:52Z",
+   "official_revision_date": "2024-03-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:52Z"
+}

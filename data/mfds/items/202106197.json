@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106197",
+ "item_name": "홀로덤(자기유래피부각질세포)",
+ "entp_name": "테고사이언스(주)",
+ "permit_date": "20210827",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281369]자기유래피부각질세포",
+ "main_item_ingr_eng": "Autologous Keratinocytes",
+ "edi_code": "",
+ "atc_code": "D03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106197",
+ "revisions": [
+  {
+   "revision_id": "202106197-1b64345f",
+   "content_sha256": "1b64345fe9eb278eb03a6043c68ebcf1cdf8d062fcb734e139fb76749223f908",
+   "ee_text": "다음과 같은 상처에 이식하여 기능적인 표피층이 생성되도록 한다. 1. 심한 이도화상이 체표면적의 30% 이상을 차지하는 화상 2. 삼도화상이 체표면적의 10% 이상을 차지하는 화상",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:30Z",
+   "last_observed_at": "2026-09-08T09:00:30Z",
+   "official_revision_date": "2021-08-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:30Z"
+}

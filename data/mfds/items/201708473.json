@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708473",
+ "item_name": "리코발라민주(메코발라민)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20171221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050436]메코발라민",
+ "main_item_ingr_eng": "Mecobalamin",
+ "edi_code": "",
+ "atc_code": "B03BA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708473",
+ "revisions": [
+  {
+   "revision_id": "201708473-7d3d9812",
+   "content_sha256": "7d3d9812ab6d40515d596f35c36998c231fcefd8f0a693df641c34951b5ac8dc",
+   "ee_text": "1. 말초성 신경장애 2. 비타민 B12 결핍에 의한 거대적아구성빈혈",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:42Z",
+   "last_observed_at": "2026-09-08T08:52:42Z",
+   "official_revision_date": "2017-12-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:42Z"
+}

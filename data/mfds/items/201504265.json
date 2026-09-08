@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201504265",
+ "item_name": "포스레놀산1000밀리그램(탄산란탄)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20150630",
+ "cancel_date": "20241205",
+ "status": "취하",
+ "main_item_ingr": "[M102671]탄산란탄",
+ "main_item_ingr_eng": "Lanthanum Carbonate",
+ "edi_code": "",
+ "atc_code": "V03AE03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504265",
+ "revisions": [
+  {
+   "revision_id": "201504265-f5bfa6bf",
+   "content_sha256": "f5bfa6bff8d5f2616059a9c6b9154d3c05d39bb3f9faa31b54b6f9198c565851",
+   "ee_text": "혈액투석이나 복막투석을 받는 만성신부전 환자 또는 인 제한 식이요법만으로 혈청 인산 수치가 충분히 조절되지 않고 1.78 mmol/L 이상인 투석을 하지 않는 만성 신장 질환 환자의 고인산혈증 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:16Z",
+   "last_observed_at": "2026-09-08T08:49:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:16Z"
+}

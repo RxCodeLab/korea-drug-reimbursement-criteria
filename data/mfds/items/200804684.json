@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200804684",
+ "item_name": "펜타비타주(덱스판테놀)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20080425",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082390]덱스판테놀",
+ "main_item_ingr_eng": "Dexpanthenol",
+ "edi_code": "",
+ "atc_code": "A11HA30",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804684",
+ "revisions": [
+  {
+   "revision_id": "200804684-d93d4a64",
+   "content_sha256": "d93d4a64bfae37eb8782c492b7ae94a693687e4d6cac27a9a8de8e3fcbc8fd45",
+   "ee_text": "1. 주효능 효과 1) 판토텐산결핍증의 예방 및 치료 2) 판토텐산의 수요가 증대하고 식사로부터 섭취가 불충분한 때의 보급(소모성 질환, 갑상선기능항진증, 임부, 수유부 등) 3) 다음 질환 중 판토텐산의 결핍 또는 대사 장애가 관여한다고 추정되는 경우 : 스트렙토마이신 및 카나마이신에 따른 부작용의 예방 및 치료, 접촉피부염, 급 만성습진, 수술 후 장관 마비",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:27Z",
+   "last_observed_at": "2026-09-08T08:42:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:27Z"
+}

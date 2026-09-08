@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301279",
+ "item_name": "비코딜에스정",
+ "entp_name": "(주)인트로바이오파마",
+ "permit_date": "20230419",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Bisacodyl/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301279",
+ "revisions": [
+  {
+   "revision_id": "202301279-4480de99",
+   "content_sha256": "4480de99eb69096aff163c501820cb125d8459fade4fad68d679a4d80d3422f4",
+   "ee_text": "·변비 ·변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내 이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:01Z",
+   "last_observed_at": "2026-09-08T09:02:01Z",
+   "official_revision_date": "2023-04-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:01Z"
+}

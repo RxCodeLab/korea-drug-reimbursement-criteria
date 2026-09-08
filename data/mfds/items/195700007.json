@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "195700007",
+ "item_name": "대한멸균증류수(주사용수)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "19570611",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040534]주사용수",
+ "main_item_ingr_eng": "Water For Injection",
+ "edi_code": "645100631,645100632,645100643",
+ "atc_code": "V07AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=195700007",
+ "revisions": [
+  {
+   "revision_id": "195700007-91255810",
+   "content_sha256": "912558102aca846389abb66c736992c074280c30e4caa9d480d2505f41ae9610",
+   "ee_text": "점안제, 주입제, 시약등의 조제나 약품 제조에 사용함",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:13Z",
+   "last_observed_at": "2026-09-08T08:26:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:13Z"
+}

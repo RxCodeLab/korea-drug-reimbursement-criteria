@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197200484",
+ "item_name": "맥페란정(메토클로프라미드)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "19720210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050465]메토클로프라미드",
+ "main_item_ingr_eng": "Metoclopramide",
+ "edi_code": "642701320",
+ "atc_code": "A03FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197200484",
+ "revisions": [
+  {
+   "revision_id": "197200484-aa142551",
+   "content_sha256": "aa142551815f59351573890076ea190ba426ea6d5c31536b2b9342c386810c27",
+   "ee_text": "(성인) ㆍ 항암화학요법 후 지연된 구역ㆍ구토 예방 ㆍ 방사선요법 유발 구역ㆍ구토 예방 ㆍ 구역ㆍ구토의 증상 치료 (1～18세 소아) ㆍ 2차 치료로써 항암화학요법 후 지연된 구역ㆍ구토 예방",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:19Z",
+   "last_observed_at": "2026-09-08T08:26:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:19Z"
+}

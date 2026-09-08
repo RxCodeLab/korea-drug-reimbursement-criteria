@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008259",
+ "item_name": "덱스판텐정100밀리그램(덱스판테놀)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20201126",
+ "cancel_date": "20240708",
+ "status": "취하",
+ "main_item_ingr": "[M278679]덱스판테놀",
+ "main_item_ingr_eng": "Dexpanthenol",
+ "edi_code": "",
+ "atc_code": "D11AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008259",
+ "revisions": [
+  {
+   "revision_id": "202008259-aa54f74a",
+   "content_sha256": "aa54f74ac901e70b6a721915c197ab12fabb9bbf3979ba719215d99da283ae27",
+   "ee_text": "탈모의 보조치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:43Z",
+   "last_observed_at": "2026-09-08T08:59:43Z",
+   "official_revision_date": "2020-11-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:43Z"
+}

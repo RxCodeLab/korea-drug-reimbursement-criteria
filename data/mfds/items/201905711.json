@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "G04BE08",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905711",
+ "history_fetched_at": "2026-08-28T13:25:10Z",
  "revisions": [
   {
-   "revision_id": "201905711-eaee17a8",
-   "content_sha256": "eaee17a8b97d16869c45848cfd7ad62ec06ca23ea447065217779d5983caa18d",
-   "ee_text": "전립선비대증에 수반한 배뇨장해 본제의 적용 시, 전립선비대증의 진단 및 진료에 관한 국내외 가이드라인 등 최신 정보를 참고로 적절한 검사에 따라 진단을 확정할 것.",
+   "revision_id": "201905711-0f19f717",
+   "content_sha256": "0f19f7173d67fd465baffac812796f67cd7b84b18f4d26d4d45d0c5ca9a1aac1",
+   "ee_text": "전립선비대증에 수반한 배뇨장해 <효능효과에 관련된 사용상의 주의사항> 본제의 적용 시, 전립선비대증의 진단 및 진료에 관한 국내외 가이드라인 등 최신 정보를 참고로 적절한 검사에 따라 진단을 확정할 것.",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:10Z",
-   "last_observed_at": "2026-08-28T13:25:10Z",
-   "official_revision_date": "2019-08-13"
+   "last_observed_at": "2026-09-08T08:56:05Z",
+   "official_revision_date": "2019-08-13",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:10Z"
+ ]
 }

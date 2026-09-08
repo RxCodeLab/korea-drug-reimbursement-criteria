@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200307847",
+ "item_name": "레메론솔탭정15밀리그램(제피미르타자핀)",
+ "entp_name": "한국오가논(주)",
+ "permit_date": "20031016",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260571]제피미르타자핀",
+ "main_item_ingr_eng": "Mirtazapine Coated",
+ "edi_code": "073100150",
+ "atc_code": "N06AX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307847",
+ "revisions": [
+  {
+   "revision_id": "200307847-cf12792b",
+   "content_sha256": "cf12792bdcc39b7d393fa41a10419696c6a134ddf983f933b1d5869114761ea5",
+   "ee_text": "주요 우울증",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:20Z",
+   "last_observed_at": "2026-09-08T08:37:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:20Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402013",
+ "item_name": "씨엠티정(시메티딘)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20140425",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050857]시메티딘",
+ "main_item_ingr_eng": "Cimetidine",
+ "edi_code": "",
+ "atc_code": "A02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402013",
+ "revisions": [
+  {
+   "revision_id": "201402013-30716132",
+   "content_sha256": "30716132e12afbb7f3d0591a0747cab4603b25fd04884ac6a9e9f4c166275917",
+   "ee_text": "1. 위·십이지장궤양, 역류성식도염, 재발성궤양, 문합부궤양, 졸링거-엘리슨증후군 2. 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급 성악화기",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:59Z",
+   "last_observed_at": "2026-09-08T08:46:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:59Z"
+}

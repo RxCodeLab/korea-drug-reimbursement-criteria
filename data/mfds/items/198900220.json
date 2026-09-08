@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198900220",
+ "item_name": "주사용독소루비신메이지50밀리그람(수출용)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "19891222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222835]독소루비신염산염",
+ "main_item_ingr_eng": "Doxorubicin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "L01DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900220",
+ "revisions": [
+  {
+   "revision_id": "198900220-1d996a8d",
+   "content_sha256": "1d996a8dc5648e9c57708f2e994d723fbf7d28a9c27048643825a411b9461998",
+   "ee_text": "(주사제) 악성 림프종(림프육종, 호지킨병 및 비호지킨병), 소화기암(위암, 간암, 직장암, 담낭 및 담관암, 결장암, 췌장암), 급성골수성백혈병, 연조직골육종, 유방암, 난소암, 폐암, 기관지암, 방광암, 윌름즈종양 (케릭스주사-쉐링푸라우코리아) 1. 이전의 병용 화학요법으로 질환이 계속 진행되거나 과민반응을 보이는 환자에서 AIDS 관련성 카포시 육종 2. 파크리탁셀 또는 백금착제 항암제를 포함하는 화학요법제에 반응이 없는 전이성 난소암",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:48Z",
+   "last_observed_at": "2026-09-08T08:27:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:48Z"
+}

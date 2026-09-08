@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100454",
+ "item_name": "성광알파헥시딘가글액(글루콘산클로르헥시딘액)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20010102",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051536]글루콘산클로르헥시딘액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "657400204",
+ "atc_code": "R02AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100454",
+ "revisions": [
+  {
+   "revision_id": "200100454-613fd8b2",
+   "content_sha256": "613fd8b200d513a9e7e1f72b88ee6b1dc65ddada20b7eaad1caa08ad8d5cfc8e",
+   "ee_text": "1. 주효능 효과 다음 질환에 의한 염증의 완화 : 보철(의치)에 의한 염증, 아구창 등의 구강내 칸디다감염증, 치은염, 인두염, 아프타성 구내염 2. 다음 질환에도 사용할 수 있다. 치근막 수술 후 살균소독",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:53Z",
+   "last_observed_at": "2026-09-08T08:34:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:53Z"
+}

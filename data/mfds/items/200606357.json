@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200606357",
+ "item_name": "보노렉스350주(이오헥솔)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20061011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088960]이오헥솔",
+ "main_item_ingr_eng": "Iohexol",
+ "edi_code": "645101521,645101522,645101523,645101524,645101529,645101531,645101532,645101541,645101542,645101543",
+ "atc_code": "V08AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606357",
+ "revisions": [
+  {
+   "revision_id": "200606357-3e9c2e34",
+   "content_sha256": "3e9c2e34024b0492cee1c702a6beb3b10f1bb6dd2a3c1e147b1ee7620608562a",
+   "ee_text": "1. 혈관조영 2. 정맥요로조영(IVP) 3. CT 조영증강 4. 체강조영 : 관절조영, 소화관조영 5. 조영증강 유방촬영술(Contrast-Enhanced Mammography): 알려지거나 의심스러운 유방병변이 있는 환자 중 ᆞ유방촬영술(mammography)(초음파검사 실시 여부와 상관없이)에 추가적으로 진단이 필요한 환자 ᆞ자기공명영상(Magnetic Resonance Imaging) 검사를 이용할 수 없는 환자",
+   "ee_doc_id": "39",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:25Z",
+   "last_observed_at": "2026-09-08T08:40:25Z",
+   "official_revision_date": "2025-03-26"
+  },
+  {
+   "revision_id": "200606357-385a8e34",
+   "content_sha256": "385a8e34cf0c1f78c6f077939c872f918984d9c1e1dbed76aaf0e6144319188f",
+   "ee_text": "1. 혈관조영 2. 정맥요로조영(IVP) 3. CT 조영증강 4. 체강조영 : 관절조영, 소화관조영",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:40:25Z",
+   "last_observed_at": "2026-09-08T08:40:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:25Z"
+}

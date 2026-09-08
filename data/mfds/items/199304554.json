@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A02AC01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199304554",
+ "history_fetched_at": "2026-08-28T13:23:45Z",
  "revisions": [
   {
-   "revision_id": "199304554-86774916",
-   "content_sha256": "86774916392e2160a503eb71b8b906809bbbcf783dc1543235717c9aab3018a7",
-   "ee_text": "1) 다음 질환의 제산작용 및 증상의 개선 : 위십이지장궤양, 위염, 위산과다 2) 칼슘보급",
+   "revision_id": "199304554-30d23712",
+   "content_sha256": "30d2371289b3b751af81177018a0ec3f9a0fca05996c79238990369188d02644",
+   "ee_text": "1. 주효능 효과 1) 다음 질환의 제산작용 및 증상의 개선 : 위십이지장궤양, 위염, 위산과다 2) 칼슘보급",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:23:45Z",
-   "last_observed_at": "2026-08-28T13:23:45Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:28:59Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:45Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905869",
+ "item_name": "삼성타우로리딘주",
+ "entp_name": "삼성제약(주)",
+ "permit_date": "20190820",
+ "cancel_date": "20240820",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M081946]타우로리딘",
+ "main_item_ingr_eng": "Taurolidine",
+ "edi_code": "",
+ "atc_code": "B05CA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905869",
+ "revisions": [
+  {
+   "revision_id": "201905869-61845ce2",
+   "content_sha256": "61845ce29e6088fedd5b225af452de3880fde75e9e44e6f7b0bed98371014f70",
+   "ee_text": "1. 화농성ㆍ숙변성ㆍ세균성 또는 기타 원인에 의한 국소적 또는 광범위 복부(복막염) 수술의 감염예방목적의 보조 치료 2. 뼈와 연조직 손상 3. 흉막강 농양",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:09Z",
+   "last_observed_at": "2026-09-08T08:56:09Z",
+   "official_revision_date": "2019-08-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:09Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601089",
+ "item_name": "모드콜이부노즈연질캡슐",
+ "entp_name": "(주)종근당",
+ "permit_date": "20260415",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜|[M203364]슈도에페드린염산염|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/Ibuprofen/Pseudoephedrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R01BA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601089",
+ "revisions": [
+  {
+   "revision_id": "202601089-851f089b",
+   "content_sha256": "851f089b7b3e7c8b9af48e36d6f59f6a932c39d06f46a12a63b21b425dda9e79",
+   "ee_text": "감기의 제증상(여러증상)(콧물, 코막힘, 재채기, 인후(목구멍)통, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:01Z",
+   "last_observed_at": "2026-09-08T09:05:01Z",
+   "official_revision_date": "2026-04-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:01Z"
+}

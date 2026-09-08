@@ -7,7 +7,7 @@
  "permit_date": "20200508",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M270039]dl-메틸에페드린염산염|[M222957]덱스트로메토르판브롬화수소산염수화물|[M050058]구아이페네신|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M050058]구아이페네신|[M222957]덱스트로메토르판브롬화수소산염수화물|[M270039]dl-메틸에페드린염산염",
  "main_item_ingr_eng": "Acetaminophen/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate/Guaifenesin",
  "edi_code": "",
  "atc_code": "R05X",
@@ -20,7 +20,8 @@
    "ee_text": "감기의 제증상(여러증상)(인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202003344/EE",
    "first_observed_at": "2026-08-27T13:03:02Z",
-   "last_observed_at": "2026-08-28T13:25:18Z"
+   "last_observed_at": "2026-09-08T08:58:44Z",
+   "normalizer_version": 3
   }
  ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905678",
+ "item_name": "치오넥스주(티옥트산트로메타민)(수출용)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20190812",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256358]티옥트산트로메타민",
+ "main_item_ingr_eng": "Thioctic Acid Tromethamine",
+ "edi_code": "",
+ "atc_code": "A16AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905678",
+ "revisions": [
+  {
+   "revision_id": "201905678-75c9bbb0",
+   "content_sha256": "75c9bbb03dc2fcda369df991a2c939b4f3deb8692c912dc35354144a7c99dd81",
+   "ee_text": "당뇨병 다발신경병증의 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:05Z",
+   "last_observed_at": "2026-09-08T08:56:05Z",
+   "official_revision_date": "2019-08-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:05Z"
+}

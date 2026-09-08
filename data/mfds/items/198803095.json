@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198803095",
+ "item_name": "누마렌점안액(1회용),누마렌점안액",
+ "entp_name": "한림제약(주)",
+ "permit_date": "19880726",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040083]덱스트란70|[M040083]덱스트란70|[M040083]덱스트란70|[M040083]덱스트란70|[M102967]히프로멜로오스|[M102967]히프로멜로오스|[M102967]히프로멜로오스|[M102967]히프로멜로오스",
+ "main_item_ingr_eng": "Dextran 70/Hypromellose",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198803095",
+ "revisions": [
+  {
+   "revision_id": "198803095-18ccb27b",
+   "content_sha256": "18ccb27bbd51d2c7cf3a056b74211f2ba6f3b39581997b4edfde450e3654808c",
+   "ee_text": "눈물 분비 부족 및 점액 부족에 의한 눈의 건조",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:45Z",
+   "last_observed_at": "2026-09-08T08:27:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:45Z"
+}

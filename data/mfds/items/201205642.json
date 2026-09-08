@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201205642",
+ "item_name": "필류마리스캡슐(결정글루코사민황산염)(수출용)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20120619",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247626]결정글루코사민황산염",
+ "main_item_ingr_eng": "Crystallized Glucosamine Sulfate",
+ "edi_code": "",
+ "atc_code": "M01AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205642",
+ "revisions": [
+  {
+   "revision_id": "201205642-0f63c6f4",
+   "content_sha256": "0f63c6f4d2e07bb4244092178ebc49b6d74f1d259ae8928cfc1fc7d4337d1e5b",
+   "ee_text": "경증에서 중등도의 골관절염(퇴행성관절염)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:20Z",
+   "last_observed_at": "2026-09-08T08:45:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:20Z"
+}

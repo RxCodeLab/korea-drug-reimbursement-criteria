@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201888",
+ "item_name": "브로민정45밀리그램(브로멜라인)",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20220510",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095415]브로멜라인",
+ "main_item_ingr_eng": "Bromelain",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201888",
+ "revisions": [
+  {
+   "revision_id": "202201888-6473719b",
+   "content_sha256": "6473719be714a766798e31366f187317e02abd98c2ae4c94935518762d143475",
+   "ee_text": "부종을 동반한 염증 증상의 완화, 외상 또는 수술 후의 부종",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:18Z",
+   "last_observed_at": "2026-09-08T09:01:18Z",
+   "official_revision_date": "2022-05-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:18Z"
+}

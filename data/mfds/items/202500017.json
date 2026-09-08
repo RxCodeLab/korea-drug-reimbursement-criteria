@@ -7,21 +7,22 @@
  "permit_date": "20250103",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223240]토코페롤아세테이트|[M040133]리보플라빈|[M223262]티아민질산염|[M256191]콘드로이틴설페이트나트륨|[M040003]간유",
+ "main_item_ingr": "[M040003]간유|[M040133]리보플라빈|[M223240]토코페롤아세테이트|[M223262]티아민질산염|[M256191]콘드로이틴설페이트나트륨",
  "main_item_ingr_eng": "Cod Liver Oil/Riboflavin/Sodium Chondroitin Sulfate/Thiamine Nitrate/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500017",
+ "history_fetched_at": "2026-08-28T13:25:37Z",
  "revisions": [
   {
-   "revision_id": "202500017-e2a4abb5",
-   "content_sha256": "e2a4abb51dcacce502e166463ff7bafddf9af3eec95f578c9225be67924a5718",
-   "ee_text": "1 , B 2 의 보급\"> 1 (티아민질산염): 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등)]]> 2 (리보플라빈): 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염]]>",
+   "revision_id": "202500017-c9e40f7e",
+   "content_sha256": "c9e40f7e234eaaf6b24390a7792d0ff27e22894f3e9032c07736684585b5b429",
+   "ee_text": "○ 다음경우의 비타민 A, E, B1, B2의 보급 - 육체피로 - 임신 · 수유기 - 병중 · 병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 - 이 약에 함유된 비타민 등의 효능 · 효과는 다음과 같다. · 비타민A(간유): 눈의 건조감의 완화 · 야맹증(밤에 잘 못보는 증상) · 비타민E(토코페롤아세테이트): 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨 · 목결림, 수족저림 · 수족냉증(손발이 차가움) · 비타민B1(티아민질산염): 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) · 각기 · 눈의피로 · 비타민B2(리보플라빈): 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:37Z",
-   "last_observed_at": "2026-08-28T13:25:37Z",
-   "official_revision_date": "2025-01-03"
+   "last_observed_at": "2026-09-08T09:03:36Z",
+   "official_revision_date": "2025-01-03",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:37Z"
+ ]
 }

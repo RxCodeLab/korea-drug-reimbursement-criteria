@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106440",
+ "item_name": "럭스터나주(보레티진네파보벡)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20210909",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281405]보레티진네파보벡",
+ "main_item_ingr_eng": "Voretigene neparvovec",
+ "edi_code": "653603481",
+ "atc_code": "S01XA27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106440",
+ "revisions": [
+  {
+   "revision_id": "202106440-b5f47223",
+   "content_sha256": "b5f472232b6fde5b67b5bb92197cb47ad6c45e6646739930e770d47c1826e11f",
+   "ee_text": "이중대립유전자성(biallelic) RPE65 돌연변이에 의한 유전성 망막디스트로피(Inherited retinal dystrophy)로 시력을 손실하였으며, 충분한 생존 망막 세포를 가지고 있는 성인 및 소아의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:34Z",
+   "last_observed_at": "2026-09-08T09:00:34Z",
+   "official_revision_date": "2021-09-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:34Z"
+}

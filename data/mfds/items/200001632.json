@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001632",
+ "item_name": "브로맥스정(푸마르산포르모테롤)(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20001220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081683]푸마르산포르모테롤",
+ "main_item_ingr_eng": "Formoterol Fumarate",
+ "edi_code": "",
+ "atc_code": "R03CC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001632",
+ "revisions": [
+  {
+   "revision_id": "200001632-b447c123",
+   "content_sha256": "b447c123f7e55dc31cb385445f3abeeceb7bd136b35cc823703c14926efbbf02",
+   "ee_text": "하기 질환의 기도폐쇄성 장에 기인하는 호흡곤란 등 제증상의 완화 :기관지천식, 급·만성기관지염, 천식성기관지염, 폐기종",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:45Z",
+   "last_observed_at": "2026-09-08T08:33:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:45Z"
+}

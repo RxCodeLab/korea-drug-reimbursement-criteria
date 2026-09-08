@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199500959",
+ "item_name": "환인그란닥신정(토피소팜)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "19950628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085768]토피소팜",
+ "main_item_ingr_eng": "Tofisopam",
+ "edi_code": "657201010",
+ "atc_code": "N05BA23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500959",
+ "revisions": [
+  {
+   "revision_id": "199500959-52dfdce2",
+   "content_sha256": "52dfdce2cb0b42fa8b1fbf583e89f102a96d4354d848195055c1111b018d7ba0",
+   "ee_text": "다음 질환에 의한 두통, 두중감, 권태감, 심계항진, 발한 등의 자율신경 증상 : 자율신경불균형, 두부·경부 손상, 갱년기장애·난소기능상실 증상",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:32Z",
+   "last_observed_at": "2026-09-08T08:29:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:32Z"
+}

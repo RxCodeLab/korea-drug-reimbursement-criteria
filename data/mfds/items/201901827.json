@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901827",
+ "item_name": "명인하이드로코티손숙신산나트륨주500밀리그램(수출용)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20190327",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269241]하이드로코티손숙신산",
+ "main_item_ingr_eng": "Hydrocortisone Succinate",
+ "edi_code": "",
+ "atc_code": "H02AB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901827",
+ "revisions": [
+  {
+   "revision_id": "201901827-b9980258",
+   "content_sha256": "b998025804dc24763da1ce9eb08a19e59f96b6982bde69e973414ef738a98042",
+   "ee_text": "급성 순환 부전(출혈성 쇼크, 외상 후 쇼크) 및 급성 쇼크-유사 상태 기관지 천식",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:38Z",
+   "last_observed_at": "2026-09-08T08:54:38Z",
+   "official_revision_date": "2019-03-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:38Z"
+}

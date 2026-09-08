@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805220",
+ "item_name": "피롤정(피리도스티그민브로마이드)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20080507",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070532]브롬화피리도스티그민",
+ "main_item_ingr_eng": "Pyridostigmine Bromide",
+ "edi_code": "",
+ "atc_code": "N07AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805220",
+ "revisions": [
+  {
+   "revision_id": "200805220-28fc8add",
+   "content_sha256": "28fc8add098477084d06d792863275cb18d620fe9a3a729a43827ce2a14516ef",
+   "ee_text": "중증 근무력증",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:29Z",
+   "last_observed_at": "2026-09-08T08:42:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:29Z"
+}

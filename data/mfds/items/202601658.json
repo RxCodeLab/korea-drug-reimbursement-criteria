@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601658",
+ "item_name": "펠비펜정30밀리그램(펠루비프로펜)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20260611",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280896]펠루비프로펜(미분화)",
+ "main_item_ingr_eng": "Pelubiprofen Micronized",
+ "edi_code": "657309340",
+ "atc_code": "M01AE20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601658",
+ "revisions": [
+  {
+   "revision_id": "202601658-a1e0cee8",
+   "content_sha256": "a1e0cee87c6f6182226ecbfe835d992f450961df6cbc245f1438971699b71e2a",
+   "ee_text": "1. 다음 질환의 증상이나 징후의 완화 : 골관절염, 류마티스관절염, 요통(허리통증) 2. 다음 질환의 해열 : 급성 상기도염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:17Z",
+   "last_observed_at": "2026-09-08T09:05:17Z",
+   "official_revision_date": "2026-06-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:17Z"
+}

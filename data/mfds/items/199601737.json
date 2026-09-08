@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199601737",
+ "item_name": "수출용안티비오과립(락토바실루스아시도필루스)(수출명:수출용안티비오프로과립)(수출용1),수출용안티비오트로피컬과립(락토바실루스아시도필루스)(수출용2)",
+ "entp_name": "한화제약(주)",
+ "permit_date": "19960705",
+ "cancel_date": "20250310",
+ "status": "취하",
+ "main_item_ingr": "[M050337]락토바실루스아시도필루스|[M050337]락토바실루스아시도필루스",
+ "main_item_ingr_eng": "Lactobacillus Acidophilus",
+ "edi_code": "",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199601737",
+ "revisions": [
+  {
+   "revision_id": "199601737-49f6c3a3",
+   "content_sha256": "49f6c3a3ed65ccc05dda6cf5a8131280a07cbcd947c2169a249e86cede663aa4",
+   "ee_text": "1. 주효능 효과 장내균총 이상(항생물질, 화학요법제 투여 등)에 의한 여러 증상의 개선 : 정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:17Z",
+   "last_observed_at": "2026-09-08T08:30:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:17Z"
+}

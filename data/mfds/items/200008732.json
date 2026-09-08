@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008732",
+ "item_name": "리렌자로타디스크5밀리그램(자나미비르)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20000426",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261204]자나미비르(미분화)",
+ "main_item_ingr_eng": "Zanamivir Micronized",
+ "edi_code": "",
+ "atc_code": "J05AH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008732",
+ "revisions": [
+  {
+   "revision_id": "200008732-fe362693",
+   "content_sha256": "fe36269332fb8e4f0915246b26a647c8f17adac5d5395c7078a2aaeeefc26179",
+   "ee_text": "1. 성인 및 7세 이상 소아에서 인플루엔자 A 및 인플루엔자 B 바이러스 감염증의 치료(인플루엔자 감염의 초기 증상 발현 48시간 이내에 투여를 시작해야 한다.) 2. 성인 및 7세 이상 소아에서 인플루엔자 A 및 인플루엔자 B 바이러스 감염증의 예방(인플루엔자 바이러스 감염증에 대한 예방의 1차요법은 백신요법이므로 백신에 당해 유행주가 포함되어 있지 않은 경우 또는 백신의 효과를 기대할 수 없거나 백신접종을 하지 못하는 경우에 한하여 사용하며 이 약은 예방접종을 대체할 수 없다.)",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:30Z",
+   "last_observed_at": "2026-09-08T08:34:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:30Z"
+}

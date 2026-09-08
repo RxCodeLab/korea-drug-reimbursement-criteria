@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501352",
+ "item_name": "챔큐비타시럽",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20250530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M082729]글루콘산아연|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223262]티아민질산염|[M241790]베타인염산염",
+ "main_item_ingr_eng": "Betaine Hydrochloride/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Thiamine Nitrate/Zinc Gluconate",
+ "edi_code": "",
+ "atc_code": "A11EX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501352",
+ "revisions": [
+  {
+   "revision_id": "202501352-c6602d47",
+   "content_sha256": "c6602d47e33fe5d369a7d5d0ae54bd1fd965d6bcdfe33702ff375a6a5a57e7e8",
+   "ee_text": "○ 다음 경우의 비타민 B1, B2, B6의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하 시 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. • 비타민B2(리보플라빈포스페이트나트륨) · 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:57Z",
+   "last_observed_at": "2026-09-08T09:03:57Z",
+   "official_revision_date": "2025-05-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:57Z"
+}

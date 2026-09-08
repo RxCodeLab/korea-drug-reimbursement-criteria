@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600951",
+ "item_name": "알레고비트데포주사(알러젠추출물)",
+ "entp_name": "알레파인터내셔날",
+ "permit_date": "20160218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093527]알러젠추출물|[M093527]알러젠추출물",
+ "main_item_ingr_eng": "Allergen Extract",
+ "edi_code": "",
+ "atc_code": "V01AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600951",
+ "revisions": [
+  {
+   "revision_id": "201600951-392a1407",
+   "content_sha256": "392a140728a8ef4609a52af1700e8c400e1d599e843cd7c72be4fbf16ca12cdb",
+   "ee_text": "IgE를 매개로 한 알러젠에 의한 알레르기성 비염, 결막염의 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:15Z",
+   "last_observed_at": "2026-09-08T08:50:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:15Z"
+}

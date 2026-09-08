@@ -7,11 +7,12 @@
  "permit_date": "19890419",
  "cancel_date": "20231001",
  "status": "유효기간만료",
- "main_item_ingr": "[M050752]생강|[M040071]대추|[M051291]인삼|[M040447]오수유",
+ "main_item_ingr": "[M040071]대추|[M040447]오수유|[M050752]생강|[M051291]인삼",
  "main_item_ingr_eng": "Evodia Fruit/Ginseng/Jujube/Raw Ginger",
  "edi_code": "",
  "atc_code": "A16AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901465",
+ "history_fetched_at": "2026-08-28T13:23:42Z",
  "revisions": [
   {
    "revision_id": "198901465-502a370c",
@@ -19,9 +20,9 @@
    "ee_text": "명치가 팽만하고 손발이 차가워지는 사람의 다음 증상 : 두통, 두통에 따르는 구역, 딸꾹질",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:23:42Z",
-   "last_observed_at": "2026-08-28T13:23:42Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:27:53Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:42Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201000707",
+ "item_name": "키아다제주(히알루로니다제)(수출용)(수출명:Kyadase Inj)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20100121",
+ "cancel_date": "20240708",
+ "status": "취하",
+ "main_item_ingr": "[M209056]히알루로니다제",
+ "main_item_ingr_eng": "Hyaluronidase",
+ "edi_code": "",
+ "atc_code": "B06AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000707",
+ "revisions": [
+  {
+   "revision_id": "201000707-84024a91",
+   "content_sha256": "84024a916a0afc2d8af9934773d7b55156a043695732c58c080b2896a98fb7cf",
+   "ee_text": "1. 피하주사나 근육주사, 국소마취제 및 피하주입 시 침투력 증가 2. 조직 내 과다하게 존재하는 체액 및 혈액의 재흡수 촉진",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:46Z",
+   "last_observed_at": "2026-09-08T08:43:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:46Z"
+}

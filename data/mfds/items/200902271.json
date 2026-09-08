@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200902271",
+ "item_name": "경남아스니친주(L-아스파라긴산-L-오르니친)(수출용)",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20090330",
+ "cancel_date": "20250623",
+ "status": "취하",
+ "main_item_ingr": "[M089565]L-아스파라긴산-L-오르니친",
+ "main_item_ingr_eng": "L-Ornithine-L-Aspartate Hydrate",
+ "edi_code": "",
+ "atc_code": "A05BA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902271",
+ "revisions": [
+  {
+   "revision_id": "200902271-5464c38c",
+   "content_sha256": "5464c38cedf336418599d325b5e88f6989add8151c9107535c1797714dab954e",
+   "ee_text": "다음의 중증의 간질환 해독 : 간경변, 만성간염, 간성뇌증(혼수 전단계·혼수포함)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:11Z",
+   "last_observed_at": "2026-09-08T08:43:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:11Z"
+}

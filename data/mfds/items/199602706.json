@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199602706",
+ "item_name": "마오비정(셀레길린염산염)",
+ "entp_name": "초당약품공업(주)",
+ "permit_date": "19960506",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222864]셀레길린염산염",
+ "main_item_ingr_eng": "Selegiline Hydrochloride",
+ "edi_code": "670700270",
+ "atc_code": "N04BD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602706",
+ "revisions": [
+  {
+   "revision_id": "199602706-249b6c88",
+   "content_sha256": "249b6c88ca8dfe088f43ed6769abb1121aff788df9edbfca1a21322e7adb2b86",
+   "ee_text": "1. 초기 파킨슨증후군의 단독요법(레보도파 치료시작 시기 연장) 2. 레보도파 제제와 병용투여 시 레보도파의 효과를 증가, 지속(레보도파 감량 가능)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:23Z",
+   "last_observed_at": "2026-09-08T08:30:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:23Z"
+}

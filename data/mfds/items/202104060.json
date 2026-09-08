@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104060",
+ "item_name": "펠로엔정(펠루비프로펜(미분화))",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20210524",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280896]펠루비프로펜(미분화)",
+ "main_item_ingr_eng": "Pelubiprofen Micronized",
+ "edi_code": "670608760",
+ "atc_code": "M01AE20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104060",
+ "revisions": [
+  {
+   "revision_id": "202104060-a1e0cee8",
+   "content_sha256": "a1e0cee87c6f6182226ecbfe835d992f450961df6cbc245f1438971699b71e2a",
+   "ee_text": "1. 다음 질환의 증상이나 징후의 완화 : 골관절염, 류마티스관절염, 요통(허리통증) 2. 다음 질환의 해열 : 급성 상기도염",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:13Z",
+   "last_observed_at": "2026-09-08T09:00:13Z",
+   "official_revision_date": "2022-03-04"
+  },
+  {
+   "revision_id": "202104060-4fd663fc",
+   "content_sha256": "4fd663fc914f54695fc094b24bc49a06abcb0f2bdd6308bf27f92a92db94a62f",
+   "ee_text": "다음 질환의 증상이나 징후의 완화 : 골관절염, 류마티스관절염, 요통(허리통증)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-11-09",
+   "first_observed_at": "2026-09-08T09:00:13Z",
+   "last_observed_at": "2026-09-08T09:00:13Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:13Z"
+}

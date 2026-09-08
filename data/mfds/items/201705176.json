@@ -7,11 +7,12 @@
  "permit_date": "20170630",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M200188]노닐산바닐릴아미드|[M204423]dl-캄파|[M230875]l-멘톨|[M203279]살리실산메틸|[M200188]노닐산바닐릴아미드|[M204423]dl-캄파|[M230875]l-멘톨|[M203279]살리실산메틸|[M200188]노닐산바닐릴아미드|[M204423]dl-캄파|[M230875]l-멘톨|[M203279]살리실산메틸",
+ "main_item_ingr": "[M200188]노닐산바닐릴아미드|[M200188]노닐산바닐릴아미드|[M200188]노닐산바닐릴아미드|[M203279]살리실산메틸|[M203279]살리실산메틸|[M203279]살리실산메틸|[M204423]dl-캄파|[M204423]dl-캄파|[M204423]dl-캄파|[M230875]l-멘톨|[M230875]l-멘톨|[M230875]l-멘톨",
  "main_item_ingr_eng": "DL-Camphor/L-Menthol/Methyl Salicylate/Vanillyl Nonylamide",
  "edi_code": "",
  "atc_code": "M02AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705176",
+ "history_fetched_at": "2026-08-28T13:24:56Z",
  "revisions": [
   {
    "revision_id": "201705176-59975997",
@@ -19,8 +20,9 @@
    "ee_text": "다음 증상의 진통ㆍ소염(항염) : 타박상, 삠, 요(허리)통, 어깨결림, 근육통, 관절통",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:24:56Z",
-   "last_observed_at": "2026-08-28T13:24:56Z",
-   "official_revision_date": "2017-08-16"
+   "last_observed_at": "2026-09-08T08:52:02Z",
+   "official_revision_date": "2017-08-16",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201705176-8483c7ee",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:56Z",
    "last_observed_at": "2026-08-28T13:24:56Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:56Z"
+ ]
 }

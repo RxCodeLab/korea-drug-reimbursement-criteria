@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200905653",
+ "item_name": "알지엔스피드연질캡슐10밀리그램(세티리진염산염)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20090720",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222857]세티리진염산염",
+ "main_item_ingr_eng": "Cetirizine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AE07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905653",
+ "revisions": [
+  {
+   "revision_id": "200905653-53c8452c",
+   "content_sha256": "53c8452cfb2dcb4bf23814e1e6d996bc1a32e9e79413e685adc90b11e40c172b",
+   "ee_text": "계절성 및 다년성 알레르기성 비염(코염), 알레르기성 결막염, 만성 특발성(원인 불명의) 두드러기, 피부소양증(가려움증)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:26Z",
+   "last_observed_at": "2026-09-08T08:43:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:26Z"
+}

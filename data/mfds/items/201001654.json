@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "C04AX20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001654",
+ "history_fetched_at": "2026-08-27T13:41:58Z",
  "revisions": [
   {
-   "revision_id": "201001654-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201001654-5d2028d7",
+   "content_sha256": "5d2028d71d04a1bc51081d0e2fbf73c9ee7316124fb9579a61295dbda21390d7",
+   "ee_text": "1. 다음 질환에 의한 말초순환장애 : 레이노병 및 레이노증후군, 간헐성파행, 폐색성혈전혈관염(버거병), 홍청색증, 맥관저의 경련 2. 뇌순환부전 : 어지러움, 이명, 치매성증상, 성격변화, 기억력·집중력 저하, 시간과 공간에 대한 지남력상실, 뇌졸중휴우증",
    "ee_doc_id": "2",
    "first_observed_at": "2026-08-27T13:41:58Z",
-   "last_observed_at": "2026-08-27T13:41:58Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:43:50Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:41:58Z"
+ ]
 }

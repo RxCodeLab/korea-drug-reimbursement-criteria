@@ -7,20 +7,22 @@
  "permit_date": "20070423",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M256191]콘드로이틴설페이트나트륨|[M255994]시아노코발라민1000배산|[M208932]γ-오리자놀|[M222995]리보플라빈부티레이트|[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M223240]토코페롤아세테이트|[M051415]푸르설티아민",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M051415]푸르설티아민|[M204304]피리독신염산염|[M208932]γ-오리자놀|[M222995]리보플라빈부티레이트|[M223240]토코페롤아세테이트|[M244748]판토텐산칼슘|[M255994]시아노코발라민1000배산|[M256191]콘드로이틴설페이트나트륨",
  "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin Powder 0.1%/Fursultiamine/Gamma-Oryzanol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Sodium Chondroitin Sulfate/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704636",
+ "history_fetched_at": "2026-08-28T13:24:12Z",
  "revisions": [
   {
-   "revision_id": "200704636-0a5139a8",
-   "content_sha256": "0a5139a831e804f5b11d56496eab08d64e9b579e3c5faeca518f281b7c3d0b4c",
-   "ee_text": "1 , B 2 , B 6 의 보급\">",
+   "revision_id": "200704636-0895b97c",
+   "content_sha256": "0895b97c1bfa11093d5c42bac85f93e8bea93e6cb4b3d35bad37b4f3482979a2",
+   "ee_text": "1. 다음 경우의 비타민 E, B1, B2, B6의 보급 - 육체피로, 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시, 노년기 2. 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등), 각기, 눈의피로,구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 - 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨 ㆍ목결림, 수족저림ㆍ수족냉증(손발이 차가움)",
    "ee_doc_id": "26",
    "first_observed_at": "2026-08-28T13:24:12Z",
-   "last_observed_at": "2026-08-28T13:24:12Z",
-   "official_revision_date": "2021-09-07"
+   "last_observed_at": "2026-09-08T08:41:25Z",
+   "official_revision_date": "2021-09-07",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200704636-5e499ffa",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:12Z",
    "last_observed_at": "2026-08-28T13:24:12Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:12Z"
+ ]
 }

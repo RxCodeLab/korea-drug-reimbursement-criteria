@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199200171",
+ "item_name": "한풍황금엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19920330",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M103930]황금연조엑스(4:1)",
+ "main_item_ingr_eng": "Scutellaria Root Soft Extract (4:1)",
+ "edi_code": "",
+ "atc_code": "C01EB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200171",
+ "revisions": [
+  {
+   "revision_id": "199200171-98a0223e",
+   "content_sha256": "98a0223e09bb349e4e43acbcf0dec42c5d2daa5c874df09037d9d99532c072db",
+   "ee_text": "해열, 지사",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:20Z",
+   "last_observed_at": "2026-09-08T08:28:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:20Z"
+}

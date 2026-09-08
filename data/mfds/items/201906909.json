@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906909",
+ "item_name": "판프라정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20190930",
+ "cancel_date": "20240930",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M089465]판토프라졸나트륨세스키히드레이트",
+ "main_item_ingr_eng": "Pantoprazole Sodium Sesquihydrate",
+ "edi_code": "",
+ "atc_code": "A02BC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906909",
+ "revisions": [
+  {
+   "revision_id": "201906909-c418c0b6",
+   "content_sha256": "c418c0b68993ba341cbaf1c05de3b1b8e04723059eafbe721e12236bd2d71e58",
+   "ee_text": "- 경증의 위식도역류 질환 및 관련 증상(속쓰림, 산역류, 연하통)치료 - 역류식도염의 재발방지를 위한 장기유지요법 - 지속적으로 비스테로이드소염진통제를 투여해야 하는 환자에서 비스테로이드소염진통제에 의한 위십이지장궤양의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:32Z",
+   "last_observed_at": "2026-09-08T08:56:32Z",
+   "official_revision_date": "2019-09-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:32Z"
+}

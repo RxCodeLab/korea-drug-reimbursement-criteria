@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008246",
+ "item_name": "광동알벤다졸정(알벤다졸)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20201126",
+ "cancel_date": "20251126",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M081226]알벤다졸",
+ "main_item_ingr_eng": "Albendazole",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008246",
+ "revisions": [
+  {
+   "revision_id": "202008246-61e71c04",
+   "content_sha256": "61e71c046bacc85d8e1f9edb063c58c996d77d352bdef780c5b7178ede3a5f10",
+   "ee_text": "회충, 요충, 십이지장충, 편충, 아메리카 구충, 분선충의 감염 및 이들 혼합감염의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:42Z",
+   "last_observed_at": "2026-09-08T08:59:42Z",
+   "official_revision_date": "2020-11-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:42Z"
+}

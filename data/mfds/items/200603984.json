@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603984",
+ "item_name": "산도스파록세틴정(무수염산파록세틴)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20060310",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102324]무수염산파록세틴",
+ "main_item_ingr_eng": "Anhydrous Paroxetine Hydrochloride",
+ "edi_code": "643903990",
+ "atc_code": "N06AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603984",
+ "revisions": [
+  {
+   "revision_id": "200603984-43a7a928",
+   "content_sha256": "43a7a928c7688d8b0bb751cd010a8ca42885acad2af242ec2121a08a40c367ec",
+   "ee_text": "1. 주요우울증 2. 강박장애 3. 공황장애 4. 범불안장애(GAD) 5. 외상후 스트레스장애(PTSD) 6. 사회불안장애/사회공포증",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:02Z",
+   "last_observed_at": "2026-09-08T08:40:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:02Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906534",
+ "item_name": "이조은센시티브겔(수출용)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20090826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040541]질산칼륨|[M269434]일불소인산나트륨",
+ "main_item_ingr_eng": "Potassium Nitrate/Sodium Monofluorophosphate",
+ "edi_code": "",
+ "atc_code": "A01AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906534",
+ "revisions": [
+  {
+   "revision_id": "200906534-2d42bfab",
+   "content_sha256": "2d42bfab723eb7c66adf5d6733490a477f50a699ed3439b8f3019a25582eabc4",
+   "ee_text": "치아 과민증상의 완화, 잇몸질환 및 충치 예방",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:30Z",
+   "last_observed_at": "2026-09-08T08:43:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:30Z"
+}

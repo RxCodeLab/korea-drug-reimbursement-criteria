@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600121",
+ "item_name": "지메돌연질캡슐(옥수수불검화정량추출물)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20060217",
+ "cancel_date": "20250401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M098768]옥수수불검화정량추출물",
+ "main_item_ingr_eng": "Titrated Extract of Zea Mays L. Unsaponifiable Fraction",
+ "edi_code": "",
+ "atc_code": "A01A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600121",
+ "revisions": [
+  {
+   "revision_id": "200600121-390544c4",
+   "content_sha256": "390544c4a96961be8425eed9ea3155f26764dde713b5a6a45236b36ee6697eb2",
+   "ee_text": "치주(치아주위조직)치료 후 치은염(잇몸염), 경ㆍ중등도 치주(치아주위조직)염의 보조치료",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:45Z",
+   "last_observed_at": "2026-09-08T08:39:45Z",
+   "official_revision_date": "2019-09-16"
+  },
+  {
+   "revision_id": "200600121-15b8f90c",
+   "content_sha256": "15b8f90cd4e49abde167bd87c7103aa549c74254c8b278ead473c2d51a099aab",
+   "ee_text": "치주치료 후 치은염, 경ㆍ중등도 치주염의 보조치료",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:39:45Z",
+   "last_observed_at": "2026-09-08T08:39:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:45Z"
+}

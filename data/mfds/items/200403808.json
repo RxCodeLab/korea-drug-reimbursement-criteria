@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403808",
+ "item_name": "비오알정(엔테로코쿠스페칼리스BIO-4R균)(수출용)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20040819",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261283]엔테로코쿠스페칼리스BIO-4R균",
+ "main_item_ingr_eng": "Enterococcus Faecalis BIO-4R",
+ "edi_code": "",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403808",
+ "revisions": [
+  {
+   "revision_id": "200403808-49f6c3a3",
+   "content_sha256": "49f6c3a3ed65ccc05dda6cf5a8131280a07cbcd947c2169a249e86cede663aa4",
+   "ee_text": "1. 주효능 효과 장내균총 이상(항생물질, 화학요법제 투여 등)에 의한 여러 증상의 개선 : 정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:25Z",
+   "last_observed_at": "2026-09-08T08:38:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:25Z"
+}

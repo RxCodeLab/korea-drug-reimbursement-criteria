@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303434",
+ "item_name": "비코그린에스플러스정",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20231226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M081950]도큐세이트나트륨|[M081977]센노시드칼슘|[M244748]판토텐산칼슘",
+ "main_item_ingr_eng": "Bisacodyl/Calcium Pantothenate/Docusate Sodium/Sennoside Calcium",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303434",
+ "revisions": [
+  {
+   "revision_id": "202303434-1cdb72fb",
+   "content_sha256": "1cdb72fbb9ea1f0fee692c9a677ad81a7ed80d608354c99363590ff176deda5a",
+   "ee_text": "·변비 ·변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:36Z",
+   "last_observed_at": "2026-09-08T09:02:36Z",
+   "official_revision_date": "2023-12-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:36Z"
+}

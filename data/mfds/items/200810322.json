@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200810322",
+ "item_name": "마이다제정(수출용)",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20081010",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040678]판크레아틴|[M086613]셀룰라제AP3 III|[M223083]시메티콘|[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Cellulase AP3 III/Pancreatin/Simethicone/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810322",
+ "revisions": [
+  {
+   "revision_id": "200810322-ea858a82",
+   "content_sha256": "ea858a82ffe25986a647448a40a18ac5c659e69daa30a444e76f2e3e93954057",
+   "ee_text": "소화불량,식욕감퇴(식욕부진),과식,식체(위체),소화촉진,소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:53Z",
+   "last_observed_at": "2026-09-08T08:42:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:53Z"
+}

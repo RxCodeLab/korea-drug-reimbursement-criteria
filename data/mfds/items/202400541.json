@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400541",
+ "item_name": "일양케어네일라카(시클로피록스)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20240314",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085228]시클로피록스",
+ "main_item_ingr_eng": "Ciclopirox",
+ "edi_code": "",
+ "atc_code": "D01AE14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400541",
+ "revisions": [
+  {
+   "revision_id": "202400541-f28e514c",
+   "content_sha256": "f28e514c798da64d52a669d7c3b4684488d9712f70d34f94d1bede86dac9fb82",
+   "ee_text": "조갑진균증(손발톱진균증) (손, 발톱무좀)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:48Z",
+   "last_observed_at": "2026-09-08T09:02:48Z",
+   "official_revision_date": "2024-03-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:48Z"
+}

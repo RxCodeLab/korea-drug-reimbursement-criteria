@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199000591",
+ "item_name": "제일제약네오스티그민메틸황산염주",
+ "entp_name": "(주)제일제약",
+ "permit_date": "19900928",
+ "cancel_date": "20251001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222940]네오스티그민메틸황산염",
+ "main_item_ingr_eng": "Neostigmine Methylsulfate",
+ "edi_code": "",
+ "atc_code": "N07AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000591",
+ "revisions": [
+  {
+   "revision_id": "199000591-8c029c2a",
+   "content_sha256": "8c029c2adb5b7a5144f43d5fadc5a971c7c7a50e111447c0efc2250451af289f",
+   "ee_text": "1. 중증 근무력증 2. 비탈분극성 근이완제(투보쿠라린 등)의 해독제 3. 수술후ㆍ분만후 배뇨곤란",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:59Z",
+   "last_observed_at": "2026-09-08T08:27:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:59Z"
+}

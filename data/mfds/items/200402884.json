@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402884",
+ "item_name": "큐토릴정(캅토프릴)(수출용)[수출명:CUTORINTABLET,CATORELTABLET]",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20040203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081550]캅토프릴",
+ "main_item_ingr_eng": "Captopril",
+ "edi_code": "",
+ "atc_code": "C09AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402884",
+ "revisions": [
+  {
+   "revision_id": "200402884-1fa2c801",
+   "content_sha256": "1fa2c8019c60cee76395c6a57bb4c1a8105b5524808e7c39b8d4937f74153acd",
+   "ee_text": "1. 고혈압, 2. 울혈성심부전 : 이뇨제 및 디기탈리스 투여시의 보조치료제 3. 당뇨병성 신중 : 인슐린 의존성(Type I)당뇨병 및 당뇨병 망막증인 환자의 당뇨병성 신중(단백뇨> 500밀리그램/일)에 사용한다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:10Z",
+   "last_observed_at": "2026-09-08T08:38:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:10Z"
+}

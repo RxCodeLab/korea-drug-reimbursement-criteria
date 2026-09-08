@@ -7,7 +7,7 @@
  "permit_date": "20131021",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M235069]피오글리타존염산염|[M086024]글리메피리드",
+ "main_item_ingr": "[M086024]글리메피리드|[M235069]피오글리타존염산염",
  "main_item_ingr_eng": "Glimepiride/Pioglitazone Hydrochloride",
  "edi_code": "693903500",
  "atc_code": "A10BD06",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:25:16Z",
  "revisions": [
   {
-   "revision_id": "201309845-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201309845-a2e650d2",
+   "content_sha256": "a2e650d208b45114a0f6725a98164e0e45a0f730a1cf344708d73173d53774f1",
+   "ee_text": "이 약은 글리메피리드와 피오글리타존의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201309845/EE",
    "first_observed_at": "2026-08-27T13:25:16Z",
-   "last_observed_at": "2026-08-28T13:24:33Z"
+   "last_observed_at": "2026-09-08T08:46:27Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201309845-94862c2c",

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199902753",
+ "item_name": "디푸코연고0.3%(디플루코르톨론발레레이트)",
+ "entp_name": "제이더블유신약(주)",
+ "permit_date": "19990315",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222838]디플루코르톨론발레레이트",
+ "main_item_ingr_eng": "Diflucortolone Valerate",
+ "edi_code": "644100091",
+ "atc_code": "D07AC06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902753",
+ "revisions": [
+  {
+   "revision_id": "199902753-7d8447b3",
+   "content_sha256": "7d8447b34cc28434d0806bf2017043e8ebe5a67ea13400cc1079e0b4dbd100e9",
+   "ee_text": "심상성건선(보통건선), 신경피부염(내인성 습진, 아토피피부염), 혐기성 편평태선, 원판상홍반성루푸스, 중증 만성습진",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:55Z",
+   "last_observed_at": "2026-09-08T08:32:55Z",
+   "official_revision_date": "2002-01-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:55Z"
+}

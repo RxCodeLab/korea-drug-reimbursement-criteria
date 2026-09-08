@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200706034",
+ "item_name": "유니트린정5밀리그램(염산테라조신)(수출용)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20070528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101588]염산테라조신",
+ "main_item_ingr_eng": "Terazosin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "G04CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706034",
+ "revisions": [
+  {
+   "revision_id": "200706034-00adc994",
+   "content_sha256": "00adc994bc61898f8f8d900f7f1d015acb88d5aa47a9a4a827775b853e7d1bb7",
+   "ee_text": "고혈압(경증-중등도), 양성전립선비대에 의한 배뇨장애",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:31Z",
+   "last_observed_at": "2026-09-08T08:41:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:31Z"
+}

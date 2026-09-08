@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008927",
+ "item_name": "테라캡131캅셀(요오드화나트륨(131Ⅰ))",
+ "entp_name": "새한산업",
+ "permit_date": "20001207",
+ "cancel_date": "20250331",
+ "status": "취하",
+ "main_item_ingr": "[M094481]요오드화나트륨(131 I)액",
+ "main_item_ingr_eng": "Sodium Iodide (131I) Solution",
+ "edi_code": "",
+ "atc_code": "V10XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008927",
+ "revisions": [
+  {
+   "revision_id": "200008927-3b3ab577",
+   "content_sha256": "3b3ab5773991407ca48af8d51ca3049bbfabcfc1836b465a675ed665c4a970d5",
+   "ee_text": "(내용액제) 1. 진단용 1) 131I 갑상선 섭취율에 의한 갑상선 기능 검사 2) 신티그램에 의한 갑상선 질환의 진단 3) 신티그램에 의한 갑상선암 전이소(轉移巢)의 발견 2. 치료용 1) 갑상선기능항진증의 치료 2) 갑상선암 및 전이소(轉移巢)의 치료 (캅셀제) 1. 갑상선 기능 항진증의 치료 2. 갑상선암 및 전이소(轉移巢)의 치료",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:35Z",
+   "last_observed_at": "2026-09-08T08:34:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:35Z"
+}

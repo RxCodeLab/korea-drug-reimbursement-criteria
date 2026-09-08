@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201205352",
+ "item_name": "뉴트라겔현탁액1그램(알마게이트)(수출용)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20120604",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081294]알마게이트",
+ "main_item_ingr_eng": "Almagate",
+ "edi_code": "",
+ "atc_code": "A02AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205352",
+ "revisions": [
+  {
+   "revision_id": "201205352-c639f3a5",
+   "content_sha256": "c639f3a5d2f1f34cf2416d196713ac8214783fbfb12431e47a1fd45dbaae088c",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 다음 질환의 제산작용 및 증상의 개선 : 위 ㆍ 십이지장궤양, 위염, 위산과다(속쓰림, 구역, 구토, 위통, 신트림), 역류성식도염.",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:19Z",
+   "last_observed_at": "2026-09-08T08:45:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:19Z"
+}

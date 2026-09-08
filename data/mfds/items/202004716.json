@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004716",
+ "item_name": "클라손크림",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20200629",
+ "cancel_date": "20240708",
+ "status": "취하",
+ "main_item_ingr": "[M088335]클로트리마졸|[M101579]히드로코르티손",
+ "main_item_ingr_eng": "Clotrimazole/Hydrocortisone",
+ "edi_code": "",
+ "atc_code": "D01AC20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004716",
+ "revisions": [
+  {
+   "revision_id": "202004716-8a71e0a3",
+   "content_sha256": "8a71e0a3f915cdf1c40bcb43128228407319b864b20e69e6d450a466c4c55bdf",
+   "ee_text": "염증, 가려움 및 습진 등의 임상증상을 수반하는 피부 진균증 1) 백선 2) 피부 칸디다증 3) 어루러기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:11Z",
+   "last_observed_at": "2026-09-08T08:59:11Z",
+   "official_revision_date": "2020-06-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:11Z"
+}

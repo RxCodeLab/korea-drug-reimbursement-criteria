@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199903668",
+ "item_name": "실케이드크림(프레드니카르베이트)",
+ "entp_name": "(주)서울제약",
+ "permit_date": "19990902",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084063]프레드니카르베이트",
+ "main_item_ingr_eng": "Prednicarbate",
+ "edi_code": "652901062,652901064",
+ "atc_code": "D07AC18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199903668",
+ "revisions": [
+  {
+   "revision_id": "199903668-bef7cf26",
+   "content_sha256": "bef7cf2602ea9e4db1455df62b058ccb96b95a067883f18b2ca4fa2b79bc4473",
+   "ee_text": "다음의 코르티코이드 반응성 피부질환 : 습진ㆍ피부염군(아토피피부염, 지루피부염, 접촉성알레르기피부염, 유사건선, 편평태선, 가려움발진 포함), 건선",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:01Z",
+   "last_observed_at": "2026-09-08T08:33:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:01Z"
+}

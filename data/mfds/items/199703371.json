@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199703371",
+ "item_name": "멕실캡슐(멕실레틴염산염)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "19970804",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223032]멕실레틴염산염",
+ "main_item_ingr_eng": "Mexiletine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703371",
+ "revisions": [
+  {
+   "revision_id": "199703371-44e2f985",
+   "content_sha256": "44e2f985e4ca66773d53742457d817c7705fd1270513d578e8e505d77413ddb5",
+   "ee_text": "심실성부정맥, 디기탈리스에 의한 심실성부정맥, 특발성심실성기외수축, 급성심근경색에서의 심실성부정맥",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:26Z",
+   "last_observed_at": "2026-09-08T08:31:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:26Z"
+}

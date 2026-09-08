@@ -7,11 +7,12 @@
  "permit_date": "20031219",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223212]d-클로르페니라민말레산염|[M040218]베타메타손|[M223212]d-클로르페니라민말레산염|[M040218]베타메타손",
+ "main_item_ingr": "[M040218]베타메타손|[M040218]베타메타손|[M223212]d-클로르페니라민말레산염|[M223212]d-클로르페니라민말레산염",
  "main_item_ingr_eng": "Betamethasone/D-Chlorpheniramine Maleate",
  "edi_code": "",
  "atc_code": "H02BX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301576",
+ "history_fetched_at": "2026-08-28T13:24:02Z",
  "revisions": [
   {
    "revision_id": "200301576-0a04733d",
@@ -19,9 +20,9 @@
    "ee_text": "- 급성 두드러기, 알레르기성 비염, 약진 - 아토피성 피부염, 습진, 접촉성 피부염의 급성기 및 급성악화기",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:24:02Z",
-   "last_observed_at": "2026-08-28T13:24:02Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:37:02Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:02Z"
+ ]
 }

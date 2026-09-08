@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201110423",
+ "item_name": "제이플라주(자하거추출물)(수출명:J-PLA inj.)",
+ "entp_name": "(주)녹십자웰빙",
+ "permit_date": "20111128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101901]자하거추출물",
+ "main_item_ingr_eng": "Human Placenta Extract",
+ "edi_code": "",
+ "atc_code": "G02CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110423",
+ "revisions": [
+  {
+   "revision_id": "201110423-b1813a7c",
+   "content_sha256": "b1813a7c8f929f5c9d90afa4464e6ed992b857644199c5445b22c8be2f401fad",
+   "ee_text": "(주사제) 갱년기 장애 증상의 개선",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:03Z",
+   "last_observed_at": "2026-09-08T08:45:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:03Z"
+}

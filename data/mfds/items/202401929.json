@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401929",
+ "item_name": "스코싱글라이트액(과아세트산액5.32%)",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20240808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284827]과아세트산액5.32%",
+ "main_item_ingr_eng": "Peracetic Acid Solution 5.32%",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401929",
+ "revisions": [
+  {
+   "revision_id": "202401929-d74325e0",
+   "content_sha256": "d74325e036258f7ddab50eca0c3eaa3557b144078aca94095d793e0d2f2fa1cd",
+   "ee_text": "의료기구의 멸균 및 소독 (열에 민감한 내시경 포함)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:13Z",
+   "last_observed_at": "2026-09-08T09:03:13Z",
+   "official_revision_date": "2024-08-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:13Z"
+}

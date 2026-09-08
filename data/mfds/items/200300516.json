@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300516",
+ "item_name": "아이스판시럽(아이비엽70%에탄올유동엑스)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20030710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099891]아이비엽70%에탄올유동엑스",
+ "main_item_ingr_eng": "Ivy Leaf 70% Ethanol Fluid Extract",
+ "edi_code": "",
+ "atc_code": "R05CA12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300516",
+ "revisions": [
+  {
+   "revision_id": "200300516-c97a48c0",
+   "content_sha256": "c97a48c0b1c7324b9ac6ca660300774646bd7c09cf796a7bef9bd11c4ccda4b0",
+   "ee_text": "만성 염증성 기관지 질환의 증상 개선, 기침을 동반한 호흡기의 급성 염증 완화",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:47Z",
+   "last_observed_at": "2026-09-08T08:36:47Z",
+   "official_revision_date": "2011-03-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:47Z"
+}

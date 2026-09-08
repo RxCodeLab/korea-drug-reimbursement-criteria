@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600324",
+ "item_name": "하임파지프리필드펜주150mg/mL(마스타시맙)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20260204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286147]마스타시맙",
+ "main_item_ingr_eng": "Marstacimab",
+ "edi_code": "",
+ "atc_code": "B02BX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600324",
+ "revisions": [
+  {
+   "revision_id": "202600324-a308263d",
+   "content_sha256": "a308263d210071cfe94536304da283618faed9961d99984718b66a41076269b8",
+   "ee_text": "35 kg 이상인, 다음의 성인 및 소아(12세 이상) 환자에서의 출혈 빈도 감소 또는 예방을 위한 일상적인 예방요법 ﹡ 혈액응고 제8인자(FVIII)에 대한 억제인자를 보유하지 않은 중증 A형 혈우병(선천성 제8인자 결핍), 또는 ﹡ 혈액응고 제9인자(FIX)에 대한 억제인자를 보유하지 않은 중증 B형 혈우병(선천성 제9인자 결핍)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:44Z",
+   "last_observed_at": "2026-09-08T09:04:44Z",
+   "official_revision_date": "2026-02-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:44Z"
+}

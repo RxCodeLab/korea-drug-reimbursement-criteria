@@ -12,14 +12,16 @@
  "edi_code": "",
  "atc_code": "B05XA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308131",
+ "history_fetched_at": "2026-08-28T13:24:03Z",
  "revisions": [
   {
-   "revision_id": "200308131-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200308131-ff32fa29",
+   "content_sha256": "ff32fa292b13083f8915a6667f372d4feba327e527698e0d8c64f295ad9282e2",
+   "ee_text": "1. 수분 및 전해질 결핍시의 보급(나트륨 결핍, 염소 결핍) 2. 주사제의 용해 희석제",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200308131/EE",
    "first_observed_at": "2026-08-28T13:24:03Z",
-   "last_observed_at": "2026-08-28T13:24:03Z"
+   "last_observed_at": "2026-09-08T08:37:23Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200308131-ac35c5bb",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:03Z",
    "last_observed_at": "2026-08-28T13:24:03Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:03Z"
+ ]
 }

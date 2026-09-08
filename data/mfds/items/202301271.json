@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301271",
+ "item_name": "악사노바파워플러스카타플라스마(수출용)",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20230418",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M206708]DL-캄파|[M206708]DL-캄파|[M230875]l-멘톨|[M230875]l-멘톨",
+ "main_item_ingr_eng": "DL-Camphor/L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301271",
+ "revisions": [
+  {
+   "revision_id": "202301271-59975997",
+   "content_sha256": "59975997b42cd37bb1400f7b47d408ac3728ca2aa49243d2c433ec83eda1806b",
+   "ee_text": "다음 증상의 진통ㆍ소염(항염) : 타박상, 삠, 요(허리)통, 어깨결림, 근육통, 관절통",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:00Z",
+   "last_observed_at": "2026-09-08T09:02:00Z",
+   "official_revision_date": "2023-04-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:00Z"
+}

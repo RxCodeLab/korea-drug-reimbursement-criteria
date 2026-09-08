@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410652",
+ "item_name": "더존울트라케어왈터베리겔20%(벤조카인)[UltracareTopicalAnestheticgel(Walterberryflavor)]",
+ "entp_name": "에스티인터내셔널주식회사",
+ "permit_date": "20041122",
+ "cancel_date": "20240430",
+ "status": "취하",
+ "main_item_ingr": "[M050590]벤조카인",
+ "main_item_ingr_eng": "Ethyl Aminobenzoate",
+ "edi_code": "",
+ "atc_code": "N01BA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410652",
+ "revisions": [
+  {
+   "revision_id": "200410652-47797dc5",
+   "content_sha256": "47797dc589a8d4da325066ba82e08285b4d406b81ab720a26a641c6ef5373184",
+   "ee_text": "(겔제) * 20% 치과영역에 있어서의 표면마취",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200410652/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:42Z",
+   "last_observed_at": "2026-09-08T08:38:42Z"
+  },
+  {
+   "revision_id": "200410652-4c5e44cb",
+   "content_sha256": "4c5e44cbf8e558bcdf89034db6b4d8ff47c25f0c0e46158b34ab53abc363e2ac",
+   "ee_text": "치과영역에 있어서의 표면마취",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:38:42Z",
+   "last_observed_at": "2026-09-08T08:38:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:42Z"
+}

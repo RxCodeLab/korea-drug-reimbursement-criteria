@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700068",
+ "item_name": "한풍전호엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19870228",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M051318]전호",
+ "main_item_ingr_eng": "Peucedani Radix",
+ "edi_code": "",
+ "atc_code": "R05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700068",
+ "revisions": [
+  {
+   "revision_id": "198700068-6ca9f525",
+   "content_sha256": "6ca9f525d4d4652d0e190acf19865dbf41559bf0140be73fb8d62ce6c8a70a44",
+   "ee_text": "거담, 진정",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:20Z",
+   "last_observed_at": "2026-09-08T08:27:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:20Z"
+}

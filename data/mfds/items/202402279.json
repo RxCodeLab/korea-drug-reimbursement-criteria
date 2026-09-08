@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402279",
+ "item_name": "빌로이주100밀리그램(졸베툭시맙)",
+ "entp_name": "한국아스텔라스제약(주)",
+ "permit_date": "20240920",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284902]졸베툭시맙",
+ "main_item_ingr_eng": "Zolbetuximab",
+ "edi_code": "",
+ "atc_code": "L01FX31",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402279",
+ "revisions": [
+  {
+   "revision_id": "202402279-a3115fff",
+   "content_sha256": "a3115fffb0d0cd2b2bca682819e0b8031165ed2f533c425968578225e3e41414",
+   "ee_text": "CLDN18.2(Claudin 18.2) 양성, HER2(Human Epidermal growth factor Receptor 2 protein) 음성의 절제 불가능한 국소 진행성 또는 전이성인 위선암 또는 위식도 접합부 선암 환자에 대한 1차 치료로서 플루오로피리미딘계 및 백금 기반 화학요법과의 병용요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:21Z",
+   "last_observed_at": "2026-09-08T09:03:21Z",
+   "official_revision_date": "2024-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:21Z"
+}

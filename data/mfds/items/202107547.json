@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107547",
+ "item_name": "마일로탁주4.5밀리그램(겜투주맙오조가마이신)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20211118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281722]겜투주맙오조가마이신",
+ "main_item_ingr_eng": "Gemtuzumab Ozogamicin",
+ "edi_code": "",
+ "atc_code": "L01FX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107547",
+ "revisions": [
+  {
+   "revision_id": "202107547-ef7c1653",
+   "content_sha256": "ef7c1653967652ee37f420370a0486e5417c3750bd03d440f673a312a2382f13",
+   "ee_text": "새로이 진단된 CD33-양성의 급성골수성백혈병(AML) 성인환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:48Z",
+   "last_observed_at": "2026-09-08T09:00:48Z",
+   "official_revision_date": "2021-11-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:48Z"
+}

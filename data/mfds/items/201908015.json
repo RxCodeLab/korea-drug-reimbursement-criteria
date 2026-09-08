@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908015",
+ "item_name": "폴락스산4그램(폴리에틸렌글리콜4000)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20191120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243338]폴리에틸렌글리콜4000",
+ "main_item_ingr_eng": "Polyethylene Glycol 4000",
+ "edi_code": "",
+ "atc_code": "A06AD15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908015",
+ "revisions": [
+  {
+   "revision_id": "201908015-86e3b795",
+   "content_sha256": "86e3b7952b862a3e6fd5e676f3281d6638ba01245e8e582ccc85c29e475935c9",
+   "ee_text": "소아의 변비 증상 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:05Z",
+   "last_observed_at": "2026-09-08T08:57:05Z",
+   "official_revision_date": "2019-11-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:05Z"
+}

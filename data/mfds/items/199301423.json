@@ -7,11 +7,12 @@
  "permit_date": "19930406",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M086630]스트렙토코카스페시움스트레인세르넬레68균ME|[M086308]로코트질산치아민33ㆍ3%|[M040133]리보플라빈|[M084495]아스코르빈산칼슘97%과립",
+ "main_item_ingr": "[M040133]리보플라빈|[M084495]아스코르빈산칼슘97%과립|[M086308]로코트질산치아민33ㆍ3%|[M086630]스트렙토코카스페시움스트레인세르넬레68균ME",
  "main_item_ingr_eng": "Calcium Ascorbate Granules 97%/Riboflavin/Rocoat Thiamine Nitrate 331/3%/Streptococcus Faesium Strain Cornelle 68 Me",
  "edi_code": "",
  "atc_code": "A07FA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301423",
+ "history_fetched_at": "2026-08-28T13:23:45Z",
  "revisions": [
   {
    "revision_id": "199301423-97581d9a",
@@ -19,9 +20,9 @@
    "ee_text": "정장, 변비, 묽은변, 복부팽만감, 장내이상발효",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:23:45Z",
-   "last_observed_at": "2026-08-28T13:23:45Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:28:48Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:45Z"
+ ]
 }

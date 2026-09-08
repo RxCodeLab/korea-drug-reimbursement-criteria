@@ -7,7 +7,7 @@
  "permit_date": "20240516",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M252789]실데나필시트르산염|[M223223]클로미프라민염산염",
+ "main_item_ingr": "[M223223]클로미프라민염산염|[M252789]실데나필시트르산염",
  "main_item_ingr_eng": "Clomipramine Hydrochloride/Sildenafil Citrate",
  "edi_code": "",
  "atc_code": "G04BX",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T07:54:57Z",
  "revisions": [
   {
-   "revision_id": "202401196-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202401196-523b6366",
+   "content_sha256": "523b63667a05ed2f637b147f4f7c90d8f9f71cd85a445f66e0c61f22274cdeac",
+   "ee_text": "클로미프라민 단독요법으로 적절하게 조절되지 않는 조루증의 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202401196/EE",
    "first_observed_at": "2026-08-27T07:54:57Z",
-   "last_observed_at": "2026-08-28T13:25:36Z"
+   "last_observed_at": "2026-09-08T09:02:58Z",
+   "normalizer_version": 3
   }
  ]
 }

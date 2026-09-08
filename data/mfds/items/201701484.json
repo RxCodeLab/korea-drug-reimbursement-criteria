@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701484",
+ "item_name": "산텐미드린피점안액",
+ "entp_name": "한국산텐제약(주)",
+ "permit_date": "20170329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040657]트로픽아미드|[M222724]페닐레프린염산염",
+ "main_item_ingr_eng": "Phenylephrine Hydrochloride/Tropicamide",
+ "edi_code": "665600241",
+ "atc_code": "S01FA56",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701484",
+ "revisions": [
+  {
+   "revision_id": "201701484-17deea6e",
+   "content_sha256": "17deea6ee3f4bdd5660a6d4d55b69024fccc07b7a284c19bc63bedf6487e82e7",
+   "ee_text": "진단 또는 치료를 목적으로 하는 산동 또는 조절 마비",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:41Z",
+   "last_observed_at": "2026-09-08T08:51:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:41Z"
+}

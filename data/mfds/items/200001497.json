@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001497",
+ "item_name": "이부네인정(니세르골린)(수출용)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20000209",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070142]니세르골린",
+ "main_item_ingr_eng": "Nicergoline",
+ "edi_code": "",
+ "atc_code": "C04AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001497",
+ "revisions": [
+  {
+   "revision_id": "200001497-29afdd28",
+   "content_sha256": "29afdd287195606fcc89beb10e2d9b711a24608016349fdf697630e82819fd93",
+   "ee_text": "1. 다음 질환에 의한 여러 증상의 개선 : 뇌경색후유증, 뇌출혈후유증, 뇌동맥경화증 2. 다음 질환에 의한 말초순환장애 : 사지의 폐색성동맥질환, 레이노병 및 레이노증후군, 기타 말초순환장애에 의한 여러 증후군 3. 노인성 동맥경화성두통 4. 고혈압의 보조요법",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:43Z",
+   "last_observed_at": "2026-09-08T08:33:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:43Z"
+}

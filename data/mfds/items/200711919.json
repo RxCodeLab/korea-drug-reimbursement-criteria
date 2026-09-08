@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711919",
+ "item_name": "비세파연질캡슐(아르기닌티디아시케이트)(수출용)\n(수출명:BISHEPA,리버탑,사프티리버,헤파)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20071030",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080276]아르기닌티디아시케이트",
+ "main_item_ingr_eng": "Arginine Tidiacicate",
+ "edi_code": "",
+ "atc_code": "A05BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711919",
+ "revisions": [
+  {
+   "revision_id": "200711919-e83cc27b",
+   "content_sha256": "e83cc27b5cc3e574d83f37f0408e3dc506aa5d94ec1c9b0c47f934be00f7d974",
+   "ee_text": "다음 질환의 보조치료 : 간기능장애, 독성 간질환, 초기간경변",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:01Z",
+   "last_observed_at": "2026-09-08T08:42:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:01Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503404",
+ "item_name": "케어아크네크림",
+ "entp_name": "(주)다산제약",
+ "permit_date": "20251229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261256]이소프로필메틸페놀|[M261461]이부프로펜피코놀",
+ "main_item_ingr_eng": "Ibuprofen Piconol/Isopropyl Methylphenol",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503404",
+ "revisions": [
+  {
+   "revision_id": "202503404-8c16c6b1",
+   "content_sha256": "8c16c6b1190d1621e983947780e5fe406d4499851bb1bea6da106d253a654792",
+   "ee_text": "여드름, 뾰루지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:35Z",
+   "last_observed_at": "2026-09-08T09:04:35Z",
+   "official_revision_date": "2025-12-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:35Z"
+}

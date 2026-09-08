@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200712505",
+ "item_name": "덴케어캡슐(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20071115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051110]염화리소짐|[M051437]카르바조크롬|[M082845]제피아스코르빈산96%|[M237926]호박산초산토코페롤칼슘",
+ "main_item_ingr_eng": "Ascorbic Acid Coated 96%/Carbazochrome/Lysozyme Chloride/Tocopherol Calcium Succinate",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712505",
+ "revisions": [
+  {
+   "revision_id": "200712505-b6861754",
+   "content_sha256": "b686175491a78e17919b937bf8cc530c8c5407a62317890742ea13d3608194e5",
+   "ee_text": "치은염 ‧ 치조농루에 의한 여러 증상(잇몸의 발적‧부기‧출혈‧고름 등)의 완화",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:02Z",
+   "last_observed_at": "2026-09-08T08:42:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:02Z"
+}

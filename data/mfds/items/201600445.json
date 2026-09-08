@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600445",
+ "item_name": "엘스틴캡슐(에르도스테인)",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20160125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086745]에르도스테인",
+ "main_item_ingr_eng": "Erdosteine",
+ "edi_code": "670401090",
+ "atc_code": "R05CB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600445",
+ "revisions": [
+  {
+   "revision_id": "201600445-c9913eaf",
+   "content_sha256": "c9913eafd72e33678d5327983e798529b46bb2a09864b4841b99f3636795ddc8",
+   "ee_text": "급·만성호흡기질환의 점액용해 및 거담",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:08Z",
+   "last_observed_at": "2026-09-08T08:50:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:08Z"
+}

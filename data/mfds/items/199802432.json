@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199802432",
+ "item_name": "오로신점안액0.3%(오플록사신)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "19980313",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081639]오플록사신",
+ "main_item_ingr_eng": "Ofloxacin",
+ "edi_code": "643501941",
+ "atc_code": "S01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802432",
+ "revisions": [
+  {
+   "revision_id": "199802432-3bdce563",
+   "content_sha256": "3bdce5630b4641f22afea2eb2db123eb48f18d5055167637baf666fecd3e29da",
+   "ee_text": "<유효군종> 이 약 감수성의 포도구균속, 연쇄상구균속, 폐렴구균, 장구균속, 소구균속, 모락셀라속, 간균속, 클렙시엘라속, 세라티아속, 프로테우스속, 모르가넬라 모르가니, 프로비덴시아속, 혈호균속[인플루엔자균, 헤모필루스 애집티우스 (Koch-Weeks bacillus)], 슈도모나스속, 녹농균, 벅홀데리아 세파시스, 스테노트로포모나스(산토모나스) 말토필리아, 아시네토박터속, 프로피오니박테리움 아크네스 <적응증> 안검염, 누낭염, 맥립종, 결막염, 검판선염, 각막염(각막궤양을 포함), 안과 수술 전후의 무균화 요법",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:06Z",
+   "last_observed_at": "2026-09-08T08:32:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:06Z"
+}

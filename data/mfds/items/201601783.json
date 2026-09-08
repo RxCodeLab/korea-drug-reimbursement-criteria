@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201601783",
+ "item_name": "마이녹실액6.5%(미녹시딜)(수출용)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20160404",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081480]미녹시딜",
+ "main_item_ingr_eng": "Minoxidil",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601783",
+ "revisions": [
+  {
+   "revision_id": "201601783-86b18836",
+   "content_sha256": "86b18836f32aa06325c6d3865a7aaa3285f0e8b6b48aae7f47fbe6d989c5b53d",
+   "ee_text": "남성형 탈모증(남성에 한함)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:25Z",
+   "last_observed_at": "2026-09-08T08:50:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:25Z"
+}

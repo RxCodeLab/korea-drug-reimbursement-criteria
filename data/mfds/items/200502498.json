@@ -7,11 +7,12 @@
  "permit_date": "20050420",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M222530]L-이소류신|[M222531]L-류신|[M209360]L-발린",
+ "main_item_ingr": "[M209360]L-발린|[M222530]L-이소류신|[M222531]L-류신",
  "main_item_ingr_eng": "L-Isoleucine/L-Leucine/L-Valine",
  "edi_code": "",
  "atc_code": "V06B",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502498",
+ "history_fetched_at": "2026-08-28T13:24:08Z",
  "revisions": [
   {
    "revision_id": "200502498-9d0231fb",
@@ -19,8 +20,9 @@
    "ee_text": "식사 섭취량이 많음에도 불구하고 저알부민 혈증을 나타내는 대상부전성 간경변환자의 저알부민 혈증의 개선",
    "ee_doc_id": "20",
    "first_observed_at": "2026-08-28T13:24:08Z",
-   "last_observed_at": "2026-08-28T13:24:08Z",
-   "official_revision_date": "2006-02-05"
+   "last_observed_at": "2026-09-08T08:39:21Z",
+   "official_revision_date": "2006-02-05",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200502498-e8bb9f66",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:08Z",
    "last_observed_at": "2026-08-28T13:24:08Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:08Z"
+ ]
 }

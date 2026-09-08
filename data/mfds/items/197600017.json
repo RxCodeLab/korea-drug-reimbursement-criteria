@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197600017",
+ "item_name": "코오푸론과립(마행감석탕)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19760707",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090944]마행감석탕연조엑스",
+ "main_item_ingr_eng": "Mahaenggamseogtang Soft Extract",
+ "edi_code": "",
+ "atc_code": "R03DX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600017",
+ "revisions": [
+  {
+   "revision_id": "197600017-fae4cc40",
+   "content_sha256": "fae4cc401c3c1d8a1c9f6d7d4107e5ba23c99ca1eacc2d6eca1571d3eee966ec",
+   "ee_text": "기관지천식, 소아천식",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:23Z",
+   "last_observed_at": "2026-09-08T08:26:23Z",
+   "official_revision_date": "2009-04-30"
+  },
+  {
+   "revision_id": "197600017-12af372f",
+   "content_sha256": "12af372f8476a2e417d895e2dd6c577468226ba62ab8fb0dab136c411bb487b5",
+   "ee_text": "소아천식, 기관지천식",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:26:23Z",
+   "last_observed_at": "2026-09-08T08:26:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:23Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202009266",
+ "item_name": "인옥돌플러스정",
+ "entp_name": "동방에프티엘(주)",
+ "permit_date": "20201228",
+ "cancel_date": "20251228",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M237099]옥수수불검화정량추출물|[M259618]후박75%에탄올연조엑스(5→1)",
+ "main_item_ingr_eng": "Magnolia Bark 75％ Ethanol Soft Extract (5→1)/Titrated Extract of Zea Mays L. Unsaponifiable Fraction",
+ "edi_code": "",
+ "atc_code": "A01AD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009266",
+ "revisions": [
+  {
+   "revision_id": "202009266-4ddae861",
+   "content_sha256": "4ddae8618c68de2859e0df63d43444ba2dcd0bc3bb9a5678b545555c2859482c",
+   "ee_text": "치주치료 후 치은염, 경 · 중등도 치주염의 보조치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:47Z",
+   "last_observed_at": "2026-09-08T08:59:47Z",
+   "official_revision_date": "2020-12-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:47Z"
+}

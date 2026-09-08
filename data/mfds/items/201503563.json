@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503563",
+ "item_name": "트렉마이겔(수출용)",
+ "entp_name": "(주)제뉴파마",
+ "permit_date": "20150602",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088250]이소트레티노인|[M223129]에리트로마이신",
+ "main_item_ingr_eng": "Erythromycin/Isotretinoin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503563",
+ "revisions": [
+  {
+   "revision_id": "201503563-6899d235",
+   "content_sha256": "6899d2356cb25280922f750d13cff1ae53bc8fcda88ad635d8a1d621d4ef60b8",
+   "ee_text": "경증 또는 중증도의 심상성 여드름의 국소치료. 염증성 및 비염증성 병변의 치료",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:09Z",
+   "last_observed_at": "2026-09-08T08:49:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:09Z"
+}

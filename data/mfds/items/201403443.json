@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403443",
+ "item_name": "베크론주사4밀리그램(베쿠로늄브롬화물)(수출용)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20140728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254872]베쿠로늄브롬화물",
+ "main_item_ingr_eng": "Vecuronium Bromide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403443",
+ "revisions": [
+  {
+   "revision_id": "201403443-bfc761e2",
+   "content_sha256": "bfc761e217c2092d89855cdc84d6dbb6bc0908313575bda0513736020982f24d",
+   "ee_text": "1. 마취시 근이완 2. 기관내 삽관시 근이완 유지 3. 기계적 조절호흡 용이 4. 수술시 근이완",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:23Z",
+   "last_observed_at": "2026-09-08T08:47:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:23Z"
+}

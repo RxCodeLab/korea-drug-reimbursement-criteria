@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199500707",
+ "item_name": "바크로비크림(아시클로버)",
+ "entp_name": "(주)한독",
+ "permit_date": "19951115",
+ "cancel_date": "20231115",
+ "status": "취하",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "",
+ "atc_code": "D06BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500707",
+ "revisions": [
+  {
+   "revision_id": "199500707-003d7aa8",
+   "content_sha256": "003d7aa84dfe33db23adcc60234bfc7ab1de0b0d3132b1b772a7d6276e4bf8c3",
+   "ee_text": "단순포진(물집) 바이러스 감염증(초기 및 재발성 생식기 포진(물집)과 구순포진(물집) 포함)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:30Z",
+   "last_observed_at": "2026-09-08T08:29:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:30Z"
+}

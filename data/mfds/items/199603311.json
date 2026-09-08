@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A06AG04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199603311",
+ "history_fetched_at": "2026-08-28T13:23:48Z",
  "revisions": [
   {
-   "revision_id": "199603311-5c1fab5e",
-   "content_sha256": "5c1fab5e1211a7b0aaa7ad22c49f52c14911105096c3fe99fb25940e83bd0639",
-   "ee_text": "변비, 장내용물의 배설",
+   "revision_id": "199603311-7f78eb30",
+   "content_sha256": "7f78eb300c81277e24f11c2567bc614b748f15a6eb9702d03e70cb3ee4c287ed",
+   "ee_text": "1. 주효능 효과 변비, 장내용물의 배설",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:23:48Z",
-   "last_observed_at": "2026-08-28T13:23:48Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:30:28Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:48Z"
+ ]
 }

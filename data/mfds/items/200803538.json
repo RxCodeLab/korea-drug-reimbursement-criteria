@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200803538",
+ "item_name": "제일파프케이카타플라스마(케토프로펜)",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20080331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803538",
+ "revisions": [
+  {
+   "revision_id": "200803538-a9edd460",
+   "content_sha256": "a9edd4608ac4e085ceaf39074ec87d8cf08814b1afeed174398f461192fd1fe3",
+   "ee_text": "다음 질환 및 증상의 진통, 소염(항염) :퇴행성관절염(골관절염), 어깨관절주위염, 건(힘줄) ㆍ건초염(힘줄윤활막염), 건주위염(힘줄주위염), 상완골(위팔뼈)상과염 (테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기) ㆍ동통(통증)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200803538/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:24Z",
+   "last_observed_at": "2026-09-08T08:42:24Z"
+  },
+  {
+   "revision_id": "200803538-a1c5ae6b",
+   "content_sha256": "a1c5ae6b1195dbd826cbcd6d68b38c016b8609c837f9483a0371f19eca7e6075",
+   "ee_text": "다음 질환 및 증상의 진통, 소염(항염) :퇴행성관절염(골관절염), 어깨관절주위염, 건(힘줄) ㆍ건초염(힘줄윤활막염), 건주위염(힘줄주위염), 상완골(위팔뼈)상과염 (테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기) ㆍ동통(통증) 성상 연한 분홍색 또는 분홍색의 점착성 고체를 부직포 위에 도포하고(바르고) 뒷면에 밀착포를 부착한 특유한 향기를 가진 카타플라스마제",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:24Z",
+   "last_observed_at": "2026-09-08T08:42:24Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:24Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202403084",
+ "item_name": "바로세티정(세티리진염산염)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20241227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222857]세티리진염산염",
+ "main_item_ingr_eng": "Cetirizine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AE07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403084",
+ "revisions": [
+  {
+   "revision_id": "202403084-3a544b26",
+   "content_sha256": "3a544b266bd5f5dd2625dd2c2d2ede807ca36bea080552528192dfa47cc1a3d9",
+   "ee_text": "1. 계절성 및 다년성 알레르기성 비염(코염), 알레르기성 결막염, 만성 특발성(원인 불명의) 두드러기, 피부가려움증 2. 습진, 피부염(하이드로코티손 외용제와 병용(함께복용(사용))",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:35Z",
+   "last_observed_at": "2026-09-08T09:03:35Z",
+   "official_revision_date": "2025-11-21"
+  },
+  {
+   "revision_id": "202403084-b792fb17",
+   "content_sha256": "b792fb17481f4ea7eeccdd40572819dac886b0b9c22bba844dc388a32a20a4d0",
+   "ee_text": "1. 계절성 및 다년성 알레르기성 비염, 알레르기성 결막염, 만성 특발성 두드러기, 피부가려움증 2. 습진, 피부염(하이드로코티손 외용제와 병용)(정제에 한함)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-12-27",
+   "first_observed_at": "2026-09-08T09:03:35Z",
+   "last_observed_at": "2026-09-08T09:03:35Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:35Z"
+}

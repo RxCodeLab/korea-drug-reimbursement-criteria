@@ -12,6 +12,7 @@
  "edi_code": "641602680",
  "atc_code": "A05AA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712499",
+ "history_fetched_at": "2026-08-28T13:24:15Z",
  "revisions": [
   {
    "revision_id": "200712499-daa10f44",
@@ -19,8 +20,9 @@
    "ee_text": "콜레스테롤 담석증",
    "ee_doc_id": "25",
    "first_observed_at": "2026-08-28T13:24:15Z",
-   "last_observed_at": "2026-08-28T13:24:15Z",
-   "official_revision_date": "2023-01-09"
+   "last_observed_at": "2026-09-08T08:42:02Z",
+   "official_revision_date": "2023-01-09",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200712499-9b60b908",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:15Z",
    "last_observed_at": "2026-08-28T13:24:15Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:15Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103713",
+ "item_name": "청위환",
+ "entp_name": "한솔신약(주)",
+ "permit_date": "20210506",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040187]목향|[M040792]황련|[M040793]황백|[M040813]후박|[M050036]육계|[M050185]당약|[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Aucklandiae Radix/Cinnamon Bark/Coptis Rhizome/Magnolia Bark/Phellodendron Bark/Sodium Bicarbonate/Swertia Herb",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103713",
+ "revisions": [
+  {
+   "revision_id": "202103713-5c988f87",
+   "content_sha256": "5c988f878a90ba2cd8594143f1c258e36afdc3787bbedc6931c7027eb76d1842",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:09Z",
+   "last_observed_at": "2026-09-08T09:00:09Z",
+   "official_revision_date": "2021-05-06"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:09Z"
+}

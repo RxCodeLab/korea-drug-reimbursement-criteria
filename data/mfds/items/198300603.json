@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300603",
+ "item_name": "부광이소맥지속성캡슐(이소소르비드이질산염지속과립)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19830705",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259305]이소소르비드이질산염지속과립",
+ "main_item_ingr_eng": "Isosorbide Dinitrate Sustained-Release Granules",
+ "edi_code": "642200970",
+ "atc_code": "C01DA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300603",
+ "revisions": [
+  {
+   "revision_id": "198300603-4efeb567",
+   "content_sha256": "4efeb567f75bdf400d86776f44eb02c1f4bfba05e26a90b0a0047337c58a1c6b",
+   "ee_text": "1. 협심증, 심근경색, 관경화증(만성허혈성심질환, 무증후성허혈성심질환, 동맥경화성심질환) 2. 울혈성 심부전의 보조요법(강심배당체 또는 이뇨제와 병용)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:52Z",
+   "last_observed_at": "2026-09-08T08:26:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:52Z"
+}

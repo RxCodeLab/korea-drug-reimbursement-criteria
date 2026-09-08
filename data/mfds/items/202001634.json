@@ -7,21 +7,22 @@
  "permit_date": "20200310",
  "cancel_date": "20250310",
  "status": "유효기간만료",
- "main_item_ingr": "[M050379]리파제|[M278011]디아스타제·프로테아제·셀룰라제|[M110153]감초 가루|[M110224]스코폴리아 엑스|[M050448]메타규산알루민산마그네슘|[M040634]침강탄산칼슘|[M207094]탄산수소나트륨|[M252787]트리메부틴말레산염",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M050379]리파제|[M050448]메타규산알루민산마그네슘|[M110153]감초 가루|[M110224]스코폴리아 엑스|[M207094]탄산수소나트륨|[M252787]트리메부틴말레산염|[M278011]디아스타제·프로테아제·셀룰라제",
  "main_item_ingr_eng": "Diastase·Protease·Cellulase/Glycyrrhiza Powder/Lipase/Magnesium Aluminometasilicate/Precipitated Calcium Carbonate/Scopolia Extract/Sodium Bicarbonate/Trimebutine Maleate",
  "edi_code": "",
  "atc_code": "A02AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001634",
+ "history_fetched_at": "2026-08-27T13:41:14Z",
  "revisions": [
   {
-   "revision_id": "202001634-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202001634-fc385fc0",
+   "content_sha256": "fc385fc0e6e9e7cdf43e08f34d780b735e96a2918b026c7a8920aab8a9396a52",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 식체(위체), 구역, 구토, 위통, 신트림, 소화불량, 식욕감퇴(식욕부진), 과식, 소화촉진, 소화불량으로 인한 위부팽만감",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:41:14Z",
-   "last_observed_at": "2026-08-27T13:41:14Z",
-   "official_revision_date": "2020-03-10"
+   "last_observed_at": "2026-09-08T08:58:00Z",
+   "official_revision_date": "2020-03-10",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:41:14Z"
+ ]
 }

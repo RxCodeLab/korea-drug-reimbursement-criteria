@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804167",
+ "item_name": "바이코틴정1밀리그램(바레니클린살리실산염)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20181023",
+ "cancel_date": "20231023",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M266101]바레니클린살리실산염",
+ "main_item_ingr_eng": "Varenicline Salicylate",
+ "edi_code": "",
+ "atc_code": "N07BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804167",
+ "revisions": [
+  {
+   "revision_id": "201804167-79eeaf18",
+   "content_sha256": "79eeaf18cf99e171faa4bb799b7612a9381801bfb70ab8f027501829b9ee0928",
+   "ee_text": "금연치료의 보조요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:44Z",
+   "last_observed_at": "2026-09-08T08:53:44Z",
+   "official_revision_date": "2018-10-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:44Z"
+}

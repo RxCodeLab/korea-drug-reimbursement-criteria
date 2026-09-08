@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606837",
+ "item_name": "아뉴이티100엘립타(플루티카손푸로에이트(미분화))",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20161130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259812]플루티카손푸로에이트(미분화)",
+ "main_item_ingr_eng": "Fluticasone Furoate Micronized",
+ "edi_code": "650003121",
+ "atc_code": "R03BA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606837",
+ "revisions": [
+  {
+   "revision_id": "201606837-a44a9e01",
+   "content_sha256": "a44a9e019a4e2370ab37696a01033a9adfb503e3943435008a75f871aad3cc8e",
+   "ee_text": "12세 이상 소아 및 성인에서 천식의 유지 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:20Z",
+   "last_observed_at": "2026-09-08T08:51:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:20Z"
+}

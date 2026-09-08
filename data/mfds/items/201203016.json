@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201203016",
+ "item_name": "아보넥스펜주(인터페론베타-1a, 유전자재조합)",
+ "entp_name": "한국에자이(주)",
+ "permit_date": "20120417",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246218]인터페론베타-1a",
+ "main_item_ingr_eng": "Interferon Beta-1A",
+ "edi_code": "621100191",
+ "atc_code": "L03AB07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201203016",
+ "revisions": [
+  {
+   "revision_id": "201203016-50a9305d",
+   "content_sha256": "50a9305d5f6bb9928ab2bb302ecbd2352bd1a4748e04da4ef82063bc2ff1f5f5",
+   "ee_text": "성인의 재발성 다발성 경화증의 치료 이 약은 장애의 진행을 느리게 하고 재발의 횟수를 감소시킨다. 단, 임상시험 시 재발성 다발성 경화증을 지난 3년간 재발 사이에 지속적인 진행 없이 신경계 기능이상(재발)이 적어도 2번 나타난 경우로 정의하였다.",
+   "ee_doc_id": "29",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:15Z",
+   "last_observed_at": "2026-09-08T08:45:15Z",
+   "official_revision_date": "2023-12-21"
+  },
+  {
+   "revision_id": "201203016-e9fb72e0",
+   "content_sha256": "e9fb72e0aa77615bd9cf17da484d0a47e7876815a599069413260ef2cf72e059",
+   "ee_text": "재발성 다발성 경화증의 치료 이 약은 장애의 진행을 느리게 하고 재발의 횟수를 감소시킨다. 단, 임상시험 시 재발성 다발성 경화증을 지난 3년간 재발 사이에 지속적인 진행 없이 신경계 기능이상(재발)이 적어도 2번 나타난 경우로 정의하였다.",
+   "ee_doc_id": "26",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-03-07",
+   "first_observed_at": "2026-09-08T08:45:15Z",
+   "last_observed_at": "2026-09-08T08:45:15Z"
+  },
+  {
+   "revision_id": "201203016-408f410e",
+   "content_sha256": "408f410ed32a4ee3eb6064724afd5465b85e2a110ce654990bd441341bddbd30",
+   "ee_text": "1. 재발성 다발성 경화증의 치료 단, 지난 3년간 재발 사이에 지속적인 진행 없이 신경계 기능이상(재발)이 적어도 2번 나타난 경우. 아보넥스주는 장애의 진행을 느리게 하고 재발 횟수를 감소시킨다.",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:15Z",
+   "last_observed_at": "2026-09-08T08:45:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:15Z"
+}

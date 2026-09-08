@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405796",
+ "item_name": "시메텐정(시메티딘)",
+ "entp_name": "(주)이든파마",
+ "permit_date": "20141208",
+ "cancel_date": "20241208",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050857]시메티딘",
+ "main_item_ingr_eng": "Cimetidine",
+ "edi_code": "",
+ "atc_code": "A02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405796",
+ "revisions": [
+  {
+   "revision_id": "201405796-80ab8d6f",
+   "content_sha256": "80ab8d6fcc1c2f74a3c5a79568d94f1e94f2aca9f55ff23ae45325ea132a3402",
+   "ee_text": "(정제) 1. 위·십이지장궤양, 역류성식도염, 재발성궤양, 문합부궤양, 졸링거-엘리슨증후군, 2. 다음 질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:06Z",
+   "last_observed_at": "2026-09-08T08:48:06Z",
+   "official_revision_date": "2015-12-17"
+  },
+  {
+   "revision_id": "201405796-3cda48dc",
+   "content_sha256": "3cda48dcde1a2e14c423e19d93f7502123290549a17175cb9f67a3050b5a5a49",
+   "ee_text": "1. 주효능 효과 위.십이지장궤양, 역류성식도염, 재발성궤양, 문합부궤양, 졸링거-엘리슨증후군, 다음 질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:48:06Z",
+   "last_observed_at": "2026-09-08T08:48:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:06Z"
+}

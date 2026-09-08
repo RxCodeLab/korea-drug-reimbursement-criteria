@@ -7,11 +7,12 @@
  "permit_date": "20081027",
  "cancel_date": "20240429",
  "status": "취하",
- "main_item_ingr": "[M040769]행인|[M088617]마인|[M040813]후박|[M040523]작약|[M040536]지실|[M040073]대황",
+ "main_item_ingr": "[M040073]대황|[M040523]작약|[M040536]지실|[M040769]행인|[M040813]후박|[M088617]마인",
  "main_item_ingr_eng": "Apricot Kernel/Cannabis Semen/Magnolia Bark/Peony Root/Poncirus Immature Fruit/Rhubarb",
  "edi_code": "",
  "atc_code": "A06AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810646",
+ "history_fetched_at": "2026-08-28T13:24:19Z",
  "revisions": [
   {
    "revision_id": "200810646-53c57fde",
@@ -19,9 +20,9 @@
    "ee_text": "(과립제)(환제)(정제) 변비",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:24:19Z",
-   "last_observed_at": "2026-08-28T13:24:19Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:42:54Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:19Z"
+ ]
 }

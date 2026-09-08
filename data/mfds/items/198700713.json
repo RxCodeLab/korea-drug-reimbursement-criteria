@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700713",
+ "item_name": "생단액(수출용)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19870722",
+ "cancel_date": "20240517",
+ "status": "취하",
+ "main_item_ingr": "[M080704]용담엑스|[M082098]계피유동엑스|[M082099]진피엑스|[M082101]황련유동엑스|[M082102]감초추출분말|[M082103]창출유동엑스|[M082104]건강유동엑스|[M095618]우루소데스옥시콜린산|[M213721]백삼유동엑스",
+ "main_item_ingr_eng": "Atractylodes Rhizome Fluid Extract/Cinnamon Bark Fluid Extract/Citrus Unshiu Peel Extract/Coptis Rhizome Fluid Extract/Gentian Root and Rhizome Extract/Ginger Fluid Extract/Glycyrrhiza Extract Powder/Ursodeoxycholic Acid/White Ginseng Fluid Extract",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700713",
+ "revisions": [
+  {
+   "revision_id": "198700713-aecee3ec",
+   "content_sha256": "aecee3ec009da46c8a3688f83095bada2ade930c5b6af9b095c4231477ca09f4",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 식체(위체), 구역, 구토",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:23Z",
+   "last_observed_at": "2026-09-08T08:27:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:23Z"
+}

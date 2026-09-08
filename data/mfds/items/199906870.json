@@ -7,7 +7,7 @@
  "permit_date": "19990724",
  "cancel_date": "20241030",
  "status": "취하",
- "main_item_ingr": "[M258743]살메테롤지나포산염(미분화)|[M243509]플루티카손프로피오네이트(미분화)",
+ "main_item_ingr": "[M243509]플루티카손프로피오네이트(미분화)|[M258743]살메테롤지나포산염(미분화)",
  "main_item_ingr_eng": "Fluticasone Propionate Micronized/Salmeterol Xinafoate Micronized",
  "edi_code": "",
  "atc_code": "R03AK06",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:21:29Z",
  "revisions": [
   {
-   "revision_id": "199906870-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "199906870-800eb996",
+   "content_sha256": "800eb996dd7433f315232fa89828414c5ce8b2ba6b461f1bf3695534b58be893",
+   "ee_text": "1. 기관지 확장제와 흡입용 코르티코스테로이드의 병용투여가 적절하다고 판단된 천식의 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199906870/EE",
    "first_observed_at": "2026-08-27T13:21:29Z",
-   "last_observed_at": "2026-08-28T13:23:51Z"
+   "last_observed_at": "2026-09-08T08:33:14Z",
+   "normalizer_version": 3
   }
  ]
 }

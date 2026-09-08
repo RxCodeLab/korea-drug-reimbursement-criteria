@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400622",
+ "item_name": "레이프로주370(이오프로마이드)(수출용)",
+ "entp_name": "일성아이에스(주)",
+ "permit_date": "20140212",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085564]이오프로마이드",
+ "main_item_ingr_eng": "Iopromide",
+ "edi_code": "",
+ "atc_code": "V08AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400622",
+ "revisions": [
+  {
+   "revision_id": "201400622-2469e9e0",
+   "content_sha256": "2469e9e076ace9defe5fbf99d7ec957611edadf0b54289e70d5b85f57c91d3d3",
+   "ee_text": "1. 정맥요로조영(IVP) 2. CT 조영증강 : 두부, 체부 3. 혈관조영 4. 디지털감산혈관조영(DSA)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:46Z",
+   "last_observed_at": "2026-09-08T08:46:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:46Z"
+}

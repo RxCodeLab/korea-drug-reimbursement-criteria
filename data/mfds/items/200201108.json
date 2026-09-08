@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201108",
+ "item_name": "브로맥스건조시럽(푸마르산포르모테롤)(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20020423",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081683]푸마르산포르모테롤",
+ "main_item_ingr_eng": "Formoterol Fumarate",
+ "edi_code": "",
+ "atc_code": "R03CC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201108",
+ "revisions": [
+  {
+   "revision_id": "200201108-3fa50687",
+   "content_sha256": "3fa506874cd1c055078c7edd5617ac54ff4f44ac9c76b66417d12d35941637e3",
+   "ee_text": "1. 주효능 효과 다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 급성기관지염, 천식성기관지염",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:08Z",
+   "last_observed_at": "2026-09-08T08:36:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:08Z"
+}

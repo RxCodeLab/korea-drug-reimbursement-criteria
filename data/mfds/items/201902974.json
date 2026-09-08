@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902974",
+ "history_fetched_at": "2026-08-28T13:25:06Z",
  "revisions": [
   {
    "revision_id": "201902974-5c988f87",
@@ -19,9 +20,9 @@
    "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:06Z",
-   "last_observed_at": "2026-08-28T13:25:06Z",
-   "official_revision_date": "2019-05-08"
+   "last_observed_at": "2026-09-08T08:55:06Z",
+   "official_revision_date": "2019-05-08",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:06Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901509",
+ "item_name": "포알렌정(알렌드론산나트륨삼수화물)",
+ "entp_name": "(주)바이넥스",
+ "permit_date": "20190312",
+ "cancel_date": "20240312",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M253533]알렌드론산나트륨삼수화물",
+ "main_item_ingr_eng": "Sodium Alendronate Trihydrate",
+ "edi_code": "",
+ "atc_code": "M05BA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901509",
+ "revisions": [
+  {
+   "revision_id": "201901509-2e214c9e",
+   "content_sha256": "2e214c9eff34a190c01aa4dc407f2186068bda5adeeff07773100094b2e327e4",
+   "ee_text": "1. 폐경후 여성의 골다공증 치료 2. 남성의 골다공증 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:30Z",
+   "last_observed_at": "2026-09-08T08:54:30Z",
+   "official_revision_date": "2019-03-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:30Z"
+}

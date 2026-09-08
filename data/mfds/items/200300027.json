@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300027",
+ "item_name": "파덱솔주(파클리탁셀)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20030514",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088462]파클리탁셀",
+ "main_item_ingr_eng": "Paclitaxel",
+ "edi_code": "648503851,648503861,648503871,648503881",
+ "atc_code": "L01CD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300027",
+ "revisions": [
+  {
+   "revision_id": "200300027-208c6156",
+   "content_sha256": "208c6156a15f4f1a3b58aaf45e8470ab052f90a7df445e69ab3ed1dc7a448a70",
+   "ee_text": "1. 난소암 1) 다른 화학요법제와 병용하여 1차 요법제로 사용 2) 표준 요법에 실패한 전이성 난소암의 치료에 2차 요법제로 사용 2. 유방암 1) 표준요법에 실패한 전이성 유방암의 치료에 2차 요법제로 사용 2) 결절 양성 유방암의 보조치료:표준 독소루비신 함유 병용 화학요법후 사용 3) HER2(Human Epidermal growth factor Receptor 2 protein)가 과발현(IHC 3+ 또는 FISH 양성)되고 화학요법 치료를 받은 경험이 없는 전이성 유방암에 트라스투주맙과 병용요법제로 사용 3. 폐암 : 진행성 비소세포 폐암의 치료에 1차 요법제로 사용 4. 위암 : 진행성 및 전이성 또는 국소 재발성 위암",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:39Z",
+   "last_observed_at": "2026-09-08T08:36:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:39Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200707681",
+ "item_name": "우루소비린정250밀리그램(우루소데스옥시콜린산)(수출용)",
+ "entp_name": "(주)화이트생명과학",
+ "permit_date": "20070704",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095618]우루소데스옥시콜린산",
+ "main_item_ingr_eng": "Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A05AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707681",
+ "revisions": [
+  {
+   "revision_id": "200707681-20dd2f8b",
+   "content_sha256": "20dd2f8b8c3df6bda7322973d5ba45a77aaad3a47a240136b1d0218a7fab1a90",
+   "ee_text": "원발 쓸개간 간경화증(Primary Biliary Cirrhosis : PBC)의 간기능 개선",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:38Z",
+   "last_observed_at": "2026-09-08T08:41:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:38Z"
+}

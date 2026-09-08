@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602325",
+ "item_name": "플로페나연질캡슐(펙소페나딘염산염)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20260810",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246634]펙소페나딘염산염",
+ "main_item_ingr_eng": "Fexofenadine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602325",
+ "revisions": [
+  {
+   "revision_id": "202602325-8e58fec2",
+   "content_sha256": "8e58fec28ce8bb52cb77e3cda0d6d9d0488fc26290fc7bbd355e2ace40aebd4e",
+   "ee_text": "꽃가루, 집 먼지 (실내 먼지) 등에 의한 다음과 같은 코의 알레르기 증상의 완화 : 재채기, 콧물, 코 막힘",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:36Z",
+   "last_observed_at": "2026-09-08T09:05:36Z",
+   "official_revision_date": "2026-08-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:36Z"
+}

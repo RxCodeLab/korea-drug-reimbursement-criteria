@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600299",
+ "item_name": "인터메딕세프라딘주1g(수출용)(수출명:BIOSCLORInj.)",
+ "entp_name": "천우신약(주)",
+ "permit_date": "20060323",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020069]세프라딘",
+ "main_item_ingr_eng": "Cefradine",
+ "edi_code": "",
+ "atc_code": "J01DB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600299",
+ "revisions": [
+  {
+   "revision_id": "200600299-64f69c48",
+   "content_sha256": "64f69c484a48338b376fb769f9eb07b6dabc03a0820721a2911f1bc65b65b019",
+   "ee_text": "(캡슐제)(건조시럽제)(주사제) ○ 유효균종 포도구균, 폐렴연쇄구균, 인플루엔자균, 대장균, 프로테우스 미라빌리스, 클레브시엘라, 연쇄구균 ○ 적응증 (캡슐제)(건조시럽제) - 편도염, 인두염, 대엽성폐렴, 기관지염 - 방광염, 신우신염, 요도염, 전립선염 - 농양, 연조직염, 종기, 농가진 - 중이염 (주사제) - 편도염, 인두염, 대엽성 폐렴, 기관지염 - 방광염, 신우신염, 요도염, 전립선염 - 농양, 연조직염, 종기, 농가진 - 중이염 - 골감염증 - 패혈증",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:48Z",
+   "last_observed_at": "2026-09-08T08:39:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:48Z"
+}

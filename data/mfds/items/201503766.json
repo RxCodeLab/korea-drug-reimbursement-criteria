@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503766",
+ "item_name": "엔클안연고(염화나트륨)(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20150610",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨",
+ "main_item_ingr_eng": "Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "S01XA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503766",
+ "revisions": [
+  {
+   "revision_id": "201503766-d1ed0fe0",
+   "content_sha256": "d1ed0fe072e7be546214513ed8e8fc68696006b85ac2234f786d7058a3b42cb2",
+   "ee_text": "각막부종의 일시적 완화",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:12Z",
+   "last_observed_at": "2026-09-08T08:49:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:12Z"
+}

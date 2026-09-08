@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008048",
+ "item_name": "하이립클로버크림",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20201120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버|[M101579]히드로코르티손",
+ "main_item_ingr_eng": "Acyclovir/Hydrocortisone",
+ "edi_code": "",
+ "atc_code": "D06BB53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008048",
+ "revisions": [
+  {
+   "revision_id": "202008048-17336351",
+   "content_sha256": "17336351e5a0438e4924a2194e407f0f684b4a4f989e42e020481ffab2b51949",
+   "ee_text": "재발성 구순포진의 초기 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:40Z",
+   "last_observed_at": "2026-09-08T08:59:40Z",
+   "official_revision_date": "2020-11-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:40Z"
+}

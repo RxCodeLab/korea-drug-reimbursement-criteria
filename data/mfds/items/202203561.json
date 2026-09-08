@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203561",
+ "item_name": "아사딘주(삼산화비소)",
+ "entp_name": "베르토코리아유한책임회사",
+ "permit_date": "20220914",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250326]삼산화비소",
+ "main_item_ingr_eng": "Arsenic Trioxide",
+ "edi_code": "",
+ "atc_code": "L01XX27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203561",
+ "revisions": [
+  {
+   "revision_id": "202203561-bed9f846",
+   "content_sha256": "bed9f8463de859e9a9b70ed3672383ad73b1cb2a6cbe28c591be72ecb05be146",
+   "ee_text": "성인 불응성 또는 재발성 급성전골수구성백혈병 환자의 관해유도 및 공고요법 염색체검사[t(15;17)전좌] 및/또는 유전자검사[Pro-Myelocytic Leukaemia/Retinoic-Acid -Receptor-alpha (PML/RAR-alpha)유전자]에 의해 급성전골수구성백혈병으로 진단된 환자에 사용할 것. 이전의 치료로서 retinoid와 화학요법을 포함해야 한다. 이 약에 의해 완전관해된 후 재발한 급성전골수구성백혈병에 대해서, 이 약의 유효성·안전성은 확립되어 있지 않다. 여타 급성골수성 백혈병(AML) 아형에 대한 반응률에 대해서는 조사된 바가 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:33Z",
+   "last_observed_at": "2026-09-08T09:01:33Z",
+   "official_revision_date": "2022-09-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:33Z"
+}

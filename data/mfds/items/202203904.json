@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203904",
+ "item_name": "리브타요주(세미플리맙)",
+ "entp_name": "지피테라퓨틱스코리아주식회사",
+ "permit_date": "20221025",
+ "cancel_date": "20260428",
+ "status": "취하",
+ "main_item_ingr": "[M283153]세미플리맙",
+ "main_item_ingr_eng": "Cemiplimab",
+ "edi_code": "",
+ "atc_code": "L01FF06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203904",
+ "revisions": [
+  {
+   "revision_id": "202203904-d4e94b4f",
+   "content_sha256": "d4e94b4f7ec1b504755bafbe08767d997204cb7a48a3a892aaf6b81f544dc1d0",
+   "ee_text": "피부 편평세포암 근치적 수술이나 근치적 방사선 요법의 대상이 아닌 국소 진행성 또는 전이성 피부 편평세포암 비소세포폐암 다음 비소세포폐암 환자에서 1차 치료 단독 요법 : EGFR, ALK 또는 ROS1 변이가 없는 PD-L1 발현 ≥ 50% 종양세포로서, 확정적 화학방사선 요법 또는 수술적 절제 대상이 아닌 국소 진행성 또는 전이성 비소세포폐암 자궁경부암 백금기반 화학요법 치료 도중이나 이후에 질병이 진행된 재발성 또는 전이성 자궁경부암",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:37Z",
+   "last_observed_at": "2026-09-08T09:01:37Z",
+   "official_revision_date": "2023-11-29"
+  },
+  {
+   "revision_id": "202203904-0f3060ec",
+   "content_sha256": "0f3060ec62d8dabf6f241327b5658e884b3d12009176991d799fcb54c02a92e9",
+   "ee_text": "근치적 수술이나 근치적 방사선 요법의 대상이 아닌 국소 진행성 또는 전이성 피부 편평세포암",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-10-25",
+   "first_observed_at": "2026-09-08T09:01:37Z",
+   "last_observed_at": "2026-09-08T09:01:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:37Z"
+}

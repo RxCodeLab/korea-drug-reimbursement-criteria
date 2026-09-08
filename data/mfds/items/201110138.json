@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201110138",
+ "item_name": "로페라필름오디에프(로페라미드염산염)(수출용)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20111121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222992]로페라미드염산염",
+ "main_item_ingr_eng": "Loperamide Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A07DA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110138",
+ "revisions": [
+  {
+   "revision_id": "201110138-62023d31",
+   "content_sha256": "62023d31bfd09f6cad6e29e049a6fe7716a1d7f540a51a741bc44bd1586e45ae",
+   "ee_text": "급성 설사의 치료",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:02Z",
+   "last_observed_at": "2026-09-08T08:45:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:02Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200303260",
+ "item_name": "케토에스겔(케토프로펜)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20030704",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200303260",
+ "revisions": [
+  {
+   "revision_id": "200303260-9ac775a1",
+   "content_sha256": "9ac775a119e2f0e7964c97bd9ecec5a1ed1fff3d10bc78a4941a7c6cd4d41408",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건ㆍ건초염(힘줄윤활막염), 건주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기)ㆍ동통(통증)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:16Z",
+   "last_observed_at": "2026-09-08T08:37:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:16Z"
+}

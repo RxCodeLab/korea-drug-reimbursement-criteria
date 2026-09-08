@@ -7,7 +7,7 @@
  "permit_date": "20021018",
  "cancel_date": "20240429",
  "status": "취하",
- "main_item_ingr": "[M040634]침강탄산칼슘|[M040631]탄산수소나트륨|[M216095]규산알루민산마그네슘|[M080221]스코폴리아엑스|[M070009]감초가루|[M260674]리파아제Ⅱ|[M096619]비오디아스타제2000Ⅳ|[M245102]트리메부틴말레산염",
+ "main_item_ingr": "[M040631]탄산수소나트륨|[M040634]침강탄산칼슘|[M070009]감초가루|[M080221]스코폴리아엑스|[M096619]비오디아스타제2000Ⅳ|[M216095]규산알루민산마그네슘|[M245102]트리메부틴말레산염|[M260674]리파아제Ⅱ",
  "main_item_ingr_eng": "Biodiastase 2000 IV/Glycyrrhiza Powder/Lipase II/Magnesium Aluminosilicate/Precipitated Calcium Carbonate/Scopolia Extract/Sodium Bicarbonate/Trimebutine Maleate",
  "edi_code": "",
  "atc_code": "A02AX",
@@ -20,7 +20,8 @@
    "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 식체(위체), 구역, 구토, 위통, 신트림, 소화불량, 식욕감퇴(식욕부진), 과식, 소화촉진, 소화불량으로 인한 위부팽만감",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200201854/EE",
    "first_observed_at": "2026-08-27T13:40:44Z",
-   "last_observed_at": "2026-08-28T13:24:00Z"
+   "last_observed_at": "2026-09-08T08:36:15Z",
+   "normalizer_version": 3
   }
  ]
 }

@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "R02AA09",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702589",
+ "history_fetched_at": "2026-08-28T13:23:48Z",
  "revisions": [
   {
-   "revision_id": "199702589-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "199702589-cbf3d004",
+   "content_sha256": "cbf3d004ddd79d0e908043748e97cb4349f0c2f9c8f3ae2e549696571a72e554",
+   "ee_text": "1. 구강내 소독 2. 발치수술 또는 구강수술 후의 소독·살균",
    "ee_doc_id": "35",
    "first_observed_at": "2026-08-28T13:23:48Z",
-   "last_observed_at": "2026-08-28T13:23:48Z",
-   "official_revision_date": "2022-10-02"
+   "last_observed_at": "2026-09-08T08:31:20Z",
+   "official_revision_date": "2022-10-02",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:48Z"
+ ]
 }

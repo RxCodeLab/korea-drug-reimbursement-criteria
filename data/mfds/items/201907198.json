@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907198",
+ "item_name": "오스톡연질캡슐10밀리그램(알리트레티노인)",
+ "entp_name": "(주)오스코리아제약",
+ "permit_date": "20191014",
+ "cancel_date": "20250122",
+ "status": "취하",
+ "main_item_ingr": "[M256772]알리트레티노인",
+ "main_item_ingr_eng": "Alitretinoin",
+ "edi_code": "",
+ "atc_code": "D11AH04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907198",
+ "revisions": [
+  {
+   "revision_id": "201907198-011cfbba",
+   "content_sha256": "011cfbba2bb2405ad6db49a4e40dda7eb671a0b36d69936047589b9d4ecbd129",
+   "ee_text": "최소 4주간의 강력한 국소 스테로이드 치료에도 반응하지 않는 성인의 만성 중증 손습진(PGA(physician's global assessment)따라 평가)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:41Z",
+   "last_observed_at": "2026-09-08T08:56:41Z",
+   "official_revision_date": "2021-08-02"
+  },
+  {
+   "revision_id": "201907198-891e835b",
+   "content_sha256": "891e835bf332280b8b94a55e2b0df5fe79ca871ab3b85d057d137960e531293b",
+   "ee_text": "최소 4주간의 강력한 국소 스테로이드 치료에도 반응하지 않는 성인의 재발성 만성 중증 손습진(PGA(physician's global assessment) 따라 평가)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-10-14",
+   "first_observed_at": "2026-09-08T08:56:41Z",
+   "last_observed_at": "2026-09-08T08:56:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:41Z"
+}

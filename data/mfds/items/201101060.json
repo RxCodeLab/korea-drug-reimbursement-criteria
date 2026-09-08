@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201101060",
+ "item_name": "크비레쿠틴정(카르두스마리아누스엑스)(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20110302",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089207]카르두스마리아누스엑스",
+ "main_item_ingr_eng": "Cardus Marianus Extract",
+ "edi_code": "",
+ "atc_code": "A05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101060",
+ "revisions": [
+  {
+   "revision_id": "201101060-a9b4e8b7",
+   "content_sha256": "a9b4e8b7b69e2bd1900c2566bd9b35a9f15a77404432470965e11e954f6cedb0",
+   "ee_text": "다음 질환의 보조 치료 : 독성 간질환, 간세포 보호, 만성 간염, 간경변",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:30Z",
+   "last_observed_at": "2026-09-08T08:44:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:30Z"
+}

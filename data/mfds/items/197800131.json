@@ -12,16 +12,17 @@
  "edi_code": "642102000",
  "atc_code": "J04AK01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197800131",
+ "history_fetched_at": "2026-08-28T13:23:38Z",
  "revisions": [
   {
-   "revision_id": "197800131-207bc727",
-   "content_sha256": "207bc7273ac8dab0289dee78e076d7045adc585fde7dc22ea68d2be9907a27b8",
-   "ee_text": "결핵균 폐결핵 및 기타 결핵증",
+   "revision_id": "197800131-9e947e34",
+   "content_sha256": "9e947e345967c839ab69a096d402f8bb2b9bf0a6c98c8312c89278a8b5dde7c2",
+   "ee_text": "○ 유효균종 결핵균 ○ 적응증 폐결핵 및 기타 결핵증",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:23:38Z",
-   "last_observed_at": "2026-08-28T13:23:38Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:29Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:38Z"
+ ]
 }

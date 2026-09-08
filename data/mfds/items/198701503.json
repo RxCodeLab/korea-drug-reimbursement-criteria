@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198701503",
+ "item_name": "바란세프연질캡슐(리놀산에틸)(수출용)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "19870803",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203061]리놀레산에틸",
+ "main_item_ingr_eng": "Ethyl Linoleate",
+ "edi_code": "",
+ "atc_code": "C10AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198701503",
+ "revisions": [
+  {
+   "revision_id": "198701503-f22339cf",
+   "content_sha256": "f22339cf2a68c7ef8de4131847f7656dbee8b2f5946b4326c25cb9f41ac7008c",
+   "ee_text": "고지혈증",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:26Z",
+   "last_observed_at": "2026-09-08T08:27:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:26Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "20041220",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223289]폴산|[M096429]시아노코발라민|[M081531]철단백추출물",
+ "main_item_ingr": "[M081531]철단백추출물|[M096429]시아노코발라민|[M223289]폴산",
  "main_item_ingr_eng": "Cyanocobalamin/Ferritin Extract/Folic Acid",
  "edi_code": "",
  "atc_code": "B03AE01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400925",
+ "history_fetched_at": "2026-08-28T13:24:04Z",
  "revisions": [
   {
    "revision_id": "200400925-635e8644",
@@ -19,8 +20,9 @@
    "ee_text": "철 결핍성 빈혈의 예방 및 치료",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:24:04Z",
-   "last_observed_at": "2026-08-28T13:24:04Z",
-   "official_revision_date": "2012-10-24"
+   "last_observed_at": "2026-09-08T08:37:41Z",
+   "official_revision_date": "2012-10-24",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200400925-8c6620d5",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:04Z",
    "last_observed_at": "2026-08-28T13:24:04Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:04Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201306313",
+ "item_name": "미그보스필름코팅정(미그리톨)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20130320",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091466]미그리톨",
+ "main_item_ingr_eng": "Miglitol",
+ "edi_code": "",
+ "atc_code": "A10BF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306313",
+ "revisions": [
+  {
+   "revision_id": "201306313-41753d69",
+   "content_sha256": "41753d69f8e35bc619ce53eda93634b177ab0b668484629afedc9a9e74d2adca",
+   "ee_text": "식이요법만으로는 충분히 조절되지 않거나 혹은 식이요법과 설폰닐우레아의 병용요법으로 치료가 되지 않은 인슐린 비의존성 당뇨병",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:54Z",
+   "last_observed_at": "2026-09-08T08:45:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:54Z"
+}

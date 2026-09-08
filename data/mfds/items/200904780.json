@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200904780",
+ "item_name": "헤란스시럽(아이비엽70%에탄올유동엑스)",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20090703",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099891]아이비엽70%에탄올유동엑스",
+ "main_item_ingr_eng": "Ivy Leaf 70% Ethanol Fluid Extract",
+ "edi_code": "",
+ "atc_code": "R05CA12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904780",
+ "revisions": [
+  {
+   "revision_id": "200904780-8de818e4",
+   "content_sha256": "8de818e45dca246bb42d4126b9520fc330303889d10b2b30344d7e1d926c48c7",
+   "ee_text": "(시럽제)(유동엑스제)(현탁제)(정제) 만성 염증성 기관지 질환의 증상 개선, 기침을 동반한 호흡기의 급성 염증 완화",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:22Z",
+   "last_observed_at": "2026-09-08T08:43:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:22Z"
+}

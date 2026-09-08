@@ -7,11 +7,12 @@
  "permit_date": "20170524",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M280190]텔미사르탄파우더(23.9%)|[M222875]암로디핀베실산염",
+ "main_item_ingr": "[M222875]암로디핀베실산염|[M280190]텔미사르탄파우더(23.9%)",
  "main_item_ingr_eng": "Amlodipine Besylate/Telmisartan Powder 23.9%",
  "edi_code": "640903420",
  "atc_code": "C09DB04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702542",
+ "history_fetched_at": "2026-08-28T13:24:56Z",
  "revisions": [
   {
    "revision_id": "201702542-771aa958",
@@ -19,7 +20,8 @@
    "ee_text": "암로디핀 또는 텔미사르탄 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201702542/EE",
    "first_observed_at": "2026-08-28T13:24:56Z",
-   "last_observed_at": "2026-08-28T13:24:56Z"
+   "last_observed_at": "2026-09-08T08:51:52Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201702542-e3b0c442",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:56Z",
    "last_observed_at": "2026-08-28T13:24:56Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:56Z"
+ ]
 }

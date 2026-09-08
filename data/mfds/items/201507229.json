@@ -12,6 +12,7 @@
  "edi_code": "644603260",
  "atc_code": "R05CB01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507229",
+ "history_fetched_at": "2026-08-28T13:24:45Z",
  "revisions": [
   {
    "revision_id": "201507229-fb7f2c89",
@@ -19,8 +20,9 @@
    "ee_text": "다음 질환에서의 객담배출곤란 : 급․만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:24:45Z",
-   "last_observed_at": "2026-08-28T13:24:45Z",
-   "official_revision_date": "2020-10-12"
+   "last_observed_at": "2026-09-08T08:49:43Z",
+   "official_revision_date": "2020-10-12",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201507229-06e627d8",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:45Z",
    "last_observed_at": "2026-08-28T13:24:45Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:45Z"
+ ]
 }

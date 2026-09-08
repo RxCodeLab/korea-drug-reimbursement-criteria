@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201306498",
+ "item_name": "플루빈점안액0.1%(플루오로메톨론)(1회용), 플루빈점안액0.1%(플루오로메톨론)",
+ "entp_name": "(주)태준제약",
+ "permit_date": "20130328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051832]플루오로메톨론|[M051832]플루오로메톨론",
+ "main_item_ingr_eng": "Fluorometholone",
+ "edi_code": "650102561,650102961",
+ "atc_code": "S01BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306498",
+ "revisions": [
+  {
+   "revision_id": "201306498-923c6312",
+   "content_sha256": "923c63126fdb497e406a6ff16074399289d2e73dbc2d9f2f17ae940f8c3217e8",
+   "ee_text": "외안부 및 전안부의 염증성 질환(안검염, 결막염, 각막염, 공막염, 상공막염, 홍채염, 홍채모양체염, 포도막염, 수술후 염증 등)",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:57Z",
+   "last_observed_at": "2026-09-08T08:45:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:57Z"
+}

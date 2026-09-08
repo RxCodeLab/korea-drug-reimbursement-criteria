@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501243",
+ "item_name": "크라시에계지가작약탕엑스세립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20150309",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261692]계지가작약탕엑스",
+ "main_item_ingr_eng": "Gyejigajakyaktang Extract",
+ "edi_code": "",
+ "atc_code": "A03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501243",
+ "revisions": [
+  {
+   "revision_id": "201501243-4a1925d4",
+   "content_sha256": "4a1925d45270e2ce29f4560a056b356d36413ab79bc6a73ed7c28d46e440ad44",
+   "ee_text": "복부팽만감이 있는 다음 증상 : 대변이 조금 나올 뿐 배변이 끝난 느낌이 없는 상태, 복통",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:35Z",
+   "last_observed_at": "2026-09-08T08:48:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:35Z"
+}

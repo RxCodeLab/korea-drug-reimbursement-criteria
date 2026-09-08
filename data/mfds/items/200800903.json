@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200800903",
+ "item_name": "엠-엑심 캡슐(세픽심수화물)(M-Xime Cap)(수출용)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20080123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222863]세픽심수화물",
+ "main_item_ingr_eng": "Cefixime Hydrate",
+ "edi_code": "",
+ "atc_code": "J01DD08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800903",
+ "revisions": [
+  {
+   "revision_id": "200800903-89aace3c",
+   "content_sha256": "89aace3c120a3214b1d7a7e87a457bd412cd2e1beb594d11a8f30b4507f15fed",
+   "ee_text": "ㆍ 유효균종 연쇄구균(장내구균제외), 폐렴연쇄구균, 임균, 모락셀라 카타랄리스, 대장균, 클레브시엘라, 세라티아, 프로테우스, 인플루엔자균 ㆍ 적응증 - 기관지염, 기관지확장증(감염시), 만성호흡기질환의 2차 감염, 폐렴 - 신우신염, 방광염, 임균성요도염 - 담낭염, 담관염 - 성홍열 - 중이염, 부비동염",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:11Z",
+   "last_observed_at": "2026-09-08T08:42:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:11Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905273",
+ "item_name": "투리온점안액(베포타스틴베실산염)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20190724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255128]베포타스틴베실산염",
+ "main_item_ingr_eng": "Bepotastine Besylate",
+ "edi_code": "643903701",
+ "atc_code": "S01GX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905273",
+ "revisions": [
+  {
+   "revision_id": "201905273-268d214a",
+   "content_sha256": "268d214a36f8ac3a0947a69118f33e40c8ee0ab3bdcf02ef1339ec58640cc096",
+   "ee_text": "알레르기결막염으로 인한 가려움증의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:55Z",
+   "last_observed_at": "2026-09-08T08:55:55Z",
+   "official_revision_date": "2019-07-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:55Z"
+}

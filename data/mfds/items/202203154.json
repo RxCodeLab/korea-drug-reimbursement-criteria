@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203154",
+ "item_name": "올리멜엔12이주",
+ "entp_name": "주식회사박스터코리아",
+ "permit_date": "20220801",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040438]염화칼륨|[M044300]포도당일수화물|[M088656]글리신|[M102093]염화마그네슘육수화물|[M102759]정제올리브유|[M103060]L-트레오닌|[M103077]L-아르기닌|[M202247]L-아스파르트산|[M204427]L-글루탐산|[M204435]L-세린|[M204442]L-페닐알라닌|[M209360]L-발린|[M209366]L-알라닌|[M214274]L-트리프토판|[M214313]L-티로신|[M214861]L-프롤린|[M215288]L-히스티딘|[M218567]L-메티오닌|[M222530]L-이소류신|[M222531]L-류신|[M240607]아세트산나트륨삼수화물|[M248270]글리세로인산나트륨수화물|[M251255]정제콩기름|[M270255]L-리신아세트산염|[M280421]염화칼슘이수화물",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose Monohydrate/Glycine/L-Alanine/L-Arginine/L-Aspartic Acid/L-Glutamic Acid/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Acetate/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine/Magnesium Chloride Hexahydrate/Potassium Chloride/Purified Olive Oil/Refined Soyabean Oil/Sodium Acetate Hydrate/Sodium Glycerophosphate Hydrate",
+ "edi_code": "078200161,078200171,078200181,646601811",
+ "atc_code": "B05BA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203154",
+ "revisions": [
+  {
+   "revision_id": "202203154-67f74120",
+   "content_sha256": "67f74120a50bc7bae8a0323749d74e5d31709468958b374b3c1d222085faa26b",
+   "ee_text": "경구 또는 위장관 영양 보급이 불가능 또는 불충분하거나 또는 제한되어 경정맥 영양 공급을 실시해야 하는 만 2세 이상 소아 및 성인 환자들에게 수분, 전해질, 아미노산 및 칼로리 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:29Z",
+   "last_observed_at": "2026-09-08T09:01:29Z",
+   "official_revision_date": "2022-08-01"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:29Z"
+}

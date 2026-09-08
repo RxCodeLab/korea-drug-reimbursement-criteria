@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401574",
+ "item_name": "도모호론액0.05%(클로베타솔프로피오네이트)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20240628",
+ "cancel_date": "20260319",
+ "status": "취하",
+ "main_item_ingr": "[M223224]클로베타솔프로피오네이트",
+ "main_item_ingr_eng": "Clobetasol Propionate",
+ "edi_code": "",
+ "atc_code": "D07AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401574",
+ "revisions": [
+  {
+   "revision_id": "202401574-935217f9",
+   "content_sha256": "935217f921a8a728272230845bd294c1dd180b34b6d020e63c33d493d3b8bca7",
+   "ee_text": "중등도 - 중증의 두부 건선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:06Z",
+   "last_observed_at": "2026-09-08T09:03:06Z",
+   "official_revision_date": "2024-06-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:06Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197800467",
+ "item_name": "프렉톤정(시클로실린산)(수출명:Heplex-40-tab)(수출용)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "19780708",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050874]시크로실린산",
+ "main_item_ingr_eng": "Cicloxilic Acid",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197800467",
+ "revisions": [
+  {
+   "revision_id": "197800467-6665b179",
+   "content_sha256": "6665b1799c1686a2c3f6b3987365fc402eabb74caea76ad4d3385dc4c216a97c",
+   "ee_text": "독성, 감염성, 식이성 혹은 대사부전으로 인한 간세포의 불량상태(간지방증 알코올성간염, 만성간염, 초기간경병증), 간성소화불량증, 불완전담즙분비, 담즙분비감소",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:30Z",
+   "last_observed_at": "2026-09-08T08:26:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:30Z"
+}

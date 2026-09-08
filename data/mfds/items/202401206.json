@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401206",
+ "item_name": "동화알보칠액(폴리크레줄렌액50%)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20240520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256536]폴리크레줄렌액50%",
+ "main_item_ingr_eng": "Policresulen Solution 50%",
+ "edi_code": "",
+ "atc_code": "D08AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401206",
+ "revisions": [
+  {
+   "revision_id": "202401206-de115d3a",
+   "content_sha256": "de115d3a824e5eb7055de9d6a5c7112d5883d2b837d63c3330ad901ec43a105a",
+   "ee_text": "1. 질 세균 감염 2. 구내염 및 치육염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:58Z",
+   "last_observed_at": "2026-09-08T09:02:58Z",
+   "official_revision_date": "2024-05-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:58Z"
+}

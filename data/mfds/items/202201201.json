@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201201",
+ "item_name": "타리노정",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20220328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084756]현초가루|[M223039]베르베린염화물수화물|[M223110]아크리놀수화물",
+ "main_item_ingr_eng": "Acrinol Hydrate/Berberine Chloride Hydrate/Geranium Herb Powder",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201201",
+ "revisions": [
+  {
+   "revision_id": "202201201-1d914b41",
+   "content_sha256": "1d914b4143613a0c9c4ae07070e163524f6fb085b4b522ee9b9d72fcc1fae60e",
+   "ee_text": "설사, 체함, 묽은 변, 토사",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:13Z",
+   "last_observed_at": "2026-09-08T09:01:13Z",
+   "official_revision_date": "2022-03-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:13Z"
+}

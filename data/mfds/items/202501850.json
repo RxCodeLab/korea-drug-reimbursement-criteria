@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "S01XA20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501850",
+ "history_fetched_at": "2026-08-28T13:25:38Z",
  "revisions": [
   {
    "revision_id": "202501850-823a664d",
@@ -19,9 +20,9 @@
    "ee_text": "눈의 건조 또는 바람·태양에 노출되어 생기는 화끈거리는 증상, 자극감, 불쾌감의 일시적 완화",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:38Z",
-   "last_observed_at": "2026-08-28T13:25:38Z",
-   "official_revision_date": "2025-07-22"
+   "last_observed_at": "2026-09-08T09:04:05Z",
+   "official_revision_date": "2025-07-22",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:38Z"
+ ]
 }

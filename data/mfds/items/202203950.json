@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203950",
+ "item_name": "아킨지오주",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20221031",
+ "cancel_date": "20251223",
+ "status": "취하",
+ "main_item_ingr": "[M246060]팔로노세트론염산염|[M283221]포스네투피탄트염화물염산염",
+ "main_item_ingr_eng": "Fosnetupitant Chloride Hydrochloride/Palonosetron Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A04AA55",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203950",
+ "revisions": [
+  {
+   "revision_id": "202203950-31b857c6",
+   "content_sha256": "31b857c6c576df0c880fc8edeeb3b2a946b5ed2963b7dc126be6552990de9c97",
+   "ee_text": "성인 1. 심한 구토 유발성 항암 화학요법제의 초기 및 반복적인 치료에 의해 유발되는 급성 및 지연형의 구역 및 구토의 예방 2. 중등도 구토 유발성 항암 화학요법제의 초기 및 반복적인 치료에 의해 유발되는 급성 및 지연형의 구역 및 구토의 예방",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:37Z",
+   "last_observed_at": "2026-09-08T09:01:37Z",
+   "official_revision_date": "2022-11-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:37Z"
+}

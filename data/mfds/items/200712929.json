@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200712929",
+ "item_name": "메조톡실주(펜톡시필린)(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "20071129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051736]펜톡시필린",
+ "main_item_ingr_eng": "Pentoxifylline",
+ "edi_code": "",
+ "atc_code": "C04AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712929",
+ "revisions": [
+  {
+   "revision_id": "200712929-32c7be05",
+   "content_sha256": "32c7be057d5ca498df8747b69f73d7c26c657bcffcb4cd714b3aa59ceac676d4",
+   "ee_text": "1. 뇌순환장애(허혈 및 뇌졸증후증상, 어지러움.두통.건망증 등 뇌동맥경화증 증상) 2. 눈의 혈류순환장애 3. 말초동맥순환장애(간헐성파행, 휴식시 동통,당뇨병혈관병증, 위축증, 혈관 신경병증)",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:04Z",
+   "last_observed_at": "2026-09-08T08:42:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:04Z"
+}

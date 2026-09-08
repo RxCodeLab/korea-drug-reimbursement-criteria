@@ -7,11 +7,12 @@
  "permit_date": "19830409",
  "cancel_date": "20250701",
  "status": "유효기간만료",
- "main_item_ingr": "[M050048]곽향|[M040071]대추|[M050752]생강|[M040228]향부자|[M095260]사인|[M040006]감초|[M040538]진피|[M040813]후박|[M040548]창출",
+ "main_item_ingr": "[M040006]감초|[M040071]대추|[M040228]향부자|[M040538]진피|[M040548]창출|[M040813]후박|[M050048]곽향|[M050752]생강|[M095260]사인",
  "main_item_ingr_eng": "Agastachis Herba/Amomum Fruit/Atractylodes Rhizome/Citrus Unshiu Peel/Cyperus Rhizome/Jujube/Licorice/Magnolia Bark/Raw Ginger",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300644",
+ "history_fetched_at": "2026-08-28T13:23:39Z",
  "revisions": [
   {
    "revision_id": "198300644-4116fe0a",
@@ -19,8 +20,9 @@
    "ee_text": "식체(위체) 경향이 있는 다음 증상 : 식욕감퇴(식욕부진)",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:23:39Z",
-   "last_observed_at": "2026-08-28T13:23:39Z",
-   "official_revision_date": "2020-04-10"
+   "last_observed_at": "2026-09-08T08:26:53Z",
+   "official_revision_date": "2020-04-10",
+   "normalizer_version": 3
   },
   {
    "revision_id": "198300644-bd78cbc8",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:39Z",
    "last_observed_at": "2026-08-28T13:23:39Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:39Z"
+ ]
 }

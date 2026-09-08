@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410070",
+ "item_name": "팔로델정(브로모크립틴메실산염)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20040324",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223060]브로모크립틴메실산염",
+ "main_item_ingr_eng": "Bromocriptine Mesylate",
+ "edi_code": "643904150",
+ "atc_code": "G02CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410070",
+ "revisions": [
+  {
+   "revision_id": "200410070-d7e0dd00",
+   "content_sha256": "d7e0dd004d047ad54353e2c365d3035e66a9e3e18e29e3789bbd0726ed61c840",
+   "ee_text": "○ 유즙 분비의 예방 및 억제 ○ 고프로락틴혈증에 기인하는 남성, 여성의 성선기능저하증 및 유루증 ○ 불임증 ○ 월경불순의 여러 증상(특히, 유방에 나타나는 증상), 월경 직전의 두통, 기분변화 및 부종 등과 같은 증상의 완화 ○ 말단 비대증 환자 치료 시 수술 또는 방사선 요법과 병행하여 혈중 성장호르몬 저하 목적 ○ 파킨슨병",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:40Z",
+   "last_observed_at": "2026-09-08T08:38:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:40Z"
+}

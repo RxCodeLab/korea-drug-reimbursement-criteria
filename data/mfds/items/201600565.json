@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600565",
+ "item_name": "피나스테리드정 0.2mg「SN」(수출용)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20160127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089174]피나스테리드",
+ "main_item_ingr_eng": "Finasteride",
+ "edi_code": "",
+ "atc_code": "D11AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600565",
+ "revisions": [
+  {
+   "revision_id": "201600565-aeb6597d",
+   "content_sha256": "aeb6597d594f67aa839ebc9a25170b1a3601ccf93ac61b35acb841b9fb003989",
+   "ee_text": "남성의 있어서의 남성형탈모증의 진행 지연",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:10Z",
+   "last_observed_at": "2026-09-08T08:50:10Z",
+   "official_revision_date": "2017-09-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:10Z"
+}

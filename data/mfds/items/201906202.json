@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906202",
+ "item_name": "다림에스오메프라졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20190830",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092321]에스오메프라졸마그네슘삼수화물",
+ "main_item_ingr_eng": "Esomeprazole Magnesium Trihydrate",
+ "edi_code": "664602350",
+ "atc_code": "A02BC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906202",
+ "revisions": [
+  {
+   "revision_id": "201906202-1e894151",
+   "content_sha256": "1e8941514f6ad53595205ce3fb22aaaf6422961eacf09a1878c152b27be61b56",
+   "ee_text": "1. 위식도 역류질환(GERD) - 미란성 역류식도염의 치료 - 식도염 환자의 재발방지를 위한 장기간 유지요법 - 식도염이 없는 위식도 역류질환의 증상치료요법 2. 헬리코박터필로리 박멸을 위한 항생제 병용요법 - 헬리코박터필로리 양성인 십이지장궤양의 치료 - 헬리코박터필로리 양성인 소화성궤양 환자의 재발방지 3. 비스테로이드소염진통제(COX-2 비선택성, 선택성) 투여와 관련된 상부 위장관 증 상(통증, 불편감, 작열감) 치료의 단기요법 4. 지속적인 비스테로이드소염진통제 투여가 필요한 환자 - 비스테로이드소염진통제 투여와 관련된 위궤양의 치료 - 비스테로이드소염진통제 투여와 관련된 위궤양 및 십이지장궤양의 예방 5. 졸링거-엘리슨 증후군의 치료 6. 정맥주사로 위궤양 또는 십이지장궤양에 의한 재출혈 예방 유도 이후의 유지 요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:15Z",
+   "last_observed_at": "2026-09-08T08:56:15Z",
+   "official_revision_date": "2019-08-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:15Z"
+}

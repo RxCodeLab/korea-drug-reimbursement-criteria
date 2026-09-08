@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801134",
+ "item_name": "카라벤연질캡슐(칼시트리올)(수출명:CARABENA Soft Cap., Borabone)(수출용)",
+ "entp_name": "(주)제뉴파마",
+ "permit_date": "19980916",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082905]칼시트리올",
+ "main_item_ingr_eng": "Calcitriol",
+ "edi_code": "",
+ "atc_code": "A11CC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801134",
+ "revisions": [
+  {
+   "revision_id": "199801134-f19c4767",
+   "content_sha256": "f19c47678722053ae368b45ce1426d2d17d3fead36334ec038075c46b16388c4",
+   "ee_text": "1. 만성신부전증 환자 중 1) 투석치료단계 이전 환자 : 만성신부전증이 중등도 내지 중증(크레아티닌청소율 15～55 mL/min)이며 투석치료단계 이전인 환자의 2차성 부갑상선기능항진증과 결과적으로 나타나는 대사성 골질환의 치료 소아에 대해서는 크레아티닌청소율을 체표면적 1.73 m2로 보정하여야 한다. 혈중 iPTH가 100 pg/mL 이상이면 2차성 부갑상선기능항진증의 발생 가능성이 높다. 2) 혈액투석 환자의 신성 뼈형성장애, 골다공증 2. 부갑상선기능저하증(수술후, 특발성 또는 가성 부갑상선기능저하증) 3. 구루병·골연화증(비타민 D 의존성 구루병, 저인산혈증성 비타민 D 저항성 구루병) 4. 골다공증",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:47Z",
+   "last_observed_at": "2026-09-08T08:31:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:47Z"
+}

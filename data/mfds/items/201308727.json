@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308727",
+ "item_name": "일양플루백신프리필드시린지주(인플루엔자분할백신)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20130808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286539]정제불활화인플루엔자바이러스항원A형[A/Michigan/105/2025 SAN-049A(H3N2)]|[M286540]정제불활화인플루엔자바이러스항원B형[B/Tokyo/EIS13-175/2025]|[M286541]정제불활화인플루엔자바이러스항원A형[A/Switzerland/6849/2025 IVR-278(H1N1)]",
+ "main_item_ingr_eng": "Purified  influenza  virus  antigen A/Michigan/105/2025 SAN-049A/Purified  influenza  virus  antigen B/Tokyo/EIS13-175/2025/Purified Inactivated Influenza Virus Antigen A [A/Switzerland/6849/2025 IVR-278(H1N1)]",
+ "edi_code": "",
+ "atc_code": "J07BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308727",
+ "revisions": [
+  {
+   "revision_id": "201308727-b7b92aef",
+   "content_sha256": "b7b92aefcfc937320aa1cc7f029842f5931bc843d1186a5454bfe59da2f9caa1",
+   "ee_text": "생후 6개월 이상의 소아, 청소년 및 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "59",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:14Z",
+   "last_observed_at": "2026-09-08T08:46:14Z",
+   "official_revision_date": "2026-04-27"
+  },
+  {
+   "revision_id": "201308727-794bfcb1",
+   "content_sha256": "794bfcb191bee2a161ec9399c79c09f5aab7ad2eba345c9d444c4a4f3314c308",
+   "ee_text": "6개월 이상의 소아, 청소년, 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "26",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:46:14Z",
+   "last_observed_at": "2026-09-08T08:46:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:14Z"
+}

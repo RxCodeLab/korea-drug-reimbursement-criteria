@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804848",
+ "item_name": "알룬브릭정180밀리그램(브리가티닙)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20181130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265550]브리가티닙",
+ "main_item_ingr_eng": "Brigatinib",
+ "edi_code": "696300540",
+ "atc_code": "L01ED04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804848",
+ "revisions": [
+  {
+   "revision_id": "201804848-c0696b61",
+   "content_sha256": "c0696b6191976fc28456c2b6aa00eef0e2c10683209fb3a20e5acc9a21874293",
+   "ee_text": "역형성 림프종 인산화효소 (ALK) 양성 진행성 또는 전이성 비소세포성폐암 환자의 치료",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:53Z",
+   "last_observed_at": "2026-09-08T08:53:53Z",
+   "official_revision_date": "2020-08-27"
+  },
+  {
+   "revision_id": "201804848-7ae50bff",
+   "content_sha256": "7ae50bffd3a9310bf7027024b10f2817ccf4646e67514964de4591aecb9fc91f",
+   "ee_text": "이전에 크리조티닙으로 치료받은 적이 있는 ALK 양성 진행성 또는 전이성 비소세포성 폐암 환자의 치료 이 약의 유효성은 반응률 및 반응기간에 근거하였으며, 생존기간의 개선을 입증한 자료는 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-11-30",
+   "first_observed_at": "2026-09-08T08:53:53Z",
+   "last_observed_at": "2026-09-08T08:53:53Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:53Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201102475",
+ "item_name": "유로발포정(탄산수소칼륨)(수출용)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20110422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040632]탄산수소칼륨",
+ "main_item_ingr_eng": "Potassium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "A12BA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102475",
+ "revisions": [
+  {
+   "revision_id": "201102475-acc07e79",
+   "content_sha256": "acc07e798f88c12810f3d9c4b8d71fe9af77a400707ce641d572739552c47006",
+   "ee_text": "1. 다음과 같은 저칼륨혈증 환자의 치료 - 대사성 알칼리혈증을 동반하거나 동반하지 않은 환자 - 디기탈리스 중독 환자 - 저칼륨혈증성 가족성 주기성 마비 환자 만약, 저칼륨혈증이 이뇨제 치료에 의해 유발된다면 저칼륨혈증을 유발하지 않으면서 이뇨제의 효과가 나타날 수 있도록 이뇨제의 복용량을 줄일 것을 고려해보아야 한다. 2. 저칼륨혈증 유발 고위험군인 다음의 환자에서 예방요법 - 디기탈리스를 투여받은 환자 또는 심각한 심장 부정맥 환자 이뇨제를 투여하고 있는 단순 본태성 고혈압 환자가 정상적인 식이 패턴을 가지고 있고 저용량의 이뇨제를 사용하고 있을 경우 칼륨염 공급은 불필요 할 수 있다. 혈청 칼륨은 정기적으로 점검되어야 하지만 경증 저칼륨혈증의 경우는 칼륨을 포함한 식이로 조절이 가능할 수 있다. 이뇨제의 조절로 개선되지 않은 중증의 경우, 칼륨염 보충 요법이 필요할 수 있다.",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:35Z",
+   "last_observed_at": "2026-09-08T08:44:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:35Z"
+}

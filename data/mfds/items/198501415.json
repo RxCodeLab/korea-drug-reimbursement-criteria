@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A04AD01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198501415",
+ "history_fetched_at": "2026-08-28T13:23:40Z",
  "revisions": [
   {
-   "revision_id": "198501415-daae5c65",
-   "content_sha256": "daae5c65892417e04a66a12fe28deb100d79a8c1fc6133703708a7522b3c287f",
-   "ee_text": "멀미에 의한 구역•구토의 예방",
+   "revision_id": "198501415-b86ff30d",
+   "content_sha256": "b86ff30dce063a51beabd9108c0792b3e51a3d466a7f6207f12934fa6b963060",
+   "ee_text": "1. 주효능 효과 멀미에 의한 구역•구토의 예방",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:23:40Z",
-   "last_observed_at": "2026-08-28T13:23:40Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:27:06Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:40Z"
+ ]
 }

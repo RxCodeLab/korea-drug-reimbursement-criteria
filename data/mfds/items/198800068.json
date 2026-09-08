@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800068",
+ "item_name": "한풍괄루인엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M096303]괄루인",
+ "main_item_ingr_eng": "Trichosanthes Seed",
+ "edi_code": "",
+ "atc_code": "R05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800068",
+ "revisions": [
+  {
+   "revision_id": "198800068-8fef04ab",
+   "content_sha256": "8fef04ab0e800a85e6e5e7b334e81a65d82185800d70be4019c89c2fac66d786",
+   "ee_text": "소염, 거담, 해열, 진해",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:29Z",
+   "last_observed_at": "2026-09-08T08:27:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:29Z"
+}

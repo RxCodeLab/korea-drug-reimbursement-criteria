@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803188",
+ "item_name": "시타빅구강부착정(아시클로버)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20180802",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "641606650",
+ "atc_code": "J05AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803188",
+ "revisions": [
+  {
+   "revision_id": "201803188-3b50d839",
+   "content_sha256": "3b50d8399899dbbe7b090dcf518151581c028b8d85ef367d9e9ebe22cc1899cf",
+   "ee_text": "면역기능이 정상인 성인에서 재발성 구순포진 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:29Z",
+   "last_observed_at": "2026-09-08T08:53:29Z",
+   "official_revision_date": "2018-08-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:29Z"
+}

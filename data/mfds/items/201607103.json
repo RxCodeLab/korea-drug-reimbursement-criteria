@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201607103",
+ "item_name": "엔도파액(과아세트산액0.2%)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20161214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265337]과아세트산액0.2%",
+ "main_item_ingr_eng": "Peracetic Acid Solution 0.2%",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607103",
+ "revisions": [
+  {
+   "revision_id": "201607103-70f40505",
+   "content_sha256": "70f40505eff23463ca59d37b7ca041e7bc624f4bb406dafcc0a0ae24b370321c",
+   "ee_text": "의료기구의 멸균 및 소독",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:22Z",
+   "last_observed_at": "2026-09-08T08:51:22Z",
+   "official_revision_date": "2019-09-06"
+  },
+  {
+   "revision_id": "201607103-eb89962f",
+   "content_sha256": "eb89962f7e1dbdff59ebea123abab99179cd12af90a17724a530d76f396531f2",
+   "ee_text": "의료기구의 살균ㆍ소독 : 자바라관, 실리콘 튜브, 비닐 튜브, 실리콘캡, 실리콘 마개, 메스 손잡이, 내시경류",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:51:22Z",
+   "last_observed_at": "2026-09-08T08:51:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:22Z"
+}

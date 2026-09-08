@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700038",
+ "item_name": "테나시드캡슐(테프레논)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "19970213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082473]테프레논",
+ "main_item_ingr_eng": "Teprenone",
+ "edi_code": "648503670",
+ "atc_code": "A02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700038",
+ "revisions": [
+  {
+   "revision_id": "199700038-f9361bca",
+   "content_sha256": "f9361bca8c0462c652d1d9b7d02d839aab2d8b37af19fe5d1e038f1d6acafa78",
+   "ee_text": "1. 주효능 효과 위궤양, 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199700038/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:36Z",
+   "last_observed_at": "2026-09-08T08:30:36Z"
+  },
+  {
+   "revision_id": "199700038-43d7abc0",
+   "content_sha256": "43d7abc0d8f79574737d34c5b9f059ee12b2bc36eb586c7393950ad67e80e591",
+   "ee_text": "1. 다음 환자에는 신중히 투여할 것. 이 약은 황색5호(선셋옐로우 FCF, Sunset Yellow FCF)를 함유하고 있으므로 이 성분에 과민하거나 알레르기 병력이 있는 환자에는 신중히 투여한다. 2. 부작용 1) 소화기계 : 드물게 변비, 복부팽만감, 설사, 구갈, 구역, 복통 등의 증상이 나타날 수 있다. 2) 간장 : 때때로 GOT, GPT치의 가벼운 상승이 일어날 수 있다. 3) 정신신경계 : 드물게 두통 등의 증상이 나타날 수 있다. 4) 피부 : 드물게 발진, 전신가려움증 등의 증상이 나타날 수 있으므로 이러한 증상이 나타날 경우에는 투여를 중지한다. 5) 기타 : 드물게 총 콜레스테롤치의 상승, 안검의 발적, 열감이 나타날 수 있 다. 3. 임부에 대한 투여 임신중의 투여에 대한 안전성은 확립되어 있지 않으므로 임부 또는 임신하고 있을 가능성이 있는 부인에는 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 투여한다. 4. 소아에 대한 투여 소아에 대한 안전성은 확립되어 있지 않다.(사용경험이 없음)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:30:36Z",
+   "last_observed_at": "2026-09-08T08:30:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:36Z"
+}

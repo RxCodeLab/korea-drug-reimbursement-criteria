@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199300775",
+ "item_name": "오큐시클로점안액(시클로펜톨레이트염산염)(수출명:OcuCyclo)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "19931106",
+ "cancel_date": "20251001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223084]시클로펜톨레이트염산염|[M223084]시클로펜톨레이트염산염",
+ "main_item_ingr_eng": "Cyclopentolate Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S01FA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199300775",
+ "revisions": [
+  {
+   "revision_id": "199300775-affae838",
+   "content_sha256": "affae838cbf1d1545bd817533623e292489e4b24e65dc1c0a9cf2af04681bae2",
+   "ee_text": "진단 및 치료를 목적으로 하는 산동 및 조절마비",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:45Z",
+   "last_observed_at": "2026-09-08T08:28:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:45Z"
+}

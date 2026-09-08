@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507461",
+ "item_name": "프레브이액(프레드니카르베이트)",
+ "entp_name": "(주)티디에스팜",
+ "permit_date": "20151029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084063]프레드니카르베이트",
+ "main_item_ingr_eng": "Prednicarbate",
+ "edi_code": "679801451",
+ "atc_code": "D07AC18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507461",
+ "revisions": [
+  {
+   "revision_id": "201507461-f8c80d66",
+   "content_sha256": "f8c80d668c7037734eee13a59f4828ea0e6594da783f9c78071b26f1654bd780",
+   "ee_text": "다음의 코르티코이드 반응성 피부질환 : 습진ㆍ피부염군(아토피피부염, 지루피부염, 접촉성알레르기 피부염, 유사건선, 편평태선, 가려움발진 포함), 건선",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:47Z",
+   "last_observed_at": "2026-09-08T08:49:47Z",
+   "official_revision_date": "2017-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:47Z"
+}

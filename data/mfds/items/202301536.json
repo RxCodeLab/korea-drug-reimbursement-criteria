@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301536",
+ "item_name": "루미노마크주(인도시아닌그린)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20230511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086788]인도시아닌그린",
+ "main_item_ingr_eng": "Indocyanine Green",
+ "edi_code": "",
+ "atc_code": "V04CX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301536",
+ "revisions": [
+  {
+   "revision_id": "202301536-d0648e97",
+   "content_sha256": "d0648e970a56b26f00c2a542ac95f35d0484d189a0c468b04d9d5cb0e250617c",
+   "ee_text": "유방병변 제거 수술 시 정위장치 또는 초음파를 이용하여 촉지할 수 없는 작은 부위를 표시하기 위한 수술 보조제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:03Z",
+   "last_observed_at": "2026-09-08T09:02:03Z",
+   "official_revision_date": "2023-05-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:03Z"
+}

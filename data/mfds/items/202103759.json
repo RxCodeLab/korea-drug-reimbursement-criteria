@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103759",
+ "item_name": "조인브이정",
+ "entp_name": "성이바이오제약주식회사",
+ "permit_date": "20210511",
+ "cancel_date": "20250811",
+ "status": "취하",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040262]산화마그네슘|[M040488]이노시톨|[M051415]푸르설티아민|[M117558]시아노코발라민 1000배산|[M202809]감마-오리자놀|[M204304]피리독신염산염|[M222995]리보플라빈부티레이트|[M244748]판토텐산칼슘|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin Powder 0.1%/Fursultiamine/Gamma-Oryzanol/Inositol/Magnesium Oxide/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Sodium Chondroitin Sulfate",
+ "edi_code": "",
+ "atc_code": "A11EX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103759",
+ "revisions": [
+  {
+   "revision_id": "202103759-390afaf5",
+   "content_sha256": "390afaf56e300ac4221324e11d7ebb4fda933aed3213cc2212e7159762f01296",
+   "ee_text": "◯ 다음 경우의 비타민 B1, B2, B6의 보급 - 육체피로 - 임신 · 수유기 - 병중 · 병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 이 약에 함유된 비타민 등의 효능 · 효과는 다음과 같다. ￭ 비타민B1(벤포티아민) - 다음 증상의 완화 : 신경통, 근육통, 관절통(요(허리)통, 어깨결림 등) - 각기 - 눈의피로",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:10Z",
+   "last_observed_at": "2026-09-08T09:00:10Z",
+   "official_revision_date": "2021-05-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:10Z"
+}

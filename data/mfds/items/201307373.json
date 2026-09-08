@@ -1,0 +1,68 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307373",
+ "item_name": "애드세트리스주(브렌툭시맙베도틴)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20130516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257025]브렌툭시맙베도틴",
+ "main_item_ingr_eng": "Brentuximab Vedotin",
+ "edi_code": "696300191",
+ "atc_code": "L01FX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307373",
+ "revisions": [
+  {
+   "revision_id": "201307373-b9c33d42",
+   "content_sha256": "b9c33d4220299d7780d4cc7b04f222276fc5a9b97d56b3edd31272588ef45a68",
+   "ee_text": "1. 이전에 치료받은 적이 없는 3기 또는 4기 호지킨 림프종 환자에서 화학요법제(독소루비신, 빈블라스틴, 다카르바진)와 병용요법 2. 이전에 치료받은 적이 없는 위험인자를 가진2b기, 3기 또는 4기 CD30 양성 호지킨 림프종 환자에서 화학요법제(에토포시드, 시클로포스파미드, 독소루비신, 다카르바진, 덱사메타손)와 병용요법 3. 이전에 치료받은 적이 없는 CD30 양성 말초T세포림프종 (peripheral T-cell lymphomas, PTCL) 환자에서 화학요법제(시클로포스파미드, 독소루비신, 프레드니손)와 병용요법 4. 자가조혈모세포이식(Autologous Stem Cell Transplant, ASCT) 이후 재발 또는 진행의 위험이 높은(1차 치료에 불응성이거나 1차 치료 후 1년 이내에 재발한 경우 혹은 자가조혈모세포 이식 전 림프절 이외의 부분에 종양 발생) 호지킨 림프종 환자의 치료 5. 자가조혈모세포이식을 실패하거나 자가조혈모세포이식 비대상 환자에서의 최소 두 가지 이상의 이전 복합 화학요법에 실패한 호지킨 림프종 환자의 치료 6. 최소 한가지 이상의 이전 복합 화학요법에 실패한 전신역형성대세포림프종 (systemic Anaplastic Large Cell Lymphoma, sALCL) 환자의 치료 7. 이전에 한 가지 이상의 전신요법을 받은 CD30양성 피부T세포림프종 환자의 치료",
+   "ee_doc_id": "49",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:03Z",
+   "last_observed_at": "2026-09-08T08:46:03Z",
+   "official_revision_date": "2026-02-02"
+  },
+  {
+   "revision_id": "201307373-024eb214",
+   "content_sha256": "024eb214c39baa963864eec65af446092fed9eb33ecb7072041a25227fcb6e0e",
+   "ee_text": "1. 이전에 치료받은 적이 없는 3기 또는 4기 호지킨 림프종 환자에서 화학요법제(독소루비신, 빈블라스틴, 다카르바진)와 병용요법 2. 이전에 치료받은 적이 없는 CD30 양성 말초T세포림프종 (peripheral T-cell lymphomas, PTCL) 환자에서 화학요법제(사이클로포스파마이드, 독소루비신, 프레드니손)와 병용요법 3. 자가조혈모세포이식(Autologous Stem Cell Transplant, ASCT) 이후 재발 또는 진행의 위험이 높은(1차 치료에 불응성이거나 1차 치료 후 1년 이내에 재발한 경우 혹은 자가조혈모세포 이식 전 림프절 이외의 부분에 종양 발생) 호지킨 림프종 환자의 치료 4. 자가조혈모세포이식을 실패하거나 자가조혈모세포이식 비대상 환자에서의 최소 두 가지 이상의 이전 복합 화학요법에 실패한 호지킨림프종 환자의 치료 5. 최소 한가지 이상의 이전 복합 화학요법에 실패한 전신역형성대세포림프종 (systemic Anaplastic Large Cell Lymphoma, sALCL) 환자의 치료 6. 이전에 한 가지 이상의 전신요법을 받은 CD30양성 피부T세포림프종 환자의 치료",
+   "ee_doc_id": "25",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-12-19",
+   "first_observed_at": "2026-09-08T08:46:03Z",
+   "last_observed_at": "2026-09-08T08:46:03Z"
+  },
+  {
+   "revision_id": "201307373-b801b4a7",
+   "content_sha256": "b801b4a7aced9328a5c051e210759c62f1db8c31a63e8590ba85dcf399ced2a8",
+   "ee_text": "1. 이전에 치료받은 적이 없는 3기 또는 4기 호지킨 림프종 환자에서 화학요법제(독소루비신, 빈블라스틴, 다카르바진)와 병용요법 2. 자가조혈모세포이식(Autologous Stem Cell Transplant, ASCT) 이후 재발 또는 진행의 위험이 높은(1차 치료에 불응성이거나 1차 치료 후 1년 이내에 재발한 경우 혹은 자가조혈모세포 이식 전 림프절 이외의 부분에 종양 발생) 호지킨 림프종 환자의 치료 3. 자가조혈모세포이식을 실패하거나 자가조혈모세포이식 비대상 환자에서의 최소 두 가지 이상의 이전 복합 화학요법에 실패한 호지킨림프종 환자의 치료 4. 최소 한가지 이상의 이전 복합 화학요법에 실패한 전신역형성대세포림프종 (systemic Anaplastic Large Cell Lymphoma, sALCL) 환자의 치료 5. 이전에 한 가지 이상의 전신요법을 받은 CD30양성 피부T세포림프종 환자의 치료",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-05-08",
+   "first_observed_at": "2026-09-08T08:46:03Z",
+   "last_observed_at": "2026-09-08T08:46:03Z"
+  },
+  {
+   "revision_id": "201307373-2d42a412",
+   "content_sha256": "2d42a412b44748b301bcb0b6a6532a0c6496d95246e6ec9e7e1a70b273d56752",
+   "ee_text": "1. 자가조혈모세포이식(Autologous Stem Cell Transplant, ASCT)을 실패하거나 자가조혈모세포이식 비대상 환자에서의 최소 두가지 이상의 이전 복합 화학요법에 실패한 호지킨림프종 환자의 치료 2. 최소 한가지 이상의 이전 복합 화학요법에 실패한 전신역형성대세포림프종(systemic Anaplastic Large Cell Lymphoma, sALCL) 환자의 치료 3. 자가조혈모세포이식 이후 재발 또는 진행의 위험이 높은(1차 치료에 불응성이거나 1차 치료 후 1년 이내에 재발한 경우 혹은 자가조혈모세포 이식 전 림프절 이외의 부분에 종양 발생) 호지킨 림프종 환자의 치료 4. 이전에 한 가지 이상의 전신요법을 받은 CD30양성 피부T세포림프종 환자의 치료",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-05-18",
+   "first_observed_at": "2026-09-08T08:46:03Z",
+   "last_observed_at": "2026-09-08T08:46:03Z"
+  },
+  {
+   "revision_id": "201307373-4f99f0f9",
+   "content_sha256": "4f99f0f980810bd78eab5032d799e1771b886156f96beb1b174a6e5ed9819124",
+   "ee_text": "1. 자가조혈모세포이식(Autologous Stem Cell Transplant, ASCT)을 실패하거나 자가조혈모세포이식 비대상 환자에서의 최소 두가지 이상의 이전 복합 화학요법에 실패한 호지킨림프종 환자의 치료 2. 최소 한가지 이상의 이전 복합 화학요법에 실패한 전신역형성대세포림프종(systemic Anaplastic Large Cell Lymphoma, sALCL) 환자의 치료 3. 자가조혈모세포이식 이후 재발 또는 진행의 위험이 높은(1차 치료에 불응성이거나 1차 치료 후 1년 이내에 재발한 경우 혹은 자가조혈모세포 이식 전 림프절 이외의 부분에 종양 발생) 호지킨 림프종 환자의 치료",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:46:03Z",
+   "last_observed_at": "2026-09-08T08:46:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:03Z"
+}

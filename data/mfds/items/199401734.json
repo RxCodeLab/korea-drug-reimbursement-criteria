@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199401734",
+ "item_name": "화니돌0.5마이크로그램연질캡슐(알파칼시돌)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "19940114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081303]알파칼시돌",
+ "main_item_ingr_eng": "Alfacalcidol",
+ "edi_code": "661902030",
+ "atc_code": "A11CC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199401734",
+ "revisions": [
+  {
+   "revision_id": "199401734-3baeeff8",
+   "content_sha256": "3baeeff8ed942c7592ed9b3d11e37c8fe2872798f6ad50a957b133e8ded5ba4d",
+   "ee_text": "1. 다음 질환에 있어서 비타민 D 대사이상에 수반되는 증상(저칼슘혈증, 테타니, 뼈의 통증, 뼈의 병변(병에 의한 몸의 변화) 등)의 개선 - 만성신부전, 부갑상선기능저하증, 비타민 D 저항성 구루병·골연화(뼈연화)증 2. 골다공증(뼈엉성증)",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:17Z",
+   "last_observed_at": "2026-09-08T08:29:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:17Z"
+}

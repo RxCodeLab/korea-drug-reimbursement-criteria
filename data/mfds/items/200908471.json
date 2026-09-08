@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200908471",
+ "item_name": "비카루드정150mg(비칼루타마이드)(수출용)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20091204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089188]비칼루타마이드",
+ "main_item_ingr_eng": "Bicalutamide",
+ "edi_code": "",
+ "atc_code": "L02BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908471",
+ "revisions": [
+  {
+   "revision_id": "200908471-456d9deb",
+   "content_sha256": "456d9debec0f0d26502a8545fec2979327f5a152f9b9aeb8e696afabb4b866ae",
+   "ee_text": "1. 국소 진행성, 비전이성 전립선암 환자에서 단독투여 또는 전립선 근치절제술이나 방사선 요법의 보조요법 2. 외과적 혹은 약물적 거세가 적절치 않은 국소 진행성, 비전이성 전립선암 환자의 치료 3. 전립선 근치절제술이나 방사선요법을 받지 않는 국소 전립선암 환자에서 초기치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:37Z",
+   "last_observed_at": "2026-09-08T08:43:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:37Z"
+}

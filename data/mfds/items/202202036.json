@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202036",
+ "item_name": "덱스베타정(수출명:CELESPHAR Tab.)(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20220516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040218]베타메타손|[M116597]덱스클로르페니라민말레산염",
+ "main_item_ingr_eng": "Betamethasone/Dexchlorpheniramine Maleate",
+ "edi_code": "",
+ "atc_code": "H02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202036",
+ "revisions": [
+  {
+   "revision_id": "202202036-faed5342",
+   "content_sha256": "faed534297c1faa4625c5401358c71804a3a7acc79c842d86a3decceb901b879",
+   "ee_text": "급성 두드러기, 고초열(화분증), 만성 기관지 천식, 알레르기성 비염, 약진, 아토피성 피부염, 습진, 접촉성 피부염, 알레르기성 결막염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:20Z",
+   "last_observed_at": "2026-09-08T09:01:20Z",
+   "official_revision_date": "2022-05-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:20Z"
+}

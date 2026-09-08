@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202913",
+ "item_name": "미소진액(인삼가미사물탕)",
+ "entp_name": "익수제약(주)",
+ "permit_date": "20220715",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040070]당귀|[M040523]작약|[M040550]천궁|[M051291]인삼|[M051364]숙지황",
+ "main_item_ingr_eng": "Angelica Gigas Root/Cnidium Rhizome/Ginseng/Peony Root/Prepared Rehmannia Root",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202913",
+ "revisions": [
+  {
+   "revision_id": "202202913-7485f573",
+   "content_sha256": "7485f573dbb09fb8a9cf58a7f6a09c0e9913da5a8c677d40c63cacb11918894d",
+   "ee_text": "자양강장, 피로회복, 허약체질 보조 및 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:27Z",
+   "last_observed_at": "2026-09-08T09:01:27Z",
+   "official_revision_date": "2022-07-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:27Z"
+}

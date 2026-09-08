@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103657",
+ "item_name": "해소에프시럽(농글리세린)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20210503",
+ "cancel_date": "20260503",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M100227]농글리세린",
+ "main_item_ingr_eng": "Concentrated Glycerin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103657",
+ "revisions": [
+  {
+   "revision_id": "202103657-0414f96d",
+   "content_sha256": "0414f96daeee227e4fae68a90d5bcf212a8cf71e40e0fed2712dbba4c7005b41",
+   "ee_text": "마르고 탁한 기침의 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:09Z",
+   "last_observed_at": "2026-09-08T09:00:09Z",
+   "official_revision_date": "2021-05-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:09Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601922",
+ "item_name": "서플루마주(서플루리맙)",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20260701",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286457]서플루리맙",
+ "main_item_ingr_eng": "Serplulimab",
+ "edi_code": "",
+ "atc_code": "L01FF12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601922",
+ "revisions": [
+  {
+   "revision_id": "202601922-0108d59d",
+   "content_sha256": "0108d59d5cc83f2afa9e166bca7fef6ea6d2121ecc5bbcf39fd546d4fa78d386",
+   "ee_text": "확장 병기 소세포폐암(extensive-stage small cell lung cancer, ES-SCLC) 성인 환자의 1차 치료로서 카보플라틴 및 에토포시드와의 병용요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:27Z",
+   "last_observed_at": "2026-09-08T09:05:27Z",
+   "official_revision_date": "2026-07-01"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:27Z"
+}

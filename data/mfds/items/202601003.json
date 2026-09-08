@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601003",
+ "item_name": "메디옥정(우르소데옥시콜산)",
+ "entp_name": "메딕스제약(주)",
+ "permit_date": "20260409",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A05AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601003",
+ "revisions": [
+  {
+   "revision_id": "202601003-f1ff95e1",
+   "content_sha256": "f1ff95e11af13782f1ed67d9b501d80e79c4072768d3b958c3ecc23a1f297c27",
+   "ee_text": "○ 다음 질환의 보조 치료 : 담즙(쓸개즙)분비 부전으로 오는 간질환, 담도(쓸개길)(담관(쓸개관), 담낭(쓸개))계 질환 ○ 만성 간 질환의 간 기능 개선 ○ 소장절제 후유증 및 염증성 소장 질환의 소화불량",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:59Z",
+   "last_observed_at": "2026-09-08T09:04:59Z",
+   "official_revision_date": "2026-04-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:59Z"
+}

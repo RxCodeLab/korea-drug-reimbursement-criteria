@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100638",
+ "item_name": "제일제약메틸에르고노빈주(메틸에르고메트린말레산염)(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "20010604",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223020]메틸에르고메트린말레산염",
+ "main_item_ingr_eng": "Methylergometrine Maleate",
+ "edi_code": "",
+ "atc_code": "G02AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100638",
+ "revisions": [
+  {
+   "revision_id": "200100638-d3b37f35",
+   "content_sha256": "d3b37f3537ab321247f2e2d4b142f872d352cef8988cdf45924ed8ede02ba6f0",
+   "ee_text": "(경구 : 정제) 다음의 경우 출혈의 방지 및 치료: 태반만출 후, 분만 후, 유산 후 출혈, 자궁퇴축부전 (주사제) 다음의 경우 출혈의 방지 및 치료: 태반만출 후, 분만 후, 제왕절개술 후, 유산 후 출혈, 자궁퇴축부전",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:56Z",
+   "last_observed_at": "2026-09-08T08:34:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:56Z"
+}

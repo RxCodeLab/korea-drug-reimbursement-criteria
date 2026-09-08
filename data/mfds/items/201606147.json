@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606147",
+ "item_name": "올로아이점안액0.2%(올로파타딘염산염)",
+ "entp_name": "(주)비보존제약",
+ "permit_date": "20161019",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233188]올로파타딘염산염",
+ "main_item_ingr_eng": "Olopatadine Hydrochloride",
+ "edi_code": "658203451",
+ "atc_code": "S01GX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606147",
+ "revisions": [
+  {
+   "revision_id": "201606147-7342a066",
+   "content_sha256": "7342a06647e4fca1811156469ee3a28cbf2cfa584c7635fa03386ea624660eaa",
+   "ee_text": "알러지성 결막염으로 인한 증상 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:16Z",
+   "last_observed_at": "2026-09-08T08:51:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:16Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400328",
+ "item_name": "리피씨주(필수인지질성물질)(바이알)(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20140124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083966]필수인지질성물질",
+ "main_item_ingr_eng": "Essential Phospholipids (EPL) Substance",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400328",
+ "revisions": [
+  {
+   "revision_id": "201400328-082218ec",
+   "content_sha256": "082218ec745fe17d99b3e5638dad32e172aad54ea5b9f0067caa0994637e0295",
+   "ee_text": "간경변에 의한 간성 혼수의 보조제",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:43Z",
+   "last_observed_at": "2026-09-08T08:46:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:43Z"
+}

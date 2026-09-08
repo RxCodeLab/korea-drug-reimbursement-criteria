@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511076",
+ "item_name": "엘라스폴100주(시베레스타트나트륨수화물)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20050117",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102146]시베레스타트나트륨수화물",
+ "main_item_ingr_eng": "Sivelestat Sodium Hydrate",
+ "edi_code": "642502851",
+ "atc_code": "R07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511076",
+ "revisions": [
+  {
+   "revision_id": "200511076-947de319",
+   "content_sha256": "947de31953614fbacd4faed7b7a4b451df076f3e97c81d8946c0f93dbe6785a4",
+   "ee_text": "전신성 염증반응 증후군에 수반하는 급성폐손상의 개선 이 약은 아래 1 및 2의 기준에 해당하는 환자에게 투여할 것. 1. 전신성 염증반응 증후군은 이하의 항목 중, 2개 이상에 해당하는 것으로 한다. ① 체온＞38℃ 또는 ＜36℃ ② 심박수＞90회/분 ③ 호흡수＞20회/분 또는 PaCO2＜32mmHg ④ 백혈구수＞12,000/㎕, ＜4,000/㎕ 또는 간상호중구＞10% 2. 급성폐손상은 이하의 전 항목에 해당하는 것으로 한다. ① 폐기능 저하 (기계적인공호흡관리하에서 PaO2/FIO2 300mmHg 이하)가 인정된다. ② 흉부 X선 소견에서 양측성 침윤음영이 인정된다. ③ 폐동맥 쐐기압이 측정된 경우에는 폐동맥 쐐기압≦18mmHg, 측정되지 않는 경우에는 좌심방압 상승의 임상소견을 인정하지 않는다.",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200511076/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:36Z",
+   "last_observed_at": "2026-09-08T08:39:36Z"
+  },
+  {
+   "revision_id": "200511076-7c25c313",
+   "content_sha256": "7c25c313707839a31a3a07f3bd07cece0b83e51e6ae486917a5e06f87cf8e7d4",
+   "ee_text": "이 약은 아래 1 및 2의 기준에 해당하는 환자에게 투여할 것. 1. 전신성 염증반응 증후군은 이하의 항목 중, 2개 이상에 해당하는 것으로 한다. ① 체온＞38℃ 또는 ＜36℃ ② 심박수＞90회/분 ③ 호흡수＞20회/분 또는 PaCO2＜32mmHg ④ 백혈구수＞12,000/㎕, ＜4,000/㎕ 또는 간상호중구＞10% 2. 급성폐손상은 이하의 전 항목에 해당하는 것으로 한다. ① 폐기능 저하 (기계적인공호흡관리하에서 PaO2/FIO2 300mmHg 이하)가 인정된다. ② 흉부 X선 소견에서 양측성 침윤음영이 인정된다. ③ 폐동맥 쐐기압이 측정된 경우에는 폐동맥 쐐기압≦18mmHg, 측정되지 않는 경우에는 좌심방압 상승의 임상소견을 인정하지 않는다.",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:39:36Z",
+   "last_observed_at": "2026-09-08T08:39:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:36Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600305",
+ "item_name": "프로칸주(염산프로카인)(수출용)",
+ "entp_name": "천우신약(주)",
+ "permit_date": "20060419",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040724]염산프로카인",
+ "main_item_ingr_eng": "Procaine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N01BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600305",
+ "revisions": [
+  {
+   "revision_id": "200600305-43041db8",
+   "content_sha256": "43041db8e92ffddb2c9cc9d0e71dbed7a16e9ef02369e3fa498af2c0086feb67",
+   "ee_text": "경막외마취, 전달마취",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:49Z",
+   "last_observed_at": "2026-09-08T08:39:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:49Z"
+}

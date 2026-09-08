@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200080",
+ "item_name": "정주용카타크론주사(오자그렐나트륨)(수출용)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20021204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088527]오자그렐나트륨",
+ "main_item_ingr_eng": "Sodium Ozagrel",
+ "edi_code": "",
+ "atc_code": "B01AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200080",
+ "revisions": [
+  {
+   "revision_id": "200200080-ef1e576f",
+   "content_sha256": "ef1e576fce4ea5091203be37b8b10eedbb203312ecbd34031db637f380ab6beb",
+   "ee_text": "1. 지주막하출혈 수술 후의 뇌혈관 연축 및 이에 수반하는 뇌허혈 증상의 개선. 2. 뇌혈전증(급성기)에 수반하는 운동장해의 개선.",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:59Z",
+   "last_observed_at": "2026-09-08T08:35:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:59Z"
+}

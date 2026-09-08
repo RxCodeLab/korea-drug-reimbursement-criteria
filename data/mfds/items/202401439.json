@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401439",
+ "item_name": "이든비오틴정5밀리그램(비오틴)",
+ "entp_name": "(주)이든파마",
+ "permit_date": "20240613",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050704]비오틴",
+ "main_item_ingr_eng": "Biotin",
+ "edi_code": "",
+ "atc_code": "A11HA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401439",
+ "revisions": [
+  {
+   "revision_id": "202401439-84844158",
+   "content_sha256": "848441582374e424fdeb21a5b70d565b4d7f833712f9eff37140ef661fa84093",
+   "ee_text": "비오틴 결핍으로 인한 손·발톱 또는 모발 성장 장애",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:02Z",
+   "last_observed_at": "2026-09-08T09:03:02Z",
+   "official_revision_date": "2024-06-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:02Z"
+}

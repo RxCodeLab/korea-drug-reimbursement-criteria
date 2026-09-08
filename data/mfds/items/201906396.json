@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906396",
+ "item_name": "팜톡연질캡슐30밀리그램(알리트레티노인)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20190910",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256772]알리트레티노인",
+ "main_item_ingr_eng": "Alitretinoin",
+ "edi_code": "657307820",
+ "atc_code": "D11AH04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906396",
+ "revisions": [
+  {
+   "revision_id": "201906396-011cfbba",
+   "content_sha256": "011cfbba2bb2405ad6db49a4e40dda7eb671a0b36d69936047589b9d4ecbd129",
+   "ee_text": "최소 4주간의 강력한 국소 스테로이드 치료에도 반응하지 않는 성인의 만성 중증 손습진(PGA(physician's global assessment)따라 평가)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:20Z",
+   "last_observed_at": "2026-09-08T08:56:20Z",
+   "official_revision_date": "2020-10-28"
+  },
+  {
+   "revision_id": "201906396-da198237",
+   "content_sha256": "da198237a250009ab2d4dd2eb7e2ccaa3b96a135e5327706727c8514e8e717b1",
+   "ee_text": "최소 4주간의 강력한 국소 스테로이드 치료에도 반응하지 않는 성인의 재발성 만성 중증 손습진(PGA(physician's global assessment)따라 평가)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-09-10",
+   "first_observed_at": "2026-09-08T08:56:20Z",
+   "last_observed_at": "2026-09-08T08:56:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:20Z"
+}

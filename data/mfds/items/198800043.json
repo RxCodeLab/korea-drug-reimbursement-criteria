@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800043",
+ "item_name": "로시덴겔(피록시캄)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "19880527",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071634]피록시캄|[M071634]피록시캄",
+ "main_item_ingr_eng": "Piroxicam",
+ "edi_code": "648500501,648500502,648500503",
+ "atc_code": "M02AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800043",
+ "revisions": [
+  {
+   "revision_id": "198800043-6c686391",
+   "content_sha256": "6c686391a85bbcb15596082a9e92001962f46aa34bf2391cd7438d2aa23f3b60",
+   "ee_text": "(겔제)(연고제)(크림제) 다음 질환 및 증상의 진통ㆍ소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건ㆍ건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통(근염, 근막염 등), 외상후의 종창ㆍ동통 (패취제) 퇴행성관절염(골관절염), 건초염, 근육통, 골관절통, 외상후 동통 및 골절치유후의 동통",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:28Z",
+   "last_observed_at": "2026-09-08T08:27:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:28Z"
+}

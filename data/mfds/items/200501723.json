@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501723",
+ "item_name": "더마스톤지크림",
+ "entp_name": "에이치엘비제약(주)",
+ "permit_date": "20050107",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040717]프레드니솔론|[M202893]네오마이신황산염",
+ "main_item_ingr_eng": "Neomycin Sulfate/Prednisolone",
+ "edi_code": "",
+ "atc_code": "D07CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501723",
+ "revisions": [
+  {
+   "revision_id": "200501723-3b818bdc",
+   "content_sha256": "3b818bdc7e00216debf2b8c15e4e000bb6afbd90a2dc03906ae93f45f7578788",
+   "ee_text": "염증성 피부질환, 지루성 피부염",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:12Z",
+   "last_observed_at": "2026-09-08T08:39:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:12Z"
+}

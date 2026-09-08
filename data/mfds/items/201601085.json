@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201601085",
+ "item_name": "이콕스캡슐15밀리그램(멜록시캄)",
+ "entp_name": "(주)화이트생명과학",
+ "permit_date": "20160226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086439]멜록시캄",
+ "main_item_ingr_eng": "Meloxicam",
+ "edi_code": "625201190",
+ "atc_code": "M01AC06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601085",
+ "revisions": [
+  {
+   "revision_id": "201601085-a77c2272",
+   "content_sha256": "a77c227276786dca8069af2b617f963ba0b9502d3bad2405ebcd0b474e90cb03",
+   "ee_text": "1. 통증과 운동실조를 수반하는 골관절염(퇴행관절염)의 급성악화시 단기간의 증상치료 2. 류마티스관절염의 증상치료 3. 강직척추염의 증상치료기",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:17Z",
+   "last_observed_at": "2026-09-08T08:50:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:17Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201103701",
+ "item_name": "피타렉스캡슐0.5밀리그램(핀골리모드염산염)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20110607",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252321]핀골리모드염산염",
+ "main_item_ingr_eng": "Fingolimod Hydrochloride",
+ "edi_code": "653602260",
+ "atc_code": "L04AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103701",
+ "revisions": [
+  {
+   "revision_id": "201103701-3001ad80",
+   "content_sha256": "3001ad80f4cd4708155f5db178945a11d8f3175bbf3bcf1831a3759b19b56f58",
+   "ee_text": "재발 이장성 다발성 경화증의 치료",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:40Z",
+   "last_observed_at": "2026-09-08T08:44:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:40Z"
+}

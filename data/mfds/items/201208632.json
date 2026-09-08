@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201208632",
+ "item_name": "레토프라정10밀리그램(에스-판토프라졸나트륨삼수화물)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20121122",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254776]에스-판토프라졸나트륨삼수화물",
+ "main_item_ingr_eng": "S-Pantoprazole Sodium Trihydrate",
+ "edi_code": "650203940",
+ "atc_code": "A02BC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208632",
+ "revisions": [
+  {
+   "revision_id": "201208632-231b5dbd",
+   "content_sha256": "231b5dbda52c9f5d031f555d341666b5fb59fc5911143fef6200663a64fe9cdd",
+   "ee_text": "- 비미란성 위식도 역류질환의 치료 - 역류성 식도염의 재발방지를 위한 장기유지요법",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:37Z",
+   "last_observed_at": "2026-09-08T08:45:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:37Z"
+}

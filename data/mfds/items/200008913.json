@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008913",
+ "item_name": "테크네디티피에이키트주사(펜테트산)",
+ "entp_name": "새한산업",
+ "permit_date": "20000826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249817]펜테트산",
+ "main_item_ingr_eng": "Pentetic Acid",
+ "edi_code": "656900771",
+ "atc_code": "V09CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008913",
+ "revisions": [
+  {
+   "revision_id": "200008913-79801517",
+   "content_sha256": "79801517b06863f383f41596e7b9045d0867fe66b7d04ddd111e8137c0432200",
+   "ee_text": "1. 진단용 방사성의약품인 펜테트산테크네튬(99mTc) 주 사액의 조제용 2. 펜테트산테크네튬(99mTc) 주사액의 효능ㆍ효과 : 신 장 신티그래피에 의한 신장 질환의 진단",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:33Z",
+   "last_observed_at": "2026-09-08T08:34:33Z",
+   "official_revision_date": "2022-05-09"
+  },
+  {
+   "revision_id": "200008913-ad3180c2",
+   "content_sha256": "ad3180c25e9e2ec23906aec46e874c82335790bbc107fe1eb04c2569020cde88",
+   "ee_text": "1. 진단용 방사성의약품인 디에칠렌트리아민오초산테크네튬(99mTc) 주 사액의 조제용 2. 디에칠렌트리아민오초산테크네튬(99mTc) 주사액의 효능ㆍ효과 : 신 장 신티그래피에 의한 신장 질환의 진단",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:34:33Z",
+   "last_observed_at": "2026-09-08T08:34:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:33Z"
+}

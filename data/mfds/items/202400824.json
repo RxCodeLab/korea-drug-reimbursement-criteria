@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400824",
+ "item_name": "프렌즈아이드롭아이스점안액",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20240411",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040702]포도당|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr_eng": "Glucose/Potassium Chloride/Sodium Chloride/Sodium Chondroitin Sulfate",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400824",
+ "revisions": [
+  {
+   "revision_id": "202400824-d37de34c",
+   "content_sha256": "d37de34cc2dd0e7dc573d4d1cd37e91696cf7d23dce39b9c7e40e7ff740e61b6",
+   "ee_text": "눈의 피로, 눈물의 보조(눈의 건조), 하드콘택트렌즈 또는 소프트렌즈 착용시 불쾌감, 눈의 침침함(눈곱이 많을 때 등)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:53Z",
+   "last_observed_at": "2026-09-08T09:02:53Z",
+   "official_revision_date": "2024-04-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:53Z"
+}

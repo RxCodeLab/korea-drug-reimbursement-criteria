@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502573",
+ "item_name": "윈레비크림(클라스코테론)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20250929",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285815]클라스코테론",
+ "main_item_ingr_eng": "Clascoterone",
+ "edi_code": "",
+ "atc_code": "D10AX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502573",
+ "revisions": [
+  {
+   "revision_id": "202502573-3eb87346",
+   "content_sha256": "3eb87346a0ac6e87dd6133abe2ba105587fedd7fce1911b1dd05f080439df576",
+   "ee_text": "12세 이상 환자의 중등도 내지 중증 심상성 여드름의 국소 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:18Z",
+   "last_observed_at": "2026-09-08T09:04:18Z",
+   "official_revision_date": "2025-09-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:18Z"
+}

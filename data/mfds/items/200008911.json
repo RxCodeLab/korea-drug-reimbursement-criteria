@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008911",
+ "item_name": "테크네엠디피키트주사(메드론산)",
+ "entp_name": "새한산업",
+ "permit_date": "20000826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M111043]메틸렌디포스폰산",
+ "main_item_ingr_eng": "Methylenediphosphonic Acid",
+ "edi_code": "656900851",
+ "atc_code": "V09BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008911",
+ "revisions": [
+  {
+   "revision_id": "200008911-ed425f93",
+   "content_sha256": "ed425f936493dfc46570d329f8563d67e6ba73b29ca64bc604ccc4396d7c610b",
+   "ee_text": "1. 진단용 방사성의약품인 메틸렌디포스폰산테크네튬(99mTc) 주사액의 조제용 2. 메틸렌디포스폰산테크네튬(99mTc) 주사액의 효능ㆍ효과 : 뼈 신티 그래 피에 의한 골격 질환의 진단",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:33Z",
+   "last_observed_at": "2026-09-08T08:34:33Z",
+   "official_revision_date": "2022-03-29"
+  },
+  {
+   "revision_id": "200008911-313cb341",
+   "content_sha256": "313cb34155534f1037d4f3f8c93d760f6445a90a85fd317bd2d9499d076235cd",
+   "ee_text": "1. 진단용 방사성의약품인 메칠렌디포스폰산테크네튬(99mTc) 주사액의 조제용 2. 메칠렌디포스폰산테크네튬(99mTc) 주사액의 효능ㆍ효과 : 뼈 신티 그래 피에 의한 골격 질환의 진단",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:34:33Z",
+   "last_observed_at": "2026-09-08T08:34:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:33Z"
+}

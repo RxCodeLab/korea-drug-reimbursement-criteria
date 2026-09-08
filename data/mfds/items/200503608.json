@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200503608",
+ "item_name": "진크피현탁액(피리티온아연 액)",
+ "entp_name": "(주)나노팜",
+ "permit_date": "20050517",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255459]피리티온아연 액",
+ "main_item_ingr_eng": "Pyrithione Zinc Solution",
+ "edi_code": "",
+ "atc_code": "D11AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503608",
+ "revisions": [
+  {
+   "revision_id": "200503608-c12c4052",
+   "content_sha256": "c12c4052f23feb1945cee187e801600337b53ce5e24bb670ea6c8e77cf151594",
+   "ee_text": "비듬 및 두피의 지루피부염",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:32Z",
+   "last_observed_at": "2026-09-08T08:39:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:32Z"
+}

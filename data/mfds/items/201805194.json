@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805194",
+ "item_name": "엘도프로캡슐(에르도스테인)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20181220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250516]에르도스테인",
+ "main_item_ingr_eng": "Erdosteine",
+ "edi_code": "642405330",
+ "atc_code": "R05CB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805194",
+ "revisions": [
+  {
+   "revision_id": "201805194-224980ae",
+   "content_sha256": "224980aef7979a60075e4bf8531858603b514641f7f3a483bc9d4491ba8767de",
+   "ee_text": "급ㆍ만성호흡기질환에서의점액용해및거담",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:56Z",
+   "last_observed_at": "2026-09-08T08:53:56Z",
+   "official_revision_date": "2018-12-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:56Z"
+}

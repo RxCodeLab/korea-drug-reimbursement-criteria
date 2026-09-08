@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501353",
+ "item_name": "레날비타정",
+ "entp_name": "성이바이오제약주식회사",
+ "permit_date": "20250530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M117558]시아노코발라민 1000배산|[M204304]피리독신염산염|[M223262]티아민질산염|[M223289]폴산|[M227509]아스코르브산97%과립|[M244748]판토텐산칼슘|[M249983]D-비오틴",
+ "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Calcium Pantothenate/Cyanocobalamin Powder 0.1%/D-Biotin/Folic Acid/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate",
+ "edi_code": "072400610",
+ "atc_code": "A11EB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501353",
+ "revisions": [
+  {
+   "revision_id": "202501353-d22fb056",
+   "content_sha256": "d22fb056d93063e2290dfaf88b299234325e6e9914a52e6d12bb9f1b6736ec2d",
+   "ee_text": "○ 다음 경우의 B1, B2, B6, C 의 보급 - 육체피로 - 임신 수유기 - 병증 병후(병을 앓는 동안이나 회복후)의 체력 저하 시",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:57Z",
+   "last_observed_at": "2026-09-08T09:03:57Z",
+   "official_revision_date": "2025-05-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:57Z"
+}

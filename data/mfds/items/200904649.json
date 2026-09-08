@@ -7,11 +7,12 @@
  "permit_date": "20090630",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M088656]글리신|[M209366]L-알라닌|[M204427]L-글루탐산",
+ "main_item_ingr": "[M088656]글리신|[M204427]L-글루탐산|[M209366]L-알라닌",
  "main_item_ingr_eng": "Glycine/L-Alanine/L-Glutamic Acid",
  "edi_code": "",
  "atc_code": "G04CX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904649",
+ "history_fetched_at": "2026-08-28T13:24:21Z",
  "revisions": [
   {
    "revision_id": "200904649-2519bf45",
@@ -19,9 +20,9 @@
    "ee_text": "전립선비대에 의한 배뇨곤란 ㆍ 잔뇨 및 잔뇨감 ㆍ 빈뇨",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:24:21Z",
-   "last_observed_at": "2026-08-28T13:24:21Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:43:22Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:21Z"
+ ]
 }

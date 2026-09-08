@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801340",
+ "item_name": "멕타진정(메퀴타진)(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "19980821",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050446]메퀴타진",
+ "main_item_ingr_eng": "Mequitazine",
+ "edi_code": "",
+ "atc_code": "R06AD07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801340",
+ "revisions": [
+  {
+   "revision_id": "199801340-5ad2efc1",
+   "content_sha256": "5ad2efc1f06a2e89c477dd3aa4e3bb40dfaa702b26e4fbecb504e221e79827c4",
+   "ee_text": "두드러기, 고초열, 알레르기성 비염, 습진, 소양증, 맥관부종, 결막염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:51Z",
+   "last_observed_at": "2026-09-08T08:31:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:51Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R01BA53",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906587",
+ "history_fetched_at": "2026-08-28T13:25:11Z",
  "revisions": [
   {
    "revision_id": "201906587-6b0526c0",
@@ -19,9 +20,9 @@
    "ee_text": "- 감기 또는 알레르기성 및 혈관운동성 비염에 의한 다음 증상의 완화 : 재채기, 콧물, 코막힘, 눈물 - 부비동염에 의한 비충혈의 일시적 완화",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:11Z",
-   "last_observed_at": "2026-08-28T13:25:11Z",
-   "official_revision_date": "2019-09-20"
+   "last_observed_at": "2026-09-08T08:56:26Z",
+   "official_revision_date": "2019-09-20",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:11Z"
+ ]
 }

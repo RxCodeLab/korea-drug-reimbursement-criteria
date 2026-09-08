@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601107",
+ "item_name": "더브루겔액(시메티콘)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20260416",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223083]시메티콘",
+ "main_item_ingr_eng": "Simethicone",
+ "edi_code": "",
+ "atc_code": "A03AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601107",
+ "revisions": [
+  {
+   "revision_id": "202601107-f7e81b54",
+   "content_sha256": "f7e81b547c652737a874ad30ea185b51f23096cfa9ac455d575f30994a0026cf",
+   "ee_text": "1. 위내시경 검사 시 장내기포제거 2. 복부(배부분) X선 촬영 시 장내가스제거 3. 위장관내 가스로 인한 복부 증상(복부(배부분)팽만감, 공기연하증(공기삼킴증) 등)의 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:02Z",
+   "last_observed_at": "2026-09-08T09:05:02Z",
+   "official_revision_date": "2026-04-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:02Z"
+}

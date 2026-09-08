@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202403070",
+ "item_name": "아위클리프리필드펜700단위/밀리리터(인슐린아이코덱, 유전자재조합)",
+ "entp_name": "노보노디스크제약(주)",
+ "permit_date": "20241223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285102]인슐린아이코덱|[M285102]인슐린아이코덱|[M285102]인슐린아이코덱",
+ "main_item_ingr_eng": "Insulin Icodec",
+ "edi_code": "",
+ "atc_code": "A10AE07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403070",
+ "revisions": [
+  {
+   "revision_id": "202403070-f83ff97a",
+   "content_sha256": "f83ff97a753e19878b2f392283ec44d08d8e0de584bcef19caece57fd25c2cc5",
+   "ee_text": "성인 당뇨병의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:34Z",
+   "last_observed_at": "2026-09-08T09:03:34Z",
+   "official_revision_date": "2024-12-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:34Z"
+}

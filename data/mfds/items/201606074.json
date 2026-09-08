@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:51:13Z",
  "revisions": [
   {
-   "revision_id": "201606074-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201606074-e8adbb6a",
+   "content_sha256": "e8adbb6a8a69a1402e72a80b2413d835e6670c58ee69e90576e261aa5e43b10a",
+   "ee_text": "1. 백혈병 2. 융모질환(융모암, 파괴포상기태, 포상기태)의 자각적, 타각적 증상의 완화 3. 류마티스관절염 4. 다른 약물로 효과가 없는 중증의 불응성 건선",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201606074/EE",
    "first_observed_at": "2026-08-27T12:51:13Z",
-   "last_observed_at": "2026-08-28T13:24:53Z"
+   "last_observed_at": "2026-09-08T08:51:16Z",
+   "normalizer_version": 3
   }
  ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500420",
+ "item_name": "라이빈캡슐100밀리그램(리바비린)(수출용)",
+ "entp_name": "진양제약(주)",
+ "permit_date": "20250226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070313]리바비린",
+ "main_item_ingr_eng": "Ribavirin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500420",
+ "revisions": [
+  {
+   "revision_id": "202500420-6755c43c",
+   "content_sha256": "6755c43cdf98a0dd265ae40ab3a1815bcf0605d495cdf32e259f7af6a0ead1b1",
+   "ee_text": "만성 C형 간염에서 인터페론 알파-2b 또는 페그인터페론 알파-2a,-2b 주사와 병용투여",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:42Z",
+   "last_observed_at": "2026-09-08T09:03:42Z",
+   "official_revision_date": "2025-02-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:42Z"
+}

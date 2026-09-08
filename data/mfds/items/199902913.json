@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A06AB56",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902913",
+ "history_fetched_at": "2026-08-28T13:23:51Z",
  "revisions": [
   {
    "revision_id": "199902913-0b5004a7",
@@ -19,7 +20,8 @@
    "ee_text": "변비, 변비를 수반하는 다음증상의 완화 : 두중, 흥분, 거친피부, 여드름, 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199902913/EE",
    "first_observed_at": "2026-08-28T13:23:51Z",
-   "last_observed_at": "2026-08-28T13:23:51Z"
+   "last_observed_at": "2026-09-08T08:32:56Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "199902913-64cdb168",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:51Z",
    "last_observed_at": "2026-08-28T13:23:51Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:51Z"
+ ]
 }

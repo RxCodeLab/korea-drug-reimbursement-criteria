@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200307781",
+ "item_name": "알케란정(멜팔란)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20030317",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200547]멜팔란",
+ "main_item_ingr_eng": "Melphalan",
+ "edi_code": "643903030",
+ "atc_code": "L01AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307781",
+ "revisions": [
+  {
+   "revision_id": "200307781-c024b330",
+   "content_sha256": "c024b3303c9a777e030a27a4b2958f73bfefbef17bab895f04c7d34af07c06ee",
+   "ee_text": "1. 다발성골수종 2. 난소선암 3. 진행성유방암 4. 진성적혈구증가증 (주사제) 다발성골수종",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:19Z",
+   "last_observed_at": "2026-09-08T08:37:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:19Z"
+}

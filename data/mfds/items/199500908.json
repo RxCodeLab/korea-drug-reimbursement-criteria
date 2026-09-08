@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199500908",
+ "item_name": "알코텔정(메타독신)(수출명:알코테라)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19950417",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070126]메타독신",
+ "main_item_ingr_eng": "Metadoxine",
+ "edi_code": "641701140",
+ "atc_code": "A05BA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500908",
+ "revisions": [
+  {
+   "revision_id": "199500908-6b506dbe",
+   "content_sha256": "6b506dbe3104e78026d8e7e4ddb8002255e15536cc6edffeb0b427a9092651e4",
+   "ee_text": "만성 알코올 중독",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:32Z",
+   "last_observed_at": "2026-09-08T08:29:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:32Z"
+}

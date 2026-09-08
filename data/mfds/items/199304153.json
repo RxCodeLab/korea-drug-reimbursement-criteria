@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199304153",
+ "item_name": "아비텐압축형(MicrofibrillarCollagenHcl)",
+ "entp_name": "(주)나노팜",
+ "permit_date": "19930408",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093832]MICROFIBRILLAR COLLAGEN Hydrochloride",
+ "main_item_ingr_eng": "Microfibrillar Collagen Hydrochloride",
+ "edi_code": "658900240",
+ "atc_code": "B02BC07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199304153",
+ "revisions": [
+  {
+   "revision_id": "199304153-effa73c2",
+   "content_sha256": "effa73c2612ea0c9d685ab701fe1d72faa191227dec594e1529b6985f6acceaa",
+   "ee_text": "수술(안과적 수술 및 비뇨기계 수술은 제외) 시 결찰(ligation)이나 통상적 방법으로 지혈하는 것이 불가능하거나 지혈되지 않을 때, 지혈 보조요법",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:57Z",
+   "last_observed_at": "2026-09-08T08:28:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:57Z"
+}

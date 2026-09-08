@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198901335",
+ "item_name": "부광에몰액(베타메타손발레레이트)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19890120",
+ "cancel_date": "20250311",
+ "status": "취하",
+ "main_item_ingr": "[M223043]베타메타손발레레이트",
+ "main_item_ingr_eng": "Betamethasone Valerate",
+ "edi_code": "",
+ "atc_code": "D07AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901335",
+ "revisions": [
+  {
+   "revision_id": "198901335-a5d7edff",
+   "content_sha256": "a5d7edff8fb063af02dfec3391d22a0cc7796420be7cfc6cad927e23b3ce9f78",
+   "ee_text": "스테로이드 반응성 두피 질환(건선, 지루성 피부염 등)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198901335/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:53Z",
+   "last_observed_at": "2026-09-08T08:27:53Z"
+  },
+  {
+   "revision_id": "198901335-2b2d5f09",
+   "content_sha256": "2b2d5f098b64c7222bead5f309904147f5d660403f0bcc5c5d26cca57f0a9e90",
+   "ee_text": "스테로이드 반응성 두피 질환(건선, 지루피부염 등)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:27:53Z",
+   "last_observed_at": "2026-09-08T08:27:53Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:53Z"
+}

@@ -7,20 +7,22 @@
  "permit_date": "20121119",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M208932]γ-오리자놀|[M204304]피리독신염산염|[M250660]콘드로이틴설페이트나트륨|[M096428]벤포티아민|[M096429]시아노코발라민",
+ "main_item_ingr": "[M096428]벤포티아민|[M096429]시아노코발라민|[M204304]피리독신염산염|[M208932]γ-오리자놀|[M250660]콘드로이틴설페이트나트륨",
  "main_item_ingr_eng": "Benfotiamine/Cyanocobalamin/Gamma-Oryzanol/Pyridoxine Hydrochloride/Sodium Chondroitin Sulfate",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208470",
+ "history_fetched_at": "2026-08-28T13:24:29Z",
  "revisions": [
   {
-   "revision_id": "201208470-73625f9b",
-   "content_sha256": "73625f9b3d32fbd39e73cbe4acdb6835ce762e798baba0119c784bb861e3a31f",
-   "ee_text": "1 , B 6 의 보급\"> 1 (벤포티아민)]]> 6 (피리독신염산염)]]>",
+   "revision_id": "201208470-1ea8e6d8",
+   "content_sha256": "1ea8e6d8866e527cd8baa75e06d2d8020dac827471fef36ca01c01deb5332214",
+   "ee_text": "다음 경우의 비타민 B1, B6의 보급 - 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ비타민 B1(벤포티아민) ㆍ 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) ㆍ 각기 ㆍ 눈의 피로 ㆍ비타민 B6 (피리독신염산염) ㆍ 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:24:29Z",
-   "last_observed_at": "2026-08-28T13:24:29Z",
-   "official_revision_date": "2022-01-27"
+   "last_observed_at": "2026-09-08T08:45:36Z",
+   "official_revision_date": "2022-01-27",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201208470-9a6ef465",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:29Z",
    "last_observed_at": "2026-08-28T13:24:29Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:29Z"
+ ]
 }

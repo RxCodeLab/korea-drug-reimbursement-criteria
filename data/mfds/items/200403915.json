@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403915",
+ "item_name": "뮤시딘플러스정(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20040824",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081192]메칠엔에스디아세틸시스테인|[M101122]췌장의단백분해효소",
+ "main_item_ingr_eng": "Methyl-N,S-Diacetylcysteine/Pancreatic Protease",
+ "edi_code": "",
+ "atc_code": "R05CB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403915",
+ "revisions": [
+  {
+   "revision_id": "200403915-2193e952",
+   "content_sha256": "2193e952323458a34e8e461977bdf009328c3e968f60845eb7744020a554379f",
+   "ee_text": "다음 질환에서의 객담배출곤란 : 급만성기관지염, 부비강염, 중이염, 인후두염",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:27Z",
+   "last_observed_at": "2026-09-08T08:38:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:27Z"
+}

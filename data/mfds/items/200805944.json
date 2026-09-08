@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805944",
+ "item_name": "모사원정5밀리그램(모사프리드시트르산염수화물)",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20080528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253090]모사프리드시트르산염수화물",
+ "main_item_ingr_eng": "Mosapride Citrate Dihydrate",
+ "edi_code": "640004860",
+ "atc_code": "A03FA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805944",
+ "revisions": [
+  {
+   "revision_id": "200805944-6e49ab70",
+   "content_sha256": "6e49ab7051abf1f3b818a9080ba4e1e478bcfff9754f1db27de9296b6e39e4c0",
+   "ee_text": "기능성소화불량으로 인한 소화기증상(속쓰림, 구역, 구토)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200805944/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:33Z",
+   "last_observed_at": "2026-09-08T08:42:33Z"
+  },
+  {
+   "revision_id": "200805944-0af275dc",
+   "content_sha256": "0af275dc5e3596fd60ac26a19915840e472ea4ed1958592a4d4a05b028fa2a09",
+   "ee_text": "(정제)(산제) 기능성소화불량으로 인한 소화기증상(속쓰림, 구역, 구토)",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:33Z",
+   "last_observed_at": "2026-09-08T08:42:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:33Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410004",
+ "item_name": "다이보베트연고",
+ "entp_name": "레오파마(유)",
+ "permit_date": "20040914",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092796]칼시포트리올|[M200675]베타메타손디프로피오네이트",
+ "main_item_ingr_eng": "Betamethasone Dipropionate/Calcipotriol",
+ "edi_code": "626700071",
+ "atc_code": "D05AX52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410004",
+ "revisions": [
+  {
+   "revision_id": "200410004-51b2ec3a",
+   "content_sha256": "51b2ec3ad54ccea626ea235ae64ab376fc9813ba20823e89c7018824b93d4af4",
+   "ee_text": "판상형 건선의 국소치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200410004/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:40Z",
+   "last_observed_at": "2026-09-08T08:38:40Z"
+  },
+  {
+   "revision_id": "200410004-f1d2a442",
+   "content_sha256": "f1d2a4423d3a6e2b5edb34d452dad85003176de0a23ae427eb03bf3135aec12b",
+   "ee_text": "(연고제) 판상형 건선의 국소치료 (겔제) 성인 : 중등도∼중증의 두피건선 및 두피 외 판상형 건선의 국소치료",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:38:40Z",
+   "last_observed_at": "2026-09-08T08:38:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:40Z"
+}

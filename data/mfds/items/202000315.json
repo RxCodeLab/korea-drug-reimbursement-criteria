@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000315",
+ "item_name": "진브렉스캡슐200밀리그램(세레콕시브)",
+ "entp_name": "대원바이오텍주식회사",
+ "permit_date": "20200121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089149]세레콕시브",
+ "main_item_ingr_eng": "Celecoxib",
+ "edi_code": "057600510",
+ "atc_code": "M01AH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000315",
+ "revisions": [
+  {
+   "revision_id": "202000315-67e283ca",
+   "content_sha256": "67e283ca90cd553941418f0bc0c6b932912d545e0f7d11fa60734a6f59fc1ea6",
+   "ee_text": "1. 골관절염(퇴행관절염)의 증상이나 징후의 완화 2. 류마티스관절염의 증상이나 징후의 완화 3. 강직척추염의 증상 및 징후의 완화 4. 성인의 급성 통증 완화(수술후, 발치후 진통) 5. 원발월경통",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:32Z",
+   "last_observed_at": "2026-09-08T08:57:32Z",
+   "official_revision_date": "2020-01-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:32Z"
+}

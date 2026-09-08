@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701862",
+ "item_name": "피니페넴주사0.25그램(도리페넴)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20170414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265772]도리페넴",
+ "main_item_ingr_eng": "Doripenem",
+ "edi_code": "644914341",
+ "atc_code": "J01DH04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701862",
+ "revisions": [
+  {
+   "revision_id": "201701862-630754b2",
+   "content_sha256": "630754b23bb5de929581a876cd222ba93d6242f30aef4a0e2b508cd968dc1e76",
+   "ee_text": "<유효균종> 이 약 도리페넴에 감수성이 있는 포도구균속, 연쇄구균속, 폐렴구균, 장구균속(엔테로콕쿠스 파이키움 제외), 모락셀라(브란하멜라) 카타랄리스, 대장균, 시트로박터속, 클레브시엘라속, 엔테로박터속, 세라티아속, 프로테우스속, 모르가넬라 모르가니, 프로비덴시아속, 인플루엔자균, 녹농균, 아시네토박터속, 펩토연쇄구균속, 박테로이즈속, 프레보텔라속 <적응증> - 지역사회획득성 폐렴 - 만성기관지염, 기관지확장증(감염시), 만성 호흡기질환의 2차 감염 - 복잡성 방광염, 신우신염 - 복잡성 복강내감염 - 원내감염 폐렴",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:44Z",
+   "last_observed_at": "2026-09-08T08:51:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:44Z"
+}

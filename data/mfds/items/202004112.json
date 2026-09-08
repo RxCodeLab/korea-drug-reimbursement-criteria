@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004112",
+ "item_name": "장이락캡슐(바실루스리케니포르미스균)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20200529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균",
+ "main_item_ingr_eng": "Bacillus Licheniformis",
+ "edi_code": "641806900",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004112",
+ "revisions": [
+  {
+   "revision_id": "202004112-ee2121e7",
+   "content_sha256": "ee2121e76665f0745419d50f8dd40f08fb76283659114a27bb632998acaaa7c9",
+   "ee_text": "급•만성 장염, 급•만성 설사, 급성이질, 각종 원인에 기인한 장내 이상발효",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:03Z",
+   "last_observed_at": "2026-09-08T08:59:03Z",
+   "official_revision_date": "2020-05-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:03Z"
+}

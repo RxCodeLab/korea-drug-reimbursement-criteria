@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202386",
+ "item_name": "셈블릭스정40밀리그램(애시미닙염산염)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20220609",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282794]애시미닙염산염",
+ "main_item_ingr_eng": "Asciminib Hydrochloride",
+ "edi_code": "653603510",
+ "atc_code": "L01EA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202386",
+ "revisions": [
+  {
+   "revision_id": "202202386-8f5b8e54",
+   "content_sha256": "8f5b8e54b38595414655b2fe558b1512777a0dd62bf18f7f5dac85a389f473e8",
+   "ee_text": "1. 새로 진단된 만성기의 필라델피아 염색체 양성 만성 골수성 백혈병(Ph+ CML) 성인 환자의 치료 이 약의 유효성은 주요 분자학적 반응률을 근거로 하고 있다. 2. 이전에 치료받은 만성기의 필라델피아 염색체 양성 만성 골수성 백혈병(Ph+ CML) 성인 환자의 치료",
+   "ee_doc_id": "35",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:22Z",
+   "last_observed_at": "2026-09-08T09:01:22Z",
+   "official_revision_date": "2025-12-16"
+  },
+  {
+   "revision_id": "202202386-6cc43a09",
+   "content_sha256": "6cc43a097b54237f347d7a7b15eee8c135ba7efb63dbba78d23a6b119a0d0581",
+   "ee_text": "1. 새로 진단된 만성기의 필라델피아 염색체 양성 만성 골수성 백혈병(Ph+ CML) 성인 환자의 치료 이 약의 유효성은 주요 분자학적 반응률을 근거로 하고 있다. 2. 이전에 치료받은 만성기의 필라델피아 염색체 양성 만성 골수성 백혈병(Ph+ CML) 성인 환자의 치료 이 약의 유효성은 주요 분자학적 반응률과 세포유전학적 반응률을 근거로 하고 있다.",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "official_revision_date": "2025-02-26",
+   "first_observed_at": "2026-09-08T09:01:22Z",
+   "last_observed_at": "2026-09-08T09:01:22Z"
+  },
+  {
+   "revision_id": "202202386-cb2d109f",
+   "content_sha256": "cb2d109fde478bbcf618620dca5a28f2157e4fcf6d3db4651a1a4e5e89d17911",
+   "ee_text": "이전에 2가지 이상의 티로신 키나아제 억제제(TKI)로 치료를 받은 만성기의 필라델피아 염색체 양성 만성 골수성 백혈병(Ph+ CML) 성인 환자의 치료 이 약의 유효성은 주요 분자학적 반응률과 세포유전학적 반응률을 근거로 하고 있다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-06-09",
+   "first_observed_at": "2026-09-08T09:01:22Z",
+   "last_observed_at": "2026-09-08T09:01:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:22Z"
+}

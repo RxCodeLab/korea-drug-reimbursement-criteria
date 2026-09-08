@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198100103",
+ "item_name": "아미로정(염산아미로라이드)",
+ "entp_name": "건일제약(주)",
+ "permit_date": "19811019",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080372]염산아미로라이드",
+ "main_item_ingr_eng": "Amiloride Hydrochloride",
+ "edi_code": "646800920",
+ "atc_code": "C03DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100103",
+ "revisions": [
+  {
+   "revision_id": "198100103-f9cae3c0",
+   "content_sha256": "f9cae3c05ae9774cb14da7f122f697491e4788f559d2f2978f4e9824866b5928",
+   "ee_text": "울혈성심부전, 신장기능이 정상인 고혈압, 복수를 수반한 간경변",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:42Z",
+   "last_observed_at": "2026-09-08T08:26:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:42Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199000980",
+ "item_name": "이가탄캡슐(수출명:명인이가탄캡슐,리카타스캡슐)(수출용)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "19900417",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051110]염화리소짐|[M051437]카르바조크롬|[M087036]제피아스코르빈산|[M223239]토코페롤숙시네이트칼슘",
+ "main_item_ingr_eng": "Ascorbic Acid Coated/Carbazochrome/Lysozyme Chloride/Tocopherol Calcium Succinate",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000980",
+ "revisions": [
+  {
+   "revision_id": "199000980-032e7f50",
+   "content_sha256": "032e7f505fb5ae7841b0860936d24a68343ea14297446ebc0a122b2e539b6688",
+   "ee_text": "치은염(잇몸염)·치조(이틀)농루에 의한 여러 증상(잇몸의 발적(충혈되어 붉어짐)·부기·출혈·고름 등)의 완화",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:01Z",
+   "last_observed_at": "2026-09-08T08:28:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:01Z"
+}

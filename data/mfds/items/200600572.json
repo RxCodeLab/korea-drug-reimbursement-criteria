@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600572",
+ "item_name": "제놀골드플라스타(케토프로펜)(수출, 군납명:케넨서플라스타)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20060217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051464]케토프로펜|[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600572",
+ "revisions": [
+  {
+   "revision_id": "200600572-16a41a78",
+   "content_sha256": "16a41a781df69e710ae636e1ff7b76f113726e77a1ec2d7e1c680d91dc5d6518",
+   "ee_text": "다음 질환 및 증상의 진통 ㆍ 소염[항염] : 퇴행성관절염(골관절염), 어깨관절주위염, 건[힘줄] ㆍ 건초염[힘줄윤활막염], 건[힘줄]주위염, 상완골[위팔뼈]상과염(테니스 엘보우 등), 근육통, 외상[상처]후의 종창[부기] ㆍ 동통[통증]",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:52Z",
+   "last_observed_at": "2026-09-08T08:39:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:52Z"
+}

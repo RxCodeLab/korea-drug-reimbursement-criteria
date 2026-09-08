@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505075",
+ "item_name": "싸이세린캡슐(시클로세린)(수출용)",
+ "entp_name": "(주)하원제약",
+ "permit_date": "20150727",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020076]시클로세린",
+ "main_item_ingr_eng": "Cycloserine",
+ "edi_code": "",
+ "atc_code": "J04AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505075",
+ "revisions": [
+  {
+   "revision_id": "201505075-a7ffbff3",
+   "content_sha256": "a7ffbff33d7bc7bae4f60d99094a3e3fc93362ae99d56a9d101ee0ccd080aeb4",
+   "ee_text": "○ 유효균종 결핵균 ○ 적응증 결핵",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:25Z",
+   "last_observed_at": "2026-09-08T08:49:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:25Z"
+}

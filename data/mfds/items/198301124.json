@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198301124",
+ "item_name": "보트로파제주사(헤모코아귤라제)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "19830820",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071788]헤모코아귤라제",
+ "main_item_ingr_eng": "Hemocoagulase",
+ "edi_code": "645300751,645300761",
+ "atc_code": "B02BX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198301124",
+ "revisions": [
+  {
+   "revision_id": "198301124-50f79657",
+   "content_sha256": "50f79657ad0c440272da1eac98f6ef1c70bbff62c85264cbf91c245dfbc707a0",
+   "ee_text": "폐출혈, 비출혈, 구강내출혈, 성기출혈, 신출혈, 창상으로부터의 출혈 등",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:54Z",
+   "last_observed_at": "2026-09-08T08:26:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:54Z"
+}

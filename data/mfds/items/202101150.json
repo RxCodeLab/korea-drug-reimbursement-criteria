@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101150",
+ "item_name": "칼퀀스캡슐100밀리그램(아칼라브루티닙)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20210205",
+ "cancel_date": "20260205",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M265454]아칼라브루티닙",
+ "main_item_ingr_eng": "Acalabrutinib",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101150",
+ "revisions": [
+  {
+   "revision_id": "202101150-3e97df7e",
+   "content_sha256": "3e97df7ef2fb30212bc17f54f75c853d6e1092201413a16c0ecf36b7b0529a50",
+   "ee_text": "1. 65세 이상 또는 동반질환이 있는 65세 미만의 이전에 치료받은 적이 없는 만성 림프구성 백혈병 환자에서 오비누투주맙과의 병용요법 또는 단독요법 2. 이전에 한 가지 이상의 치료를 받은 경험이 있는 만성 림프구성 백혈병 환자에서 단독요법",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:55Z",
+   "last_observed_at": "2026-09-08T08:59:55Z",
+   "official_revision_date": "2021-09-13"
+  },
+  {
+   "revision_id": "202101150-7a55cc02",
+   "content_sha256": "7a55cc02012c052ef458870418376ee145d48542ed6b8c91ef9f30c3b7cb58cf",
+   "ee_text": "65세 이상 또는 동반질환이 있는 65세 미만의 이전에 치료받은 적이 없는 만성 림프구성 백혈병 환자에서 오비누투주맙과의 병용요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-02-05",
+   "first_observed_at": "2026-09-08T08:59:55Z",
+   "last_observed_at": "2026-09-08T08:59:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:55Z"
+}

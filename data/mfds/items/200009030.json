@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200009030",
+ "item_name": "베톱틱-에스점안액(베탁솔롤염산염)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20000524",
+ "cancel_date": "20250918",
+ "status": "취하",
+ "main_item_ingr": "[M222850]베탁솔롤염산염",
+ "main_item_ingr_eng": "Betaxolol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S01ED02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009030",
+ "revisions": [
+  {
+   "revision_id": "200009030-7df485fc",
+   "content_sha256": "7df485fc7c4b27de896e03689b8becc30a29aedc5f85aabb03a9487f137519ae",
+   "ee_text": "1) 안압상승 2) 만성 개방각 녹내장",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:39Z",
+   "last_observed_at": "2026-09-08T08:34:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:39Z"
+}

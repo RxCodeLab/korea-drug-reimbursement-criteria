@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400120",
+ "item_name": "타무날캡슐(탐스로신염산염)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20040611",
+ "cancel_date": "20260401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M085770]탐스로신서방립",
+ "main_item_ingr_eng": "Tamsulosin Extended-Release Granules",
+ "edi_code": "",
+ "atc_code": "G04CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400120",
+ "revisions": [
+  {
+   "revision_id": "200400120-0747867b",
+   "content_sha256": "0747867b0dc6df1e1a84615fada25aefd3386ec3c82fbe8af46fc82ae103189f",
+   "ee_text": "양성 전립샘비대증에 따른 배뇨장애",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:28Z",
+   "last_observed_at": "2026-09-08T08:37:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:28Z"
+}

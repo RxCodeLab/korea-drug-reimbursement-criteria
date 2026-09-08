@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201001742",
+ "item_name": "티로캄주(피록시캄칼륨)(수출용)",
+ "entp_name": "(주)오스코리아제약",
+ "permit_date": "20100226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084084]피록시캄칼륨",
+ "main_item_ingr_eng": "Piroxicam Potassium",
+ "edi_code": "",
+ "atc_code": "M01AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001742",
+ "revisions": [
+  {
+   "revision_id": "201001742-8dabef40",
+   "content_sha256": "8dabef405c143ca889f15c63e5c0a9d75eed5c20dcd512fd391609b397e189ca",
+   "ee_text": "(주사제) 이 약은 다른 비스테로이드 소염제에 불응성이거나 효과가 불충분한 다음의 경우에만 투여한다. 1. 류마티스관절염, 골관절염(퇴행관절염), 강직척추염 2. 만성에 한함 : 요통, 견관절주위염, 경견완증후군",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:51Z",
+   "last_observed_at": "2026-09-08T08:43:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:51Z"
+}

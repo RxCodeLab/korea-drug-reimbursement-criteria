@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301055",
+ "item_name": "알타겔현탁액(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20030331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083647]수산화알루미늄탄산마그네슘혼합건조겔|[M089326]활성아타풀지트",
+ "main_item_ingr_eng": "Activated Attapulgite/Aluminium Hydroxide·Magnesium Carbonate Xerogel",
+ "edi_code": "",
+ "atc_code": "A02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301055",
+ "revisions": [
+  {
+   "revision_id": "200301055-ccbf1131",
+   "content_sha256": "ccbf1131886645d43e224e785ab070c609df463042305341451671d73c27c6ca",
+   "ee_text": "위염, 위산과다, 속쓰림, 위십이지장궤양, 역류성식도염",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:55Z",
+   "last_observed_at": "2026-09-08T08:36:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:55Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507324",
+ "item_name": "테바비칼루타마이드정50밀리그램",
+ "entp_name": "(주)한독테바",
+ "permit_date": "20151023",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089188]비칼루타마이드",
+ "main_item_ingr_eng": "Bicalutamide",
+ "edi_code": "626900610",
+ "atc_code": "L02BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507324",
+ "revisions": [
+  {
+   "revision_id": "201507324-debbdb51",
+   "content_sha256": "debbdb510ac1592c28dfeb743789bdae9d81bc3854755e3c3ab80785623c2f37",
+   "ee_text": "1. 황체형성호르몬분비호르몬(LHRH) 유사약물과 병용 혹은 거세수술과 병용하여 진행성 전립샘암의 치료 2. 질병의 진행 위험성이 높은 국소 진행성, 비전이성 전립샘암 환자에서 단독투여 또는 전립샘 근치절제술이나 방사선 요법의 보조요법",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:44Z",
+   "last_observed_at": "2026-09-08T08:49:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:44Z"
+}

@@ -5,8 +5,8 @@
  "item_name": "케이그라정50밀리그램(실데나필시트르산염)",
  "entp_name": "주식회사케이에스제약",
  "permit_date": "20210902",
- "cancel_date": "",
- "status": "정상",
+ "cancel_date": "20260902",
+ "status": "유효기간만료",
  "main_item_ingr": "[M252789]실데나필시트르산염",
  "main_item_ingr_eng": "Sildenafil Citrate",
  "edi_code": "",
@@ -20,7 +20,8 @@
    "ee_text": "(정제)(구강붕해필름)(구강용해필름)(구강붕해정)(저작정)(산제) 발기부전의 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202106332/EE",
    "first_observed_at": "2026-08-27T12:35:06Z",
-   "last_observed_at": "2026-08-28T13:25:25Z"
+   "last_observed_at": "2026-09-08T09:00:32Z",
+   "normalizer_version": 3
   }
  ]
 }

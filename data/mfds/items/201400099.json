@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400099",
+ "item_name": "원스타민정",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20140110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040133]리보플라빈|[M051415]푸르설티아민|[M117558]시아노코발라민 1000배산|[M204304]피리독신염산염|[M250406]아스코르브산과립|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr_eng": "Ascorbic Acid Granules/Cyanocobalamin Powder 0.1%/Fursultiamine/Pyridoxine Hydrochloride/Riboflavin/Tocopherol Acetate Powder 50%",
+ "edi_code": "",
+ "atc_code": "A11EB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400099",
+ "revisions": [
+  {
+   "revision_id": "201400099-abf2947b",
+   "content_sha256": "abf2947bfc7b6445f8f9714067bbf71d2f166707a1177b0d79970cf56174d32a",
+   "ee_text": "1. 다음의 경우의 비타민 B1, B2, B6, C, E의 보급 - 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ 비타민B1(푸르설티아민) ○ 다음 증상의 완화: 신경통, 근육통, 관절통(요통, 어깨결림 등) ○ 각기 ○ 눈의피로",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:40Z",
+   "last_observed_at": "2026-09-08T08:46:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:40Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201306190",
+ "item_name": "베스틴정(베타히스틴메실산염)(수출용)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20130314",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M223045]베타히스틴메실산염",
+ "main_item_ingr_eng": "Betahistine Mesylate",
+ "edi_code": "",
+ "atc_code": "N07CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306190",
+ "revisions": [
+  {
+   "revision_id": "201306190-b00bfa73",
+   "content_sha256": "b00bfa73e5ff6f343bc235fddab036ba7bec45add88f260e3d3231d710c95bca",
+   "ee_text": "메니에르 증후군, 메니에르병에 의한 어지러움",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:53Z",
+   "last_observed_at": "2026-09-08T08:45:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:53Z"
+}

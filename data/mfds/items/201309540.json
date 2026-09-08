@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309540",
+ "item_name": "크라시에갈근탕엑스세립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20131001",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084556]갈근탕엑스",
+ "main_item_ingr_eng": "Galgeuntang Extract",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309540",
+ "revisions": [
+  {
+   "revision_id": "201309540-7e5b9c7d",
+   "content_sha256": "7e5b9c7d6a208a8cfa64f69019203301c5ebd50fd7652a0422d7956a30607b8b",
+   "ee_text": "감기, 코감기, 두통, 어깨결림, 근육통, 손과 어깨의 통증",
+   "ee_doc_id": "29",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:23Z",
+   "last_observed_at": "2026-09-08T08:46:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:23Z"
+}

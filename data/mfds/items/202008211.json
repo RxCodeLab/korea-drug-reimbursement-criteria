@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008211",
+ "item_name": "베나니액",
+ "entp_name": "(주)텔콘알에프제약",
+ "permit_date": "20201125",
+ "cancel_date": "20251125",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M070009]감초가루|[M082517]건강가루|[M082889]창출가루|[M084181]황금가루|[M085348]육두구가루|[M093744]백출가루|[M234405]육계가루|[M279284]L-멘톨",
+ "main_item_ingr_eng": "Atractylodes Rhizoma Alba Powder/Atractylodes Rhizoma Powder/Cinnamon Bark Powder/Ginger Powder/Glycyrrhiza Powder/L-Menthol/Nutmeg Powder/Scutellaria Root Powder",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008211",
+ "revisions": [
+  {
+   "revision_id": "202008211-5c988f87",
+   "content_sha256": "5c988f878a90ba2cd8594143f1c258e36afdc3787bbedc6931c7027eb76d1842",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:42Z",
+   "last_observed_at": "2026-09-08T08:59:42Z",
+   "official_revision_date": "2020-11-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:42Z"
+}

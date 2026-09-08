@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601287",
+ "item_name": "림카토주(안발캅타젠오토류셀)",
+ "entp_name": "주식회사 큐로셀",
+ "permit_date": "20260429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286377]안발캅타젠오토류셀",
+ "main_item_ingr_eng": "Anbalcabtagene Autoleucel",
+ "edi_code": "",
+ "atc_code": "L01XL",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601287",
+ "revisions": [
+  {
+   "revision_id": "202601287-c7678b2e",
+   "content_sha256": "c7678b2efd273a6deaf5be6ad9ad8e0dbcf703fb45bfde307df3cd34bb02cd52",
+   "ee_text": "두 가지 이상의 전신 치료 후 재발성 또는 불응성 미만성 거대 B 세포 림프종(DLBCL) 및 원발성 종격동 거대 B 세포 림프종(PMBCL) 성인 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:08Z",
+   "last_observed_at": "2026-09-08T09:05:08Z",
+   "official_revision_date": "2026-04-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:08Z"
+}

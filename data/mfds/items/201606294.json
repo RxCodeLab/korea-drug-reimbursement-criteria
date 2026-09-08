@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606294",
+ "item_name": "액트에어설하정유지치료단계",
+ "entp_name": "(주)보령바이오파마",
+ "permit_date": "20161026",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264783]유럽집먼지진드기 정제추출물|[M264784]아메리카집먼지진드기 정제추출물",
+ "main_item_ingr_eng": "American House Dust Mite Allergen Extract/Purified Europe House Dust Mite Allergen Extract",
+ "edi_code": "",
+ "atc_code": "V01AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606294",
+ "revisions": [
+  {
+   "revision_id": "201606294-98966f89",
+   "content_sha256": "98966f8938f43c83b7b928270de556553dab2815fa30829b250ffb5ac5fabb24",
+   "ee_text": "IgE 매개 알러젠에 대한 특이면역요법-집먼지진드기에 의한 알레르기성 비염의 치료",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:17Z",
+   "last_observed_at": "2026-09-08T08:51:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:17Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401277",
+ "item_name": "레켐비주(레카네맙)",
+ "entp_name": "한국에자이(주)",
+ "permit_date": "20240524",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284658]레카네맙|[M284658]레카네맙",
+ "main_item_ingr_eng": "Lecanemab",
+ "edi_code": "",
+ "atc_code": "N06DX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401277",
+ "revisions": [
+  {
+   "revision_id": "202401277-0c662a23",
+   "content_sha256": "0c662a230fe5c815b11a9580e6281b6b3a36fe98502dcb139745c48e3a733ce5",
+   "ee_text": "알츠하이머병으로 인한 경도 인지 장애 또는 경증의 알츠하이머병 성인 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:59Z",
+   "last_observed_at": "2026-09-08T09:02:59Z",
+   "official_revision_date": "2024-05-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:59Z"
+}

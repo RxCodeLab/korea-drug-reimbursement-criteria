@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500320",
+ "item_name": "곰마틸200밀리그람정(설피리드)(수출용)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "19850914",
+ "cancel_date": "20231201",
+ "status": "취하",
+ "main_item_ingr": "[M050794]설피리드",
+ "main_item_ingr_eng": "Sulpiride",
+ "edi_code": "",
+ "atc_code": "N05AL01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500320",
+ "revisions": [
+  {
+   "revision_id": "198500320-e4099683",
+   "content_sha256": "e4099683a33b26ef3d03164eb2b9e94c55dea17c1f5e4237296406064c666fb6",
+   "ee_text": "정신분열증, 우울증, 정신신경증",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:01Z",
+   "last_observed_at": "2026-09-08T08:27:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:01Z"
+}

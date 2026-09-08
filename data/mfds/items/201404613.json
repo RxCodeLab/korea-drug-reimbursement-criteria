@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404613",
+ "item_name": "루비로펜카타플라스마(플루르비프로펜)",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20141007",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404613",
+ "revisions": [
+  {
+   "revision_id": "201404613-4f9dc33a",
+   "content_sha256": "4f9dc33a3ff40e27b0fe2e3e0d51dd881d67e38074094a52c0e24a8b2807b575",
+   "ee_text": "다음 질환 및 증상의 진통∙소염(항염) : 퇴행성관절염(골관절염), 어깨관절주위염, 건(힘줄)·건초염(힘줄윤활막염), 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기)·동통(통증)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:46Z",
+   "last_observed_at": "2026-09-08T08:47:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:46Z"
+}

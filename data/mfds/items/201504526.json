@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201504526",
+ "item_name": "유시스틴연질캡슐(L-시스틴)(수출용)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20150703",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M103054]L-시스틴",
+ "main_item_ingr_eng": "L-Cystine",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504526",
+ "revisions": [
+  {
+   "revision_id": "201504526-921b9c72",
+   "content_sha256": "921b9c72a58686d0aff305bb718bc3bf186498b5b67b1d40756643202c26bd09",
+   "ee_text": "1. 습진, 두드러기, 피부발진, 여드름 2. 손톱, 발톱이나 머리카락이 쉽게 갈라지는 등의 각질부위 질환의 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:19Z",
+   "last_observed_at": "2026-09-08T08:49:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:19Z"
+}

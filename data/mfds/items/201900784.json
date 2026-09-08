@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900784",
+ "item_name": "오파딘점안액0.1%(올로파타딘염산염)",
+ "entp_name": "(주)인트로바이오파마",
+ "permit_date": "20190131",
+ "cancel_date": "20240131",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M233188]올로파타딘염산염",
+ "main_item_ingr_eng": "Olopatadine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S01GX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900784",
+ "revisions": [
+  {
+   "revision_id": "201900784-50267db1",
+   "content_sha256": "50267db165b8023ba9787ced7cdc75c23f27eff82e2d140b6058c957df155c21",
+   "ee_text": "알레르기성 결막염으로 인한 증상 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:12Z",
+   "last_observed_at": "2026-09-08T08:54:12Z",
+   "official_revision_date": "2019-01-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:12Z"
+}

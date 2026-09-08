@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198100126",
+ "item_name": "베타록정(메토프롤롤타르타르산염)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "19810304",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258742]메토프롤롤타르타르산염",
+ "main_item_ingr_eng": "Metoprolol Tartrate",
+ "edi_code": "642100610",
+ "atc_code": "C07AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100126",
+ "revisions": [
+  {
+   "revision_id": "198100126-cd72e73f",
+   "content_sha256": "cd72e73f9dd33655fceff64589f86a2e17d5ec61831d45f825691060a92cbfc5",
+   "ee_text": "고혈압, 협심증, 빈맥성부정맥(특히 상실성부정빈맥)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:42Z",
+   "last_observed_at": "2026-09-08T08:26:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:42Z"
+}

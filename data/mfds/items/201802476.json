@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802476",
+ "item_name": "가그린목액",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20180615",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222851]벤지다민염산염|[M250372]세틸피리디늄염화물수화물",
+ "main_item_ingr_eng": "Benzydamine Hydrochloride/Cetylpyridinium Chloride Hydrate",
+ "edi_code": "",
+ "atc_code": "A01AD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802476",
+ "revisions": [
+  {
+   "revision_id": "201802476-d68e357a",
+   "content_sha256": "d68e357aa82ed07ee0927322f2e58fa67bc549c139c27f8596419bc105aea6f7",
+   "ee_text": "다음 질환에 의한 통증 및 염증 완화 및 살균: 치은염, 구내염, 발치 전·후",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:16Z",
+   "last_observed_at": "2026-09-08T08:53:16Z",
+   "official_revision_date": "2018-06-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:16Z"
+}

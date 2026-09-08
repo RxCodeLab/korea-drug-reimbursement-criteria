@@ -7,11 +7,12 @@
  "permit_date": "19990309",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040631]탄산수소나트륨|[M227966]아세트산나트륨수화물|[M051111]염화마그네슘|[M040438]염화칼륨|[M217500]염화칼슘수화물|[M040426]염화나트륨",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040631]탄산수소나트륨|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M227966]아세트산나트륨수화물",
  "main_item_ingr_eng": "Calcium Chloride Hydrate/Magnesium Chloride/Potassium Chloride/Sodium Acetate Hydrate/Sodium Bicarbonate/Sodium Chloride",
  "edi_code": "645102040,645102051,645104991",
  "atc_code": "B05ZA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900310",
+ "history_fetched_at": "2026-08-28T13:23:50Z",
  "revisions": [
   {
    "revision_id": "199900310-415d71e2",
@@ -19,7 +20,8 @@
    "ee_text": "만성신부전 환자에 사용되는 인공신장투석의 관류액",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199900310/EE",
    "first_observed_at": "2026-08-28T13:23:50Z",
-   "last_observed_at": "2026-08-28T13:23:50Z"
+   "last_observed_at": "2026-09-08T08:32:31Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "199900310-d3d9f35a",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:50Z",
    "last_observed_at": "2026-08-28T13:23:50Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:50Z"
+ ]
 }

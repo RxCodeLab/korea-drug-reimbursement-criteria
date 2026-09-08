@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008908",
+ "item_name": "테크네스캔매그3주(베티아티드)",
+ "entp_name": "새한산업",
+ "permit_date": "20000706",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M212826]베티아티드",
+ "main_item_ingr_eng": "Betiatide",
+ "edi_code": "656900813",
+ "atc_code": "V09CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008908",
+ "revisions": [
+  {
+   "revision_id": "200008908-29bb1d3e",
+   "content_sha256": "29bb1d3e31294710feb135deb8d2ebef4c6f4ef4732008e58acfde275f335ba8",
+   "ee_text": "1. 진단용 방사성의약품인 메르캅토아세틸글리실글리실글리신테크네튬(99mTc)주사액의 조제용 2. 메르캅토아세틸글리실글리실글리신테크네튬(99mTc)주사액의 효능ㆍ효과 : 신티그래피 및 레노그래피에 의한 신장 및 요로 질환의 진단",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:32Z",
+   "last_observed_at": "2026-09-08T08:34:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:32Z"
+}

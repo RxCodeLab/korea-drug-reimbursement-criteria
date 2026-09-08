@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:34:18Z",
  "revisions": [
   {
-   "revision_id": "201103608-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201103608-2de78b4b",
+   "content_sha256": "2de78b4b427fb378c015da7a5fb20d2975ff24d55d5d15864caa1c17bbc3f3a4",
+   "ee_text": "1. 본태성 고혈압 2. 만성 심부전 (경증~중등증의 만성 안정형 심부전이 있는 70세 이상 노인 환자에서 표준치료시 보조치료)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201103608/EE",
    "first_observed_at": "2026-08-27T12:34:18Z",
-   "last_observed_at": "2026-08-28T13:24:26Z"
+   "last_observed_at": "2026-09-08T08:44:39Z",
+   "normalizer_version": 3
   }
  ]
 }

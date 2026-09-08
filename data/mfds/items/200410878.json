@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410878",
+ "item_name": "노스판패취10㎍/h(부프레노르핀)",
+ "entp_name": "한국먼디파마 유한회사",
+ "permit_date": "20041112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101851]부프레노르핀",
+ "main_item_ingr_eng": "Buprenorphine",
+ "edi_code": "678000020",
+ "atc_code": "N02AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410878",
+ "revisions": [
+  {
+   "revision_id": "200410878-d021c5d7",
+   "content_sha256": "d021c5d771d8fe61dd67ce6ab8e9223f8a63a1badc37022cd05a51e2af1fa3bb",
+   "ee_text": "비마약성진통제에 반응하지 않는 중등도 및 중증의 만성 통증완화. 이 약은 급성 통증의 치료에는 적절하지 않다.",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:43Z",
+   "last_observed_at": "2026-09-08T08:38:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:43Z"
+}

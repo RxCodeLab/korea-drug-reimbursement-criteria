@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004242",
+ "item_name": "트리세녹스주(삼산화비소)",
+ "entp_name": "클리니젠코리아(유)",
+ "permit_date": "20100629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250326]삼산화비소",
+ "main_item_ingr_eng": "Arsenic Trioxide",
+ "edi_code": "679700231",
+ "atc_code": "L01XX27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004242",
+ "revisions": [
+  {
+   "revision_id": "201004242-52f7dee2",
+   "content_sha256": "52f7dee2325203190f8baad495c0784c09e82d2650d76808c3deb80457cd3fa3",
+   "ee_text": "성인 불응성 또는 재발성 급성전골수구성백혈병환자의 관해유도 및 공고요법 염색체검사[t(15;17)전좌] 및/또는 유전자검사[Pro-Myelocytic Leukaemia/Retinoic- Acid-Receptor-alpha (PML/RAR-alpha)유전자]에 의해 급성전골수구성백혈병으로 진단된 환자에 사용할 것. 이전의 치료로서 retinoid와 화학요법을 포함해야 한다. 이 약에 의해 완전관해된 후 재발한 급성전골수구성백혈병에 대해서, 이 약의 유효성∙안전성은 확립되어 있지 않다. 여타 급성골수성 백혈병(AML) 아형에 대한 반응률에 대해서는 조사된 바가 없다.",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:07Z",
+   "last_observed_at": "2026-09-08T08:44:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:07Z"
+}

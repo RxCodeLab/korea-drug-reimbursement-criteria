@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405900",
+ "item_name": "유니쎈타주(자하거추출물)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20141216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101901]자하거추출물",
+ "main_item_ingr_eng": "Human Placenta Extract",
+ "edi_code": "",
+ "atc_code": "G02CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405900",
+ "revisions": [
+  {
+   "revision_id": "201405900-bb63d325",
+   "content_sha256": "bb63d3256a3c5398f20be0f0f9bd5d1f0aa08b9142c8e1f7a7251ba8501435ab",
+   "ee_text": "갱년기 장애 증상의 개선",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:08Z",
+   "last_observed_at": "2026-09-08T08:48:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:08Z"
+}

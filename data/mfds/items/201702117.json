@@ -12,6 +12,7 @@
  "edi_code": "657307050",
  "atc_code": "C09DB04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702117",
+ "history_fetched_at": "2026-08-28T13:24:55Z",
  "revisions": [
   {
    "revision_id": "201702117-771aa958",
@@ -19,8 +20,9 @@
    "ee_text": "암로디핀 또는 텔미사르탄 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
    "ee_doc_id": "16",
    "first_observed_at": "2026-08-28T13:24:55Z",
-   "last_observed_at": "2026-08-28T13:24:55Z",
-   "official_revision_date": "2021-10-20"
+   "last_observed_at": "2026-09-08T08:51:46Z",
+   "official_revision_date": "2021-10-20",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201702117-3ab3b3b4",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:55Z",
    "last_observed_at": "2026-08-28T13:24:55Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:55Z"
+ ]
 }

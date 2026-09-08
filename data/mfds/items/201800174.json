@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800174",
+ "item_name": "티우라실정(프로필티오우라실)(수출용)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20180111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223317]프로필티오우라실",
+ "main_item_ingr_eng": "Propylthiouracil",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800174",
+ "revisions": [
+  {
+   "revision_id": "201800174-8891b45d",
+   "content_sha256": "8891b45db07732fc0728c1eca0fe5792fd4c4f635785a2f3aa3e145c562bef42",
+   "ee_text": "갑상선기능항진증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:47Z",
+   "last_observed_at": "2026-09-08T08:52:47Z",
+   "official_revision_date": "2018-01-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:47Z"
+}

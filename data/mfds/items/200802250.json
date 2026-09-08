@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200802250",
+ "item_name": "플라펜플라스타(플루르비프로펜)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20080227",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802250",
+ "revisions": [
+  {
+   "revision_id": "200802250-e2957c41",
+   "content_sha256": "e2957c41de8f7f4aac8ec8accf5e916f6a91120c1ec0732f5ae8a3411e35e1e0",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) : 퇴행성관절염(골(뼈)관절염), 어깨관절주위염, 건(힘줄)ㆍ건초염(힘줄윤활막염), 상완골(위팔뼈)상과염(테니스엘보우 등), 근육통, 외상(상처)후의 종창(부기)ㆍ동통(통증)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:19Z",
+   "last_observed_at": "2026-09-08T08:42:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:19Z"
+}

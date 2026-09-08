@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705259",
+ "item_name": "일펜정(이부프로펜리신)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20170706",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071015]이부프로펜리신",
+ "main_item_ingr_eng": "Ibuprofen Lysine",
+ "edi_code": "",
+ "atc_code": "M01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705259",
+ "revisions": [
+  {
+   "revision_id": "201705259-0041bba4",
+   "content_sha256": "0041bba45e6af28c8777af8d7adf8887d24373ee9669732b3ee2a3b1b9e47893",
+   "ee_text": "관절통(류마티스 관절염, 골관절염), 요통, 두통, 치통, 월경통, 외상 후 통증, 감기로 인한 발열",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:04Z",
+   "last_observed_at": "2026-09-08T08:52:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:04Z"
+}

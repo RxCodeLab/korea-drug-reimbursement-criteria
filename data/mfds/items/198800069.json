@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800069",
+ "item_name": "한풍곽향엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M050048]곽향",
+ "main_item_ingr_eng": "Agastachis Herba",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800069",
+ "revisions": [
+  {
+   "revision_id": "198800069-827e037b",
+   "content_sha256": "827e037b1154e31b0d660c8df33d3130dbbcaf3bc0b3c86a5ed7cd20b571b655",
+   "ee_text": "해열, 건위, 지사, 구토",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:29Z",
+   "last_observed_at": "2026-09-08T08:27:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:29Z"
+}

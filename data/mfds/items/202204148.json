@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204148",
+ "item_name": "광동치올페이스트(히노키티올)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20221118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202166]히노키티올",
+ "main_item_ingr_eng": "Hinokitiol",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204148",
+ "revisions": [
+  {
+   "revision_id": "202204148-bc0064cc",
+   "content_sha256": "bc0064ccb6aeda133b07173ea6018af51da08ac720429580dde0ba8f32aff634",
+   "ee_text": "치은염, 구내염, 설염(혀염), 입술염, 사랑니주위염 및 치조(이틀)농루의 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:41Z",
+   "last_observed_at": "2026-09-08T09:01:41Z",
+   "official_revision_date": "2022-11-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:41Z"
+}

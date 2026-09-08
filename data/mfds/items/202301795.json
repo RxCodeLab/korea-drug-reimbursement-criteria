@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301795",
+ "item_name": "민쥬비주(타파시타맙)",
+ "entp_name": "(주)한독",
+ "permit_date": "20230609",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283774]타파시타맙",
+ "main_item_ingr_eng": "Tafasitamab",
+ "edi_code": "",
+ "atc_code": "L01FX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301795",
+ "revisions": [
+  {
+   "revision_id": "202301795-ceb23ddd",
+   "content_sha256": "ceb23ddd6d5ec80f3b56190cf16683a5cb7555e49451df6b8a34257a8a982020",
+   "ee_text": "○ 미만성 거대 B세포 림프종(diffuse large B-cell lymphoma DLBCL) 자가 조혈모세포이식(ASCT)이 적합하지 않고 한 가지 이상의 이전 치료에 실패한 재발성 또는 불응성 미만성 거대 B세포 림프종(DLBCL) 성인 환자에서 레날리도마이드와 병용요법, 이후 이 약의 단독요법 ○ 소포성 림프종(Follicular lymphoma FL) 한 가지 이상의 전신요법을 받은 재발성 또는 불응성 소포성 림프종(Grade 1-3a) 성인 환자에서 레날리도마이드 및 리툭시맙과 병용요법",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:08Z",
+   "last_observed_at": "2026-09-08T09:02:08Z",
+   "official_revision_date": "2026-03-24"
+  },
+  {
+   "revision_id": "202301795-23110e96",
+   "content_sha256": "23110e9609664436e12ebdfe344697f841c563566c36ef8ebe4f9f03ee22a87c",
+   "ee_text": "자가 조혈모세포이식(ASCT)이 적합하지 않고 한 가지 이상의 이전 치료에 실패한 재발성 또는 불응성 미만성 거대 B세포 림프종(DLBCL) 성인 환자에서 레날리도마이드와 병용요법, 이후 이 약의 단독요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-06-09",
+   "first_observed_at": "2026-09-08T09:02:08Z",
+   "last_observed_at": "2026-09-08T09:02:08Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:08Z"
+}

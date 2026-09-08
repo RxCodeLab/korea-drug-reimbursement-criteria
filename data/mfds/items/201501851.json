@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501851",
+ "item_name": "릭수비스주(혈액응고인자IX, 노나코그감마(유전자재조합))",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20150406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263073]혈액응고인자Ⅸ,노나코그감마(유전자재조합)",
+ "main_item_ingr_eng": "Blood Coagulation Factor Ⅸ, Nonacog Gamma (rDNA)",
+ "edi_code": "696300591,696300592,696300593,696300594,696300595",
+ "atc_code": "B02BD04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501851",
+ "revisions": [
+  {
+   "revision_id": "201501851-2984a30f",
+   "content_sha256": "2984a30f124b3334d6aa3a36a26595bd141ce1da74966936d426c792712af734",
+   "ee_text": "ㆍ혈우병 B 환자의 출혈 에피소드의 억제 및 예방 ㆍ혈우병 B 환자의 출혈 에피소드의 빈도 감소 및 예방을 위한 일상적 예방요법(routine prophylaxis) ㆍ혈우병 B 환자의 수술 전후 관리 이 약은 혈우병 B 환자의 면역관용유도에 사용되지 않는다.",
+   "ee_doc_id": "27",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:46Z",
+   "last_observed_at": "2026-09-08T08:48:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:46Z"
+}

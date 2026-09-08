@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199702369",
+ "item_name": "피그민주사(피리도스티그민브롬화물)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "19970226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223331]피리도스티그민브롬화물",
+ "main_item_ingr_eng": "Pyridostigmine Bromide",
+ "edi_code": "657802261",
+ "atc_code": "N07AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702369",
+ "revisions": [
+  {
+   "revision_id": "199702369-6f67bc5c",
+   "content_sha256": "6f67bc5c61e0d71aa408f6ba86e61a24a8253693e8b87c510055dd19e88ee6a3",
+   "ee_text": "(경구 : 정제) 중증 근무력증 (주사제) 1. 비탈분극성 근이완제의 역전제 또는 길항제 2. 중증 근무력증",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:17Z",
+   "last_observed_at": "2026-09-08T08:31:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:17Z"
+}

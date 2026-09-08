@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401236",
+ "item_name": "디어미정",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20140318",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082621]게스토덴|[M223147]에티닐에스트라디올",
+ "main_item_ingr_eng": "Ethinyl Estradiol/Gestodene",
+ "edi_code": "",
+ "atc_code": "G03AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401236",
+ "revisions": [
+  {
+   "revision_id": "201401236-3ce3ac5f",
+   "content_sha256": "3ce3ac5f80b0228deb555aefefaf2e7ddaca7d1c1ba78cd2d1d13a611f474189",
+   "ee_text": "피임",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:51Z",
+   "last_observed_at": "2026-09-08T08:46:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:51Z"
+}

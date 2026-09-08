@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201103323",
+ "item_name": "시낙텐주(테트라코삭티드)",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20110520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250939]테트라코삭티드",
+ "main_item_ingr_eng": "Tetracosactide",
+ "edi_code": "664602031",
+ "atc_code": "H01AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103323",
+ "revisions": [
+  {
+   "revision_id": "201103323-f0a7f470",
+   "content_sha256": "f0a7f470dd51bb328c87b0ac8a8a2f7636c56e55f6841871592891441b555cf3",
+   "ee_text": "부신피질 기능부전증의 진단",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:37Z",
+   "last_observed_at": "2026-09-08T08:44:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:37Z"
+}

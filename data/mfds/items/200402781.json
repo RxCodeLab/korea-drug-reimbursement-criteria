@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402781",
+ "item_name": "광동금탕액(향갈탕)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20040308",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085445]향갈탕연조엑스",
+ "main_item_ingr_eng": "HYANGGALTANG SOFT EXTRACT",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402781",
+ "revisions": [
+  {
+   "revision_id": "200402781-0e31fc14",
+   "content_sha256": "0e31fc14a52624ff6ab58b81a082d78665961f508221801f73ca35ce4ae65c95",
+   "ee_text": "감기로 인한 몸살, 발열, 두통",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:09Z",
+   "last_observed_at": "2026-09-08T08:38:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:09Z"
+}

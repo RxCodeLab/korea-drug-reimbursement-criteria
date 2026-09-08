@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706868",
+ "item_name": "오니바이드주(나노리포좀이리노테칸)",
+ "entp_name": "한국세르비에(주)",
+ "permit_date": "20170829",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234818]이리노테칸염산염",
+ "main_item_ingr_eng": "Irinotecan Hydrochloride",
+ "edi_code": "676300141",
+ "atc_code": "L01CE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706868",
+ "revisions": [
+  {
+   "revision_id": "201706868-d95c5f1e",
+   "content_sha256": "d95c5f1e46d4b0d87ecee10a5c1f513bbded0874e79a4c0d98785c3107eb834b",
+   "ee_text": "-옥살리플라틴, 플루오로우라실 및 류코보린과 병용한 전이성 췌장암 성인환자에서의 1차 치료. -젬시타빈을 기반으로 하는 항암요법 이후 진행된 환자에 대한 플루오로우라실 및 류코보린과 병용한 전이성 췌장암 성인환자에서의 치료. 이 약을 전이성 췌장암 환자의 치료에 단독으로 사용해서는 안 된다.",
+   "ee_doc_id": "33",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:17Z",
+   "last_observed_at": "2026-09-08T08:52:17Z",
+   "official_revision_date": "2025-07-30"
+  },
+  {
+   "revision_id": "201706868-532cedb2",
+   "content_sha256": "532cedb28d81947063a8e588914908d236e254a20009cd7dee5302e39430d4f2",
+   "ee_text": "젬시타빈을 기반으로 하는 항암요법 이후 진행된 환자에 대한 플루오로우라실 및 류코보린과 병용한 전이성 췌장암의 치료. 이 약을 전이성 췌장암 환자의 치료에 단독으로 사용해서는 안 된다.",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:52:17Z",
+   "last_observed_at": "2026-09-08T08:52:17Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:17Z"
+}

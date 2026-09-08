@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507747",
+ "item_name": "생유정400밀리그램",
+ "entp_name": "(주)종근당",
+ "permit_date": "20151118",
+ "cancel_date": "20251118",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M263104]대황감초탕건조엑스(5→1)",
+ "main_item_ingr_eng": "Daehwanggamchotang Dried Extract (5→1)",
+ "edi_code": "",
+ "atc_code": "A06AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507747",
+ "revisions": [
+  {
+   "revision_id": "201507747-1cdb72fb",
+   "content_sha256": "1cdb72fbb9ea1f0fee692c9a677ad81a7ed80d608354c99363590ff176deda5a",
+   "ee_text": "·변비 ·변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:52Z",
+   "last_observed_at": "2026-09-08T08:49:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:52Z"
+}

@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:41:00Z",
  "revisions": [
   {
-   "revision_id": "198500626-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "198500626-449cf59b",
+   "content_sha256": "449cf59bcdc802e107ab78bacc2c86cfa4b045adf8d3af0a50a74f34d1bb2764",
+   "ee_text": "1. 우울증, 우울상태 2. 야뇨증",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198500626/EE",
    "first_observed_at": "2026-08-27T12:41:00Z",
-   "last_observed_at": "2026-08-28T13:23:40Z"
+   "last_observed_at": "2026-09-08T08:27:04Z",
+   "normalizer_version": 3
   }
  ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500586",
+ "item_name": "대한의료용산화에틸렌20%",
+ "entp_name": "(주)대한특수가스",
+ "permit_date": "20150203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254144]산화에틸렌",
+ "main_item_ingr_eng": "Ethylene Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500586",
+ "revisions": [
+  {
+   "revision_id": "201500586-701d1dbd",
+   "content_sha256": "701d1dbd97333f4fdb788ae8ad775c0781043bca80f89003077a3c515867d2fd",
+   "ee_text": "다음에 제시하는 의료용 기계기구의 소독 및 멸균 주사기, 수술용 기구, 유리, 플라스틱, 고무섬유를 원료로 한 의료용 기계기구",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:26Z",
+   "last_observed_at": "2026-09-08T08:48:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:26Z"
+}

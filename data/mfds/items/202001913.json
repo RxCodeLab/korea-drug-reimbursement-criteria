@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "C05CA04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001913",
+ "history_fetched_at": "2026-08-28T13:25:16Z",
  "revisions": [
   {
-   "revision_id": "202001913-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202001913-693d05c3",
+   "content_sha256": "693d05c3b4e0fedd1965d08574869da5841733bf8450a007b95e0202fe0e1b9a",
+   "ee_text": "1. 정맥 ㆍ 림프 순환장애로 인한 다음 증상 : 하지(다리) 중압감, 통증, 하지(다리)불안 2. 치질과 관련된 여러 증상",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:16Z",
-   "last_observed_at": "2026-08-28T13:25:16Z",
-   "official_revision_date": "2020-03-19"
+   "last_observed_at": "2026-09-08T08:58:07Z",
+   "official_revision_date": "2020-03-19",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:16Z"
+ ]
 }

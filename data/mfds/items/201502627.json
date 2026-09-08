@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502627",
+ "item_name": "칼시베트겔",
+ "entp_name": "(주)일화",
+ "permit_date": "20150430",
+ "cancel_date": "20250430",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M200675]베타메타손디프로피오네이트|[M249551]칼시포트리올일수화물",
+ "main_item_ingr_eng": "Betamethasone Dipropionate/Calcipotriol Monohydrate",
+ "edi_code": "",
+ "atc_code": "D05AX52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502627",
+ "revisions": [
+  {
+   "revision_id": "201502627-8160fb25",
+   "content_sha256": "8160fb25ad15a6a75febffc5d6b30c67212cc94642de5370bfccf22d65fbe18f",
+   "ee_text": "청소년(12세 이상 18세 미만) 및 성인(18세 이상):중등도∼중증의 두피건선 및 두피 외 판상형 건선의 국소치료",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:56Z",
+   "last_observed_at": "2026-09-08T08:48:56Z",
+   "official_revision_date": "2022-11-02"
+  },
+  {
+   "revision_id": "201502627-218ba6e8",
+   "content_sha256": "218ba6e80caf043cc91141db91710ea70ff7054ce892b1085588579db66909a8",
+   "ee_text": "성인 : 중등도∼중증의 두피건선 및 두피 외 판상형 건선의 국소치료",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-02-28",
+   "first_observed_at": "2026-09-08T08:48:56Z",
+   "last_observed_at": "2026-09-08T08:48:56Z"
+  },
+  {
+   "revision_id": "201502627-b4ad9275",
+   "content_sha256": "b4ad92758789835a7d3bf45a1c3e6b4833fe664ceb04c0f1e68336a41d2d7c66",
+   "ee_text": "성인에서 중등도-중증의 두피건선 및 두피 외 심상성 건선의 국소치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:48:56Z",
+   "last_observed_at": "2026-09-08T08:48:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:56Z"
+}

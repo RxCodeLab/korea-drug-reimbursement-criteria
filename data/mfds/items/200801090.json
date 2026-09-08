@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801090",
+ "item_name": "베타페론주사(인터페론베타-1b, 유전자재조합)",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20080125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222826]인터페론베타-1b(숙주:E.coli strain MM294-1, 벡터:pSY2501)",
+ "main_item_ingr_eng": "Interferon Beta-1B (Host: E.coli strain MM294-1, Vector: pSY2501)",
+ "edi_code": "641100611",
+ "atc_code": "L03AB08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801090",
+ "revisions": [
+  {
+   "revision_id": "200801090-4bc58615",
+   "content_sha256": "4bc586156c2df2e8b62d583a803a32ec54de38c44af4fd15d970ce3709e1d55e",
+   "ee_text": "다발성경화증의 재발방지 및 진행억제 다발성 경화증 이외의 다른 질환으로 진단할 수 없고 다발성 경화증으로 예상되는 한 번의 임상 사건이 발생한 환자에서 다발성 경화증의 발병 억제",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:12Z",
+   "last_observed_at": "2026-09-08T08:42:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:12Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301871",
+ "item_name": "노릭스정(염화리소짐)(수출용)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20030331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051110]염화리소짐",
+ "main_item_ingr_eng": "Lysozyme Chloride",
+ "edi_code": "",
+ "atc_code": "J05AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301871",
+ "revisions": [
+  {
+   "revision_id": "200301871-b7cb54c2",
+   "content_sha256": "b7cb54c28b1f6af3225e11679f2b7d3499d6b818510dea4716a8809bdc6640b8",
+   "ee_text": "객담객출곤란, 만성부비강염, 소수술 중 또는 후의 출혈",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:06Z",
+   "last_observed_at": "2026-09-08T08:37:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:06Z"
+}

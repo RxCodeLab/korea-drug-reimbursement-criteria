@@ -7,20 +7,22 @@
  "permit_date": "20071031",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040634]침강탄산칼슘|[M086116]농축콜레칼시페롤|[M040634]침강탄산칼슘|[M255993]농축콜레칼시페롤(유상)|[M040634]침강탄산칼슘|[M255993]농축콜레칼시페롤(유상)",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M040634]침강탄산칼슘|[M040634]침강탄산칼슘|[M086116]농축콜레칼시페롤|[M255993]농축콜레칼시페롤(유상)|[M255993]농축콜레칼시페롤(유상)",
  "main_item_ingr_eng": "Cholecalciferol Concentrate/Cholecalciferol Concentrate Oil/Precipitated Calcium Carbonate",
  "edi_code": "",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711979",
+ "history_fetched_at": "2026-08-28T13:24:15Z",
  "revisions": [
   {
-   "revision_id": "200711979-0ec3dacd",
-   "content_sha256": "0ec3dacdafd793dff862140bc7aa09c692fb5a41f32260bfc804ec9b2dc479d9",
-   "ee_text": "- 임신․수유기 - 발육기 - 노년기 • 비타민D(농축콜레칼시페롤) - 뼈, 이의 발육불량 - 구루병의 예방",
+   "revision_id": "200711979-726b22a6",
+   "content_sha256": "726b22a66062e3183c8f44f1c7e5dd55d78649c973c0df077c521b6b5781d966",
+   "ee_text": "1. 다음경우의 비타민 D의 보급 - 임신․수유기 - 발육기 - 노년기 2. 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. • 비타민D(농축콜레칼시페롤) - 뼈, 이의 발육불량 - 구루병의 예방 3. 칼슘결핍 및 기타 칼슘의 보급",
    "ee_doc_id": "17",
    "first_observed_at": "2026-08-28T13:24:15Z",
-   "last_observed_at": "2026-08-28T13:24:15Z",
-   "official_revision_date": "2021-09-14"
+   "last_observed_at": "2026-09-08T08:42:01Z",
+   "official_revision_date": "2021-09-14",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200711979-83a5c7f8",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:15Z",
    "last_observed_at": "2026-08-28T13:24:15Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:15Z"
+ ]
 }

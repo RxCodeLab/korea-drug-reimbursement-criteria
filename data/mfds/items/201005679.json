@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201005679",
+ "item_name": "경보염산리도카인주1%(수출용)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20100927",
+ "cancel_date": "20240708",
+ "status": "취하",
+ "main_item_ingr": "[M241764]리도카인염산염",
+ "main_item_ingr_eng": "Lidocaine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005679",
+ "revisions": [
+  {
+   "revision_id": "201005679-15d6e469",
+   "content_sha256": "15d6e469dc10507d9d4f1def1955f8552f863c1bfdaf36f02725ed3a73a6d9af",
+   "ee_text": "1. [마취] 정매괴마취, 전달마취, 침윤마취, 표면마취 2. [내과적 사용] 심실정 부정맥",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:15Z",
+   "last_observed_at": "2026-09-08T08:44:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:15Z"
+}

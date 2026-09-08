@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199401749",
+ "item_name": "그리크라정(글리클라짓)(수출명:글리제정)(수출명:하원글리제정)",
+ "entp_name": "(주)하원제약",
+ "permit_date": "19940917",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258015]글리크라짓|[M258015]글리크라짓",
+ "main_item_ingr_eng": "Gliclazide",
+ "edi_code": "",
+ "atc_code": "A10BB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199401749",
+ "revisions": [
+  {
+   "revision_id": "199401749-c0d20eb3",
+   "content_sha256": "c0d20eb34321a3373c95df7bb6cf2afd2f98d7bcd33bafa074a0343d35c40cab",
+   "ee_text": "제 2형 당뇨병(식사요법, 운동요법으로 충분한 효과를 얻을 수 없는 경우에 한함.)",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:17Z",
+   "last_observed_at": "2026-09-08T08:29:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:17Z"
+}

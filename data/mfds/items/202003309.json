@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003309",
+ "item_name": "베트리올겔",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20200507",
+ "cancel_date": "20250507",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M200675]베타메타손디프로피오네이트|[M249551]칼시포트리올일수화물",
+ "main_item_ingr_eng": "Betamethasone Dipropionate/Calcipotriol Monohydrate",
+ "edi_code": "",
+ "atc_code": "D05AX52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003309",
+ "revisions": [
+  {
+   "revision_id": "202003309-114250b9",
+   "content_sha256": "114250b95d3cb04cbba39e2d66164890cffede9a467b082a564f1ad2d397fb2f",
+   "ee_text": "청소년(12세 이상 18세 미만) 및 성인(18세 이상) : 중등도∼중증의 두피건선 및 두피 외 판상형 건선의 국소치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:43Z",
+   "last_observed_at": "2026-09-08T08:58:43Z",
+   "official_revision_date": "2023-02-02"
+  },
+  {
+   "revision_id": "202003309-afd26177",
+   "content_sha256": "afd261774d79d58a64f97e97c14d7ce83c29956a4d95e24212183dc18676b172",
+   "ee_text": "성인에서 중등도-중증의 두피건선 및 두피 외 판상형 건선의 국소치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-05-07",
+   "first_observed_at": "2026-09-08T08:58:43Z",
+   "last_observed_at": "2026-09-08T08:58:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:43Z"
+}

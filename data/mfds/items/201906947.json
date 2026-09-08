@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906947",
+ "item_name": "알리덤연질캡슐30밀리그램(알리트레티노인)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20190930",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256772]알리트레티노인",
+ "main_item_ingr_eng": "Alitretinoin",
+ "edi_code": "657806720",
+ "atc_code": "D11AH04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906947",
+ "revisions": [
+  {
+   "revision_id": "201906947-011cfbba",
+   "content_sha256": "011cfbba2bb2405ad6db49a4e40dda7eb671a0b36d69936047589b9d4ecbd129",
+   "ee_text": "최소 4주간의 강력한 국소 스테로이드 치료에도 반응하지 않는 성인의 만성 중증 손습진(PGA(physician's global assessment)따라 평가)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:33Z",
+   "last_observed_at": "2026-09-08T08:56:33Z",
+   "official_revision_date": "2021-04-06"
+  },
+  {
+   "revision_id": "201906947-891e835b",
+   "content_sha256": "891e835bf332280b8b94a55e2b0df5fe79ca871ab3b85d057d137960e531293b",
+   "ee_text": "최소 4주간의 강력한 국소 스테로이드 치료에도 반응하지 않는 성인의 재발성 만성 중증 손습진(PGA(physician's global assessment) 따라 평가)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-09-30",
+   "first_observed_at": "2026-09-08T08:56:33Z",
+   "last_observed_at": "2026-09-08T08:56:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:33Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201202274",
+ "item_name": "휴온스카로스현탁액(폴리스티렌설폰산칼슘)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20120330",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081346]폴리스티렌설폰산칼슘",
+ "main_item_ingr_eng": "Calcium Polystyrene Sulfonate",
+ "edi_code": "670606111",
+ "atc_code": "V03AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201202274",
+ "revisions": [
+  {
+   "revision_id": "201202274-6a45fe70",
+   "content_sha256": "6a45fe702e51072910b144754359a3fecf4a3dd13897f7f01b88ecd6ea113167",
+   "ee_text": "고칼륨혈증",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:14Z",
+   "last_observed_at": "2026-09-08T08:45:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:14Z"
+}

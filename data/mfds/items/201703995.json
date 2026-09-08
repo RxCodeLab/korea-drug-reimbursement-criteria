@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201703995",
+ "item_name": "셀트리메정20밀리그램(트리메타지딘염산염)",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20170619",
+ "cancel_date": "20260515",
+ "status": "취하",
+ "main_item_ingr": "[M223248]트리메타지딘염산염",
+ "main_item_ingr_eng": "Trimetazidine Hydrochloride",
+ "edi_code": "693902510",
+ "atc_code": "C01EB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201703995",
+ "revisions": [
+  {
+   "revision_id": "201703995-4f3ac4fe",
+   "content_sha256": "4f3ac4fea0531b360411463b4263d5dc6f092bd340410415d47ed4b819c28091",
+   "ee_text": "성인: 1차 항협심증 치료제로 적절히 조절되지 않거나, 내약성이 없는 안정형 협심증 환자의 증상적 치료를 위한 병용 요법",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:57Z",
+   "last_observed_at": "2026-09-08T08:51:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:57Z"
+}

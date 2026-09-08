@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004282",
+ "item_name": "휴리온스주200IU/mL(헤파린나트륨)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20200608",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249378]헤파린나트륨",
+ "main_item_ingr_eng": "Heparin Sodium",
+ "edi_code": "670608611",
+ "atc_code": "B01AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004282",
+ "revisions": [
+  {
+   "revision_id": "202004282-57b5201e",
+   "content_sha256": "57b5201edbbf741fafd8d32d4ef5b9a992c3d450f5cffc8258c052fb6278688b",
+   "ee_text": "혈액 투석의 체외순환장치 사용시의 혈액 응고 방지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:06Z",
+   "last_observed_at": "2026-09-08T08:59:06Z",
+   "official_revision_date": "2020-06-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:06Z"
+}

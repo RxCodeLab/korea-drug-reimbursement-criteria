@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404844",
+ "item_name": "앤디락생캡슐(바실루스리케니포르미스균)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20141022",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균",
+ "main_item_ingr_eng": "Bacillus Licheniformis",
+ "edi_code": "641704870",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404844",
+ "revisions": [
+  {
+   "revision_id": "201404844-708bf258",
+   "content_sha256": "708bf2589afbf1c29f6644b87448b0bfb0ad314e9eba89c56f038001eea8ece0",
+   "ee_text": "급ㆍ만성장염, 급ㆍ만성설사, 급성이질, 각종 원인에 기인한 장내 이상발효",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:50Z",
+   "last_observed_at": "2026-09-08T08:47:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:50Z"
+}

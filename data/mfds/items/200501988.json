@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501988",
+ "item_name": "옵티스트점안액(라타노프로스트)(수출용)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20050519",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089240]라타노프로스트",
+ "main_item_ingr_eng": "Latanoprost",
+ "edi_code": "",
+ "atc_code": "S01EE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501988",
+ "revisions": [
+  {
+   "revision_id": "200501988-b788bf11",
+   "content_sha256": "b788bf111c98bd69c692f422c1a99a178f47b941bd12b0eff0687c63ebf2a65a",
+   "ee_text": "다음 질환의 안압하강 : 개방각 녹내장, 만성폐쇄각 녹내장, 고안압증",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:15Z",
+   "last_observed_at": "2026-09-08T08:39:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:15Z"
+}

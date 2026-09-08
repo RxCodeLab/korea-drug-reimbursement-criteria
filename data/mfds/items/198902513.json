@@ -7,11 +7,12 @@
  "permit_date": "19890808",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M102908]타우린|[M223183]카페인무수물|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223258]티아민염산염|[M104720]반비틴크(1→5)|[M084680]루론딘|[M200412]로얄젤리",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M084680]루론딘|[M102908]타우린|[M104720]반비틴크(1→5)|[M200412]로얄젤리|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223183]카페인무수물|[M223258]티아민염산염",
  "main_item_ingr_eng": "Anhydrous Caffeine/Banbi Tincture (1→5)/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Royal Jelly/Rulondin/Taurine/Thiamine Hydrochloride",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198902513",
+ "history_fetched_at": "2026-08-28T13:23:42Z",
  "revisions": [
   {
    "revision_id": "198902513-a7f0ec36",
@@ -19,7 +20,8 @@
    "ee_text": "자양강장, 육체피로, 병중, 병후,발열성·소모성 질환, 식욕부진, 영양장해 등의 경우의 영양보급, 허약체질",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198902513/EE",
    "first_observed_at": "2026-08-28T13:23:42Z",
-   "last_observed_at": "2026-08-28T13:23:42Z"
+   "last_observed_at": "2026-09-08T08:27:56Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "198902513-6b951331",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:42Z",
    "last_observed_at": "2026-08-28T13:23:42Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:42Z"
+ ]
 }

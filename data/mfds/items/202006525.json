@@ -7,11 +7,12 @@
  "permit_date": "20200922",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M244179]메트포르민염산염|[M222831]글리클라지드",
+ "main_item_ingr": "[M222831]글리클라지드|[M244179]메트포르민염산염",
  "main_item_ingr_eng": "Gliclazide/Metformin Hydrochloride",
  "edi_code": "",
  "atc_code": "A10BD02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006525",
+ "history_fetched_at": "2026-08-28T13:25:21Z",
  "revisions": [
   {
    "revision_id": "202006525-6817955f",
@@ -19,9 +20,9 @@
    "ee_text": "인슐린 비의존성 당뇨병(제2형)환자에서 식이요법 및 운동요법과 병행하여 글리클라지드 또는 메트포르민 단독요법으로 혈당조절효과가 불충분한 경우에 글리클라지드와 메트포르민 병용요법의 대체",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:21Z",
-   "last_observed_at": "2026-08-28T13:25:21Z",
-   "official_revision_date": "2020-09-22"
+   "last_observed_at": "2026-09-08T08:59:25Z",
+   "official_revision_date": "2020-09-22",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:21Z"
+ ]
 }

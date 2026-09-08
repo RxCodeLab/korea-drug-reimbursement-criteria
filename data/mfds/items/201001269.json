@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201001269",
+ "item_name": "레모둘린주사1mg/mL(트레프로스티닐), 레모둘린주사2.5mg/mL(트레프로스티닐), 레모둘린주사5mg/mL(트레프로스티닐), 레모둘린주사10mg/mL(트레프로스티닐)",
+ "entp_name": "(주)안트로젠",
+ "permit_date": "20100208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249084]트레프로스티닐|[M249084]트레프로스티닐|[M249084]트레프로스티닐|[M249084]트레프로스티닐",
+ "main_item_ingr_eng": "Treprostinil",
+ "edi_code": "672000031,672000041,672000051",
+ "atc_code": "B01AC21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001269",
+ "revisions": [
+  {
+   "revision_id": "201001269-0cb86ab6",
+   "content_sha256": "0cb86ab6206041d6886339c791132fc315ad227ed28528f490abe9cc7262d92c",
+   "ee_text": "NYHA 분류 단계 Ⅱ-Ⅳ에 해당하는 폐동맥고혈압 환자의 운동능력 및 증상개선",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:49Z",
+   "last_observed_at": "2026-09-08T08:43:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:49Z"
+}

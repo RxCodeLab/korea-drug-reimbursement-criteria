@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201101880",
+ "item_name": "레드니스리리프점안액(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20110401",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040043]글리세린|[M222937]나파졸린염산염",
+ "main_item_ingr_eng": "Glycerin/Naphazoline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S01GA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101880",
+ "revisions": [
+  {
+   "revision_id": "201101880-8a23443c",
+   "content_sha256": "8a23443cdeef0c48bdd49950ab54a2f74d7a1b1f7c86d86b20905a44dfdda836",
+   "ee_text": "자극에 의한 눈의 충혈 및 건조상태의 일시적 경감",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:33Z",
+   "last_observed_at": "2026-09-08T08:44:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:33Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507463",
+ "item_name": "튜톨정800밀리그램(에탐부톨염산염)",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "20151030",
+ "cancel_date": "20240531",
+ "status": "취하",
+ "main_item_ingr": "[M223143]에탐부톨염산염",
+ "main_item_ingr_eng": "Ethambutol Hydrochloride",
+ "edi_code": "653103010",
+ "atc_code": "J04AK02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507463",
+ "revisions": [
+  {
+   "revision_id": "201507463-9e947e34",
+   "content_sha256": "9e947e345967c839ab69a096d402f8bb2b9bf0a6c98c8312c89278a8b5dde7c2",
+   "ee_text": "○ 유효균종 결핵균 ○ 적응증 폐결핵 및 기타 결핵증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201507463/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:48Z",
+   "last_observed_at": "2026-09-08T08:49:48Z"
+  },
+  {
+   "revision_id": "201507463-44188df3",
+   "content_sha256": "44188df3390854e23b451430a05e766834249b2a03d58c98e448078204e8ece7",
+   "ee_text": "(정제) ○ 유효균종 결핵균 ○ 적응증 폐결핵 및 기타 결핵증",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:49:48Z",
+   "last_observed_at": "2026-09-08T08:49:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:48Z"
+}

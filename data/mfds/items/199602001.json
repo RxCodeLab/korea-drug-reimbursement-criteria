@@ -7,11 +7,12 @@
  "permit_date": "19960205",
  "cancel_date": "20251202",
  "status": "폐업",
- "main_item_ingr": "[M040536]지실|[M040538]진피|[M040214]백출|[M050891]신곡|[M040073]대황|[M040792]황련|[M040789]황금",
+ "main_item_ingr": "[M040073]대황|[M040214]백출|[M040536]지실|[M040538]진피|[M040789]황금|[M040792]황련|[M050891]신곡",
  "main_item_ingr_eng": "Atractylodes Rhizome White/Citrus Unshiu Peel/Coptis Rhizome/Massa Medicata Fermentata/Poncirus Immature Fruit/Rhubarb/Scutellaria Root",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602001",
+ "history_fetched_at": "2026-08-28T13:23:47Z",
  "revisions": [
   {
    "revision_id": "199602001-26900168",
@@ -19,9 +20,9 @@
    "ee_text": "육체(肉滯)로 인한 위부불쾌감",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:23:47Z",
-   "last_observed_at": "2026-08-28T13:23:47Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:30:19Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:47Z"
+ ]
 }

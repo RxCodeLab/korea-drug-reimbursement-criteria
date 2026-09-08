@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201209017",
+ "item_name": "AG피나스테리드정(피나스테리드)(수출용)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20121203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089174]피나스테리드",
+ "main_item_ingr_eng": "Finasteride",
+ "edi_code": "",
+ "atc_code": "D11AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201209017",
+ "revisions": [
+  {
+   "revision_id": "201209017-7893f8e6",
+   "content_sha256": "7893f8e674fa5deb4e35830fb334294cae0acf9d1a1d27b6e3b9386462327498",
+   "ee_text": "성인남성(만18~41세)의 남성형 탈모 (androgenetic alopecia)치료",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:38Z",
+   "last_observed_at": "2026-09-08T08:45:38Z",
+   "official_revision_date": "2017-09-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:38Z"
+}

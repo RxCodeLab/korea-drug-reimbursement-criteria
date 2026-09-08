@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001451",
+ "item_name": "하이라제에스정(수출용)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20001002",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M060026]디메치콘|[M089693]비오디아스타제2000 I|[M092187]리파제II|[M102195]우르소데스옥시콜린산",
+ "main_item_ingr_eng": "Biodiastase 2000 I/Dimethicone/Lipase II/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001451",
+ "revisions": [
+  {
+   "revision_id": "200001451-e9c68ae1",
+   "content_sha256": "e9c68ae1d80b16baf1ab95df9253fa73fa8952715d49303070f40b5a30481609",
+   "ee_text": "위체(체함), 식욕부진(식욕감퇴), 소화불량, 소화불량에 의한 위부ㆍ복부(배부분)팽만감, 과식, 가슴이 답답함, 소화촉진",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:42Z",
+   "last_observed_at": "2026-09-08T08:33:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:42Z"
+}

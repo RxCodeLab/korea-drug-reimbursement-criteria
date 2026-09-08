@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301044",
+ "item_name": "넥스비아자임주(아발글루코시다제알파)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20230329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283202]아발글루코시다제알파",
+ "main_item_ingr_eng": "avalglucosidase alfa",
+ "edi_code": "652001461",
+ "atc_code": "A16AB22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301044",
+ "revisions": [
+  {
+   "revision_id": "202301044-ff1d206e",
+   "content_sha256": "ff1d206ef54259e56b7a63704143932f5788fae9473e125bcea5a2e4c0bb80fa",
+   "ee_text": "폼페병(산성 알파-글루코시다제 결핍)으로 확진된 환자의 장기 효소 대체 요법에 사용한다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:57Z",
+   "last_observed_at": "2026-09-08T09:01:57Z",
+   "official_revision_date": "2023-03-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:57Z"
+}

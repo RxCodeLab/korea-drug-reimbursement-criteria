@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602136",
+ "item_name": "퀸셀(자가지방조직유래최소조작지방세포)",
+ "entp_name": "(주)안트로젠",
+ "permit_date": "20260723",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249027]자가지방조직유래 최소조작 지방세포",
+ "main_item_ingr_eng": "Autologous Minimal Manipulation Adipose Cell",
+ "edi_code": "",
+ "atc_code": "D03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602136",
+ "revisions": [
+  {
+   "revision_id": "202602136-38318205",
+   "content_sha256": "3831820559ebbaff85065c4f5c5a8aab3ce1009c7784e145920ae4c9b698b8fe",
+   "ee_text": "피하지방결손부위의 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:33Z",
+   "last_observed_at": "2026-09-08T09:05:33Z",
+   "official_revision_date": "2026-07-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:33Z"
+}

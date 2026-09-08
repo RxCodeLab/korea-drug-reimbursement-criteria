@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800492",
+ "item_name": "리팍신정550mg(리팍시민)(수출용)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20180129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050186]리팍시민",
+ "main_item_ingr_eng": "Rifaximin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800492",
+ "revisions": [
+  {
+   "revision_id": "201800492-c6521bae",
+   "content_sha256": "c6521bae8115e7e8b1047948ea1c7202c8354da30ed580f365f3c034096844c5",
+   "ee_text": "과민성대장증후군 설사형(IBS-D)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:48Z",
+   "last_observed_at": "2026-09-08T08:52:48Z",
+   "official_revision_date": "2018-01-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:48Z"
+}

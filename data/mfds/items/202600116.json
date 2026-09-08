@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600116",
+ "item_name": "보라니고정10밀리그램(보라시데닙시트르산)",
+ "entp_name": "한국세르비에(주)",
+ "permit_date": "20260113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286079]보라시데닙시트르산",
+ "main_item_ingr_eng": "Vorasidenib Citrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600116",
+ "revisions": [
+  {
+   "revision_id": "202600116-a3c115d9",
+   "content_sha256": "a3c115d9b2f3d515299e2905b86ac2f9ffbc62af11a52720790dcf7427835613",
+   "ee_text": "생검(biopsy), 대부분 절제(sub-total resection) 또는 완전 절제(gross total resection)를 포함하는 수술 후 40kg 이상의 12세 이상 소아 및 성인의 IDH1 변이 혹은 IDH2 변이가 있는 2등급의 성상세포종 또는 희돌기교종의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:39Z",
+   "last_observed_at": "2026-09-08T09:04:39Z",
+   "official_revision_date": "2026-01-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:39Z"
+}

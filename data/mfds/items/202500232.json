@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500232",
+ "item_name": "아피맥스주(건조밀봉독)",
+ "entp_name": "구주제약(주)",
+ "permit_date": "20250206",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085500]건조밀봉독",
+ "main_item_ingr_eng": "Dried Honey Bee Venom",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500232",
+ "revisions": [
+  {
+   "revision_id": "202500232-32d216f1",
+   "content_sha256": "32d216f1e3930fa279dbd2929a9f88f589300c54659a90c86772a17d1c5cb68a",
+   "ee_text": "골관절염의 통증개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:39Z",
+   "last_observed_at": "2026-09-08T09:03:39Z",
+   "official_revision_date": "2025-02-06"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:39Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705471",
+ "item_name": "경방감초엑스정",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20170710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M272009]감초 연조엑스(2.1∼2.5→1)",
+ "main_item_ingr_eng": "Licorice Soft Extract(2.1~2.5→1)",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705471",
+ "revisions": [
+  {
+   "revision_id": "201705471-0f17433b",
+   "content_sha256": "0f17433b9658a846d22e3345c5a0aa8dbec304160573c883e00ff65d04dd9385",
+   "ee_text": "조제용",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:04Z",
+   "last_observed_at": "2026-09-08T08:52:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:04Z"
+}

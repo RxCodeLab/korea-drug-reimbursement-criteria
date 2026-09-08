@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502946",
+ "item_name": "옥스루모주(루마시란나트륨)",
+ "entp_name": "메디슨파마코리아주식회사",
+ "permit_date": "20251113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285937]루마시란나트륨",
+ "main_item_ingr_eng": "Lumasiran Sodium",
+ "edi_code": "",
+ "atc_code": "A16AX18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502946",
+ "revisions": [
+  {
+   "revision_id": "202502946-90b61749",
+   "content_sha256": "90b617490ade18004d7fc54a14e428c831cf68996e2cdff04367087164041c96",
+   "ee_text": "소아 및 성인에서의 제1형 원발성 고옥살산뇨증 (PH1) 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:25Z",
+   "last_observed_at": "2026-09-08T09:04:25Z",
+   "official_revision_date": "2025-11-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:25Z"
+}

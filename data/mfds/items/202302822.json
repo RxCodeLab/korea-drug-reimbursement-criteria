@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302822",
+ "item_name": "뉴흑과립(약용탄)",
+ "entp_name": "(주)돌나라한농제약",
+ "permit_date": "20230925",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040394]약용탄",
+ "main_item_ingr_eng": "Medicinal Carbon",
+ "edi_code": "",
+ "atc_code": "A07BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302822",
+ "revisions": [
+  {
+   "revision_id": "202302822-538f34d1",
+   "content_sha256": "538f34d12f2d7497a403e01756288f701c84b68f05c43b99e18a2bdd0503a087",
+   "ee_text": "1. 설사, 소화기관내의 이상 발효에 의한 생성가스의 흡착 2. 약물 및 화학약품에 의한 중독시 흡착제로 응급해독에 사용한다. 그러나, 약용탄은 시안화물을 흡착하지 않으며, 알코올, 지방성 탄화수소, 리튬염, 부식성 염화나트륨, 중금속, 즉 철, 납, 시안화납, 붕산, 기타 무기산과 석유증류물의 흡착은 상대적으로 효과적이지 못합니다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:24Z",
+   "last_observed_at": "2026-09-08T09:02:24Z",
+   "official_revision_date": "2023-09-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:24Z"
+}

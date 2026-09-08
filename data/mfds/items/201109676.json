@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201109676",
+ "item_name": "아박심160U성인용주(A형간염백신)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20111104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M212802]불활화A형간염바이러스(바이러스주:GBM주, 세포주:MRC 5)",
+ "main_item_ingr_eng": "Inactivated Hepatitis A Virus (Strain: GBM, Cell Strain: MRC 5)",
+ "edi_code": "",
+ "atc_code": "J07BC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109676",
+ "revisions": [
+  {
+   "revision_id": "201109676-7f90392a",
+   "content_sha256": "7f90392a1775d86d451b4ca7cbe239d653f64200ce82db1e038516c2d316b929",
+   "ee_text": "만 16세 이상 청소년 및 성인에서의 A형간염의 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201109676/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:57Z",
+   "last_observed_at": "2026-09-08T08:44:57Z"
+  },
+  {
+   "revision_id": "201109676-2deca718",
+   "content_sha256": "2deca71839752b541f834136d5f6bd3aa95454d17994eccbbf098f88da762383",
+   "ee_text": "만 16세 이상 청소년 및 에서의 A형간염의 예방",
+   "ee_doc_id": "25",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-09-13",
+   "first_observed_at": "2026-09-08T08:44:57Z",
+   "last_observed_at": "2026-09-08T08:44:57Z"
+  },
+  {
+   "revision_id": "201109676-40300e1b",
+   "content_sha256": "40300e1bbfd172ce29e27923ff0d08cb18b81c5961c6095e8e9183a3798b77ac",
+   "ee_text": "만 16세 이상 성인에서의 A형간염의 예방",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:57Z",
+   "last_observed_at": "2026-09-08T08:44:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:57Z"
+}

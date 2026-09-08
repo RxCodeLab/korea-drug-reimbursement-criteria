@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:07:29Z",
  "revisions": [
   {
-   "revision_id": "201505005-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201505005-7aed4452",
+   "content_sha256": "7aed4452a4197d125367413341e8e0c468a6b83ff4f5a12bdce4e6effebd210e",
+   "ee_text": "1. 고혈압 2. 고혈압의 치료요법으로서, 고혈압을 가진 제2형 당뇨병 환자의 신장병",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201505005/EE",
    "first_observed_at": "2026-08-27T13:07:29Z",
-   "last_observed_at": "2026-08-28T13:24:44Z"
+   "last_observed_at": "2026-09-08T08:49:23Z",
+   "normalizer_version": 3
   }
  ]
 }

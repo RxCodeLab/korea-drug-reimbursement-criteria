@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001305",
+ "item_name": "복합탈시드추어블정",
+ "entp_name": "(주)한독",
+ "permit_date": "20000127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051022]히드로탈시트|[M083069]글루타민|[M095125]수용성아줄렌",
+ "main_item_ingr_eng": "Glutamine/Hydrotalcite/Soluble Azulene",
+ "edi_code": "",
+ "atc_code": "A02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001305",
+ "revisions": [
+  {
+   "revision_id": "200001305-1a3d3b20",
+   "content_sha256": "1a3d3b20ed0cd3da2ab572f7c8fd5fd3834f606deb738e13462f742b4331130c",
+   "ee_text": "속쓰림, 위부불쾌감, 위통, 위산과다, 구역, 구토, 위부팽만감, 체함, 신트림",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:41Z",
+   "last_observed_at": "2026-09-08T08:33:41Z",
+   "official_revision_date": "2025-05-27"
+  },
+  {
+   "revision_id": "200001305-ccccc371",
+   "content_sha256": "ccccc37105ec68c33b43bf28ebf4026f80ba0229b8dbc8e8cc32ad93c29d13e6",
+   "ee_text": "속쓰림, 위부불쾌감, 위통, 위산과다, 구역, 구토, 위부팽만감, 위체, 신트림",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:33:41Z",
+   "last_observed_at": "2026-09-08T08:33:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:41Z"
+}

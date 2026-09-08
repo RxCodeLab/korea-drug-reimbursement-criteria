@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198601337",
+ "item_name": "베노카인액(옥시부프로카인염산염)",
+ "entp_name": "(주)태준제약",
+ "permit_date": "19860904",
+ "cancel_date": "20250930",
+ "status": "취하",
+ "main_item_ingr": "[M223164]옥시부프로카인염산염",
+ "main_item_ingr_eng": "Oxybuprocaine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R02AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198601337",
+ "revisions": [
+  {
+   "revision_id": "198601337-aa038990",
+   "content_sha256": "aa038990f6f3c4f8fc5707ac44535ea6141e664bc4ac7cd74dde36ca20e8539a",
+   "ee_text": "(액제 : 0.3%) 구강, 인후두, 식도, 위에 대한 검사, 처치 및 수술시의 표면마취 (겔) 비뇨기과 영역에서의 표면마취",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:17Z",
+   "last_observed_at": "2026-09-08T08:27:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:17Z"
+}

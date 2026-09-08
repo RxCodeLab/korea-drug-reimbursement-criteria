@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900184",
+ "item_name": "노이로민정(세인트존스워트80%메탄올건조엑스)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "19990713",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258013]세인트존스워트80%메탄올건조엑스",
+ "main_item_ingr_eng": "St. John's Wort 80% Methanol Dried Extract",
+ "edi_code": "644500120",
+ "atc_code": "N06AX25",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900184",
+ "revisions": [
+  {
+   "revision_id": "199900184-777b0cfa",
+   "content_sha256": "777b0cfa66e603ff0422d511f081ab3b5eba13e88a7ab6efb6faf2a92ed7c5cb",
+   "ee_text": "(정제) - 불안, 무기력 상태의 완화 - 가볍고 일시적인 우울증상의 완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199900184/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:29Z",
+   "last_observed_at": "2026-09-08T08:32:29Z"
+  },
+  {
+   "revision_id": "199900184-a6a2876f",
+   "content_sha256": "a6a2876fb8b97853b886e8c211b598b28195e0a6e2cff603490e451182f9ba7e",
+   "ee_text": "- 불안, 무기력 상태의 완화 - 가볍고 일시적인 우울증상의 완화",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:32:29Z",
+   "last_observed_at": "2026-09-08T08:32:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:29Z"
+}

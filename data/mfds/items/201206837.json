@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206837",
+ "item_name": "헤파가드연질캡슐350mg(밀크시슬열매건조엑스)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20120919",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M272736]밀크시슬열매 건조엑스",
+ "main_item_ingr_eng": "Milk-Thistle Fruit Dried Extract",
+ "edi_code": "622801270",
+ "atc_code": "A05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206837",
+ "revisions": [
+  {
+   "revision_id": "201206837-ca9013dc",
+   "content_sha256": "ca9013dc05c036c78a9a185c205389c4e204916d3630e5bce3432f041f0e54c3",
+   "ee_text": "다음 질환의 보조치료: 독성간질환, 만성간염, 간경변",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:30Z",
+   "last_observed_at": "2026-09-08T08:45:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:30Z"
+}

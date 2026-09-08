@@ -7,21 +7,22 @@
  "permit_date": "20030710",
  "cancel_date": "20240503",
  "status": "취하",
- "main_item_ingr": "[M099428]합성용뇌|[M089307]자충|[M040523]작약|[M080678]선퇴|[M088582]오공|[M051316]전갈|[M088717]수질|[M040213]인삼",
+ "main_item_ingr": "[M040213]인삼|[M040523]작약|[M051316]전갈|[M080678]선퇴|[M088582]오공|[M088717]수질|[M089307]자충|[M099428]합성용뇌",
  "main_item_ingr_eng": "Cicadidae Periostracum/D-Borneol/Eupolyphaga/Ginseng/Hirudo/Peony Root/Scolopendra/Scorpio",
  "edi_code": "",
  "atc_code": "C01EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308465",
+ "history_fetched_at": "2026-08-28T13:24:03Z",
  "revisions": [
   {
-   "revision_id": "200308465-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200308465-c234fb04",
+   "content_sha256": "c234fb0426252588426c82b1519a3211a5310ffc2905778346bfbb3e6becbdec",
+   "ee_text": "1. 뇌혈전증 회복기 환자의 혈액순환 개선 및 울체 제거 2. 협심증(흉부압박감 및 흉통(가슴통증))의 완화",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:24:03Z",
-   "last_observed_at": "2026-08-28T13:24:03Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:37:24Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:03Z"
+ ]
 }

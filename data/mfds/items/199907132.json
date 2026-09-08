@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199907132",
+ "item_name": "압노바비스쿰엠0.2mg주사액[비스쿰알붐(숙주목:말리)압축추출액(1→50)]",
+ "entp_name": "(주)엘비아브노바",
+ "permit_date": "19991207",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281333]비스쿰알붐(숙주목:말리)압축추출액(1→50)",
+ "main_item_ingr_eng": "Viscum Album (Host Tree:Mali) Extract (1→50)",
+ "edi_code": "",
+ "atc_code": "L01CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907132",
+ "revisions": [
+  {
+   "revision_id": "199907132-2452aa76",
+   "content_sha256": "2452aa76a5fa2564a07fdbb77a61c3a96204801af91a56e3415e9667820b2055",
+   "ee_text": "종양의 치료(조혈기관의 장애를 동반한 악성종양질환 포함), 종양수술후 재발의 예방, 전암성 병변",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:20Z",
+   "last_observed_at": "2026-09-08T08:33:20Z",
+   "official_revision_date": "2023-11-22"
+  },
+  {
+   "revision_id": "199907132-83ea0560",
+   "content_sha256": "83ea05601b5f950d636e6b31ccd1b143e736927d99f3cf3644c6c9b476d91b1b",
+   "ee_text": "종양의 치료, 종양수술 후 재발의 예방, 전암증(前癌症)의 병소(病巢), 조혈기관의 악성질환, 골수기능의 자극",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:33:20Z",
+   "last_observed_at": "2026-09-08T08:33:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:20Z"
+}

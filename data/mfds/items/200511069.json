@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511069",
+ "item_name": "듀악겔5%",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20051219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102630]함수과산화벤조일|[M223228]클린다마이신포스페이트",
+ "main_item_ingr_eng": "Clindamycin Phosphate/Hydrous Benzoyl Peroxide",
+ "edi_code": "",
+ "atc_code": "D10AF51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511069",
+ "revisions": [
+  {
+   "revision_id": "200511069-7b4eb658",
+   "content_sha256": "7b4eb6580c61861d82427f9a646b188161ba41bf8e7def1605bbf58f48adfd38",
+   "ee_text": "경증 여드름 또는 중등도 여드름",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:36Z",
+   "last_observed_at": "2026-09-08T08:39:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:36Z"
+}

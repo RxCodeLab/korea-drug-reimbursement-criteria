@@ -7,11 +7,12 @@
  "permit_date": "19991227",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M255994]시아노코발라민1000배산|[M244748]판토텐산칼슘|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M223262]티아민질산염|[M250889]밀크시슬엑스",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M204304]피리독신염산염|[M223262]티아민질산염|[M244748]판토텐산칼슘|[M250889]밀크시슬엑스|[M255994]시아노코발라민1000배산",
  "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin Powder 0.1%/Milk-thistle Fruit Extract/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate",
  "edi_code": "",
  "atc_code": "A05B",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900596",
+ "history_fetched_at": "2026-08-28T13:23:50Z",
  "revisions": [
   {
    "revision_id": "199900596-11ecc47f",
@@ -19,9 +20,9 @@
    "ee_text": "다음 질환의 치료보조:만성 간질환,지방간,간병변,중독성 간질환",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:23:50Z",
-   "last_observed_at": "2026-08-28T13:23:50Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:32:36Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:50Z"
+ ]
 }

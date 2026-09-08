@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199101128",
+ "item_name": "원비디(인도네시아수출용)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19910918",
+ "cancel_date": "20240423",
+ "status": "취하",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040580]무수카페인|[M213221]인삼건조엑스(2→1)|[M213222]구기자건조엑스(3→1)|[M240075]염산피리독신|[M240076]판토텐산칼슘",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Calcium Pantothenate/Ginseng Dried Extract (2→1)/Lycium Fruit Dried Extract (3→1)/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101128",
+ "revisions": [
+  {
+   "revision_id": "199101128-8791a3c9",
+   "content_sha256": "8791a3c973737e50a3c0534d2b0ff0ee5c1ca22af5e410674937dae2f889dc0a",
+   "ee_text": "간기능 보조 및 개선, 자양강장, 허약체질 보조 및 개선, 피로회복",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:11Z",
+   "last_observed_at": "2026-09-08T08:28:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:11Z"
+}

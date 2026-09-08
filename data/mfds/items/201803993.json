@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803993",
+ "item_name": "칼앤디업연질캡슐",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20181011",
+ "cancel_date": "20231011",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040262]산화마그네슘|[M222935]글루콘산칼슘수화물|[M223369]인산수소칼슘수화물|[M255993]농축콜레칼시페롤(유상)",
+ "main_item_ingr_eng": "Calcium Gluconate Hydrate/Cholecalciferol Concentrate Oil/Dibasic Calcium Phosphate Hydrate/Magnesium Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803993",
+ "revisions": [
+  {
+   "revision_id": "201803993-a9eefd2f",
+   "content_sha256": "a9eefd2fbe544c2e4c0429736bf74a3415a1f4275fd092a5dba5363924f508fc",
+   "ee_text": "1. 다음 경우의 비타민 D 의 보급 - 임신․수유기, 발육기, 노년기 2. 이 약에 함유된 비타민 등의 효능․효과는 다음과 같습니다. - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:41Z",
+   "last_observed_at": "2026-09-08T08:53:41Z",
+   "official_revision_date": "2018-10-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:41Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907451",
+ "item_name": "아크원팁스왑액(살리실산)",
+ "entp_name": "(주)그린제약",
+ "permit_date": "20191024",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040264]살리실산",
+ "main_item_ingr_eng": "Salicylic Acid",
+ "edi_code": "",
+ "atc_code": "D02AF",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907451",
+ "revisions": [
+  {
+   "revision_id": "201907451-0562ef4c",
+   "content_sha256": "0562ef4cb207730189d5198eac864eeaf07680fd329d39d5851ca2b32a598bab",
+   "ee_text": "여드름 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:48Z",
+   "last_observed_at": "2026-09-08T08:56:48Z",
+   "official_revision_date": "2019-10-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:48Z"
+}

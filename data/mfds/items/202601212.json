@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601212",
+ "item_name": "징크셀포르테정",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20260424",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M110553]콜레칼시페롤 과립|[M210377]아셀렌산나트륨오수화물|[M243785]산화아연|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr_eng": "Cholecalciferol Granules/Sodium Selenite Pentahydrate/Tocopherol Acetate Powder 50%/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11CC55",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601212",
+ "revisions": [
+  {
+   "revision_id": "202601212-37643f60",
+   "content_sha256": "37643f600326c3e0f018eff693b39bd596b26da97469c5a52500647aa67a838b",
+   "ee_text": "○ 다음 경우의 비타민 D, E의 보급 - 임신·수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. · 뼈, 이의 발육불량 · 구루병의 예방 ○ 아연의 보급 ○ 셀레늄의 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:06Z",
+   "last_observed_at": "2026-09-08T09:05:06Z",
+   "official_revision_date": "2026-04-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:06Z"
+}

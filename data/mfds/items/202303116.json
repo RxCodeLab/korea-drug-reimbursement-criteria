@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303116",
+ "item_name": "삼현포비돈요오드액",
+ "entp_name": "주식회사삼현제약",
+ "permit_date": "20231110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244708]포비돈요오드",
+ "main_item_ingr_eng": "Povidone Iodine",
+ "edi_code": "",
+ "atc_code": "D08AG02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303116",
+ "revisions": [
+  {
+   "revision_id": "202303116-ae00faaf",
+   "content_sha256": "ae00faaf8c29f76e1365a74cb6d36103e21ade56d41b3acb8066bdb0aa31f989",
+   "ee_text": "- 찢긴 상처, 화상, 창상의 살균소독 - 궤양, 농양의 살균소독 - 감염피부면의 소독 - 수술부위의 살균소독 - 주사 및 카테터부위의 소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:30Z",
+   "last_observed_at": "2026-09-08T09:02:30Z",
+   "official_revision_date": "2023-11-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:30Z"
+}

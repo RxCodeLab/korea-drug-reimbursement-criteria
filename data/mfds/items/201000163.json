@@ -7,7 +7,7 @@
  "permit_date": "20100107",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M247470]시트르산칼슘수화물|[M040634]침강탄산칼슘|[M255993]농축콜레칼시페롤(유상)|[M040262]산화마그네슘",
+ "main_item_ingr": "[M040262]산화마그네슘|[M040634]침강탄산칼슘|[M247470]시트르산칼슘수화물|[M255993]농축콜레칼시페롤(유상)",
  "main_item_ingr_eng": "Calcium Citrate Hydrate/Cholecalciferol Concentrate Oil/Magnesium Oxide/Precipitated Calcium Carbonate",
  "edi_code": "",
  "atc_code": "A12AX",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:37:09Z",
  "revisions": [
   {
-   "revision_id": "201000163-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201000163-db9d578c",
+   "content_sha256": "db9d578cc57a4350237105ad157fdac77a3c4f6726e72a26a8c9f53f6ebe51f3",
+   "ee_text": "1. 칼슘결핍(모자람) 및 기타 칼슘의 보급 2. 뼈, 이의 발육불량, 구루병의 예방 3. 다음 경우의 비타민D의 보급: 임신·수유기, 발육기, 노년기",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201000163/EE",
    "first_observed_at": "2026-08-27T10:37:09Z",
-   "last_observed_at": "2026-08-28T13:24:22Z"
+   "last_observed_at": "2026-09-08T08:43:43Z",
+   "normalizer_version": 3
   }
  ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310404",
+ "item_name": "비타디액(콜레칼시페롤)(수출용)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20131129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093648]콜레칼시페롤농축물(유상형)",
+ "main_item_ingr_eng": "Cholecalciferol Concentrate Oil",
+ "edi_code": "",
+ "atc_code": "A11CC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310404",
+ "revisions": [
+  {
+   "revision_id": "201310404-204a687b",
+   "content_sha256": "204a687b4305ad2f3f20aa1ca218ffc040570135852a364f10c8615156b0419b",
+   "ee_text": "비타민 D 결핍의 예방 및 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:34Z",
+   "last_observed_at": "2026-09-08T08:46:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:34Z"
+}

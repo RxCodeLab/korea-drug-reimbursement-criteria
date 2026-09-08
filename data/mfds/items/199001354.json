@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199001354",
+ "item_name": "부광코멜리안정50밀리그램(딜라제프염산염수화물)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19900330",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222981]딜라제프염산염수화물",
+ "main_item_ingr_eng": "Dilazep Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "C01DX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001354",
+ "revisions": [
+  {
+   "revision_id": "199001354-228a9938",
+   "content_sha256": "228a9938a2c32979932fbaae6f82f2a1fb28698bdfe7f144b8473e6601643d34",
+   "ee_text": "1. 협심증, 무통성허혈성심질환 2. 다음 질환에 의한 요단백감소 : 신기능장애, 경도-중등도의 IgA 신증",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:03Z",
+   "last_observed_at": "2026-09-08T08:28:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:03Z"
+}

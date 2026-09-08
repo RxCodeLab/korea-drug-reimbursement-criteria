@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199806705",
+ "item_name": "노르아드레나린주0.1%(노르에피네프린타르타르산염수화물)",
+ "entp_name": "제이텍바이오젠",
+ "permit_date": "19980312",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252333]노르에피네프린타르타르산염수화물",
+ "main_item_ingr_eng": "Norepinephrine Tartrate Hydrate",
+ "edi_code": "659600051,659600061",
+ "atc_code": "C01CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806705",
+ "revisions": [
+  {
+   "revision_id": "199806705-3f36e9f3",
+   "content_sha256": "3f36e9f3cd37ac7d66d42ee11d6402ec2ac525bfdb8f42d5716dfc8cd10f20bb",
+   "ee_text": "1. 각종 질환에 따르는 급성 저혈압 또는 쇽의 보조치료(심근경색에 의한 쇽, 패혈증에 인 한 쇽, 아나필락시성 쇽, 순환 혈액량 저하에 따르는 급성 저혈압 또는 쇽, 전신마취시의 급성 저혈압 등) 2. 심정지의 보조치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:25Z",
+   "last_observed_at": "2026-09-08T08:32:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:25Z"
+}

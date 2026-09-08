@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402295",
+ "item_name": "무티론에스정(메칠-N,S-디아세틸시스테인)(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20040211",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M081192]메칠엔에스디아세틸시스테인",
+ "main_item_ingr_eng": "Methyl-N,S-Diacetylcysteine",
+ "edi_code": "",
+ "atc_code": "R05CB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402295",
+ "revisions": [
+  {
+   "revision_id": "200402295-afa446aa",
+   "content_sha256": "afa446aab5ac108ceeecabb6e7670f8ab7c8602ad8361e6647caf5749f95a3dc",
+   "ee_text": "만성 폐 ·기관지 질환에 의한 급성증세와 급성 기관지염의 진행에 따른 기관지 분비 이상의 치료",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:00Z",
+   "last_observed_at": "2026-09-08T08:38:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:00Z"
+}

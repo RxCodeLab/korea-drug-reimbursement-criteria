@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600974",
+ "item_name": "대한적십자사전북혈액원농축백혈구(농축백혈구)",
+ "entp_name": "대한적십자사전북특별자치도혈액원",
+ "permit_date": "20060127",
+ "cancel_date": "20240617",
+ "status": "취하",
+ "main_item_ingr": "[M281338]농축백혈구",
+ "main_item_ingr_eng": "White Blood Cells",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600974",
+ "revisions": [
+  {
+   "revision_id": "200600974-d0525635",
+   "content_sha256": "d0525635c03e4adad1e377b57027f296210e230d5cab6af1abf50e047eab2eac",
+   "ee_text": "재생불량성빈혈 환자나 조혈기능이 저하되고 심한 백혈구감소증 등을 동반한 감염으로 항생제의 투여에도 반응이 나타나지 않는 경우에 사용한다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:04Z",
+   "last_observed_at": "2026-09-08T08:40:04Z",
+   "official_revision_date": "2021-10-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:04Z"
+}

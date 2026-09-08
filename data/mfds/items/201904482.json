@@ -7,11 +7,12 @@
  "permit_date": "20190701",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040006]감초|[M040071]대추|[M050752]생강|[M040214]백출|[M040790]황기|[M050533]방기",
+ "main_item_ingr": "[M040006]감초|[M040071]대추|[M040214]백출|[M040790]황기|[M050533]방기|[M050752]생강",
  "main_item_ingr_eng": "Astragalus Root/Atractylodes Rhizome White/Jujube/Licorice/Raw Ginger/Sinomenium Stem",
  "edi_code": "",
  "atc_code": "A08AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904482",
+ "history_fetched_at": "2026-08-28T13:25:09Z",
  "revisions": [
   {
    "revision_id": "201904482-990db5fc",
@@ -19,9 +20,9 @@
    "ee_text": "살색이 희고, 피로하기 쉬우며, 땀이 잘 나는 경향이 있는 다음 증상 : 비만(근육에 긴장감이 없고 물살찐), 관절통, 부종",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:09Z",
-   "last_observed_at": "2026-08-28T13:25:09Z",
-   "official_revision_date": "2019-07-01"
+   "last_observed_at": "2026-09-08T08:55:43Z",
+   "official_revision_date": "2019-07-01",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:09Z"
+ ]
 }

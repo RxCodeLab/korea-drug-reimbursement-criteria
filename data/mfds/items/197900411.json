@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900411",
+ "item_name": "스파토민캡슐(디시클로민염산염)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "19790224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256709]디시클로민염산염",
+ "main_item_ingr_eng": "Dicyclomine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A03AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900411",
+ "revisions": [
+  {
+   "revision_id": "197900411-a4260215",
+   "content_sha256": "a4260215860e7b72ec826a1563498220da6744aa9c5207e8f9a3357cc855878f",
+   "ee_text": "다음 질환에서 경련 완화 : 위·십이지장궤양, 위염, 대장염, 게실(곁주머니)염, 경련성 변비",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:35Z",
+   "last_observed_at": "2026-09-08T08:26:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:35Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801711",
+ "item_name": "미레나20마이크로그람/일(레보노르게스트렐)",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20080213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095487]레보노르게스트렐",
+ "main_item_ingr_eng": "Levonorgestrel",
+ "edi_code": "641100600",
+ "atc_code": "G02BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801711",
+ "revisions": [
+  {
+   "revision_id": "200801711-c2c945bd",
+   "content_sha256": "c2c945bd8fbc4a490889c9db6d59f5dfbe9a58e3b19f70127e6b10fb877e6fbc",
+   "ee_text": "피임, 월경과다, 월경곤란증, 에스트로겐 대체요법시 프로게스틴의 국소적용",
+   "ee_doc_id": "28",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:16Z",
+   "last_observed_at": "2026-09-08T08:42:16Z",
+   "official_revision_date": "2024-10-16"
+  },
+  {
+   "revision_id": "200801711-e75f2786",
+   "content_sha256": "e75f27867ed3e7958bda4c086e7aba974a25857113fd979f24ac689e32506094",
+   "ee_text": "피임, 월경과다증, 월경곤란증, 에스트로겐 대체요법시 프로게스틴의 국소적용",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:16Z",
+   "last_observed_at": "2026-09-08T08:42:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:16Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197400061",
+ "item_name": "중외5%과당주사액",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19740309",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040024]과당",
+ "main_item_ingr_eng": "Fructose",
+ "edi_code": "644902121",
+ "atc_code": "B05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400061",
+ "revisions": [
+  {
+   "revision_id": "197400061-314fdd80",
+   "content_sha256": "314fdd806b8a52591e9acd96dbf7aea5129f68b0fc43d63fbf6c89ad4962d65f",
+   "ee_text": "1. 당뇨병 및 당뇨병 상태시의 에너지 보급 2. 약물중독, 알콜중독 3. 기타 비경구적으로 수분ㆍ에너지 보급을 필요로 하는 경우 4. 주사제의 용해희석제",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:20Z",
+   "last_observed_at": "2026-09-08T08:26:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:20Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101715",
+ "item_name": "독소신주사(독소루비신염산염)(수출명:AdrosalInj.,AdricinInj,.AxibinInj.,DoxocinInj.,DubicinInj.,AdorucinInj.)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "20010518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222835]독소루비신염산염",
+ "main_item_ingr_eng": "Doxorubicin Hydrochloride",
+ "edi_code": "644300521,644309061",
+ "atc_code": "L01DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101715",
+ "revisions": [
+  {
+   "revision_id": "200101715-5d0999fb",
+   "content_sha256": "5d0999fb1cbedd067b133aa9ad1b9639cdf4a2463b9fadbac9fe93a5baa69dec",
+   "ee_text": "악성 림프종(림프육종, 호지킨병 및 비호지킨병), 소화기암(위암, 간암, 직장암, 담낭 및 담관암, 결장암, 췌장암), 급성골수성백혈병, 연조직골육종, 유방암, 난소암, 폐암, 기관지암, 방광암, 윌름즈종양",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:16Z",
+   "last_observed_at": "2026-09-08T08:35:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:16Z"
+}

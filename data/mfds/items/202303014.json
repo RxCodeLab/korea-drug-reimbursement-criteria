@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303014",
+ "item_name": "대웅라베프라졸정5밀리그램(라베프라졸나트륨)",
+ "entp_name": "대웅바이오(주)",
+ "permit_date": "20231030",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089852]라베프라졸나트륨",
+ "main_item_ingr_eng": "Rabeprazole Sodium",
+ "edi_code": "694004350",
+ "atc_code": "A02BC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303014",
+ "revisions": [
+  {
+   "revision_id": "202303014-54dbf58d",
+   "content_sha256": "54dbf58d1bbae3545ad7524bb8620fa358d561f23a0a675c3be322c327cdd685",
+   "ee_text": "위·십이지장 궤양 과거력이 있는 환자에 있어서, 1일 100mg 이하의 저용량 아스피린 투여에 의한 위·십이지장 궤양 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:28Z",
+   "last_observed_at": "2026-09-08T09:02:28Z",
+   "official_revision_date": "2023-10-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:28Z"
+}

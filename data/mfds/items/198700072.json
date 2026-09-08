@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700072",
+ "item_name": "한풍형개엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19870228",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M051936]형개",
+ "main_item_ingr_eng": "Schizonepeta Spike",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700072",
+ "revisions": [
+  {
+   "revision_id": "198700072-bcb3e01b",
+   "content_sha256": "bcb3e01b3ba72157d436b80a8d963fb8a7d0db1bc00f957db8248fc9ebf46c9e",
+   "ee_text": "발한, 해열, 소염, 지혈",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:21Z",
+   "last_observed_at": "2026-09-08T08:27:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:21Z"
+}

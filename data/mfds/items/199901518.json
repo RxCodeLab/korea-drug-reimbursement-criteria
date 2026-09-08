@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199901518",
+ "item_name": "삼진리소짐정(리소짐염산염)(수출용)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19990913",
+ "cancel_date": "20250117",
+ "status": "취하",
+ "main_item_ingr": "[M256212]리소짐염산염",
+ "main_item_ingr_eng": "Lysozyme Hydrochloride",
+ "edi_code": "",
+ "atc_code": "J05AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901518",
+ "revisions": [
+  {
+   "revision_id": "199901518-a9e1ad6e",
+   "content_sha256": "a9e1ad6e913c840ea5e10c502f43f4cd1f3c441a547b723792ed9a2a5bbcf698",
+   "ee_text": "1. 만성 부비동염의 염증성 부종(부기)의 완화 2. 다음 질환의 담객출(가래뱉음) 곤란 : 기관지염, 기관지 천식, 기관지 확장증 3. 소수술 중 또는 후의 출혈(치과, 비뇨기과영역)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:44Z",
+   "last_observed_at": "2026-09-08T08:32:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:44Z"
+}

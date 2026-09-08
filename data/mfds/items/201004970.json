@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004970",
+ "item_name": "보트리엔트정400밀리그램(파조파닙염산염)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20100811",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250589]파조파닙염산염",
+ "main_item_ingr_eng": "Pazopanib Hydrochloride",
+ "edi_code": "653602810",
+ "atc_code": "L01EX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004970",
+ "revisions": [
+  {
+   "revision_id": "201004970-b6d1d309",
+   "content_sha256": "b6d1d30935ea110db85c3118d9a3eb516bbbf490cba72bc6c331aa8664e37abd",
+   "ee_text": "● 진행성 신세포암 ● 이전에 화학요법을 투여 받은 진행성 연조직육종 (지방 육종 또는 위장관기질 종양 환자에서 이 약의 유효성 및 안전성은 입증되지 않았다.)",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:11Z",
+   "last_observed_at": "2026-09-08T08:44:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:11Z"
+}

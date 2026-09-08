@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102783",
+ "item_name": "자비웰비정",
+ "entp_name": "성이바이오제약주식회사",
+ "permit_date": "20210331",
+ "cancel_date": "20250814",
+ "status": "취하",
+ "main_item_ingr": "[M040306]수산화마그네슘|[M080745]노회엑스|[M223167]우르소데옥시콜산|[M244748]판토텐산칼슘",
+ "main_item_ingr_eng": "Aloe Extract/Calcium Pantothenate/Magnesium Hydroxide/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A06AB20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102783",
+ "revisions": [
+  {
+   "revision_id": "202102783-8092f99e",
+   "content_sha256": "8092f99eabbf1a01a945fdb731cc2b62cd1b10c754461093008e341ecc3c2b94",
+   "ee_text": "· 변비 · 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:05Z",
+   "last_observed_at": "2026-09-08T09:00:05Z",
+   "official_revision_date": "2021-03-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:05Z"
+}

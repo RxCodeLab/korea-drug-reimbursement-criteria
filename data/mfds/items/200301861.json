@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301861",
+ "item_name": "도나트릴연질캡슐(수출용)(황산콘드로이친나트륨)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20031230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M225042]황산 콘드로이친 나트륨",
+ "main_item_ingr_eng": "Sodium Chondroitin Sulfate",
+ "edi_code": "",
+ "atc_code": "M01AX25",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301861",
+ "revisions": [
+  {
+   "revision_id": "200301861-22a2984e",
+   "content_sha256": "22a2984e160fe4c499160a85cd585fcc671f5d32d146d50215f5784a5b1ba79b",
+   "ee_text": "관절통, 신경통,류마티스,어깨걸림,견관절주위염,두통,편두통,간질환,동맥경화,임신오저,해독,야뇨증,음향의상성난청,신염,네프로제,메니에르씨병",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:06Z",
+   "last_observed_at": "2026-09-08T08:37:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:06Z"
+}

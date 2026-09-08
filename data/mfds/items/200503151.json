@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A11HA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503151",
+ "history_fetched_at": "2026-08-28T13:24:09Z",
  "revisions": [
   {
-   "revision_id": "200503151-9926f3fd",
-   "content_sha256": "9926f3fd3b024965cd20fa89b5f530e62d2af6cd481138ec0472a0bd9ddac1fe",
-   "ee_text": "- 어깨ㆍ 목 결림, 수족저림ㆍ 수족냉증, 간헐성 파행증, 동상 등",
+   "revision_id": "200503151-c5451922",
+   "content_sha256": "c5451922b74ca0dca8556f8ce6c7bcd4ca6dd36973cf8c274231bba0d2daa1e5",
+   "ee_text": "1. 비타민 E 결핍증 2. 말초순환기능장애 및 갱년기 시 다음 증상의 완화 - 어깨ㆍ 목 결림, 수족저림ㆍ 수족냉증, 간헐성 파행증, 동상 등",
    "ee_doc_id": "2",
    "first_observed_at": "2026-08-28T13:24:09Z",
-   "last_observed_at": "2026-08-28T13:24:09Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:39:30Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:09Z"
+ ]
 }

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003850",
+ "item_name": "치스돌플러스정",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20200526",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M237099]옥수수불검화정량추출물|[M259618]후박75%에탄올연조엑스(5→1)",
+ "main_item_ingr_eng": "Magnolia Bark 75％ Ethanol Soft Extract (5→1)/Titrated Extract of Zea Mays L. Unsaponifiable Fraction",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003850",
+ "revisions": [
+  {
+   "revision_id": "202003850-390544c4",
+   "content_sha256": "390544c4a96961be8425eed9ea3155f26764dde713b5a6a45236b36ee6697eb2",
+   "ee_text": "치주(치아주위조직)치료 후 치은염(잇몸염), 경ㆍ중등도 치주(치아주위조직)염의 보조치료",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:57Z",
+   "last_observed_at": "2026-09-08T08:58:57Z",
+   "official_revision_date": "2020-06-02"
+  },
+  {
+   "revision_id": "202003850-15b8f90c",
+   "content_sha256": "15b8f90cd4e49abde167bd87c7103aa549c74254c8b278ead473c2d51a099aab",
+   "ee_text": "치주치료 후 치은염, 경ㆍ중등도 치주염의 보조치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-05-26",
+   "first_observed_at": "2026-09-08T08:58:57Z",
+   "last_observed_at": "2026-09-08T08:58:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:57Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004941",
+ "item_name": "보감갈근탕액",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20200708",
+ "cancel_date": "20250708",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040004]갈근|[M040006]감초|[M040007]건강|[M040071]대추|[M040135]마황|[M040523]작약|[M050037]계지",
+ "main_item_ingr_eng": "Cinnamomi Ramulus/Ephedra Herb/Ginger/Jujube/Licorice/Peony Root/Pueraria Root",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004941",
+ "revisions": [
+  {
+   "revision_id": "202004941-7d8a03ce",
+   "content_sha256": "7d8a03ce38755e51f76477e0614c40d5298c4f57bdcafd407c172c8f2d9eb83b",
+   "ee_text": "감기, 코감기, 두통, 어깨결림, 근육통, 손과 어깨통증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:13Z",
+   "last_observed_at": "2026-09-08T08:59:13Z",
+   "official_revision_date": "2020-07-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:13Z"
+}

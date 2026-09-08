@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204517",
+ "item_name": "아이플큐어점안액",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20221216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100227]농글리세린|[M222937]나파졸린염산염",
+ "main_item_ingr_eng": "Concentrated Glycerin/Naphazoline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204517",
+ "revisions": [
+  {
+   "revision_id": "202204517-af66bbbf",
+   "content_sha256": "af66bbbfd42d65b609f8104ab842592236770f79255595b879253268d8cbc44c",
+   "ee_text": "눈의 건조 또는 바람 · 태양에 의한 화끈거리는 증상, 자극감, 불쾌감의 일시적 완화. 눈의 자극감 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:45Z",
+   "last_observed_at": "2026-09-08T09:01:45Z",
+   "official_revision_date": "2022-12-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:45Z"
+}

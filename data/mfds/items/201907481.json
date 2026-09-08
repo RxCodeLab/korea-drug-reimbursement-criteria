@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907481",
+ "item_name": "멜라토닝크림(히드로퀴논)",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20191028",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051981]히드로퀴논",
+ "main_item_ingr_eng": "Hydroquinone",
+ "edi_code": "",
+ "atc_code": "D11AX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907481",
+ "revisions": [
+  {
+   "revision_id": "201907481-0b7862e9",
+   "content_sha256": "0b7862e95915f85e028f5c69a5b12debfc978c9f0a8bba718584b7c609aa67bb",
+   "ee_text": "다음과 같은 과도한 색소 침착 피부의 점차적인 표백 : 간반, 흑피증(기미), 주근깨, 노인성 검은반점, 기타 불필요한 부위의 과도한 멜라닌 색소 침착",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:49Z",
+   "last_observed_at": "2026-09-08T08:56:49Z",
+   "official_revision_date": "2019-10-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:49Z"
+}

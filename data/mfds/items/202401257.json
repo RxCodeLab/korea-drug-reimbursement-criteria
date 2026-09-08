@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401257",
+ "item_name": "이디셉트액(과산화수소수35%)",
+ "entp_name": "주식회사삼현제약",
+ "permit_date": "20240522",
+ "cancel_date": "20251022",
+ "status": "취하",
+ "main_item_ingr": "[M082366]과산화수소수35%",
+ "main_item_ingr_eng": "Hydrogen Peroxide Solution 35%",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401257",
+ "revisions": [
+  {
+   "revision_id": "202401257-00e041e2",
+   "content_sha256": "00e041e2bff1ea82e790bd3343f65dccfd96153d32f13b2f5c0c00b06fbd1b02",
+   "ee_text": "의료기구(진료대, 수술대, 의료용 조명기 등)의 소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:59Z",
+   "last_observed_at": "2026-09-08T09:02:59Z",
+   "official_revision_date": "2024-05-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:59Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500564",
+ "item_name": "레바넥스정200밀리그램(레바프라잔염산염)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20050915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261872]레바프라잔염산염",
+ "main_item_ingr_eng": "Revaprazan Hydrochloride",
+ "edi_code": "642100250",
+ "atc_code": "A02BC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500564",
+ "revisions": [
+  {
+   "revision_id": "200500564-48a96177",
+   "content_sha256": "48a961778b16c599a29d5fc14a25f02d43ef8d8e0792c14205676799dede96b1",
+   "ee_text": "십이지장궤양의 단기치료, 급성위염 및 만성위염의 위점막 병변의 개선 위궤양의 단기치료",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:56Z",
+   "last_observed_at": "2026-09-08T08:38:56Z",
+   "official_revision_date": "2018-11-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:56Z"
+}

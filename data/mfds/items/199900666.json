@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900666",
+ "item_name": "데르민크림(프레드니카르베이트)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "19990729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084063]프레드니카르베이트",
+ "main_item_ingr_eng": "Prednicarbate",
+ "edi_code": "649600651,649600652,649600654",
+ "atc_code": "D07AC18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900666",
+ "revisions": [
+  {
+   "revision_id": "199900666-bef7cf26",
+   "content_sha256": "bef7cf2602ea9e4db1455df62b058ccb96b95a067883f18b2ca4fa2b79bc4473",
+   "ee_text": "다음의 코르티코이드 반응성 피부질환 : 습진ㆍ피부염군(아토피피부염, 지루피부염, 접촉성알레르기피부염, 유사건선, 편평태선, 가려움발진 포함), 건선",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:35Z",
+   "last_observed_at": "2026-09-08T08:32:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:35Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200534",
+ "item_name": "보카브리아주(카보테그라비르)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20220203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281984]카보테그라비르",
+ "main_item_ingr_eng": "Cabotegravir",
+ "edi_code": "650003241",
+ "atc_code": "J05AJ04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200534",
+ "revisions": [
+  {
+   "revision_id": "202200534-57c8858b",
+   "content_sha256": "57c8858bfee7e375a3084ff10f602f849541b80e2843d6e3d59235c15b840fab",
+   "ee_text": "바이러스학적으로 억제되어 있고 (HIV-1 RNA <50 copies/mL), 치료 실패 이력이 없으며 카보테그라비르 또는 릴피비린에 알려진 또는 의심되는 내성이 없는 성인 환자에서 HIV-1 감염 치료를 위한 릴피비린 주사와의 병용요법",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202200534/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:02Z",
+   "last_observed_at": "2026-09-08T09:01:02Z"
+  },
+  {
+   "revision_id": "202200534-5154e2f6",
+   "content_sha256": "5154e2f6bc9d16dcb73562b240baf6e01b315573a2aa34837763d545f5433397",
+   "ee_text": "바이러스학적으로 억제되어 있고 (HIV-1 RNA <50 copies/mL), 바이러스학적 실패 이력이 없으며 카보테그라비르 또는 릴피비린에 알려진 또는 의심되는 내성이 없는 성인 환자의 인체면역결핍바이러스 제1형(HIV-1) 감염 치료를 위한 릴피비린 주사와의 병용요법.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-02-03",
+   "first_observed_at": "2026-09-08T09:01:02Z",
+   "last_observed_at": "2026-09-08T09:01:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:02Z"
+}

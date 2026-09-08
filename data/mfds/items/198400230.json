@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198400230",
+ "item_name": "정우오령산엑스과립",
+ "entp_name": "정우신약(주)",
+ "permit_date": "19840913",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040214]백출|[M040225]복령|[M040638]택사|[M050037]계지|[M051313]저령",
+ "main_item_ingr_eng": "Alisma Rhizome/Atractylodes Rhizome White/Cinnamomi Ramulus/Polyporus Sclerotium/Poria",
+ "edi_code": "",
+ "atc_code": "C03X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400230",
+ "revisions": [
+  {
+   "revision_id": "198400230-39308dc3",
+   "content_sha256": "39308dc395d09ed7aa921498c63d4624600d8b1a65cf2aa3341ecbf828c674f5",
+   "ee_text": "목마름. 요량감소, 구역, 구토, 복통(배아픔) 등 어느 것을 수반하는 다음 증상 : 물설사. 급성 위장염(대변이 조금 나올 뿐 배변이 끝난 느낌이 없는 상태에는 사용하지 말 것.), 더위먹음, 두통, 부종(부기)",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:56Z",
+   "last_observed_at": "2026-09-08T08:26:56Z",
+   "official_revision_date": "2011-06-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:56Z"
+}

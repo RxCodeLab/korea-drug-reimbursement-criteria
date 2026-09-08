@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400021",
+ "item_name": "테라텍트백신주(인플루엔자분할백신)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20240104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281118]정제불활화인플루엔자바이러스항원B형[B/California/12/2015, NYMC BX-59B]|[M283037]정제불활화인플루엔자바이러스항원B형[B/Austria/1359417/2021, BVR-26]|[M283839]정제불활화인플루엔자바이러스항원A형[A/Victoria/4897/2022 IVR-238(H1N1)]|[M285529]정제불활화인플루엔자바이러스항원A형[A/Croatia/10136RV/2023, NIB-146(H3N2)]",
+ "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A [A/Croatia/10136RV/2023, NIB-146(H3N2)]/Purified Inactivated Influenza Virus Antigen A [A/Victoria/4897/2022 IVR-238(H1N1)]/Purified Inactivated Influenza Virus Antigen B [B/California/12/2015, NYMC BX-59B]/Purified Influenza Virus Antigen B type(Split virion, Inactivated)[B/Austria/1359417/2021, BVR-26]",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400021",
+ "revisions": [
+  {
+   "revision_id": "202400021-fe30052a",
+   "content_sha256": "fe30052a6084ff886acfa8fce3f8d820cf6af5fb6b18090d4dc6175a797ccd17",
+   "ee_text": "생후 6개월 이상의 소아, 청소년 및 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스들에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:36Z",
+   "last_observed_at": "2026-09-08T09:02:36Z",
+   "official_revision_date": "2026-04-27"
+  },
+  {
+   "revision_id": "202400021-8583ec27",
+   "content_sha256": "8583ec274078bb489483a5425a317f7e3b7febfcaa41c72e3e47be4128475804",
+   "ee_text": "3세 이상의 소아·청소년 및 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스들에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-09-12",
+   "first_observed_at": "2026-09-08T09:02:36Z",
+   "last_observed_at": "2026-09-08T09:02:36Z"
+  },
+  {
+   "revision_id": "202400021-2def9904",
+   "content_sha256": "2def99046d7fe7275f8ca9a8a5b0e318d98d7307635ed520cc9943ee55cdcaf9",
+   "ee_text": "만 3세 이상의 소아·청소년 및 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스들에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-01-04",
+   "first_observed_at": "2026-09-08T09:02:36Z",
+   "last_observed_at": "2026-09-08T09:02:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:36Z"
+}

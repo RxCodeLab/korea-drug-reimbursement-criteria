@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300752",
+ "item_name": "케프란점안액(케토티펜푸마르산염)(수출명:케토레그점안액)",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20030115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244220]케토티펜푸마르산염",
+ "main_item_ingr_eng": "Ketotifen Fumarate",
+ "edi_code": "651201591",
+ "atc_code": "S01GX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300752",
+ "revisions": [
+  {
+   "revision_id": "200300752-bb337413",
+   "content_sha256": "bb33741324f6fdb580de1f265347f12b8dbeab27e61d93997a8b314d8fa2cfac",
+   "ee_text": "알러지성 결막염",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:51Z",
+   "last_observed_at": "2026-09-08T08:36:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:51Z"
+}

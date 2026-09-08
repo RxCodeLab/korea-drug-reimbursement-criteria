@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600496",
+ "item_name": "비바플로점안액",
+ "entp_name": "화일약품(주)",
+ "permit_date": "20060317",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051832]플루오로메톨론|[M223237]테트라히드로졸린염산염",
+ "main_item_ingr_eng": "Fluorometholone/Tetrahydrozoline Hydrochloride",
+ "edi_code": "684500941",
+ "atc_code": "S01B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600496",
+ "revisions": [
+  {
+   "revision_id": "200600496-bd3a21c3",
+   "content_sha256": "bd3a21c33253627a390fa9a9417ce03322e3785f78090eb8008e2cc4b37d356a",
+   "ee_text": "1. 심한 종창과 혈관내 충혈이 있는 급성 비감염성 결막염. 알레르기성 각막염 2. 전안부의 비감염성 염증(전포도막염, 상공막염, 공막염) 3. 사시절개술 및 백내장, 녹내장 수술후 염증",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:52Z",
+   "last_observed_at": "2026-09-08T08:39:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:52Z"
+}

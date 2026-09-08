@@ -12,6 +12,7 @@
  "edi_code": "693903900",
  "atc_code": "C09CA09",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401116",
+ "history_fetched_at": "2026-08-28T13:25:36Z",
  "revisions": [
   {
    "revision_id": "202401116-8e3a4f0c",
@@ -19,9 +20,9 @@
    "ee_text": "본태성 고혈압",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:36Z",
-   "last_observed_at": "2026-08-28T13:25:36Z",
-   "official_revision_date": "2024-05-08"
+   "last_observed_at": "2026-09-08T09:02:57Z",
+   "official_revision_date": "2024-05-08",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:36Z"
+ ]
 }

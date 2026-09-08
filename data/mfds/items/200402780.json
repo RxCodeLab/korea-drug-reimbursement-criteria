@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402780",
+ "item_name": "클리시아외용액(클린다마이신포스페이트)(수출용)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20040227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223228]클린다마이신포스페이트",
+ "main_item_ingr_eng": "Clindamycin Phosphate",
+ "edi_code": "",
+ "atc_code": "D10AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402780",
+ "revisions": [
+  {
+   "revision_id": "200402780-8ecae8b3",
+   "content_sha256": "8ecae8b3697e7d64e71e93fa128c3159bc5dac93b501c1e7a1be59dd1a2a3069",
+   "ee_text": "(주사제) ○ 유효균종 박테로이드, 푸소박테륨, 프로피오니박테륨, 유박테륨, 방선균, 펩토구균, 펩토연쇄구균, 포도구균, 연쇄구균(엔테로콕쿠스 파이칼리스 제외), 폐렴연쇄구균 ○ 적응증 농흉, 폐렴, 폐농양, 편도염, 인두염, 기관지염, 중이염, 부비동염, 성홍열, 복막염, 복강내 농양, 자궁내막염, 비임균성 난관난소농양, 골반 연조직염, 질커프 수술 후 감염증, 패혈증, 부스럼, 피부농양, 농가진, 농포성 여드름, 연조직염, 창상감염 (액제)(겔제) ○ 유효균종 : 프로피오니박테륨 아크네 ○ 적응증 : 심상성여드름(보통여드름)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:09Z",
+   "last_observed_at": "2026-09-08T08:38:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:09Z"
+}

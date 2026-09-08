@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202100636",
+ "item_name": "지엘레보노르게스트렐정0.03밀리그램",
+ "entp_name": "지엘팜텍(주)",
+ "permit_date": "20210121",
+ "cancel_date": "20250218",
+ "status": "취하",
+ "main_item_ingr": "[M095487]레보노르게스트렐",
+ "main_item_ingr_eng": "Levonorgestrel",
+ "edi_code": "",
+ "atc_code": "G03AC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100636",
+ "revisions": [
+  {
+   "revision_id": "202100636-3ce3ac5f",
+   "content_sha256": "3ce3ac5f80b0228deb555aefefaf2e7ddaca7d1c1ba78cd2d1d13a611f474189",
+   "ee_text": "피임",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:52Z",
+   "last_observed_at": "2026-09-08T08:59:52Z",
+   "official_revision_date": "2021-01-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:52Z"
+}

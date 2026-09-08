@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307453",
+ "item_name": "카프렐사정100밀리그램(반데타닙)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20130524",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257061]반데타닙",
+ "main_item_ingr_eng": "Vandetanib",
+ "edi_code": "652001220",
+ "atc_code": "L01EX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307453",
+ "revisions": [
+  {
+   "revision_id": "201307453-bb827a11",
+   "content_sha256": "bb827a11b97c8986eb7470de39a499367e5f1771e0f2107f725c41956b2b7eeb",
+   "ee_text": "증상이 있는, 절제 불가능한 국소 진행성 또는 전이성 갑상선 수질암의 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:04Z",
+   "last_observed_at": "2026-09-08T08:46:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:04Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004772",
+ "item_name": "디아미크롱서방정60밀리그램(글리클라지드)",
+ "entp_name": "한국세르비에(주)",
+ "permit_date": "20100730",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222831]글리클라지드",
+ "main_item_ingr_eng": "Gliclazide",
+ "edi_code": "676300120",
+ "atc_code": "A10BB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004772",
+ "revisions": [
+  {
+   "revision_id": "201004772-a769bd71",
+   "content_sha256": "a769bd71295209eecfc1418deaf0e538d5c8d4ae8355573eeef40c8d7147ad1a",
+   "ee_text": "● 제 2형 당뇨병(식사요법, 운동요법으로 충분한 효과를 얻을 수 없는 경우에 한함.)",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:10Z",
+   "last_observed_at": "2026-09-08T08:44:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:10Z"
+}

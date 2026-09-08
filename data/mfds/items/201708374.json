@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708374",
+ "item_name": "타치온주사(바이알)(글루타티온(환원형))",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20171214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256276]글루타티온(환원형)",
+ "main_item_ingr_eng": "Glutathione (Reduced)",
+ "edi_code": "642507471",
+ "atc_code": "V03AB32",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708374",
+ "revisions": [
+  {
+   "revision_id": "201708374-06d4785c",
+   "content_sha256": "06d4785c192976040b0dfe1db5af5267a93dc8b488a665997f54a1400199ebcd",
+   "ee_text": "1. 약물중독 2. 만성 간질환에서의 간기능의 개선",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:40Z",
+   "last_observed_at": "2026-09-08T08:52:40Z",
+   "official_revision_date": "2022-12-25"
+  },
+  {
+   "revision_id": "201708374-75875517",
+   "content_sha256": "75875517d44b4fb7b6ae01078dfc4e1cdbcca45686d9a8df6e9354234e56f038",
+   "ee_text": "1. 약물중독, 알코올중독 2. 만성 간질환에서의 간기능의 개선",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-12-15",
+   "first_observed_at": "2026-09-08T08:52:40Z",
+   "last_observed_at": "2026-09-08T08:52:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:40Z"
+}

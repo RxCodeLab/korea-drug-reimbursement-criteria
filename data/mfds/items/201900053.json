@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "M01AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900053",
+ "history_fetched_at": "2026-08-27T12:46:00Z",
  "revisions": [
   {
    "revision_id": "201900053-0e0f7c90",
@@ -19,9 +20,9 @@
    "ee_text": "다음의 경증 또는 중등도 통증의 완화 : 근육통, 신경통, 외상 후 및 수술 후 통증, 두통, 치통, 귀통증",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:46:00Z",
-   "last_observed_at": "2026-08-27T12:46:00Z",
-   "official_revision_date": "2019-01-08"
+   "last_observed_at": "2026-09-08T08:54:01Z",
+   "official_revision_date": "2019-01-08",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:46:00Z"
+ ]
 }

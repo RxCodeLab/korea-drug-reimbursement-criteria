@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "M03BB03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502394",
+ "history_fetched_at": "2026-08-28T13:24:42Z",
  "revisions": [
   {
    "revision_id": "201502394-77af5654",
@@ -19,8 +20,9 @@
    "ee_text": "근골격계 질환에 수반하는 동통(통증)성 연축(수축과 이완) : 요배통증(허리, 등통증), 경견완증후군(목어깨팔증후군), 견관절(어깨관절)주의염, 변형성 척추증",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:24:42Z",
-   "last_observed_at": "2026-08-28T13:24:42Z",
-   "official_revision_date": "2021-05-27"
+   "last_observed_at": "2026-09-08T08:48:52Z",
+   "official_revision_date": "2021-05-27",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201502394-1fbae51f",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:42Z",
    "last_observed_at": "2026-08-28T13:24:42Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:42Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604727",
+ "item_name": "조인릴리프겔4%(l-멘톨)(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20160801",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M230875]l-멘톨",
+ "main_item_ingr_eng": "L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604727",
+ "revisions": [
+  {
+   "revision_id": "201604727-0bd0cb06",
+   "content_sha256": "0bd0cb067c1f4126d5485ed243ff848bf6d6e46b8b4f8d57e0bc1c51fa7c87e7",
+   "ee_text": "다음의 질환 및 증상으로 인한 통증 완화 : 관절염, 요통, 염좌(삠)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:06Z",
+   "last_observed_at": "2026-09-08T08:51:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:06Z"
+}

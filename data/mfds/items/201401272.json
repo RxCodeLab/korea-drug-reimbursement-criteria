@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401272",
+ "item_name": "트레시바플렉스터치주 100단위/밀리리터(인슐린데글루덱)",
+ "entp_name": "노보노디스크제약(주)",
+ "permit_date": "20140320",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259097]인슐린데글루덱",
+ "main_item_ingr_eng": "Insulin Degludec",
+ "edi_code": "654400551",
+ "atc_code": "A10AE06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401272",
+ "revisions": [
+  {
+   "revision_id": "201401272-25caef34",
+   "content_sha256": "25caef34c763af91941a83b7410d2ff08e2a3aee26f8bb605a0ec7ba0480bfd3",
+   "ee_text": "만 1세 이상의 소아와 청소년 및 성인에서의 당뇨병 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:51Z",
+   "last_observed_at": "2026-09-08T08:46:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:51Z"
+}

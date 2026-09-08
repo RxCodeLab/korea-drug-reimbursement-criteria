@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003574",
+ "item_name": "젤라스정(아젤라스틴염산염)",
+ "entp_name": "한국넬슨제약(주)",
+ "permit_date": "20200518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222870]아젤라스틴염산염",
+ "main_item_ingr_eng": "Azelastine Hydrochloride",
+ "edi_code": "656702240",
+ "atc_code": "R06AX19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003574",
+ "revisions": [
+  {
+   "revision_id": "202003574-0d46cc68",
+   "content_sha256": "0d46cc6846a12a8b1098669558c659415c3e27bb5e72f90e882188084990b0ab",
+   "ee_text": "기관지 천식, 알레르기성비염, 두드러기, 습진, 피부염, 아토피성 피부염, 피부소양증, 가려움",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:48Z",
+   "last_observed_at": "2026-09-08T08:58:48Z",
+   "official_revision_date": "2020-05-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:48Z"
+}

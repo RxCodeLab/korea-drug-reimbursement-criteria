@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501870",
+ "item_name": "이지스카오프겔",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20250723",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051015]알란토인|[M249378]헤파린나트륨|[M278679]덱스판테놀",
+ "main_item_ingr_eng": "Allantoin/Dexpanthenol/Heparin Sodium",
+ "edi_code": "",
+ "atc_code": "D03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501870",
+ "revisions": [
+  {
+   "revision_id": "202501870-c7a0b9cd",
+   "content_sha256": "c7a0b9cdbbbf66d00341956254e24fc374e2fb62502c06e0c370e0cee0c050f6",
+   "ee_text": "상처 조직의 치료 후 처치(비대성ㆍ켈로이드성 흉터, 여드름 흉터, 수술 흉터)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:05Z",
+   "last_observed_at": "2026-09-08T09:04:05Z",
+   "official_revision_date": "2025-07-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:05Z"
+}

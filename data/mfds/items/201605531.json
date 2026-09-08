@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605531",
+ "item_name": "젠보야정",
+ "entp_name": "길리어드사이언스코리아(유)",
+ "permit_date": "20160913",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250026]엠트리시타빈|[M256270]이산화규소흡착코비시스타트|[M264728]엘비테그라비르(미분화)|[M278212]테노포비르알라페나미드헤미푸마르산염",
+ "main_item_ingr_eng": "Cobicistat Silicone Dioxide/Elvitegravir Micronized/Emtricitabine/Tenofovir Alafenamide HemiFumarate",
+ "edi_code": "625900090",
+ "atc_code": "J05AR18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605531",
+ "revisions": [
+  {
+   "revision_id": "201605531-669b41e6",
+   "content_sha256": "669b41e679deac336da1fc4afbbcd7f828a12021a55b2d4a6c212a91e80616b9",
+   "ee_text": "항레트로바이러스 치료 경험이 없거나, 기존 항레트로바이러스 치료 요법에 치료 실패 없이 적어도 6개월 이상의 안정된 바이러스 수치 억제 효과를 보이며(HIV-1 RNA < 50 copies/mL), 이 약의 개별 성분에 대한 알려진 내성 관련 치환이 없는 성인, 청소년(만 12세 이상으로 체중 35 kg 이상) 및 소아(만 6세 이상으로 체중 25kg 이상이며 독성으로 인해 다른 대체 요법이 적합하지 않은 경우)의 HIV-1 감염 치료",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:13Z",
+   "last_observed_at": "2026-09-08T08:51:13Z",
+   "official_revision_date": "2019-08-19"
+  },
+  {
+   "revision_id": "201605531-2f511c67",
+   "content_sha256": "2f511c676b01cab46180e92af4a2c28d138a3e34db0c661c55207bbeb65d1279",
+   "ee_text": "항레트로바이러스 치료 경험이 없거나, 기존 항레트로바이러스 치료 요법에 치료 실패 없이 적어도 6개월 이상의 안정된 바이러스 수치 억제 효과를 보이며(HIV-1 RNA < 50 copies/mL), 이 약의 개별 성분에 대한 알려진 내성 관련 치환이 없는 성인 및 청소년(만 12세 이상으로 체중 35 kg 이상)의 HIV-1 감염 치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:51:13Z",
+   "last_observed_at": "2026-09-08T08:51:13Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:13Z"
+}

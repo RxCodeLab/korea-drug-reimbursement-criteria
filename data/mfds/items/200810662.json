@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A02AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810662",
+ "history_fetched_at": "2026-08-28T13:24:19Z",
  "revisions": [
   {
    "revision_id": "200810662-d3c1d176",
@@ -19,9 +20,9 @@
    "ee_text": "급성 ㆍ 만성통증, 위염, 십이지장궤양, 식도염, 방사선요법시 소화장애에 의한 위통",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:24:19Z",
-   "last_observed_at": "2026-08-28T13:24:19Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:42:54Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:19Z"
+ ]
 }

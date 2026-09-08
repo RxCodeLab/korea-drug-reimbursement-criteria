@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602132",
+ "item_name": "잇케어페이스트",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20160415",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215133]에녹솔론|[M223240]토코페롤아세테이트|[M273071]세틸피리디늄염화물",
+ "main_item_ingr_eng": "Cetylpyridinium Chloride/Enoxolone/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602132",
+ "revisions": [
+  {
+   "revision_id": "201602132-b4f570f1",
+   "content_sha256": "b4f570f1ceef78cb61e2c76222b7771f773f6731c20e24182cace156105c97a7",
+   "ee_text": "치은염(잇몸염) · 치조(이틀)농루에 의한 여러 증상 (잇몸의 발적(충혈되어 붉어짐)·부종·고름, 구취)의 완화",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:27Z",
+   "last_observed_at": "2026-09-08T08:50:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:27Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201304631",
+ "item_name": "듀케이겔",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20130208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223228]클린다마이신포스페이트|[M247420]가수과산화벤조일",
+ "main_item_ingr_eng": "Clindamycin Phosphate/Hydrous Benzoyl Peroxide",
+ "edi_code": "",
+ "atc_code": "D10AF51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201304631",
+ "revisions": [
+  {
+   "revision_id": "201304631-7b4eb658",
+   "content_sha256": "7b4eb6580c61861d82427f9a646b188161ba41bf8e7def1605bbf58f48adfd38",
+   "ee_text": "경증 여드름 또는 중등도 여드름",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:49Z",
+   "last_observed_at": "2026-09-08T08:45:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:49Z"
+}

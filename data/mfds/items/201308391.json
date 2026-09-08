@@ -7,11 +7,12 @@
  "permit_date": "20130725",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M250577]레르카니디핀염산염|[M090403]발사르탄",
+ "main_item_ingr": "[M090403]발사르탄|[M250577]레르카니디핀염산염",
  "main_item_ingr_eng": "Lercanidipine Hydrochloride/Valsartan",
  "edi_code": "668902550",
  "atc_code": "C09DB08",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308391",
+ "history_fetched_at": "2026-08-28T13:24:31Z",
  "revisions": [
   {
    "revision_id": "201308391-771c434a",
@@ -19,9 +20,9 @@
    "ee_text": "레르카니디핀 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:24:31Z",
-   "last_observed_at": "2026-08-28T13:24:31Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:46:12Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:31Z"
+ ]
 }

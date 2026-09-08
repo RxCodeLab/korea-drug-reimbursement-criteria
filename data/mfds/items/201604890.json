@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604890",
+ "item_name": "트리톤치과용연고(미노사이클린염산염)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20160810",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223036]미노사이클린염산염",
+ "main_item_ingr_eng": "Minocycline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A01AB23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604890",
+ "revisions": [
+  {
+   "revision_id": "201604890-a104b6a0",
+   "content_sha256": "a104b6a045333597c6987f1a617bd938ec222db06fba3736698ed603a3f12282",
+   "ee_text": "염산 미노사이클린에 감수성인 Porphyromonas ginglvalis, Prevotella intermedia, Prevotella melaninogenicus, Eikenella corrodens, Fusobacterium nucleatum, Capnocytophaga spp., Haemophilus actinomycetemcomitans 에 의한 치주염(만성 변연성 치주염)의 여러 증상의 개선",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:08Z",
+   "last_observed_at": "2026-09-08T08:51:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:08Z"
+}

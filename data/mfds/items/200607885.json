@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200607885",
+ "item_name": "신신케토크린24플라스타(케토프로펜)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20060821",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607885",
+ "revisions": [
+  {
+   "revision_id": "200607885-43b2fd80",
+   "content_sha256": "43b2fd804fcdce9ca4985c35279644d49eb52bc564c23c9ad7e0062271ed0706",
+   "ee_text": "다음 질환 및 증상의 진통 · 소염(항염) : 퇴행성관절염(골관절염), 어깨관절주위염, 건(힘줄) · 건초염(힘줄윤활막염), 건(힘줄)주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기) · 동통(통증)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200607885/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:32Z",
+   "last_observed_at": "2026-09-08T08:40:32Z"
+  },
+  {
+   "revision_id": "200607885-73033584",
+   "content_sha256": "73033584a0b58e71abc01333f103495898a474d0c5e32b5774bdd9f032fe4c03",
+   "ee_text": "다음 질환 및 증상의 진통 · 소염(항염) : 퇴행성관절염(골관절염), 어깨관절주위염, 건(힘줄) · 건초염(힘줄윤활막염), 건(힘줄)주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기) ‧ 동통(통증)",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:40:32Z",
+   "last_observed_at": "2026-09-08T08:40:32Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:32Z"
+}

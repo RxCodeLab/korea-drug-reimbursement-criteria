@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806463",
+ "item_name": "타로시클로피록스액8%",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20080612",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M085228]시클로피록스",
+ "main_item_ingr_eng": "Ciclopirox",
+ "edi_code": "",
+ "atc_code": "D01AE14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806463",
+ "revisions": [
+  {
+   "revision_id": "200806463-d98b906b",
+   "content_sha256": "d98b906b00dc17165a00d17c93d34256edf746b7d502fa6def94543afc2dc8a8",
+   "ee_text": "조갑진균증(손ㆍ발톱무좀)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:36Z",
+   "last_observed_at": "2026-09-08T08:42:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:36Z"
+}

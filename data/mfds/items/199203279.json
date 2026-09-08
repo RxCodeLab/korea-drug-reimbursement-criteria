@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199203279",
+ "item_name": "파루탈정(메드록시프로게스테론아세테이트)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20060901",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200491]메드록시프로게스테론아세테이트",
+ "main_item_ingr_eng": "Medroxyprogesterone Acetate",
+ "edi_code": "648901090",
+ "atc_code": "L02AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199203279",
+ "revisions": [
+  {
+   "revision_id": "199203279-4ec96b61",
+   "content_sha256": "4ec96b61518ce942ce7ebcbbb36703eeeeac559c3f4f9291719e807e8951b6a4",
+   "ee_text": "호르몬의존성 암의 완화 : 유방암, 자궁내막암, 신장암, 전립선암",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:35Z",
+   "last_observed_at": "2026-09-08T08:28:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:35Z"
+}

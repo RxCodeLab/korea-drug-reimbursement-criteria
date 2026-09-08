@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511259",
+ "item_name": "후루오레사이트주사10%(플루오레세인나트륨)(바이알)",
+ "entp_name": "한국알콘(주)",
+ "permit_date": "20050620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040739]플루오레세인나트륨",
+ "main_item_ingr_eng": "Fluorescein Sodium",
+ "edi_code": "652400731",
+ "atc_code": "S01JA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511259",
+ "revisions": [
+  {
+   "revision_id": "200511259-2bc97d9f",
+   "content_sha256": "2bc97d9f3c141c567cb4918fb1e7d941ee344804b605270568e34d0d6d91837a",
+   "ee_text": "혈관조영, 혈관검사 등의 진단용",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:37Z",
+   "last_observed_at": "2026-09-08T08:39:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:37Z"
+}

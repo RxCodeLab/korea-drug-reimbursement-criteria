@@ -7,11 +7,12 @@
  "permit_date": "20000313",
  "cancel_date": "20260101",
  "status": "유효기간만료",
- "main_item_ingr": "[M082727]감초엑스산|[M089589]향부자엑스산|[M089552]지각엑스산|[M090093]작약엑스산|[M089533]천궁엑스산|[M089506]진피엑스산|[M089498]시호엑스산",
+ "main_item_ingr": "[M082727]감초엑스산|[M089498]시호엑스산|[M089506]진피엑스산|[M089533]천궁엑스산|[M089552]지각엑스산|[M089589]향부자엑스산|[M090093]작약엑스산",
  "main_item_ingr_eng": "Aurantii Fructus Immaturus Extract Powder/Bupleurum Root Extract Powder/Citrus Unshiu Peel Extract Powder/Cnidium Rhizome Extract Powder/Cyperus Rhizome Extract Powder/Glycyrrhiza Extract Powder/Peony Root Extract Powder",
  "edi_code": "",
  "atc_code": "A16AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002246",
+ "history_fetched_at": "2026-08-28T13:23:54Z",
  "revisions": [
   {
    "revision_id": "200002246-9ffab8db",
@@ -19,9 +20,9 @@
    "ee_text": "한방건강보험용",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:23:54Z",
-   "last_observed_at": "2026-08-28T13:23:54Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:33:54Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:54Z"
+ ]
 }

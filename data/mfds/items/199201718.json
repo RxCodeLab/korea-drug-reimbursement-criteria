@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201718",
+ "item_name": "신텍스인진호탕엑스과립",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "19920128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040073]대황|[M040564]치자|[M051297]인진호",
+ "main_item_ingr_eng": "Artemisiae Capillaris Herba/Gardenia Fruit/Rhubarb",
+ "edi_code": "",
+ "atc_code": "A05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201718",
+ "revisions": [
+  {
+   "revision_id": "199201718-be162544",
+   "content_sha256": "be1625442686966416ff3dca700d8a7630bc756205ab0fd0db89796560fe3afd",
+   "ee_text": "목마름, 요량감소, 변비가 있는 사람의 다음 증상 : 두드러기, 입안염",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:29Z",
+   "last_observed_at": "2026-09-08T08:28:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:29Z"
+}

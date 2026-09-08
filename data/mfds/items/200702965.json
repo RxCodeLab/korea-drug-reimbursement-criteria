@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200702965",
+ "item_name": "모푸렌정(모사프리드시트르산염)",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20070309",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243038]모사프리드시트르산염",
+ "main_item_ingr_eng": "Mosapride Citrate",
+ "edi_code": "651200450",
+ "atc_code": "A03FA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702965",
+ "revisions": [
+  {
+   "revision_id": "200702965-6e49ab70",
+   "content_sha256": "6e49ab7051abf1f3b818a9080ba4e1e478bcfff9754f1db27de9296b6e39e4c0",
+   "ee_text": "기능성소화불량으로 인한 소화기증상(속쓰림, 구역, 구토)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200702965/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:13Z",
+   "last_observed_at": "2026-09-08T08:41:13Z"
+  },
+  {
+   "revision_id": "200702965-553649dd",
+   "content_sha256": "553649ddc5b3897d9a24112dca1ac43bc4c7f325d4f20c53086d8cb6d054a9b1",
+   "ee_text": "- 기능성소화불량(만성위염)에 수반하는 소화기능이상(가슴쓰림, 오심, 구토)",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:41:13Z",
+   "last_observed_at": "2026-09-08T08:41:13Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:13Z"
+}

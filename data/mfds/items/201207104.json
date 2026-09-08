@@ -12,6 +12,7 @@
  "edi_code": "645403780",
  "atc_code": "C09DA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207104",
+ "history_fetched_at": "2026-08-28T13:24:28Z",
  "revisions": [
   {
    "revision_id": "201207104-962ec495",
@@ -19,9 +20,9 @@
    "ee_text": "단일요법으로 혈압이 적절하게 조절되지 않은 본태고혈압",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:24:28Z",
-   "last_observed_at": "2026-08-28T13:24:28Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:45:32Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:28Z"
+ ]
 }

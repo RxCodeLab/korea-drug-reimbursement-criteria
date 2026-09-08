@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701449",
+ "item_name": "네페인주(네포팜염산염)",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20170327",
+ "cancel_date": "20260324",
+ "status": "취하",
+ "main_item_ingr": "[M254140]네포팜염산염",
+ "main_item_ingr_eng": "Nefopam Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02BG06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701449",
+ "revisions": [
+  {
+   "revision_id": "201701449-744b67e6",
+   "content_sha256": "744b67e6c99ed21dd6142cb3b111632c777f838855c643924896fab6495c5ebb",
+   "ee_text": "급성통증의 대증요법, 특히 수술 후 통증",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:40Z",
+   "last_observed_at": "2026-09-08T08:51:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:40Z"
+}

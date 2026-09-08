@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199000972",
+ "item_name": "씨사인정(수출용)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "19900417",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040038]규산마그네슘|[M242935]건조수산화알루미늄겔",
+ "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel/Magnesium Silicate",
+ "edi_code": "",
+ "atc_code": "A02AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000972",
+ "revisions": [
+  {
+   "revision_id": "199000972-39a84dc9",
+   "content_sha256": "39a84dc9921dee977a1503e465c6ee4a24e2598e57dfed410e7c0be841ad4295",
+   "ee_text": "위산과다, 속쓰림, 신트림",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:01Z",
+   "last_observed_at": "2026-09-08T08:28:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:01Z"
+}

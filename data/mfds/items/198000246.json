@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000246",
+ "item_name": "아진탈정(군납명:아진타미드판크레아틴셀루라제정)(수출용)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19800920",
+ "cancel_date": "20240503",
+ "status": "취하",
+ "main_item_ingr": "[M070806]아진타미드|[M071237]췌장성효소|[M226008]셀룰라제4000",
+ "main_item_ingr_eng": "Azintamide/Cellulase 4000/Pancreatin",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000246",
+ "revisions": [
+  {
+   "revision_id": "198000246-76eb0484",
+   "content_sha256": "76eb0484fcb93b675096f6f6c37692bf59ca004c3a2ebea0badbb4f9712cccde",
+   "ee_text": "소화효소결핍 및 담즙분비부전으로 인한 다음의 증상 : 1. 부패 및 발효성 소화장애 2. 복부팽만감 3. 소화불량",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:40Z",
+   "last_observed_at": "2026-09-08T08:26:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:40Z"
+}

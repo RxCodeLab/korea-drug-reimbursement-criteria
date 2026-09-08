@@ -7,11 +7,12 @@
  "permit_date": "20030218",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M202821]겐타마이신황산염|[M051832]플루오로메톨론",
+ "main_item_ingr": "[M051832]플루오로메톨론|[M202821]겐타마이신황산염",
  "main_item_ingr_eng": "Fluorometholone/Gentamicin Sulfate",
  "edi_code": "645300241",
  "atc_code": "S01CA07",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302302",
+ "history_fetched_at": "2026-08-28T13:24:03Z",
  "revisions": [
   {
    "revision_id": "200302302-88d04290",
@@ -19,9 +20,9 @@
    "ee_text": "ㆍ겐타마이신에 감수성균에 의한 전안부 감염(예 : 세균성결막염) ㆍ세균감염의 위험성이 있는 전안부 염증(예 : 눈 수술 후 치료시)",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:24:03Z",
-   "last_observed_at": "2026-08-28T13:24:03Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:37:12Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:03Z"
+ ]
 }

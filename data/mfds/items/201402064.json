@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402064",
+ "item_name": "레이팜370주사액(이오파미돌)",
+ "entp_name": "일성아이에스(주)",
+ "permit_date": "20140430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085529]이오파미돌",
+ "main_item_ingr_eng": "Iopamidol",
+ "edi_code": "655403291,655403292,655403293,655403294",
+ "atc_code": "V08AB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402064",
+ "revisions": [
+  {
+   "revision_id": "201402064-539834ab",
+   "content_sha256": "539834abcd3458d07836476e61986e3606dff97c5b5b657fd00e673df8979e47",
+   "ee_text": "(주사제 370 mgI/mL) 1. 혈관조영 : 관상동맥조영, 흉부대동맥조영, 복부대동맥조영, 심장혈관조영, 선택적 내장동맥조영, 말초동맥조영 2. 정맥요로조영(IVP) 3. CT 조영증강",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201402064/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:00Z",
+   "last_observed_at": "2026-09-08T08:47:00Z"
+  },
+  {
+   "revision_id": "201402064-b50b0b4c",
+   "content_sha256": "b50b0b4c2c0654ca97c5edae35b9c9132e9741269da084ce15933e56fcdc8154",
+   "ee_text": "1. 혈관조영 : 관상동맥조영, 흉부대동맥조영, 복부대동맥조영, 심장혈관조영, 선택적 내장동맥조영, 말초동맥조영 2. 정맥요로조영(IVP) 3. CT 조영증강",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:47:00Z",
+   "last_observed_at": "2026-09-08T08:47:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:00Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308186",
+ "item_name": "알피모피드정(모사프리드시트르산염수화물)",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20130712",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253090]모사프리드시트르산염수화물",
+ "main_item_ingr_eng": "Mosapride Citrate Dihydrate",
+ "edi_code": "661604110",
+ "atc_code": "A03FA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308186",
+ "revisions": [
+  {
+   "revision_id": "201308186-ded98e76",
+   "content_sha256": "ded98e76186fefdfebcc6e84086398b01695639fe4e65f17ca3c3f6ec5c9f1a7",
+   "ee_text": "기능성소화불량(만성위염)에 수반하는 소화기능이상(가슴쓰림, 오심, 구토)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:10Z",
+   "last_observed_at": "2026-09-08T08:46:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:10Z"
+}

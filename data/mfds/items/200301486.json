@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301486",
+ "item_name": "람노스캡슐(락토바실루스카제이변종람노수스)(수출명1: 올바이오캡슐, 수출명2: 안티비오포르테캡슐)",
+ "entp_name": "한화제약(주)",
+ "permit_date": "20031125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092161]락토바실루스카제이변종람노수스의동결건조배양물",
+ "main_item_ingr_eng": "Lactobacillus Casei Var.Rhamnosus Lyophilizate",
+ "edi_code": "",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301486",
+ "revisions": [
+  {
+   "revision_id": "200301486-879ef2cc",
+   "content_sha256": "879ef2cc933d457d78c755c17372dbca3a0c4385cf3af47d761a6de5be6dc890",
+   "ee_text": "장내균총의 정상화에 의한 정장 및 설사증상의 개선",
+   "ee_doc_id": "30",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:00Z",
+   "last_observed_at": "2026-09-08T08:37:00Z",
+   "official_revision_date": "2023-10-01"
+  },
+  {
+   "revision_id": "200301486-4dfbfb51",
+   "content_sha256": "4dfbfb514f8283b7d0402df6b3ca908f506a4b241a0861e74b555cec343bb63e",
+   "ee_text": "장내균총의 정상황에 의한 정장 및 설사증상의 개선",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:37:00Z",
+   "last_observed_at": "2026-09-08T08:37:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:00Z"
+}

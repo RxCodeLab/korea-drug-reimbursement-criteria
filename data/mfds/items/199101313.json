@@ -12,6 +12,7 @@
  "edi_code": "640001251",
  "atc_code": "B05BA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101313",
+ "history_fetched_at": "2026-08-28T13:23:43Z",
  "revisions": [
   {
    "revision_id": "199101313-1b6e3ce8",
@@ -19,7 +20,8 @@
    "ee_text": "1.고칼륨혈증, 순환허탈, 저혈당시의 에너지 보급 2.심질환(G,I,K요법) 그 외 수분, 에너지 보급 3.약물.독물 중독",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199101313/EE",
    "first_observed_at": "2026-08-28T13:23:43Z",
-   "last_observed_at": "2026-08-28T13:23:43Z"
+   "last_observed_at": "2026-09-08T08:28:12Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "199101313-eb9e5391",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:43Z",
    "last_observed_at": "2026-08-28T13:23:43Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:43Z"
+ ]
 }

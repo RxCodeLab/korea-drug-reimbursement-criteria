@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198100015",
+ "item_name": "베자립정(베자피브레이트)",
+ "entp_name": "(주)종근당",
+ "permit_date": "19810224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080268]베자피브레이트",
+ "main_item_ingr_eng": "Bezafibrate",
+ "edi_code": "643300920",
+ "atc_code": "C10AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100015",
+ "revisions": [
+  {
+   "revision_id": "198100015-1c2a69f4",
+   "content_sha256": "1c2a69f4068c6e7964c1136908e2d3150d25772c66f002975645a367340d2e72",
+   "ee_text": "원발성고지혈증 : 고콜레스테롤혈증(Ⅱa형), 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(Ⅱb, Ⅲ형), 고트리글리세라이드혈증(Ⅳ, Ⅴ형)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:42Z",
+   "last_observed_at": "2026-09-08T08:26:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:42Z"
+}

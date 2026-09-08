@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R01BA52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600345",
+ "history_fetched_at": "2026-08-28T13:23:37Z",
  "revisions": [
   {
    "revision_id": "197600345-e4b23214",
@@ -19,8 +20,9 @@
    "ee_text": "코감기(급성비염), 알레르기성 비염 또는 부비동염에 의한 다음 증상의 완화 : 코막힘, 콧물, 재채기, 눈물, 인후통, 머리 무거움",
    "ee_doc_id": "28",
    "first_observed_at": "2026-08-28T13:23:37Z",
-   "last_observed_at": "2026-08-28T13:23:37Z",
-   "official_revision_date": "2025-06-12"
+   "last_observed_at": "2026-09-08T08:26:25Z",
+   "official_revision_date": "2025-06-12",
+   "normalizer_version": 3
   },
   {
    "revision_id": "197600345-dce0528d",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:37Z",
    "last_observed_at": "2026-08-28T13:23:37Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:37Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403710",
+ "item_name": "엘도코프캡슐(에르도스테인)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20041126",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086745]에르도스테인",
+ "main_item_ingr_eng": "Erdosteine",
+ "edi_code": "665000520",
+ "atc_code": "R05CB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403710",
+ "revisions": [
+  {
+   "revision_id": "200403710-c75cfe72",
+   "content_sha256": "c75cfe72ebcac7e9b6e481e4f9512784e9bfcebfb7d76a19ed6575a04234e504",
+   "ee_text": "급ㆍ만성 호흡기질환에서의 점액용해 및 거담(가래)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:23Z",
+   "last_observed_at": "2026-09-08T08:38:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:23Z"
+}

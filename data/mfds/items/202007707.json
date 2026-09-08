@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "D10AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007707",
+ "history_fetched_at": "2026-08-28T13:25:21Z",
  "revisions": [
   {
    "revision_id": "202007707-8c16c6b1",
@@ -19,9 +20,9 @@
    "ee_text": "여드름, 뾰루지",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:21Z",
-   "last_observed_at": "2026-08-28T13:25:21Z",
-   "official_revision_date": "2020-11-10"
+   "last_observed_at": "2026-09-08T08:59:37Z",
+   "official_revision_date": "2020-11-10",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:21Z"
+ ]
 }

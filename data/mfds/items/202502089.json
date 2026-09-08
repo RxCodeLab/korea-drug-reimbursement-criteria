@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502089",
+ "item_name": "니조랄1%마일드액(케토코나졸)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20250813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080618]케토코나졸",
+ "main_item_ingr_eng": "Ketoconazole",
+ "edi_code": "",
+ "atc_code": "D01AC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502089",
+ "revisions": [
+  {
+   "revision_id": "202502089-19d191e2",
+   "content_sha256": "19d191e24d219850f8d50596218bc1c815f006688706836519ded1b0d47b4319",
+   "ee_text": "비듬",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:11Z",
+   "last_observed_at": "2026-09-08T09:04:11Z",
+   "official_revision_date": "2025-08-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:11Z"
+}

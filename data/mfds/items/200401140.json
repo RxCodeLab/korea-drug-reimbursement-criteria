@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401140",
+ "item_name": "아지나크림0.025%(트레티노인)(수출명:WrinklefreeCream0.025%)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20041201",
+ "cancel_date": "20240307",
+ "status": "취하",
+ "main_item_ingr": "[M051617]트레티노인",
+ "main_item_ingr_eng": "Tretinoin",
+ "edi_code": "",
+ "atc_code": "D10AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401140",
+ "revisions": [
+  {
+   "revision_id": "200401140-a1e1274f",
+   "content_sha256": "a1e1274f7e48c38a0033c4fd308efdb190982276dbaeb1dc193f4ae49464af25",
+   "ee_text": "심상성 여드름(보통 여드름) 및 광노화(미세주름, 과색소 침착)완화",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:44Z",
+   "last_observed_at": "2026-09-08T08:37:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:44Z"
+}

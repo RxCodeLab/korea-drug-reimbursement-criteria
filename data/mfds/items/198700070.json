@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700070",
+ "item_name": "한풍청피엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19870228",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M051394]청피",
+ "main_item_ingr_eng": "Citrii Unshiu Immaturi Pericarpium",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700070",
+ "revisions": [
+  {
+   "revision_id": "198700070-a8a55dd5",
+   "content_sha256": "a8a55dd529e7d283fe3303117792b436b96630b094557b01ef678299fa0042f2",
+   "ee_text": "건위, 발한",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:20Z",
+   "last_observed_at": "2026-09-08T08:27:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:20Z"
+}

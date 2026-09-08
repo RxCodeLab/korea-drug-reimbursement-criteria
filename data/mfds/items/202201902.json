@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201902",
+ "item_name": "케렌디아정20밀리그램(피네레논)",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20220510",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282670]피네레논",
+ "main_item_ingr_eng": "Finerenone",
+ "edi_code": "641106190",
+ "atc_code": "C03DA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201902",
+ "revisions": [
+  {
+   "revision_id": "202201902-96828a97",
+   "content_sha256": "96828a972b75e32c525e748159e01a74edd9f39bbff113a3773628395f8fb08a",
+   "ee_text": "1. 제2형 당뇨병을 동반한 만성 신장병 제2형 당뇨병을 동반한 만성 신장병 성인 환자에서 추정 사구체여과율[estimated glomerular filtration rate(eGFR)]의 지속적인 감소, 말기 신장병에 도달, 심혈관계 질환으로 인한 사망, 비치명적 심근경색 및 심부전으로 인한 입원의 위험 감소 2. 만성 심부전(LVEF ≥40%) 좌심실 박출률(LVEF)이 40% 이상인 만성 심부전 성인 환자에서 심혈관계 질환으로 인한 사망, 심부전으로 인한 입원 및 심부전으로 인한 긴급 병원 방문 위험성 감소",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:18Z",
+   "last_observed_at": "2026-09-08T09:01:18Z",
+   "official_revision_date": "2025-10-16"
+  },
+  {
+   "revision_id": "202201902-8e86fbfd",
+   "content_sha256": "8e86fbfdfea3b6325c6757bf1568740904f7eed5d7e67fa62a9f864985ada8ba",
+   "ee_text": "제2형 당뇨가 있는 만성 신장병 성인 환자에서 추정 사구체여과율[estimated glomerular filtration rate(eGFR)]의 지속적인 감소, 말기 신장병에 도달, 심혈관계 질환으로 인한 사망, 비치명적 심근경색 및 심부전으로 인한 입원의 위험 감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-05-10",
+   "first_observed_at": "2026-09-08T09:01:18Z",
+   "last_observed_at": "2026-09-08T09:01:18Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:18Z"
+}

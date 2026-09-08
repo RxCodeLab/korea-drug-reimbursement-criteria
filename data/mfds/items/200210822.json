@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200210822",
+ "item_name": "한풍양격산화탕엑스과립(동의수세보원)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20020304",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040198]박하|[M040205]방풍|[M040279]석고|[M040535]지모|[M040564]치자|[M051105]연교|[M051363]생지황|[M051936]형개|[M088585]인동",
+ "main_item_ingr_eng": "Anemarrhena Rhizome/Forsythia Fruit/Gardenia Fruit/Gypsum Fibrosum/Lonicera Leaf and Stem/Mentha Herb/Rehmanniae Radix Recens/Saposhnikovia Root/Schizonepeta Spike",
+ "edi_code": "",
+ "atc_code": "A10X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210822",
+ "revisions": [
+  {
+   "revision_id": "200210822-975d64b0",
+   "content_sha256": "975d64b0b7cb54e7930559efb1c1951959713fd2e7ceb248d7c8a1063206c8c3",
+   "ee_text": "소양인의 상소증(上消證 : 혀가 붉고 갈라지며 구갈이 심한 증상)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:39Z",
+   "last_observed_at": "2026-09-08T08:36:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:39Z"
+}

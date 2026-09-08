@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502697",
+ "item_name": "알레드제로정180밀리그램(펙소페나딘염산염)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20251017",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246634]펙소페나딘염산염",
+ "main_item_ingr_eng": "Fexofenadine Hydrochloride",
+ "edi_code": "641706570",
+ "atc_code": "R06AX26",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502697",
+ "revisions": [
+  {
+   "revision_id": "202502697-2b63ceb0",
+   "content_sha256": "2b63ceb026f230e1b7f3a66fb5741973608d1b1f2aec9f062183d7e20f9d3a89",
+   "ee_text": "알레르기 피부질환(만성 특발두드러기)과 관련된 증상의 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:20Z",
+   "last_observed_at": "2026-09-08T09:04:20Z",
+   "official_revision_date": "2025-10-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:20Z"
+}

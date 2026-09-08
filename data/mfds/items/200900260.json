@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200900260",
+ "item_name": "스타로랄300 설하액 (집먼지진드기) 초기치료단계",
+ "entp_name": "(주)보령바이오파마",
+ "permit_date": "20090107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245395]알러젠추출물 (집먼지진드기 정제추출물)|[M245395]알러젠추출물 (집먼지진드기 정제추출물)",
+ "main_item_ingr_eng": "Allergen Extract (Purified House Dust Mite Allergen Extract)",
+ "edi_code": "",
+ "atc_code": "V01AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900260",
+ "revisions": [
+  {
+   "revision_id": "200900260-7e8f82e6",
+   "content_sha256": "7e8f82e65eec0f5bdad820f18354ae9c683778e864d9a962c0ff1ef329f70406",
+   "ee_text": "IgE를 매개로한 알러젠에 대한 특이면역요법-집먼지진드기에 의한 알레르기성 비염, 결막염, 천식의 치료",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:01Z",
+   "last_observed_at": "2026-09-08T08:43:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:01Z"
+}

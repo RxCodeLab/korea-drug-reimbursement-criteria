@@ -7,11 +7,12 @@
  "permit_date": "20210223",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040634]침강탄산칼슘|[M207094]탄산수소나트륨|[M040018]고목|[M040010]겐티아나|[M040527]정향|[M040486]육두구|[M040811]회향|[M050036]육계|[M261244]디아스타제.프로테아제.셀룰라제2000Ⅱ|[M040040]합성규산알루미늄|[M040629]탄산마그네슘|[M040538]진피",
+ "main_item_ingr": "[M040010]겐티아나|[M040018]고목|[M040040]합성규산알루미늄|[M040486]육두구|[M040527]정향|[M040538]진피|[M040629]탄산마그네슘|[M040634]침강탄산칼슘|[M040811]회향|[M050036]육계|[M207094]탄산수소나트륨|[M261244]디아스타제.프로테아제.셀룰라제2000Ⅱ",
  "main_item_ingr_eng": "Cinnamon Bark/Citrus Unshiu Peel/Clove/Diastase·Protease·Cellulase 2000 II/Fennel/Gentian/Magnesium Carbonate/Nutmeg/Picrasma Wood/Precipitated Calcium Carbonate/Sodium Bicarbonate/Synthetic Aluminium Silicate",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101754",
+ "history_fetched_at": "2026-08-28T13:25:23Z",
  "revisions": [
   {
    "revision_id": "202101754-ff11fb0c",
@@ -19,9 +20,9 @@
    "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림, 식욕감퇴(식욕부진), 소화불량, 과식, 소화촉진, 소화불량으로 인한 위부팽만감",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:23Z",
-   "last_observed_at": "2026-08-28T13:25:23Z",
-   "official_revision_date": "2021-02-23"
+   "last_observed_at": "2026-09-08T08:59:58Z",
+   "official_revision_date": "2021-02-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:23Z"
+ ]
 }

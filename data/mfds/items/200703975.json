@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200703975",
+ "item_name": "조인릴리프겔(엘멘톨)(수출용)(수출명:머슬앤조인트바니싱센트겔,머슬앤조인트페인릴리프겔)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20070406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279284]L-멘톨",
+ "main_item_ingr_eng": "L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703975",
+ "revisions": [
+  {
+   "revision_id": "200703975-9ff5d952",
+   "content_sha256": "9ff5d952f05853ba8424ba0650d1ebcb2877e5cad07764594add1385104be19c",
+   "ee_text": "다음 경우의 일시적 완화 : 동통, 근육통, 경증의 요통ㆍ관절통, 삠, 타박상",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:21Z",
+   "last_observed_at": "2026-09-08T08:41:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:21Z"
+}

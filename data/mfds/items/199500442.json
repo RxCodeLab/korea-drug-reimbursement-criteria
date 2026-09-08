@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199500442",
+ "item_name": "임듈지속정60밀리그램(이소소르비드-5-모노니트레이트)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "19950414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083258]이소소르비드5모노니트레이트",
+ "main_item_ingr_eng": "Isosorbide-5-Mononitrate",
+ "edi_code": "",
+ "atc_code": "C01DA14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500442",
+ "revisions": [
+  {
+   "revision_id": "199500442-cad5dd62",
+   "content_sha256": "cad5dd627d8a5af4c6cb3d5af9464c992154c5768d1b969bdeece1fde732450c",
+   "ee_text": "1. 관동맥심질환(협심증, 심근경색 등) 2. 울혈성심부전의 보조요법(강심배당체 또는 이뇨제와 병용)",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:27Z",
+   "last_observed_at": "2026-09-08T08:29:27Z",
+   "official_revision_date": "2019-12-19"
+  },
+  {
+   "revision_id": "199500442-4063ac7e",
+   "content_sha256": "4063ac7e5bc947709445dba9334ffe0f8d4d4f6bf60bab27ece3c743057f1900",
+   "ee_text": "관상동맥 심질환 (심근순환계질환), 협신증발작(흉통), 심근경색, 만성심근기능부전",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:29:27Z",
+   "last_observed_at": "2026-09-08T08:29:27Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:27Z"
+}

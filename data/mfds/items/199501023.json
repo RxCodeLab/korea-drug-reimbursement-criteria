@@ -12,16 +12,17 @@
  "edi_code": "650300230",
  "atc_code": "C03BA11",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501023",
+ "history_fetched_at": "2026-08-28T13:23:46Z",
  "revisions": [
   {
-   "revision_id": "199501023-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "199501023-0877033c",
+   "content_sha256": "0877033cfdff1da33c1cae08930683f60ceb30f6a6fba80972ceb5280b353926",
+   "ee_text": "1. 본태성고혈압 2. 울혈성심부전에 의한 부종",
    "ee_doc_id": "13",
    "first_observed_at": "2026-08-28T13:23:46Z",
-   "last_observed_at": "2026-08-28T13:23:46Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:29:32Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:46Z"
+ ]
 }

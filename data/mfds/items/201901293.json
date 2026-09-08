@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901293",
+ "item_name": "지노센스질연질캡슐",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20190228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020020]니스타틴|[M202893]네오마이신황산염|[M233313]폴리믹신B황산염",
+ "main_item_ingr_eng": "Neomycin Sulfate/Nystatin/Polymyxin B Sulfate",
+ "edi_code": "642004290",
+ "atc_code": "G01AA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901293",
+ "revisions": [
+  {
+   "revision_id": "201901293-d518b916",
+   "content_sha256": "d518b91662a2477e1f17b126162ae374ea6f3a59c15fa655a623c571379356de",
+   "ee_text": "질칸디다증 및 비특이성 세균성질염의 국소 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:23Z",
+   "last_observed_at": "2026-09-08T08:54:23Z",
+   "official_revision_date": "2019-02-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:23Z"
+}

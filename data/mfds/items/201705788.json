@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705788",
+ "item_name": "포스톤지엑스액",
+ "entp_name": "초당약품공업(주)",
+ "permit_date": "20170720",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040488]이노시톨|[M096428]벤포티아민|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M268925]마늘건조엑스(100→1)",
+ "main_item_ingr_eng": "Allium Sativum Dried Extract (100→1)/Benfotiamine/Inositol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate",
+ "edi_code": "",
+ "atc_code": "A11EX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705788",
+ "revisions": [
+  {
+   "revision_id": "201705788-2efa886b",
+   "content_sha256": "2efa886b93cf8fa99c8ce388a0b1e03f1a8cf6a78f7e140d8392ac57864e5e6c",
+   "ee_text": "1. 다음 경우의 비타민B1, B2, B6 의 보급 - 육체피로, 임신·수유기, 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하 시 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. · 다음의 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등), 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 · 각기, 눈의 피로",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:07Z",
+   "last_observed_at": "2026-09-08T08:52:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:07Z"
+}

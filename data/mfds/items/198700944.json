@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700944",
+ "item_name": "아기오과립",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19871204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257081]아기오쿨 원료과립[차전자(Plantago Seed : USP) 3.9g, 차전자피(Ispaghula Husk : BP)0.13g]",
+ "main_item_ingr_eng": "Agiocur Pregranules",
+ "edi_code": "642201371",
+ "atc_code": "A06AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700944",
+ "revisions": [
+  {
+   "revision_id": "198700944-13cb00ac",
+   "content_sha256": "13cb00ac32a5ce1051456e03cde829ff33874c96a61f46f85012e2904edb96aa",
+   "ee_text": "1. 변비 2. 변비로 인한 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:24Z",
+   "last_observed_at": "2026-09-08T08:27:24Z",
+   "official_revision_date": "1996-04-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:24Z"
+}

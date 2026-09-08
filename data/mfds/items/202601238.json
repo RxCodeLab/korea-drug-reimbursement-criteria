@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601238",
+ "item_name": "아시칼정0.5마이크로그램(알파칼시돌)",
+ "entp_name": "메딕스제약(주)",
+ "permit_date": "20260427",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081303]알파칼시돌",
+ "main_item_ingr_eng": "Alfacalcidol",
+ "edi_code": "",
+ "atc_code": "A11CC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601238",
+ "revisions": [
+  {
+   "revision_id": "202601238-d820634b",
+   "content_sha256": "d820634bc1069b1bb6803d512b7283c1d2de4915bc5bd461677f1488bcd4712c",
+   "ee_text": "1. 다음 질환에 있어서 비타민 D 대사이상에 수반되는 증상(저칼슘혈증, 테타니, 뼈의 통증, 뼈의 병변 등)의 개선 - 만성신부전, 부갑상선기능저하증, 비타민 D 저항성 구루병·골연화증 2. 골다공증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:06Z",
+   "last_observed_at": "2026-09-08T09:05:06Z",
+   "official_revision_date": "2026-04-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:06Z"
+}

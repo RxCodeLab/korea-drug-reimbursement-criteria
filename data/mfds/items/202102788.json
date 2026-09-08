@@ -7,11 +7,12 @@
  "permit_date": "20210331",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M203279]살리실산메틸|[M279517]dl-캄파|[M230875]l-멘톨",
+ "main_item_ingr": "[M203279]살리실산메틸|[M230875]l-멘톨|[M279517]dl-캄파",
  "main_item_ingr_eng": "DL-Camphor/L-Menthol/Methyl Salicylate",
  "edi_code": "",
  "atc_code": "M02AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102788",
+ "history_fetched_at": "2026-08-28T13:25:24Z",
  "revisions": [
   {
    "revision_id": "202102788-59975997",
@@ -19,9 +20,9 @@
    "ee_text": "다음 증상의 진통ㆍ소염(항염) : 타박상, 삠, 요(허리)통, 어깨결림, 근육통, 관절통",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:24Z",
-   "last_observed_at": "2026-08-28T13:25:24Z",
-   "official_revision_date": "2021-03-31"
+   "last_observed_at": "2026-09-08T09:00:05Z",
+   "official_revision_date": "2021-03-31",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:24Z"
+ ]
 }

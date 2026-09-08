@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501698",
+ "item_name": "클리닉졸액(글루타랄콘센트레이트)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "19951226",
+ "cancel_date": "20240429",
+ "status": "취하",
+ "main_item_ingr": "[M278321]글루타랄콘센트레이트",
+ "main_item_ingr_eng": "Glutaral Concentrate Solution",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501698",
+ "revisions": [
+  {
+   "revision_id": "199501698-28abcc4e",
+   "content_sha256": "28abcc4ee29faf146d75ddbe3aa3ef2ad8a772dc114732ef94c4c4885f11fc6b",
+   "ee_text": "바이러스, 세균, 곰팡이, 진균류에 의하여 오염된 의료기구, 플라스틱, 화장실 변기, 전화기, 테이블, 고무제품의 기구 및 용기 표면의 살균소독",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:39Z",
+   "last_observed_at": "2026-09-08T08:29:39Z",
+   "official_revision_date": "2023-09-08"
+  },
+  {
+   "revision_id": "199501698-f5776601",
+   "content_sha256": "f57766019f2a119aee98722bd03b3d5fc25db54bc743c807f991c9af46716855",
+   "ee_text": "바이러스, 세균 곰팡이, 진균류에 의하여 오염된 의료기구, 플라스틱,화장실 변기, 전화기, 테이블, 고무제품의 기구 및 용기 표면의 살균소독",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:29:39Z",
+   "last_observed_at": "2026-09-08T08:29:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:39Z"
+}

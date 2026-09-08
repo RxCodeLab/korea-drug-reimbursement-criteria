@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200804907",
+ "item_name": "경피용건조비씨지백신(일본균주)",
+ "entp_name": "(주)한국백신상사",
+ "permit_date": "20080429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M206930]Mycobacterium bovis(B.C.G.) Tokyo 172 strain",
+ "main_item_ingr_eng": "Mycobacterium Bovis(B.C.G) Tokyo 172",
+ "edi_code": "",
+ "atc_code": "J07AN01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804907",
+ "revisions": [
+  {
+   "revision_id": "200804907-e894cee6",
+   "content_sha256": "e894cee635ebae669106451099a8177be08a9e18a9de0a159de5f49a4f2ce6d9",
+   "ee_text": "결핵의 예방",
+   "ee_doc_id": "33",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:28Z",
+   "last_observed_at": "2026-09-08T08:42:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:28Z"
+}

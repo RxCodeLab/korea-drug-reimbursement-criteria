@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402250",
+ "item_name": "헴제닉스주(에트라나코진데자파르보벡)",
+ "entp_name": "씨에스엘코리아(유)",
+ "permit_date": "20240913",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284875]에트라나코진데자파르보벡",
+ "main_item_ingr_eng": "Etranacogene Dezaparvovec",
+ "edi_code": "",
+ "atc_code": "B02BD16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402250",
+ "revisions": [
+  {
+   "revision_id": "202402250-84b55e27",
+   "content_sha256": "84b55e27ff1081a6398408e0295dd67bf1322bf22fc00f9556ca745b4838ed46",
+   "ee_text": "혈액응고 제9인자 억제인자가 없는 성인의 중증에 가까운 중등증 및 중증 B형 혈우병(선천성 혈액응고 제9인자 결핍) 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:20Z",
+   "last_observed_at": "2026-09-08T09:03:20Z",
+   "official_revision_date": "2024-09-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:20Z"
+}

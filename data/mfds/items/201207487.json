@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201207487",
+ "item_name": "트록시캄캡슐7.5밀리그램(멜록시캄)",
+ "entp_name": "(주)새한제약",
+ "permit_date": "20121029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086439]멜록시캄",
+ "main_item_ingr_eng": "Meloxicam",
+ "edi_code": "651300510",
+ "atc_code": "M01AC06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207487",
+ "revisions": [
+  {
+   "revision_id": "201207487-da5ffe02",
+   "content_sha256": "da5ffe02a88de3fa620f9f467090ddb879faaaeeaee78956a4ccd952fcdbd183",
+   "ee_text": "○ 통증과 운동실조를 수반하는 골관절염(퇴행관절염)의 급성악화시 단기간의 증상치료 ○ 류마티스관절염의 증상치료 ○ 강직척추염의 증상치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:34Z",
+   "last_observed_at": "2026-09-08T08:45:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:34Z"
+}

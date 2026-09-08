@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800489",
+ "item_name": "오큐메토론점안액0.02%(플루오로메톨론)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "19880604",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051832]플루오로메톨론|[M051832]플루오로메톨론",
+ "main_item_ingr_eng": "Fluorometholone",
+ "edi_code": "643901041",
+ "atc_code": "S01BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800489",
+ "revisions": [
+  {
+   "revision_id": "198800489-7f5e47a5",
+   "content_sha256": "7f5e47a554857b1f427e9421566ce572af709f4e7463011727e879b772394726",
+   "ee_text": "(점안액 0.02%) 외안부의 염증성 질환(안검염, 결막염, 각막염, 공막염, 상공막염 등) (점안액 0.1%) 외안부 및 전안부의 염증성 질환 (안검염, 결막염, 각막염, 공막염, 상공막염, 홍채염, 홍채모양체염, 포도막염, 수술후 염증 등)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:34Z",
+   "last_observed_at": "2026-09-08T08:27:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:34Z"
+}

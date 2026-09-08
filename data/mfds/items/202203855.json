@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203855",
+ "item_name": "로피롤에이정110밀리그램(페노피브릭산)",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20221018",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255612]페노피브릭산",
+ "main_item_ingr_eng": "Fenofibric Acid",
+ "edi_code": "652607170",
+ "atc_code": "C10AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203855",
+ "revisions": [
+  {
+   "revision_id": "202203855-55a1c799",
+   "content_sha256": "55a1c7990e158c9932e77969376e2bb5ed15384a4265f89168ac4970efc6227c",
+   "ee_text": "원발성고지혈증의 치료: 고콜레스테롤혈증(IIa형), 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(IIb형), 고트리글리세라이드혈증 (IV형)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:36Z",
+   "last_observed_at": "2026-09-08T09:01:36Z",
+   "official_revision_date": "2022-10-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:36Z"
+}

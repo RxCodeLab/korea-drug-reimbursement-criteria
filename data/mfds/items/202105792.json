@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105792",
+ "item_name": "알엠에스오스론(알엠에스자가골수유래뼈세포)",
+ "entp_name": "셀론텍(주)",
+ "permit_date": "20210806",
+ "cancel_date": "20231213",
+ "status": "폐업",
+ "main_item_ingr": "[M281306]알엠에스자가골수유래뼈세포",
+ "main_item_ingr_eng": "RMS autologous bone marrow-derived bone forming cell",
+ "edi_code": "",
+ "atc_code": "M05BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105792",
+ "revisions": [
+  {
+   "revision_id": "202105792-1b075dcc",
+   "content_sha256": "1b075dcccc62ea79697c1e6a58fbab902ec38dad5c9f0f33e418ad668e3d6a11",
+   "ee_text": "국소 골형성 촉진",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:27Z",
+   "last_observed_at": "2026-09-08T09:00:27Z",
+   "official_revision_date": "2021-08-06"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:27Z"
+}

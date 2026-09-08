@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903754",
+ "item_name": "코러스세티리진정(세티리진염산염)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20190605",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222857]세티리진염산염",
+ "main_item_ingr_eng": "Cetirizine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AE07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903754",
+ "revisions": [
+  {
+   "revision_id": "201903754-46d40f96",
+   "content_sha256": "46d40f9695d56d6d879fbc8ed891f6b15679258fea78c1e752d9fd1227648f2c",
+   "ee_text": "성인 및 6세 이상 소아환자: • 세티리진은 계절성 및 다년성 알레르기 성 비염의 비강 및 안구증상 완화 • 세티리진은 만성 특발성 두드러기 증상의 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:31Z",
+   "last_observed_at": "2026-09-08T08:55:31Z",
+   "official_revision_date": "2019-06-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:31Z"
+}

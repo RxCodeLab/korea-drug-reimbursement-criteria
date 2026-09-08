@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198802324",
+ "item_name": "에바치온정(글루타치온)(수출용)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "19880701",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082926]글루타치온(환원형)",
+ "main_item_ingr_eng": "Glutathione (Reduced)",
+ "edi_code": "",
+ "atc_code": "V03AB32",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198802324",
+ "revisions": [
+  {
+   "revision_id": "198802324-7acb2d64",
+   "content_sha256": "7acb2d64128238a5186e2ab6f2bec629a6b05d60391d73ff2de66b1a98dd1698",
+   "ee_text": "(정제)(캡슐제) 약물중독 (주사제) 1. 약물중독, 알코올중독 2. 만성 간질환에서의 간기능의 개선",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:42Z",
+   "last_observed_at": "2026-09-08T08:27:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:42Z"
+}

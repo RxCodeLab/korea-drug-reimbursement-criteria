@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802323",
+ "item_name": "스카이바리셀라주(수두생바이러스백신)",
+ "entp_name": "에스케이바이오사이언스(주)",
+ "permit_date": "20180604",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266860]약독 수두 생바이러스(바이러스주:Oka/SK, 세포주:MRC-5)",
+ "main_item_ingr_eng": "Live Attenuated Varicella Virus (Strain: Oka/SK, Cell Strain: MRC-5)",
+ "edi_code": "",
+ "atc_code": "J07BK01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802323",
+ "revisions": [
+  {
+   "revision_id": "201802323-6b172c3d",
+   "content_sha256": "6b172c3d474f734fbf1c26b7ab6461a172ede261ff57023bc1ee36ef5cd1c7a7",
+   "ee_text": "생후 12개월~만12세 소아에서 수두의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:13Z",
+   "last_observed_at": "2026-09-08T08:53:13Z",
+   "official_revision_date": "2018-06-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:13Z"
+}

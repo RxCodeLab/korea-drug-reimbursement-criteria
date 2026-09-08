@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900267",
+ "item_name": "빅타비정",
+ "entp_name": "길리어드사이언스코리아(유)",
+ "permit_date": "20190118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250026]엠트리시타빈|[M268156]빅테그라비르나트륨|[M278212]테노포비르알라페나미드헤미푸마르산염",
+ "main_item_ingr_eng": "Bictegravir Sodium/Emtricitabine/Tenofovir Alafenamide HemiFumarate",
+ "edi_code": "625900130",
+ "atc_code": "J05AR20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900267",
+ "revisions": [
+  {
+   "revision_id": "201900267-98919ded",
+   "content_sha256": "98919ded6a6a44512a9270e6b4003da175e2dfd962e81ddc590420377d1ff13f",
+   "ee_text": "항레트로바이러스 치료 경험이 없거나, 기존 항레트로바이러스 치료 요법에 안정된 바이러스 수치 억제 효과를 보이며 (HIV-1 RNA<50 copies/mL) 빅테그라비르 또는 테노포비르에 대해 알려지거나 의심되는 내성관련 치환이 없는, 성인 및 6세 이상이고 체중 25 kg 이상인 소아 환자의 HIV-1 감염 치료",
+   "ee_doc_id": "34",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:05Z",
+   "last_observed_at": "2026-09-08T08:54:05Z",
+   "official_revision_date": "2025-04-24"
+  },
+  {
+   "revision_id": "201900267-7bb4d5f0",
+   "content_sha256": "7bb4d5f0fabdb785e7a7f118e713d3c0cef242af01147c81c5ebd64a1e28cd2c",
+   "ee_text": "항레트로바이러스 치료 경험이 없거나, 기존 항레트로바이러스 치료 요법에 치료 실패 없이 적어도 3개월 이상의 안정된 바이러스 수치 억제 효과를 보이며 (HIV-1 RNA < 50 copies/mL) 이 약의 각 개별 성분에 대한 알려진 내성관련 치환이 없는 성인 및 6세 이상이고 체중 25 kg 이상인 소아 환자의 HIV-1 감염 치료",
+   "ee_doc_id": "31",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-10-15",
+   "first_observed_at": "2026-09-08T08:54:05Z",
+   "last_observed_at": "2026-09-08T08:54:05Z"
+  },
+  {
+   "revision_id": "201900267-fde31cb3",
+   "content_sha256": "fde31cb3c904636dcd56f8b76caec77e144ae11cd65a727599ba0c0644d4a1bd",
+   "ee_text": "항레트로바이러스 치료 경험이 없거나, 기존 항레트로바이러스 치료 요법에 치료 실패 없이 적어도 3개월 이상의 안정된 바이러스 수치 억제 효과를 보이며 (HIV-1 RNA < 50 copies/mL) 이 약의 각 개별 성분에 대한 알려진 내성관련 치환이 없는 성인의 HIV-1 감염 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-01-18",
+   "first_observed_at": "2026-09-08T08:54:05Z",
+   "last_observed_at": "2026-09-08T08:54:05Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:05Z"
+}

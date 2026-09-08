@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500485",
+ "item_name": "놀텍플러스정20/500밀리그램(일라프라졸,탄산수소나트륨)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20250304",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207094]탄산수소나트륨|[M245218]일라프라졸",
+ "main_item_ingr_eng": "Ilaprazole/Sodium Bicarbonate",
+ "edi_code": "641706520",
+ "atc_code": "A02BC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500485",
+ "revisions": [
+  {
+   "revision_id": "202500485-664ad51f",
+   "content_sha256": "664ad51ff96d22566dd66cb6caf951e9333e93b98a1420e07ad8eb94621cc2bd",
+   "ee_text": "미란성 식도염의 단기 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:43Z",
+   "last_observed_at": "2026-09-08T09:03:43Z",
+   "official_revision_date": "2025-03-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:43Z"
+}

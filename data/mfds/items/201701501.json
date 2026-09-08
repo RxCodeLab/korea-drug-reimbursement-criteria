@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701501",
+ "item_name": "모릭스캡슐7.5밀리그램(멜록시캄)",
+ "entp_name": "(주)한국피엠지제약",
+ "permit_date": "20170329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086439]멜록시캄",
+ "main_item_ingr_eng": "Meloxicam",
+ "edi_code": "697100720",
+ "atc_code": "M01AC06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701501",
+ "revisions": [
+  {
+   "revision_id": "201701501-44bfc61a",
+   "content_sha256": "44bfc61ac91fc0f7bd0211a9b90b52dd0c1d4121caf1635590ecc8a88536e5a9",
+   "ee_text": "1. 통증과 운동실조를 수반하는 골관절염(퇴행관절염)의 급성악화 시 단기간의 증상치료 2. 류마티스관절염의 증상치료 3. 강직척추염의 증상치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:41Z",
+   "last_observed_at": "2026-09-08T08:51:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:41Z"
+}

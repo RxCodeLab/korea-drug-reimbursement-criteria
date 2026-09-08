@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302171",
+ "item_name": "본경옥고",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20230714",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040225]복령|[M051291]인삼|[M082091]생지황즙|[M200168]꿀",
+ "main_item_ingr_eng": "Ginseng/Honey/Poria/Rehmanniae Glutinosae Liboschitz var. Purpureae Makino",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302171",
+ "revisions": [
+  {
+   "revision_id": "202302171-b591eb55",
+   "content_sha256": "b591eb55e76fecb06c6e488c3b87493d9eac051eb3ad185da7ceadb6add8eeea",
+   "ee_text": "다음 경우의 자양강장 : 병중병후, 허약체질, 육체피로, 권태, 갱년기 장애",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:14Z",
+   "last_observed_at": "2026-09-08T09:02:14Z",
+   "official_revision_date": "2023-07-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:14Z"
+}

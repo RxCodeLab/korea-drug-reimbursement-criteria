@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107502",
+ "item_name": "제이티니스타틴시럽(니스타틴)",
+ "entp_name": "(주)중헌제약",
+ "permit_date": "20211116",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020020]니스타틴",
+ "main_item_ingr_eng": "Nystatin",
+ "edi_code": "",
+ "atc_code": "A07AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107502",
+ "revisions": [
+  {
+   "revision_id": "202107502-e2896ac2",
+   "content_sha256": "e2896ac2dea03de2739a006a218818baad8b18270881beb406968ffde2c27be3",
+   "ee_text": "(시럽제) ○ 유효균종 니스타틴에 감수성인 칸디다 ○ 적응증 소화관칸디다증, 구강칸디다증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:48Z",
+   "last_observed_at": "2026-09-08T09:00:48Z",
+   "official_revision_date": "2021-11-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:48Z"
+}

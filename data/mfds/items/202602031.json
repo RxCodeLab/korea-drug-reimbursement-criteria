@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602031",
+ "item_name": "지노칼플러스정",
+ "entp_name": "삼남제약(주)",
+ "permit_date": "20260714",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M115129]탄산칼슘 과립95%|[M256378]농축콜레칼시페롤 과립",
+ "main_item_ingr_eng": "Calcium Carbonate Granules 95%/Cholecalciferol Concentrate Granules",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602031",
+ "revisions": [
+  {
+   "revision_id": "202602031-bed1db37",
+   "content_sha256": "bed1db37aebb9efc489ca93d4b6ee6896ebff46f509b1076caaba08c3c10cd5e",
+   "ee_text": "○ 다음경우의 비타민 D의 보급 - 임신 · 수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능 · 효과는 다음과 같다. · 뼈, 이의 발육불량 · 구루병의 예방 ○ 칼슘결핍 및 기타 칼슘의 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:31Z",
+   "last_observed_at": "2026-09-08T09:05:31Z",
+   "official_revision_date": "2026-07-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:31Z"
+}

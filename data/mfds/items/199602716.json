@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199602716",
+ "item_name": "칼반정100밀리그램(베반토롤염산염)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "19961202",
+ "cancel_date": "20240701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M258219]베반토롤염산염",
+ "main_item_ingr_eng": "Bevantolol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C07AB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602716",
+ "revisions": [
+  {
+   "revision_id": "199602716-f5de4319",
+   "content_sha256": "f5de43194093da461a59c6b7b7985e7ba1927c86ac648c5766f5eeea5afba976",
+   "ee_text": "고혈압",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:24Z",
+   "last_observed_at": "2026-09-08T08:30:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:24Z"
+}

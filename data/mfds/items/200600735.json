@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600735",
+ "item_name": "에폴민카타플라스마(디클로페낙에폴아민)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20060113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102665]디클로페낙에폴아민",
+ "main_item_ingr_eng": "Diclofenac Epolamine",
+ "edi_code": "",
+ "atc_code": "M02AA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600735",
+ "revisions": [
+  {
+   "revision_id": "200600735-605053c9",
+   "content_sha256": "605053c9d1936a2a963317967170ce80472252698f4cf945499e4620369e2647",
+   "ee_text": "다음 질환 및 증상의 진통·소염 1) 상완골 상과염(테니스엘보우 등) 2) 외상성 염증 : 타박상, 삠(염좌)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:53Z",
+   "last_observed_at": "2026-09-08T08:39:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:53Z"
+}

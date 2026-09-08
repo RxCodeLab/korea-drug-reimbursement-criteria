@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100104",
+ "item_name": "콤비페닉스캅셀(수출용)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20010816",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222971]디클록사실린나트륨수화물|[M239219]암피실린수화물",
+ "main_item_ingr_eng": "Ampicillin Hydrate/Dicloxacillin Sodium Hydrate",
+ "edi_code": "",
+ "atc_code": "J01CA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100104",
+ "revisions": [
+  {
+   "revision_id": "200100104-8048aa1e",
+   "content_sha256": "8048aa1e9cce20e69987f4b8771484976a1301f2a224aedb9e46c05d1bdcdd43",
+   "ee_text": "1. 중증 감염증으로서 원인균의 결정을 기다리기가 곤란한 질환 : 세균성폐염, 기관지폐염 2. 혼합감염이라고 충분히 고려되거나 원인균의 결정이 곤란한 질환 : 기관지 확장증·만성기관지염·폐기종 및 기관지천식의 감염시, 폐화농증, 농흉, 폐결핵2차감염 3. 복잡성 요로감염증(카테터를 유치한 경우는 제외한다.)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:47Z",
+   "last_observed_at": "2026-09-08T08:34:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:47Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308199",
+ "item_name": "메가헤프에스캡슐(수출용)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20130715",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040133]리보플라빈|[M081379]항독성간장엑스|[M096429]시아노코발라민|[M204304]피리독신염산염|[M253171]아데닌염산염|[M257367]카르니틴오로트산염",
+ "main_item_ingr_eng": "Adenine Hydrochloride/Antitoxic Liver Extract/Carnitine Orotate/Cyanocobalamin/Pyridoxine Hydrochloride/Riboflavin",
+ "edi_code": "",
+ "atc_code": "A05AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308199",
+ "revisions": [
+  {
+   "revision_id": "201308199-e93c9834",
+   "content_sha256": "e93c9834eecab415613fb528e650294587240594221f63ae4cba3f4bfdfa4efc",
+   "ee_text": "다음 질환의 보조 치료 : 급ㆍ만성 간염, 독성 간질환",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:12Z",
+   "last_observed_at": "2026-09-08T08:46:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:12Z"
+}

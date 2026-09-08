@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200585",
+ "item_name": "에디펜점안액(케토티펜푸마르산염)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20020503",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M240837]케토티펜푸마르산염",
+ "main_item_ingr_eng": "Ketotifen Fumarate",
+ "edi_code": "649601642",
+ "atc_code": "S01GX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200585",
+ "revisions": [
+  {
+   "revision_id": "200200585-bb337413",
+   "content_sha256": "bb33741324f6fdb580de1f265347f12b8dbeab27e61d93997a8b314d8fa2cfac",
+   "ee_text": "알러지성 결막염",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:04Z",
+   "last_observed_at": "2026-09-08T08:36:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:04Z"
+}

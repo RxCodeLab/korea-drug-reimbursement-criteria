@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706165",
+ "item_name": "노펜쿨첩부제(수출용)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20170725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070611]살리실산글리콜|[M070611]살리실산글리콜|[M279284]L-멘톨|[M279284]L-멘톨",
+ "main_item_ingr_eng": "Glycol Salicylate/L-Menthol",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706165",
+ "revisions": [
+  {
+   "revision_id": "201706165-16ecfd1e",
+   "content_sha256": "16ecfd1e9d5db1b0f5e16d70788b0758f019f0ae449f97f1e9ea02b379c6a0bb",
+   "ee_text": "요통, 타박상, 삠, 어깨결림, 관절통, 근육통, 근육피로, 1도동상, 골절통",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:08Z",
+   "last_observed_at": "2026-09-08T08:52:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:08Z"
+}

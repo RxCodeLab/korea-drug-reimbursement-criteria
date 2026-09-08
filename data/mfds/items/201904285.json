@@ -7,11 +7,12 @@
  "permit_date": "20190620",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M279284]L-멘톨|[M092408]펠비낙|[M279284]L-멘톨|[M092408]펠비낙|[M230875]l-멘톨|[M092408]펠비낙|[M230875]l-멘톨|[M092408]펠비낙",
+ "main_item_ingr": "[M092408]펠비낙|[M092408]펠비낙|[M092408]펠비낙|[M092408]펠비낙|[M230875]l-멘톨|[M230875]l-멘톨|[M279284]L-멘톨|[M279284]L-멘톨",
  "main_item_ingr_eng": "Felbinac/L-Menthol",
  "edi_code": "",
  "atc_code": "M02AA08",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904285",
+ "history_fetched_at": "2026-08-28T13:25:08Z",
  "revisions": [
   {
    "revision_id": "201904285-2eabcd4a",
@@ -19,9 +20,9 @@
    "ee_text": "어깨 결림에 따른 어깨 ​​통증, 요통, 관절통, 근육통, 건초염 (손·손목·발목의 통증과 붓기), 팔꿈치 통증 (테니스 엘보 등), 타박상, 염좌",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:08Z",
-   "last_observed_at": "2026-08-28T13:25:08Z",
-   "official_revision_date": "2019-06-20"
+   "last_observed_at": "2026-09-08T08:55:38Z",
+   "official_revision_date": "2019-06-20",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:08Z"
+ ]
 }

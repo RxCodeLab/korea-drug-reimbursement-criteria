@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708203",
+ "item_name": "디페렐린에스알주22.5밀리그램(트립토렐린파모산염)",
+ "entp_name": "입센코리아(주)",
+ "permit_date": "20171201",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261389]트립토렐린파모산염",
+ "main_item_ingr_eng": "Triptorelin Pamoate",
+ "edi_code": "681400141",
+ "atc_code": "L02AE04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708203",
+ "revisions": [
+  {
+   "revision_id": "201708203-5f8ba3cb",
+   "content_sha256": "5f8ba3cb90e5068ae24fefc3b7358bcd94531cb997112788cd3dd99185ae8b02",
+   "ee_text": "1. 호르몬 의존성 국소진행성 또는 전이성 전립선 암 2. 중추성 성 조숙증",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:38Z",
+   "last_observed_at": "2026-09-08T08:52:38Z",
+   "official_revision_date": "2020-03-27"
+  },
+  {
+   "revision_id": "201708203-3474f82e",
+   "content_sha256": "3474f82e40c3093a5a272d657cc57d85222aea162f35bc9a3e955d70954d111b",
+   "ee_text": "호르몬 의존성 국소진행성 또는 전이성 전립선 암",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-12-01",
+   "first_observed_at": "2026-09-08T08:52:38Z",
+   "last_observed_at": "2026-09-08T08:52:38Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:38Z"
+}

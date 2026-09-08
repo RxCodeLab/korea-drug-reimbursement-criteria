@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102461",
+ "item_name": "대화브롬헥신염산염정(수출용)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20210319",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223062]브롬헥신염산염",
+ "main_item_ingr_eng": "Bromhexine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05CB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102461",
+ "revisions": [
+  {
+   "revision_id": "202102461-8bf2e2c7",
+   "content_sha256": "8bf2e2c73d3514e0f9524a6f13798de8f1e01e9eedfea9be4f0e06f8f7101127",
+   "ee_text": "다음 질환에서의 객담배출곤란 : 급·만성기관지염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:03Z",
+   "last_observed_at": "2026-09-08T09:00:03Z",
+   "official_revision_date": "2021-03-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:03Z"
+}

@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "B02BA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100649",
+ "history_fetched_at": "2026-08-28T13:23:43Z",
  "revisions": [
   {
-   "revision_id": "199100649-1cbc0d04",
-   "content_sha256": "1cbc0d04807796d7746b397e02c10ddbff2cf9cce89fdc309a30299c1bfc56c5",
-   "ee_text": "1) 쿠마린(coumarin) 유도체에 의한 항응고제 유도성 프로트롬빈 결핍증 2) 항생제, 살리실산 제제 등에 의하여 2차적으로 발생되는 저프로트롬빈혈증",
+   "revision_id": "199100649-c9e15ff0",
+   "content_sha256": "c9e15ff037ada48552120451994755082a6f3b26910d8281bdd4bc0f565b7db7",
+   "ee_text": "1. 신생아 출혈성질환의 예방과 치료 2. 급성 또는 경구투여가 어려운 경우의 비타민 K 결핍 또는 비타민 K의 활성이상으로 인한 다음의 혈액응고질환 1) 쿠마린(coumarin) 유도체에 의한 항응고제 유도성 프로트롬빈 결핍증 2) 항생제, 살리실산 제제 등에 의하여 2차적으로 발생되는 저프로트롬빈혈증 3. 비타민 K의 합성 또는 흡수제한으로 인하여 2차적으로 발생되는 저프로트롬빈혈증",
    "ee_doc_id": "3",
    "first_observed_at": "2026-08-28T13:23:43Z",
-   "last_observed_at": "2026-08-28T13:23:43Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:28:09Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:43Z"
+ ]
 }

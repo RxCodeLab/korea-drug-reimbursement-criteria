@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707614",
+ "item_name": "휴세틸건조시럽50mg/5mL(세프포독심프록세틸)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20171026",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085650]세프포독심프록세틸",
+ "main_item_ingr_eng": "Cefpodoxime Proxetil",
+ "edi_code": "670607811",
+ "atc_code": "J01DD13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707614",
+ "revisions": [
+  {
+   "revision_id": "201707614-49acfc06",
+   "content_sha256": "49acfc06119a47426ae870c9b0f723668862ecc0ffdd9469e8618fffc42ef8a9",
+   "ee_text": "○ 유효균종 포도상구균, 연쇄구균, 폐렴연쇄구균, 모락셀라카타랄리스, 대장균, 시트로박터, 클 레브시엘라, 엔테로박터, 프로테우스(프로테우스 미라빌리스, 프로테우스 불가리스, 프로비덴시아 레트게리, 프로비덴시아 인콘스탄스), 인플루엔자균 ○ 적응증 - 종기, 종기증, 옹종, 전염성농가진, 연조직염, 림프관(절)염, 피하농양 - 인후두염(인후농양), 급성기관지염, 편도염(편도주위염, 편도주위농양), 폐렴 - 신우신염, 방광염 - 중이염, 부비동염 - 성홍열",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:30Z",
+   "last_observed_at": "2026-09-08T08:52:30Z",
+   "official_revision_date": "2017-10-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:30Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "20120110",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M100456]리보플라빈3배산|[M243282]티아민질산염3배산|[M051259]이부프로펜",
+ "main_item_ingr": "[M051259]이부프로펜|[M100456]리보플라빈3배산|[M243282]티아민질산염3배산",
  "main_item_ingr_eng": "Ibuprofen/Riboflavin Powder 33.3%/Thiamine Nitrate Powder 33.3%",
  "edi_code": "",
  "atc_code": "M01AE51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200252",
+ "history_fetched_at": "2026-08-28T13:24:27Z",
  "revisions": [
   {
    "revision_id": "201200252-88a18912",
@@ -19,9 +20,9 @@
    "ee_text": "* 두통, 치통, 발치(이를 뽑음)후 동통(통증), 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요(허리)통, 근육통, 견통(어깨결림), 타박통, 골절통, 염좌통(삔 통증), 월경통(생리통), 외상(상처)통의 진통 * 오한(춥고 떨리는 증상), 발열시의 해열",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-28T13:24:27Z",
-   "last_observed_at": "2026-08-28T13:24:27Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:45:08Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:27Z"
+ ]
 }

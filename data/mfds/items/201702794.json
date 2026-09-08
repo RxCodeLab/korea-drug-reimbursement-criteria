@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702794",
+ "item_name": "제일브레비블록주2.5그램(에스몰롤염산염)(바이알)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20170531",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258655]에스몰롤염산염",
+ "main_item_ingr_eng": "Esmolol Hydrochloride",
+ "edi_code": "645405001",
+ "atc_code": "C07AB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702794",
+ "revisions": [
+  {
+   "revision_id": "201702794-921c2b55",
+   "content_sha256": "921c2b5592be1d88011077f594713ad3446c3efd50d584fe9df74abc57f0c4a7",
+   "ee_text": "다음 경우의 상실성빈맥의 치료 1. 수술전·후 또는 기타 긴급상황에서 심방세동 및 심방조동 환자에 대한 심실율의 신속한 조절 2. 비대상성동빈맥에서 빠른 심박수의 조절",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:55Z",
+   "last_observed_at": "2026-09-08T08:51:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:55Z"
+}

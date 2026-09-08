@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601728",
+ "item_name": "말락신정(디하이드로아르테미시닌, 피페라퀸포스페이트)(수출용)",
+ "entp_name": "(주)중헌제약",
+ "permit_date": "20260618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091257]디히드로아르테미시닌|[M286429]피페라퀸포스페이트",
+ "main_item_ingr_eng": "Dihydroartemisinin/Piperaquine Phosphate",
+ "edi_code": "",
+ "atc_code": "P01BF07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601728",
+ "revisions": [
+  {
+   "revision_id": "202601728-d31e9bfb",
+   "content_sha256": "d31e9bfb70f3b883534f83f70b4eb88cba4f35d5a2cce5a3c54b0a1d9f34cad7",
+   "ee_text": "Plasmodium falciparum, P. vivax, P. malariae에 의해 발생한 말라리아의 임상적 발병 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:18Z",
+   "last_observed_at": "2026-09-08T09:05:18Z",
+   "official_revision_date": "2026-06-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:18Z"
+}

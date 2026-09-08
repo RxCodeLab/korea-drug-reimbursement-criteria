@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502627",
+ "item_name": "에시플엔듀오캡슐",
+ "entp_name": "제이더블유신약(주)",
+ "permit_date": "20251010",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균|[M249960]사카로마이세스보울라르디균",
+ "main_item_ingr_eng": "Bacillus Licheniformis/Saccharomyces Boulardii",
+ "edi_code": "",
+ "atc_code": "A07FA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502627",
+ "revisions": [
+  {
+   "revision_id": "202502627-a13348c6",
+   "content_sha256": "a13348c67da4a18444153ab8c9733e07afe65541e01ad2ff82c2ede164e9c386",
+   "ee_text": "정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:19Z",
+   "last_observed_at": "2026-09-08T09:04:19Z",
+   "official_revision_date": "2025-10-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:19Z"
+}

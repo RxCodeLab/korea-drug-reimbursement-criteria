@@ -7,11 +7,12 @@
  "permit_date": "20060314",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M269385]이상연조엑스|[M040789]황금|[M040792]황련|[M040073]대황",
+ "main_item_ingr": "[M040073]대황|[M040789]황금|[M040792]황련|[M269385]이상연조엑스",
  "main_item_ingr_eng": "As Soft Extract/Coptis Rhizome/Rhubarb/Scutellaria Root",
  "edi_code": "",
  "atc_code": "C01EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600403",
+ "history_fetched_at": "2026-08-28T13:24:09Z",
  "revisions": [
   {
    "revision_id": "200600403-4192754d",
@@ -19,9 +20,9 @@
    "ee_text": "비교적 건강하나 역상기(기혈이 머리쪽으로 치밀어 오름)가 있고, 안면홍조(얼굴이 붉어짐), 정신이 불안하고, 변비 경향이 있는 사람의 다음 증상 : 고혈압의 동반증상(홍조, 어깨결림, 귀울림, 머리무거움, 불면, 불안), 코피, 치질로 인한 출혈, 변비, 갱년기 장애, 혈열증",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:24:09Z",
-   "last_observed_at": "2026-08-28T13:24:09Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:39:51Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:09Z"
+ ]
 }

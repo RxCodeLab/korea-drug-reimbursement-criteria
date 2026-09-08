@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200811429",
+ "item_name": "라이넥스나잘스프레이(모메타손푸로에이트)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20081204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070188]모메타손푸로에이트",
+ "main_item_ingr_eng": "Mometasone Furoate",
+ "edi_code": "",
+ "atc_code": "R01AD09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811429",
+ "revisions": [
+  {
+   "revision_id": "200811429-72bfc387",
+   "content_sha256": "72bfc38731a2483d761f1c72da8d3814cacbaa9cefc479cf5768aef6b48310ea",
+   "ee_text": "1. 성인 및 2세 이상의 소아 : 계절 알레르기비염 및 연중비염. 중등도 ～ 중증의 계절 알레르기 비염의 증상이 있었던 환자에서 예방요법은 화분기 시작 예정일(알러젠 노출예정일)의 2 ～ 4주 전에 시작할 수 있다. 2. 18세 이상의 성인 : 비용종 3. 성인 및 12세 이상의 청소년 : 중증의 세균 감염이 없는 급성 비부비동염",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:57Z",
+   "last_observed_at": "2026-09-08T08:42:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:57Z"
+}

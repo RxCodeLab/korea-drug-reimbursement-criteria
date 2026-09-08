@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507075",
+ "item_name": "페북틴정40밀리그램(페북소스타트)",
+ "entp_name": "(주)비보존제약",
+ "permit_date": "20151008",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245171]페북소스타트",
+ "main_item_ingr_eng": "Febuxostat",
+ "edi_code": "658202950",
+ "atc_code": "M04AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507075",
+ "revisions": [
+  {
+   "revision_id": "201507075-ac947503",
+   "content_sha256": "ac947503dcdce39353c16982b28cdc5bf8f9498385ae7fe5c449e05587bc1423",
+   "ee_text": "통풍환자에서의 만성적 고요산혈증의 치료",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:41Z",
+   "last_observed_at": "2026-09-08T08:49:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:41Z"
+}

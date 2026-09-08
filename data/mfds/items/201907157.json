@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907157",
+ "item_name": "브로아제장용정(브로멜라인)",
+ "entp_name": "위더스제약(주)",
+ "permit_date": "20191010",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095415]브로멜라인",
+ "main_item_ingr_eng": "Bromelain",
+ "edi_code": "660703280",
+ "atc_code": "M09AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907157",
+ "revisions": [
+  {
+   "revision_id": "201907157-9456deba",
+   "content_sha256": "9456debaf37f4fd1517bff0495b9626bf374144382c9a7ce4902ae141c1dad63",
+   "ee_text": "부종(부기)을 동반한 염증 증상의 완화, 외상(상처) 또는 수술 후의 부종(부기)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:40Z",
+   "last_observed_at": "2026-09-08T08:56:40Z",
+   "official_revision_date": "2019-10-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:40Z"
+}

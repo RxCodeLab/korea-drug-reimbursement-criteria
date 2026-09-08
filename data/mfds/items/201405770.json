@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405770",
+ "item_name": "여보이주50밀리그램/10밀리리터(이필리무맙, 유전자재조합)",
+ "entp_name": "(유)한국비엠에스제약",
+ "permit_date": "20141205",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261010]이필리무맙",
+ "main_item_ingr_eng": "Ipilimumab",
+ "edi_code": "658700641",
+ "atc_code": "L01XC11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405770",
+ "revisions": [
+  {
+   "revision_id": "201405770-80d41d93",
+   "content_sha256": "80d41d93662af718e1e5c0992090bd5858df3711353656d9001ec2d3365b7878",
+   "ee_text": "1. 수술이 불가능하거나 전이성인 흑색종 치료의 단독요법 또는 니볼루맙과의 병용요법 2. 이전 치료경험이 없는 중간 혹은 고위험 진행성 신세포암 치료로 니볼루맙과의 병용요법 3. 플루오로피리미딘, 옥살리플라틴 및 이리노테칸 치료 후 재발한, 고빈도-현미부수체 불안정성(microsatellite instability-high, MSI-H) 또는 불일치 복구 결함(mismatch repair deficient, dMMR)이 있는 전이성 직결장암 성인 환자에서 니볼루맙과의 병용요법",
+   "ee_doc_id": "29",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:05Z",
+   "last_observed_at": "2026-09-08T08:48:05Z",
+   "official_revision_date": "2020-12-29"
+  },
+  {
+   "revision_id": "201405770-5b967cf9",
+   "content_sha256": "5b967cf9188660fee6754366607e7ec434c0005d0e391c0e183419bd6832174b",
+   "ee_text": "1. 수술이 불가능하거나 전이성인 흑색종 치료의 단독요법 또는 니볼루맙과의 병용요법 2. 이전 치료경험이 없는 중간 혹은 고위험 진행성 신세포암 치료로 니볼루맙과의 병용요법",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-08-29",
+   "first_observed_at": "2026-09-08T08:48:05Z",
+   "last_observed_at": "2026-09-08T08:48:05Z"
+  },
+  {
+   "revision_id": "201405770-658649e8",
+   "content_sha256": "658649e830d0aac2c07f095b9974aeb12bad22ce59dd1eb1e7848d875d41d17c",
+   "ee_text": "수술이 불가능하거나 전이성인 흑색종의 치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:48:05Z",
+   "last_observed_at": "2026-09-08T08:48:05Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:05Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008370",
+ "item_name": "스타빅현탁액(디옥타헤드랄스멕타이트)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20201130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084602]디옥타헤드랄스멕타이트",
+ "main_item_ingr_eng": "Dioctahedral Smectite",
+ "edi_code": "641607171,641607481",
+ "atc_code": "A07BC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008370",
+ "revisions": [
+  {
+   "revision_id": "202008370-2d8319a0",
+   "content_sha256": "2d8319a0245974a86b63420be74d2ae3867edf6e497147f64a42af37d7340ed1",
+   "ee_text": "1. 성인의 식도, 위·십이지장과 관련된 통증의 완화 2. 성인의 급·만성 설사",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:43Z",
+   "last_observed_at": "2026-09-08T08:59:43Z",
+   "official_revision_date": "2026-07-06"
+  },
+  {
+   "revision_id": "202008370-cea0003d",
+   "content_sha256": "cea0003de6eb1a3a239b628b38a893857fa4aa1806686718affb316e006e2c13",
+   "ee_text": "1. 성인의 식도, 위·십이지장과 관련된 통증의 완화 2. 성인의 급·만성 설사 3. 24개월 이상 소아의 급성 설사",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-11-30",
+   "first_observed_at": "2026-09-08T08:59:43Z",
+   "last_observed_at": "2026-09-08T08:59:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:43Z"
+}

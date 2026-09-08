@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199907156",
+ "item_name": "유니필서방정400mg(테오필린)",
+ "entp_name": "한국먼디파마(유)",
+ "permit_date": "19990918",
+ "cancel_date": "20231123",
+ "status": "취하",
+ "main_item_ingr": "[M040643]테오필린",
+ "main_item_ingr_eng": "Theophylline",
+ "edi_code": "",
+ "atc_code": "R03DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907156",
+ "revisions": [
+  {
+   "revision_id": "199907156-86ac3421",
+   "content_sha256": "86ac342159e3643253eeac4956c860590d2f64008fe1838d3672fa08a780d223",
+   "ee_text": "1. 주효능 · 효과 다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 만성기관지염, 폐기종, 천식성기관지염",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:22Z",
+   "last_observed_at": "2026-09-08T08:33:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:22Z"
+}

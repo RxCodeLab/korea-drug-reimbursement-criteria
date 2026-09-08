@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701234",
+ "item_name": "투렌정(벤프로페린인산염)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "19970331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256591]벤프로페린인산염",
+ "main_item_ingr_eng": "Benproperine Phosphate",
+ "edi_code": "",
+ "atc_code": "R05DB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701234",
+ "revisions": [
+  {
+   "revision_id": "199701234-7f40038e",
+   "content_sha256": "7f40038ee007dde2a38bc18830c539bc0432e372e6207626c8a6982fa6198bb4",
+   "ee_text": "1. 주효능 효과 다음 질환에서의 기침 : 감기, 급·만성기관지염, 상기도염(인·후두염), 폐결핵",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:56Z",
+   "last_observed_at": "2026-09-08T08:30:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:56Z"
+}

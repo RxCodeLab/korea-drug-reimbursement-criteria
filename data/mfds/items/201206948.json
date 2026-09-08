@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206948",
+ "item_name": "디클로겔(디클로페낙디에틸아민염)",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20120926",
+ "cancel_date": "20260819",
+ "status": "취하",
+ "main_item_ingr": "[M255472]디클로페낙디에틸아민염",
+ "main_item_ingr_eng": "Diclofenac Diethylamine",
+ "edi_code": "",
+ "atc_code": "M02AA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206948",
+ "revisions": [
+  {
+   "revision_id": "201206948-ea44cc45",
+   "content_sha256": "ea44cc45e6e8a4ec5b2638e457f5409e08964caa54cca0110b1fa9e0a2ec5bf4",
+   "ee_text": "다음 질환 및 증상의 진통·소염(항염) : 1. 건(힘줄), 인대, 근육 및 관절의 외상(상처)성 염증(삠, 타박상 등) 2. 연조직 류마티스 질환의 국소형(건초염(힘줄윤활막염), 어깨손증후군, 점액낭염, 관절주위염 등) 3. 류마티스 질환의 국소형(말초관절 및 척추의 골(뼈)관절증 등)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:31Z",
+   "last_observed_at": "2026-09-08T08:45:31Z",
+   "official_revision_date": "2022-11-07"
+  },
+  {
+   "revision_id": "201206948-0aedba2e",
+   "content_sha256": "0aedba2e6e0dffda6ccf14fdbf41c86b93a6d406a409e219f5465906a57b1050",
+   "ee_text": "다음 질환 및 증상의 진통·소염 : 1. 건, 인대, 근육 및 관절의 외상성 염증(삠, 타박상 등) 2. 연조직 류마티스의 국소형(건초염, 어깨손증후군, 점액낭염, 관절주위염 등) 3. 류마티스 질환의 국소형(말초관절 및 척추의 골관절증 등)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:31Z",
+   "last_observed_at": "2026-09-08T08:45:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:31Z"
+}

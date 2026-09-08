@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104961",
+ "item_name": "제일약품아트로핀황산염주사액(수출용)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20210630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223111]아트로핀황산염수화물",
+ "main_item_ingr_eng": "Atropine Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "A03BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104961",
+ "revisions": [
+  {
+   "revision_id": "202104961-fd4c6907",
+   "content_sha256": "fd4c69078c0dd51b6ad74cc7ff67c87c0eab82b0c7f4143c75a0ca19337c759b",
+   "ee_text": "위장관의 경련성 동통, 담관·요관의 산통, 경련성 변비, 위ㆍ십이지장궤양에서의 분비 및 운동 항진, 방실전도장애, 미주신경성 서맥, 마취전투약, 유기인 살충제ㆍ부교감신경흥분제 중독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:19Z",
+   "last_observed_at": "2026-09-08T09:00:19Z",
+   "official_revision_date": "2021-06-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:19Z"
+}

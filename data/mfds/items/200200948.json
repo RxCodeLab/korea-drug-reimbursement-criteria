@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200948",
+ "item_name": "보령에피루비신염산염주",
+ "entp_name": "(주)보령",
+ "permit_date": "20020415",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222876]에피루비신염산염",
+ "main_item_ingr_eng": "Epirubicin Hydrochloride",
+ "edi_code": "641901601,641901611",
+ "atc_code": "L01DB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200948",
+ "revisions": [
+  {
+   "revision_id": "200200948-cc53d077",
+   "content_sha256": "cc53d07712d682299c102c19aec0658bb3f99088f844c0afc1ef1c5a1b9f5d68",
+   "ee_text": "유방암, 악성림프종, 연조직육종, 위암, 결장직장암, 폐암, 난소암, 간암, 표재성방광암, 경요도절제술 후 재발 방지",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:07Z",
+   "last_observed_at": "2026-09-08T08:36:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:07Z"
+}

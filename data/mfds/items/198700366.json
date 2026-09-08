@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700366",
+ "item_name": "건일로딘정200밀리그램(미분화에토돌락)",
+ "entp_name": "건일제약(주)",
+ "permit_date": "19870812",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257127]미분화에토돌락",
+ "main_item_ingr_eng": "Etodolac Micronized",
+ "edi_code": "646800140",
+ "atc_code": "M01AB08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700366",
+ "revisions": [
+  {
+   "revision_id": "198700366-8afbe586",
+   "content_sha256": "8afbe586b4e7c74209e54f43fbcf918aeab2e838e942f373c4c54fb8dd828789",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 수술후· 외상후· 발치후 동통",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198700366/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:21Z",
+   "last_observed_at": "2026-09-08T08:27:21Z"
+  },
+  {
+   "revision_id": "198700366-bdf07826",
+   "content_sha256": "bdf07826cb2ce761c7c51f5d60a38e3e4c507afe2bb30b3e4b633eae1d059f30",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 수술후⋅ 외상후⋅ 발치후 동통",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:27:21Z",
+   "last_observed_at": "2026-09-08T08:27:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:21Z"
+}

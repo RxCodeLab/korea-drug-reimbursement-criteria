@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500963",
+ "item_name": "바이넥스모니플루메이트정",
+ "entp_name": "(주)바이넥스",
+ "permit_date": "20150225",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092795]모니플루메이트",
+ "main_item_ingr_eng": "Morniflumate",
+ "edi_code": "643103950",
+ "atc_code": "M01AX22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500963",
+ "revisions": [
+  {
+   "revision_id": "201500963-f6f53480",
+   "content_sha256": "f6f53480c19f303a2145be9664aa08816b11f3598a081c89f65626543e73d0ab",
+   "ee_text": "다음 질환 및 증상의 진통, 소염 - 호흡기질환(후두염, 기관염, 기관지염) - 이비인후과질환(부비동염, 이염, 편도염, 인두염) - 골관절질환",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:31Z",
+   "last_observed_at": "2026-09-08T08:48:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:31Z"
+}

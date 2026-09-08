@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "S01XA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600410",
+ "history_fetched_at": "2026-08-28T13:24:09Z",
  "revisions": [
   {
    "revision_id": "200600410-60667c60",
@@ -19,9 +20,9 @@
    "ee_text": "고도근시, 야맹증, 중심 및 주변 망막변성에 의한 약시, 시력감퇴, 안정피로",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:24:09Z",
-   "last_observed_at": "2026-08-28T13:24:09Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:39:51Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:09Z"
+ ]
 }

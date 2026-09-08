@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199502138",
+ "item_name": "이뮤롱캡슐(치모모둘린)(수출명: 이모실린캡슐(Immosline))(수출용)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "19950630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082300]치모모둘린",
+ "main_item_ingr_eng": "Thymomodulin",
+ "edi_code": "",
+ "atc_code": "L03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502138",
+ "revisions": [
+  {
+   "revision_id": "199502138-3306e2e2",
+   "content_sha256": "3306e2e2652ffc3dd5dc253f77fb2fcca0eedeaa9361738d104375ce2552cadc",
+   "ee_text": "1. 간염, 호흡기 질환 등 세균 및 바이러스성 감염질환의 보조치료 2. 면역결핍증의 보조치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:45Z",
+   "last_observed_at": "2026-09-08T08:29:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:45Z"
+}

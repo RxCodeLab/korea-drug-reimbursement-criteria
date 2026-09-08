@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602114",
+ "item_name": "콜드캐치코프시럽",
+ "entp_name": "원광제약(주)",
+ "permit_date": "20260722",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040006]감초|[M040048]길경|[M050058]구아이페네신|[M204422]dl-메틸에페드린염산염|[M223183]카페인무수물|[M223211]클로르페니라민말레산염|[M223273]티페피딘히벤즈산염",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Guaifenesin/Licorice/Platycodon Root/Tipepidine Hibenzate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602114",
+ "revisions": [
+  {
+   "revision_id": "202602114-78dd308e",
+   "content_sha256": "78dd308e0cabff9495a553cd7e6646318532bf70f886bda2821e2f6252f7b915",
+   "ee_text": "기침, 가래, 천식",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:33Z",
+   "last_observed_at": "2026-09-08T09:05:33Z",
+   "official_revision_date": "2026-07-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:33Z"
+}

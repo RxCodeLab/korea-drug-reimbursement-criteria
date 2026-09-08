@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201002184",
+ "item_name": "휴메딕스헤파린나트륨주사25,000단위(수출용)",
+ "entp_name": "(주)휴메딕스",
+ "permit_date": "20100319",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249378]헤파린나트륨",
+ "main_item_ingr_eng": "Heparin Sodium",
+ "edi_code": "",
+ "atc_code": "B01AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002184",
+ "revisions": [
+  {
+   "revision_id": "201002184-50858986",
+   "content_sha256": "508589869881de284d6e9b3a453e5f39b6b2ea99117f554b92b639c97c994049",
+   "ee_text": "1. 혈전증의 예방 2. 수술후 혈전증 및 폐색전증의 예방 및 치료 3. 색전성 심방세동의 예방 및 치료 4. 급성 및 만성 응고이상증의 진단 및 치료 5. 혈관 및 심장수술시 혈액응고 예방 6. 뇌일혈로 인한 뇌혈전증의 예방 7. 기타 1) 수혈, 체외순환, 투석시 또는 실험실에서의 혈액응고 방지 2) 관상동맥폐색증(급성 심근경색 수반시) 3) 말초혈관색전증",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:52Z",
+   "last_observed_at": "2026-09-08T08:43:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:52Z"
+}

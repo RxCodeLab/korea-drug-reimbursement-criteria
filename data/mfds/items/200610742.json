@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200610742",
+ "item_name": "인도포르테카타플라스마(인도메타신)",
+ "entp_name": "(주)재우스팜",
+ "permit_date": "20061018",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040508]인도메타신",
+ "main_item_ingr_eng": "Indometacin",
+ "edi_code": "",
+ "atc_code": "M02AA23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200610742",
+ "revisions": [
+  {
+   "revision_id": "200610742-3900c1bf",
+   "content_sha256": "3900c1bff2a2abe7dec2323019edb20d5ef12ce567f2a6f5b83771a15fd9385b",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) : 퇴행성관절염(골관절염), 어깨관절주위염, 건염(힘줄염)ㆍ건초염(힘줄윤활막염), 건(힘줄)주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기)ㆍ동통(통증)",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:40Z",
+   "last_observed_at": "2026-09-08T08:40:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:40Z"
+}

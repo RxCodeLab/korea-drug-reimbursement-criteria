@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803077",
+ "item_name": "미모틸정(메토카르바몰)(수출용)",
+ "entp_name": "케이엠에스제약(주)",
+ "permit_date": "20180725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050463]메토카르바몰",
+ "main_item_ingr_eng": "Methocarbamol",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803077",
+ "revisions": [
+  {
+   "revision_id": "201803077-61663ade",
+   "content_sha256": "61663adeb247667f54bc21f8e4c3f717eb4e34573fcde1f1b2ecc7875556d722",
+   "ee_text": "근골격계 질환에 수반하는 동통성 연축 : 요배 통증, 경견완 증후군, 견관절 주위염, 변형성 척추증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:25Z",
+   "last_observed_at": "2026-09-08T08:53:25Z",
+   "official_revision_date": "2018-07-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:25Z"
+}

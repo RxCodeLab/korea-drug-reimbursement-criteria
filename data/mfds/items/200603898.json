@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603898",
+ "item_name": "프리마코주(밀리논)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20060420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089902]밀리논",
+ "main_item_ingr_eng": "Milrinone",
+ "edi_code": "652000561",
+ "atc_code": "C01CE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603898",
+ "revisions": [
+  {
+   "revision_id": "200603898-77ad23e0",
+   "content_sha256": "77ad23e014d3f07ac5e4605a53bf53056b6112167e882d472d08c05a167d0932",
+   "ee_text": "○ 성인 : 1. 다른 약물(경구용 디기탈리스류 강심제, 이뇨제, 혈관이완제)에 반응하지 않는 중증의 울혈심부전의 단기 치료 2. 심장수술 후 저심박출량을 포함한 급성 심부전 ○ 13세 미만 소아: 1. 다른 약물(경구용 디기탈리스류 강심제, 이뇨제, 혈관이완제)에 반응하지 않는 중증의 울혈심부전의 단기 치료(35시간까지) 2. 심장수술 후 저심박출량을 포함한 급성 심부전의 단기 치료(35시간까지)",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:59Z",
+   "last_observed_at": "2026-09-08T08:39:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:59Z"
+}

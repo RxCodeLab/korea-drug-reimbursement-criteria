@@ -7,7 +7,7 @@
  "permit_date": "20211007",
  "cancel_date": "20231006",
  "status": "취하",
- "main_item_ingr": "[M040614]클로르족사존|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M040614]클로르족사존",
  "main_item_ingr_eng": "Acetaminophen/Chlorzoxazone",
  "edi_code": "",
  "atc_code": "M03BB53",
@@ -20,7 +20,8 @@
    "ee_text": "신경통, 근육통, 관절통, 요(허리)통, 염좌통(삔 통증), 견통(어깨통증), 근경련(근육경련), 근경직 등 근육의 이상 긴장을 수반하는 제 질환(여러 질환).",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202106782/EE",
    "first_observed_at": "2026-08-27T13:03:45Z",
-   "last_observed_at": "2026-08-28T13:25:25Z"
+   "last_observed_at": "2026-09-08T09:00:39Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "202106782-4912c845",

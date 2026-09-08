@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201104878",
+ "item_name": "인도메타캡슐(인도메타신)",
+ "entp_name": "(주)한국피엠지제약",
+ "permit_date": "20110802",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040508]인도메타신",
+ "main_item_ingr_eng": "Indometacin",
+ "edi_code": "",
+ "atc_code": "M01AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104878",
+ "revisions": [
+  {
+   "revision_id": "201104878-61d94a22",
+   "content_sha256": "61d94a2210a12a2942cf7f4b10ca2551b5bfaac7dc04d533845bf0000b77b5f3",
+   "ee_text": "1. 주효능 효과 류마티양 관절염, 골관절염(퇴행성 관절질환), 급성통풍성 관절염 2. 다음 질환에도 사용할 수 있다. 강직성 척추염, 수술후 . 외상후 동통",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:48Z",
+   "last_observed_at": "2026-09-08T08:44:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:48Z"
+}

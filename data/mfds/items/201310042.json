@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310042",
+ "item_name": "알마정(알마게이트)",
+ "entp_name": "해태에이치티비(주)",
+ "permit_date": "20131105",
+ "cancel_date": "20250529",
+ "status": "취하",
+ "main_item_ingr": "[M081294]알마게이트",
+ "main_item_ingr_eng": "Almagate",
+ "edi_code": "",
+ "atc_code": "A02AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310042",
+ "revisions": [
+  {
+   "revision_id": "201310042-47b87c44",
+   "content_sha256": "47b87c449e27b4f3eb714845285a0afa27412e522c64f1e456cb33c8b81ce04c",
+   "ee_text": "다음 질환의 제산작용 및 증상의 개선 : 위·십이지장궤양, 위염, 위산과다, 속쓰림, 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201310042/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:29Z",
+   "last_observed_at": "2026-09-08T08:46:29Z"
+  },
+  {
+   "revision_id": "201310042-64b74a63",
+   "content_sha256": "64b74a638a7bd8e3654454037269d393f072bd443a27795dd3b1c4d3ffcdc5a9",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 다음 질환의 제산작용 및 증상의 개선 : 위.십이지장궤양, 위염, 위산과다(속쓰림, 구역, 구토, 위통, 신트림), 역류성식도염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:46:29Z",
+   "last_observed_at": "2026-09-08T08:46:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:29Z"
+}

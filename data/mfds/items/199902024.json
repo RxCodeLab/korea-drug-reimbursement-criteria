@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199902024",
+ "item_name": "메로겔(메트로니다졸)",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "19990602",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040170]메트로니다졸",
+ "main_item_ingr_eng": "Metronidazole",
+ "edi_code": "653103391",
+ "atc_code": "D06BX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902024",
+ "revisions": [
+  {
+   "revision_id": "199902024-8cdc7287",
+   "content_sha256": "8cdc7287974a3bf11ea6431db4ec826b530df640ef01e6f6572b5953547dc740",
+   "ee_text": "세균질염(헤모필루스균, 가드네렐라균, 비특이적균, 코리네박테륨 또는 혐기성균에 의한 질염)",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:47Z",
+   "last_observed_at": "2026-09-08T08:32:47Z",
+   "official_revision_date": "2022-06-20"
+  },
+  {
+   "revision_id": "199902024-47d7be9a",
+   "content_sha256": "47d7be9a2636e04fe7a92e52c25995f1c032b7589ce8aede56bfb250a4c4d51d",
+   "ee_text": "- 로섹스겔 0.75%(갈더마코리아) : 주사 - 메로겔(극동제약), 에리블럭겔(명문제약) : 주사, 세균질염(헤모필루스균, 가드네렐라균, 비특이적균, 코리네박테륨 또는 혐기성균에 의한 질염)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:32:47Z",
+   "last_observed_at": "2026-09-08T08:32:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:47Z"
+}

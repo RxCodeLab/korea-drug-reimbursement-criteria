@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199100094",
+ "item_name": "한풍소함흉탕엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19910308",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247138]소함흉탕연조엑스(2.5→1)",
+ "main_item_ingr_eng": "Socheongryongtang Soft Extract (2.5→1)",
+ "edi_code": "",
+ "atc_code": "R07AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100094",
+ "revisions": [
+  {
+   "revision_id": "199100094-47489c10",
+   "content_sha256": "47489c10fd7fa33c54dfd1a4b34b5047ade7de49e3ff6c71f1d9f53a592fee15",
+   "ee_text": "흉복통(심하부 긴장압통), 기관지염, 늑간신경통",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:07Z",
+   "last_observed_at": "2026-09-08T08:28:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:07Z"
+}

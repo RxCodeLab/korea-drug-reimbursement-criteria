@@ -12,16 +12,17 @@
  "edi_code": "057000541",
  "atc_code": "R06AE09",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908548",
+ "history_fetched_at": "2026-08-28T13:25:14Z",
  "revisions": [
   {
-   "revision_id": "201908548-c13fb533",
-   "content_sha256": "c13fb533834a8eabb6b9a62aa88fb6a615f1e96a3495c0084829923710cc2a36",
-   "ee_text": "다음질환의 증상완화",
+   "revision_id": "201908548-c9bd4446",
+   "content_sha256": "c9bd444618069ba9b0b50f6d3b0bab34392b1b827e10eeb66b1207447be4134e",
+   "ee_text": "다음질환의 증상완화 1.계절성 알레르기 비염 또는 다년성 알레르기 비염(지속성 알레르기성 비염 포함) 2.만성 특발성 두드러기 3.가려움증을 동반한 피부염 및 습진(하이드로코티손 외용제와 병용):성인 및 6세이상의 소아에 한함",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:25:14Z",
-   "last_observed_at": "2026-08-28T13:25:14Z",
-   "official_revision_date": "2021-03-26"
+   "last_observed_at": "2026-09-08T08:57:18Z",
+   "official_revision_date": "2021-03-26",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:14Z"
+ ]
 }

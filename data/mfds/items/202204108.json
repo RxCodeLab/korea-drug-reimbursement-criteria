@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204108",
+ "item_name": "메네스에스정24밀리그램(베타히스틴염산염)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20221115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M228002]베타히스틴염산염",
+ "main_item_ingr_eng": "Betahistine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204108",
+ "revisions": [
+  {
+   "revision_id": "202204108-07fe9d11",
+   "content_sha256": "07fe9d1112924c96cbfb9c46d490b384b9eab71daa0c3962ddd744cda6dd5d97",
+   "ee_text": "메니에르병에 의한 어지러움, 이명, 청력 소실",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:39Z",
+   "last_observed_at": "2026-09-08T09:01:39Z",
+   "official_revision_date": "2022-11-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:39Z"
+}

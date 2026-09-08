@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402463",
+ "item_name": "신풍포스포마이신나트륨점이제3%(포스포마이신나트륨)(수출용)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20241018",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020194]포스포마이신나트륨",
+ "main_item_ingr_eng": "Fosfomycin Sodium",
+ "edi_code": "",
+ "atc_code": "S02AA17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402463",
+ "revisions": [
+  {
+   "revision_id": "202402463-0c99921d",
+   "content_sha256": "0c99921d80e2a5b7532604ae2fe88f6c36df24e46e3999fd348247c5fe63530a",
+   "ee_text": "<적응균종> 포스포마이신에감성인포도구균속,프로테우스속,녹농균 <적응증> 외이염,중이염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:23Z",
+   "last_observed_at": "2026-09-08T09:03:23Z",
+   "official_revision_date": "2024-10-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:23Z"
+}

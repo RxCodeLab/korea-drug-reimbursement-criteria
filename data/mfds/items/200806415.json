@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806415",
+ "item_name": "유프라정(란소프라졸)(수출용)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20080611",
+ "cancel_date": "20240708",
+ "status": "취하",
+ "main_item_ingr": "[M085578]란소프라졸",
+ "main_item_ingr_eng": "Lansoprazole",
+ "edi_code": "",
+ "atc_code": "A02BC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806415",
+ "revisions": [
+  {
+   "revision_id": "200806415-3550c237",
+   "content_sha256": "3550c237582bb7bb597975d738d8795b0dbf536ad978251777fd5dbef0e83944",
+   "ee_text": "1. 활동성 십이지장궤양의 단기치료 2. 활동성 양성 위궤양의 단기치료 3. 십이지장궤양 재발방지를 위한 Helicobacter pylori의 박멸 4. 십이지장궤양의 치료후 유지요법 5. 비스테로이드성 소염진통제 유발성 위궤양의 치료 6. 비스테로이드성 소염진통제 유발성 위궤양의 발생위험 감소 7. 위식도 역류질환 관련 증상의 단기치료 8. 미란성 식도염의 단기치료 9. 미란성 식도염의 치료후 유지요법 10. 졸링거 엘리슨 증후군을 포함한 병리학적 과분비 상태",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:35Z",
+   "last_observed_at": "2026-09-08T08:42:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:35Z"
+}

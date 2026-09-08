@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199603124",
+ "item_name": "에버닌주(엘에버나모닌)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "19960504",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082608]에버나모닌",
+ "main_item_ingr_eng": "Eburnamonine",
+ "edi_code": "",
+ "atc_code": "C04AX17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199603124",
+ "revisions": [
+  {
+   "revision_id": "199603124-4ee4a92a",
+   "content_sha256": "4ee4a92a573cdc2f704023117e00b72080ff75e95daaa9aa513463733b17c1f7",
+   "ee_text": "다음 뇌혈관질환의 예방 및 치료 : 뇌순환부전에 의한 기질적·기능적 증상(기억력·주의력장애 등), 충격사고·두부외상후유증, 노년기 뇌경화 및 동맥경화에 의한 정신장애, 고혈압성망막병증",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:27Z",
+   "last_observed_at": "2026-09-08T08:30:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:27Z"
+}

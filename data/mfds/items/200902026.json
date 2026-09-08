@@ -7,19 +7,21 @@
  "permit_date": "20090318",
  "cancel_date": "20231025",
  "status": "취하",
- "main_item_ingr": "[M208932]γ-오리자놀|[M040679]판토텐산칼슘|[M223289]폴산|[M040133]리보플라빈|[M255819]토코페롤아세테이트 2배산|[M256157]시아노코발라민100배산|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M223292]푸르설티아민염산염",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040679]판토텐산칼슘|[M204304]피리독신염산염|[M208932]γ-오리자놀|[M223289]폴산|[M223292]푸르설티아민염산염|[M255819]토코페롤아세테이트 2배산|[M256157]시아노코발라민100배산",
  "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin Powder 1%/Folic Acid/Fursultiamine Hydrochloride/Gamma-Oryzanol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Tocopherol Acetate Powder 50%",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902026",
+ "history_fetched_at": "2026-08-28T13:24:20Z",
  "revisions": [
   {
-   "revision_id": "200902026-53338a4a",
-   "content_sha256": "53338a4a2368daab643c3e9ee364df16216bf2ab9bc79c2e83e88789cbd96ecc",
-   "ee_text": "1 , B 2 , B 6 , E의 보급 : 육체피로, 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시, 노년기\"> 1 : 다음 증상의 완화 - 신경통, 근육통, 관절통(요통, 어깨결림 등), 각기, 눈의피로]]> 6 : 다음 증상의 완화 - 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염]]>",
+   "revision_id": "200902026-fe30bc2d",
+   "content_sha256": "fe30bc2ddbe20d3a1ac05fddbc50110e809818727c9cc650f72666b5d375a519",
+   "ee_text": "○다음경우의 비타민 B1, B2, B6, E의 보급 : 육체피로, 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ비타민B1 : 다음 증상의 완화 - 신경통, 근육통, 관절통(요통, 어깨결림 등), 각기, 눈의피로 ㆍ비타민B6 : 다음 증상의 완화 - 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 ㆍ비타민E : 말초혈행장애 및 갱년기시 다음 증상의 완화-어깨ㆍ목결림, 수족저림ㆍ수족냉증(손발이 차가움)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200902026/EE",
    "first_observed_at": "2026-08-28T13:24:20Z",
-   "last_observed_at": "2026-08-28T13:24:20Z"
+   "last_observed_at": "2026-09-08T08:43:10Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200902026-62ddfe77",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:20Z",
    "last_observed_at": "2026-08-28T13:24:20Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:20Z"
+ ]
 }

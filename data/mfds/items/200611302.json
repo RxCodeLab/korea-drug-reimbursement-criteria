@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200611302",
+ "item_name": "팜비어정750밀리그램(팜시클로비르)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20061122",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250929]팜시클로비르",
+ "main_item_ingr_eng": "Famciclovir",
+ "edi_code": "642906220",
+ "atc_code": "J05AB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611302",
+ "revisions": [
+  {
+   "revision_id": "200611302-0ce782b7",
+   "content_sha256": "0ce782b729d96dd6dbf9ae13a142d5682e2abf0313fe45c5748d4938ce675d63",
+   "ee_text": "대상포진 바이러스 감염증",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:44Z",
+   "last_observed_at": "2026-09-08T08:40:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:44Z"
+}

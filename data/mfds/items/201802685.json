@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802685",
+ "item_name": "아킨지오캡슐",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20180628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246059]팔로노세트론염산염|[M265905]네투피탄트",
+ "main_item_ingr_eng": "Netupitant/Palonosetron Hydrochloride",
+ "edi_code": "640007280",
+ "atc_code": "A04AA55",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802685",
+ "revisions": [
+  {
+   "revision_id": "201802685-31b857c6",
+   "content_sha256": "31b857c6c576df0c880fc8edeeb3b2a946b5ed2963b7dc126be6552990de9c97",
+   "ee_text": "성인 1. 심한 구토 유발성 항암 화학요법제의 초기 및 반복적인 치료에 의해 유발되는 급성 및 지연형의 구역 및 구토의 예방 2. 중등도 구토 유발성 항암 화학요법제의 초기 및 반복적인 치료에 의해 유발되는 급성 및 지연형의 구역 및 구토의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:19Z",
+   "last_observed_at": "2026-09-08T08:53:19Z",
+   "official_revision_date": "2018-06-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:19Z"
+}

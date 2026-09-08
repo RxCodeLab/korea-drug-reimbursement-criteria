@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201607127",
+ "item_name": "액티넘이엑스골드정",
+ "entp_name": "지피테라퓨틱스코리아주식회사",
+ "permit_date": "20161216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050436]메코발라민|[M208932]γ-오리자놀|[M223289]폴산|[M223292]푸르설티아민염산염|[M248795]피리독살포스페이트수화물|[M258748]d-α-토코페롤숙시네이트",
+ "main_item_ingr_eng": "D-Alpha-Tocopherol Succinate/Folic Acid/Fursultiamine Hydrochloride/Gamma-Oryzanol/Mecobalamin/Pyridoxal Phosphate Hydrate",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607127",
+ "revisions": [
+  {
+   "revision_id": "201607127-ade9a14b",
+   "content_sha256": "ade9a14bb1373c570ee542139910e1529b1d131db89a492d4fa4fdc6d81636b9",
+   "ee_text": "ㆍ다음 증상의 완화: 눈의 피로, 근육통ㆍ관절통(어깨ㆍ목 결림, 요통, 오십견 등), 신경통, 손발의 저림",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:23Z",
+   "last_observed_at": "2026-09-08T08:51:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:23Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200404841",
+ "item_name": "유니텍과테크네튬산나트륨(99mTc)주사액제너레이터",
+ "entp_name": "(주)삼영유니텍",
+ "permit_date": "20040406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093129]몰리브덴산나트륨(99Mo)액|[M093569]과테크네튬산나트륨(99mTc)주사액",
+ "main_item_ingr_eng": "Sodium Molybdate (99Mo) Solution/Sodium Pertechnetate (99mTc) Injection",
+ "edi_code": "685100010",
+ "atc_code": "V09FX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404841",
+ "revisions": [
+  {
+   "revision_id": "200404841-c5cb200e",
+   "content_sha256": "c5cb200edef4689ad928b85168d206003ef4287fa6421c6e917c7e06fd47def0",
+   "ee_text": "진단용 방사성의약품인 과테크네튬산나트륨(99mTc) 주사액의 조제용 ※ 과테크네튬산나트륨(99mTc)주사액의 효능‧효과 1) 뇌종양 및 뇌혈관 장애의 진단 2) 갑상선 질환의 진단 3) 타액선 질환의 진단 4) 이소성 위점막 질환의 진단",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200404841/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:37Z",
+   "last_observed_at": "2026-09-08T08:38:37Z"
+  },
+  {
+   "revision_id": "200404841-c05042e2",
+   "content_sha256": "c05042e268691e0259208e71531859412bd0a0d79061eb3c18e53bf58f01861b",
+   "ee_text": "1) 뇌종양 및 뇌혈관 장애의 진단 2) 갑상선 질환의 진단 3) 타액선 질환의 진단 4) 이소성 위점막 질환의 진단",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:38:37Z",
+   "last_observed_at": "2026-09-08T08:38:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:37Z"
+}

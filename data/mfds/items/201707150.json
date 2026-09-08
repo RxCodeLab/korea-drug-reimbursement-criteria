@@ -7,20 +7,13 @@
  "permit_date": "20170919",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051543]클로트리마졸|[M040818]히드로코르티손",
+ "main_item_ingr": "[M040818]히드로코르티손|[M051543]클로트리마졸",
  "main_item_ingr_eng": "Clotrimazole/Hydrocortisone",
  "edi_code": "",
  "atc_code": "D01AC20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707150",
+ "history_fetched_at": "2026-09-08T08:52:22Z",
  "revisions": [
-  {
-   "revision_id": "201707150-3302208c",
-   "content_sha256": "3302208c473471f3520f807f11f2b8a91d593ee329d28cc54f1850183f44bc2a",
-   "ee_text": "1) 백선 2) 피부 칸디다증 3) 어루러기",
-   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201707150/EE",
-   "first_observed_at": "2026-08-28T13:24:57Z",
-   "last_observed_at": "2026-08-28T13:24:57Z"
-  },
   {
    "revision_id": "201707150-8a71e0a3",
    "content_sha256": "8a71e0a3f915cdf1c40bcb43128228407319b864b20e69e6d450a466c4c55bdf",
@@ -28,8 +21,16 @@
    "ee_doc_id": "2",
    "official_revision_date": "2017-09-23",
    "first_observed_at": "2026-08-28T13:24:57Z",
+   "last_observed_at": "2026-09-08T08:52:22Z",
+   "normalizer_version": 3
+  },
+  {
+   "revision_id": "201707150-3302208c",
+   "content_sha256": "3302208c473471f3520f807f11f2b8a91d593ee329d28cc54f1850183f44bc2a",
+   "ee_text": "1) 백선 2) 피부 칸디다증 3) 어루러기",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201707150/EE",
+   "first_observed_at": "2026-08-28T13:24:57Z",
    "last_observed_at": "2026-08-28T13:24:57Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:57Z"
+ ]
 }

@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "R02AA05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501621",
+ "history_fetched_at": "2026-08-28T13:24:42Z",
  "revisions": [
   {
-   "revision_id": "201501621-665fea6a",
-   "content_sha256": "665fea6a47ebb257237f2385cfbb61492f330697db2a25fd99701078a743f409",
-   "ee_text": "다음 질환에 의한 염증의 완화 : 보철(의치)에 의한 염증, 아구창 등의 구강(입안)내 칸디다감염증, 치은염(치은염), 인두염, 아프타성 구내염(입안염) 치근(치아뿌리)막 수술후 살균소독",
+   "revision_id": "201501621-fc20530c",
+   "content_sha256": "fc20530c1cf90be40cff5810170b3a209751299293df838abc230d7c568f0ae3",
+   "ee_text": "1. 주효능 효과 다음 질환에 의한 염증의 완화 : 보철(의치)에 의한 염증, 아구창 등의 구강(입안)내 칸디다감염증, 치은염(치은염), 인두염, 아프타성 구내염(입안염) 2. 다음 질환에도 사용할 수 있다. 치근(치아뿌리)막 수술후 살균소독",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:24:42Z",
-   "last_observed_at": "2026-08-28T13:24:42Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:48:42Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:42Z"
+ ]
 }

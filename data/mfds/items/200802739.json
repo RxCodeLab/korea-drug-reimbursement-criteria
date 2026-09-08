@@ -7,11 +7,12 @@
  "permit_date": "20080312",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M254326]알베린시트르산염|[M223083]시메티콘",
+ "main_item_ingr": "[M223083]시메티콘|[M254326]알베린시트르산염",
  "main_item_ingr_eng": "Alverine Citrate/Simethicone",
  "edi_code": "",
  "atc_code": "A03AX58",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802739",
+ "history_fetched_at": "2026-08-28T13:24:16Z",
  "revisions": [
   {
    "revision_id": "200802739-2294dba5",
@@ -19,9 +20,9 @@
    "ee_text": "위장관계 경련의 진경, 장내 가스제거, 복부팽만으로 인한 소화기계 통증의 경감",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:24:16Z",
-   "last_observed_at": "2026-08-28T13:24:16Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:42:21Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:16Z"
+ ]
 }

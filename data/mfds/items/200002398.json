@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002398",
+ "item_name": "장비환(주증황련환)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20001230",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040792]황련",
+ "main_item_ingr_eng": "Coptis Rhizome",
+ "edi_code": "",
+ "atc_code": "A16A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002398",
+ "revisions": [
+  {
+   "revision_id": "200002398-ac44ae88",
+   "content_sha256": "ac44ae8865a33ac9bdfdf3e47c8be018ec721e56d69ccb9e713025a798b4bc74",
+   "ee_text": "더위에 의한 열감을 느끼는 목마름, 과음에 의한 황달, 음주 후의 새벽설사, 피가 섞인 대변, 열성 설사",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:57Z",
+   "last_observed_at": "2026-09-08T08:33:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:57Z"
+}

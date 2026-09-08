@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202465",
+ "item_name": "바르덤연고",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20220613",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020054]바시트라신|[M202893]네오마이신황산염|[M233313]폴리믹신B황산염",
+ "main_item_ingr_eng": "Bacitracin/Neomycin Sulfate/Polymyxin B Sulfate",
+ "edi_code": "",
+ "atc_code": "D06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202465",
+ "revisions": [
+  {
+   "revision_id": "202202465-dc5fb0bb",
+   "content_sha256": "dc5fb0bbd34dded4f5f40f1874d6a394523f712b6fa70653f43c7572a3ba1fa4",
+   "ee_text": "경미한[가벼운] 베인 상처, 긁힌 상처, 화상의 감염방지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:23Z",
+   "last_observed_at": "2026-09-08T09:01:23Z",
+   "official_revision_date": "2022-06-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:23Z"
+}

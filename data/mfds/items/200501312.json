@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501312",
+ "item_name": "하이아미정(수출용)(카제인가수분해물)(수출명:CASIVIDOtablet)",
+ "entp_name": "천우신약(주)",
+ "permit_date": "20050818",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084984]카제인가수분해물",
+ "main_item_ingr_eng": "Casein Hydrolysate",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501312",
+ "revisions": [
+  {
+   "revision_id": "200501312-ceea818e",
+   "content_sha256": "ceea818e541acdb3bcd73af10f4c2a6b926cb2c56413558b3eb518e56bf1c6de",
+   "ee_text": "자양강장, 허약체질, 육체피로, 병중ㆍ병후(병을 앓는 동안이나 회복 후), 발열성, 소모성질환, 임신, 수유기 등의 영양보급",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:07Z",
+   "last_observed_at": "2026-09-08T08:39:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:07Z"
+}

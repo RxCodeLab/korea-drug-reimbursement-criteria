@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197600629",
+ "item_name": "트룩살정10밀리그램(클로르프로칙센)(수출용)",
+ "entp_name": "(주)유영제약",
+ "permit_date": "19760730",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051534]클로르프로칙센",
+ "main_item_ingr_eng": "Chlorprothixene",
+ "edi_code": "",
+ "atc_code": "N05AF03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600629",
+ "revisions": [
+  {
+   "revision_id": "197600629-2c2dfdf7",
+   "content_sha256": "2c2dfdf7bc89ecb3471edf3670f41b9f1271234954955aa088e4c4e06b9483c3",
+   "ee_text": "정신분열증, 기타 정신병에서의 불안.긴장.흥분",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:25Z",
+   "last_observed_at": "2026-09-08T08:26:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:25Z"
+}

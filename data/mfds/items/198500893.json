@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500893",
+ "item_name": "에세푸릴캡슐(니푸록사지드)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19850830",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200244]니푸록사지드",
+ "main_item_ingr_eng": "Nifuroxazide",
+ "edi_code": "",
+ "atc_code": "A07AX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500893",
+ "revisions": [
+  {
+   "revision_id": "198500893-7463868f",
+   "content_sha256": "7463868fe95bf25ba4f93a20d6b3f9a8f06062e1415acd8b69149c018ce1ac2d",
+   "ee_text": "급성 세균성 설사",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:05Z",
+   "last_observed_at": "2026-09-08T08:27:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:05Z"
+}

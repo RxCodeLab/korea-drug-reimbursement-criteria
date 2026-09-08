@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199702897",
+ "item_name": "콜크린에스액",
+ "entp_name": "(주)태준제약",
+ "permit_date": "19970924",
+ "cancel_date": "20240502",
+ "status": "취하",
+ "main_item_ingr": "[M232835]인산이수소나트륨수화물|[M249575]인산일수소나트륨수화물",
+ "main_item_ingr_eng": "Dibasic Sodium Phosphate Hydrate/Monobasic Sodium Phosphate Hydrate",
+ "edi_code": "",
+ "atc_code": "A06AD17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702897",
+ "revisions": [
+  {
+   "revision_id": "199702897-ede18ea5",
+   "content_sha256": "ede18ea56aa0871bbfc6d51a06515f754f01b093e1f532d04f7b5c65c71e9438",
+   "ee_text": "1. 변비 2. 외과수술시, X-ray조사 및 내시경 검사시의 장세척",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:21Z",
+   "last_observed_at": "2026-09-08T08:31:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:21Z"
+}

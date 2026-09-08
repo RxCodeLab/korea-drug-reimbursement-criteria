@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200003482",
+ "item_name": "손바렌연고(요소)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20000826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040457]요소",
+ "main_item_ingr_eng": "Urea",
+ "edi_code": "644600581",
+ "atc_code": "D02AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200003482",
+ "revisions": [
+  {
+   "revision_id": "200003482-5b78e475",
+   "content_sha256": "5b78e475308a059a3883b14bb57aa31bab9f308d9fcf244c1ddcb03539f6ad69",
+   "ee_text": "진행성 지장각피증(주부습진의 건조형), 손ㆍ발바닥 각피증, 어린선(魚鱗蘚), 노인성 건피증(피부건조증), 모공성 태선, 아토피피부",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:09Z",
+   "last_observed_at": "2026-09-08T08:34:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:09Z"
+}

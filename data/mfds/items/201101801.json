@@ -7,11 +7,12 @@
  "permit_date": "20110330",
  "cancel_date": "20240603",
  "status": "취하",
- "main_item_ingr": "[M204422]dl-메틸에페드린염산염|[M223211]클로르페니라민말레산염|[M050058]구아이페네신|[M222957]덱스트로메토르판브롬화수소산염수화물",
+ "main_item_ingr": "[M050058]구아이페네신|[M204422]dl-메틸에페드린염산염|[M222957]덱스트로메토르판브롬화수소산염수화물|[M223211]클로르페니라민말레산염",
  "main_item_ingr_eng": "Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate/Guaifenesin",
  "edi_code": "",
  "atc_code": "R05FA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101801",
+ "history_fetched_at": "2026-08-28T13:24:25Z",
  "revisions": [
   {
    "revision_id": "201101801-11763752",
@@ -19,9 +20,9 @@
    "ee_text": "기침·가래",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:24:25Z",
-   "last_observed_at": "2026-08-28T13:24:25Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:44:32Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:25Z"
+ ]
 }

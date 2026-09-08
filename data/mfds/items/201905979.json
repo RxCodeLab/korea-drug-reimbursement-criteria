@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905979",
+ "item_name": "넬큐어네일라카(아모롤핀염산염)",
+ "entp_name": "화일약품(주)",
+ "permit_date": "20190823",
+ "cancel_date": "20240823",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M252763]아모롤핀염산염",
+ "main_item_ingr_eng": "Amorolfine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "D01AE16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905979",
+ "revisions": [
+  {
+   "revision_id": "201905979-0887e6fb",
+   "content_sha256": "0887e6fb3e8889421ae8c146e4b40df909974402fdaa83b81d3f4a01559f718f",
+   "ee_text": "피부사상균, 효모균 및 곰팡이에 의한 조갑진균증(손발톱진균증) (감염부위가 조갑(손발톱) 표면의 80% 이하인 경우)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:11Z",
+   "last_observed_at": "2026-09-08T08:56:11Z",
+   "official_revision_date": "2019-08-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:11Z"
+}

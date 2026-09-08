@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "S01XA20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807525",
+ "history_fetched_at": "2026-08-28T13:24:18Z",
  "revisions": [
   {
    "revision_id": "200807525-be874e14",
@@ -19,8 +20,9 @@
    "ee_text": "눈의 피로, 눈물의 보조(눈의 건조), 하드콘택트렌즈 및 소프트렌즈 착용시의 불쾌감, 눈의 침침함(눈곱이 많을 때 등)",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:24:18Z",
-   "last_observed_at": "2026-08-28T13:24:18Z",
-   "official_revision_date": "2021-07-09"
+   "last_observed_at": "2026-09-08T08:42:41Z",
+   "official_revision_date": "2021-07-09",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200807525-73591c08",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:18Z",
    "last_observed_at": "2026-08-28T13:24:18Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:18Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906541",
+ "item_name": "다코젠주(데시타빈)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20090826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M213782]데시타빈",
+ "main_item_ingr_eng": "Decitabine",
+ "edi_code": "646901301",
+ "atc_code": "L01BC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906541",
+ "revisions": [
+  {
+   "revision_id": "200906541-8457d8d7",
+   "content_sha256": "8457d8d77a2c3a92997c20c52ece39e4de43c1da672d0c1ccab9bbc72d238087",
+   "ee_text": "1. 다음과 같은 골수형성이상증후군의 치료 이전 치료 경험 여부에 상관없이, 원발성 또는 속발성 골수형성이상증후군으로서 French-American-British(FAB) 분류에 따른 불응성빈혈(RA), 불응성 철아구성 빈혈(RARS), 골수아구과잉불응성빈혈(RAEB), 형질 전환중인 골수아구 과잉 불응성빈혈(RAEBT), 만성골수단핵구성 백혈병(CMML) 및 International Prognostic Scoring System(IPSS) 분류에 따른 intermediate-1,2 및 고위험군 2. World Health Organization(WHO) 분류에 따라 새롭게 진단받은, 표준유도요법을 시행할 수 없는 65세 이상 성인 환자의 원발성 또는 속발성 급성 골수성 백혈병의 치료",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:29Z",
+   "last_observed_at": "2026-09-08T08:43:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:29Z"
+}

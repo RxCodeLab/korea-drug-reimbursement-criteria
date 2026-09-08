@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301985",
+ "item_name": "마운자로프리필드펜주7.5밀리그램/0.5밀리리터(터제파타이드)",
+ "entp_name": "한국릴리(유)",
+ "permit_date": "20230628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283794]터제파타이드",
+ "main_item_ingr_eng": "Tirzepatide",
+ "edi_code": "",
+ "atc_code": "A10BX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301985",
+ "revisions": [
+  {
+   "revision_id": "202301985-76869ef0",
+   "content_sha256": "76869ef0fb259fa883c98b91970991bc352e7c782f5b35b6f511e77de7aabf2c",
+   "ee_text": "1. 이 약은 성인 제2형 당뇨병 환자의 혈당 조절 개선을 위하여 식이 요법과 운동 요법의 보조제로 투여한다. - 단독요법 - 병용요법 2. 이 약은 아래와 같은 성인 환자의 만성 체중 관리를 위해 저칼로리 식이요법 및 운동요법의 보조제로서 투여한다. - 초기 체질량지수(BMI)가 30 kg/m2 이상인 비만 환자, 또는 - 한 가지 이상의 체중 관련 동반질환(예, 고혈압, 이상지질혈증, 제2형 당뇨병, 폐쇄성 수면 무호흡 또는 심혈관 질환)이 있으면서 초기 체질량지수(BMI)가 27 kg/m2이상 30 kg/m2미만인 과체중 환자 3. 이 약은 초기 체질량지수(BMI)가 30 kg/m2 이상인 성인 비만 환자에서 중등도에서 중증의 폐쇄성 수면 무호흡(OSA)의 치료를 위해 저칼로리 식이요법 및 운동 요법의 보조제로서 투여한다.",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:12Z",
+   "last_observed_at": "2026-09-08T09:02:12Z",
+   "official_revision_date": "2025-08-19"
+  },
+  {
+   "revision_id": "202301985-2dcbd987",
+   "content_sha256": "2dcbd987deab776f35ef45ba53c3e441ab1e8c62e779d56cf5dbdb3db688801a",
+   "ee_text": "1. 이 약은 성인 제2형 당뇨병 환자의 혈당 조절 개선을 위하여 식이 요법과 운동 요법의 보조제로 투여한다. - 단독요법 - 병용요법 2. 이 약은 아래와 같은 성인 환자의 만성 체중 관리를 위해 저칼로리 식이요법 및 운동요법의 보조제로서 투여한다. - 초기 체질량지수(BMI)가 30 kg/m2 이상인 비만 환자, 또는 - 한 가지 이상의 체중 관련 동반질환(예, 고혈압, 이상지질혈증, 제2형 당뇨병, 폐쇄성 수면 무호흡 또는 심혈관 질환)이 있으면서 초기 체질량지수(BMI)가 27 kg/m2이상 30 kg/m2미만인 과체중 환자",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-07-30",
+   "first_observed_at": "2026-09-08T09:02:12Z",
+   "last_observed_at": "2026-09-08T09:02:12Z"
+  },
+  {
+   "revision_id": "202301985-34ddd344",
+   "content_sha256": "34ddd344d8104f6c7fb77de0352d5fcf0fdfdf986c7947bfa213fa4f644e6f06",
+   "ee_text": "이 약은 성인 제2형 당뇨병 환자의 혈당 조절 개선을 위하여 식이 요법과 운동 요법의 보조제로 투여한다. - 단독요법 - 병용요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-06-28",
+   "first_observed_at": "2026-09-08T09:02:12Z",
+   "last_observed_at": "2026-09-08T09:02:12Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:12Z"
+}

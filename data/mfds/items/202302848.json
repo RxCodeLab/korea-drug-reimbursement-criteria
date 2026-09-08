@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302848",
+ "item_name": "모모졸액(케토코나졸)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20230927",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080618]케토코나졸",
+ "main_item_ingr_eng": "Ketoconazole",
+ "edi_code": "",
+ "atc_code": "D01AC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302848",
+ "revisions": [
+  {
+   "revision_id": "202302848-370c8a94",
+   "content_sha256": "370c8a94cd233cbf28527f57d9038f44da48ca6642f5889fae07cb906fea4dee",
+   "ee_text": "효모균(Malassezia furfur (이전명칭: Pityrosporum))에 의한 비듬, 지루피부염의 치료와 재발방지 및 어루러기의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:25Z",
+   "last_observed_at": "2026-09-08T09:02:25Z",
+   "official_revision_date": "2023-09-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:25Z"
+}

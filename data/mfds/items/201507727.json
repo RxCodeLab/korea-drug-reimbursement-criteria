@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507727",
+ "item_name": "스테리탤크파우더(탤크)",
+ "entp_name": "주식회사에스피씨코리아",
+ "permit_date": "20151116",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249191]탤크|[M249191]탤크",
+ "main_item_ingr_eng": "Talc",
+ "edi_code": "",
+ "atc_code": "R07AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507727",
+ "revisions": [
+  {
+   "revision_id": "201507727-0dca3912",
+   "content_sha256": "0dca39126cadde7ceb81c4232c1810762f8b7a8239d0da80a41dac4c26c1045e",
+   "ee_text": "악성 흉막삼출의 재발방지",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:52Z",
+   "last_observed_at": "2026-09-08T08:49:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:52Z"
+}

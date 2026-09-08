@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601573",
+ "item_name": "플라주덱스주",
+ "entp_name": "제이더블유생명과학(주)",
+ "permit_date": "20260529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M044300]포도당일수화물|[M090685]글루콘산나트륨|[M102093]염화마그네슘육수화물|[M240607]아세트산나트륨삼수화물",
+ "main_item_ingr_eng": "Glucose Monohydrate/Magnesium Chloride Hexahydrate/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride/Sodium Gluconate",
+ "edi_code": "678901391",
+ "atc_code": "B05BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601573",
+ "revisions": [
+  {
+   "revision_id": "202601573-4f34bbb2",
+   "content_sha256": "4f34bbb2678ed3fe2040ca7473c4d7daf5fc344a29658adc4945a6547a2cc3f7",
+   "ee_text": "○ 순환혈액량 및 조직간액의 감소시 세포외액의 보급ㆍ보정 ○ 대사성 산증의 보정 ○ 에너지 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:15Z",
+   "last_observed_at": "2026-09-08T09:05:15Z",
+   "official_revision_date": "2026-05-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:15Z"
+}

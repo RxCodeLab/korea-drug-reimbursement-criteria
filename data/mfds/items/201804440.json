@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804440",
+ "item_name": "목테인캡슐(아세틸시스테인)",
+ "entp_name": "(주)씨티씨바이오",
+ "permit_date": "20181108",
+ "cancel_date": "20231108",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050972]아세틸시스테인",
+ "main_item_ingr_eng": "Acetylcysteine",
+ "edi_code": "",
+ "atc_code": "R05CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804440",
+ "revisions": [
+  {
+   "revision_id": "201804440-bfec7d19",
+   "content_sha256": "bfec7d194aab613bfa25f005b755cf97911d8fdd7d2bdcd9ed9fc5dd70788f0b",
+   "ee_text": "다음 질환에서의 객담배출곤란 : 급ㆍ만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:48Z",
+   "last_observed_at": "2026-09-08T08:53:48Z",
+   "official_revision_date": "2018-11-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:48Z"
+}

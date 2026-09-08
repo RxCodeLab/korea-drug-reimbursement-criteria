@@ -7,11 +7,12 @@
  "permit_date": "19850610",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223240]토코페롤아세테이트|[M082033]글리시레틴산|[M203915]클로르헥시딘염산염|[M081436]히노키치올",
+ "main_item_ingr": "[M081436]히노키치올|[M082033]글리시레틴산|[M203915]클로르헥시딘염산염|[M223240]토코페롤아세테이트",
  "main_item_ingr_eng": "Chlorhexidine Hydrochloride/Enoxolone/Hinokitiol/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A01AB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500808",
+ "history_fetched_at": "2026-08-28T13:23:40Z",
  "revisions": [
   {
    "revision_id": "198500808-5db7c6ea",
@@ -19,9 +20,9 @@
    "ee_text": "치은염•치조농루에 의한 여러 증상(잇몸의 발적•부기•출혈•고름 등)의 완화",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:23:40Z",
-   "last_observed_at": "2026-08-28T13:23:40Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:27:04Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:40Z"
+ ]
 }

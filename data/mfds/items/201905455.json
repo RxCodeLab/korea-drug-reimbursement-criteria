@@ -7,11 +7,12 @@
  "permit_date": "20190731",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M102908]타우린|[M244748]판토텐산칼슘|[M222996]리보플라빈포스페이트나트륨|[M223262]티아민질산염|[M223184]카페인수화물",
+ "main_item_ingr": "[M102908]타우린|[M222996]리보플라빈포스페이트나트륨|[M223184]카페인수화물|[M223262]티아민질산염|[M244748]판토텐산칼슘",
  "main_item_ingr_eng": "Caffeine Hydrate/Calcium Pantothenate/Riboflavin Sodium Phosphate/Taurine/Thiamine Nitrate",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905455",
+ "history_fetched_at": "2026-08-28T13:25:10Z",
  "revisions": [
   {
    "revision_id": "201905455-e129ba9d",
@@ -19,9 +20,9 @@
    "ee_text": "졸음, 피로회복",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:10Z",
-   "last_observed_at": "2026-08-28T13:25:10Z",
-   "official_revision_date": "2019-07-31"
+   "last_observed_at": "2026-09-08T08:55:59Z",
+   "official_revision_date": "2019-07-31",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:10Z"
+ ]
 }

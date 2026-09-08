@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200605269",
+ "item_name": "유시락스시럽(히드록시진염산염)",
+ "entp_name": "(주)메디팁",
+ "permit_date": "20060525",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223358]히드록시진염산염",
+ "main_item_ingr_eng": "Hydroxyzine Hydrochloride",
+ "edi_code": "654100091",
+ "atc_code": "N05BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605269",
+ "revisions": [
+  {
+   "revision_id": "200605269-74356ad1",
+   "content_sha256": "74356ad1cf4ee19bc64151062cf5ea8cefd01c4fbdecb56518b84cebcdbfa853",
+   "ee_text": "1. 수술 후, 신경증에서의 불안, 긴장, 초조 2. 두드러기, 피부질환에 수반하는 가려움(습진, 피부염, 피부가려움증)",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:18Z",
+   "last_observed_at": "2026-09-08T08:40:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:18Z"
+}

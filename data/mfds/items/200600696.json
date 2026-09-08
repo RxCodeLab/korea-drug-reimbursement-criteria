@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600696",
+ "item_name": "토라정10밀리그램(토르세미드)",
+ "entp_name": "한국프라임제약(주)",
+ "permit_date": "20060210",
+ "cancel_date": "20240401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M102689]토르세미드",
+ "main_item_ingr_eng": "Torsemide",
+ "edi_code": "",
+ "atc_code": "C03CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600696",
+ "revisions": [
+  {
+   "revision_id": "200600696-89bd81ee",
+   "content_sha256": "89bd81ee27133275b905270a4acf36e10a0947e5aa51aeea50f1a25ac1885c93",
+   "ee_text": "* 10, 20 mg 부종(울혈심부전, 간경변, 신질환)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200600696/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:53Z",
+   "last_observed_at": "2026-09-08T08:39:53Z"
+  },
+  {
+   "revision_id": "200600696-2e3e6bf1",
+   "content_sha256": "2e3e6bf1f7168227e6aa49c44304ced2f1f0209f37149569dc8064f8504c0e77",
+   "ee_text": "부종(울혈심부전, 간경변, 신질환)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:39:53Z",
+   "last_observed_at": "2026-09-08T08:39:53Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:53Z"
+}

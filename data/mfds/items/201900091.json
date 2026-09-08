@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900091",
+ "item_name": "메가팜시버정(팜시클로비르)",
+ "entp_name": "(주)엘앤씨바이오",
+ "permit_date": "20190109",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250929]팜시클로비르",
+ "main_item_ingr_eng": "Famciclovir",
+ "edi_code": "060500120",
+ "atc_code": "J05AB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900091",
+ "revisions": [
+  {
+   "revision_id": "201900091-428a8f8f",
+   "content_sha256": "428a8f8fdd67175c2c633992610d2c060479c1c40643e74c308573305ea57efe",
+   "ee_text": "1. 대상포진 바이러스 감염증 2. 생식기포진 감염증의 치료 및 재발성 생식기포진의 억제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:02Z",
+   "last_observed_at": "2026-09-08T08:54:02Z",
+   "official_revision_date": "2019-01-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:02Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800093",
+ "item_name": "한풍석고가루",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040279]석고",
+ "main_item_ingr_eng": "Gypsum Fibrosum",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800093",
+ "revisions": [
+  {
+   "revision_id": "198800093-33f4cd3c",
+   "content_sha256": "33f4cd3c1e83ce8aee227555c91795860cebf3797bbdef6b053f54d69e25de4e",
+   "ee_text": "조제용 또는 제조용",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:31Z",
+   "last_observed_at": "2026-09-08T08:27:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:31Z"
+}

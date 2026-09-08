@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201406070",
+ "item_name": "스카이셀플루프리필드시린지(세포배양인플루엔자표면항원백신)",
+ "entp_name": "에스케이바이오사이언스(주)",
+ "permit_date": "20141226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286607]정제불활화인플루엔자바이러스표면항원A형[A/Tasmania/318/2025(CVR-359)(H1N1)]|[M286607]정제불활화인플루엔자바이러스표면항원A형[A/Tasmania/318/2025(CVR-359)(H1N1)]|[M286608]정제불활화인플루엔자바이러스표면항원A형[A/Darwin/1415/2025(CVR-400)(H3N2)]|[M286608]정제불활화인플루엔자바이러스표면항원A형[A/Darwin/1415/2025(CVR-400)(H3N2)]|[M286609]정제불활화인플루엔자바이러스표면항원B형[B/Tokyo/EIS13-175/2025]|[M286609]정제불활화인플루엔자바이러스표면항원B형[B/Tokyo/EIS13-175/2025]",
+ "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A[A/Darwin/1415/2025(CVR-400)(H3N2)]/Purified Inactivated Influenza Virus Antigen A[A/Tasmania/318/2025(CVR-359)(H1N1)]/Purified Inactivated Influenza Virus Antigen B[B/Tokyo/EIS13-175/2025]",
+ "edi_code": "",
+ "atc_code": "J07BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406070",
+ "revisions": [
+  {
+   "revision_id": "201406070-47e9eb39",
+   "content_sha256": "47e9eb39918ba3f7a53ed6e3b0c54e5807a46ebc7c81c3146794b1e99c64eac4",
+   "ee_text": "생후 6개월 이상의 소아, 청소년, 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "64",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:11Z",
+   "last_observed_at": "2026-09-08T08:48:11Z",
+   "official_revision_date": "2025-11-20"
+  },
+  {
+   "revision_id": "201406070-794bfcb1",
+   "content_sha256": "794bfcb191bee2a161ec9399c79c09f5aab7ad2eba345c9d444c4a4f3314c308",
+   "ee_text": "6개월 이상의 소아, 청소년, 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:48:11Z",
+   "last_observed_at": "2026-09-08T08:48:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:11Z"
+}

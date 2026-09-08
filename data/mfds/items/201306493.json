@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201306493",
+ "item_name": "리날비타정(수출용)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20130328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M050704]비오틴|[M096429]시아노코발라민|[M204304]피리독신염산염|[M223258]티아민염산염|[M223289]폴산|[M244748]판토텐산칼슘|[M258994]아스코르브산",
+ "main_item_ingr_eng": "Ascorbic Acid/Biotin/Calcium Pantothenate/Cyanocobalamin/Folic Acid/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11EB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306493",
+ "revisions": [
+  {
+   "revision_id": "201306493-cae838a5",
+   "content_sha256": "cae838a5988b82e9a5de52aa88886e65ac7034e5411aaa3bdfcd0fe61f074c81",
+   "ee_text": "비타민 보급제 : 신장질환환자의 신장투석 전.후",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:57Z",
+   "last_observed_at": "2026-09-08T08:45:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:57Z"
+}

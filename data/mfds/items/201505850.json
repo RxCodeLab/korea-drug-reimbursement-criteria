@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505850",
+ "item_name": "덱스트라현탁액(디옥타헤드랄스멕타이트)(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20150820",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084602]디옥타헤드랄스멕타이트|[M084602]디옥타헤드랄스멕타이트",
+ "main_item_ingr_eng": "Dioctahedral Smectite",
+ "edi_code": "",
+ "atc_code": "A07BC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505850",
+ "revisions": [
+  {
+   "revision_id": "201505850-cea0003d",
+   "content_sha256": "cea0003de6eb1a3a239b628b38a893857fa4aa1806686718affb316e006e2c13",
+   "ee_text": "1. 성인의 식도, 위·십이지장과 관련된 통증의 완화 2. 성인의 급·만성 설사 3. 24개월 이상 소아의 급성 설사",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:30Z",
+   "last_observed_at": "2026-09-08T08:49:30Z",
+   "official_revision_date": "2019-07-05"
+  },
+  {
+   "revision_id": "201505850-84074376",
+   "content_sha256": "840743762fa9afdcb584031fe9c01a20fccc489d73619b6fc4cb8693f244b341",
+   "ee_text": "1. 식도,위·십이지장과 장관질환에 관련된 통증증상 2. 급성,만성설사",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:49:30Z",
+   "last_observed_at": "2026-09-08T08:49:30Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:30Z"
+}

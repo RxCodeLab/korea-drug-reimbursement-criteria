@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202009258",
+ "item_name": "글루원정",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20201228",
+ "cancel_date": "20251228",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051564]탄산칼슘|[M083069]글루타민",
+ "main_item_ingr_eng": "Calcium Carbonate/Glutamine",
+ "edi_code": "",
+ "atc_code": "A02AC10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009258",
+ "revisions": [
+  {
+   "revision_id": "202009258-3ba523b3",
+   "content_sha256": "3ba523b3cb5b3be91a0973ddd654e556cf2c3a12293214adae3b52fd64d88a43",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:47Z",
+   "last_observed_at": "2026-09-08T08:59:47Z",
+   "official_revision_date": "2020-12-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:47Z"
+}

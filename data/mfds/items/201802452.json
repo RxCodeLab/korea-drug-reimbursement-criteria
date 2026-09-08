@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802452",
+ "item_name": "포스포산(포스포마이신트로메탐올)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20180614",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085225]포스포마이신트로메탐올",
+ "main_item_ingr_eng": "Fosfomycin Trometamol",
+ "edi_code": "662503951",
+ "atc_code": "J01XX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802452",
+ "revisions": [
+  {
+   "revision_id": "201802452-13ed7890",
+   "content_sha256": "13ed7890de4d53388b4ed6ab2a3be55ce9a2459625d879a9b164bfe602719b8d",
+   "ee_text": "- 성인 여성의 급성 단순 방광염 - 임부의 중증 무증후성 세균뇨 - 성인 남성의 경직장 전립선생검술 전ㆍ후 감염 예방",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:15Z",
+   "last_observed_at": "2026-09-08T08:53:15Z",
+   "official_revision_date": "2022-03-08"
+  },
+  {
+   "revision_id": "201802452-d9ef45c1",
+   "content_sha256": "d9ef45c161c01d91d2d87c901d588aa527e9407b45bdc1e0d6c229f7eb466ec6",
+   "ee_text": "- 방광염, 요도염 등 요로감염증 - 무증후성 세균뇨 - 수술 전ㆍ후 요로감염 방지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-06-14",
+   "first_observed_at": "2026-09-08T08:53:15Z",
+   "last_observed_at": "2026-09-08T08:53:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:15Z"
+}

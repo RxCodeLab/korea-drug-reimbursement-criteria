@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200558",
+ "item_name": "셀비온그린주(인도시아닌그린)",
+ "entp_name": "(주)셀비온",
+ "permit_date": "20220204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086788]인도시아닌그린",
+ "main_item_ingr_eng": "Indocyanine Green",
+ "edi_code": "055800181",
+ "atc_code": "V04CX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200558",
+ "revisions": [
+  {
+   "revision_id": "202200558-d3bf0e87",
+   "content_sha256": "d3bf0e874a088653ad6f2be6be3fea93b040ce99b4f3888984a1d29d793fb086",
+   "ee_text": "1. 간기능 검사(혈장 소실(없어짐)율, 혈중 정체율과 간혈류량 측정): 간질환의 진단, 예후 치유의 판정 2. 순환기능 검사(심박출량, 평균 순환시간 또는 이상혈류량의 측정): 심장 혈관계 질환의 진단 3. 형광 안저혈관 조영술",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:03Z",
+   "last_observed_at": "2026-09-08T09:01:03Z",
+   "official_revision_date": "2022-02-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:03Z"
+}

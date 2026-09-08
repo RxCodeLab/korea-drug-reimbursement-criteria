@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602007",
+ "item_name": "와이누아오토인젝터주45밀리그램(에플론테르센나트륨)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20260710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286599]에플론테르센나트륨",
+ "main_item_ingr_eng": "Eplontersen Sodium",
+ "edi_code": "",
+ "atc_code": "N07XX21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602007",
+ "revisions": [
+  {
+   "revision_id": "202602007-8c87d05c",
+   "content_sha256": "8c87d05c721ced67c907584bf8d56ef1691f0d334114ead0fe0ea2a2820b6a27",
+   "ee_text": "트랜스티레틴 가족성 아밀로이드성 다발신경병증(1단계 또는 2단계 다발신경병증이 있는 성인 환자)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:30Z",
+   "last_observed_at": "2026-09-08T09:05:30Z",
+   "official_revision_date": "2026-07-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:30Z"
+}

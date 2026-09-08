@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900493",
+ "item_name": "치평정(을자탕)",
+ "entp_name": "정우신약(주)",
+ "permit_date": "19991108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090275]을자탕건조엑스",
+ "main_item_ingr_eng": "",
+ "edi_code": "",
+ "atc_code": "A06A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900493",
+ "revisions": [
+  {
+   "revision_id": "199900493-d3e514f9",
+   "content_sha256": "d3e514f9c98df341c7fa1af87947534c3c731aa42277231f6ce666ceff835380",
+   "ee_text": "대변이 굳고(딱딱하며) 변비 경향이 있는 사람의 다음 증상 : 치핵, 치열, 변비",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:33Z",
+   "last_observed_at": "2026-09-08T08:32:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:33Z"
+}

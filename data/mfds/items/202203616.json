@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203616",
+ "item_name": "한국팜비오세보플루란흡입액",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20220920",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085441]세보플루란",
+ "main_item_ingr_eng": "Seboflurane",
+ "edi_code": "",
+ "atc_code": "N01AB08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203616",
+ "revisions": [
+  {
+   "revision_id": "202203616-8f072698",
+   "content_sha256": "8f07269810ec791010c678bb8b7e4748b2d25e906f757f10c1e8d3ea2e6e585b",
+   "ee_text": "전신마취",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:33Z",
+   "last_observed_at": "2026-09-08T09:01:33Z",
+   "official_revision_date": "2022-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:33Z"
+}

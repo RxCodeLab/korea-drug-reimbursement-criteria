@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004929",
+ "item_name": "유히브주(헤모필루스 인플루엔자 비형·파상풍톡소이드 접합백신)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20100810",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252447]헤모필루스 인플루엔자 비형균 협막다당류.파상풍톡소이드접합체(균주: Haemophilus influenzae type b(ATCC 31441),  Clostridium tetani(Harvard 43415))",
+ "main_item_ingr_eng": "Haemophilus Influenzae Type B Capsular Polysaccharide·Tetanus Toxoid Conjugate (Strain: Haemophilus Influenzae Type B, ATCC 31441, Strain: Clostridium Tetani, Harvard 43415)",
+ "edi_code": "",
+ "atc_code": "J07AG51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004929",
+ "revisions": [
+  {
+   "revision_id": "201004929-d7485b71",
+   "content_sha256": "d7485b712e74152038961b3626c9d0cb32c1b741ca3f04bd79cfacacb3f37991",
+   "ee_text": "2 개월 이상의 영아에서 헤모필루스 인플루엔자 비형(Haemophilus influenzae type b)에 의한 침습성 감염증의 예방",
+   "ee_doc_id": "25",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:11Z",
+   "last_observed_at": "2026-09-08T08:44:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:11Z"
+}

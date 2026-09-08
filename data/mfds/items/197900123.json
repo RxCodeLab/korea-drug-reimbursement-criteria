@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900123",
+ "item_name": "크리돌정100밀리그람(설린닥)",
+ "entp_name": "건일제약(주)",
+ "permit_date": "19790810",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050765]설린닥",
+ "main_item_ingr_eng": "Sulindac",
+ "edi_code": "",
+ "atc_code": "M01AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900123",
+ "revisions": [
+  {
+   "revision_id": "197900123-364ee8bb",
+   "content_sha256": "364ee8bbd35a16591da86279a1add556df782a27552745badfda4c75c1e0e3ae",
+   "ee_text": "1. 주효능 효과 골관절염(퇴행성 관절질환), 류마티양 관절염 2. 다음 질환에도 사용할 수 있다. 강직성 척추염, 급성통풍성 관절염, 관절주위염(건염, 점액낭염, 건초염)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:33Z",
+   "last_observed_at": "2026-09-08T08:26:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:33Z"
+}

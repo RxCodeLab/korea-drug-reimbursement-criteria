@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600975",
+ "item_name": "선렌카정(레나카파비르나트륨)",
+ "entp_name": "길리어드사이언스코리아(유)",
+ "permit_date": "20260407",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286249]레나카파비르나트륨",
+ "main_item_ingr_eng": "Lenacapavir Sodium",
+ "edi_code": "",
+ "atc_code": "J05AX31",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600975",
+ "revisions": [
+  {
+   "revision_id": "202600975-54bb5beb",
+   "content_sha256": "54bb5beb3b7c478e69e4b20a6bf2b41cbad64c795e93f4e927840c68759166cd",
+   "ee_text": "기존 항레트로바이러스요법 실패로 다른 효과적인 치료요법을 제공할 수 없는 다제내성 HIV-1 감염 성인 환자에서 다른 항레트로바이러스제와 병용요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:59Z",
+   "last_observed_at": "2026-09-08T09:04:59Z",
+   "official_revision_date": "2026-04-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:59Z"
+}

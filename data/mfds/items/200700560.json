@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200700560",
+ "item_name": "에취투정400mg(시메티딘)(수출용, 수출명 : CIMEMEDICO, CIMETIDINE TAB. 400mg)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20070115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050857]시메티딘",
+ "main_item_ingr_eng": "Cimetidine",
+ "edi_code": "",
+ "atc_code": "A02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700560",
+ "revisions": [
+  {
+   "revision_id": "200700560-19709e72",
+   "content_sha256": "19709e72c5fe1373944955ad2fab4493dcdf64396f07dccc830f960bca895e16",
+   "ee_text": "1. 주효능 효과 위ㆍ십이지장궤양, 역류성식도염, 재발성궤양, 문합부궤양, 졸링거-엘리슨증후군, 다음 질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:53Z",
+   "last_observed_at": "2026-09-08T08:40:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:53Z"
+}

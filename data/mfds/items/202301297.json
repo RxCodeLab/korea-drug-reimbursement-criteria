@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301297",
+ "item_name": "탈루스크림(우레아)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20230420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089404]우레아",
+ "main_item_ingr_eng": "Urea",
+ "edi_code": "",
+ "atc_code": "D02AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301297",
+ "revisions": [
+  {
+   "revision_id": "202301297-714753c2",
+   "content_sha256": "714753c2b17c8044b582caeae50b64c19acd7fed37bb1ab6ff23d5ea82298e64",
+   "ee_text": "진행성 지장각피증(주부습진의 건조형), 손·발바닥 각피증, 어린선(魚鱗蘚), 노인성 건피증, 모공성 태선, 아토피피부",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:01Z",
+   "last_observed_at": "2026-09-08T09:02:01Z",
+   "official_revision_date": "2023-04-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:01Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500037",
+ "item_name": "크라벤졸정(트리클라벤다졸)(수출용)(수출명:Clabenzole Tab.)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20050831",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102512]트리클라벤다졸",
+ "main_item_ingr_eng": "Triclabendazole",
+ "edi_code": "",
+ "atc_code": "P02BX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500037",
+ "revisions": [
+  {
+   "revision_id": "200500037-17f22124",
+   "content_sha256": "17f22124efab06526f63ef1fbfba07aedc7214f5c77e89958ce2de4fa03ef110",
+   "ee_text": "Fasciola hepatica Fasciola gigantica에 의한 간질증 Paragonimus westermani 다른 Paragonimus species에 의한 폐흡충증",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:47Z",
+   "last_observed_at": "2026-09-08T08:38:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:47Z"
+}

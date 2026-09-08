@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200704589",
+ "item_name": "알베스코흡입제80(시클레소니드)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20070420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M210532]시클레소니드",
+ "main_item_ingr_eng": "Ciclesonide",
+ "edi_code": "644704901",
+ "atc_code": "R03BA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704589",
+ "revisions": [
+  {
+   "revision_id": "200704589-39f03f23",
+   "content_sha256": "39f03f23edaf165c35f08b8a6091e1e4a5ea1e293694a0b8eb19a0009bf6da94",
+   "ee_text": "기관지 천식의 예방적 치료",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:24Z",
+   "last_observed_at": "2026-09-08T08:41:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:24Z"
+}

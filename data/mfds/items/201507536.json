@@ -1,0 +1,58 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507536",
+ "item_name": "블린사이토주 35마이크로그램(블리나투모맙, 유전자재조합)",
+ "entp_name": "암젠코리아유한회사",
+ "permit_date": "20151103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263017]블리나투모맙",
+ "main_item_ingr_eng": "Blinatumomab",
+ "edi_code": "052300031",
+ "atc_code": "L01FX07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507536",
+ "revisions": [
+  {
+   "revision_id": "201507536-d1bcb6d7",
+   "content_sha256": "d1bcb6d70c484c4d1dc6c36ced72cc0c07ab985382e4179f48170a64c8f48587",
+   "ee_text": "1. 미세잔존질환 (MRD) 양성인 전구 B세포 급성 림프모구성 백혈병 (ALL) 성인 및 소아에서 미세잔존질환(minimal residual disease, MRD)이 0.1% 이상인 첫번째 또는 두번째 관해상태의 전구 B세포 급성 림프모구성 백혈병 (ALL)의 치료. 2. 재발 또는 불응성 전구 B세포 급성 림프모구성 백혈병 (ALL) 성인 및 소아에서 재발 또는 불응성 전구 B세포 급성 림프모구성 백혈병 (ALL)의 치료. 3. 전구 B세포 급성 림프모구성 백혈병 (ALL)의 공고 요법 성인 및 소아에서 필라델피아 염색체 음성인 전구 B세포 급성 림프모구성 백혈병 (ALL)의 공고 요법 치료.",
+   "ee_doc_id": "45",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:49Z",
+   "last_observed_at": "2026-09-08T08:49:49Z",
+   "official_revision_date": "2025-02-14"
+  },
+  {
+   "revision_id": "201507536-3ca0c0ad",
+   "content_sha256": "3ca0c0ad63324134a81a985f9d03ce9cf5bfec04781d784fd2c4cc01b9be1562",
+   "ee_text": "1. 미세잔존질환(MRD) 양성인 전구 B세포 급성 림프모구성 백혈병 (ALL) 성인 및 소아에서 미세잔존질환(minimal residual disease, MRD)이 0.1% 이상인 첫번째 또는 두번째 관해상태의 전구 B세포 급성 림프모구성 백혈병 (ALL)의 치료. 2. 재발 또는 불응성 전구 B세포 급성 림프모구성 백혈병 (ALL) 성인 및 소아에서 재발 또는 불응성 전구 B세포 급성 림프모구성 백혈병 (ALL)의 치료.",
+   "ee_doc_id": "36",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-09-03",
+   "first_observed_at": "2026-09-08T08:49:49Z",
+   "last_observed_at": "2026-09-08T08:49:49Z"
+  },
+  {
+   "revision_id": "201507536-2e24376d",
+   "content_sha256": "2e24376dd4e3376e1cdf6a3b71abc75b7e6d271d033fc97667927c4cb84511aa",
+   "ee_text": "성인 및 소아에서 재발 또는 불응성 전구 B세포 급성 림프모구성 백혈병의 치료",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-01-29",
+   "first_observed_at": "2026-09-08T08:49:49Z",
+   "last_observed_at": "2026-09-08T08:49:49Z"
+  },
+  {
+   "revision_id": "201507536-776d3a2f",
+   "content_sha256": "776d3a2ff5152b5846b2ec4eaebd6d00c8ec310e2bea664d760d72cec8a09eed",
+   "ee_text": "필라델피아 염색체 음성인 재발 또는 불응성 전구 B세포 급성 림프모구성 백혈병의 치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:49:49Z",
+   "last_observed_at": "2026-09-08T08:49:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:49Z"
+}

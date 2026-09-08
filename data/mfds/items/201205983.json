@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201205983",
+ "item_name": "라스타카프트점안액0.25%(알카프타딘)",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20120629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M118332]알카프타딘",
+ "main_item_ingr_eng": "Alcaftadine",
+ "edi_code": "624900521",
+ "atc_code": "S01GX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205983",
+ "revisions": [
+  {
+   "revision_id": "201205983-d42bb5d3",
+   "content_sha256": "d42bb5d32dd640863887be5465005b1da7ec53494b508bf1f794d170dff016d2",
+   "ee_text": "알레르기성 결막염의 가려움증 예방",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:21Z",
+   "last_observed_at": "2026-09-08T08:45:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:21Z"
+}

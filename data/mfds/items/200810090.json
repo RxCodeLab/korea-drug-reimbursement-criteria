@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200810090",
+ "item_name": "듀오레이주사270밀리그램(요오딕사놀)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20081001",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089870]요오딕사놀",
+ "main_item_ingr_eng": "Iodixanol",
+ "edi_code": "073600132,073600133,073600134,653406341,653406351,653406371",
+ "atc_code": "V08AB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810090",
+ "revisions": [
+  {
+   "revision_id": "200810090-5e1cae4f",
+   "content_sha256": "5e1cae4f9712e38128dcd74496250806236d9fcc46e9fd95b23c77c6171a5b2c",
+   "ee_text": "1. 성인에 있어서 다음의 조영술에 X선 조영제로 투여한다. 심혈관조영, 뇌혈관조영(종래의 조영술), 말초동맥조영(종래의 조영술), 복부혈관조영(동맥 DSA), 정맥요로조영(IVP), 정맥조영, CT 조영증강, 척수조영(요추, 흉추, 경추), 관절조영, 자궁난관조영, 소화관조영 2. 소아에 있어서 다음의 조영술에 X선 조영제로 투여한다. 심혈관조영, 정맥요로조영, CT 조영증강, 소화관조영",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:51Z",
+   "last_observed_at": "2026-09-08T08:42:51Z",
+   "official_revision_date": "2023-04-10"
+  },
+  {
+   "revision_id": "200810090-54fb7b9d",
+   "content_sha256": "54fb7b9d0992bb844648e074bc6879949f87ccdb05d248b4f7e6c7a6ddf74ff8",
+   "ee_text": "1. 성인에 있어서 다음의 조영술에 X선 조영제로 투여한다. 심혈관조영, 뇌혈관조영(종래의 조영술 및 동맥 DSA), 말초동맥조영(종래의 조영술 및 동맥 DSA), 복부혈관조영(동맥 DSA), 정맥요로조영(IVP), 정맥조영, CT 조영증강, 척수조영(요추, 흉추, 경추), 관절조영, 자궁난관조영, 내시경역행췌담관조영(ERCP), 소화관조영 2. 소아에 있어서 다음의 조영술에 X선 조영제로 투여한다. 심혈관조영, 정맥요로조영, CT 조영증강, 소화관조영",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:51Z",
+   "last_observed_at": "2026-09-08T08:42:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:51Z"
+}

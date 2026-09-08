@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905639",
+ "item_name": "동아락툴로오스농축액시럽",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20190809",
+ "cancel_date": "20240809",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M254495]락툴로오스농축액",
+ "main_item_ingr_eng": "Lactulose Concentrate Solution",
+ "edi_code": "",
+ "atc_code": "A06AD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905639",
+ "revisions": [
+  {
+   "revision_id": "201905639-6659cb9b",
+   "content_sha256": "6659cb9b43ba017714884d16d99756ea06d4aba96bae032472f131f99db2c644",
+   "ee_text": "변비 - 만성변비 - 영·유아 및 소아의 변비 - 분만 후의 변비",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:03Z",
+   "last_observed_at": "2026-09-08T08:56:03Z",
+   "official_revision_date": "2019-08-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:03Z"
+}

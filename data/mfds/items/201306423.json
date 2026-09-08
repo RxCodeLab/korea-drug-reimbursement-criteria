@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201306423",
+ "item_name": "플러비카타플라스마(플루르비프로펜)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20130322",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306423",
+ "revisions": [
+  {
+   "revision_id": "201306423-4e2b5688",
+   "content_sha256": "4e2b5688f5bb1f9970d5f4a7c32f75fbbf0028003aac94aaa114d7e8da0d8238",
+   "ee_text": "다음 질환 및 증상의 진통 ㆍ 소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건 ㆍ 건초염, 상완골상과염(테니스 엘보우 등), 근육통, 외상후의 종창 ㆍ 동통",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:57Z",
+   "last_observed_at": "2026-09-08T08:45:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:57Z"
+}

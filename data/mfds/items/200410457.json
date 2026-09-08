@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410457",
+ "item_name": "페리오클린치과용연고(미노사이클린염산염)",
+ "entp_name": "바이머",
+ "permit_date": "20040113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223036]미노사이클린염산염",
+ "main_item_ingr_eng": "Minocycline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A01AB23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410457",
+ "revisions": [
+  {
+   "revision_id": "200410457-9218d5e0",
+   "content_sha256": "9218d5e03d877b2963adeb7564a36470aac64263d91cbbfde0c3f929a190541b",
+   "ee_text": "미노사이클린 염산염에 감수성인 Porphyromonas gingivalis, Prevotella intermedia, Prevotella melaninogenica, Eikenella corrodens, Fusobacterium nucleatum, Capnocytophaga spp., Aggregatibacter actinomycetemcomitans 에 의한 치주염(만성 변연성 치주염)의 여러 증상의 개선",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:41Z",
+   "last_observed_at": "2026-09-08T08:38:41Z",
+   "official_revision_date": "2019-03-04"
+  },
+  {
+   "revision_id": "200410457-64ef50f3",
+   "content_sha256": "64ef50f3b8890253299d717d5240517fb9f7ced95a8cd12113756926f38a45d9",
+   "ee_text": "미노사이클린 염산염에 감수성인 Porphyromonas ginglvalis, Prevotella intermedia, Prevotella melaninogenica, Eikenella corrodens, Fusobacterium nucleatum, Capnocytophaga spp., Aggregatibacter actinomycetmcomitans 에 의한 치주염(만성 변연성 치주염)여러증상의 개선",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-12-07",
+   "first_observed_at": "2026-09-08T08:38:41Z",
+   "last_observed_at": "2026-09-08T08:38:41Z"
+  },
+  {
+   "revision_id": "200410457-6f345268",
+   "content_sha256": "6f345268ae1d34752411bb1b29dbc22ccf29c0872e711c22e3080a41b0573d78",
+   "ee_text": "미노사이클린 염산염에 감수성인 Porphyromonas ginglvalis, Prevotella intermedia, Prevotella melaninogenicus, Eikenella corrodens, Fusobacterium nucleatum, Capnocytophaga spp., Haemophilus actinomycetmcomitans 에 의한 치주염(만성 변연성 치주염)여러증상의 개선",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:38:41Z",
+   "last_observed_at": "2026-09-08T08:38:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:41Z"
+}

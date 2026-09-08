@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705739",
+ "item_name": "로진정25mg(히드록시진염산염)(수출용)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20170718",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223358]히드록시진염산염",
+ "main_item_ingr_eng": "Hydroxyzine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N05BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705739",
+ "revisions": [
+  {
+   "revision_id": "201705739-74356ad1",
+   "content_sha256": "74356ad1cf4ee19bc64151062cf5ea8cefd01c4fbdecb56518b84cebcdbfa853",
+   "ee_text": "1. 수술 후, 신경증에서의 불안, 긴장, 초조 2. 두드러기, 피부질환에 수반하는 가려움(습진, 피부염, 피부가려움증)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:06Z",
+   "last_observed_at": "2026-09-08T08:52:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:06Z"
+}

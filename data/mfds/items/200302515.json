@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302515",
+ "item_name": "티파론정(티로프라미드염산염)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20030423",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263920]티로프라미드염산염",
+ "main_item_ingr_eng": "Tiropramide Hydrochloride",
+ "edi_code": "669904070",
+ "atc_code": "A03AC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302515",
+ "revisions": [
+  {
+   "revision_id": "200302515-28853990",
+   "content_sha256": "28853990c34c52e49519df94477abf20728432e7fef5a0d1dc4d35e62802d32b",
+   "ee_text": "1. 다음 질환에서의 급성 경련성 동통 : 간담도산통, 여러 원인에 의한 복부산통, 신장ㆍ요관의 산통 2. 다음 질환에서의 복부 경련 및 동통 : 위장관 이상운동증, 담석증, 담낭염, 수술 후 유착",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:13Z",
+   "last_observed_at": "2026-09-08T08:37:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:13Z"
+}

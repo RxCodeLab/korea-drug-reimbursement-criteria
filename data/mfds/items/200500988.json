@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500988",
+ "item_name": "악모딤정(Acmodim)(카제인가수분해물)(수출용)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20051212",
+ "cancel_date": "20251016",
+ "status": "취하",
+ "main_item_ingr": "[M084984]카제인가수분해물",
+ "main_item_ingr_eng": "Casein Hydrolysate",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500988",
+ "revisions": [
+  {
+   "revision_id": "200500988-106e82bd",
+   "content_sha256": "106e82bdf0a6e753ab9f903404e0ea94878e87f186ed37ddff1e525dc29463f8",
+   "ee_text": "자양강장, 허약체질, 육체피로, 병중ㆍ병후, 발열성, 소모성질환, 임신, 수유기 등의 영양보급",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:02Z",
+   "last_observed_at": "2026-09-08T08:39:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:02Z"
+}

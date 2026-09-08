@@ -12,16 +12,17 @@
  "edi_code": "664602830",
  "atc_code": "C03BA04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500118",
+ "history_fetched_at": "2026-08-27T12:26:40Z",
  "revisions": [
   {
-   "revision_id": "202500118-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202500118-2a126bef",
+   "content_sha256": "2a126bef191e6275301148ec1d3767e5c4a2a515f06f351d81875b0f7d5fe23d",
+   "ee_text": "1. 본태고혈압, 신장성고혈압, 수축기고혈압 2. 경증 ～ 중등도 만성 안정심부전(NYHA functional class II or III) 3. 부종(간경변, 신질환)",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:26:40Z",
-   "last_observed_at": "2026-08-27T12:26:40Z",
-   "official_revision_date": "2025-01-15"
+   "last_observed_at": "2026-09-08T09:03:37Z",
+   "official_revision_date": "2025-01-15",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:26:40Z"
+ ]
 }

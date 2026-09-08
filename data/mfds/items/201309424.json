@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309424",
+ "item_name": "이트리드정(이토프리드염산염)",
+ "entp_name": "(주)화이트생명과학",
+ "permit_date": "20130925",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M229415]이토프리드염산염",
+ "main_item_ingr_eng": "Itopride Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A03FA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309424",
+ "revisions": [
+  {
+   "revision_id": "201309424-a7a2a224",
+   "content_sha256": "a7a2a224c08d64d1d2265e9f5586312c6e7be925658841d6bf8e57a4dd84a834",
+   "ee_text": "기능성소화불량으로 인한 소화기증상(복부팽만, 상복부통, 식욕부진, 속쓰림, 구역, 구토)",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:22Z",
+   "last_observed_at": "2026-09-08T08:46:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:22Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198401223",
+ "item_name": "한림바소프레신주사액(수출명1:페트레신주사액,수출명2:헤모프레신주사액)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "19840414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M104893]바소프레신",
+ "main_item_ingr_eng": "Vasopressin",
+ "edi_code": "645302371",
+ "atc_code": "H01BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198401223",
+ "revisions": [
+  {
+   "revision_id": "198401223-bcc9e85e",
+   "content_sha256": "bcc9e85e1b6dbdde12f56dce49ddfb1bbd1aa9bbf4ea8dcd06d35c87fa310fe6",
+   "ee_text": "뇌하수체성 요붕증, 뇌하수체성 또는 신성 요붕증의 감별진단, 장내가스제거(복부팽만감, 담낭 촬영의 전처리, 신우 촬영의 전처리), 식도정맥류출혈의 긴급 처치",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:59Z",
+   "last_observed_at": "2026-09-08T08:26:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:59Z"
+}

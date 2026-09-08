@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501961",
+ "item_name": "네오펙소정120밀리그램(펙소페나딘염산염)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20250729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246634]펙소페나딘염산염",
+ "main_item_ingr_eng": "Fexofenadine Hydrochloride",
+ "edi_code": "643606910",
+ "atc_code": "R06AX26",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501961",
+ "revisions": [
+  {
+   "revision_id": "202501961-f9ba9595",
+   "content_sha256": "f9ba9595eb2095d2fc7e3d448e43fa2966dffb41d57b59d61ee009bed21a5133",
+   "ee_text": "* 120 mg 알레르기비염 증상 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:08Z",
+   "last_observed_at": "2026-09-08T09:04:08Z",
+   "official_revision_date": "2025-07-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:08Z"
+}

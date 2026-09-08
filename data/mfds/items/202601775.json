@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601775",
+ "item_name": "마이핏캡슐",
+ "entp_name": "메딕스제약(주)",
+ "permit_date": "20260623",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M227778]디메티콘|[M249960]사카로마이세스보울라르디균",
+ "main_item_ingr_eng": "Dimethicone/Saccharomyces Boulardii",
+ "edi_code": "",
+ "atc_code": "A07FA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601775",
+ "revisions": [
+  {
+   "revision_id": "202601775-835677b4",
+   "content_sha256": "835677b4cd84c66fd4009b64e04eb09017cd3c507edfc53110843f2de0f1b1c0",
+   "ee_text": "정장, 변비, 묽은 변, 복부 팽만감, 장내이상발효",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:20Z",
+   "last_observed_at": "2026-09-08T09:05:20Z",
+   "official_revision_date": "2026-06-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:20Z"
+}

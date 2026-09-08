@@ -1,0 +1,57 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303165",
+ "item_name": "테빔브라주(티슬렐리주맙)",
+ "entp_name": "비원메디슨코리아(유)",
+ "permit_date": "20231120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284264]티슬렐리주맙|[M284264]티슬렐리주맙",
+ "main_item_ingr_eng": "Tislelizumab",
+ "edi_code": "075700021",
+ "atc_code": "L01FF09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303165",
+ "revisions": [
+  {
+   "revision_id": "202303165-1fc74785",
+   "content_sha256": "1fc74785695bc8d6da88074b322e68bf8a06e4f0a10c5d19c7bdfc5e2ec61f03",
+   "ee_text": "식도편평세포암(Esophageal squamous cell carcinoma, ESCC) 절제 불가능, 국소 진행성 또는 전이성 식도편평세포암 환자에서의 1차 치료로서 백금 기반 항암화학요법과의 병용요법 이전 백금 기반 항암화학요법 치료를 지속할 수 없거나 투여 이후에 재발 또는 진행된 절제 불가능, 재발성, 국소진행성 또는 전이성 식도편평세포암 성인 환자에서의 단독요법 위 또는 위식도 접합부(G/GEJ) 선암(Gastric or Gastroesophageal Junction adenocarcinoma) 국소 진행성, 절제 불가능 또는 전이성 HER-2 음성 위 또는 위식도 접합부 선암 환자에서 1차 치료로서 백금 및 플루오로피리미딘 기반 항암화학요법과의 병용요법 비소세포폐암(Non-small cell lung cancer, NSCLC) EGFR 또는 ALK 변이가 없는 국소 진행성 또는 전이성 비편평 비소세포폐암에서 종양세포의 PD-L1발현(TC)이 ≥50%인 환자에서의 1차 치료로서 페메트렉시드 및 백금 포함 항암화학요법과의 병용요법 국소 진행성 또는 전이성 편평 비소세포폐암 환자에서의 1차 치료로서 카보플라틴 및 파클리탁셀 또는 알부민결합-파클리탁셀과의 병용요법 이전에 항암화학요법을 받은 적이 있는 국소 진행성 또는 전이성 비소세포폐암 환자에서의 단독요법. 다만 EGFR 또는 ALK 변이가 확인된 환자는 이 약을 투여하기 전에 이러한 변이에 대한 승인된 치료제를 투여한 후에도 질병의 진행이 확인된 경우여야 한다. 절제 가능한(종양 크기 4 cm 이상 또는 양성 림프절) 비소세포폐암 환자의 치료로서 수술 전 보조요법(neoadjuvant)으로 백금 기반 항암화학요법과의 병용요법 및 이어서 수술 후 보조요법(adjuvant)으로 단독요법 소세포폐암(Small cell lung cancer, SCLC) 확장병기의 소세포폐암 환자에서의 1차 치료로서 에토포시드 및 백금기반 항암화학요법과의 병용요법 비인두암(Nasopharyngeal cancer, NPC) 전이성 또는 근치적 수술이 불가능한 재발성 비인두암 환자의 1차 치료로서 젬시타빈 및 시스플라틴과의 병용요법",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202303165/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:31Z",
+   "last_observed_at": "2026-09-08T09:02:31Z"
+  },
+  {
+   "revision_id": "202303165-77d9e2aa",
+   "content_sha256": "77d9e2aafba793964486c38e9b0dcbe8957a41b35c6878bea4ad70b4eb0d5711",
+   "ee_text": "식도편평세포암(Esophageal squamous cell carcinoma, ESCC) 절제 불가능, 국소 진행성 또는 전이성 식도편평세포암 환자에서의 1차 치료로서 백금 기반 항암화학요법과의 병용요법 이전 백금 기반 항암화학요법 치료를 지속할 수 없거나 투여 이후에 재발 또는 진행된 절제 불가능, 재발성, 국소진행성 또는 전이성 식도편평세포암 성인 환자에서의 단독요법 위 또는 위식도 접합부(G/GEJ) 선암(Gastric or Gastroesophageal Junction adenocarcinoma) 국소 진행성, 절제 불가능 또는 전이성 HER-2 음성 위 또는 위식도 접합부 선암 환자에서 1차 치료로서 백금 및 플루오로피리미딘 기반 항암화학요법과의 병용요법 비소세포폐암(Non-small cell lung cancer, NSCLC) EGFR 또는 ALK 변이가 없는 국소 진행성 또는 전이성 비편평 비소세포폐암에서 종양세포의 PD-L1발현(TC)이 ≥50%인 환자에서의 1차 치료로서 페메트렉시드 및 백금 포함 항암화학요법과의 병용요법 국소 진행성 또는 전이성 편평 비소세포폐암 환자에서의 1차 치료로서 카보플라틴 및 파클리탁셀 또는 알부민결합-파클리탁셀과의 병용요법 이전에 항암화학요법을 받은 적이 있는 국소 진행성 또는 전이성 비소세포폐암 환자에서의 단독요법. 다만 EGFR 또는 ALK 변이가 확인된 환자는 이 약을 투여하기 전에 이러한 변이에 대한 승인된 치료제를 투여한 후에도 질병의 진행이 확인된 경우여야 한다. 절제 가능한(종양 크기 4 cm 이상 또는 양성 림프절) 비소세포폐암 환자의 치료로서 수술 전 보조요법(neoadjuvant)으로 백금 기반 항암화학요법과의 병용요법 및 이어서 수술 후 보조요법(adjuvant)으로 단독요법 소세포폐암(Small cell lung cancer, SCLC) 확장병기의 소세포폐암 환자에서의 1차 치료로서 에토포시드 및 백금기반 항암화학요법과의 병용요법 비인두암(Nasopharyngeal cancer, NPC) 재발성 또는 전이성 비인두암 환자의 1 차 치료로서 젬시타빈 및 시스플라틴과의 병용요법",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "official_revision_date": "2025-12-18",
+   "first_observed_at": "2026-09-08T09:02:31Z",
+   "last_observed_at": "2026-09-08T09:02:31Z"
+  },
+  {
+   "revision_id": "202303165-b630b7c8",
+   "content_sha256": "b630b7c8b9a59f6b36f01cf4adb69fca43c138d73a462384ac9821505baa27c6",
+   "ee_text": "식도편평세포암 (Esophageal squamous cell carcinoma, ESCC) 절제 불가능, 국소 진행성 또는 전이성 식도편평세포암 환자에서의 1차 치료로서 백금 기반 항암화학요법과의 병용요법 이전 백금 기반 항암화학요법 치료를 지속할 수 없거나 투여 이후에 재발 또는 진행된 절제 불가능, 재발성, 국소진행성 또는 전이성 식도편평세포암 성인 환자에서의 단독요법 위 또는 위식도 접합부(G/GEJ) 선암 (Gastric or Gastroesophageal Junction adenocarcinoma) 국소 진행성, 절제 불가능 또는 전이성 HER-2음성 위 또는 위식도 접합부 선암 환자에서 1차 치료로서 백금 및 플루오로피리미딘 기반 항암화학요법과의 병용요법 비소세포폐암 (Non-small cell lung cancer, NSCLC) EGFR 또는 ALK 변이가 없는 국소 진행성 또는 전이성 비편평 비소세포폐암에서 종양세포의 PD-L1발현(TC)이 ≥50%인 환자에서의 1차 치료로서 페메트렉시드 및 백금 포함 항암화학요법과의 병용요법 국소 진행성 또는 전이성 편평 비소세포폐암 환자에서의 1차 치료로서 카보플라틴 및 파클리탁셀 또는 알부민결합-파클리탁셀과의 병용요법 이전에 항암화학요법을 받은 적이 있는 국소 진행성 또는 전이성 비소세포폐암 환자에서의 단독요법. 다만 EGFR 또는 ALK 변이가 확인된 환자는 이 약을 투여하기 전에 이러한 변이에 대한 승인된 치료제를 투여한 후에도 질병의 진행이 확인된 경우여야 한다.",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2025-06-25",
+   "first_observed_at": "2026-09-08T09:02:31Z",
+   "last_observed_at": "2026-09-08T09:02:31Z"
+  },
+  {
+   "revision_id": "202303165-3250d35d",
+   "content_sha256": "3250d35d4b2c9bd357b4f7413cd5fca3259cf035be7414fb15b2b8052fcffed9",
+   "ee_text": "식도편평세포암 (Esophageal squamous cell carcinoma, ESCC) 이전 백금 기반 화학요법 치료를 지속할 수 없거나 투여 이후에 재발 또는 진행된 절제 불가능, 재발성, 국소진행성 또는 전이성 식도편평세포암 성인 환자에서의 단독요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-11-20",
+   "first_observed_at": "2026-09-08T09:02:31Z",
+   "last_observed_at": "2026-09-08T09:02:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:31Z"
+}

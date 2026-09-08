@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801271",
+ "item_name": "보령니트로푸란토인캡슐",
+ "entp_name": "(주)보령",
+ "permit_date": "20180323",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040067]니트로푸란토인",
+ "main_item_ingr_eng": "Nitrofurantoin",
+ "edi_code": "",
+ "atc_code": "J01XE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801271",
+ "revisions": [
+  {
+   "revision_id": "201801271-a6bb565c",
+   "content_sha256": "a6bb565cdb3c59f7734e66a54aec5c7381e81b4c4714aeb17b99d3b8712b6a6c",
+   "ee_text": "○유효균종 이 약에 감수성이 있는 대장균, 장내구균속, 황색포도상구균, 클레브시엘라속, 엔테로박터속 ○적응증 급성방광염을 포함한 단순 요로감염의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:57Z",
+   "last_observed_at": "2026-09-08T08:52:57Z",
+   "official_revision_date": "2018-03-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:57Z"
+}

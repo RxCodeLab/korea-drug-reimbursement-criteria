@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502351",
+ "item_name": "피도큐산(피도티모드)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20250905",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088363]피도티모드",
+ "main_item_ingr_eng": "Pidotimod",
+ "edi_code": "",
+ "atc_code": "L03AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502351",
+ "revisions": [
+  {
+   "revision_id": "202502351-120fc2b7",
+   "content_sha256": "120fc2b76ffb0272626dc78cd1a81ab6045ff73664e6a49ab294662affb5198a",
+   "ee_text": "호흡기 감염시 세포매개성 면역능 저하에 대한 면역증강요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:15Z",
+   "last_observed_at": "2026-09-08T09:04:15Z",
+   "official_revision_date": "2025-09-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:15Z"
+}

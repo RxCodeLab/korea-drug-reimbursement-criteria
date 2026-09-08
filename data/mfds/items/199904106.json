@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199904106",
+ "item_name": "에스키나제주1,500,000IU(스트렙토키나제)(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "19990402",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050842]스트렙토키나제",
+ "main_item_ingr_eng": "Streptokinase",
+ "edi_code": "",
+ "atc_code": "B01AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199904106",
+ "revisions": [
+  {
+   "revision_id": "199904106-dde6ff16",
+   "content_sha256": "dde6ff16afb9db0cb0aedb9d3574588f31a4cf404bfdddbf0ee661bc9e2d399a",
+   "ee_text": "1. 급성심근경색 2. 급성기저정맥혈전증, 급성폐색전증, 급성동맥폐색증",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:03Z",
+   "last_observed_at": "2026-09-08T08:33:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:03Z"
+}

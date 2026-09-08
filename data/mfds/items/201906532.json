@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906532",
+ "item_name": "비타민디3본주100,000IU(콜레칼시페롤)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20190918",
+ "cancel_date": "20240918",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040594]콜레칼시페롤",
+ "main_item_ingr_eng": "Cholecalciferol",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906532",
+ "revisions": [
+  {
+   "revision_id": "201906532-46e73c6c",
+   "content_sha256": "46e73c6c963b803ffca5182e5e7a6504c9a7e22e1399c7e48a0eae7a6dfb4d26",
+   "ee_text": "1. 비타민 D가 결핍된 고령자 및 청소년에서의 비타민D 결핍의 예방과 치료 2. 비타민 D가 결핍된 성인에서의 비타민D 결핍의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:24Z",
+   "last_observed_at": "2026-09-08T08:56:24Z",
+   "official_revision_date": "2019-09-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:24Z"
+}

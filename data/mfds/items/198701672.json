@@ -3,7 +3,7 @@
  "complete": true,
  "item_seq": "198701672",
  "item_name": "지엘소브레롤캡슐",
- "entp_name": "지엘파마(주)",
+ "entp_name": "지엘팜텍(주)",
  "permit_date": "19870804",
  "cancel_date": "",
  "status": "정상",
@@ -12,6 +12,7 @@
  "edi_code": "649700660",
  "atc_code": "R05CB07",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198701672",
+ "history_fetched_at": "2026-08-28T13:23:41Z",
  "revisions": [
   {
    "revision_id": "198701672-14ef1aa8",
@@ -19,7 +20,8 @@
    "ee_text": "분비기능이 항진된 급·만성 호흡기 장애 : 급·만성기관지염, 호흡장애(천식, 기침)를 수반한 기관지염, 비인두염, 후두기관염",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198701672/EE",
    "first_observed_at": "2026-08-28T13:23:41Z",
-   "last_observed_at": "2026-08-28T13:23:41Z"
+   "last_observed_at": "2026-09-08T08:27:27Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "198701672-c278a45f",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:41Z",
    "last_observed_at": "2026-08-28T13:23:41Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:41Z"
+ ]
 }

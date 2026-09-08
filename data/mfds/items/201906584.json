@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906584",
+ "item_name": "알렌산정70밀리그램(알렌드론산나트륨삼수화물)",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20190920",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253533]알렌드론산나트륨삼수화물",
+ "main_item_ingr_eng": "Sodium Alendronate Trihydrate",
+ "edi_code": "",
+ "atc_code": "M05BA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906584",
+ "revisions": [
+  {
+   "revision_id": "201906584-0f5aef87",
+   "content_sha256": "0f5aef875676e98dff5cbd66d82aab650e495da4f4b3745675576d34b0966d17",
+   "ee_text": "1. 폐경 후 여성의 골다공증 치료 2. 남성의 골다공증 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:26Z",
+   "last_observed_at": "2026-09-08T08:56:26Z",
+   "official_revision_date": "2019-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:26Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "20020730",
  "cancel_date": "20240503",
  "status": "취하",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040488]이노시톨|[M040512]인산리보플라빈나트륨|[M100863]타우린(아미노에칠설폰산)|[M080797]디엘염산카르니틴|[M071150]질산치아민|[M240075]염산피리독신|[M040580]무수카페인",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040488]이노시톨|[M040512]인산리보플라빈나트륨|[M040580]무수카페인|[M071150]질산치아민|[M080797]디엘염산카르니틴|[M100863]타우린(아미노에칠설폰산)|[M240075]염산피리독신",
  "main_item_ingr_eng": "Anhydrous Caffeine/DL-Carnitine Hydrochloride/Inositol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Taurine/Thiamine Nitrate",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201026",
+ "history_fetched_at": "2026-08-28T13:24:00Z",
  "revisions": [
   {
    "revision_id": "200201026-90c4ad83",
@@ -19,9 +20,9 @@
    "ee_text": "자양강장, 육체피로, 허약체질, 병후의 체력저하, 식욕부진, 영양장해, 발열성 소모성 질환, 임신수유기 등의 영양보급",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-28T13:24:00Z",
-   "last_observed_at": "2026-08-28T13:24:00Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:36:08Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:00Z"
+ ]
 }

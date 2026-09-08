@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200009316",
+ "item_name": "플랙스올(멘톨)",
+ "entp_name": "(주)엑세스파마",
+ "permit_date": "20000520",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M202207]DL-멘톨",
+ "main_item_ingr_eng": "DL-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009316",
+ "revisions": [
+  {
+   "revision_id": "200009316-2015e44c",
+   "content_sha256": "2015e44c62809f944596e595274df59445aea1a782200b25c49eadfd9940ff40",
+   "ee_text": "다음 경우의 일시적 완화 : 경증의 관절통ㆍ요통, 삠, 타박상",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:43Z",
+   "last_observed_at": "2026-09-08T08:34:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:43Z"
+}

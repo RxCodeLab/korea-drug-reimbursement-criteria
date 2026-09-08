@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106400",
+ "item_name": "메트라겔(메트로니다졸)(수출용)",
+ "entp_name": "시믹씨엠오코리아주식회사",
+ "permit_date": "20210907",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040170]메트로니다졸",
+ "main_item_ingr_eng": "Metronidazole",
+ "edi_code": "",
+ "atc_code": "D06BX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106400",
+ "revisions": [
+  {
+   "revision_id": "202106400-fec5a311",
+   "content_sha256": "fec5a3119c5f413c215dce8f4a3491dcadf0e59a11b4e670021143c21be557ff",
+   "ee_text": "- 여드름 - 주사 - 세균질염(헤모필루스균, 가드네렐라균, 비특이적균, 코리네박테륨 또는 혐기성균에 의한 질염)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:33Z",
+   "last_observed_at": "2026-09-08T09:00:33Z",
+   "official_revision_date": "2021-09-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:33Z"
+}

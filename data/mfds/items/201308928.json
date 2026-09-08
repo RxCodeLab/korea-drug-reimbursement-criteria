@@ -12,6 +12,7 @@
  "edi_code": "643506630",
  "atc_code": "M01AE52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308928",
+ "history_fetched_at": "2026-08-28T13:24:32Z",
  "revisions": [
   {
    "revision_id": "201308928-b1411904",
@@ -19,8 +20,9 @@
    "ee_text": "비스테로이드성 소염진통제(나프록센 등)와 관련한 위궤양 및/또는 십이지장궤양의 발생 위험이 있으면서 저용량 나프록센 또는 다른 비스테로이드성 소염진통제에 의해 충분하지 않은 환자에서의 골관절염, 류마티스성 관절염, 강직성척추염, 요통의 증상 치료",
    "ee_doc_id": "38",
    "first_observed_at": "2026-08-28T13:24:32Z",
-   "last_observed_at": "2026-08-28T13:24:32Z",
-   "official_revision_date": "2026-03-23"
+   "last_observed_at": "2026-09-08T08:46:16Z",
+   "official_revision_date": "2026-03-23",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201308928-df14f6a9",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:32Z",
    "last_observed_at": "2026-08-28T13:24:32Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:32Z"
+ ]
 }

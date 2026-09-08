@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199202622",
+ "item_name": "지로티프-주(정제브이아이장티푸스백신)(수출명 : TYPHIX Injection)",
+ "entp_name": "(주)보령바이오파마",
+ "permit_date": "19921209",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234100]장티푸스균 정제브이아이 협막 폴리사카라이드 (균주명: Salmonella typhi Ty2)",
+ "main_item_ingr_eng": "Purified Typhoid VI Polysaccharide (Strain: Salmonella Typhi Ty2)",
+ "edi_code": "",
+ "atc_code": "J07AP03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199202622",
+ "revisions": [
+  {
+   "revision_id": "199202622-0973f8a2",
+   "content_sha256": "0973f8a2b640a1acaec857fc7acae31d311654fedbffaa6719d997525e34157b",
+   "ee_text": "장티푸스의 예방",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:33Z",
+   "last_observed_at": "2026-09-08T08:28:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:33Z"
+}

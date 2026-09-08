@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100718",
+ "item_name": "정장생과립(바실루스리케니포르미스균)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20010915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균",
+ "main_item_ingr_eng": "Bacillus Licheniformis",
+ "edi_code": "654002131",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100718",
+ "revisions": [
+  {
+   "revision_id": "200100718-c1c6e554",
+   "content_sha256": "c1c6e554c5221bf90af2b39d01285e82bb7ae13cd16ecb89c8b375b5612eeb5f",
+   "ee_text": "급·만성장염(창자염), 급·만성 설사, 급성이질 각종 원인에 기인한 장내 이상발효",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:59Z",
+   "last_observed_at": "2026-09-08T08:34:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:59Z"
+}

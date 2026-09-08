@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804933",
+ "item_name": "오스게이트정(알마게이트)",
+ "entp_name": "(주)오스코리아제약",
+ "permit_date": "20181206",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081294]알마게이트",
+ "main_item_ingr_eng": "Almagate",
+ "edi_code": "629701490",
+ "atc_code": "A02AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804933",
+ "revisions": [
+  {
+   "revision_id": "201804933-8b84e5ad",
+   "content_sha256": "8b84e5ad26d29f42dbf43aedc07d9a24f6fb5fe6b7ab1139a633929b6a71805d",
+   "ee_text": "(현탁액)(정제) 다음 질환의 제산작용 및 증상의 개선 : 위·십이지장궤양, 위염, 위산과다, 속쓰림, 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:54Z",
+   "last_observed_at": "2026-09-08T08:53:54Z",
+   "official_revision_date": "2018-12-06"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:54Z"
+}

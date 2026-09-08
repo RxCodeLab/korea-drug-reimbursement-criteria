@@ -7,7 +7,7 @@
  "permit_date": "20160704",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040426]염화나트륨|[M251286]염화마그네슘수화물|[M217500]염화칼슘수화물|[M040438]염화칼륨|[M040702]포도당|[M223090]시트르산수화물",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040702]포도당|[M217500]염화칼슘수화물|[M223090]시트르산수화물|[M251286]염화마그네슘수화물",
  "main_item_ingr_eng": "Calcium Chloride Hydrate/Citric Acid Hydrate/Glucose/Magnesium Chloride Hydrate/Potassium Chloride/Sodium Chloride",
  "edi_code": "670104051",
  "atc_code": "B05ZA",
@@ -20,7 +20,8 @@
    "ee_text": "만성신부전 환자에 사용되는 인공신장 투석액",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201604150/EE",
    "first_observed_at": "2026-08-27T10:37:23Z",
-   "last_observed_at": "2026-08-28T13:24:51Z"
+   "last_observed_at": "2026-09-08T08:50:58Z",
+   "normalizer_version": 3
   }
  ]
 }

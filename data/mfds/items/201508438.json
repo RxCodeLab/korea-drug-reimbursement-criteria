@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508438",
+ "item_name": "나프민에이정(나프로닐옥살산염)(수출용)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20151228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247193]나프로닐옥살산염",
+ "main_item_ingr_eng": "Nafronyl Oxalate",
+ "edi_code": "",
+ "atc_code": "C04AX21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508438",
+ "revisions": [
+  {
+   "revision_id": "201508438-eac4376d",
+   "content_sha256": "eac4376d28abec3d5590acde15d459ebe1d251b3cdd774bc09518784b0d4dbd8",
+   "ee_text": "1. 뇌혈관 장애 2. 말초혈관 장애",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:02Z",
+   "last_observed_at": "2026-09-08T08:50:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:02Z"
+}

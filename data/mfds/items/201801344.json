@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801344",
+ "item_name": "이니바실루스캡슐(바실루스리케니포르미스균)",
+ "entp_name": "(주)비보존제약",
+ "permit_date": "20180327",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균",
+ "main_item_ingr_eng": "Bacillus Licheniformis",
+ "edi_code": "658204040",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801344",
+ "revisions": [
+  {
+   "revision_id": "201801344-1bd7f8f3",
+   "content_sha256": "1bd7f8f34664409fac390dde8b38b6d9167e103ea6f0ceb442cd98c220c3c011",
+   "ee_text": "급. 만성장염, 급.만성설사, 급성이질, 각종원인에 기인한 장내 이상발효",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:58Z",
+   "last_observed_at": "2026-09-08T08:52:58Z",
+   "official_revision_date": "2018-03-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:58Z"
+}

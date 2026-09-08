@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905257",
+ "item_name": "아로칼엠정(아플로쿠알론)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20190724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100880]아플로쿠알론",
+ "main_item_ingr_eng": "Afloqualone",
+ "edi_code": "622804430",
+ "atc_code": "M03BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905257",
+ "revisions": [
+  {
+   "revision_id": "201905257-43291b3c",
+   "content_sha256": "43291b3ca15c7a2cef08e16bdcf0e0cee5691842ba1fff37c72d59f834f5ac5a",
+   "ee_text": "1. 다음 질환으로 인한 근긴장상태의 개선 : 경견완증후군, 요통증 2. 다음 질환으로 인한 경성(痙性)마비 : 뇌혈관장애, 뇌성마비, 경성척수마비, 척수혈관장애, 경부척추증, 후종인대(後從靭帶)골화증, 다발성 경화증, 근위축성 측색경화증, 척수소뇌변성증, 외상후유증(척수손상, 두부외상), 수술후 후유증(뇌ㆍ척수종양을 포함), 기타 뇌척수질환",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:54Z",
+   "last_observed_at": "2026-09-08T08:55:54Z",
+   "official_revision_date": "2019-07-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:54Z"
+}

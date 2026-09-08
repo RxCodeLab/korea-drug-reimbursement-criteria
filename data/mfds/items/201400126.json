@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400126",
+ "item_name": "알피올로파타딘정(올로파타딘염산염)",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "20140113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233188]올로파타딘염산염",
+ "main_item_ingr_eng": "Olopatadine Hydrochloride",
+ "edi_code": "661604230",
+ "atc_code": "R06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400126",
+ "revisions": [
+  {
+   "revision_id": "201400126-71841fec",
+   "content_sha256": "71841feccedf7c8bfe95e66b7eb86e34f595a0f5ba19d2f16d439af2e224d404",
+   "ee_text": "-성인 : 알레르기비염, 담마진, 피부질환(습진·피부염, 양진, 피부소양증, 심상성건선)에 따른 가려움증 -소아 : 알레르기비염, 담마진, 피부질환(습진·피부염, 피부소양증)에 따른 가려움증",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:41Z",
+   "last_observed_at": "2026-09-08T08:46:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:41Z"
+}

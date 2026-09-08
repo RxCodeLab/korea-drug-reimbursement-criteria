@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "C09CA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201261",
+ "history_fetched_at": "2026-08-28T13:24:27Z",
  "revisions": [
   {
-   "revision_id": "201201261-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201201261-a0cd2fc3",
+   "content_sha256": "a0cd2fc31cdd02686d4bd8ce0b7ab112de1248aeb1a9b19b439b71341ded1bb8",
+   "ee_text": "* 320 mg 본태고혈압",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:24:27Z",
-   "last_observed_at": "2026-08-28T13:24:27Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:45:11Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:27Z"
+ ]
 }

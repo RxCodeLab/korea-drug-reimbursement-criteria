@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200704590",
+ "item_name": "펠루비정(펠루비프로펜)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20070420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M210533]펠루비프로펜",
+ "main_item_ingr_eng": "Pelubiprofen",
+ "edi_code": "671803380",
+ "atc_code": "M01AE20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704590",
+ "revisions": [
+  {
+   "revision_id": "200704590-a1e0cee8",
+   "content_sha256": "a1e0cee87c6f6182226ecbfe835d992f450961df6cbc245f1438971699b71e2a",
+   "ee_text": "1. 다음 질환의 증상이나 징후의 완화 : 골관절염, 류마티스관절염, 요통(허리통증) 2. 다음 질환의 해열 : 급성 상기도염",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:25Z",
+   "last_observed_at": "2026-09-08T08:41:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:25Z"
+}

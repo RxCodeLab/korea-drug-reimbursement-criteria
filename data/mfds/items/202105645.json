@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105645",
+ "item_name": "큐어스킨주(자가유래피부섬유아세포)",
+ "entp_name": "(주)에스바이오메딕스",
+ "permit_date": "20210729",
+ "cancel_date": "20240509",
+ "status": "취하",
+ "main_item_ingr": "[M217393]자가유래 피부섬유아세포",
+ "main_item_ingr_eng": "Autologous Dermal Fibroblast",
+ "edi_code": "",
+ "atc_code": "D03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105645",
+ "revisions": [
+  {
+   "revision_id": "202105645-4b0849cc",
+   "content_sha256": "4b0849ccc8e562da33361c81abe428f6cdb97233f29a089b5be3b12742125e62",
+   "ee_text": "여드름의 치유과정에서 수반된 함몰된 흉터부위의 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:25Z",
+   "last_observed_at": "2026-09-08T09:00:25Z",
+   "official_revision_date": "2021-07-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:25Z"
+}

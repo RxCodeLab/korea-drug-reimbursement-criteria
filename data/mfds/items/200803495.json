@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200803495",
+ "item_name": "위프릴캡슐(수산나프로닐)(수출용)",
+ "entp_name": "위더스제약(주)",
+ "permit_date": "20080331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080329]수산나프로닐",
+ "main_item_ingr_eng": "Nafronyl Oxalate",
+ "edi_code": "",
+ "atc_code": "C04AX21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803495",
+ "revisions": [
+  {
+   "revision_id": "200803495-1c61492b",
+   "content_sha256": "1c61492bb0c8fda6f731477a10460f8255f319052b9b1b0e5a3b17e234290f3f",
+   "ee_text": "1. 뇌혈행 및 뇌영양장애에 의한 증상 2. 말초, 내이, 눈의 망막·맥락막 혈행 및 영양장애",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:24Z",
+   "last_observed_at": "2026-09-08T08:42:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:24Z"
+}

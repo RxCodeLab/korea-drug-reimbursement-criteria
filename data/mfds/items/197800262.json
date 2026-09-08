@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197800262",
+ "item_name": "쎄닐톤정",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "19780720",
+ "cancel_date": "20240110",
+ "status": "취하",
+ "main_item_ingr": "[M212050]쎄니틴 T60|[M212050]쎄니틴 T60|[M212051]쎄니틴 GBX|[M212051]쎄니틴 GBX",
+ "main_item_ingr_eng": "Cernitine GBX/Cernitine T60",
+ "edi_code": "",
+ "atc_code": "G04CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197800262",
+ "revisions": [
+  {
+   "revision_id": "197800262-1872283e",
+   "content_sha256": "1872283edb7074d242a69bee171f19fd3d2ede0a9d3947e74545a77039c66c4b",
+   "ee_text": "ㆍ만성 전립선염 ㆍ초기 전립선 비대증에 수반하는 다음의 증상 : 배뇨곤란, 빈뇨, 잔뇨 및 잔뇨감, 배뇨통, 요선세소, 회음부불쾌감.",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:30Z",
+   "last_observed_at": "2026-09-08T08:26:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:30Z"
+}

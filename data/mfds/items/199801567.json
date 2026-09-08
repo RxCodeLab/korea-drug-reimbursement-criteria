@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801567",
+ "item_name": "다우노신주(다우노루비신염산염)(수출용)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "19980210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222833]다우노루비신염산염|[M222833]다우노루비신염산염",
+ "main_item_ingr_eng": "Daunorubicin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "L01DB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801567",
+ "revisions": [
+  {
+   "revision_id": "199801567-4bc5e318",
+   "content_sha256": "4bc5e318545e29e2aaf399332cd11f8496c0aa4c923fb61196bcf1131582885b",
+   "ee_text": "급성백혈병(만성골수성 백혈병 포함)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:54Z",
+   "last_observed_at": "2026-09-08T08:31:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:54Z"
+}

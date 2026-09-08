@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402342",
+ "item_name": "디로핀지속정2.5밀리그람(펠로디핀)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20040204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084735]펠로디핀",
+ "main_item_ingr_eng": "Felodipine",
+ "edi_code": "648100390",
+ "atc_code": "C08CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402342",
+ "revisions": [
+  {
+   "revision_id": "200402342-168bb4d1",
+   "content_sha256": "168bb4d1179767afcffc8cff25ff336f817d958fc0cd7f156f606f486a090197",
+   "ee_text": "고혈압, 안정형 협심증",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:01Z",
+   "last_observed_at": "2026-09-08T08:38:01Z",
+   "official_revision_date": "2020-06-22"
+  },
+  {
+   "revision_id": "200402342-aa46f006",
+   "content_sha256": "aa46f0065dad5920d54fc51d810773aa2e85268bb1eb88d0999e636867f84300",
+   "ee_text": "- 다음의 경우 비타민E, B1, B6의 보급 육체피로, 임신.수유기, 병중.병후의 체력저하시, 노년기 - 말초혈행장애 및 갱년기시 다음증상의 완화 : 어깨. 목결림, 수족저림, 수족냉증 - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 견통 등) - 각기 - 눈의 피로",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:38:01Z",
+   "last_observed_at": "2026-09-08T08:38:01Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:01Z"
+}

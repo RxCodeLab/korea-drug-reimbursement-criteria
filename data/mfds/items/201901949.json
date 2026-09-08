@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901949",
+ "item_name": "람노스산(락토바실루스카제이변종람노수스)",
+ "entp_name": "한화제약(주)",
+ "permit_date": "20190329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233197]락토바실루스 카제이 변종 람노수스의 동결건조 배양물",
+ "main_item_ingr_eng": "Lactobacillus Casei Var.Rhamnosus Lyophilizate",
+ "edi_code": "651602411,651602421",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901949",
+ "revisions": [
+  {
+   "revision_id": "201901949-879ef2cc",
+   "content_sha256": "879ef2cc933d457d78c755c17372dbca3a0c4385cf3af47d761a6de5be6dc890",
+   "ee_text": "장내균총의 정상화에 의한 정장 및 설사증상의 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:42Z",
+   "last_observed_at": "2026-09-08T08:54:42Z",
+   "official_revision_date": "2019-03-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:42Z"
+}

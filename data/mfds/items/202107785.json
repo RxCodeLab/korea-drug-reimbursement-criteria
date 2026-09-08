@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107785",
+ "item_name": "디엠펜유정(에팔레스타트)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20211203",
+ "cancel_date": "20240312",
+ "status": "취하",
+ "main_item_ingr": "[M050620]에팔레스타트",
+ "main_item_ingr_eng": "Epalrestat",
+ "edi_code": "",
+ "atc_code": "A10XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107785",
+ "revisions": [
+  {
+   "revision_id": "202107785-7763792c",
+   "content_sha256": "7763792cba7f6b0411febeff2b6b641535853e82e1be58d2ddc02b7320b1c545",
+   "ee_text": "당뇨병성 말초신경장애에 수반되는 자각증상(저림감, 통증), 진동감각 이상, 심장박동 변동 이상의 개선(당화 혈색소가 높은 경우)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:51Z",
+   "last_observed_at": "2026-09-08T09:00:51Z",
+   "official_revision_date": "2021-12-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:51Z"
+}

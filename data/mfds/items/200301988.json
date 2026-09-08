@@ -7,11 +7,12 @@
  "permit_date": "20031128",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M250889]밀크시슬엑스|[M223262]티아민질산염|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M244748]판토텐산칼슘|[M096429]시아노코발라민",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M096429]시아노코발라민|[M204304]피리독신염산염|[M223262]티아민질산염|[M244748]판토텐산칼슘|[M250889]밀크시슬엑스",
  "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin/Milk-thistle Fruit Extract/Nicotinamide/Pyridoxine Hydrochloride/Thiamine Nitrate",
  "edi_code": "",
  "atc_code": "A05BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301988",
+ "history_fetched_at": "2026-08-28T13:24:03Z",
  "revisions": [
   {
    "revision_id": "200301988-776b5c0e",
@@ -19,9 +20,9 @@
    "ee_text": "다음 질환의 치료보조 : 만성간질환, 지방간, 간경변, 중독성간질환.",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:24:03Z",
-   "last_observed_at": "2026-08-28T13:24:03Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:37:07Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:03Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201100237",
+ "item_name": "경보미녹스주(수출용)(수출명:Kbminox Inj.)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20110117",
+ "cancel_date": "20240708",
+ "status": "취하",
+ "main_item_ingr": "[M084374]세프미녹스나트륨",
+ "main_item_ingr_eng": "Cefminox Sodium Hydrate",
+ "edi_code": "",
+ "atc_code": "J01DC12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100237",
+ "revisions": [
+  {
+   "revision_id": "201100237-9209bdc7",
+   "content_sha256": "9209bdc70a01edbf851e4e1a372ccf070f89ed52984d6c3b6accae93e83c5f2d",
+   "ee_text": "○ 유효균종 연쇄구균(장내구균 제외), 대장균, 폐렴간균, 프로테우스, 인플루엔자균, 박테로이드 ○ 적응증 - 패혈증 - 편도염, 편도주위농양, 기관지염, 세기관지염, 기관지확장증(감염 시), 만성 호흡기 질환의 2차감염, 폐렴, 폐농양 - 신우신염, 방광염 - 담낭염, 담관염 - 복막염, 골반복막염 - 자궁부속기염, 자궁내감염, 골반사강염, 자궁주위조직염",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:24Z",
+   "last_observed_at": "2026-09-08T08:44:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:24Z"
+}

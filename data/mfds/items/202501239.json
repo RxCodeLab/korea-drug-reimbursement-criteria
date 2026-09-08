@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501239",
+ "item_name": "오스콘드로정",
+ "entp_name": "성이바이오제약주식회사",
+ "permit_date": "20250520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051564]탄산칼슘|[M102050]콜레칼시페롤농축분말|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Powder/Sodium Chondroitin Sulfate",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501239",
+ "revisions": [
+  {
+   "revision_id": "202501239-41139148",
+   "content_sha256": "41139148bdeaa434ff5090f315da224a3eb0083a9f8e60d252ac7b3333bcf6b1",
+   "ee_text": "○ 다음 경우의 비타민 D의 보급 - 임신 ∙ 수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능∙효과는 다음과 같다. 비타민D(콜레칼시페롤농축분말): ∙ 뼈, 이의 발육불량 ∙ 구루병의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:56Z",
+   "last_observed_at": "2026-09-08T09:03:56Z",
+   "official_revision_date": "2025-05-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:56Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201100186",
+ "item_name": "케톨락주(케토롤락트로메타민)(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "20110113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084703]케토롤락트로메타민",
+ "main_item_ingr_eng": "Ketorolac Tromethamine",
+ "edi_code": "",
+ "atc_code": "M01AB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100186",
+ "revisions": [
+  {
+   "revision_id": "201100186-a2fa0a93",
+   "content_sha256": "a2fa0a937788c9c804e0effb7bd1fa9c63070f65e763195d9e05c7af9129566e",
+   "ee_text": "1. 주효능·효과 중등도 및 중증의 통증에 대한 단기요법 2. 다음의 수술 후 통증에도 사용할 수 있다. 일반외과, 정형외과, 부인과, 치과수술 등 3. 2세 이상의 소아 마약성 진통제가 금기시되는 중증의 수술후 통증",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:23Z",
+   "last_observed_at": "2026-09-08T08:44:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:23Z"
+}

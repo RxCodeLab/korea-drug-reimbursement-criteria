@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200607037",
+ "item_name": "헤로셀연질캡슐(수출용)(수출명:Hemocell soft cap.)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20060628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040442]엽산|[M040805]건조황산제일철|[M096429]시아노코발라민|[M100656]디엘세린",
+ "main_item_ingr_eng": "Cyanocobalamin/DL-Serine/Dried Ferrous Sulfate/Folic Acid",
+ "edi_code": "",
+ "atc_code": "B03AE10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607037",
+ "revisions": [
+  {
+   "revision_id": "200607037-635e8644",
+   "content_sha256": "635e86441a3fdb1ce15e3b5b962a070a4fbd70032cb6f7eac73254379900a765",
+   "ee_text": "철 결핍성 빈혈의 예방 및 치료",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:29Z",
+   "last_observed_at": "2026-09-08T08:40:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:29Z"
+}

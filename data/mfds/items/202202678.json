@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202678",
+ "item_name": "잘레딥캡슐5밀리그램(잘레플론)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20220629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282603]잘레플론",
+ "main_item_ingr_eng": "Zaleplon",
+ "edi_code": "642204620",
+ "atc_code": "N05CF03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202678",
+ "revisions": [
+  {
+   "revision_id": "202202678-be2f46e2",
+   "content_sha256": "be2f46e2ed06a64e60c716821e64913adf2f350a2d6a89c1960e2a296ca64ff0",
+   "ee_text": "성인에서의 불면증 단기 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:25Z",
+   "last_observed_at": "2026-09-08T09:01:25Z",
+   "official_revision_date": "2022-06-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:25Z"
+}

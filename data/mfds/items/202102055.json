@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102055",
+ "item_name": "에팔정(에팔레스타트)",
+ "entp_name": "(주)중헌제약",
+ "permit_date": "20210305",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050620]에팔레스타트",
+ "main_item_ingr_eng": "Epalrestat",
+ "edi_code": "",
+ "atc_code": "A10XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102055",
+ "revisions": [
+  {
+   "revision_id": "202102055-ef864d11",
+   "content_sha256": "ef864d118f372561c8bd303eb267221136b29fd58bd4a56fd78e3d3c17f5bde6",
+   "ee_text": "당뇨병성 말초신경장애에 수반되는 자각증상(저림감, 통증), 진동감각 이상, 심장박동 변동 이상의 개선(당화혈색소가 높은 경우)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:01Z",
+   "last_observed_at": "2026-09-08T09:00:01Z",
+   "official_revision_date": "2021-03-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:01Z"
+}

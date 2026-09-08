@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "J04AD01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306863",
+ "history_fetched_at": "2026-08-27T12:48:00Z",
  "revisions": [
   {
-   "revision_id": "201306863-5aec15b3",
-   "content_sha256": "5aec15b3d697a84b811498556151008475ca635220d882e1bbcc89be81eaa405",
-   "ee_text": "주효능효과: 폐결핵, 기타결핵증",
+   "revision_id": "201306863-b241f7a9",
+   "content_sha256": "b241f7a90bc01d49321b816976d2845f620d2183d4de1c094b86f8825da7a711",
+   "ee_text": "1.유효균종: 결핵균 2.적응증 주효능효과: 폐결핵, 기타결핵증",
    "ee_doc_id": "2",
    "first_observed_at": "2026-08-27T12:48:00Z",
-   "last_observed_at": "2026-08-27T12:48:00Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:45:59Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:48:00Z"
+ ]
 }

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400487",
+ "item_name": "멘쿼드피주(수막구균(A,C,Y,W)다당류-TT단백접합백신)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20240306",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284543]수막구균혈청형A다당류와파상풍톡소이드접합단백질[균주: N. meningitidis group A, 접합단백질용 균주: C. tetani]|[M284544]수막구균혈청형C다당류와파상풍톡소이드접합단백질[균주: N. meningitidis group C, 접합단백질용 균주: C. tetani]|[M284545]수막구균혈청형Y다당류와파상풍톡소이드접합단백질[균주: N. meningitidis group Y, 접합단백질용 균주: C. tetani]|[M284546]수막구균혈청형W다당류와파상풍톡소이드접합단백질[균주: N. meningitidis group W, 접합단백질용 균주: C. tetani]",
+ "main_item_ingr_eng": "Meningococcal A Polysaccharide·Tetanus Toxoid Conjugate Antigen [Strain: N. meningitidis group A, Strain: C. tetani]/Meningococcal C Polysaccharide·Tetanus Toxoid Conjugate Antigen [Strain: N. meningitidis group C, Strain: C. tetani]/Meningococcal W Polysaccharide·Tetanus Toxoid Conjugate Antigen [Strain: N. meningitidis group W, Strain: C. tetani]/Meningococcal Y Polysaccharide·Tetanus Toxoid Conjugate Antigen [Strain: N. meningitidis group Y, Strain: C. tetani]",
+ "edi_code": "",
+ "atc_code": "J07AH08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400487",
+ "revisions": [
+  {
+   "revision_id": "202400487-db03a91f",
+   "content_sha256": "db03a91f4b8d1aa290902d502575001c5d7d656027ce00a55e21b9de3ee28ef0",
+   "ee_text": "생후 6주 이상 ~ 55세에서 Neisseria meningitidis A, C, W 및 Y 군에 의한 침습성 수막구균 질환의 예방",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:48Z",
+   "last_observed_at": "2026-09-08T09:02:48Z",
+   "official_revision_date": "2025-08-26"
+  },
+  {
+   "revision_id": "202400487-2af93c26",
+   "content_sha256": "2af93c268004016a56b7db6a01784d3e04e3eee99293b48d43c08100cdb5d93b",
+   "ee_text": "2 ~ 55세에서 Neisseria meningitidis A, C, W 및 Y 군에 의한 침습성 수막구균 질환의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-03-06",
+   "first_observed_at": "2026-09-08T09:02:48Z",
+   "last_observed_at": "2026-09-08T09:02:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:48Z"
+}

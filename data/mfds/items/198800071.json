@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R05F",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800071",
+ "history_fetched_at": "2026-08-28T13:23:41Z",
  "revisions": [
   {
    "revision_id": "198800071-571bc1ed",
@@ -19,9 +20,9 @@
    "ee_text": "거담, 진해, 배농",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:23:41Z",
-   "last_observed_at": "2026-08-28T13:23:41Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:27:30Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:41Z"
+ ]
 }

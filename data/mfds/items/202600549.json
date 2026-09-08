@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600549",
+ "item_name": "옵티알파점안액0.15%(브리모니딘타르타르산염)(1회용)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "20260224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255020]브리모니딘타르타르산염",
+ "main_item_ingr_eng": "Brimonidine Tartrate",
+ "edi_code": "658604931",
+ "atc_code": "S01EA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600549",
+ "revisions": [
+  {
+   "revision_id": "202600549-5f363721",
+   "content_sha256": "5f363721ddf91b9cd42f38d731a177f46bc636b8233d1d02d7c1020a0ae2026a",
+   "ee_text": "다음 질환의 안압 하강 : 개방각 녹내장, 고안압",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:48Z",
+   "last_observed_at": "2026-09-08T09:04:48Z",
+   "official_revision_date": "2026-02-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:48Z"
+}

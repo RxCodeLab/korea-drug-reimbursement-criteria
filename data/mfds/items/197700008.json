@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197700008",
+ "item_name": "인사돌정(수출명:하이돌정,펠이돌정)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "19771006",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M098768]옥수수불검화정량추출물",
+ "main_item_ingr_eng": "Titrated Extract of Zea Mays L. Unsaponifiable Fraction",
+ "edi_code": "",
+ "atc_code": "A01A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197700008",
+ "revisions": [
+  {
+   "revision_id": "197700008-15b8f90c",
+   "content_sha256": "15b8f90cd4e49abde167bd87c7103aa549c74254c8b278ead473c2d51a099aab",
+   "ee_text": "치주치료 후 치은염, 경ㆍ중등도 치주염의 보조치료",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:25Z",
+   "last_observed_at": "2026-09-08T08:26:25Z",
+   "official_revision_date": "2017-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:25Z"
+}

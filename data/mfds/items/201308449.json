@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308449",
+ "item_name": "비엠헤파린나트륨주사20000단위",
+ "entp_name": "(주)한국비엠아이",
+ "permit_date": "20130729",
+ "cancel_date": "20260325",
+ "status": "취하",
+ "main_item_ingr": "[M249378]헤파린나트륨",
+ "main_item_ingr_eng": "Heparin Sodium",
+ "edi_code": "654802151",
+ "atc_code": "B01AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308449",
+ "revisions": [
+  {
+   "revision_id": "201308449-ffdac4bc",
+   "content_sha256": "ffdac4bc5288ea114f8ad51b006a296d96cb66ad0f36e76a73567b2845e0152d",
+   "ee_text": "1. 혈전증의 예방 2. 수술 후 혈전증 및 폐색전증의 예방 및 치료 3. 색전성 심방세동의 예방 및 치료 4. 급성 및 만성 응고이상증의 진단 및 치료 5. 혈관 및 심장수술시 혈액응고 예방 6. 뇌일혈로 인한 뇌혈전증의 예방 7. 기타 1) 수혈, 체외순환, 투석 시 또는 실험실에서의 혈액응고 방지 2) 관상동맥폐색증(급성 심근경색 수반시) 3) 말초혈관색전증",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:12Z",
+   "last_observed_at": "2026-09-08T08:46:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:12Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000211",
+ "item_name": "동아디옥타헤드랄스멕타이트현탁액(수출용)",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20200114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084602]디옥타헤드랄스멕타이트",
+ "main_item_ingr_eng": "Dioctahedral Smectite",
+ "edi_code": "",
+ "atc_code": "A07BC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000211",
+ "revisions": [
+  {
+   "revision_id": "202000211-cea0003d",
+   "content_sha256": "cea0003de6eb1a3a239b628b38a893857fa4aa1806686718affb316e006e2c13",
+   "ee_text": "1. 성인의 식도, 위·십이지장과 관련된 통증의 완화 2. 성인의 급·만성 설사 3. 24개월 이상 소아의 급성 설사",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:29Z",
+   "last_observed_at": "2026-09-08T08:57:29Z",
+   "official_revision_date": "2020-01-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:29Z"
+}

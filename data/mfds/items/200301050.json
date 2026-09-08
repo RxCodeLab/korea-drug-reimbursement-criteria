@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301050",
+ "item_name": "유로겐정(염산폴라복세이트)\n(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20030207",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051825]염산플라복세이트",
+ "main_item_ingr_eng": "Flavoxate Hydrochloride",
+ "edi_code": "",
+ "atc_code": "G04BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301050",
+ "revisions": [
+  {
+   "revision_id": "200301050-ec847030",
+   "content_sha256": "ec8470301566280defaae33ccb339d6d5973430bae3f4fa366831bf881591159",
+   "ee_text": "다음 질환에 수반되는 빈뇨 및 잔뇨감 : 신경성빈뇨, 만성 전립선염, 만성 방광염",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:55Z",
+   "last_observed_at": "2026-09-08T08:36:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:55Z"
+}

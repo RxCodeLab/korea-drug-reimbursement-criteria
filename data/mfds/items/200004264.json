@@ -7,11 +7,12 @@
  "permit_date": "20001024",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M222957]덱스트로메토르판브롬화수소산염수화물|[M223470]노스카핀염산염수화물|[M223249]트리메토퀴놀염산염수화물|[M050058]구아이페네신|[M223212]d-클로르페니라민말레산염",
+ "main_item_ingr": "[M050058]구아이페네신|[M222957]덱스트로메토르판브롬화수소산염수화물|[M223212]d-클로르페니라민말레산염|[M223249]트리메토퀴놀염산염수화물|[M223470]노스카핀염산염수화물",
  "main_item_ingr_eng": "D-Chlorpheniramine Maleate/Dextromethorphan Hydrobromide Hydrate/Guaifenesin/Noscapine Hydrochloride Hydrate/Trimetoquinol Hydrochloride Hydrate",
  "edi_code": "",
  "atc_code": "R05FA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004264",
+ "history_fetched_at": "2026-08-28T13:23:56Z",
  "revisions": [
   {
    "revision_id": "200004264-da6ae941",
@@ -19,9 +20,9 @@
    "ee_text": "기침, 가래",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:23:56Z",
-   "last_observed_at": "2026-08-28T13:23:56Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:34:14Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:56Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500324",
+ "item_name": "카스진주70밀리그램(카스포펀진아세테이트)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20250214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250814]카스포펀진아세테이트",
+ "main_item_ingr_eng": "Caspofungin Acetate",
+ "edi_code": "",
+ "atc_code": "J02AX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500324",
+ "revisions": [
+  {
+   "revision_id": "202500324-30d61697",
+   "content_sha256": "30d6169768d57c513c8164ed3baccc8f56ab5f92c0dff47ca4fde88860530915",
+   "ee_text": "1. 진균감염이 의심되는 발열성 호중구감소증의 경험적 치료 2. 칸디다혈증 및 다음의 칸디다 감염증의 치료 : 복부내농양, 복막염 및 흉막내 감염. 이 약은 칸디다(Candida)에 의한 심내막염, 골수염 및 수막염에 대하여 연구된 바 없다. 3. 식도칸디다증의 치료 4. 침입성 아스페르질루스증의 치료 : 다른 치료요법에 의해 치료되지 않거나 이상반응으로 인해 다른 치료요법을 계속할 수 없는 경우에 사용한다. 이 약은 침입성 아스페르질루스증에 대한 초기요법으로서 사용경험이 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:41Z",
+   "last_observed_at": "2026-09-08T09:03:41Z",
+   "official_revision_date": "2025-02-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:41Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503198",
+ "item_name": "풀베란트프리필드주사(풀베스트란트)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20251208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M217916]풀베스트란트",
+ "main_item_ingr_eng": "Fulvestrant",
+ "edi_code": "653406162",
+ "atc_code": "L02BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503198",
+ "revisions": [
+  {
+   "revision_id": "202503198-02793df6",
+   "content_sha256": "02793df6e7a5c5ffbbbf8033d9819b3c1f3b5f8381cbc6beac165178ac7408e0",
+   "ee_text": "단독요법 호르몬 수용체(HR)-양성, 및 사람상피세포성장인자수용체2(HER2)-음성, 폐경기 이후 여성의 진행성 또는 전이성 유방암 병용요법 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체2(HER2)-음성, 내분비요법 후 진행한 여성의 진행성 또는 전이성 유방암에 팔보시클립과 병용투여 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체 2(HER2)-음성, 내분비요법 후 진행한 여성의 진행성 또는 전이성 유방암에 아베마시클립과 병용투여 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체 2(HER2)-음성인 폐경 후 여성의 진행성 또는 전이성 유방암에 1차 내분비요법으로써 또는 내분비요법 후 질환이 진행된 경우 리보시클립과 병용투여",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:30Z",
+   "last_observed_at": "2026-09-08T09:04:30Z",
+   "official_revision_date": "2025-12-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:30Z"
+}

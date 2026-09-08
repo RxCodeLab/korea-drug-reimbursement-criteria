@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200607040",
+ "item_name": "멜캅토정(메르캅토푸린)(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20060719",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040148]메르캅토푸린",
+ "main_item_ingr_eng": "Mercaptopurine",
+ "edi_code": "",
+ "atc_code": "L01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607040",
+ "revisions": [
+  {
+   "revision_id": "200607040-775871b2",
+   "content_sha256": "775871b2af8eb429ff62b5060c5cde36a26e1526f23d2349c0a8ab33300c8d2a",
+   "ee_text": "급성 임파구성 백혈병 이나 급성 골수성 백혈병의 유지치료, 만성 과립구성 백혈병, 급성 백혈병",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:29Z",
+   "last_observed_at": "2026-09-08T08:40:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:29Z"
+}

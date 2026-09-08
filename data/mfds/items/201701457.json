@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701457",
+ "item_name": "에이릴리프점안액(수출용)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20170328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M217501]황산아연수화물|[M223237]테트라히드로졸린염산염",
+ "main_item_ingr_eng": "Tetrahydrozoline Hydrochloride/Zinc Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "S01GA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701457",
+ "revisions": [
+  {
+   "revision_id": "201701457-53252ad6",
+   "content_sha256": "53252ad6df6106f903307ecd041d02d46210b03a29d29894a9cc92b5626baa36",
+   "ee_text": "안구 저자극에 따른 눈의 불편함 및 충혈의 일시적 경감",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:40Z",
+   "last_observed_at": "2026-09-08T08:51:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:40Z"
+}

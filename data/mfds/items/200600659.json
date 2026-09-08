@@ -7,19 +7,21 @@
  "permit_date": "20060327",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M243785]산화아연|[M040262]산화마그네슘|[M051783]푸마르산철|[M096429]시아노코발라민|[M244748]판토텐산칼슘|[M202904]니코틴아마이드|[M091374]무수인산수소칼슘|[M205408]레티놀아세테이트|[M040133]리보플라빈|[M223262]티아민질산염|[M223240]토코페롤아세테이트|[M040397]에르고칼시페롤|[M204304]피리독신염산염|[M258994]아스코르브산|[M082761]인삼가루",
+ "main_item_ingr": "[M040133]리보플라빈|[M040262]산화마그네슘|[M040397]에르고칼시페롤|[M051783]푸마르산철|[M082761]인삼가루|[M091374]무수인산수소칼슘|[M096429]시아노코발라민|[M202904]니코틴아마이드|[M204304]피리독신염산염|[M205408]레티놀아세테이트|[M223240]토코페롤아세테이트|[M223262]티아민질산염|[M243785]산화아연|[M244748]판토텐산칼슘|[M258994]아스코르브산",
  "main_item_ingr_eng": "Anhydrous Dibasic Calcium Phosphate/Ascorbic Acid/Calcium Pantothenate/Cyanocobalamin/Ergocalciferol/Ferrous Fumarate/Ginseng Powder/Magnesium Oxide/Nicotinamide/Pyridoxine Hydrochloride/Retinol Acetate/Riboflavin/Thiamine Nitrate/Tocopherol Acetate/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11AB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600659",
+ "history_fetched_at": "2026-08-28T13:24:10Z",
  "revisions": [
   {
-   "revision_id": "200600659-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200600659-6fe0dfb5",
+   "content_sha256": "6fe0dfb57da14f66bb2bcbc3a89b1650670c31e91cf4a0725851dd5b4f04f961",
+   "ee_text": "1. 다음 경우의 비타민 및 무기질 보급 : 육체피로, 임신, 수유기, 발육기 및 노년기 2. 병중, 병후의 체력 저하시 3. 눈의 건조감의 완화, 야맹증 4. 뼈, 이의 발육불량, 구루병의 예방 5. 철 결핍성 빈혈의 예방 및 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200600659/EE",
    "first_observed_at": "2026-08-28T13:24:10Z",
-   "last_observed_at": "2026-08-28T13:24:10Z"
+   "last_observed_at": "2026-09-08T08:39:53Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200600659-112c8b63",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:10Z",
    "last_observed_at": "2026-08-28T13:24:10Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:10Z"
+ ]
 }

@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:57:23Z",
  "revisions": [
   {
-   "revision_id": "200300726-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200300726-64dd8bff",
+   "content_sha256": "64dd8bff238a4016c8a4c05556f08968b2e50127ce46fbcc58987e818d426073",
+   "ee_text": "1. 주효능, 효과 : 감기로 인한 발열 및 동통, 치통 2. 다음 질환에도 사용할 수 있다. : 두통, 신경통, 근육통, 월경통, 관절통, 류마티스성 동통",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200300726/EE",
    "first_observed_at": "2026-08-27T12:57:23Z",
-   "last_observed_at": "2026-08-28T13:24:02Z"
+   "last_observed_at": "2026-09-08T08:36:51Z",
+   "normalizer_version": 3
   }
  ]
 }

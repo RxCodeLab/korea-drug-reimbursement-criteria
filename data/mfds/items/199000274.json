@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199000274",
+ "item_name": "대한네오스티그민메틸황산염주사액",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "19900404",
+ "cancel_date": "20251216",
+ "status": "취하",
+ "main_item_ingr": "[M222940]네오스티그민메틸황산염",
+ "main_item_ingr_eng": "Neostigmine Methylsulfate",
+ "edi_code": "",
+ "atc_code": "N07AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000274",
+ "revisions": [
+  {
+   "revision_id": "199000274-16f070b0",
+   "content_sha256": "16f070b02b310725c0956ec0a72925a1b28e622171a54eb4138a111b0feaf865",
+   "ee_text": "1. 중증 근무력증, 쿠라레제(투보쿠라린)로 인한 호흡 억제의 연장, 위장 기능 장애를 동반하는 수술 후 및 분만 후의 장관 마비, 수술 후 및 분만 후의 배뇨 곤란 2. 비탈분극성 근이완제의 작용에 대해 길항",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:58Z",
+   "last_observed_at": "2026-09-08T08:27:58Z",
+   "official_revision_date": "2020-11-16"
+  },
+  {
+   "revision_id": "199000274-8c029c2a",
+   "content_sha256": "8c029c2adb5b7a5144f43d5fadc5a971c7c7a50e111447c0efc2250451af289f",
+   "ee_text": "1. 중증 근무력증 2. 비탈분극성 근이완제(투보쿠라린 등)의 해독제 3. 수술후ㆍ분만후 배뇨곤란",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:27:58Z",
+   "last_observed_at": "2026-09-08T08:27:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:58Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201504977",
+ "item_name": "토탈리티점안액(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20150721",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040043]글리세린|[M040802]황산아연|[M102967]히프로멜로오스|[M211346]폴리에틸렌글리콜400|[M223237]테트라히드로졸린염산염",
+ "main_item_ingr_eng": "Glycerin/Hypromellose/Polyethylene Glycol 400/Tetrahydrozoline Hydrochloride/Zinc Sulfate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504977",
+ "revisions": [
+  {
+   "revision_id": "201504977-c03be82a",
+   "content_sha256": "c03be82af6c633a87252f16515f6c68d8fb2b9b65067da9b9fc0a211b568561a",
+   "ee_text": "1. 안구 저자극에 따른 눈의 불편함 및 충혈의 일시적 경감 2. 눈 건조증의 완화 3. 바람이나 태양 노출시 작열감과 자극의 일시적 경감 4. 기타 자극감의 예방",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:23Z",
+   "last_observed_at": "2026-09-08T08:49:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:23Z"
+}

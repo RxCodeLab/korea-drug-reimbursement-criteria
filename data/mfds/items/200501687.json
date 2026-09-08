@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501687",
+ "item_name": "뉴젠알렌드론정70밀리그람(알렌드론산나트륨수화물)(수출용)",
+ "entp_name": "(주)셀릭스",
+ "permit_date": "20050628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222873]알렌드론산나트륨수화물",
+ "main_item_ingr_eng": "Sodium Alendronate Hydrate",
+ "edi_code": "",
+ "atc_code": "M05BA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501687",
+ "revisions": [
+  {
+   "revision_id": "200501687-77771ded",
+   "content_sha256": "77771ded87093b2f87f931dee63ced330a297a81bed8514b0443d04eaf6e0c0d",
+   "ee_text": "폐경후 여성의 골다공증 치료 남성의 골다공증 치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:12Z",
+   "last_observed_at": "2026-09-08T08:39:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:12Z"
+}

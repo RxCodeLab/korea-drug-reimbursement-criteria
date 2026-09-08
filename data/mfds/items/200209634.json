@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200209634",
+ "item_name": "벤토린흡입액(살부타몰황산염)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20020108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223069]살부타몰황산염",
+ "main_item_ingr_eng": "Salbutamol Sulfate",
+ "edi_code": "650000491",
+ "atc_code": "R03AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200209634",
+ "revisions": [
+  {
+   "revision_id": "200209634-d0d6ec09",
+   "content_sha256": "d0d6ec09fcc841574c173fd805e84afafa646c7d8131acdd76ad81ed290c8683",
+   "ee_text": "중증의 급성천식(천식지속상태의 치료), 통상요법으로 효과가 없는 만성 기관지경련의 처치",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:32Z",
+   "last_observed_at": "2026-09-08T08:36:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:32Z"
+}

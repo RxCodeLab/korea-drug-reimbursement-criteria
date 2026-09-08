@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301374",
+ "item_name": "대한적십자사대구경북혈액원세척혈소판(세척혈소판)",
+ "entp_name": "대한적십자사대구경북혈액원",
+ "permit_date": "20230426",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266827]세척혈소판",
+ "main_item_ingr_eng": "Washed Platelet",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301374",
+ "revisions": [
+  {
+   "revision_id": "202301374-66830f7b",
+   "content_sha256": "66830f7bcc5650c56bb9fcc27b1d2d0d8fa1823e98b4509a69fdb3f974aa7e10",
+   "ee_text": "1. 혈소판 감소증이나 혈소판 기능 장애를 가진 환자의 출혈을 예방하거나 치료에 사용한다. 특히 초과민반응(anaphylaxis) 또는 반복적 심한 알레르기 수혈반응을 예방(예, IgA 혹은 합토글로빈 결핍 환자가 해당항원 결핍 혈액을 구할 수 없을 경우)하고자 할 때, 급속수혈이나 대량수혈로 인하여 부정맥에 취약할 수 있는 환자에서 고칼륨혈증을 피해야 할 때 사용한다. 2. 수혈 후 두드러기, 알레르기 반응, 아나필락시스 반응 등과 같이 혈장단백에 의한 수혈부작용의 기왕력이 있는 환자에게 사용한다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:02Z",
+   "last_observed_at": "2026-09-08T09:02:02Z",
+   "official_revision_date": "2023-04-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:02Z"
+}

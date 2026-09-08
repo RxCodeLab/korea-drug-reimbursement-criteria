@@ -7,11 +7,12 @@
  "permit_date": "20180806",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M268718]진피건조엑스(5→1) |[M070009]감초가루|[M082987]황련가루|[M085093]황백엑스산|[M050057]구아야콜",
+ "main_item_ingr": "[M050057]구아야콜|[M070009]감초가루|[M082987]황련가루|[M085093]황백엑스산|[M268718]진피건조엑스(5→1)",
  "main_item_ingr_eng": "Citrus Unshiu Peel Dried Extract (5→1)/Coptis Rhizome Powder/Glycyrrhiza Powder/Guaiacol/Phellodendron Bark Extract Powder",
  "edi_code": "",
  "atc_code": "A07XA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803204",
+ "history_fetched_at": "2026-08-28T13:25:01Z",
  "revisions": [
   {
    "revision_id": "201803204-1d914b41",
@@ -19,9 +20,9 @@
    "ee_text": "설사, 체함, 묽은 변, 토사",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:01Z",
-   "last_observed_at": "2026-08-28T13:25:01Z",
-   "official_revision_date": "2018-08-06"
+   "last_observed_at": "2026-09-08T08:53:29Z",
+   "official_revision_date": "2018-08-06",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:01Z"
+ ]
 }

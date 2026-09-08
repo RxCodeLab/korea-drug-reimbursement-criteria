@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503327",
+ "item_name": "엘라히어주(미르베툭시맙소라브탄신)",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20251219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285975]미르베툭시맙소라브탄신",
+ "main_item_ingr_eng": "Mirvetuximab Soravtansine",
+ "edi_code": "",
+ "atc_code": "L01FX26",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503327",
+ "revisions": [
+  {
+   "revision_id": "202503327-ed0a25f2",
+   "content_sha256": "ed0a25f2bb6b0c60451e2a643f354a2b42a1180dbf3f68338f08a4fabf25b070",
+   "ee_text": "이전에 한 가지에서 세 가지의 전신 요법을 받은 적이 있고, 엽산 수용체 알파(FRα) 양성이면서 백금기반 화학요법에 저항성이 있는 고등급 장액성 상피성 난소암, 난관암 또는 원발성 복막암 성인 환자에서 단독요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:34Z",
+   "last_observed_at": "2026-09-08T09:04:34Z",
+   "official_revision_date": "2025-12-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:34Z"
+}

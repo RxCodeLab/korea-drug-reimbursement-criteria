@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201101934",
+ "item_name": "아큐베일점안액0.45%(케토롤락트로메타민염)(1회용)",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20110405",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222885]케토롤락트로메타민염",
+ "main_item_ingr_eng": "Ketorolac Tromethamine",
+ "edi_code": "624900431",
+ "atc_code": "S01BC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101934",
+ "revisions": [
+  {
+   "revision_id": "201101934-4381fe35",
+   "content_sha256": "4381fe351fc0d12d3fb50c20335bf5cd172a88a594274aa8ce646c9b6f5b3f1b",
+   "ee_text": "0.45% 백내장 수술 후 염증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201101934/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:34Z",
+   "last_observed_at": "2026-09-08T08:44:34Z"
+  },
+  {
+   "revision_id": "201101934-394a97c7",
+   "content_sha256": "394a97c7996296f349350e2e3f2197c396929cd24a7af6cfbeece3cfd4915af9",
+   "ee_text": "백내장 수술 후 염증",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:34Z",
+   "last_observed_at": "2026-09-08T08:44:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:34Z"
+}

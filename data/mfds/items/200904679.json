@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200904679",
+ "item_name": "뉴비낙플라스타(펠비낙)",
+ "entp_name": "(주)티디에스팜",
+ "permit_date": "20090701",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092408]펠비낙|[M092408]펠비낙|[M092408]펠비낙",
+ "main_item_ingr_eng": "Felbinac",
+ "edi_code": "",
+ "atc_code": "M02AA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904679",
+ "revisions": [
+  {
+   "revision_id": "200904679-f640b4d0",
+   "content_sha256": "f640b4d0449253bdfa0d1f54e45fda6624b83bc70d948faa2fcab17e456bf54e",
+   "ee_text": "다음 질환 및 증상의 진통·소염(항염) : 퇴행성관절염(골(뼈)관절염), 어깨관절주위염, 건(힘줄)·건초염(힘줄윤활막염), 건(힘줄)주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상후의 종창(부기)·동통(통증)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:22Z",
+   "last_observed_at": "2026-09-08T08:43:22Z",
+   "official_revision_date": "2020-11-19"
+  },
+  {
+   "revision_id": "200904679-69aed2d3",
+   "content_sha256": "69aed2d3bf8b83cf20a33b38c923f7cb376c98632ade7193c14ba0fbe7bfe057",
+   "ee_text": "다음 질환 및 증상의 진통·소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건·건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통, 외상후의 종창·동통",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:43:22Z",
+   "last_observed_at": "2026-09-08T08:43:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:22Z"
+}

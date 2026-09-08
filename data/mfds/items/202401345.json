@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401345",
+ "item_name": "엘렉스피오주(엘라나타맙)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20240530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284667]엘라나타맙|[M284667]엘라나타맙",
+ "main_item_ingr_eng": "Elranatamab",
+ "edi_code": "",
+ "atc_code": "L01FX32",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401345",
+ "revisions": [
+  {
+   "revision_id": "202401345-9e55d5f4",
+   "content_sha256": "9e55d5f4179f3d8b214ca1b16ff35ebfc855a0563c113834bd386feba213a0cd",
+   "ee_text": "프로테아좀억제제, 면역조절제제, 항-CD38 단클론항체를 포함하여 3차 이상의 치료를 받은 재발 또는 불응성 다발골수종 성인 환자에 대한 단독요법 이 약의 유효성을 치료적확증시험에서 입증한 자료는 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:01Z",
+   "last_observed_at": "2026-09-08T09:03:01Z",
+   "official_revision_date": "2024-05-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:01Z"
+}

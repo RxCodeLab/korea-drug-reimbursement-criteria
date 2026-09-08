@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199703029",
+ "item_name": "에스포젠주4000IU/mL(수출용)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "19970618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091843]인에리스로포이에틴(유전자재조합)(벡터;pMI-EP060-BiP-DHFR 숙주;CH0 dhfr-ATCC CRL9096)|[M091843]인에리스로포이에틴(유전자재조합)(벡터;pMI-EP060-BiP-DHFR 숙주;CH0 dhfr-ATCC CRL9096)|[M091843]인에리스로포이에틴(유전자재조합)(벡터;pMI-EP060-BiP-DHFR 숙주;CH0 dhfr-ATCC CRL9096)|[M091843]인에리스로포이에틴(유전자재조합)(벡터;pMI-EP060-BiP-DHFR 숙주;CH0 dhfr-ATCC CRL9096)",
+ "main_item_ingr_eng": "Human Erythropoietin (rDNA, Vector; pMI-EP060-BiP-DHFR, Host; CH0 dhfr-ATCC CRL9096)",
+ "edi_code": "",
+ "atc_code": "B03XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703029",
+ "revisions": [
+  {
+   "revision_id": "199703029-f1b3a0b9",
+   "content_sha256": "f1b3a0b9ad12a38abaa45e6d2dfe3431558abbd9ccdc5730135ddda4ba3db973",
+   "ee_text": "* 에스포젠주, 에스포젠프리필드주 제제에 한함 1. 만성신부전 환자에게 나타나는 빈혈 1) 증후성 빈혈 2) 수혈이 필요한 빈혈",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:23Z",
+   "last_observed_at": "2026-09-08T08:31:23Z",
+   "official_revision_date": "2020-12-21"
+  },
+  {
+   "revision_id": "199703029-599dcaf2",
+   "content_sha256": "599dcaf2a3b5ff97390738554b67d0fd59d85569fac9fdc14c83ca3a6b6f3fe5",
+   "ee_text": "* 에스포젠주, 에스포젠프리필드주 제제에 한함 1. 만성신부전 환자에게 나타나는 빈혈 1) 증후성 빈혈 2) 수혈이 필요한 빈혈 2. 예측 효능ㆍ효과 1) 수술시행환자의 자기혈 저혈 2) 화학요법을 받는 암환자에게 나타나는 빈혈",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:31:23Z",
+   "last_observed_at": "2026-09-08T08:31:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:23Z"
+}

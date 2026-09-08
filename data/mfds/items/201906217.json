@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906217",
+ "item_name": "에바틴정10밀리그램(에바스틴)",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20190902",
+ "cancel_date": "20240902",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M085337]에바스틴",
+ "main_item_ingr_eng": "Ebastine",
+ "edi_code": "",
+ "atc_code": "R06AX22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906217",
+ "revisions": [
+  {
+   "revision_id": "201906217-8ece25a5",
+   "content_sha256": "8ece25a5994c4068d77864ee62b3afe7fbd8af50daf3bc6aa15967a0d5bfaa38",
+   "ee_text": "알레르기성 비염ㆍ결막염ㆍ피부염, 만성두드러기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:16Z",
+   "last_observed_at": "2026-09-08T08:56:16Z",
+   "official_revision_date": "2019-09-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:16Z"
+}

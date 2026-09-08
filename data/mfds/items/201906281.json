@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906281",
+ "item_name": "알마넬정(알마게이트)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20190904",
+ "cancel_date": "20240904",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M081294]알마게이트",
+ "main_item_ingr_eng": "Almagate",
+ "edi_code": "",
+ "atc_code": "A02AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906281",
+ "revisions": [
+  {
+   "revision_id": "201906281-8b84e5ad",
+   "content_sha256": "8b84e5ad26d29f42dbf43aedc07d9a24f6fb5fe6b7ab1139a633929b6a71805d",
+   "ee_text": "(현탁액)(정제) 다음 질환의 제산작용 및 증상의 개선 : 위·십이지장궤양, 위염, 위산과다, 속쓰림, 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:18Z",
+   "last_observed_at": "2026-09-08T08:56:18Z",
+   "official_revision_date": "2019-09-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:18Z"
+}

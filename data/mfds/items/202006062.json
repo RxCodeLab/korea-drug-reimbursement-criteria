@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006062",
+ "item_name": "알레르노구강용해필름(로라타딘)",
+ "entp_name": "(주)씨티씨바이오",
+ "permit_date": "20200828",
+ "cancel_date": "20250828",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M082724]로라타딘",
+ "main_item_ingr_eng": "Loratadine",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006062",
+ "revisions": [
+  {
+   "revision_id": "202006062-2b5a62b0",
+   "content_sha256": "2b5a62b0fac5ea24edb85c06a7bb5e2ba183f43736ef6431ebce8af7cfe1fa06",
+   "ee_text": "알레르기성 비염(재채기, 코막힘, 가려움증, 눈의 작열감), 만성 특발성 두드러기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:22Z",
+   "last_observed_at": "2026-09-08T08:59:22Z",
+   "official_revision_date": "2020-08-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:22Z"
+}

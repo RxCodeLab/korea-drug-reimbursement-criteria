@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700671",
+ "item_name": "생장환과립",
+ "entp_name": "정우신약(주)",
+ "permit_date": "19970923",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050805]센나열매|[M081198]차전자피",
+ "main_item_ingr_eng": "Psyllium Husk/Sennae Fructus",
+ "edi_code": "",
+ "atc_code": "A06AC51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700671",
+ "revisions": [
+  {
+   "revision_id": "199700671-d1e540b4",
+   "content_sha256": "d1e540b48da7761e02d59bfcd52691f074b557b56a445c45a0849f33d2347e7e",
+   "ee_text": "· 변비 · 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장 내이상발효, 치질",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:47Z",
+   "last_observed_at": "2026-09-08T08:30:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:47Z"
+}

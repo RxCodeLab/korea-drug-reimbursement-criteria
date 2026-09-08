@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800096",
+ "item_name": "한풍자소엽엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M051301]자소엽",
+ "main_item_ingr_eng": "Perilla Leaf",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800096",
+ "revisions": [
+  {
+   "revision_id": "198800096-2eb78b3c",
+   "content_sha256": "2eb78b3c2e794e2bed6da4a974cb6a36e7da960e1b43f69c290deb68cd90ba36",
+   "ee_text": "발한, 해열, 이뇨, 건위, 거담",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:32Z",
+   "last_observed_at": "2026-09-08T08:27:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:32Z"
+}

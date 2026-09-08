@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308020",
+ "item_name": "셉타네스트주1/200,000",
+ "entp_name": "신원덴탈(주)",
+ "permit_date": "20030212",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M094252]주석산에피네프린|[M098432]아티카인염산염",
+ "main_item_ingr_eng": "Articaine Hydrochloride/Epinephrine Tartrate",
+ "edi_code": "658300030",
+ "atc_code": "N01BB58",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308020",
+ "revisions": [
+  {
+   "revision_id": "200308020-9ddfa4d2",
+   "content_sha256": "9ddfa4d21d0e217111b490b2d822752ae8c63155602e7cae4c240826e0d65df6",
+   "ee_text": "치과영역에서의 국소, 침윤 및 전도마취",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:22Z",
+   "last_observed_at": "2026-09-08T08:37:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:22Z"
+}

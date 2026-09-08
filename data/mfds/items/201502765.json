@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502765",
+ "item_name": "코로몬프리필드시린지(재조합사람에리스로포이에틴)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20150507",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070426]재조합사람에리스로포이에틴|[M070426]재조합사람에리스로포이에틴",
+ "main_item_ingr_eng": "Recombinant Human Erythropoietin",
+ "edi_code": "",
+ "atc_code": "B03XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502765",
+ "revisions": [
+  {
+   "revision_id": "201502765-ec22077b",
+   "content_sha256": "ec22077b1686d754f121dd74bf418c4d8df862eaf3020dd6f849928bdec5641e",
+   "ee_text": "1. 효능효과 만성 신부전증 환자에게 나타나는 다음과 같은 빈혈 1. 증후성 빈혈 2. 수혈이 필요한 빈혈",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:00Z",
+   "last_observed_at": "2026-09-08T08:49:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:00Z"
+}

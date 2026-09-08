@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503380",
+ "item_name": "피아스카이주(크로발리맙)",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "20251224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286027]크로발리맙",
+ "main_item_ingr_eng": "Crovalimab",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503380",
+ "revisions": [
+  {
+   "revision_id": "202503380-0cd23012",
+   "content_sha256": "0cd23012469ac82bd42c1209690d90074a56f253f9d96360fbf69bc01122feda",
+   "ee_text": "40kg 이상인, 성인 및 소아(12세 이상)의 발작성 야간 혈색소뇨증(PNH : Paroxysmal Nocturnal Hemoglobinuria)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:35Z",
+   "last_observed_at": "2026-09-08T09:04:35Z",
+   "official_revision_date": "2025-12-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:35Z"
+}

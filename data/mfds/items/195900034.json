@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "195900034",
+ "item_name": "신신티눈고(살리실산반창고)(수출명:SINSINCORNPLASTER)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "19591201",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040264]살리실산",
+ "main_item_ingr_eng": "Salicylic Acid",
+ "edi_code": "",
+ "atc_code": "D11AF",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=195900034",
+ "revisions": [
+  {
+   "revision_id": "195900034-1ae87708",
+   "content_sha256": "1ae877083a0535e8a94c12a28285352e54efaeebd5ddaba819b71152ca98c817",
+   "ee_text": "(경고제)(반창고)(액제) 티눈, 못(굳은살), 사마귀 (결제, 27%) 보통의 모자이크(양) 발바닥 사마귀 (겔제, 5%) 건조, 인설 또는 못(굳은살)의 피부의 박리",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:14Z",
+   "last_observed_at": "2026-09-08T08:26:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:14Z"
+}

@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "R01BA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308659",
+ "history_fetched_at": "2026-08-28T13:24:32Z",
  "revisions": [
   {
-   "revision_id": "201308659-5b4d15d2",
-   "content_sha256": "5b4d15d265ba694fee4374413ef0203e04077e2c83a66377568c1c159eae34e0",
-   "ee_text": "다음 질환에 의한 비충혈 : 감기, 부비강염, 알레르기 등 상기도질환",
+   "revision_id": "201308659-6f8f3bbd",
+   "content_sha256": "6f8f3bbdc298da3a476622ad97acfa738ca06362ce00956af489ab714c0324c8",
+   "ee_text": "1. 주효능 효과 다음 질환에 의한 비충혈 : 감기, 부비강염, 알레르기 등 상기도질환",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-28T13:24:32Z",
-   "last_observed_at": "2026-08-28T13:24:32Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:46:14Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:32Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501520",
+ "item_name": "위제로알파산",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20250619",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040040]합성규산알루미늄|[M040629]탄산마그네슘|[M040634]침강탄산칼슘|[M110397]정향 가루|[M110408]용담 가루|[M110414]회향 가루|[M110429]고목 가루|[M110566]진피 가루|[M110597]육두구 가루|[M113524]육계 가루|[M207094]탄산수소나트륨|[M261464]디아스타제·프로테아제·셀룰라제1000",
+ "main_item_ingr_eng": "Cinnamon Bark Powder/Citrus Unshiu Peel Powder/Clove Powder/Diastase·Protease·Cellulase 1000/Fennel Powder/Gentian Root and Rhizome Powder/Magnesium Carbonate/Nutmeg Powder/Picrasma Wood Powder/Precipitated Calcium Carbonate/Sodium Bicarbonate/Synthetic Aluminium Silicate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501520",
+ "revisions": [
+  {
+   "revision_id": "202501520-cdbaf20b",
+   "content_sha256": "cdbaf20bb90e02c0f348a103899cb9265e24db6e1c66093bfe69fd233e6f2d9e",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림, 소화불량, 식욕감퇴(식욕부진), 과식, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:00Z",
+   "last_observed_at": "2026-09-08T09:04:00Z",
+   "official_revision_date": "2025-06-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:00Z"
+}

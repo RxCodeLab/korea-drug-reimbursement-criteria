@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700733",
+ "item_name": "카디아젬정30밀리그램(딜티아젬염산염)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "19870713",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222982]딜티아젬염산염",
+ "main_item_ingr_eng": "Diltiazem Hydrochloride",
+ "edi_code": "657200690",
+ "atc_code": "C08DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700733",
+ "revisions": [
+  {
+   "revision_id": "198700733-2191f52a",
+   "content_sha256": "2191f52a852b60a6e57c15f028b4ca4337cc002c6dd756ef392bf920de9e92c8",
+   "ee_text": "협심증, 본태성 고혈압(경증-중등도)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:23Z",
+   "last_observed_at": "2026-09-08T08:27:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:23Z"
+}

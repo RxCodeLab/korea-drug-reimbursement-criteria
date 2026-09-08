@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203677",
+ "item_name": "베라씰프리필드시린지키트",
+ "entp_name": "한국존슨앤드존슨메디칼(주)",
+ "permit_date": "20220927",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M114400]사람피브리노겐|[M254968]사람트롬빈",
+ "main_item_ingr_eng": "Human Fibrinogen/Human Thrombin",
+ "edi_code": "650800511,650800512",
+ "atc_code": "B02BC30",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203677",
+ "revisions": [
+  {
+   "revision_id": "202203677-f6f8b084",
+   "content_sha256": "f6f8b08467bc64f9b01d014c15f8dd7fcce71110e5227d751675f6c30d680d28",
+   "ee_text": "수술 중인 성인 및 소아 환자에서 표준외과기술(봉합, 결찰 또는 소작 등)로 출혈의 제어가 불충분한 경우의 지혈 보조 - 지혈 개선 - 혈관 수술에서의 봉합 보조",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:34Z",
+   "last_observed_at": "2026-09-08T09:01:34Z",
+   "official_revision_date": "2025-10-28"
+  },
+  {
+   "revision_id": "202203677-43a1f9c1",
+   "content_sha256": "43a1f9c145321b7f169968479d1cabf00c0bf859b55bef2a8ad7f0abb1320597",
+   "ee_text": "수술 중인 성인 환자에서 표준외과기술(봉합, 결찰 또는 소작 등)로 출혈의 제어가 불충분한 경우의 지혈 보조 - 지혈 개선 - 혈관 수술에서의 봉합 보조",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-09-27",
+   "first_observed_at": "2026-09-08T09:01:34Z",
+   "last_observed_at": "2026-09-08T09:01:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:34Z"
+}

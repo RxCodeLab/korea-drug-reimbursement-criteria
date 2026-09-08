@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402770",
+ "item_name": "파마멀타자핀정15밀리그램(미르타자핀)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20241125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088893]미르타자핀",
+ "main_item_ingr_eng": "Mirtazapine",
+ "edi_code": "653007020",
+ "atc_code": "N06AX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402770",
+ "revisions": [
+  {
+   "revision_id": "202402770-cf12792b",
+   "content_sha256": "cf12792bdcc39b7d393fa41a10419696c6a134ddf983f933b1d5869114761ea5",
+   "ee_text": "주요 우울증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:29Z",
+   "last_observed_at": "2026-09-08T09:03:29Z",
+   "official_revision_date": "2024-11-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:29Z"
+}

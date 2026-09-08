@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602225",
+ "item_name": "이브싹트리플정",
+ "entp_name": "(주)시어스제약",
+ "permit_date": "20260731",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜|[M110153]감초 가루|[M110838]작약 가루",
+ "main_item_ingr_eng": "Glycyrrhiza Powder/Ibuprofen/Peony Root Powder",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602225",
+ "revisions": [
+  {
+   "revision_id": "202602225-3a83cc31",
+   "content_sha256": "3a83cc31b9e4e347158d57eec3ba5d42da9d3b38719c0de8331ef0ceaedead5e",
+   "ee_text": "○ 두통, 치통, 발치 후 동통(통증), 인후통, 귀의 통증, 관절통, 신경통, 요통, 근육통, 견통(어깨결림), 타박통, 골절통, 염좌통(삠 통증), 월경통(생리통), 외상통의 진통 ○ 오한, 발열 시의 해열",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:35Z",
+   "last_observed_at": "2026-09-08T09:05:35Z",
+   "official_revision_date": "2026-07-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:35Z"
+}

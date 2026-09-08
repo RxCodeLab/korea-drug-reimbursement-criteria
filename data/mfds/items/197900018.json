@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900018",
+ "item_name": "율무롱과립(의이인엑스과립)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19790731",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040487]의이인",
+ "main_item_ingr_eng": "Coix Seed",
+ "edi_code": "",
+ "atc_code": "A08AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900018",
+ "revisions": [
+  {
+   "revision_id": "197900018-cd7eab97",
+   "content_sha256": "cd7eab973d776772dfe7a42cab1db5a4858dd91b0d7089fadea354ed6e929161",
+   "ee_text": "이뇨, 배농, 소염, 진통, 자양약으로서 부종, 피부의 거칠음, 사마귀 신체동통, 류마치스, 신경통",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:32Z",
+   "last_observed_at": "2026-09-08T08:26:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:32Z"
+}

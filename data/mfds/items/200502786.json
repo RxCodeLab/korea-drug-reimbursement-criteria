@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502786",
+ "item_name": "그린코푸시럽",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20050725",
+ "cancel_date": "20240612",
+ "status": "취하",
+ "main_item_ingr": "[M103670]헤데라건조엑스분말(5.8→1)|[M103671]지미건조엑스분말(7→1)|[M103672]프리뮤라건조엑스분말(6.5→1)",
+ "main_item_ingr_eng": "Flores Primulae Dried Extract Powder (6.5→1)/Hedera Dried Extract Powder (5.8→1)/Thymi Dried Extract Powder (7→1)",
+ "edi_code": "",
+ "atc_code": "R05FB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502786",
+ "revisions": [
+  {
+   "revision_id": "200502786-da6ae941",
+   "content_sha256": "da6ae941bfe4a46693189cf70b524d3fd9a3cebea6e5f19f12abf6f835dc98da",
+   "ee_text": "기침, 가래",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:25Z",
+   "last_observed_at": "2026-09-08T08:39:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:25Z"
+}

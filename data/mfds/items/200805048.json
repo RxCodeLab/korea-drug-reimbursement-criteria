@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805048",
+ "item_name": "아리돌흡입용캡슐콤비팩(만니톨)",
+ "entp_name": "클리니젠코리아(유)",
+ "permit_date": "20080501",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204408]D-만니톨|[M204408]D-만니톨|[M204408]D-만니톨|[M204408]D-만니톨",
+ "main_item_ingr_eng": "D-Mannitol",
+ "edi_code": "",
+ "atc_code": "V04CX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805048",
+ "revisions": [
+  {
+   "revision_id": "200805048-12a92624",
+   "content_sha256": "12a92624efffa2237b05b2d4fd924d30679d3442e19078f46f476bc3cdad55b1",
+   "ee_text": "천식 진단을 보조하기 위한 기관지 과민성 검사용",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:28Z",
+   "last_observed_at": "2026-09-08T08:42:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:28Z"
+}

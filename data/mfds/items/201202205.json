@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201202205",
+ "item_name": "이오메론350주사액(이오메프롤)",
+ "entp_name": "브라코이미징코리아(유)",
+ "permit_date": "20120328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088268]이오메프롤",
+ "main_item_ingr_eng": "Iomeprol",
+ "edi_code": "621400101,621400102,621400103,621400104,621400108",
+ "atc_code": "V08AB10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201202205",
+ "revisions": [
+  {
+   "revision_id": "201202205-be701177",
+   "content_sha256": "be7011776bdaba6d4c17679501701271ec20f8cb24aa19302f0b29725c8bc66c",
+   "ee_text": "(주사제) * 350 mgI/mL 1. 혈관조영 : 사지정맥, 사지동맥, 복부혈관, 흉부혈관, 심장혈관(관상동맥 등), 뇌혈관 2. 정맥요로조영(IVP) 3. CT 조영증강 : 두부, 체부 4. 관절조영",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:14Z",
+   "last_observed_at": "2026-09-08T08:45:14Z",
+   "official_revision_date": "2018-08-02"
+  },
+  {
+   "revision_id": "201202205-34237080",
+   "content_sha256": "34237080081232ff0ad8a4ec701f80c7251751a5582c088408c50cc84ec02391",
+   "ee_text": "(주사제 300, 350 mgI/mL) 1. 혈관조영 : 사지정맥, 사지동맥, 복부혈관, 흉부혈관, 뇌혈관 2. 정맥요로조영(IVP) 3. CT 조영증강 : 두부, 체부 4. 관절조영",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:14Z",
+   "last_observed_at": "2026-09-08T08:45:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:14Z"
+}

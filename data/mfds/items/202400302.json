@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400302",
+ "item_name": "니세르메디정(니세르골린)",
+ "entp_name": "주식회사 노바엠헬스케어",
+ "permit_date": "20240208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070142]니세르골린",
+ "main_item_ingr_eng": "Nicergoline",
+ "edi_code": "073200620",
+ "atc_code": "C04AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400302",
+ "revisions": [
+  {
+   "revision_id": "202400302-1f8797c0",
+   "content_sha256": "1f8797c0c2f5984b70d9050e5319ecead3194178bf82ad0055766c3f42886583",
+   "ee_text": "일차성 퇴행성 혈관치매 및 복합성치매와 관련된 다음 치매 증후군의 일차적 치료 : 기억력 손상, 집중력 장애, 판단력 장애, 적극성 부족",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:42Z",
+   "last_observed_at": "2026-09-08T09:02:42Z",
+   "official_revision_date": "2024-02-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:42Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "19840913",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050752]생강|[M040447]오수유|[M040071]대추|[M040006]감초|[M040293]세신|[M040186]목통|[M040523]작약|[M050037]계지|[M040070]당귀",
+ "main_item_ingr": "[M040006]감초|[M040070]당귀|[M040071]대추|[M040186]목통|[M040293]세신|[M040447]오수유|[M040523]작약|[M050037]계지|[M050752]생강",
  "main_item_ingr_eng": "Akebia Stem/Angelica Gigas Root/Asiasarum Root and Rhizome/Cinnamomi Ramulus/Evodia Fruit/Jujube/Licorice/Peony Root/Raw Ginger",
  "edi_code": "",
  "atc_code": "A16A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400712",
+ "history_fetched_at": "2026-08-28T13:23:39Z",
  "revisions": [
   {
    "revision_id": "198400712-d422813c",
@@ -19,9 +20,9 @@
    "ee_text": "손발 및 하지가 차가우며, 하지 또는 하복부가 아프기 쉬운 사람의 다음 증상 : 동창, 두통, 하복부통, 요통",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:23:39Z",
-   "last_observed_at": "2026-08-28T13:23:39Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:58Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:39Z"
+ ]
 }

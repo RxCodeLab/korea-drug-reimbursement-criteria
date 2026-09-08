@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402067",
+ "item_name": "디펜돌캡슐(치모모둘린)(수출용)(수출명:Dafendol Capsule, Epidolle Capsule, Immutes Capsule)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20040823",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082300]치모모둘린",
+ "main_item_ingr_eng": "Thymomodulin",
+ "edi_code": "",
+ "atc_code": "L03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402067",
+ "revisions": [
+  {
+   "revision_id": "200402067-3306e2e2",
+   "content_sha256": "3306e2e2652ffc3dd5dc253f77fb2fcca0eedeaa9361738d104375ce2552cadc",
+   "ee_text": "1. 간염, 호흡기 질환 등 세균 및 바이러스성 감염질환의 보조치료 2. 면역결핍증의 보조치료",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:58Z",
+   "last_observed_at": "2026-09-08T08:37:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:58Z"
+}

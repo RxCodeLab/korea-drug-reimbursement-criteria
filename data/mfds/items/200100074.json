@@ -7,11 +7,12 @@
  "permit_date": "20010426",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M089512]생강엑스산|[M110942]육계 엑스산|[M089515]대추엑스산|[M090093]작약엑스산|[M082727]감초엑스산|[M081198]차전자피|[M050805]센나열매|[M040073]대황",
+ "main_item_ingr": "[M040073]대황|[M050805]센나열매|[M081198]차전자피|[M082727]감초엑스산|[M089512]생강엑스산|[M089515]대추엑스산|[M090093]작약엑스산|[M110942]육계 엑스산",
  "main_item_ingr_eng": "Cinnamon Bark Extract Powder/Glycyrrhiza Extract Powder/Jujube Extract Powder/Peony Root Extract Powder/Psyllium Husk/Raw Ginger Extract Powder/Rhubarb/Sennae Fructus",
  "edi_code": "",
  "atc_code": "A06AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100074",
+ "history_fetched_at": "2026-08-28T13:23:57Z",
  "revisions": [
   {
    "revision_id": "200100074-df1032f5",
@@ -19,9 +20,9 @@
    "ee_text": "변비, 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내 이상발효, 치질",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:23:57Z",
-   "last_observed_at": "2026-08-28T13:23:57Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:34:47Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:57Z"
+ ]
 }

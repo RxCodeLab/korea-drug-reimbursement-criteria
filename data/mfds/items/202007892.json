@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007892",
+ "item_name": "푸리스토시럽(이노시플렉스)",
+ "entp_name": "(주)보령바이오파마",
+ "permit_date": "20201116",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101156]이노시플렉스",
+ "main_item_ingr_eng": "Inosiplex",
+ "edi_code": "670502291",
+ "atc_code": "J05AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007892",
+ "revisions": [
+  {
+   "revision_id": "202007892-d7b3917b",
+   "content_sha256": "d7b3917b94347dbf55db04807018b2576e0eb85417fbb8c8efa1d4999956481a",
+   "ee_text": "다음의 바이러스 감염증 : 단순포진, 대상포진, 수두, 면역저하 환자에서의 홍역, 아급성경화범뇌염(SSPE)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:39Z",
+   "last_observed_at": "2026-09-08T08:59:39Z",
+   "official_revision_date": "2020-11-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:39Z"
+}

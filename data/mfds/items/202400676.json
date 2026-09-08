@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400676",
+ "item_name": "디터점스에이크린액(과아세트산0.2%)",
+ "entp_name": "주식회사이엠비제약",
+ "permit_date": "20240327",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265337]과아세트산액0.2%",
+ "main_item_ingr_eng": "Peracetic Acid Solution 0.2%",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400676",
+ "revisions": [
+  {
+   "revision_id": "202400676-5a1f7c0e",
+   "content_sha256": "5a1f7c0e4b3b717e4372b6c41caa501585aceb75eac4cf470b9309b00e4ff9e1",
+   "ee_text": "의료기구의 살균•소독 : 자바라관, 실리콘 튜브, 비닐 튜브, 실리콘캡, 실리콘 마개, 메스 손잡이, 내시경류",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:51Z",
+   "last_observed_at": "2026-09-08T09:02:51Z",
+   "official_revision_date": "2024-03-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:51Z"
+}

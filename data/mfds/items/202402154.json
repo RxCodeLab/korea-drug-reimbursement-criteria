@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402154",
+ "item_name": "울트라히알주(히알루로니다제)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20240904",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M209056]히알루로니다제",
+ "main_item_ingr_eng": "Hyaluronidase",
+ "edi_code": "",
+ "atc_code": "B06AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402154",
+ "revisions": [
+  {
+   "revision_id": "202402154-8a5e7483",
+   "content_sha256": "8a5e74835e64e6680173572e1c36ecdf7f8319468061bc7f18c5bb0b88bb6fd0",
+   "ee_text": "○ 피하주사나 근육주사, 국소마취제 및 피하주입 시 침투력 증가 ○ 조직 내에 과다하게 존재하는 체액 및 혈액의 재흡수 촉진",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:18Z",
+   "last_observed_at": "2026-09-08T09:03:18Z",
+   "official_revision_date": "2024-09-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:18Z"
+}

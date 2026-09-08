@@ -7,11 +7,12 @@
  "permit_date": "20230921",
  "cancel_date": "20260105",
  "status": "취하",
- "main_item_ingr": "[M257113]알로글립틴 벤조산염|[M223014]메트포르민염산염",
+ "main_item_ingr": "[M223014]메트포르민염산염|[M257113]알로글립틴 벤조산염",
  "main_item_ingr_eng": "Alogliptin Benzoate/Metformin Hydrochloride",
  "edi_code": "",
  "atc_code": "A10BD13",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302796",
+ "history_fetched_at": "2026-08-27T12:46:08Z",
  "revisions": [
   {
    "revision_id": "202302796-9a4e064e",
@@ -19,9 +20,9 @@
    "ee_text": "이 약은 알로글립틴과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다.",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:46:08Z",
-   "last_observed_at": "2026-08-27T12:46:08Z",
-   "official_revision_date": "2023-09-21"
+   "last_observed_at": "2026-09-08T09:02:24Z",
+   "official_revision_date": "2023-09-21",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:46:08Z"
+ ]
 }

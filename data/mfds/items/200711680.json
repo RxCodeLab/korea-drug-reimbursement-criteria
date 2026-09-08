@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711680",
+ "item_name": "코살린정(페타시테스히브리두스엽이산화탄소엑스)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20071024",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102808]페타시테스히브리두스엽이산화탄소엑스",
+ "main_item_ingr_eng": "Butterbur Leaves Carbon Dioxide Extract",
+ "edi_code": "657806650",
+ "atc_code": "R03DC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711680",
+ "revisions": [
+  {
+   "revision_id": "200711680-241613cb",
+   "content_sha256": "241613cb11ef7104b1109db698431ae79cfc86c380fea16b1770c45f8437304b",
+   "ee_text": "다음 제증상이 있는 알레르기성 비염의 완화 : 재채기, 콧물, 가려움증, 코막힘",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:00Z",
+   "last_observed_at": "2026-09-08T08:42:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:00Z"
+}

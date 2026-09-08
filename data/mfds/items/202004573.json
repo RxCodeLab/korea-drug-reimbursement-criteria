@@ -12,6 +12,7 @@
  "edi_code": "659901630",
  "atc_code": "A05AA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004573",
+ "history_fetched_at": "2026-08-28T13:25:20Z",
  "revisions": [
   {
    "revision_id": "202004573-f52b1657",
@@ -19,8 +20,9 @@
    "ee_text": "○콜레스테롤 담석증 ○원발 쓸개관 간경화증(Primary Biliary Cirrhosis: PBC) 의 간기능 개선 ○만성 C형 간염 환자의 간기능 개선",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:25:20Z",
-   "last_observed_at": "2026-08-28T13:25:20Z",
-   "official_revision_date": "2023-01-09"
+   "last_observed_at": "2026-09-08T08:59:09Z",
+   "official_revision_date": "2023-01-09",
+   "normalizer_version": 3
   },
   {
    "revision_id": "202004573-8d52b0fe",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:25:20Z",
    "last_observed_at": "2026-08-28T13:25:20Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:20Z"
+ ]
 }

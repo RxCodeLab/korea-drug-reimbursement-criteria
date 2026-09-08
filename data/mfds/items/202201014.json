@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201014",
+ "item_name": "이텍스플로로글루시놀정(플로로글루시놀수화물)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20220308",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256211]플로로글루시놀수화물",
+ "main_item_ingr_eng": "Phloroglucinol Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201014",
+ "revisions": [
+  {
+   "revision_id": "202201014-9a0592b8",
+   "content_sha256": "9a0592b86cf651764109212af7a365af783380cae975308aa88444de42251efa",
+   "ee_text": "- 비뇨기계의 경련 및 통증 : 신염성 산통 - 소화관 및 담도계의 기능장애에 의한 통증 - 부인과의 경련성 통증 - 임신중 수축의 보조치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:10Z",
+   "last_observed_at": "2026-09-08T09:01:10Z",
+   "official_revision_date": "2022-03-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:10Z"
+}

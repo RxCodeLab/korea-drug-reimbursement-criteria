@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198200032",
+ "item_name": "유우린과립(오림산)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19820330",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M096420]오림산연조엑스",
+ "main_item_ingr_eng": "Orimsan Soft Extract",
+ "edi_code": "",
+ "atc_code": "G04BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200032",
+ "revisions": [
+  {
+   "revision_id": "198200032-e400bf5b",
+   "content_sha256": "e400bf5be6e8026a45980a6d3604b0e576d3733bfd5a7f7a0eb169a02e3de9b1",
+   "ee_text": "빈뇨, 배뇨통, 잔뇨감",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:46Z",
+   "last_observed_at": "2026-09-08T08:26:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:46Z"
+}

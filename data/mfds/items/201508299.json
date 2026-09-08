@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508299",
+ "item_name": "아시바정(아시클로버)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20151217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버|[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "649102920",
+ "atc_code": "J05AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508299",
+ "revisions": [
+  {
+   "revision_id": "201508299-73ccd39a",
+   "content_sha256": "73ccd39a1d15bd0186d484a1b9d6d883fe27283592be2f1d4868ea00bc764ef3",
+   "ee_text": "(정제)(시럽제)(현탁제) 1. 초발성 및 재발성 생식기포진을 포함한 피부 및 점막조직의 단순포진 바이러스 감염증의 치료 및 예방 2. 대상포진 바이러스 감염증의 치료, 특히 급성시의 통증에 효과가 있다. 반면 포진후 신경통에 대한 효과는 아직 증명되지 않았다. 3. 2세 이상 소아의 수두 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:59Z",
+   "last_observed_at": "2026-09-08T08:49:59Z",
+   "official_revision_date": "2018-08-02"
+  },
+  {
+   "revision_id": "201508299-29df3867",
+   "content_sha256": "29df38676e97913232b6ba9ff05f66aaefcb0a3f6fb41c978a50efbb56097558",
+   "ee_text": "1. 초발성 및 재발성 생식기포진을 포함한 피부 및 점막조직의 단순포진 바이러스 감염증의 치료 및 예방 2. 대상포진 바이러스 감염증의 치료, 특히 급성시의 통증에 효과가 있다. 반면 포진후 신경통에 대한 효과는 아직 증명되지 않았다. 3. 2세 이상 소아의 수두 치료",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:49:59Z",
+   "last_observed_at": "2026-09-08T08:49:59Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:59Z"
+}

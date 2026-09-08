@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200607516",
+ "item_name": "바리탑에치디현탁용분말(황산바륨)",
+ "entp_name": "(주)위드헬스케어",
+ "permit_date": "20061027",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040801]황산바륨",
+ "main_item_ingr_eng": "Barium Sulfate",
+ "edi_code": "625400012,625400013",
+ "atc_code": "V08BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607516",
+ "revisions": [
+  {
+   "revision_id": "200607516-d4433245",
+   "content_sha256": "d4433245c20753dc72c7511f79dd4f6c838e1e17fd1e2fa6187052628a1aaf60",
+   "ee_text": "소화관조영",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:29Z",
+   "last_observed_at": "2026-09-08T08:40:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:29Z"
+}

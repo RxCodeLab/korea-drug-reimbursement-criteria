@@ -7,21 +7,22 @@
  "permit_date": "20000316",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M090847]비타민E|[M080392]콩기름불검화물|[M223278]판테틴",
+ "main_item_ingr": "[M080392]콩기름불검화물|[M090847]비타민E|[M223278]판테틴",
  "main_item_ingr_eng": "Pantethine/Tocopherol/Unsaponifiable Matter of Soybean Oil",
  "edi_code": "",
  "atc_code": "C10B",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004038",
+ "history_fetched_at": "2026-08-28T13:23:55Z",
  "revisions": [
   {
-   "revision_id": "200004038-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200004038-740071b1",
+   "content_sha256": "740071b116a6732717c496a74e3222808ddee341760d076fc705f761ba64d02c",
+   "ee_text": "1. 고콜레스테롤 혈증의 개선 2. 고콜레스테롤 혈증에 수반되는 말초혈행장애(수족냉증,저림)의 완화",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:23:55Z",
-   "last_observed_at": "2026-08-28T13:23:55Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:34:13Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:55Z"
+ ]
 }

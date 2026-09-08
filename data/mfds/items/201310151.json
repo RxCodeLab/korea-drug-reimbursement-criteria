@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310151",
+ "item_name": "이소비지속성캡슐(지속성질산이소소르비드펠렛)(수출용)",
+ "entp_name": "삼남제약(주)",
+ "permit_date": "20131115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081164]지속성질산이소소르비드펠렛",
+ "main_item_ingr_eng": "Isosorbide Mononitrate Sustained-Release Pellets",
+ "edi_code": "",
+ "atc_code": "C01DA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310151",
+ "revisions": [
+  {
+   "revision_id": "201310151-cf638699",
+   "content_sha256": "cf638699a8abffe9a3a799f2a39620ecbdbc60c32eb5d221b44ab4deb0683eaa",
+   "ee_text": "1. 협심증, 심근경색, 관경화증(만성허혈성심질환, 무증후성허혈성심질환, 동맥경화성심질환) 2. 울혈성심부전의 보조요법(강심배당체 또는 이뇨제와 병용)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:30Z",
+   "last_observed_at": "2026-09-08T08:46:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:30Z"
+}

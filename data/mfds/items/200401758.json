@@ -12,6 +12,7 @@
  "edi_code": "671800531",
  "atc_code": "A11GA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401758",
+ "history_fetched_at": "2026-08-28T13:24:05Z",
  "revisions": [
   {
    "revision_id": "200401758-fcd6f6ef",
@@ -19,8 +20,9 @@
    "ee_text": "급성 또는 경구투여가 어려운 경우의 1. 비타민 C 결핍증의 예방과 치료 : 괴혈병 등 2. 비타민 C 의 요구량이 증가하는 경우 : 임부ᆞ수유부, 심한 육체노동 시 등 3. 다음 질환 중 비타민 C 결핍증 또는 대사장애에 관여되는 것으로 추정되는 경우 1) 모세관출혈(비출혈, 치육출혈, 혈뇨 등) 2) 약물투여(살리실산염, 아트로핀, 염화암모늄, 바르비탈산염 등) 3) 골절시의 골기질형성, 골유합촉진 4) 기미, 주근깨, 염증후의 색소침착 5) 광선과민성피부염 등",
    "ee_doc_id": "17",
    "first_observed_at": "2026-08-28T13:24:05Z",
-   "last_observed_at": "2026-08-28T13:24:05Z",
-   "official_revision_date": "2021-12-23"
+   "last_observed_at": "2026-09-08T08:37:54Z",
+   "official_revision_date": "2021-12-23",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200401758-723d0315",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:05Z",
    "last_observed_at": "2026-08-28T13:24:05Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:05Z"
+ ]
 }

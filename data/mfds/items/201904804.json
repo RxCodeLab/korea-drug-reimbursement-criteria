@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904804",
+ "item_name": "첨복플루오주250mg(플루오로우라실)",
+ "entp_name": "대구경북첨단의료산업진흥재단",
+ "permit_date": "20190718",
+ "cancel_date": "20240718",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040740]플루오로우라실",
+ "main_item_ingr_eng": "Fluorouracil",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904804",
+ "revisions": [
+  {
+   "revision_id": "201904804-8920943c",
+   "content_sha256": "8920943cde9cf0c96573051787a2bc664cd536116bba269bcd52f0ff09a99466",
+   "ee_text": "다음 질환의 자각적 및 타각적 증상의 완화 1. 암종 : 결장암, 직장암, 유방암, 위암, 간암, 췌장암, 난소암, 자궁암 2. 다음 질환에 대해서는 다른 항종양제 또는 방사선요법과 병용 : 식도암, 폐암, 악암, 설암",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:52Z",
+   "last_observed_at": "2026-09-08T08:55:52Z",
+   "official_revision_date": "2019-07-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:52Z"
+}

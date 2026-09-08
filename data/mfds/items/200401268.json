@@ -7,21 +7,22 @@
  "permit_date": "20040712",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M256640]락트산나트륨50%|[M040631]탄산수소나트륨|[M040426]염화나트륨|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M201934]포도당수화물",
+ "main_item_ingr": "[M040426]염화나트륨|[M040631]탄산수소나트륨|[M051111]염화마그네슘|[M201934]포도당수화물|[M217500]염화칼슘수화물|[M256640]락트산나트륨50%",
  "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose Hydrate/Magnesium Chloride/Sodium Bicarbonate/Sodium Chloride/Sodium Lactate 50%",
  "edi_code": "",
  "atc_code": "B05DB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401268",
+ "history_fetched_at": "2026-08-28T13:24:04Z",
  "revisions": [
   {
-   "revision_id": "200401268-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200401268-9e23a70c",
+   "content_sha256": "9e23a70c70f042f58d5184c2127c9f482a6e580002300d80f681692a0789f6db",
+   "ee_text": "1. 급ㆍ만성신부전 환자의 복막투석액 2. 다른 처치에 효과가 없는 투석물질에 대한 약물중독시 해독 3. 젖산만으로 이루어진 투석액의 주입시 낮은 pH로 인해 불편감이 있는 환자",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:24:04Z",
-   "last_observed_at": "2026-08-28T13:24:04Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:37:45Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:04Z"
+ ]
 }

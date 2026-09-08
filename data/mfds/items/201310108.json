@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201310108",
+ "item_name": "유니온레보게스트정(수출명:LEVOGEST Tab.)(수출용)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20131113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095487]레보노르게스트렐",
+ "main_item_ingr_eng": "Levonorgestrel",
+ "edi_code": "",
+ "atc_code": "G03AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310108",
+ "revisions": [
+  {
+   "revision_id": "201310108-0fd2638a",
+   "content_sha256": "0fd2638a5000feaa7955fa6caf4edbb666ff27c79ee723f25de570bece162d19",
+   "ee_text": "무방비한 성교 또는 피임방법의 실패로 인한 경우, 성교후 72시간 이내에 즉시 사용하는 응급피임약.",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:29Z",
+   "last_observed_at": "2026-09-08T08:46:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:29Z"
+}

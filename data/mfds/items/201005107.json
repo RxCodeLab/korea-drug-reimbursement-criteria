@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201005107",
+ "item_name": "곰포사정(알렌드론산나트륨)(수출용)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20100820",
+ "cancel_date": "20231201",
+ "status": "취하",
+ "main_item_ingr": "[M206239]알렌드론산나트륨",
+ "main_item_ingr_eng": "Sodium Alendronate",
+ "edi_code": "",
+ "atc_code": "M05BA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005107",
+ "revisions": [
+  {
+   "revision_id": "201005107-da05451e",
+   "content_sha256": "da05451e09ac461260ff49112a9fab8a0728bfbeeb17677987b9d80b5fd890a5",
+   "ee_text": "폐경후 여성의 골다공증 치료, 남성의 골다공증 치료",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:12Z",
+   "last_observed_at": "2026-09-08T08:44:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:12Z"
+}

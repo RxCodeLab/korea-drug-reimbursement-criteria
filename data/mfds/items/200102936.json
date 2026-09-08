@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200102936",
+ "item_name": "레디센스주300(이오파미돌)",
+ "entp_name": "(주)태준제약",
+ "permit_date": "20010806",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085529]이오파미돌",
+ "main_item_ingr_eng": "Iopamidol",
+ "edi_code": "650100244,650100245",
+ "atc_code": "V08AB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102936",
+ "revisions": [
+  {
+   "revision_id": "200102936-38d5e1a6",
+   "content_sha256": "38d5e1a673480f16667f96474505343886ceeeb81b9cb12cc4f67d3daa9f1d18",
+   "ee_text": "(주사제 200 mgI/mL) 1. 뇌수조조영 2. 척수조영 3. 혈관조영 : 디지털감산혈관조영(DSA) (주사제 250 mgI/mL) 혈관조영 : 1. 말초정맥조영 2. 뇌동맥조영 (주사제 300 mgI/mL) 1. 뇌수조조영 2. 척수조영 3. 혈관조영 : 동맥조영, 정맥조영 4. 정맥요로조영(IVP) 5. CT 조영증강 (주사제 370 mgI/mL) 1. 혈관조영 : 관상동맥조영, 흉부대동맥조영, 복부대동맥조영, 심장혈관조영, 선택적 내장동맥조영, 말초동맥조영 2. 정맥요로조영(IVP) 3. CT 조영증강",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:31Z",
+   "last_observed_at": "2026-09-08T08:35:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:31Z"
+}

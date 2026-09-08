@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800667",
+ "item_name": "알자뷰주사액(플로라프로놀(18F)액)",
+ "entp_name": "(주)퓨쳐켐",
+ "permit_date": "20180202",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267293]플로라프로놀(18F)액",
+ "main_item_ingr_eng": "Florapronol(18F) Solution",
+ "edi_code": "",
+ "atc_code": "V09AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800667",
+ "revisions": [
+  {
+   "revision_id": "201800667-9fd3610d",
+   "content_sha256": "9fd3610d51c15f0b938c4f75a1ba26d3d686d47c5aef4cddfd5afa56074a6542",
+   "ee_text": "다음 경우의 양전자방출단층촬영(Positron emission tomography, PET)에 사용한다. 알츠하이머병(Alzheimer’s disease) 또는 인지장애의 기타 원인을 평가해야 하는 성인 인지장애 환자에서 뇌 베타 아밀로이드 신경반의 유‧무를 추정하여 임상평가의 보조진단으로 사용한다. 이 약은 임상학적 평가와 함께 사용해야 한다. PET 검사의 음성스캔(negative scan)은 베타 아밀로이드 신경반이 희박하거나 없을 것으로 추정할 수 있으며, 양성스캔(positive scan)은 베타 아밀로이드 신경반이 있을 것으로 추정할 수 있다. (음성스캔과 양성스캔의 판정기준은 용법·용량을 참고) 이는 알츠하이머병의 신경병리학적 진단과 일치하는 것은 아니다. 이 약에 의한 PET 영상의 민감도와 특이도는 임상진단을 기준으로 평가되었다. 베타 아밀로이드 신경반은 정상 인지능력을 가진 고령자와 알츠하이머병 또는 다른 유형의 신경성 장애(루이 소체성 치매, 파킨슨병 치매 등) 환자에서도 존재할 수 있으므로 이를 유의하며 이 약에 의한 검사는 다른 진단검사의 보조진단으로 사용되어야 한다. 사용제한 회백질 내 베타 아밀로이드 신경반은 증상 없는 노인과 알츠하이머병 및 다른 유형의 신경성 장애(루이 소체성 치매, 파킨슨병 치매 등) 환자에서도 존재할 수 있으므로 알츠하이머병 및 다른 인지장애를 독립적으로 진단할 수 없다. 다음 사항들에 대한 이 약의 안전성과 유효성은 확립되지 않았다: - 치매나 다른 신경계질환의 발생 진행 예측 - 치료에 대한 반응 모니터링 타우 단백질 등 아밀로이드 신경반 외 다른 물질과의 반응은 예측할 수 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:50Z",
+   "last_observed_at": "2026-09-08T08:52:50Z",
+   "official_revision_date": "2018-02-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:50Z"
+}

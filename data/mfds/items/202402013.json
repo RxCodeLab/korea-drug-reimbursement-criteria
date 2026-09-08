@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402013",
+ "item_name": "이지클리어크림",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20240820",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261256]이소프로필메틸페놀|[M261461]이부프로펜피코놀",
+ "main_item_ingr_eng": "Ibuprofen Piconol/Isopropyl Methylphenol",
+ "edi_code": "",
+ "atc_code": "D10AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402013",
+ "revisions": [
+  {
+   "revision_id": "202402013-8f016de1",
+   "content_sha256": "8f016de1ddd5e2e922cedb818120b9e1960920974676fb93d9ce3e676caf57b4",
+   "ee_text": "- 여드름, 뾰루지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:15Z",
+   "last_observed_at": "2026-09-08T09:03:15Z",
+   "official_revision_date": "2024-08-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:15Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199902268",
+ "item_name": "케이디유나제주100만단위(유로키나제)(수출용)(수출명:DukinaseInj.,SolokinaseInj.,UrokineInj.,Urothromb)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "19990203",
+ "cancel_date": "20251211",
+ "status": "취하",
+ "main_item_ingr": "[M051223]유로키나제",
+ "main_item_ingr_eng": "Urokinase",
+ "edi_code": "",
+ "atc_code": "B01AD04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902268",
+ "revisions": [
+  {
+   "revision_id": "199902268-f947c876",
+   "content_sha256": "f947c8767f8b312986c493a4fbd45ba31ea225fa94767cd9af8029c965cc639b",
+   "ee_text": "1. 뇌혈전증·뇌경색(증상 발현후 5일 이내로서 컴퓨터단층촬영 결과 출혈이 나타나지 않을 때) 2. 말초동·정맥폐색증 3. 급성심근경색 4. 폐색전증",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:50Z",
+   "last_observed_at": "2026-09-08T08:32:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:50Z"
+}

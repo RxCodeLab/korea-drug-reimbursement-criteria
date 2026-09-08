@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201101693",
+ "item_name": "트리플액션리리프점안액(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20110325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051756]포비돈|[M071571]폴리비닐알코올|[M223237]테트라히드로졸린염산염",
+ "main_item_ingr_eng": "Polyvinyl Alcohol/Povidone/Tetrahydrozoline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101693",
+ "revisions": [
+  {
+   "revision_id": "201101693-849040b4",
+   "content_sha256": "849040b4f6d695a150e0c8931ab620b8af7f6638effac72d84181668ec470cfc",
+   "ee_text": "눈의 건조로 인한 작열감 또는 자극감의 일시적 경감",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:32Z",
+   "last_observed_at": "2026-09-08T08:44:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:32Z"
+}

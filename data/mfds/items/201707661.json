@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707661",
+ "item_name": "하이탈로트과립(히드로탈시트)",
+ "entp_name": "(주)다산제약",
+ "permit_date": "20171031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051022]히드로탈시트",
+ "main_item_ingr_eng": "Hydrotalcite",
+ "edi_code": "",
+ "atc_code": "A02AD04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707661",
+ "revisions": [
+  {
+   "revision_id": "201707661-7122cf23",
+   "content_sha256": "7122cf23f64174bc13b1262caa5dc9ca0772fdc432da39bf72c84939c08cbf32",
+   "ee_text": "1. 주효능 효과 다음 질환 및 증상에 있어서 제산효과 : 위．십이지장궤양, 위산과다, 급．만성위염",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:31Z",
+   "last_observed_at": "2026-09-08T08:52:31Z",
+   "official_revision_date": "2022-07-05"
+  },
+  {
+   "revision_id": "201707661-215d3b55",
+   "content_sha256": "215d3b55ca81c9e3ddd4bcec5397902c3dea6e8361c493349ba7f9cc2646c9fe",
+   "ee_text": "1. 주효능 효과 다름 질환 및 증상에 있어서 제산효과 : 위．십이지장궤양, 위산과다, 급．만성위염",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-11-07",
+   "first_observed_at": "2026-09-08T08:52:31Z",
+   "last_observed_at": "2026-09-08T08:52:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:31Z"
+}

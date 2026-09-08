@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108760",
+ "item_name": "레스콜엑스엘서방정(플루바스타틴나트륨)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20010420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M214128]플루바스타틴나트륨",
+ "main_item_ingr_eng": "Fluvastatin Sodium",
+ "edi_code": "653600290",
+ "atc_code": "C10AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108760",
+ "revisions": [
+  {
+   "revision_id": "200108760-f2af4fbc",
+   "content_sha256": "f2af4fbccaecc60c7c10b29e518f0ef373835f79083d5d2ad2e9cf0034a0dea9",
+   "ee_text": "1. 다음의 심장혈관 질환에 대한 위험성감소 1) 식이요법에 적절히 반응하지 않는 원발성 고콜레스테롤혈증과 관상동맥질환을 나타내는 성인 환자에 대한 관상동맥경화증의 진행 지연 2) 관상동맥질환 성인 환자의 경피적 관상동맥 삽관술 후 심장사고(coronary events)의 재발 위험성감소('일반적 주의' 참고) 2. 고지혈증 식이요법에 적절히 반응하지 않는 원발성 고콜레스테롤혈증 환자(이형접합 가족형 및 비가족형) 및 원발성 혼합형 이상지질혈증 환자(Fredrickson types IIa 및 IIb)의 상승된 총 콜레스테롤, LDL-콜레스테롤, 아포-B 단백 및 트리글리세라이드치를 감소시키고 HDL-콜레스테롤을 증가시키는 식이요법의 보조제 3. 식이요법에 적절히 반응하지 않는 이형접합 가족형 고콜레스테롤혈증을 나타내는 소아 및 청소년(남 : 9세 이상 16세 이하, 여 : 초경이 지난 10세 이상 16세 이하)의 상승된 총 콜레스테롤, LDL-콜레스테롤, 아포-B 단백 및 트리글리세라이드치를 감소시키고 HDL-콜레스테롤을 증가시키는 식이요법의 보조제 가. LDL-콜레스테롤이 여전히 190 mg/dL 이상 (≥190 mg/dL) 이거나 나. LDL-콜레스테롤이 여전히 160 mg/dL 이상 (≥160 mg/dL) 이고, 조기 심장혈관 질환의 가족력이 있는 경우 또는 해당 소아환자에서 두 가지 이상의 다른 심장혈관 질환의 위험인자가 있는 경우",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:47Z",
+   "last_observed_at": "2026-09-08T08:35:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:47Z"
+}

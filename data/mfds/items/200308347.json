@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308347",
+ "item_name": "이소켓스프레이(이소소르비드이질산염)",
+ "entp_name": "에리슨제약(주)",
+ "permit_date": "20031120",
+ "cancel_date": "20230920",
+ "status": "취하",
+ "main_item_ingr": "[M256313]이소소르비드이질산염",
+ "main_item_ingr_eng": "Isosorbide Dinitrate",
+ "edi_code": "",
+ "atc_code": "C01DA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308347",
+ "revisions": [
+  {
+   "revision_id": "200308347-bbc840f1",
+   "content_sha256": "bbc840f1f7a8c97923652956c215a2075e7e185cedbc2726144ab18a334be4bf",
+   "ee_text": "협심증 발작의 예방과 치료, 좌심부전을 수반하는 급성심근경색",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:23Z",
+   "last_observed_at": "2026-09-08T08:37:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:23Z"
+}

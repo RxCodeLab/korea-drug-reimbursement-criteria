@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201067",
+ "item_name": "더마벡스겔(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20220315",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051015]알란토인|[M208314]양파추출액|[M249378]헤파린나트륨",
+ "main_item_ingr_eng": "Allantoin/Heparin Sodium/Onion Extract",
+ "edi_code": "",
+ "atc_code": "D03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201067",
+ "revisions": [
+  {
+   "revision_id": "202201067-591defb9",
+   "content_sha256": "591defb941410bafcfb5cedc342c700a319434698b4e8566bf37cb5520f72957",
+   "ee_text": "수술, 절단, 화상, 사고 후의 비대성ㆍ켈로이드성, 운동제한성 또는 미용적 피부손상시의 상처 및 흉터, 외상성 경축, 상흔성 협착",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:11Z",
+   "last_observed_at": "2026-09-08T09:01:11Z",
+   "official_revision_date": "2022-03-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:11Z"
+}

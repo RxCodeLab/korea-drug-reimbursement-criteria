@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500101",
+ "item_name": "코메쿨정(갈근탕가천궁신이연조엑스)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20050912",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M104035]갈근탕가천궁신이연조엑스(수분함유율40%)",
+ "main_item_ingr_eng": "Galgeuntanggacheongungsini Soft Extracts",
+ "edi_code": "",
+ "atc_code": "R01B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500101",
+ "revisions": [
+  {
+   "revision_id": "200500101-13625422",
+   "content_sha256": "13625422f5e86af02c6b14379a561bbeddbcc1ba7c3e11d2f936fda41aa2c052",
+   "ee_text": "코막힘, 부비동염, 만성비염",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:48Z",
+   "last_observed_at": "2026-09-08T08:38:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:48Z"
+}

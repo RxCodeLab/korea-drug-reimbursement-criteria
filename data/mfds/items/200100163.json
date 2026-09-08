@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100163",
+ "item_name": "뮤코브이시럽(암브록솔염산염)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "20010727",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233843]암브록솔염산염",
+ "main_item_ingr_eng": "Ambroxol Hydrochloride",
+ "edi_code": "658600371",
+ "atc_code": "R05CB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100163",
+ "revisions": [
+  {
+   "revision_id": "200100163-5e81edc3",
+   "content_sha256": "5e81edc363e1d6a134b03b4018fa340e6cd5cb3874edcd5e0f95dd7bebb8b268",
+   "ee_text": "점액분비장애로 인한 다음의 급·만성 호흡기질환 : 급·만성기관지염, 천식성기관지염",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:49Z",
+   "last_observed_at": "2026-09-08T08:34:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:49Z"
+}

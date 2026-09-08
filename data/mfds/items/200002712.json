@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002712",
+ "item_name": "스타존정(수출용)(수출명:DIDSTARSONE)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20000419",
+ "cancel_date": "20240429",
+ "status": "취하",
+ "main_item_ingr": "[M040218]베타메타손|[M262092]말레인산 덱스크로르페닐아민",
+ "main_item_ingr_eng": "Betamethasone/Dexchlorpheniramine Maleate",
+ "edi_code": "",
+ "atc_code": "H02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002712",
+ "revisions": [
+  {
+   "revision_id": "200002712-287fb543",
+   "content_sha256": "287fb5431934b4c89cbec46b529c6f45fb1a34a44c01406b7b634a7c4026b285",
+   "ee_text": "두드러기, 고초열(화분증), 만성기관지천식, 알레르기성비염, 약물과민반응, 아토피성피부염, 습진, 접촉성피부염, 알레르기성결막염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:01Z",
+   "last_observed_at": "2026-09-08T08:34:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:01Z"
+}

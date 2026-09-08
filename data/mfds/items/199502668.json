@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199502668",
+ "item_name": "유리논정(벤즈브로마론)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "19950327",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050819]벤즈브로마론",
+ "main_item_ingr_eng": "Benzbromarone",
+ "edi_code": "645301370",
+ "atc_code": "M04AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502668",
+ "revisions": [
+  {
+   "revision_id": "199502668-e2f9a300",
+   "content_sha256": "e2f9a3002a7d7a1edb5a0e3f74c9c3abf2a179b7934b191ea9f9aff11d22e749",
+   "ee_text": "다음의 경우에 있어서 고요산혈증의 개선 1. 통풍 2. 고요산혈증을 수반한 고혈압증",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:49Z",
+   "last_observed_at": "2026-09-08T08:29:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:49Z"
+}

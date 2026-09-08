@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301522",
+ "item_name": "광동침옥고",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20230511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082091]생지황즙|[M110385]복령 가루|[M110386]인삼 가루|[M110568]침향 가루|[M111107]구기자 가루|[M200168]꿀",
+ "main_item_ingr_eng": "Aquilariae Lignum Powder/Ginseng Powder/Honey/Lycium Fruit Powder/Poria Powder/Rehmanniae Glutinosae Liboschitz var. Purpureae Makino",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301522",
+ "revisions": [
+  {
+   "revision_id": "202301522-b30f1fcb",
+   "content_sha256": "b30f1fcbd4aff5e4ea30daf66e73ef5ff88b5683317e4646be71333701a0c6ef",
+   "ee_text": "다음의 경우 자양강장 : 식욕부진, 육체피로, 허약체질, 병후의 체력저하, 위장허약, 혈색불량, 냉증, 발육기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:03Z",
+   "last_observed_at": "2026-09-08T09:02:03Z",
+   "official_revision_date": "2023-05-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:03Z"
+}

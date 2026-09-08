@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106349",
+ "item_name": "바이오탑디듀얼캡슐",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "20210903",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080610]바실루스서브틸리스균|[M253700]클로스트리듐부티리쿰토아균",
+ "main_item_ingr_eng": "Bacillus Subtilis/Clostridium Butyricum Toa",
+ "edi_code": "",
+ "atc_code": "A07FA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106349",
+ "revisions": [
+  {
+   "revision_id": "202106349-a13348c6",
+   "content_sha256": "a13348c67da4a18444153ab8c9733e07afe65541e01ad2ff82c2ede164e9c386",
+   "ee_text": "정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:32Z",
+   "last_observed_at": "2026-09-08T09:00:32Z",
+   "official_revision_date": "2021-09-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:32Z"
+}

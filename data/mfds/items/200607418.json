@@ -7,11 +7,12 @@
  "permit_date": "20060829",
  "cancel_date": "20231108",
  "status": "취하",
- "main_item_ingr": "[M214408]화이트페트롤라튬|[M040043]글리세린|[M222724]페닐레프린염산염|[M246661]프라목신염산염",
+ "main_item_ingr": "[M040043]글리세린|[M214408]화이트페트롤라튬|[M222724]페닐레프린염산염|[M246661]프라목신염산염",
  "main_item_ingr_eng": "Glycerin/Phenylephrine Hydrochloride/Pramoxine Hydrochloride/White Petrolatum",
  "edi_code": "",
  "atc_code": "C05AX03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607418",
+ "history_fetched_at": "2026-08-28T13:24:10Z",
  "revisions": [
   {
    "revision_id": "200607418-cb11424e",
@@ -19,9 +20,9 @@
    "ee_text": "- 치질 부위의 통증, 쓰림, 작열감의 일시적인 경감 - 치질과 관련된 국소적인 가려움증과 불쾌감 감소 - 치질 부위의 일시적인 수축 - 항문직장의 불쾌감의 경감을 위한 일시적인 코팅 - 배변 시 고통경감을 위해 염증과 자극이 있는 항문직장의 일시적인 보호",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:24:10Z",
-   "last_observed_at": "2026-08-28T13:24:10Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:40:29Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:10Z"
+ ]
 }

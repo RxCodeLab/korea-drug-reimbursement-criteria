@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003455",
+ "item_name": "파타원미니점안액0.2%(올로파타딘염산염)(1회용)",
+ "entp_name": "(주)이든파마",
+ "permit_date": "20200513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233188]올로파타딘염산염",
+ "main_item_ingr_eng": "Olopatadine Hydrochloride",
+ "edi_code": "628901751",
+ "atc_code": "S01GX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003455",
+ "revisions": [
+  {
+   "revision_id": "202003455-7342a066",
+   "content_sha256": "7342a06647e4fca1811156469ee3a28cbf2cfa584c7635fa03386ea624660eaa",
+   "ee_text": "알러지성 결막염으로 인한 증상 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:45Z",
+   "last_observed_at": "2026-09-08T08:58:45Z",
+   "official_revision_date": "2020-05-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:45Z"
+}

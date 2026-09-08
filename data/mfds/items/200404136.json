@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200404136",
+ "item_name": "제이비케이주증황련환",
+ "entp_name": "주식회사 제이비케이랩",
+ "permit_date": "20040807",
+ "cancel_date": "20240814",
+ "status": "취하",
+ "main_item_ingr": "[M040792]황련",
+ "main_item_ingr_eng": "Coptis Rhizome",
+ "edi_code": "",
+ "atc_code": "A16A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404136",
+ "revisions": [
+  {
+   "revision_id": "200404136-ac44ae88",
+   "content_sha256": "ac44ae8865a33ac9bdfdf3e47c8be018ec721e56d69ccb9e713025a798b4bc74",
+   "ee_text": "더위에 의한 열감을 느끼는 목마름, 과음에 의한 황달, 음주 후의 새벽설사, 피가 섞인 대변, 열성 설사",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:30Z",
+   "last_observed_at": "2026-09-08T08:38:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:30Z"
+}

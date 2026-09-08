@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "M03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108048",
+ "history_fetched_at": "2026-08-28T13:25:27Z",
  "revisions": [
   {
    "revision_id": "202108048-dfa8214f",
@@ -19,9 +20,9 @@
    "ee_text": "급격히 일어나는 근육의 경련을 수반하는 통증",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:27Z",
-   "last_observed_at": "2026-08-28T13:25:27Z",
-   "official_revision_date": "2021-12-21"
+   "last_observed_at": "2026-09-08T09:00:53Z",
+   "official_revision_date": "2021-12-21",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:27Z"
+ ]
 }

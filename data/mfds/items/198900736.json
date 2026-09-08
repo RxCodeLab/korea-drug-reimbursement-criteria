@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198900736",
+ "item_name": "영진세파만돌나페이트주1그람(수출용)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "19890726",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020203]세파만돌나페이트",
+ "main_item_ingr_eng": "Cefamandole Nafate",
+ "edi_code": "",
+ "atc_code": "J01DC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900736",
+ "revisions": [
+  {
+   "revision_id": "198900736-9474f706",
+   "content_sha256": "9474f706284f22f92599c68a3ab9327a78dabacbd2a77b74f531619697380570",
+   "ee_text": "○ 유효균종 - 황색포도구균, 표피포도구균, 연쇄구균(장내구균 제외), 폐렴연쇄구균, 대장균, 클레브시엘라, 엔테로박터, 인플루엔자균, 프로테우스, 펩토구균, 펩토연쇄구균, 클로스트리듐, 박테로이드(대부분의 박테로이디즈 프라질리스는 내성임.), 푸소박테륨 - 슈도모나스, 아시네토박터 칼코아세티쿠스, 세라티아 균은 내성임. - 이 약은 몇몇 장내세균에 의한 베타락타마제 분해에 내성을 가진다. ○ 적응증 및 주효능효과 - 기관지염, 폐렴 등 하기도감염증 - 요로감염증 - 복막염 - 패혈증 - 피부 및 연조직 감염증 - 골 및 관절 감염증",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:51Z",
+   "last_observed_at": "2026-09-08T08:27:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:51Z"
+}

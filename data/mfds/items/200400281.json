@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400281",
+ "item_name": "트리플앤티바이오틱오리지널0.5온스(수출용)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20041011",
+ "cancel_date": "20251016",
+ "status": "취하",
+ "main_item_ingr": "[M020009]황산네오마이신|[M020164]황산폴리믹신비|[M083538]바시트라신아연",
+ "main_item_ingr_eng": "Bacitracin Zinc/Neomycin Sulfate/Polymyxin B Sulfate",
+ "edi_code": "",
+ "atc_code": "D06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400281",
+ "revisions": [
+  {
+   "revision_id": "200400281-4fc43ec2",
+   "content_sha256": "4fc43ec20fab0f11e974974fdb2aa1280a9e69922a8e5aa317e9b0a8a9094765",
+   "ee_text": "가벼운 절상, 찰과상, 화상으로 일한 통증완화 및 감염증 예방",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:32Z",
+   "last_observed_at": "2026-09-08T08:37:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:32Z"
+}

@@ -7,7 +7,7 @@
  "permit_date": "19971027",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M222565]시트르산나트륨수화물|[M227966]아세트산나트륨수화물|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M222565]시트르산나트륨수화물|[M227966]아세트산나트륨수화물",
  "main_item_ingr_eng": "Calcium Chloride Hydrate/Magnesium Chloride/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride/Sodium Citrate Hydrate",
  "edi_code": "658601042",
  "atc_code": "S01KX",
@@ -20,7 +20,8 @@
    "ee_text": "최대 60분내의 안과영역 수술시 관류액",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199700269/EE",
    "first_observed_at": "2026-08-27T10:36:54Z",
-   "last_observed_at": "2026-08-28T13:23:48Z"
+   "last_observed_at": "2026-09-08T08:30:40Z",
+   "normalizer_version": 3
   }
  ]
 }

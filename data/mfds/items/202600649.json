@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600649",
+ "item_name": "타스맥정(탄산수소나트륨)",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20260304",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "A02AH",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600649",
+ "revisions": [
+  {
+   "revision_id": "202600649-c6f3df48",
+   "content_sha256": "c6f3df485be29a2b0ccff3a1be82df7abb7f4197eb3e8c7c0aedf181dc160ecd",
+   "ee_text": "1. 주효능 효과 1) 다음 질환의 제산작용 및 증상의 개선 : 위ㆍ십이지장궤양, 위염, 위산과다 2) 산증의 개선 2. 다음 질환에도 사용할 수 있다. 요산배설의 촉진과 통풍발작의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:51Z",
+   "last_observed_at": "2026-09-08T09:04:51Z",
+   "official_revision_date": "2026-03-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:51Z"
+}

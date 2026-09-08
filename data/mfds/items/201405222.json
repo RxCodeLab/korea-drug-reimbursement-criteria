@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405222",
+ "item_name": "포스카비어주(포스카네트 나트륨 수화물)",
+ "entp_name": "클리니젠코리아(유)",
+ "permit_date": "20141107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260734]포스카네트 나트륨 수화물",
+ "main_item_ingr_eng": "Foscarnet Sodium Hexahydrate",
+ "edi_code": "",
+ "atc_code": "J05AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405222",
+ "revisions": [
+  {
+   "revision_id": "201405222-9e11efa6",
+   "content_sha256": "9e11efa63564b98a9c17d5a6d36db8bba6698c27809aa9588992e23342085690",
+   "ee_text": "조혈모세포이식 환자의 거대세포바이러스 혈증(CMV Viraemia)의 치료 <효능효과와 관련한 사용상 주의사항> 1. 선천성, 신생아의 거대세포바이러스 질환에 대한 효능효과는 확립되지 않았다. 2. 이 약은 거대세포바이러스 비감염자에게 감염 예방 목적으로 사용해서는 안된다.",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:57Z",
+   "last_observed_at": "2026-09-08T08:47:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:57Z"
+}

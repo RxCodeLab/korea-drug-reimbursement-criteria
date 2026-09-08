@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198900209",
+ "item_name": "동아페르디핀서방캡슐40밀리그램(니카르디핀염산염)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "19890904",
+ "cancel_date": "20240701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M228651]니카르디핀염산염위용성과립|[M228652]니카르디핀염산염장용성과립",
+ "main_item_ingr_eng": "Nicardipine Hydrochloride Enteric Granules/Nicardipine Hydrochloride Gastric Granules",
+ "edi_code": "",
+ "atc_code": "C08CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900209",
+ "revisions": [
+  {
+   "revision_id": "198900209-348b1a22",
+   "content_sha256": "348b1a22128c0adb6f0eceec71599e9f43874cf6a860b29dbed4ca8171015829",
+   "ee_text": "(경구 :정제) 1. 본태성고혈압 2. 다음 질환에 의한 여러 증상의 개선 : 뇌경색후유증, 뇌출혈후유증, 뇌동맥경화증 (경구 : 서방형 캅셀제) 본태성고혈압",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:48Z",
+   "last_observed_at": "2026-09-08T08:27:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:48Z"
+}

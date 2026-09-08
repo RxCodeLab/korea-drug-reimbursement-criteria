@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301537",
+ "item_name": "보티브정20밀리그램(보티옥세틴브롬화수소산염)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "20230512",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260128]보티옥세틴브롬화수소산염",
+ "main_item_ingr_eng": "Vortioxetine Hydrobromide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301537",
+ "revisions": [
+  {
+   "revision_id": "202301537-0a2479f6",
+   "content_sha256": "0a2479f6d4bbcfef2d52b3f9bbbaab414b89d139c9f8f731ebae13d81e0bd38e",
+   "ee_text": "주요우울장애의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:03Z",
+   "last_observed_at": "2026-09-08T09:02:03Z",
+   "official_revision_date": "2023-05-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:03Z"
+}

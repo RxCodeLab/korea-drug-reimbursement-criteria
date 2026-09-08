@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200003475",
+ "item_name": "뉴헴시럽(수출용)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20000724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050081]글루콘산망간|[M050081]글루콘산망간|[M085156]글루콘산구리|[M085156]글루콘산구리|[M222934]글루콘산제일철수화물|[M222934]글루콘산제일철수화물",
+ "main_item_ingr_eng": "Copper Gluconate/Ferrous Gluconate Hydrate/Manganese Gluconate",
+ "edi_code": "",
+ "atc_code": "B03AE10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200003475",
+ "revisions": [
+  {
+   "revision_id": "200003475-d995eb5f",
+   "content_sha256": "d995eb5f68a106ee0c3a779544c516a85f40c98f3be057e0681f1b2123e0a755",
+   "ee_text": "1. 임신, 분만후, 수유기 및 기생충 감염으로 인한 철 결핍성 빈혈 2. 철 및 비타민B12의 동시결핍에 의한 빈혈 3. 회복기 또는 정신적 과로로 인한 신체허약",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:09Z",
+   "last_observed_at": "2026-09-08T08:34:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:09Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200608209",
+ "item_name": "헤모폴리액(폴리말토오스수산화제이철착염)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20060824",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254564]폴리말토오스수산화제이철착염|[M254564]폴리말토오스수산화제이철착염",
+ "main_item_ingr_eng": "Ferric Hydroxide Polymaltose Complex",
+ "edi_code": "",
+ "atc_code": "B03AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608209",
+ "revisions": [
+  {
+   "revision_id": "200608209-1681c4cf",
+   "content_sha256": "1681c4cfa0daf817c00737ea1b0f63d6a0af5071aa3e2dca44878822c03a789f",
+   "ee_text": "철 결핍성 빈혈",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:36Z",
+   "last_observed_at": "2026-09-08T08:40:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:36Z"
+}

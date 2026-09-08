@@ -7,11 +7,12 @@
  "permit_date": "20201112",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223211]클로르페니라민말레산염|[M203364]슈도에페드린염산염",
+ "main_item_ingr": "[M203364]슈도에페드린염산염|[M223211]클로르페니라민말레산염",
  "main_item_ingr_eng": "Chlorpheniramine Maleate/Pseudoephedrine Hydrochloride",
  "edi_code": "",
  "atc_code": "R01BA52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007833",
+ "history_fetched_at": "2026-08-28T13:25:22Z",
  "revisions": [
   {
    "revision_id": "202007833-32da3b0e",
@@ -19,9 +20,9 @@
    "ee_text": "다음 증상의 일시적완화 : 눈의가려움, 눈물, 콧물, 코 또는 인후(목구멍)의가려움, 재채기, 코막힘 및 부비동 울혈",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:22Z",
-   "last_observed_at": "2026-08-28T13:25:22Z",
-   "official_revision_date": "2020-11-12"
+   "last_observed_at": "2026-09-08T08:59:38Z",
+   "official_revision_date": "2020-11-12",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:22Z"
+ ]
 }

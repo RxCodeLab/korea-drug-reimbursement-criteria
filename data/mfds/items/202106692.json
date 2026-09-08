@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106692",
+ "item_name": "푸로골서방캡슐120밀리그램(딜티아젬염산염)",
+ "entp_name": "(주)한국유니팜",
+ "permit_date": "20210929",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222982]딜티아젬염산염",
+ "main_item_ingr_eng": "Diltiazem Hydrochloride",
+ "edi_code": "685800150",
+ "atc_code": "C08DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106692",
+ "revisions": [
+  {
+   "revision_id": "202106692-577ff172",
+   "content_sha256": "577ff172d5a95c87321764c06986d6fef3f4f7ab66a1595ad8a8b464a314bc73",
+   "ee_text": "협심증, 본태성고혈압(경증-중등도)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:37Z",
+   "last_observed_at": "2026-09-08T09:00:37Z",
+   "official_revision_date": "2021-09-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:37Z"
+}

@@ -7,7 +7,7 @@
  "permit_date": "20220824",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051415]푸르설티아민|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M051415]푸르설티아민",
  "main_item_ingr_eng": "Acetaminophen/Fursultiamine",
  "edi_code": "",
  "atc_code": "",
@@ -20,7 +20,8 @@
    "ee_text": "1) 두통, 치통, 발치(이를 뽑음)후 동통(통증), 인후통, 귀의 통증, 관절통, 신경통, 요 통, 근육통, 견통(어깨결림), 타박통, 골절통, 염좌통(뻠통증), 월경통(생리통), 외상 통의 진통 2) 오한(춥고 떨리는 증상) 발열시의 해열",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202203369/EE",
    "first_observed_at": "2026-08-27T13:04:08Z",
-   "last_observed_at": "2026-08-28T13:25:30Z"
+   "last_observed_at": "2026-09-08T09:01:31Z",
+   "normalizer_version": 3
   }
  ]
 }

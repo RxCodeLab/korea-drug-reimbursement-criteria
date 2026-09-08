@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198401383",
+ "item_name": "제일페노바르비탈주사액(페노바르비탈나트륨)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "19841108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M217088]페노바르비탈나트륨",
+ "main_item_ingr_eng": "Phenobarbital Sodium",
+ "edi_code": "650500841",
+ "atc_code": "N03AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198401383",
+ "revisions": [
+  {
+   "revision_id": "198401383-7929630d",
+   "content_sha256": "7929630d46b3b0ba31d88589a064da796fdf9ea413bbd7ff3258109fa32e174e",
+   "ee_text": "(경구 : 정제) 불면, 진정, 간질 (주사제) 진정(긴급을 요하는 경우), 간질, 간질중첩상태",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:00Z",
+   "last_observed_at": "2026-09-08T08:27:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:00Z"
+}

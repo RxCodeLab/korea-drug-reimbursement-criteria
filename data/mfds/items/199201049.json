@@ -12,15 +12,8 @@
  "edi_code": "",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201049",
+ "history_fetched_at": "2026-09-08T08:28:25Z",
  "revisions": [
-  {
-   "revision_id": "199201049-aef014fc",
-   "content_sha256": "aef014fc9b954d10f48754e2f43dd57edc2d33eb1832e607c4e07cad501e1606",
-   "ee_text": "- 임신ㆍ수유기 - 발육기 - 노년기 - 뼈, 이의 발육불량 - 구루병의 예방",
-   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199201049/EE",
-   "first_observed_at": "2026-08-28T13:23:44Z",
-   "last_observed_at": "2026-08-28T13:23:44Z"
-  },
   {
    "revision_id": "199201049-0eaf09e9",
    "content_sha256": "0eaf09e9f960e2a632871d01e0168095b740383f4b971ac90eb79d74db81293d",
@@ -28,8 +21,16 @@
    "ee_doc_id": "15",
    "official_revision_date": "2017-09-23",
    "first_observed_at": "2026-08-28T13:23:44Z",
+   "last_observed_at": "2026-09-08T08:28:25Z",
+   "normalizer_version": 3
+  },
+  {
+   "revision_id": "199201049-aef014fc",
+   "content_sha256": "aef014fc9b954d10f48754e2f43dd57edc2d33eb1832e607c4e07cad501e1606",
+   "ee_text": "- 임신ㆍ수유기 - 발육기 - 노년기 - 뼈, 이의 발육불량 - 구루병의 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199201049/EE",
+   "first_observed_at": "2026-08-28T13:23:44Z",
    "last_observed_at": "2026-08-28T13:23:44Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:44Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003369",
+ "item_name": "세베톤과립(락토바실루스아시도필루스균)(수출용)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20100507",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M090094]락토바실루스아시도필루스균",
+ "main_item_ingr_eng": "Lactobacillus Acidophilus",
+ "edi_code": "",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003369",
+ "revisions": [
+  {
+   "revision_id": "201003369-550494e3",
+   "content_sha256": "550494e3561486239489dbd0992773ca1bb46fb53c98b33a07fcf1738c7fe295",
+   "ee_text": "1. 주효능 효과 장내균총이상(항생물질, 화학요법제 투여 등)에 의한 여러 증상의 개선 : 정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:02Z",
+   "last_observed_at": "2026-09-08T08:44:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:02Z"
+}

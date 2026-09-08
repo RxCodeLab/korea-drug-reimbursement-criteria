@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199800328",
+ "item_name": "바크락스안연고(아시클로버)수출용:바이러스탈안연고(아시클로버)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "19980501",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "",
+ "atc_code": "S01AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199800328",
+ "revisions": [
+  {
+   "revision_id": "199800328-a67fd156",
+   "content_sha256": "a67fd15681d4bf794a78660ecac189ecf910af72df0432a5cfec08f58efd46b3",
+   "ee_text": "단순 포진 바이러스에 의한 각막염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:39Z",
+   "last_observed_at": "2026-09-08T08:31:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:39Z"
+}

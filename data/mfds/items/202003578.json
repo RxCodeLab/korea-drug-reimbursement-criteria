@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003578",
+ "item_name": "팜씨케이정250밀리그램(팜시클로비르)",
+ "entp_name": "원광제약(주)",
+ "permit_date": "20200518",
+ "cancel_date": "20250518",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M250929]팜시클로비르",
+ "main_item_ingr_eng": "Famciclovir",
+ "edi_code": "",
+ "atc_code": "J05AB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003578",
+ "revisions": [
+  {
+   "revision_id": "202003578-428a8f8f",
+   "content_sha256": "428a8f8fdd67175c2c633992610d2c060479c1c40643e74c308573305ea57efe",
+   "ee_text": "1. 대상포진 바이러스 감염증 2. 생식기포진 감염증의 치료 및 재발성 생식기포진의 억제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:48Z",
+   "last_observed_at": "2026-09-08T08:58:48Z",
+   "official_revision_date": "2020-05-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:48Z"
+}

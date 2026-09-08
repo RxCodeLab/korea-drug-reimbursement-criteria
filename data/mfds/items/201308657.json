@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308657",
+ "item_name": "한창멸균포비돈스왑스틱",
+ "entp_name": "한창메딕",
+ "permit_date": "20130802",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215884]포비돈 요오드",
+ "main_item_ingr_eng": "Povidone Iodine",
+ "edi_code": "629300015",
+ "atc_code": "D08AG02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308657",
+ "revisions": [
+  {
+   "revision_id": "201308657-9fed9657",
+   "content_sha256": "9fed965750982e7a6f8d2154d3e9d8dcd04f14848d21fd6f989c9bd7934e4697",
+   "ee_text": "1. 찢긴 상처, 화상, 창상의 살균소독 2. 궤양, 농양의 살균소독 3. 감염 피부면의 소독 4. 수술부위의 살균소독 5. 주사 및 카테터 부위의 소독",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:13Z",
+   "last_observed_at": "2026-09-08T08:46:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:13Z"
+}

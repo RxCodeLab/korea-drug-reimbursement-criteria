@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201100374",
+ "item_name": "온글라이자정2.5밀리그램(삭사글립틴수화물)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20110124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251489]삭사글립틴수화물",
+ "main_item_ingr_eng": "Saxagliptin Hydrate",
+ "edi_code": "650700890",
+ "atc_code": "A10BH03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100374",
+ "revisions": [
+  {
+   "revision_id": "201100374-39b8bab5",
+   "content_sha256": "39b8bab5520515613bc7ef918c08588e6858583fbf3a6ced0df9feaca22e9c40",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. - 단독요법 - 병용요법",
+   "ee_doc_id": "35",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:25Z",
+   "last_observed_at": "2026-09-08T08:44:25Z",
+   "official_revision_date": "2021-06-01"
+  },
+  {
+   "revision_id": "201100374-657ee6f6",
+   "content_sha256": "657ee6f6f1bca1133766fa3fd76359ef90cb63c930186d9efd4f8acb6858bf7e",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 이 약은 단독요법으로 투여한다. 2. 이 약은 다음의 경우 병용요법으로 투여한다. - 이전 당뇨병 약물치료를 받은 경험이 없으며 단독요법으로 충분한 혈당조절이 어려운 경우 메트포르민과 병용투여 - 메트포르민 또는 설포닐우레아 또는 치아졸리딘디온 단독요법으로 충분한 혈당조절을 할 수 없는 경우 이 약을 병용투여 - 인슐린(인슐린 단독 또는 메트포르민 병용) 요법으로 충분한 혈당조절을 할 수 없는 경우 이 약을 병용투여 - 메트포르민과 다파글리플로진 병용요법으로 충분한 혈당조절을 할 수 없는 경우 이 약을 병용투여",
+   "ee_doc_id": "26",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-01-15",
+   "first_observed_at": "2026-09-08T08:44:25Z",
+   "last_observed_at": "2026-09-08T08:44:25Z"
+  },
+  {
+   "revision_id": "201100374-3cd53b5a",
+   "content_sha256": "3cd53b5aae508d9b2b3e00f67817f94dac8985922b033ca65c5eb991cf629765",
+   "ee_text": "이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 이 약은 단독요법으로 투여한다. 2. 이 약은 다음의 경우 병용요법으로 투여한다. - 이전 당뇨병 약물치료를 받은 경험이 없으며 단독요법으로 충분한 혈당조절이 어려운 경우 메트포르민과 병용투여 - 메트포르민 또는 설포닐우레아 또는 치아졸리딘디온 단독요법으로 충분한 혈당조절을 할 수 없는 경우 이 약을 병용투여 - 인슐린(인슐린 단독 또는 메트포르민 병용) 요법으로 충분한 혈당조절을 할 수 없는 경우 이 약을 병용투여 - 메트포르민과 설포닐우레아 병용요법으로 충분한 혈당조절을 할 수 없는 경우 이 약을 병용투여",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:25Z",
+   "last_observed_at": "2026-09-08T08:44:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:25Z"
+}

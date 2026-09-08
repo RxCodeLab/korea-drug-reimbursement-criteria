@@ -12,16 +12,17 @@
  "edi_code": "657807880",
  "atc_code": "N05BA12",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300714",
+ "history_fetched_at": "2026-08-27T12:36:56Z",
  "revisions": [
   {
-   "revision_id": "202300714-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202300714-cf1634b0",
+   "content_sha256": "cf1634b0ab0b39da70ba21b1738179f0c722c6571e068ce228f4c1a72d153f94",
+   "ee_text": "1. 불안장애의 치료 및 불안증상의 단기완화 2. 우울증에 수반하는 불안 3. 정신신체장애(위·십이지장궤양, 과민성대장증후군, 자율신경실조증)에서의 불안·긴장·우울·수면장애 4. 공황장애",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:36:56Z",
-   "last_observed_at": "2026-08-27T12:36:56Z",
-   "official_revision_date": "2023-02-28"
+   "last_observed_at": "2026-09-08T09:01:53Z",
+   "official_revision_date": "2023-02-28",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:36:56Z"
+ ]
 }

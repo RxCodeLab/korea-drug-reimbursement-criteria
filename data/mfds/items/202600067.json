@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600067",
+ "item_name": "보노칸정20밀리그램(보노프라잔토실산염)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20260109",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286050]보노프라잔토실산염",
+ "main_item_ingr_eng": "Vonoprazan Tosylate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600067",
+ "revisions": [
+  {
+   "revision_id": "202600067-da4633a2",
+   "content_sha256": "da4633a202ca095a2e1ff057b70d9f4950cd4b41e2be0f996bb1d3930d421ccf",
+   "ee_text": "○ 위궤양 치료, 미란성 위식도역류질환 치료, 미란성 위식도역류질환 치료후 유지요법, 비스테로이드성소염진통제(NSAIDs) 투여 시 위궤양 또는 십이지장궤양 재발 방지",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202600067/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:38Z",
+   "last_observed_at": "2026-09-08T09:04:38Z"
+  },
+  {
+   "revision_id": "202600067-7cfced25",
+   "content_sha256": "7cfced256e064731d242004b0dc8ef0e925172ee6519b1a9eb5d65003bccc7f6",
+   "ee_text": "○ 위궤양 치료, 미란성 위식도역류질환 치료, 미란성 위식도역류질환 치료후 유지요법, 비스테로이드소염진통제(NSAIDs) 투여 시 위궤양 또는 십이지장궤양 재발 방지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2026-01-09",
+   "first_observed_at": "2026-09-08T09:04:38Z",
+   "last_observed_at": "2026-09-08T09:04:38Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:38Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201002931",
+ "item_name": "한마음혈액원동결침전제제(동결침전제제)",
+ "entp_name": "(사)대한산업보건협회한마음혈액원",
+ "permit_date": "20100421",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249885]동결침전제제",
+ "main_item_ingr_eng": "Plasma Cryoprecipitates",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002931",
+ "revisions": [
+  {
+   "revision_id": "201002931-60a47314",
+   "content_sha256": "60a4731448a5473c79ce23594da3dc7f22b7113d5c560422ed13f2d3f8adcf3d",
+   "ee_text": "A형 혈우병, 폰빌레브란트(vWD), 선천성 혹은 후천성 섬유소원 결핍증, 혈액응고 제VIII인자 결핍증, 그리고 산과적 합병증 또는 파종혈관내응고증 등 섬유소유원의 소모와 관계된 질환들에 사용된다..",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:58Z",
+   "last_observed_at": "2026-09-08T08:43:58Z",
+   "official_revision_date": "2021-09-30"
+  },
+  {
+   "revision_id": "201002931-9fa8a39c",
+   "content_sha256": "9fa8a39cacd126be9d712d07072632553f55433a6ea854119980c3a9dc5d0a6e",
+   "ee_text": "동결침전제제는 A형 혈우병, 폰빌레브란드(vWD), 선천성 혹은 후천성 섬유소원 결핍증, 제 Ⅷ 혈액응고인자 결핍증, 산과적 합병증 또는 파종성혈관내응고증 등 섬유소원의 소모와 관계된 질환 등에 사용된다.",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:43:58Z",
+   "last_observed_at": "2026-09-08T08:43:58Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:58Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302260",
+ "item_name": "신신옥시부티닌패취36mg(옥시부티닌)(수출용)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20230728",
+ "cancel_date": "20260821",
+ "status": "취하",
+ "main_item_ingr": "[M259129]옥시부티닌",
+ "main_item_ingr_eng": "Oxybutynin",
+ "edi_code": "",
+ "atc_code": "G04BD04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302260",
+ "revisions": [
+  {
+   "revision_id": "202302260-f1d2f267",
+   "content_sha256": "f1d2f267ae2d3f9c763c711d1aac7341573a96b4ca7eb46bf22a1d108293baaa",
+   "ee_text": "절박성 요실금, 급뇨, 빈뇨와 같은 과민성 방광 증상의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:15Z",
+   "last_observed_at": "2026-09-08T09:02:15Z",
+   "official_revision_date": "2023-07-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:15Z"
+}

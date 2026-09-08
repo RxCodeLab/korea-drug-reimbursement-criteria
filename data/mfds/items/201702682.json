@@ -3,7 +3,7 @@
  "complete": true,
  "item_seq": "201702682",
  "item_name": "킥센연질캡슐(나프록센)",
- "entp_name": "지엘파마(주)",
+ "entp_name": "지엘팜텍(주)",
  "permit_date": "20170529",
  "cancel_date": "",
  "status": "정상",
@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "M01AE02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702682",
+ "history_fetched_at": "2026-08-28T13:24:56Z",
  "revisions": [
   {
    "revision_id": "201702682-cb938fbe",
@@ -19,8 +20,9 @@
    "ee_text": "1. 주효능효과 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건 (힘줄) 염, 급성통풍, 월경곤란증 2. 다음 질환에도 사용할 수 있습니다. 활액낭염, 골격근장애(염좌 (삠) , 좌상, 외상, 요천통), 수술후 동통 (통증) , 편두통, 발치후 동통 (통증)",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:24:56Z",
-   "last_observed_at": "2026-08-28T13:24:56Z",
-   "official_revision_date": "2018-11-09"
+   "last_observed_at": "2026-09-08T08:51:54Z",
+   "official_revision_date": "2018-11-09",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201702682-6fc8acfe",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:56Z",
    "last_observed_at": "2026-08-28T13:24:56Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:56Z"
+ ]
 }

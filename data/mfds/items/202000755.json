@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000755",
+ "item_name": "유마린시럽(펠라고니움시도이데스11%에탄올추출물(1→8~10)·글리세린혼합액(8:2))",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20200210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278122]펠라고니움시도이데스11%에탄올추출물(1→8~10)·글리세린혼합액(8:2)",
+ "main_item_ingr_eng": "Pelargonium Sidoides 11% Ethanol Extract (1→8~10)·Glycerin Mixed Solution (8:2)",
+ "edi_code": "644503133",
+ "atc_code": "R07AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000755",
+ "revisions": [
+  {
+   "revision_id": "202000755-0f39c233",
+   "content_sha256": "0f39c233b51587a229d1a75b90ca9b1e5e159e1fb38df83ed10c651a54476e3e",
+   "ee_text": "급성 기관지염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:44Z",
+   "last_observed_at": "2026-09-08T08:57:44Z",
+   "official_revision_date": "2020-02-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:44Z"
+}

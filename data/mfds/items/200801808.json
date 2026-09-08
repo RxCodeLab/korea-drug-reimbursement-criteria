@@ -7,11 +7,12 @@
  "permit_date": "20080214",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M099148]이상수침건조엑스|[M040279]석고|[M040048]길경|[M040006]감초|[M050022]강활|[M051936]형개|[M051105]연교|[M083712]우방자|[M040205]방풍",
+ "main_item_ingr": "[M040006]감초|[M040048]길경|[M040205]방풍|[M040279]석고|[M050022]강활|[M051105]연교|[M051936]형개|[M083712]우방자|[M099148]이상수침건조엑스",
  "main_item_ingr_eng": "Arctium Fruit/As Dried Extract/Forsythia Fruit/Gypsum Fibrosum/Licorice/Ostericum Root/Platycodon Root/Saposhnikovia Root/Schizonepeta Spike",
  "edi_code": "",
  "atc_code": "R02A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801808",
+ "history_fetched_at": "2026-08-28T13:24:16Z",
  "revisions": [
   {
    "revision_id": "200801808-35f154a8",
@@ -19,8 +20,9 @@
    "ee_text": "인후(목구멍)가 부어서 아픈 다음 증상 : 편도염, 편도주위염",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:24:16Z",
-   "last_observed_at": "2026-08-28T13:24:16Z",
-   "official_revision_date": "2020-09-25"
+   "last_observed_at": "2026-09-08T08:42:17Z",
+   "official_revision_date": "2020-09-25",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200801808-a129e8ec",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:16Z",
    "last_observed_at": "2026-08-28T13:24:16Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:16Z"
+ ]
 }

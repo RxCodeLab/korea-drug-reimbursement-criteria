@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199901295",
+ "item_name": "신신티눈밴드(수출명:PARCHEparaCALLOSGHLInternacionalS.A)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "19991231",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040264]살리실산|[M040264]살리실산|[M040264]살리실산|[M040264]살리실산",
+ "main_item_ingr_eng": "Salicylic Acid",
+ "edi_code": "",
+ "atc_code": "D11AF",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901295",
+ "revisions": [
+  {
+   "revision_id": "199901295-68de7edf",
+   "content_sha256": "68de7edf1b39b5572408d4b50dd84a420114c984850a3078b1e82b9f87225279",
+   "ee_text": "(경고제)(반창고)(액제) 티눈, 못(굳은살), 사마귀 (겔제, 27%) 보통의 모자이크(양) 발바닥 사마귀 (겔제, 5%) 건조, 인설 또는 못(굳은살)의 피부의 박리",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:42Z",
+   "last_observed_at": "2026-09-08T08:32:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:42Z"
+}

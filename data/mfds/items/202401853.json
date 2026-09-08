@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401853",
+ "item_name": "트롬빈플러스(트롬빈)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "20240731",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040658]트롬빈",
+ "main_item_ingr_eng": "Thrombin",
+ "edi_code": "",
+ "atc_code": "B02BC06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401853",
+ "revisions": [
+  {
+   "revision_id": "202401853-3cb6db71",
+   "content_sha256": "3cb6db71da8a51e75b805c56db1491adb37acc46fb409b7e163d308331b6f799",
+   "ee_text": "1. 이연트롬빈동결건조분말5000단위 통상의 결찰에 의해 지혈이 곤란한 소혈관, 모세혈관 및 실질장기에서의 출혈(예를 들면 외상에 수반하는 출혈, 수술중의 출혈, 골성출혈, 방광출혈, 발치후의 출혈, 비출혈 등) 2. 의약품직접주입기구 본 제품은 약액을 유리병(vial) 등에 주입하거나 채취하여 환자에게 주입하는데 사용하는 의약품직접주입기구이다.",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:11Z",
+   "last_observed_at": "2026-09-08T09:03:11Z",
+   "official_revision_date": "2024-10-31"
+  },
+  {
+   "revision_id": "202401853-195fc569",
+   "content_sha256": "195fc5696f11668a63909d758b7bf687c613f0c9b929e4ba1de51c7c014b1690",
+   "ee_text": "1. 이연트롬빈동결건조분말5000단위 통상의 결찰에 의해 지혈이 곤란한 소혈관, 모세혈관 및 실질장기에서의 출혈(예를 들면 외상에 수반하는 출혈, 수술중의 출혈, 골성출혈, 방광출혈, 발치후의 출혈, 비출혈 등) 2. 폐쇄형의약품직접전달시스템 본 제품은 의료기관에서 환자에게 투여할 의약품 조제시 소분 및 혼합 등에 사용하는 수동식 기구(의약품 직접접촉)로서, 조제 과정에서 병원체 감염 원인이 되는 외부 공기 등과 이물로부터의 접촉이 차단된 상태에서 의약품을 혼합 및 전달하는 기구이다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-07-31",
+   "first_observed_at": "2026-09-08T09:03:11Z",
+   "last_observed_at": "2026-09-08T09:03:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:11Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901917",
+ "item_name": "보신티정10밀리그램(보노프라잔푸마르산염)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20190329",
+ "cancel_date": "20241212",
+ "status": "취하",
+ "main_item_ingr": "[M269283]보노프라잔푸마르산염",
+ "main_item_ingr_eng": "Vonoprazan Fumarate",
+ "edi_code": "",
+ "atc_code": "A02BC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901917",
+ "revisions": [
+  {
+   "revision_id": "201901917-1e462672",
+   "content_sha256": "1e46267258dac97b85331371a54c47f2ab62d3d3ab9518f092b336f879d74dd5",
+   "ee_text": "⚫ 위궤양, 미란성 위식도역류질환, 미란성 위식도역류질환 치료후 유지요법, 비스테로이드소염진통제(NSAIDs) 투여 시 위궤양 또는 십이지장궤양 재발 방지",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201901917/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:40Z",
+   "last_observed_at": "2026-09-08T08:54:40Z"
+  },
+  {
+   "revision_id": "201901917-59cac4e8",
+   "content_sha256": "59cac4e84c660c18cddae2a28a436a17caf6a0b10d632c6580c306189ca18659",
+   "ee_text": "⚫ 위궤양, 십이지장궤양, 역류성 식도염, 비스테로이드소염진통제(NSAIDs) 투여 시 위궤양 또는 십이지장궤양 재발 방지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-03-29",
+   "first_observed_at": "2026-09-08T08:54:40Z",
+   "last_observed_at": "2026-09-08T08:54:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:40Z"
+}

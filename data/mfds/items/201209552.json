@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201209552",
+ "item_name": "사조핀정 (설파살라진)(수출용)",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "20121211",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083653]설파살라진",
+ "main_item_ingr_eng": "Sulfasalazine",
+ "edi_code": "",
+ "atc_code": "A07EC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201209552",
+ "revisions": [
+  {
+   "revision_id": "201209552-3c5177ac",
+   "content_sha256": "3c5177acb146a17b786bf9e2d5faa9b446a0bcd59f8c0ffceae98e82d48f8bbf",
+   "ee_text": "1. 비스테로이드소염제로 반응하지 않는 류마티스관절염 2. 궤양성대장염",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:38Z",
+   "last_observed_at": "2026-09-08T08:45:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:38Z"
+}

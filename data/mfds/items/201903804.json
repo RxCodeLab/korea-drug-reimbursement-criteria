@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903804",
+ "item_name": "영진오셀타미비르현탁용분말6mg/mL(오셀타미비르인산염)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20190610",
+ "cancel_date": "20231107",
+ "status": "취하",
+ "main_item_ingr": "[M247897]오셀타미비르인산염",
+ "main_item_ingr_eng": "Oseltamivir Phosphate",
+ "edi_code": "",
+ "atc_code": "J05AH02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903804",
+ "revisions": [
+  {
+   "revision_id": "201903804-e0e893ed",
+   "content_sha256": "e0e893edc91373e887bcb1647ca475c0bd7e02d2010dc95d1b88fdbfe5ce1626",
+   "ee_text": "1. 생후 2주 이상 신생아(수태 후 연령이 36주 미만인 소아에게는 적용되지 않는다)를 포함한 소아 및 성인의 인플루엔자 A 및 인플루엔자 B 바이러스 감염증(인플루엔자 감염의 초기증상 발현 48시간 이내에 투여를 시작해야 한다.) 2. 1세 이상의 인플루엔자 A 및 인플루엔자 B 바이러스 감염증의 예방(인플루엔자 바이러스 감염증에 대한 예방의 일차요법은 백신요법이므로 백신에 당해 유행주가 포함되어 있지 않은 경우 또는 백신의 효과를 기대할 수 없거나 백신 접종을 하지 못하는 경우에 한하여 사용하며 이 약은 예방접종을 대체할 수 없다.)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:32Z",
+   "last_observed_at": "2026-09-08T08:55:32Z",
+   "official_revision_date": "2019-06-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:32Z"
+}

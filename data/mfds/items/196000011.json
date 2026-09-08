@@ -12,6 +12,7 @@
  "edi_code": "642102570",
  "atc_code": "R06AB04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196000011",
+ "history_fetched_at": "2026-08-28T13:23:36Z",
  "revisions": [
   {
    "revision_id": "196000011-f51f8239",
@@ -19,8 +20,9 @@
    "ee_text": "고초열(꽃가루 알레르기비염(코염)), 두드러기, 가려움성 피부질환(습진ㆍ피부염, 피부가려움증, 약물발진), 알레르기 비염(코염), 혈관운동성 코염, 코감기에 의한 재채기·콧물·기침, 혈관운동성 부기",
    "ee_doc_id": "13",
    "first_observed_at": "2026-08-28T13:23:36Z",
-   "last_observed_at": "2026-08-28T13:23:36Z",
-   "official_revision_date": "2019-08-26"
+   "last_observed_at": "2026-09-08T08:26:14Z",
+   "official_revision_date": "2019-08-26",
+   "normalizer_version": 3
   },
   {
    "revision_id": "196000011-0d127361",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:36Z",
    "last_observed_at": "2026-08-28T13:23:36Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:36Z"
+ ]
 }

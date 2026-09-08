@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705664",
+ "item_name": "듀라토신알티에스주(카르베토신)",
+ "entp_name": "한국페링제약(주)",
+ "permit_date": "20170714",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M106631]카르베토신",
+ "main_item_ingr_eng": "Carbetocin",
+ "edi_code": "",
+ "atc_code": "H01BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705664",
+ "revisions": [
+  {
+   "revision_id": "201705664-8be7e343",
+   "content_sha256": "8be7e3433cb70ed56b67964702936fdaf4aac2dfaa43c01ba2b39d664b49f55b",
+   "ee_text": "자궁 무력증으로 인한 출산 후 출혈의 방지",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:06Z",
+   "last_observed_at": "2026-09-08T08:52:06Z",
+   "official_revision_date": "2020-07-02"
+  },
+  {
+   "revision_id": "201705664-269ac4da",
+   "content_sha256": "269ac4da724a57e068ddb8ac85603e4bc6e4c03552f9f5e4aa4153bdd25f85c5",
+   "ee_text": "경막외 또는 척수 마취하에 실시하는 선택적 제왕절개술에 따르는 자궁 무력증 및 출산 후 출혈의 방지",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:52:06Z",
+   "last_observed_at": "2026-09-08T08:52:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:06Z"
+}

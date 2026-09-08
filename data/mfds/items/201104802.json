@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201104802",
+ "item_name": "동아오젝스점안액(토수플록사신토실산염수화물)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20110729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252750]토수플록사신토실산염수화물",
+ "main_item_ingr_eng": "Tosufloxacine Tosilate Hydrate",
+ "edi_code": "642506601",
+ "atc_code": "S01AE",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104802",
+ "revisions": [
+  {
+   "revision_id": "201104802-73b08974",
+   "content_sha256": "73b089742be1d257dbc336be1c28b7528a5321aa376ee932a021da93b09f0671",
+   "ee_text": "<유효균종> 포도상구균속, 연쇄상구균속, 폐렴구균, 장구균속, 마이크로코커스속, 모락셀라속, 코리네박테리움속, 클레브시엘라속, 엔테로박터속, 세라티아속, 프로테우스속, 모르가넬라 모르가니속, 프로비덴시아속, 인플루엔자균, Hemophilus aegypticus (Koch-Weeks균), 슈도모나스속, 녹농균, 버크홀데리아 세파시아, 스테노트로포모나스(잔토모나스) 말토필리아, 아시네토박터속, 아크네균 <적응증> 세균성 결막염, 각막염(각막궤양을 포함), 검판선염, 안과수술시의 무균화요법",
+   "ee_doc_id": "26",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:48Z",
+   "last_observed_at": "2026-09-08T08:44:48Z",
+   "official_revision_date": "2022-12-16"
+  },
+  {
+   "revision_id": "201104802-6d9563f2",
+   "content_sha256": "6d9563f218818c3031ead00608bd0b41b5581d715fdba176dc7748ef712756a0",
+   "ee_text": "<유효균종> 포도상구균속, 연쇄상구균속, 폐렴구균, 장구균속, 마이크로코커스속, 모라셀라속, 코리네박테리움속, 클레브시엘라속, 엔테로박터속, 세라치아속, 프로테우스속, 모르가네라 모르가니속, 프로비덴시아속, 인플루엔자균, Hemophilus aegypticus (Koch-Weeks균), 슈도모나스속, 녹농균, 박테리아 세팍시아, 스텝트로모나스(잔토모나스) 말토필리아, 아시네토박터속, 아크네균 <적응증> 세균성 결막염, 각막염(각막궤양을 포함), 검판선염, 안과수술시의 무균화요법",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:48Z",
+   "last_observed_at": "2026-09-08T08:44:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:48Z"
+}

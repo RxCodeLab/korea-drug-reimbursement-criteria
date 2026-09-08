@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600303",
+ "item_name": "이오솔주320(이오버솔)(수출용)",
+ "entp_name": "(주)오스코리아제약",
+ "permit_date": "20160118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088691]이오버솔",
+ "main_item_ingr_eng": "Ioversol",
+ "edi_code": "",
+ "atc_code": "V08AB07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600303",
+ "revisions": [
+  {
+   "revision_id": "201600303-39e1cf8b",
+   "content_sha256": "39e1cf8b3986b2cd677644536b403c7d571c7d560609626097f4bbb1726f9af6",
+   "ee_text": "성인 : 뇌동맥조영, 말초동맥조영, 내장ㆍ신장동맥 및 대동맥조영, 관상동맥조영 및 좌심실조영, CT 조영증강(두부, 체부), 정맥요로조영(IVP) 소아 (1세 이상) : 심혈관조영술, CT 조영 증강 (두부, 체부), 정맥요로조영(IVP)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:07Z",
+   "last_observed_at": "2026-09-08T08:50:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:07Z"
+}

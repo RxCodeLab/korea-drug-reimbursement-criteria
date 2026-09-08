@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908142",
+ "item_name": "팬포틴프리필드시린지주2000IU(에포에틴알파)",
+ "entp_name": "(주)팬젠",
+ "permit_date": "20191128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267166]에포에틴알파",
+ "main_item_ingr_eng": "Epoetin Alpha",
+ "edi_code": "055900031",
+ "atc_code": "B03XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908142",
+ "revisions": [
+  {
+   "revision_id": "201908142-e098d5d5",
+   "content_sha256": "e098d5d5ab62736188d337f6d3a429a381c487e9cc9c0b5d2f97014a4b15253d",
+   "ee_text": "만성신부전 환자에게 나타나는 다음의 빈혈 1) 증후성 빈혈 2) 수혈이 필요한 빈혈",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:10Z",
+   "last_observed_at": "2026-09-08T08:57:10Z",
+   "official_revision_date": "2019-11-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:10Z"
+}

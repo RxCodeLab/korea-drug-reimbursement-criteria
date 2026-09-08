@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600393",
+ "item_name": "라비캡캡슐",
+ "entp_name": "(주)종근당바이오",
+ "permit_date": "20260211",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040133]리보플라빈|[M090094]락토바실루스아시도필루스균",
+ "main_item_ingr_eng": "Lactobacillus Acidophilus/Riboflavin",
+ "edi_code": "",
+ "atc_code": "A07FA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600393",
+ "revisions": [
+  {
+   "revision_id": "202600393-a13348c6",
+   "content_sha256": "a13348c67da4a18444153ab8c9733e07afe65541e01ad2ff82c2ede164e9c386",
+   "ee_text": "정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:46Z",
+   "last_observed_at": "2026-09-08T09:04:46Z",
+   "official_revision_date": "2026-02-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:46Z"
+}

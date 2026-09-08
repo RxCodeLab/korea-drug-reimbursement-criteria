@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107705",
+ "item_name": "디스발캡슐40밀리그램(발베나진이토실산염)",
+ "entp_name": "타나베파마코리아주식회사",
+ "permit_date": "20211130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281779]발베나진이토실산염",
+ "main_item_ingr_eng": "Valbenazine Ditosylate",
+ "edi_code": "",
+ "atc_code": "N07XX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107705",
+ "revisions": [
+  {
+   "revision_id": "202107705-8addaf5e",
+   "content_sha256": "8addaf5e9bb5b58d257c9b8f526077986c6150c645082482b508b7b8ff2a4718",
+   "ee_text": "성인에서 지연 운동이상증의 증상 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:50Z",
+   "last_observed_at": "2026-09-08T09:00:50Z",
+   "official_revision_date": "2021-11-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:50Z"
+}

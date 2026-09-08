@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198900253",
+ "item_name": "중외시타라빈주사액100밀리그램(수출용)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19890918",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040334]시타라빈",
+ "main_item_ingr_eng": "Cytarabine",
+ "edi_code": "",
+ "atc_code": "L01BC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900253",
+ "revisions": [
+  {
+   "revision_id": "198900253-a8af3f72",
+   "content_sha256": "a8af3f72cf70f1cfd46c9c331efdcd98d8888c343954752eea27e0ae0711f695",
+   "ee_text": "급성 골수구 백혈병 급성 임파구 백혈병 만성 골수구 백혈병 (아세포 단계) 적백혈병 수막성 백혈병 소아의 비호지킨성 임파종",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:49Z",
+   "last_observed_at": "2026-09-08T08:27:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:49Z"
+}

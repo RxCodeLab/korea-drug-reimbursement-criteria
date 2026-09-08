@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201203075",
+ "item_name": "아이오돌370주(이오파미돌)(수출용)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20120420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085529]이오파미돌",
+ "main_item_ingr_eng": "Iopamidol",
+ "edi_code": "",
+ "atc_code": "V08AB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201203075",
+ "revisions": [
+  {
+   "revision_id": "201203075-b50b0b4c",
+   "content_sha256": "b50b0b4c2c0654ca97c5edae35b9c9132e9741269da084ce15933e56fcdc8154",
+   "ee_text": "1. 혈관조영 : 관상동맥조영, 흉부대동맥조영, 복부대동맥조영, 심장혈관조영, 선택적 내장동맥조영, 말초동맥조영 2. 정맥요로조영(IVP) 3. CT 조영증강",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:16Z",
+   "last_observed_at": "2026-09-08T08:45:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:16Z"
+}

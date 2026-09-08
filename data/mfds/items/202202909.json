@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202909",
+ "item_name": "위제로알파정",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20220715",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M050379]리파제|[M050448]메타규산알루민산마그네슘|[M051800]프로자임|[M207094]탄산수소나트륨|[M223167]우르소데옥시콜산|[M261464]디아스타제·프로테아제·셀룰라제1000",
+ "main_item_ingr_eng": "Diastase·Protease·Cellulase 1000/Lipase/Magnesium Aluminometasilicate/Precipitated Calcium Carbonate/Prozyme/Sodium Bicarbonate/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202909",
+ "revisions": [
+  {
+   "revision_id": "202202909-cdbaf20b",
+   "content_sha256": "cdbaf20bb90e02c0f348a103899cb9265e24db6e1c66093bfe69fd233e6f2d9e",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림, 소화불량, 식욕감퇴(식욕부진), 과식, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:26Z",
+   "last_observed_at": "2026-09-08T09:01:26Z",
+   "official_revision_date": "2022-07-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:26Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R02A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300654",
+ "history_fetched_at": "2026-08-28T13:23:39Z",
  "revisions": [
   {
    "revision_id": "198300654-e6773103",
@@ -19,9 +20,9 @@
    "ee_text": "심한 기침, 인후통",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:23:39Z",
-   "last_observed_at": "2026-08-28T13:23:39Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:26:53Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:39Z"
+ ]
 }

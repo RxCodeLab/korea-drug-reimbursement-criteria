@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199301086",
+ "item_name": "태극케토코나졸크림",
+ "entp_name": "태극제약(주)",
+ "permit_date": "19930511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080618]케토코나졸",
+ "main_item_ingr_eng": "Ketoconazole",
+ "edi_code": "644802391,644802394",
+ "atc_code": "D01AC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301086",
+ "revisions": [
+  {
+   "revision_id": "199301086-7667b84c",
+   "content_sha256": "7667b84c29f5ff1852f625df8e288be7142f944e063862610521a6b4f07295a1",
+   "ee_text": "다음의 피부진균증 : 1) 백선 : 체부백선, 완선, 족부백선 2) 피부칸디다증 3) 어루러기 4) 지루피부염",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199301086/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:47Z",
+   "last_observed_at": "2026-09-08T08:28:47Z"
+  },
+  {
+   "revision_id": "199301086-7da92b44",
+   "content_sha256": "7da92b4410e9e529a8a72b66c5130fe2b70e5282b7e4765aa6767a788447cb3b",
+   "ee_text": "(크림제)(겔제) 다음의 피부진균증 : 1) 백선 : 체부백선, 완선, 족부백선 2) 피부칸디다증 3) 어루러기 4) 지루피부염 (액제-1%) 비듬 (액제-2%)(비누) 효모균(Pityrosporum)에 의한 다음의 피부질환 : 비듬, 지루피부염, 어루러기",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:28:47Z",
+   "last_observed_at": "2026-09-08T08:28:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:47Z"
+}

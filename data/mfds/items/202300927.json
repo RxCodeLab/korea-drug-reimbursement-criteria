@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300927",
+ "item_name": "가네리드정(테노포비르알라페나미드헤미말산염)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20230315",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279170]테노포비르알라페나미드헤미말산염",
+ "main_item_ingr_eng": "Tenofovir Alafenamide Hemimalate",
+ "edi_code": "649105750",
+ "atc_code": "J05AF13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300927",
+ "revisions": [
+  {
+   "revision_id": "202300927-5cf20eac",
+   "content_sha256": "5cf20eac2a798a7e3c7d0731b3170dbe87adfa96260de02901a37e854bb49900",
+   "ee_text": "성인의 만성 B형 간염 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:55Z",
+   "last_observed_at": "2026-09-08T09:01:55Z",
+   "official_revision_date": "2023-03-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:55Z"
+}

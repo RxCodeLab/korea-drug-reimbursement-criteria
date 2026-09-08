@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601822",
+ "item_name": "도비안정500밀리그램(도베실산칼슘수화물)",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20260626",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257668]도베실산칼슘수화물",
+ "main_item_ingr_eng": "Dobesilate Calcium Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601822",
+ "revisions": [
+  {
+   "revision_id": "202601822-37d329e0",
+   "content_sha256": "37d329e0b24b0c44caa815a3950864653ced19e0f7bb8ffe2b29e29dd47eab8e",
+   "ee_text": "항진된 모세혈관 파열과 투과장애를 수반하는 혈관손상, 당뇨병성모세혈관장애, 당뇨병성망막병증, 정맥기능부전, 혈전 후 증후군, 말초울혈성부종, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:21Z",
+   "last_observed_at": "2026-09-08T09:05:21Z",
+   "official_revision_date": "2026-06-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:21Z"
+}

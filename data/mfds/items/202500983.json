@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500983",
+ "item_name": "리스티고주(로자놀릭시주맙)",
+ "entp_name": "한국유씨비제약(주)",
+ "permit_date": "20250424",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285407]로자놀릭시주맙|[M285407]로자놀릭시주맙|[M285407]로자놀릭시주맙",
+ "main_item_ingr_eng": "Rozanolixizumab",
+ "edi_code": "",
+ "atc_code": "L04AL02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500983",
+ "revisions": [
+  {
+   "revision_id": "202500983-e57be660",
+   "content_sha256": "e57be660271614d03590a566c0eeb6a4c71d10fc3a313ec374f52b1b4180e314",
+   "ee_text": "항아세틸콜린 수용체 또는 항근육 특이 티로신 키나제 항체 양성인 성인 환자의 전신 중증근무력증(gMG) 치료를 위한 표준 요법에 부가 요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:52Z",
+   "last_observed_at": "2026-09-08T09:03:52Z",
+   "official_revision_date": "2025-04-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:52Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200905064",
+ "item_name": "플라실주(5-플루오로우라실)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20090708",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083217]5-플루오로우라실",
+ "main_item_ingr_eng": "5-Fluorourasil",
+ "edi_code": "",
+ "atc_code": "L01BC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905064",
+ "revisions": [
+  {
+   "revision_id": "200905064-8920943c",
+   "content_sha256": "8920943cde9cf0c96573051787a2bc664cd536116bba269bcd52f0ff09a99466",
+   "ee_text": "다음 질환의 자각적 및 타각적 증상의 완화 1. 암종 : 결장암, 직장암, 유방암, 위암, 간암, 췌장암, 난소암, 자궁암 2. 다음 질환에 대해서는 다른 항종양제 또는 방사선요법과 병용 : 식도암, 폐암, 악암, 설암",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:23Z",
+   "last_observed_at": "2026-09-08T08:43:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:23Z"
+}

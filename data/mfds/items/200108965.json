@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108965",
+ "item_name": "옥트레오스캔주사(인듐펜테트레오티드(111In)주사액)",
+ "entp_name": "새한산업",
+ "permit_date": "20010315",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M094202]염화인듐(111 In)|[M094203]펜테트레오티드",
+ "main_item_ingr_eng": "Indium Chloride (111In)/Pentetreotide",
+ "edi_code": "656900502",
+ "atc_code": "V09IB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108965",
+ "revisions": [
+  {
+   "revision_id": "200108965-090d1c0e",
+   "content_sha256": "090d1c0e113c202e015d39daacb05fb37b3d7ee9e036022882d0b5c4ef4f6930",
+   "ee_text": "1. 진단용 방사성의약품인 인듐 펜테트레오티드(111In) 주사액의 조제용 2. 인듐 펜테트레오티드(111In) 주사액의 효능ㆍ효과 : 소마토스타틴 수용체를 가지고 있는 원발성 및 전이성 신경내분비종양의 위치 진단",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:50Z",
+   "last_observed_at": "2026-09-08T08:35:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:50Z"
+}

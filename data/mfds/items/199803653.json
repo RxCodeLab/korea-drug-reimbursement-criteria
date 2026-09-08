@@ -7,11 +7,12 @@
  "permit_date": "19980421",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M088762]동클로로필린나트륨|[M051110]염화리소짐|[M241582]초산토코페롤|[M088252]아스코르빈산",
+ "main_item_ingr": "[M051110]염화리소짐|[M088252]아스코르빈산|[M088762]동클로로필린나트륨|[M241582]초산토코페롤",
  "main_item_ingr_eng": "Ascorbic Acid/Chlorophyllin Copper Sodium/Lysozyme Chloride/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A01AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803653",
+ "history_fetched_at": "2026-08-28T13:23:50Z",
  "revisions": [
   {
    "revision_id": "199803653-1f5ca71f",
@@ -19,7 +20,8 @@
    "ee_text": "치은염∙치조농루에 의한 여러 증상(잇몸의 발적·부기·출혈·고름 등)의 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199803653/EE",
    "first_observed_at": "2026-08-28T13:23:50Z",
-   "last_observed_at": "2026-08-28T13:23:50Z"
+   "last_observed_at": "2026-09-08T08:32:15Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "199803653-132d1eb7",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:50Z",
    "last_observed_at": "2026-08-28T13:23:50Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:50Z"
+ ]
 }

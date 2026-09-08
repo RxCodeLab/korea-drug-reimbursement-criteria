@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602372",
+ "item_name": "아브리스보주[호흡기세포융합바이러스백신(유전자재조합)]",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20260813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286670]호흡기세포융합바이러스 아형 A 안정화 융합전 F 단백질 (숙주세포주: CHOK1SV GSKO 144E12, 벡터: VEC-9201)|[M286671]호흡기세포융합바이러스 아형 B 안정화 융합전 F 단백질 (숙주세포주: CHOK1SV GSKO 144E12, 벡터: VEC-5599)",
+ "main_item_ingr_eng": "Respiratory Syncytial Virus Subtype A Stabilized Prefusion F protein CHOK1SV GSKO 144E12 VEC-5599/Respiratory Syncytial Virus Subtype A Stabilized Prefusion F protein CHOK1SV GSKO 144E12 VEC-9201",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602372",
+ "revisions": [
+  {
+   "revision_id": "202602372-9383b8c7",
+   "content_sha256": "9383b8c7f041eb2f94ff313f6cfda7fb99a86425e4f6ec6551e8fd92d799ef2a",
+   "ee_text": "다음에서 호흡기세포융합바이러스(RSV; Respiratory Syncytial Virus)로 인한 하기도 질환(LRTD)의 예방 - 임신 28주에서 36주 사이의 임부 예방접종을 통한 생후 6개월까지의 영아 - 60세 이상 성인 - 18세 이상 60세 미만의 성인 중 RSV로 인한 LRTD의 위험이 높은 사람",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:37Z",
+   "last_observed_at": "2026-09-08T09:05:37Z",
+   "official_revision_date": "2026-08-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:37Z"
+}

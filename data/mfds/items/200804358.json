@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "B03BA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804358",
+ "history_fetched_at": "2026-08-28T13:24:16Z",
  "revisions": [
   {
    "revision_id": "200804358-c99c9c98",
@@ -19,8 +20,9 @@
    "ee_text": "비타민 B12 결핍으로 인한 거대적아구성 빈혈과 관련된 다발성신경염의 치료",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:24:16Z",
-   "last_observed_at": "2026-08-28T13:24:16Z",
-   "official_revision_date": "2020-05-02"
+   "last_observed_at": "2026-09-08T08:42:26Z",
+   "official_revision_date": "2020-05-02",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200804358-8123cd6a",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:16Z",
    "last_observed_at": "2026-08-28T13:24:16Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:16Z"
+ ]
 }

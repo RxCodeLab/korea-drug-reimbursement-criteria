@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401068",
+ "item_name": "베이포투스주(니르세비맙)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20240430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284615]니르세비맙|[M284615]니르세비맙",
+ "main_item_ingr_eng": "Nirsevimab",
+ "edi_code": "",
+ "atc_code": "J06BD08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401068",
+ "revisions": [
+  {
+   "revision_id": "202401068-70f503d0",
+   "content_sha256": "70f503d05110e0ca048653269e7f04c91756735c14da6468d310594343c97f62",
+   "ee_text": "RSV(Respiratory Syncytial Virus)로 인한 하기도 질환의 예방 1. 생후 첫 RSV 계절에 진입하거나 생후 첫 RSV 계절 도중인 신생아 및 영아 2. 생후 두 번째 RSV 계절동안 중증 RSV 질환에 대한 위험이 높은 생후 24 개월 이하의 소아",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:57Z",
+   "last_observed_at": "2026-09-08T09:02:57Z",
+   "official_revision_date": "2024-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:57Z"
+}

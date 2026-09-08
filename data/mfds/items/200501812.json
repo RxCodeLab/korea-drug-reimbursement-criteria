@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501812",
+ "item_name": "다나핀크림(부테나핀염산염)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20050419",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252019]부테나핀염산염",
+ "main_item_ingr_eng": "Butenafine Hydrochloride",
+ "edi_code": "654300085,654300087",
+ "atc_code": "D01AE23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501812",
+ "revisions": [
+  {
+   "revision_id": "200501812-9555d624",
+   "content_sha256": "9555d6242f04d64fc81deeb3534473d8dcab0c81cd25de1c150b382ba8dc0323",
+   "ee_text": "다음의 피부진균증 1) 백선 : 족부백선, 고부백선(완선), 체부백선 2) 어루러기",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:14Z",
+   "last_observed_at": "2026-09-08T08:39:14Z",
+   "official_revision_date": "2017-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:14Z"
+}

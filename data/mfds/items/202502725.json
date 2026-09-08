@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502725",
+ "item_name": "솔루라제주(히알루로니다제)",
+ "entp_name": "(주)셀릭스",
+ "permit_date": "20251023",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M209056]히알루로니다제",
+ "main_item_ingr_eng": "Hyaluronidase",
+ "edi_code": "",
+ "atc_code": "B06AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502725",
+ "revisions": [
+  {
+   "revision_id": "202502725-f308fc5e",
+   "content_sha256": "f308fc5ea24dfc9b7d58a5a3a1959a07ff6163de1882dfddc5bc65bbfd9be75d",
+   "ee_text": "피하주사나 근육주사, 국소마취제 및 피하주입 시 침투력 증가 조직 내에 과다하게 존재하는 체액 및 혈액의 재흡수 촉진",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:21Z",
+   "last_observed_at": "2026-09-08T09:04:21Z",
+   "official_revision_date": "2025-10-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:21Z"
+}

@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "B05BA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902025",
+ "history_fetched_at": "2026-08-28T13:24:20Z",
  "revisions": [
   {
-   "revision_id": "200902025-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200902025-0a9bae3c",
+   "content_sha256": "0a9bae3c163e666564dadc012df21111d844ee98f1730e617e1469af73d554fe",
+   "ee_text": "1. 고칼륨혈증, 순환허탈, 저혈당시의 에너지 보급 2. 심질환(G,L,K요법) 그 외 수분, 에너지 보급 3. 약물 ·독물 중독",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:24:20Z",
-   "last_observed_at": "2026-08-28T13:24:20Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:43:10Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:20Z"
+ ]
 }

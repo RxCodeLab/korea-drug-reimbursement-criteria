@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197200160",
+ "item_name": "후릭스정(푸로세미드)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19720229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040715]푸로세미드",
+ "main_item_ingr_eng": "Furosemide",
+ "edi_code": "641702750",
+ "atc_code": "C03CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197200160",
+ "revisions": [
+  {
+   "revision_id": "197200160-340c17ab",
+   "content_sha256": "340c17ab57d2e88674512cbbecfd1f2ab21462b318d72389355dbfa9b0d02dcb",
+   "ee_text": "(경구 : 정제) 고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 말초혈관성부종 (주사제) 고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 급성폐부종",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:18Z",
+   "last_observed_at": "2026-09-08T08:26:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:18Z"
+}

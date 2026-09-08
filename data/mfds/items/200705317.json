@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200705317",
+ "item_name": "위더스세픽심캡슐200밀리그램(수출용)",
+ "entp_name": "위더스제약(주)",
+ "permit_date": "20070510",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222863]세픽심수화물",
+ "main_item_ingr_eng": "Cefixime Hydrate",
+ "edi_code": "",
+ "atc_code": "J01DD08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705317",
+ "revisions": [
+  {
+   "revision_id": "200705317-082ae56e",
+   "content_sha256": "082ae56e8ffd6d8382dc549a7a9c62db19aad071ae2220260d31c1ea35637a2d",
+   "ee_text": "○ 유효균종 연쇄구균(장내구균제외), 폐렴연쇄구균, 임균, 모락셀라 카타랄리스, 대장균, 클레브시엘라, 세라티아, 프로 테우스, 인플루엔자균 ○ 적응증 - 기관지염, 기관지확장증(감염 시), 만성호흡기질환의 2차 감염, 폐렴 - 신우신 염, 방광염, 임균성요도염 - 담낭염, 담관염 - 성홍열 - 중이염, 부비동염",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:29Z",
+   "last_observed_at": "2026-09-08T08:41:29Z",
+   "official_revision_date": "2017-09-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:29Z"
+}

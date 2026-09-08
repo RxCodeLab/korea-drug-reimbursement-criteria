@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201803",
+ "item_name": "케바논겔(케토프로펜)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "19920618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "645601701,645601702",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201803",
+ "revisions": [
+  {
+   "revision_id": "199201803-6440f171",
+   "content_sha256": "6440f171e873dc663b7d43c4339d63d8c7fb3dd465456ec312486688ec6da93d",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건ㆍ건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통, 외상후의 종창ㆍ동통",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:29Z",
+   "last_observed_at": "2026-09-08T08:28:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:29Z"
+}

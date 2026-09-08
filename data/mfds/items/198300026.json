@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300026",
+ "item_name": "한풍의이인탕엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19830602",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246895]의이인탕연조엑스(5.88→1)",
+ "main_item_ingr_eng": "",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300026",
+ "revisions": [
+  {
+   "revision_id": "198300026-a4cfe965",
+   "content_sha256": "a4cfe9652a891ea27d28488199ebec21eb13749d9b0a66b8dbe0da8450668cda",
+   "ee_text": "관절통, 근육통",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:49Z",
+   "last_observed_at": "2026-09-08T08:26:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:49Z"
+}

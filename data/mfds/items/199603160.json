@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199603160",
+ "item_name": "알소벤정200마이크로그램(미소프로스톨)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "19960406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082142]미소프로스톨|[M082142]미소프로스톨",
+ "main_item_ingr_eng": "Misoprostol",
+ "edi_code": "649501530",
+ "atc_code": "A02BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199603160",
+ "revisions": [
+  {
+   "revision_id": "199603160-8b98a665",
+   "content_sha256": "8b98a665bbcaa73135efae851cd130179f137b4ec8fa6561d8cbc28fcb62b752",
+   "ee_text": "1. 주효능 효과 위· 십이지장궤양, 비스테로이드성 소염진통제 투여로 인한 위·십이지장염 및 위·십이지장궤양의 예방과 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199603160/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:27Z",
+   "last_observed_at": "2026-09-08T08:30:27Z"
+  },
+  {
+   "revision_id": "199603160-d9aaed03",
+   "content_sha256": "d9aaed033f0e4173d53ddabbd28ccd76120e73f4f677786096c7c2c397d56e52",
+   "ee_text": "위· 십이지장궤양, 비스테로이드성 소염진통제 투여로 인한 위·십이지장염 및 위·십이지장궤양의 예방과 치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:30:27Z",
+   "last_observed_at": "2026-09-08T08:30:27Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:27Z"
+}

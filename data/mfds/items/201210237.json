@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201210237",
+ "item_name": "글로베타주(디클로페낙베타디메틸아미노에탄올)",
+ "entp_name": "(주)킵스바이오파마",
+ "permit_date": "20121221",
+ "cancel_date": "20260330",
+ "status": "취하",
+ "main_item_ingr": "[M252249]디클로페낙β-디메틸아미노에탄올",
+ "main_item_ingr_eng": "Diclofenac Beta-Dimethylaminoethanol",
+ "edi_code": "693200671",
+ "atc_code": "M01AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201210237",
+ "revisions": [
+  {
+   "revision_id": "201210237-5812a644",
+   "content_sha256": "5812a644da29d852d056f4a9081e88a8deffe07dc1c0fc25843ef9868285644f",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 1. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염 2. 외상후ㆍ수술후 염증 및 동통, 급성통풍, 신 및 간산통",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:40Z",
+   "last_observed_at": "2026-09-08T08:45:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:40Z"
+}

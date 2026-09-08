@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199907281",
+ "item_name": "리브락스정(클리디늄브롬화물,클로르디아제폭시드)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "19990805",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088403]클로르디아제폭시드|[M253729]클리디늄브롬화물",
+ "main_item_ingr_eng": "Chlordiazepoxide/Clidinium Bromide",
+ "edi_code": "642800500",
+ "atc_code": "A03CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907281",
+ "revisions": [
+  {
+   "revision_id": "199907281-9a10cd00",
+   "content_sha256": "9a10cd0040f9c3116115c37125a59c25b3897ecbf6a2bbb3275647bdfc2aa1d8",
+   "ee_text": "정신신체장애(위ㆍ십이지장궤양, 과민성대장증후군 등)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:24Z",
+   "last_observed_at": "2026-09-08T08:33:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:24Z"
+}

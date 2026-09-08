@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900031",
+ "item_name": "한풍동과자엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19790816",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M070170]동과자",
+ "main_item_ingr_eng": "Benincasae Semen",
+ "edi_code": "",
+ "atc_code": "V03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900031",
+ "revisions": [
+  {
+   "revision_id": "197900031-9546846a",
+   "content_sha256": "9546846aaa9099ec53ce4fb436207e6449297c243ebbcc69b7b75e84289ba478",
+   "ee_text": "완하제로서 한방제제에 배합",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:32Z",
+   "last_observed_at": "2026-09-08T08:26:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:32Z"
+}

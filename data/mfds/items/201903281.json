@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903281",
+ "item_name": "바로드정1밀리그램(엔테카비르)",
+ "entp_name": "안국뉴팜(주)",
+ "permit_date": "20190521",
+ "cancel_date": "20240521",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M095516]엔테카비르",
+ "main_item_ingr_eng": "Entecavir",
+ "edi_code": "",
+ "atc_code": "J05AF10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903281",
+ "revisions": [
+  {
+   "revision_id": "201903281-be7878fa",
+   "content_sha256": "be7878fa2bf74a3f7ec1fb1486405db233e007445e5f4c7e6d27107a1287dbc9",
+   "ee_text": "활동성 바이러스의 복제가 확인되고, 혈청 아미노전이효소(AST 또는 ALT)의 지속적 상승 또는 조직학적으로 활동성 질환이 확인된 성인(16세 이상)의 만성 B형 간염바이러스 감염의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:15Z",
+   "last_observed_at": "2026-09-08T08:55:15Z",
+   "official_revision_date": "2019-05-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:15Z"
+}

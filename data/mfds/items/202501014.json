@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501014",
+ "item_name": "마이오캡점안액0.125%(아트로핀황산염)(1회용)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20250428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M110023]아트로핀황산염",
+ "main_item_ingr_eng": "Atropine Sulfate",
+ "edi_code": "",
+ "atc_code": "S01FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501014",
+ "revisions": [
+  {
+   "revision_id": "202501014-b648e748",
+   "content_sha256": "b648e74836f9f5863b9b03a0e8a30da8eee71386387b072787321688d2ea5f2a",
+   "ee_text": "진단 및 치료를 목적으로 하는 산동",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:52Z",
+   "last_observed_at": "2026-09-08T09:03:52Z",
+   "official_revision_date": "2025-04-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:52Z"
+}

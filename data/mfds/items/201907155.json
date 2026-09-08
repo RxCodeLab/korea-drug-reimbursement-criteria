@@ -3,7 +3,7 @@
  "complete": true,
  "item_seq": "201907155",
  "item_name": "레보티딘정(레보세티리진염산염)",
- "entp_name": "지엘파마(주)",
+ "entp_name": "지엘팜텍(주)",
  "permit_date": "20191010",
  "cancel_date": "20240321",
  "status": "취하",
@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "R06AE09",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907155",
+ "history_fetched_at": "2026-08-28T13:25:12Z",
  "revisions": [
   {
-   "revision_id": "201907155-61ce5d0e",
-   "content_sha256": "61ce5d0e15d258dc443eeb735e94af3a18942cfc2c4d4f554edbf10891b1f902",
-   "ee_text": "다음 질환의 증상 완화",
+   "revision_id": "201907155-3bd80402",
+   "content_sha256": "3bd80402071fe194bdba710f31b9902c259a60f109459e4b4831683774a5b79c",
+   "ee_text": "다음 질환의 증상 완화 1. 계절성 알레르기성 비염 또는 다년성 알레르기성 비염(지속적 알레르기성 비염 포함) 2. 만성 특발성 두드러기 3. 가려움증을 동반한 피부염 및 습진(하이드로코티손 외용제와 병용)",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:12Z",
-   "last_observed_at": "2026-08-28T13:25:12Z",
-   "official_revision_date": "2019-10-10"
+   "last_observed_at": "2026-09-08T08:56:40Z",
+   "official_revision_date": "2019-10-10",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:12Z"
+ ]
 }

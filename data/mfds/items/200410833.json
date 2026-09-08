@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410833",
+ "item_name": "삼양홀딩스수펜타닐주사(구연산수펜타닐)(수출용)",
+ "entp_name": "(주)삼양홀딩스",
+ "permit_date": "20040109",
+ "cancel_date": "20250528",
+ "status": "취하",
+ "main_item_ingr": "[M088400]구연산수펜타닐",
+ "main_item_ingr_eng": "Sufentanil Citrate",
+ "edi_code": "",
+ "atc_code": "N01AH03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410833",
+ "revisions": [
+  {
+   "revision_id": "200410833-d92c490e",
+   "content_sha256": "d92c490ed6568a232c2244da938ff3640f94aaff407480e06930132c91d660a6",
+   "ee_text": "1. 전신마취 진통제 2. 100 % 산소와 병행해서 다음과 같은 환자의 마취유도 및 유지를 위한 마취제 : 심혈관이나 신경외과 분야 등의 대수술을 받고 있는 환자",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:42Z",
+   "last_observed_at": "2026-09-08T08:38:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:42Z"
+}

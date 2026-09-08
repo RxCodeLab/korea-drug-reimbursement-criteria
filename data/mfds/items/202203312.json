@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203312",
+ "item_name": "비보존시클로피록스네일라카",
+ "entp_name": "(주)비보존제약",
+ "permit_date": "20220818",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085228]시클로피록스",
+ "main_item_ingr_eng": "Ciclopirox",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203312",
+ "revisions": [
+  {
+   "revision_id": "202203312-24d35229",
+   "content_sha256": "24d352299f4b89eca5e1be36d3a1b87d0c0dbcd4d12177cea775f2c33acf521d",
+   "ee_text": "조갑진균증 (손, 발톱무좀)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:31Z",
+   "last_observed_at": "2026-09-08T09:01:31Z",
+   "official_revision_date": "2022-08-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:31Z"
+}

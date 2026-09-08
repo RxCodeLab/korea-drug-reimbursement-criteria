@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500104",
+ "item_name": "반델크림(히드로코르티손프로부테이트\r\n)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "19850902",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261154]히드로코르티손프로부테이트",
+ "main_item_ingr_eng": "Hydrocortisone Probutate",
+ "edi_code": "644500341",
+ "atc_code": "D07AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500104",
+ "revisions": [
+  {
+   "revision_id": "198500104-c9727112",
+   "content_sha256": "c9727112a0cb7a674029e1659b442c41df5a8515f54afe8ea8f116eefd104325",
+   "ee_text": "습진ㆍ피부염군(진행성 지장각피증, 여성안면흑피증, 만성단순태선, 방사선피부염, 광피부염을 포함), 건선, 손ㆍ발바닥농포증, 양진군(구진두드러기를 포함), 벌레물린데, 편평홍색태선, 만성원판상홍반성루푸스",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:00Z",
+   "last_observed_at": "2026-09-08T08:27:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:00Z"
+}

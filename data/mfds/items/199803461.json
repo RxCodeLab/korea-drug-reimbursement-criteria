@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199803461",
+ "item_name": "한국원자력의학원염화탈륨(TI-201)주사액",
+ "entp_name": "한국원자력의학원",
+ "permit_date": "19981123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088484]염화탈륨(201Tl)액",
+ "main_item_ingr_eng": "Thallium Chloride (201Tl) Solution",
+ "edi_code": "692900010",
+ "atc_code": "V09GX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803461",
+ "revisions": [
+  {
+   "revision_id": "199803461-1ee40858",
+   "content_sha256": "1ee40858beb12e5d4c3fe19ed0683f9cfd6ddd78b1e35c449c97fea64ae863f7",
+   "ee_text": "가. 1. 심근 신티그래피에 의한 심장질환의 진단 2. 종양 신티그래피에 의한 뇌종양, 갑상선종양, 폐종양, 골ㆍ연조직종양 및 종격종양의 진단 3. 부갑상선 신티그래피에 의한 부갑상선 질환의 진단",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:13Z",
+   "last_observed_at": "2026-09-08T08:32:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:13Z"
+}

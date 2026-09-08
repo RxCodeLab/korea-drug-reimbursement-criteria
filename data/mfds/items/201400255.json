@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400255",
+ "item_name": "크라시에육미지황환엑스세립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20140120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258690]육미지황환엑스",
+ "main_item_ingr_eng": "Yukmijihwanghwan Pill Extract",
+ "edi_code": "",
+ "atc_code": "G04BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400255",
+ "revisions": [
+  {
+   "revision_id": "201400255-0485ae96",
+   "content_sha256": "0485ae96fc66d8aa3633c57e9f9576f0a5eebf1276a85279f7c408896bee2f61",
+   "ee_text": "피로하기 쉽고 요량감소, 다뇨 또는 목마름이 있는 다음 증상 : 배뇨곤란, 빈뇨, 부종, 가려움",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:42Z",
+   "last_observed_at": "2026-09-08T08:46:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:42Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200303395",
+ "item_name": "국립암센터에프디지주사액(2-데옥시-2-플루오로-D-글루코스(18F)주사액)",
+ "entp_name": "국립암센터",
+ "permit_date": "20030715",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207122]2-데옥시-2-플루오로-D-글루코스(18F)액",
+ "main_item_ingr_eng": "2-Deoxy-2-Fluoro-D-Glucose (18F) Solution",
+ "edi_code": "695100010",
+ "atc_code": "V09IX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200303395",
+ "revisions": [
+  {
+   "revision_id": "200303395-9be0be0c",
+   "content_sha256": "9be0be0c8f31940a7711802def414d9f4267fa91afd8aab1066fd78652a2aa81",
+   "ee_text": "다음 경우의 양전자방출단층촬영(Positron Emissoion Tomography, PET)에 사용한다 1. 다른 검사방법에 의해 이상소견이 밝혀졌거나 혹은 이상이 의심되는 환자 또는 이미 악성종양 진단을 받은 환자에 있어서 악성도의 평가에 도움이 되는 비정상적인 포도당 대사를 측정할때 2. 심근 관류 영상과 병용하여 관상동맥질환 및 좌심실 기능이상 환자에서의 잔류 포도당 대사 및 가역적인 수축기 기능소실이 있는 좌심실 심근을 확인할때 3. 간질발작 부위와 관련된 비정상적인 포도당 대사 부위를 확인",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:17Z",
+   "last_observed_at": "2026-09-08T08:37:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:17Z"
+}

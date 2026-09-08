@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199000712",
+ "item_name": "부채표쌍화탕",
+ "entp_name": "동화약품(주)",
+ "permit_date": "19900828",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086603]쌍화탕연조엑스",
+ "main_item_ingr_eng": "Ssanghwatang Soft Extract",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000712",
+ "revisions": [
+  {
+   "revision_id": "199000712-ff9e97e1",
+   "content_sha256": "ff9e97e188e23d7e7789e1a6c680cfd5678d9c281cb7b80002e161c2acdcd2fe",
+   "ee_text": "허약체질, 피로회복, 과로, 자한(自汗, 정신이 멀쩡하고 움직이지도 않았는데 저절로 땀이 나는 증상), 병중병후",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199000712/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:00Z",
+   "last_observed_at": "2026-09-08T08:28:00Z"
+  },
+  {
+   "revision_id": "199000712-90783754",
+   "content_sha256": "9078375413cccc83c43130614ae181702d7a97ee34b3b03a05811354478a5395",
+   "ee_text": "한의서에 표시된 효능효과는 아래와 같다. 허약체질, 피로회복, 과로, 도한, 자한, 병후회복",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:28:00Z",
+   "last_observed_at": "2026-09-08T08:28:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:00Z"
+}

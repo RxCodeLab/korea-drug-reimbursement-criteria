@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "B03AE02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110661",
+ "history_fetched_at": "2026-08-28T13:24:27Z",
  "revisions": [
   {
-   "revision_id": "201110661-1e1d83c6",
-   "content_sha256": "1e1d83c61d47d8b2044983695b38a9e4908f3efc0808b7bc8f858433b10522da",
-   "ee_text": "- 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시",
+   "revision_id": "201110661-8e7f9a5d",
+   "content_sha256": "8e7f9a5df9f8df3b5e624dc9155875ef6388199a90b612c89015c3486fb74163",
+   "ee_text": "1. 철 결핍성 빈혈의 예방 및 치료 2. 다음 경우의 비타민C의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:24:27Z",
-   "last_observed_at": "2026-08-28T13:24:27Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:45:04Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:27Z"
+ ]
 }

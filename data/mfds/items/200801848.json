@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801848",
+ "item_name": "이소바이드액(이소소르비드액)",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20080214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M224417]이소소르비드액",
+ "main_item_ingr_eng": "Isosorbide Solution",
+ "edi_code": "",
+ "atc_code": "C03X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801848",
+ "revisions": [
+  {
+   "revision_id": "200801848-bbaff4a8",
+   "content_sha256": "bbaff4a802867cf2498a6359ef72421b9292cc04cf2a046b88776ed81c3191c6",
+   "ee_text": "1. 뇌종양시의 뇌압저하, 두부외상에 기인하는 뇌압항진시의 뇌압강하 2. 메니에르병",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:17Z",
+   "last_observed_at": "2026-09-08T08:42:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:17Z"
+}

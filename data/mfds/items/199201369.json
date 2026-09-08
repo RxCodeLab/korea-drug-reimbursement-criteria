@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201369",
+ "item_name": "유로솔액",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "19920813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040300]디소르비톨|[M228276]디만니톨",
+ "main_item_ingr_eng": "D-Mannitol/D-Sorbitol",
+ "edi_code": "640003120",
+ "atc_code": "B05CX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201369",
+ "revisions": [
+  {
+   "revision_id": "199201369-673a05e8",
+   "content_sha256": "673a05e8608f0872be4169ee78a063d79e83d3b842e7ce8b54b283473caef035",
+   "ee_text": "전립선 및 방광질환의 경요도적 수술시, 방광경 검사시, 기타 비뇨기과 수술시 및 수술 후의 세정",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:26Z",
+   "last_observed_at": "2026-09-08T08:28:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:26Z"
+}

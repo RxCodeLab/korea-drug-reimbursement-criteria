@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105738",
+ "item_name": "신일알벤다졸정400밀리그램",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20210804",
+ "cancel_date": "20260804",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M081226]알벤다졸",
+ "main_item_ingr_eng": "Albendazole",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105738",
+ "revisions": [
+  {
+   "revision_id": "202105738-61e71c04",
+   "content_sha256": "61e71c046bacc85d8e1f9edb063c58c996d77d352bdef780c5b7178ede3a5f10",
+   "ee_text": "회충, 요충, 십이지장충, 편충, 아메리카 구충, 분선충의 감염 및 이들 혼합감염의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:26Z",
+   "last_observed_at": "2026-09-08T09:00:26Z",
+   "official_revision_date": "2021-08-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:26Z"
+}

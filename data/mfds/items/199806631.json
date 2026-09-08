@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:15:07Z",
  "revisions": [
   {
-   "revision_id": "199806631-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "199806631-e143b1de",
+   "content_sha256": "e143b1dec0f0264a9186c1b0c569f133473631ca07312b4134d0a0a54247916b",
+   "ee_text": "1.수술시 마취 : 제왕절개를 포함한 수술시의 경막외 마취, 전달마취, 침윤마취 2.급성통증의 조절 : 수술후 통증 또는 출산 통증시 연속적인 경막외 점적주사 또는 간헐적 단발 투여, 전달마취, 침윤마취, 수술 후 통증시 말초신경마취를 위한 연속적인 점적주사 또는 간헐적 주사",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199806631/EE",
    "first_observed_at": "2026-08-27T13:15:07Z",
-   "last_observed_at": "2026-08-28T13:23:50Z"
+   "last_observed_at": "2026-09-08T08:32:23Z",
+   "normalizer_version": 3
   }
  ]
 }

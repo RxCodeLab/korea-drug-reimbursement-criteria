@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:28:34Z",
  "revisions": [
   {
-   "revision_id": "201701519-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201701519-1cc0a24b",
+   "content_sha256": "1cc0a24b3aff46cf33453c4604d918a9c4969bddd381cb828c9a194b65d04dfc",
+   "ee_text": "1. 주요우울증 2. 광장공포증을 수반하거나 하지 않는 공황장애 3. 사회불안장애/사회공포증 4. 월경 전 불쾌장애",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201701519/EE",
    "first_observed_at": "2026-08-27T12:28:34Z",
-   "last_observed_at": "2026-08-28T13:24:55Z"
+   "last_observed_at": "2026-09-08T08:51:41Z",
+   "normalizer_version": 3
   }
  ]
 }

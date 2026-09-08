@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700673",
+ "item_name": "명인할로페리돌주사",
+ "entp_name": "명인제약(주)",
+ "permit_date": "19870727",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040766]할로페리돌",
+ "main_item_ingr_eng": "Haloperidol",
+ "edi_code": "651901021",
+ "atc_code": "N05AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700673",
+ "revisions": [
+  {
+   "revision_id": "198700673-c121500b",
+   "content_sha256": "c121500b1d89f0b2b21e3cb06a59d9bf7535fa8850aec7cfdde9b087780c349c",
+   "ee_text": "정신분열증(조현병), 제1형 양극성 장애와 관련된 조증삽화, 정신병적 장애의 증상, 투렛증후군(Gilles de la Tourette's syndrome), 다른 약물이 효과가 없거나 내약성이 없는 경우 수술 후 구역 및 구토의 병용 치료",
+   "ee_doc_id": "32",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:23Z",
+   "last_observed_at": "2026-09-08T08:27:23Z",
+   "official_revision_date": "2023-11-13"
+  },
+  {
+   "revision_id": "198700673-14706b03",
+   "content_sha256": "14706b03fe5538852ecf927aea0e59d0412afe927dc79ab99ad19ad3a2ad4713",
+   "ee_text": "정신분열증(조현병), 제1형 양극성 장애와 관련된 조증삽화, 정신병적 장애의 증상, 투렛증후군(Gilles de la Tourette's syndrome), 구토",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-06-24",
+   "first_observed_at": "2026-09-08T08:27:23Z",
+   "last_observed_at": "2026-09-08T08:27:23Z"
+  },
+  {
+   "revision_id": "198700673-9879b8b3",
+   "content_sha256": "9879b8b3af9aadae4da8c3405eaa8d65464580432500285025c4f91c20fc3a09",
+   "ee_text": "정신분열증, 조증, 정신병적 장애의 증상, 투렛증후군(Gilles de la Tourette's syndrome), 구토, 딸꾹질",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:27:23Z",
+   "last_observed_at": "2026-09-08T08:27:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:23Z"
+}

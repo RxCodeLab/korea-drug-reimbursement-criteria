@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003743",
+ "item_name": "듀코랄액 (경구콜레라백신)",
+ "entp_name": "(주)엑세스파마",
+ "permit_date": "20100528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250078]불활화 콜레라균(V. cholerae Inaba 48 classical biotype, heat inactivated)|[M250079]불활화 콜레라균(V. cholerae Ogawa 50 classical biotype, heat inactivated)|[M250080]불활화 콜레라균(V. cholerae Ogawa 50 classical biotype, Formalin inactivated)|[M250081]유전자재조합콜레라독소 B (Vibrio cholerae Inaba 213 classical biotype, Recombinant, 숙주: Vibrio cholera 213, 벡터: pKK223-3)|[M252095]불활화 콜레라균(V. Cholerae Inaba 6973 El Tor biotype, Formalin inactivated)",
+ "main_item_ingr_eng": "Cholera Toxoid B (rDNA, Strain: Vibrio Cholerae Inaba 213 Classical Biotype, Host: Vibrio Cholera 213, Vector: pKK223-3)/V.Cholerae Inaba 48 Classical Biotype, Heat Inactivated/V.Cholerae Inaba 6973 El Tor Biotype, Formalin Inactivated/V.Cholerae Ogawa 50 Classical Biotype, Formalin Inactivated/V.Cholerae Ogawa 50 Classical Biotype, Heat Inactivated",
+ "edi_code": "",
+ "atc_code": "J07AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003743",
+ "revisions": [
+  {
+   "revision_id": "201003743-8a5a4eb4",
+   "content_sha256": "8a5a4eb4a398e094d5e94c3c88262587c7c41c5266da49965ab89bc04caeb628",
+   "ee_text": "만 2세 이상의 소아 및 성인의 Vibrio cholerae serogroup O1에 의한 콜레라 예방",
+   "ee_doc_id": "45",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:05Z",
+   "last_observed_at": "2026-09-08T08:44:05Z",
+   "official_revision_date": "2018-08-24"
+  },
+  {
+   "revision_id": "201003743-1282f29f",
+   "content_sha256": "1282f29f10f9e608a1a96078f24dfb3d5416790dad0aa6c49401784adb849606",
+   "ee_text": "2세 이상의 소아 및 성인의 Vibrio cholerae serogroup O1에 의한 콜레라 예방",
+   "ee_doc_id": "44",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:05Z",
+   "last_observed_at": "2026-09-08T08:44:05Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:05Z"
+}

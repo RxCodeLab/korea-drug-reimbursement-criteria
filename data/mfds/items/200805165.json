@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805165",
+ "item_name": "아티어디점안액(수출용)(수출명 : 에이-티어점안액, 유니티어점안액)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20080506",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040083]덱스트란70|[M102967]히프로멜로오스",
+ "main_item_ingr_eng": "Dextran 70/Hypromellose",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805165",
+ "revisions": [
+  {
+   "revision_id": "200805165-7274a6a1",
+   "content_sha256": "7274a6a15b10b6c301e5bb6904b5d7d088238f4be9ba646068f538a955fc1c62",
+   "ee_text": "눈물분비부족 및 점액부족에 의한 눈의 건조",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:29Z",
+   "last_observed_at": "2026-09-08T08:42:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:29Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001775",
+ "item_name": "지노베타딘질세정액(포비돈요오드)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20000627",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051757]포비돈요오드",
+ "main_item_ingr_eng": "Povidone Iodine",
+ "edi_code": "",
+ "atc_code": "G01AX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001775",
+ "revisions": [
+  {
+   "revision_id": "200001775-190dd21e",
+   "content_sha256": "190dd21e566a306c3d1194ab4b1f6533eea821009c5435de22b139896cae4b8f",
+   "ee_text": "• 다음 경우의 국소치료 : 칸디다성 질염, 트리코모나스성 질염, 비특이성 및 혼합감염에 의한 질염, 산부인과 수술전 처치 • 살균성 질세정, 국소세척 및 방취(질세정액에 한함)",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:48Z",
+   "last_observed_at": "2026-09-08T08:33:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:48Z"
+}

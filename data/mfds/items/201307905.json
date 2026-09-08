@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307905",
+ "item_name": "리디펜점안액(케토티펜푸마르산염)",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20130628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M240837]케토티펜푸마르산염",
+ "main_item_ingr_eng": "Ketotifen Fumarate",
+ "edi_code": "670400441",
+ "atc_code": "S01GX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307905",
+ "revisions": [
+  {
+   "revision_id": "201307905-bb337413",
+   "content_sha256": "bb33741324f6fdb580de1f265347f12b8dbeab27e61d93997a8b314d8fa2cfac",
+   "ee_text": "알러지성 결막염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:08Z",
+   "last_observed_at": "2026-09-08T08:46:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:08Z"
+}

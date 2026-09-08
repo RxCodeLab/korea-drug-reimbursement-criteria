@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A02BX05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502235",
+ "history_fetched_at": "2026-08-28T13:23:46Z",
  "revisions": [
   {
-   "revision_id": "199502235-88081ec4",
-   "content_sha256": "88081ec46651ab4674c99ad454769782ed00e3c22ceea86b7b589fd71dfe1431",
-   "ee_text": "위 . 십이지장궤양",
+   "revision_id": "199502235-c78fe2cf",
+   "content_sha256": "c78fe2cff207298c36e9b926e80004852069bd169c62b9c8daa857d6849411a5",
+   "ee_text": "1. 주효능 효과 위.십이지장궤양",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:23:46Z",
-   "last_observed_at": "2026-08-28T13:23:46Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:29:46Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:46Z"
+ ]
 }

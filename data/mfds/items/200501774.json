@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501774",
+ "item_name": "에스케이티디백신주(프리필드시린지)(성인용흡착파상풍및디프테리아혼합톡소이드)",
+ "entp_name": "에스케이바이오사이언스(주)",
+ "permit_date": "20050228",
+ "cancel_date": "20241015",
+ "status": "취하",
+ "main_item_ingr": "[M204925]성인용흡착디프테리아톡소이드(균주명:Park William # 8株)|[M214589]흡착파상풍 톡소이드(Clostridium tetani Massachusetts F1)",
+ "main_item_ingr_eng": "Absorbed Diphtheria Toxoid (Strain : Park William #8)/Absorbed Tetanus Toxoid (Strain: Massachusetts F1)",
+ "edi_code": "",
+ "atc_code": "J07AM51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501774",
+ "revisions": [
+  {
+   "revision_id": "200501774-8ac7338e",
+   "content_sha256": "8ac7338ec4216c03cf95bd41a1a5acdeb1c6af121b74087833b7f174657675aa",
+   "ee_text": "디프테리아, 파상풍의 예방",
+   "ee_doc_id": "31",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:13Z",
+   "last_observed_at": "2026-09-08T08:39:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:13Z"
+}

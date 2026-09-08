@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199502850",
+ "item_name": "판제캅셀(판크레아제장용성과립)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "19951107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M087260]판크레아제장용성과립",
+ "main_item_ingr_eng": "Pancrease Enteric Coated Granules",
+ "edi_code": "",
+ "atc_code": "A09AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502850",
+ "revisions": [
+  {
+   "revision_id": "199502850-e835c3da",
+   "content_sha256": "e835c3da93661e223dd295f59cbeaa52df5068b3c315c16c83879e0a40b41f11",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 식체(위체), 소화촉진, 소화불량으로 인한 위부 팽만감.",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:52Z",
+   "last_observed_at": "2026-09-08T08:29:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:52Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201005063",
+ "item_name": "릴리프에이씨점안액(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20100817",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040802]황산아연|[M223237]테트라히드로졸린염산염",
+ "main_item_ingr_eng": "Tetrahydrozoline Hydrochloride/Zinc Sulfate",
+ "edi_code": "",
+ "atc_code": "S01XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005063",
+ "revisions": [
+  {
+   "revision_id": "201005063-53252ad6",
+   "content_sha256": "53252ad6df6106f903307ecd041d02d46210b03a29d29894a9cc92b5626baa36",
+   "ee_text": "안구 저자극에 따른 눈의 불편함 및 충혈의 일시적 경감",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:12Z",
+   "last_observed_at": "2026-09-08T08:44:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:12Z"
+}

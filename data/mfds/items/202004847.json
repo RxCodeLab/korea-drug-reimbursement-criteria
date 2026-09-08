@@ -7,11 +7,12 @@
  "permit_date": "20200703",
  "cancel_date": "20250703",
  "status": "유효기간만료",
- "main_item_ingr": "[M110372]길경 가루|[M110153]감초 가루|[M251260]카르비녹사민말레산염|[M050059]구아야콜설폰산칼륨|[M040059]노스카핀|[M264046]DL-메틸에페드린염산염|[M222957]덱스트로메토르판브롬화수소산염수화물",
+ "main_item_ingr": "[M040059]노스카핀|[M050059]구아야콜설폰산칼륨|[M110153]감초 가루|[M110372]길경 가루|[M222957]덱스트로메토르판브롬화수소산염수화물|[M251260]카르비녹사민말레산염|[M264046]DL-메틸에페드린염산염",
  "main_item_ingr_eng": "Carbinoxamine Maleate/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate/Glycyrrhiza Powder/Noscapine/Platycodon Root Powder/Potassium Guaiacolsulfonate",
  "edi_code": "",
  "atc_code": "R05FA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004847",
+ "history_fetched_at": "2026-08-28T13:25:20Z",
  "revisions": [
   {
    "revision_id": "202004847-da6ae941",
@@ -19,9 +20,9 @@
    "ee_text": "기침, 가래",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:20Z",
-   "last_observed_at": "2026-08-28T13:25:20Z",
-   "official_revision_date": "2020-07-03"
+   "last_observed_at": "2026-09-08T08:59:12Z",
+   "official_revision_date": "2020-07-03",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:20Z"
+ ]
 }

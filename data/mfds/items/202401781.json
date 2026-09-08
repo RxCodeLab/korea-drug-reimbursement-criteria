@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401781",
+ "item_name": "알레톡정120밀리그램(펙소페나딘염산염)",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "20240723",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246634]펙소페나딘염산염",
+ "main_item_ingr_eng": "Fexofenadine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AX26",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401781",
+ "revisions": [
+  {
+   "revision_id": "202401781-f9ba9595",
+   "content_sha256": "f9ba9595eb2095d2fc7e3d448e43fa2966dffb41d57b59d61ee009bed21a5133",
+   "ee_text": "* 120 mg 알레르기비염 증상 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:11Z",
+   "last_observed_at": "2026-09-08T09:03:11Z",
+   "official_revision_date": "2024-07-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:11Z"
+}

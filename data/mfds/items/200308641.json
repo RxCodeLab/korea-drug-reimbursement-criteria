@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "J05AF01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308641",
+ "history_fetched_at": "2026-08-28T13:24:03Z",
  "revisions": [
   {
    "revision_id": "200308641-c0811d29",
@@ -19,9 +20,9 @@
    "ee_text": "후천성 면역부전 증후군(AIDS), 중증의 AIDS 관련증후군(T₄ 림파구수 300/mm³이하에서 피부칸디다증, 체중감소, 림파절종양, 원인불명의 발열 등의 HIV감염의 증후가 있는 환자)",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:24:03Z",
-   "last_observed_at": "2026-08-28T13:24:03Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:37:25Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:03Z"
+ ]
 }

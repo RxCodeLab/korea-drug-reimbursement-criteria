@@ -7,11 +7,12 @@
  "permit_date": "20190315",
  "cancel_date": "20240315",
  "status": "유효기간만료",
- "main_item_ingr": "[M050058]구아이페네신|[M089573]마황엑스산|[M084832]길경엑스산|[M089575]행인엑스산|[M089617]육계엑스산|[M089623]자소엽엑스산",
+ "main_item_ingr": "[M050058]구아이페네신|[M084832]길경엑스산|[M089573]마황엑스산|[M089575]행인엑스산|[M089617]육계엑스산|[M089623]자소엽엑스산",
  "main_item_ingr_eng": "Apricot Kernel Extract Powder/Cinnamon Bark Extract Powder/Ephedra Herb Extract Powder/Guaifenesin/Perilla Leaf Extract Powder/Platycodon Root Extract Powder",
  "edi_code": "",
  "atc_code": "R05FB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901586",
+ "history_fetched_at": "2026-08-28T13:25:05Z",
  "revisions": [
   {
    "revision_id": "201901586-78dd308e",
@@ -19,9 +20,9 @@
    "ee_text": "기침, 가래, 천식",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:05Z",
-   "last_observed_at": "2026-08-28T13:25:05Z",
-   "official_revision_date": "2019-03-15"
+   "last_observed_at": "2026-09-08T08:54:32Z",
+   "official_revision_date": "2019-03-15",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:05Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108800",
+ "item_name": "카이트릴정1밀리그램(그라니세트론염산염)",
+ "entp_name": "지피테라퓨틱스코리아주식회사",
+ "permit_date": "20010209",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254683]그라니세트론염산염",
+ "main_item_ingr_eng": "Granisetron Hydrochloride",
+ "edi_code": "057200070",
+ "atc_code": "A04AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108800",
+ "revisions": [
+  {
+   "revision_id": "200108800-a676099b",
+   "content_sha256": "a676099b0e05c3658d9f85884ba9cf8c50290bb7b2db18cbc9236f8c2ce3a3b4",
+   "ee_text": "화학요법, 방사선요법으로 인한 구역 및 구토",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:48Z",
+   "last_observed_at": "2026-09-08T08:35:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:48Z"
+}

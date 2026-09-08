@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201300075",
+ "item_name": "옴니퓨어300주(이오헥솔)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20130104",
+ "cancel_date": "20231031",
+ "status": "취하",
+ "main_item_ingr": "[M088960]이오헥솔",
+ "main_item_ingr_eng": "Iohexol",
+ "edi_code": "",
+ "atc_code": "V08AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300075",
+ "revisions": [
+  {
+   "revision_id": "201300075-3d658f24",
+   "content_sha256": "3d658f244f4a626a92d1a145191c5ae28abbc1138eccf7a5bc84c9c304e82db5",
+   "ee_text": "(주사제 300 mgI/mL) 1. 척수조영 2. 혈관조영 3. 정맥요로조영(IVP) 4. CT 조영증강 5. 체강조영 : 관절조영, 자궁난관조영, 침샘조영, 소화관조영",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:43Z",
+   "last_observed_at": "2026-09-08T08:45:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:43Z"
+}

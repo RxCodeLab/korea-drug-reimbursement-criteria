@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301269",
+ "item_name": "유린쿨캡슐",
+ "entp_name": "진양제약(주)",
+ "permit_date": "20230418",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088656]글리신|[M204427]L-글루탐산|[M209366]L-알라닌",
+ "main_item_ingr_eng": "Glycine/L-Alanine/L-Glutamic Acid",
+ "edi_code": "",
+ "atc_code": "G04CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301269",
+ "revisions": [
+  {
+   "revision_id": "202301269-e4671fbf",
+   "content_sha256": "e4671fbf5ae6c367f383804e32366da4927e7e7011cc49409d0b6623c9df6bcc",
+   "ee_text": "전립선비대에 의한 배뇨(소변을 눔)곤란 · 잔뇨 및 잔뇨감 · 빈뇨",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:59Z",
+   "last_observed_at": "2026-09-08T09:01:59Z",
+   "official_revision_date": "2023-04-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:59Z"
+}

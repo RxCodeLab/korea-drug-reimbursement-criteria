@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198600123",
+ "item_name": "릴렉시아정250밀리그램(클로르페네신카르바메이트)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "19860521",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223210]클로르페네신카르바메이트",
+ "main_item_ingr_eng": "Chlorphenesin Carbamate",
+ "edi_code": "644500700",
+ "atc_code": "M03BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600123",
+ "revisions": [
+  {
+   "revision_id": "198600123-de3a2107",
+   "content_sha256": "de3a2107e61e3f5c3c6ea0df5fbeb2608e52428460edc3ae3837b9cd54f6851a",
+   "ee_text": "근골격계 질환에 수반하는 동통성 연축 : 요배통증, 변형성척추증, 추간판헤르니아, 척추분리ㆍ전위증, 척추골다공증, 경견완증후군",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:09Z",
+   "last_observed_at": "2026-09-08T08:27:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:09Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800089",
+ "item_name": "한풍사인엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M095260]사인",
+ "main_item_ingr_eng": "Amomum Fruit",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800089",
+ "revisions": [
+  {
+   "revision_id": "198800089-f9068f1c",
+   "content_sha256": "f9068f1c5169cfedca8d1df12c72a95c4b40a898d9247d165380bac127ff599d",
+   "ee_text": "건위",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:31Z",
+   "last_observed_at": "2026-09-08T08:27:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:31Z"
+}

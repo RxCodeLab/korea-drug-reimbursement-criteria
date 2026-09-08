@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001167",
+ "item_name": "임문업캡슐(티모모둘린)(수출용)",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20001107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234983]티모모둘린",
+ "main_item_ingr_eng": "Thymomodulin",
+ "edi_code": "",
+ "atc_code": "L03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001167",
+ "revisions": [
+  {
+   "revision_id": "200001167-be1e529f",
+   "content_sha256": "be1e529fe3767924d5127c06b9ed520f65f0ec90bc077bfda73f5d4f0383ba15",
+   "ee_text": "ㆍ 항체 생성 결핍증, 면역자극 ㆍ 간염, 호흡기 질환등 세균 및 바이러스성 감염 질환의 보조치료 ㆍ 면역 골수 조절 ㆍ 골수 독성제에 기인한 백혈구 감소증의 예방 ㆍ 1차, 2차 백혈구 감소증 치료.",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:39Z",
+   "last_observed_at": "2026-09-08T08:33:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:39Z"
+}

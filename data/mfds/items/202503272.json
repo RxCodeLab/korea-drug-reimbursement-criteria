@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503272",
+ "item_name": "플라스마솔루션디주",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20251215",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M044300]포도당일수화물|[M051111]염화마그네슘|[M090685]글루콘산나트륨|[M243246]아세트산나트륨수화물",
+ "main_item_ingr_eng": "Glucose Monohydrate/Magnesium Chloride/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride/Sodium Gluconate",
+ "edi_code": "640008071,640008081",
+ "atc_code": "B05BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503272",
+ "revisions": [
+  {
+   "revision_id": "202503272-4f34bbb2",
+   "content_sha256": "4f34bbb2678ed3fe2040ca7473c4d7daf5fc344a29658adc4945a6547a2cc3f7",
+   "ee_text": "○ 순환혈액량 및 조직간액의 감소시 세포외액의 보급ㆍ보정 ○ 대사성 산증의 보정 ○ 에너지 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:33Z",
+   "last_observed_at": "2026-09-08T09:04:33Z",
+   "official_revision_date": "2025-12-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:33Z"
+}

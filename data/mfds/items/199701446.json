@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701446",
+ "item_name": "신신린단로오숀",
+ "entp_name": "신신제약(주)",
+ "permit_date": "19970317",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050381]린단",
+ "main_item_ingr_eng": "Lindane",
+ "edi_code": "",
+ "atc_code": "P03AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701446",
+ "revisions": [
+  {
+   "revision_id": "199701446-99a45bb6",
+   "content_sha256": "99a45bb644344abc8b7ec2e3297cdb6131c939baddc17ead518176e97715a6c2",
+   "ee_text": "(겔제) 머리이, 사면발이, 옴과 같은 동물성 기생충 감염증 (액제) 머리이, 사면발이 (로오숀제) 옴",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:02Z",
+   "last_observed_at": "2026-09-08T08:31:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:02Z"
+}

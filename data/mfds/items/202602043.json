@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602043",
+ "item_name": "라피스캔주400마이크로그램(레가데노손)",
+ "entp_name": "지이헬스케어에이에스한국지점",
+ "permit_date": "20260714",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286600]레가데노손",
+ "main_item_ingr_eng": "Regadenoson",
+ "edi_code": "",
+ "atc_code": "C01EB21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602043",
+ "revisions": [
+  {
+   "revision_id": "202602043-7bc8385e",
+   "content_sha256": "7bc8385ea38b8277a87c0bbceb400416db7983e9904b98947c02cf8b25bcbb69",
+   "ee_text": "이 약은 성인 환자에서 다음의 진단검사 시 사용할 수 있는 약물부하제로, 진단 목적으로만 사용한다. 1) 운동부하 검사가 불가능하거나 적절하지 않은 환자에서 심근관류영상(Myocardial Perfusion Imaging, MPI) 2) 관상동맥조영술 중 단일 관상동맥 협착 병변에서의 분획혈류예비력(Fractional Flow Reserve, FFR) 측정. 단, FFR의 반복 측정이 예상되지 않는 경우에 한함",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:31Z",
+   "last_observed_at": "2026-09-08T09:05:31Z",
+   "official_revision_date": "2026-07-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:31Z"
+}

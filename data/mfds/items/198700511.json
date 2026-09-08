@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700511",
+ "item_name": "헬민200연질캡슐(아르기닌티디아시케이트)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "19870729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080276]아르기닌티디아시케이트",
+ "main_item_ingr_eng": "Arginine Tidiacicate",
+ "edi_code": "",
+ "atc_code": "A05BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700511",
+ "revisions": [
+  {
+   "revision_id": "198700511-7105fe15",
+   "content_sha256": "7105fe15dc32363ff1308a1e9b5d65e8799c1372c1a9f3446e45395c4ea91438",
+   "ee_text": "간기능장애의 보조치료",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:22Z",
+   "last_observed_at": "2026-09-08T08:27:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:22Z"
+}

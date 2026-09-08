@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501036",
+ "item_name": "시스폴점안액(1회용)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20250429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M211346]폴리에틸렌글리콜400|[M244671]프로필렌글리콜",
+ "main_item_ingr_eng": "Polyethylene Glycol 400/Propylene Glycol",
+ "edi_code": "649508621",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501036",
+ "revisions": [
+  {
+   "revision_id": "202501036-aa0a0662",
+   "content_sha256": "aa0a0662cc82c1fe24d36cbb4145763a23dbae13611efea00c9e2ea2cc06ad2d",
+   "ee_text": "눈의 건조 또는 바람·태양에 의한 화끈거리는 증상, 자극감, 불쾌감의 일시적 완화. 눈의 자극감 예방.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:53Z",
+   "last_observed_at": "2026-09-08T09:03:53Z",
+   "official_revision_date": "2025-04-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:53Z"
+}

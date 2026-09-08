@@ -7,11 +7,12 @@
  "permit_date": "20140922",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040202]반하|[M040445]오미자|[M040293]세신|[M050037]계지|[M040006]감초|[M040007]건강|[M040523]작약|[M040135]마황",
+ "main_item_ingr": "[M040006]감초|[M040007]건강|[M040135]마황|[M040202]반하|[M040293]세신|[M040445]오미자|[M040523]작약|[M050037]계지",
  "main_item_ingr_eng": "Asiasarum Root and Rhizome/Cinnamomi Ramulus/Ephedra Herb/Ginger/Licorice/Peony Root/Pinellia Tuber/Schisandra Fruit",
  "edi_code": "",
  "atc_code": "R05F",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404293",
+ "history_fetched_at": "2026-08-28T13:24:37Z",
  "revisions": [
   {
    "revision_id": "201404293-c9416783",
@@ -19,9 +20,9 @@
    "ee_text": "기관지염, 기관지천식, 콧물, 묽은 가래를 수반하는 기침, 비염(코염)",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-28T13:24:37Z",
-   "last_observed_at": "2026-08-28T13:24:37Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:47:40Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:37Z"
+ ]
 }

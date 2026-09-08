@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201000170",
+ "item_name": "디티부스터주(프리필드시린지)(성인용 흡착 디프테리아 및 파상풍 혼합백신)",
+ "entp_name": "(주)엑세스파마",
+ "permit_date": "20100107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091722]디프테리아톡소이드(Park-Williams Noㆍ8균주)|[M217392]파상풍톡소이드(Harvard 균주)",
+ "main_item_ingr_eng": "Diphtheria Toxoid (Strain: Park-Williams No.8)/Tetanus Toxoid (Strain: Harvard)",
+ "edi_code": "",
+ "atc_code": "J07AM51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000170",
+ "revisions": [
+  {
+   "revision_id": "201000170-d0344353",
+   "content_sha256": "d03443534b5c9a1c24725a360c1c0f3c2079f304f355eb34b89cf00438fb7fa8",
+   "ee_text": "만 10세 이상의 어린이 및 청소년과 성인의 디프테리아 및 파상풍의 예방",
+   "ee_doc_id": "30",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:43Z",
+   "last_observed_at": "2026-09-08T08:43:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:43Z"
+}

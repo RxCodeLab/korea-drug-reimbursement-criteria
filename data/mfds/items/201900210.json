@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900210",
+ "item_name": "크로린점안액(크로몰린나트륨)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20190116",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051498]크로몰린나트륨",
+ "main_item_ingr_eng": "Sodium Cromoglicate",
+ "edi_code": "",
+ "atc_code": "S01GX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900210",
+ "revisions": [
+  {
+   "revision_id": "201900210-c55e9453",
+   "content_sha256": "c55e945374e2d35d5b3af6dadee677b21e67750d7b2716d7c9ebff8c2676b3b3",
+   "ee_text": "봄철 각막염이나 결막염, 알레르기성 결막염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:04Z",
+   "last_observed_at": "2026-09-08T08:54:04Z",
+   "official_revision_date": "2019-01-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:04Z"
+}

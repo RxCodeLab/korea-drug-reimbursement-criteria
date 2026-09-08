@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908036",
+ "item_name": "엔피베린정20밀리그램(프로피베린염산염)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20191122",
+ "cancel_date": "20241122",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M255864]프로피베린염산염",
+ "main_item_ingr_eng": "Propiverine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "G04BD06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908036",
+ "revisions": [
+  {
+   "revision_id": "201908036-c99ff745",
+   "content_sha256": "c99ff74527b348e8ba9ea7e4c1c0d6dd596f42b1f23f0765a3db747425ff56d8",
+   "ee_text": "1. 하기질환 또는 아래 상태에 의한 빈뇨, 요실금 : 신경인성방광, 신경성빈뇨, 불안정방광, 방광자극상태(만성방광염, 만성전립샘염) 2. 과활동 방광의 소변 절박감, 빈뇨 및 절박성 요실금",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:06Z",
+   "last_observed_at": "2026-09-08T08:57:06Z",
+   "official_revision_date": "2019-11-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:06Z"
+}

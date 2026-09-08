@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "M01AE51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401092",
+ "history_fetched_at": "2026-08-28T13:25:36Z",
  "revisions": [
   {
-   "revision_id": "202401092-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202401092-2f7e6e67",
+   "content_sha256": "2f7e6e67ed93f9256f4b97c4f591efee2121a9baeda0f0b33909fc02c9a50ba6",
+   "ee_text": "1. 두통, 치통, 발치(이를 뽑음)후 동통(통증), 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요통(허리통증), 근육통, 견통(어깨결림), 타박통, 골절통, 염좌통(삔통증), 월경통(생리통), 외상(상처)통의 진통, 2. 오한(춥고 떨리는 증상), 발열시의 해열",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:36Z",
-   "last_observed_at": "2026-08-28T13:25:36Z",
-   "official_revision_date": "2024-05-02"
+   "last_observed_at": "2026-09-08T09:02:57Z",
+   "official_revision_date": "2024-05-02",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:36Z"
+ ]
 }

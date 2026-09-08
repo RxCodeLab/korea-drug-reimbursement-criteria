@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905533",
+ "item_name": "오설엠캡슐45mg(오셀타미비르인산염)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20190806",
+ "cancel_date": "20240806",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M247897]오셀타미비르인산염",
+ "main_item_ingr_eng": "Oseltamivir Phosphate",
+ "edi_code": "",
+ "atc_code": "J05AH02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905533",
+ "revisions": [
+  {
+   "revision_id": "201905533-81e67151",
+   "content_sha256": "81e67151605dd2dace8c699994ef9663b5b83038d67d24a8b1a85fd38e9c8089",
+   "ee_text": "1. 만기 2주 이상 신생아를 포함한 소아 및 성인의 인플루엔자 A 및 인플루엔자 B 바이러스 감염증(인플루엔자 감염의 초기증상 발현 48시간 이내에 투여를 시작해야 한다.) 2. 1세 이상의 인플루엔자 A 및 인플루엔자 B 바이러스 감염증의 예방(인플루엔자 바이러스 감염증에 대한 예방의 일차요법은 백신요법이므로 백신에 당해 유행주가 포함되어 있지 않은 경우 또는 백신의 효과를 기대할 수 없거나 백신 접종을 하지 못하는 경우에 한하여 사용하며 이 약은 예방접종을 대체할 수 없다.)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:01Z",
+   "last_observed_at": "2026-09-08T08:56:01Z",
+   "official_revision_date": "2019-08-06"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:01Z"
+}

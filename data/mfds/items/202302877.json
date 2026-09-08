@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302877",
+ "item_name": "마민에스정",
+ "entp_name": "메딕스제약(주)",
+ "permit_date": "20231010",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040306]수산화마그네슘|[M223262]티아민질산염",
+ "main_item_ingr_eng": "Magnesium Hydroxide/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A06AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302877",
+ "revisions": [
+  {
+   "revision_id": "202302877-edea8414",
+   "content_sha256": "edea8414889b743f8a1a543d0092dccbda946bf96bac60762edf22a0e4502d7e",
+   "ee_text": "변비, 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:25Z",
+   "last_observed_at": "2026-09-08T09:02:25Z",
+   "official_revision_date": "2023-10-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:25Z"
+}

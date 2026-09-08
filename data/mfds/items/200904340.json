@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200904340",
+ "item_name": "타미린서방정16밀리그램(갈란타민브롬화수소산염)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20090622",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243021]갈란타민브롬화수소산염",
+ "main_item_ingr_eng": "Galantamine Hydrobromide",
+ "edi_code": "642001930",
+ "atc_code": "N06DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904340",
+ "revisions": [
+  {
+   "revision_id": "200904340-576a8932",
+   "content_sha256": "576a89329adfdcc8ad7fdef4e72a2ad76d5a96033d0c4565d046f3c77f4ea521",
+   "ee_text": "알쯔하이머 형태의 경등도, 중등도 치매 증상의 치료",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:20Z",
+   "last_observed_at": "2026-09-08T08:43:20Z",
+   "official_revision_date": "2017-09-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:20Z"
+}

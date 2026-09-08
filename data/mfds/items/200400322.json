@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400322",
+ "item_name": "아서프릴정4밀리그램(페린도프릴-t-부틸아민)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20040802",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258860]페린도프릴-t-부틸아민",
+ "main_item_ingr_eng": "Perindopril Tert-Butylamine",
+ "edi_code": "642901130",
+ "atc_code": "C09AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400322",
+ "revisions": [
+  {
+   "revision_id": "200400322-7b93082c",
+   "content_sha256": "7b93082c28cae18b817b6bd9771f4aab8bfbb0e4b0721fb0f3d548b76de613e5",
+   "ee_text": "1. 고혈압 2. 울혈성 심부전: 이뇨제 및 디기탈리스 투여시의 보조치료제 3. 안정형 관상동맥 질환: 심근경색 및/또는 혈관재생술의 병력이 있는 안정형 관상동맥질환 환자에서 심혈관 질환으로 인한 사망 또는 비치명적 심근경색에 대한 위험성 감소",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:32Z",
+   "last_observed_at": "2026-09-08T08:37:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:32Z"
+}

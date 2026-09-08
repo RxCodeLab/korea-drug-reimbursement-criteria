@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802219",
+ "item_name": "큐라민골드정",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20180529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040133]리보플라빈|[M204304]피리독신염산염|[M223292]푸르설티아민염산염|[M227509]아스코르브산97%과립|[M255819]토코페롤아세테이트 2배산|[M255994]시아노코발라민1000배산",
+ "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Cyanocobalamin Powder 0.1%/Fursultiamine Hydrochloride/Pyridoxine Hydrochloride/Riboflavin/Tocopherol Acetate Powder 50%",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802219",
+ "revisions": [
+  {
+   "revision_id": "201802219-ee36a39a",
+   "content_sha256": "ee36a39a55032e0121b4744796a99db9cdd107b0348a0dcb03bbf2dba303ddee",
+   "ee_text": "다음 경우의 비타민 B1, B2, B6, C, E의 보급 - 육체피로, 임신ㆍ수유기, 병중ㆍ병후의 체력저하시, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ○ 말초혈행장애 및 갱년기시 다음증상의 완화 : 어깨ㆍ목결림, 수족저림, 수족냉증(손발이 차가움) ○ 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) ○ 각기, 눈의 피로",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:11Z",
+   "last_observed_at": "2026-09-08T08:53:11Z",
+   "official_revision_date": "2018-05-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:11Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002210",
+ "item_name": "한신오적산엑스과립",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20000114",
+ "cancel_date": "20240715",
+ "status": "취하",
+ "main_item_ingr": "[M088650]오적산연조엑스",
+ "main_item_ingr_eng": "Ojeogsan Soft Extract",
+ "edi_code": "",
+ "atc_code": "M09AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002210",
+ "revisions": [
+  {
+   "revision_id": "200002210-c2e49d90",
+   "content_sha256": "c2e49d906263654e913e055ca77b941d7e38d28e1fc8aaf59276e9ed64f899bf",
+   "ee_text": "만성이면서 증상이 심하지 않는 다음 증상 : 위장염, 허리통증, 신경통, 관절통, 월경통, 두통, 냉증, 갱년기장애, 감기",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:53Z",
+   "last_observed_at": "2026-09-08T08:33:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:53Z"
+}

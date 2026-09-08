@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200803581",
+ "item_name": "뉴록캄캡슐(멜록시캄)(수출용)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20080401",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086439]멜록시캄",
+ "main_item_ingr_eng": "Meloxicam",
+ "edi_code": "",
+ "atc_code": "M01AC06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803581",
+ "revisions": [
+  {
+   "revision_id": "200803581-26bacae3",
+   "content_sha256": "26bacae3426823671101cf4100e8726c58bf0a7fbd00133aaf75103e8cc78756",
+   "ee_text": "- 통증의 운동실조를 수반하는 골관절염의 급성악화시 단기증상의 치료 - 장기간에 걸친 류마티스관절염의 증상치료 - 강직성 척추염의 증상치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:25Z",
+   "last_observed_at": "2026-09-08T08:42:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:25Z"
+}

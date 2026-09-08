@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100865",
+ "item_name": "알레그라정30밀리그람(펙소페나딘염산염)",
+ "entp_name": "(주)한독",
+ "permit_date": "20010424",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246634]펙소페나딘염산염",
+ "main_item_ingr_eng": "Fexofenadine Hydrochloride",
+ "edi_code": "652100980",
+ "atc_code": "R06AX26",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100865",
+ "revisions": [
+  {
+   "revision_id": "200100865-50cf213a",
+   "content_sha256": "50cf213a1c3e43066469a2489239ef681824686552f63df10a853c75794912b2",
+   "ee_text": "* 30 mg 계절알레르기비염 증상 완화 알레르기 피부질환(만성 특발두드러기)과 관련된 증상의 완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200100865/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:00Z",
+   "last_observed_at": "2026-09-08T08:35:00Z"
+  },
+  {
+   "revision_id": "200100865-2a47deb4",
+   "content_sha256": "2a47deb453fe58d1e2ffc0ade37fdd7a353b0d9a8408881f7dedc00dbc80e51d",
+   "ee_text": "계절알레르기비염 증상 완화 알레르기 피부질환(만성 특발두드러기)과 관련된 증상의 완화",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:35:00Z",
+   "last_observed_at": "2026-09-08T08:35:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:00Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500635",
+ "item_name": "비미짐주(엘로설파제알파)",
+ "entp_name": "(주)삼오제약",
+ "permit_date": "20150206",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261531]엘로설파제알파",
+ "main_item_ingr_eng": "Elosulfase Alpha",
+ "edi_code": "659700961",
+ "atc_code": "A16AB12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500635",
+ "revisions": [
+  {
+   "revision_id": "201500635-416d4ee4",
+   "content_sha256": "416d4ee4aca700c3fab88e85f67425fda065061409d920eaa3c4a3ef67e1105b",
+   "ee_text": "뮤코다당증 ⅣA형(모르퀴오 A 증후군) 환자의 치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:27Z",
+   "last_observed_at": "2026-09-08T08:48:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:27Z"
+}

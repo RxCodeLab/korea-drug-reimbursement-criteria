@@ -1,0 +1,58 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198801109",
+ "item_name": "세트라졸주사1그램(세프테졸나트륨)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19880616",
+ "cancel_date": "20250109",
+ "status": "취하",
+ "main_item_ingr": "[M020303]세프테졸나트륨",
+ "main_item_ingr_eng": "Ceftezole Sodium",
+ "edi_code": "",
+ "atc_code": "J01DB12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198801109",
+ "revisions": [
+  {
+   "revision_id": "198801109-3d6adb77",
+   "content_sha256": "3d6adb77a3440544669411d39d0452122997e864c8df426a27317f00d98ebd7c",
+   "ee_text": "<삭제> ※ 제출된 임상시험 결과가 유효성을 입증하지 못함",
+   "ee_doc_id": "25",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:37Z",
+   "last_observed_at": "2026-09-08T08:27:37Z",
+   "official_revision_date": "2023-06-02"
+  },
+  {
+   "revision_id": "198801109-ec239aa8",
+   "content_sha256": "ec239aa83d7af2868c526e8731170d28d41dc43c76f96d08f600a6e0c0c1a827",
+   "ee_text": "☆(주사제) ○ 유효균종 포도구균, 스트렙토콕쿠스 피오게네스(그룹 A-베타용혈성), 폐렴연쇄구균, 대장균, 폐렴간균, 프로테우스 미라빌리스 ○ 적응증 - 신우신염 - 복잡성 요로감염 ☆ 국내임상시험결과 추가제출",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-10-10",
+   "first_observed_at": "2026-09-08T08:27:37Z",
+   "last_observed_at": "2026-09-08T08:27:37Z"
+  },
+  {
+   "revision_id": "198801109-215c626d",
+   "content_sha256": "215c626d52c400333f359fb83a9fa59efbb384d90c20effa9dfa2f04b42ac84a",
+   "ee_text": "☆(주사제) ○ 유효균종 포도구균, 스트렙토콕쿠스 피오게네스(그룹 A-베타용혈성), 폐렴연쇄구균, 대장균, 폐렴간균, 프로테우스 미라빌리스 ○ 적응증 - 패혈증 - 폐렴, 기관지염, 기관지확장증(감염 시), 만성호흡기질환의 2차감염, 폐농양 - 복막염 - 신우신염, 방광염, 요도염 ☆ 국내임상시험결과 추가제출",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-01-21",
+   "first_observed_at": "2026-09-08T08:27:37Z",
+   "last_observed_at": "2026-09-08T08:27:37Z"
+  },
+  {
+   "revision_id": "198801109-894b1bf2",
+   "content_sha256": "894b1bf24db24721ffa27c7df10331a32b17dd22a9cfd2b35d90663c2ea43630",
+   "ee_text": "○ 유효균종 포도구균, 스트렙토콕쿠스 피오게네스(그룹 A-베타용혈성), 폐렴연쇄구균, 대장균, 폐렴간균, 프로테우스 미라빌리스 ○ 적응증 - 패혈증 - 폐렴, 기관지염, 기관지확장증(감염 시), 만성호흡기질환의 2차감염, 폐농양 - 복막염 - 신우신염, 방광염, 요도염",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:27:37Z",
+   "last_observed_at": "2026-09-08T08:27:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:37Z"
+}

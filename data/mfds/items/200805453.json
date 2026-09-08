@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805453",
+ "item_name": "브리민정(피리도스티그민브롬화물)(수출용)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20080515",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222564]피리도스티그민브롬화물",
+ "main_item_ingr_eng": "Pyridostigmine Bromide",
+ "edi_code": "",
+ "atc_code": "N07AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805453",
+ "revisions": [
+  {
+   "revision_id": "200805453-28fc8add",
+   "content_sha256": "28fc8add098477084d06d792863275cb18d620fe9a3a729a43827ce2a14516ef",
+   "ee_text": "중증 근무력증",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:31Z",
+   "last_observed_at": "2026-09-08T08:42:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:31Z"
+}

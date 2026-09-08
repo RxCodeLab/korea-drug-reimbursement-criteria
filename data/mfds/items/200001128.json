@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001128",
+ "item_name": "일화홍삼캅셀(수출용)",
+ "entp_name": "(주)일화",
+ "permit_date": "20000628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202113]홍삼가루",
+ "main_item_ingr_eng": "Red Ginseng Powder",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001128",
+ "revisions": [
+  {
+   "revision_id": "200001128-e4e67cd1",
+   "content_sha256": "e4e67cd1bf175cb35ee8a0d85ff5d37e86ee32892ceebea0ebf5e5b7134b1046",
+   "ee_text": "자양강장, 허약체질, 육체피로, 병중ㆍ병후, 발육기",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:39Z",
+   "last_observed_at": "2026-09-08T08:33:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:39Z"
+}

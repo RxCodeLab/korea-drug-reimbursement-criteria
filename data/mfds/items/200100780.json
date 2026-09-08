@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A01AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100780",
+ "history_fetched_at": "2026-08-28T13:23:58Z",
  "revisions": [
   {
    "revision_id": "200100780-9c9cefcb",
@@ -19,8 +20,9 @@
    "ee_text": "치주치료 후 치은염(잇몸염), 경·중등도 치주염(치아 주위 조직염)의 보조치료",
    "ee_doc_id": "28",
    "first_observed_at": "2026-08-28T13:23:58Z",
-   "last_observed_at": "2026-08-28T13:23:58Z",
-   "official_revision_date": "2018-11-23"
+   "last_observed_at": "2026-09-08T08:35:00Z",
+   "official_revision_date": "2018-11-23",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200100780-9db36f22",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:58Z",
    "last_observed_at": "2026-08-28T13:23:58Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:58Z"
+ ]
 }

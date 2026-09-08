@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508025",
+ "item_name": "덴큐헬스페이스트",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20151130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215133]에녹솔론|[M223240]토코페롤아세테이트|[M273071]세틸피리디늄염화물",
+ "main_item_ingr_eng": "Cetylpyridinium Chloride/Enoxolone/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508025",
+ "revisions": [
+  {
+   "revision_id": "201508025-5f4bc97a",
+   "content_sha256": "5f4bc97a8616d2039606bded14d2581439efcd7c301209794e7e2d39a8fe3416",
+   "ee_text": "치은염(잇몸염) · 치조(이틀)농루에 의한 여러 증상 (잇몸의 발적(충열되어 붉어짐)·부종·고름, 구취)의 완화",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:57Z",
+   "last_observed_at": "2026-09-08T08:49:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:57Z"
+}

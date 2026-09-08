@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002752",
+ "item_name": "한풍작약엑스정",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20200420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M116716]작약 연조엑스(3.3~4.0→1)",
+ "main_item_ingr_eng": "Peony Root Soft Extract (3.3~4.0→1)",
+ "edi_code": "",
+ "atc_code": "A03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002752",
+ "revisions": [
+  {
+   "revision_id": "202002752-0f17433b",
+   "content_sha256": "0f17433b9658a846d22e3345c5a0aa8dbec304160573c883e00ff65d04dd9385",
+   "ee_text": "조제용",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:26Z",
+   "last_observed_at": "2026-09-08T08:58:26Z",
+   "official_revision_date": "2020-04-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:26Z"
+}

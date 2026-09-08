@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500655",
+ "item_name": "엔카인크림(수출용)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20250321",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인|[M087237]프릴로카인",
+ "main_item_ingr_eng": "Lidocaine/Prilocaine",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500655",
+ "revisions": [
+  {
+   "revision_id": "202500655-ac1c41d8",
+   "content_sha256": "ac1c41d8b1a817041f6c9cf9f477a735fde7c8ebfa0c1de82f68e0e4577a440c",
+   "ee_text": "1. 주사바늘 삽입시 또는 표재성 외과적 처치 시 피부의 표면마취 2. 생식기 점막 표면마취(예 : 콘딜롬 제거전) 3. 세척이나 표재성 수술(예 : 피브린, 농, 괴사부위의 제거)에 앞서 다리궤양의 표면마취",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:46Z",
+   "last_observed_at": "2026-09-08T09:03:46Z",
+   "official_revision_date": "2025-03-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:46Z"
+}

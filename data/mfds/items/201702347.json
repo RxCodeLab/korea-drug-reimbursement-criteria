@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702347",
+ "item_name": "베시보정(베시포비르디피복실말레산염)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20170515",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265751]베시포비르디피복실말레산염",
+ "main_item_ingr_eng": "Besifovir Dipivoxil Maleate",
+ "edi_code": "642905810",
+ "atc_code": "J05AF",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702347",
+ "revisions": [
+  {
+   "revision_id": "201702347-a97c91b7",
+   "content_sha256": "a97c91b7c485d5104cb3c3539e44018f52d8f2bda00ed41d9a4305d33e000814",
+   "ee_text": "성인에서의 만성 B형 간염 치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:50Z",
+   "last_observed_at": "2026-09-08T08:51:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:50Z"
+}

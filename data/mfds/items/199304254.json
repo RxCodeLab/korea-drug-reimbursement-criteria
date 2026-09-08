@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199304254",
+ "item_name": "로이나제주(엘아스파라기나제)",
+ "entp_name": "한국쿄와기린(주)",
+ "permit_date": "19930319",
+ "cancel_date": "20260821",
+ "status": "취하",
+ "main_item_ingr": "[M093691]엘아스파라기나제",
+ "main_item_ingr_eng": "L-Asparaginase",
+ "edi_code": "666300241",
+ "atc_code": "L01XX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199304254",
+ "revisions": [
+  {
+   "revision_id": "199304254-3bed3a6e",
+   "content_sha256": "3bed3a6e9b3957e8588dd97ca1132f1172c5bbace397eda5279455a4f26526a8",
+   "ee_text": "급만성 백혈병, 악성임파종",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:57Z",
+   "last_observed_at": "2026-09-08T08:28:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:57Z"
+}

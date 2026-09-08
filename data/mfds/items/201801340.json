@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801340",
+ "item_name": "팔록시주(팔로노세트론염산염)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20180327",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246059]팔로노세트론염산염",
+ "main_item_ingr_eng": "Palonosetron Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A04AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801340",
+ "revisions": [
+  {
+   "revision_id": "201801340-db60fd89",
+   "content_sha256": "db60fd8978e303306bdc3c7123ce52271df1927b6f114bf592a53b26511574ed",
+   "ee_text": "1. 중등도와 심한 구토 유발성 항암 화학요법제의 초기 및 반복적인 치료에 의해 유발되는 급성 구역 및 구토의 예방 2. 중등도의 구토 유발성 항암 화학요법제의 초기 및 반복적인 치료에 의해 유발되는 지연형 구역 및 구토의 예방 3. 수술 후 24시간까지의 구역 및 구토의 예방 4. 수술 후 구역 및 구토의 치료 소아 1. 중등도와 심한 구토 유발성 항암 화학요법제의 초기 및 반복적인 치료에 의해 유발되는 급성 구역 및 구토의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:58Z",
+   "last_observed_at": "2026-09-08T08:52:58Z",
+   "official_revision_date": "2018-03-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:58Z"
+}

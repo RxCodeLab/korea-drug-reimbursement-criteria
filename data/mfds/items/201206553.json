@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206553",
+ "item_name": "인라이타정5밀리그램(엑시티닙)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20120822",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255256]엑시티닙",
+ "main_item_ingr_eng": "Axitinib",
+ "edi_code": "648902120",
+ "atc_code": "L01EK01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206553",
+ "revisions": [
+  {
+   "revision_id": "201206553-2ca460ae",
+   "content_sha256": "2ca460aefda088988f9937bba5ef4500af275827e3815d799a33b6d1978dcb1a",
+   "ee_text": "1. 진행성 신세포암의 1차 요법 이 약은 펨브롤리주맙과 병용하여 진행성 신세포암의 1차 치료에 사용 2. 진행성 신세포암의 2차 요법 단독요법으로 이전의 한 가지 전신요법에 실패한 진행성 신세포암 치료에 사용",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:27Z",
+   "last_observed_at": "2026-09-08T08:45:27Z",
+   "official_revision_date": "2021-12-07"
+  },
+  {
+   "revision_id": "201206553-cd240d51",
+   "content_sha256": "cd240d510289e99cdd33a890a7ed3328f7533b37da75111c0f675bc33a3837c3",
+   "ee_text": "이전 한 가지 전신요법 치료에 실패한 진행성 신세포암",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:27Z",
+   "last_observed_at": "2026-09-08T08:45:27Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:27Z"
+}

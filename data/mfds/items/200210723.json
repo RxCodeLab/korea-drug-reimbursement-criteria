@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "M02AX10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210723",
+ "history_fetched_at": "2026-08-28T13:24:01Z",
  "revisions": [
   {
    "revision_id": "200210723-a45726d9",
@@ -19,9 +20,9 @@
    "ee_text": "다음 질환 및 증상의 진통·소염:염좌, 타박, 근육통, 관절통, 골절통, 요통, 견통, 동상",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:24:01Z",
-   "last_observed_at": "2026-08-28T13:24:01Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:36:38Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:01Z"
+ ]
 }

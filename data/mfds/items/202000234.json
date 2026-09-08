@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R01AA04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000234",
+ "history_fetched_at": "2026-08-28T13:25:14Z",
  "revisions": [
   {
    "revision_id": "202000234-343df25d",
@@ -19,9 +20,9 @@
    "ee_text": "감기, 고초열, 부비강염, 상기도 알레르기에 의한 비충혈의 일시적 완화",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:14Z",
-   "last_observed_at": "2026-08-28T13:25:14Z",
-   "official_revision_date": "2020-01-15"
+   "last_observed_at": "2026-09-08T08:57:30Z",
+   "official_revision_date": "2020-01-15",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:14Z"
+ ]
 }

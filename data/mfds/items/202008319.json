@@ -7,11 +7,12 @@
  "permit_date": "20201130",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040678]판크레아틴|[M223167]우르소데옥시콜산|[M223083]시메티콘",
+ "main_item_ingr": "[M040678]판크레아틴|[M223083]시메티콘|[M223167]우르소데옥시콜산",
  "main_item_ingr_eng": "Pancreatin/Simethicone/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008319",
+ "history_fetched_at": "2026-08-28T13:25:22Z",
  "revisions": [
   {
    "revision_id": "202008319-286238c3",
@@ -19,9 +20,9 @@
    "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:22Z",
-   "last_observed_at": "2026-08-28T13:25:22Z",
-   "official_revision_date": "2020-11-30"
+   "last_observed_at": "2026-09-08T08:59:43Z",
+   "official_revision_date": "2020-11-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:22Z"
+ ]
 }

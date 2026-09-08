@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202108116",
+ "item_name": "아제로핀정8밀리그램(아젤니디핀)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20211227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281394]아젤니디핀",
+ "main_item_ingr_eng": "Azelnidipine",
+ "edi_code": "670608860",
+ "atc_code": "C08CA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108116",
+ "revisions": [
+  {
+   "revision_id": "202108116-f5de4319",
+   "content_sha256": "f5de43194093da461a59c6b7b7985e7ba1927c86ac648c5766f5eeea5afba976",
+   "ee_text": "고혈압",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:54Z",
+   "last_observed_at": "2026-09-08T09:00:54Z",
+   "official_revision_date": "2021-12-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:54Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904165",
+ "item_name": "쎄레브이정100밀리그램(세레콕시브)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20190614",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089149]세레콕시브",
+ "main_item_ingr_eng": "Celecoxib",
+ "edi_code": "645306190",
+ "atc_code": "M01AH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904165",
+ "revisions": [
+  {
+   "revision_id": "201904165-07af6971",
+   "content_sha256": "07af6971ff0337a0fa1bc66cc9f39e4cace1ed627a170ffa0ee89109b92f3f85",
+   "ee_text": "1. 골관절염(퇴행관절염)의 증상이나 징후의 완화 2. 류마티스관절염의 증상이나 징후의 완화 3. 강직척추염의 증상 및 징후의 완화 4. 성인의 급성 통증 완화(수술 후, 발치 후 진통) 5. 원발월경통",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:34Z",
+   "last_observed_at": "2026-09-08T08:55:34Z",
+   "official_revision_date": "2019-06-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:34Z"
+}

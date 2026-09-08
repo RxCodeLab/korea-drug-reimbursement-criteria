@@ -7,7 +7,7 @@
  "permit_date": "20010604",
  "cancel_date": "20240101",
  "status": "유효기간만료",
- "main_item_ingr": "[M082518]작약가루|[M070009]감초가루|[M040353]아세트아미노펜|[M040417]에텐자미드|[M223184]카페인수화물",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M040417]에텐자미드|[M070009]감초가루|[M082518]작약가루|[M223184]카페인수화물",
  "main_item_ingr_eng": "Acetaminophen/Caffeine Hydrate/Ethenzamide/Glycyrrhiza Powder/Peony Root Powder",
  "edi_code": "",
  "atc_code": "N02BE51",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:57:06Z",
  "revisions": [
   {
-   "revision_id": "200100540-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200100540-43d93b70",
+   "content_sha256": "43d93b703c52cefb49752d18e0caf9f490a3aa161c560900a25fa2359cd26e81",
+   "ee_text": "1. 두통, 치통, 발치(이를 뽑음)후 동통(통증), 인후(목구멍)통, 귀의 통증, 신경통, 관절통, 근육통, 요(허리)통, 견통(어깨결림, 어깨통증), 타박통, 골절통, 염좌통(삔통증), 월경통(생리통), 외상(상처)통의 진통. 2. 오한(춥고 떨리는 증상), 발열시의 해열",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200100540/EE",
    "first_observed_at": "2026-08-27T12:57:06Z",
-   "last_observed_at": "2026-08-28T13:23:58Z"
+   "last_observed_at": "2026-09-08T08:34:53Z",
+   "normalizer_version": 3
   }
  ]
 }

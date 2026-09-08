@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008212",
+ "item_name": "웰스글루치온정(글루타티온(환원형))",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20201125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256276]글루타티온(환원형)",
+ "main_item_ingr_eng": "Glutathione (Reduced)",
+ "edi_code": "",
+ "atc_code": "V03AB32",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008212",
+ "revisions": [
+  {
+   "revision_id": "202008212-7996c777",
+   "content_sha256": "7996c777f14feed35a84d57b52783faef59c20f20da28fe45e79d344341e432c",
+   "ee_text": "약물중독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:42Z",
+   "last_observed_at": "2026-09-08T08:59:42Z",
+   "official_revision_date": "2020-11-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:42Z"
+}

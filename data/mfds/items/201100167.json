@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "R05CB01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100167",
+ "history_fetched_at": "2026-08-28T13:24:24Z",
  "revisions": [
   {
-   "revision_id": "201100167-28255ea0",
-   "content_sha256": "28255ea05718b5d4cb7848c4197f015ac202903ca2f7e3ae27ce5660f4ad145b",
-   "ee_text": "급·만성 기관지염, 기관지확장증, 천식양기관기지염, 기관지천식, 인·후두염, 부비강염, 낭성섬유증, 수술후 폐합병증",
+   "revision_id": "201100167-db3e331b",
+   "content_sha256": "db3e331b86cf69f7511e88eceb78576984898309d217f8b5b3e08eef18ea0415",
+   "ee_text": "1. 진하고 점도높은 가래를 수반하는 다음의 기관지 질환에서의 객담배출곤란 증상 : 급·만성 기관지염, 기관지확장증, 천식양기관기지염, 기관지천식, 인·후두염, 부비강염, 낭성섬유증, 수술후 폐합병증 2. 파라세타몰(아세트아미노펜) 중독의 해독",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-28T13:24:24Z",
-   "last_observed_at": "2026-08-28T13:24:24Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:44:23Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:24Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200209830",
+ "item_name": "윈로에스디에프주600IU(120㎍)(AntiD(Rho)면역글로불린)",
+ "entp_name": "대한적십자사",
+ "permit_date": "20020313",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279926]항디사람면역글로불린",
+ "main_item_ingr_eng": "Human Anti-D Immunoglobulin",
+ "edi_code": "655300111",
+ "atc_code": "J06BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200209830",
+ "revisions": [
+  {
+   "revision_id": "200209830-da6023ef",
+   "content_sha256": "da6023ef163fb06603f420858edf343bb5c06660a10b02f07797c3059539f6cd",
+   "ee_text": "1. 모체와 태아 또는 신생아와의 혈액형이 각각 다음과 같거나 태아 또는 신생아의 Rh인자가 확인되지 않는 경우 또는 확인할 수 없는 경우 모체의 D(Rho)항원에 대한 감작의 예방을 위한 투여 모체 태아 또는 신생아 D(Rho) 음성 D(Rho) 양성 D(Rho) 음성 Du 양성 Du 양성 D(Rho) 양성 2. 특발성 혈소판 감소 자반증의 치료 소아의 급성 또는 만성 특발성 혈소판 감소 자반증 성인의 만성 특발성 혈소판 감소 자반증 HIV 감염에 의한 성인 또는 소아의 이차적인 특발성 혈소판 감소 자반증",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:34Z",
+   "last_observed_at": "2026-09-08T08:36:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:34Z"
+}

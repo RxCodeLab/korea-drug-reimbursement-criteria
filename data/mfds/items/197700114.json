@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197700114",
+ "item_name": "다이그린정(글리피지드)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "19771019",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256618]글리피지드",
+ "main_item_ingr_eng": "Glipizide",
+ "edi_code": "642100150",
+ "atc_code": "A10BB07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197700114",
+ "revisions": [
+  {
+   "revision_id": "197700114-c0d20eb3",
+   "content_sha256": "c0d20eb34321a3373c95df7bb6cf2afd2f98d7bcd33bafa074a0343d35c40cab",
+   "ee_text": "제 2형 당뇨병(식사요법, 운동요법으로 충분한 효과를 얻을 수 없는 경우에 한함.)",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:27Z",
+   "last_observed_at": "2026-09-08T08:26:27Z",
+   "official_revision_date": "2005-07-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:27Z"
+}

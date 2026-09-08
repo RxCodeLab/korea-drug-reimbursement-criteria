@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003135",
+ "item_name": "아이돈점안액(포비돈)(수출용)(수출명: ① Eyedone ② Pure eye drop ③ H2O eye drop ④ Povieye)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20100429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051756]포비돈",
+ "main_item_ingr_eng": "Povidone",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003135",
+ "revisions": [
+  {
+   "revision_id": "201003135-cea732a8",
+   "content_sha256": "cea732a84947d45a51f9a979534eed65543c6dc3b751f059dcb075dd4dae3ede",
+   "ee_text": "건조한 눈, 하드콘택트렌즈 착용시",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:59Z",
+   "last_observed_at": "2026-09-08T08:43:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:59Z"
+}

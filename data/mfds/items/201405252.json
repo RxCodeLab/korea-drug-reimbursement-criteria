@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405252",
+ "item_name": "동광미녹시딜정5mg",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20141110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081480]미녹시딜",
+ "main_item_ingr_eng": "Minoxidil",
+ "edi_code": "",
+ "atc_code": "C02DC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405252",
+ "revisions": [
+  {
+   "revision_id": "201405252-14468ffd",
+   "content_sha256": "14468ffd0cb67f05010ef8705a6d8488a953f3f6990c28e320ab0a370b2abf18",
+   "ee_text": "1) 증후성 또는 표적기관 손상에 의한 고혈압 2) 이뇨제와 두 종류의 혈압강하제를 병용투여하는 최대용량에도 반응하지 않는 고혈압 (불응성고혈압)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201405252/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:57Z",
+   "last_observed_at": "2026-09-08T08:47:57Z"
+  },
+  {
+   "revision_id": "201405252-bd85a933",
+   "content_sha256": "bd85a9335fdd272354b9287c376a8ed53446b39693ec7960b768ca4ac3662104",
+   "ee_text": "(경구 : 정제) 1) 증후성 또는 표적기관 손상에 의한 고혈압 2) 이뇨제와 두 종류의 혈압강하제를 병용투여하는 최대용량에도 반응하지 않는 고혈압 (불응성고혈압)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:47:57Z",
+   "last_observed_at": "2026-09-08T08:47:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:57Z"
+}

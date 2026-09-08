@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900157",
+ "item_name": "페록살정(플루페남산)(수출용)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "19790830",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051841]플루페남산",
+ "main_item_ingr_eng": "Flufenamic Acid",
+ "edi_code": "",
+ "atc_code": "M01AG03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900157",
+ "revisions": [
+  {
+   "revision_id": "197900157-519ef8fa",
+   "content_sha256": "519ef8fa4e5bce360fab7d24031a9783f51abc957f788ba0dcb5c5b5f7832021",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), 척추관절염, 건초염, 외상후 염증 및 동통",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:34Z",
+   "last_observed_at": "2026-09-08T08:26:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:34Z"
+}

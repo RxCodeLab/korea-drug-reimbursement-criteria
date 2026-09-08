@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200307988",
+ "item_name": "아그라스타트주(티로피반염산염수화물)",
+ "entp_name": "(주)한독",
+ "permit_date": "20031022",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257533]티로피반염산염수화물",
+ "main_item_ingr_eng": "Tirofiban Hydrochloride Hydrate",
+ "edi_code": "652104351",
+ "atc_code": "B01AC17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307988",
+ "revisions": [
+  {
+   "revision_id": "200307988-ae2b8219",
+   "content_sha256": "ae2b8219bdb2778da8fe1a4a5abf9c26d8a05d0b3f015e65e3235a6bd4a500c2",
+   "ee_text": "다음 환자에서 헤파린과 병용투여 - 급성 관증후군 치료시 대상 환자 - 경피적관상동맥확장성형술(PTCA) 또는 죽상반절제술 시술 등의 환자 이 약은 사망, 심근경색의 발생, 또는 치료불응성허혈/ 재심장시술의 통합결과변수(combined endpoint) 발생률을 감소시키는 것으로 나타났다.",
+   "ee_doc_id": "27",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:22Z",
+   "last_observed_at": "2026-09-08T08:37:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:22Z"
+}

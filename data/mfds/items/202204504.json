@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204504",
+ "item_name": "타프리아정(테노포비르알라페나미드시트르산염)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20221215",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281995]테노포비르알라페나미드시트르산염",
+ "main_item_ingr_eng": "Tenofovir Alafenamide Citrate",
+ "edi_code": "642507680",
+ "atc_code": "J05AF13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204504",
+ "revisions": [
+  {
+   "revision_id": "202204504-5cf20eac",
+   "content_sha256": "5cf20eac2a798a7e3c7d0731b3170dbe87adfa96260de02901a37e854bb49900",
+   "ee_text": "성인의 만성 B형 간염 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:44Z",
+   "last_observed_at": "2026-09-08T09:01:44Z",
+   "official_revision_date": "2022-12-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:44Z"
+}

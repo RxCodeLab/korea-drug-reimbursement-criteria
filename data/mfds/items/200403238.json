@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403238",
+ "item_name": "메디콕스캡슐(멜록시캄)(수출명:마이멜록캡슐(MYMELOXECapsule))",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20040507",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086439]멜록시캄",
+ "main_item_ingr_eng": "Meloxicam",
+ "edi_code": "649800680",
+ "atc_code": "M01AC06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403238",
+ "revisions": [
+  {
+   "revision_id": "200403238-6a8e0cb4",
+   "content_sha256": "6a8e0cb4b9f17d12a7495fb2260f8880aaa24f88e177e2eb6d8a16aa461df634",
+   "ee_text": "1. 통증과 운동실조를 수반하는 골관절염(퇴행관절염)의 급성악화시 단기간의 증상치료 2. 류마티스관절염의 증상치료 3. 강직척추염의 증상치료",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:17Z",
+   "last_observed_at": "2026-09-08T08:38:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:17Z"
+}

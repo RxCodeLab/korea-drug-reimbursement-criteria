@@ -7,11 +7,12 @@
  "permit_date": "20000811",
  "cancel_date": "20250401",
  "status": "유효기간만료",
- "main_item_ingr": "[M040006]감초|[M095529]괄루근|[M040535]지모|[M040793]황백|[M040550]천궁|[M040070]당귀|[M051364]숙지황|[M040523]작약|[M051932]현삼",
+ "main_item_ingr": "[M040006]감초|[M040070]당귀|[M040523]작약|[M040535]지모|[M040550]천궁|[M040793]황백|[M051364]숙지황|[M051932]현삼|[M095529]괄루근",
  "main_item_ingr_eng": "Anemarrhena Rhizome/Angelica Gigas Root/Cnidium Rhizome/Licorice/Peony Root/Phellodendron Bark/Prepared Rehmannia Root/Scrophularia Root/Trichosanthes Root",
  "edi_code": "",
  "atc_code": "R02A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002200",
+ "history_fetched_at": "2026-08-28T13:23:54Z",
  "revisions": [
   {
    "revision_id": "200002200-c13a8521",
@@ -19,9 +20,9 @@
    "ee_text": "인후통, 인후염",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:23:54Z",
-   "last_observed_at": "2026-08-28T13:23:54Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:33:53Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:54Z"
+ ]
 }

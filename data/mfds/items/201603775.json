@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603775",
+ "item_name": "알러엔연질캡슐(세티리진염산염)",
+ "entp_name": "한국프라임제약(주)",
+ "permit_date": "20160622",
+ "cancel_date": "20240202",
+ "status": "취하",
+ "main_item_ingr": "[M222857]세티리진염산염",
+ "main_item_ingr_eng": "Cetirizine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AE07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603775",
+ "revisions": [
+  {
+   "revision_id": "201603775-08bf0e2d",
+   "content_sha256": "08bf0e2daf3a511a04001e20d84c094e6f6e0bffaeba275c3ecb71f2be075e4c",
+   "ee_text": "계절성 및 다년성 알레르기성 비염(코염), 알레르기성 결막염, 만성 특발성(원인불명의) 두드러기, 피부 소양증(가려움증)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:53Z",
+   "last_observed_at": "2026-09-08T08:50:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:53Z"
+}

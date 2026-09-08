@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201001737",
+ "item_name": "티자리드정1밀리그람(티자니딘염산염)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20100226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M248019]티자니딘염산염",
+ "main_item_ingr_eng": "Tizanidine Hydrochloride",
+ "edi_code": "641804800",
+ "atc_code": "M03BX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001737",
+ "revisions": [
+  {
+   "revision_id": "201001737-b8f871af",
+   "content_sha256": "b8f871af88aa9ed5f186a0dcfe9f102cac8ed6ae91dd58d33a91edd14d11d824",
+   "ee_text": "1. 근골격계 질환에 수반하는 근육연축 : 경견완증후군, 요통, 추간판헤르니아 2. 신경계 질환에 의한 경직성 마비 : 뇌혈관장애, 경직성 척수마비, 경부척추증, 뇌성마비, 외상후유증(척수손상, 두부외상), 척수소뇌변성증, 다발성 경화증, 근위축성 축색 경화증",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:51Z",
+   "last_observed_at": "2026-09-08T08:43:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:51Z"
+}

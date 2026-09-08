@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402920",
+ "item_name": "렐바100엘립타",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20140701",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259812]플루티카손푸로에이트(미분화)|[M259813]빌란테롤트리페나테이트(미분화)",
+ "main_item_ingr_eng": "Fluticasone Furoate Micronized/Vilanterol Trifenatate Micronized",
+ "edi_code": "650002940",
+ "atc_code": "R03AK10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402920",
+ "revisions": [
+  {
+   "revision_id": "201402920-1ab4ebf0",
+   "content_sha256": "1ab4ebf069bb6723075105f0c88017a09e8b400d8c73ec66f5797ad33269d79f",
+   "ee_text": "1. 지속성 베타2-효능약과 흡입용 코르티코스테로이드의 병용투여가 적절하다고 판단된 12세 이상 청소년 및 성인의 정기적인 천식 치료 2. 정기적인 기관지 확장제 치료에도 불구하고 악화된 이력이 있는 성인에서 예측 정상(기관지 확장제 사용 후) FEV1 수치가 70% 미만인 만성폐쇄성폐질환 환자의 증상 치료",
+   "ee_doc_id": "28",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:14Z",
+   "last_observed_at": "2026-09-08T08:47:14Z",
+   "official_revision_date": "2022-02-18"
+  },
+  {
+   "revision_id": "201402920-534f59e1",
+   "content_sha256": "534f59e1e94eaa89917049e9ccfe6ea4d3ae6d7c319c71239c340c144e22ae09",
+   "ee_text": "1. 흡입용 코르티코스테로이드로 적절히 조절되지 않고 필요시 속효성 베타2-효능약을 사용하는 환자에서 지속성 베타2-효능약과 흡입용 코르티코스테로이드의 병용투여가 적절하다고 판단된 12세 이상 소아 및 성인의 정기적인 천식 치료 2. 정기적인 기관지 확장제 치료에도 불구하고 악화된 이력이 있는 성인에서 예측 정상(기관지 확장제 사용 후) FEV1 수치가 70% 미만인 만성폐쇄성폐질환 환자의 증상 치료",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:47:14Z",
+   "last_observed_at": "2026-09-08T08:47:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:14Z"
+}

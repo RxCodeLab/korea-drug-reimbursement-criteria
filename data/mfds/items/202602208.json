@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602208",
+ "item_name": "자파텍정100밀리그램(트렐라그립틴숙신산염)(수출용)",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20260730",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286479]트렐라그립틴숙신산염",
+ "main_item_ingr_eng": "Trelagliptin Succinate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602208",
+ "revisions": [
+  {
+   "revision_id": "202602208-aece082d",
+   "content_sha256": "aece082d9f36200a5d4f4b2da236c4a9bf705911319cc005a35c300ec2711d58",
+   "ee_text": "이 약은 성인 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:35Z",
+   "last_observed_at": "2026-09-08T09:05:35Z",
+   "official_revision_date": "2026-07-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:35Z"
+}

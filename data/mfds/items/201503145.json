@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503145",
+ "item_name": "실도신캡슐4밀리그램(실로도신)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20150526",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M230909]실로도신",
+ "main_item_ingr_eng": "Silodosin",
+ "edi_code": "643507220",
+ "atc_code": "G04CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503145",
+ "revisions": [
+  {
+   "revision_id": "201503145-515cdeac",
+   "content_sha256": "515cdeacd0ccbec89d227e83a129af66baaff97e4c2acfae4a467955ac27d9d9",
+   "ee_text": "전립선 비대증에 수반하는 배뇨장애",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:05Z",
+   "last_observed_at": "2026-09-08T08:49:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:05Z"
+}

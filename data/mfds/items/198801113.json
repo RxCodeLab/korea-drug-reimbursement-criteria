@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198801113",
+ "item_name": "푸로시놀주사",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19881107",
+ "cancel_date": "20251001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M256211]플로로글루시놀수화물|[M263347]트리메틸플로로글루시놀",
+ "main_item_ingr_eng": "Phloroglucinol Hydrate/Trimethylphloroglucinol",
+ "edi_code": "",
+ "atc_code": "A03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198801113",
+ "revisions": [
+  {
+   "revision_id": "198801113-3870d1b2",
+   "content_sha256": "3870d1b2fbc19e0bd75545ff463b524c16e3f26a57d036e179692015a705f0ec",
+   "ee_text": "- 비뇨기계의 경련 및 통증 : 신염성 산통 - 소화관 및 담도계의 기능장애에 의한 통증 - 부인과의 경련성 통증",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:37Z",
+   "last_observed_at": "2026-09-08T08:27:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:37Z"
+}

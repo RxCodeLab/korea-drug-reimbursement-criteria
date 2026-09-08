@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200404238",
+ "item_name": "메타플러스첩부제(인도메타신)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20040406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040508]인도메타신|[M040508]인도메타신",
+ "main_item_ingr_eng": "Indometacin",
+ "edi_code": "",
+ "atc_code": "M02AA23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404238",
+ "revisions": [
+  {
+   "revision_id": "200404238-9e7ed9ca",
+   "content_sha256": "9e7ed9ca308f3d2bdae8ee715833a40d371550972f43c6514fb0db26eb303093",
+   "ee_text": "1. 다음 질환 및 증상의 진통ㆍ소염 1) 퇴행성관절염(골관절염) 2) 어깨관절주위염 3) 건(힘줄)ㆍ건초염(힘줄윤활막염) 4) 건(힘줄)주위염 5) 상완골(위팔뼈)상과염(테니스 엘보우 등) 6) 근육통 7) 외상후의 종창(부기)ㆍ동통(통증)",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:30Z",
+   "last_observed_at": "2026-09-08T08:38:30Z",
+   "official_revision_date": "2026-03-04"
+  },
+  {
+   "revision_id": "200404238-04d162c3",
+   "content_sha256": "04d162c322f3561a135f80bf17adbdecebb9f7c6fded2b83c4557bd42b84f644",
+   "ee_text": "1. 다음 질환 및 증상의 진통ㆍ소염 1) 퇴행성관절염(골관절염) 2) 어깨관절주위염 3) 건ㆍ건초염 4) 건주위염 5) 상완골상과염(테니스 엘보우 등) 6) 근육통 7) 외상후의 종창ㆍ동통",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:38:30Z",
+   "last_observed_at": "2026-09-08T08:38:30Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:30Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106540",
+ "item_name": "토브라신주80밀리그램(토브라마이신)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20210914",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020144]토브라마이신",
+ "main_item_ingr_eng": "Tobramycin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106540",
+ "revisions": [
+  {
+   "revision_id": "202106540-9d0e75dd",
+   "content_sha256": "9d0e75dd9b2119ecf403715add642c1fd3db3ab696bb0af31082e36a07519a27",
+   "ee_text": "1. 유효균종 녹농균, 프로테우스, 대장균, 클레브시엘라, 엔테로박터, 세라티아, 시트로박터, 프로비덴시아, 포도구균(황색포도구균) 2. 적응증 1) 수막염 등 중추신경계 감염증 2) 기관지염, 기관지확장증(감염 시), 폐렴 3) 복막염 등 위장관 감염증 4) 피하농양, 종기, 연조직염, 5) 화상, 수술 후 창상감염, 골감염증 6) 패혈증 7) 신우신염, 방광염(중증혼합 및 재발에 의한 감염증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:35Z",
+   "last_observed_at": "2026-09-08T09:00:35Z",
+   "official_revision_date": "2021-09-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:35Z"
+}

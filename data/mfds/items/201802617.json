@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802617",
+ "item_name": "모가프텐트로키(플루르비프로펜)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20180622",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "R02AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802617",
+ "revisions": [
+  {
+   "revision_id": "201802617-b2b293cb",
+   "content_sha256": "b2b293cb57d45036e2eed854c0fdff9ff52220f24856b8dcfdf4e2137e78d0e0",
+   "ee_text": "인후(목구멍)염의 단기 증상 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:18Z",
+   "last_observed_at": "2026-09-08T08:53:18Z",
+   "official_revision_date": "2018-06-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:18Z"
+}

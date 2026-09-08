@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701111",
+ "item_name": "놀텍정10밀리그램(일라프라졸)(수출용)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20170228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245218]일라프라졸|[M245218]일라프라졸",
+ "main_item_ingr_eng": "Ilaprazole",
+ "edi_code": "",
+ "atc_code": "A02BC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701111",
+ "revisions": [
+  {
+   "revision_id": "201701111-361330fa",
+   "content_sha256": "361330fad2659a6b880713dba41c546b309181e2b3fbfccf7f7d41fd2d872474",
+   "ee_text": "1. 십이지장궤양의 단기치료 2. 위궤양의 단기치료 3. 미란성식도염의 단기치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:36Z",
+   "last_observed_at": "2026-09-08T08:51:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:36Z"
+}

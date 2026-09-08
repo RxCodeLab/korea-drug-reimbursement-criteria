@@ -1,0 +1,58 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404385",
+ "item_name": "라핀나캡슐75밀리그램(다브라페닙메실산염)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20140925",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260368]다브라페닙메실산염(미분화)",
+ "main_item_ingr_eng": "Dabrafenib Mesylate Micronized",
+ "edi_code": "653602660",
+ "atc_code": "L01EC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404385",
+ "revisions": [
+  {
+   "revision_id": "201404385-9dd4f689",
+   "content_sha256": "9dd4f689acc69d157532d884e313177eec67eeb5cb3b3ba071f831b22397604e",
+   "ee_text": "1. 수술이 불가능하거나 전이성인 흑색종 - BRAF V600E 또는 V600K 변이가 확인된 수술이 불가능하거나 전이성인 흑색종 환자의 치료에서 트라메티닙과 병용투여 - BRAF V600E 변이가 확인된 수술이 불가능하거나 전이성인 흑색종 환자의 치료에 단독투여 2. 흑색종의 보조요법 BRAF V600E 또는 V600K 변이가 확인된 III기 흑색종 환자의 완전 절제 수술 후 보조요법에서 트라메티닙과 병용투여 3. 전이성 비소세포폐암 - BRAF V600E 변이가 확인된 전이성 비소세포폐암 환자의 치료에서 트라메티닙과 병용투여 4. 수술이 불가능하거나 전이성인 고형암 BRAF V600E 변이가 확인된, 수술이 불가능하거나 전이성인, 기존 치료제 이후 진행되었고 현재 이용 가능한 적합한 치료제가 없는, 6세 이상 소아 및 성인 고형암(결장직장암 제외) 환자의 치료에서 트라메티닙과 병용 투여",
+   "ee_doc_id": "34",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:42Z",
+   "last_observed_at": "2026-09-08T08:47:42Z",
+   "official_revision_date": "2023-11-15"
+  },
+  {
+   "revision_id": "201404385-b1cc96dd",
+   "content_sha256": "b1cc96dddae3ec3e4beb22e3fbf50a4f921ebc5b1cb2f81343f3bc08dd719229",
+   "ee_text": "1. 수술이 불가능하거나 전이성인 흑색종 - BRAF V600E 또는 V600K 변이가 확인된 수술이 불가능하거나 전이성인 흑색종 환자의 치료에서 트라메티닙과 병용투여 - BRAF V600E 변이가 확인된 수술이 불가능하거나 전이성인 흑색종 환자의 치료에 단독투여 2. 흑색종의 보조요법 BRAF V600E 또는 V600K 변이가 확인된 III기 흑색종 환자의 완전 절제 수술 후 보조요법에서 트라메티닙과 병용투여 3. 전이성 비소세포폐암 - BRAF V600E 변이가 확인된 전이성 비소세포폐암 환자의 치료에서 트라메티닙과 병용투여",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-05-14",
+   "first_observed_at": "2026-09-08T08:47:42Z",
+   "last_observed_at": "2026-09-08T08:47:42Z"
+  },
+  {
+   "revision_id": "201404385-dc22a498",
+   "content_sha256": "dc22a498411f556a84a3dab1d7f15e5c79d4ee3e7ac871474162ec61a1d01b97",
+   "ee_text": "1. 수술이 불가능하거나 전이성인 흑색종 - BRAF V600E 또는 V600K 변이가 확인된 수술이 불가능하거나 전이성인 흑색종 환자의 치료에서 트라메티닙과 병용투여 - BRAF V600E 변이가 확인된 수술이 불가능하거나 전이성인 흑색종 환자의 치료에 단독투여 2. 전이성 비소세포폐암 - BRAF V600E 변이가 확인된 전이성 비소세포폐암 환자의 치료에서 트라메티닙과 병용투여",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-03-12",
+   "first_observed_at": "2026-09-08T08:47:42Z",
+   "last_observed_at": "2026-09-08T08:47:42Z"
+  },
+  {
+   "revision_id": "201404385-6d7ec32f",
+   "content_sha256": "6d7ec32fd504b5a7651fb7858e019cfd4380c3f665faee372e15c536500d6f1b",
+   "ee_text": "BRAFV600E 변이가 확인된 수술이 불가능하거나 전이성인 흑색종 환자의 치료",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:47:42Z",
+   "last_observed_at": "2026-09-08T08:47:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:42Z"
+}

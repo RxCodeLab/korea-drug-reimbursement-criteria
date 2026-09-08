@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602546",
+ "item_name": "비오메틱스산(바실루스리케니포르미스균)",
+ "entp_name": "구주제약(주)",
+ "permit_date": "20160509",
+ "cancel_date": "20260509",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균",
+ "main_item_ingr_eng": "Bacillus Licheniformis",
+ "edi_code": "",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602546",
+ "revisions": [
+  {
+   "revision_id": "201602546-460499c5",
+   "content_sha256": "460499c5d0f05ad1e5bdc9856a9856cda5de2193d33dba2ecea70923bcf5544d",
+   "ee_text": "급ㆍ만성 장염, 급ㆍ만성 설사, 급성 이질, 각종 원인에 기인한 장내 이상발효",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:34Z",
+   "last_observed_at": "2026-09-08T08:50:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:34Z"
+}

@@ -12,15 +12,17 @@
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706491",
+ "history_fetched_at": "2026-08-28T13:24:57Z",
  "revisions": [
   {
-   "revision_id": "201706491-e25a6448",
-   "content_sha256": "e25a64489d9034375d7b805cfaf0f5fef97f9ccb388e72f512bad559a3a746ad",
-   "ee_text": "- 기관지염, 폐렴, 인두염, 후두염, 기관지천식, 기타 호흡기 질환에 동반되는 기침의 진정 - 통증의 완화 - 아세트아미노펜이나 이부프로펜과 같은 다른 진통제로 경감되지 않은 염증에 의한 급성 중등도 통증의 치료",
+   "revision_id": "201706491-3ebd1cc4",
+   "content_sha256": "3ebd1cc49a79b8f3b8e5460248d0fba0392a8e3ca5a836896900bd79036dd7c0",
+   "ee_text": "1. 19세 이상 성인 - 기관지염, 폐렴, 인두염, 후두염, 기관지천식, 기타 호흡기 질환에 동반되는 기침의 진정 - 통증의 완화 2. 13세 이상~18세 이하의 소아 - 아세트아미노펜이나 이부프로펜과 같은 다른 진통제로 경감되지 않은 염증에 의한 급성 중등도 통증의 치료",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:24:57Z",
-   "last_observed_at": "2026-08-28T13:24:57Z",
-   "official_revision_date": "2021-12-09"
+   "last_observed_at": "2026-09-08T08:52:12Z",
+   "official_revision_date": "2021-12-09",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201706491-32b54699",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:57Z",
    "last_observed_at": "2026-08-28T13:24:57Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:57Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002303",
+ "item_name": "한신평위산엑스과립",
+ "entp_name": "(주)한국신약",
+ "permit_date": "20000114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088641]평위산연조엑스",
+ "main_item_ingr_eng": "Pyeongwisan Soft Extract",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002303",
+ "revisions": [
+  {
+   "revision_id": "200002303-5639eeb4",
+   "content_sha256": "5639eeb4abf2f0e08d2a7a65d469dfc1f306138daf05c950664466fa2e2c55fa",
+   "ee_text": "식체(위체), 소화불량의 경향이 있는 다음 증상 : 급·만성위카타르, 위무력, 소화불량, 식욕감퇴(식욕부진)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:55Z",
+   "last_observed_at": "2026-09-08T08:33:55Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:55Z"
+}

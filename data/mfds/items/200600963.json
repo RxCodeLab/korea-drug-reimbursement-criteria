@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600963",
+ "item_name": "대한적십자사대전세종충남혈액원백혈구여과제거적혈구(백혈구여과제거적혈구)",
+ "entp_name": "대한적십자사 대전·세종·충남혈액원",
+ "permit_date": "20060127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M112911]백혈구여과제거적혈구",
+ "main_item_ingr_eng": "RBC (WBC Removed by Filtration)",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600963",
+ "revisions": [
+  {
+   "revision_id": "200600963-abc5b194",
+   "content_sha256": "abc5b194fd7a31df532669d0a1d3e3543a251b33027c2f667a9c3814ec06c455",
+   "ee_text": "산소운반능과 적혈구의 보충이 요구되는 정상혈액량을 가진 빈혈환자의 치료에 사용한다. 특히 수혈로 인한 발열성 비용혈성 수혈반응의 예방, HLA 동종면역의 예방, 백혈구 내에 존재하는 거대세포바이러스 감염 전파의 예방을 위해 사용한다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:03Z",
+   "last_observed_at": "2026-09-08T08:40:03Z",
+   "official_revision_date": "2020-08-21"
+  },
+  {
+   "revision_id": "200600963-20922164",
+   "content_sha256": "20922164be908d5030d34179ecac0e17f2625a7b90463ee480164019f5101158",
+   "ee_text": "발열성 수혈부작용을 일으키는 환자에게는 반드시 백혈구제거사람적혈구액을 수혈해야 한다. 또한 각종 장기이식 후에 심각한 문제가 되는 거대세포바이러스 감염예방에 사용된다.",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:40:03Z",
+   "last_observed_at": "2026-09-08T08:40:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:03Z"
+}

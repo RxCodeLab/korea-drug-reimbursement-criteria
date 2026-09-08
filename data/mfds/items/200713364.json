@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200713364",
+ "item_name": "유비트정100밀리그람",
+ "entp_name": "한국오츠카제약(주)",
+ "permit_date": "20071214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M103798]요소(¹³C)",
+ "main_item_ingr_eng": "Urea (13C)",
+ "edi_code": "649900380",
+ "atc_code": "V04CX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713364",
+ "revisions": [
+  {
+   "revision_id": "200713364-6a7fe18d",
+   "content_sha256": "6a7fe18de1f3f4b0b8312440ca67d89aab1f890dc9f1f372e0fcf44b1ef31603",
+   "ee_text": "헬리코박터 파이로리의 감염진단.",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:06Z",
+   "last_observed_at": "2026-09-08T08:42:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:06Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204315",
+ "item_name": "빅시오스리포좀주",
+ "entp_name": "(주)한독",
+ "permit_date": "20221130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040334]시타라빈|[M222833]다우노루비신염산염",
+ "main_item_ingr_eng": "Cytarabine/Daunorubicin Hydrochloride",
+ "edi_code": "652105851",
+ "atc_code": "L01XY01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204315",
+ "revisions": [
+  {
+   "revision_id": "202204315-ccc362ef",
+   "content_sha256": "ccc362ef58a5a5628a415e08c7f9de70284228adc83c86477d9e889746653373",
+   "ee_text": "1) 성인에서의 새로 진단받은 치료 관련 급성 골수성 백혈병(t-AML)의 치료 2) 성인에서의 새로 진단받은 골수이형성증 관련 변화를 동반하는 급성 골수성 백혈병(AML-MRC)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:43Z",
+   "last_observed_at": "2026-09-08T09:01:43Z",
+   "official_revision_date": "2022-11-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:43Z"
+}

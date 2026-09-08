@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501080",
+ "item_name": "에카트정500밀리그램(에카베트나트륨수화물)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20150302",
+ "cancel_date": "20250302",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M257807]에카베트나트륨수화물",
+ "main_item_ingr_eng": "Ecabet Sodium Hydrate",
+ "edi_code": "",
+ "atc_code": "A02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501080",
+ "revisions": [
+  {
+   "revision_id": "201501080-7bb6a880",
+   "content_sha256": "7bb6a880294f533157cd0c30d6be4279dec0ea54c206ff8cb0897a3fe1ab2aa4",
+   "ee_text": "1) 위궤양 2) 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성 위염, 만성 위염의 급성악화기",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:34Z",
+   "last_observed_at": "2026-09-08T08:48:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:34Z"
+}

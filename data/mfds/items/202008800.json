@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008800",
+ "item_name": "타우리닌액",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20201215",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M102908]타우린|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223183]카페인무수물|[M223262]티아민질산염",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Taurine/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008800",
+ "revisions": [
+  {
+   "revision_id": "202008800-7695361e",
+   "content_sha256": "7695361e07e5affd43d695c41b500dbf91f6adaf70e69282a1762884aea43f57",
+   "ee_text": "자양강장, 허약체질, 육체피로, 병중병후, 식욕부진, 영양장애, 발열성소모성질환, 산전산후 등의 영양공급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:45Z",
+   "last_observed_at": "2026-09-08T08:59:45Z",
+   "official_revision_date": "2020-12-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:45Z"
+}

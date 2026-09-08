@@ -7,19 +7,21 @@
  "permit_date": "19971024",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040702]포도당|[M227966]아세트산나트륨수화물|[M251286]염화마그네슘수화물|[M217500]염화칼슘수화물|[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040702]포도당|[M217500]염화칼슘수화물|[M227966]아세트산나트륨수화물|[M251286]염화마그네슘수화물",
  "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose/Magnesium Chloride Hydrate/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride",
  "edi_code": "644904510,644913110",
  "atc_code": "B05ZA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700397",
+ "history_fetched_at": "2026-08-28T13:23:48Z",
  "revisions": [
   {
-   "revision_id": "199700397-69eac9aa",
-   "content_sha256": "69eac9aaa773ad89e9bffce4baefc99a23cdf78b5bf7cbfca8e0418ab76c2e83",
-   "ee_text": "1. 당이 포함되어 있지 않는 투석액으로는 혈당치 관리가 곤란한 환자 2. 다른 탄산수소형 투석액으로는 고칼륨혈증, 고마그네슘혈증의 개선이 불충분한 경우 또는 고칼슘혈증을 일으킬 수 있는 경우",
+   "revision_id": "199700397-c236cb4d",
+   "content_sha256": "c236cb4deaff55bb62635d616a3fc7beb7e5ad714b771744d9fad516c77f93c6",
+   "ee_text": "만성신부전 환자에 사용되는 인공신장투석의 관류액으로서 다음과 같은 경우에 사용한다. 1. 당이 포함되어 있지 않는 투석액으로는 혈당치 관리가 곤란한 환자 2. 다른 탄산수소형 투석액으로는 고칼륨혈증, 고마그네슘혈증의 개선이 불충분한 경우 또는 고칼슘혈증을 일으킬 수 있는 경우",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199700397/EE",
    "first_observed_at": "2026-08-28T13:23:48Z",
-   "last_observed_at": "2026-08-28T13:23:48Z"
+   "last_observed_at": "2026-09-08T08:30:41Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "199700397-e3b0c442",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:48Z",
    "last_observed_at": "2026-08-28T13:23:48Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:48Z"
+ ]
 }

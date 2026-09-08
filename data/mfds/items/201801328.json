@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801328",
+ "item_name": "모사그린정(모사프리드시트르산염수화물)",
+ "entp_name": "(주)시어스제약",
+ "permit_date": "20180327",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253090]모사프리드시트르산염수화물",
+ "main_item_ingr_eng": "Mosapride Citrate Dihydrate",
+ "edi_code": "689000340",
+ "atc_code": "A03FA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801328",
+ "revisions": [
+  {
+   "revision_id": "201801328-b661e551",
+   "content_sha256": "b661e551713d8e193e2941357ad01e06613589a3eeda3f5dba6524e574001e02",
+   "ee_text": "기능성소화불량으로 인한 소화기증상 (속쓰림, 구역, 구토)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:58Z",
+   "last_observed_at": "2026-09-08T08:52:58Z",
+   "official_revision_date": "2018-03-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:58Z"
+}

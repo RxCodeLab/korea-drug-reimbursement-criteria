@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000058",
+ "item_name": "베아파모정20밀리그램(파모티딘)",
+ "entp_name": "대웅바이오(주)",
+ "permit_date": "20200103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081653]파모티딘",
+ "main_item_ingr_eng": "Famotidine",
+ "edi_code": "694002800",
+ "atc_code": "A02BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000058",
+ "revisions": [
+  {
+   "revision_id": "202000058-2626d7b2",
+   "content_sha256": "2626d7b2740ba683fffa91e410836711439f1f64fd99635415bf830f074158cc",
+   "ee_text": "1. 주효능 효과 위.십이지장궤양, 문합부궤양, 상부소화관출혈(소화성궤양, 급성스트레스궤양, 출혈성위염에 의한), 역류성식도염, 졸링거-엘리슨증후군, 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염,만성위염의 급성악화기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:25Z",
+   "last_observed_at": "2026-09-08T08:57:25Z",
+   "official_revision_date": "2020-01-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:25Z"
+}

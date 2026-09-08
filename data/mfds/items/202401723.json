@@ -7,11 +7,12 @@
  "permit_date": "20240712",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040523]작약|[M040006]감초",
+ "main_item_ingr": "[M040006]감초|[M040523]작약",
  "main_item_ingr_eng": "Licorice/Peony Root",
  "edi_code": "",
  "atc_code": "M03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401723",
+ "history_fetched_at": "2026-08-28T13:25:36Z",
  "revisions": [
   {
    "revision_id": "202401723-dfa8214f",
@@ -19,9 +20,9 @@
    "ee_text": "급격히 일어나는 근육의 경련을 수반하는 통증",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:36Z",
-   "last_observed_at": "2026-08-28T13:25:36Z",
-   "official_revision_date": "2024-07-12"
+   "last_observed_at": "2026-09-08T09:03:10Z",
+   "official_revision_date": "2024-07-12",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:36Z"
+ ]
 }

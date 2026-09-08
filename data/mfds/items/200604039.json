@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200604039",
+ "item_name": "황한당센나분포",
+ "entp_name": "(주)선일양행",
+ "permit_date": "20060421",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040297]센나",
+ "main_item_ingr_eng": "Senna",
+ "edi_code": "",
+ "atc_code": "A06AB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604039",
+ "revisions": [
+  {
+   "revision_id": "200604039-058b0020",
+   "content_sha256": "058b00201bbdcf0cf0184b229cee16c684f1153e65b4f1493c25889811308050",
+   "ee_text": "변비 변비에 수반하는 다음 증상의 완화 : 두중(머리무거움), 현기증, 식욕부진(식욕감퇴), 복부팽만, 장내이상발효",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:20Z",
+   "last_observed_at": "2026-09-08T08:40:20Z",
+   "official_revision_date": "2021-05-20"
+  },
+  {
+   "revision_id": "200604039-571a28d1",
+   "content_sha256": "571a28d1b4528ceb196558d29bbfbfec14c099f110a9e4417172314d5a72bed6",
+   "ee_text": "변비 변비에 수반하는 다음 증상의 완화 : 두중(머리무거움), 현기증, 구토, 식욕부진(식욕감퇴), 복부팽만, 장내이상발효",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:40:20Z",
+   "last_observed_at": "2026-09-08T08:40:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:20Z"
+}

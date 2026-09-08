@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201002529",
+ "item_name": "노바콜패드(흡수성콜라겐헤모스탯)",
+ "entp_name": "(주)메이븐스",
+ "permit_date": "20100406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249784]흡수성콜라겐헤모스탯",
+ "main_item_ingr_eng": "Absorbable Collagen Hemostat",
+ "edi_code": "697200130",
+ "atc_code": "B02BC07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002529",
+ "revisions": [
+  {
+   "revision_id": "201002529-effa73c2",
+   "content_sha256": "effa73c2612ea0c9d685ab701fe1d72faa191227dec594e1529b6985f6acceaa",
+   "ee_text": "수술(안과적 수술 및 비뇨기계 수술은 제외) 시 결찰(ligation)이나 통상적 방법으로 지혈하는 것이 불가능하거나 지혈되지 않을 때, 지혈 보조요법",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:56Z",
+   "last_observed_at": "2026-09-08T08:43:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:56Z"
+}

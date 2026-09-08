@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199803128",
+ "item_name": "프로이머정(프로싸이클리딘염산염)",
+ "entp_name": "초당약품공업(주)",
+ "permit_date": "19980218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251683]프로싸이클리딘염산염",
+ "main_item_ingr_eng": "Procyclidine Hydrochloride",
+ "edi_code": "670701220",
+ "atc_code": "N04AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803128",
+ "revisions": [
+  {
+   "revision_id": "199803128-ce41303a",
+   "content_sha256": "ce41303ac2c80675d108a165232f796280a266002365cd96ebf65666e9e01570",
+   "ee_text": "1. 뇌염후·동맥경화성·특발성 파킨슨병 : 진전, 강직, 피로, 무력증, 나태 등 2. 항정신병약(페노티아진, 레세르핀 등)으로 인한 추체외로증상 : 근긴장이상, 운동이상, 정좌불능 등",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:11Z",
+   "last_observed_at": "2026-09-08T08:32:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:11Z"
+}

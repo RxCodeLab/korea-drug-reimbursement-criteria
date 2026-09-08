@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104943",
+ "item_name": "엠지에버액",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "20210629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M081871]글리세로인산마그네슘|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M243785]산화아연",
+ "main_item_ingr_eng": "Magnesium Glycerophosphate/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11JB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104943",
+ "revisions": [
+  {
+   "revision_id": "202104943-c042e1eb",
+   "content_sha256": "c042e1ebd36cb8422382bb4fe406d89451a38b579b0857979ed62ab4419ac007",
+   "ee_text": "○ 다음경우의 비타민 B2, B6의 보급 - 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. ∙ 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 ○ 아연의 보급 ○ 마그네슘결핍으로 인한 근육경련",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:18Z",
+   "last_observed_at": "2026-09-08T09:00:18Z",
+   "official_revision_date": "2021-06-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:18Z"
+}

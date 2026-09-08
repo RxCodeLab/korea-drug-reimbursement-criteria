@@ -12,15 +12,17 @@
  "edi_code": "073400390",
  "atc_code": "C08CA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811406",
+ "history_fetched_at": "2026-08-28T13:24:20Z",
  "revisions": [
   {
-   "revision_id": "200811406-e8bcf5e0",
-   "content_sha256": "e8bcf5e036283295eae8840ac304eb654b573fc0a3097af018b3ae7eb683f21a",
-   "ee_text": "혈관수축(이형협심증)에 의한 심근성허혈증 40% 미만이 아닌 환자의 -협심증으로 인한 입원의 위험성 감소 -관상동맥 혈관재생술에 대한 위험성 감소",
+   "revision_id": "200811406-e13eeb23",
+   "content_sha256": "e13eeb238d4393b0b37d869a5f6304e28b2b7d173489e53b4917e1107972ffc2",
+   "ee_text": "1. 고혈압, 관상동맥의 고정폐쇄(안정형협심증) 또는 관상혈관계의 혈관경련과 혈관수축(이형협심증)에 의한 심근성허혈증 2. 최근 혈관조영술로 관상동맥심질환이 확인된 환자로 심부전이 없거나 심박출량이 40% 미만이 아닌 환자의 -협심증으로 인한 입원의 위험성 감소 -관상동맥 혈관재생술에 대한 위험성 감소",
    "ee_doc_id": "35",
    "first_observed_at": "2026-08-28T13:24:20Z",
-   "last_observed_at": "2026-08-28T13:24:20Z",
-   "official_revision_date": "2019-09-05"
+   "last_observed_at": "2026-09-08T08:42:57Z",
+   "official_revision_date": "2019-09-05",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200811406-54a7b479",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:20Z",
    "last_observed_at": "2026-08-28T13:24:20Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:20Z"
+ ]
 }

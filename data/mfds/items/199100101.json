@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199100101",
+ "item_name": "한풍향사육군자탕엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19911217",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M247139]향사육군자탕연조엑스(9.34→1)",
+ "main_item_ingr_eng": "",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100101",
+ "revisions": [
+  {
+   "revision_id": "199100101-938badf8",
+   "content_sha256": "938badf88966093391c675d08fb1a3b504dfef366db28f3afcec187432df3b9b",
+   "ee_text": "소화기능이 약해서 음식생각이 없고, 먹어도 소화되지 않고, 식후에 다시 배부른 증상",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:07Z",
+   "last_observed_at": "2026-09-08T08:28:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:07Z"
+}

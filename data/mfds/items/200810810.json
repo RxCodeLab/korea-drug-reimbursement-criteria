@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "D08AJ",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810810",
+ "history_fetched_at": "2026-08-28T13:24:20Z",
  "revisions": [
   {
    "revision_id": "200810810-8712e1a9",
@@ -19,9 +20,9 @@
    "ee_text": "베인 상처, 긁힌 상처, 찔린 상처, 긁어서 생긴 상처, 쓸린 상처, 창상(상처)면의 살균 · 소독",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:24:20Z",
-   "last_observed_at": "2026-08-28T13:24:20Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:42:55Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:20Z"
+ ]
 }

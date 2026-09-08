@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200704772",
+ "item_name": "키산본에스주사액(오자그렐나트륨)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20070424",
+ "cancel_date": "20241001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M088527]오자그렐나트륨",
+ "main_item_ingr_eng": "Sodium Ozagrel",
+ "edi_code": "",
+ "atc_code": "B01AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704772",
+ "revisions": [
+  {
+   "revision_id": "200704772-7b4edf9c",
+   "content_sha256": "7b4edf9c172393aee67dcd725358b3a7c69fd46061bcb404205e9312a886dfa9",
+   "ee_text": "1. 거미막밑출혈 수술 후의 뇌혈관 연축 및 이에 수반하는 뇌허혈 증상의 개선 2. 뇌혈전증(급성기)에 수반하는 운동장애의 개선",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:25Z",
+   "last_observed_at": "2026-09-08T08:41:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:25Z"
+}

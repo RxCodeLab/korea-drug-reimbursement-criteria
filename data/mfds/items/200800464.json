@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:32:38Z",
  "revisions": [
   {
-   "revision_id": "200800464-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200800464-c90f74d7",
+   "content_sha256": "c90f74d7763a78950600719a3ca37621b9ffb28032cd2642de3f4c7f24c34aa0",
+   "ee_text": "기능성소화불량으로 인한 다음 증상의 완화 : 복부팽만감, 상복부불쾌감, 속쓰림, 트림, 구역, 구토",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200800464/EE",
    "first_observed_at": "2026-08-27T12:32:38Z",
-   "last_observed_at": "2026-08-28T13:24:15Z"
+   "last_observed_at": "2026-09-08T08:42:10Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200800464-588d53ab",

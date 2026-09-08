@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002164",
+ "item_name": "국제린코마이신염산염수화물앰플주600밀리그램",
+ "entp_name": "국제약품(주)",
+ "permit_date": "20200327",
+ "cancel_date": "20250327",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223001]린코마이신염산염수화물",
+ "main_item_ingr_eng": "Lincomycin Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "J01FF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002164",
+ "revisions": [
+  {
+   "revision_id": "202002164-876668a1",
+   "content_sha256": "876668a1d77ad3b3ddfa71832254803403c68ab6d9f4fef16fc6e985c4c70985",
+   "ee_text": "○ 유효균종 린코마이신에 감수성인 포도구균, 연쇄구균(장내구균 제외), 폐렴연쇄구균 ○ 적응증 - 종기, 연조직염, 생인손, 단독, 림프절염 - 기관지염, 농가진, 폐렴, 편도염, 인두염 - 골수염, 관절염, 유선염 - 세균성심내막염, 패혈증 - 성홍열 - 중이염, 부비동염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:13Z",
+   "last_observed_at": "2026-09-08T08:58:13Z",
+   "official_revision_date": "2020-03-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:13Z"
+}

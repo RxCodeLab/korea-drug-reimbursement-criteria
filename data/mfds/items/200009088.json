@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200009088",
+ "item_name": "로와치넥스캡슐",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20000219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050615]보르네올|[M060165]아네톨|[M082093]시네올|[M082245]핀넨|[M082246]캄펜|[M082247]펜콘",
+ "main_item_ingr_eng": "Anethole/Borneol/Camphen/Eucalyptol/Fenchone/Pinene",
+ "edi_code": "",
+ "atc_code": "G04BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009088",
+ "revisions": [
+  {
+   "revision_id": "200009088-56bf7f37",
+   "content_sha256": "56bf7f37e566dc4b73cfb4e280f1cd4bdd2db8f42fc528d1feef73beedbc6ef4",
+   "ee_text": "신증, 요로결석증의 보조요법",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:41Z",
+   "last_observed_at": "2026-09-08T08:34:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:41Z"
+}

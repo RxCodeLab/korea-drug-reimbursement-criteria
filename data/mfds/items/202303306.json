@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303306",
+ "item_name": "피브라즈주사(클라조센탄이나트륨)",
+ "entp_name": "(주)넥세라파마코리아",
+ "permit_date": "20231207",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284300]클라조센탄이나트륨",
+ "main_item_ingr_eng": "Clazosentan disodium",
+ "edi_code": "",
+ "atc_code": "C04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303306",
+ "revisions": [
+  {
+   "revision_id": "202303306-abceee25",
+   "content_sha256": "abceee259ad2eccf4caf303e52cb199c567e2e5cba5ea08975160fdbf252cfab",
+   "ee_text": "동맥류성 지주막하출혈 처치 후 뇌혈관 경련 및 뇌혈관경련과 관련된 뇌경색, 뇌 허혈성 증상의 예방 파열된 뇌동맥류에 대해 외과적 치료 또는 혈관내 치료 등을 통해 적절하게 지혈이 완료된 환자에게 이 약을 투여한다. 지주막하출혈의 중증도, 혈전량, 뇌경색의 범위 등 환자의 상태를 고려하여 약물 투여 여부를 결정하여야 하며, 다음에 대해서는 안전성 및 유효성이 확립되지 않았다. - 니모디핀 제제 등 혈관확장제 병용 투여 - WFNS (World Federation of Neurosurgical Surgeon) 분류 V 환자 - 광범위한 뇌경색 환자 - Fisher 분류 3* 이외의 환자 * 국한성 혈전 또는 CT 단면에 수직인 층에서 1mm 이상 두께의 혈액 존재(뇌내 또는 뇌실내 혈종의 유무 불문)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:33Z",
+   "last_observed_at": "2026-09-08T09:02:33Z",
+   "official_revision_date": "2023-12-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:33Z"
+}

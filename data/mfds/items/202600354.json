@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600354",
+ "item_name": "이지트립시럽",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20260209",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223081]스코폴라민브롬화수소산염수화물|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/Scopolamine Hydrobromide Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600354",
+ "revisions": [
+  {
+   "revision_id": "202600354-9e10f901",
+   "content_sha256": "9e10f901d2b9184459e96c8289a126a62981700e95a89f9abfb8d8d54c113b30",
+   "ee_text": "멀미에 의한 어지러움·구토·두통의 예방 및 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:45Z",
+   "last_observed_at": "2026-09-08T09:04:45Z",
+   "official_revision_date": "2026-02-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:45Z"
+}

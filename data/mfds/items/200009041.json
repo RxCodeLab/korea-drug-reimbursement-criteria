@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200009041",
+ "item_name": "지이헬스케어마이오뷰주사(설포살리실산테트로포스민)",
+ "entp_name": "지이헬스케어에이에스한국지점",
+ "permit_date": "20000311",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257314]설포살리실산테트로포스민",
+ "main_item_ingr_eng": "Tetrofosmin Sulfosalicylate",
+ "edi_code": "",
+ "atc_code": "V09GA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009041",
+ "revisions": [
+  {
+   "revision_id": "200009041-5349ee36",
+   "content_sha256": "5349ee361ad289b6808965a580381b87b0915ae28fa93d378ca8b637426a7db5",
+   "ee_text": "1. 진단용 방사성의약품인 테트로포스민테크네튬(99mTc)주사액의 조제 2. 테트로포스민테크네튬(99mTc) 주사액의 효능·효과 : 1) 심근허혈과 심근경색의 진단 및 부위 확인 2) 악성종양이 의심되는 유방병변에 대해 초기의 평가방법 (촉진, 유방조영법, 기타 조영법 또는 세포검사 등)을 통한 진단이 불확실한 경우의 진단 보조",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:39Z",
+   "last_observed_at": "2026-09-08T08:34:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:39Z"
+}

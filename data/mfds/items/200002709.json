@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002709",
+ "item_name": "오스타신정60밀리그람(아세메타신)(수출용)(AustacinTablet)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20001209",
+ "cancel_date": "20240429",
+ "status": "취하",
+ "main_item_ingr": "[M080670]아세메타신",
+ "main_item_ingr_eng": "Acemetacin",
+ "edi_code": "",
+ "atc_code": "M01AB11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002709",
+ "revisions": [
+  {
+   "revision_id": "200002709-a94371f6",
+   "content_sha256": "a94371f64571dfd41e39f40d1135547888a5a4dcfb6e19e6fd0d12d89dd2818e",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 통풍, 건염, 요통, 혈전성 정맥염 및 혈관염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:00Z",
+   "last_observed_at": "2026-09-08T08:34:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:00Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199101531",
+ "item_name": "부광켈론정10밀리그램(베탁솔롤염산염)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19910607",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222850]베탁솔롤염산염",
+ "main_item_ingr_eng": "Betaxolol Hydrochloride",
+ "edi_code": "642201030",
+ "atc_code": "C07AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101531",
+ "revisions": [
+  {
+   "revision_id": "199101531-01de180f",
+   "content_sha256": "01de180f8c879f88cba3b6f0407e52b94fa1aa68017d928fc6ac552f6ec83136",
+   "ee_text": "본태성고혈압, 협심증",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:14Z",
+   "last_observed_at": "2026-09-08T08:28:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:14Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906956",
+ "item_name": "메로늄정40밀리그램(옥틸로늄브롬화물)",
+ "entp_name": "(주)메디카코리아",
+ "permit_date": "20190930",
+ "cancel_date": "20240930",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M247676]옥틸로늄브롬화물",
+ "main_item_ingr_eng": "Octylonium Bromide",
+ "edi_code": "",
+ "atc_code": "A03AB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906956",
+ "revisions": [
+  {
+   "revision_id": "201906956-08bf1646",
+   "content_sha256": "08bf16469b301e8c90155cec543bd2509a7a36c983f1f7cf022d55c96b2183c2",
+   "ee_text": "위장관 경련 및 과민성대장증후군",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:34Z",
+   "last_observed_at": "2026-09-08T08:56:34Z",
+   "official_revision_date": "2019-09-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:34Z"
+}

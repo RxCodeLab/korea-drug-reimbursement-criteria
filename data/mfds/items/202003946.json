@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "G04BD08",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003946",
+ "history_fetched_at": "2026-08-28T13:25:19Z",
  "revisions": [
   {
-   "revision_id": "202003946-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202003946-351d7688",
+   "content_sha256": "351d7688de3ac8829e675ec85e8db4ce888bf71082cdbfd8b708253bb3548e21",
+   "ee_text": "절박성 뇨실금, 빈뇨, 요절박과 같은 과민성방광 증상의 치료",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:19Z",
-   "last_observed_at": "2026-08-28T13:25:19Z",
-   "official_revision_date": "2020-05-28"
+   "last_observed_at": "2026-09-08T08:59:00Z",
+   "official_revision_date": "2020-05-28",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:19Z"
+ ]
 }

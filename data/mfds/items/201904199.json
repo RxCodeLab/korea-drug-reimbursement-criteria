@@ -7,11 +7,12 @@
  "permit_date": "20190617",
  "cancel_date": "20240617",
  "status": "유효기간만료",
- "main_item_ingr": "[M223356]히드로클로로티아지드|[M090403]발사르탄",
+ "main_item_ingr": "[M090403]발사르탄|[M223356]히드로클로로티아지드",
  "main_item_ingr_eng": "Hydrochlorothiazide/Valsartan",
  "edi_code": "",
  "atc_code": "C09DA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904199",
+ "history_fetched_at": "2026-08-28T13:25:08Z",
  "revisions": [
   {
    "revision_id": "201904199-962ec495",
@@ -19,9 +20,9 @@
    "ee_text": "단일요법으로 혈압이 적절하게 조절되지 않은 본태고혈압",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:08Z",
-   "last_observed_at": "2026-08-28T13:25:08Z",
-   "official_revision_date": "2019-06-17"
+   "last_observed_at": "2026-09-08T08:55:35Z",
+   "official_revision_date": "2019-06-17",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:08Z"
+ ]
 }

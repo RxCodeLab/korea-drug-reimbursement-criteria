@@ -12,16 +12,17 @@
  "edi_code": "648204341,648204342,648204343,648204344",
  "atc_code": "G03GA05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007415",
+ "history_fetched_at": "2026-08-28T13:25:21Z",
  "revisions": [
   {
-   "revision_id": "202007415-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202007415-91e997b0",
+   "content_sha256": "91e997b0007daa2f6b2f01358d212fddd521f59099e32f8873d40e609c19c92d",
+   "ee_text": "1. 보조생식 프로그램(즉, In vitro fertilization/embryo transfer: IVF/ET, gamete intra-fallopian transfer; GIFT, zygote intra-fallopian transfer: ZIFT, intracytoplasmic sperm injection: ICSI) 실시 중 다수의 난포를 성숙시키기 위한 조절된 난소과자극(controlled ovarian hyperstimulation) 2. Clomiphene citrate로 치료되지 않은 여성의 무배란증 (다낭성난소질환(PCOD)을 포함하는 WHO 그룹 II에 해당하는 환자들)",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:21Z",
-   "last_observed_at": "2026-08-28T13:25:21Z",
-   "official_revision_date": "2020-10-29"
+   "last_observed_at": "2026-09-08T08:59:34Z",
+   "official_revision_date": "2020-10-29",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:21Z"
+ ]
 }

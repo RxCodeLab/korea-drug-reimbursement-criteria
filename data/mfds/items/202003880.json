@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003880",
+ "item_name": "로라디온정(로라타딘)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20200526",
+ "cancel_date": "20250526",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M082724]로라타딘",
+ "main_item_ingr_eng": "Loratadine",
+ "edi_code": "",
+ "atc_code": "R06AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003880",
+ "revisions": [
+  {
+   "revision_id": "202003880-266bda52",
+   "content_sha256": "266bda52ccb61875a92c97f9d24fcfcd6752852a4644dfc4c1982b8e94e52b37",
+   "ee_text": "알레르기성 비염(재채기, 코막힘, 가려움, 눈의 작열감), 만성 특발성 두드러기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:58Z",
+   "last_observed_at": "2026-09-08T08:58:58Z",
+   "official_revision_date": "2020-05-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:58Z"
+}

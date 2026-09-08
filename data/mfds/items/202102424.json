@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102424",
+ "item_name": "아시클러주250밀리그램(아시클로버)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20210318",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "647205871",
+ "atc_code": "J05AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102424",
+ "revisions": [
+  {
+   "revision_id": "202102424-80b53330",
+   "content_sha256": "80b533305e5bc4f53993a7899f3669b060eba384512c800eac076a05c27c6543",
+   "ee_text": "1. 면역기능정상 환자 : 중증 초발성 생식기포진, 재발성 수두대상포진 바이러스 감염증, 단순포진성 뇌염 2. 면역기능저하 환자 : 단순포진 바이러스 감염증의 치료 및 예방, 초발성 및 재발성 수두대상포진바이러스감염증, 단순포진성 뇌염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:03Z",
+   "last_observed_at": "2026-09-08T09:00:03Z",
+   "official_revision_date": "2021-03-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:03Z"
+}

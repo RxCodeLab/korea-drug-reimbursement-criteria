@@ -7,20 +7,22 @@
  "permit_date": "20130628",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M204304]피리독신염산염|[M223262]티아민질산염|[M040262]산화마그네슘|[M223240]토코페롤아세테이트",
+ "main_item_ingr": "[M040262]산화마그네슘|[M204304]피리독신염산염|[M223240]토코페롤아세테이트|[M223262]티아민질산염",
  "main_item_ingr_eng": "Magnesium Oxide/Pyridoxine Hydrochloride/Thiamine Nitrate/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11JA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307920",
+ "history_fetched_at": "2026-08-28T13:24:30Z",
  "revisions": [
   {
-   "revision_id": "201307920-71845162",
-   "content_sha256": "7184516207d4f8b2bf80053394ad64aa7fdfe169a300a413c4c9cfd8ee5a7851",
-   "ee_text": "1 , B 6 의 보급\"> 1 (티아민질산염) : ㆍ다음 증상의 완화 : 신경통, 근육통, 관절통(요(허리)통, 어깨결림 등) ㆍ각기 ㆍ눈의피로]]> 6 (피리독신염산염) : ㆍ다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염]]>",
+   "revision_id": "201307920-7ab06d71",
+   "content_sha256": "7ab06d714e602ea98f4bcd1181ac5e94b749b5fcc8ff38c509972c9faec8b6a2",
+   "ee_text": "○ 다음경우의 비타민 E, B1, B6의 보급 - 육체피로, 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ비타민E(토코페롤아세테이트) : ㆍ말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨ㆍ목결림, 수족저림ㆍ수족냉증(손발이 차가움) ㆍ비타민B1(티아민질산염) : ㆍ다음 증상의 완화 : 신경통, 근육통, 관절통(요(허리)통, 어깨결림 등) ㆍ각기 ㆍ눈의피로 ㆍ비타민B6(피리독신염산염) : ㆍ다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 ○ 마그네슘결핍으로 인한 근육경련",
    "ee_doc_id": "17",
    "first_observed_at": "2026-08-28T13:24:30Z",
-   "last_observed_at": "2026-08-28T13:24:30Z",
-   "official_revision_date": "2019-08-26"
+   "last_observed_at": "2026-09-08T08:46:09Z",
+   "official_revision_date": "2019-08-26",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201307920-cf271454",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:30Z",
    "last_observed_at": "2026-08-28T13:24:30Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:30Z"
+ ]
 }

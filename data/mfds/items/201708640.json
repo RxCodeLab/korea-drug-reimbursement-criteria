@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708640",
+ "item_name": "세파셀렌정100마이크로그램(아셀렌산나트륨)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20171229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M097351]아셀렌산나트륨",
+ "main_item_ingr_eng": "Sodium Selenite Pentahydrate",
+ "edi_code": "",
+ "atc_code": "A12CE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708640",
+ "revisions": [
+  {
+   "revision_id": "201708640-a7228b0e",
+   "content_sha256": "a7228b0ecde22c5742dcf1a08cb06fb837f35f9adff5c98e2e062b194a5e7358",
+   "ee_text": "영양공급으로 보충될 수 없는 셀레늄 결핍 환자에서 셀레늄 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:45Z",
+   "last_observed_at": "2026-09-08T08:52:45Z",
+   "official_revision_date": "2017-12-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:45Z"
+}

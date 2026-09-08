@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505064",
+ "item_name": "레드큐어주(에데트산칼슘디나트륨)",
+ "entp_name": "제이텍바이오팜",
+ "permit_date": "20150724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100897]에데트산칼슘디나트륨",
+ "main_item_ingr_eng": "Edetate Calcium Disodium Hydrate",
+ "edi_code": "",
+ "atc_code": "V03AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505064",
+ "revisions": [
+  {
+   "revision_id": "201505064-891f1173",
+   "content_sha256": "891f117332c2f8b0f0f114b169e9e2121f1930c2810109784c7d3f828e75268f",
+   "ee_text": "납중독 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:25Z",
+   "last_observed_at": "2026-09-08T08:49:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:25Z"
+}

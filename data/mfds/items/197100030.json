@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197100030",
+ "item_name": "대한아미노필린주사액(2.5%)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "19711215",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223100]아미노필린수화물",
+ "main_item_ingr_eng": "Aminophylline Hydrate",
+ "edi_code": "645100721",
+ "atc_code": "R03DA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197100030",
+ "revisions": [
+  {
+   "revision_id": "197100030-635f8910",
+   "content_sha256": "635f89100421385b29b4abc6e8f89e76eaec037c459493cbf8cbc315e19ad0f1",
+   "ee_text": "1. 다음 질환의 기도폐쇄성장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 천식기관지염, 폐기종, 만성기관지염 2. 울혈심부전, 심장천식(발작예방), 체인-스토크스호흡",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:17Z",
+   "last_observed_at": "2026-09-08T08:26:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:17Z"
+}

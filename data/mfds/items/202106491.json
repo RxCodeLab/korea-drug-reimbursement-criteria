@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106491",
+ "item_name": "프라메가크림(프라목신염산염)",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "20210910",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246661]프라목신염산염",
+ "main_item_ingr_eng": "Pramoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C05AD07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106491",
+ "revisions": [
+  {
+   "revision_id": "202106491-613132d2",
+   "content_sha256": "613132d25f69a116cb0d3c1eeceb278326c1e6637aa2a4b2b2a329421f7d9f24",
+   "ee_text": "치질로 인한 다음 증상의 일시적 완화 : 불쾌감, 작열감, 가려움",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:35Z",
+   "last_observed_at": "2026-09-08T09:00:35Z",
+   "official_revision_date": "2021-09-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:35Z"
+}

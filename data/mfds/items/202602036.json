@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602036",
+ "item_name": "우루온액",
+ "entp_name": "대웅바이오(주)",
+ "permit_date": "20260714",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M102908]타우린|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223167]우르소데옥시콜산|[M223262]티아민질산염|[M278679]덱스판테놀",
+ "main_item_ingr_eng": "Dexpanthenol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Taurine/Thiamine Nitrate/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602036",
+ "revisions": [
+  {
+   "revision_id": "202602036-be2ad843",
+   "content_sha256": "be2ad84384a7a85cca93ddfed4df13e3eb6479c904b9ce74c56de4626a041856",
+   "ee_text": "○ 다음경우의 비타민 B1, B2, B6의 보급 - 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. ·다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:32Z",
+   "last_observed_at": "2026-09-08T09:05:32Z",
+   "official_revision_date": "2026-07-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:32Z"
+}

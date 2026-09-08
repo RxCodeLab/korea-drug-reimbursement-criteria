@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200708840",
+ "item_name": "타이커브정250밀리그램(라파티닙디토실레이트)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20070730",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215173]라파티닙 디토실레이트",
+ "main_item_ingr_eng": "Lapatinib Ditosylate Monohydrate",
+ "edi_code": "653602840",
+ "atc_code": "L01EH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708840",
+ "revisions": [
+  {
+   "revision_id": "200708840-d84f99d2",
+   "content_sha256": "d84f99d20b2b194b0d2f7de6b6dad03493d0f01e18cd71dab7f9bd1345b53c21",
+   "ee_text": "1. HER2(Human Epidermal growth factor Receptor 2 protein, 이명 : ErbB2)가 과발현 되어 있고, 이전에 안트라사이클린계 약물, 탁산계 약물, 트라스투주맙을 포함하는 치료를 받은 적이 있는 진행성 또는 전이성 유방암 환자의 치료에 카페시타빈과 병용 투여 (유의사항 : 전이성 유방암 환자는 트라스투주맙의 치료 후 진행한 경우에 사용) 2. 호르몬 수용체가 음성이고 HER2가 과발현 되어 있는 전이성 유방암 환자로, 이전에 트라스투주맙과 화학요법의 병용 투여를 받고 진행된 환자의 치료에 트라스투주맙과 병용 투여 3. 호르몬 수용체 양성이고 HER2가 과발현 되어 있는 전이성 유방암인 폐경 후 여성 환자로, 현재 화학요법이 계획되지 않은 환자의 치료에 아로마타제 저해제와 병용 투여",
+   "ee_doc_id": "29",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:45Z",
+   "last_observed_at": "2026-09-08T08:41:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:45Z"
+}

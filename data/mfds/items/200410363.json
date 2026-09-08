@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410363",
+ "item_name": "레야타즈캡슐200밀리그램(아타자나비르황산염)",
+ "entp_name": "(유)한국비엠에스제약",
+ "permit_date": "20040817",
+ "cancel_date": "20240502",
+ "status": "취하",
+ "main_item_ingr": "[M263079]아타자나비르황산염",
+ "main_item_ingr_eng": "Atazanavir Sulfate",
+ "edi_code": "",
+ "atc_code": "J05AE08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410363",
+ "revisions": [
+  {
+   "revision_id": "200410363-a3ab5216",
+   "content_sha256": "a3ab5216effb67558c3752b61b8d1bf541e8848c4390981fbb040af2ffc469ac",
+   "ee_text": "다른 항레트로바이러스제와 병용하여 HIV-1 감염치료",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:41Z",
+   "last_observed_at": "2026-09-08T08:38:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:41Z"
+}

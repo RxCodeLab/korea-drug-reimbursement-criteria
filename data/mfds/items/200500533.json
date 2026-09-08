@@ -7,21 +7,22 @@
  "permit_date": "20050323",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M279284]L-멘톨|[M040200]박하유",
+ "main_item_ingr": "[M040200]박하유|[M279284]L-멘톨",
  "main_item_ingr_eng": "L-Menthol/Mentha Herb Oil",
  "edi_code": "",
  "atc_code": "M02A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500533",
+ "history_fetched_at": "2026-08-28T13:24:07Z",
  "revisions": [
   {
-   "revision_id": "200500533-f55fa76a",
-   "content_sha256": "f55fa76a259be361dbe62637ebd87b4316a28e94598c7c19ffaf79da65c08ebd",
-   "ee_text": ": 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 신경통, 류마티즘 이 약은 백색 또는 담회백색 고체를 폴리에스텔필름에 도포하고(바르고) 고체표면을 부직포로 덮은 것으로 특이한 냄새가 있는 카타플라스마제이다",
+   "revision_id": "200500533-d5454661",
+   "content_sha256": "d5454661bee63e21b05e32195e04da08a70b57a7f5a29a6a63ce71f07b1002fa",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) : 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 신경통, 류마티즘 성상 이 약은 백색 또는 담회백색 고체를 폴리에스텔필름에 도포하고(바르고) 고체표면을 부직포로 덮은 것으로 특이한 냄새가 있는 카타플라스마제이다",
    "ee_doc_id": "13",
    "first_observed_at": "2026-08-28T13:24:07Z",
-   "last_observed_at": "2026-08-28T13:24:07Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:38:56Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:07Z"
+ ]
 }

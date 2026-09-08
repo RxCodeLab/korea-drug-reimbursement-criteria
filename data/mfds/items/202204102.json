@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A06AB08",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204102",
+ "history_fetched_at": "2026-08-28T13:25:31Z",
  "revisions": [
   {
-   "revision_id": "202204102-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202204102-5079c5a5",
+   "content_sha256": "5079c5a5943e09b00297bc1c5fc5127511e9debd6a153bc31ad32563633a98be",
+   "ee_text": "각종 변비",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:31Z",
-   "last_observed_at": "2026-08-28T13:25:31Z",
-   "official_revision_date": "2022-11-15"
+   "last_observed_at": "2026-09-08T09:01:39Z",
+   "official_revision_date": "2022-11-15",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:31Z"
+ ]
 }

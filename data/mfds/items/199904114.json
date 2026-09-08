@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199904114",
+ "item_name": "타모펜정 20밀리그램(구연산타목시펜)[수출명 : Tafen Tablet] (수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "19990618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081968]구연산타목시펜",
+ "main_item_ingr_eng": "Tamoxifen Citrate",
+ "edi_code": "",
+ "atc_code": "L02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199904114",
+ "revisions": [
+  {
+   "revision_id": "199904114-5bf8d5d5",
+   "content_sha256": "5bf8d5d5ad5559f855aa5515c602545e942b9522f95dcf253e521078dc23808d",
+   "ee_text": "유방암",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:05Z",
+   "last_observed_at": "2026-09-08T08:33:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:05Z"
+}

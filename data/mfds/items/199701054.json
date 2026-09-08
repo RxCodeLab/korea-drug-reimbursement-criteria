@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701054",
+ "item_name": "지콜연질캡슐(벤조나테이트)",
+ "entp_name": "동성제약(주)",
+ "permit_date": "19971208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086520]벤조나테이트",
+ "main_item_ingr_eng": "Benzonatate",
+ "edi_code": "643200970",
+ "atc_code": "R05DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701054",
+ "revisions": [
+  {
+   "revision_id": "199701054-aa2351b1",
+   "content_sha256": "aa2351b107c957346a08289e5a0fd8c3a4d5c8a9904171174e50cdbd284f12d1",
+   "ee_text": "기침",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:53Z",
+   "last_observed_at": "2026-09-08T08:30:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:53Z"
+}

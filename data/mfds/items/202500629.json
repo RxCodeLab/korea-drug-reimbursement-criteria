@@ -7,11 +7,12 @@
  "permit_date": "20250319",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050022]강활|[M040048]길경|[M040070]당귀|[M050227]독활|[M040135]마황|[M040205]방풍|[M040216]백지|[M040006]감초|[M275882]황금주자|[M051936]형개|[M040004]갈근|[M040329]승마|[M083244]위령선|[M040523]작약|[M040536]지실|[M040548]창출|[M040550]천궁",
+ "main_item_ingr": "[M040004]갈근|[M040006]감초|[M040048]길경|[M040070]당귀|[M040135]마황|[M040205]방풍|[M040216]백지|[M040329]승마|[M040523]작약|[M040536]지실|[M040548]창출|[M040550]천궁|[M050022]강활|[M050227]독활|[M051936]형개|[M083244]위령선|[M275882]황금주자",
  "main_item_ingr_eng": "Angelica Dahurica Root/Angelica Gigas Root/Aralia Continentalis Root/Atractylodes Rhizome/Cimicifuga Rhizome/Clematidis Radix/Cnidium Rhizome/Ephedra Herb/Licorice/Ostericum Root/Peony Root/Platycodon Root/Poncirus Immature Fruit/Pueraria Root/Saposhnikovia Root/Schizonepeta Spike/Scutellaria Root Preparata cum Vinum",
  "edi_code": "",
  "atc_code": "M09AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500629",
+ "history_fetched_at": "2026-08-28T13:25:37Z",
  "revisions": [
   {
    "revision_id": "202500629-a63fb026",
@@ -19,9 +20,9 @@
    "ee_text": "류마티스관절염, 신경통",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:37Z",
-   "last_observed_at": "2026-08-28T13:25:37Z",
-   "official_revision_date": "2025-03-19"
+   "last_observed_at": "2026-09-08T09:03:46Z",
+   "official_revision_date": "2025-03-19",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:37Z"
+ ]
 }

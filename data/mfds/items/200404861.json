@@ -7,7 +7,7 @@
  "permit_date": "20040409",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051415]푸르설티아민|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M051415]푸르설티아민",
  "main_item_ingr_eng": "Acetaminophen/Fursultiamine",
  "edi_code": "",
  "atc_code": "N02BE51",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:57:35Z",
  "revisions": [
   {
-   "revision_id": "200404861-e035f264",
-   "content_sha256": "e035f264aa1f5beddfed3f6a6552fbdb1f78a4ffa00f081d0d5ceda84bdf8784",
-   "ee_text": ": 감기로인한 발열 및 동통,치통 두통, 신경통, 근육통, 월경통, 관절통, 류마티스성 동통",
+   "revision_id": "200404861-8cfe8807",
+   "content_sha256": "8cfe88072a2654cd097ae203f23618d4d86469e9c348f6be44e1b7b107dd7109",
+   "ee_text": "1. 주효능.효과 : 감기로인한 발열 및 동통,치통 2. 다음질환에도 사용할 수 있습니다 두통, 신경통, 근육통, 월경통, 관절통, 류마티스성 동통",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200404861/EE",
    "first_observed_at": "2026-08-27T12:57:35Z",
-   "last_observed_at": "2026-08-28T13:24:06Z"
+   "last_observed_at": "2026-09-08T08:38:37Z",
+   "normalizer_version": 3
   }
  ]
 }

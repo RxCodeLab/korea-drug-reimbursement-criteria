@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101707",
+ "item_name": "지씨웰빙염화마그네슘주",
+ "entp_name": "(주)녹십자웰빙",
+ "permit_date": "20210219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051111]염화마그네슘",
+ "main_item_ingr_eng": "Magnesium Chloride",
+ "edi_code": "",
+ "atc_code": "B05XA11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101707",
+ "revisions": [
+  {
+   "revision_id": "202101707-563f61f0",
+   "content_sha256": "563f61f0e74b463d274c0265fa9b0f67da634d1aef44cac1a95431734bdae641",
+   "ee_text": "- 토르사드 드 포인트(Torsade de pointe) 치료 - 저마그네슘혈증을 동반한 급성 저칼륨혈증 치료 - 전해질 불균형시 마그네슘 보충 - 비 경구영양 공급 시 마그네슘 보충 - 자간전증(임신중독증) 위험의 예방 및 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:57Z",
+   "last_observed_at": "2026-09-08T08:59:57Z",
+   "official_revision_date": "2021-02-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:57Z"
+}

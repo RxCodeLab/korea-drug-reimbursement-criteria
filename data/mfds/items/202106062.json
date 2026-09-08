@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106062",
+ "item_name": "카티스템(동종제대혈유래중간엽줄기세포)",
+ "entp_name": "메디포스트(주)",
+ "permit_date": "20210819",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264753]동종제대혈유래중간엽줄기세포",
+ "main_item_ingr_eng": "Allogenic Umbilical Cord Blood Derived Mesenchymal Stem Cell",
+ "edi_code": "",
+ "atc_code": "B05AX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106062",
+ "revisions": [
+  {
+   "revision_id": "202106062-a5cf4736",
+   "content_sha256": "a5cf47360538d25e576b01fd42e7d742ccb3a91f6b6cfb7c37302fa7ced276b6",
+   "ee_text": "퇴행성 또는 반복적 외상으로 인한 골관절염환자(ICRS grade IV)의 무릎 연골 결손 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:29Z",
+   "last_observed_at": "2026-09-08T09:00:29Z",
+   "official_revision_date": "2021-08-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:29Z"
+}

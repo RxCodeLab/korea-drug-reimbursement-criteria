@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800907",
+ "item_name": "명문미르타오디정30밀리그램(미르타자핀)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20180223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088893]미르타자핀",
+ "main_item_ingr_eng": "Mirtazapine",
+ "edi_code": "649807290",
+ "atc_code": "N06AX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800907",
+ "revisions": [
+  {
+   "revision_id": "201800907-cf12792b",
+   "content_sha256": "cf12792bdcc39b7d393fa41a10419696c6a134ddf983f933b1d5869114761ea5",
+   "ee_text": "주요 우울증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:53Z",
+   "last_observed_at": "2026-09-08T08:52:53Z",
+   "official_revision_date": "2018-02-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:53Z"
+}

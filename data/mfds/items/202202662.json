@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:17:20Z",
  "revisions": [
   {
-   "revision_id": "202202662-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202202662-6472d169",
+   "content_sha256": "6472d169b935c6c70204b4671d01be31a5f5877fcdacb1df5fdce908fbeeb3c7",
+   "ee_text": "1. 본태고혈압 2. 만성 안정협심증 3. 울혈심부전 이뇨제, 디기탈리스 제제, ACE억제제, 기타 혈관확장제 투여시 보조치료 4. 심방세동 환자에서의 심박수 조절",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202202662/EE",
    "first_observed_at": "2026-08-27T13:17:20Z",
-   "last_observed_at": "2026-08-28T13:25:30Z"
+   "last_observed_at": "2026-09-08T09:01:24Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "202202662-8f739bc4",

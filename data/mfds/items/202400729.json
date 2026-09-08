@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400729",
+ "item_name": "자이프렉사자이디스확산정10밀리그램(미세올란자핀)",
+ "entp_name": "한국릴리(유)",
+ "permit_date": "20240401",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233301]미세올란자핀",
+ "main_item_ingr_eng": "Olanzapine Micronized",
+ "edi_code": "670801360",
+ "atc_code": "N05AH03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400729",
+ "revisions": [
+  {
+   "revision_id": "202400729-91ad3179",
+   "content_sha256": "91ad31790c60b4a8729592f581337140cf731f60d3ef3a4a5aea43fe5e6ca8de",
+   "ee_text": "1. 조현병 2. 양극성장애 - 양극성장애 I형과 관련된 조증 및 혼재삽화의 치료 - 올란자핀 투여로 조증삽화에 반응을 보인 환자들에 있어서 양극성 장애의 재발방지 - 양극성장애 I형과 관련된 우울삽화의 급성 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:52Z",
+   "last_observed_at": "2026-09-08T09:02:52Z",
+   "official_revision_date": "2024-04-01"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:52Z"
+}

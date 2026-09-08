@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711211",
+ "item_name": "파슬로덱스주(풀베스트란트)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20071010",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M217916]풀베스트란트",
+ "main_item_ingr_eng": "Fulvestrant",
+ "edi_code": "650700552",
+ "atc_code": "L02BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711211",
+ "revisions": [
+  {
+   "revision_id": "200711211-02793df6",
+   "content_sha256": "02793df6e7a5c5ffbbbf8033d9819b3c1f3b5f8381cbc6beac165178ac7408e0",
+   "ee_text": "단독요법 호르몬 수용체(HR)-양성, 및 사람상피세포성장인자수용체2(HER2)-음성, 폐경기 이후 여성의 진행성 또는 전이성 유방암 병용요법 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체2(HER2)-음성, 내분비요법 후 진행한 여성의 진행성 또는 전이성 유방암에 팔보시클립과 병용투여 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체 2(HER2)-음성, 내분비요법 후 진행한 여성의 진행성 또는 전이성 유방암에 아베마시클립과 병용투여 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체 2(HER2)-음성인 폐경 후 여성의 진행성 또는 전이성 유방암에 1차 내분비요법으로써 또는 내분비요법 후 질환이 진행된 경우 리보시클립과 병용투여",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200711211/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:57Z",
+   "last_observed_at": "2026-09-08T08:41:57Z"
+  },
+  {
+   "revision_id": "200711211-e0a8e55b",
+   "content_sha256": "e0a8e55b20c132efea280c06bf7f3beb84cd600930532988ffdeb1d5fde1789a",
+   "ee_text": "단독요법 호르몬 수용체(HR)-양성, 및 사람상피세포성장인자수용체2(HER2)-음성, 폐경기 이후 여성의 진행성 또는 전이성 유방암 병용요법 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체 2(HER2)-음성, 내분비요법 후 진행한 여성의 진행성 또는 전이성 유방암에 아베마시클립과 병용투여 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체 2(HER2)-음성인 폐경 후 여성의 진행성 또는 전이성 유방암에 1차 내분비요법으로써 또는 내분비요법 후 질환이 진행된 경우 리보시클립과 병용투여",
+   "ee_doc_id": "25",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-07-20",
+   "first_observed_at": "2026-09-08T08:41:57Z",
+   "last_observed_at": "2026-09-08T08:41:57Z"
+  },
+  {
+   "revision_id": "200711211-a42393eb",
+   "content_sha256": "a42393eb3e605fac5bc1fa853a739779abe3d6892ada124097cc2338bdbba86b",
+   "ee_text": "에스트로겐 수용체 양성의 폐경기 이후 여성으로서 내분비요법 치료 후 질병이 재발된 국소 진행성 또는 전이성 유방암",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:41:57Z",
+   "last_observed_at": "2026-09-08T08:41:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:57Z"
+}

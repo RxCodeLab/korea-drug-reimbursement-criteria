@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402748",
+ "item_name": "아세로박스정(수출용)(아세틸스피라마이신)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20040513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020086]아세틸스피라마이신",
+ "main_item_ingr_eng": "Acetylspiramycin",
+ "edi_code": "",
+ "atc_code": "J01FA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402748",
+ "revisions": [
+  {
+   "revision_id": "200402748-d4be739f",
+   "content_sha256": "d4be739f8eeab423b1fda3abb4d044ea67bfe72dbfa8eccfa924edcd42775236",
+   "ee_text": "- 유효균종 포도구균, 연쇄구균, 폐렴구균, 임균, 매독트레포네마, 톡소플라스마 - 적응증 1. 주효능 효과 옹종, 부스럼, 부스럼증, 봉소염, 표저, 농가진, 편도염, 인후두염, 기관지염, 폐렴, 기관지확장증(감염시), 유선염, 림프절염, 중이염 2. 다음 질환에도 사용할 수 있다. 모낭염, 감염성죽종, 폐화농증, 골수염, 세균성심내막염, 창상, 화상 및 수술후 2차감염, 성홍열, 담낭염, 임질, 방광염, 요도염, 신우신염, 자궁부속기염, 매독, 악방선균증, 다래끼, 급성누낭염, 급성악염, 치조골염, 지치주위염, 치근막염, 발치후 감염, 톡소플라스마증",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:09Z",
+   "last_observed_at": "2026-09-08T08:38:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:09Z"
+}

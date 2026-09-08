@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206711",
+ "history_fetched_at": "2026-08-28T13:24:28Z",
  "revisions": [
   {
    "revision_id": "201206711-5eaf905f",
@@ -19,9 +20,9 @@
    "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 식체(위체), 소화촉진, 소화불량으로 인한 위부팽만감, 가스제거",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:24:28Z",
-   "last_observed_at": "2026-08-28T13:24:28Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:45:29Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:28Z"
+ ]
 }

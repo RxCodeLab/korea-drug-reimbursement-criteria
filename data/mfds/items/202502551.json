@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502551",
+ "item_name": "뉴흑캡슐200밀리그람(약용탄)",
+ "entp_name": "(주)돌나라한농제약",
+ "permit_date": "20250926",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040394]약용탄",
+ "main_item_ingr_eng": "Medicinal Carbon",
+ "edi_code": "",
+ "atc_code": "A07BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502551",
+ "revisions": [
+  {
+   "revision_id": "202502551-191d2365",
+   "content_sha256": "191d2365001f210472638a8366cd441cac83b3e81c66def0cfe296628dfbdc37",
+   "ee_text": "급성 설사의 보조적 치료요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:18Z",
+   "last_observed_at": "2026-09-08T09:04:18Z",
+   "official_revision_date": "2025-09-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:18Z"
+}

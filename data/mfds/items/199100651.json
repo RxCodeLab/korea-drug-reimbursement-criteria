@@ -12,14 +12,16 @@
  "edi_code": "",
  "atc_code": "B05XA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100651",
+ "history_fetched_at": "2026-08-28T13:23:43Z",
  "revisions": [
   {
-   "revision_id": "199100651-1cae0e96",
-   "content_sha256": "1cae0e967e793dc7e5fe80b9f9e31f01e8b02bb43ec8545c8f15cedbc773860a",
-   "ee_text": "1. 수분 및 전해질 결핍시의 보급(나트륨 결핍, 염소 결핍) 2. 주사제의 용해 희석제 - 저나트륨혈증 또는 저염소혈증 - 반복적인 관장에 의한 과량의 수분섭취 또는 경요도전립선절제술중 개방정맥동으로의 관류액 관류에 따라 세포외액이 격렬히 희석된 경우 - 중증 염분고갈시의 응급처치",
+   "revision_id": "199100651-d362280a",
+   "content_sha256": "d362280aa623a91769082554c43a79a55ecdbb0904cdc6aaee2e428a10aba9fd",
+   "ee_text": "*0.45, 0.9% 주사제 1. 수분 및 전해질 결핍시의 보급(나트륨 결핍, 염소 결핍) 2. 주사제의 용해 희석제 *0.9% 키트주사제 주사제의 용해 희석제 *3% 주사제 전해질 및 수분의 빠른 공급 특히 다음과 같은 경우에 사용한다. - 저나트륨혈증 또는 저염소혈증 - 반복적인 관장에 의한 과량의 수분섭취 또는 경요도전립선절제술중 개방정맥동으로의 관류액 관류에 따라 세포외액이 격렬히 희석된 경우 - 중증 염분고갈시의 응급처치 *11.7% 주사제 전해질 보액의 전해질 보정(저나트륨혈증, 저염소혈증)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199100651/EE",
    "first_observed_at": "2026-08-28T13:23:43Z",
-   "last_observed_at": "2026-08-28T13:23:43Z"
+   "last_observed_at": "2026-09-08T08:28:09Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "199100651-03909bb7",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:43Z",
    "last_observed_at": "2026-08-28T13:23:43Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:43Z"
+ ]
 }

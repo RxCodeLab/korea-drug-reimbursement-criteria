@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199001150",
+ "item_name": "동구염산린코마이신캡슐 250mg(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "19900713",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020043]염산린코마이신",
+ "main_item_ingr_eng": "Lincomycin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "J01FF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001150",
+ "revisions": [
+  {
+   "revision_id": "199001150-2a322c38",
+   "content_sha256": "2a322c3871ba6d3a683a21dbf0054291b27d82c17bbed3029c4b8af7ee48e679",
+   "ee_text": "○ 유효균종 포도구균, 연쇄구균(장내구균 제외), 폐렴연쇄구균, 시겔라 ○ 적응증 - 종기, 연조직염, 생인손, 단독, 림프절염 - 기관지염, 농가진, 폐렴, 편도염, 인두염 - 골수염, 관절염, 유선염 - 세균성심내막염, 패혈증 - 성홍열 - 세균성이질 - 중이염, 부비동염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:02Z",
+   "last_observed_at": "2026-09-08T08:28:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:02Z"
+}

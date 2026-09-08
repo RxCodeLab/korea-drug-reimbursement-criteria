@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200811854",
+ "item_name": "산쿠소패취(그라니세트론)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20081224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245313]그라니세트론",
+ "main_item_ingr_eng": "Granisetron",
+ "edi_code": "668901550",
+ "atc_code": "A04AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811854",
+ "revisions": [
+  {
+   "revision_id": "200811854-7470a54e",
+   "content_sha256": "7470a54ea73140f4e71d169d9a840ac1e802bdd695994ff8c6d8447d1a751890",
+   "ee_text": "중등도 내지 중증의 구토를 유발하는 화학요법제를 연속 5일까지 투여하는 환자의 구역 및 구토 예방",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:59Z",
+   "last_observed_at": "2026-09-08T08:42:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:59Z"
+}

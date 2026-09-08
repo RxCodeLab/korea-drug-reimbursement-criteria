@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402075",
+ "item_name": "코린투비정",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20240828",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204422]dl-메틸에페드린염산염|[M223183]카페인무수물|[M223211]클로르페니라민말레산염|[M256386]글리시리진산이칼륨",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dipotassium Glycyrrhizinate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402075",
+ "revisions": [
+  {
+   "revision_id": "202402075-42210c3e",
+   "content_sha256": "42210c3e92c5d6b3747a42ffbae3bf38a8b51824631c01de2caece2288dcf205",
+   "ee_text": "코감기(급성비염(코염)), 알레르기성 비염(코염) 또는 부비동염에 의한 다음 증상의 완화 : 코막힘, 콧물, 재채기, 눈물, 인후통(목구멍통증), 머리 무거움",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:16Z",
+   "last_observed_at": "2026-09-08T09:03:16Z",
+   "official_revision_date": "2024-08-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:16Z"
+}

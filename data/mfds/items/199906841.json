@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199906841",
+ "item_name": "소마토산주(소마토스타틴아세트산염)",
+ "entp_name": "한화제약(주)",
+ "permit_date": "19990129",
+ "cancel_date": "20230919",
+ "status": "취하",
+ "main_item_ingr": "[M278792]소마토스타틴아세트산염",
+ "main_item_ingr_eng": "Somatostatin Acetate",
+ "edi_code": "",
+ "atc_code": "H01CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199906841",
+ "revisions": [
+  {
+   "revision_id": "199906841-bac517ed",
+   "content_sha256": "bac517ed828ce1eca95af7495fb3af1df3c1c08e4e0368529bcb95e34bb8a080",
+   "ee_text": "1. 식도 정맥류에 의한 급성 출혈의 치료 2. 위, 십이지장 궤양에 의한 심한 급성 출혈 또는 급성 미란성 혹은 출혈성 위염에 수반되는 심한 급성 출혈의 치료 3. 췌장루 및 장루의 보조치료 4. 췌장수술 후 합병증의 예방",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:10Z",
+   "last_observed_at": "2026-09-08T08:33:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:10Z"
+}

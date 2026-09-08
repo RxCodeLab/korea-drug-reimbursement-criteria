@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400632",
+ "item_name": "다우노신주20밀리그램(다우노루비신염산염)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "20240325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222833]다우노루비신염산염",
+ "main_item_ingr_eng": "Daunorubicin Hydrochloride",
+ "edi_code": "644309781",
+ "atc_code": "L01DB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400632",
+ "revisions": [
+  {
+   "revision_id": "202400632-2352d75b",
+   "content_sha256": "2352d75b15f801ba20af6585caa13d87dd051c5d17578373f4cb7281c0278233",
+   "ee_text": "급성 백혈병(만성 골수성 백혈병의 급성 전환 포함)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:50Z",
+   "last_observed_at": "2026-09-08T09:02:50Z",
+   "official_revision_date": "2024-03-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:50Z"
+}

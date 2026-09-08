@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202100162",
+ "item_name": "바이파보주50밀리그램(레미마졸람베실산염)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20210107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266948]레미마졸람베실산염",
+ "main_item_ingr_eng": "Remimazolam Besylate",
+ "edi_code": "",
+ "atc_code": "N05CD14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100162",
+ "revisions": [
+  {
+   "revision_id": "202100162-fa0e668b",
+   "content_sha256": "fa0e668b531157f233425159a146759d1dd7f28c7f36e18b3d3b9ba6dde881ea",
+   "ee_text": "성인에서 전신마취의 유도 및 유지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:50Z",
+   "last_observed_at": "2026-09-08T08:59:50Z",
+   "official_revision_date": "2021-01-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:50Z"
+}

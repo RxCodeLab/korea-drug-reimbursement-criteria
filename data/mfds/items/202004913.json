@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004913",
+ "item_name": "트라스트펠빈플라스타(펠비낙)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20200707",
+ "cancel_date": "20250611",
+ "status": "취하",
+ "main_item_ingr": "[M092408]펠비낙|[M092408]펠비낙",
+ "main_item_ingr_eng": "Felbinac",
+ "edi_code": "",
+ "atc_code": "M02AA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004913",
+ "revisions": [
+  {
+   "revision_id": "202004913-14a0db51",
+   "content_sha256": "14a0db51e6711c4c00f2afc6e3c7173474315e28024afcfeac2eb9da8ea90a55",
+   "ee_text": "다음 질환 및 증상의 진통 ㆍ 소염(항염) 1) 퇴행성관절염(골(뼈)관절염) 2) 어깨관절주위염 3) 건염(힘줄염) ㆍ 건초염(힘줄윤활막염) 4) 건(힘줄)주위염 5) 상완골(위팔뼈)상과염 (테니스 엘보우 등) 6) 근육통 7) 외상후의 종창ㆍ동통(부기 ㆍ 통증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:13Z",
+   "last_observed_at": "2026-09-08T08:59:13Z",
+   "official_revision_date": "2020-07-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:13Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401276",
+ "item_name": "대덕의료용산소",
+ "entp_name": "대덕가스(주)",
+ "permit_date": "19980108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040256]산소",
+ "main_item_ingr_eng": "Oxygen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401276",
+ "revisions": [
+  {
+   "revision_id": "201401276-5a6bfe33",
+   "content_sha256": "5a6bfe33d1c9a1ab7f746f3641d1564c226b6215bba81c08596c0334d29f8fe5",
+   "ee_text": "〇 의료용가스 - 다음과 같은 광범위한 질환에서의 산소결핍증 치료 · 호흡근의 마비 · 일산화탄소 중독 · 출혈, 외상, 쇼크 · 마취 시의 호흡마비 · 중증의 심질환(순환계 허탈 등) · 폐부종 등으로 인한 기도의 폐쇄 - 폐쇄 순환 마취 시 단독 투여 또는 이산화탄소와 병용투여",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:52Z",
+   "last_observed_at": "2026-09-08T08:46:52Z",
+   "official_revision_date": "2020-02-06"
+  },
+  {
+   "revision_id": "201401276-a9c2773d",
+   "content_sha256": "a9c2773dc4f8dbb159cdb275469aac2bf0c6a1851b1dd894bfc26fff255210bf",
+   "ee_text": "산소 결핍증이 일어났을 때 하는 산소흡입 또는 폐쇄순환 마취시에 단독 혹은 이산화탄소와 함께 사용,호흡근의 마비,일산화탄소,아질산,코카인에 의한 중독시의 가사,출혈,외상쇼크,마취시 의 호흡마비,순환계허탈,관혈관질환,두부외상,급성신염 및 요독증 세의 심기능 장애,폐염,폐부종,기도의 폐쇄.",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:46:52Z",
+   "last_observed_at": "2026-09-08T08:46:52Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:52Z"
+}

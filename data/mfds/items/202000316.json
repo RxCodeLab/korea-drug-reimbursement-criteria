@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000316",
+ "item_name": "화이자보르테조밉주3.5밀리그램(보르테조밉일수화물)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20200121",
+ "cancel_date": "20250121",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M268246]보르테조밉일수화물",
+ "main_item_ingr_eng": "Bortezomib Monohydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000316",
+ "revisions": [
+  {
+   "revision_id": "202000316-0b97753a",
+   "content_sha256": "0b97753a5443dfe9ffaa370c610ba4c0ecf410d2c6e22631ecb304911526ac6d",
+   "ee_text": "1. 다발골수종 1) 조혈모세포이식이 적합하지 않고, 이전 치료경험이 없는 다발골수종 환자에 대한 멜파란 및 프레드니솔론과 병용요법 2) 조혈모세포이식이 적합하고, 이전 치료경험이 없는 다발골수종 환자에 대한 덱사메타손 또는 덱사메타손 및 탈리도마이드 병용의 유도요법 3) 한 가지 이상의 치료를 받은 다발골수종 환자 2. 외투세포림프종(Mantle Cell Lymphoma) 1) 조혈모세포이식이 적합하지 않고, 이전 치료경험이 없는 외투세포림프종 2) 한가지 이상의 치료를 받은 외투세포림프종",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:32Z",
+   "last_observed_at": "2026-09-08T08:57:32Z",
+   "official_revision_date": "2020-01-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:32Z"
+}

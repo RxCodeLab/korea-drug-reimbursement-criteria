@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507969",
+ "item_name": "테바올란자핀정15밀리그램",
+ "entp_name": "(주)한독테바",
+ "permit_date": "20151127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089222]올란자핀",
+ "main_item_ingr_eng": "Olanzapine",
+ "edi_code": "626900690",
+ "atc_code": "N05AH03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507969",
+ "revisions": [
+  {
+   "revision_id": "201507969-f6f7c049",
+   "content_sha256": "f6f7c049516aff2a2bffc499c4fa4ce6e73546536ebb0646f211296948cd9e16",
+   "ee_text": "1. 조현병 2. 양극성장애 - 양극성장애 1형과 관련된 조증 및 혼재삽화의 치료 - 올란자핀 투여로 조증삽화에 반응을 보인 환자들에 있어서 양극성 장애의 재발방지 - 양극성장애 1형과 관련된 우울삽화의 급성 치료",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:55Z",
+   "last_observed_at": "2026-09-08T08:49:55Z",
+   "official_revision_date": "2020-12-10"
+  },
+  {
+   "revision_id": "201507969-e8dce12e",
+   "content_sha256": "e8dce12e4710451300e437aa5f3ee82f0e39a98539ede47e3f7a4230cae6ca19",
+   "ee_text": "1. 정신분열병 2. 양극성장애 - 양극성장애 1형과 관련된 조증 및 혼재삽화의 치료 - 올란자핀 투여로 조증삽화에 반응을 보인 환자들에 있어서 양극성 장애의 재발방지 - 양극성장애 1형과 관련된 우울삽화의 급성 치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:49:55Z",
+   "last_observed_at": "2026-09-08T08:49:55Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:55Z"
+}

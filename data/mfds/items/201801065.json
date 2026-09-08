@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801065",
+ "item_name": "글라지아프리필드펜(인슐린글라진,유전자재조합)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20180307",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M201508]인슐린글라진(유전자재조합)",
+ "main_item_ingr_eng": "Insulin Glargine (rDNA)",
+ "edi_code": "643605551",
+ "atc_code": "A10AE04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801065",
+ "revisions": [
+  {
+   "revision_id": "201801065-24d345b6",
+   "content_sha256": "24d345b644b6ec271854d0194567a90e63e3274082fcc546b90543cae6f24d1f",
+   "ee_text": "2세 이상의 어린이와 청소년 및 성인에서의 인슐린 요법을 필요로 하는 당뇨병",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:55Z",
+   "last_observed_at": "2026-09-08T08:52:55Z",
+   "official_revision_date": "2018-03-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:55Z"
+}

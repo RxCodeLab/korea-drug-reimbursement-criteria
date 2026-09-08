@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199903229",
+ "item_name": "레보투스시럽(레보드로프로피진)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "19991021",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090122]레보드로프로피진|[M090122]레보드로프로피진",
+ "main_item_ingr_eng": "Levodropropizine",
+ "edi_code": "642000191,642000192",
+ "atc_code": "R05DB27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199903229",
+ "revisions": [
+  {
+   "revision_id": "199903229-b31c7c19",
+   "content_sha256": "b31c7c19f05aae2dd09f6108eb7560f189d1d1145980c5b4ac606b692d3f2832",
+   "ee_text": "다음 질환에서의 기침: 급·만성 기관지염",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:01Z",
+   "last_observed_at": "2026-09-08T08:33:01Z",
+   "official_revision_date": "2021-01-27"
+  },
+  {
+   "revision_id": "199903229-8d828b29",
+   "content_sha256": "8d828b290b4839fd4a983c86e1789712047c86cd18bbc2e5a6578c5abab43d06",
+   "ee_text": "기침: 급.만성 기관지염",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:33:01Z",
+   "last_observed_at": "2026-09-08T08:33:01Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:01Z"
+}

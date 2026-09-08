@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100621",
+ "item_name": "비스칸지캡슐",
+ "entp_name": "(주)바이넥스",
+ "permit_date": "20010515",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M200641]바실루스폴리퍼멘티쿠스엔에스피균|[M253700]클로스트리듐부티리쿰토아균",
+ "main_item_ingr_eng": "Bacillus Polyfermenticus NSP/Clostridium Butyricum Toa",
+ "edi_code": "",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100621",
+ "revisions": [
+  {
+   "revision_id": "200100621-97581d9a",
+   "content_sha256": "97581d9ac50e49a6ee12c1839cf2bb504e73ab43f501469427e9569fd0f6dc90",
+   "ee_text": "정장, 변비, 묽은변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:55Z",
+   "last_observed_at": "2026-09-08T08:34:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:55Z"
+}

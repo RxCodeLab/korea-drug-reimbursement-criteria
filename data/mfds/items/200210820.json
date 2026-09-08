@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200210820",
+ "item_name": "한풍지황백호탕엑스과립(동의수세보원)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20020304",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040205]방풍|[M040279]석고|[M040535]지모|[M050227]독활|[M051363]생지황",
+ "main_item_ingr_eng": "Anemarrhena Rhizome/Aralia Continentalis Root/Gypsum Fibrosum/Rehmanniae Radix Recens/Saposhnikovia Root",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210820",
+ "revisions": [
+  {
+   "revision_id": "200210820-0749ea0b",
+   "content_sha256": "0749ea0b31de54784184814c45145b5bcf6686c5bfc77c8a7ea68ddfb9a3904a",
+   "ee_text": "소양인의 대·소변이 잘 나오지 않는 증상(대장의 가볍고 깨끗한 기운이 상승하지 못하고 쇠약해지는 증상 : 소양인의 이열변폐증)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:39Z",
+   "last_observed_at": "2026-09-08T08:36:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:39Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801539",
+ "item_name": "벤타비스흡입액(일로프로스트)",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20080204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102071]일로프로스트|[M102071]일로프로스트",
+ "main_item_ingr_eng": "Iloprost",
+ "edi_code": "641100621",
+ "atc_code": "B01AC11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801539",
+ "revisions": [
+  {
+   "revision_id": "200801539-8d6321ab",
+   "content_sha256": "8d6321ab5f25eb9a7375f2aa86da0ea39f1ef80b92fe6b73a2828fbe7b42567c",
+   "ee_text": "NYHA Ⅲ,Ⅳ에 해당하는 폐동맥고혈압(WHO GroupⅠ)환자의 운동능력 및 증상 개선",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:15Z",
+   "last_observed_at": "2026-09-08T08:42:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:15Z"
+}

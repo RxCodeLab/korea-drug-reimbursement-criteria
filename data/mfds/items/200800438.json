@@ -7,11 +7,12 @@
  "permit_date": "20030205",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M095661]멸균천연해수|[M082390]덱스판테놀",
+ "main_item_ingr": "[M082390]덱스판테놀|[M095661]멸균천연해수",
  "main_item_ingr_eng": "Dexpanthenol/Sterile Sea Water",
  "edi_code": "",
  "atc_code": "R01AX30",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800438",
+ "history_fetched_at": "2026-08-28T13:24:15Z",
  "revisions": [
   {
    "revision_id": "200800438-e5177248",
@@ -19,8 +20,9 @@
    "ee_text": "코막힘(비염(코염)) 및 코(비)점막의 염증에 대한 보습, 세척",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:24:15Z",
-   "last_observed_at": "2026-08-28T13:24:15Z",
-   "official_revision_date": "2019-08-26"
+   "last_observed_at": "2026-09-08T08:42:10Z",
+   "official_revision_date": "2019-08-26",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200800438-ab1673f2",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:15Z",
    "last_observed_at": "2026-08-28T13:24:15Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:15Z"
+ ]
 }

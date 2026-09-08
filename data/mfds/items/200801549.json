@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801549",
+ "item_name": "플루다라정(플루다라빈포스페이트)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20080204",
+ "cancel_date": "20231010",
+ "status": "취하",
+ "main_item_ingr": "[M240201]플루다라빈포스페이트",
+ "main_item_ingr_eng": "Fludarabine Phosphate",
+ "edi_code": "",
+ "atc_code": "L01BB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801549",
+ "revisions": [
+  {
+   "revision_id": "200801549-f1b6c902",
+   "content_sha256": "f1b6c9025e365d8a64d54d1cc909bc9465ec4bf0cf9b268edf6d3dd18e9e1887",
+   "ee_text": "골수 보유가 충분한 환자로서 B-세포 만성 임파구성 백혈병의 일차적인 치료나 이차적 치료법. 일차적인 치료법으로 사용시에는 다음과 같은 경우에 한한다. - 진전된 질병, 즉 Rai stage Ⅲ/Ⅳ(Binet stage C) 환자 - 다음과 같은 증상을 나타내는 Rai stage Ⅰ/Ⅱ(Binet stage A/B) 환자 1. 골수부전의 악화 2. 체중감소, 극도의 피곤함, 야간발한이나 발열 등과 같은 증상을 나타내는 환자 3. 거대 또는 진행성 간비종대 또는 림프절증 환자 4. 2개월 동안 말초 혈액 림프구가 50% 이상 증가하거나 12개월 이내에 말초혈액림프구가 2배로 증가되는 환자 이 약은 다른 전통적인 치료법에 실패한 저등급 비호치킨 림프종(Lg-NHL)의 이차적인 치료법으로 사용된다.",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:15Z",
+   "last_observed_at": "2026-09-08T08:42:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:15Z"
+}

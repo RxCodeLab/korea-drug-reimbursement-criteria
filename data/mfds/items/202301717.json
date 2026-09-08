@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301717",
+ "item_name": "칼디올연질캡슐20마이크로그램(칼시페디올)(수출용)",
+ "entp_name": "(주)메디카코리아",
+ "permit_date": "20230531",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088487]칼시페디올",
+ "main_item_ingr_eng": "Calcifediol",
+ "edi_code": "",
+ "atc_code": "A11CC06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301717",
+ "revisions": [
+  {
+   "revision_id": "202301717-c94a89e9",
+   "content_sha256": "c94a89e90147569a0b25317f7f9be36ff853304b16600d6b98622a05c99b76a3",
+   "ee_text": "신장 투석 환자에 있어서 만성 신부전증과 관련된 다음 증상의 개선 : 저칼슘혈증, 대사성 골질환",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:07Z",
+   "last_observed_at": "2026-09-08T09:02:07Z",
+   "official_revision_date": "2023-05-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:07Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200203661",
+ "item_name": "크로니환(주증황련환)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20021223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040792]황련",
+ "main_item_ingr_eng": "Coptis Rhizome",
+ "edi_code": "",
+ "atc_code": "A16A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200203661",
+ "revisions": [
+  {
+   "revision_id": "200203661-ac44ae88",
+   "content_sha256": "ac44ae8865a33ac9bdfdf3e47c8be018ec721e56d69ccb9e713025a798b4bc74",
+   "ee_text": "더위에 의한 열감을 느끼는 목마름, 과음에 의한 황달, 음주 후의 새벽설사, 피가 섞인 대변, 열성 설사",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:28Z",
+   "last_observed_at": "2026-09-08T08:36:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:28Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600259",
+ "item_name": "보령나프실린나트륨주1g(나프실린나트륨)",
+ "entp_name": "(주)보령",
+ "permit_date": "20060322",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246292]나프실린나트륨·시트르산나트륨수화물",
+ "main_item_ingr_eng": "Nafcillin Sodium·Sodium Citrate Hydrate",
+ "edi_code": "641900961",
+ "atc_code": "J01CF06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600259",
+ "revisions": [
+  {
+   "revision_id": "200600259-699cdfae",
+   "content_sha256": "699cdfae5b01617a301da244e08595b28822415ac5ab60708899e6a85f62a9e4",
+   "ee_text": "페니실리나제를 생성하는 포도구균에 의한 감염",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:47Z",
+   "last_observed_at": "2026-09-08T08:39:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:47Z"
+}

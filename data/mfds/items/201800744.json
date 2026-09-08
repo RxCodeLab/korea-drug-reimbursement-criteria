@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800744",
+ "item_name": "티카젠정90밀리그램(티카그렐러)",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20180207",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252586]티카그렐러",
+ "main_item_ingr_eng": "Ticagrelor",
+ "edi_code": "",
+ "atc_code": "B01AC24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800744",
+ "revisions": [
+  {
+   "revision_id": "201800744-e957f729",
+   "content_sha256": "e957f72967674670f1a4b0a710e56d4ed8f725ebd55831f859f45b6a3b214aaa",
+   "ee_text": "1. 다음의 성인 환자에서 아스피린과 병용하여, 혈전성 심혈관 사건 (심혈관 이상으로 인한 사망, 심근경색, 뇌졸중)의 발생률 감소 - 급성관상동맥증후군 - 심근경색의 병력(최소 1년 이상 이전에 발생)이 있는 혈전성 심혈관 사건의 발생 위험이 높은 환자 2. 다음의 혈전성 심혈관 사건의 발생 위험이 높은 성인 환자에서 아스피린과 병용하여 심근경색 또는 뇌졸중의 발생률 감소 - 제2형 당뇨병이 있고, 심근경색 또는 뇌졸중 병력이 없는 관상동맥질환으로 경피적 관상동맥 중재술(PCI)을 받은 경험이 있는 환자 3. 급성 허혈성 뇌졸중(NIH Stroke Scale score≤5) 또는 고위험의 일과성 허혈 발작(TIA)이 있는 성인 환자에서 아스피린과 병용하여 뇌졸중의 발생률 감소",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:51Z",
+   "last_observed_at": "2026-09-08T08:52:51Z",
+   "official_revision_date": "2023-03-21"
+  },
+  {
+   "revision_id": "201800744-8f151213",
+   "content_sha256": "8f151213b96d4cac36def54d831fad0c55a787569bc1c0706ab35d73288292b8",
+   "ee_text": "다음의 성인 환자에서 아스피린과 병용하여, 혈전성 심혈관 사건(심혈관 이상으로 인한 사망, 심근경색, 뇌졸중)의 발생률 감소 • 급성관상동맥증후군 • 심근경색의 병력(최소 1년 이상 이전에 발생)이 있는 혈전성 심혈관 사건의 발생 위험이 높은 환자",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-02-07",
+   "first_observed_at": "2026-09-08T08:52:51Z",
+   "last_observed_at": "2026-09-08T08:52:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:51Z"
+}

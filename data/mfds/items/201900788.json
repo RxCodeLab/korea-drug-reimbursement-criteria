@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900788",
+ "item_name": "카비부설판주",
+ "entp_name": "프레지니우스카비코리아(주)",
+ "permit_date": "20190201",
+ "cancel_date": "20240201",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040226]부설판",
+ "main_item_ingr_eng": "Busulfan",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900788",
+ "revisions": [
+  {
+   "revision_id": "201900788-8793ccc4",
+   "content_sha256": "8793ccc4d8e22d939f7a888a62b9cbb2b2063dafaa5383ffef19f4400f17a43e",
+   "ee_text": "다음 질환에 대하여 시클로포스파미드 와 병용하여 조혈모세포 이식시 전처치요법으로 사용한다 : 급성 백혈병, 만성 골수성 백혈병, 림프종, 골수 이형성증후군",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:12Z",
+   "last_observed_at": "2026-09-08T08:54:12Z",
+   "official_revision_date": "2019-02-01"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:12Z"
+}

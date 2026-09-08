@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902956",
+ "item_name": "파탁정20mg(파모티딘)",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20190508",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081653]파모티딘",
+ "main_item_ingr_eng": "Famotidine",
+ "edi_code": "690300950",
+ "atc_code": "A02BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902956",
+ "revisions": [
+  {
+   "revision_id": "201902956-6ee0b8b8",
+   "content_sha256": "6ee0b8b86495417fd2f3dc83eaa0fc83c2fa80846599064ef8d482d55129c803",
+   "ee_text": "1. 주효능 효과 위.십이지장궤양, 문합부궤양, 상부소화관출혈(소화성궤양, 급성스트레스궤양,출혈성위염에 의한), 역류성식도염, 졸링거-엘리슨증후군, 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:05Z",
+   "last_observed_at": "2026-09-08T08:55:05Z",
+   "official_revision_date": "2019-05-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:05Z"
+}

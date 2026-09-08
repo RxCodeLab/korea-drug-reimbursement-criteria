@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201202810",
+ "item_name": "케이팜플라스타(플루르비프로펜)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20120412",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201202810",
+ "revisions": [
+  {
+   "revision_id": "201202810-eb30d612",
+   "content_sha256": "eb30d612cf1335502663c95c8ec663a821cf56a719500831dbc10e8bdcc9626c",
+   "ee_text": "다음 질환 및 증상의 진통 ㆍ 소염(항염) 1) 퇴행성관절염(골(뼈)관절염) 2) 어깨관절주위염 3) 건염(힘줄염) ㆍ 건초염(힘줄윤활막염) 4) 상완골(위팔뼈)상과염(테니스 엘보우 등) 5) 근육통 6) 외상후의 종창 ㆍ 동통(상처후의 부기 ㆍ 통증)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:15Z",
+   "last_observed_at": "2026-09-08T08:45:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:15Z"
+}

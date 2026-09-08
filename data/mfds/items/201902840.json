@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902840",
+ "item_name": "크린코정",
+ "entp_name": "미래바이오제약(주)",
+ "permit_date": "20190502",
+ "cancel_date": "20240502",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050096]글리시리진산|[M223183]카페인무수물|[M223211]클로르페니라민말레산염|[M223279]페닐레프린염산염|[M269540]dl-메틸에페드린말레산염",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/DL-Methylephedrine Maleate/Glycyrrhizic Acid/Phenylephrine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902840",
+ "revisions": [
+  {
+   "revision_id": "201902840-3bbd9510",
+   "content_sha256": "3bbd95105a0a851d5e7cdeefae7b70ac668f5f7ce5a0cc2ac5045432f3954850",
+   "ee_text": "코감기(급성비염(코염)), 알레르기성 비염(코염) 또는 부비동염에 의한 다음 증상의 완화 : 코막힘, 콧물, 재채기, 눈물, 인후(목구멍)통, 머리 무거움",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:02Z",
+   "last_observed_at": "2026-09-08T08:55:02Z",
+   "official_revision_date": "2019-05-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:02Z"
+}

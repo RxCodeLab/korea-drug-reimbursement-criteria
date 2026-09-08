@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106168",
+ "item_name": "제일작약감초탕엑스과립",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20210825",
+ "cancel_date": "20260825",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040006]감초|[M040523]작약|[M270220]이상 수침연조엑스",
+ "main_item_ingr_eng": "As Soft Extract/Licorice/Peony Root",
+ "edi_code": "",
+ "atc_code": "M03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106168",
+ "revisions": [
+  {
+   "revision_id": "202106168-dfa8214f",
+   "content_sha256": "dfa8214f622d83b889cd018070c01e7b529d1b0d55750ef78409e3f023c6f5d1",
+   "ee_text": "급격히 일어나는 근육의 경련을 수반하는 통증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:30Z",
+   "last_observed_at": "2026-09-08T09:00:30Z",
+   "official_revision_date": "2021-08-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:30Z"
+}

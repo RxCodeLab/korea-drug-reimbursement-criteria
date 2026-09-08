@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800097",
+ "item_name": "한풍승마엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040329]승마",
+ "main_item_ingr_eng": "Cimicifuga Rhizome",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800097",
+ "revisions": [
+  {
+   "revision_id": "198800097-68bf2ce4",
+   "content_sha256": "68bf2ce472f93d64821764fab73e11d94cd93d8a00db425372950372b589bbfa",
+   "ee_text": "해열, 해독, 진통",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:32Z",
+   "last_observed_at": "2026-09-08T08:27:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:32Z"
+}

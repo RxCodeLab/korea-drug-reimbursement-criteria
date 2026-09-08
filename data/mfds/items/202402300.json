@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402300",
+ "item_name": "리트풀로캡슐50밀리그램(리틀레시티닙토실산염)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20240924",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284857]리틀레시티닙토실산염",
+ "main_item_ingr_eng": "Ritlecitinib Tosylate",
+ "edi_code": "",
+ "atc_code": "L04AF08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402300",
+ "revisions": [
+  {
+   "revision_id": "202402300-926e2c1e",
+   "content_sha256": "926e2c1e9a34f08826fec22c71ac2b0f1f77e8820a4f0193a94763f03a7510a6",
+   "ee_text": "성인 및 12세 이상의 청소년에서 중증 원형탈모증의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:21Z",
+   "last_observed_at": "2026-09-08T09:03:21Z",
+   "official_revision_date": "2024-09-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:21Z"
+}

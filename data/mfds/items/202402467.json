@@ -7,7 +7,7 @@
  "permit_date": "20241021",
  "cancel_date": "20250805",
  "status": "취하",
- "main_item_ingr": "[M084567]녹용50%에탄올유동엑스|[M110035]시트르산칼슘|[M243785]산화아연|[M081871]글리세로인산마그네슘|[M244748]판토텐산칼슘|[M227509]아스코르브산97%과립|[M096428]벤포티아민|[M040133]리보플라빈|[M089579]황기엑스산|[M084754]홍삼30%에탄올건조엑스|[M255949]농축콜레칼시페롤과립",
+ "main_item_ingr": "[M040133]리보플라빈|[M081871]글리세로인산마그네슘|[M084567]녹용50%에탄올유동엑스|[M084754]홍삼30%에탄올건조엑스|[M089579]황기엑스산|[M096428]벤포티아민|[M110035]시트르산칼슘|[M227509]아스코르브산97%과립|[M243785]산화아연|[M244748]판토텐산칼슘|[M255949]농축콜레칼시페롤과립",
  "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Astragalus Root Extract Powder/Benfotiamine/Calcium Citrate/Calcium Pantothenate/Cervi Parvum Cornu 50% Ethanol Fluid Extract/Cholecalciferol Concentrate Granules/Magnesium Glycerophosphate/Red Ginseng 30% Ethanol Dried Extract/Riboflavin/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:37:57Z",
  "revisions": [
   {
-   "revision_id": "202402467-4d4f9393",
-   "content_sha256": "4d4f939353c4a7fd432405e9ad5cc97967356449221bff18cec023c8e8b4ca5a",
-   "ee_text": "- 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. • 뼈, 이의 발육불량 • 구루병의 예방 • 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 • 햇빛·피부병 등에 의한 색소침착(기미, 주근깨)의 완화 • 잇몸출혈·비출혈(코피) 예방",
+   "revision_id": "202402467-67093200",
+   "content_sha256": "670932008b4ad833223a86038a2b85bb5f752893ce9dcfecc113c615eac75a60",
+   "ee_text": "1. 다음경우의 비타민 D, B1, B2, C의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. • 뼈, 이의 발육불량 • 구루병의 예방 • 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 • 햇빛·피부병 등에 의한 색소침착(기미, 주근깨)의 완화 • 잇몸출혈·비출혈(코피) 예방 2. 자양강장 3. 칼슘결핍 및 기타 칼슘의 보급",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202402467/EE",
    "first_observed_at": "2026-08-27T10:37:57Z",
-   "last_observed_at": "2026-08-28T13:25:36Z"
+   "last_observed_at": "2026-09-08T09:03:23Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "202402467-447240ab",

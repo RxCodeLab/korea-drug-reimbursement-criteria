@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507692",
+ "item_name": "에보타즈정(아타자나비르황산염, 코비시스타트이산화규소)",
+ "entp_name": "(유)한국비엠에스제약",
+ "permit_date": "20151112",
+ "cancel_date": "20251112",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M115484]코비시스타트이산화규소|[M263079]아타자나비르황산염",
+ "main_item_ingr_eng": "Atazanavir Sulfate/Cobicistat Silicone Dioxide",
+ "edi_code": "",
+ "atc_code": "J05AR15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507692",
+ "revisions": [
+  {
+   "revision_id": "201507692-77b661d2",
+   "content_sha256": "77b661d2df844e42aa36d8c2d42e89233a0a8a0bb8f93f4bd5ae378bd3e38cec",
+   "ee_text": "다른 항레트로바이러스제와 병용하여 성인의 HIV-1 감염치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:50Z",
+   "last_observed_at": "2026-09-08T08:49:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:50Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605960",
+ "item_name": "영진피도티모드액(수출용)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20161007",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088363]피도티모드",
+ "main_item_ingr_eng": "Pidotimod",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605960",
+ "revisions": [
+  {
+   "revision_id": "201605960-120fc2b7",
+   "content_sha256": "120fc2b76ffb0272626dc78cd1a81ab6045ff73664e6a49ab294662affb5198a",
+   "ee_text": "호흡기 감염시 세포매개성 면역능 저하에 대한 면역증강요법",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:15Z",
+   "last_observed_at": "2026-09-08T08:51:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:15Z"
+}

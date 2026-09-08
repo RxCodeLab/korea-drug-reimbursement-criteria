@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200811445",
+ "item_name": "닥터콜액(쌍황련연조엑스)",
+ "entp_name": "원광제약(주)",
+ "permit_date": "20081205",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M281524]쌍황련75%에탄올연조엑스",
+ "main_item_ingr_eng": "Ssanghwangnyeon 75% Ethanol Soft Extract",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811445",
+ "revisions": [
+  {
+   "revision_id": "200811445-d0f365ce",
+   "content_sha256": "d0f365ce22811a64f4ca3f655ae88cbd2ca3da830ecafb1564495dada0a9cacb",
+   "ee_text": "감기에 따른 발열",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:58Z",
+   "last_observed_at": "2026-09-08T08:42:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:58Z"
+}

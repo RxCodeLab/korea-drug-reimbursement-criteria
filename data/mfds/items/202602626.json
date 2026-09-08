@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602626",
+ "item_name": "다네옥시100(산화에틸렌)",
+ "entp_name": "단일시스켐(주)",
+ "permit_date": "20260903",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254144]산화에틸렌",
+ "main_item_ingr_eng": "Ethylene Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602626",
+ "revisions": [
+  {
+   "revision_id": "202602626-b7279c1a",
+   "content_sha256": "b7279c1a7c9b3e59856f6c544fa4bc9fce7e020946fe4ffc22aebd8ce14b7ac9",
+   "ee_text": "의료용 기재등의 소독멸균",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:43Z",
+   "last_observed_at": "2026-09-08T09:05:43Z",
+   "official_revision_date": "2026-09-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:43Z"
+}

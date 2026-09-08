@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109116",
+ "item_name": "아좁트점안액(브린졸라미드)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20010725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M104665]브린졸라미드",
+ "main_item_ingr_eng": "Brinzolamide",
+ "edi_code": "653603031",
+ "atc_code": "S01EC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109116",
+ "revisions": [
+  {
+   "revision_id": "200109116-2721504d",
+   "content_sha256": "2721504d5da3ee5cce6e2fba47926e4419237385022e84c580d19e0874e77a7e",
+   "ee_text": "고안압증 또는 개방각 녹내장 환자의 상승된 안압 치료",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:51Z",
+   "last_observed_at": "2026-09-08T08:35:51Z",
+   "official_revision_date": "2022-10-27"
+  },
+  {
+   "revision_id": "200109116-c0296a21",
+   "content_sha256": "c0296a21f1c2b9176d92f79bac4e6dbf42aa78ffe82ae4375778dba06debd767",
+   "ee_text": "고안압증 또는 개방각 녹내장 환자의 상습된 안압 치료",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:35:51Z",
+   "last_observed_at": "2026-09-08T08:35:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:51Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902645",
+ "item_name": "아세디드캡슐200밀리그램(아세틸시스테인)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20190425",
+ "cancel_date": "20240328",
+ "status": "취하",
+ "main_item_ingr": "[M050972]아세틸시스테인",
+ "main_item_ingr_eng": "Acetylcysteine",
+ "edi_code": "",
+ "atc_code": "R05CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902645",
+ "revisions": [
+  {
+   "revision_id": "201902645-bfec7d19",
+   "content_sha256": "bfec7d194aab613bfa25f005b755cf97911d8fdd7d2bdcd9ed9fc5dd70788f0b",
+   "ee_text": "다음 질환에서의 객담배출곤란 : 급ㆍ만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:58Z",
+   "last_observed_at": "2026-09-08T08:54:58Z",
+   "official_revision_date": "2019-04-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:58Z"
+}

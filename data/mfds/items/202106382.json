@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106382",
+ "item_name": "싱그릭스주[대상포진바이러스백신(유전자재조합)]",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20210906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281392]재조합 수두대상포진바이러스 당단백질E(숙주세포주: CHO-K1, 벡터: pRIT14427)",
+ "main_item_ingr_eng": "Recombinant Varicella Zoster Virus Glycoprotein E(Host: CHO-K1, Vector: pRIT14427)",
+ "edi_code": "",
+ "atc_code": "J07BK03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106382",
+ "revisions": [
+  {
+   "revision_id": "202106382-715b11c0",
+   "content_sha256": "715b11c066eeb659c3e7f1ee46fc49423ff5b33aab7fad14427995d594ea27a6",
+   "ee_text": "대상포진 (HZ; herpes zoster)의 예방 - 50세 이상의 성인 - 18세 이상에서 질병 혹은 치료로 인한 면역저하 또는 면역억제로 인하여 대상포진의 위험이 높거나 높을 것으로 예상되는 사람 (예, 자가조혈모세포이식자, 고형암, 혈액암, 고형장기 이식 환자)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202106382/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:33Z",
+   "last_observed_at": "2026-09-08T09:00:33Z"
+  },
+  {
+   "revision_id": "202106382-cb1f967b",
+   "content_sha256": "cb1f967b1d6bb2c473ef3effb2e9c417c578e29fcf0724667903e62095c1b7b5",
+   "ee_text": "대상포진 (HZ; herpes zoster)의 예방 - 만 50세 이상의 성인 - 만 18세 이상에서 질병 혹은 치료로 인한 면역저하 또는 면역억제로 인하여 대상포진의 위험이 높거나 높을 것으로 예상되는 사람 (예, 자가조혈모세포이식자, 고형암, 혈액암, 고형장기 이식 환자)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-09-06",
+   "first_observed_at": "2026-09-08T09:00:33Z",
+   "last_observed_at": "2026-09-08T09:00:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:33Z"
+}

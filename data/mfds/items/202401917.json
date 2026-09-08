@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401917",
+ "item_name": "플루셀박스쿼드프리필드시린지(세포배양인플루엔자표면항원백신)",
+ "entp_name": "시퀴러스코리아(유)",
+ "permit_date": "20240806",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284831]정제불활화인플루엔자바이러스항원B형[B/Singapore/INFTT-16-0610/2016]|[M285576]정제불활화인플루엔자바이러스항원B형[B/Singapore/WUH4618/2021]|[M285578]정제불활화인플루엔자바이러스항원A형[A/Victoria/800/2024 CVR-289 (H3N2)]|[M285579]정제불활화인플루엔자바이러스항원A형[A/Georgia/12/2022 CVR-167 (H1N1)]",
+ "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A [A/Georgia/12/2022 CVR-167 (H1N1)]/Purified Inactivated Influenza Virus Antigen A [A/Victoria/800/2024 CVR-289 (H3N2)]/Purified Inactivated Influenza Virus Antigen B [B/Singapore/INFTT-16-0610/2016]/Purified Inactivated Influenza Virus Antigen B [B/Singapore/WUH4618/2021]",
+ "edi_code": "",
+ "atc_code": "J07BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401917",
+ "revisions": [
+  {
+   "revision_id": "202401917-d74fdda5",
+   "content_sha256": "d74fdda572f504fe5fd0685d09a05f3bab2e81da242f9dd64149b82bc58c5ffb",
+   "ee_text": "6개월 이상 소아 및 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스들에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:12Z",
+   "last_observed_at": "2026-09-08T09:03:12Z",
+   "official_revision_date": "2025-07-04"
+  },
+  {
+   "revision_id": "202401917-e7475c6f",
+   "content_sha256": "e7475c6f8c62872d8240505e3833336aca292f1bbf3cc5bbfa4f773f60c30347",
+   "ee_text": "2 세 이상 소아 및 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스들에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-08-06",
+   "first_observed_at": "2026-09-08T09:03:12Z",
+   "last_observed_at": "2026-09-08T09:03:12Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:12Z"
+}

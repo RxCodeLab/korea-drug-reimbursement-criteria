@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008819",
+ "item_name": "테라마이신안연고",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20001214",
+ "cancel_date": "20251001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223166]옥시테트라사이클린염산염|[M233313]폴리믹신B황산염",
+ "main_item_ingr_eng": "Oxytetracycline Hydrochloride/Polymyxin B Sulfate",
+ "edi_code": "",
+ "atc_code": "S01AA30",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008819",
+ "revisions": [
+  {
+   "revision_id": "200008819-3ac2e05e",
+   "content_sha256": "3ac2e05e07e0e1395c3978bd9090fbf3531007b0567182c09087f02781aada6f",
+   "ee_text": "옥시테트라사이클린염산염 및 폴리믹신B 감수성균에 의한 결막과 각막을 포함한 표재성 안감염",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:32Z",
+   "last_observed_at": "2026-09-08T08:34:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:32Z"
+}

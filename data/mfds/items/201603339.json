@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603339",
+ "item_name": "사이프록실액(시클로피록스올아민)",
+ "entp_name": "(주)나노팜",
+ "permit_date": "20160610",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085155]시클로피록스올아민",
+ "main_item_ingr_eng": "Ciclopirox Olamine",
+ "edi_code": "",
+ "atc_code": "D01AE14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603339",
+ "revisions": [
+  {
+   "revision_id": "201603339-ab4ff32e",
+   "content_sha256": "ab4ff32eda10c70b86a1ed523aba49a477ce6f43c809b88ba763873c4c314df4",
+   "ee_text": "지루성피부염",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:45Z",
+   "last_observed_at": "2026-09-08T08:50:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:45Z"
+}

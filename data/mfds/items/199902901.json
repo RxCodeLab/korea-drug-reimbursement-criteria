@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199902901",
+ "item_name": "아코바정(정제부자)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "19990605",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M201585]정제부자",
+ "main_item_ingr_eng": "Pulvis Aconiti Tuberis Purificaum",
+ "edi_code": "",
+ "atc_code": "C01EB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902901",
+ "revisions": [
+  {
+   "revision_id": "199902901-f65bc20e",
+   "content_sha256": "f65bc20ef98b11c201a07cc977328321719cbe4e3938aa3f6a29e0dbf61dd2d9",
+   "ee_text": "진통, 강심, 이뇨",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:56Z",
+   "last_observed_at": "2026-09-08T08:32:56Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:56Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906374",
+ "item_name": "큐르티손로션(히드로코르티손)",
+ "entp_name": "주식회사큐엘파마",
+ "permit_date": "20190909",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101579]히드로코르티손",
+ "main_item_ingr_eng": "Hydrocortisone",
+ "edi_code": "673400092",
+ "atc_code": "D07AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906374",
+ "revisions": [
+  {
+   "revision_id": "201906374-dc88acc1",
+   "content_sha256": "dc88acc158caa5b8f4d86dbfa2e1d525c181fd17048973efe05e156e2dbeb163",
+   "ee_text": "(연고제)(크림제)(로오숀제) 습진ㆍ피부염군, 피부가려움, 벌레물린데",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:20Z",
+   "last_observed_at": "2026-09-08T08:56:20Z",
+   "official_revision_date": "2019-09-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:20Z"
+}

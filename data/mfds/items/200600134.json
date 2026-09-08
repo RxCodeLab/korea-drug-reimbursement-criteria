@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600134",
+ "item_name": "판테민정(판테틴)",
+ "entp_name": "(주)바이넥스",
+ "permit_date": "20060403",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223278]판테틴",
+ "main_item_ingr_eng": "Pantethine",
+ "edi_code": "",
+ "atc_code": "A11HA32",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600134",
+ "revisions": [
+  {
+   "revision_id": "200600134-1f077058",
+   "content_sha256": "1f077058a0065beaec6e7d5402f60e262869d36b50af1d7594f6972474cee846",
+   "ee_text": "1. 판토텐산 결핍증의 예방 및 치료 2. 판토텐산의 수요가 증대하여 식사로부터의 섭취가 불충분한 경우의 보급 : 소모성질환, 갑상선기능항진증, 임산부, 수유부 등 3. 다음 질환 중 판토텐산의 결핍 또는 대사 장애가 관여한다고 추정되는 경우 1) 고지혈증 2) 이완성 변비 3) 스트렙토마이신 및 가나마이신에 의한 부작용의 예방 및 치료 4) 급ㆍ만성 습진 5) 혈액질환의 혈소판 수 및 출혈경향 개선",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:45Z",
+   "last_observed_at": "2026-09-08T08:39:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:45Z"
+}

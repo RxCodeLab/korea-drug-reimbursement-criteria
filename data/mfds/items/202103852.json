@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103852",
+ "item_name": "명도파정50/200밀리그램(벤세라지드, 레보도파)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20210514",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040122]레보도파|[M223046]벤세라지드염산염",
+ "main_item_ingr_eng": "Benserazide Hydrochloride/Levodopa",
+ "edi_code": "651905020",
+ "atc_code": "N04BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103852",
+ "revisions": [
+  {
+   "revision_id": "202103852-3087e1f6",
+   "content_sha256": "3087e1f6f4d2b485316866a8c93d301b951c72aa9b6ec57a5bd7e7b6c18831e2",
+   "ee_text": "파킨슨증후군(약물로 인한 파킨슨병 제외)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:11Z",
+   "last_observed_at": "2026-09-08T09:00:11Z",
+   "official_revision_date": "2021-05-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:11Z"
+}

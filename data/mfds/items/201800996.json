@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800996",
+ "item_name": "에피듀오포르테겔0.3%/2.5%(아다팔렌/과산화벤조일)",
+ "entp_name": "갈더마코리아(주)",
+ "permit_date": "20180227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089466]아다팔렌|[M247420]가수과산화벤조일",
+ "main_item_ingr_eng": "Adapalene/Hydrous Benzoyl Peroxide",
+ "edi_code": "",
+ "atc_code": "D10AD53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800996",
+ "revisions": [
+  {
+   "revision_id": "201800996-7a648e7e",
+   "content_sha256": "7a648e7e54e343a9c12e8aeb77c8619c0b2deba9dc884e2260f26f4f7db48e3a",
+   "ee_text": "12세 이상에서 면포, 구진, 농포가 나타나는 중등증에서 중증의 여드름의 국소치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:54Z",
+   "last_observed_at": "2026-09-08T08:52:54Z",
+   "official_revision_date": "2018-02-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:54Z"
+}

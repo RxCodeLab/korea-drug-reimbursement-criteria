@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802379",
+ "item_name": "라이트정제수",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20180608",
+ "cancel_date": "20250716",
+ "status": "취하",
+ "main_item_ingr": "[M007131]정제수",
+ "main_item_ingr_eng": "Purified Water",
+ "edi_code": "",
+ "atc_code": "V07AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802379",
+ "revisions": [
+  {
+   "revision_id": "201802379-cca9561a",
+   "content_sha256": "cca9561aa965e103a4daeee750d1f5bb6f6dc66fab84237941d33d922bc18c1f",
+   "ee_text": "약품의 용제, 시약, 시약의 조제에 사용",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:14Z",
+   "last_observed_at": "2026-09-08T08:53:14Z",
+   "official_revision_date": "2018-06-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:14Z"
+}

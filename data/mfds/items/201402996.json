@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402996",
+ "item_name": "케이테졸주0.5그램(세프테졸나트륨)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20140707",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020303]세프테졸나트륨",
+ "main_item_ingr_eng": "Ceftezole Sodium",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402996",
+ "revisions": [
+  {
+   "revision_id": "201402996-894b1bf2",
+   "content_sha256": "894b1bf24db24721ffa27c7df10331a32b17dd22a9cfd2b35d90663c2ea43630",
+   "ee_text": "○ 유효균종 포도구균, 스트렙토콕쿠스 피오게네스(그룹 A-베타용혈성), 폐렴연쇄구균, 대장균, 폐렴간균, 프로테우스 미라빌리스 ○ 적응증 - 패혈증 - 폐렴, 기관지염, 기관지확장증(감염 시), 만성호흡기질환의 2차감염, 폐농양 - 복막염 - 신우신염, 방광염, 요도염",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:16Z",
+   "last_observed_at": "2026-09-08T08:47:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:16Z"
+}

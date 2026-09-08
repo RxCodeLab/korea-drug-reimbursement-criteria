@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201506367",
+ "item_name": "퀴로신점이액(오플록사신)(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20150903",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M081639]오플록사신",
+ "main_item_ingr_eng": "Ofloxacin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506367",
+ "revisions": [
+  {
+   "revision_id": "201506367-9b986dc4",
+   "content_sha256": "9b986dc46e64f5ba0c0acdb6e68523a332981ffc3ed48be72bf08b65cc4d0fc9",
+   "ee_text": "포도상구균속, 연쇄상구균속, 프로테우스속, 녹농균, 인플루엔자균과 같은 이 약 감성균에 의한 다음 감염증 : 중이염, 외이염",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:33Z",
+   "last_observed_at": "2026-09-08T08:49:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:33Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001573",
+ "item_name": "제놀푸로탑플라스타(플루르비프로펜)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20200306",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001573",
+ "revisions": [
+  {
+   "revision_id": "202001573-976ee2aa",
+   "content_sha256": "976ee2aaee4a5c8bc407bd184d13216009ed56f9acb292ed1b90619829fd612d",
+   "ee_text": "다음 질환 및 증상의 진통 ㆍ 소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건(힘줄) ㆍ 건초염(힘줄윤활막염), 상완골상과염(테니스 엘보우 등), 근육통, 외상후의 종창(부기) ㆍ 동통(통증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:00Z",
+   "last_observed_at": "2026-09-08T08:58:00Z",
+   "official_revision_date": "2020-03-06"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:00Z"
+}

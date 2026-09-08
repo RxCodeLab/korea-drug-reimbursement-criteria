@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402377",
+ "item_name": "대화리포락셀액(파클리탁셀)(수출용)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20241004",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088462]파클리탁셀",
+ "main_item_ingr_eng": "Paclitaxel",
+ "edi_code": "",
+ "atc_code": "L01CD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402377",
+ "revisions": [
+  {
+   "revision_id": "202402377-32c1e3b3",
+   "content_sha256": "32c1e3b3d8ce230f49d9387c66bd602747494e5a8a34305ab6b515b11d0941d4",
+   "ee_text": "1) 진행성 및 전이성 또는 국소 재발성 위암 2) 재발성 또는 전이성 HER2 음성 유방암의 1차 치료",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:22Z",
+   "last_observed_at": "2026-09-08T09:03:22Z",
+   "official_revision_date": "2026-08-25"
+  },
+  {
+   "revision_id": "202402377-8a4dcfa6",
+   "content_sha256": "8a4dcfa6688731eb0572f171f5aa280af91d8936b9306d1b4b42a48fe0590ad9",
+   "ee_text": "진행성 및 전이성 또는 국소 재발성 위암",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-10-04",
+   "first_observed_at": "2026-09-08T09:03:22Z",
+   "last_observed_at": "2026-09-08T09:03:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:22Z"
+}

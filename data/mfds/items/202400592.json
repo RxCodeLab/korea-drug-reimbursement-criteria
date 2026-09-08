@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400592",
+ "item_name": "제일톡톡콘드로점안액(1회용)",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20240321",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M244445]히프로멜로오스2910|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr_eng": "Hypromellose 2910/Potassium Chloride/Sodium Chloride/Sodium Chondroitin Sulfate",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400592",
+ "revisions": [
+  {
+   "revision_id": "202400592-e425e994",
+   "content_sha256": "e425e9946db4c93a8b7b2f7be23d7465cdd29db06e08b3c32346d26b245888f7",
+   "ee_text": "눈의 피로, 눈물의 보조(눈의 건조), 하드콘택트렌즈 착용시 불쾌감, 눈의 침침함.(눈곱이 많을 때 등)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:49Z",
+   "last_observed_at": "2026-09-08T09:02:49Z",
+   "official_revision_date": "2024-03-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:49Z"
+}

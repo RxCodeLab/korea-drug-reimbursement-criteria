@@ -7,20 +7,22 @@
  "permit_date": "20020927",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M255949]농축콜레칼시페롤과립|[M051564]탄산칼슘",
+ "main_item_ingr": "[M051564]탄산칼슘|[M255949]농축콜레칼시페롤과립",
  "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Granules",
  "edi_code": "642202380",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201481",
+ "history_fetched_at": "2026-08-28T13:24:00Z",
  "revisions": [
   {
-   "revision_id": "200201481-32773106",
-   "content_sha256": "32773106ef1631fb0bbb481579414e98cebe0782d1b8eb3217df54ea34c5c595",
-   "ee_text": "- 임신ㆍ수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ뼈, 이의 발육불량 ㆍ구루병의 예방",
+   "revision_id": "200201481-f9af3c92",
+   "content_sha256": "f9af3c922905a7e89cbfea02288c713737de259128215c279075132cf885a0b3",
+   "ee_text": "○ 다음 경우의 비타민 D의 보급 - 임신ㆍ수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ뼈, 이의 발육불량 ㆍ구루병의 예방 ○ 칼슘결핍 및 기타 칼슘의 보급",
    "ee_doc_id": "26",
    "first_observed_at": "2026-08-28T13:24:00Z",
-   "last_observed_at": "2026-08-28T13:24:00Z",
-   "official_revision_date": "2026-05-11"
+   "last_observed_at": "2026-09-08T08:36:13Z",
+   "official_revision_date": "2026-05-11",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200201481-d094042e",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:00Z",
    "last_observed_at": "2026-08-28T13:24:00Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:00Z"
+ ]
 }

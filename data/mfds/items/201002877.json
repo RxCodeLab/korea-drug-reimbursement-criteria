@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201002877",
+ "item_name": "콤비페넴주500mg(수출용)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20100420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095530]실라스타틴나트륨|[M222879]이미페넴수화물",
+ "main_item_ingr_eng": "Cilastatin Sodium/Imipenem Hydrate",
+ "edi_code": "",
+ "atc_code": "J01DH51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002877",
+ "revisions": [
+  {
+   "revision_id": "201002877-38f0ce11",
+   "content_sha256": "38f0ce11a6fc1a4dcd876a26a4a574879e8bb67d622b09c9be37a531823f2e29",
+   "ee_text": "○ 유효균종 : 포도구균, 연쇄구균, 대장균, 시트로박터, 클레브시엘라, 엔테로박테터, 세라티아, 프로테우스, 슈도모나스, 인플루엔자균, 아시네토박터, 박테로이드, 펩토구균, 펩토연쇄구균 ○ 적응증 : - 기관지염, 기관지확장증(감염시), 만성호흡기질환의 2차감염, 폐렴, 폐농양, 농흉 - 신우신염, 방광염, 전립선염 - 담낭염, 담관염, 간농양, 복막염 - 자궁내강염, 자궁부속기염, 골반사강염, 자궁방 결합직염 - 감염성 심내막염 - 골수염 - 관절염 - 창상의 2차 감염 - 패혈증 - 전안구염, 각막궤양 - 바토린선염",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:57Z",
+   "last_observed_at": "2026-09-08T08:43:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:57Z"
+}

@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:41:06Z",
  "revisions": [
   {
-   "revision_id": "199000165-4aa72800",
-   "content_sha256": "4aa7280065ec9ac6fb9f043a0a19323956fbe7189bd9cab2342a1b2d77a42235",
-   "ee_text": "1) 단순부분발작[잭슨형 포함, 자율신경발작, 정신운동발작] 2) 복합부분발작[정신운동발작, 초점발작] 3) 이차성 전신강직간대발작 1) 강직간대발작(대발작) 2) 강직발작 3) 비정형 결신발작[비정형 소발작]",
+   "revision_id": "199000165-9d78a451",
+   "content_sha256": "9d78a451b20bad1b651df1f0823c183370f146c267fd7f2eaf9b5b36d9a61a3b",
+   "ee_text": "부분발작 및 전신발작의 다음 발작형 : 1. 부분발작 1) 단순부분발작[잭슨형 포함, 자율신경발작, 정신운동발작] 2) 복합부분발작[정신운동발작, 초점발작] 3) 이차성 전신강직간대발작 2. 전신발작 1) 강직간대발작(대발작) 2) 강직발작 3) 비정형 결신발작[비정형 소발작] 3. 혼합발작",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199000165/EE",
    "first_observed_at": "2026-08-27T12:41:06Z",
-   "last_observed_at": "2026-08-28T13:23:43Z"
+   "last_observed_at": "2026-09-08T08:27:57Z",
+   "normalizer_version": 3
   }
  ]
 }

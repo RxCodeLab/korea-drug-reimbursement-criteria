@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200611515",
+ "item_name": "세비보정(텔비부딘)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20061127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M210121]텔비부딘",
+ "main_item_ingr_eng": "Telbivudine",
+ "edi_code": "642204380",
+ "atc_code": "J05AF11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611515",
+ "revisions": [
+  {
+   "revision_id": "200611515-44314bef",
+   "content_sha256": "44314bef76190047f2b1afdf64b309f02e44163b7bf0907ea0f0aac275417719",
+   "ee_text": "바이러스의 복제와 활성 간염의 징후가 있는 만성 B형 간염 환자의 치료",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:47Z",
+   "last_observed_at": "2026-09-08T08:40:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:47Z"
+}

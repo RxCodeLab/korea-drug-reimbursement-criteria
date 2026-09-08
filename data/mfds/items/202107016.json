@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107016",
+ "item_name": "너링스정(네라티닙말레산염)",
+ "entp_name": "(주)빅씽크",
+ "permit_date": "20211019",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281602]네라티닙말레산염",
+ "main_item_ingr_eng": "Neratinib Maleate",
+ "edi_code": "",
+ "atc_code": "L01EH02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107016",
+ "revisions": [
+  {
+   "revision_id": "202107016-45260203",
+   "content_sha256": "452602032c46b56e851fe676faf1bb30212649e0b78ec158944a5a1bd0959375",
+   "ee_text": "• 조기 유방암의 연장 보조치료 호르몬 수용체 양성, HER2 수용체 양성인 성인 조기 유방암 환자로, 이전에 수술 후 보조요법으로 트라스투주맙 기반 치료 완료일로부터 1년 이내인 환자에게 연장 보조치료(Extended adjuvant)로서 단독 투여",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:41Z",
+   "last_observed_at": "2026-09-08T09:00:41Z",
+   "official_revision_date": "2023-05-22"
+  },
+  {
+   "revision_id": "202107016-f81b2d17",
+   "content_sha256": "f81b2d17d26138dc9e000813c99c3478f703f290b3413aa9da982b9199a5241e",
+   "ee_text": "• 조기 유방암의 연장 보조치료 호르몬 수용체 양성, HER2 수용체 양성인 조기 유방암 환자로, 이전에 수술 후 보조요법으로 트라스투주맙 기반 치료 완료일로부터 1년 이내인 환자에게 연장 보조치료(Extended adjuvant)로서 단독 투여",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-10-19",
+   "first_observed_at": "2026-09-08T09:00:41Z",
+   "last_observed_at": "2026-09-08T09:00:41Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:41Z"
+}

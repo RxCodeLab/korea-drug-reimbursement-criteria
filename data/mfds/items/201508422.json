@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508422",
+ "item_name": "아빌리파이메인테나주사300밀리그램(아리피프라졸일수화물)",
+ "entp_name": "한국오츠카제약(주)",
+ "permit_date": "20151223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263313]아리피프라졸일수화물",
+ "main_item_ingr_eng": "Aripiprazole Monohydrate",
+ "edi_code": "649900411",
+ "atc_code": "N05AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508422",
+ "revisions": [
+  {
+   "revision_id": "201508422-3ee74442",
+   "content_sha256": "3ee7444237d9838cdcbbf7329ab2270f2e03888bc303adfa1badbd91424720cd",
+   "ee_text": "1. 조현병의 치료 2. 양극성장애 1형 유지치료를 위한 단독요법",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:02Z",
+   "last_observed_at": "2026-09-08T08:50:02Z",
+   "official_revision_date": "2021-03-02"
+  },
+  {
+   "revision_id": "201508422-5f1ad223",
+   "content_sha256": "5f1ad2235efa2f75de55f98d07ef001cecd665dae6d288222783204377fd2198",
+   "ee_text": "1. 정신분열병(조현병)의 치료 2. 양극성장애 1형 유지치료를 위한 단독요법",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-04-23",
+   "first_observed_at": "2026-09-08T08:50:02Z",
+   "last_observed_at": "2026-09-08T08:50:02Z"
+  },
+  {
+   "revision_id": "201508422-206722e7",
+   "content_sha256": "206722e7f310180d95d75395a0c4120c782347a9567044c6fd8bce72df79950a",
+   "ee_text": "정신분열병(조현병)의 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:50:02Z",
+   "last_observed_at": "2026-09-08T08:50:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:02Z"
+}

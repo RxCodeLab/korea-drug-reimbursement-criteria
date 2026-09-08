@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805162",
+ "item_name": "유레아캡슐(14C우레아)",
+ "entp_name": "(주)태남교역",
+ "permit_date": "20080506",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281891]14C우레아",
+ "main_item_ingr_eng": "14C Urea",
+ "edi_code": "",
+ "atc_code": "V04CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805162",
+ "revisions": [
+  {
+   "revision_id": "200805162-d3d8b647",
+   "content_sha256": "d3d8b647ac56cfaaafeba71742d6706e6a6d28f348124a75747a25c42755b68f",
+   "ee_text": "위장내 H. pylori 감염 진단의 보조수단으로 위의 요소분해효소(gastric urease) 검사",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:29Z",
+   "last_observed_at": "2026-09-08T08:42:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:29Z"
+}

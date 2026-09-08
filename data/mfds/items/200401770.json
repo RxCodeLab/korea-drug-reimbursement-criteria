@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401770",
+ "item_name": "카린올연질캡슐(칼시트리올)(수출용)(수출명:본키캡슐)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20040706",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082905]칼시트리올",
+ "main_item_ingr_eng": "Calcitriol",
+ "edi_code": "",
+ "atc_code": "A11CC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401770",
+ "revisions": [
+  {
+   "revision_id": "200401770-1943db37",
+   "content_sha256": "1943db37c653db0401230aec74c5278d1550e8a6372f27c966be5d27540675b9",
+   "ee_text": "• 만성 신부전증 환자, 특히 혈액투석환자의 신성골이영양증 • 골조송증 • 부갑상선기능저하증(수술후, 특발성 또는 의사부갑상선기능저하증) • 구루병, 골연화장(비타민D 의존성 구루병, 저인혈증성 비타민D 저항성 구루병)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:55Z",
+   "last_observed_at": "2026-09-08T08:37:55Z",
+   "official_revision_date": "2017-09-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:55Z"
+}

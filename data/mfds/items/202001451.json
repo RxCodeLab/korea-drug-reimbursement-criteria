@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001451",
+ "item_name": "울트라릴리프점안액(수출용)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20200302",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M211346]폴리에틸렌글리콜400|[M259521]프로필렌글리콜",
+ "main_item_ingr_eng": "Polyethylene Glycol 400/Propylene Glycol",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001451",
+ "revisions": [
+  {
+   "revision_id": "202001451-a7b21308",
+   "content_sha256": "a7b213084dc9f506f654ffaa2632fd21d752fb76d6b89a1a5460c7cc779ea280",
+   "ee_text": "눈의 건조로 인한 자극감과 작열감(화끈거림)의 일시적 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:57Z",
+   "last_observed_at": "2026-09-08T08:57:57Z",
+   "official_revision_date": "2020-03-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:57Z"
+}

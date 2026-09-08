@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801540",
+ "item_name": "비보티프캡슐(경구용장티푸스백신)",
+ "entp_name": "(주)엑세스파마",
+ "permit_date": "20180409",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267589]장티푸스Ty21a주생균(균주명:Salmonella typhi ty21a,종세포주:Salmonella typhi ty2)",
+ "main_item_ingr_eng": "Live Salmonella Typhoid Ty21a Strain (Strain: Salmonella Typhi Ty21a, Sub Host: Salmonella Typhi Ty2)",
+ "edi_code": "",
+ "atc_code": "J07AP01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801540",
+ "revisions": [
+  {
+   "revision_id": "201801540-33a4bdab",
+   "content_sha256": "33a4bdab76a8b9807dc6e4d03b87bb838973aea6a306b769797a04e2e28f9c36",
+   "ee_text": "만5세 이상 소아 및 성인에서 장티푸스의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:02Z",
+   "last_observed_at": "2026-09-08T08:53:02Z",
+   "official_revision_date": "2018-04-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:02Z"
+}

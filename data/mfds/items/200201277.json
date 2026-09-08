@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201277",
+ "item_name": "벤다리신정(벤다작리신수화물)(수출용)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20020412",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258627]벤다작리신수화물",
+ "main_item_ingr_eng": "Bendazac Lysine Hydrate",
+ "edi_code": "",
+ "atc_code": "S01XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201277",
+ "revisions": [
+  {
+   "revision_id": "200201277-98395504",
+   "content_sha256": "98395504538dcb87946c7c169f3fd2c842381ce93da0a54c11cf0253d183708d",
+   "ee_text": "(경구 : 정제) 장년기 및 노년기 퇴행성 백내장, 유소아 백내장, 당뇨병성 백내장, 각종 피질 또는 핵의 결정성의 불투명한 수정체 (점안액) 장년기 및 노년기 퇴행성 백내장, 당뇨병성 백내장, 각종 피질 또는 핵의 결정성의 불투명한 수정체",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:11Z",
+   "last_observed_at": "2026-09-08T08:36:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:11Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "645700681",
  "atc_code": "R03CC15",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600462",
+ "history_fetched_at": "2026-08-28T13:23:40Z",
  "revisions": [
   {
    "revision_id": "198600462-4d9c70f2",
@@ -19,8 +20,9 @@
    "ee_text": "다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 급성기관지염 ☆ 국내임상시험결과 추가제출(의약품재평가 진행 중)",
    "ee_doc_id": "23",
    "first_observed_at": "2026-08-28T13:23:40Z",
-   "last_observed_at": "2026-08-28T13:23:40Z",
-   "official_revision_date": "2023-03-02"
+   "last_observed_at": "2026-09-08T08:27:12Z",
+   "official_revision_date": "2023-03-02",
+   "normalizer_version": 3
   },
   {
    "revision_id": "198600462-e655d199",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:40Z",
    "last_observed_at": "2026-08-28T13:23:40Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:40Z"
+ ]
 }

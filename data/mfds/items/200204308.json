@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200204308",
+ "item_name": "소타론정(소타롤염산염)",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20020808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259053]소타롤염산염",
+ "main_item_ingr_eng": "Sotalol Hydrochloride",
+ "edi_code": "052700330",
+ "atc_code": "C07AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200204308",
+ "revisions": [
+  {
+   "revision_id": "200204308-7d63fb21",
+   "content_sha256": "7d63fb213a80630f8b0e5d4fdbe15e7270b7f0856a51fe93bbfa22038c9eb682",
+   "ee_text": "증후성상실성부정빈맥(방실결절빈맥, WPW증후군 또는 발작성심방세동을 수반하는 상실성빈맥), 중증의 증후성심실성부정빈맥의 치료 및 예방",
+   "ee_doc_id": "31",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:28Z",
+   "last_observed_at": "2026-09-08T08:36:28Z",
+   "official_revision_date": "2026-07-16"
+  },
+  {
+   "revision_id": "200204308-0c9b1d5b",
+   "content_sha256": "0c9b1d5b23bab1ccd1d2d27eb9956f683fccd7e437fba3948ba2745302d444b0",
+   "ee_text": "(경구 : 정제) 증후성상실성부정빈맥(방실결절빈맥, WPW증후군 또는 발작성심방세동을 수반하는 상실성빈맥), 중증의 증후성심실성부정빈맥의 치료 및 예방 (주사제) 증후성상실성부정빈맥(방실결절빈맥, WPW증후군 또는 발작성심방세동을 수반하는 상실성빈맥), 중증의 증후성심실성부정빈맥",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:36:28Z",
+   "last_observed_at": "2026-09-08T08:36:28Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:28Z"
+}

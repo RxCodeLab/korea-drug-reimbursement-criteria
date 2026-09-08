@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200004860",
+ "item_name": "다이베타정(글리벤클라미드)[수출명 : Nyldao, Bopa Glibenclamida Tab.](수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20000424",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050102]글리벤클라미드",
+ "main_item_ingr_eng": "Glibenclamide",
+ "edi_code": "",
+ "atc_code": "A10BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004860",
+ "revisions": [
+  {
+   "revision_id": "200004860-9f05d7f9",
+   "content_sha256": "9f05d7f951fb289ed5cb6fb54bf621d0493ed682411795712577a4744f267a06",
+   "ee_text": "제 2형 당뇨병(식사요법, 운동요법으로 충분한 효과를 얻을 수 없는 경우에 한함)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:19Z",
+   "last_observed_at": "2026-09-08T08:34:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:19Z"
+}

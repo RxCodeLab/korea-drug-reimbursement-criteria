@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907189",
+ "item_name": "로페리캡슐(로페라미드염산염)",
+ "entp_name": "미래바이오제약(주)",
+ "permit_date": "20191011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222992]로페라미드염산염",
+ "main_item_ingr_eng": "Loperamide Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A07DA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907189",
+ "revisions": [
+  {
+   "revision_id": "201907189-5b7d7c49",
+   "content_sha256": "5b7d7c493f3263e108000dca65523af7b41d39d3a0a5505b54e702299dde2565",
+   "ee_text": "1. 주효능 효과 급성설사, 만성설사",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:41Z",
+   "last_observed_at": "2026-09-08T08:56:41Z",
+   "official_revision_date": "2019-10-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:41Z"
+}

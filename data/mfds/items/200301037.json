@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301037",
+ "item_name": "페노크린첩부제(플루르비프로펜)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20030725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089049]플루르비프로펜|[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "643800890",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301037",
+ "revisions": [
+  {
+   "revision_id": "200301037-fb57ccf0",
+   "content_sha256": "fb57ccf0fe6ffc5d832a06500c4e981409590c494bbd469d18ed7a9965926b08",
+   "ee_text": "다음 질환 및 증상의 진통, 소염(항염) : 퇴행성 관절염(골관절염), 어깨관절 주위염, 건(힘줄) · 건초염(힘줄윤활막염), 상완골(위팔뼈)상과염 (테니스엘보우 등), 근육통, 외상(상처)후의 종창(부기), 동통(통증)",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:54Z",
+   "last_observed_at": "2026-09-08T08:36:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:54Z"
+}

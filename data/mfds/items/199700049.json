@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700049",
+ "item_name": "신풍이소니아짓정(수출용)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "19970731",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090909]이소니아짓",
+ "main_item_ingr_eng": "Isoniazid",
+ "edi_code": "",
+ "atc_code": "J04AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700049",
+ "revisions": [
+  {
+   "revision_id": "199700049-67dad37e",
+   "content_sha256": "67dad37e409e0b320e1ab1a6b30e909ee974571277cc968d0a34438def29502a",
+   "ee_text": "○ 유효균종 결핵균 ○ 적응증 폐결핵 및 기타 결핵증의 치료 및 예방",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:36Z",
+   "last_observed_at": "2026-09-08T08:30:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:36Z"
+}

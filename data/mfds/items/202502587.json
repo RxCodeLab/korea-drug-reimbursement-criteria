@@ -7,7 +7,7 @@
  "permit_date": "20250930",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M090395]텔미사르탄|[M040615]클로르탈리돈|[M222875]암로디핀베실산염",
+ "main_item_ingr": "[M040615]클로르탈리돈|[M090395]텔미사르탄|[M222875]암로디핀베실산염",
  "main_item_ingr_eng": "Amlodipine Besylate/Chlorthalidone/Telmisartan",
  "edi_code": "642106380",
  "atc_code": "C09DX",
@@ -20,7 +20,8 @@
    "ee_text": "본태성 고혈압",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202502587/EE",
    "first_observed_at": "2026-08-27T12:26:48Z",
-   "last_observed_at": "2026-08-28T13:25:38Z"
+   "last_observed_at": "2026-09-08T09:04:19Z",
+   "normalizer_version": 3
   }
  ]
 }

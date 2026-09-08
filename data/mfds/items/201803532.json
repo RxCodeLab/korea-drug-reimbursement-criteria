@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803532",
+ "item_name": "잘로스트S점안액(라타노프로스트)",
+ "entp_name": "(주)태준제약",
+ "permit_date": "20180830",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089240]라타노프로스트",
+ "main_item_ingr_eng": "Latanoprost",
+ "edi_code": "650103191",
+ "atc_code": "S01EE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803532",
+ "revisions": [
+  {
+   "revision_id": "201803532-18bfba2e",
+   "content_sha256": "18bfba2e689723b41f9cb9ecb15db88055204cffbdd539913afaf10790dd680f",
+   "ee_text": "다음 질환의 안압하강: ㆍ성인 개방각 녹내장, 만성 폐쇄각 녹내장, 고안압 ㆍ소아 소아 녹내장, 고안압",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:34Z",
+   "last_observed_at": "2026-09-08T08:53:34Z",
+   "official_revision_date": "2018-08-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:34Z"
+}

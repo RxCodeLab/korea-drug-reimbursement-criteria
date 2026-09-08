@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "N06AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708453",
+ "history_fetched_at": "2026-08-27T11:58:03Z",
  "revisions": [
   {
    "revision_id": "201708453-0ece1994",
@@ -19,9 +20,9 @@
    "ee_text": "우울증",
    "ee_doc_id": "3",
    "first_observed_at": "2026-08-27T11:58:03Z",
-   "last_observed_at": "2026-08-27T11:58:03Z",
-   "official_revision_date": "2017-12-20"
+   "last_observed_at": "2026-09-08T08:52:41Z",
+   "official_revision_date": "2017-12-20",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T11:58:03Z"
+ ]
 }

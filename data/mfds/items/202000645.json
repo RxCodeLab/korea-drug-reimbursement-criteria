@@ -7,11 +7,12 @@
  "permit_date": "20200205",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M071260]천궁건조엑스|[M096428]벤포티아민|[M050808]센노시드|[M081950]도큐세이트나트륨|[M050687]비사코딜",
+ "main_item_ingr": "[M050687]비사코딜|[M050808]센노시드|[M071260]천궁건조엑스|[M081950]도큐세이트나트륨|[M096428]벤포티아민",
  "main_item_ingr_eng": "Benfotiamine/Bisacodyl/Cnidium Rhizome Dried Extract/Docusate Sodium/Sennoside",
  "edi_code": "",
  "atc_code": "A06AB52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000645",
+ "history_fetched_at": "2026-08-28T13:25:14Z",
  "revisions": [
   {
    "revision_id": "202000645-ef2fae9a",
@@ -19,9 +20,9 @@
    "ee_text": "ㆍ변비 ㆍ변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:14Z",
-   "last_observed_at": "2026-08-28T13:25:14Z",
-   "official_revision_date": "2020-02-05"
+   "last_observed_at": "2026-09-08T08:57:43Z",
+   "official_revision_date": "2020-02-05",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:14Z"
+ ]
 }

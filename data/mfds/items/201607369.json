@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201607369",
+ "item_name": "엔스틸룸폼",
+ "entp_name": "레오파마(유)",
+ "permit_date": "20161229",
+ "cancel_date": "20250916",
+ "status": "취하",
+ "main_item_ingr": "[M092796]칼시포트리올|[M200675]베타메타손디프로피오네이트",
+ "main_item_ingr_eng": "Betamethasone Dipropionate/Calcipotriol",
+ "edi_code": "",
+ "atc_code": "D05AX52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607369",
+ "revisions": [
+  {
+   "revision_id": "201607369-62b75131",
+   "content_sha256": "62b751315c44d2c7ca5e234e1a852b784cfbdbdcce239e823e109779635f0a9c",
+   "ee_text": "성인(만 18세 이상), 청소년(만 12세 ~ 만 17세)에서 판상형 건선의 국소치료",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:23Z",
+   "last_observed_at": "2026-09-08T08:51:23Z",
+   "official_revision_date": "2022-04-06"
+  },
+  {
+   "revision_id": "201607369-1ea6361d",
+   "content_sha256": "1ea6361daab891b394b4f9acc22bc049b68709c5ff6eb8a892da8fdb62daa365",
+   "ee_text": "성인에서 건선의 국소 치료",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:51:23Z",
+   "last_observed_at": "2026-09-08T08:51:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:23Z"
+}

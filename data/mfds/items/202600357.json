@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600357",
+ "item_name": "라베피드정20/600밀리그램(라베프라졸나트륨, 침강탄산칼슘)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20260210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M040634]침강탄산칼슘|[M089852]라베프라졸나트륨",
+ "main_item_ingr_eng": "Precipitated Calcium Carbonate/Rabeprazole Sodium",
+ "edi_code": "642106460",
+ "atc_code": "A02BC54",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600357",
+ "revisions": [
+  {
+   "revision_id": "202600357-82eda990",
+   "content_sha256": "82eda99043964039a983dc1f99a70f123fa490596feecd260002728f8494b3f2",
+   "ee_text": "- 위궤양, 십이지장궤양 - 미란성 또는 궤양성 위식도역류질환 - 위식도역류질환의 증상완화<10/600mg에 한함> - 위식도역류질환의 장기간 유지요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:45Z",
+   "last_observed_at": "2026-09-08T09:04:45Z",
+   "official_revision_date": "2026-02-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:45Z"
+}

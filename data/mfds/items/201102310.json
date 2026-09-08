@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201102310",
+ "item_name": "케롤민정20밀리그람(케토롤락트로메타민)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20110415",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084703]케토롤락트로메타민",
+ "main_item_ingr_eng": "Ketorolac Tromethamine",
+ "edi_code": "",
+ "atc_code": "M01AB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102310",
+ "revisions": [
+  {
+   "revision_id": "201102310-b650850a",
+   "content_sha256": "b650850a980bddb7e1632558c69e10beed0848e62fea06d3f67de193074ffc45",
+   "ee_text": "수술후 중등도 통증에 대한 단기 요법에 사용된다. 병원에서 반드시 처방을 받아야 한다. 치료기간은 최대 7일이다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:35Z",
+   "last_observed_at": "2026-09-08T08:44:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:35Z"
+}

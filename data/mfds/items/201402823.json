@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402823",
+ "item_name": "칼리진정(칼리디노게나제)",
+ "entp_name": "진양제약(주)",
+ "permit_date": "20140624",
+ "cancel_date": "20240624",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M082140]칼리디노게나제",
+ "main_item_ingr_eng": "Kallidinogenase",
+ "edi_code": "",
+ "atc_code": "C04AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402823",
+ "revisions": [
+  {
+   "revision_id": "201402823-ce2bff5a",
+   "content_sha256": "ce2bff5a8b9a24cddddd56a85fa64ed03cb822b3745de480925b6e039dcee5c8",
+   "ee_text": "1. 다음 질환에 의한 말초순환장애 : 고혈압, 메니에르증후군, 폐색성혈전혈관염 (버거병) 2. 갱년기장애, 망맥락막의 순환장애에 의한 여러 증상의 개선",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201402823/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:11Z",
+   "last_observed_at": "2026-09-08T08:47:11Z"
+  },
+  {
+   "revision_id": "201402823-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:47:11Z",
+   "last_observed_at": "2026-09-08T08:47:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:11Z"
+}

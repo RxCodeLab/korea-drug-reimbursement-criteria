@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006617",
+ "item_name": "조아로라타딘시럽",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20200925",
+ "cancel_date": "20250925",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M082724]로라타딘|[M082724]로라타딘",
+ "main_item_ingr_eng": "Loratadine",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006617",
+ "revisions": [
+  {
+   "revision_id": "202006617-7b8b396a",
+   "content_sha256": "7b8b396afb21e33fb10e6706a5c87030bd44817c24ca3867f1661680a6974696",
+   "ee_text": "알레르기성 비염(재채기, 코막힘, 가려움, 눈의 작열감(화끈거림)), 만성 특발성(원인 불명의) 두드러기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:26Z",
+   "last_observed_at": "2026-09-08T08:59:26Z",
+   "official_revision_date": "2020-09-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:26Z"
+}

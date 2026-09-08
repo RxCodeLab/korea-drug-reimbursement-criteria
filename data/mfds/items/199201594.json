@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201594",
+ "item_name": "한국유나이티드염산독소루비신주50밀리그램(수출명:AdrosalforInj.50mg,AdricinforInj.50mg,AxibinforInj.50mg,DoxocinforInj.50mg,DubicinforInj.50mg,AdorucinforInj.50mg)(수출용)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "19921228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222835]독소루비신염산염",
+ "main_item_ingr_eng": "Doxorubicin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "L01DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201594",
+ "revisions": [
+  {
+   "revision_id": "199201594-5d0999fb",
+   "content_sha256": "5d0999fb1cbedd067b133aa9ad1b9639cdf4a2463b9fadbac9fe93a5baa69dec",
+   "ee_text": "악성 림프종(림프육종, 호지킨병 및 비호지킨병), 소화기암(위암, 간암, 직장암, 담낭 및 담관암, 결장암, 췌장암), 급성골수성백혈병, 연조직골육종, 유방암, 난소암, 폐암, 기관지암, 방광암, 윌름즈종양",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:28Z",
+   "last_observed_at": "2026-09-08T08:28:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:28Z"
+}

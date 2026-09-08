@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197700050",
+ "item_name": "듀락칸시럽(락툴로오즈농축액)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19770722",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099548]락툴로오즈농축액",
+ "main_item_ingr_eng": "Lactulose Concentrate Solution",
+ "edi_code": "644900631,644900634",
+ "atc_code": "A06AD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197700050",
+ "revisions": [
+  {
+   "revision_id": "197700050-18b14bf7",
+   "content_sha256": "18b14bf7d1b1728902bd9e8d170ea277553cdaf1d9a97ed28996835b9081ce1b",
+   "ee_text": "만성 문맥계 뇌증(Chronic PSE)에 있어서의 간성혼수의 치료 및 예방",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:26Z",
+   "last_observed_at": "2026-09-08T08:26:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:26Z"
+}

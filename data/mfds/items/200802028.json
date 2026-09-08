@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200802028",
+ "item_name": "신양의료용이산화탄소",
+ "entp_name": "신양메디슨(주)",
+ "permit_date": "20080221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040491]이산화탄소",
+ "main_item_ingr_eng": "Carbon Dioxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802028",
+ "revisions": [
+  {
+   "revision_id": "200802028-fa5474cd",
+   "content_sha256": "fa5474cdd636a1fbbee78ccf411f66d440fd8e39b205ff81b736717387d2b8ca",
+   "ee_text": "의료용가스",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:17Z",
+   "last_observed_at": "2026-09-08T08:42:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:17Z"
+}

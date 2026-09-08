@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706550",
+ "item_name": "테노포벨정(테노포비르디소프록실아스파르트산염)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20170811",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266022]테노포비르디소프록실아스파르트산염",
+ "main_item_ingr_eng": "Tenofovir Disoproxil Aspartate",
+ "edi_code": "643307740",
+ "atc_code": "J05AF07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706550",
+ "revisions": [
+  {
+   "revision_id": "201706550-eb1317e4",
+   "content_sha256": "eb1317e43f84179bd0524074cc41c94e3952feb1175489e49142df0c475d4f43",
+   "ee_text": "1. HIV-1 감염 성인 및 12세 이상의 소아에서 HIV-1감염의 치료를 위해 다른 항레트로바이러스제제와 병용투여한다. 이 약은 테노포비르 함유 복합제제와 함께 복용하지 않는다. 2. 만성B형간염 성인 및 12세 이상 소아의 만성B형간염을 치료한다. (만성B형간염 치료를 위해 이 약으로 치료를 시작하는 경우, 사용상의 주의사항 중 일반적 주의를 고려할 것)",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:12Z",
+   "last_observed_at": "2026-09-08T08:52:12Z",
+   "official_revision_date": "2017-11-16"
+  },
+  {
+   "revision_id": "201706550-c2474baa",
+   "content_sha256": "c2474baa681f3c5784074c9eced96cf8b8549596b8dbae6b82c7dbce8c24cdd7",
+   "ee_text": "1. 만성B형간염 성인 및 12세 이상 소아의 만성B형간염을 치료한다. (만성B형간염 치료를 위해 이 약으로 치료를 시작하는 경우, 사용상의 주의사항 중 일반적 주의를 고려할 것)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:52:12Z",
+   "last_observed_at": "2026-09-08T08:52:12Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:12Z"
+}

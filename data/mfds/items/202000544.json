@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "D02AE01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000544",
+ "history_fetched_at": "2026-08-28T13:25:14Z",
  "revisions": [
   {
-   "revision_id": "202000544-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202000544-5f8abced",
+   "content_sha256": "5f8abceddb0fd6e379dd5060886e3651146a3c571e9cd46791490b47d1437e66",
+   "ee_text": "진행성 지장각피증(주부습진의 건조형), 손ㆍ발바닥 각피증, 어린선(魚鱗蘚), 노인성 건피증, 모공성 태선, 아토피피부",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:14Z",
-   "last_observed_at": "2026-08-28T13:25:14Z",
-   "official_revision_date": "2020-02-03"
+   "last_observed_at": "2026-09-08T08:57:40Z",
+   "official_revision_date": "2020-02-03",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:14Z"
+ ]
 }

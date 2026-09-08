@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303400",
+ "item_name": "테즈파이어프리필드시린지주(테제펠루맙)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20231221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284307]테제펠루맙",
+ "main_item_ingr_eng": "Tezepelumab",
+ "edi_code": "",
+ "atc_code": "R03DX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303400",
+ "revisions": [
+  {
+   "revision_id": "202303400-1013cde1",
+   "content_sha256": "1013cde10a8590593e376385675857e7812b52a71f85385c720bce9c95589d0a",
+   "ee_text": "1. 천식 기존 치료에 적절하게 조절되지 않는 12세 이상 중증 천식 환자의 추가 유지 치료 2. 비용종을 동반한 만성 비부비동염 성인에서 기존 치료에 적절하게 조절되지 않는 비용종을 동반한 만성 비부비동염의 추가 유지 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202303400/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:35Z",
+   "last_observed_at": "2026-09-08T09:02:35Z"
+  },
+  {
+   "revision_id": "202303400-b3217a30",
+   "content_sha256": "b3217a30c0f7025aa8499cdf8949b3571cf144315a67b69cb00b88b13a35be8f",
+   "ee_text": "기존 치료에 적절하게 조절되지 않는 12세 이상 중증 천식 환자의 추가 유지 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-12-21",
+   "first_observed_at": "2026-09-08T09:02:35Z",
+   "last_observed_at": "2026-09-08T09:02:35Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:35Z"
+}

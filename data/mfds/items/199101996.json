@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199101996",
+ "item_name": "에크로바크림(아시클로버)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "19910318",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "648101561",
+ "atc_code": "D06BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101996",
+ "revisions": [
+  {
+   "revision_id": "199101996-bb7a45ff",
+   "content_sha256": "bb7a45ff1413bef89f56e54aa53634af3a5b4236192de0b9bf4eecffbcef1fd8",
+   "ee_text": "단순포진(물집) 바이러스 감염증(초기 및 재발성 생식기 포진(물집)과 구순(입술)포진(물집) 포함)",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:17Z",
+   "last_observed_at": "2026-09-08T08:28:17Z",
+   "official_revision_date": "2024-02-08"
+  },
+  {
+   "revision_id": "199101996-003d7aa8",
+   "content_sha256": "003d7aa84dfe33db23adcc60234bfc7ab1de0b0d3132b1b772a7d6276e4bf8c3",
+   "ee_text": "단순포진(물집) 바이러스 감염증(초기 및 재발성 생식기 포진(물집)과 구순포진(물집) 포함)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:28:17Z",
+   "last_observed_at": "2026-09-08T08:28:17Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:17Z"
+}

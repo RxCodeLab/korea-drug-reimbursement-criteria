@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900046",
+ "item_name": "한풍이중탕엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19790918",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M094086]이중탕연조엑스",
+ "main_item_ingr_eng": "As Soft Extract",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900046",
+ "revisions": [
+  {
+   "revision_id": "197900046-85bb968a",
+   "content_sha256": "85bb968aa2e36bc43175722c527b639e1c90678ee947768444da05817046899e",
+   "ee_text": "손발이 차가워지기 쉽고, 요량이 많은 사람의 다음 증상 : 위장허약, 위무력, 설사, 구토, 위통",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:33Z",
+   "last_observed_at": "2026-09-08T08:26:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:33Z"
+}

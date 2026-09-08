@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602215",
+ "item_name": "마그벨정",
+ "entp_name": "엔비케이제약(주)",
+ "permit_date": "20260730",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040262]산화마그네슘|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Magnesium Oxide/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602215",
+ "revisions": [
+  {
+   "revision_id": "202602215-ec60ac4c",
+   "content_sha256": "ec60ac4c02080781e3c29db8f73f860cfefa7d9fc0b0078170c2122e48e2dd21",
+   "ee_text": "1. 다음 경우의 비타민 B6의 보급 - 임신 · 수유기 - 병중·병후의 체력저하 시 2. 마그네슘 결핍으로 인한 근육경련",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:35Z",
+   "last_observed_at": "2026-09-08T09:05:35Z",
+   "official_revision_date": "2026-07-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:35Z"
+}

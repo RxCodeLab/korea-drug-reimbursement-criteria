@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301562",
+ "item_name": "레가스탄정100mg(카르두스마리아누스엑스)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20030114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089207]카르두스마리아누스엑스",
+ "main_item_ingr_eng": "Cardus Marianus Extract",
+ "edi_code": "",
+ "atc_code": "A05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301562",
+ "revisions": [
+  {
+   "revision_id": "200301562-e46a3f9e",
+   "content_sha256": "e46a3f9ec579685e9977abc61e2afa22c1fcf3ba649fc0ce5b070598b0e8f1d0",
+   "ee_text": "(정제)(액제)(현탁액) 다음 질환의 보조 치료 : 독성 간질환, 간세포 보호, 만성 간염, 간경변 (캡슐제) 다음 질환의 보조 치료 : 독성 간질환 , 만성 간염, 간경변",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:01Z",
+   "last_observed_at": "2026-09-08T08:37:01Z",
+   "official_revision_date": "2004-05-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:01Z"
+}

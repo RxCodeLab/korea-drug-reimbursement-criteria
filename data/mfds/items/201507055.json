@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507055",
+ "item_name": "아시트리주(삼산화비소)",
+ "entp_name": "제이텍바이오팜",
+ "permit_date": "20151007",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250326]삼산화비소",
+ "main_item_ingr_eng": "Arsenic Trioxide",
+ "edi_code": "052900081",
+ "atc_code": "L01XX27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507055",
+ "revisions": [
+  {
+   "revision_id": "201507055-32c10ad1",
+   "content_sha256": "32c10ad1f9a589270d9be4b69975a09d1e7767e4eac5e4c18259bdb6c17484e6",
+   "ee_text": "성인 불응성 또는 재발성 급성전골수구성백혈병환자의 관해유도 및 공고요법 염색체검사[t(15;17)전좌] 및/또는 유전자검사[Pro-Myelocytic Leukaemia/Retinoic- Acid-Receptor-alpha (PML/RAR-alpha)유전자]에 의해 급성전골수구성백혈병으로 진단된 환자에 사용할 것. 이전의 치료로서 retinoid와 화학요법을 포함해야 한다. 이 약에 의해 완전관해된 후 재발한 급성전골수구성백혈병에 대해서, 이 약의 유효성ㆍ안전성은 확립되어 있지 않다. 여타 급성골수성 백혈병(AML) 아형에 대한 반응률에 대해서는 조사된 바가 없다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:40Z",
+   "last_observed_at": "2026-09-08T08:49:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:40Z"
+}

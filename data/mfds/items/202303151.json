@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303151",
+ "item_name": "아큅타정60밀리그램(아토제판트일수화물)",
+ "entp_name": "한국애브비(주)",
+ "permit_date": "20231115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284037]아토제판트일수화물",
+ "main_item_ingr_eng": "Atogepant Monohydrate",
+ "edi_code": "",
+ "atc_code": "N02CD07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303151",
+ "revisions": [
+  {
+   "revision_id": "202303151-f1fac29d",
+   "content_sha256": "f1fac29d1b60ca15338f47cd5043cd9c21000e278731f5a65667b6bd7146f28f",
+   "ee_text": "성인(18세 이상)에서의 편두통의 예방",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:31Z",
+   "last_observed_at": "2026-09-08T09:02:31Z",
+   "official_revision_date": "2024-06-10"
+  },
+  {
+   "revision_id": "202303151-53156d91",
+   "content_sha256": "53156d910c57c43e31450d3d4d03e2b93a70090334539ab608ef3c01d099d117",
+   "ee_text": "성인에서의 편두통의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-11-15",
+   "first_observed_at": "2026-09-08T09:02:31Z",
+   "last_observed_at": "2026-09-08T09:02:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:31Z"
+}

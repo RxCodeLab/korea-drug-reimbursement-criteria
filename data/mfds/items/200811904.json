@@ -7,11 +7,12 @@
  "permit_date": "20081229",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M096429]시아노코발라민|[M223211]클로르페니라민말레산염|[M222940]네오스티그민메틸황산염|[M102908]타우린|[M250660]콘드로이틴설페이트나트륨",
+ "main_item_ingr": "[M096429]시아노코발라민|[M102908]타우린|[M222940]네오스티그민메틸황산염|[M223211]클로르페니라민말레산염|[M250660]콘드로이틴설페이트나트륨",
  "main_item_ingr_eng": "Chlorpheniramine Maleate/Cyanocobalamin/Neostigmine Methylsulfate/Sodium Chondroitin Sulfate/Taurine",
  "edi_code": "",
  "atc_code": "S01XA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811904",
+ "history_fetched_at": "2026-08-28T13:24:20Z",
  "revisions": [
   {
    "revision_id": "200811904-61f7171b",
@@ -19,7 +20,8 @@
    "ee_text": "눈의 피로, 결막충혈, 수영 후 눈의 불쾌감 또는 먼지나 땀이 눈에 들어갔을 때, 자외선 및 기타광선에 의한 눈의 염증, 눈꺼풀의 짓무름, 하드콘택트렌즈를 착용시 불쾌감, 눈의 가려움, 눈의 침침함.(눈곱이 많을 때 등)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200811904/EE",
    "first_observed_at": "2026-08-28T13:24:20Z",
-   "last_observed_at": "2026-08-28T13:24:20Z"
+   "last_observed_at": "2026-09-08T08:43:00Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200811904-5d0c7fc0",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:20Z",
    "last_observed_at": "2026-08-28T13:24:20Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:20Z"
+ ]
 }

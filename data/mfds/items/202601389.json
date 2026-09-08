@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A08AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601389",
+ "history_fetched_at": "2026-08-27T12:07:07Z",
  "revisions": [
   {
    "revision_id": "202601389-f08e93f0",
@@ -19,9 +20,9 @@
    "ee_text": "음식물 섭취 감소를 통한 체중감량의 보조요법",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:07:07Z",
-   "last_observed_at": "2026-08-27T12:07:07Z",
-   "official_revision_date": "2026-05-12"
+   "last_observed_at": "2026-09-08T09:05:11Z",
+   "official_revision_date": "2026-05-12",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:07:07Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201110836",
+ "item_name": "놀모상주(헤민)",
+ "entp_name": "(주)삼오제약",
+ "permit_date": "20111216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093087]헤민",
+ "main_item_ingr_eng": "Hemin",
+ "edi_code": "",
+ "atc_code": "V03A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110836",
+ "revisions": [
+  {
+   "revision_id": "201110836-63a4f028",
+   "content_sha256": "63a4f028529a741b0eecdd45548f39aa8f16067e18f3bcfcae0548cf26cc7c5c",
+   "ee_text": "급성포르피린증 발작의 회복",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:05Z",
+   "last_observed_at": "2026-09-08T08:45:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:05Z"
+}

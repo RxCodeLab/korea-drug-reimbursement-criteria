@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007363",
+ "item_name": "폴라이비주(폴라투주맙베도틴)",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "20201027",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267377]폴라투주맙 베도틴",
+ "main_item_ingr_eng": "Polatuzumab Vedotin",
+ "edi_code": "645001501",
+ "atc_code": "L01FX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007363",
+ "revisions": [
+  {
+   "revision_id": "202007363-49924fe4",
+   "content_sha256": "49924fe4841dea93b737842a65a4aa3fe183e7ef8a73532162ea21e4293d821f",
+   "ee_text": "• 이전에 치료받은 적이 없는 미만성 거대 B세포 림프종(DLBCL) 성인 환자에서 리툭시맙, 시클로포스파미드, 독소루비신 및 프레드니손/프레드니솔론(R-CHP)과 병용투여 • 조혈모세포이식이 적합하지 않고 한 가지 이상의 이전 치료에 실패한 재발성 또는 불응성 미만성 거대 B세포 림프종(DLBCL) 성인 환자에서 벤다무스틴 및 리툭시맙과의 병용요법",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:33Z",
+   "last_observed_at": "2026-09-08T08:59:33Z",
+   "official_revision_date": "2022-11-28"
+  },
+  {
+   "revision_id": "202007363-49dc2248",
+   "content_sha256": "49dc22488c13669f1efc5cbf0332fb7e1ce2dc0adb38b8125b5dae606dceaae9",
+   "ee_text": "조혈모세포이식이 적합하지 않고 한 가지 이상의 이전 치료에 실패한 재발성 또는 불응성 미만성 거대 B세포 림프종 성인 환자에서 벤다무스틴 및 리툭시맙과의 병용요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-10-27",
+   "first_observed_at": "2026-09-08T08:59:33Z",
+   "last_observed_at": "2026-09-08T08:59:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:33Z"
+}

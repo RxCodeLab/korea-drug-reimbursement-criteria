@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200903962",
+ "item_name": "오라쿠고에이취플라스타(살리실산)",
+ "entp_name": "(주)재우스팜",
+ "permit_date": "20090608",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040264]살리실산",
+ "main_item_ingr_eng": "Salicylic Acid",
+ "edi_code": "",
+ "atc_code": "D11AF",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903962",
+ "revisions": [
+  {
+   "revision_id": "200903962-930e6d27",
+   "content_sha256": "930e6d27747b81852fb71165f67373d021b5a8be6183a83f7910f8bca9b220ed",
+   "ee_text": "티눈, 못(굳은살), 사마귀",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:18Z",
+   "last_observed_at": "2026-09-08T08:43:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:18Z"
+}

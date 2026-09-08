@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201290",
+ "item_name": "쾌통과립",
+ "entp_name": "원광제약(주)",
+ "permit_date": "20220401",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M110283]센나열매 가루|[M111478]차전자피 가루",
+ "main_item_ingr_eng": "Psyllium Husk Powder/Sennae Fructus Powder",
+ "edi_code": "",
+ "atc_code": "A06AC51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201290",
+ "revisions": [
+  {
+   "revision_id": "202201290-8092f99e",
+   "content_sha256": "8092f99eabbf1a01a945fdb731cc2b62cd1b10c754461093008e341ecc3c2b94",
+   "ee_text": "· 변비 · 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:13Z",
+   "last_observed_at": "2026-09-08T09:01:13Z",
+   "official_revision_date": "2022-04-01"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:13Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105922",
+ "item_name": "트라보비젼사인점안액(트라보프로스트)(1회용)(수출용)",
+ "entp_name": "(주)옵투스제약",
+ "permit_date": "20210811",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095517]트라보프로스트",
+ "main_item_ingr_eng": "Travoprost",
+ "edi_code": "",
+ "atc_code": "S01EE04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105922",
+ "revisions": [
+  {
+   "revision_id": "202105922-e74a3ec6",
+   "content_sha256": "e74a3ec6079a6201f37c36158df11839c4d7a97efecf716956e98aafcb3b340e",
+   "ee_text": "다음 질환에서의 안압감소 : 개방각 녹내장, 고안압증 2개월~ 18세 미만의 소아 녹내장 환자의 안압감소.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:27Z",
+   "last_observed_at": "2026-09-08T09:00:27Z",
+   "official_revision_date": "2021-08-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:27Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200703316",
+ "item_name": "파이브로베인주3%바이알(테트라데실황산나트륨콘센트레이트)",
+ "entp_name": "금청약품(주)",
+ "permit_date": "20070321",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089182]테트라데실황산나트륨콘센트레이트",
+ "main_item_ingr_eng": "Sodium Tetradecyl Sulfate Concentrate",
+ "edi_code": "",
+ "atc_code": "C05BB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703316",
+ "revisions": [
+  {
+   "revision_id": "200703316-ea663144",
+   "content_sha256": "ea663144b58466aff714905bb8821ed5ec6f86553bd00c8221f79c1daaa18fa4",
+   "ee_text": "압박경화요법에 의한 하지의 정맥류 처치",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:17Z",
+   "last_observed_at": "2026-09-08T08:41:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:17Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200304",
+ "item_name": "대한관류용멸균증류수",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20020228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M104727]관류용멸균증류수",
+ "main_item_ingr_eng": "Sterile Water For Irrigation",
+ "edi_code": "645100361",
+ "atc_code": "B05CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200304",
+ "revisions": [
+  {
+   "revision_id": "200200304-d45a5f83",
+   "content_sha256": "d45a5f836413cf5e3393a4aa3d07aad65c29fb670af775264ca51612103edac5",
+   "ee_text": "1. 체강. 조직, 상처, 요도, 카테터, 외과 배농관의 세척시 관류 2. 외과용 붕대, 기구, 실험실 표본의 세정, 헹굼, 담금 3. 약품조제나 정맥내 투여되지 않는 영양혼합제의 조제시 희석 또는 용해제",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:02Z",
+   "last_observed_at": "2026-09-08T08:36:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:02Z"
+}

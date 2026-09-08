@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200810634",
+ "item_name": "토리셀주(템시롤리무스)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20081024",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243603]템시롤리무스",
+ "main_item_ingr_eng": "Temsirolimus",
+ "edi_code": "648902371",
+ "atc_code": "L01EG01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810634",
+ "revisions": [
+  {
+   "revision_id": "200810634-edf5573a",
+   "content_sha256": "edf5573ad2b181f5538a0591c87e3c5573d74c0f48cacc869cd7393b9aa02aa7",
+   "ee_text": "진행성 신세포암",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:54Z",
+   "last_observed_at": "2026-09-08T08:42:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:54Z"
+}

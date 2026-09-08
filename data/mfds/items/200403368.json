@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403368",
+ "item_name": "훽나인주250단위(건조사람혈액응고제IX인자복합체)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20041115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M010053]사람혈액응고제IX인자복합체",
+ "main_item_ingr_eng": "Human Blood Coagulation Factor IX Complex",
+ "edi_code": "643601961",
+ "atc_code": "B02BD04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403368",
+ "revisions": [
+  {
+   "revision_id": "200403368-d1115606",
+   "content_sha256": "d111560642ff37800b64252a49b06938815c8a4fd8974aff969bfd4736534867",
+   "ee_text": "사람혈액응고제IX인자 결핍증 환자의 출혈시 또는 외과적 수술의 전 조치",
+   "ee_doc_id": "27",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:20Z",
+   "last_observed_at": "2026-09-08T08:38:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:20Z"
+}

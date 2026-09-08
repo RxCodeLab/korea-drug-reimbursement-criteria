@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801024",
+ "item_name": "케타스캅셀10밀리그람(이부딜라스트)",
+ "entp_name": "(주)한독",
+ "permit_date": "19980624",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050736]이부딜라스트과립",
+ "main_item_ingr_eng": "Ibudilast Granules",
+ "edi_code": "652101230",
+ "atc_code": "C04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801024",
+ "revisions": [
+  {
+   "revision_id": "199801024-517ec4a3",
+   "content_sha256": "517ec4a3198e88ce98caa01f6edfc37ede7a472ae884d0dba0d7894ede192ed2",
+   "ee_text": "뇌경색 후유증에 따른 만성뇌순환장애로 인한 어지럼증의 개선",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:46Z",
+   "last_observed_at": "2026-09-08T08:31:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:46Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401684",
+ "item_name": "보일연고20%(아미노벤조산에틸)(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20140410",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203437]아미노벤조산에틸",
+ "main_item_ingr_eng": "Ethyl Aminobenzoate",
+ "edi_code": "",
+ "atc_code": "N01BA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401684",
+ "revisions": [
+  {
+   "revision_id": "201401684-1d7ba5ce",
+   "content_sha256": "1d7ba5ce1d72ee45a73ca1a930d189f8ae26a5766779977c449d768c4bda21e6",
+   "ee_text": "화농성 염증(부스럼, 종기 등)으로 인한 가벼운 통증의 일시적인 완화",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:56Z",
+   "last_observed_at": "2026-09-08T08:46:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:56Z"
+}

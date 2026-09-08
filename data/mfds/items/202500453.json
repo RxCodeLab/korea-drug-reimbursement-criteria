@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500453",
+ "item_name": "팜비오생리식염주사액(염화나트륨)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20250228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨",
+ "main_item_ingr_eng": "Sodium Chloride",
+ "edi_code": "659902011,659902021",
+ "atc_code": "B05XA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500453",
+ "revisions": [
+  {
+   "revision_id": "202500453-ff32fa29",
+   "content_sha256": "ff32fa292b13083f8915a6667f372d4feba327e527698e0d8c64f295ad9282e2",
+   "ee_text": "1. 수분 및 전해질 결핍시의 보급(나트륨 결핍, 염소 결핍) 2. 주사제의 용해 희석제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:44Z",
+   "last_observed_at": "2026-09-08T09:03:44Z",
+   "official_revision_date": "2025-02-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:44Z"
+}

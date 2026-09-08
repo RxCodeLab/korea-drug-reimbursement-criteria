@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604859",
+ "item_name": "가스제로구강필름(시메치콘)",
+ "entp_name": "(주)씨엘팜",
+ "permit_date": "20160809",
+ "cancel_date": "20260809",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050855]시메치콘",
+ "main_item_ingr_eng": "Simethicone",
+ "edi_code": "",
+ "atc_code": "A03AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604859",
+ "revisions": [
+  {
+   "revision_id": "201604859-9a646be4",
+   "content_sha256": "9a646be406edf61da0792c4a613e74874c3561b7c196a4598061cf965d1576e2",
+   "ee_text": "위장관내 가스로 인한 복부 압박감, 복부 팽만감 및 배부름의 완화",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:07Z",
+   "last_observed_at": "2026-09-08T08:51:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:07Z"
+}

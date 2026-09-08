@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300041",
+ "item_name": "한풍청폐탕엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19830915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246893]청폐탕연조엑스(8.80→1)",
+ "main_item_ingr_eng": "Cheongpye-tang Soft Extracts(8.80→1)",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300041",
+ "revisions": [
+  {
+   "revision_id": "198300041-1a14bdc4",
+   "content_sha256": "1a14bdc43726854d66c4a03d4d059e0a3c6c0072b97ab583a3bdcd54076788f3",
+   "ee_text": "오래된 기침, 가래가 있는 기침, 호흡곤란을 동반한 기침",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:50Z",
+   "last_observed_at": "2026-09-08T08:26:50Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:50Z"
+}

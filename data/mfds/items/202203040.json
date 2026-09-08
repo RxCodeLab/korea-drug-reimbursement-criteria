@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203040",
+ "item_name": "생유플러스정",
+ "entp_name": "(주)종근당",
+ "permit_date": "20220721",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040006]감초|[M040073]대황|[M081950]도큐세이트나트륨",
+ "main_item_ingr_eng": "Docusate Sodium/Licorice/Rhubarb",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203040",
+ "revisions": [
+  {
+   "revision_id": "202203040-a9c886c0",
+   "content_sha256": "a9c886c01c9091f754ee8ba69ee378fc3a01469ed96a8b2728eb5a76353f116f",
+   "ee_text": "․변비 ․변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:28Z",
+   "last_observed_at": "2026-09-08T09:01:28Z",
+   "official_revision_date": "2022-07-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:28Z"
+}

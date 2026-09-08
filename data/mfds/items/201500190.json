@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500190",
+ "item_name": "애드블루주사",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20150114",
+ "cancel_date": "20250114",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M217501]황산아연수화물|[M246028]황산망간수화물|[M247355]황산제이구리수화물|[M250274]염화크롬수화물",
+ "main_item_ingr_eng": "Chromic Chloride Hydrate/Cupric Sulfate Hydrate/Manganese Sulfate Hydrate/Zinc Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "B05XA31",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500190",
+ "revisions": [
+  {
+   "revision_id": "201500190-487cad5b",
+   "content_sha256": "487cad5b6207c5abd30f82200483338365dabf27d3517f8585a134cf4e35dc21",
+   "ee_text": "경정맥 영양공급시 미량원소의 보급",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:18Z",
+   "last_observed_at": "2026-09-08T08:48:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:18Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402789",
+ "item_name": "케토플러스카타플라스마(케토프로펜)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20040614",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402789",
+ "revisions": [
+  {
+   "revision_id": "200402789-9be8edf4",
+   "content_sha256": "9be8edf42f2b6036ccc9c16d2ff12ccb39a678c0a8c465bbc99556b55179c295",
+   "ee_text": "다음 질환 및 증상의 진통·소염(항염) : 퇴행성관절염(골관절염), 어깨관절주위염, 건(힘줄)·건초염(힘줄윤활막염), 건(힘줄)주위염, 상완골상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기)·동통(통증)",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:09Z",
+   "last_observed_at": "2026-09-08T08:38:09Z",
+   "official_revision_date": "2020-07-31"
+  },
+  {
+   "revision_id": "200402789-072702b9",
+   "content_sha256": "072702b92088b9f4155343890c72543e93accfd81c79123baa524a374df17913",
+   "ee_text": "약면의 박리지를 떼어낸 후 환부(질환 부위)에 1일 2회 부착한다.",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:38:09Z",
+   "last_observed_at": "2026-09-08T08:38:09Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:09Z"
+}

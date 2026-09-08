@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403259",
+ "item_name": "마이오스타트주사(카바콜)",
+ "entp_name": "한국알콘(주)",
+ "permit_date": "19940524",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093930]카바콜",
+ "main_item_ingr_eng": "Carbachol",
+ "edi_code": "652400101",
+ "atc_code": "S01EB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403259",
+ "revisions": [
+  {
+   "revision_id": "199403259-6cb1c356",
+   "content_sha256": "6cb1c35625697b127aca98f552aeeca3c3bc265869faecb4c9cbd57fa5cae15a",
+   "ee_text": "수술시 동공 축소",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:22Z",
+   "last_observed_at": "2026-09-08T08:29:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:22Z"
+}

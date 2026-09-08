@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197500054",
+ "item_name": "중외20%만니톨주",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19751101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204408]D-만니톨",
+ "main_item_ingr_eng": "D-Mannitol",
+ "edi_code": "644901973",
+ "atc_code": "B05BC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197500054",
+ "revisions": [
+  {
+   "revision_id": "197500054-1fdee6d3",
+   "content_sha256": "1fdee6d3c670f9a85f0b7030c21fd842e3b96f17af1c3ecaec604c1758dc533d",
+   "ee_text": "1. 수술중, 수술후, 외상후의 급성신부전의 예방 및 치료 2. 약물중독시의 배설촉진 3. 두개내압 강하 및 뇌용적의 축소가 필요한 경우 4. 안내압 강하가 필요한 경우",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:21Z",
+   "last_observed_at": "2026-09-08T08:26:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:21Z"
+}

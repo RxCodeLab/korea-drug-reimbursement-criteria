@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199304542",
+ "item_name": "석시콜린주사100밀리그람(염화석사메토늄)(수출용)",
+ "entp_name": "일성아이에스(주)",
+ "permit_date": "19931218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082422]염화석사메토늄",
+ "main_item_ingr_eng": "Suxamethonium Chloride",
+ "edi_code": "",
+ "atc_code": "M03AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199304542",
+ "revisions": [
+  {
+   "revision_id": "199304542-fb39c815",
+   "content_sha256": "fb39c81592d3d8fb4b82c18409901e2bc2a79b465d81cd306040bd49b95cafc1",
+   "ee_text": "1. 마취시의 근이완 2. 기관내 삽관시 근이완유지 3. 골절탈구의 정복시 4. 후두경련의 근이완 5. 정신신경과의 전기충격요법시 근이완",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:59Z",
+   "last_observed_at": "2026-09-08T08:28:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:59Z"
+}

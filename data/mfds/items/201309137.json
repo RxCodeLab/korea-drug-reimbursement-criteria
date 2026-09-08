@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309137",
+ "item_name": "옵티슈어320주(이오버솔)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20130830",
+ "cancel_date": "20250729",
+ "status": "취하",
+ "main_item_ingr": "[M088691]이오버솔",
+ "main_item_ingr_eng": "Ioversol",
+ "edi_code": "",
+ "atc_code": "V08AB07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309137",
+ "revisions": [
+  {
+   "revision_id": "201309137-d3fa6776",
+   "content_sha256": "d3fa677682b880f56a2298471844d0e26c3bfb4302202a88f594b4d7085ca7a0",
+   "ee_text": "성인 : 뇌동맥조영, 말초동맥조영, 내장·신장동맥 및 대동맥조영, 관상동맥조영 및 좌심실조영, CT 조영증강(두부, 체부), 정맥요로조영(IVP) 소아 (1세 이상) : 심혈관조영술, CT 조영 증강 (두부, 체부), 정맥요로조영(IVP)",
+   "ee_doc_id": "31",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:19Z",
+   "last_observed_at": "2026-09-08T08:46:19Z",
+   "official_revision_date": "2024-02-02"
+  },
+  {
+   "revision_id": "201309137-bc011eca",
+   "content_sha256": "bc011ecac257dcc8196a1f5203c63a9239fa0ffe63cee72a4900513e70c9138a",
+   "ee_text": "뇌동맥조영, 말초동맥조영, 내장ㆍ신장동맥 및 대동맥조영, 관상동맥조영 및 좌심실조영, CT 조영증강(두부, 체부), 정맥요로조영(IVP)",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:46:19Z",
+   "last_observed_at": "2026-09-08T08:46:19Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:19Z"
+}

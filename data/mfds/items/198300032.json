@@ -7,11 +7,12 @@
  "permit_date": "19830803",
  "cancel_date": "20230927",
  "status": "폐업",
- "main_item_ingr": "[M040006]감초|[M040071]대추|[M040135]마황|[M040523]작약|[M050037]계지|[M050752]생강|[M040769]행인",
+ "main_item_ingr": "[M040006]감초|[M040071]대추|[M040135]마황|[M040523]작약|[M040769]행인|[M050037]계지|[M050752]생강",
  "main_item_ingr_eng": "Apricot Kernel/Cinnamomi Ramulus/Ephedra Herb/Jujube/Licorice/Peony Root/Raw Ginger",
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300032",
+ "history_fetched_at": "2026-08-28T13:23:38Z",
  "revisions": [
   {
    "revision_id": "198300032-f9edda13",
@@ -19,9 +20,9 @@
    "ee_text": "감기, 기침, 가려움",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:23:38Z",
-   "last_observed_at": "2026-08-28T13:23:38Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:26:50Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:38Z"
+ ]
 }

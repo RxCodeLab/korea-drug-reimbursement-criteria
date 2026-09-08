@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904794",
+ "item_name": "시리콤푸연질캡슐175밀리그램(밀크시슬열매건조엑스)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20190717",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268656]밀크시슬열매건조엑스",
+ "main_item_ingr_eng": "Milk-Thistle Fruit Dried Extract",
+ "edi_code": "",
+ "atc_code": "A05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904794",
+ "revisions": [
+  {
+   "revision_id": "201904794-f22b01b8",
+   "content_sha256": "f22b01b85598436ba58c54a8176d0666996eafef2a1b3f1431232b59e955aeb2",
+   "ee_text": "다음 질환의 보조치료 : 독성 간질환 , 만성 간염, 간경변",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:52Z",
+   "last_observed_at": "2026-09-08T08:55:52Z",
+   "official_revision_date": "2019-07-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:52Z"
+}

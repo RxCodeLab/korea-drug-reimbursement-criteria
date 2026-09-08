@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206498",
+ "item_name": "할라벤주(에리불린메실산염)",
+ "entp_name": "한국에자이(주)",
+ "permit_date": "20120817",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255209]에리불린메실산염",
+ "main_item_ingr_eng": "Eribulin Mesylate",
+ "edi_code": "621100031",
+ "atc_code": "L01XX41",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206498",
+ "revisions": [
+  {
+   "revision_id": "201206498-5bbe32d6",
+   "content_sha256": "5bbe32d6755ed7ca8cdb94987563ca2b995326fd21d19d2304dfe8f0d23352ae",
+   "ee_text": "○ 유방암 - 진행성 및/또는 전이 단계에서 최소 한 가지의 화학요법 치료를 받은 적이 있는 국소 진행성 혹은 전이성 유방암 환자의 치료요법 (HER2 양성인 환자에 대한 임상적 유용성을 입증할만한 자료는 충분하지 않다.) - 진행성 및/또는 전이 단계에서 최소 두 가지의 화학요법 치료를 받은 적이 있는 국소 진행성 혹은 전이성 유방암 환자의 치료요법 위 경우 모두 이전 치료에는 보조요법으로써 또는 전이 단계에서 안트라사이클린계 및 탁산계 약물을 사용한 경험이 있어야 하며 이러한 치료가 부적절한 환자는 예외로 한다. ○ 지방육종 - 이전에 안트라사이클린계 약물을 포함하여 최소 두 가지의 화학요법 치료를 받은 적이 있는 절제 불가능 또는 전이성 지방육종 환자의 치료",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:26Z",
+   "last_observed_at": "2026-09-08T08:45:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:26Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900335",
+ "item_name": "큐앤큐포비돈요오드프렙외용액",
+ "entp_name": "큐앤큐팜(주)",
+ "permit_date": "20190122",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051757]포비돈요오드",
+ "main_item_ingr_eng": "Povidone Iodine",
+ "edi_code": "",
+ "atc_code": "D08AG02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900335",
+ "revisions": [
+  {
+   "revision_id": "201900335-cc6f5099",
+   "content_sha256": "cc6f5099bfc96398e103ea104b73f124502b38e4d3fabfd1e154be5aea007038",
+   "ee_text": "- 수술부위의 살균소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:08Z",
+   "last_observed_at": "2026-09-08T08:54:08Z",
+   "official_revision_date": "2019-01-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:08Z"
+}

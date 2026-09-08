@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201112195",
+ "item_name": "잴코리캡슐250밀리그램(크리조티닙)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20111229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253698]크리조티닙",
+ "main_item_ingr_eng": "Crizotinib",
+ "edi_code": "648902070",
+ "atc_code": "L01ED01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201112195",
+ "revisions": [
+  {
+   "revision_id": "201112195-74a35610",
+   "content_sha256": "74a35610dee251527338205a4980637821ceb1f09b89609d1984376fb39b2b37",
+   "ee_text": "1. 역형성 림프종 인산화효소 (ALK) 양성 국소 진행성 또는 전이성 비소세포폐암의 치료 2. ROS1-양성 국소 진행성 또는 전이성 비소세포폐암의 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201112195/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:07Z",
+   "last_observed_at": "2026-09-08T08:45:07Z"
+  },
+  {
+   "revision_id": "201112195-60944f6a",
+   "content_sha256": "60944f6aeeb680071c6fc68d81a8a620705179b6a85852304cbf43251b101970",
+   "ee_text": "역형성 림프종 인산화효소(ALK) 양성 국소 진행성 또는 전이성 비소세포폐암의 치료",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-21",
+   "first_observed_at": "2026-09-08T08:45:07Z",
+   "last_observed_at": "2026-09-08T08:45:07Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:07Z"
+}

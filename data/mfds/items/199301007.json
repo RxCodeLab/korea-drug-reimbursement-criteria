@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:28:28Z",
  "revisions": [
   {
-   "revision_id": "199301007-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "199301007-43a7a928",
+   "content_sha256": "43a7a928c7688d8b0bb751cd010a8ca42885acad2af242ec2121a08a40c367ec",
+   "ee_text": "1. 주요우울증 2. 강박장애 3. 공황장애 4. 범불안장애(GAD) 5. 외상후 스트레스장애(PTSD) 6. 사회불안장애/사회공포증",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199301007/EE",
    "first_observed_at": "2026-08-27T12:28:28Z",
-   "last_observed_at": "2026-08-28T13:23:45Z"
+   "last_observed_at": "2026-09-08T08:28:46Z",
+   "normalizer_version": 3
   }
  ]
 }

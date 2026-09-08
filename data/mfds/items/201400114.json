@@ -7,11 +7,12 @@
  "permit_date": "20140110",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040438]염화칼륨|[M040631]탄산수소나트륨|[M040426]염화나트륨|[M103014]폴리에틸렌글리콜3350",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040631]탄산수소나트륨|[M103014]폴리에틸렌글리콜3350",
  "main_item_ingr_eng": "Polyethylene Glycol 3350/Potassium Chloride/Sodium Bicarbonate/Sodium Chloride",
  "edi_code": "",
  "atc_code": "A06AD65",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400114",
+ "history_fetched_at": "2026-08-28T13:24:34Z",
  "revisions": [
   {
    "revision_id": "201400114-60f84ab9",
@@ -19,9 +20,9 @@
    "ee_text": "만성 변비",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:24:34Z",
-   "last_observed_at": "2026-08-28T13:24:34Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:46:41Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:34Z"
+ ]
 }

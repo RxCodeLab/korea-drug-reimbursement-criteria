@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199803877",
+ "item_name": "그린안티셉액",
+ "entp_name": "(주)그린제약",
+ "permit_date": "19980413",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M040498]이소프로판올|[M257839]알킬디아미노에틸글리신염산염액40%",
+ "main_item_ingr_eng": "Alkyldiaminoethylglycine Hydrochloride Solution 40%/Isopropanol",
+ "edi_code": "",
+ "atc_code": "D08AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803877",
+ "revisions": [
+  {
+   "revision_id": "199803877-fe58152c",
+   "content_sha256": "fe58152ca664df5b17949baa63731d4e413d8e3faf0c6c21ccae53a23e6f7ccb",
+   "ee_text": "- 손 및 피부의 소독 - 수술부위의 피부소독",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:16Z",
+   "last_observed_at": "2026-09-08T08:32:16Z",
+   "official_revision_date": "2021-05-06"
+  },
+  {
+   "revision_id": "199803877-0c40cd12",
+   "content_sha256": "0c40cd12f6dcf3a5b13237bdea79d4986de65acfaa949c1d6f3d83ecd1f8ea5c",
+   "ee_text": "- 손 및 피부의 소독 - 수술부위의 피부소독 - 수술부위의 점막소독 - 피부 ㆍ 점막의 창상부위 소독",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:32:16Z",
+   "last_observed_at": "2026-09-08T08:32:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:16Z"
+}

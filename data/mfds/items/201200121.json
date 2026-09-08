@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201200121",
+ "item_name": "슈펙트캡슐100밀리그램(라도티닙염산염)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20120105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253750]라도티닙염산염",
+ "main_item_ingr_eng": "Radotinib Hydrochloride",
+ "edi_code": "641704390",
+ "atc_code": "L01EA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200121",
+ "revisions": [
+  {
+   "revision_id": "201200121-85f17e9c",
+   "content_sha256": "85f17e9cb403f546b227841df867c8827388c88b5999a33bd15465cc2d8029ba",
+   "ee_text": "새로 진단된 만성기의 필라델피아 염색체 양성 만성골수성백혈병 (Ph+CML) 성인 환자의 치료 이 약의 유효성은 주요분자유전학적, 세포유전학적 반응률을 근거로 하고 있다.",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:07Z",
+   "last_observed_at": "2026-09-08T08:45:07Z",
+   "official_revision_date": "2018-06-28"
+  },
+  {
+   "revision_id": "201200121-fe43b604",
+   "content_sha256": "fe43b60475c78fbd4487fac97f630a1227ef7e9565563a1536025370b293d60b",
+   "ee_text": "1. 새로 진단된 만성기의 필라델피아 염색체 양성 만성골수성백혈병 (Ph+CML) 성인 환자의 치료 이 약의 유효성은 주요분자유전학적, 세포유전학적 반응률을 근거로 하고 있다. 2. 이매티닙을 포함한 선행요법에 저항성 또는 불내성을 보이는 만성기의 필라델피아 염색체 양성 만성골수성백혈병 (Ph＋CML) 성인환자의 치료 이 약의 유효성은 세포유전학적 반응률을 근거로 하고 있다.",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:07Z",
+   "last_observed_at": "2026-09-08T08:45:07Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:07Z"
+}

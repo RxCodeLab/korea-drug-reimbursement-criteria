@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201601514",
+ "item_name": "하나로겔(헤파리노이드)",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20160315",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M237233]헤파리노이드",
+ "main_item_ingr_eng": "Heparinoid",
+ "edi_code": "",
+ "atc_code": "C05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601514",
+ "revisions": [
+  {
+   "revision_id": "201601514-f71b7576",
+   "content_sha256": "f71b75766f951e0ba1b97b702f5c504fa7ea68b519471259f3b9fb4c623e5b97",
+   "ee_text": "외상(타박상, 삠, 멍) 후의 통증ㆍ혈종ㆍ힘줄주위조직염ㆍ근육통ㆍ관절염, 혈전성정맥염, 혈행장해에 의한 통증과 염증성 질환(주사 후의 단단해짐 및 통증), 동창, 비후흉터ㆍ켈로이드의 치료와 예방, 주부습진의 건조형, 근육성 기운목(유아기)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:21Z",
+   "last_observed_at": "2026-09-08T08:50:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:21Z"
+}

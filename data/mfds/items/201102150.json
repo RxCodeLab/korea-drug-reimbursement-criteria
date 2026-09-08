@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201102150",
+ "item_name": "아이스핫크림(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20110412",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203279]살리실산메틸|[M203279]살리실산메틸|[M279284]L-멘톨|[M279284]L-멘톨",
+ "main_item_ingr_eng": "L-Menthol/Methyl Salicylate",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102150",
+ "revisions": [
+  {
+   "revision_id": "201102150-fb4beb8c",
+   "content_sha256": "fb4beb8c075a24b5f1b641adfe32e0bbbb6dad924eab2ddc476a5df22e99ea2c",
+   "ee_text": "다음 증상과 관련된 경미한 통증의 일시적 완화 : 관절염, 단순 요통(허리 통증), 근좌상(근육타박상), 근육 염좌(삠), 타박상, 근육 경련",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:34Z",
+   "last_observed_at": "2026-09-08T08:44:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:34Z"
+}

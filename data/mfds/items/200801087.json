@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801087",
+ "item_name": "나글라자임주(갈설파제)",
+ "entp_name": "(주)삼오제약",
+ "permit_date": "20080125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279247]갈설파제(재조합 인간 N-아세틸갈락토사민 4-설파타제)",
+ "main_item_ingr_eng": "Galsulfase (Recombinant, Host: CHO-K1, Vector: pEF4S)",
+ "edi_code": "659700621",
+ "atc_code": "A16AB08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801087",
+ "revisions": [
+  {
+   "revision_id": "200801087-75ca41ad",
+   "content_sha256": "75ca41adc3a7f8d2213f6e2b5ea45bd8810ce578aac0b609eab9859217fd0538",
+   "ee_text": "나글라자임(갈설파제)은 뮤코다당증 VI형(MPS VI, Maroteaux-Lamysyndrome)환자에게 쓰인다. 이 약은 걷기와 계단오르기 능력을 개선시킨다.",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:12Z",
+   "last_observed_at": "2026-09-08T08:42:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:12Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106663",
+ "item_name": "조양피에이에이15액(과아세트산액)",
+ "entp_name": "(주)조양메디칼인더스트리",
+ "permit_date": "20210927",
+ "cancel_date": "20231024",
+ "status": "폐업",
+ "main_item_ingr": "[M258148]과아세트산액",
+ "main_item_ingr_eng": "Peracetic Acid Solution",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106663",
+ "revisions": [
+  {
+   "revision_id": "202106663-80c8225a",
+   "content_sha256": "80c8225ad1854a1e0f34fc0de2eb3694b235a6fe3ad42ba77f1db1aab1dbe93f",
+   "ee_text": "의료기구의 살균 및 소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:37Z",
+   "last_observed_at": "2026-09-08T09:00:37Z",
+   "official_revision_date": "2021-09-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:37Z"
+}

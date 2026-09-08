@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700062",
+ "item_name": "한풍맥아엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19870228",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M050407]맥아",
+ "main_item_ingr_eng": "Hordei Fructus Germinatus",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700062",
+ "revisions": [
+  {
+   "revision_id": "198700062-783612e1",
+   "content_sha256": "783612e136a834bbc9ce58f25ba9f720953e1962fa98d0d347bcb22aa36f6198",
+   "ee_text": "건위, 퇴유(유즙분비 소퇴)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:19Z",
+   "last_observed_at": "2026-09-08T08:27:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:19Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "20060228",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040702]포도당|[M040438]염화칼륨|[M040426]염화나트륨|[M040702]포도당|[M040438]염화칼륨|[M040426]염화나트륨|[M040702]포도당|[M040438]염화칼륨|[M040426]염화나트륨|[M040702]포도당|[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr": "[M040426]염화나트륨|[M040426]염화나트륨|[M040426]염화나트륨|[M040426]염화나트륨|[M040438]염화칼륨|[M040438]염화칼륨|[M040438]염화칼륨|[M040438]염화칼륨|[M040702]포도당|[M040702]포도당|[M040702]포도당|[M040702]포도당",
  "main_item_ingr_eng": "Glucose/Potassium Chloride/Sodium Chloride",
  "edi_code": "",
  "atc_code": "S01XA20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600050",
+ "history_fetched_at": "2026-08-28T13:24:09Z",
  "revisions": [
   {
    "revision_id": "200600050-7cd588d4",
@@ -19,8 +20,9 @@
    "ee_text": "소프트콘택트렌즈 또는 하드콘택트렌즈를 착용하고 있을 때의 불쾌감, 눈물 보충 (눈의 건조), 눈의 피로, 눈의 흐림 (눈곱이 많을 때)",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:24:09Z",
-   "last_observed_at": "2026-08-28T13:24:09Z",
-   "official_revision_date": "2018-03-19"
+   "last_observed_at": "2026-09-08T08:39:44Z",
+   "official_revision_date": "2018-03-19",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200600050-5d9730c0",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:09Z",
    "last_observed_at": "2026-08-28T13:24:09Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:09Z"
+ ]
 }

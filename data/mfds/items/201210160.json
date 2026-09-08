@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201210160",
+ "item_name": "세레자임주400단위(이미글루세라제)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20121220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M094212]이미글루세라제",
+ "main_item_ingr_eng": "Imiglucerase",
+ "edi_code": "652001241",
+ "atc_code": "A16AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201210160",
+ "revisions": [
+  {
+   "revision_id": "201210160-8c20814a",
+   "content_sha256": "8c20814ac0975de55efe2eb22eaf0a42f93648f9015d1fa4e4803654d6777b37",
+   "ee_text": "다음의 비신경학적 증상 중 한가지 이상의 증상을 나타내는 제1형 또는 제3형 고셔병으로 확진된 환자에서 장기간 효소 대체요법으로 사용한다. * 철결핍 이외의 원인으로 인한 빈혈 * 혈소판 감소 * 비타민 D결핍 이외의 원인으로 인한 골질환 * 간비대증 또는 비장비대증",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:40Z",
+   "last_observed_at": "2026-09-08T08:45:40Z",
+   "official_revision_date": "2019-02-22"
+  },
+  {
+   "revision_id": "201210160-c5224405",
+   "content_sha256": "c522440540e6b80eec03d47c5e6cf8041a06a8ffe15b77062df30d98e5d968d1",
+   "ee_text": "다음의 적응증 중 한가지 이상의 증상을 나타내는 타입 I 고셔병으로 확진된 환자에서 장기간 효소 대체요법으로 사용한다. * 철결핍 이외의 원인으로 인한 빈혈 * 혈소판 감소 * 비타민 D결핍 이외의 원인으로 인한 골질환 * 간비대증 또는 비장비대증",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:40Z",
+   "last_observed_at": "2026-09-08T08:45:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:40Z"
+}

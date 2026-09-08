@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "D08AC02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307984",
+ "history_fetched_at": "2026-08-28T13:24:03Z",
  "revisions": [
   {
    "revision_id": "200307984-c0491c1c",
@@ -19,8 +20,9 @@
    "ee_text": "경도화상 및 증기에 의한 화상, 열상(찢긴 상처) 및 찰과상(긁힌 상처), 피부이식부위",
    "ee_doc_id": "32",
    "first_observed_at": "2026-08-28T13:24:03Z",
-   "last_observed_at": "2026-08-28T13:24:03Z",
-   "official_revision_date": "2026-06-23"
+   "last_observed_at": "2026-09-08T08:37:22Z",
+   "official_revision_date": "2026-06-23",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200307984-8115551c",
@@ -40,6 +42,5 @@
    "first_observed_at": "2026-08-28T13:24:03Z",
    "last_observed_at": "2026-08-28T13:24:03Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:03Z"
+ ]
 }

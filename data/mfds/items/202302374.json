@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302374",
+ "item_name": "스페비고주(스페솔리맙)",
+ "entp_name": "레오파마(유)",
+ "permit_date": "20230809",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283959]스페솔리맙",
+ "main_item_ingr_eng": "Spesolimab",
+ "edi_code": "",
+ "atc_code": "L04AC22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302374",
+ "revisions": [
+  {
+   "revision_id": "202302374-8db549c0",
+   "content_sha256": "8db549c04373505be76e733bebd170673fd66adc71a3102e2620434aba7d5058",
+   "ee_text": "전신 농포성 건선 성인 환자의 급격한 악화 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:17Z",
+   "last_observed_at": "2026-09-08T09:02:17Z",
+   "official_revision_date": "2023-08-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:17Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000952",
+ "item_name": "하이셀멸균액2%(히프로멜로오스)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20001108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102967]히프로멜로오스",
+ "main_item_ingr_eng": "Hypromellose",
+ "edi_code": "",
+ "atc_code": "S01KA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000952",
+ "revisions": [
+  {
+   "revision_id": "200000952-2c3a810d",
+   "content_sha256": "2c3a810d43ab32bbd429c07e9854150f029e60f865323aa00b9b137e7136a739",
+   "ee_text": "(멸균액 : 2%) 우각경 검사, 우각경 절개, 세극등을 이용한 안저 검사시 사용하는 콘택트 렌즈에 점적하여 검사를 용이하게 한다. (점안액 : 0.3%) 안구건조 증상의 완화 (점안액 : 2%) 백내장 적출술과 수정체 삽입술을 포함한 전안부수술 보조제",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:38Z",
+   "last_observed_at": "2026-09-08T08:33:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:38Z"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202403071",
+ "item_name": "아렉스비주[호흡기세포융합바이러스백신(유전자재조합)]",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20241224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285109]재조합호흡기세포융합바이러스융합-전단백질F(숙주세포주: CHO-K1PD, 플라스미드: pBW780 PreF R196)",
+ "main_item_ingr_eng": "Recombinant Respiratory Syncytial Virus Pre-fusion F Protein",
+ "edi_code": "",
+ "atc_code": "J07BX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403071",
+ "revisions": [
+  {
+   "revision_id": "202403071-a19aceed",
+   "content_sha256": "a19aceed8e6d9f7cf00e3e4f371374833e75451d860cf1cd0f926d503e034979",
+   "ee_text": "다음에서의 호흡기세포융합바이러스(RSV; Respiratory Syncytial Virus)로 인한 하기도 질환(LRTD)의 예방 - 60세 이상 성인 - 18세 이상 60세 미만의 성인 중 RSV로 인한 LRTD의 위험이 높은 사람",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:35Z",
+   "last_observed_at": "2026-09-08T09:03:35Z",
+   "official_revision_date": "2026-07-01"
+  },
+  {
+   "revision_id": "202403071-a453608a",
+   "content_sha256": "a453608a74acad5792f33cabe9f771afbea0f62b76836c654d19b51bf2b8b909",
+   "ee_text": "다음에서의 호흡기세포융합바이러스(RSV; Respiratory Syncytial Virus)에 의한 하기도 질환(LRTD)의 예방 - 60세 이상 성인 - 50세 이상 59세 이하의 성인 중 RSV로 인한 LRTD의 위험이 증가한 사람",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2025-11-19",
+   "first_observed_at": "2026-09-08T09:03:35Z",
+   "last_observed_at": "2026-09-08T09:03:35Z"
+  },
+  {
+   "revision_id": "202403071-b4337eb6",
+   "content_sha256": "b4337eb692b043f8c20fb7d6baf9ffd0d8b849c78f45a5a6c543899fd20f8107",
+   "ee_text": "60세 이상 성인에서 호흡기세포융합바이러스(RSV; Respiratory Syncytial Virus)에 의한 하기도 질환(LRTD)의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-12-24",
+   "first_observed_at": "2026-09-08T09:03:35Z",
+   "last_observed_at": "2026-09-08T09:03:35Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:35Z"
+}

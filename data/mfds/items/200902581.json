@@ -7,19 +7,21 @@
  "permit_date": "20090410",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M222995]리보플라빈부티레이트|[M082761]인삼가루|[M208932]γ-오리자놀|[M223240]토코페롤아세테이트|[M258994]아스코르브산|[M204304]피리독신염산염|[M051415]푸르설티아민",
+ "main_item_ingr": "[M051415]푸르설티아민|[M082761]인삼가루|[M204304]피리독신염산염|[M208932]γ-오리자놀|[M222995]리보플라빈부티레이트|[M223240]토코페롤아세테이트|[M258994]아스코르브산",
  "main_item_ingr_eng": "Ascorbic Acid/Fursultiamine/Gamma-Oryzanol/Ginseng Powder/Pyridoxine Hydrochloride/Riboflavin Butyrate/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902581",
+ "history_fetched_at": "2026-08-28T13:24:20Z",
  "revisions": [
   {
-   "revision_id": "200902581-ec7617e5",
-   "content_sha256": "ec7617e5bb617c41ea8f74739a58dc354e563a11c474227d9f0adcf00f4d0d29",
-   "ee_text": "1 , B 2 , B 6 , C, E 의 보급\">",
+   "revision_id": "200902581-1daa35bf",
+   "content_sha256": "1daa35bfac73a5494d21d0268bdd0a2cb548cb9f89e1ccda8a3f87af7c8199b9",
+   "ee_text": "1. 다음 경우의 비타민 B1, B2, B6, C, E 의 보급 - 육체피로, 임신ㆍ수유기, 병중ㆍ병후의 체력저하 시, 노년기 - 이 약에 함유된 비타민 등의 효능.효과는 다음과 같다. ㆍ 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨ㆍ목결림, 수족저림ㆍ수족냉증",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200902581/EE",
    "first_observed_at": "2026-08-28T13:24:20Z",
-   "last_observed_at": "2026-08-28T13:24:20Z"
+   "last_observed_at": "2026-09-08T08:43:14Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200902581-d1a12196",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:20Z",
    "last_observed_at": "2026-08-28T13:24:20Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:20Z"
+ ]
 }

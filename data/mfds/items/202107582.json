@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107582",
+ "item_name": "스파스모날캡슐(알베린시트르산염)",
+ "entp_name": "에리슨제약(주)",
+ "permit_date": "20211123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254326]알베린시트르산염",
+ "main_item_ingr_eng": "Alverine Citrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107582",
+ "revisions": [
+  {
+   "revision_id": "202107582-4a84dd76",
+   "content_sha256": "4a84dd7671e41b92f2f7d5e96cac53da03f7f82d1c494492bdbc48a878286177",
+   "ee_text": "다음 질환의 평활근 경련 완화 : 과민성대장증후군, 통증성 결장 게실증, 원발성 월경곤란증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:49Z",
+   "last_observed_at": "2026-09-08T09:00:49Z",
+   "official_revision_date": "2021-11-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:49Z"
+}

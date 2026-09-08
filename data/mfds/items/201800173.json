@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800173",
+ "item_name": "잘토맥정(잘토프로펜)",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20180111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086829]잘토프로펜",
+ "main_item_ingr_eng": "Zaltoprofen",
+ "edi_code": "641502920",
+ "atc_code": "M01AE",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800173",
+ "revisions": [
+  {
+   "revision_id": "201800173-600d0df6",
+   "content_sha256": "600d0df6fc8463dd447f4e4a326dc8c16cd8dbb93426435da72f34ed54537395",
+   "ee_text": "1. 다음 질환 및 증상의 소염·진통 : 만성 류마티스관절염, 골관절염(퇴행관절염), 요통, 견관절주위염, 경견완증후군 2. 수술 후, 외상 후 및 발치 후의 소염·진통",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:47Z",
+   "last_observed_at": "2026-09-08T08:52:47Z",
+   "official_revision_date": "2018-01-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:47Z"
+}

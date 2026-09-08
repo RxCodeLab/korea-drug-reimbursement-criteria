@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600490",
+ "item_name": "플로라딘연질캡슐(로라타딘)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "20160125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082724]로라타딘",
+ "main_item_ingr_eng": "Loratadine",
+ "edi_code": "",
+ "atc_code": "R06AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600490",
+ "revisions": [
+  {
+   "revision_id": "201600490-d69c045b",
+   "content_sha256": "d69c045bb4fec0782379ba8e034bc31eecaaa91fab33aeaa1dca7d4ef762a819",
+   "ee_text": "1. 알레르기성 비염(코염) 증상(재채기, 콧물, 가려움, 눈의 작열감(화끈감))의 일시적인 완화 2. 만성 특발성(원인 불명의) 두드러기 증상 완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201600490/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:09Z",
+   "last_observed_at": "2026-09-08T08:50:09Z"
+  },
+  {
+   "revision_id": "201600490-c5a177e4",
+   "content_sha256": "c5a177e4f0e2bc8e09e70f506af298bc53c8d88aee993502db3cdf6ae5830a86",
+   "ee_text": "알레르기성 비염 (꽃가루 알레르기) 또는 상기도의 알레르기로 인한 다음증상의 일시적인 완화 : 콧물, 재채기, 가렵고 충혈된 눈, 코 또는 목의 가려움",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:50:09Z",
+   "last_observed_at": "2026-09-08T08:50:09Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:09Z"
+}

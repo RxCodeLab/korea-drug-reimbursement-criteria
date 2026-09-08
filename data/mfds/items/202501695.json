@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501695",
+ "item_name": "에스로겐크림(프로메스트리엔)",
+ "entp_name": "(주)루체팜",
+ "permit_date": "20250708",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081972]프로메스트리엔",
+ "main_item_ingr_eng": "Promestriene",
+ "edi_code": "",
+ "atc_code": "G03CA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501695",
+ "revisions": [
+  {
+   "revision_id": "202501695-df97591e",
+   "content_sha256": "df97591e714706d8298adb618d2472eeed3068a8d16a05cd0aa7605e639de1b9",
+   "ee_text": "외음부, 질전정 및 질외구의 위축으로 인한 장애와 그 결과로 발생하는 다음의 자각 증상: 불쾌감, 외음부의 가려움, 작열감, 건조감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:02Z",
+   "last_observed_at": "2026-09-08T09:04:02Z",
+   "official_revision_date": "2025-07-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:02Z"
+}

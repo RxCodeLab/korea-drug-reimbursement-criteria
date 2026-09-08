@@ -7,11 +7,12 @@
  "permit_date": "20000428",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M089503]치자엑스산|[M085093]황백엑스산|[M089535]황금엑스산|[M089522]황련엑스산",
+ "main_item_ingr": "[M085093]황백엑스산|[M089503]치자엑스산|[M089522]황련엑스산|[M089535]황금엑스산",
  "main_item_ingr_eng": "Coptis Rhizome Extract Powder/Gardenia Fruit Extract Powder/Phellodendron Bark Extract Powder/Scutellaria Root Extract Powder",
  "edi_code": "",
  "atc_code": "N07XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000096",
+ "history_fetched_at": "2026-08-28T13:23:52Z",
  "revisions": [
   {
    "revision_id": "200000096-ff32c91b",
@@ -19,7 +20,8 @@
    "ee_text": "한방의료보험용",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200000096/EE",
    "first_observed_at": "2026-08-28T13:23:52Z",
-   "last_observed_at": "2026-08-28T13:23:52Z"
+   "last_observed_at": "2026-09-08T08:33:27Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200000096-d709ccc9",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:52Z",
    "last_observed_at": "2026-08-28T13:23:52Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:52Z"
+ ]
 }

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200900381",
+ "item_name": "헥소슈어350주(이오헥솔)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20090109",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088960]이오헥솔",
+ "main_item_ingr_eng": "Iohexol",
+ "edi_code": "621803841,621803843,621803844,621803845,621803847",
+ "atc_code": "V08AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900381",
+ "revisions": [
+  {
+   "revision_id": "200900381-385a8e34",
+   "content_sha256": "385a8e34cf0c1f78c6f077939c872f918984d9c1e1dbed76aaf0e6144319188f",
+   "ee_text": "1. 혈관조영 2. 정맥요로조영(IVP) 3. CT 조영증강 4. 체강조영 : 관절조영, 소화관조영",
+   "ee_doc_id": "30",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:01Z",
+   "last_observed_at": "2026-09-08T08:43:01Z",
+   "official_revision_date": "2021-02-23"
+  },
+  {
+   "revision_id": "200900381-7031e3e5",
+   "content_sha256": "7031e3e5862bb34a1079ffcdc76a623b1963a343e9258a1be225b5291789b515",
+   "ee_text": "척추강 조영술, 혈관 조영술, 비뇨기계 조영술, CT조영증강",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:43:01Z",
+   "last_observed_at": "2026-09-08T08:43:01Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:01Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901775",
+ "item_name": "에바스정(에바스틴)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20190325",
+ "cancel_date": "20240325",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M085337]에바스틴",
+ "main_item_ingr_eng": "Ebastine",
+ "edi_code": "",
+ "atc_code": "R06AX22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901775",
+ "revisions": [
+  {
+   "revision_id": "201901775-6dd3ce45",
+   "content_sha256": "6dd3ce45b501b871a4a9e574558b26949e721ca8060cd19fb8ee6fcb6413b636",
+   "ee_text": "알레르기성 비염·결막염·피부염,만성두드러기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:36Z",
+   "last_observed_at": "2026-09-08T08:54:36Z",
+   "official_revision_date": "2019-03-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:36Z"
+}

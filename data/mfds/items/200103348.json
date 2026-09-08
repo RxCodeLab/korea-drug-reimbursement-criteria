@@ -12,16 +12,17 @@
  "edi_code": "692900040",
  "atc_code": "V09FX02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200103348",
+ "history_fetched_at": "2026-08-28T13:23:59Z",
  "revisions": [
   {
-   "revision_id": "200103348-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200103348-f165cdfd",
+   "content_sha256": "f165cdfd28c700f2b906f06172c4eb518c7554dfb44dcebaf74e1107c153a319",
+   "ee_text": "1. 갑상선 신티그래피에 의한 갑상선질환의 진단 2. 갑상선 섭취율에 의한 갑상선 기능의 검사",
    "ee_doc_id": "2",
    "first_observed_at": "2026-08-28T13:23:59Z",
-   "last_observed_at": "2026-08-28T13:23:59Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:35:36Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:59Z"
+ ]
 }

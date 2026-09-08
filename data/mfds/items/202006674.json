@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006674",
+ "item_name": "벤포콤정",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20200928",
+ "cancel_date": "20250928",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M096428]벤포티아민|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Benfotiamine/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11DB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006674",
+ "revisions": [
+  {
+   "revision_id": "202006674-0e051a3c",
+   "content_sha256": "0e051a3c0b7d4675f66c20dafe118c0c08cace40d10be483380ff85af2c625db",
+   "ee_text": "비타민 B1 및 B6 결핍으로 인한 신경계 질환",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:26Z",
+   "last_observed_at": "2026-09-08T08:59:26Z",
+   "official_revision_date": "2020-09-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:26Z"
+}

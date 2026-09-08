@@ -12,6 +12,7 @@
  "edi_code": "669900170",
  "atc_code": "A10BB09",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199603319",
+ "history_fetched_at": "2026-09-01T22:58:22Z",
  "revisions": [
   {
    "revision_id": "199603319-c0d20eb3",
@@ -19,9 +20,9 @@
    "ee_text": "제 2형 당뇨병(식사요법, 운동요법으로 충분한 효과를 얻을 수 없는 경우에 한함.)",
    "ee_doc_id": "6",
    "first_observed_at": "2026-09-01T22:58:22Z",
-   "last_observed_at": "2026-09-01T22:58:22Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:30:27Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-09-01T22:58:22Z"
+ ]
 }

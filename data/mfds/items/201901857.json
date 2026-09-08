@@ -3,7 +3,7 @@
  "complete": true,
  "item_seq": "201901857",
  "item_name": "아세틸란캡슐(아세틸시스테인)",
- "entp_name": "지엘파마(주)",
+ "entp_name": "지엘팜텍(주)",
  "permit_date": "20190327",
  "cancel_date": "",
  "status": "정상",
@@ -12,6 +12,7 @@
  "edi_code": "649701980",
  "atc_code": "R05CB01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901857",
+ "history_fetched_at": "2026-08-28T13:25:05Z",
  "revisions": [
   {
    "revision_id": "201901857-bfec7d19",
@@ -19,9 +20,9 @@
    "ee_text": "다음 질환에서의 객담배출곤란 : 급ㆍ만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:05Z",
-   "last_observed_at": "2026-08-28T13:25:05Z",
-   "official_revision_date": "2019-03-28"
+   "last_observed_at": "2026-09-08T08:54:39Z",
+   "official_revision_date": "2019-03-28",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:05Z"
+ ]
 }

@@ -12,16 +12,17 @@
  "edi_code": "647301560",
  "atc_code": "C09CA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809259",
+ "history_fetched_at": "2026-08-28T13:24:19Z",
  "revisions": [
   {
-   "revision_id": "200809259-843898b7",
-   "content_sha256": "843898b79aa1033024f7e59ad3ff333358c477d67faa1ce58f5c70c4b35a196f",
-   "ee_text": "ACE억제제에 불내성(intolerant)인 심부전(NYHA class Ⅱ ∼ Ⅳ) 증상, 증후 혹은 방사선학적으로 좌심실 부전 및/또는 좌심실 수축 기능 부전을 가진 임상적으로 안정된 환자에서의 심근경색 후 사망 위험성 감소",
+   "revision_id": "200809259-0fef0dbb",
+   "content_sha256": "0fef0dbb43fd7e613439deb30f80f839475410a1752adf3338535355f4312021",
+   "ee_text": "(정제) * 40, 80, 160 mg 1. 본태고혈압 2. 심부전 ACE억제제에 불내성(intolerant)인 심부전(NYHA class Ⅱ ∼ Ⅳ) 3. 심근경색 후의 사망 위험성 감소 증상, 증후 혹은 방사선학적으로 좌심실 부전 및/또는 좌심실 수축 기능 부전을 가진 임상적으로 안정된 환자에서의 심근경색 후 사망 위험성 감소",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:24:19Z",
-   "last_observed_at": "2026-08-28T13:24:19Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:42:48Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:19Z"
+ ]
 }

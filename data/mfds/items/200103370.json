@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200103370",
+ "item_name": "우리스틴주(유리나스타틴)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20010913",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256775]유리나스타틴",
+ "main_item_ingr_eng": "Ulinastatin",
+ "edi_code": "645301311,645301321",
+ "atc_code": "B02AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200103370",
+ "revisions": [
+  {
+   "revision_id": "200103370-9438c4c7",
+   "content_sha256": "9438c4c7e9edeb4a66bcdfd837a076f8c89c41aad776a64361f31690ac1c0d50",
+   "ee_text": "(주사제) 1. 급성 순환부전(출혈성 쇼크, 세균성 쇼크, 외상성 쇼크, 화상 쇼크) 2. 급성 췌장염(외상성 수술후 및 내시경적역행성췌담관조영(ERCP)후의 급성췌장염을 포함), 만성 재발성 췌장염의 급성 악화기",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200103370/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:36Z",
+   "last_observed_at": "2026-09-08T08:35:36Z"
+  },
+  {
+   "revision_id": "200103370-dfc3702c",
+   "content_sha256": "dfc3702ca5250035dad71c39149d6dd3b7adff70e35c14bf01aa47fae4b7fec9",
+   "ee_text": "1. 급성 순환부진(출혈성 쇽, 세균성쇽, 외상성 쇽, 열상성 쇽) 2. 급성 췌장염(외상성 수술후 및 내시경적역행성췌담관조영(ERCP)후의 급성췌장염을 포함)만성, 재발성 췌장염의 급성 악화기",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:35:36Z",
+   "last_observed_at": "2026-09-08T08:35:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:36Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199803649",
+ "item_name": "피씨마정(피록시캄)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "19971217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071634]피록시캄",
+ "main_item_ingr_eng": "Piroxicam",
+ "edi_code": "",
+ "atc_code": "M01AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803649",
+ "revisions": [
+  {
+   "revision_id": "199803649-74790799",
+   "content_sha256": "747907990768495b7759c05a48b430b44e035c063cecf663754f4a8074ec9f9e",
+   "ee_text": "이 약은 다른 비스테로이드 소염제에 불응성이거나 효과가 불충분한 다음의 경우에만 투여한다. 1. 류마티스 관절염, 골관절염, 강직성척추염 2. 만성에 한함 : 허리통증, 어깨관절주위염, 경견완증후군",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:15Z",
+   "last_observed_at": "2026-09-08T08:32:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:15Z"
+}

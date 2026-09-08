@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605924",
+ "item_name": "바이클로버안연고(아시클로버)",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20161006",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "651204801",
+ "atc_code": "S01AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605924",
+ "revisions": [
+  {
+   "revision_id": "201605924-a67fd156",
+   "content_sha256": "a67fd15681d4bf794a78660ecac189ecf910af72df0432a5cfec08f58efd46b3",
+   "ee_text": "단순 포진 바이러스에 의한 각막염",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:14Z",
+   "last_observed_at": "2026-09-08T08:51:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:14Z"
+}

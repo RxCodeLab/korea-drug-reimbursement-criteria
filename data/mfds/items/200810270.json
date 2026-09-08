@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200810270",
+ "item_name": "넥스콜환(은교산환)",
+ "entp_name": "한솔신약(주)",
+ "permit_date": "20081007",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095416]은교산건조엑스",
+ "main_item_ingr_eng": "Eungyosan Dried Extract",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810270",
+ "revisions": [
+  {
+   "revision_id": "200810270-1ef010e8",
+   "content_sha256": "1ef010e84009b24aa915b29f6a79ed31c5f56228ea1fd5b09662a369a698fdd2",
+   "ee_text": "감기로 인한 목구멍 통증, 목마름, 기침, 두통",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200810270/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:52Z",
+   "last_observed_at": "2026-09-08T08:42:52Z"
+  },
+  {
+   "revision_id": "200810270-aba3e94d",
+   "content_sha256": "aba3e94d2070a1e6304f42f42e8f5977e1fd7d175dee8812603fb200ea97f72a",
+   "ee_text": "(과립제)(정제)(캡슐제)(환제) 감기로 인한 목구멍 통증, 목마름, 기침, 두통",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:52Z",
+   "last_observed_at": "2026-09-08T08:42:52Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:52Z"
+}

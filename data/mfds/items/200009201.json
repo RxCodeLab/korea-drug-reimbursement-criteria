@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200009201",
+ "item_name": "화이자데페록사민메실레이트주500mg",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20000620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M094295]데페록사민메실레이트",
+ "main_item_ingr_eng": "Deferoxamine Mesylate",
+ "edi_code": "648903201",
+ "atc_code": "V03AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009201",
+ "revisions": [
+  {
+   "revision_id": "200009201-a9fd387e",
+   "content_sha256": "a9fd387ef6fe2617faf68068df69393139916d7548d7f3463b6b6d03ad6e1a9c",
+   "ee_text": "1. 치료요법 1) 다음과 같은 만성 철분 축적 - 수혈성 헤모시데린증(transfusional haemosiderosis), 특히 중증 지중해빈혈증(thalassaemia major), 철적모구빈혈, 자가면역용혈빈혈, 기타 만성빈혈 - 정맥절개술을 방해하는 합병증(중증 빈혈, 심질환, 저단백혈증 등)이 있는 환자의 특발성 혈색소침착증 - 정맥절개술을 받을 수 없는 환자의 지연성피부포르피린증 (porphyria cutanea tarda)과 관련된 철분축적 2) 급성 철분 중독 3) 다음과 같은 증상을 나타내는, 지속적인 혈액투석을 받는 말기 신부전증 환자의 만성 알루미늄 축적 - 알루미늄으로 인한 골 질환 - 투석 뇌병증 - 알루미늄으로 인한 빈혈 2. 진단요법 철분이나 알루미늄 축적여부에 대한 진단",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:42Z",
+   "last_observed_at": "2026-09-08T08:34:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:42Z"
+}

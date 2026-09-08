@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199906840",
+ "item_name": "에스트라시트캡슐140밀리그램(에스트라머스틴인산나트륨수화물)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20060901",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257238]에스트라머스틴인산나트륨수화물",
+ "main_item_ingr_eng": "Estramustine Sodium Phosphate Hydrate",
+ "edi_code": "648901250",
+ "atc_code": "L01XX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199906840",
+ "revisions": [
+  {
+   "revision_id": "199906840-eca2e902",
+   "content_sha256": "eca2e902af0ff718356ac39cccf1297b1a6f637530e6274d2fe873d04c6d1643",
+   "ee_text": "진행성전립선암종",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:10Z",
+   "last_observed_at": "2026-09-08T08:33:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:10Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200775",
+ "item_name": "무노발정2.5밀리그람(펠로디핀)",
+ "entp_name": "(주)한독",
+ "permit_date": "20020305",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283836]펠로디핀(미분화)",
+ "main_item_ingr_eng": "Felodipine Micronized",
+ "edi_code": "652100350",
+ "atc_code": "C08CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200775",
+ "revisions": [
+  {
+   "revision_id": "200200775-168bb4d1",
+   "content_sha256": "168bb4d1179767afcffc8cff25ff336f817d958fc0cd7f156f606f486a090197",
+   "ee_text": "고혈압, 안정형 협심증",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:06Z",
+   "last_observed_at": "2026-09-08T08:36:06Z",
+   "official_revision_date": "2020-06-22"
+  },
+  {
+   "revision_id": "200200775-fc09aeca",
+   "content_sha256": "fc09aeca6baca9dbb0b3934ebb4d4aad9aec7d7daae77310d1d7d48c21c077d7",
+   "ee_text": "고혈압, 협심증",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:36:06Z",
+   "last_observed_at": "2026-09-08T08:36:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:06Z"
+}

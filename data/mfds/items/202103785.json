@@ -7,7 +7,7 @@
  "permit_date": "20210511",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M278678]아염소산나트륨25%|[M223090]시트르산수화물",
+ "main_item_ingr": "[M223090]시트르산수화물|[M278678]아염소산나트륨25%",
  "main_item_ingr_eng": "Citric Acid Hydrate/Sodium Chlorite 25%",
  "edi_code": "",
  "atc_code": "V07AV",
@@ -20,7 +20,8 @@
    "ee_text": "초음파 프로브 및 비침습성 의료기기의 소독",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202103785/EE",
    "first_observed_at": "2026-08-27T10:37:38Z",
-   "last_observed_at": "2026-08-27T10:54:52Z"
+   "last_observed_at": "2026-09-08T09:00:10Z",
+   "normalizer_version": 3
   }
  ]
 }

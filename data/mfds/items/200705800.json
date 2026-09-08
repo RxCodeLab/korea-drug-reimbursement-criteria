@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200705800",
+ "item_name": "노펜24첩부제(디클로페낙디에틸암모늄)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20070518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249599]디클로페낙디에틸암모늄",
+ "main_item_ingr_eng": "Diclofenac Diethylammonium",
+ "edi_code": "",
+ "atc_code": "M02AA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705800",
+ "revisions": [
+  {
+   "revision_id": "200705800-4c3ae501",
+   "content_sha256": "4c3ae5018b399298a69aa3e6e3e737d5182d82bcf903747268caf0383a61b6e9",
+   "ee_text": "다음 질환 및 증상의 진통 ‧ 소염 1) 변형성 관절염 2) 견관절 주위염 3) 건 ‧ 건초염 4) 건주위염 5) 상완골상과염(테니스엘보우 등) 6) 외상후의 종창, 동통(타박, 좌상, 염좌 등) 7) 근육통",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:31Z",
+   "last_observed_at": "2026-09-08T08:41:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:31Z"
+}

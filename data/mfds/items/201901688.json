@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901688",
+ "item_name": "아시테인캡슐200밀리그램(아세틸시스테인)",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20190320",
+ "cancel_date": "20240320",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050972]아세틸시스테인",
+ "main_item_ingr_eng": "Acetylcysteine",
+ "edi_code": "",
+ "atc_code": "R05CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901688",
+ "revisions": [
+  {
+   "revision_id": "201901688-9449a0b6",
+   "content_sha256": "9449a0b62df56929c59fe8d9475302d0d2d9bea4e1e64a44201f357f88de73ce",
+   "ee_text": "다음 질환에서의 객담배출곤란 : 급 • 만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유종",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:33Z",
+   "last_observed_at": "2026-09-08T08:54:33Z",
+   "official_revision_date": "2019-03-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:33Z"
+}

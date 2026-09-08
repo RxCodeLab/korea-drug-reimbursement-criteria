@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401035",
+ "item_name": "티루캡정200밀리그램(카피바설팁)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20240429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284518]카피바설팁",
+ "main_item_ingr_eng": "Capivasertib",
+ "edi_code": "",
+ "atc_code": "L01EX27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401035",
+ "revisions": [
+  {
+   "revision_id": "202401035-88c114d1",
+   "content_sha256": "88c114d12b7b1e74882228d4410d38a96bc7d109d04444f37efaf560db9fa443",
+   "ee_text": "호르몬 수용체 (HR) 양성, 사람상피세포성장인자수용체2 (HER2) 음성이고, 한 가지 이상의 PIK3CA/AKT1/PTEN 변이가 있는 성인의 국소 진행성 또는 전이성 유방암에 내분비 요법 중 또는 이후 진행되거나 보조요법 중 또는 완료 후 12개월 이내 재발된 경우 풀베스트란트와의 병용투여",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202401035/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:56Z",
+   "last_observed_at": "2026-09-08T09:02:56Z"
+  },
+  {
+   "revision_id": "202401035-570477d1",
+   "content_sha256": "570477d1b56325928ecd0074b420bb58ef429a4df90f01f7553b63468cc760fc",
+   "ee_text": "호르몬 수용체 (HR) 양성, 사람상피세포성장인자수용체2 (HER2) 음성이고, 한 가지 이상의 PIK3CA/AKT1/PTEN 변이가 있는 성인의 국소 진행성 또는 전이성 유방암에 내분비 요법 중 또는 이후 진행되거나 보조요법 완료 후 12개월 이내 재발된 경우 풀베스트란트와의 병용투여",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-04-29",
+   "first_observed_at": "2026-09-08T09:02:56Z",
+   "last_observed_at": "2026-09-08T09:02:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:56Z"
+}

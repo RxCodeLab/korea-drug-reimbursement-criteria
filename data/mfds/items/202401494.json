@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401494",
+ "item_name": "렉비오프리필드시린지(인클리시란나트륨)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20240620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284752]인클리시란나트륨",
+ "main_item_ingr_eng": "Inclisiran Sodium",
+ "edi_code": "",
+ "atc_code": "C10AX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401494",
+ "revisions": [
+  {
+   "revision_id": "202401494-07290aa5",
+   "content_sha256": "07290aa504df32138a9d54c8255aea052ff703d5b5d7660719dc3e7e8cf9cef9",
+   "ee_text": "원발성 고콜레스테롤혈증 (이형접합 가족형 및 비 가족형) 또는 혼합형 이상지질혈증을 가진 성인 환자에서 식이요법에 대한 보조요법으로 투여 - 최대 내약 용량의 스타틴으로 충분히 LDL-콜레스테롤(LDL-C)이 조절되지 않는 환자에서 스타틴 또는 스타틴과 다른 지질 저하요법과 병용 투여 - 스타틴 불내성 환자 또는 스타틴 금기환자에서 단독 또는 다른 지질 저하요법과 병용 투여",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:04Z",
+   "last_observed_at": "2026-09-08T09:03:04Z",
+   "official_revision_date": "2024-06-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:04Z"
+}

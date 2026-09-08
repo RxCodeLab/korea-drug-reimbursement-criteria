@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500057",
+ "item_name": "우진가스텍의료용이산화탄소",
+ "entp_name": "(주)우진가스텍",
+ "permit_date": "20150107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040491]이산화탄소",
+ "main_item_ingr_eng": "Carbon Dioxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500057",
+ "revisions": [
+  {
+   "revision_id": "201500057-ce23d997",
+   "content_sha256": "ce23d99796bde014c34ff9b2b79b0e91922e9e22263eed36c5f9bba97f85de3b",
+   "ee_text": "의료용 가스(흡입제) 폐쇄순환 마취기에 산소와 혼용하여 사용, 호흡기질환, 흥분제",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:15Z",
+   "last_observed_at": "2026-09-08T08:48:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:15Z"
+}

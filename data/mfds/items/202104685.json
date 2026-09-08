@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104685",
+ "item_name": "한국코러스메코발라민캡슐500마이크로그램(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20210617",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050436]메코발라민",
+ "main_item_ingr_eng": "Mecobalamin",
+ "edi_code": "",
+ "atc_code": "B03BA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104685",
+ "revisions": [
+  {
+   "revision_id": "202104685-8decc895",
+   "content_sha256": "8decc8954d659385ea0ae7ce7d488a9c6b948e96827ff307406f3575366a4def",
+   "ee_text": "말초성 신경장애",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:17Z",
+   "last_observed_at": "2026-09-08T09:00:17Z",
+   "official_revision_date": "2021-06-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:17Z"
+}

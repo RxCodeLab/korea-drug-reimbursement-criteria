@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500967",
+ "item_name": "플루아릭스프리필드시린지(인플루엔자분할백신)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20250422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286540]정제불활화인플루엔자바이러스항원B형[B/Tokyo/EIS13-175/2025]|[M286635]정제불활화인플루엔자바이러스항원A형[A/Switzerland/6849/2025, IVR-278(H1N1)]|[M286636]정제불활화인플루엔자바이러스항원A형[A/Michigan/105/2025, SAN-049A(H3N2)]",
+ "main_item_ingr_eng": "Purified  influenza  virus  antigen B/Tokyo/EIS13-175/2025/Purified Inactivated Influenza Virus Antigen A/Michigan/105/2025, SAN-049A(H3N2)/Purified Inactivated Influenza Virus Antigen A/Switzerland/6849/2025, IVR-278(H1N1)",
+ "edi_code": "",
+ "atc_code": "J07BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500967",
+ "revisions": [
+  {
+   "revision_id": "202500967-dfac690f",
+   "content_sha256": "dfac690f065e9991eff82528a7929dee3317f038f5e22c0bb746a89c0e191778",
+   "ee_text": "생후 6개월 이상의 소아 및 성인에서 이 백신에 함유된 2개의 인플루엔자 A형 바이러스 및 1개의 인플루엔자 B형 바이러스에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:51Z",
+   "last_observed_at": "2026-09-08T09:03:51Z",
+   "official_revision_date": "2025-04-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:51Z"
+}

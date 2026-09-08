@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708491",
+ "item_name": "디클로주2밀리리터(디클로페낙β-디메틸아미노에탄올)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20171221",
+ "cancel_date": "20260630",
+ "status": "취하",
+ "main_item_ingr": "[M252249]디클로페낙β-디메틸아미노에탄올",
+ "main_item_ingr_eng": "Diclofenac Beta-Dimethylaminoethanol",
+ "edi_code": "",
+ "atc_code": "M01AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708491",
+ "revisions": [
+  {
+   "revision_id": "201708491-f86d173b",
+   "content_sha256": "f86d173bcae9eb6488a50fd8a1a02a0d71793c6e419ddc2b17ee60fd43d51b2c",
+   "ee_text": "다음 질환에 사용할 수 있다. 1. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염 2. 외상후•수술후 염증 및 동통, 급성통풍, 신 및 간산통",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:42Z",
+   "last_observed_at": "2026-09-08T08:52:42Z",
+   "official_revision_date": "2017-12-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:42Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501459",
+ "item_name": "유니온염산세티리진정(수출용)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20050314",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051285]염산세티리진",
+ "main_item_ingr_eng": "Cetirizine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AE07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501459",
+ "revisions": [
+  {
+   "revision_id": "200501459-a8adfe5c",
+   "content_sha256": "a8adfe5c729144bb4d63b9f20a139ef28b27e113c80246c1dde0bb0c11916858",
+   "ee_text": "1. 계절성 및 다년성 알레르기성 비염, 알레르기성 결막염, 만성 특발성 두드러기, 피부 소 양증 2. 하이드로코티손 외용제와 병용에 의한 습진, 피부염(정제에 한함)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:09Z",
+   "last_observed_at": "2026-09-08T08:39:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:09Z"
+}

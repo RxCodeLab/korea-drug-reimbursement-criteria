@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199400693",
+ "item_name": "지노콜시럽(구연산부타미레이트)",
+ "entp_name": "동성제약(주)",
+ "permit_date": "19940615",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261745]부타미레이트시트르산염",
+ "main_item_ingr_eng": "Butamirate Citrate",
+ "edi_code": "",
+ "atc_code": "R05DB13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400693",
+ "revisions": [
+  {
+   "revision_id": "199400693-2fb14210",
+   "content_sha256": "2fb142104650ae49e02d9b1feaf33aef3b3eca063a9c242dc05a717d67a43f50",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 급성기침, 경련성기침, 흡연성기침, 기관지경 검사 전·후의 기침 억제",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:08Z",
+   "last_observed_at": "2026-09-08T08:29:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:08Z"
+}

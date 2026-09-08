@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906371",
+ "item_name": "유유폴리스티렌설폰산칼슘산",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20190909",
+ "cancel_date": "20240909",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M081346]폴리스티렌설폰산칼슘",
+ "main_item_ingr_eng": "Calcium Polystyrene Sulfonate",
+ "edi_code": "",
+ "atc_code": "V03AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906371",
+ "revisions": [
+  {
+   "revision_id": "201906371-6a45fe70",
+   "content_sha256": "6a45fe702e51072910b144754359a3fecf4a3dd13897f7f01b88ecd6ea113167",
+   "ee_text": "고칼륨혈증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:19Z",
+   "last_observed_at": "2026-09-08T08:56:19Z",
+   "official_revision_date": "2019-09-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:19Z"
+}

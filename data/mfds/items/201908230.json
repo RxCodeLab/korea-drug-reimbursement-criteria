@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908230",
+ "item_name": "칸디스텐질정100밀리그램(클로트리마졸)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20191204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088335]클로트리마졸",
+ "main_item_ingr_eng": "Clotrimazole",
+ "edi_code": "",
+ "atc_code": "G01AF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908230",
+ "revisions": [
+  {
+   "revision_id": "201908230-a878942e",
+   "content_sha256": "a878942e292a407b694904ebf0e6095b95ec0302ad5b99f25c51ca32ffcd285d",
+   "ee_text": "칸디다성 질염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:12Z",
+   "last_observed_at": "2026-09-08T08:57:12Z",
+   "official_revision_date": "2019-12-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:12Z"
+}

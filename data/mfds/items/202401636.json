@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401636",
+ "item_name": "피나베린정1.5밀리그램(피나스테리드)(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20240704",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089174]피나스테리드",
+ "main_item_ingr_eng": "Finasteride",
+ "edi_code": "",
+ "atc_code": "D11AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401636",
+ "revisions": [
+  {
+   "revision_id": "202401636-fe501151",
+   "content_sha256": "fe501151c2922616f5fc9be6074ac04134e273779be1c4b233dd63fa36235682",
+   "ee_text": "성인남성(만 18 ∼ 41세)의 남성형 탈모증(안드로겐 탈모증)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:08Z",
+   "last_observed_at": "2026-09-08T09:03:08Z",
+   "official_revision_date": "2024-07-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:08Z"
+}

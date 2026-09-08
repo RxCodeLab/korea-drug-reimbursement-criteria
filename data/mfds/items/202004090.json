@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004090",
+ "item_name": "글로타치플러스정(글루타티온(환원형))",
+ "entp_name": "(주)유앤생명과학",
+ "permit_date": "20200529",
+ "cancel_date": "20250227",
+ "status": "취하",
+ "main_item_ingr": "[M256276]글루타티온(환원형)",
+ "main_item_ingr_eng": "Glutathione (Reduced)",
+ "edi_code": "",
+ "atc_code": "V03AB32",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004090",
+ "revisions": [
+  {
+   "revision_id": "202004090-e9694517",
+   "content_sha256": "e96945173eb120c64166c2f38981a2a0f2b8f423895263e6bc35652d3a164288",
+   "ee_text": "약물중독, 자가중독",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:02Z",
+   "last_observed_at": "2026-09-08T08:59:02Z",
+   "official_revision_date": "2024-10-15"
+  },
+  {
+   "revision_id": "202004090-7996c777",
+   "content_sha256": "7996c777f14feed35a84d57b52783faef59c20f20da28fe45e79d344341e432c",
+   "ee_text": "약물중독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-05-29",
+   "first_observed_at": "2026-09-08T08:59:02Z",
+   "last_observed_at": "2026-09-08T08:59:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:02Z"
+}

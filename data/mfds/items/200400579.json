@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400579",
+ "item_name": "바이넥스나부메톤정(수출용)",
+ "entp_name": "(주)바이넥스",
+ "permit_date": "20040809",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084590]나부메톤|[M084590]나부메톤|[M084590]나부메톤",
+ "main_item_ingr_eng": "Nabumetone",
+ "edi_code": "",
+ "atc_code": "M01AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400579",
+ "revisions": [
+  {
+   "revision_id": "200400579-0f05e973",
+   "content_sha256": "0f05e97358a196bc22b24661abebee479d92740774fedfefb65bc5408d89bd00",
+   "ee_text": "다음 증상 및 질환의 소염·진통 : 골관절염(퇴행관절염), 류마티스 관절염",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:36Z",
+   "last_observed_at": "2026-09-08T08:37:36Z",
+   "official_revision_date": "2021-04-01"
+  },
+  {
+   "revision_id": "200400579-0832f703",
+   "content_sha256": "0832f7034c3b0a577a85fe2503375df520ef88dce9f572c2a0186e6d80482a56",
+   "ee_text": "소염제 및 진통제의 투여를 요하는 골관절염, 류마티스관절염, 수술후 통증",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:37:36Z",
+   "last_observed_at": "2026-09-08T08:37:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:36Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105293",
+ "item_name": "다산시메티콘정40밀리그램(시메티콘)",
+ "entp_name": "(주)다산제약",
+ "permit_date": "20210712",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223083]시메티콘",
+ "main_item_ingr_eng": "Simethicone",
+ "edi_code": "",
+ "atc_code": "A03AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105293",
+ "revisions": [
+  {
+   "revision_id": "202105293-084659d8",
+   "content_sha256": "084659d895a2012f326b93e6879645e68cc441831df191e238006a78307db7c6",
+   "ee_text": "1. 주효능 효과 1) 위내시경 검사시 장내기포제거 2) 복부 X선 촬영시 장내가스제거 3) 위장관내 가스로 인한 복부증상(복부팽만감, 공기연하증 등)의 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:22Z",
+   "last_observed_at": "2026-09-08T09:00:22Z",
+   "official_revision_date": "2021-07-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:22Z"
+}

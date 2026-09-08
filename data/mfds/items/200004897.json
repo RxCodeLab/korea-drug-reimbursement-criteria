@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200004897",
+ "item_name": "리독심주(프랄리독심염화물)(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20001107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223294]프랄리독심염화물|[M223294]프랄리독심염화물|[M223294]프랄리독심염화물",
+ "main_item_ingr_eng": "Pralidoxime Chloride",
+ "edi_code": "",
+ "atc_code": "V03AB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004897",
+ "revisions": [
+  {
+   "revision_id": "200004897-dc6fe82c",
+   "content_sha256": "dc6fe82c855b888c0a04641417ebd9805e3316d9a4bb7e6de4af5b818dc5ae3f",
+   "ee_text": "유기인 제제의 중독",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:20Z",
+   "last_observed_at": "2026-09-08T08:34:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:20Z"
+}

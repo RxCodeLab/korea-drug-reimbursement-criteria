@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501198",
+ "item_name": "보령록사티딘아세테이트염산염주75mg(수출용)",
+ "entp_name": "(주)보령",
+ "permit_date": "20050913",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M241476]록사티딘아세테이트염산염",
+ "main_item_ingr_eng": "Roxatidine Acetate Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A02BA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501198",
+ "revisions": [
+  {
+   "revision_id": "200501198-b306de62",
+   "content_sha256": "b306de62159575294c618f34aeeccc78dec7379e0a5f81ca858a437335323794",
+   "ee_text": "상부소화관 출혈(소화성궤양, 급성 스트레스궤양, 출혈성 위염에 의한). 마취전 투약.",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:05Z",
+   "last_observed_at": "2026-09-08T08:39:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:05Z"
+}

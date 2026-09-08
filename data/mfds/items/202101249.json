@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101249",
+ "item_name": "한국아스트라제네카백스제브리아주(사스코로나바이러스-2 바이러스벡터백신)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20210210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280461]재조합 코로나바이러스 스파이크 단백질 발현 아데노바이러스 벡터(숙주: T-RexTM-293, 벡터: ChAdOx1)",
+ "main_item_ingr_eng": "Recombinant Chimpanzee Adenovirus Vector encoded Ox1-Spike Protein(ChAdOx1-S)",
+ "edi_code": "",
+ "atc_code": "J07BX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101249",
+ "revisions": [
+  {
+   "revision_id": "202101249-5fa720b9",
+   "content_sha256": "5fa720b96e8a7a4e0ee21dbbef8f7659741732afa7e4bea543d0ecee53945dd6",
+   "ee_text": "18세 이상에서 SARS-CoV-2 바이러스에 의한 코로나19의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:57Z",
+   "last_observed_at": "2026-09-08T08:59:57Z",
+   "official_revision_date": "2021-02-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:57Z"
+}

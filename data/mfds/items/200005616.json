@@ -7,11 +7,12 @@
  "permit_date": "20000812",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M089535]황금엑스산|[M089522]황련엑스산|[M089524]생지황엑스산|[M089501]대황엑스산",
+ "main_item_ingr": "[M089501]대황엑스산|[M089522]황련엑스산|[M089524]생지황엑스산|[M089535]황금엑스산",
  "main_item_ingr_eng": "Coptis Rhizome Extract Powder/Rehmanniae Radix Recens Extract Powder/Rhubarb Extract Powder/Scutellaria Root Extract Powder",
  "edi_code": "",
  "atc_code": "C01EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005616",
+ "history_fetched_at": "2026-08-28T13:23:56Z",
  "revisions": [
   {
    "revision_id": "200005616-9ffab8db",
@@ -19,8 +20,9 @@
    "ee_text": "한방건강보험용",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:23:56Z",
-   "last_observed_at": "2026-08-28T13:23:56Z",
-   "official_revision_date": "2019-04-01"
+   "last_observed_at": "2026-09-08T08:34:25Z",
+   "official_revision_date": "2019-04-01",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200005616-ff32c91b",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:56Z",
    "last_observed_at": "2026-08-28T13:23:56Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:56Z"
+ ]
 }

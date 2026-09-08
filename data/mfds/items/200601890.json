@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200601890",
+ "item_name": "대흥의료용질소",
+ "entp_name": "대흥산업가스주식회사",
+ "permit_date": "20060329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040542]질소",
+ "main_item_ingr_eng": "Nitrogen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200601890",
+ "revisions": [
+  {
+   "revision_id": "200601890-bb7b8509",
+   "content_sha256": "bb7b85097a1b5cebdbf10b4c9eaeecd0bc20187c5332a8944f9a41bbbd01c6fb",
+   "ee_text": "의료용가스(제제용).",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:11Z",
+   "last_observed_at": "2026-09-08T08:40:11Z",
+   "official_revision_date": "2017-09-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:11Z"
+}

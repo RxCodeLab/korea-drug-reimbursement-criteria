@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308653",
+ "item_name": "아이월드신비콜엑스과립",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20130802",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040006]감초|[M040135]마황|[M040202]반하|[M040225]복령|[M040336]시호|[M040538]진피|[M040769]행인|[M040813]후박|[M050752]생강|[M051301]자소엽",
+ "main_item_ingr_eng": "Apricot Kernel/Bupleurum Root/Citrus Unshiu Peel/Ephedra Herb/Licorice/Magnolia Bark/Perilla Leaf/Pinellia Tuber/Poria/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308653",
+ "revisions": [
+  {
+   "revision_id": "201308653-c9419ff9",
+   "content_sha256": "c9419ff96d34db818e44b004b75a9d2bbce157f6008ddad6b25db6f041c018b4",
+   "ee_text": "인후염, 기관지염, 기관지천식",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:13Z",
+   "last_observed_at": "2026-09-08T08:46:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:13Z"
+}

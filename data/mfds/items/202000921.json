@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000921",
+ "item_name": "신텍스소시호탕연조엑스(단미엑스혼합제)",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20200213",
+ "cancel_date": "20250213",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M262723]반하연조엑스(1.9~2.4→1)\r\n|[M262725]인삼연조엑스(2.2~2.7→1)\r\n|[M266245]시호연조엑스(4.5~5.6→1)|[M266246]황금연조엑스(2.0~2.5→1)|[M266247]감초연조엑스(2.3~2.8→1)|[M266248]생강연조엑스(6.1~7.4→1)|[M266249]대추연조엑스(1.2~1.4→1)",
+ "main_item_ingr_eng": "Bupleurum Root Soft Extract (4.5~5.6→1)/Ginseng Soft Extract (2.2~2.7→1)/Glycyrrhiza Soft Extract (2.3~2.8→1)/Jujube Soft Extract (1.2~1.4→1)/Pinellia Tuber Soft Extract (1.9~2.4→1)/Raw Ginger Soft Extract (6.1~7.4→1)/Scutellaria Root Soft Extract (2.0~2.5→1)",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000921",
+ "revisions": [
+  {
+   "revision_id": "202000921-9ffab8db",
+   "content_sha256": "9ffab8db76a804e1d1cbc4908979daa7e6a691cd5d66815ae2c842365e05355c",
+   "ee_text": "한방건강보험용",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:47Z",
+   "last_observed_at": "2026-09-08T08:57:47Z",
+   "official_revision_date": "2020-02-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:47Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300832",
+ "item_name": "엘린크림(클로트리마졸)(수출명:ClotrimazoleAnti-fungalcreamUSP1%)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20030926",
+ "cancel_date": "20240307",
+ "status": "취하",
+ "main_item_ingr": "[M051543]클로트리마졸|[M051543]클로트리마졸",
+ "main_item_ingr_eng": "Clotrimazole",
+ "edi_code": "",
+ "atc_code": "D01AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300832",
+ "revisions": [
+  {
+   "revision_id": "200300832-b242772f",
+   "content_sha256": "b242772f9e4a4af75107950608da694c23947cec057586349b1089d90ad6b01a",
+   "ee_text": "1. 피부사상균, 효모 곰팡이, 기타 진균에 의한 피부진균증 예: 백선, 어루러기, 피부칸디다증, 칸디다성 외음염 및 칸디다성 귀두염 2. 상기 진균류에 중복감염된 피부질환 3. 코리네박테륨에 의한 홍색음선",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:53Z",
+   "last_observed_at": "2026-09-08T08:36:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:53Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "20200204",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M265986]비페닐디메틸디카르복실레이트혼합물|[M223167]우르소데옥시콜산",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M265986]비페닐디메틸디카르복실레이트혼합물",
  "main_item_ingr_eng": "Biphenyl Dimethyl Dicarboxylate Mixture/Ursodeoxycholic Acid",
  "edi_code": "665002860",
  "atc_code": "A05AA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000618",
+ "history_fetched_at": "2026-08-28T13:25:14Z",
  "revisions": [
   {
    "revision_id": "202000618-41705fd8",
@@ -19,9 +20,9 @@
    "ee_text": "지속적으로 SGPT가 상승되어 있는 만성지속성 간염",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:14Z",
-   "last_observed_at": "2026-08-28T13:25:14Z",
-   "official_revision_date": "2020-02-04"
+   "last_observed_at": "2026-09-08T08:57:42Z",
+   "official_revision_date": "2020-02-04",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:14Z"
+ ]
 }

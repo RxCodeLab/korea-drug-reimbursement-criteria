@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707572",
+ "item_name": "테트로닌정(리오티로닌나트륨)(수출용)",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20171024",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222999]리오티로닌나트륨",
+ "main_item_ingr_eng": "Liothyronine Sodium",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707572",
+ "revisions": [
+  {
+   "revision_id": "201707572-3db84773",
+   "content_sha256": "3db84773a86722aa9dbb46ec41376cb7c0590c87d3ea594f0b1f601a267fc607",
+   "ee_text": "갑상선기능저하증(원발성 및 뇌하수체성), 점액부종, 크레틴병, 단순성 갑상선종, 결절성 갑상선종, 만성 갑상선염",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:29Z",
+   "last_observed_at": "2026-09-08T08:52:29Z",
+   "official_revision_date": "2017-10-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:29Z"
+}

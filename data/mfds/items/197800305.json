@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197800305",
+ "item_name": "안티로이드정(프로필티오우라실)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19780812",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223317]프로필티오우라실",
+ "main_item_ingr_eng": "Propylthiouracil",
+ "edi_code": "642201490",
+ "atc_code": "H03BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197800305",
+ "revisions": [
+  {
+   "revision_id": "197800305-8891b45d",
+   "content_sha256": "8891b45db07732fc0728c1eca0fe5792fd4c4f635785a2f3aa3e145c562bef42",
+   "ee_text": "갑상선기능항진증",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:30Z",
+   "last_observed_at": "2026-09-08T08:26:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:30Z"
+}

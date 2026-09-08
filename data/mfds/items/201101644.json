@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201101644",
+ "item_name": "이자벨탄정300밀리그램(이베사탄)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20110323",
+ "cancel_date": "20240701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M092285]이베사탄",
+ "main_item_ingr_eng": "Irbesartan",
+ "edi_code": "",
+ "atc_code": "C09CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101644",
+ "revisions": [
+  {
+   "revision_id": "201101644-987db0f1",
+   "content_sha256": "987db0f1ba430ba3b88c4a16e6ab4fc54b806e1ceb5165fdaa3653dbf07309e1",
+   "ee_text": "1. 본태고혈압 2. 고혈압 치료요법으로서, 고혈압을 가진 제 2형 당뇨병 환자의 신장병",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:31Z",
+   "last_observed_at": "2026-09-08T08:44:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:31Z"
+}

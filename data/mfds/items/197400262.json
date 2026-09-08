@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A15",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400262",
+ "history_fetched_at": "2026-08-28T13:23:37Z",
  "revisions": [
   {
    "revision_id": "197400262-0e812b17",
@@ -19,8 +20,9 @@
    "ee_text": "식욕부진",
    "ee_doc_id": "38",
    "first_observed_at": "2026-08-28T13:23:37Z",
-   "last_observed_at": "2026-08-28T13:23:37Z",
-   "official_revision_date": "2020-09-30"
+   "last_observed_at": "2026-09-08T08:26:20Z",
+   "official_revision_date": "2020-09-30",
+   "normalizer_version": 3
   },
   {
    "revision_id": "197400262-a0945af1",
@@ -40,6 +42,5 @@
    "first_observed_at": "2026-08-28T13:23:37Z",
    "last_observed_at": "2026-08-28T13:23:37Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:37Z"
+ ]
 }

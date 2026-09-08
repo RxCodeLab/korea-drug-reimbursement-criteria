@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402153",
+ "item_name": "마그스타에프정",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20240904",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204304]피리독신염산염|[M244748]판토텐산칼슘|[M255050]락트산마그네슘수화물",
+ "main_item_ingr_eng": "Calcium Pantothenate/Magnesium Lactate Hydrate/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A12CC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402153",
+ "revisions": [
+  {
+   "revision_id": "202402153-bf3087bc",
+   "content_sha256": "bf3087bcc5f70f39024c27be293177071a662e2511bc93de953185761596a8c3",
+   "ee_text": "○ 다음 경우의 비타민 B6의 보급 -임신･수유기 -병중･병후(병을 앓는 동안이나 회복 후)의 체력저하 시 ○ 마그네슘결핍으로 인한 근육경련",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:18Z",
+   "last_observed_at": "2026-09-08T09:03:18Z",
+   "official_revision_date": "2024-09-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:18Z"
+}

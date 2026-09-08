@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300109",
+ "item_name": "톨마캅셀(수출용)(염산트라마돌)",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20030516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080418]염산트라마돌",
+ "main_item_ingr_eng": "Tramadol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N02AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300109",
+ "revisions": [
+  {
+   "revision_id": "200300109-e3b351c1",
+   "content_sha256": "e3b351c13d0747254561d422b63716031ab5bfc7bcf340aa287a5db764c90874",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 중증 및 중등도의 급만성 동통(각종 암 등), 진단 및 수술후 동통",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:41Z",
+   "last_observed_at": "2026-09-08T08:36:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:41Z"
+}

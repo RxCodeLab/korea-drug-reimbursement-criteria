@@ -7,11 +7,12 @@
  "permit_date": "20080708",
  "cancel_date": "20251202",
  "status": "취하",
- "main_item_ingr": "[M231166]파라아미노안식향산|[M249150]d-비오틴|[M223289]폴산|[M040064]니코틴산아미드|[M096429]시아노코발라민|[M204304]피리독신염산염|[M040133]리보플라빈|[M223258]티아민염산염|[M040488]이노시톨|[M244748]판토텐산칼슘|[M247683]콜린타르타르산염",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040488]이노시톨|[M096429]시아노코발라민|[M204304]피리독신염산염|[M223258]티아민염산염|[M223289]폴산|[M231166]파라아미노안식향산|[M244748]판토텐산칼슘|[M247683]콜린타르타르산염|[M249150]d-비오틴",
  "main_item_ingr_eng": "Calcium Pantothenate/Choline Tartrate/Cyanocobalamin/D-Biotin/Folic Acid/Inositol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Hydrochloride/p-Aminobenzoic Acid",
  "edi_code": "",
  "atc_code": "A11EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807552",
+ "history_fetched_at": "2026-08-28T13:24:18Z",
  "revisions": [
   {
    "revision_id": "200807552-6a06c9bc",
@@ -19,8 +20,9 @@
    "ee_text": "○ 다음 경우의 비타민 (B1, B2, B6)의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하 시 - 이 약에 함유된 비타민 등의 효능· 효과는 다음과 같다. ㆍ비타민B1(“티아민염산염”) ㆍ다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) ㆍ각기 ㆍ눈의피로 ㆍ비타민B2(“리보플라빈”) 및 비타민B6(“피리독신염산염”) ㆍ다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
    "ee_doc_id": "31",
    "first_observed_at": "2026-08-28T13:24:18Z",
-   "last_observed_at": "2026-08-28T13:24:18Z",
-   "official_revision_date": "2021-11-22"
+   "last_observed_at": "2026-09-08T08:42:42Z",
+   "official_revision_date": "2021-11-22",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200807552-3da4e364",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:18Z",
    "last_observed_at": "2026-08-28T13:24:18Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:18Z"
+ ]
 }

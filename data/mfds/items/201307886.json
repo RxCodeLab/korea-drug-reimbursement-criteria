@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307886",
+ "item_name": "코러스주사용수(앰플)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20130627",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040534]주사용수",
+ "main_item_ingr_eng": "Water For Injection",
+ "edi_code": "",
+ "atc_code": "V07AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307886",
+ "revisions": [
+  {
+   "revision_id": "201307886-f656dad3",
+   "content_sha256": "f656dad319223ad9ba324a8edcafbd5b07271749405b989a6f8c53bf1d1df8b5",
+   "ee_text": "각종 주사제의 용제로 사용한다.",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:08Z",
+   "last_observed_at": "2026-09-08T08:46:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:08Z"
+}

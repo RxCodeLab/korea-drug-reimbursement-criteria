@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404863",
+ "item_name": "휴렉스캡슐(세레콕시브)",
+ "entp_name": "(주)휴비스트제약",
+ "permit_date": "20141023",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089149]세레콕시브",
+ "main_item_ingr_eng": "Celecoxib",
+ "edi_code": "628800350",
+ "atc_code": "M01AH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404863",
+ "revisions": [
+  {
+   "revision_id": "201404863-92b58ad6",
+   "content_sha256": "92b58ad6e76f67b3d13423c707d63d46061016bdee2505856f5e226b086ba50d",
+   "ee_text": "1. 골관절염(퇴행관절염)의 증상이나 징후의 완화 2. 류마티스관절염의 증상이나 징후의 완화 3. 강직척추염의 증상 및 징후의 완화 4. 성인의 급성통증 완화 (수술후, 발치후 진통) 5. 원발월경통",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:51Z",
+   "last_observed_at": "2026-09-08T08:47:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:51Z"
+}

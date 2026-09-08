@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200707111",
+ "item_name": "소프타-맨액",
+ "entp_name": "비브라운코리아(주)",
+ "permit_date": "20070621",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086763]에탄올96%|[M213532]프로판올",
+ "main_item_ingr_eng": "Ethanol 96%/Propanol",
+ "edi_code": "",
+ "atc_code": "D08AX53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707111",
+ "revisions": [
+  {
+   "revision_id": "200707111-0331bc1c",
+   "content_sha256": "0331bc1c99e0c128421ab7f0418beaa481467f35b30f5e72a6a6ac244b159d37",
+   "ee_text": "수술시 및 위생목적의 손소독",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:36Z",
+   "last_observed_at": "2026-09-08T08:41:36Z",
+   "official_revision_date": "2017-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:36Z"
+}

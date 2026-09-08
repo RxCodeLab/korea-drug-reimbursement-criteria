@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200102577",
+ "item_name": "아세핀정(아세트아미노펜제피세립)",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20010801",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082309]아세트아미노펜제피세립",
+ "main_item_ingr_eng": "Microencapsulated Acetaminophen",
+ "edi_code": "653801880",
+ "atc_code": "N02BE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102577",
+ "revisions": [
+  {
+   "revision_id": "200102577-c13c3108",
+   "content_sha256": "c13c3108455c6070e23f16e3f3f5d9c76315f354a7943bd535d4b2421654823e",
+   "ee_text": "1. 주효능·효과 감기로 인한 발열 및 동통(통증), 두통, 신경통, 근육통, 월경통, 염좌통(삔 통증) 2. 다음 질환에도 사용할 수 있다. 치통, 관절통, 류마티양 동통(통증)",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:28Z",
+   "last_observed_at": "2026-09-08T08:35:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:28Z"
+}

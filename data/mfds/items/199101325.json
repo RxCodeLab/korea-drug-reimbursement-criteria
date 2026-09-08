@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199101325",
+ "item_name": "이노엔주사용수",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "19911114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040534]주사용수",
+ "main_item_ingr_eng": "Water For Injection",
+ "edi_code": "640002481",
+ "atc_code": "V07AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101325",
+ "revisions": [
+  {
+   "revision_id": "199101325-d0df32a3",
+   "content_sha256": "d0df32a38848adda25216d009c48b359566d8f11c790b2bc167096146c629735",
+   "ee_text": "점안제, 주입제 시약등의 조제나 약품제조에 사용",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:12Z",
+   "last_observed_at": "2026-09-08T08:28:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:12Z"
+}

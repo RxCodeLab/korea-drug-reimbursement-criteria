@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006239",
+ "item_name": "브리뉴라주150mg(세르리포나제알파)",
+ "entp_name": "(주)삼오제약",
+ "permit_date": "20200908",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279456]세르리포나제알파",
+ "main_item_ingr_eng": "Cerliponase alfa",
+ "edi_code": "",
+ "atc_code": "A16AB17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006239",
+ "revisions": [
+  {
+   "revision_id": "202006239-86b23dcf",
+   "content_sha256": "86b23dcfdde8c55b5c1350dc338bd65893b321ea812e3110b52a2449ef0fa321",
+   "ee_text": "트리펩티딜 펩티다제 1 (TPP1) 결핍으로도 알려진 2형 신경세포 세로이드 라이포푸신증(CLN2) 의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:23Z",
+   "last_observed_at": "2026-09-08T08:59:23Z",
+   "official_revision_date": "2020-09-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:23Z"
+}

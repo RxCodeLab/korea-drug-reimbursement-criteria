@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200809447",
+ "item_name": "파마벤라팍신서방캡슐37.5밀리그램(벤라팍신염산염)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20080911",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M241640]벤라팍신염산염서방성과립",
+ "main_item_ingr_eng": "Venlafaxine Hydrochloride Extended-Release Granules",
+ "edi_code": "653005130",
+ "atc_code": "N06AX16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809447",
+ "revisions": [
+  {
+   "revision_id": "200809447-b1bc6800",
+   "content_sha256": "b1bc68001b5726e5713953fb56466ef69d2340585fb416043307b52490470d88",
+   "ee_text": "우울증 범불안장애 사회공포증 공황장애",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:49Z",
+   "last_observed_at": "2026-09-08T08:42:49Z",
+   "official_revision_date": "2018-10-17"
+  },
+  {
+   "revision_id": "200809447-21b91325",
+   "content_sha256": "21b913258fe84b51b05d65b1b858346a8e2404d196de897b5d5e8760c3d0b700",
+   "ee_text": "우울증 사회공포증",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:49Z",
+   "last_observed_at": "2026-09-08T08:42:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:49Z"
+}

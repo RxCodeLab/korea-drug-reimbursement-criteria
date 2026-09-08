@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402581",
+ "item_name": "로이히츠보코코인플라스타",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20241101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200188]노닐산바닐릴아미드|[M203279]살리실산메틸|[M206708]DL-캄파|[M279284]L-멘톨",
+ "main_item_ingr_eng": "DL-Camphor/L-Menthol/Methyl Salicylate/Vanillyl Nonylamide",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402581",
+ "revisions": [
+  {
+   "revision_id": "202402581-c110976e",
+   "content_sha256": "c110976e1ab562d2731965876447f61ebc2719022891077c0b1c985e8f99a845",
+   "ee_text": "다음 증상의 진통 소염:어깨결림, 요통(허리 통증), 타박상, 삠, 관절통, 근육통, 동창(언 상처), 골절통",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:25Z",
+   "last_observed_at": "2026-09-08T09:03:25Z",
+   "official_revision_date": "2024-11-01"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:25Z"
+}

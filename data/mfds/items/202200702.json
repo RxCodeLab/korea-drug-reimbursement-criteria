@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200702",
+ "item_name": "뉴로비정300밀리그램(피리독신염산염)",
+ "entp_name": "엔비케이제약(주)",
+ "permit_date": "20220214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Pyridoxine Hydrochloride",
+ "edi_code": "054801310",
+ "atc_code": "A11HA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200702",
+ "revisions": [
+  {
+   "revision_id": "202200702-752fe58f",
+   "content_sha256": "752fe58f1dfdfe84ad0b7730f5fc4b7dd0f4004a5ff06ff8412b7c5c5a79e43f",
+   "ee_text": "1. 비타민 B6 길항제(예: 이소니아지드, 하이드랄라진, 피라진아미드, 페니실라민) 투여시의 비타민 B6 결핍 증상의 예방 및 치료 2. 비타민 B6 의존증 비타민B6 반응성 경련 및 빈혈",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:06Z",
+   "last_observed_at": "2026-09-08T09:01:06Z",
+   "official_revision_date": "2022-02-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:06Z"
+}

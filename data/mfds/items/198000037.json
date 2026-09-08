@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000037",
+ "item_name": "한풍황백엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19800829",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040793]황백",
+ "main_item_ingr_eng": "Phellodendron Bark",
+ "edi_code": "",
+ "atc_code": "A16A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000037",
+ "revisions": [
+  {
+   "revision_id": "198000037-5738f476",
+   "content_sha256": "5738f4767aca465a7f66717713b789ad4c1a4069da8414552a1542f76c720c75",
+   "ee_text": "고미, 건위.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:38Z",
+   "last_observed_at": "2026-09-08T08:26:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:38Z"
+}

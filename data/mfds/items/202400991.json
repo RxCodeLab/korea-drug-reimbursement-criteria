@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400991",
+ "item_name": "알파칼엠연질캡슐0.5마이크로그램(알파칼시돌)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20240425",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081303]알파칼시돌",
+ "main_item_ingr_eng": "Alfacalcidol",
+ "edi_code": "622805420",
+ "atc_code": "A11CC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400991",
+ "revisions": [
+  {
+   "revision_id": "202400991-1c5b55de",
+   "content_sha256": "1c5b55ded04f34cc82e493b8c70954e33302f793d5cbce1266782e9e7343954c",
+   "ee_text": "1. 다음 질환에 있어서 비타민 D 대사이상에 수반되는 증상(저칼슘혈증, 테타니, 뼈의 통증, 뼈의 병변(변화) 등)의 개선 - 만성신부전, 부갑상선기능저하증, 비타민 D 저항성 구루병·골연화증 2. 골다공증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:55Z",
+   "last_observed_at": "2026-09-08T09:02:55Z",
+   "official_revision_date": "2024-04-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:55Z"
+}

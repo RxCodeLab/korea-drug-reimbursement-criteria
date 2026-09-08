@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303068",
+ "item_name": "알러진정60밀리그램(펙소페나딘염산염)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "20231106",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246634]펙소페나딘염산염",
+ "main_item_ingr_eng": "Fexofenadine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AX26",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303068",
+ "revisions": [
+  {
+   "revision_id": "202303068-94bc55a4",
+   "content_sha256": "94bc55a4be968e4e45e0fcc52914d14ea31478ae51b0f3c17ffd8bc26c8e48a0",
+   "ee_text": "꽃가루 알레르기 또는 기타 상기도 알레르기로 인한 다음 증상의 일시적 완화 - 콧물, 재채기, 눈의 가려움 및 눈물, 코 또는 목의 가려움증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:30Z",
+   "last_observed_at": "2026-09-08T09:02:30Z",
+   "official_revision_date": "2023-11-06"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:30Z"
+}

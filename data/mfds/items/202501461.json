@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501461",
+ "item_name": "비전블루점안액0.06%(트리판블루)",
+ "entp_name": "(주)제이앰코퍼레이션",
+ "permit_date": "20250616",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071331]트리판블루",
+ "main_item_ingr_eng": "Trypan Blue",
+ "edi_code": "",
+ "atc_code": "S01KX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501461",
+ "revisions": [
+  {
+   "revision_id": "202501461-9f832dd6",
+   "content_sha256": "9f832dd66e60ca8f1e3b55db258f2b470140ff255a6a654ecb575dacf18f14ce",
+   "ee_text": "백내장 수술 시 수정체 전낭 가시화(수정체 전낭을 염색해 안과수술 보조제로 사용하는 염료)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:59Z",
+   "last_observed_at": "2026-09-08T09:03:59Z",
+   "official_revision_date": "2025-06-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:59Z"
+}

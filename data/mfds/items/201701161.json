@@ -7,20 +7,13 @@
  "permit_date": "20170306",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223240]토코페롤아세테이트|[M102050]콜레칼시페롤농축분말|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M040133]리보플라빈|[M223262]티아민질산염",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M102050]콜레칼시페롤농축분말|[M204304]피리독신염산염|[M223240]토코페롤아세테이트|[M223262]티아민질산염",
  "main_item_ingr_eng": "Cholecalciferol Concentrate Powder/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701161",
+ "history_fetched_at": "2026-09-08T08:51:37Z",
  "revisions": [
-  {
-   "revision_id": "201701161-cde263a9",
-   "content_sha256": "cde263a9ab1335f86b53d424dfc9e580108c2604fad75ec3276875b42d2a95fc",
-   "ee_text": "1 , B 2 , B 6 의 보급\"> 2 (리보플라빈)]]>",
-   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201701161/EE",
-   "first_observed_at": "2026-08-28T13:24:55Z",
-   "last_observed_at": "2026-08-28T13:24:55Z"
-  },
   {
    "revision_id": "201701161-6a1a7df4",
    "content_sha256": "6a1a7df456c6a58a129856e33f5e39b6f913a3b399a9a2fa173438dc148b576d",
@@ -28,8 +21,16 @@
    "ee_doc_id": "2",
    "official_revision_date": "2017-09-23",
    "first_observed_at": "2026-08-28T13:24:55Z",
+   "last_observed_at": "2026-09-08T08:51:37Z",
+   "normalizer_version": 3
+  },
+  {
+   "revision_id": "201701161-cde263a9",
+   "content_sha256": "cde263a9ab1335f86b53d424dfc9e580108c2604fad75ec3276875b42d2a95fc",
+   "ee_text": "1 , B 2 , B 6 의 보급\"> 2 (리보플라빈)]]>",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201701161/EE",
+   "first_observed_at": "2026-08-28T13:24:55Z",
    "last_observed_at": "2026-08-28T13:24:55Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:55Z"
+ ]
 }

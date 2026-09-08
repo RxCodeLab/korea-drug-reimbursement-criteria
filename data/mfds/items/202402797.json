@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402797",
+ "item_name": "히알오스주(히알루로니다제)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20241126",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M209056]히알루로니다제",
+ "main_item_ingr_eng": "Hyaluronidase",
+ "edi_code": "",
+ "atc_code": "B06AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402797",
+ "revisions": [
+  {
+   "revision_id": "202402797-402563dd",
+   "content_sha256": "402563dd21d8c6b1adbc3f6a287b98b3b6282a1415f33126c2aee96b22a244bd",
+   "ee_text": "1. 피하주사나 근육주사, 국소마취제 및 피하주입 시 침투력 증가 2. 조직 내에 과다하게 존재하는 체액 및 혈액의 재흡수 촉진",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:30Z",
+   "last_observed_at": "2026-09-08T09:03:30Z",
+   "official_revision_date": "2024-11-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:30Z"
+}

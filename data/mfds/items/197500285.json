@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197500285",
+ "item_name": "환인히단토인정(페니토인)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "19750217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051706]페니토인",
+ "main_item_ingr_eng": "Phenytoin",
+ "edi_code": "657201120",
+ "atc_code": "N03AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197500285",
+ "revisions": [
+  {
+   "revision_id": "197500285-0f8f250b",
+   "content_sha256": "0f8f250b4964c60d97c72491cd01c72f02905fec066423885d72d73a404a858e",
+   "ee_text": "(정제)(캡슐제) 뇌전증 : 강직간대발작(대발작), 부분발작(초점발작), 정신운동성발작 (주사제) 1. 뇌전증중첩상태 2. 경구투여로 발작의 억제가 불가능한 경우(특히 의식장애, 수술중·수술후) 3. 1차라인 치료가 효과적이지 않은 디기탈리스로 유도된 심부정맥",
+   "ee_doc_id": "30",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:22Z",
+   "last_observed_at": "2026-09-08T08:26:22Z",
+   "official_revision_date": "2024-04-25"
+  },
+  {
+   "revision_id": "197500285-61847cdd",
+   "content_sha256": "61847cdd02c225c9cb3cf274f6e48825cb190b4c07fb32c159f54dcdbf5a15ab",
+   "ee_text": "(정제)(캡슐제) 간질 : 강직간대발작(대발작), 부분발작(초점발작), 정신운동성발작 (주사제) 1. 간질중첩상태 2. 경구투여로 발작의 억제가 불가능한 경우(특히 의식장애, 수술중·수술후) 3. 1차라인 치료가 효과적이지 않은 디기탈리스로 유도된 심부정맥",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:26:22Z",
+   "last_observed_at": "2026-09-08T08:26:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:22Z"
+}

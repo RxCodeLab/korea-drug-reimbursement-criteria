@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706967",
+ "item_name": "스카이셀플루멀티주(세포배양인플루엔자표면항원백신)(수출용)",
+ "entp_name": "에스케이바이오사이언스(주)",
+ "permit_date": "20170906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286607]정제불활화인플루엔자바이러스표면항원A형[A/Tasmania/318/2025(CVR-359)(H1N1)]|[M286608]정제불활화인플루엔자바이러스표면항원A형[A/Darwin/1415/2025(CVR-400)(H3N2)]|[M286609]정제불활화인플루엔자바이러스표면항원B형[B/Tokyo/EIS13-175/2025]",
+ "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A[A/Darwin/1415/2025(CVR-400)(H3N2)]/Purified Inactivated Influenza Virus Antigen A[A/Tasmania/318/2025(CVR-359)(H1N1)]/Purified Inactivated Influenza Virus Antigen B[B/Tokyo/EIS13-175/2025]",
+ "edi_code": "",
+ "atc_code": "J07BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706967",
+ "revisions": [
+  {
+   "revision_id": "201706967-b7b92aef",
+   "content_sha256": "b7b92aefcfc937320aa1cc7f029842f5931bc843d1186a5454bfe59da2f9caa1",
+   "ee_text": "생후 6개월 이상의 소아, 청소년 및 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:19Z",
+   "last_observed_at": "2026-09-08T08:52:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:19Z"
+}

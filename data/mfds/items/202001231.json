@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001231",
+ "item_name": "세이프오피에이액(오토프탈알데하이드)",
+ "entp_name": "주식회사 밸리",
+ "permit_date": "20200220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278215]O-프탈알데하이드",
+ "main_item_ingr_eng": "o-Phthalaldehyde",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001231",
+ "revisions": [
+  {
+   "revision_id": "202001231-a32a744f",
+   "content_sha256": "a32a744f0c6f6af6cf2cdec82b468eb671ffc882a1694054582dae68cc567df3",
+   "ee_text": "의료기구(내시경 등)의 살균소독",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:52Z",
+   "last_observed_at": "2026-09-08T08:57:52Z",
+   "official_revision_date": "2024-12-10"
+  },
+  {
+   "revision_id": "202001231-f8ad5da8",
+   "content_sha256": "f8ad5da881f0f4a35b55711583d49966f4ef70237a39f30bc3a1a52dbc9e6dcc",
+   "ee_text": "- 의료기구의 화학적 멸균 또는 살균소독 - 미생물 또는 유기물에 의하여 고도로 오염된 기구 또는 피하조직, 점막에 직접 적용한 기구의 화학적 멸균 소독 - B형 간염바이러스의 오염이 예상되는 기구의 소독 대상기구 - 내시경류,렌즈장착기구류,마취장치류,인공호흡장치류,인공투석장치류,메스·카테터 등의 외과 수술용 기구, 산과·비뇨기과용 기구, 치과용 기구 또는 그 보조 기구,주사관, 체온계 또는 가열멸균 할 수 없는 고무·플라스틱제 기구류 등",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-02-20",
+   "first_observed_at": "2026-09-08T08:57:52Z",
+   "last_observed_at": "2026-09-08T08:57:52Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:52Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199400711",
+ "item_name": "옥사틴정(옥사토마이드)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "19940615",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M083726]옥사토마이드",
+ "main_item_ingr_eng": "Oxatomide",
+ "edi_code": "",
+ "atc_code": "R06AE06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400711",
+ "revisions": [
+  {
+   "revision_id": "199400711-54f84747",
+   "content_sha256": "54f84747d284bc2cdaa6c8bd3f8fa7dfc0175d08a6179da3104ca15720a23ba9",
+   "ee_text": "만성 두드러기, 피부 가려움, 습진, 알레르기천식, 음식에 의한 알레르기, 알레르기 비염",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:09Z",
+   "last_observed_at": "2026-09-08T08:29:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:09Z"
+}

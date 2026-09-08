@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198200057",
+ "item_name": "알레크롬점안액(크로모글리크산나트륨)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "19820906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082911]크로모글리크산나트륨",
+ "main_item_ingr_eng": "Sodium Cromoglicate",
+ "edi_code": "658600692",
+ "atc_code": "S01GX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200057",
+ "revisions": [
+  {
+   "revision_id": "198200057-c55e9453",
+   "content_sha256": "c55e945374e2d35d5b3af6dadee677b21e67750d7b2716d7c9ebff8c2676b3b3",
+   "ee_text": "봄철 각막염이나 결막염, 알레르기성 결막염",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:47Z",
+   "last_observed_at": "2026-09-08T08:26:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:47Z"
+}

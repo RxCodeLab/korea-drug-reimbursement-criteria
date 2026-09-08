@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201211",
+ "item_name": "스티모린에스크림(소맥추출수성액(1→108))",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20220325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282295]소맥추출수성액(1→108)",
+ "main_item_ingr_eng": "Aqueous Extract of Wheat 1→108",
+ "edi_code": "",
+ "atc_code": "D03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201211",
+ "revisions": [
+  {
+   "revision_id": "202201211-ecc305bf",
+   "content_sha256": "ecc305bfb6a0c68acd969fa4d710a451baf1487f916df9647bfbb172176f9a30",
+   "ee_text": "표재성 피부 미란과 욕창 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:13Z",
+   "last_observed_at": "2026-09-08T09:01:13Z",
+   "official_revision_date": "2022-03-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:13Z"
+}

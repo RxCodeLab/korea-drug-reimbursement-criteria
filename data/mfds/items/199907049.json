@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199907049",
+ "item_name": "졸라덱스엘에이데포주사(고세렐린아세트산염)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "19991222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268790]고세렐린아세트산염",
+ "main_item_ingr_eng": "Goserelin Acetate",
+ "edi_code": "650700491",
+ "atc_code": "L02AE03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907049",
+ "revisions": [
+  {
+   "revision_id": "199907049-532eaa69",
+   "content_sha256": "532eaa6915f0f33f674c2628916f9c3d26411cbc30d6390954ce96ea4bbe80e3",
+   "ee_text": "1. 호르몬 요법이 적합한 전립선암 2. 호르몬요법이 적합한 폐경기전 및 주폐경기 여성의 유방암",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:18Z",
+   "last_observed_at": "2026-09-08T08:33:18Z",
+   "official_revision_date": "2019-01-04"
+  },
+  {
+   "revision_id": "199907049-eef278c3",
+   "content_sha256": "eef278c387abc47c76f86a7d01f6bdbf3b8117032bc59d416b87b71735bb8142",
+   "ee_text": "호르몬 요법이 적합한 전립선암",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:33:18Z",
+   "last_observed_at": "2026-09-08T08:33:18Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:18Z"
+}

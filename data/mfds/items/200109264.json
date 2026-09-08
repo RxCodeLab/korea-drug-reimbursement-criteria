@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109264",
+ "item_name": "오가루트란주0.25mg/0.5ml(가니렐릭스아세트산염)",
+ "entp_name": "한국오가논(주)",
+ "permit_date": "20010613",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286592]가니렐릭스아세트산염",
+ "main_item_ingr_eng": "Ganirelix Acetate diacetate",
+ "edi_code": "073100141",
+ "atc_code": "H01CC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109264",
+ "revisions": [
+  {
+   "revision_id": "200109264-aaa279ba",
+   "content_sha256": "aaa279ba91927e4b35ac1958f96844a253d2ce29dcc260e94bc583648ca19afb",
+   "ee_text": "보조생식술을 위해 과 배란 유도(COH)를 받는 여성에서의 조기 LH의 급증 예방",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:55Z",
+   "last_observed_at": "2026-09-08T08:35:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:55Z"
+}

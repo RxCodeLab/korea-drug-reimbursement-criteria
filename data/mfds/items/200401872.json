@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401872",
+ "item_name": "카르니젠정(아세틸-L-카르니틴염산염)(수출용)",
+ "entp_name": "(주)셀릭스",
+ "permit_date": "20040617",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249118]아세틸-L-카르니틴염산염",
+ "main_item_ingr_eng": "Acetyl-L-Carnitine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N06BX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401872",
+ "revisions": [
+  {
+   "revision_id": "200401872-85c2affc",
+   "content_sha256": "85c2affc540c2bb8723f30bf6fe55fa97db00cfe1b7a9fdd9f85acdf45b1a8d0",
+   "ee_text": "일차적 퇴행성 질환 또는 뇌혈관 질환에 의한 이차적 퇴행성 질환",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:56Z",
+   "last_observed_at": "2026-09-08T08:37:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:56Z"
+}

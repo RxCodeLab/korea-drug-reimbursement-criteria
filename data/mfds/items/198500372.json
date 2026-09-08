@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500372",
+ "item_name": "후나콘주사액(피프린히드리네이트)(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "19850104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071547]피프린히드리네이트",
+ "main_item_ingr_eng": "Piprinhydrinate",
+ "edi_code": "",
+ "atc_code": "R06AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500372",
+ "revisions": [
+  {
+   "revision_id": "198500372-e8d2a0d4",
+   "content_sha256": "e8d2a0d4318e268a7bd5f6c8e2699b868bca73cc8b727a91c02902f13ed6ea07",
+   "ee_text": "소양성 피부질환(습진ㆍ피부염, 피부소양증, 소아스트로플루스, 약진, 중독진, 다형성 삼출성 홍반), 두드러기, 알레르기성 비염, 코감기로 인한 재채기ㆍ 콧물ㆍ 기침",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:02Z",
+   "last_observed_at": "2026-09-08T08:27:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:02Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302832",
+ "item_name": "평화산소의료용이산화탄소",
+ "entp_name": "(주)평화산소",
+ "permit_date": "20230927",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040491]이산화탄소",
+ "main_item_ingr_eng": "Carbon Dioxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302832",
+ "revisions": [
+  {
+   "revision_id": "202302832-fa5474cd",
+   "content_sha256": "fa5474cdd636a1fbbee78ccf411f66d440fd8e39b205ff81b736717387d2b8ca",
+   "ee_text": "의료용가스",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:25Z",
+   "last_observed_at": "2026-09-08T09:02:25Z",
+   "official_revision_date": "2023-09-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:25Z"
+}

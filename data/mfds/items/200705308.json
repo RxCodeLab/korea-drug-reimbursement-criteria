@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200705308",
+ "item_name": "티로비스겔(티로트리신)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20070510",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020148]티로트리신",
+ "main_item_ingr_eng": "Tyrothricin",
+ "edi_code": "",
+ "atc_code": "D06AX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705308",
+ "revisions": [
+  {
+   "revision_id": "200705308-32eeb528",
+   "content_sha256": "32eeb528a1b018c3bb9c5c45293066d256c8a69f54580c3894859dab23a98060",
+   "ee_text": "(겔제) 티로트리신 감수성 균에 감염된 외상(예, 찰과상), 곪은 피부감염의 개선",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:29Z",
+   "last_observed_at": "2026-09-08T08:41:29Z",
+   "official_revision_date": "2018-08-02"
+  },
+  {
+   "revision_id": "200705308-2b19bbfb",
+   "content_sha256": "2b19bbfb6c95d1c801673eadbc5844f36f9d6dee3aa9c04f407df25b2cb265cc",
+   "ee_text": "감염의 우려가 있거나 감염된 외상, 화상, 곪은 피부감염, 하지족부궤양에서의 피부진균감염, 습진에서의 2차감염, 입술포진",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:41:29Z",
+   "last_observed_at": "2026-09-08T08:41:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:29Z"
+}

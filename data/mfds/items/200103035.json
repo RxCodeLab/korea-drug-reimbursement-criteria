@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:48:20Z",
  "revisions": [
   {
-   "revision_id": "200103035-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200103035-bfc761e2",
+   "content_sha256": "bfc761e217c2092d89855cdc84d6dbb6bc0908313575bda0513736020982f24d",
+   "ee_text": "1. 마취시 근이완 2. 기관내 삽관시 근이완 유지 3. 기계적 조절호흡 용이 4. 수술시 근이완",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200103035/EE",
    "first_observed_at": "2026-08-27T12:48:20Z",
-   "last_observed_at": "2026-08-28T13:23:59Z"
+   "last_observed_at": "2026-09-08T08:35:33Z",
+   "normalizer_version": 3
   }
  ]
 }

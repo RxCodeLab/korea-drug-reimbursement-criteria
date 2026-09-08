@@ -7,7 +7,7 @@
  "permit_date": "20161116",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M222973]디펜히드라민염산염|[M223254]티몰|[M204423]dl-캄파|[M230875]l-멘톨|[M249662]프레드니솔론발레로아세테이트",
+ "main_item_ingr": "[M204423]dl-캄파|[M222973]디펜히드라민염산염|[M223254]티몰|[M230875]l-멘톨|[M249662]프레드니솔론발레로아세테이트",
  "main_item_ingr_eng": "DL-Camphor/Diphenhydramine Hydrochloride/L-Menthol/Prednisolone Valeroacetate/Thymol",
  "edi_code": "",
  "atc_code": "D04A",
@@ -20,7 +20,8 @@
    "ee_text": "습진, 피부염, 땀띠, 가려움, 벌레물린데, 두드러기",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201606648/EE",
    "first_observed_at": "2026-08-27T12:30:02Z",
-   "last_observed_at": "2026-08-28T13:24:53Z"
+   "last_observed_at": "2026-09-08T08:51:19Z",
+   "normalizer_version": 3
   }
  ]
 }

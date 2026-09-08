@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001649",
+ "item_name": "알마게린정500밀리그램(알마게이트)",
+ "entp_name": "천우신약(주)",
+ "permit_date": "20200310",
+ "cancel_date": "20250310",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M081294]알마게이트",
+ "main_item_ingr_eng": "Almagate",
+ "edi_code": "",
+ "atc_code": "A02AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001649",
+ "revisions": [
+  {
+   "revision_id": "202001649-47b87c44",
+   "content_sha256": "47b87c449e27b4f3eb714845285a0afa27412e522c64f1e456cb33c8b81ce04c",
+   "ee_text": "다음 질환의 제산작용 및 증상의 개선 : 위·십이지장궤양, 위염, 위산과다, 속쓰림, 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:01Z",
+   "last_observed_at": "2026-09-08T08:58:01Z",
+   "official_revision_date": "2020-03-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:01Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "20180228",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M237233]헤파리노이드|[M040108]디펜히드라민|[M223240]토코페롤아세테이트|[M051015]알란토인",
+ "main_item_ingr": "[M040108]디펜히드라민|[M051015]알란토인|[M223240]토코페롤아세테이트|[M237233]헤파리노이드",
  "main_item_ingr_eng": "Allantoin/Diphenhydramine/Heparinoid/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "D04A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801010",
+ "history_fetched_at": "2026-08-27T12:30:06Z",
  "revisions": [
   {
    "revision_id": "201801010-fc4115ee",
@@ -19,9 +20,9 @@
    "ee_text": "건조성 피부(성인∙노인의 건피증, 소아의 건조성 피부)에 수반하는 가려움",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:30:06Z",
-   "last_observed_at": "2026-08-27T12:30:06Z",
-   "official_revision_date": "2018-02-28"
+   "last_observed_at": "2026-09-08T08:52:55Z",
+   "official_revision_date": "2018-02-28",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:30:06Z"
+ ]
 }

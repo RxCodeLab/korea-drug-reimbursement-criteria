@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501140",
+ "item_name": "케포돈1그람주(세파제돈나트륨)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "19951124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083624]세파제돈나트륨",
+ "main_item_ingr_eng": "Cefazedone Sodium",
+ "edi_code": "665504051",
+ "atc_code": "J01DB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501140",
+ "revisions": [
+  {
+   "revision_id": "199501140-4e697b4f",
+   "content_sha256": "4e697b4f56d3120af24e95ec91c31045b3d79e1f119fbe7ef17f107712eeb47b",
+   "ee_text": "○ 유효균종 황색포도구균, 표피포도구균, 화농성연쇄구균, 대장균, 클레브시엘라속, 프로테우스미라빌리스 ○ 적응증 요로감염증, 담관염, 자궁내감염, 자궁부속기염등 부인과 감염증, 피부 및 연조직감염증, 골 및 관절감염증, 외과의 감염예방 및 잠재감염치료",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:34Z",
+   "last_observed_at": "2026-09-08T08:29:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:34Z"
+}

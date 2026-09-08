@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303453",
+ "item_name": "칼퀀스정100밀리그램(아칼라브루티닙말레산염수화물)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20231228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283584]아칼라브루티닙말레산염수화물",
+ "main_item_ingr_eng": "Acalabrutinib Maleate Monohydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303453",
+ "revisions": [
+  {
+   "revision_id": "202303453-4ed7dfb8",
+   "content_sha256": "4ed7dfb82a320687f453abcae1d06af956b798d9576e693fad3a499bea712b72",
+   "ee_text": "만성림프구성 백혈병(CLL) 1. 65세 이상 또는 동반질환이 있는 65세 미만의 이전에 치료받은 적이 없는 만성 림프구성 백혈병 환자에서 오비누투주맙과의 병용요법 또는 단독요법 2. 이전에 한 가지 이상의 치료를 받은 경험이 있는 만성 림프구성 백혈병 환자에서 단독요법 3. 이전에 치료받은 적이 없는 만성 림프구성 백혈병 환자에서 베네토클락스 및 오비누투주맙과의 병용 또는 베네토클락스와의 병용요법 외투세포 림프종(MCL) 1. 이전에 한 가지 이상의 치료를 받은 경험이 있는 외투세포 림프종 환자에서 단독요법 2. 자가 조혈모세포이식이 적합하지 않고 이전에 치료받은 적이 없는 성인 외투세포 림프종 환자에서 벤다무스틴 및 리툭시맙과의 병용요법",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202303453/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:36Z",
+   "last_observed_at": "2026-09-08T09:02:36Z"
+  },
+  {
+   "revision_id": "202303453-3e97df7e",
+   "content_sha256": "3e97df7ef2fb30212bc17f54f75c853d6e1092201413a16c0ecf36b7b0529a50",
+   "ee_text": "1. 65세 이상 또는 동반질환이 있는 65세 미만의 이전에 치료받은 적이 없는 만성 림프구성 백혈병 환자에서 오비누투주맙과의 병용요법 또는 단독요법 2. 이전에 한 가지 이상의 치료를 받은 경험이 있는 만성 림프구성 백혈병 환자에서 단독요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-12-28",
+   "first_observed_at": "2026-09-08T09:02:36Z",
+   "last_observed_at": "2026-09-08T09:02:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:36Z"
+}

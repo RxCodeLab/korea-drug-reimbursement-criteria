@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700384",
+ "item_name": "크릭스점안액(트라닐라스트)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19970221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101545]트라닐라스트",
+ "main_item_ingr_eng": "Tranilast",
+ "edi_code": "644903981",
+ "atc_code": "S01GX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700384",
+ "revisions": [
+  {
+   "revision_id": "199700384-09c4ed6c",
+   "content_sha256": "09c4ed6cf1b7fc42c35e66329e21051815cd4f489599564bbc97c271cb6ea3c4",
+   "ee_text": "알레르기성 결막염",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:41Z",
+   "last_observed_at": "2026-09-08T08:30:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:41Z"
+}

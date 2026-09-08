@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801020",
+ "item_name": "셀로파정5밀리그램(올로파타딘염산염)",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20180228",
+ "cancel_date": "20260515",
+ "status": "취하",
+ "main_item_ingr": "[M233188]올로파타딘염산염",
+ "main_item_ingr_eng": "Olopatadine Hydrochloride",
+ "edi_code": "693902800",
+ "atc_code": "R06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801020",
+ "revisions": [
+  {
+   "revision_id": "201801020-71841fec",
+   "content_sha256": "71841feccedf7c8bfe95e66b7eb86e34f595a0f5ba19d2f16d439af2e224d404",
+   "ee_text": "-성인 : 알레르기비염, 담마진, 피부질환(습진·피부염, 양진, 피부소양증, 심상성건선)에 따른 가려움증 -소아 : 알레르기비염, 담마진, 피부질환(습진·피부염, 피부소양증)에 따른 가려움증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:55Z",
+   "last_observed_at": "2026-09-08T08:52:55Z",
+   "official_revision_date": "2018-02-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:55Z"
+}

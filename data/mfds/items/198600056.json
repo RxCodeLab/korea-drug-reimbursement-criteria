@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198600056",
+ "item_name": "자감핀과립(자감초탕)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19860117",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247461]자감초탕연조엑스(7.86→1)",
+ "main_item_ingr_eng": "Jagamchotang Soft Extract(7.86→1)",
+ "edi_code": "",
+ "atc_code": "C01EX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600056",
+ "revisions": [
+  {
+   "revision_id": "198600056-4ff53d99",
+   "content_sha256": "4ff53d9995ae280392086f3523b7c8db1de5a1e44b766de4d3fe12ffe3af3cf1",
+   "ee_text": "체력이 떨어져서 피로하기 쉬운 사람의 두근거림, 숨참",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:07Z",
+   "last_observed_at": "2026-09-08T08:27:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:07Z"
+}

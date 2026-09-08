@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198200869",
+ "item_name": "한림프로타민황산염주사액",
+ "entp_name": "한림제약(주)",
+ "permit_date": "19821112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223310]프로타민황산염",
+ "main_item_ingr_eng": "Protamine Sulfate",
+ "edi_code": "645302983",
+ "atc_code": "V03AB14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200869",
+ "revisions": [
+  {
+   "revision_id": "198200869-01d77b18",
+   "content_sha256": "01d77b18bf43df35d2e3c5531304f0d0bb1b6b7d493313be9cc8c58d51417e3b",
+   "ee_text": "1. 헤파린 과량투여시의 중화 2. 혈액투석, 인공심폐, 선택적 뇌관류 냉각법 등 혈액 체외순환후 헤파린 작용의 중화",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:48Z",
+   "last_observed_at": "2026-09-08T08:26:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:48Z"
+}

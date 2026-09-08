@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008210",
+ "item_name": "이비편액0.12%(클로르헥시딘글루콘산염액)",
+ "entp_name": "(주)텔콘알에프제약",
+ "permit_date": "20201125",
+ "cancel_date": "20251125",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M244239]클로르헥시딘글루콘산염액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "",
+ "atc_code": "R02AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008210",
+ "revisions": [
+  {
+   "revision_id": "202008210-fc20530c",
+   "content_sha256": "fc20530c1cf90be40cff5810170b3a209751299293df838abc230d7c568f0ae3",
+   "ee_text": "1. 주효능 효과 다음 질환에 의한 염증의 완화 : 보철(의치)에 의한 염증, 아구창 등의 구강(입안)내 칸디다감염증, 치은염(치은염), 인두염, 아프타성 구내염(입안염) 2. 다음 질환에도 사용할 수 있다. 치근(치아뿌리)막 수술후 살균소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:42Z",
+   "last_observed_at": "2026-09-08T08:59:42Z",
+   "official_revision_date": "2020-11-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:42Z"
+}

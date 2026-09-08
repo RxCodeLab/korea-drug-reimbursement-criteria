@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000020",
+ "item_name": "한풍괄루근엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19800121",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M095529]괄루근",
+ "main_item_ingr_eng": "Trichosanthes Root",
+ "edi_code": "",
+ "atc_code": "R05F",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000020",
+ "revisions": [
+  {
+   "revision_id": "198000020-485c9cdd",
+   "content_sha256": "485c9cdda8835182a521fe308bab5f0eb96a9152fc0b59d63e4d96c11800e0f7",
+   "ee_text": "해열, 진해",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:36Z",
+   "last_observed_at": "2026-09-08T08:26:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:36Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199602501",
+ "item_name": "하원에토돌락캅셀(수출용)",
+ "entp_name": "(주)하원제약",
+ "permit_date": "19960910",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081813]미결정에토돌락|[M081813]미결정에토돌락",
+ "main_item_ingr_eng": "Microcrystalline Etodolac",
+ "edi_code": "",
+ "atc_code": "M01AB08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602501",
+ "revisions": [
+  {
+   "revision_id": "199602501-e5565dfc",
+   "content_sha256": "e5565dfc8fe148bfa8d4039af09f9ccf7b9c30fcf6dc4fabadbf078d7a777097",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 수술후 . 외상후 . 발치후 동통",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:22Z",
+   "last_observed_at": "2026-09-08T08:30:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:22Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201101297",
+ "item_name": "프레조폴엠시티1%주(프로포폴)(앰플)",
+ "entp_name": "프레지니우스카비코리아(주)",
+ "permit_date": "20110310",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082350]프로포폴",
+ "main_item_ingr_eng": "Propofol",
+ "edi_code": "650901851,650901871",
+ "atc_code": "N01AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101297",
+ "revisions": [
+  {
+   "revision_id": "201101297-5d42bd86",
+   "content_sha256": "5d42bd86d5e07150942f36b03c13483151cb1c5a1fe78bea8465df802cdbe7b0",
+   "ee_text": "* 1 % 1. 성인 및 1개월 초과 소아의 전신마취의 유도 및 유지 2. 인공호흡중인 중환자의 진정 3. 수술 및 진단시의 의식하 진정 * 2 % 1. 성인 및 3세 이상 소아의 전신마취 유도 및 유지 2. 인공호흡중인 중환자의 진정",
+   "ee_doc_id": "43",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:31Z",
+   "last_observed_at": "2026-09-08T08:44:31Z",
+   "official_revision_date": "2024-12-24"
+  },
+  {
+   "revision_id": "201101297-5444d062",
+   "content_sha256": "5444d06262a80c3e0d5cc8a6b24da1e1394b409382bc6013c3d206b657da7803",
+   "ee_text": "* 1 % 1. 성인 및 3세 이상 소아의 전신마취의 유도 및 유지 2. 인공호흡중인 중환자의 진정 3. 수술 및 진단시의 의식하 진정 * 2 % 1. 성인 및 3세 이상 소아의 전신마취 유도 및 유지 2. 인공호흡중인 중환자의 진정",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:31Z",
+   "last_observed_at": "2026-09-08T08:44:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:31Z"
+}

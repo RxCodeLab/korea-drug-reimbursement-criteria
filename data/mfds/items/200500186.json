@@ -12,6 +12,7 @@
  "edi_code": "645902620",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500186",
+ "history_fetched_at": "2026-08-28T13:24:07Z",
  "revisions": [
   {
    "revision_id": "200500186-e150860a",
@@ -19,8 +20,9 @@
    "ee_text": "1) 칼슘 결핍 및 기타 칼슘의 보급 2) 다음 경우의 비타민 D의 보급: 임신·수유기, 발육기, 노년기 3) 이 약에 함유된 비타민 D(콜레칼시페롤)의 효능·효과는 다음과 같다.: 뼈, 이의 발육불량, 구루병의 예방",
    "ee_doc_id": "22",
    "first_observed_at": "2026-08-28T13:24:07Z",
-   "last_observed_at": "2026-08-28T13:24:07Z",
-   "official_revision_date": "2021-09-17"
+   "last_observed_at": "2026-09-08T08:38:49Z",
+   "official_revision_date": "2021-09-17",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200500186-d4a1c9b5",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:07Z",
    "last_observed_at": "2026-08-28T13:24:07Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:07Z"
+ ]
 }

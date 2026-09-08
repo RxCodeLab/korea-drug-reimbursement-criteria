@@ -12,15 +12,17 @@
  "edi_code": "641501781",
  "atc_code": "A03AX13",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502782",
+ "history_fetched_at": "2026-08-28T13:24:43Z",
  "revisions": [
   {
-   "revision_id": "201502782-8f2f951e",
-   "content_sha256": "8f2f951e7edab7055537011195e937e75c03123cb32a4b6cd2006acb85aae3a7",
-   "ee_text": "1) 위내시경 검사 시 장내기포제거 2) 복부(배부분) X선 촬영 시 장내가스제거 3) 위장관내가스로 인한 복부 증상(복부(배부분)팽만감, 공기연하증(공기삼킴증) 등)의 개선",
+   "revision_id": "201502782-ee374b9f",
+   "content_sha256": "ee374b9fd3c5972d0fa97d6e644f76c26d9712303d11d150eec469408e74a54c",
+   "ee_text": "1. 주효능·효과 1) 위내시경 검사 시 장내기포제거 2) 복부(배부분) X선 촬영 시 장내가스제거 3) 위장관내가스로 인한 복부 증상(복부(배부분)팽만감, 공기연하증(공기삼킴증) 등)의 개선",
    "ee_doc_id": "16",
    "first_observed_at": "2026-08-28T13:24:43Z",
-   "last_observed_at": "2026-08-28T13:24:43Z",
-   "official_revision_date": "2023-05-24"
+   "last_observed_at": "2026-09-08T08:49:00Z",
+   "official_revision_date": "2023-05-24",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201502782-aded488c",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:43Z",
    "last_observed_at": "2026-08-28T13:24:43Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:43Z"
+ ]
 }

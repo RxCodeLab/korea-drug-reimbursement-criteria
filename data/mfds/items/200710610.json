@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A10BD02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710610",
+ "history_fetched_at": "2026-08-28T13:24:14Z",
  "revisions": [
   {
    "revision_id": "200710610-733060f4",
@@ -19,9 +20,9 @@
    "ee_text": "식이요법으로 조절되지 않는 인슐린 비의존성 당뇨병(Type II)",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:24:14Z",
-   "last_observed_at": "2026-08-28T13:24:14Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:41:54Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:14Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502657",
+ "item_name": "카르틴정330밀리그람(엘-카르니틴)(수출용)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20050319",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M214167]L-카르니틴|[M214167]L-카르니틴",
+ "main_item_ingr_eng": "L-Carnitine",
+ "edi_code": "",
+ "atc_code": "A16AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502657",
+ "revisions": [
+  {
+   "revision_id": "200502657-68cca303",
+   "content_sha256": "68cca303994d74400f19911c839590467410d9f9c5d471a69003d981028acc32",
+   "ee_text": "1. 1차성, 2차성 카르니틴결핍증 2. 허혈성심질환에 의한 심근대사장애 : 협심증, 급성심근경색",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:22Z",
+   "last_observed_at": "2026-09-08T08:39:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:22Z"
+}

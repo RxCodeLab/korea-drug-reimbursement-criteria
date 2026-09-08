@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199800042",
+ "item_name": "프로키나제주사750,000IU(스트렙토키나제)(수출용)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "19980121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050842]스트렙토키나제|[M050842]스트렙토키나제",
+ "main_item_ingr_eng": "Streptokinase",
+ "edi_code": "",
+ "atc_code": "B01AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199800042",
+ "revisions": [
+  {
+   "revision_id": "199800042-dde6ff16",
+   "content_sha256": "dde6ff16afb9db0cb0aedb9d3574588f31a4cf404bfdddbf0ee661bc9e2d399a",
+   "ee_text": "1. 급성심근경색 2. 급성기저정맥혈전증, 급성폐색전증, 급성동맥폐색증",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:36Z",
+   "last_observed_at": "2026-09-08T08:31:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:36Z"
+}

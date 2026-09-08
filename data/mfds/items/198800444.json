@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800444",
+ "item_name": "그랑페롤연질캡슐1000아이유(비타민이프리퍼레이션)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "19880930",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256359]비타민이프리퍼레이션",
+ "main_item_ingr_eng": "Tocopherol Preparation",
+ "edi_code": "",
+ "atc_code": "A11HA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800444",
+ "revisions": [
+  {
+   "revision_id": "198800444-f5e91472",
+   "content_sha256": "f5e91472773f217ad465cdb43665afa40f1bb746b0948da07d8fc018df99274a",
+   "ee_text": "1. 비타민 E 결핍증 2. 말초순환기능 장애 및 갱년기시 다음 증상의 완화 : 어깨·목 결림, 수족저림(손발저림)·수족냉증(손발이 차가움), 간헐성 파행증(이따금 절뚝거림), 동상 등.",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:33Z",
+   "last_observed_at": "2026-09-08T08:27:33Z",
+   "official_revision_date": "2019-08-26"
+  },
+  {
+   "revision_id": "198800444-3ba5aacf",
+   "content_sha256": "3ba5aacfe0f0df14e1cb5e2d962646cafa7844e29504fd34fc76345a35ba9b5d",
+   "ee_text": "1. 비타민 E 결핍증 2. 말초순환기능 장애 및 갱년기시 다음 증상의 완화 : 어깨·목 결림, 수족저림·수족냉증, 간헐성 파행증, 동상 등.",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:27:33Z",
+   "last_observed_at": "2026-09-08T08:27:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:33Z"
+}

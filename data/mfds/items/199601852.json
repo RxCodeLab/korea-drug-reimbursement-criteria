@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199601852",
+ "item_name": "뉴로메드시럽(옥시라세탐)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "19961005",
+ "cancel_date": "20231001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M085324]옥시라세탐|[M085324]옥시라세탐",
+ "main_item_ingr_eng": "Oxiracetam",
+ "edi_code": "",
+ "atc_code": "N06BX07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199601852",
+ "revisions": [
+  {
+   "revision_id": "199601852-3d6adb77",
+   "content_sha256": "3d6adb77a3440544669411d39d0452122997e864c8df426a27317f00d98ebd7c",
+   "ee_text": "<삭제> ※ 제출된 임상시험 결과가 유효성을 입증하지 못함",
+   "ee_doc_id": "31",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:18Z",
+   "last_observed_at": "2026-09-08T08:30:18Z",
+   "official_revision_date": "2023-03-20"
+  },
+  {
+   "revision_id": "199601852-80531dfa",
+   "content_sha256": "80531dfac31dad55c97e6fdd885a6238366502d56bb60bbe9376d59f824a2838",
+   "ee_text": "혈관성 인지 장애 증상 개선 ※ 국내임상시험결과 추가 제출.",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-04-19",
+   "first_observed_at": "2026-09-08T08:30:18Z",
+   "last_observed_at": "2026-09-08T08:30:18Z"
+  },
+  {
+   "revision_id": "199601852-91130024",
+   "content_sha256": "91130024b5b945e4f5672458173c9629d5afeb19b7f531af7887f5d45ab7cd81",
+   "ee_text": "1. 뇌기능 부전에 의한 하기 기질성 뇌증후군 : 기억력감퇴, 주의.집중력감소, 의욕결핍, 지남력상실, 정서불안, 언어.행동력장애, 의식장애 2. 노인성 정신기능장애 질환 : 알쯔하이머형 치매, 다발경색성 치매 ※ 국내임상시험결과 추가 제출.",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:30:18Z",
+   "last_observed_at": "2026-09-08T08:30:18Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:18Z"
+}

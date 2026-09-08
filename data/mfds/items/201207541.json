@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201207541",
+ "item_name": "알보젠이토라드정(이토프리드염산염)",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20121030",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M229415]이토프리드염산염",
+ "main_item_ingr_eng": "Itopride Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A03FA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207541",
+ "revisions": [
+  {
+   "revision_id": "201207541-1223ac94",
+   "content_sha256": "1223ac94d79d39369a25e521c83d614aa2949060085e9fc7ee0ec92fea1b9c8b",
+   "ee_text": "기능성 소화불량으로 인한 소화기증상(복부팽만, 상복부통, 식욕부진, 속쓰림, 구역, 구토)",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:34Z",
+   "last_observed_at": "2026-09-08T08:45:34Z",
+   "official_revision_date": "2020-10-28"
+  },
+  {
+   "revision_id": "201207541-338d6743",
+   "content_sha256": "338d67434adbb5fedcfbc061491e7d7b31dcec6a4a6683e6218995c71b061e25",
+   "ee_text": "기능성 소화불량으로 인한 소화기증상(복부팽만감, 상복부통, 식욕부진, 흉통, 오심, 구토)",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:34Z",
+   "last_observed_at": "2026-09-08T08:45:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:34Z"
+}

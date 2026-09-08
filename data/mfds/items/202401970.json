@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401970",
+ "item_name": "페라미빅트프리믹스주(페라미비르수화물)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20240813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250603]페라미비르수화물",
+ "main_item_ingr_eng": "Peramivir Hydrate",
+ "edi_code": "",
+ "atc_code": "J05AH03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401970",
+ "revisions": [
+  {
+   "revision_id": "202401970-83fa3230",
+   "content_sha256": "83fa3230d568beb893d321fbe53fbb08f2b14245ef5c11267eede923daac77bb",
+   "ee_text": "성인 및 2세 이상 소아의 A형 또는 B형 인플루엔자 바이러스 감염증의 치료(인플루엔자 감염의 초기증상 발현 48시간 이내에 투여를 시작해야 한다.)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:13Z",
+   "last_observed_at": "2026-09-08T09:03:13Z",
+   "official_revision_date": "2024-08-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:13Z"
+}

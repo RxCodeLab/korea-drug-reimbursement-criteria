@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201306622",
+ "item_name": "오비드렐펜주(코리오고나도트로핀알파)",
+ "entp_name": "머크(주)",
+ "permit_date": "20130404",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099861]코리오고나도트로핀알파(재조합태반성성선자극호르몬)",
+ "main_item_ingr_eng": "Chorionic Gonadotropin Alpha",
+ "edi_code": "",
+ "atc_code": "G03GA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306622",
+ "revisions": [
+  {
+   "revision_id": "201306622-4a1c1354",
+   "content_sha256": "4a1c1354dde1ce3502e1fb1553191068b8efdcfdc4eca63944c7bf81554c8e32",
+   "ee_text": "체외수정(in vitro fertilization, IVF)과 같은 보조생식술에 앞서 과배란을 유도하는 여성에서 난포성장을 자극한 후 최후의 난포성숙 및 황체화 유발",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:58Z",
+   "last_observed_at": "2026-09-08T08:45:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:58Z"
+}

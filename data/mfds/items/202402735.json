@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402735",
+ "item_name": "스메트린크림(퍼메트린)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20241120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071543]퍼메트린",
+ "main_item_ingr_eng": "Permethrin",
+ "edi_code": "",
+ "atc_code": "P03AC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402735",
+ "revisions": [
+  {
+   "revision_id": "202402735-8d9d9605",
+   "content_sha256": "8d9d9605b8bc56758ae4e9ff7fed3d85bd80fb69b826ddcc41b42fb140bf8fbf",
+   "ee_text": "옴의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:28Z",
+   "last_observed_at": "2026-09-08T09:03:28Z",
+   "official_revision_date": "2024-11-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:28Z"
+}

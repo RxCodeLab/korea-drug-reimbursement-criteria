@@ -12,6 +12,7 @@
  "edi_code": "644901811,644901822",
  "atc_code": "B05XA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800231",
+ "history_fetched_at": "2026-08-28T13:23:41Z",
  "revisions": [
   {
    "revision_id": "198800231-ff32fa29",
@@ -19,7 +20,8 @@
    "ee_text": "1. 수분 및 전해질 결핍시의 보급(나트륨 결핍, 염소 결핍) 2. 주사제의 용해 희석제",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198800231/EE",
    "first_observed_at": "2026-08-28T13:23:41Z",
-   "last_observed_at": "2026-08-28T13:23:41Z"
+   "last_observed_at": "2026-09-08T08:27:31Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "198800231-03909bb7",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:41Z",
    "last_observed_at": "2026-08-28T13:23:41Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:41Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102428",
+ "item_name": "아루사민정(수크랄페이트)",
+ "entp_name": "(주)인트로바이오파마",
+ "permit_date": "20210318",
+ "cancel_date": "20260318",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050753]수크랄페이트",
+ "main_item_ingr_eng": "Sucralfate",
+ "edi_code": "",
+ "atc_code": "A02BX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102428",
+ "revisions": [
+  {
+   "revision_id": "202102428-07d8b9ed",
+   "content_sha256": "07d8b9ed0cfe3fbec7e895c40c13b2790aac5732c3367c13f2b9f773a0650698",
+   "ee_text": "1. 주효능 효과 위산과다, 위.십이지장궤양, 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기 2. 다음 질환에도 사용할 수 있다. 역류성식도염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:03Z",
+   "last_observed_at": "2026-09-08T09:00:03Z",
+   "official_revision_date": "2021-03-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:03Z"
+}

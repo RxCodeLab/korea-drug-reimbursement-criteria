@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "G04BE03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000498",
+ "history_fetched_at": "2026-08-27T12:35:03Z",
  "revisions": [
   {
    "revision_id": "202000498-6fd9b14e",
@@ -19,9 +20,9 @@
    "ee_text": "발기부전의 치료",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:35:03Z",
-   "last_observed_at": "2026-08-27T12:35:03Z",
-   "official_revision_date": "2020-01-30"
+   "last_observed_at": "2026-09-08T08:57:39Z",
+   "official_revision_date": "2020-01-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:35:03Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199803363",
+ "item_name": "경진 육미지황탕엑스과립",
+ "entp_name": "경진제약(주)",
+ "permit_date": "19980511",
+ "cancel_date": "20240215",
+ "status": "행정(취소)",
+ "main_item_ingr": "[M040185]목단피|[M040225]복령|[M040257]산수유|[M040258]산약|[M040638]택사|[M051364]숙지황",
+ "main_item_ingr_eng": "Alisma Rhizome/Cornus Fruit/Dioscorea Rhizome/Moutan Root Bark/Poria/Prepared Rehmannia Root",
+ "edi_code": "",
+ "atc_code": "G04BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803363",
+ "revisions": [
+  {
+   "revision_id": "199803363-0485ae96",
+   "content_sha256": "0485ae96fc66d8aa3633c57e9f9576f0a5eebf1276a85279f7c408896bee2f61",
+   "ee_text": "피로하기 쉽고 요량감소, 다뇨 또는 목마름이 있는 다음 증상 : 배뇨곤란, 빈뇨, 부종, 가려움",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:14Z",
+   "last_observed_at": "2026-09-08T08:32:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:14Z"
+}

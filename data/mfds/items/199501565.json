@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501565",
+ "item_name": "리베카크림(디플루프레드네이트)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "19950105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070601]디플루프레드네이트",
+ "main_item_ingr_eng": "Difluprednate",
+ "edi_code": "642800483",
+ "atc_code": "D07AC19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501565",
+ "revisions": [
+  {
+   "revision_id": "199501565-4febb78e",
+   "content_sha256": "4febb78efb6ed01fab11fa6e89a62a9d1a2edbe5917c85a76fdd97739c44ebcd",
+   "ee_text": "습진ㆍ피부염군(진행성 지장각피증, 지루피부염, 방사선피부염, 광피부염, 아토피피부염을 포함), 벌레물린데, 건선, 손ㆍ발바닥농포증, 장미색비강진, 약진, 중독진, 만성원판상홍반성루푸스, 홍반증, 특발성색소성자반",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:37Z",
+   "last_observed_at": "2026-09-08T08:29:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:37Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "644206410",
  "atc_code": "A02BC51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504045",
+ "history_fetched_at": "2026-08-28T13:24:44Z",
  "revisions": [
   {
    "revision_id": "201504045-9146d3b5",
@@ -19,8 +20,9 @@
    "ee_text": "위궤양, 십이지장궤양의 단기치료, 역류성 식도염 및 위식도 역류질환(GERD)의 증상(가슴앓이, 토출 등) 치료, 심한 역류성 식도염과 잘 치료되지 않는 소화성궤양의 유지요법",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:24:44Z",
-   "last_observed_at": "2026-08-28T13:24:44Z",
-   "official_revision_date": "2018-01-04"
+   "last_observed_at": "2026-09-08T08:49:13Z",
+   "official_revision_date": "2018-01-04",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201504045-c908dd1e",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:44Z",
    "last_observed_at": "2026-08-28T13:24:44Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:44Z"
+ ]
 }

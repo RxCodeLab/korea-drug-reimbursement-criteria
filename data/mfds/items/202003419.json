@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003419",
+ "item_name": "칼디엔정",
+ "entp_name": "천우신약(주)",
+ "permit_date": "20200512",
+ "cancel_date": "20250512",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051564]탄산칼슘|[M102050]콜레칼시페롤농축분말",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Powder",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003419",
+ "revisions": [
+  {
+   "revision_id": "202003419-5256e929",
+   "content_sha256": "5256e929ff4791247e9cc4215a2c86a3e29e32fef79146d8d992374a65292b9a",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신ㆍ수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ 뼈, 이의 발육불량 ㆍ 구루병의 예방 2. 칼슘 결핍 및 기타 칼슘 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:45Z",
+   "last_observed_at": "2026-09-08T08:58:45Z",
+   "official_revision_date": "2020-05-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:45Z"
+}

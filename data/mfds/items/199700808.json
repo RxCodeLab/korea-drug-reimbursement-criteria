@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700808",
+ "item_name": "이소트릴지속정60밀리그람(이소소르비드-5-모노니트레이트)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "19971031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083257]이소소르비드5모노니트레이트90%",
+ "main_item_ingr_eng": "Isosorbide-5-Mononitrate 90%",
+ "edi_code": "670301150",
+ "atc_code": "C01DA14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700808",
+ "revisions": [
+  {
+   "revision_id": "199700808-cad5dd62",
+   "content_sha256": "cad5dd627d8a5af4c6cb3d5af9464c992154c5768d1b969bdeece1fde732450c",
+   "ee_text": "1. 관동맥심질환(협심증, 심근경색 등) 2. 울혈성심부전의 보조요법(강심배당체 또는 이뇨제와 병용)",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:50Z",
+   "last_observed_at": "2026-09-08T08:30:50Z",
+   "official_revision_date": "2019-12-19"
+  },
+  {
+   "revision_id": "199700808-801719c5",
+   "content_sha256": "801719c5984b316d107f89a640925bebcbdcdecac4a52dc334c602feb9950403",
+   "ee_text": "관상동맥심질환(심근순환계질환), 협심증발작(흉통), 심근경색, 만성심근기능부전",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:30:50Z",
+   "last_observed_at": "2026-09-08T08:30:50Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:50Z"
+}

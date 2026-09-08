@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201988",
+ "item_name": "씨앤유캡슐(케노데옥시콜산-우르소데옥시콜산삼수화물마그네슘염)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "19920224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258851]케노데옥시콜산-우르소데옥시콜산삼수화물마그네슘염",
+ "main_item_ingr_eng": "Magnesium Trihydrate Salt of Chenodeoxycholic Acid And Ursodeoxycholic Acid",
+ "edi_code": "649804410",
+ "atc_code": "A05AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201988",
+ "revisions": [
+  {
+   "revision_id": "199201988-c69d38a7",
+   "content_sha256": "c69d38a712198901858f3a3a09f5c4aaaa56d49ea0bd386dff6df2534c6957df",
+   "ee_text": "1. 콜레스테롤담석증(방사선 투과성 담석증) : 특히 담낭기능이 정상인 환자의 담석, 담도수술 후 잔류 또는 재발하는 담석 2. 담즙성 소화불량 ☆ 국내임상시험결과 추가제출(의약품 재평가 진행 중)",
+   "ee_doc_id": "30",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:30Z",
+   "last_observed_at": "2026-09-08T08:28:30Z",
+   "official_revision_date": "2023-07-30"
+  },
+  {
+   "revision_id": "199201988-12f97646",
+   "content_sha256": "12f976468a394330ace6d925f635d74af9a88c3f2f05076d35f4d11986ab846a",
+   "ee_text": "1. 콜레스테롤담석증(방사선 투과성 담석증) : 특히 담낭기능이 정상인 환자의 담석, 담도수술 후 잔류 또는 재발하는 담석 2. 담즙성 소화불량",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:28:30Z",
+   "last_observed_at": "2026-09-08T08:28:30Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:30Z"
+}

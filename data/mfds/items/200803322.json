@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200803322",
+ "item_name": "나이트로프레스주(니트로푸루시드나트륨)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20080325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234430]니트로 푸루시드 나트륨",
+ "main_item_ingr_eng": "Sodium Nitroprusside",
+ "edi_code": "648903041",
+ "atc_code": "C02DD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803322",
+ "revisions": [
+  {
+   "revision_id": "200803322-43f99f8f",
+   "content_sha256": "43f99f8f7ce5eb7bdae84af65427fa57ff4fdb82cf600dbe6512c23f573c7b9e",
+   "ee_text": "응급성고혈압(고혈압성 발증), 외과수술시 출혈감소를 위한 마취중 혈압강하(주사제)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:22Z",
+   "last_observed_at": "2026-09-08T08:42:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:22Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100102",
+ "item_name": "볼그레캡슐(철-아세틸트랜스페린)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20010316",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247413]철-아세틸트랜스페린",
+ "main_item_ingr_eng": "Iron Acetyl Transferrin",
+ "edi_code": "643301010",
+ "atc_code": "B03AB08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100102",
+ "revisions": [
+  {
+   "revision_id": "200100102-1681c4cf",
+   "content_sha256": "1681c4cfa0daf817c00737ea1b0f63d6a0af5071aa3e2dca44878822c03a789f",
+   "ee_text": "철 결핍성 빈혈",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:47Z",
+   "last_observed_at": "2026-09-08T08:34:47Z",
+   "official_revision_date": "2006-02-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:47Z"
+}

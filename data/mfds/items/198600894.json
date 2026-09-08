@@ -12,16 +12,17 @@
  "edi_code": "671800951",
  "atc_code": "B05XA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600894",
+ "history_fetched_at": "2026-08-28T13:23:40Z",
  "revisions": [
   {
-   "revision_id": "198600894-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "198600894-dd5f0521",
+   "content_sha256": "dd5f05213aadbc6f55458bffe3a02d5619a193e61cf12b1a755a64042099f56a",
+   "ee_text": "1. 산증(아시도시스) 2. 급성두드러기",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:23:40Z",
-   "last_observed_at": "2026-08-28T13:23:40Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:27:13Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:40Z"
+ ]
 }

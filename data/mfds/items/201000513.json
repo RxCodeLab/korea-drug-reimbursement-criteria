@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201000513",
+ "item_name": "옥스플라틴주5밀리그램/밀리리터(옥살리플라틴)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "20100115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089133]옥살리플라틴",
+ "main_item_ingr_eng": "Oxaliplatin",
+ "edi_code": "658602481,658602491",
+ "atc_code": "L01XA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000513",
+ "revisions": [
+  {
+   "revision_id": "201000513-c0e9a71a",
+   "content_sha256": "c0e9a71a30680071c9afbef25afa906ab73e0302594e1d4174f3ff4bcf999c87",
+   "ee_text": "1. 전이성 결장, 직장암에 1차 치료제로써 5-fluorouracil 및 folinic acid(leucovorin)와 병용 투여한다. 2. 원발 종양을 수술로 완전히 절제(complete resection)한 stage III (Duke's C) 결장암에 5-fluorouracil과 folinic acid(leucovorin)를 병용하여 보조적 요법(adjuvant treatment)으로 사용 3. 수술이 불가능한 진행성 또는 전이성 위암 4. 카페시타빈과 병용하여 stage Ⅱ, Ⅲ 위암의 수술 후 보조요법",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:45Z",
+   "last_observed_at": "2026-09-08T08:43:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:45Z"
+}

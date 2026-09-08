@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500634",
+ "item_name": "카마제핀정(카르바마제핀)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "19850417",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040569]카르바마제핀",
+ "main_item_ingr_eng": "Carbamazepine",
+ "edi_code": "651901860",
+ "atc_code": "N03AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500634",
+ "revisions": [
+  {
+   "revision_id": "198500634-36668807",
+   "content_sha256": "3666880701c32f62949862dbda0f7c38ac7d00e5b911d683a1275a02064ffc28",
+   "ee_text": "1. 뇌전증 : 정신운동발작, 뇌전증성격 및 뇌전증에 수반하는 정신장애, 뇌전증의 경련발작 [강직간대발작(대발작)] 2. 삼차신경통 3. 조병, 조울병의 조상태, 정신분열증의 흥분상태",
+   "ee_doc_id": "35",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:04Z",
+   "last_observed_at": "2026-09-08T08:27:04Z",
+   "official_revision_date": "2022-12-21"
+  },
+  {
+   "revision_id": "198500634-4a07ea26",
+   "content_sha256": "4a07ea26b09679fb5ade2829ff0447a9e99f7433b349222117def96067a2935c",
+   "ee_text": "1. 간질 : 정신운동발작, 간질성격 및 간질에 수반하는 정신장애, 간질의 경련발작 [강직간대발작(대발작)] 2. 삼차신경통 3. 조병, 조울병의 조상태, 정신분열증의 흥분상태",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:27:04Z",
+   "last_observed_at": "2026-09-08T08:27:04Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:04Z"
+}

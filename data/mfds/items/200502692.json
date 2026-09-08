@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502692",
+ "item_name": "아모칸정(염산아모디아퀸)(수출용)",
+ "entp_name": "초당약품공업(주)",
+ "permit_date": "20051026",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050928]염산아모디아퀸",
+ "main_item_ingr_eng": "Amodiaquine Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "P01BA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502692",
+ "revisions": [
+  {
+   "revision_id": "200502692-473a8d34",
+   "content_sha256": "473a8d340c0082052d1567368f52dbd47db2e6055864fdeba188cbad67cd7f65",
+   "ee_text": "클로로퀸 저항성 Plasmodium falciparum 말라리아의 치료",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:23Z",
+   "last_observed_at": "2026-09-08T08:39:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:23Z"
+}

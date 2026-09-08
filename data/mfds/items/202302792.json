@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302792",
+ "item_name": "타브너스캡슐10밀리그램(아바코판)",
+ "entp_name": "(주)메디팁",
+ "permit_date": "20230921",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284036]아바코판",
+ "main_item_ingr_eng": "Avacopan",
+ "edi_code": "",
+ "atc_code": "L04AJ05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302792",
+ "revisions": [
+  {
+   "revision_id": "202302792-cf01f4bf",
+   "content_sha256": "cf01f4bfc17d01d1f3682bd9139b9a8a9782f2a9cacc6484083d35310f383df8",
+   "ee_text": "활동성의 중증 육아종증 다발혈관염(GPA), 현미경적 다발혈관염(MPA) 성인 환자치료로 리툭시맙 요법 또는 시클로포스파미드 요법과 병용투여",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:24Z",
+   "last_observed_at": "2026-09-08T09:02:24Z",
+   "official_revision_date": "2024-05-09"
+  },
+  {
+   "revision_id": "202302792-c5c30ada",
+   "content_sha256": "c5c30ada44a470bdc400365c6e4f5d83b7e069977e3afaff82e28316650390da",
+   "ee_text": "활동성의 중증 육아종증 다발혈관염(GPA), 현미경적 다발혈관염(MPA) 성인 환자치료로 리툭시맙 또는 시클로포스파미드와 병용투여",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-09-21",
+   "first_observed_at": "2026-09-08T09:02:24Z",
+   "last_observed_at": "2026-09-08T09:02:24Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:24Z"
+}

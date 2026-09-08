@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199702399",
+ "item_name": "하나염산메피바카인주2%",
+ "entp_name": "하나제약(주)",
+ "permit_date": "19970526",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223029]메피바카인염산염",
+ "main_item_ingr_eng": "Mepivacaine Hydrochloride",
+ "edi_code": "657802631",
+ "atc_code": "N01BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702399",
+ "revisions": [
+  {
+   "revision_id": "199702399-f904909a",
+   "content_sha256": "f904909a8650feea0cdbf2b22d7f8fed85700df51448c69dd6596162aadc9493",
+   "ee_text": "경막외마취, 전달마취, 침윤마취",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:18Z",
+   "last_observed_at": "2026-09-08T08:31:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:18Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401133",
+ "item_name": "트리플믹신비연고(수출명:TripleAntibioticOintment)(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20040721",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083538]바시트라신아연|[M202893]네오마이신황산염|[M233313]폴리믹신B황산염",
+ "main_item_ingr_eng": "Bacitracin Zinc/Neomycin Sulfate/Polymyxin B Sulfate",
+ "edi_code": "",
+ "atc_code": "D06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401133",
+ "revisions": [
+  {
+   "revision_id": "200401133-4fc43ec2",
+   "content_sha256": "4fc43ec20fab0f11e974974fdb2aa1280a9e69922a8e5aa317e9b0a8a9094765",
+   "ee_text": "가벼운 절상, 찰과상, 화상으로 일한 통증완화 및 감염증 예방",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:44Z",
+   "last_observed_at": "2026-09-08T08:37:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:44Z"
+}

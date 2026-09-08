@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405228",
+ "item_name": "쿨스펜겔(피록시캄)",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20141107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071634]피록시캄",
+ "main_item_ingr_eng": "Piroxicam",
+ "edi_code": "",
+ "atc_code": "M02AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405228",
+ "revisions": [
+  {
+   "revision_id": "201405228-acfe35f8",
+   "content_sha256": "acfe35f874720fe61008b61451e061591908e927731baab06929cb9a0995f334",
+   "ee_text": "(겔제)(연고제)(크림제) 다음 질환 및 증상의 진통ㆍ소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건ㆍ건초염(힘줄염ㆍ힘줄윤활막염), 건주위염(힘줄주위염), 상완골상과염(테니스 엘보우 등), 근육통(근염, 근막염 등), 외상후의 종창(부기)ㆍ동통(통증) (패취제) 퇴행성관절염(골관절염), 건초염(힘줄윤활막염), 근육통, 골관절통, 외상후 동통(통증) 및 골절치유후의 동통(통증)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:57Z",
+   "last_observed_at": "2026-09-08T08:47:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:57Z"
+}

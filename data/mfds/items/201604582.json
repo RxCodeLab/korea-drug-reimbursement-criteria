@@ -12,6 +12,7 @@
  "edi_code": "051700040",
  "atc_code": "G04BD08",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604582",
+ "history_fetched_at": "2026-08-28T13:24:51Z",
  "revisions": [
   {
    "revision_id": "201604582-c23652f7",
@@ -19,8 +20,9 @@
    "ee_text": "절박성 뇨실금, 빈뇨, 요절박과 같은 과민성방광증상의 치료",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:24:51Z",
-   "last_observed_at": "2026-08-28T13:24:51Z",
-   "official_revision_date": "2017-11-24"
+   "last_observed_at": "2026-09-08T08:51:04Z",
+   "official_revision_date": "2017-11-24",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201604582-0b4e5ae1",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:51Z",
    "last_observed_at": "2026-08-28T13:24:51Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:51Z"
+ ]
 }

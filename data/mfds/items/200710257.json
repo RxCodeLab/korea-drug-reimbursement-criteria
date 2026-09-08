@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200710257",
+ "item_name": "맥널티펩토비스몰현탁액(비스무트차살리실산염)(수출용)",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20070907",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251876]비스무트차살리실산염",
+ "main_item_ingr_eng": "Bismuth Subsalicylate",
+ "edi_code": "",
+ "atc_code": "A07BB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710257",
+ "revisions": [
+  {
+   "revision_id": "200710257-50c501fd",
+   "content_sha256": "50c501fd67f2bc47d7475341e899904bfeac570190f8a1ffb4d085527cd664b4",
+   "ee_text": "- 설사 및 설사에 기인한 복통의 완화 - 변비를 수반하지 않는 소화불량 증상 (과식 및 과음에 의한 소화 장애, 가슴 쓰림, 오심 및 복부팽만감)의 완화",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:52Z",
+   "last_observed_at": "2026-09-08T08:41:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:52Z"
+}

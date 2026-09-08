@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900645",
+ "item_name": "하이진정(히드록시진염산염)(수출명:히다락스정,필히다락스정)(수출용)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "19990622",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223358]히드록시진염산염",
+ "main_item_ingr_eng": "Hydroxyzine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N05BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900645",
+ "revisions": [
+  {
+   "revision_id": "199900645-23aac419",
+   "content_sha256": "23aac419c959a930d552810a777b7bd2de782031bc0dd183191d5ee3b0e98113",
+   "ee_text": "1. 주효능 효과 수술전, 수술후 및 신경증에서의 불안, 긴장, 초조, 두드러기, 피부질환에 수반되는 가려 움(습진,피부염,피부가려움증) 2. 다음 질환에도 사용할 수 있다. 수술전, 수술후의 구역, 구토 알코올중독의 금단증상",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:35Z",
+   "last_observed_at": "2026-09-08T08:32:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:35Z"
+}

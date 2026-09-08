@@ -12,16 +12,17 @@
  "edi_code": "057000061",
  "atc_code": "D01AE15",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905864",
+ "history_fetched_at": "2026-08-27T12:44:08Z",
  "revisions": [
   {
-   "revision_id": "201905864-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201905864-675f8c29",
+   "content_sha256": "675f8c29101243cf35b22139b6f819ddbed65a6d6497ddd799caa928f27aba00",
+   "ee_text": "1. Trichophyton(T. rubrum, T. mentagrophytes, T. verrucosum, T. violaceum), Microsporum canis 및 Epidermophyton floccosum과 같은 피부사상균에 의한 피부진균감염증 : 족부백선, 고부백선(완선), 체부백선 2. Pityrosporum orbiculare (Malassezia furfur)에 의한 어루러기 3. 피부칸디다증",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:44:08Z",
-   "last_observed_at": "2026-08-27T12:44:08Z",
-   "official_revision_date": "2019-08-20"
+   "last_observed_at": "2026-09-08T08:56:08Z",
+   "official_revision_date": "2019-08-20",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:44:08Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199601085",
+ "item_name": "보령에바스텔내복액(에바스틴)",
+ "entp_name": "(주)보령",
+ "permit_date": "19960919",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085337]에바스틴",
+ "main_item_ingr_eng": "Ebastine",
+ "edi_code": "641901521",
+ "atc_code": "R06AX22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199601085",
+ "revisions": [
+  {
+   "revision_id": "199601085-a9c38d8c",
+   "content_sha256": "a9c38d8c7c6ff444c2a2dafe46cd902e66bea640525e1cb8a8d0cdd5fdcae3c9",
+   "ee_text": "다음과 같은 알러지성 질환의 제증상 치료 : 비염 또는 알러지성 결막염, 만성 담마진, 알러지성 피부염.",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:12Z",
+   "last_observed_at": "2026-09-08T08:30:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:12Z"
+}

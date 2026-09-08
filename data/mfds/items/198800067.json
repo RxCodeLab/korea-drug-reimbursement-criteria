@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800067",
+ "item_name": "한풍계피엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040016]계피",
+ "main_item_ingr_eng": "Cinnamon Bark",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800067",
+ "revisions": [
+  {
+   "revision_id": "198800067-d76eeabf",
+   "content_sha256": "d76eeabfc0f62c9c6480300fe335d0df0699eaa934dd02f6f887ea20e3d179ac",
+   "ee_text": "효능ㆍ효과 : 건위, 발한, 해열, 진통",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:29Z",
+   "last_observed_at": "2026-09-08T08:27:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:29Z"
+}

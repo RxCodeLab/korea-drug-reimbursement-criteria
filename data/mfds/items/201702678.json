@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702678",
+ "item_name": "보령헤모시스에이지액",
+ "entp_name": "(주)보령",
+ "permit_date": "20170529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040702]포도당|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M243246]아세트산나트륨수화물",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose/Magnesium Chloride/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride",
+ "edi_code": "641906662,641906663",
+ "atc_code": "B05ZA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702678",
+ "revisions": [
+  {
+   "revision_id": "201702678-852dab32",
+   "content_sha256": "852dab32279e9cfd6d5eecb813f9145a8e456596d8755072c103997b3155dab0",
+   "ee_text": "만성신부전 환자에 사용되는 인공신장투석 관류액으로서 다음과 같은 경우에 사용한다. 1. 당이 포함되어 있지 않는 투석액으로는 혈당치 관리가 곤란한 환자 2. 다른 탄산수소형 투석액으로는 고칼륨혈증, 고마그네슘혈증의 개선이 불충분한 경 우 또는 고칼슘혈증을 일으킬 수 있는 경우",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:54Z",
+   "last_observed_at": "2026-09-08T08:51:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:54Z"
+}

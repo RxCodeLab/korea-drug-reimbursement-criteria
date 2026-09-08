@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200811863",
+ "item_name": "로테맥스점안현탁액0.5%(로테프레드놀에타보네이트)",
+ "entp_name": "(주)바슈헬스코리아",
+ "permit_date": "20081224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245318]로테프레드놀 에타보네이트",
+ "main_item_ingr_eng": "Loteprednol Etabonate",
+ "edi_code": "",
+ "atc_code": "S01BA14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811863",
+ "revisions": [
+  {
+   "revision_id": "200811863-5bcafe4f",
+   "content_sha256": "5bcafe4f1933fb0b57ad366f37eeaab040c96197b9b1e19bd3fb97557069d1c7",
+   "ee_text": "○ 계절성 알러지성 결막염, 거대 유두 결막염의 스테로이드 반응성 염증 치료 ○ 안과 수술 후 염증의 치료",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:59Z",
+   "last_observed_at": "2026-09-08T08:42:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:59Z"
+}

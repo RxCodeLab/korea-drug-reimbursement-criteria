@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502114",
+ "item_name": "덴덴연고",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20250813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040521]자근|[M263497]일당귀",
+ "main_item_ingr_eng": "Angelica Root/Lithospermum Root",
+ "edi_code": "",
+ "atc_code": "D11AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502114",
+ "revisions": [
+  {
+   "revision_id": "202502114-853b00b3",
+   "content_sha256": "853b00b32203e6c126e9b750901d8d736c773ea9f02817fa75b69b98fc3d1589",
+   "ee_text": "피부 균열, 동상, 티눈, 땀띠, 접촉성 피부염, 외상, 화상, 치핵에 의한 통증, 항문열상, 습진·피부염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:11Z",
+   "last_observed_at": "2026-09-08T09:04:11Z",
+   "official_revision_date": "2025-08-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:11Z"
+}

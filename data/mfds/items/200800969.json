@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "G03HB01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800969",
+ "history_fetched_at": "2026-08-28T13:24:15Z",
  "revisions": [
   {
-   "revision_id": "200800969-addfd7ff",
-   "content_sha256": "addfd7ff6670cd6a5d205121340b5245b6edf5b44bbe1a2d56aed48bb96d2964",
-   "ee_text": "- 중등도 및 중증 여드름(지루 수반 여부와 관계없이) - 안드로겐성 다모증",
+   "revision_id": "200800969-35c8a821",
+   "content_sha256": "35c8a8212a461bdf4a9e7bdf806ccd39cae8f753ff47f6b050fad9c4f9beccf6",
+   "ee_text": "1. 가임기 여성의 다음과 같은 안드로겐 의존성 질환의 치료 - 중등도 및 중증 여드름(지루 수반 여부와 관계없이) - 안드로겐성 다모증 2. 이 약은 여드름 치료를 위해 국소성 치료제 및 전신 항생제를 이용한 치료가 실패한 이후에만 사용되어야 한다.",
    "ee_doc_id": "21",
    "first_observed_at": "2026-08-28T13:24:15Z",
-   "last_observed_at": "2026-08-28T13:24:15Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:42:12Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:15Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200709257",
+ "item_name": "원광초산메게스트롤내복현탁액(수출용)",
+ "entp_name": "원광제약(주)",
+ "permit_date": "20070808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200489]메게스트롤아세테이트",
+ "main_item_ingr_eng": "Megestrol Acetate",
+ "edi_code": "",
+ "atc_code": "L02AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709257",
+ "revisions": [
+  {
+   "revision_id": "200709257-fe56b713",
+   "content_sha256": "fe56b7138f68a140d8d4de07db13f1cc7a6d31d8e24586ac74a355a17f32dc58",
+   "ee_text": "암 또는 AIDS 환자의 식욕부진, 악액질 또는 원인불명의 현저한 체중감소의 치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:47Z",
+   "last_observed_at": "2026-09-08T08:41:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:47Z"
+}

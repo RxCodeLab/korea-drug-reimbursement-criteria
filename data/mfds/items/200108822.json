@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108822",
+ "item_name": "유나신정375mg(설타미실린토실산염수화물)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20010629",
+ "cancel_date": "20240521",
+ "status": "취하",
+ "main_item_ingr": "[M254092]설타미실린토실산염수화물",
+ "main_item_ingr_eng": "Sultamicillin Tosilate Hydrate",
+ "edi_code": "648900640",
+ "atc_code": "J01CR04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108822",
+ "revisions": [
+  {
+   "revision_id": "200108822-057247a9",
+   "content_sha256": "057247a9ea64e469014ec65e45382758621bf08bce4b79f2facd5c18c143283d",
+   "ee_text": "〇 유효균종 암피실린에 내성인 포도구균, 연쇄구균, 장내구균, 폐렴연쇄구균, 임균, 대장균, 프로테우스 미라빌리스, 인플루엔자균 〇 적응증 - 모낭염(농포성여드름 포함), 종기, 종기증, 옹종, 연조직염, 림프관(절)염, 생인손, 화농성 손 ㆍ 발톱주위염, 피하농양, 한선염, 감염성 죽종 - 인후두염, 편도염, 급만성기관지염, 기관지확장중(감염 시), 만성호흡기질환의 2차 감염, 폐렴, 폐농양 - 신우신염, 방광염, 임질, 자궁내 감염 - 누낭염, 각막궤양 - 중이염, 부비동염",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:49Z",
+   "last_observed_at": "2026-09-08T08:35:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:49Z"
+}

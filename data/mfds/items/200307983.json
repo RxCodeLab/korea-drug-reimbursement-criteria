@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200307983",
+ "item_name": "노보믹스30플렉스펜주100단위/밀리리터(인슐린아스파트,유전자재조합)",
+ "entp_name": "노보노디스크제약(주)",
+ "permit_date": "20031120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M097114]인슐린아스파트",
+ "main_item_ingr_eng": "Insulin Aspart",
+ "edi_code": "654400161",
+ "atc_code": "A10AD05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307983",
+ "revisions": [
+  {
+   "revision_id": "200307983-4992ba1e",
+   "content_sha256": "4992ba1e4f13896e85401abf4715ed2b10acfc2267956ee859c454535c7104e0",
+   "ee_text": "인슐린 요법이 요구되는 당뇨병",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200307983/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:22Z",
+   "last_observed_at": "2026-09-08T08:37:22Z"
+  },
+  {
+   "revision_id": "200307983-1856c9b1",
+   "content_sha256": "1856c9b1aae67fd031d98fff1560e541e8c14b00433b61c15ef9e2ecb76b4174",
+   "ee_text": "인슐린 요법을 필요로 하는 당뇨병",
+   "ee_doc_id": "26",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:37:22Z",
+   "last_observed_at": "2026-09-08T08:37:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:22Z"
+}

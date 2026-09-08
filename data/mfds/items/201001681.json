@@ -7,21 +7,22 @@
  "permit_date": "20100225",
  "cancel_date": "20250701",
  "status": "유효기간만료",
- "main_item_ingr": "[M086301]락토민|[M215296]당화균|[M040064]니코틴산아미드|[M081393]센나열매가루|[M249401]차전자가루",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M081393]센나열매가루|[M086301]락토민|[M215296]당화균|[M249401]차전자가루",
  "main_item_ingr_eng": "Bacillus Subtilis/Lactomin/Nicotinamide/Plantago Seed Powder/Sennae Fructus Powder",
  "edi_code": "",
  "atc_code": "A06AB56",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001681",
+ "history_fetched_at": "2026-08-28T13:24:23Z",
  "revisions": [
   {
-   "revision_id": "201001681-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201001681-a5393590",
+   "content_sha256": "a5393590821fea55ceacb2fa474deaff4a503e2e3c2f06bae15bef25059ff872",
+   "ee_text": "1. 변비 2. 변비에 수반하는 다음의 여러 증상의 완화 : 두중(頭重), 상기(上氣), 피부가 거칠어짐, 부스럼, 식욕부진 (식욕감퇴), 복부팽만, 장내이상발효",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:24:23Z",
-   "last_observed_at": "2026-08-28T13:24:23Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:43:50Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:23Z"
+ ]
 }

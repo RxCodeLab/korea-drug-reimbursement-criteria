@@ -12,6 +12,7 @@
  "edi_code": "625200110",
  "atc_code": "R06AX19",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309263",
+ "history_fetched_at": "2026-08-28T13:24:32Z",
  "revisions": [
   {
    "revision_id": "201309263-2f28f15e",
@@ -19,9 +20,9 @@
    "ee_text": "기관지 천식, 알러지성비염, 두드러기, 습진, 피부염, 아토피성 피부염, 피부소양증, 가려움",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:24:32Z",
-   "last_observed_at": "2026-08-28T13:24:32Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:46:20Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:32Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200817",
+ "item_name": "코미나티주0.1mg/mL(5-11세용)(토지나메란)(사스코로나바이러스-2 mRNA 백신)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20220223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280550]사스 코로나바이러스-2 스파이크 단백질 발현 메신저 리보핵산(토지나메란)(숙주: DH10B, 벡터: pST4-1525)",
+ "main_item_ingr_eng": "SARS-CoV-2 Spike Protein encoded messenger Ribonucleic Acid(tozinameran)(Host: DH10B, Vector: pST4-1525)",
+ "edi_code": "",
+ "atc_code": "J07BN01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200817",
+ "revisions": [
+  {
+   "revision_id": "202200817-15cf8394",
+   "content_sha256": "15cf8394248e40466fa7858c1b1154372eee4ecd09a8c5b83bb2f222c9cc7980",
+   "ee_text": "5-11세에서 SARS-CoV-2 바이러스에 의한 코로나19의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:08Z",
+   "last_observed_at": "2026-09-08T09:01:08Z",
+   "official_revision_date": "2022-02-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:08Z"
+}

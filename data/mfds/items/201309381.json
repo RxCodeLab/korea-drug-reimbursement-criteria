@@ -7,11 +7,12 @@
  "permit_date": "20130917",
  "cancel_date": "20230917",
  "status": "유효기간만료",
- "main_item_ingr": "[M090141]감초엑스가루|[M257951]인삼에탄올건조엑스(14.5→1)|[M086601]생강가루|[M083704]울금가루|[M082844]정향가루|[M082986]회향가루|[M040306]수산화마그네슘|[M229372]합성히드로탈시트|[M040308]건조수산화알루미늄겔|[M096428]벤포티아민|[M256363]메틸메티오닌설포늄염화물",
+ "main_item_ingr": "[M040306]수산화마그네슘|[M040308]건조수산화알루미늄겔|[M082844]정향가루|[M082986]회향가루|[M083704]울금가루|[M086601]생강가루|[M090141]감초엑스가루|[M096428]벤포티아민|[M229372]합성히드로탈시트|[M256363]메틸메티오닌설포늄염화물|[M257951]인삼에탄올건조엑스(14.5→1)",
  "main_item_ingr_eng": "Benfotiamine/Clove Powder/Curcuma Root Powder/Dried Aluminium Hydroxide Gel/Fennel Powder/Ginseng Ethanol Dried Extract (14.5→1)/Glycyrrhiza Extract Powder/Hydrotalcite Synthetic/Magnesium Hydroxide/Methylmethionine Sulfonium Chloride/Raw Ginger Powder",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309381",
+ "history_fetched_at": "2026-08-28T13:24:32Z",
  "revisions": [
   {
    "revision_id": "201309381-aa273adb",
@@ -19,9 +20,9 @@
    "ee_text": "체함, 위부팽만감, 위부불쾌감, 식욕부진, 소화불량, 위통, 과식, 위산과다, 속쓰림, 신트림, 구역, 구토",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:24:32Z",
-   "last_observed_at": "2026-08-28T13:24:32Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:46:21Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:32Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402079",
+ "item_name": "리얼글루타티온구강용해필름100밀리그램(L-글루타티온(환원형))(수출용)",
+ "entp_name": "(주)씨티씨바이오",
+ "permit_date": "20240828",
+ "cancel_date": "20250210",
+ "status": "취하",
+ "main_item_ingr": "[M284884]L-글루타티온(환원형)",
+ "main_item_ingr_eng": "L-Glutathione (Reduced)",
+ "edi_code": "",
+ "atc_code": "V03AB32",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402079",
+ "revisions": [
+  {
+   "revision_id": "202402079-667b552a",
+   "content_sha256": "667b552a80a9c47e294892b3ad8f4e98973911aca13636ec304d4e84d5299673",
+   "ee_text": "약물중독,자가중독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:16Z",
+   "last_observed_at": "2026-09-08T09:03:16Z",
+   "official_revision_date": "2024-08-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:16Z"
+}

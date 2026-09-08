@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200705977",
+ "item_name": "베토나제정(수출용)(스트렙토키나제,스트렙토도르나제)(수출명:DID BETONASE Tablet)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20070525",
+ "cancel_date": "20240429",
+ "status": "취하",
+ "main_item_ingr": "[M201043]스트렙토키나제ㆍ스트렙토도르나제",
+ "main_item_ingr_eng": "Streptokinase·Streptodornase",
+ "edi_code": "",
+ "atc_code": "M09AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705977",
+ "revisions": [
+  {
+   "revision_id": "200705977-26f3341d",
+   "content_sha256": "26f3341d522c4db691aebbc01e4fec36699bbffede3edde1f7f93497e8470838",
+   "ee_text": "1. 다음 질환 및 증상의 염증성 부종의 완화 : 수술 및 외상후, 부비동염,혈전정맥염 2. 호흡기 질환에 수반하는 담객출 곤란",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:31Z",
+   "last_observed_at": "2026-09-08T08:41:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:31Z"
+}

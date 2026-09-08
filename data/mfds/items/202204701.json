@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204701",
+ "item_name": "블리셀겔(에스트리올)",
+ "entp_name": "주식회사엔케이메디텍",
+ "permit_date": "20221230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051067]에스트리올",
+ "main_item_ingr_eng": "Estriol",
+ "edi_code": "",
+ "atc_code": "G03CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204701",
+ "revisions": [
+  {
+   "revision_id": "202204701-36287cbd",
+   "content_sha256": "36287cbd345dd33da66c54152517f4d0fd5b586a54b05192cc20fa8e02bc7b95",
+   "ee_text": "폐경 후 여성의 에스트로겐 결핍으로 인한 질 위축증(질 건조증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:47Z",
+   "last_observed_at": "2026-09-08T09:01:47Z",
+   "official_revision_date": "2022-12-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:47Z"
+}

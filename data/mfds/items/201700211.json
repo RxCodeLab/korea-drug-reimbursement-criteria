@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201700211",
+ "item_name": "피타소프트연질캡슐(카르두스마리아누스엑스)(수출용)",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20170110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089207]카르두스마리아누스엑스",
+ "main_item_ingr_eng": "Cardus Marianus Extract",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700211",
+ "revisions": [
+  {
+   "revision_id": "201700211-e46a3f9e",
+   "content_sha256": "e46a3f9ec579685e9977abc61e2afa22c1fcf3ba649fc0ce5b070598b0e8f1d0",
+   "ee_text": "(정제)(액제)(현탁액) 다음 질환의 보조 치료 : 독성 간질환, 간세포 보호, 만성 간염, 간경변 (캡슐제) 다음 질환의 보조 치료 : 독성 간질환 , 만성 간염, 간경변",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:27Z",
+   "last_observed_at": "2026-09-08T08:51:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:27Z"
+}

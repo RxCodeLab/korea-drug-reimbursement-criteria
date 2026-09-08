@@ -7,7 +7,7 @@
  "permit_date": "20170725",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223356]히드로클로로티아지드|[M222875]암로디핀베실산염|[M090395]텔미사르탄",
+ "main_item_ingr": "[M090395]텔미사르탄|[M222875]암로디핀베실산염|[M223356]히드로클로로티아지드",
  "main_item_ingr_eng": "Amlodipine Besylate/Hydrochlorothiazide/Telmisartan",
  "edi_code": "642905830",
  "atc_code": "C09DX",
@@ -20,7 +20,8 @@
    "ee_text": "텔미사르탄과 암로디핀의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201706182/EE",
    "first_observed_at": "2026-08-27T12:28:13Z",
-   "last_observed_at": "2026-08-28T13:24:57Z"
+   "last_observed_at": "2026-09-08T08:52:08Z",
+   "normalizer_version": 3
   }
  ]
 }

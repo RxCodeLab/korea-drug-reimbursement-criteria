@@ -7,11 +7,12 @@
  "permit_date": "20060517",
  "cancel_date": "20240426",
  "status": "취하",
- "main_item_ingr": "[M203450]아스코르브산|[M082909]크롬함유건조효모|[M089702]셀레늄함유건조효모",
+ "main_item_ingr": "[M082909]크롬함유건조효모|[M089702]셀레늄함유건조효모|[M203450]아스코르브산",
  "main_item_ingr_eng": "Ascorbic Acid/Chromium in Dried Yeast/Selenium In Dried Yeast",
  "edi_code": "",
  "atc_code": "A11GB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604361",
+ "history_fetched_at": "2026-08-28T13:24:10Z",
  "revisions": [
   {
    "revision_id": "200604361-950830af",
@@ -19,9 +20,9 @@
    "ee_text": "고혈압의 저하 및 예방",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:24:10Z",
-   "last_observed_at": "2026-08-28T13:24:10Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:40:21Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:10Z"
+ ]
 }

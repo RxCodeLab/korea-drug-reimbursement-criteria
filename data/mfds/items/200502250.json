@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502250",
+ "item_name": "펠로틴정(펠로디핀)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20050912",
+ "cancel_date": "20240701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M084735]펠로디핀",
+ "main_item_ingr_eng": "Felodipine",
+ "edi_code": "",
+ "atc_code": "C08CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502250",
+ "revisions": [
+  {
+   "revision_id": "200502250-168bb4d1",
+   "content_sha256": "168bb4d1179767afcffc8cff25ff336f817d958fc0cd7f156f606f486a090197",
+   "ee_text": "고혈압, 안정형 협심증",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:18Z",
+   "last_observed_at": "2026-09-08T08:39:18Z",
+   "official_revision_date": "2020-06-22"
+  },
+  {
+   "revision_id": "200502250-fc09aeca",
+   "content_sha256": "fc09aeca6baca9dbb0b3934ebb4d4aad9aec7d7daae77310d1d7d48c21c077d7",
+   "ee_text": "고혈압, 협심증",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:39:18Z",
+   "last_observed_at": "2026-09-08T08:39:18Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:18Z"
+}

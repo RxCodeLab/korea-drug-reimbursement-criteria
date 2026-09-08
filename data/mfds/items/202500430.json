@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500430",
+ "item_name": "아빌리파이아심투파이주사720밀리그램(아리피프라졸일수화물)",
+ "entp_name": "한국오츠카제약(주)",
+ "permit_date": "20250226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263313]아리피프라졸일수화물",
+ "main_item_ingr_eng": "Aripiprazole Monohydrate",
+ "edi_code": "649900551",
+ "atc_code": "N05AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500430",
+ "revisions": [
+  {
+   "revision_id": "202500430-3ee74442",
+   "content_sha256": "3ee7444237d9838cdcbbf7329ab2270f2e03888bc303adfa1badbd91424720cd",
+   "ee_text": "1. 조현병의 치료 2. 양극성장애 1형 유지치료를 위한 단독요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:43Z",
+   "last_observed_at": "2026-09-08T09:03:43Z",
+   "official_revision_date": "2025-02-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:43Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307707",
+ "item_name": "레밋치연질캡슐2.5마이크로그램(날푸라핀염산염)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20130614",
+ "cancel_date": "20231115",
+ "status": "취하",
+ "main_item_ingr": "[M257193]날푸라핀염산염",
+ "main_item_ingr_eng": "Nalfurafine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "V03AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307707",
+ "revisions": [
+  {
+   "revision_id": "201307707-162cd863",
+   "content_sha256": "162cd8632c02020432026728ba752311bd1ddd39bb1c19ec64922b1fbd646a76",
+   "ee_text": "혈액투석환자에서 기존 치료법에 효과가 불충분한 소양증 개선",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:06Z",
+   "last_observed_at": "2026-09-08T08:46:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:06Z"
+}

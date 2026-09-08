@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107430",
+ "item_name": "피에이큐라덤외용액(클린다마이신포스페이트)",
+ "entp_name": "(주)옵투스제약",
+ "permit_date": "20211111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223228]클린다마이신포스페이트",
+ "main_item_ingr_eng": "Clindamycin Phosphate",
+ "edi_code": "",
+ "atc_code": "D10AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107430",
+ "revisions": [
+  {
+   "revision_id": "202107430-88297ab0",
+   "content_sha256": "88297ab08813114b4290d214ee85b4ebd2126072bb765b0db1beb0786ac5012b",
+   "ee_text": "1. 유효균종 : 프로피오니박테륨 아크네 2. 적응증 : 심상성여드름(보통여드름)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:47Z",
+   "last_observed_at": "2026-09-08T09:00:47Z",
+   "official_revision_date": "2021-11-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:47Z"
+}

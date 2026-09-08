@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402866",
+ "item_name": "리렌스연고(구아야줄렌)",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "20040608",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256451]구아야줄렌",
+ "main_item_ingr_eng": "Guaiazulene",
+ "edi_code": "",
+ "atc_code": "D03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402866",
+ "revisions": [
+  {
+   "revision_id": "200402866-5b5989f1",
+   "content_sha256": "5b5989f19b34caab2d68136f071dfb6a950b5aadf22a04a9bb9fb2c276648ba5",
+   "ee_text": "습진, 열상(화상), 그 외의 질환에 따른 미란 및 궤양",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:11Z",
+   "last_observed_at": "2026-09-08T08:38:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:11Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400329",
+ "item_name": "이로코딜정",
+ "entp_name": "성이바이오제약주식회사",
+ "permit_date": "20240214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M081950]도큐세이트나트륨",
+ "main_item_ingr_eng": "Bisacodyl/Docusate Sodium",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400329",
+ "revisions": [
+  {
+   "revision_id": "202400329-19fd76fa",
+   "content_sha256": "19fd76fafbf287745a567424af913d0af723d4f4834a0e09cf14e58815f989e5",
+   "ee_text": "· 변비 · 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부(배부분)팽만, 장내이상발효, 치질",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202400329/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:43Z",
+   "last_observed_at": "2026-09-08T09:02:43Z"
+  },
+  {
+   "revision_id": "202400329-8092f99e",
+   "content_sha256": "8092f99eabbf1a01a945fdb731cc2b62cd1b10c754461093008e341ecc3c2b94",
+   "ee_text": "· 변비 · 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2026-02-13",
+   "first_observed_at": "2026-09-08T09:02:43Z",
+   "last_observed_at": "2026-09-08T09:02:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:43Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202108052",
+ "item_name": "훼스탈슈퍼자임정",
+ "entp_name": "(주)한독",
+ "permit_date": "20211221",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040262]산화마그네슘|[M050379]리파제|[M051800]프로자임|[M095125]수용성아줄렌|[M110604]당약 가루|[M223083]시메티콘|[M267745]디아스타제·프로테아제·셀룰라제",
+ "main_item_ingr_eng": "Diastase·Protease·Cellulase/Lipase/Magnesium Oxide/Prozyme/Simethicone/Soluble Azulene/Swertia Herb Powder",
+ "edi_code": "",
+ "atc_code": "A09AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108052",
+ "revisions": [
+  {
+   "revision_id": "202108052-926660c4",
+   "content_sha256": "926660c43098c59fd726cdd8a4f7a91df331810eb7e308bdca7ef2cb0349793b",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 위부팽만감, 위산과다, 속쓰림, 위부불쾌감, 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:53Z",
+   "last_observed_at": "2026-09-08T09:00:53Z",
+   "official_revision_date": "2021-12-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:53Z"
+}

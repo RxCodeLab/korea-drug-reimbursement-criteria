@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199304188",
+ "item_name": "할돌데카노아스주사(할로페리돌데카노에이트)",
+ "entp_name": "클리니젠코리아(유)",
+ "permit_date": "19930127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089302]할로페리돌데카노에이트",
+ "main_item_ingr_eng": "Haloperidol Decanoate",
+ "edi_code": "076100071",
+ "atc_code": "N05AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199304188",
+ "revisions": [
+  {
+   "revision_id": "199304188-693cb8c7",
+   "content_sha256": "693cb8c75646ae96344e0f5db9d1cc7933e5405cf9ed93a4daf1d01592dda864",
+   "ee_text": "정신병에 대한 유지요법",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:57Z",
+   "last_observed_at": "2026-09-08T08:28:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:57Z"
+}

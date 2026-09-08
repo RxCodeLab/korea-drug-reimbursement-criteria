@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200908495",
+ "item_name": "리노클레닐100비액(베클로메타손디프로피오네이트)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20091207",
+ "cancel_date": "20251031",
+ "status": "취하",
+ "main_item_ingr": "[M246477]베클로메타손 디프로피오네이트 무수물",
+ "main_item_ingr_eng": "Anhydrous Beclomethasone Dipropionate",
+ "edi_code": "",
+ "atc_code": "R01AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908495",
+ "revisions": [
+  {
+   "revision_id": "200908495-da833543",
+   "content_sha256": "da833543614e917abeb5c5113f1935ec890b35f273172ebedd7c7585e03503bb",
+   "ee_text": "다음 질환의 치료 : 알레르기성 비염, 혈관운동성 비염",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:38Z",
+   "last_observed_at": "2026-09-08T08:43:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:38Z"
+}

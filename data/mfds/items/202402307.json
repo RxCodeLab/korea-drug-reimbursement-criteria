@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402307",
+ "item_name": "오메논크림(퍼메트린(25:75))",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20240925",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M217755]퍼메트린(25:75)",
+ "main_item_ingr_eng": "Permethrin (Cis:Trans 25:75)",
+ "edi_code": "",
+ "atc_code": "P03AC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402307",
+ "revisions": [
+  {
+   "revision_id": "202402307-8d9d9605",
+   "content_sha256": "8d9d9605b8bc56758ae4e9ff7fed3d85bd80fb69b826ddcc41b42fb140bf8fbf",
+   "ee_text": "옴의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:21Z",
+   "last_observed_at": "2026-09-08T09:03:21Z",
+   "official_revision_date": "2024-09-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:21Z"
+}

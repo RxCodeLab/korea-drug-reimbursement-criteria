@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106061",
+ "item_name": "비라토비캡슐75밀리그램(엔코라페닙)",
+ "entp_name": "한국오노약품공업주식회사",
+ "permit_date": "20210819",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281291]엔코라페닙",
+ "main_item_ingr_eng": "Encorafenib",
+ "edi_code": "050400040",
+ "atc_code": "L01EC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106061",
+ "revisions": [
+  {
+   "revision_id": "202106061-41c03b19",
+   "content_sha256": "41c03b190cd571145b06071675d3d83869855ca375390f7cd1928f446acf549c",
+   "ee_text": "1. BRAF V600E 변이가 있는 전이성 직결장암 환자의 치료로서 세툭시맙 및 mFOLFOX6와의 병용 요법 2. 이전 치료 경험이 있는 BRAF V600E 변이가 확인된 전이성 직결장암의 성인 환자의 치료 시 세툭시맙과의 병용요법",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:28Z",
+   "last_observed_at": "2026-09-08T09:00:28Z",
+   "official_revision_date": "2026-01-09"
+  },
+  {
+   "revision_id": "202106061-c071e9c4",
+   "content_sha256": "c071e9c4975cae7bec722df634fcc77d736ec3e7ab8d36d75cbccfe1d547a06b",
+   "ee_text": "이전 치료 경험이 있는 BRAF V600E 변이가 확인된 전이성 직결장암의 성인 환자의 치료 시 세툭시맙과의 병용요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-08-19",
+   "first_observed_at": "2026-09-08T09:00:28Z",
+   "last_observed_at": "2026-09-08T09:00:28Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:28Z"
+}

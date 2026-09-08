@@ -7,11 +7,12 @@
  "permit_date": "19951213",
  "cancel_date": "20241001",
  "status": "유효기간만료",
- "main_item_ingr": "[M050752]생강|[M040006]감초|[M040548]창출|[M040279]석고|[M040071]대추|[M040135]마황",
+ "main_item_ingr": "[M040006]감초|[M040071]대추|[M040135]마황|[M040279]석고|[M040548]창출|[M050752]생강",
  "main_item_ingr_eng": "Atractylodes Rhizome/Ephedra Herb/Gypsum Fibrosum/Jujube/Licorice/Raw Ginger",
  "edi_code": "",
  "atc_code": "G04BX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501427",
+ "history_fetched_at": "2026-08-28T13:23:46Z",
  "revisions": [
   {
    "revision_id": "199501427-63057c9e",
@@ -19,8 +20,9 @@
    "ee_text": "허리 부위 부종, 기침",
    "ee_doc_id": "13",
    "first_observed_at": "2026-08-28T13:23:46Z",
-   "last_observed_at": "2026-08-28T13:23:46Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:29:36Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   },
   {
    "revision_id": "199501427-74c2d867",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:46Z",
    "last_observed_at": "2026-08-28T13:23:46Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:46Z"
+ ]
 }

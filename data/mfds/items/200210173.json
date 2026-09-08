@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200210173",
+ "item_name": "로세릴크림(아모롤핀염산염)",
+ "entp_name": "갈더마코리아(주)",
+ "permit_date": "20020507",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252763]아모롤핀염산염",
+ "main_item_ingr_eng": "Amorolfine Hydrochloride",
+ "edi_code": "655700111",
+ "atc_code": "D01AE16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210173",
+ "revisions": [
+  {
+   "revision_id": "200210173-62244e3e",
+   "content_sha256": "62244e3efe2be7c215fd341288115091e1f3a994cee06c5b63b2a100c5c69541",
+   "ee_text": "피부사상균증(백선) : 족부백선(무좀, 한포상백선), 고부백선(완선), 서혜부백선, 체부백선(도장 부스럼, 소수포성 반상백선), 수부백선",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:37Z",
+   "last_observed_at": "2026-09-08T08:36:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:37Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199903754",
+ "item_name": "시스틴500연질캡슐(L-시스틴)",
+ "entp_name": "(주)알피바이오",
+ "permit_date": "19990916",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M103054]L-시스틴",
+ "main_item_ingr_eng": "L-Cystine",
+ "edi_code": "",
+ "atc_code": "V06DD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199903754",
+ "revisions": [
+  {
+   "revision_id": "199903754-0065a287",
+   "content_sha256": "0065a287110ea7eccb5f71ec79e6cb5b7e6041bc23b51c50283eb0e4f8a9f290",
+   "ee_text": "1. 습진, 여드름의 보조치료 2. 손톱, 발톱이나 머리카락이 쉽게 갈라지는 등의 각질부위 질환의 보조치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:03Z",
+   "last_observed_at": "2026-09-08T08:33:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:03Z"
+}

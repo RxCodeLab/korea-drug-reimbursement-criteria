@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199000207",
+ "item_name": "칼멘연질캡슐(수출용)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "19900421",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081978]알로에엑스|[M084429]울금엑스|[M095765]케리도니엑스|[M250889]밀크시슬엑스",
+ "main_item_ingr_eng": "Aloe Extract/Chelidonium Extract/Curcuma Root Radix Extract/Milk-thistle Fruit Extract",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000207",
+ "revisions": [
+  {
+   "revision_id": "199000207-1a5927c7",
+   "content_sha256": "1a5927c7039c75560c9c5be6b8a13e794c61a2310748eef227928ec0ff39f79a",
+   "ee_text": "급만성 간 및 담질환, 간ㆍ담즙(쓸개즙)성 소화장애, 담관(쓸개관)장애, 담낭(쓸개)염, 담관(쓸개관)염",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:57Z",
+   "last_observed_at": "2026-09-08T08:27:57Z",
+   "official_revision_date": "2011-06-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:57Z"
+}

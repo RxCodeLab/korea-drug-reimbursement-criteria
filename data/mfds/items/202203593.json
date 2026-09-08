@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203593",
+ "item_name": "플루아드쿼드프리필드시린지(인플루엔자표면항원MF59C.1어쥬번트백신)",
+ "entp_name": "시퀴러스코리아(유)",
+ "permit_date": "20220919",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282088]정제불활화인플루엔자바이러스항원B형[B/Austria/1359417/2021 BVR-26]|[M283839]정제불활화인플루엔자바이러스항원A형[A/Victoria/4897/2022 IVR-238(H1N1)]|[M283976]정제불활화인플루엔자바이러스항원B형[B/Phuket/3073/2013 BVR-1B]|[M285535]정제불활화인플루엔자바이러스항원A형[A/Croatia/10136RV/2023 X-425A(H3N2)]",
+ "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A [A/Croatia/10136RV/2023 X-425A(H3N2)]/Purified Inactivated Influenza Virus Antigen A [A/Victoria/4897/2022 IVR-238(H1N1)]/Purified Inactivated Influenza Virus Antigen B [B/Phuket/3073/2013 BVR-1B]/Purified Influenza Virus Antigen B type(Split virion, Inactivated)[B/Austria/1359417/2021, BVR-26]",
+ "edi_code": "",
+ "atc_code": "J07BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203593",
+ "revisions": [
+  {
+   "revision_id": "202203593-969d8d57",
+   "content_sha256": "969d8d5731ef97653cf753a54c46e9a900d7140f42e4b5cfa5a25976ce6d0be6",
+   "ee_text": "50세 이상의 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스들에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:33Z",
+   "last_observed_at": "2026-09-08T09:01:33Z",
+   "official_revision_date": "2026-09-03"
+  },
+  {
+   "revision_id": "202203593-67f236eb",
+   "content_sha256": "67f236ebec667d675de82e0b3b4a4ad6972aea14a5516a13ff040911ba2a70bb",
+   "ee_text": "만 65세 이상의 고령자에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스들에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-09-19",
+   "first_observed_at": "2026-09-08T09:01:33Z",
+   "last_observed_at": "2026-09-08T09:01:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:33Z"
+}

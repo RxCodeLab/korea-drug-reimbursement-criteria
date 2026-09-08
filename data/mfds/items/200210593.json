@@ -7,11 +7,12 @@
  "permit_date": "20020704",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M259896]α-케토페닐알라닌칼슘|[M259897]α-케토발린칼슘|[M259895]α-케토류신칼슘|[M259894]α-케토-DL-이소류신칼슘|[M215288]L-히스티딘|[M214313]L-티로신|[M218015]L-트립토판|[M103060]L-트레오닌|[M259898]α-히드록시-DL-메티오닌칼슘|[M244189]L-리신아세트산염",
+ "main_item_ingr": "[M103060]L-트레오닌|[M214313]L-티로신|[M215288]L-히스티딘|[M218015]L-트립토판|[M244189]L-리신아세트산염|[M259894]α-케토-DL-이소류신칼슘|[M259895]α-케토류신칼슘|[M259896]α-케토페닐알라닌칼슘|[M259897]α-케토발린칼슘|[M259898]α-히드록시-DL-메티오닌칼슘",
  "main_item_ingr_eng": "Alpha-Hydroxy-DL-Methionine Calcium/Alpha-Keto-DL-Isoleucine Calcium/Alpha-Ketoleucine Calcium/Alpha-Ketophenylalanine Calcium/Alpha-Ketovaline Calcium/L-Histidine/L-Lysine Acetate/L-Threonine/L-Tryptophan/L-Tyrosine",
  "edi_code": "650901060",
  "atc_code": "V06B",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210593",
+ "history_fetched_at": "2026-08-28T13:24:01Z",
  "revisions": [
   {
    "revision_id": "200210593-ec5cd604",
@@ -19,9 +20,9 @@
    "ee_text": "성인 기준으로 1일 식이 단백 섭취량이 40g 이하로 제한되어 있는 만성 신부전환자에서 불완전한 단백질 대사로 인한 손상 감소",
    "ee_doc_id": "23",
    "first_observed_at": "2026-08-28T13:24:01Z",
-   "last_observed_at": "2026-08-28T13:24:01Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:36:38Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:01Z"
+ ]
 }

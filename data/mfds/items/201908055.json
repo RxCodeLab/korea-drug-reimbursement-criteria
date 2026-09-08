@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908055",
+ "item_name": "케이타솔로션(클로베타솔프로피오네이트)",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20191123",
+ "cancel_date": "20240528",
+ "status": "취하",
+ "main_item_ingr": "[M223224]클로베타솔프로피오네이트",
+ "main_item_ingr_eng": "Clobetasol Propionate",
+ "edi_code": "",
+ "atc_code": "D07AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908055",
+ "revisions": [
+  {
+   "revision_id": "201908055-cce052c5",
+   "content_sha256": "cce052c5a82fc4114ac4d66c03915e92aa7a9dbd37b0258f19cd0d32034e329a",
+   "ee_text": "습진,피부염군(진행성 지장각피증,만성단순태선,광피부염을 포함) 양진군(구진두드러기를 포함), 손,발바닥농포증,건선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:07Z",
+   "last_observed_at": "2026-09-08T08:57:07Z",
+   "official_revision_date": "2019-11-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:07Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802390",
+ "item_name": "비씨탄산수소나트륨8.4%주사(수출용)",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "20180608",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040631]탄산수소나트륨",
+ "main_item_ingr_eng": "Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "B05XA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802390",
+ "revisions": [
+  {
+   "revision_id": "201802390-dd5f0521",
+   "content_sha256": "dd5f05213aadbc6f55458bffe3a02d5619a193e61cf12b1a755a64042099f56a",
+   "ee_text": "1. 산증(아시도시스) 2. 급성두드러기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:14Z",
+   "last_observed_at": "2026-09-08T08:53:14Z",
+   "official_revision_date": "2018-06-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:14Z"
+}

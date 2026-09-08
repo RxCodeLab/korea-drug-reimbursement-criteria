@@ -7,7 +7,7 @@
  "permit_date": "20160624",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M222875]암로디핀베실산염|[M089055]칸데사르탄실렉세틸",
+ "main_item_ingr": "[M089055]칸데사르탄실렉세틸|[M222875]암로디핀베실산염",
  "main_item_ingr_eng": "Amlodipine Besylate/Candesartan Cilexetil",
  "edi_code": "640007020",
  "atc_code": "C09DB07",
@@ -20,7 +20,8 @@
    "ee_text": "칸데사르탄실렉세틸 또는 암로디핀 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201603937/EE",
    "first_observed_at": "2026-08-27T13:19:40Z",
-   "last_observed_at": "2026-08-28T13:24:50Z"
+   "last_observed_at": "2026-09-08T08:50:55Z",
+   "normalizer_version": 3
   }
  ]
 }

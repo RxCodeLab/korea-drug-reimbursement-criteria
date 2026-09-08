@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002324",
+ "item_name": "유폴리오주(불활화폴리오백신(사빈주))(수출용)",
+ "entp_name": "(주)엘지화학",
+ "permit_date": "20200402",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278446]불활화폴리오바이러스제1형(Sabin주)|[M278447]불활화폴리오바이러스제2형(Sabin주)|[M278448]불활화폴리오바이러스제3형(Sabin주)",
+ "main_item_ingr_eng": "Inactivated Polio Virus Type I (Stain: Sabin)/Inactivated Polio Virus Type II (Stain: Sabin)/Inactivated Polio Virus Type III (Stain: Sabin)",
+ "edi_code": "",
+ "atc_code": "J07BF03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002324",
+ "revisions": [
+  {
+   "revision_id": "202002324-5b0d86f2",
+   "content_sha256": "5b0d86f2ac97e1a4499f6baf1b56e9f5cdb5e5c6f626764bca8ec24fdcfd2ffb",
+   "ee_text": "생후 6주 이상의 소아에서 폴리오의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:18Z",
+   "last_observed_at": "2026-09-08T08:58:18Z",
+   "official_revision_date": "2020-04-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:18Z"
+}

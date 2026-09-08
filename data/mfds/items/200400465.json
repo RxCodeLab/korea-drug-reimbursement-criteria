@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400465",
+ "item_name": "아사콜디알정400밀리그람(메살라진)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20040325",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083890]메살라진",
+ "main_item_ingr_eng": "Mesalazine",
+ "edi_code": "641601830",
+ "atc_code": "A07EC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400465",
+ "revisions": [
+  {
+   "revision_id": "200400465-f28ef5aa",
+   "content_sha256": "f28ef5aad6a071c8a1da9878076ec9501d6e32d117e0e4e88af8e7d4b97d9489",
+   "ee_text": "경증 및 중등증의 활동성 궤양성 대장염의 치료 및 치료유지, 경증의 크론병(특히 회장염) 및 수술후 재발하는 크론병의 치료유지",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:34Z",
+   "last_observed_at": "2026-09-08T08:37:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:34Z"
+}

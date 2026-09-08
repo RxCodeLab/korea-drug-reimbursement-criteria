@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402360",
+ "item_name": "변통과립",
+ "entp_name": "일심제약",
+ "permit_date": "20040824",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050805]센나열매|[M081198]차전자피",
+ "main_item_ingr_eng": "Psyllium Husk/Sennae Fructus",
+ "edi_code": "",
+ "atc_code": "A06AC51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402360",
+ "revisions": [
+  {
+   "revision_id": "200402360-8092f99e",
+   "content_sha256": "8092f99eabbf1a01a945fdb731cc2b62cd1b10c754461093008e341ecc3c2b94",
+   "ee_text": "· 변비 · 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:02Z",
+   "last_observed_at": "2026-09-08T08:38:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:02Z"
+}

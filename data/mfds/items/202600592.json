@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600592",
+ "item_name": "투탑스정20/2.5밀리그램(텔미사르탄, 암로디핀베실산염)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20260226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090395]텔미사르탄|[M222875]암로디핀베실산염",
+ "main_item_ingr_eng": "Amlodipine Besylate/Telmisartan",
+ "edi_code": "642907180",
+ "atc_code": "C09DB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600592",
+ "revisions": [
+  {
+   "revision_id": "202600592-8e3a4f0c",
+   "content_sha256": "8e3a4f0c17b487412823f2a37886f98d56d27967828f331473a4173284f385d6",
+   "ee_text": "본태성 고혈압",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:50Z",
+   "last_observed_at": "2026-09-08T09:04:50Z",
+   "official_revision_date": "2026-02-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:50Z"
+}

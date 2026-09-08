@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200706915",
+ "item_name": "토코나졸정(케토코나졸)(수출용)(수출명:TOKONAZOLE Tab)",
+ "entp_name": "미래바이오제약(주)",
+ "permit_date": "20070615",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080618]케토코나졸",
+ "main_item_ingr_eng": "Ketoconazole",
+ "edi_code": "",
+ "atc_code": "J02AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706915",
+ "revisions": [
+  {
+   "revision_id": "200706915-d4f8fd4b",
+   "content_sha256": "d4f8fd4bb50141565b7524d5f2a2617fbb60d45cb1e214dc25a608d03829bda9",
+   "ee_text": "1. 피부표면이나 내부의 진균증 1) 피부진균에 의한 피부, 모발, 손발톱의 감염(피부진균증, 조진균증, 만성점막 피부 칸디다증 등), 특히 넓은 부위나 피부 깊숙이 있는 병소나 모발, 손발톱 등 국소적 치료가 곤란하거나 효과가 없는 경우 2) 구강내와 위장관의 진균에 의한 감염 3) 질칸디다증, 특히 만성이거나 국소적 치료로 효과가 없는 경우 4) 전신적 진균 감염증 : 전신적 칸디다증, 남아메리카 효모균증(paracoccidioidomycosis), 히스토플라스마증, 콕시디오이테스증 등 2. 전신적 진균 감염증과 만성점막피부칸디다증의 재발방지 3. 감염에 대한 저항력이 감소된 환자(암, 기관이식, 화상환자 등)에 있어서 진균감염의 예방",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:35Z",
+   "last_observed_at": "2026-09-08T08:41:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:35Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "19960312",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M247683]콜린타르타르산염|[M103054]L-시스틴|[M247683]콜린타르타르산염|[M103054]L-시스틴",
+ "main_item_ingr": "[M103054]L-시스틴|[M103054]L-시스틴|[M247683]콜린타르타르산염|[M247683]콜린타르타르산염",
  "main_item_ingr_eng": "Choline Tartrate/L-Cystine",
  "edi_code": "",
  "atc_code": "A05BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199603130",
+ "history_fetched_at": "2026-08-28T13:23:48Z",
  "revisions": [
   {
    "revision_id": "199603130-88332641",
@@ -19,9 +20,9 @@
    "ee_text": "간기능 저하로 인한 소화불량의 보조치료",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:23:48Z",
-   "last_observed_at": "2026-08-28T13:23:48Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:30:27Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:48Z"
+ ]
 }

@@ -7,21 +7,22 @@
  "permit_date": "20200109",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223167]우르소데옥시콜산|[M040306]수산화마그네슘",
+ "main_item_ingr": "[M040306]수산화마그네슘|[M223167]우르소데옥시콜산",
  "main_item_ingr_eng": "Magnesium Hydroxide/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A06AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000147",
+ "history_fetched_at": "2026-08-28T13:25:14Z",
  "revisions": [
   {
-   "revision_id": "202000147-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202000147-edea8414",
+   "content_sha256": "edea8414889b743f8a1a543d0092dccbda946bf96bac60762edf22a0e4502d7e",
+   "ee_text": "변비, 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:14Z",
-   "last_observed_at": "2026-08-28T13:25:14Z",
-   "official_revision_date": "2020-01-09"
+   "last_observed_at": "2026-09-08T08:57:26Z",
+   "official_revision_date": "2020-01-09",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:14Z"
+ ]
 }

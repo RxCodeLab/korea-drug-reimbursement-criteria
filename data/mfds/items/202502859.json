@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502859",
+ "item_name": "아로나민골드원정",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20251105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M050436]메코발라민|[M051415]푸르설티아민|[M222995]리보플라빈부티레이트|[M223289]폴산|[M244748]판토텐산칼슘|[M248795]피리독살포스페이트수화물|[M255819]토코페롤아세테이트 2배산|[M258994]아스코르브산",
+ "main_item_ingr_eng": "Ascorbic Acid/Calcium Pantothenate/Folic Acid/Fursultiamine/Mecobalamin/Nicotinamide/Pyridoxal Phosphate Hydrate/Riboflavin Butyrate/Tocopherol Acetate Powder 50%",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502859",
+ "revisions": [
+  {
+   "revision_id": "202502859-2d7e9853",
+   "content_sha256": "2d7e98535143381ec9a15a63df4d753a7e365bbddd8ab6da69e860dee1beba81",
+   "ee_text": "○ 다음 경우의 비타민 B1, B2, B6, E, C의 보급 - 육체피로, 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시, 노년기 이 약에 함유된 비타민 등의 효능 효과는 다음과 같다. ○다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) ○각기 ○눈의피로",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:23Z",
+   "last_observed_at": "2026-09-08T09:04:23Z",
+   "official_revision_date": "2025-11-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:23Z"
+}

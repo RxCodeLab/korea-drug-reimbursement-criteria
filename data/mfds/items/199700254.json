@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700254",
+ "item_name": "암논주100밀리그램(인암리논)(수출용)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "19970513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M098799]인암리논",
+ "main_item_ingr_eng": "Inamrinone",
+ "edi_code": "",
+ "atc_code": "C01CE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700254",
+ "revisions": [
+  {
+   "revision_id": "199700254-4972a6e9",
+   "content_sha256": "4972a6e9cc5178a9961f26e6256149e41c11b6d40ba9508ede53a6408294cacb",
+   "ee_text": "급성울혈성심부전의 단기치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:40Z",
+   "last_observed_at": "2026-09-08T08:30:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:40Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907630",
+ "item_name": "베노이드정(미세정제플라보노이드분획물)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "20191031",
+ "cancel_date": "20241031",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M083140]미세정제플라보노이드분획물",
+ "main_item_ingr_eng": "Purified and Micronized Flavonoid Fraction",
+ "edi_code": "",
+ "atc_code": "C05CA53",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907630",
+ "revisions": [
+  {
+   "revision_id": "201907630-c2051992",
+   "content_sha256": "c20519923efb9ac6243bc489a372c08ec86a924dd0f9daa8472749c72faa7c1c",
+   "ee_text": "1. 정맥임파부전 : 하지(다리)부종(부기), 통증, 초기욕창 2. 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:56Z",
+   "last_observed_at": "2026-09-08T08:56:56Z",
+   "official_revision_date": "2019-10-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:56Z"
+}

@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A11GA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002177",
+ "history_fetched_at": "2026-08-28T13:24:23Z",
  "revisions": [
   {
-   "revision_id": "201002177-723d0315",
-   "content_sha256": "723d0315d20947faacf9de00b9c5627ff3829a38e2ceea2910685930c65cf020",
-   "ee_text": "급성 또는 경구투여가 어려운 경우의 1) 모세관출혈(비출혈, 치육출혈, 혈뇨 등) 2) 약물투여(살리실산염, 아트로핀, 염화암모늄, 바르비탈산염) 3) 골절시의 골기질형성, 골성장애 4) 기미, 주근깨, 염증후의 색소침착 5) 광선과민성피부염 등",
+   "revision_id": "201002177-062d9584",
+   "content_sha256": "062d95842c3c786e3b5d68c5ef16b1a3a10458c9496e1c397464d66558f90fb3",
+   "ee_text": "급성 또는 경구투여가 어려운 경우의 1. 비타민 C 결핍증의 예방과 치료 . 괴혈병 등 2. 비타민 C의 요구량이 증가하는 경우 : 임부 ·수유부, 심한 육체노동 시 등 3. 다음 질환 중 비타민 C 결핍증 또는 대사장애에 관여되는 것으로 추정되는 경우 1) 모세관출혈(비출혈, 치육출혈, 혈뇨 등) 2) 약물투여(살리실산염, 아트로핀, 염화암모늄, 바르비탈산염) 3) 골절시의 골기질형성, 골성장애 4) 기미, 주근깨, 염증후의 색소침착 5) 광선과민성피부염 등",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:24:23Z",
-   "last_observed_at": "2026-08-28T13:24:23Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:43:52Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:23Z"
+ ]
 }

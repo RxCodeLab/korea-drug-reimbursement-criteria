@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707244",
+ "item_name": "에스아로딥정2.5밀리그램(에스암로디핀베실산염2.5수화물)",
+ "entp_name": "(주)일화",
+ "permit_date": "20170927",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252107]에스암로디핀베실산염2.5수화물",
+ "main_item_ingr_eng": "S-Amlodipine Besylate 2.5 Hydrate",
+ "edi_code": "640903490",
+ "atc_code": "C08CA17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707244",
+ "revisions": [
+  {
+   "revision_id": "201707244-b360e542",
+   "content_sha256": "b360e5422266e28a39878d87a7edc4cde1c4b2708b8bf2ef2b3c74e33e4cb5db",
+   "ee_text": "고혈압, 관상동맥의 고정폐쇄(안정협심증) 또는 관상혈관계의 혈관경련수축(이형협심증)에 의한 심근성허혈증",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:24Z",
+   "last_observed_at": "2026-09-08T08:52:24Z",
+   "official_revision_date": "2017-09-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:24Z"
+}

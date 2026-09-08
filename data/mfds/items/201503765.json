@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503765",
+ "item_name": "티어발란스점안액(히프로멜로오스)(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20150610",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102967]히프로멜로오스",
+ "main_item_ingr_eng": "Hypromellose",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503765",
+ "revisions": [
+  {
+   "revision_id": "201503765-1049d808",
+   "content_sha256": "1049d8087448dea33f9ec5c2a179eba376f6956909d3a52b7f08264350bee906",
+   "ee_text": "눈의 자극감 예방 눈 건조 완화",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:11Z",
+   "last_observed_at": "2026-09-08T08:49:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:11Z"
+}

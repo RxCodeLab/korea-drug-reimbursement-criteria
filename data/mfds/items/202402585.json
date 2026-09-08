@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402585",
+ "item_name": "자이자핀정2.5밀리그램(올란자핀)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20241104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089222]올란자핀",
+ "main_item_ingr_eng": "Olanzapine",
+ "edi_code": "645307110",
+ "atc_code": "N05AH03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402585",
+ "revisions": [
+  {
+   "revision_id": "202402585-96506551",
+   "content_sha256": "96506551e53893c568044eec7ba35234fd8f5b97fb1830c2ecd0c23fcec68080",
+   "ee_text": "1. 정신분열병 2. 양극성장애 - 양극성장애 I형과 관련된 조증 및 혼재삽화의 치료 - 올란자핀 투여로 조증삽화에 반응을 보인 환자들에 있어서 양극성 장애의 재발방지 - 양극성장애 I형과 관련된 우울삽화의 급성 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:25Z",
+   "last_observed_at": "2026-09-08T09:03:25Z",
+   "official_revision_date": "2024-11-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:25Z"
+}

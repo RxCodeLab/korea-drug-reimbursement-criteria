@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600761",
+ "item_name": "케이엠에스브롬헥신염산염정(수출용)",
+ "entp_name": "케이엠에스제약(주)",
+ "permit_date": "20260316",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223062]브롬헥신염산염",
+ "main_item_ingr_eng": "Bromhexine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600761",
+ "revisions": [
+  {
+   "revision_id": "202600761-e3695fe0",
+   "content_sha256": "e3695fe0d262a598f53cd12a8c5cee6b676cc97a58cac45a13d6d3f6a1aa2e7e",
+   "ee_text": "다음 질환에서의 객담배출곤란 : 급만성기관지염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:53Z",
+   "last_observed_at": "2026-09-08T09:04:53Z",
+   "official_revision_date": "2026-03-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:53Z"
+}

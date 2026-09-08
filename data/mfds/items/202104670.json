@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104670",
+ "item_name": "근렉스정(클로르족사존)",
+ "entp_name": "(주)시어스제약",
+ "permit_date": "20210617",
+ "cancel_date": "20230911",
+ "status": "취하",
+ "main_item_ingr": "[M040614]클로르족사존",
+ "main_item_ingr_eng": "Chlorzoxazone",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104670",
+ "revisions": [
+  {
+   "revision_id": "202104670-a7727b54",
+   "content_sha256": "a7727b54f316d2cf7f2b8541059998323dbf7e94aaa1f3905561d11546439581",
+   "ee_text": "근골격계 질환에 수반하는 동통(통증)성 연축(수축과 이완) : 요배통증(허리, 등통증), 경견완증후군(목어깨팔증후군), 견관절(어깨관절)주위염, 변형성 척추증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:17Z",
+   "last_observed_at": "2026-09-08T09:00:17Z",
+   "official_revision_date": "2021-06-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:17Z"
+}

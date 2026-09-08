@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301116",
+ "item_name": "토스롱에스액",
+ "entp_name": "동성제약(주)",
+ "permit_date": "20230403",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040096]디멘히드리네이트|[M204304]피리독신염산염|[M223081]스코폴라민브롬화수소산염수화물|[M223183]카페인무수물",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Dimenhydrinate/Nicotinamide/Pyridoxine Hydrochloride/Scopolamine Hydrobromide Hydrate",
+ "edi_code": "",
+ "atc_code": "A04AD51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301116",
+ "revisions": [
+  {
+   "revision_id": "202301116-f67a27cb",
+   "content_sha256": "f67a27cb6c81be314e15139f297cb2dfccdb28dfdab9945003e6666cbafb1d4e",
+   "ee_text": "멀미에 의한 어지러움 · 구토 · 두통의 예방 및 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:58Z",
+   "last_observed_at": "2026-09-08T09:01:58Z",
+   "official_revision_date": "2023-04-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:58Z"
+}

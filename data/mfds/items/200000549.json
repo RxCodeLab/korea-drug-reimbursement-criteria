@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000549",
+ "item_name": "파스틱정90밀리그램(나테글리니드)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20000315",
+ "cancel_date": "20251219",
+ "status": "취하",
+ "main_item_ingr": "[M089833]나테글리니드",
+ "main_item_ingr_eng": "Nateglinide",
+ "edi_code": "",
+ "atc_code": "A10BX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000549",
+ "revisions": [
+  {
+   "revision_id": "200000549-cfc34d32",
+   "content_sha256": "cfc34d329f208d933cb6f2dcb44e175b377f1acd6ffcca40d97b8129ba031e37",
+   "ee_text": "이 약은 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 이 약은 단독요법으로 투여한다. 2. 이 약은 다음의 경우 병용요법으로 투여한다. 알파-글루코시다제 저해제 또는 메트포르민 또는 티아졸리딘디온계 약물 단독요법으로 충분히 혈당조절을 할 수 없는 경우 이 약을 병용투여",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:34Z",
+   "last_observed_at": "2026-09-08T08:33:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:34Z"
+}

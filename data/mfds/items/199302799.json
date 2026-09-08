@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199302799",
+ "item_name": "미드론정(미도드린염산염)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "19931022",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256592]미도드린염산염",
+ "main_item_ingr_eng": "Midodrine Hydrochloride",
+ "edi_code": "649801760",
+ "atc_code": "C01CA17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199302799",
+ "revisions": [
+  {
+   "revision_id": "199302799-c7c92750",
+   "content_sha256": "c7c92750a75a28ca77f5d728b5dfafc3a2918bf481d421336acbcbef8d6b62c4",
+   "ee_text": "저혈압(기립성, 본태성, 증후성)",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:53Z",
+   "last_observed_at": "2026-09-08T08:28:53Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:53Z"
+}

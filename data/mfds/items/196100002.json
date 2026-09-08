@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "196100002",
+ "item_name": "종근당황산스트렙토마이신주(스트렙토마이신황산염)",
+ "entp_name": "(주)종근당",
+ "permit_date": "19611228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203395]스트렙토마이신황산염",
+ "main_item_ingr_eng": "Streptomycin Sulfate",
+ "edi_code": "643303331",
+ "atc_code": "J01GA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196100002",
+ "revisions": [
+  {
+   "revision_id": "196100002-53bb3556",
+   "content_sha256": "53bb3556363eb2e203a82ea6a40a21b391253f1260d289f8b824906a83cac884",
+   "ee_text": "○ 유효균종 결핵균, 인플루엔자균, 페스트균, 야토병균, 브루셀라, 폐렴간균 ○ 적응증 결핵, 인플루엔자, 세균성심내막염(페니실린 G 또는 암피실린과 병용투여할 경우에 한함), 폐렴간균에 의한 폐렴, 와일병, 페스트, 야토병, 브루셀라증",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:14Z",
+   "last_observed_at": "2026-09-08T08:26:14Z",
+   "official_revision_date": "2005-01-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:14Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201207445",
+ "item_name": "이소트렌연질캡슐20밀리그램(이소트레티노인)(수출용)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20121026",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088250]이소트레티노인",
+ "main_item_ingr_eng": "Isotretinoin",
+ "edi_code": "",
+ "atc_code": "D10BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207445",
+ "revisions": [
+  {
+   "revision_id": "201207445-662d5281",
+   "content_sha256": "662d52819016fa800d1893f29a5a1295914e71dc6dc2631c9d5348ed2ac71fc3",
+   "ee_text": "다른 치료법으로 잘 치료되지 않는 중증의 결절성-낭포성 여드름(좌창), 특히 체간 병변이 관련된 낭포성 및 접촉성 여드름",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:34Z",
+   "last_observed_at": "2026-09-08T08:45:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:34Z"
+}

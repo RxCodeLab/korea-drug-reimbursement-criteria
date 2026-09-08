@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201607064",
+ "item_name": "원블루5주",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20161213",
+ "cancel_date": "20240219",
+ "status": "취하",
+ "main_item_ingr": "[M051962]황산망간|[M071715]황산구리|[M082821]염화크롬|[M207833]아셀렌산|[M217501]황산아연수화물",
+ "main_item_ingr_eng": "Chromic Chloride Hydrate/Copper Sulfate/Manganese Sulfate/Selenious Acid/Zinc Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "B05XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607064",
+ "revisions": [
+  {
+   "revision_id": "201607064-f4790d07",
+   "content_sha256": "f4790d07973fbe62e4812ea362f7ae3657d8f49d4b99d2c156e7ba72e7c6b453",
+   "ee_text": "경정맥 영양보급시 미량원소(아연, 구리, 망간, 셀레늄, 크롬)의 보급",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:21Z",
+   "last_observed_at": "2026-09-08T08:51:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:21Z"
+}

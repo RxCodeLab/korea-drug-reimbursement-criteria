@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202100451",
+ "item_name": "루미파이점안액0.025%(브리모니딘타르타르산염)",
+ "entp_name": "(주)바슈헬스코리아",
+ "permit_date": "20210115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255020]브리모니딘타르타르산염",
+ "main_item_ingr_eng": "Brimonidine Tartrate",
+ "edi_code": "",
+ "atc_code": "S01GA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100451",
+ "revisions": [
+  {
+   "revision_id": "202100451-979cba69",
+   "content_sha256": "979cba6979a7c02244ed8c1d528fe7f3238517cb8f78267ae14fac744782eed3",
+   "ee_text": "경미한 자극에 의한 눈 충혈 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:51Z",
+   "last_observed_at": "2026-09-08T08:59:51Z",
+   "official_revision_date": "2021-01-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:51Z"
+}

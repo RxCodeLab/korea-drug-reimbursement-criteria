@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301820",
+ "item_name": "다이락스쎈정",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20230614",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M081950]도큐세이트나트륨|[M110253]노회 엑스|[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Aloe Extract/Bisacodyl/Docusate Sodium/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301820",
+ "revisions": [
+  {
+   "revision_id": "202301820-94e21910",
+   "content_sha256": "94e2191047b9b2d59ef171a75ef4875dec40fa2be14b1c3a2571a95d85316915",
+   "ee_text": "변비 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부(배부분)팽만, 장내이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:09Z",
+   "last_observed_at": "2026-09-08T09:02:09Z",
+   "official_revision_date": "2023-06-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:09Z"
+}

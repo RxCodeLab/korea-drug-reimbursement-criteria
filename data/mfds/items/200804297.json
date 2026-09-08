@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200804297",
+ "item_name": "신풍메틸도파정(수출용)(수출명: Methyldopa Tablets)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20080418",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259416]메틸도파",
+ "main_item_ingr_eng": "Methyldopa",
+ "edi_code": "",
+ "atc_code": "C02AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804297",
+ "revisions": [
+  {
+   "revision_id": "200804297-2ebfa477",
+   "content_sha256": "2ebfa47772740949a999e67821465047e20b8313950d81a5319657a59e1fa22b",
+   "ee_text": "고혈압 (본태성, 신성 등)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:26Z",
+   "last_observed_at": "2026-09-08T08:42:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:26Z"
+}

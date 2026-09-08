@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200103349",
+ "item_name": "한국원자력의학원메타요오드벤질구아니딘123Ⅰ주사액(3-요오도벤질구아니딘(123Ⅰ액))",
+ "entp_name": "한국원자력의학원",
+ "permit_date": "20010503",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264742]3-요오도벤질구아니딘(123I)액",
+ "main_item_ingr_eng": "3-Iodobenzylguanidine (123I) Solution",
+ "edi_code": "692900170",
+ "atc_code": "V09AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200103349",
+ "revisions": [
+  {
+   "revision_id": "200103349-3a3964b2",
+   "content_sha256": "3a3964b2b5cc023a83ce79789a0377fb3d4573037f2743c30ac9f79209f53d70",
+   "ee_text": "1. 심장 신티그래피에 의한 심장질환의 진단 2. 갈색세포종의 진단 3. 신경아세포종의 진단",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:36Z",
+   "last_observed_at": "2026-09-08T08:35:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:36Z"
+}

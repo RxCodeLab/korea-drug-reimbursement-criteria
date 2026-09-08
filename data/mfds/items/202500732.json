@@ -7,7 +7,7 @@
  "permit_date": "20250331",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223258]티아민염산염|[M223289]폴산|[M102050]콜레칼시페롤농축분말|[M247470]시트르산칼슘수화물",
+ "main_item_ingr": "[M102050]콜레칼시페롤농축분말|[M223258]티아민염산염|[M223289]폴산|[M247470]시트르산칼슘수화물",
  "main_item_ingr_eng": "Calcium Citrate Hydrate/Cholecalciferol Concentrate Powder/Folic Acid/Thiamine Hydrochloride",
  "edi_code": "656205480",
  "atc_code": "A12AX",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:38:12Z",
  "revisions": [
   {
-   "revision_id": "202500732-efc3269c",
-   "content_sha256": "efc3269cb68c672cb8652e2f39a7412b6480e7f006acc05b03c1537ee54de8a7",
-   "ee_text": "- 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하 시 - 발육기 - 노년기 - 뼈, 이의 발육불량 - 구루병의 예방",
+   "revision_id": "202500732-bb710ba2",
+   "content_sha256": "bb710ba259e72574e06bb9d030505e30a6e1b6c1d364fdc2d5573e41894d3d02",
+   "ee_text": "○ 다음 경우의 비타민 D, B1,의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하 시 - 발육기 - 노년기 ○ 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. - 뼈, 이의 발육불량 - 구루병의 예방",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202500732/EE",
    "first_observed_at": "2026-08-27T10:38:12Z",
-   "last_observed_at": "2026-08-28T13:25:37Z"
+   "last_observed_at": "2026-09-08T09:03:48Z",
+   "normalizer_version": 3
   }
  ]
 }

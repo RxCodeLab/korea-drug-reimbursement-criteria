@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200009199",
+ "item_name": "화이자펜타미딘이세티온산염주300mg",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20000307",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261497]펜타미딘이세티온산염",
+ "main_item_ingr_eng": "Pentamidine Isethionate",
+ "edi_code": "648903021",
+ "atc_code": "P01CX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009199",
+ "revisions": [
+  {
+   "revision_id": "200009199-77973a6f",
+   "content_sha256": "77973a6fc2f424263cd33b7f25e49666e2c0ee1fd65bf7aead6e99bb97e047ba",
+   "ee_text": "1. 후천성면역결핍증(AIDS) 환자에서의 뉴우모시스티스 카리니 감염의 1차 치료 2. 후천성면역결핍증환자 이외의 뉴우모시스티스 카리니 감염의 2차 치료 3. 리슈마니아증(장기와 피부)의 2차 치료(리슈마니아 에치오피카에는 1차 치료제로 사용할 수 있음) 4. 트리파노소마병의 2차 치료(트리파노소마 로데시엔스 균주 제외)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:42Z",
+   "last_observed_at": "2026-09-08T08:34:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:42Z"
+}

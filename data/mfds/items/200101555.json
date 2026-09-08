@@ -7,7 +7,7 @@
  "permit_date": "20010706",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223057]부틸스코폴라민브롬화물|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223057]부틸스코폴라민브롬화물",
  "main_item_ingr_eng": "Acetaminophen/Scopolamine Butylbromide",
  "edi_code": "",
  "atc_code": "A03DB04",
@@ -20,7 +20,8 @@
    "ee_text": "위장관계 질환의 발작성 동통(통증) 또는 담도(쓸개길)계, 비뇨기계, 월경곤란증 등 여성 생식기계의 기능장애 및 경련성 동통(통증)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200101555/EE",
    "first_observed_at": "2026-08-27T11:01:47Z",
-   "last_observed_at": "2026-08-28T13:23:58Z"
+   "last_observed_at": "2026-09-08T08:35:14Z",
+   "normalizer_version": 3
   }
  ]
 }

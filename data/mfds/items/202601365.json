@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601365",
+ "item_name": "아메비쓰리정",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20260511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈",
+ "main_item_ingr_eng": "Nicotinamide/Riboflavin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601365",
+ "revisions": [
+  {
+   "revision_id": "202601365-a5e08572",
+   "content_sha256": "a5e08572dd6dd1e7138333cc4aa2b381edc30278dbcbe67922e186e418761318",
+   "ee_text": "○ 다음 경우의 비타민 B2의 보급: - 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:10Z",
+   "last_observed_at": "2026-09-08T09:05:10Z",
+   "official_revision_date": "2026-05-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:10Z"
+}

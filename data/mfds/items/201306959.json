@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201306959",
+ "item_name": "퍼마곤주120밀리그램(데가렐릭스)",
+ "entp_name": "한국페링제약(주)",
+ "permit_date": "20130418",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256795]데가렐릭스",
+ "main_item_ingr_eng": "Degarelix",
+ "edi_code": "652500352",
+ "atc_code": "L02BX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306959",
+ "revisions": [
+  {
+   "revision_id": "201306959-23f2453c",
+   "content_sha256": "23f2453c0fe206396af8277c1c858c88fe5facab158bd49d48b827eeb7f596a4",
+   "ee_text": "호르몬 의존성 진행성 전립선 암",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:59Z",
+   "last_observed_at": "2026-09-08T08:45:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:59Z"
+}

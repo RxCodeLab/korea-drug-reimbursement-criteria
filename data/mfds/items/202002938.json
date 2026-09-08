@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002938",
+ "item_name": "니코챔스정1밀리그램(바레니클린살리실산염)",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20200423",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266101]바레니클린살리실산염",
+ "main_item_ingr_eng": "Varenicline Salicylate",
+ "edi_code": "",
+ "atc_code": "N07BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002938",
+ "revisions": [
+  {
+   "revision_id": "202002938-79eeaf18",
+   "content_sha256": "79eeaf18cf99e171faa4bb799b7612a9381801bfb70ab8f027501829b9ee0928",
+   "ee_text": "금연치료의 보조요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:30Z",
+   "last_observed_at": "2026-09-08T08:58:30Z",
+   "official_revision_date": "2020-04-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:30Z"
+}

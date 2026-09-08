@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200904278",
+ "item_name": "세라신주(돼지뇌펩티드)(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "20090618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082513]돼지뇌추출가수분해물",
+ "main_item_ingr_eng": "Cerebrolysin",
+ "edi_code": "",
+ "atc_code": "N06BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904278",
+ "revisions": [
+  {
+   "revision_id": "200904278-a9da335c",
+   "content_sha256": "a9da335ce50ae1f3d282202174fb926dd2e3713f56067177a802ed6f816e7c50",
+   "ee_text": "알츠하이머형 노인성치매, 뇌졸중 후 뇌기능장애, 두개골의 외상(뇌진탕, 뇌좌상, 수술 후 외상)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:20Z",
+   "last_observed_at": "2026-09-08T08:43:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:20Z"
+}

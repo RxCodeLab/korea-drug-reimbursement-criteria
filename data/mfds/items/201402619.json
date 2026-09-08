@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402619",
+ "item_name": "주사용테라루비신20밀리그램(피라루비신)(수출용)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20140611",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085059]피라루비신",
+ "main_item_ingr_eng": "Pirarubicin",
+ "edi_code": "",
+ "atc_code": "L01DB08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402619",
+ "revisions": [
+  {
+   "revision_id": "201402619-c9040def",
+   "content_sha256": "c9040def5b66162dfd9cb0f8de640bd3f78efd1b3df309cd4e87e25cef0f7d84",
+   "ee_text": "아래와 같은 질환의 자각적·타각적 증상의 완화 및 개선 두경부암, 유방암, 위암, 요로상피암(방광암, 신우·요관종양), 난소암, 자궁암, 급성백혈병, 악성림프종",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:08Z",
+   "last_observed_at": "2026-09-08T08:47:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:08Z"
+}

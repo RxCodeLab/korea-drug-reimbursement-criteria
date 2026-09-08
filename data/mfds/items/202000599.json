@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000599",
+ "item_name": "올리팻캡슐120밀리그램(오르리스타트)",
+ "entp_name": "케이엠에스제약(주)",
+ "permit_date": "20200204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092754]오르리스타트",
+ "main_item_ingr_eng": "Orlistat",
+ "edi_code": "",
+ "atc_code": "A08AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000599",
+ "revisions": [
+  {
+   "revision_id": "202000599-74be2052",
+   "content_sha256": "74be20521b975d7dee87b9e6bcb9ffaff12cf4aa7d2aa652f03270eeae25613d",
+   "ee_text": "체질량지수(BMI) 30 kg/m² 이상 또는 다른 위험인자(예, 고혈압, 당뇨, 이상지질혈증)가 있는 27 kg/m² 이상의 비만환자에 있어 저칼로리 식이와 함께 체중감소 또는 체중유지를 포함한 비만치료 또는 체중 재증가의 위험감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:42Z",
+   "last_observed_at": "2026-09-08T08:57:42Z",
+   "official_revision_date": "2020-02-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:42Z"
+}

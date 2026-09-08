@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906751",
+ "item_name": "라보니정45밀리그램(라록시펜염산염)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20190924",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243362]라록시펜염산염",
+ "main_item_ingr_eng": "Raloxifene Hydrochloride",
+ "edi_code": "642105500",
+ "atc_code": "G03XC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906751",
+ "revisions": [
+  {
+   "revision_id": "201906751-af73c3e0",
+   "content_sha256": "af73c3e0ae3ae54714a9a6431181576e96eba375fa8a04a91b5e334233fa3f59",
+   "ee_text": "폐경 후 여성의 골다공증 치료 및 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:28Z",
+   "last_observed_at": "2026-09-08T08:56:28Z",
+   "official_revision_date": "2019-09-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:28Z"
+}

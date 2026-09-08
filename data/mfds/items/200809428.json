@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200809428",
+ "item_name": "에스암핀정(에스암로디핀베실산염2.5수화물)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20080911",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252107]에스암로디핀베실산염2.5수화물",
+ "main_item_ingr_eng": "S-Amlodipine Besylate 2.5 Hydrate",
+ "edi_code": "671805300",
+ "atc_code": "C08CA17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809428",
+ "revisions": [
+  {
+   "revision_id": "200809428-b360e542",
+   "content_sha256": "b360e5422266e28a39878d87a7edc4cde1c4b2708b8bf2ef2b3c74e33e4cb5db",
+   "ee_text": "고혈압, 관상동맥의 고정폐쇄(안정협심증) 또는 관상혈관계의 혈관경련수축(이형협심증)에 의한 심근성허혈증",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:49Z",
+   "last_observed_at": "2026-09-08T08:42:49Z",
+   "official_revision_date": "2020-08-26"
+  },
+  {
+   "revision_id": "200809428-20a8a4fb",
+   "content_sha256": "20a8a4fb7b20a1aa87cc623543c57efc1496590886d286b7db2b2d41a772f53b",
+   "ee_text": "고혈압, 관상동맥의 고정폐쇄(안정형협심증) 또는 관상혈관계의 혈관경련과 혈관수축(이형협심증)에 의한 심근성허혈증",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:49Z",
+   "last_observed_at": "2026-09-08T08:42:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:49Z"
+}

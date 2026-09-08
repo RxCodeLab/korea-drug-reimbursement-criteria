@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201302258",
+ "item_name": "엘라프라제주(이두설파제)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20130125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M224562]이두설파제(재조합 이두로네이트-2-설파타제)",
+ "main_item_ingr_eng": "Idursulfase",
+ "edi_code": "652001311",
+ "atc_code": "A16AB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201302258",
+ "revisions": [
+  {
+   "revision_id": "201302258-08a1a4eb",
+   "content_sha256": "08a1a4eb4275d0ffb7485311ad421ab30a4c113d88fe1600ee503528cfe54d7e",
+   "ee_text": "헌터 증후군(뮤코다당증 II형, MPS II) 환자에게 쓰인다. 이 약은 헌터 증후군 환자의 걷기 능력을 개선시킨다.",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:46Z",
+   "last_observed_at": "2026-09-08T08:45:46Z",
+   "official_revision_date": "2019-05-14"
+  },
+  {
+   "revision_id": "201302258-8d40f458",
+   "content_sha256": "8d40f4581d56133eaff6ae30ed6cead5a94b8094208d7075f33293f92c3275f4",
+   "ee_text": "헌터 증후군(뮤코다당증 II형, MPS II) 환자에게 쓰인다. 젠자임엘라프라제 주는 헌터 증후군 환자의 걷기 능력을 개선시킨다.",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:46Z",
+   "last_observed_at": "2026-09-08T08:45:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:46Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "N02AX02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000514",
+ "history_fetched_at": "2026-08-28T13:25:14Z",
  "revisions": [
   {
    "revision_id": "202000514-4073688d",
@@ -19,9 +20,9 @@
    "ee_text": "중증에서 중증도, 급성 혹은 만성 통증 (예 : 수술 후 또는 부상 후 통증)의 치료 및 예방",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:14Z",
-   "last_observed_at": "2026-08-28T13:25:14Z",
-   "official_revision_date": "2020-01-31"
+   "last_observed_at": "2026-09-08T08:57:39Z",
+   "official_revision_date": "2020-01-31",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:14Z"
+ ]
 }

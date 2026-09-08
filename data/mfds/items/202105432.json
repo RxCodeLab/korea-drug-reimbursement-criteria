@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A11JB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105432",
+ "history_fetched_at": "2026-08-28T13:25:25Z",
  "revisions": [
   {
-   "revision_id": "202105432-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202105432-60ae8646",
+   "content_sha256": "60ae86464d25dd448a9cfddca7d1a16687de747f0c01a8bf94ddbdf4f22d4022",
+   "ee_text": "1. 다음 경우의 비타민 E의 보급 - 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨ㆍ목결림, 수족저림ㆍ수족냉증(손발이 차가움) 2. 마그네슘결핍으로 인한 근육경련",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:25Z",
-   "last_observed_at": "2026-08-28T13:25:25Z",
-   "official_revision_date": "2021-07-19"
+   "last_observed_at": "2026-09-08T09:00:24Z",
+   "official_revision_date": "2021-07-19",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:25Z"
+ ]
 }

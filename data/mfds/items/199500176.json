@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199500176",
+ "item_name": "류코스팀주사액150마이크로그램(필그라스팀(유전자재조합))",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "19950607",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M103613]필그라스팀(유전자재조합)",
+ "main_item_ingr_eng": "Filgrastim (rDNA)",
+ "edi_code": "642501521",
+ "atc_code": "L03AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500176",
+ "revisions": [
+  {
+   "revision_id": "199500176-5df66746",
+   "content_sha256": "5df6674662f9d4827689bc0c5e83d94a83361d92103834829b0aa76c97fbf424",
+   "ee_text": "1. 고형암에 대해 항암화학요법을 받고 있는 환자의 호중구 감소증 2. 혈액종양(급성 골수성 백혈병)에 대해 항암화학요법을 받고 있는 환자의 호중구 감소증 3. 조혈모세포의 말초 혈중으로의 동원 (1) 자가 말초조혈모세포 채취 시의 항암화학요법제 투여 종료 후 필그라스팀 투여에 의한 동원 4. 조혈모세포 이식 시의 호중구수 증가 촉진",
+   "ee_doc_id": "34",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:25Z",
+   "last_observed_at": "2026-09-08T08:29:25Z",
+   "official_revision_date": "2023-02-03"
+  },
+  {
+   "revision_id": "199500176-19461e41",
+   "content_sha256": "19461e41bf0e000f482a06832b189a03df46f59e6535849253b30e81206722e0",
+   "ee_text": "1. 고형암에 대해 항암화학요법을 받는 환자의 호중구 감소증 2. 혈액종양(급성 골수성 백혈병)에 대해 항암화학요법을 받는 환자의 호중구 감소증 3. 조혈모세포의 말초 혈중으로의 가동화 (1) 자가 말초조혈모세포 채취 시의 항암화학요법제 투여 종료 후의 이 약 투여에 의한 가동화 4. 조혈모세포 이식 시의 호중구수 증가 촉진",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:29:25Z",
+   "last_observed_at": "2026-09-08T08:29:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:25Z"
+}

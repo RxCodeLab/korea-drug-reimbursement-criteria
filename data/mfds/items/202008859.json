@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008859",
+ "item_name": "포비딘가글액1%(포비돈요오드)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20201216",
+ "cancel_date": "20251216",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M244708]포비돈요오드",
+ "main_item_ingr_eng": "Povidone Iodine",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008859",
+ "revisions": [
+  {
+   "revision_id": "202008859-001846b9",
+   "content_sha256": "001846b9b978afd05b4c3d446475cc6655091962f13eb6bdd6ddca4930647abd",
+   "ee_text": "1. 주 효능효과 구강 내 살균 소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:45Z",
+   "last_observed_at": "2026-09-08T08:59:45Z",
+   "official_revision_date": "2020-12-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:45Z"
+}

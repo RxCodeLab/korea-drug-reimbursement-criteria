@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907826",
+ "item_name": "바라온정",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20191108",
+ "cancel_date": "20240521",
+ "status": "취하",
+ "main_item_ingr": "[M083365]데소게스트렐|[M223147]에티닐에스트라디올",
+ "main_item_ingr_eng": "Desogestrel/Ethinyl Estradiol",
+ "edi_code": "",
+ "atc_code": "G03AA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907826",
+ "revisions": [
+  {
+   "revision_id": "201907826-3ce3ac5f",
+   "content_sha256": "3ce3ac5f80b0228deb555aefefaf2e7ddaca7d1c1ba78cd2d1d13a611f474189",
+   "ee_text": "피임",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:00Z",
+   "last_observed_at": "2026-09-08T08:57:00Z",
+   "official_revision_date": "2019-11-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:00Z"
+}

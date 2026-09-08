@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602006",
+ "item_name": "조엔자정(레니올리십인산염)",
+ "entp_name": "베르토코리아유한책임회사",
+ "permit_date": "20260710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286601]레니올리십인산염",
+ "main_item_ingr_eng": "leniolisib phosphate",
+ "edi_code": "",
+ "atc_code": "L03AX22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602006",
+ "revisions": [
+  {
+   "revision_id": "202602006-d61ee72a",
+   "content_sha256": "d61ee72a8fae49525d3e2f6b5d44219e3c4d7756ca392d57c033b00474d3279b",
+   "ee_text": "12세 이상 소아 및 성인에서의 활성화된 PI3K 델타 증후군(activated phosphoinositide 3-kinase delta syndrome, APDS)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:30Z",
+   "last_observed_at": "2026-09-08T09:05:30Z",
+   "official_revision_date": "2026-07-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:30Z"
+}

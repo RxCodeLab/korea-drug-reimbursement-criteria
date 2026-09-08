@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201104025",
+ "item_name": "카프레신주(카프레오마이신황산염)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20110629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252471]카프레오마이신황산염",
+ "main_item_ingr_eng": "Capreomycin Sulfate",
+ "edi_code": "",
+ "atc_code": "J04AB30",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104025",
+ "revisions": [
+  {
+   "revision_id": "201104025-e15f2ff7",
+   "content_sha256": "e15f2ff79d57b67c3c7ff902a78533b2d6d11829900511f750b8e2d37cb23ac3",
+   "ee_text": "○ 유효균종 결핵균 ○ 적응증 1차 선택약(이소니아지드, 리팜피신, 에탐부톨, 아미노살리실산 및 스트렙토마이신)이 무효하거나 독성 혹은 내성균의 출현으로 인해 사용할 수 없는 경우, 결핵균에 의한 폐감염에 다른 항결핵제와 병용투여 한다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:43Z",
+   "last_observed_at": "2026-09-08T08:44:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:43Z"
+}

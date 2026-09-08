@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402978",
+ "item_name": "한림슈가마덱스나트륨프리필드주",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20241217",
+ "cancel_date": "20251219",
+ "status": "취하",
+ "main_item_ingr": "[M255552]슈가마덱스나트륨",
+ "main_item_ingr_eng": "Sugammadex Sodium",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402978",
+ "revisions": [
+  {
+   "revision_id": "202402978-e848d9b5",
+   "content_sha256": "e848d9b5e895862dd5abf0bd166ec6c565408a84b711ecad5474c57ca581c32f",
+   "ee_text": "로쿠로늄 또는 베쿠로늄에 의해 유도된 신경근 차단의 역전",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:33Z",
+   "last_observed_at": "2026-09-08T09:03:33Z",
+   "official_revision_date": "2024-12-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:33Z"
+}

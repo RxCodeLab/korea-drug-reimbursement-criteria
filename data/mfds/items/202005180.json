@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005180",
+ "item_name": "퍼슨비사코딜액",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20200720",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜",
+ "main_item_ingr_eng": "Bisacodyl",
+ "edi_code": "",
+ "atc_code": "A06AG02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005180",
+ "revisions": [
+  {
+   "revision_id": "202005180-63f6634f",
+   "content_sha256": "63f6634fbe99dab7cc0b72a19f95743b97060f208fd8973afc62968671ded710",
+   "ee_text": "- 변비 - 장 검사 전 장 정결",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:16Z",
+   "last_observed_at": "2026-09-08T08:59:16Z",
+   "official_revision_date": "2020-07-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:16Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401867",
+ "item_name": "리보톤연질캡슐(수출용)",
+ "entp_name": "(주)셀릭스",
+ "permit_date": "20040830",
+ "cancel_date": "20250625",
+ "status": "취하",
+ "main_item_ingr": "[M040133]리보플라빈|[M080276]아르기닌티디아시케이트|[M223258]티아민염산염|[M258994]아스코르브산",
+ "main_item_ingr_eng": "Arginine Tidiacicate/Ascorbic Acid/Riboflavin/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401867",
+ "revisions": [
+  {
+   "revision_id": "200401867-e9ec8b47",
+   "content_sha256": "e9ec8b47fdd901da05cb61aa0094992b3c12707f7471e183872ebdbad9a399bd",
+   "ee_text": "간기능 부전, 중독성 간장해, 초기 간경변증",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:56Z",
+   "last_observed_at": "2026-09-08T08:37:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:56Z"
+}

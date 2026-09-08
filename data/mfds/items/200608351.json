@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200608351",
+ "item_name": "플로펜첩부제(플루르비프로펜)",
+ "entp_name": "(주)텔콘알에프제약",
+ "permit_date": "20060919",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608351",
+ "revisions": [
+  {
+   "revision_id": "200608351-502c9316",
+   "content_sha256": "502c93164fe82c4ad1a547a855c7f3bbbfd44826ffa4a5e294736d1454be3bf0",
+   "ee_text": "다음 질환 및 증상의 진통 ㆍ 소염(항염) : 퇴행성 관절염(골관절염), 어깨관절 주위염, 건(힘줄) ㆍ 건초염(힘줄윤활막염), 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기) ㆍ 동통(통증)",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:38Z",
+   "last_observed_at": "2026-09-08T08:40:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:38Z"
+}

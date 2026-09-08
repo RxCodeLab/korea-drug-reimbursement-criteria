@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600110",
+ "item_name": "제일탑첩부제(플루르비프로펜)",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20060310",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600110",
+ "revisions": [
+  {
+   "revision_id": "200600110-2c5ccb5a",
+   "content_sha256": "2c5ccb5a3c33fbe9e7fc83d1d4c08de5f1136c3c98cada8aa79ff638a0f71aae",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) : 퇴행성관절염(골관절염), 어깨관절주위염, 건(힘줄)ㆍ건초염(힘줄윤활막염), 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기)ㆍ동통(통증) 성상 이 약은 무색 투명 또는 반투명의 점착성 물질을 지지체에 도포하고(바르고) 고체면에 박리지를 덮은 첩부제이다",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:45Z",
+   "last_observed_at": "2026-09-08T08:39:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:45Z"
+}

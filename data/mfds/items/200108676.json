@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108676",
+ "item_name": "에비스타정60밀리그람(라록시펜염산염)",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20010718",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243362]라록시펜염산염",
+ "main_item_ingr_eng": "Raloxifene Hydrochloride",
+ "edi_code": "652606820",
+ "atc_code": "G03XC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108676",
+ "revisions": [
+  {
+   "revision_id": "200108676-af73c3e0",
+   "content_sha256": "af73c3e0ae3ae54714a9a6431181576e96eba375fa8a04a91b5e334233fa3f59",
+   "ee_text": "폐경 후 여성의 골다공증 치료 및 예방",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:45Z",
+   "last_observed_at": "2026-09-08T08:35:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:45Z"
+}

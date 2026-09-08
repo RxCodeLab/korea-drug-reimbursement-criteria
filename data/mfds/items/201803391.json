@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803391",
+ "item_name": "세종의료용질소",
+ "entp_name": "(주)세종산업가스",
+ "permit_date": "20180820",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040542]질소",
+ "main_item_ingr_eng": "Nitrogen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803391",
+ "revisions": [
+  {
+   "revision_id": "201803391-e901e335",
+   "content_sha256": "e901e335a6192106f18a6b73f56aed970686b4a3b212c63db5d2e79205bf1fce",
+   "ee_text": "의료용가스 (제제용)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:32Z",
+   "last_observed_at": "2026-09-08T08:53:32Z",
+   "official_revision_date": "2018-08-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:32Z"
+}

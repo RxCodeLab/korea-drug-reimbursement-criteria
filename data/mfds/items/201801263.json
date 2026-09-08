@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801263",
+ "item_name": "그린헥시딘브러쉬액(클로르헥시딘글루콘산염액)",
+ "entp_name": "(주)그린제약",
+ "permit_date": "20180323",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244239]클로르헥시딘글루콘산염액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "",
+ "atc_code": "D08AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801263",
+ "revisions": [
+  {
+   "revision_id": "201801263-5ba92158",
+   "content_sha256": "5ba921586ed3a2b0e7d3eeeb1ac60b097954138629af0da8cd8da3370092f47f",
+   "ee_text": "수술시 수술자 및 보건 위생종사자의 손 소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:57Z",
+   "last_observed_at": "2026-09-08T08:52:57Z",
+   "official_revision_date": "2018-03-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:57Z"
+}

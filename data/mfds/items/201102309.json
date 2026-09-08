@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201102309",
+ "item_name": "다트레이스-123주사(N-(3-플루오르프로필)-2베타-카르복시-메톡시-3베타-(4-[123I]아이오도페닐)-트로판)",
+ "entp_name": "(주)삼영유니텍",
+ "permit_date": "20110415",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252014]N-(3-플루오르프로필)-2베타-카르복시-메톡시-3베타-(4-[123I]아이오도페닐)-트로판",
+ "main_item_ingr_eng": "N-3-(Fluoroprolyl)-2Beta-Carbomethoxy-3Beta-(4-[123I]Iodophenyl)Nortropane",
+ "edi_code": "",
+ "atc_code": "V09AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102309",
+ "revisions": [
+  {
+   "revision_id": "201102309-e1f14488",
+   "content_sha256": "e1f14488822679bd74e58deb0d775b8504fee447c3b6cb1b104d5a77bf0cd805",
+   "ee_text": "이 약은 도파민성 신경퇴행을 의심하게 하는 증상과 징후를 보이는 환자(파킨슨병을 포함한 파킨슨증, 본태성진전)에서 단일광자방출단층촬영(SPECT) 영상을 이용하여 흑질선조체 도파민 신경세포 소실 여부를 평가하기 위하여 사용한다.",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:35Z",
+   "last_observed_at": "2026-09-08T08:44:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:35Z"
+}

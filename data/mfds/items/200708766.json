@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200708766",
+ "item_name": "알파메트로니다졸정(수출용)",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20070730",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040170]메트로니다졸",
+ "main_item_ingr_eng": "Metronidazole",
+ "edi_code": "",
+ "atc_code": "J01XD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708766",
+ "revisions": [
+  {
+   "revision_id": "200708766-96aca5e0",
+   "content_sha256": "96aca5e062edbe2ad0aab5e6281a48fc8652bae33da7d01a38909b4570c877c6",
+   "ee_text": "1. 유효균종 : 질트리콤나스, 이질아메바, 혐기성균 2. 적응증 : 주효능 효과 .트리코모나스 증 : 트리코모나스 전립선 정관염, 요도염, 질염, 자궁내막염, 자궁경관염, 자궁경부미란 및 지알디아증, 빈센트씨 완상구립염 .아메바증 : 급성장아메바, 아메바성 간종양, 급성 아메바성이질 .혐기성균 감염증 : 복부내감염증(복막염, 복부내농양, 간옹양 등), 피부 및 피부조직감염증, 부인과 감염증(자궁내막염, 자궁실질내막염, 난관, 난소농양 등), 세균성패혈증, 골 및 관절 감염증, 중추신경계 감염증(뇌종양, 뇌수막염 등), 하기도 감염증(폐염, 농흉, 폐농양 등), 심낵막염, 수술후 감염증의 예방",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:45Z",
+   "last_observed_at": "2026-09-08T08:41:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:45Z"
+}

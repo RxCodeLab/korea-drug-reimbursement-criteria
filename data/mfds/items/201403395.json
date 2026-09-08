@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A05AA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403395",
+ "history_fetched_at": "2026-08-28T13:24:36Z",
  "revisions": [
   {
-   "revision_id": "201403395-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "201403395-1282b48b",
+   "content_sha256": "1282b48b4ad82d722a73af74e12f059a6a74b67cb752bc8b74fd22929e16afc7",
+   "ee_text": "○ 원발 쓸개관 간경화증(Primary Billary Cirrhosis : PBC)의 간기능 개선 ○ 급격한 체중 감소를 겪은 비만 환자에서의 담석예방 ○ 위 절제술을 시행한 위암 환자에서의 담석예방",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:24:36Z",
-   "last_observed_at": "2026-08-28T13:24:36Z",
-   "official_revision_date": "2019-05-16"
+   "last_observed_at": "2026-09-08T08:47:22Z",
+   "official_revision_date": "2019-05-16",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:36Z"
+ ]
 }

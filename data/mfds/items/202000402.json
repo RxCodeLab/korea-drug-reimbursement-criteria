@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000402",
+ "item_name": "탈리제정2.5밀리그램(미로가발린베실산염)",
+ "entp_name": "한국다이이찌산쿄(주)",
+ "permit_date": "20200123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269916]미로가발린베실산염",
+ "main_item_ingr_eng": "Mirogabalin Besilate",
+ "edi_code": "",
+ "atc_code": "N02BF03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000402",
+ "revisions": [
+  {
+   "revision_id": "202000402-66a4db56",
+   "content_sha256": "66a4db5695218ee4f7dab9b29b5db108a634373445a5051dd69808ae6c00b953",
+   "ee_text": "신경병증성 통증의 치료",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:35Z",
+   "last_observed_at": "2026-09-08T08:57:35Z",
+   "official_revision_date": "2022-07-04"
+  },
+  {
+   "revision_id": "202000402-d3d47609",
+   "content_sha256": "d3d47609e8e10cdbd6be90697818bb74562cdb1e1dab2dfd86193152f094b285",
+   "ee_text": "말초 신경병증성 통증의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-01-23",
+   "first_observed_at": "2026-09-08T08:57:35Z",
+   "last_observed_at": "2026-09-08T08:57:35Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:35Z"
+}

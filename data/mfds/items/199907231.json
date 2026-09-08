@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199907231",
+ "item_name": "플로리네프정(미분화플루드로코르티손아세테이트)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "19991202",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263521]미분화플루드로코르티손아세테이트",
+ "main_item_ingr_eng": "Fludrocortisone Acetate Micronized",
+ "edi_code": "643903440",
+ "atc_code": "H02AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907231",
+ "revisions": [
+  {
+   "revision_id": "199907231-306a5879",
+   "content_sha256": "306a5879b1018e544f572e6182eb8bf8f8f3e58a3a30c2967353b3cc6572e46e",
+   "ee_text": "애디슨 질환에 있어서 원발성ㆍ속발성 부신피질부전증 및 염손실성 부신성기증후군의 치료를 위한 부분적 대체요법",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:23Z",
+   "last_observed_at": "2026-09-08T08:33:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:23Z"
+}

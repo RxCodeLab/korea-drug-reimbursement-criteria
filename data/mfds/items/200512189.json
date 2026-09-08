@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200512189",
+ "item_name": "젬시트주(젬시타빈염산염)(수출명:Dong-A Gemcitabine 200mg)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20050331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M243857]젬시타빈염산염",
+ "main_item_ingr_eng": "Gemcitabine Hydrochloride",
+ "edi_code": "642505041",
+ "atc_code": "L01BC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512189",
+ "revisions": [
+  {
+   "revision_id": "200512189-1fe777d0",
+   "content_sha256": "1fe777d032452d4ef6542b0eb9573b091b2f534748ac4bda3c68ed63d0a3ba6c",
+   "ee_text": "1.비소세포폐암 1)시스플라틴과병용하여국소진행성또는전이성비소세포폐암의1차치료 2) 단독 투여하여국소진행성또는전이성비소세포폐암의고식적치료 2.췌장암 국소진행성또는전이성췌장암의1차치료 3.방광암 시스플라틴과 병용하여 국소 진행성 또는 전이성 방광암 4.유방암 임상적으로금기가아닌이상이전의안트라사이클린계약물을포함한보조화학요법에실패한국소적으로진행된유방암또는전이성유방암에파클리탁셀과병용 5.난소암 백금화합물 요법을 완료하고 최소 6개월 후 재발된 전이성 난소암 환자들의 치료를 목적으로 카보플라틴과 병용 6.담도암 화학요법 치료를 받은 경험이 없는 수술이 불가능한 국소진행성 또는 전이성 담도암에 시스플라틴과 병용",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:40Z",
+   "last_observed_at": "2026-09-08T08:39:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:40Z"
+}

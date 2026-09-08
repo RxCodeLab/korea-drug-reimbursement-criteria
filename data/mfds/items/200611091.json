@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200611091",
+ "item_name": "라베트정20mg(라베프라졸나트륨)",
+ "entp_name": "(주)파마킹",
+ "permit_date": "20061120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089852]라베프라졸나트륨",
+ "main_item_ingr_eng": "Rabeprazole Sodium",
+ "edi_code": "652300110",
+ "atc_code": "A02BC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611091",
+ "revisions": [
+  {
+   "revision_id": "200611091-f19822d8",
+   "content_sha256": "f19822d80032c24234e5e9c4d971621239cb9e4e61ceed17ca39ab10c4c971ce",
+   "ee_text": "- 위궤양, 십이지장궤양 - 미란성 또는 궤양성 위식도역류질환 - 위식도역류질환의 증상 완화 - 위식도역류질환의 장기간 유지요법 - 헬리코박터필로리에 감염된 소화기 궤양 환자에 대한 항생제 병용요법 - 졸링거 엘리슨 증후군",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:44Z",
+   "last_observed_at": "2026-09-08T08:40:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:44Z"
+}

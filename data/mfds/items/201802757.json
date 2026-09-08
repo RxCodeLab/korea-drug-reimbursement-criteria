@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802757",
+ "item_name": "미노덴치과용연고(미노사이클린염산염)",
+ "entp_name": "오스템파마주식회사",
+ "permit_date": "20180702",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223036]미노사이클린염산염",
+ "main_item_ingr_eng": "Minocycline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A01AB23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802757",
+ "revisions": [
+  {
+   "revision_id": "201802757-6ea92b8a",
+   "content_sha256": "6ea92b8a6de20cb64364fa2d84511256544a215c8494436063646712ef0dc7a9",
+   "ee_text": "염산 미노사이클린에 감수성인 Porphyromonas ginglvalis, Prevotella intermedia, Prevotella melaninogenicus, Eikenella corrodens, Fusobacterium nucleatum, Capnocytophaga spp., Haemophilus actinomycetemcomitans에 의한 치주염(만성 변연성 치주염)의 여러 증상의 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:20Z",
+   "last_observed_at": "2026-09-08T08:53:20Z",
+   "official_revision_date": "2018-07-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:20Z"
+}

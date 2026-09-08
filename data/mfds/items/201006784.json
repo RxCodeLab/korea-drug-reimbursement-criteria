@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201006784",
+ "item_name": "클리퍼지속성장용정5밀리그램(베클로메타손 디프로피오네이트)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20101110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M239060]베클로메타손 디프로피오네이트",
+ "main_item_ingr_eng": "Beclomethasone Dipropionate",
+ "edi_code": "670303250",
+ "atc_code": "A07EA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006784",
+ "revisions": [
+  {
+   "revision_id": "201006784-1b3537b9",
+   "content_sha256": "1b3537b9a3c0fb8ff3c88e9ba19afe2b45c1b488c7e7b808dfccb7da6dbe5008",
+   "ee_text": "경증 또는 중등증의 활동성 궤양성대장염의 치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:17Z",
+   "last_observed_at": "2026-09-08T08:44:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:17Z"
+}

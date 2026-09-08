@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198800070",
+ "item_name": "한풍금은화엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19880601",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M050107]금은화",
+ "main_item_ingr_eng": "Lonicera Flower",
+ "edi_code": "",
+ "atc_code": "J01XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800070",
+ "revisions": [
+  {
+   "revision_id": "198800070-32156265",
+   "content_sha256": "321562650720a9d8573b253bc12070c73ae968a154c9cab9e2b54506afcf8699",
+   "ee_text": "해독, 해열, 소염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:29Z",
+   "last_observed_at": "2026-09-08T08:27:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:29Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908137",
+ "item_name": "삼성산소의료용이산화탄소",
+ "entp_name": "삼성산소(주)",
+ "permit_date": "20191128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040491]이산화탄소",
+ "main_item_ingr_eng": "Carbon Dioxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908137",
+ "revisions": [
+  {
+   "revision_id": "201908137-53d6219b",
+   "content_sha256": "53d6219bf7f9041b36baca46f2ab99fedf1d200e00fcd9cdd5a8fa9f821b38c9",
+   "ee_text": "의료용 가스",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:10Z",
+   "last_observed_at": "2026-09-08T08:57:10Z",
+   "official_revision_date": "2019-11-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:10Z"
+}

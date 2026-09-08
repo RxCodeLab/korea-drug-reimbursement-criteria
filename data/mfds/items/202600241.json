@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600241",
+ "item_name": "래피코나잘스프레이액(염화나트륨)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20260128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨",
+ "main_item_ingr_eng": "Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600241",
+ "revisions": [
+  {
+   "revision_id": "202600241-41224b6e",
+   "content_sha256": "41224b6e706d6f56284abd0f06e812c20d3576c1e76972f38d0c59b1f7b839fc",
+   "ee_text": "- 코점막 분비물 또는 화농(곪음)성으로 인한 코막힘에 비강(코안)세척 - 비점막 건조증상의 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:43Z",
+   "last_observed_at": "2026-09-08T09:04:43Z",
+   "official_revision_date": "2026-01-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:43Z"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199504332",
+ "item_name": "레토나제정",
+ "entp_name": "위더스제약(주)",
+ "permit_date": "19950410",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M201043]스트렙토키나제ㆍ스트렙토도르나제|[M201043]스트렙토키나제ㆍ스트렙토도르나제",
+ "main_item_ingr_eng": "Streptokinase·Streptodornase",
+ "edi_code": "",
+ "atc_code": "M09AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199504332",
+ "revisions": [
+  {
+   "revision_id": "199504332-3d6adb77",
+   "content_sha256": "3d6adb77a3440544669411d39d0452122997e864c8df426a27317f00d98ebd7c",
+   "ee_text": "<삭제> ※ 제출된 임상시험 결과가 유효성을 입증하지 못함",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:57Z",
+   "last_observed_at": "2026-09-08T08:29:57Z",
+   "official_revision_date": "2024-01-04"
+  },
+  {
+   "revision_id": "199504332-361275e2",
+   "content_sha256": "361275e24f8b99da33db09c72712791a00e312811d5923ccd84ca830e7f4c348",
+   "ee_text": "☆(정제) 1. 발목 수술 또는 발목의 외상에 의한 급성 염증성 부종의 완화 2. 호흡기 질환에 수반하는 담객출 곤란 ☆국내임상시험결과 추가제출",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-11-30",
+   "first_observed_at": "2026-09-08T08:29:57Z",
+   "last_observed_at": "2026-09-08T08:29:57Z"
+  },
+  {
+   "revision_id": "199504332-826f005b",
+   "content_sha256": "826f005bfc1cbc7a7f1f1e2970cb1103658b063f4c2fe12649a5747daba41764",
+   "ee_text": "☆(정제) 1. 다음 질환 및 증상의 염증성 부종의 완화 : 수술 및 외상후, 부비동염, 혈전정맥염 2. 호흡기 질환에 수반하는 담객출 곤란 ☆국내임상시험결과 추가제출",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:29:57Z",
+   "last_observed_at": "2026-09-08T08:29:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:57Z"
+}

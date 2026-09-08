@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200209866",
+ "item_name": "티로신에스주사(트리트먼트코오스F)",
+ "entp_name": "(주)신광신약",
+ "permit_date": "20020603",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093527]알러젠추출물",
+ "main_item_ingr_eng": "Allergen Extract",
+ "edi_code": "",
+ "atc_code": "V01AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200209866",
+ "revisions": [
+  {
+   "revision_id": "200209866-0f07ede8",
+   "content_sha256": "0f07ede8e0b4edea115922a40d3eded3c4f53b9fb30adc9fb8a9bc2c34bf9a18",
+   "ee_text": "IgE-mediated 알레르기에 기인한 알레르기성 건초열(알레르기성 비염), 알레르기성 결막염 또는 알레르기성 기관지천식 등 알레르기성 질환 치료",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:35Z",
+   "last_observed_at": "2026-09-08T08:36:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:35Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200707878",
+ "item_name": "디메라제정(디메크로틴산마그네슘)(수출용)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20070706",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095484]디메크로틴산마그네슘",
+ "main_item_ingr_eng": "Magnesium Dimecrotate",
+ "edi_code": "",
+ "atc_code": "A05AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707878",
+ "revisions": [
+  {
+   "revision_id": "200707878-c9d36999",
+   "content_sha256": "c9d3699918f91fa5c1825e8ab07b791e26b89190ebdb75889875152273ec11cf",
+   "ee_text": "소화불량, 구역, 구토 등의 증상치료",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:39Z",
+   "last_observed_at": "2026-09-08T08:41:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:39Z"
+}

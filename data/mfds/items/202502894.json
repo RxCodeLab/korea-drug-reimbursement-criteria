@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502894",
+ "item_name": "시트린정(시트룰린말산염)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20251107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247305]시트룰린말산염",
+ "main_item_ingr_eng": "Citrulline Malate",
+ "edi_code": "",
+ "atc_code": "A16AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502894",
+ "revisions": [
+  {
+   "revision_id": "202502894-e99da86b",
+   "content_sha256": "e99da86b6198a87dd2bf80686ccc86fd270a384c88639b0c3f98a424f5e2146c",
+   "ee_text": "기능 무력증의 보조치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:24Z",
+   "last_observed_at": "2026-09-08T09:04:24Z",
+   "official_revision_date": "2025-11-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:24Z"
+}

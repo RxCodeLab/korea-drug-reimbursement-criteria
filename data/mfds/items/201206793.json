@@ -7,7 +7,7 @@
  "permit_date": "20120914",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M020042]리팜피신|[M223170]이소니아지드|[M040746]피라진아미드|[M223143]에탐부톨염산염",
+ "main_item_ingr": "[M020042]리팜피신|[M040746]피라진아미드|[M223143]에탐부톨염산염|[M223170]이소니아지드",
  "main_item_ingr_eng": "Ethambutol Hydrochloride/Isoniazid/Pyrazinamide/Rifampicin",
  "edi_code": "653102670",
  "atc_code": "J04AM06",
@@ -20,7 +20,8 @@
    "ee_text": "성인 및 8세 이상 소아의 결핵 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201206793/EE",
    "first_observed_at": "2026-08-27T13:41:39Z",
-   "last_observed_at": "2026-08-28T13:24:28Z"
+   "last_observed_at": "2026-09-08T08:45:29Z",
+   "normalizer_version": 3
   }
  ]
 }

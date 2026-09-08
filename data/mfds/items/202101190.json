@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101190",
+ "item_name": "플레인정(당귀수산)",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20210208",
+ "cancel_date": "20260208",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040006]감초|[M040070]당귀|[M040086]도인|[M040228]향부자|[M040523]작약|[M040785]홍화|[M050023]계심|[M051153]오약|[M080844]소목",
+ "main_item_ingr_eng": "Angelica Gigas Root/Cassiae Cortex Interior/Cyperus Rhizome/Licorice/Lindera Root/Peach Kernel/Peony Root/Safflower/Sappan Wood",
+ "edi_code": "",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101190",
+ "revisions": [
+  {
+   "revision_id": "202101190-778ac4a1",
+   "content_sha256": "778ac4a1ea81826a38ef272a20086c66e5608f97d1b32c90663dc488ffd17ef5",
+   "ee_text": "타박상으로 인한 부은 것 및 통증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:56Z",
+   "last_observed_at": "2026-09-08T08:59:56Z",
+   "official_revision_date": "2021-02-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:56Z"
+}

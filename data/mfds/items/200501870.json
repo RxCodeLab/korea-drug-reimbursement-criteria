@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A06AB08",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501870",
+ "history_fetched_at": "2026-08-28T13:24:08Z",
  "revisions": [
   {
-   "revision_id": "200501870-8ff00411",
-   "content_sha256": "8ff00411e105f07b7dfcee63f3cbc142be0532eb0e36e59eb1e7bae65cec8d1c",
-   "ee_text": "변비",
+   "revision_id": "200501870-85305fdc",
+   "content_sha256": "85305fdc52e06fedc8089cb445fd86b121d9f730c558fbc42fa3b864eaeaeb0d",
+   "ee_text": "1. 주효능 효과 변비",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-28T13:24:08Z",
-   "last_observed_at": "2026-08-28T13:24:08Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:39:14Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:08Z"
+ ]
 }

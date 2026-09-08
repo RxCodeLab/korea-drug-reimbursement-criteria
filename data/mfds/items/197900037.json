@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900037",
+ "item_name": "마부신탕과립(마황부자세신탕엑스)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19791016",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M246390]마황부자세신탕연조엑스(6.25→1)",
+ "main_item_ingr_eng": "",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900037",
+ "revisions": [
+  {
+   "revision_id": "197900037-dc8bb2a5",
+   "content_sha256": "dc8bb2a5c43b6c33935ceb2f468487aefc3f48300a450d13b3f5868f19fdb50f",
+   "ee_text": "오한, 미열, 전신권태, 저혈압성 두통, 어지러움, 팔다리에 통증, 냉감이 있는 다음 증상 : 감기, 기침, 기관지염",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:32Z",
+   "last_observed_at": "2026-09-08T08:26:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:32Z"
+}

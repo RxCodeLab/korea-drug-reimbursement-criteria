@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106591",
+ "item_name": "에프에이씨비씨주사(플루시클로빈(18F)액)",
+ "entp_name": "(주)듀켐바이오",
+ "permit_date": "20210917",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281473]플루시클로빈(18F)액",
+ "main_item_ingr_eng": "Fluciclovine 18F",
+ "edi_code": "",
+ "atc_code": "V09IX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106591",
+ "revisions": [
+  {
+   "revision_id": "202106591-75e437d6",
+   "content_sha256": "75e437d6c1ecc78ddefac20e4a9e16d728d840b618ae6aef450e0b6840682ff4",
+   "ee_text": "다음 경우의 양전자방출단층촬영(Positron emission tomography, PET)에 사용한다. 전립선암의 이전 치료 후 혈중 전립선 특이 항원(Prostate Specific Antigen, PSA)의 상승으로 전립선암의 재발이 의심되는 성인 남성의 영상(PET) 확인",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:36Z",
+   "last_observed_at": "2026-09-08T09:00:36Z",
+   "official_revision_date": "2021-09-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:36Z"
+}

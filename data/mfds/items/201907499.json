@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907499",
+ "item_name": "팜크린정250밀리그램(팜시클로비르)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20191028",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250929]팜시클로비르",
+ "main_item_ingr_eng": "Famciclovir",
+ "edi_code": "648507910",
+ "atc_code": "J05AB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907499",
+ "revisions": [
+  {
+   "revision_id": "201907499-428a8f8f",
+   "content_sha256": "428a8f8fdd67175c2c633992610d2c060479c1c40643e74c308573305ea57efe",
+   "ee_text": "1. 대상포진 바이러스 감염증 2. 생식기포진 감염증의 치료 및 재발성 생식기포진의 억제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:50Z",
+   "last_observed_at": "2026-09-08T08:56:50Z",
+   "official_revision_date": "2019-10-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:50Z"
+}

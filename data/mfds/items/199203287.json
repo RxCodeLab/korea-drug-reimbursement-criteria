@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199203287",
+ "item_name": "디아그노그린주(인도시아닌그린)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "19921105",
+ "cancel_date": "20251203",
+ "status": "취하",
+ "main_item_ingr": "[M086788]인도시아닌그린",
+ "main_item_ingr_eng": "Indocyanine Green",
+ "edi_code": "",
+ "atc_code": "V04CX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199203287",
+ "revisions": [
+  {
+   "revision_id": "199203287-ea9c9572",
+   "content_sha256": "ea9c95727deb9a4e2aa326b86f66a8d10d9d4c5c6c09ca6c58f1df9c8f367c7d",
+   "ee_text": "1. 간기능 검사(혈장소실율, 혈중정체율 및 간혈류량 측정): 간질환의 진단, 예후 치유의 판정 2. 순환기능 검사(심박출량, 평균 순환시간 또는 이상혈류량의 측정): 심장 혈관계 질환의 진단 3. 형광 안저혈관 조영술",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:36Z",
+   "last_observed_at": "2026-09-08T08:28:36Z",
+   "official_revision_date": "2021-01-20"
+  },
+  {
+   "revision_id": "199203287-2def964f",
+   "content_sha256": "2def964f733dd3002cf566dc8d8b738ee86e4a80328cdd47d69cf0c9e3a068ac",
+   "ee_text": "1. 간기능 검사(혈장소실율, 혈중정체율 및 간혈류량 측정): 간질환의 진단, 예후 치유의 판정 2. 순환기능 검사(심박출량, 평균 순환시간 또는 이상혈류량의 측정): 심장 혈관계 질환의 진단",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:28:36Z",
+   "last_observed_at": "2026-09-08T08:28:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:36Z"
+}

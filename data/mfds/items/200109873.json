@@ -12,6 +12,7 @@
  "edi_code": "650900831",
  "atc_code": "B05BA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109873",
+ "history_fetched_at": "2026-08-28T13:23:59Z",
  "revisions": [
   {
    "revision_id": "200109873-24584beb",
@@ -19,9 +20,9 @@
    "ee_text": "비경구 영양공급 처방의 일부로서 에너지 및 필수 지방산의 보급",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:23:59Z",
-   "last_observed_at": "2026-08-28T13:23:59Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:35:57Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:59Z"
+ ]
 }

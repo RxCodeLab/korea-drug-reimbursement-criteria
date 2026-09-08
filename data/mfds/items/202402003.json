@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402003",
+ "item_name": "제이퍼카정50밀리그램(퍼토브루티닙)",
+ "entp_name": "한국릴리(유)",
+ "permit_date": "20240819",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284756]퍼토브루티닙",
+ "main_item_ingr_eng": "Pirtobrutinib",
+ "edi_code": "670801390",
+ "atc_code": "L01EL05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402003",
+ "revisions": [
+  {
+   "revision_id": "202402003-a95c0350",
+   "content_sha256": "a95c03504717647ee21d2886189f31cf96b381ec33c1364553950c0de244e774",
+   "ee_text": "1. 이전에 브루톤 티로신 키나제(BTK) 억제제를 포함한 두 가지 이상의 치료를 받은 적이 있는 재발성 또는 불응성 외투세포 림프종(MCL) 성인 환자에서의 단독요법 이 약의 유효성을 치료적확증임상시험에서 입증한 자료는 없다. 2. 이전에 브루톤 티로신 키나제(BTK) 억제제 치료를 받은 적이 있는 만성 림프구성 백혈병(CLL) 또는 소림프구성 림프종(SLL) 성인 환자에서의 단독요법",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:14Z",
+   "last_observed_at": "2026-09-08T09:03:14Z",
+   "official_revision_date": "2026-07-23"
+  },
+  {
+   "revision_id": "202402003-440d863f",
+   "content_sha256": "440d863ff0e3b835bd205810394f9561333c67c791a8b0c4eab6702c5b2150b8",
+   "ee_text": "이전에 브루톤 티로신 키나제(BTK) 억제제를 포함한 두 가지 이상의 치료를 받은 적이 있는 재발성 또는 불응성 외투세포 림프종(MCL) 성인 환자에서의 단독요법 이 약의 유효성을 치료적확증임상시험에서 입증한 자료는 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-08-19",
+   "first_observed_at": "2026-09-08T09:03:14Z",
+   "last_observed_at": "2026-09-08T09:03:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:14Z"
+}

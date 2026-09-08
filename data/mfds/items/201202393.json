@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201202393",
+ "item_name": "이오파미로300주사액(이오파미돌)",
+ "entp_name": "브라코이미징코리아(유)",
+ "permit_date": "20120330",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085529]이오파미돌",
+ "main_item_ingr_eng": "Iopamidol",
+ "edi_code": "621400121,621400122,621400123,621400124,621400271",
+ "atc_code": "V08AB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201202393",
+ "revisions": [
+  {
+   "revision_id": "201202393-85cc3e9b",
+   "content_sha256": "85cc3e9bb07857deb098a739400a86636b23855e1ea08334c453aeef0fe49006",
+   "ee_text": "1. 뇌수조조영 2. 척수조영 3. 혈관조영 : 동맥조영, 정맥조영 4. 정맥요로조영(IVP) 5. CT 조영증강",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:14Z",
+   "last_observed_at": "2026-09-08T08:45:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:14Z"
+}

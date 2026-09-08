@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500130",
+ "item_name": "콜라잘캡슐(발살라지드이나트륨이수화물)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20050627",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102338]발살라지드이나트륨이수화물",
+ "main_item_ingr_eng": "Balsalazide Disodium Hydrate",
+ "edi_code": "643303520",
+ "atc_code": "A07EC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500130",
+ "revisions": [
+  {
+   "revision_id": "200500130-cfce4843",
+   "content_sha256": "cfce4843c1b1b00b857330da036e428b583e173db05f783674bec75b4cb9f7b6",
+   "ee_text": "경증~중등증의 활동기 궤양성대장염의 치료 및 관해의 유지",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:48Z",
+   "last_observed_at": "2026-09-08T08:38:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:48Z"
+}

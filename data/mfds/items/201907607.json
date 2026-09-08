@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907607",
+ "item_name": "퍼킨씨알정50-200밀리그램(카르비도파, 레보도파)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20191031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040122]레보도파|[M256275]카르비도파수화물",
+ "main_item_ingr_eng": "Carbidopa Hydrate/Levodopa",
+ "edi_code": "651904870",
+ "atc_code": "N04BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907607",
+ "revisions": [
+  {
+   "revision_id": "201907607-b6549cea",
+   "content_sha256": "b6549cea8c673cf7a9b97cb0394364c6ef5c9787056937e804f8e205e369214a",
+   "ee_text": "1. 파킨슨병 2. 파킨슨증후군",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:54Z",
+   "last_observed_at": "2026-09-08T08:56:54Z",
+   "official_revision_date": "2019-10-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:54Z"
+}

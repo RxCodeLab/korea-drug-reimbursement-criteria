@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200802123",
+ "item_name": "원더솔10%주",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20080222",
+ "cancel_date": "20251216",
+ "status": "취하",
+ "main_item_ingr": "[M088656]글리신|[M102908]타우린|[M103060]L-트레오닌|[M103077]L-아르기닌|[M202242]L-리신일수화물|[M202247]L-아스파르트산|[M204427]L-글루탐산|[M204435]L-세린|[M204437]L-시스테인|[M204442]L-페닐알라닌|[M209360]L-발린|[M209366]L-알라닌|[M214274]L-트리프토판|[M214313]L-티로신|[M214861]L-프롤린|[M215288]L-히스티딘|[M218567]L-메티오닌|[M222530]L-이소류신|[M222531]L-류신|[M245058]L-오르니틴염산염",
+ "main_item_ingr_eng": "Glycine/L-Alanine/L-Arginine/L-Aspartic Acid/L-Cysteine/L-Glutamic Acid/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Monohydrate/L-Methionine/L-Ornithine Hydrochloride/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine/Taurine",
+ "edi_code": "",
+ "atc_code": "B05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802123",
+ "revisions": [
+  {
+   "revision_id": "200802123-6926f9a8",
+   "content_sha256": "6926f9a850776afc24a9f9cc1611be09de4688241b3dd3903711867c03c406e1",
+   "ee_text": "경구 또는 장관내 영양섭취가 불가능, 불충분 또는 금기인 경우의 유아, 소아 및 정상 또는 저체중의 신생아 또는 조산아에서의 비경구 영양보급",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:18Z",
+   "last_observed_at": "2026-09-08T08:42:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:18Z"
+}

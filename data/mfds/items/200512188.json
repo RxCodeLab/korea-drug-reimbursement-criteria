@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200512188",
+ "item_name": "아디코트크림(메틸프레드니솔론아세포네이트)(수출용)",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20051026",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250724]메틸프레드니솔론아세포네이트",
+ "main_item_ingr_eng": "Methylprednisolone Aceponate",
+ "edi_code": "",
+ "atc_code": "D07AC14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512188",
+ "revisions": [
+  {
+   "revision_id": "200512188-d77faf26",
+   "content_sha256": "d77faf26f4e448c0bd89e3d185bf122e5e3aa3482f804f4390f757ee62e9dc14",
+   "ee_text": "습진(아토피피부염, 심상성습진 등)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:40Z",
+   "last_observed_at": "2026-09-08T08:39:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:40Z"
+}

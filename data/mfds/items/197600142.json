@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197600142",
+ "item_name": "일바돈크림(설파디아진은)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "19760617",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050775]설파디아진은",
+ "main_item_ingr_eng": "Silver Sulfadiazine",
+ "edi_code": "642901961,642901962",
+ "atc_code": "D06BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600142",
+ "revisions": [
+  {
+   "revision_id": "197600142-7db154fe",
+   "content_sha256": "7db154fedf64c6ca297ce56fd3aac22651c59415de548d992cd73e2613131ffa",
+   "ee_text": "2-3도 화상, 각종 피부궤양(욕창, 다리궤양, 방사선궤양, 당뇨병성괴저, 피부상처 등)으로 인한 다음 병원균의 감염증 : 녹농균, 엔테로박터속, 클레브시엘라속, 포도구균속, 용혈성연쇄구균, 칸디다속",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:24Z",
+   "last_observed_at": "2026-09-08T08:26:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:24Z"
+}

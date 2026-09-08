@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008401",
+ "item_name": "살클리사주(이사툭시맙)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20201201",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268703]이사툭시맙|[M268703]이사툭시맙",
+ "main_item_ingr_eng": "ISATUXIMAB",
+ "edi_code": "",
+ "atc_code": "L01FC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008401",
+ "revisions": [
+  {
+   "revision_id": "202008401-075a8b2f",
+   "content_sha256": "075a8b2f8b672fff379ff65eedcd15a69d6b843112114b670f63ffe43ec3a183",
+   "ee_text": "이전에 레날리도마이드와 프로테아좀억제제를 포함한 두 가지 이상의 치료를 받은 다발골수종 환자에서 포말리도마이드 및 덱사메타손과의 병용요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:43Z",
+   "last_observed_at": "2026-09-08T08:59:43Z",
+   "official_revision_date": "2020-12-01"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:43Z"
+}

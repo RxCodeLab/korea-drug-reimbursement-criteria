@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201700397",
+ "item_name": "울트라아크네트리먼트겔(살리실산)(수출용)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20170123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040264]살리실산",
+ "main_item_ingr_eng": "Salicylic Acid",
+ "edi_code": "",
+ "atc_code": "D10AF",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700397",
+ "revisions": [
+  {
+   "revision_id": "201700397-0562ef4c",
+   "content_sha256": "0562ef4cb207730189d5198eac864eeaf07680fd329d39d5851ca2b32a598bab",
+   "ee_text": "여드름 치료",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:28Z",
+   "last_observed_at": "2026-09-08T08:51:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:28Z"
+}

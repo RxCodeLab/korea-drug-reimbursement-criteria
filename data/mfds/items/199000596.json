@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199000596",
+ "item_name": "제일제약시티콜린나트륨주사125mg(mL)(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "19901026",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080525]시티콜린나트륨",
+ "main_item_ingr_eng": "Citicoline Sodium",
+ "edi_code": "",
+ "atc_code": "N06BX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000596",
+ "revisions": [
+  {
+   "revision_id": "199000596-a5c5b11c",
+   "content_sha256": "a5c5b11ce0fc993371130370bf7724980e9c8148e37869da1fb1873c54aa3731",
+   "ee_text": "1. 두부외상 및 뇌수술에 의한 의식장애 2. 뇌졸중편마비 환자의 상지기능 회복촉진. 다만, 발작후 1년 이내에 재활 및 내복약물요법(뇌대사부활제, 뇌순환개선제 등의 투여)을 실시하는 경우에 있어 하지의 마비가 비교적 약한 경우 3. 다음 질환에 대한 단백분해효소저해제와의 병용요법 1) 급성췌장염 2) 만성재발성췌장염의 급성악화기 3) 수술후 급성췌장염",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:59Z",
+   "last_observed_at": "2026-09-08T08:27:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:59Z"
+}

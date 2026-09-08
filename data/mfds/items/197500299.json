@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197500299",
+ "item_name": "콘락스정2밀리그람(프리디놀메실산염)",
+ "entp_name": "일성아이에스(주)",
+ "permit_date": "19750226",
+ "cancel_date": "20251001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M253051]프리디놀메실산염",
+ "main_item_ingr_eng": "Pridinol Mesylate",
+ "edi_code": "",
+ "atc_code": "M03BX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197500299",
+ "revisions": [
+  {
+   "revision_id": "197500299-b566f8c2",
+   "content_sha256": "b566f8c2793c5f139041f87c2c72b4c27e26dac38f803e6cdf9a4c49ce20bacd",
+   "ee_text": "근골격계 질환에 수반하는 동통성 연축 : 요배통증, 경견완 증후군, 견관절 주위염, 변형성 척추증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197500299/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:22Z",
+   "last_observed_at": "2026-09-08T08:26:22Z"
+  },
+  {
+   "revision_id": "197500299-546a6331",
+   "content_sha256": "546a6331c4aae9aab40f05b4ca68e82d8913173679378a729c7b9a408867d47f",
+   "ee_text": "근골격계 질환에 수반하는 동통성 연축 : 요배통증, 경견완 증후군, 견판절 주위염, 변형성 척추증",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:26:22Z",
+   "last_observed_at": "2026-09-08T08:26:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:22Z"
+}

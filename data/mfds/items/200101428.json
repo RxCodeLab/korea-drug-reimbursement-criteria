@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101428",
+ "item_name": "유니온탈니플루메이트정",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20010926",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081412]탈니플루메이트",
+ "main_item_ingr_eng": "Talniflumate",
+ "edi_code": "665503170",
+ "atc_code": "M01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101428",
+ "revisions": [
+  {
+   "revision_id": "200101428-fc59bb11",
+   "content_sha256": "fc59bb1123f7a830249b57062125a3bb2495ffd6c07006e93c0b0ed58d0d0f22",
+   "ee_text": "류마티스관절염, 골관절염(퇴행관절염)",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:10Z",
+   "last_observed_at": "2026-09-08T08:35:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:10Z"
+}

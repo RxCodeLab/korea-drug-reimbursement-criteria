@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400555",
+ "history_fetched_at": "2026-08-28T13:23:39Z",
  "revisions": [
   {
    "revision_id": "198400555-7d8a03ce",
@@ -19,8 +20,9 @@
    "ee_text": "감기, 코감기, 두통, 어깨결림, 근육통, 손과 어깨통증",
    "ee_doc_id": "17",
    "first_observed_at": "2026-08-28T13:23:39Z",
-   "last_observed_at": "2026-08-28T13:23:39Z",
-   "official_revision_date": "2010-04-09"
+   "last_observed_at": "2026-09-08T08:26:57Z",
+   "official_revision_date": "2010-04-09",
+   "normalizer_version": 3
   },
   {
    "revision_id": "198400555-8c3c461b",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:39Z",
    "last_observed_at": "2026-08-28T13:23:39Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:39Z"
+ ]
 }

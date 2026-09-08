@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003403",
+ "item_name": "슬림다운정(수출용)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20100507",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M218339]방풍통성산건조엑스(4.64→1)",
+ "main_item_ingr_eng": "Bangpungtongsungsan Dried Extract (4.64→1)",
+ "edi_code": "",
+ "atc_code": "A08AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003403",
+ "revisions": [
+  {
+   "revision_id": "201003403-1df727d4",
+   "content_sha256": "1df727d4139191da5062769bf13730178ffcba6c4e84fa407a42d9e9d2934142",
+   "ee_text": "복부에 피하지방이 많고 변비기가 있는 사람의 다음 제증상 : 고혈압의 수반증상, 비만증, 부종, 변비",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:02Z",
+   "last_observed_at": "2026-09-08T08:44:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:02Z"
+}

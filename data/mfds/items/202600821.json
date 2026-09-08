@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600821",
+ "item_name": "정우판크레아틴정25000(판크레아스분말)",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20260323",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282030]판크레아스분말",
+ "main_item_ingr_eng": "Pancrease Powder",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600821",
+ "revisions": [
+  {
+   "revision_id": "202600821-74609bf4",
+   "content_sha256": "74609bf4f98399b9985e3042a7d33dfbf698dc49aa2c6366a1c795cdaea245d6",
+   "ee_text": "췌장 외분비 기능장애",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:55Z",
+   "last_observed_at": "2026-09-08T09:04:55Z",
+   "official_revision_date": "2026-03-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:55Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711277",
+ "item_name": "스토몰주사20밀리그람(모르핀황산염수화물)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20071011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223034]모르핀황산염수화물",
+ "main_item_ingr_eng": "Morphine Sulfate Hydrate",
+ "edi_code": "649802161",
+ "atc_code": "N02AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711277",
+ "revisions": [
+  {
+   "revision_id": "200711277-e1cdb94b",
+   "content_sha256": "e1cdb94b1c872436d96a10f8788fbe2282eb27aba06d57f3078442f738863eb7",
+   "ee_text": "(주사제 20 mg, 50 mg) 난치성 만성 통증의 완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200711277/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:57Z",
+   "last_observed_at": "2026-09-08T08:41:57Z"
+  },
+  {
+   "revision_id": "200711277-0dbbf547",
+   "content_sha256": "0dbbf547261793be9e634c9dc584433ac32e6de1b13f0a4b3b87ad2f94d06ede",
+   "ee_text": "난치성 만성 통증의 완화",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:41:57Z",
+   "last_observed_at": "2026-09-08T08:41:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:57Z"
+}

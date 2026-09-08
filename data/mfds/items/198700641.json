@@ -12,16 +12,17 @@
  "edi_code": "651200740",
  "atc_code": "A02AA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700641",
+ "history_fetched_at": "2026-08-28T13:23:41Z",
  "revisions": [
   {
-   "revision_id": "198700641-0e7ebdd6",
-   "content_sha256": "0e7ebdd6580dfb1e08b3c73606e707e0a6c6287c21740db17f446d5672fc11d1",
-   "ee_text": "1) 다음 질환의 제산작용 및 증상의 개선 : 위 . 십이지장궤양, 위염, 위산과다 2) 변비증",
+   "revision_id": "198700641-2d4c53eb",
+   "content_sha256": "2d4c53eb50630228a55e55156eb8f9b0482c92e72fff195cdf47f130879cb905",
+   "ee_text": "1. 주효능 효과 1) 다음 질환의 제산작용 및 증상의 개선 : 위.십이지장궤양, 위염, 위산과다 2) 변비증",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:23:41Z",
-   "last_observed_at": "2026-08-28T13:23:41Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:27:23Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:41Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906824",
+ "item_name": "서흥에치피엠시캡슐에스엘2호",
+ "entp_name": "(주)서흥",
+ "permit_date": "20190925",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "",
+ "main_item_ingr_eng": "",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906824",
+ "revisions": [
+  {
+   "revision_id": "201906824-7c45c9bc",
+   "content_sha256": "7c45c9bc948d1ad4a1ae8cb139c6c80ce76bb638135a0a0ca403bee3c3059b79",
+   "ee_text": "캡슐제 제제용",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:29Z",
+   "last_observed_at": "2026-09-08T08:56:29Z",
+   "official_revision_date": "2019-09-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:29Z"
+}

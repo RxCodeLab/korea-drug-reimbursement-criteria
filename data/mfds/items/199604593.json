@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199604593",
+ "item_name": "나박점안액(엔-아세틸아스파틸글루타민산나트륨)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "19960312",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269811]엔-아세틸아스파틸글루타민산나트륨",
+ "main_item_ingr_eng": "Sodium N-Acetylaspartylglutamate",
+ "edi_code": "643900052",
+ "atc_code": "S01GX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199604593",
+ "revisions": [
+  {
+   "revision_id": "199604593-a7d7d873",
+   "content_sha256": "a7d7d873c125fb6c9c4b2dbe5274478a3715fefd1944931f9589e76176cd3689",
+   "ee_text": "알레르기성 결막염 및 안검결막염",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:30Z",
+   "last_observed_at": "2026-09-08T08:30:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:30Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199203520",
+ "item_name": "네오마찐정100밀리그램(클로르프로마진염산염)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "19600321",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223216]클로르프로마진염산염",
+ "main_item_ingr_eng": "Chlorpromazine Hydrochloride",
+ "edi_code": "657200020",
+ "atc_code": "N05AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199203520",
+ "revisions": [
+  {
+   "revision_id": "199203520-31c8944b",
+   "content_sha256": "31c8944bfb4afef70990e9dfe7bd3615a3201efc24ded60e9f6eab0f75a64a62",
+   "ee_text": "조현병, 기타의 정신병, 조증, 구역·구토, 딸꾹질, 인공동면, 정신병적 장애에서의 증상으로 나타나는 불안·긴장·흥분",
+   "ee_doc_id": "27",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:39Z",
+   "last_observed_at": "2026-09-08T08:28:39Z",
+   "official_revision_date": "2024-04-25"
+  },
+  {
+   "revision_id": "199203520-522047f9",
+   "content_sha256": "522047f9978b1d35ac54145a3a369befc6a25663c704ab60da3b48c947cc6990",
+   "ee_text": "정신분열증, 기타의 정신병, 조증, 구역·구토, 딸꾹질, 인공동면, 정신병적 장애에서의 증상으로 나타나는 불안·긴장·흥분",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:28:39Z",
+   "last_observed_at": "2026-09-08T08:28:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:39Z"
+}

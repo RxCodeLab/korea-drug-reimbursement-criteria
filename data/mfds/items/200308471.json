@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308471",
+ "item_name": "펜토탈소디움주사0.25그램(치오펜탈나트륨)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20031112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040562]치오펜탈나트륨",
+ "main_item_ingr_eng": "Thiopental Sodium",
+ "edi_code": "644912101",
+ "atc_code": "N01AF03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308471",
+ "revisions": [
+  {
+   "revision_id": "200308471-c4f24d7d",
+   "content_sha256": "c4f24d7d53cb9c83b1ad81dda33063091797dd7f06ebeac2f73411f47cd3a2e2",
+   "ee_text": "전신마취, 국소마취제 및 흡입마취제와의 병용, 정신신경과에서의 전격요법(電擊療法)시의 마취, 국소마취제 중독·파상풍·자간(子癎) 등에 수반되는 경련, 정신신경과에서의 진단(마취 Interview)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:24Z",
+   "last_observed_at": "2026-09-08T08:37:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:24Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602977",
+ "item_name": "레바모틴정5밀리그램(모사프리드시트르산염수화물)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20160527",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234050]모사프리드시트르산염수화물",
+ "main_item_ingr_eng": "Mosapride Citrate Dihydrate",
+ "edi_code": "656204560",
+ "atc_code": "A03FA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602977",
+ "revisions": [
+  {
+   "revision_id": "201602977-c3fade5c",
+   "content_sha256": "c3fade5c06fe35342ff07ff91fda06cdc6bffdfbadef7c655573584f491644fa",
+   "ee_text": "기능성소화불량으로 인한 소화기증상(속쓰림, 오심, 구토)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:39Z",
+   "last_observed_at": "2026-09-08T08:50:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:39Z"
+}

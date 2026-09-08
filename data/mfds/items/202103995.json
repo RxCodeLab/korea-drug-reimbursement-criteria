@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103995",
+ "item_name": "제일약품탄산수소나트륨8.4%주(수출용)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20210520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "B05XA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103995",
+ "revisions": [
+  {
+   "revision_id": "202103995-dd5f0521",
+   "content_sha256": "dd5f05213aadbc6f55458bffe3a02d5619a193e61cf12b1a755a64042099f56a",
+   "ee_text": "1. 산증(아시도시스) 2. 급성두드러기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:12Z",
+   "last_observed_at": "2026-09-08T09:00:12Z",
+   "official_revision_date": "2021-05-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:12Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199400709",
+ "item_name": "영진멘탁스크림(부테나핀염산염)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "19940117",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252019]부테나핀염산염",
+ "main_item_ingr_eng": "Butenafine Hydrochloride",
+ "edi_code": "642400731,642400732,642400733",
+ "atc_code": "D01AE23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400709",
+ "revisions": [
+  {
+   "revision_id": "199400709-9555d624",
+   "content_sha256": "9555d6242f04d64fc81deeb3534473d8dcab0c81cd25de1c150b382ba8dc0323",
+   "ee_text": "다음의 피부진균증 1) 백선 : 족부백선, 고부백선(완선), 체부백선 2) 어루러기",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:09Z",
+   "last_observed_at": "2026-09-08T08:29:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:09Z"
+}

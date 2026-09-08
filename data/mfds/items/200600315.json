@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600315",
+ "item_name": "트레노캡슐(트라닐라스트)",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20060303",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101545]트라닐라스트",
+ "main_item_ingr_eng": "Tranilast",
+ "edi_code": "664600940",
+ "atc_code": "R06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600315",
+ "revisions": [
+  {
+   "revision_id": "200600315-8819ac29",
+   "content_sha256": "8819ac297eaf3fcb181321bbbd5a0e6161577d7adaf92b8761f05e1fa6da9d5d",
+   "ee_text": "1) 기관지천식 예방 2) 알레르기성 비염, 아토피성 피부염 3) 켈로이드.비후성반흔",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:49Z",
+   "last_observed_at": "2026-09-08T08:39:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:49Z"
+}

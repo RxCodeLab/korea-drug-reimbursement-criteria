@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199100103",
+ "item_name": "당수롱과립(당귀수산)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19910320",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286726]당귀수산 건조엑스(4.74∼7.10→1)",
+ "main_item_ingr_eng": "Danggwisusan Dried Extract (4.74~7.10→1)",
+ "edi_code": "",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100103",
+ "revisions": [
+  {
+   "revision_id": "199100103-778ac4a1",
+   "content_sha256": "778ac4a1ea81826a38ef272a20086c66e5608f97d1b32c90663dc488ffd17ef5",
+   "ee_text": "타박상으로 인한 부은 것 및 통증",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:07Z",
+   "last_observed_at": "2026-09-08T08:28:07Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:07Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600612",
+ "item_name": "로리비어정(수출용)(수출명: Lorivir Tab.)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "20160129",
+ "cancel_date": "20250812",
+ "status": "취하",
+ "main_item_ingr": "[M245060]콜로이드성이산화규소|[M259361]로피나비르",
+ "main_item_ingr_eng": "Colloidal Silicone Dioxide/Lopinavir",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600612",
+ "revisions": [
+  {
+   "revision_id": "201600612-26db8375",
+   "content_sha256": "26db8375e8ddee1fe6aaeabac802bfd8cc0d517196ac5c203f5d80c50ef83bcd",
+   "ee_text": "다른 항레트로바이러스제와의 병용으로 HIV-1(인체 면역결핍 바이러스)의 감염 치료",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:11Z",
+   "last_observed_at": "2026-09-08T08:50:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:11Z"
+}

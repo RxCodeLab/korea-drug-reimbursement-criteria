@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202009419",
+ "item_name": "벨리노더블정(방풍통성산건조엑스(4.6→1))",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20201231",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M217127]방풍통성산건조엑스(4.6→1)",
+ "main_item_ingr_eng": "Bangpungtongsungsan Dried Extract (4.6→1)",
+ "edi_code": "",
+ "atc_code": "A08AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009419",
+ "revisions": [
+  {
+   "revision_id": "202009419-733d2a5c",
+   "content_sha256": "733d2a5c7cb9bd1954d2ec622cb176dc9b1457a7d98f552521bb33744337b5b9",
+   "ee_text": "배에 피하(피부밑) 지방이 많고 변비기가 있는 환자의 다음 증상 : 고혈압의 동반증상(두근거림, 어깨결림, 홍조), 비만, 부기, 변비",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202009419/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:48Z",
+   "last_observed_at": "2026-09-08T08:59:48Z"
+  },
+  {
+   "revision_id": "202009419-e8367161",
+   "content_sha256": "e83671613e64a4eb756cef6a21556027680c942f965e1666d2cad06ddc7fdb2d",
+   "ee_text": "배에 피하(피부밑) 지방이 많고 변비기가 있는 환자의 다음 증상 : 고혈압의 동반증상(두근거림, 어깨껼림, 홍조), 비만, 부기, 변비",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-12-31",
+   "first_observed_at": "2026-09-08T08:59:48Z",
+   "last_observed_at": "2026-09-08T08:59:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:48Z"
+}

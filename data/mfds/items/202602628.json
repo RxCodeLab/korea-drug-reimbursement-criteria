@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602628",
+ "item_name": "세피언스산250밀리그램(세피압테린), 세피언스산1000밀리그램(세피압테린)",
+ "entp_name": "베르토코리아유한책임회사",
+ "permit_date": "20260903",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286759]세피압테린|[M286759]세피압테린",
+ "main_item_ingr_eng": "Sepiapterin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602628",
+ "revisions": [
+  {
+   "revision_id": "202602628-87b36a39",
+   "content_sha256": "87b36a39c470c66ce06028ec6cf198a3211e9d1b6576c7dbd82baec137145de9",
+   "ee_text": "소아 및 성인 페닐케톤뇨증 환자의 고페닐알라닌혈증의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:43Z",
+   "last_observed_at": "2026-09-08T09:05:43Z",
+   "official_revision_date": "2026-09-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:43Z"
+}

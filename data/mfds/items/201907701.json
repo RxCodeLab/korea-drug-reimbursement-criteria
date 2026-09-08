@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907701",
+ "item_name": "오플론점안액(플루오로메톨론)",
+ "entp_name": "(주)오스코리아제약",
+ "permit_date": "20191104",
+ "cancel_date": "20241104",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051832]플루오로메톨론",
+ "main_item_ingr_eng": "Fluorometholone",
+ "edi_code": "",
+ "atc_code": "S01BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907701",
+ "revisions": [
+  {
+   "revision_id": "201907701-923c6312",
+   "content_sha256": "923c63126fdb497e406a6ff16074399289d2e73dbc2d9f2f17ae940f8c3217e8",
+   "ee_text": "외안부 및 전안부의 염증성 질환(안검염, 결막염, 각막염, 공막염, 상공막염, 홍채염, 홍채모양체염, 포도막염, 수술후 염증 등)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:57Z",
+   "last_observed_at": "2026-09-08T08:56:57Z",
+   "official_revision_date": "2019-11-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:57Z"
+}

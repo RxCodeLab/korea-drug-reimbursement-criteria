@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206042",
+ "item_name": "트리마젠질정500mg(클로트리마졸)(수출용)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20120706",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051543]클로트리마졸",
+ "main_item_ingr_eng": "Clotrimazole",
+ "edi_code": "",
+ "atc_code": "G01AF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206042",
+ "revisions": [
+  {
+   "revision_id": "201206042-79aae1b8",
+   "content_sha256": "79aae1b875c4d7609ae5af2df2516f7c38ac169d48dc79909967e269f06a7001",
+   "ee_text": "칸디다성 질염, 트리코모나스성 질염",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201206042/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:22Z",
+   "last_observed_at": "2026-09-08T08:45:22Z"
+  },
+  {
+   "revision_id": "201206042-75eea9a2",
+   "content_sha256": "75eea9a200375d35d545e5ed98e5f6ab1a75c7748871f91f81bfdd5ce280101f",
+   "ee_text": "(질좌제 : 정제) 칸디다성 질염, 트리코모나스성 질염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:22Z",
+   "last_observed_at": "2026-09-08T08:45:22Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:22Z"
+}

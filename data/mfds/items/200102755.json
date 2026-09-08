@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200102755",
+ "item_name": "알타딘정(로라타딘)(수출용)",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20010131",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082724]로라타딘",
+ "main_item_ingr_eng": "Loratadine",
+ "edi_code": "",
+ "atc_code": "R06AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102755",
+ "revisions": [
+  {
+   "revision_id": "200102755-fd3fd0e8",
+   "content_sha256": "fd3fd0e836fbcdffafcee925db73a31afcc39680b82c409ca559a41894f52b17",
+   "ee_text": "알러지성 비염(재채기, 코막힘, 가려움증, 눈의 작열감), 알러지성 피부질환(만성 담마진)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:29Z",
+   "last_observed_at": "2026-09-08T08:35:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:29Z"
+}

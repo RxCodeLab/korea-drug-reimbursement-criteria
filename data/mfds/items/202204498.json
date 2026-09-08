@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204498",
+ "item_name": "젬퍼리주(도스탈리맙)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20221214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283328]도스탈리맙",
+ "main_item_ingr_eng": "Dostarlimab",
+ "edi_code": "650003271",
+ "atc_code": "L01FF07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204498",
+ "revisions": [
+  {
+   "revision_id": "202204498-bd339ee9",
+   "content_sha256": "bd339ee92bf1b31b480ed5b2a40b334113734235e96aa2d7eab5699415038ab6",
+   "ee_text": "1. 새로 진단된 진행성 또는 재발성 자궁내막암이 있는 성인환자의 치료로서 카보플라틴 및 파클리탁셀과의 병용요법 2. 이전 백금기반 전신 화학요법의 치료 중이거나 치료 후 진행을 나타낸 재발성 또는 진행성 불일치 복구결함 (mismatch repair deficient, dMMR)/고빈도 현미부수체 불안정 (microsatellite instability-high, MSI-H) 자궁내막암이 있는 성인 환자의 치료",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:44Z",
+   "last_observed_at": "2026-09-08T09:01:44Z",
+   "official_revision_date": "2024-12-09"
+  },
+  {
+   "revision_id": "202204498-8054d161",
+   "content_sha256": "8054d1616be98f308fb17b2f54fdbe6e45afd395399dca47c0eae845a0711efa",
+   "ee_text": "1. 새로 진단된 진행성 또는 재발성 불일치 복구결함 (mismatch repair deficient, dMMR)/고빈도 현미부수체 불안정 (microsatellite instability-high, MSI-H) 자궁내막암이 있는 성인 환자의 치료로서 백금 기반 화학요법과의 병용요법 2. 이전 백금기반 전신 화학요법의 치료 중이거나 치료 후 진행을 나타낸 재발성 또는 진행성 불일치 복구결함 (mismatch repair deficient, dMMR)/고빈도 현미부수체 불안정 (microsatellite instability-high, MSI-H) 자궁내막암이 있는 성인 환자의 치료",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-03-07",
+   "first_observed_at": "2026-09-08T09:01:44Z",
+   "last_observed_at": "2026-09-08T09:01:44Z"
+  },
+  {
+   "revision_id": "202204498-af044953",
+   "content_sha256": "af04495399f4eb20b1a36e459ac5f1ae817c90a7dc17264aa73436ef5f40703f",
+   "ee_text": "이전 백금기반 전신 화학요법의 치료 중이거나 치료 후 진행을 나타낸 재발성 또는 진행성 불일치 복구결함 (mismatch repair deficient, dMMR)/고빈도 현미부수체 불안정 (microsatellite instability-high, MSI-H) 자궁내막암이 있는 성인 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-12-14",
+   "first_observed_at": "2026-09-08T09:01:44Z",
+   "last_observed_at": "2026-09-08T09:01:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:44Z"
+}

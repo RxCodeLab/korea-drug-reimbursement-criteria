@@ -7,11 +7,12 @@
  "permit_date": "19781123",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040006]감초|[M050752]생강|[M040071]대추|[M040523]작약|[M050037]계지",
+ "main_item_ingr": "[M040006]감초|[M040071]대추|[M040523]작약|[M050037]계지|[M050752]생강",
  "main_item_ingr_eng": "Cinnamomi Ramulus/Jujube/Licorice/Peony Root/Raw Ginger",
  "edi_code": "",
  "atc_code": "A03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197800337",
+ "history_fetched_at": "2026-08-28T13:23:38Z",
  "revisions": [
   {
    "revision_id": "197800337-4a1925d4",
@@ -19,9 +20,9 @@
    "ee_text": "복부팽만감이 있는 다음 증상 : 대변이 조금 나올 뿐 배변이 끝난 느낌이 없는 상태, 복통",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:23:38Z",
-   "last_observed_at": "2026-08-28T13:23:38Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:30Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:38Z"
+ ]
 }

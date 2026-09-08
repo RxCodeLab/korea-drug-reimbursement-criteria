@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302123",
+ "item_name": "아이라탐주사(피라세탐)(수출용)(수출명 : PIRAJECT INJ., PIRANJECT INJ.,AEYEROP Inj., SEOBA Inj.)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20030409",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101651]피라세탐",
+ "main_item_ingr_eng": "Piracetam",
+ "edi_code": "",
+ "atc_code": "N06BX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302123",
+ "revisions": [
+  {
+   "revision_id": "200302123-50246465",
+   "content_sha256": "5024646500ad274e47418e40fb7dd47ff575a3ebe7d8f41a7249b9b3832e65d7",
+   "ee_text": "고령자의 인지력 장애(집중력·기억력 장애) 증상의 개선",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:09Z",
+   "last_observed_at": "2026-09-08T08:37:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:09Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200308647",
+ "item_name": "가스토텍정100마이크로그램(미소프로스톨)",
+ "entp_name": "(주)비보존제약",
+ "permit_date": "20030628",
+ "cancel_date": "20250401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M257626]미소프로스톨 100배산",
+ "main_item_ingr_eng": "Misoprostol 1%",
+ "edi_code": "",
+ "atc_code": "A02BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308647",
+ "revisions": [
+  {
+   "revision_id": "200308647-b9ba71ca",
+   "content_sha256": "b9ba71ca0c3db2650264500aed20f13d5fb90c90938dd7dc9fe3c6c2abebc089",
+   "ee_text": "위.십이지장궤양, 비스테로이드성 소염진통제 투여로 인한 위.십이지장염 및 위.십이지장 궤양의 예방과 치료",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:25Z",
+   "last_observed_at": "2026-09-08T08:37:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:25Z"
+}

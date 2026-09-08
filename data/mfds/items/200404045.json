@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200404045",
+ "item_name": "나부메정500밀리그람(나부메톤)(수출용)",
+ "entp_name": "한국프라임제약(주)",
+ "permit_date": "20041101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084590]나부메톤",
+ "main_item_ingr_eng": "Nabumetone",
+ "edi_code": "",
+ "atc_code": "M01AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404045",
+ "revisions": [
+  {
+   "revision_id": "200404045-0832f703",
+   "content_sha256": "0832f7034c3b0a577a85fe2503375df520ef88dce9f572c2a0186e6d80482a56",
+   "ee_text": "소염제 및 진통제의 투여를 요하는 골관절염, 류마티스관절염, 수술후 통증",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:29Z",
+   "last_observed_at": "2026-09-08T08:38:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:29Z"
+}

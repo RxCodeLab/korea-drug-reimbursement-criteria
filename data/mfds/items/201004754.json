@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004754",
+ "item_name": "에피언트정10밀리그램(프라수그렐염산염)",
+ "entp_name": "한국다이이찌산쿄(주)",
+ "permit_date": "20100729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250510]프라수그렐염산염",
+ "main_item_ingr_eng": "Prasugrel Hydrochloride",
+ "edi_code": "680900220",
+ "atc_code": "B01AC22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004754",
+ "revisions": [
+  {
+   "revision_id": "201004754-cbf3ded0",
+   "content_sha256": "cbf3ded0d9b4a3364ce50abb6f23878705d407da722d8a7fea3ebaba9072d385",
+   "ee_text": "관상동맥중재술(percutaneous coronary intervention PCI)을 실시하였거나 실시할 다음의 급성관상동맥증후군 환자에서 스텐트 혈전증을 포함한 혈전성 심혈관 사건(심혈관 질환으로 인한 사망, 치명적이지 않은 심근경색 또는 치명적이지 않은 뇌졸중)의 발생율 감소 - 불안정형 협심증(UA) 또는 비-ST 분절 상승 심근경색(NSTEMI) 환자 - 일차적 또는 지연 관상동맥중재술(primary or delayed PCI)을 받는 ST 분절 상승 심근경색(STEMI) 환자",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:10Z",
+   "last_observed_at": "2026-09-08T08:44:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:10Z"
+}

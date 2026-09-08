@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403383",
+ "item_name": "그린모노주250단위(건조FVⅢ:C단클론항체정제사람혈액응고제VⅢ:C인자)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20041115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M225567]FVIII:C단클론항체정제사람혈액응고제VIII:C인자",
+ "main_item_ingr_eng": "Monoclonal Antibody-purified, Freeze-dried Human Blood Coagulation Factor Ⅷ:C",
+ "edi_code": "643600071",
+ "atc_code": "B02BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403383",
+ "revisions": [
+  {
+   "revision_id": "200403383-b2bd47ff",
+   "content_sha256": "b2bd47ffd0920f75e96a3a319f63ede6f06c07fee90cfb12dfd2a7b2a4b75305",
+   "ee_text": "혈우병A(전형적인 혈우병)의 출혈 에피소드 예방 및 치료",
+   "ee_doc_id": "27",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:20Z",
+   "last_observed_at": "2026-09-08T08:38:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:20Z"
+}

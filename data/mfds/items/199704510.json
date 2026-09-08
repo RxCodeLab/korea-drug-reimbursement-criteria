@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199704510",
+ "item_name": "치료용알러젠추출물주사",
+ "entp_name": "(주)원메디칼",
+ "permit_date": "19971224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M216114]다음의치료용꽃가루추출항원|[M216116]다음의치료용곰팡이추출항원및깜부기추출항원|[M216117]다음의치료용곤충추출항원|[M216118]다음의치료용동물의털추출항원및흡입성추출항원",
+ "main_item_ingr_eng": "Therapeutic Animal Fur and Inhalation Extract Antigen/Therapeutic Insect Extract Antigen/Therapeutic Mold and Smut Extract Antigen/Therapeutic Pollen Extract Antigen",
+ "edi_code": "",
+ "atc_code": "V04CL",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199704510",
+ "revisions": [
+  {
+   "revision_id": "199704510-755df466",
+   "content_sha256": "755df466f70e081f5372e3076e02adff4771372504465d0550184a15939ac9cd",
+   "ee_text": "알레르기성천식,알레르기성비염등 알레르기성 질환의 치료제(원인 치료제)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:32Z",
+   "last_observed_at": "2026-09-08T08:31:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:32Z"
+}

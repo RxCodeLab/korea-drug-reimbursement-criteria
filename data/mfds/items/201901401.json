@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901401",
+ "item_name": "에이프로젠쌍금탕액",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20190307",
+ "cancel_date": "20240307",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040006]감초|[M040070]당귀|[M040202]반하|[M040523]작약|[M040538]진피|[M040548]창출|[M040550]천궁|[M040790]황기|[M040813]후박|[M050036]육계|[M050048]곽향|[M051364]숙지황",
+ "main_item_ingr_eng": "Agastachis Herba/Angelica Gigas Root/Astragalus Root/Atractylodes Rhizome/Cinnamon Bark/Citrus Unshiu Peel/Cnidium Rhizome/Licorice/Magnolia Bark/Peony Root/Pinellia Tuber/Prepared Rehmannia Root",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901401",
+ "revisions": [
+  {
+   "revision_id": "201901401-52ee33d5",
+   "content_sha256": "52ee33d531e554850b5efa6cd967478e9fcd8efd32b7b391ef13c357227ba7aa",
+   "ee_text": "체력저하로 인한 감기, 몸살, 발열, 두통",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:27Z",
+   "last_observed_at": "2026-09-08T08:54:27Z",
+   "official_revision_date": "2019-03-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:27Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106657",
+ "item_name": "파라딘점안액0.7%(올로파타딘염산염)(1회용), 파라딘점안액0.7%(올로파타딘염산염)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20210927",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233188]올로파타딘염산염|[M233188]올로파타딘염산염",
+ "main_item_ingr_eng": "Olopatadine Hydrochloride",
+ "edi_code": "649606131,649606141",
+ "atc_code": "S01GX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106657",
+ "revisions": [
+  {
+   "revision_id": "202106657-978c0b90",
+   "content_sha256": "978c0b90873a9a05e5413f26dc4503fcaf59cf5d9dc135f3ab356a270815df23",
+   "ee_text": "알레르기성 결막염과 관련된 안구 가려움증의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:37Z",
+   "last_observed_at": "2026-09-08T09:00:37Z",
+   "official_revision_date": "2021-09-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:37Z"
+}

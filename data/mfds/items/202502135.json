@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502135",
+ "item_name": "판테올크림(D-판테놀)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20250818",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202582]D-판테놀",
+ "main_item_ingr_eng": "Dexpanthenol",
+ "edi_code": "",
+ "atc_code": "D03AX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502135",
+ "revisions": [
+  {
+   "revision_id": "202502135-0039d593",
+   "content_sha256": "0039d593e3eef33caae90e85594a121bba65d831b8388ee7e43733dd257271cb",
+   "ee_text": "상처, 화상, 찢긴 상처(수유기 중의 유두균열(갈라짐) 등), 욕창, 급ㆍ만성 피부염, 습진, 피부 궤양, 기저귀 발진, 햇볕에 탄 곳(일광피부염)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:11Z",
+   "last_observed_at": "2026-09-08T09:04:11Z",
+   "official_revision_date": "2025-08-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:11Z"
+}

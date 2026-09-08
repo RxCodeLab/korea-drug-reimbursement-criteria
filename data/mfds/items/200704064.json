@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200704064",
+ "item_name": "지노베타딘질좌제(포비돈요오드)",
+ "entp_name": "에이치엘비제약(주)",
+ "permit_date": "20070411",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051757]포비돈요오드",
+ "main_item_ingr_eng": "Povidone Iodine",
+ "edi_code": "647300950",
+ "atc_code": "G01AX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704064",
+ "revisions": [
+  {
+   "revision_id": "200704064-053463ed",
+   "content_sha256": "053463edda6d4c0ab6461540d1e9d818e4e95c06a7bbd3908ded9f596a599c3e",
+   "ee_text": "ㆍ다음 경우의 국소치료 : 칸디다성 질염, 트리코모나스성 질염, 비특이성 및 혼합감염에 의한 질염, 산부인과 수술전 처치",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:22Z",
+   "last_observed_at": "2026-09-08T08:41:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:22Z"
+}

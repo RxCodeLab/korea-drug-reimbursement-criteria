@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109391",
+ "item_name": "젤존팝카타플라스마(플루르비프로펜)",
+ "entp_name": "(주)오현파마코푸레이션",
+ "permit_date": "20010628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089049]플루르비프로펜",
+ "main_item_ingr_eng": "Flurbiprofen",
+ "edi_code": "",
+ "atc_code": "M02AA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109391",
+ "revisions": [
+  {
+   "revision_id": "200109391-2e03206d",
+   "content_sha256": "2e03206d520b6b20591f6afd5ff23444835a72e2a2d0c71090a9ae40712f4cf8",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) : 퇴행성관절염(골관절염), 어깨관절주위염, 건염(힘줄염)ㆍ건초염(힘줄윤활막염), 상완골(위팔뼈)상과염[테니스엘보우 등], 근육통, 외상(상처)후의 종창(부기)ㆍ동통(통증)",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:55Z",
+   "last_observed_at": "2026-09-08T08:35:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:55Z"
+}

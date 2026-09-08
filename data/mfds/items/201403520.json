@@ -7,7 +7,7 @@
  "permit_date": "20140731",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M244062]카르복시메틸셀룰로오스나트륨|[M070865]알긴산",
+ "main_item_ingr": "[M070865]알긴산|[M244062]카르복시메틸셀룰로오스나트륨",
  "main_item_ingr_eng": "Alginic Acid/Carboxymethylcellulose Sodium",
  "edi_code": "",
  "atc_code": "A08AX",
@@ -20,7 +20,8 @@
    "ee_text": "음식물 섭취 감소를 통한 체중감량의 보조요법",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201403520/EE",
    "first_observed_at": "2026-08-27T12:06:50Z",
-   "last_observed_at": "2026-08-28T13:24:37Z"
+   "last_observed_at": "2026-09-08T08:47:25Z",
+   "normalizer_version": 3
   }
  ]
 }

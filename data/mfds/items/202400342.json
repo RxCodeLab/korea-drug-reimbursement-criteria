@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400342",
+ "item_name": "씨티씨글루타티온구강용해필름105밀리그램(L-글루타티온(환원형))(수출용)",
+ "entp_name": "(주)씨티씨바이오",
+ "permit_date": "20240216",
+ "cancel_date": "20250210",
+ "status": "취하",
+ "main_item_ingr": "[M276196]L-글루타티온",
+ "main_item_ingr_eng": "L-Glutathione",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400342",
+ "revisions": [
+  {
+   "revision_id": "202400342-e9694517",
+   "content_sha256": "e96945173eb120c64166c2f38981a2a0f2b8f423895263e6bc35652d3a164288",
+   "ee_text": "약물중독, 자가중독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:43Z",
+   "last_observed_at": "2026-09-08T09:02:43Z",
+   "official_revision_date": "2024-02-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:43Z"
+}

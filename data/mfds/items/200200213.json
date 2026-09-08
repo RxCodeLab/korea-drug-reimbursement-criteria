@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200213",
+ "item_name": "본키서방정(칼시트리올)(수출용)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20020104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082905]칼시트리올",
+ "main_item_ingr_eng": "Calcitriol",
+ "edi_code": "",
+ "atc_code": "A11CC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200213",
+ "revisions": [
+  {
+   "revision_id": "200200213-10c300d7",
+   "content_sha256": "10c300d7f72389ad36751d2180d362bac8511b5fee904055f59009b77b88ac81",
+   "ee_text": "* 만성 신부전증 환자, 특히 혈액투석 환자의 신성골이영양증 * 골다공증 * 부갑상선기능저하증(수술후, 특발성 도는 의사부갑상선기능저하증) * 구루병, 골연화증(비타민D 의존성 구루병, 저인혈증성 비타민D 저항성 구루병)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:01Z",
+   "last_observed_at": "2026-09-08T08:36:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:01Z"
+}

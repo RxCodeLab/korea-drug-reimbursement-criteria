@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300245",
+ "item_name": "보술리프정400밀리그램(보수티닙일수화물)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20230112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266097]보수티닙일수화물",
+ "main_item_ingr_eng": "Bosutinib Monohydrate",
+ "edi_code": "648903780",
+ "atc_code": "L01EA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300245",
+ "revisions": [
+  {
+   "revision_id": "202300245-c7677862",
+   "content_sha256": "c767786204eb54ebe938c07bb0e825993663799f07d0ae3c536a98539eba7e86",
+   "ee_text": "이 약은 다음과 같은 성인환자의 치료에 사용한다. 1. 새로 진단된 만성기(CP)의 필라델피아염색체 양성 만성골수성백혈병(Ph+ CML) 2. 이전요법에 내성 또는 불내약성을 보이는 만성기, 가속기(AP), 또는 급성기(BP)의 필라델피아염색체 양성 만성골수성백혈병(Ph+ CML)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:50Z",
+   "last_observed_at": "2026-09-08T09:01:50Z",
+   "official_revision_date": "2023-01-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:50Z"
+}

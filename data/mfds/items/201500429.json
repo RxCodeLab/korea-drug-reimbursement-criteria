@@ -12,6 +12,7 @@
  "edi_code": "628800500",
  "atc_code": "G04CA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500429",
+ "history_fetched_at": "2026-08-27T13:16:03Z",
  "revisions": [
   {
    "revision_id": "201500429-740ac324",
@@ -19,9 +20,9 @@
    "ee_text": "양성전립선비대에 의한 배뇨장애, 고혈압(경증-중등도)",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-27T13:16:03Z",
-   "last_observed_at": "2026-08-27T13:16:03Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:48:23Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:16:03Z"
+ ]
 }

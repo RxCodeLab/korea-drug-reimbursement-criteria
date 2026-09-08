@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201110541",
+ "item_name": "엠빅스에스구강붕해필름50밀리그램(미로데나필)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20111201",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253534]미로데나필",
+ "main_item_ingr_eng": "Mirodenafil",
+ "edi_code": "",
+ "atc_code": "G04BE",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110541",
+ "revisions": [
+  {
+   "revision_id": "201110541-6fd9b14e",
+   "content_sha256": "6fd9b14ee727a0985caca7c0488c1a773a97b94635a6b43506389075ef777a3c",
+   "ee_text": "발기부전의 치료",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:04Z",
+   "last_observed_at": "2026-09-08T08:45:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:04Z"
+}

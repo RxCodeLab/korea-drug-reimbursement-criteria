@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005642",
+ "item_name": "잇티플란트페이스트(에녹솔론)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20200804",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215133]에녹솔론",
+ "main_item_ingr_eng": "Enoxolone",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005642",
+ "revisions": [
+  {
+   "revision_id": "202005642-db1dee64",
+   "content_sha256": "db1dee64bcaa029ef6ec890d3233d10126d993f3b91e4ba790bebfa610b26b3c",
+   "ee_text": "1. 주효능 효과 다음 질환에 의한 통증의 완화: 치은염(잇몸염), 치은출혈, 보철(의치)에 의한 염증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:20Z",
+   "last_observed_at": "2026-09-08T08:59:20Z",
+   "official_revision_date": "2020-08-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:20Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005417",
+ "item_name": "파메헥솔주350(이오헥솔)",
+ "entp_name": "(주)유앤생명과학",
+ "permit_date": "20200724",
+ "cancel_date": "20250227",
+ "status": "취하",
+ "main_item_ingr": "[M088960]이오헥솔",
+ "main_item_ingr_eng": "Iohexol",
+ "edi_code": "",
+ "atc_code": "V08AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005417",
+ "revisions": [
+  {
+   "revision_id": "202005417-e09aecf8",
+   "content_sha256": "e09aecf88ae0a34bcb71513769948e13836ce10cac78b5261a7dd85319b921e6",
+   "ee_text": "1. 혈관조영 2. 정맥요로조영(IVP) 3. CT 조영증강 4. 체강조영 : 관절소영, 소화관조영",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:17Z",
+   "last_observed_at": "2026-09-08T08:59:17Z",
+   "official_revision_date": "2020-07-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:17Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303370",
+ "item_name": "유비콜-에스(경구용불활화콜레라백신)(수출용)",
+ "entp_name": "(주)유바이오로직스",
+ "permit_date": "20231219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M116431]불활화콜레라균(V.Cholerae O1 Inaba Phil 6973 El Tor Biotype, Formalin Inactivated)|[M116432]불활화콜레라균(V.Cholerae O1 Ogawa Cairo 50 Classical Biotype, Formalin Inactivated)",
+ "main_item_ingr_eng": "V.Cholerae O1 Inaba Phil 6973 El Tor Biotype, Formalin Inactivated/V.Cholerae O1 Ogawa Cairo 50 Classical Biotype, Formalin Inactivated",
+ "edi_code": "",
+ "atc_code": "J07AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303370",
+ "revisions": [
+  {
+   "revision_id": "202303370-31591b7c",
+   "content_sha256": "31591b7c04b0a3475e1c9eeab8b0a3df5affec608adf83ed2fe97aa197c8579c",
+   "ee_text": "1세 이상의 소아, 청소년 및 성인에서 Vibrio cholerae serogroup O1에 의해 발병되는 콜레라의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:34Z",
+   "last_observed_at": "2026-09-08T09:02:34Z",
+   "official_revision_date": "2023-12-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:34Z"
+}

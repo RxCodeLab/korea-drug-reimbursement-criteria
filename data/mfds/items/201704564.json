@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201704564",
+ "item_name": "셀레뉴민주(아셀렌산)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20170622",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207833]아셀렌산",
+ "main_item_ingr_eng": "Selenious Acid",
+ "edi_code": "",
+ "atc_code": "B05XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704564",
+ "revisions": [
+  {
+   "revision_id": "201704564-ef63c52a",
+   "content_sha256": "ef63c52a85a8749a480fe743c455c890ccbf1b786f081bd99ed95a1aee344554",
+   "ee_text": "비경구영양요법(TPN)시 셀레늄 보충",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:59Z",
+   "last_observed_at": "2026-09-08T08:51:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:59Z"
+}

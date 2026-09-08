@@ -7,7 +7,7 @@
  "permit_date": "20060206",
  "cancel_date": "20231127",
  "status": "행정(취소)",
- "main_item_ingr": "[M223091]시프로플록사신염산염수화물|[M040818]히드로코르티손",
+ "main_item_ingr": "[M040818]히드로코르티손|[M223091]시프로플록사신염산염수화물",
  "main_item_ingr_eng": "Ciprofloxacin Hydrochloride Hydrate/Hydrocortisone",
  "edi_code": "",
  "atc_code": "S02CA03",
@@ -20,7 +20,8 @@
    "ee_text": "Staphylococcus aureus, Proteus mirabilis, Pseudomonas aeruginosa 등에 의한 급성 외이염의 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200600486/EE",
    "first_observed_at": "2026-08-27T13:22:21Z",
-   "last_observed_at": "2026-08-28T13:24:10Z"
+   "last_observed_at": "2026-09-08T08:39:52Z",
+   "normalizer_version": 3
   }
  ]
 }

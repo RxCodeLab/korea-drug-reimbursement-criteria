@@ -3,7 +3,7 @@
  "complete": true,
  "item_seq": "202400436",
  "item_name": "테라엘정5밀리그램(테라조신염산염수화물)",
- "entp_name": "지엘파마(주)",
+ "entp_name": "지엘팜텍(주)",
  "permit_date": "20240229",
  "cancel_date": "",
  "status": "정상",
@@ -12,6 +12,7 @@
  "edi_code": "649703090",
  "atc_code": "G04CA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400436",
+ "history_fetched_at": "2026-08-27T13:24:13Z",
  "revisions": [
   {
    "revision_id": "202400436-740ac324",
@@ -19,9 +20,9 @@
    "ee_text": "양성전립선비대에 의한 배뇨장애, 고혈압(경증-중등도)",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:24:13Z",
-   "last_observed_at": "2026-08-27T13:24:13Z",
-   "official_revision_date": "2024-02-29"
+   "last_observed_at": "2026-09-08T09:02:46Z",
+   "official_revision_date": "2024-02-29",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:24:13Z"
+ ]
 }

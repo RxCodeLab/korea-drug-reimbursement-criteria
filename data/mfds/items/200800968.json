@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200800968",
+ "item_name": "나라돌주500(설프로스톤)",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20080124",
+ "cancel_date": "20231103",
+ "status": "취하",
+ "main_item_ingr": "[M089216]설프로스톤",
+ "main_item_ingr_eng": "Sulprostone",
+ "edi_code": "",
+ "atc_code": "G02AD05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800968",
+ "revisions": [
+  {
+   "revision_id": "200800968-73997559",
+   "content_sha256": "73997559872403fec1468500f3e61d11c17908c73fd6946b706b572a35a26e68",
+   "ee_text": "1. 치료목적의 유산유도 및 태아의 자궁내 사망시 분만유도 2. 출산 후 이완성 자궁출혈",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:12Z",
+   "last_observed_at": "2026-09-08T08:42:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:12Z"
+}

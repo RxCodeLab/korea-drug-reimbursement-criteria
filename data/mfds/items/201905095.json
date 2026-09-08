@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905095",
+ "item_name": "엔티코프캡슐300밀리그램(테오브로민)",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20190722",
+ "cancel_date": "20240722",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M253552]테오브로민",
+ "main_item_ingr_eng": "Theobromine",
+ "edi_code": "",
+ "atc_code": "R03DA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905095",
+ "revisions": [
+  {
+   "revision_id": "201905095-0c6ed8b8",
+   "content_sha256": "0c6ed8b8ceb67e7efdbcd4646b05f9c48e27b61842ee5f7d9ec726a028c3335f",
+   "ee_text": "하기 질환으로 인한 기침의 완화 1) 비염, 부비동염 또는 비인후염에 의한 후비루 2) 급∙만성기관지염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:53Z",
+   "last_observed_at": "2026-09-08T08:55:53Z",
+   "official_revision_date": "2019-07-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:53Z"
+}

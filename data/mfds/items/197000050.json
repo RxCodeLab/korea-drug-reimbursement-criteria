@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197000050",
+ "item_name": "자이로릭정(알로푸리놀)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "19700925",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040387]알로푸리놀",
+ "main_item_ingr_eng": "Allopurinol",
+ "edi_code": "643901390",
+ "atc_code": "M04AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197000050",
+ "revisions": [
+  {
+   "revision_id": "197000050-d1c64b81",
+   "content_sha256": "d1c64b81d38a62b1854812438d69a1e384919dd5e37620b46766eab8d4d9002e",
+   "ee_text": "(정제) 통풍, 고뇨산혈증, 요산신장병증",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:16Z",
+   "last_observed_at": "2026-09-08T08:26:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:16Z"
+}

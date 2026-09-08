@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100480",
+ "item_name": "정우사칠탕엑스정",
+ "entp_name": "정우신약(주)",
+ "permit_date": "20011013",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M104750]사칠탕건조엑스(10.1→1)",
+ "main_item_ingr_eng": "Sachiltang Dried Extract(10.1→1)",
+ "edi_code": "",
+ "atc_code": "N07XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100480",
+ "revisions": [
+  {
+   "revision_id": "200100480-c83be754",
+   "content_sha256": "c83be7547c59df37015affc973478af3047f3a44c0e4fa51681ac808bcae6ee0",
+   "ee_text": "기분이 우울하고 인후(목구멍), 식도부에 이물감이 있고 때로는 숨참, 어지러움, 구역 등을 동반하는 다음 증상 : 불안신경증, 신경성위염, 입덧, 기침, 쉰목소리",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:54Z",
+   "last_observed_at": "2026-09-08T08:34:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:54Z"
+}

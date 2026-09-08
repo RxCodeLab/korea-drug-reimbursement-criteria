@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203172",
+ "item_name": "세프로틴주(사람단백질씨)",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20220802",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282972]사람단백질씨|[M282972]사람단백질씨",
+ "main_item_ingr_eng": "Human Protein C",
+ "edi_code": "",
+ "atc_code": "B01AD12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203172",
+ "revisions": [
+  {
+   "revision_id": "202203172-40781c44",
+   "content_sha256": "40781c44ee0a9c40a876faedd0aecf48efa6276912141225bd8cbd793c5c36f5",
+   "ee_text": "소아 및 성인의 중증의 선천성 단백질 C 결핍증 환자의 정맥혈전증 및 전격자색반병 예방 및 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:29Z",
+   "last_observed_at": "2026-09-08T09:01:29Z",
+   "official_revision_date": "2022-08-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:29Z"
+}

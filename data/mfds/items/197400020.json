@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197400020",
+ "item_name": "한풍소건중과립(계지가작약탕엑스과립)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19741125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099805]계지가작약탕연조엑스",
+ "main_item_ingr_eng": "Gyejigajakyaktang Soft Extract",
+ "edi_code": "",
+ "atc_code": "A03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400020",
+ "revisions": [
+  {
+   "revision_id": "197400020-4a1925d4",
+   "content_sha256": "4a1925d45270e2ce29f4560a056b356d36413ab79bc6a73ed7c28d46e440ad44",
+   "ee_text": "복부팽만감이 있는 다음 증상 : 대변이 조금 나올 뿐 배변이 끝난 느낌이 없는 상태, 복통",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:19Z",
+   "last_observed_at": "2026-09-08T08:26:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:19Z"
+}

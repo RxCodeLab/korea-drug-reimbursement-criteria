@@ -7,20 +7,13 @@
  "permit_date": "19880123",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M204304]피리독신염산염|[M096429]시아노코발라민|[M223289]폴산|[M223258]티아민염산염|[M258994]아스코르브산|[M223240]토코페롤아세테이트|[M040397]에르고칼시페롤|[M240076]판토텐산칼슘|[M040064]니코틴산아미드|[M222991]레티놀팔미테이트",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040397]에르고칼시페롤|[M096429]시아노코발라민|[M204304]피리독신염산염|[M222991]레티놀팔미테이트|[M223240]토코페롤아세테이트|[M223258]티아민염산염|[M223289]폴산|[M240076]판토텐산칼슘|[M258994]아스코르브산",
  "main_item_ingr_eng": "Ascorbic Acid/Calcium Pantothenate/Cyanocobalamin/Ergocalciferol/Folic Acid/Nicotinamide/Pyridoxine Hydrochloride/Retinol Palmitate/Riboflavin/Thiamine Hydrochloride/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198801646",
+ "history_fetched_at": "2026-09-08T08:27:38Z",
  "revisions": [
-  {
-   "revision_id": "198801646-67113f96",
-   "content_sha256": "67113f96d925b8ca631843df4d268a9bf25dd564f99344538b7eb5d69397f013",
-   "ee_text": "1 , B 2 , B 6 , C의 보급\">",
-   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198801646/EE",
-   "first_observed_at": "2026-08-28T13:23:42Z",
-   "last_observed_at": "2026-08-28T13:23:42Z"
-  },
   {
    "revision_id": "198801646-940e3671",
    "content_sha256": "940e367150fb63e73c8fefe9c192407b5a0211a08ff468f0364f0e3c438ceb82",
@@ -28,8 +21,16 @@
    "ee_doc_id": "5",
    "official_revision_date": "2017-09-23",
    "first_observed_at": "2026-08-28T13:23:42Z",
+   "last_observed_at": "2026-09-08T08:27:38Z",
+   "normalizer_version": 3
+  },
+  {
+   "revision_id": "198801646-67113f96",
+   "content_sha256": "67113f96d925b8ca631843df4d268a9bf25dd564f99344538b7eb5d69397f013",
+   "ee_text": "1 , B 2 , B 6 , C의 보급\">",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198801646/EE",
+   "first_observed_at": "2026-08-28T13:23:42Z",
    "last_observed_at": "2026-08-28T13:23:42Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:42Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200610732",
+ "item_name": "아박심80U소아용주(A형간염백신)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20060718",
+ "cancel_date": "20250221",
+ "status": "취하",
+ "main_item_ingr": "[M212802]불활화A형간염바이러스(바이러스주:GBM주, 세포주:MRC 5)|[M212802]불활화A형간염바이러스(바이러스주:GBM주, 세포주:MRC 5)|[M212802]불활화A형간염바이러스(바이러스주:GBM주, 세포주:MRC 5)",
+ "main_item_ingr_eng": "Inactivated Hepatitis A Virus (Strain: GBM, Cell Strain: MRC 5)",
+ "edi_code": "",
+ "atc_code": "J07BC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200610732",
+ "revisions": [
+  {
+   "revision_id": "200610732-2853cdf0",
+   "content_sha256": "2853cdf040642628253b2be03c3a2674e67bcd698389d1ef68dfd4fa97278cc3",
+   "ee_text": "만 1～15세의 소아에서의 A형간염의 예방",
+   "ee_doc_id": "35",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:40Z",
+   "last_observed_at": "2026-09-08T08:40:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:40Z"
+}

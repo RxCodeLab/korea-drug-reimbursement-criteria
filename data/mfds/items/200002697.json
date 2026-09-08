@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "R05CB01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002697",
+ "history_fetched_at": "2026-08-28T13:23:55Z",
  "revisions": [
   {
-   "revision_id": "200002697-06e627d8",
-   "content_sha256": "06e627d87744db12ad93e2a04260ac67962369b047df4a147b77f7d035eda567",
-   "ee_text": "1) 다음 질환에서의 객담배출곤란 : 급·만성기관지염, 기관지확장증, 천식성기관지염, 기관지천식, 세기관지염, 낭성섬유증 2) 인·후두염, 부비강염, 삼출성 및 장액성중이염",
+   "revision_id": "200002697-4bdca187",
+   "content_sha256": "4bdca1870c775b66bf0c08e200acea6a128022b51da7a511f25b2b5d98a9075f",
+   "ee_text": "1. 주효능 효과 1) 다음 질환에서의 객담배출곤란 : 급·만성기관지염, 기관지확장증, 천식성기관지염, 기관지천식, 세기관지염, 낭성섬유증 2) 인·후두염, 부비강염, 삼출성 및 장액성중이염",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:23:55Z",
-   "last_observed_at": "2026-08-28T13:23:55Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:34:00Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:55Z"
+ ]
 }

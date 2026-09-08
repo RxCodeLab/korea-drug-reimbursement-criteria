@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199001305",
+ "item_name": "지겔트라현탁액",
+ "entp_name": "(주)그린제약",
+ "permit_date": "19900224",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M227778]디메티콘|[M256451]구아야줄렌",
+ "main_item_ingr_eng": "Dimethicone/Guaiazulene",
+ "edi_code": "",
+ "atc_code": "A02X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001305",
+ "revisions": [
+  {
+   "revision_id": "199001305-71b1cc4e",
+   "content_sha256": "71b1cc4e74fdcf885af41fb2120f7cc2f03150ef9b6d90d474105ce9c0a6e5bb",
+   "ee_text": "위염, 식도염, 소화불량, 가슴쓰림, 열공(구멍)헤르니아(탈장), 복부(배부분)팽만감",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:03Z",
+   "last_observed_at": "2026-09-08T08:28:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:03Z"
+}

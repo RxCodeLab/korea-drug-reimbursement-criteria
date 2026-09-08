@@ -7,11 +7,12 @@
  "permit_date": "20200106",
  "cancel_date": "20250106",
  "status": "유효기간만료",
- "main_item_ingr": "[M051015]알란토인|[M202582]D-판테놀|[M223240]토코페롤아세테이트|[M100227]농글리세린|[M040108]디펜히드라민",
+ "main_item_ingr": "[M040108]디펜히드라민|[M051015]알란토인|[M100227]농글리세린|[M202582]D-판테놀|[M223240]토코페롤아세테이트",
  "main_item_ingr_eng": "Allantoin/Concentrated Glycerin/Dexpanthenol/Diphenhydramine/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "D02AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000083",
+ "history_fetched_at": "2026-08-27T12:30:15Z",
  "revisions": [
   {
    "revision_id": "202000083-f31f8e9d",
@@ -19,9 +20,9 @@
    "ee_text": "살갗이 튼 곳, 추위로 인한 손발의 살갗의 틈, 동상",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:30:15Z",
-   "last_observed_at": "2026-08-27T12:30:15Z",
-   "official_revision_date": "2020-01-06"
+   "last_observed_at": "2026-09-08T08:57:26Z",
+   "official_revision_date": "2020-01-06",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:30:15Z"
+ ]
 }

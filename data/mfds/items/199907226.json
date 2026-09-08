@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199907226",
+ "item_name": "로세릴네일라카(아모롤핀염산염)",
+ "entp_name": "갈더마코리아(주)",
+ "permit_date": "19990712",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252763]아모롤핀염산염",
+ "main_item_ingr_eng": "Amorolfine Hydrochloride",
+ "edi_code": "655700102,655700103",
+ "atc_code": "D01AE16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907226",
+ "revisions": [
+  {
+   "revision_id": "199907226-49d89a76",
+   "content_sha256": "49d89a76ba1676798ed52df7dafd85aa0d13a09e43d27ffabb537256985d4ece",
+   "ee_text": "피부사상균, 효모균 및 곰팡이에 의한 조갑진균증 (감염부위가 조갑 표면의 80% 이하인 경우)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199907226/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:23Z",
+   "last_observed_at": "2026-09-08T08:33:23Z"
+  },
+  {
+   "revision_id": "199907226-5eabda46",
+   "content_sha256": "5eabda463752e6af022ae4fd00fe923875597046bc9f5bce7a0f8f5b7282746a",
+   "ee_text": "(네일라카) 피부사상균, 효모균 및 곰팡이에 의한 조갑진균증 (감염부위가 조갑 표면의 80% 이하인 경우)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:33:23Z",
+   "last_observed_at": "2026-09-08T08:33:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:23Z"
+}

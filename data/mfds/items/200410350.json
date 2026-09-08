@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410350",
+ "item_name": "디페렐린피알주11.25밀리그람(트립토렐린파모산염)",
+ "entp_name": "입센코리아(주)",
+ "permit_date": "20041022",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261389]트립토렐린파모산염",
+ "main_item_ingr_eng": "Triptorelin Pamoate",
+ "edi_code": "681400041",
+ "atc_code": "L02AE04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410350",
+ "revisions": [
+  {
+   "revision_id": "200410350-cc6bed91",
+   "content_sha256": "cc6bed91e42724d82f4d88ce48ea15702b21b52e4b10043eda88e6eeff2a7bb4",
+   "ee_text": "1. 호르몬의존성 국소진행성 또는 전이성 전립선암 2. 생식기 및 외부 생식기의 자궁내막증(1～4단계) 3. 중추성 성 조숙증",
+   "ee_doc_id": "28",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:41Z",
+   "last_observed_at": "2026-09-08T08:38:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:41Z"
+}

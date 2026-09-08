@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199901622",
+ "item_name": "유로메스주(메스나)(수출용)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "19990127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088537]메스나",
+ "main_item_ingr_eng": "Mesna",
+ "edi_code": "",
+ "atc_code": "V03AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901622",
+ "revisions": [
+  {
+   "revision_id": "199901622-a7bce20f",
+   "content_sha256": "a7bce20f75b694be66c2453878bdd92e80294aa9ce3da398f02e872ef1de81b6",
+   "ee_text": "옥사자포스포린계 항암제(시클로포스파미드, 이포스파미드 등)에 의한 요로독성 방지",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:44Z",
+   "last_observed_at": "2026-09-08T08:32:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:44Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501821",
+ "item_name": "이모젭주[일본뇌염 생바이러스 백신(유전자재조합)]",
+ "entp_name": "(주)한독",
+ "permit_date": "20150403",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261839]일본뇌염 생바이러스(유전자재조합)(바이러스주: SA14-14-2)",
+ "main_item_ingr_eng": "Live Attenuated Japanese Encephalitis Virus (rDNA, Strain: SA14-14-2)",
+ "edi_code": "",
+ "atc_code": "J07BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501821",
+ "revisions": [
+  {
+   "revision_id": "201501821-48577ff5",
+   "content_sha256": "48577ff528404dcf06feb9eb9a469c49f562aaec304dbacb8cc5fb5c2cb9e8cb",
+   "ee_text": "일본뇌염의 예방",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:46Z",
+   "last_observed_at": "2026-09-08T08:48:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:46Z"
+}

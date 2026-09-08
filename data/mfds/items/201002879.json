@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201002879",
+ "item_name": "비티오나부메톤정(수출용)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20100420",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M084590]나부메톤",
+ "main_item_ingr_eng": "Nabumetone",
+ "edi_code": "",
+ "atc_code": "M01AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002879",
+ "revisions": [
+  {
+   "revision_id": "201002879-0832f703",
+   "content_sha256": "0832f7034c3b0a577a85fe2503375df520ef88dce9f572c2a0186e6d80482a56",
+   "ee_text": "소염제 및 진통제의 투여를 요하는 골관절염, 류마티스관절염, 수술후 통증",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:58Z",
+   "last_observed_at": "2026-09-08T08:43:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:58Z"
+}

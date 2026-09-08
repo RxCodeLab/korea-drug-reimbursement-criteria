@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201303508",
+ "item_name": "경남산소의료용이산화탄소",
+ "entp_name": "경남산소",
+ "permit_date": "20130204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040491]이산화탄소",
+ "main_item_ingr_eng": "Carbon Dioxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201303508",
+ "revisions": [
+  {
+   "revision_id": "201303508-fa5474cd",
+   "content_sha256": "fa5474cdd636a1fbbee78ccf411f66d440fd8e39b205ff81b736717387d2b8ca",
+   "ee_text": "의료용가스",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201303508/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:48Z",
+   "last_observed_at": "2026-09-08T08:45:48Z"
+  },
+  {
+   "revision_id": "201303508-5cc20f83",
+   "content_sha256": "5cc20f83783bd9c88c0abf56ce723506be7042fdea52fac51fa952c7f9b35219",
+   "ee_text": "의료용가스(제제용) 폐쇄순환 마취기에 산소와 혼용하여 사용, 호흡기질환, 흥분제",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:48Z",
+   "last_observed_at": "2026-09-08T08:45:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:48Z"
+}

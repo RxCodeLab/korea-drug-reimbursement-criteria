@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200607687",
+ "item_name": "망가나주(염화망간)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20061120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084248]염화망간",
+ "main_item_ingr_eng": "Manganese Chloride Hydrate",
+ "edi_code": "",
+ "atc_code": "A12CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607687",
+ "revisions": [
+  {
+   "revision_id": "200607687-9816e9d4",
+   "content_sha256": "9816e9d4fb6859df23f75e5487d5699fcdb0cf0d7509d735e96e06a78c6d75a3",
+   "ee_text": "완전비경구영양법(Total parenteral nutrition, TPN)의 정맥주사용 용액에 추가로 사용하여 체내 망간의 혈청치를 유지하고 체내고갈 및 그에 따른 결핍증세를 막는다.",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:30Z",
+   "last_observed_at": "2026-09-08T08:40:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:30Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106133",
+ "item_name": "큐피스템주(자가지방유래중간엽줄기세포)",
+ "entp_name": "(주)안트로젠",
+ "permit_date": "20210824",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253908]자가 지방유래 중간엽줄기세포",
+ "main_item_ingr_eng": "Autologous Adipose-Derived Mesenchymal Stem cell",
+ "edi_code": "672000101",
+ "atc_code": "A16A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106133",
+ "revisions": [
+  {
+   "revision_id": "202106133-fc9b76fc",
+   "content_sha256": "fc9b76fc6d00a368613387a66e0bc2a4b9fe65b4ced87089ffb8f3abecfd30b3",
+   "ee_text": "크론병으로 인한 누공 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:29Z",
+   "last_observed_at": "2026-09-08T09:00:29Z",
+   "official_revision_date": "2021-08-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:29Z"
+}

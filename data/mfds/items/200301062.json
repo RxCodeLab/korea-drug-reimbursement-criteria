@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301062",
+ "item_name": "트라세립(트라닐라스트)(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20030623",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101545]트라닐라스트",
+ "main_item_ingr_eng": "Tranilast",
+ "edi_code": "",
+ "atc_code": "R06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301062",
+ "revisions": [
+  {
+   "revision_id": "200301062-4ae9306b",
+   "content_sha256": "4ae9306bc4a4e97701337348f85043d8a5dcda756dfbe3705b3763d4379481a5",
+   "ee_text": "1. 기관지 천식 예방 2. 알레르기성 비염, 아토피성 피부염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:55Z",
+   "last_observed_at": "2026-09-08T08:36:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:55Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200704993",
+ "item_name": "유니온메페네신정(수출용)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20070430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040172]메페네신",
+ "main_item_ingr_eng": "Mephenesin",
+ "edi_code": "",
+ "atc_code": "M03BX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704993",
+ "revisions": [
+  {
+   "revision_id": "200704993-dbe1c46f",
+   "content_sha256": "dbe1c46f1935328c6895da8ca33f2c66897894c20ca19fe998831dde35058892",
+   "ee_text": "다음과 관련하여 통증을 수반한 근육경련의 치료보조 -퇴행성 척추질환, 사경(목이 한쪽으로 비스듬히 구부러져서 잘 펴지지 않는 병) 보통 하부요통등 정적 척추장애 -경련상태",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:27Z",
+   "last_observed_at": "2026-09-08T08:41:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:27Z"
+}

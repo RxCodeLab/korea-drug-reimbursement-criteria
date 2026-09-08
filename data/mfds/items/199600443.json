@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199600443",
+ "item_name": "성광멸균바세린거즈(백색바셀린)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "19960206",
+ "cancel_date": "20260401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M088336]백색바셀린|[M088336]백색바셀린",
+ "main_item_ingr_eng": "White Petrolatum",
+ "edi_code": "657400170",
+ "atc_code": "D02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199600443",
+ "revisions": [
+  {
+   "revision_id": "199600443-0c5a2373",
+   "content_sha256": "0c5a2373dc2e7aca826e549a6d39214ef9e5b956fefc1b5a442ffcc08bdeb264",
+   "ee_text": "경미한 화상 및 상처",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:05Z",
+   "last_observed_at": "2026-09-08T08:30:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:05Z"
+}

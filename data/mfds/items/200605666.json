@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200605666",
+ "item_name": "제일의료용아산화질소",
+ "entp_name": "(주)제일가스",
+ "permit_date": "20060612",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040349]아산화질소",
+ "main_item_ingr_eng": "Nitrous Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605666",
+ "revisions": [
+  {
+   "revision_id": "200605666-cafbf364",
+   "content_sha256": "cafbf364c84662462bf59f09c256ba8f965e3a647ece1ca3fe3be62966538bec",
+   "ee_text": "전신마취 진통 및 진정",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:23Z",
+   "last_observed_at": "2026-09-08T08:40:23Z",
+   "official_revision_date": "2018-08-07"
+  },
+  {
+   "revision_id": "200605666-99925810",
+   "content_sha256": "99925810b56d4bcfdc714cb61e67c85f90abbbb79e711a241c62ffa8764b3a54",
+   "ee_text": "의료용가스(흡입마취)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:40:23Z",
+   "last_observed_at": "2026-09-08T08:40:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:23Z"
+}

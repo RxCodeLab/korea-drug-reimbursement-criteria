@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200209725",
+ "item_name": "스티바에이크림0.025%(트레티노인)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20020807",
+ "cancel_date": "20241025",
+ "status": "취하",
+ "main_item_ingr": "[M051617]트레티노인",
+ "main_item_ingr_eng": "Tretinoin",
+ "edi_code": "",
+ "atc_code": "D10AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200209725",
+ "revisions": [
+  {
+   "revision_id": "200209725-a809e883",
+   "content_sha256": "a809e883988068d621ccca8c3c2a09ffbec66527a8e03f22abaac42690b93086",
+   "ee_text": "심상성 여드름(보통 여드름) 및 광노화(미세주름, 과색소침착)완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200209725/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:34Z",
+   "last_observed_at": "2026-09-08T08:36:34Z"
+  },
+  {
+   "revision_id": "200209725-2c8d311b",
+   "content_sha256": "2c8d311bd6519096780f91b998e464f92136edfc36ca04625b8e18d480225b49",
+   "ee_text": "심상성 여드름(보통 여드름) 및 광노화(미세주름)완화",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:36:34Z",
+   "last_observed_at": "2026-09-08T08:36:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:34Z"
+}

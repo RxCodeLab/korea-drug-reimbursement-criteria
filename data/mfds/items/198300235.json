@@ -7,11 +7,12 @@
  "permit_date": "19830214",
  "cancel_date": "20241001",
  "status": "유효기간만료",
- "main_item_ingr": "[M051291]인삼|[M040007]건강|[M040071]대추|[M040139]맥문동|[M050037]계지|[M050905]아교|[M082226]자감초|[M088617]마인|[M040537]지황",
+ "main_item_ingr": "[M040007]건강|[M040071]대추|[M040139]맥문동|[M040537]지황|[M050037]계지|[M050905]아교|[M051291]인삼|[M082226]자감초|[M088617]마인",
  "main_item_ingr_eng": "Asini Corii Colla/Cannabis Semen/Cinnamomi Ramulus/Ginger/Ginseng/Jujube/Licorice/Liriope Tuber/Rehmannia Root",
  "edi_code": "",
  "atc_code": "C01EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300235",
+ "history_fetched_at": "2026-08-28T13:23:39Z",
  "revisions": [
   {
    "revision_id": "198300235-4ff53d99",
@@ -19,9 +20,9 @@
    "ee_text": "체력이 떨어져서 피로하기 쉬운 사람의 두근거림, 숨참",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:23:39Z",
-   "last_observed_at": "2026-08-28T13:23:39Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:51Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:39Z"
+ ]
 }

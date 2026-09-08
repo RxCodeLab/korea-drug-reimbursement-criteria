@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199802082",
+ "item_name": "테람주500밀리그람(세포테탄나트륨)(수출용)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "19981229",
+ "cancel_date": "20251211",
+ "status": "취하",
+ "main_item_ingr": "[M070422]세포테탄나트륨",
+ "main_item_ingr_eng": "Cefotetan Sodium",
+ "edi_code": "",
+ "atc_code": "J01DC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802082",
+ "revisions": [
+  {
+   "revision_id": "199802082-95014276",
+   "content_sha256": "950142767a6a4531aaf56df1eb0341f9e86692ef4ebe7ce44d653af2c44ee5a8",
+   "ee_text": "- 유효균종 대장균, 시트로박터속, 클레브시엘라속, 엔테로박터속, 세라티아속, 프로테 우스속, 인플루엔자균, 박테로이드속 - 적응증 1. 패혈증, 화상, 수술창 등의 표제성 2차감염, 급만성기관지염, 편도염 (편도주위염, 편도주위농양), 기관지확장증(감염시), 만성호흡기질환의 2차 감염, 폐렴, 폐화농증, 농흉, 신우신염, 방광염, 담낭염, 담관염, 복만염, 자궁내감염, 골반사강염, 바토린선염",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:00Z",
+   "last_observed_at": "2026-09-08T08:32:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:00Z"
+}

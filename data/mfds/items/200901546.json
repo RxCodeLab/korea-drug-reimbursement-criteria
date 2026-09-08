@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200901546",
+ "item_name": "미르탁스오디티정15밀리그램(미르타자핀)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20090227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088893]미르타자핀",
+ "main_item_ingr_eng": "Mirtazapine",
+ "edi_code": "643903960",
+ "atc_code": "N06AX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901546",
+ "revisions": [
+  {
+   "revision_id": "200901546-4fb1dfc6",
+   "content_sha256": "4fb1dfc662e55f3e98d6fdf7b8ba3a5ab18ca7969229873098e4fc16d257bd92",
+   "ee_text": "주요우울증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200901546/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:08Z",
+   "last_observed_at": "2026-09-08T08:43:08Z"
+  },
+  {
+   "revision_id": "200901546-cb71fefa",
+   "content_sha256": "cb71fefa7bc11c63f49456b8197f7231c4a2d1f5eac96f11243204cb1f6ace25",
+   "ee_text": "(구강정)(정제) 주요우울증",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:43:08Z",
+   "last_observed_at": "2026-09-08T08:43:08Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:08Z"
+}

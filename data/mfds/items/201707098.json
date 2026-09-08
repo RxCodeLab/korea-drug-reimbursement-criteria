@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707098",
+ "item_name": "아셀리온캡슐100밀리그램(아세브로필린)",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "20170915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102213]아세브로필린",
+ "main_item_ingr_eng": "Acebrophylline",
+ "edi_code": "693902650",
+ "atc_code": "R03DA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707098",
+ "revisions": [
+  {
+   "revision_id": "201707098-ddcb5dc4",
+   "content_sha256": "ddcb5dc408be9769fdaa412f107236d36d3e2b73e0916297ea37ff96e9f1784e",
+   "ee_text": "기도폐쇄 장애 및 점액분비 장애로 인한 급·만성 호흡기질환 : 급·만성기관지염, 기관지천식, 부비동염, 건성비염",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:21Z",
+   "last_observed_at": "2026-09-08T08:52:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:21Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200800234",
+ "item_name": "한라의료재단에프디지주사액(2-데옥시-2플루오로-D-글루코스(18F))",
+ "entp_name": "의료법인한라의료재단",
+ "permit_date": "20080107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222123]2-데옥시-2플루오로-D-글루코스(18F)",
+ "main_item_ingr_eng": "2-Deoxy-2-Fluoro-D-Glucose (18F)",
+ "edi_code": "690000010",
+ "atc_code": "V09IX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800234",
+ "revisions": [
+  {
+   "revision_id": "200800234-ad035c24",
+   "content_sha256": "ad035c245f823fc82ec12a8706032c44d58b09779c3d3630d9887fee88d7fc12",
+   "ee_text": "1. 다른 검사 방법에 의해 이상이 밝혀졌거나 이상이 의심되는 환자 또는 이미 악성종양 진단을 받은 환자에 있어서 악성도의 평가에 도움을 주기 위하여 비정상적인 포도당 대사를 측정할 때 2. 심근 관류 영상과 병용하여 관상동맥질환 및 좌심실기능이상 환자에서의 잔류 포도당 대사 및 가역적인 수축기 기능소실이 있는 좌심실 심근을 확인할 때 3. 간질발작 부위와 관련된 비정상적인 포도당 대사 부위 확인",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:08Z",
+   "last_observed_at": "2026-09-08T08:42:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:08Z"
+}

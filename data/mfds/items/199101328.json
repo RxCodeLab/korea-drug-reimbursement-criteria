@@ -7,11 +7,12 @@
  "permit_date": "20010324",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M044300]포도당일수화물|[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M044300]포도당일수화물",
  "main_item_ingr_eng": "Glucose Monohydrate/Potassium Chloride/Sodium Chloride",
  "edi_code": "640001300,640007051",
  "atc_code": "B05BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101328",
+ "history_fetched_at": "2026-08-28T13:23:43Z",
  "revisions": [
   {
    "revision_id": "199101328-114dd141",
@@ -19,9 +20,9 @@
    "ee_text": "○ 탈수증, 수술전후 등의 수분ㆍ전해질 보급 ○ 에너지 보급",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:23:43Z",
-   "last_observed_at": "2026-08-28T13:23:43Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:28:12Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:43Z"
+ ]
 }

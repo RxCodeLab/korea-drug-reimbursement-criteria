@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200004631",
+ "item_name": "카르메졸정5밀리그람(카르비마졸)(수출용)(수출명:카르빔정)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20000703",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081383]카르비마졸",
+ "main_item_ingr_eng": "Carbimazole",
+ "edi_code": "",
+ "atc_code": "H03BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004631",
+ "revisions": [
+  {
+   "revision_id": "200004631-8076b5ca",
+   "content_sha256": "8076b5cae92fc2e78f732a93ffbf28e7ae805bd0ebb4676108cce2e9970236a7",
+   "ee_text": "갑상선기능 감소를 요하는 다음의 제질환 : 갑상선기능 항진증, 갑상선기능 항진증에서의 갑상선절제술 전처치, 방사선 요오드법의처치 및 병용요법",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:16Z",
+   "last_observed_at": "2026-09-08T08:34:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:16Z"
+}

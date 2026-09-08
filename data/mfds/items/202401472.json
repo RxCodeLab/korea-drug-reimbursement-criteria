@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401472",
+ "item_name": "콰지바주4.5mg/mL(디누툭시맙베타)",
+ "entp_name": "(주)레코르다티코리아",
+ "permit_date": "20240619",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284677]디누툭시맙베타",
+ "main_item_ingr_eng": "Dinutuximab Beta",
+ "edi_code": "077600031",
+ "atc_code": "L01FX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401472",
+ "revisions": [
+  {
+   "revision_id": "202401472-5fb08ad4",
+   "content_sha256": "5fb08ad40fa658b1fcafc39d8de1e944b4a9d5a34f9261230dd559c76f5321d8",
+   "ee_text": "○ 만 12개월 이상의 소아 1. 이전에 유도 화학요법 이후 부분반응 이상을 보인 후 골수 제거 요법과 줄기세포 이식을 받은 이력이 있는 고위험군 신경모세포종 환자 2. 재발성 또는 불응성 신경모세포종 환자",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:03Z",
+   "last_observed_at": "2026-09-08T09:03:03Z",
+   "official_revision_date": "2024-06-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:03Z"
+}

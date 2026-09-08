@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300956",
+ "item_name": "오비주르주[서스옥토코그알파(돼지혈액응고VIII인자,유전자재조합)]",
+ "entp_name": "한국다케다제약(주)",
+ "permit_date": "20230320",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283628]서스옥토코그알파(돼지혈액응고VIII인자,유전자재조합)",
+ "main_item_ingr_eng": "Susoctocog alfa",
+ "edi_code": "696300741",
+ "atc_code": "B02BD14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300956",
+ "revisions": [
+  {
+   "revision_id": "202300956-86c250a4",
+   "content_sha256": "86c250a4d4a3b3899964e2b6a8f595a60569fa1055b2da45263a90cc920484ca",
+   "ee_text": "성인 후천성 혈우병 A 환자의 출혈 치료 이 약은 본 빌레브란트 환자의 치료에는 사용하지 않는다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:55Z",
+   "last_observed_at": "2026-09-08T09:01:55Z",
+   "official_revision_date": "2023-03-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:55Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102042",
+ "item_name": "킴리아주(티사젠렉류셀)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20210305",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280468]티사젠렉류셀",
+ "main_item_ingr_eng": "Tisagenlecleucel",
+ "edi_code": "653603381",
+ "atc_code": "L01XX71",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102042",
+ "revisions": [
+  {
+   "revision_id": "202102042-9c74a964",
+   "content_sha256": "9c74a96480315f80b9a881e1bb5ffd3ed45e0231804e855c99488588dafee39c",
+   "ee_text": "1. 25세 이하의 소아 및 젊은 성인 환자에서의 이식 후 재발 또는 2차 재발 및 이후의 재발 또는 불응성 B세포 급성 림프성 백혈병(B-cell acute lymphoblastic leukemia, ALL)의 치료 2. 두가지 이상의 전신 치료 후 재발성 또는 불응성 미만성 거대 B세포 림프종 (diffuse large B-cell lymphoma, DLBCL) 성인 환자의 치료 3. 두가지 이상의 치료 후 재발성 또는 불응성 소포성 림프종(follicular lymphoma, FL) 성인 환자의 치료",
+   "ee_doc_id": "31",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:00Z",
+   "last_observed_at": "2026-09-08T09:00:00Z",
+   "official_revision_date": "2023-04-03"
+  },
+  {
+   "revision_id": "202102042-3f5c3447",
+   "content_sha256": "3f5c3447698d9ba3eabd66e58f6f06d6a7bba3eeb161e39746775e19e83ce808",
+   "ee_text": "1. 25세 이하의 소아 및 젊은 성인 환자에서의 이식 후 재발 또는 2차 재발 및 이후의 재발 또는 불응성 B세포 급성 림프성 백혈병(B-cell acute lymphoblastic leukemia, ALL)의 치료 2. 두가지 이상의 전신 치료 후 재발성 또는 불응성 미만성 거대 B세포 림프종 (diffuse large B-cell lymphoma, DLBCL) 성인 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-03-05",
+   "first_observed_at": "2026-09-08T09:00:00Z",
+   "last_observed_at": "2026-09-08T09:00:00Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:00Z"
+}

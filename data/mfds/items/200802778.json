@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200802778",
+ "item_name": "노스엣액(염화알루미늄)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20080313",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071904]염화알루미늄",
+ "main_item_ingr_eng": "Aluminium Chloride",
+ "edi_code": "",
+ "atc_code": "D11AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802778",
+ "revisions": [
+  {
+   "revision_id": "200802778-11b828ed",
+   "content_sha256": "11b828ed2d6b65865a35712c66b91d9cdf9e4d54f8693d613c11a02e9c3dcd45",
+   "ee_text": "겨드랑이, 손, 발의 다한증(땀과다증)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:21Z",
+   "last_observed_at": "2026-09-08T08:42:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:21Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400217",
+ "item_name": "올로텔라점안액0.2%(올로파타딘염산염)(1회용)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20240129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233188]올로파타딘염산염",
+ "main_item_ingr_eng": "Olopatadine Hydrochloride",
+ "edi_code": "650206071",
+ "atc_code": "S01GX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400217",
+ "revisions": [
+  {
+   "revision_id": "202400217-7342a066",
+   "content_sha256": "7342a06647e4fca1811156469ee3a28cbf2cfa584c7635fa03386ea624660eaa",
+   "ee_text": "알러지성 결막염으로 인한 증상 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:40Z",
+   "last_observed_at": "2026-09-08T09:02:40Z",
+   "official_revision_date": "2024-01-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:40Z"
+}

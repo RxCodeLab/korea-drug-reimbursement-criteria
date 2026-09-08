@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200202266",
+ "item_name": "에치시드정",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20020515",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040308]건조수산화알루미늄겔|[M040629]탄산마그네슘",
+ "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel/Magnesium Carbonate",
+ "edi_code": "",
+ "atc_code": "A02AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202266",
+ "revisions": [
+  {
+   "revision_id": "200202266-3ba523b3",
+   "content_sha256": "3ba523b3cb5b3be91a0973ddd654e556cf2c3a12293214adae3b52fd64d88a43",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:20Z",
+   "last_observed_at": "2026-09-08T08:36:20Z",
+   "official_revision_date": "2020-06-26"
+  },
+  {
+   "revision_id": "200202266-78ae02c8",
+   "content_sha256": "78ae02c8b21e04af5bc22992e5fb5409fe4dabae4e072fa927f95e2d0ffca782",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 식체(위체), 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:36:20Z",
+   "last_observed_at": "2026-09-08T08:36:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:20Z"
+}

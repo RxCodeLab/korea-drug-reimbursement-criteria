@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198200072",
+ "item_name": "라보파주(리토드린염산염)(수출명:Yutoparinj.)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19820121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M229123]리토드린염산염",
+ "main_item_ingr_eng": "Ritodrine Hydrochloride",
+ "edi_code": "644900701",
+ "atc_code": "G02CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200072",
+ "revisions": [
+  {
+   "revision_id": "198200072-3980735b",
+   "content_sha256": "3980735bd12119994b323d4b6d726678979a3164ed5ecda06ba43e6b9928f9d5",
+   "ee_text": "단순 조숙산통에 대한 단기간 관리 : 자궁수축억제제치료에 대한 의학적 또는 산과적 금기에 해당되지 않는 임신기간 22주에서 37주 사이의 임부 분만억제",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:47Z",
+   "last_observed_at": "2026-09-08T08:26:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:47Z"
+}

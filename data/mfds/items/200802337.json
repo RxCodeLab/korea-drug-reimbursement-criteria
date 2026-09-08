@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200802337",
+ "item_name": "클리마토플란정",
+ "entp_name": "(주)엘비아브노바",
+ "permit_date": "20080229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M221771]이그나시아 trituration D3|[M221772]승마 trituration D2|[M221773]세피아 trituration D2|[M221774]생귀나리아 trituration D6",
+ "main_item_ingr_eng": "Cimicifuga Rhizome Trituration D2/Ignatia Trituration D3/Mother Tincture Tituration D6/Sepia Trituration D2",
+ "edi_code": "",
+ "atc_code": "G02CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802337",
+ "revisions": [
+  {
+   "revision_id": "200802337-852980f1",
+   "content_sha256": "852980f16e9eb8d1a94bd53786d24227db5b0f35920eaede0d44226f6ec6329f",
+   "ee_text": "여성 갱년기 장애로 인한 다음 증상의 개선 : 안면 홍조, 발한, 동계, 불안, 불면, 우울, 흥분",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200802337/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:19Z",
+   "last_observed_at": "2026-09-08T08:42:19Z"
+  },
+  {
+   "revision_id": "200802337-c3a32a66",
+   "content_sha256": "c3a32a6635a85685bc40b0153131d98a145ec7d69a7b07a939dfc0618c645b4b",
+   "ee_text": "여성 갱년기 장애로 인한 다음 증상의 개선 : 안면 홍조, 발한, 동계, 불안, 우울, 흥분",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:19Z",
+   "last_observed_at": "2026-09-08T08:42:19Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:19Z"
+}

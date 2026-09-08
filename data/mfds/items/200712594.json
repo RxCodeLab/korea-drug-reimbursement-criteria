@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200712594",
+ "item_name": "비오딘산(바실루스리케니포르미스균)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20071119",
+ "cancel_date": "20250910",
+ "status": "취하",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균",
+ "main_item_ingr_eng": "Bacillus Licheniformis",
+ "edi_code": "",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712594",
+ "revisions": [
+  {
+   "revision_id": "200712594-460499c5",
+   "content_sha256": "460499c5d0f05ad1e5bdc9856a9856cda5de2193d33dba2ecea70923bcf5544d",
+   "ee_text": "급ㆍ만성 장염, 급ㆍ만성 설사, 급성 이질, 각종 원인에 기인한 장내 이상발효",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:02Z",
+   "last_observed_at": "2026-09-08T08:42:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:02Z"
+}

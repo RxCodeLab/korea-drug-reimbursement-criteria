@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198701191",
+ "item_name": "와이덱스액2%(글루타랄콘센트레이트)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "19870624",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081708]글루타랄콘센트레이트",
+ "main_item_ingr_eng": "Glutaral Concentrate Solution",
+ "edi_code": "664101070",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198701191",
+ "revisions": [
+  {
+   "revision_id": "198701191-c7de7579",
+   "content_sha256": "c7de7579fae80b497141cfff46f3a342aca5ca419deadfdf910670cf841b3774",
+   "ee_text": "의료 기구의 살균소독, 렌즈부착의 장치류, 내시경류, 마취장치류, 인공호흡장치류, 메스, 카테터 등의 외과 수술용 기구, 산부인과, 비뇨기과용 기구, 치과용 기구와 또는 보조기구 주사기 체온계 및 가열 멸균 할 수 없는 고무, 플라스틱 기구등",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:25Z",
+   "last_observed_at": "2026-09-08T08:27:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:25Z"
+}

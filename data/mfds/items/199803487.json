@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199803487",
+ "item_name": "신형개인제독킷(군납명:제독키트,피부/개인장비용,KD-1)(군납용)",
+ "entp_name": "삼양화학공업(주)",
+ "permit_date": "19981105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082213]분말활성탄|[M092243]양이온수지분말|[M092244]음이온수지분말",
+ "main_item_ingr_eng": "Amberlyst 15/MAXSORB; High Surface Area Active Carbon/Polystyrene Type Strong Base Anion Exchange Resin Containing Quarternary Ammonium Group, OH- form",
+ "edi_code": "",
+ "atc_code": "V07AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803487",
+ "revisions": [
+  {
+   "revision_id": "199803487-85617fce",
+   "content_sha256": "85617fce35a9b37950c5c89f77711aca792aaf70a44cec433e79f2ba84d0057e",
+   "ee_text": "화학 작용제(신경 및 수포계열)로 인하여 오염된 피부 및 개인장비의 제독",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:15Z",
+   "last_observed_at": "2026-09-08T08:32:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:15Z"
+}

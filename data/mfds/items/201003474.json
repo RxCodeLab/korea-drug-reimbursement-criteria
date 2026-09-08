@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003474",
+ "item_name": "세핌주(세페핌염산염)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20100513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254430]세페핌염산염,L-아르기닌",
+ "main_item_ingr_eng": "Cefepime Hydrochloride Hydrate·L-Arginine",
+ "edi_code": "",
+ "atc_code": "J01DE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003474",
+ "revisions": [
+  {
+   "revision_id": "201003474-5d09d72a",
+   "content_sha256": "5d09d72ab0ea95496f37a27f33fde17c7222c381be3f84a704d282af5ac5cb42",
+   "ee_text": "1.유효균종 : 대장균, 프로테우스 미라빌리스, 프로테우스 불가리스, 모르가넬라 모르가니. 시트로박터 디베르수스, 클렙시엘라 옥시토카, 세라티아속, 엔테로박터속, 시트로박터 프로인디, 연쇄구균(장내구균, 대변연쇄구균 제외), 페니실린 감수성 폐렴연쇄구균, 인플루엔자균, 카타르성 브라나멜라, 펩토연쇄구균, 메치실린 감수성 포독구균, 녹농균 2.적응증 1)감수성 있는 세균에 의한 하기의 감염증(성인 및 12세 이상 소아의 경우) 폐혈증, 하기도감염증, 중증폐렴, 요로감염증, 피부.피부조직감염증, 호중구감소시의 감염증, 복강내감염증(메트로니다졸과 병용 투여) 2)감수성 있는 세균에 의한 하기의 감염증(2개월 이상 12세 미만 유,소아의 경우) 패혈증, 하기도감염증, 중증폐렴, 요로감염증, 피부.피부조직감염증, 호중구감소시의 감염증, 세균성수막염 3)복강내 수술시 수술전후 감염예방(메트로니다졸과 병용투여)",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:03Z",
+   "last_observed_at": "2026-09-08T08:44:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:03Z"
+}

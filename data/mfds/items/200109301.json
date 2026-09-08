@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109301",
+ "item_name": "리소드렌정500밀리그람(미토테인)",
+ "entp_name": "리퓨어헬스케어(주)",
+ "permit_date": "20011009",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095400]미토테인",
+ "main_item_ingr_eng": "Mitotane",
+ "edi_code": "",
+ "atc_code": "L01XX23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109301",
+ "revisions": [
+  {
+   "revision_id": "200109301-54ad95e8",
+   "content_sha256": "54ad95e8b419e750a64f5eb640bfabe5c2e110206f6bd8303ecef29f00a71259",
+   "ee_text": "수술이 불가능한 기능성 및 비기능성 부신피질암종",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:55Z",
+   "last_observed_at": "2026-09-08T08:35:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:55Z"
+}

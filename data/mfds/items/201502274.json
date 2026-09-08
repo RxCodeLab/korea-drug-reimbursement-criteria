@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502274",
+ "item_name": "사이람자주10밀리그램/밀리리터(라무시루맙,유전자재조합)",
+ "entp_name": "한국릴리(유)",
+ "permit_date": "20150415",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261916]라무시루맙|[M261916]라무시루맙",
+ "main_item_ingr_eng": "Ramucirumab",
+ "edi_code": "670801011,670801021",
+ "atc_code": "L01XC21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502274",
+ "revisions": [
+  {
+   "revision_id": "201502274-7d627ecc",
+   "content_sha256": "7d627eccc6d151537de93f746f365256655461a970239e2a48dbe1e53cbeeeb9",
+   "ee_text": "1. 위암 플루오로피리미딘 또는 백금을 포함한 항암화학요법 도중이나 이후에 질병이 진행된 진행성 또는 전이성의 위 또는 위식도 접합부 선암 환자에게 단독요법 또는 파클리탁셀과 병용요법으로 사용 2. 비소세포폐암 1) 엘로티닙과 병용하여 EGFR (Epidermal Growth Factor Receptor) 활성 변이가 있는 전이성 비소세포폐암 성인 환자의 1차 치료 2) 백금을 포함한 항암화학요법 도중이나 이후에 질병이 진행된 전이성 비소세포폐암(NSCLC) 환자에게 도세탁셀과 병용요법으로 사용. EGFR 또는 ALK 유전자 종양 변이(genomic tumor aberrations)가 있는 환자들은 이 약을 투여 받기 전에 이러한 변이에 대해 이미 허가된 약제의 치료로 질병이 진행된 경우에 이 약을 사용하여야 한다. 3. 대장암 베바시주맙, 옥살리플라틴 및 플루오로피리미딘을 포함한 치료 도중이나 이후에 질병이 진행된 전이성의 대장암(mCRC) 환자에게 FOLFIRI(이리노테칸, folinic acid, 5-FU)와 병용요법으로 사용 4. 간세포암 혈청 알파 태아단백(alpha fetoprotein)이 400 ng/mL 이상이며, 이전에 소라페닙 투여 후 진행이 되거나 불내약성(intolerance)인 진행성 또는 절제 불가능 간세포암 환자의 단독요법으로 사용",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:49Z",
+   "last_observed_at": "2026-09-08T08:48:49Z",
+   "official_revision_date": "2020-07-27"
+  },
+  {
+   "revision_id": "201502274-54f9e85f",
+   "content_sha256": "54f9e85fb31621cf19c3f42f40c868c4fe1f2717b0fb087ed4d7253f34d01443",
+   "ee_text": "1. 위암 플루오로피리미딘 또는 백금을 포함한 항암화학요법 도중이나 이후에 질병이 진행된 진행성 또는 전이성의 위 또는 위식도 접합부 선암 환자에게 단독요법 또는 파클리탁셀과 병용요법으로 사용 2. 비소세포폐암 백금을 포함한 항암화학요법 도중이나 이후에 질병이 진행된 전이성 비소세포폐암(NSCLC) 환자에게 도세탁셀과 병용요법으로 사용. EGFR 또는 ALK 유전자 종양 변이(genomic tumor aberrations)가 있는 환자들은 이 약을 투여 받기 전에 이러한 변이에 대해 이미 허가된 약제의 치료로 질병이 진행된 경우에 이 약을 사용하여야 한다. 3. 대장암 베바시주맙, 옥살리플라틴 및 플루오로피리미딘을 포함한 치료 도중이나 이후에 질병이 진행된 전이성의 대장암(mCRC) 환자에게 FOLFIRI(이리노테칸, folinic acid, 5-FU)와 병용요법으로 사용",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-12-28",
+   "first_observed_at": "2026-09-08T08:48:49Z",
+   "last_observed_at": "2026-09-08T08:48:49Z"
+  },
+  {
+   "revision_id": "201502274-c4729603",
+   "content_sha256": "c4729603a7ed0fb6dae9ae57b8dd46e277d81631183120e2b3ecb4a60d727308",
+   "ee_text": "플루오로피리미딘 또는 백금을 포함한 항암화학요법 도중이나 이후에 질병이 진행된 진행성 또는 전이성의 위 또는 위식도 접합부 선암 환자에게 단독요법 또는 파클리탁셀과 병용요법으로 사용",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:48:49Z",
+   "last_observed_at": "2026-09-08T08:48:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:49Z"
+}

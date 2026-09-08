@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202009092",
+ "item_name": "속편환",
+ "entp_name": "신화제약(주)",
+ "permit_date": "20201222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040214]백출|[M040634]침강탄산칼슘|[M040775]현호색|[M040813]후박|[M050729]산사|[M051301]자소엽|[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Atractylodes Rhizome White/Corydalis Tuber/Hawthorn Fruit/Magnolia Bark/Perilla Leaf/Precipitated Calcium Carbonate/Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "A02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009092",
+ "revisions": [
+  {
+   "revision_id": "202009092-5d1804e8",
+   "content_sha256": "5d1804e8e1247444fd91cc2de0bf3df1b23e56b5bdf0b845111efabfefcb5efe",
+   "ee_text": "위산과다, 속쓰림, 위통, 신트림, 위부불쾌감, 위부팽만감, 식욕감퇴(식욕부진), 소화불량, 과식, 체함, 구역, 구토",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:46Z",
+   "last_observed_at": "2026-09-08T08:59:46Z",
+   "official_revision_date": "2020-12-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:46Z"
+}

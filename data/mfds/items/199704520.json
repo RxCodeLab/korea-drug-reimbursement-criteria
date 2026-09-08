@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199704520",
+ "item_name": "펜타사좌약(메살라진)",
+ "entp_name": "한국페링제약(주)",
+ "permit_date": "19971206",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083890]메살라진",
+ "main_item_ingr_eng": "Mesalazine",
+ "edi_code": "652500240",
+ "atc_code": "A07EC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199704520",
+ "revisions": [
+  {
+   "revision_id": "199704520-686696a5",
+   "content_sha256": "686696a586c2c1458d8b8946129c6fdd46cc87b053d1e4adaa0748823eec3069",
+   "ee_text": "궤양성 대장염",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:33Z",
+   "last_observed_at": "2026-09-08T08:31:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:33Z"
+}

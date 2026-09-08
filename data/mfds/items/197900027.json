@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900027",
+ "item_name": "한풍목단피엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19790731",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040185]목단피",
+ "main_item_ingr_eng": "Moutan Root Bark",
+ "edi_code": "",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900027",
+ "revisions": [
+  {
+   "revision_id": "197900027-188119fd",
+   "content_sha256": "188119fdbdcd8db9a41a91f3af964d935967268d564ffb7a2725d1ffd1ad36a6",
+   "ee_text": "월경불순, 요복통, 어혈",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:32Z",
+   "last_observed_at": "2026-09-08T08:26:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:32Z"
+}

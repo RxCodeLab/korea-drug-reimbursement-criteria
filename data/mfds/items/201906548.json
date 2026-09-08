@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906548",
+ "item_name": "석전의료용질소",
+ "entp_name": "석전의료공업(주)",
+ "permit_date": "20190918",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040542]질소",
+ "main_item_ingr_eng": "Nitrogen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906548",
+ "revisions": [
+  {
+   "revision_id": "201906548-df22f0fb",
+   "content_sha256": "df22f0fb2856eadc619daaf4d5da5caf2640e32bf6bce7085b436b7f7ab7be01",
+   "ee_text": "의료용가스(제제용)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:24Z",
+   "last_observed_at": "2026-09-08T08:56:24Z",
+   "official_revision_date": "2019-09-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:24Z"
+}

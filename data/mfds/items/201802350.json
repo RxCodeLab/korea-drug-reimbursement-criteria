@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802350",
+ "item_name": "나테스토나잘겔(테스토스테론)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20180605",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040639]테스토스테론",
+ "main_item_ingr_eng": "Testosterone",
+ "edi_code": "",
+ "atc_code": "G03BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802350",
+ "revisions": [
+  {
+   "revision_id": "201802350-5a111630",
+   "content_sha256": "5a11163037c2453de8cd694ee27be0572311dc47e1e462d988d34995a94addc3",
+   "ee_text": "남성 성선기능저하증의 테스토스테론 대체 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:14Z",
+   "last_observed_at": "2026-09-08T08:53:14Z",
+   "official_revision_date": "2018-06-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:14Z"
+}

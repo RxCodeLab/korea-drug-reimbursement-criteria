@@ -7,7 +7,7 @@
  "permit_date": "20210830",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M246943]이부프로펜나트륨이수화물|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M246943]이부프로펜나트륨이수화물",
  "main_item_ingr_eng": "Acetaminophen/Ibuprofen Sodium Dihydrate",
  "edi_code": "",
  "atc_code": "N02BE51",
@@ -20,7 +20,8 @@
    "ee_text": "성인에서 통증으로 인하여 신속하게 정맥 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 - 중등도 ~ 중증의 통증(특히 수술 후)의 단기간 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202106243/EE",
    "first_observed_at": "2026-08-27T13:03:43Z",
-   "last_observed_at": "2026-08-28T13:25:25Z"
+   "last_observed_at": "2026-09-08T09:00:32Z",
+   "normalizer_version": 3
   }
  ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20191226",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M082882]차전초유동엑스|[M070086]길경유동엑스|[M050059]구아야콜설폰산칼륨|[M270039]dl-메틸에페드린염산염|[M223211]클로르페니라민말레산염|[M222957]덱스트로메토르판브롬화수소산염수화물",
+ "main_item_ingr": "[M050059]구아야콜설폰산칼륨|[M070086]길경유동엑스|[M082882]차전초유동엑스|[M222957]덱스트로메토르판브롬화수소산염수화물|[M223211]클로르페니라민말레산염|[M270039]dl-메틸에페드린염산염",
  "main_item_ingr_eng": "Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate/Plantago Herb Fluid Extract/Platycodon Root Fluid Extract/Potassium Guaiacolsulfonate",
  "edi_code": "",
  "atc_code": "R05FA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908655",
+ "history_fetched_at": "2026-08-28T13:25:14Z",
  "revisions": [
   {
    "revision_id": "201908655-da6ae941",
@@ -19,9 +20,9 @@
    "ee_text": "기침, 가래",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:14Z",
-   "last_observed_at": "2026-08-28T13:25:14Z",
-   "official_revision_date": "2019-12-26"
+   "last_observed_at": "2026-09-08T08:57:21Z",
+   "official_revision_date": "2019-12-26",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:14Z"
+ ]
 }

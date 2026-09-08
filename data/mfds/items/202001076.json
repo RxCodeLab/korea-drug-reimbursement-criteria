@@ -12,6 +12,7 @@
  "edi_code": "654305360",
  "atc_code": "C09DB01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001076",
+ "history_fetched_at": "2026-08-28T13:25:15Z",
  "revisions": [
   {
    "revision_id": "202001076-94fa7f3e",
@@ -19,9 +20,9 @@
    "ee_text": "암로디핀 또는 발사르탄 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:15Z",
-   "last_observed_at": "2026-08-28T13:25:15Z",
-   "official_revision_date": "2020-02-17"
+   "last_observed_at": "2026-09-08T08:57:50Z",
+   "official_revision_date": "2020-02-17",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:15Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201200854",
+ "item_name": "비코그린에스정",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20120210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M081950]도큐세이트나트륨|[M102544]센노사이드칼슘",
+ "main_item_ingr_eng": "Bisacodyl/Docusate Sodium/Sennoside Calcium",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200854",
+ "revisions": [
+  {
+   "revision_id": "201200854-2ba83f9b",
+   "content_sha256": "2ba83f9b34d9c29a1868163e968fa18adfc3e1642361e93bbac6d5cbefbfbbc5",
+   "ee_text": "-변비 -변비에 수반하는 다음 증상의 완화: 치질, 복부팽만, 장내이상발효, 머리무거움, 안면홍조, 식욕부진(식욕감퇴)",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:10Z",
+   "last_observed_at": "2026-09-08T08:45:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:10Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700064",
+ "item_name": "한풍아출엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19870228",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M088722]아출",
+ "main_item_ingr_eng": "Zedoary",
+ "edi_code": "",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700064",
+ "revisions": [
+  {
+   "revision_id": "198700064-a628ad75",
+   "content_sha256": "a628ad75aa52a57971b49f88d4fac96643708748c8065b077b7137993fc05a99",
+   "ee_text": "건위, 어혈, 통경",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:20Z",
+   "last_observed_at": "2026-09-08T08:27:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:20Z"
+}

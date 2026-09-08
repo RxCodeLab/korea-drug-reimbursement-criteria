@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199500674",
+ "item_name": "데노간주(프로파세타몰염산염)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "19950707",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245991]프로파세타몰염산염",
+ "main_item_ingr_eng": "Propacetamol Hydrochloride",
+ "edi_code": "642400161",
+ "atc_code": "N02BE05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500674",
+ "revisions": [
+  {
+   "revision_id": "199500674-9c343c1f",
+   "content_sha256": "9c343c1fb9b3d72b13af639293eaf569300c78c7819ff21b3e7e9393373c0632",
+   "ee_text": "통증이나 고열로 인하여 신속하게 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 1. 외과 수술 후 통증 2. 발열의 단기간 치료",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:30Z",
+   "last_observed_at": "2026-09-08T08:29:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:30Z"
+}

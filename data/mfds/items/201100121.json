@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201100121",
+ "item_name": "암브록주(암브록솔염산염)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "20110111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233843]암브록솔염산염",
+ "main_item_ingr_eng": "Ambroxol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R05CB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100121",
+ "revisions": [
+  {
+   "revision_id": "201100121-ab021f69",
+   "content_sha256": "ab021f69a63151b1ca470be9775b356f8090da0c6de15ef8c7027d7289ca2350",
+   "ee_text": "1. 주효능 효과 1) 점액분비장애로 인한 급·만성 호흡기질환 : 만성기관지염, 천식성기관지염, 기관지천식의 급성발작 2) 조산아 및 신생아의 호흡곤란증후군 3) 수술전·후 폐합병증의 예방 및 치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:23Z",
+   "last_observed_at": "2026-09-08T08:44:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:23Z"
+}

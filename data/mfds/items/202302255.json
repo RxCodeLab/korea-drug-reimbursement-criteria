@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302255",
+ "item_name": "텍베일리주30mg(테클리스타맙)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20230726",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283888]테클리스타맙",
+ "main_item_ingr_eng": "Teclistamab",
+ "edi_code": "",
+ "atc_code": "L01FX24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302255",
+ "revisions": [
+  {
+   "revision_id": "202302255-83d307bf",
+   "content_sha256": "83d307bf0d983c08d66fdff85964095564b00ec19547b7f71cc8ee453896a6f3",
+   "ee_text": "프로테아좀억제제, 면역조절제, 항-CD38 단클론항체를 포함하여 적어도 3차 이상의 치료를 받은 재발 또는 불응성 다발골수종 성인 환자에 대한 단독요법 이 약의 유효성을 치료적확증시험에서 입증한 자료는 없다.",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:15Z",
+   "last_observed_at": "2026-09-08T09:02:15Z",
+   "official_revision_date": "2024-04-29"
+  },
+  {
+   "revision_id": "202302255-34829399",
+   "content_sha256": "348293991a45d64b8fcbba8e1683b1c5a1ad731061ccf2480d3992efa54bf53d",
+   "ee_text": "프로테아좀억제제, 면역억제제, 항-CD38 단클론항체를 포함하여 3차 이상의 치료를 받은 재발 또는 불응성 다발골수종 성인 환자에 대한 단독요법 이 약의 유효성을 치료적확증시험에서 입증한 자료는 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-07-26",
+   "first_observed_at": "2026-09-08T09:02:15Z",
+   "last_observed_at": "2026-09-08T09:02:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:15Z"
+}

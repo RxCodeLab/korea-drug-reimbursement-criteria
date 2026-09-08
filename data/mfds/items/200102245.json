@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200102245",
+ "item_name": "동인당파스과립(파라아미노살리실산칼슘수화물)",
+ "entp_name": "하이플생명과학(주)",
+ "permit_date": "20011114",
+ "cancel_date": "20240429",
+ "status": "취하",
+ "main_item_ingr": "[M223275]파라아미노살리실산칼슘수화물",
+ "main_item_ingr_eng": "Calcium p-Aminosalicylate Hydrate",
+ "edi_code": "",
+ "atc_code": "J04AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102245",
+ "revisions": [
+  {
+   "revision_id": "200102245-9e947e34",
+   "content_sha256": "9e947e345967c839ab69a096d402f8bb2b9bf0a6c98c8312c89278a8b5dde7c2",
+   "ee_text": "○ 유효균종 결핵균 ○ 적응증 폐결핵 및 기타 결핵증",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:23Z",
+   "last_observed_at": "2026-09-08T08:35:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:23Z"
+}

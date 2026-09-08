@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600024",
+ "item_name": "캄토벨주1밀리그람(벨로테칸)(수출용)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20060120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102681]벨로테칸(CKD-602)",
+ "main_item_ingr_eng": "Belotecan (CKD-602)",
+ "edi_code": "",
+ "atc_code": "L01CE04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600024",
+ "revisions": [
+  {
+   "revision_id": "200600024-57187510",
+   "content_sha256": "57187510e32e0c732ddb8fd217c2e787f1a5dd00ce5ec6adf73f8e19cce377a8",
+   "ee_text": "1. 표준화학요법에 실패한 저항성(Refractory) 또는 재발성(Recurrent) 난소암 환자의 치료 2. 1차화학요법에 실패한 저항성 또는 재발성 제한병기(Limited disease) 소세포 폐암 환자의 치료 3. 1차화학요법에 실패한 저항성 또는 재발성 진행병기(Extensive disease) 소세포 폐암 환자의 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:43Z",
+   "last_observed_at": "2026-09-08T08:39:43Z",
+   "official_revision_date": "2019-03-08"
+  },
+  {
+   "revision_id": "200600024-5eb5f181",
+   "content_sha256": "5eb5f181736514203d0a45cc19e855180ec9ed197f12dc170a339b8494dc4cbe",
+   "ee_text": "① 표준화학요법에 실패한 저항성(Refractory) 또는 재발성(Recurrent) 난소암의 치료 ② 1차화학요법에 실패한 저항성 또는 재발성 제한병기(Limited disease) 소세포 폐암의 치료 ③ 진행병기(Extensive disease) 소세포 폐암의 치료",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:39:43Z",
+   "last_observed_at": "2026-09-08T08:39:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:43Z"
+}

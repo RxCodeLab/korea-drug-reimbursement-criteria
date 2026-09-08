@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500878",
+ "item_name": "크라시에가미귀비탕엑스세립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20150217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261597]가미귀비탕엑스",
+ "main_item_ingr_eng": "Gamigwibitang Extract",
+ "edi_code": "",
+ "atc_code": "N07XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500878",
+ "revisions": [
+  {
+   "revision_id": "201500878-65b6d9d5",
+   "content_sha256": "65b6d9d5ec8d8398346b26726a05397baadc76d5ae939f6fd0042d88bbfad7b2",
+   "ee_text": "허약 체질로 혈색이 좋지 못한 사람의 다음과 같은 증상 : 빈혈, 불면증, 정신불안, 신경과민",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:29Z",
+   "last_observed_at": "2026-09-08T08:48:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:29Z"
+}

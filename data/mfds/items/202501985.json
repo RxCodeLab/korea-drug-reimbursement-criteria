@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501985",
+ "item_name": "한영의료용산소",
+ "entp_name": "한영기업(주)",
+ "permit_date": "20250730",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040256]산소",
+ "main_item_ingr_eng": "Oxygen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501985",
+ "revisions": [
+  {
+   "revision_id": "202501985-652faec9",
+   "content_sha256": "652faec9461d69dfedd07d8d9ab9d3eae5a4ccba53d9e4f35e0f68558657d048",
+   "ee_text": "〇 의료용가스 - 다음과 같은 광범위한 질환에서의 산소결핍증 치료 · 호흡근의 마비 및 일탄화탄소 중독 · 출혈, 외상, 쇼크 및 마취 시의 호흡마비 · 중증의 심질환(순환계 허탈 등) 및 폐부종 등으로 인한 기도의 폐쇄 - 폐쇄 순환 마취 시 단독 투여 또는 이산화탄소와 병용투여",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:08Z",
+   "last_observed_at": "2026-09-08T09:04:08Z",
+   "official_revision_date": "2025-07-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:08Z"
+}

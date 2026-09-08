@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601548",
+ "item_name": "알헤모프리필드펜60mg/1.5mL(컨시주맙)",
+ "entp_name": "노보노디스크제약(주)",
+ "permit_date": "20260528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286418]컨시주맙",
+ "main_item_ingr_eng": "Concizumab",
+ "edi_code": "",
+ "atc_code": "B02BX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601548",
+ "revisions": [
+  {
+   "revision_id": "202601548-7fc75fbe",
+   "content_sha256": "7fc75fbee9d34989abe6037fdd6425129f6e61da33f255d9cb2881675a72cc6f",
+   "ee_text": "성인 및 소아(12세 이상)인 다음의 환자에서 출혈 빈도 감소 또는 예방을 위한 일상적인 예방요법 • 혈액응고 제8인자(FVIII)에 대한 억제인자를 보유한 A형 혈우병(선천성 제8인자 결핍) • 혈액응고 제8인자(FVIII)에 대한 억제인자를 보유하지 않은 중증 A형 혈우병(선천성 제8인자 결핍) • 혈액응고 제9인자(FIX)에 대한 억제인자를 보유한 B형 혈우병(선천성 제9인자 결핍) • 혈액응고 제9인자(FIX)에 대한 억제인자를 보유하지 않은 중증 및 중등증 B형 혈우병(선천성 제9인자 결핍)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:14Z",
+   "last_observed_at": "2026-09-08T09:05:14Z",
+   "official_revision_date": "2026-05-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:14Z"
+}

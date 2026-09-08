@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200902756",
+ "item_name": "조스타박스주(대상포진생바이러스백신)",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "20090417",
+ "cancel_date": "20251016",
+ "status": "취하",
+ "main_item_ingr": "[M246172]약독 수두생바이러스(바이러스주: Oka/Merck주, 세포주: MRC-5)",
+ "main_item_ingr_eng": "Live Attenuated Varicella Virus (Strain: Oka/Merck, Cell Strain: MRC-5 )",
+ "edi_code": "",
+ "atc_code": "J07BK02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902756",
+ "revisions": [
+  {
+   "revision_id": "200902756-4a669e5f",
+   "content_sha256": "4a669e5ff0c281c1c8aa41214eb769cf971bebb40f5f7b8d4a8444da9b4f85fa",
+   "ee_text": "만 50세 이상의 성인에서의 대상포진의 예방",
+   "ee_doc_id": "28",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:14Z",
+   "last_observed_at": "2026-09-08T08:43:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:14Z"
+}

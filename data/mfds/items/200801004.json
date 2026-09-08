@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200801004",
+ "item_name": "엠피록스액(시클로피록스올아민)",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20080124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085155]시클로피록스올아민",
+ "main_item_ingr_eng": "Ciclopirox Olamine",
+ "edi_code": "",
+ "atc_code": "D01AE14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801004",
+ "revisions": [
+  {
+   "revision_id": "200801004-ab4ff32e",
+   "content_sha256": "ab4ff32eda10c70b86a1ed523aba49a477ce6f43c809b88ba763873c4c314df4",
+   "ee_text": "지루성피부염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:12Z",
+   "last_observed_at": "2026-09-08T08:42:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:12Z"
+}

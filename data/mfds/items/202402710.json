@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402710",
+ "item_name": "수프렙미니에스정",
+ "entp_name": "(주)태준제약",
+ "permit_date": "20241118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040806]황산칼륨|[M223083]시메티콘|[M258980]무수황산나트륨",
+ "main_item_ingr_eng": "Anhydrous Sodium Sulfate/Potassium Chloride/Potassium Sulfate/Simethicone/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "A06AD10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402710",
+ "revisions": [
+  {
+   "revision_id": "202402710-96c57701",
+   "content_sha256": "96c57701c578c6eaebaa6164fdf94122529a65fc7ce669852834e9da3ba1f752",
+   "ee_text": "대장(X선, 내시경)검사 시의 전처치용 장세척",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:28Z",
+   "last_observed_at": "2026-09-08T09:03:28Z",
+   "official_revision_date": "2024-11-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:28Z"
+}

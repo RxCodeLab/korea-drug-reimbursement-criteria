@@ -7,7 +7,7 @@
  "permit_date": "20020724",
  "cancel_date": "20240229",
  "status": "취하",
- "main_item_ingr": "[M040615]클로르탈리돈|[M080475]아테놀올|[M040615]클로르탈리돈|[M080475]아테놀올",
+ "main_item_ingr": "[M040615]클로르탈리돈|[M040615]클로르탈리돈|[M080475]아테놀올|[M080475]아테놀올",
  "main_item_ingr_eng": "Atenolol/Chlorthalidone",
  "edi_code": "",
  "atc_code": "C07CB03",
@@ -20,7 +20,8 @@
    "ee_text": "고혈압",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200201810/EE",
    "first_observed_at": "2026-08-27T12:27:07Z",
-   "last_observed_at": "2026-08-28T13:24:00Z"
+   "last_observed_at": "2026-09-08T08:36:15Z",
+   "normalizer_version": 3
   }
  ]
 }

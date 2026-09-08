@@ -7,19 +7,21 @@
  "permit_date": "19851031",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M096429]시아노코발라민|[M204304]피리독신염산염|[M096428]벤포티아민",
+ "main_item_ingr": "[M096428]벤포티아민|[M096429]시아노코발라민|[M204304]피리독신염산염",
  "main_item_ingr_eng": "Benfotiamine/Cyanocobalamin/Pyridoxine Hydrochloride",
  "edi_code": "",
  "atc_code": "A11DB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500049",
+ "history_fetched_at": "2026-08-28T13:23:40Z",
  "revisions": [
   {
-   "revision_id": "198500049-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "198500049-f09e285e",
+   "content_sha256": "f09e285ed613006dab2bbfceeb405cb584f3e8a2551ebd7e95ab4221ba2490f6",
+   "ee_text": "1. 본제에 함유되어 있는 비타민류의 수요가 증대하여 식사로부터의 섭취가 불충분할 때의 비타민의 보급(소모성질환, 임산부·수유부 등) 2. 다음 질환의 본제 함유 비타민의 결핍 또는 대사장해가 추정되는 경우 신경통, 근육통, 관절통, 말초신경염(알코올성, 당뇨병성), 말초신경마비",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198500049/EE",
    "first_observed_at": "2026-08-28T13:23:40Z",
-   "last_observed_at": "2026-08-28T13:23:40Z"
+   "last_observed_at": "2026-09-08T08:27:01Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "198500049-36dc67b1",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:40Z",
    "last_observed_at": "2026-08-28T13:23:40Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:40Z"
+ ]
 }

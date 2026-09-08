@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300174",
+ "item_name": "셀트리온옥시메톨론정",
+ "entp_name": "(주)셀트리온제약",
+ "permit_date": "19830923",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051171]옥시메톨론",
+ "main_item_ingr_eng": "Oxymetholone",
+ "edi_code": "693900180",
+ "atc_code": "A14AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300174",
+ "revisions": [
+  {
+   "revision_id": "198300174-a08a674d",
+   "content_sha256": "a08a674d7f34eb3a7432b8ed48369616491a0a96816d8a96fb557e8c4f32b9a4",
+   "ee_text": "재생불량성 빈혈, 골수섬유증에 의한 골수의 소모상태",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:51Z",
+   "last_observed_at": "2026-09-08T08:26:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:51Z"
+}

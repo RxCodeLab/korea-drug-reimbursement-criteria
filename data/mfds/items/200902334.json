@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200902334",
+ "item_name": "옥시넘주사10mg/ml(옥시코돈염산염)",
+ "entp_name": "한국먼디파마 유한회사",
+ "permit_date": "20090331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M238042]옥시코돈염산염",
+ "main_item_ingr_eng": "Oxycodone Hydrochloride",
+ "edi_code": "678000171,678000201",
+ "atc_code": "N02AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902334",
+ "revisions": [
+  {
+   "revision_id": "200902334-5e92c4c5",
+   "content_sha256": "5e92c4c507639c6e83dc43a53e0ac00c7572d88c97ff3af99cdd88885e014f4b",
+   "ee_text": "마약성 진통제의 사용을 필요로 하는 중등도 및 중증의 통증 조절",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:12Z",
+   "last_observed_at": "2026-09-08T08:43:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:12Z"
+}

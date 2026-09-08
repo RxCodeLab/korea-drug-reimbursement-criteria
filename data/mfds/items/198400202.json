@@ -7,11 +7,12 @@
  "permit_date": "19841127",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M081378]오로트산카르니틴|[M081379]항독성간장엑스|[M253171]아데닌염산염|[M204304]피리독신염산염|[M040133]리보플라빈|[M096429]시아노코발라민",
+ "main_item_ingr": "[M040133]리보플라빈|[M081378]오로트산카르니틴|[M081379]항독성간장엑스|[M096429]시아노코발라민|[M204304]피리독신염산염|[M253171]아데닌염산염",
  "main_item_ingr_eng": "Adenine Hydrochloride/Antitoxic Liver Extract/Carnitine Orotate/Cyanocobalamin/Pyridoxine Hydrochloride/Riboflavin",
  "edi_code": "",
  "atc_code": "A05BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400202",
+ "history_fetched_at": "2026-08-28T13:23:39Z",
  "revisions": [
   {
    "revision_id": "198400202-c8dcb904",
@@ -19,8 +20,9 @@
    "ee_text": "다음 질환의 보조 치료 : 만성 간염, 독성 간질환",
    "ee_doc_id": "16",
    "first_observed_at": "2026-08-28T13:23:39Z",
-   "last_observed_at": "2026-08-28T13:23:39Z",
-   "official_revision_date": "2018-01-21"
+   "last_observed_at": "2026-09-08T08:26:56Z",
+   "official_revision_date": "2018-01-21",
+   "normalizer_version": 3
   },
   {
    "revision_id": "198400202-e93c9834",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:39Z",
    "last_observed_at": "2026-08-28T13:23:39Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:39Z"
+ ]
 }

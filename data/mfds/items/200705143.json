@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200705143",
+ "item_name": "울서란정(시메티딘)(수출용)",
+ "entp_name": "천우신약(주)",
+ "permit_date": "20070503",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050857]시메티딘",
+ "main_item_ingr_eng": "Cimetidine",
+ "edi_code": "",
+ "atc_code": "A02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705143",
+ "revisions": [
+  {
+   "revision_id": "200705143-3e59cc0b",
+   "content_sha256": "3e59cc0b27ce7215a02722987a521fc90f046762453fe036a86470ccdedd4c45",
+   "ee_text": "1. 주효능 효과 위ㆍ십이지장궤양, 역류성식도염, 재발성궤양, 문합부궤양, 졸링거-엘리슨증 후군, 다음 질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위 염의 급성악화기",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:28Z",
+   "last_observed_at": "2026-09-08T08:41:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:28Z"
+}

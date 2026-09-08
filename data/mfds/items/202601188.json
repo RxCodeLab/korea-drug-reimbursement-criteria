@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601188",
+ "item_name": "바이오탑디포르테정",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "20260423",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080610]바실루스서브틸리스균|[M095536]클로스트리디움부티리쿰토아균|[M249960]사카로마이세스보울라르디균",
+ "main_item_ingr_eng": "Bacillus Subtilis/Clostridium Butyricum Toa/Saccharomyces Boulardii",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601188",
+ "revisions": [
+  {
+   "revision_id": "202601188-a13348c6",
+   "content_sha256": "a13348c67da4a18444153ab8c9733e07afe65541e01ad2ff82c2ede164e9c386",
+   "ee_text": "정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:04Z",
+   "last_observed_at": "2026-09-08T09:05:04Z",
+   "official_revision_date": "2026-04-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:04Z"
+}

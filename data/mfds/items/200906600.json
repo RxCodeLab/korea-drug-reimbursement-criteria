@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906600",
+ "item_name": "테트락심주(흡착디프테리아, 파상풍톡소이드, 정제백일해 및 개량 불활화폴리오 혼합백신)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20090831",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244695]불활화 폴리오바이러스 제2형(바이러스주: MEF-1주)|[M244697]불활화 폴리오바이러스 제3형(바이러스주: Saukett주)|[M247156]디프테리아 톡소이드(균주명:1514-N-3S주)|[M247157]파상풍톡소이드(균주명:1472-C주)|[M247158]백일해톡소이드(균주명:1591주)|[M247159]필라멘트 헤마글루티닌(균주명:1591주)|[M253648]불활화폴리오바이러스 제1형 (바이러스주명: Mahoney주)",
+ "main_item_ingr_eng": "B. Pertussis Toxoid (Strain: 1591)/Diphtheria Toxoid (Strain: 1514-N-3S)/Filament Hemagglutinin (Strain: 1591)/Inactivated Polio Virus Type I (Stain: Mahoney)/Inactivated Polio Virus Type II (Stain: MEF-1)/Inactivated Polio Virus Type III (Stain: Saukett)/Tetanus Toxoid (Strain: 1472-C)",
+ "edi_code": "",
+ "atc_code": "J07CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906600",
+ "revisions": [
+  {
+   "revision_id": "200906600-1fff7129",
+   "content_sha256": "1fff7129dccc9fe039bbd84059ad409903ea245a0b36bd2b331a37d4ad71d3d6",
+   "ee_text": "디프테리아, 파상풍, 백일해 및 폴리오(소아마비) 예방",
+   "ee_doc_id": "41",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:30Z",
+   "last_observed_at": "2026-09-08T08:43:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:30Z"
+}

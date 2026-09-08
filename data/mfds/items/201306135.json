@@ -7,20 +7,22 @@
  "permit_date": "20130311",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223289]폴산|[M096429]시아노코발라민|[M204304]피리독신염산염",
+ "main_item_ingr": "[M096429]시아노코발라민|[M204304]피리독신염산염|[M223289]폴산",
  "main_item_ingr_eng": "Cyanocobalamin/Folic Acid/Pyridoxine Hydrochloride",
  "edi_code": "",
  "atc_code": "A11JA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306135",
+ "history_fetched_at": "2026-08-28T13:24:30Z",
  "revisions": [
   {
-   "revision_id": "201306135-b950d88b",
-   "content_sha256": "b950d88bea115138bcde29d95ae585860f3abc6719f6cb0d568e94fe0633f6a9",
-   "ee_text": "6 의 보급 : 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력 저하시\"> 6 (피리독신염산염)]]>",
+   "revision_id": "201306135-464eca62",
+   "content_sha256": "464eca62e3c90a53e54b866f300411eeed33509988277772cf7f63b08eee33c1",
+   "ee_text": "1. 다음 경우의 비타민 B6의 보급 : 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력 저하시 2. 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. 비타민B6(피리독신염산염) 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:24:30Z",
-   "last_observed_at": "2026-08-28T13:24:30Z",
-   "official_revision_date": "2022-03-10"
+   "last_observed_at": "2026-09-08T08:45:53Z",
+   "official_revision_date": "2022-03-10",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201306135-a33fdb26",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:30Z",
    "last_observed_at": "2026-08-28T13:24:30Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:30Z"
+ ]
 }

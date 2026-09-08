@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400028",
+ "item_name": "파이브로베인주0.2%(테트라데실황산나트륨)",
+ "entp_name": "금청약품(주)",
+ "permit_date": "20140106",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089182]테트라데실황산나트륨콘센트레이트",
+ "main_item_ingr_eng": "Sodium Tetradecyl Sulfate Concentrate",
+ "edi_code": "",
+ "atc_code": "C05BB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400028",
+ "revisions": [
+  {
+   "revision_id": "201400028-34a900d2",
+   "content_sha256": "34a900d28a09b86c5febc11f9905ffd60cd2fb1b02bbe0fa31ebb7e99302fcc1",
+   "ee_text": "압박경화요법에 의한 세정맥(minor venule) 및 거미상정맥의 치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:40Z",
+   "last_observed_at": "2026-09-08T08:46:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:40Z"
+}

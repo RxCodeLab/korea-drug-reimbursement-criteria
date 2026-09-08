@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201002417",
+ "item_name": "조아나정(위령선·괄루근·하고초 30% 에탄올엑스(40→1))",
+ "entp_name": "위더스제약(주)",
+ "permit_date": "20100331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250927]위령선·괄루근·하고초30%에탄올엑스(40→1)",
+ "main_item_ingr_eng": "Clematidis Radix·Trichosanthis Radix·Prunellae Spica 30% Ethanol Extract (40→1)",
+ "edi_code": "",
+ "atc_code": "M01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002417",
+ "revisions": [
+  {
+   "revision_id": "201002417-dd8d9ec8",
+   "content_sha256": "dd8d9ec8f6112a6d2dd14abf9db1141d87d5ff3ffb711ff6499bebcf0cde36b6",
+   "ee_text": "골관절증(퇴행성관절질환), 류마티스성 관절염의 증상완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201002417/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:54Z",
+   "last_observed_at": "2026-09-08T08:43:54Z"
+  },
+  {
+   "revision_id": "201002417-558a8361",
+   "content_sha256": "558a8361d4891e7fc3693751176df65481614ab80582ed3b1f6d5ae2fc752632",
+   "ee_text": "(정제) 골관절증(퇴행성관절질환), 류마티스성 관절염의 증상완화",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2011-03-21",
+   "first_observed_at": "2026-09-08T08:43:54Z",
+   "last_observed_at": "2026-09-08T08:43:54Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:54Z"
+}

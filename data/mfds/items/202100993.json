@@ -7,11 +7,12 @@
  "permit_date": "20210201",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M089404]우레아|[M040264]살리실산",
+ "main_item_ingr": "[M040264]살리실산|[M089404]우레아",
  "main_item_ingr_eng": "Salicylic Acid/Urea",
  "edi_code": "",
  "atc_code": "D02AE51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100993",
+ "history_fetched_at": "2026-08-28T13:25:23Z",
  "revisions": [
   {
    "revision_id": "202100993-47bbbccc",
@@ -19,9 +20,9 @@
    "ee_text": "비늘 및 과다 각화 피부질환(예: 비늘증, 각질화된 습진 및 건선) 손발의 과다 각화증",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:23Z",
-   "last_observed_at": "2026-08-28T13:25:23Z",
-   "official_revision_date": "2021-02-01"
+   "last_observed_at": "2026-09-08T08:59:54Z",
+   "official_revision_date": "2021-02-01",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:23Z"
+ ]
 }

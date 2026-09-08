@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308927",
+ "item_name": "케이녹시액6.5%(미녹시딜)(수출용)(수출명: REBIRTH Solution, TIGER BROW Solution)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20130821",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081480]미녹시딜",
+ "main_item_ingr_eng": "Minoxidil",
+ "edi_code": "",
+ "atc_code": "D11AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308927",
+ "revisions": [
+  {
+   "revision_id": "201308927-86b18836",
+   "content_sha256": "86b18836f32aa06325c6d3865a7aaa3285f0e8b6b48aae7f47fbe6d989c5b53d",
+   "ee_text": "남성형 탈모증(남성에 한함)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:16Z",
+   "last_observed_at": "2026-09-08T08:46:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:16Z"
+}

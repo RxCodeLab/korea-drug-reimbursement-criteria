@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199100118",
+ "item_name": "종근당리마틸정(부시라민)",
+ "entp_name": "(주)종근당",
+ "permit_date": "19910121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084627]부시라민",
+ "main_item_ingr_eng": "Bucillamine",
+ "edi_code": "643302640",
+ "atc_code": "M01CC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100118",
+ "revisions": [
+  {
+   "revision_id": "199100118-177a081e",
+   "content_sha256": "177a081ef9b6796230914aed80c7497b3ba2b5d8b0d1f0c384d3258f5bb5856c",
+   "ee_text": "만성 류마티스관절염",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:07Z",
+   "last_observed_at": "2026-09-08T08:28:07Z",
+   "official_revision_date": "2012-01-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:07Z"
+}

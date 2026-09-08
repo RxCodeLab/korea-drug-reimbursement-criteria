@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804233",
+ "item_name": "테타불린에스앤주프리필드시린지(항파상풍사람면역글로불린)",
+ "entp_name": "에스케이플라즈마(주)",
+ "permit_date": "20181025",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M010107]항파상풍사람면역글로불린",
+ "main_item_ingr_eng": "Anti-Tetanus Human Immunoglobulin",
+ "edi_code": "050800361",
+ "atc_code": "J06BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804233",
+ "revisions": [
+  {
+   "revision_id": "201804233-467e0592",
+   "content_sha256": "467e059256bb35ec4b8b78f51074d2925893946f7ca14bc8c063e7755cd4f3d7",
+   "ee_text": "파상풍의 발생 예방 및 발생 후의 증상 경감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:44Z",
+   "last_observed_at": "2026-09-08T08:53:44Z",
+   "official_revision_date": "2018-10-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:44Z"
+}

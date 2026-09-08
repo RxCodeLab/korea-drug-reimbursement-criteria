@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501301",
+ "item_name": "익수정로환(수출용)",
+ "entp_name": "익수제약(주)",
+ "permit_date": "20150312",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040606]크레오소트|[M070009]감초가루|[M082987]황련가루|[M083007]향부자가루|[M084944]진피가루",
+ "main_item_ingr_eng": "Citrus Unshiu Peel Powder/Coptis Rhizome Powder/Creosote/Cyperus Rhizome Powder/Glycyrrhiza Powder",
+ "edi_code": "",
+ "atc_code": "A07XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501301",
+ "revisions": [
+  {
+   "revision_id": "201501301-597ebc07",
+   "content_sha256": "597ebc077d3af4c1cad50d4b1cae57d0916f77cb3270b2d0cbf887e251f125d1",
+   "ee_text": "설사, 식체(체함), 묽은변, 토사",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:36Z",
+   "last_observed_at": "2026-09-08T08:48:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:36Z"
+}

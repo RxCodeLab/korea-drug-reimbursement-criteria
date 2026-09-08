@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103954",
+ "item_name": "제일약품글루콘산칼슘주(수출용)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20210518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222935]글루콘산칼슘수화물",
+ "main_item_ingr_eng": "Calcium Gluconate Hydrate",
+ "edi_code": "",
+ "atc_code": "B05XA19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103954",
+ "revisions": [
+  {
+   "revision_id": "202103954-24f3f709",
+   "content_sha256": "24f3f7098226a7410e02ef484af9bc2e0a8d452149dbf51362acc2d001f1d2b2",
+   "ee_text": "○ 저칼슘혈증에 의한 테타니 또는 그 관련 증상 ○ 두드러기, 고칼륨혈증, 마그네슘 중독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:11Z",
+   "last_observed_at": "2026-09-08T09:00:11Z",
+   "official_revision_date": "2021-05-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:11Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905326",
+ "item_name": "아진탈플러스정",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20190726",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M110317]판크레아틴 장용과립|[M110397]정향 가루|[M110408]용담 가루|[M110414]회향 가루|[M113524]육계 가루|[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Cinnamon Bark Powder/Clove Powder/Fennel Powder/Gentian Root and Rhizome Powder/Pancreatin Enteric Coated Granules/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905326",
+ "revisions": [
+  {
+   "revision_id": "201905326-267deb98",
+   "content_sha256": "267deb98f21e6db40836262d7070bb2f6672a1706b24fd30a1b3eb104d362e27",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:56Z",
+   "last_observed_at": "2026-09-08T08:55:56Z",
+   "official_revision_date": "2019-07-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:56Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601500",
+ "item_name": "바이엡티주100밀리그램/밀리리터(엡티네주맙,유전자재조합)",
+ "entp_name": "한국룬드벡(주)",
+ "permit_date": "20260522",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286419]엡티네주맙",
+ "main_item_ingr_eng": "Eptinezumab",
+ "edi_code": "",
+ "atc_code": "N02CD05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601500",
+ "revisions": [
+  {
+   "revision_id": "202601500-928c6c7e",
+   "content_sha256": "928c6c7e7315bfc52e81f23b23a787ba996da4bdd28373a72754f2c568b53718",
+   "ee_text": "성인에서 편두통의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:13Z",
+   "last_observed_at": "2026-09-08T09:05:13Z",
+   "official_revision_date": "2026-05-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:13Z"
+}

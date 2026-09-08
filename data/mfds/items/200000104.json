@@ -7,11 +7,12 @@
  "permit_date": "20000428",
  "cancel_date": "20250401",
  "status": "유효기간만료",
- "main_item_ingr": "[M089520]승마엑스산|[M089521]목단피엑스산|[M089119]당귀엑스산|[M089522]황련엑스산|[M089524]생지황엑스산",
+ "main_item_ingr": "[M089119]당귀엑스산|[M089520]승마엑스산|[M089521]목단피엑스산|[M089522]황련엑스산|[M089524]생지황엑스산",
  "main_item_ingr_eng": "Angelica Gigas Root Extract Powder/Cimicifuga Rhizome Extract Powder/Coptis Rhizome Extract Powder/Moutan Root Bark Extract Powder/Rehmanniae Radix Recens Extract Powder",
  "edi_code": "",
  "atc_code": "A01AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000104",
+ "history_fetched_at": "2026-08-28T13:23:52Z",
  "revisions": [
   {
    "revision_id": "200000104-ff32c91b",
@@ -19,9 +20,9 @@
    "ee_text": "한방의료보험용",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:23:52Z",
-   "last_observed_at": "2026-08-28T13:23:52Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:33:27Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:52Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107557",
+ "item_name": "차코트레이스주(약용탄)",
+ "entp_name": "주식회사제이텍팜",
+ "permit_date": "20211118",
+ "cancel_date": "20240215",
+ "status": "행정(취소)",
+ "main_item_ingr": "[M040394]약용탄",
+ "main_item_ingr_eng": "Medicinal Carbon",
+ "edi_code": "",
+ "atc_code": "V07A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107557",
+ "revisions": [
+  {
+   "revision_id": "202107557-67b08e36",
+   "content_sha256": "67b08e361aeaeec3dbc8cf4f60de2cdc23de037130dacdc029027a5b1b7d4fc7",
+   "ee_text": "유방종양 제거 수술 시 정위장치 또는 초음파를 이용하여 촉지할 수 없는 작은 부위를 표시하기 위한 수술 보조제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:49Z",
+   "last_observed_at": "2026-09-08T09:00:49Z",
+   "official_revision_date": "2021-11-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:49Z"
+}

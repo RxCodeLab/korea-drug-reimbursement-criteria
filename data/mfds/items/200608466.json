@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200608466",
+ "item_name": "마그넬정(수산화마그네슘)",
+ "entp_name": "일양바이오팜(주)",
+ "permit_date": "20060703",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040306]수산화마그네슘",
+ "main_item_ingr_eng": "Magnesium Hydroxide",
+ "edi_code": "",
+ "atc_code": "A02AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608466",
+ "revisions": [
+  {
+   "revision_id": "200608466-fe3aa82f",
+   "content_sha256": "fe3aa82fd3bb9a827e29cbe0e7aa8c2d6d2fc5b70013da39757467875a4ac07f",
+   "ee_text": "1. 주효능 효과 1) 다음 질환의 제산작용 및 증상의 개선 : 위·십이지장궤양, 위염, 위산과다 2) 변비증",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:39Z",
+   "last_observed_at": "2026-09-08T08:40:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:39Z"
+}

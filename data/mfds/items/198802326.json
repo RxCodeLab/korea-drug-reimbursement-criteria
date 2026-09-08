@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198802326",
+ "item_name": "가레오연질캡슐500밀리그램(디히드록시디부틸에테르)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "19880711",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256801]디히드록시디부틸에테르|[M256801]디히드록시디부틸에테르",
+ "main_item_ingr_eng": "Dihydroxydibutyl Ether",
+ "edi_code": "",
+ "atc_code": "A05AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198802326",
+ "revisions": [
+  {
+   "revision_id": "198802326-6c68a16c",
+   "content_sha256": "6c68a16c1c8e38481f5e3634a41590b1b6923d6a6dcf3d55f6bfcad14e2e7329",
+   "ee_text": "소화불량증상(복부팽만감, 소화의 지연, 트림, 구역)의 개선",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:42Z",
+   "last_observed_at": "2026-09-08T08:27:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:42Z"
+}

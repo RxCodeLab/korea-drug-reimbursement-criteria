@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501313",
+ "item_name": "키모신정(키모트립신)(수출명:Alfa-VIDOtablet)",
+ "entp_name": "천우신약(주)",
+ "permit_date": "20050909",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051551]키모트립신",
+ "main_item_ingr_eng": "Chymotrypsin",
+ "edi_code": "",
+ "atc_code": "B06AA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501313",
+ "revisions": [
+  {
+   "revision_id": "200501313-5af93474",
+   "content_sha256": "5af93474325e9ec0efb1d4f6561e7f8a1b555b27d7fec2776c00e1e8dddb97d5",
+   "ee_text": "○ 외상 또는 수술 후의 염증성 부종의 완화",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:07Z",
+   "last_observed_at": "2026-09-08T08:39:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:07Z"
+}

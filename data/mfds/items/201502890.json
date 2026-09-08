@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201502890",
+ "item_name": "구루치온정100밀리그램(글루타티온(환원형))",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20150513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256276]글루타티온(환원형)",
+ "main_item_ingr_eng": "Glutathione (Reduced)",
+ "edi_code": "",
+ "atc_code": "V03AB32",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502890",
+ "revisions": [
+  {
+   "revision_id": "201502890-7996c777",
+   "content_sha256": "7996c777f14feed35a84d57b52783faef59c20f20da28fe45e79d344341e432c",
+   "ee_text": "약물중독",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:02Z",
+   "last_observed_at": "2026-09-08T08:49:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:02Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903365",
+ "item_name": "리노로신나잘연고(무피로신칼슘수화물)",
+ "entp_name": "주식회사큐엘파마",
+ "permit_date": "20190523",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223035]무피로신칼슘수화물",
+ "main_item_ingr_eng": "Mupirocin Calcium Hydrate",
+ "edi_code": "",
+ "atc_code": "D06AX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903365",
+ "revisions": [
+  {
+   "revision_id": "201903365-4a5ba8ff",
+   "content_sha256": "4a5ba8ffed7f6bcd0da562d6120eb1f9a763e6d20d63f2d521b59a43a4075c8e",
+   "ee_text": "유효균종 : 무피로신에 감수성이 있는 메티실린 내성 황색포도상구균(MRSA) 적응증 : 다음 환자 및 개인이 보균한 비강 내 메티실린 내성 황색포도상구균(MRSA)의 제균 1. MRSA 감염 발병 위험이 높은 면역 기능 저하 상태에 있는 환자 2. 위 환자로부터 격리하는 것이 곤란한 입원 환자 또는 위 환자와 접촉하는 보건의료 종사자",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:18Z",
+   "last_observed_at": "2026-09-08T08:55:18Z",
+   "official_revision_date": "2019-05-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:18Z"
+}

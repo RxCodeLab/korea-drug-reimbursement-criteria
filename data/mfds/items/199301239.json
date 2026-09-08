@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199301239",
+ "item_name": "무타실산(차전자피)(수출명:HABITOT)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19930426",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M081198]차전자피",
+ "main_item_ingr_eng": "Psyllium Husk",
+ "edi_code": "",
+ "atc_code": "A06AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301239",
+ "revisions": [
+  {
+   "revision_id": "199301239-59f77828",
+   "content_sha256": "59f7782800112510d23037449daf05b628551254ed620f82d6be37da561dd951",
+   "ee_text": "1. 만성변비 2. 과민성대장증후군 및 게실(곁주머니)질환시 변비의 보조요법 3. 치질환자의 장관(창자)관리 4. 임신ㆍ병후회복기ㆍ고령자(노인)의 변비",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:48Z",
+   "last_observed_at": "2026-09-08T08:28:48Z",
+   "official_revision_date": "1996-04-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:48Z"
+}

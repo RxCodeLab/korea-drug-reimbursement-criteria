@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300523",
+ "item_name": "뉴카틴정(아세틸-L-카르니틴염산염)(수출용)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20230213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249118]아세틸-L-카르니틴염산염",
+ "main_item_ingr_eng": "Acetyl-L-Carnitine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300523",
+ "revisions": [
+  {
+   "revision_id": "202300523-85c2affc",
+   "content_sha256": "85c2affc540c2bb8723f30bf6fe55fa97db00cfe1b7a9fdd9f85acdf45b1a8d0",
+   "ee_text": "일차적 퇴행성 질환 또는 뇌혈관 질환에 의한 이차적 퇴행성 질환",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:52Z",
+   "last_observed_at": "2026-09-08T09:01:52Z",
+   "official_revision_date": "2023-02-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:52Z"
+}

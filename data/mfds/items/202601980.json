@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601980",
+ "item_name": "케이플루주(페라미비르수화물)",
+ "entp_name": "주식회사케이에스제약",
+ "permit_date": "20260708",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250603]페라미비르수화물",
+ "main_item_ingr_eng": "Peramivir Hydrate",
+ "edi_code": "",
+ "atc_code": "J05AH03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601980",
+ "revisions": [
+  {
+   "revision_id": "202601980-83fa3230",
+   "content_sha256": "83fa3230d568beb893d321fbe53fbb08f2b14245ef5c11267eede923daac77bb",
+   "ee_text": "성인 및 2세 이상 소아의 A형 또는 B형 인플루엔자 바이러스 감염증의 치료(인플루엔자 감염의 초기증상 발현 48시간 이내에 투여를 시작해야 한다.)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:29Z",
+   "last_observed_at": "2026-09-08T09:05:29Z",
+   "official_revision_date": "2026-07-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:29Z"
+}

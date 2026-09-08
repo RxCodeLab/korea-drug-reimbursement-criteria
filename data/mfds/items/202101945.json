@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101945",
+ "item_name": "비맥스메타비정",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20210302",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M040488]이노시톨|[M083577]비스벤티아민|[M096428]벤포티아민|[M102050]콜레칼시페롤농축분말|[M204304]피리독신염산염|[M204437]L-시스테인|[M223167]우르소데옥시콜산|[M223289]폴산|[M223357]히드록소코발라민아세트산염|[M243785]산화아연|[M244365]셀레늄함유건조효모|[M244748]판토텐산칼슘|[M247683]콜린타르타르산염|[M249150]d-비오틴",
+ "main_item_ingr_eng": "Benfotiamine/Bisbentiamine/Calcium Pantothenate/Cholecalciferol Concentrate Powder/Choline Tartrate/D-Biotin/Folic Acid/Hydroxocobalamin Acetate/Inositol/L-Cysteine/Magnesium Oxide/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Selenium In Dried Yeast/Ursodeoxycholic Acid/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11EX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101945",
+ "revisions": [
+  {
+   "revision_id": "202101945-010f3519",
+   "content_sha256": "010f3519ac7f8773143e0015d2d1e45ee1559b8c2e423c5c19070cb9f50207c4",
+   "ee_text": "1. 다음 경우의 비타민 D, B1, B2, B6의 보급 - 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. ․ 뼈, 이의 발육불량 ․ 구루병의 예방 ․ 각기 ․ 눈의피로 ․ 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등), 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 2. 아연의 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:59Z",
+   "last_observed_at": "2026-09-08T08:59:59Z",
+   "official_revision_date": "2021-03-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:59Z"
+}

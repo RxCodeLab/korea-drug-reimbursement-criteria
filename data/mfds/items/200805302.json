@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805302",
+ "item_name": "타리비드안연고(오플록사신)",
+ "entp_name": "한국산텐제약(주)",
+ "permit_date": "20080509",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081639]오플록사신",
+ "main_item_ingr_eng": "Ofloxacin",
+ "edi_code": "665600081",
+ "atc_code": "S01AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805302",
+ "revisions": [
+  {
+   "revision_id": "200805302-d927e22e",
+   "content_sha256": "d927e22ee3bf88f37b44254d0b4f7ee0dbe39911519b3514967fd514fe994440",
+   "ee_text": "<유효군종> 본제 감수성의 포도구균속, 연쇄상구균속, 폐렴구균, 장구균속, 소구균속, 모락셀라속, 간균속, 클렙시엘라속, 세라치아속, 프로테우스속, 모르가넬라 모르가니, 프로비덴시아속, 혈호균속[인플루엔자균, 헤모필루스 애집티우스 (Koch-Weeks bacillus)], 슈도모나스속, 녹농균, 벅홀데리아 세파시스, 스테노트로포모나스(산토모나스)말토필리아, 아시네토박터속, 프로피오니박테리움아크네스, 트라코마 클라미디아(클라미디아 트라코마티스) <적응증> 안검염, 누낭염, 맥립종, 결막염, 검판선염, 각막염(각막궤양을 포함), 안과 수술 전후의 무균화 요법",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:30Z",
+   "last_observed_at": "2026-09-08T08:42:30Z",
+   "official_revision_date": "2008-09-19"
+  },
+  {
+   "revision_id": "200805302-6415238b",
+   "content_sha256": "6415238bb6011ebbece817a966a24ada36ebc079cc81184e3a216b89bc54662b",
+   "ee_text": "포도구균속, 연쇄상구균속, 폐렴구균, 소구균속, 간균속, 브란하멜라속, 슈도모나스속, 녹농균, 혈호균속[인플루엔자균, Haemophilus aegyptius (Koch-Weeks)], 모락셀라속(인결막염균), 세라티아속, 클렙시엘라속, 프로테우스속, 아시네토박터속, 혐기성균(프로피오니박테륨아크네스), 클라미디아 트라코마와 같은 이 약 감수성균에 의한 다음의 감염증 : 안검염, 맥립종, 누낭염, 결막염, 검판선염, 각막염, 각막궤양, 수술 후 감염증, 트라코마",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-28",
+   "first_observed_at": "2026-09-08T08:42:30Z",
+   "last_observed_at": "2026-09-08T08:42:30Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:30Z"
+}

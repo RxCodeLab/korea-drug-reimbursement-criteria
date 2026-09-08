@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201208472",
+ "item_name": "리포직이디오점안겔(카보머)",
+ "entp_name": "(주)바슈헬스코리아",
+ "permit_date": "20121119",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M060264]카보머",
+ "main_item_ingr_eng": "Carbomer",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208472",
+ "revisions": [
+  {
+   "revision_id": "201208472-468f5c14",
+   "content_sha256": "468f5c14b107a116537008148cb8ad31b11a15e7149e79e46972b21e1873e0af",
+   "ee_text": "눈의 건조증상의 완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201208472/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:36Z",
+   "last_observed_at": "2026-09-08T08:45:36Z"
+  },
+  {
+   "revision_id": "201208472-1dc34fa6",
+   "content_sha256": "1dc34fa672e2346d1ac3de58fd3c0b25c85225fdf00132b424c1a3dedf98c9f5",
+   "ee_text": "(겔제) 눈의 건조증상의 완화",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:36Z",
+   "last_observed_at": "2026-09-08T08:45:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:36Z"
+}

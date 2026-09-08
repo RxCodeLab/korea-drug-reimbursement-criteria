@@ -7,7 +7,7 @@
  "permit_date": "19900525",
  "cancel_date": "20250701",
  "status": "유효기간만료",
- "main_item_ingr": "[M223081]스코폴라민브롬화수소산염수화물|[M223008]메클리진염산염수화물",
+ "main_item_ingr": "[M223008]메클리진염산염수화물|[M223081]스코폴라민브롬화수소산염수화물",
  "main_item_ingr_eng": "Meclizine Hydrochloride Hydrate/Scopolamine Hydrobromide Hydrate",
  "edi_code": "",
  "atc_code": "A04AD51",
@@ -20,7 +20,8 @@
    "ee_text": "멀미에 의한 어지러움·구토·두통의 예방 및 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199001524/EE",
    "first_observed_at": "2026-08-27T12:48:37Z",
-   "last_observed_at": "2026-08-28T13:23:43Z"
+   "last_observed_at": "2026-09-08T08:28:04Z",
+   "normalizer_version": 3
   }
  ]
 }

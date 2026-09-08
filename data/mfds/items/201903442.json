@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903442",
+ "item_name": "징키스틴캡슐(히스티딘아연이수화물)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20190528",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M248610]히스티딘아연이수화물",
+ "main_item_ingr_eng": "Zinc Histidine Dihydrate",
+ "edi_code": "",
+ "atc_code": "A12CB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903442",
+ "revisions": [
+  {
+   "revision_id": "201903442-6d048e81",
+   "content_sha256": "6d048e8171f0b74fcdb2fcdd18bd96cb9b821c0919c8e5d05eba218f3336b5f4",
+   "ee_text": "아연의 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:21Z",
+   "last_observed_at": "2026-09-08T08:55:21Z",
+   "official_revision_date": "2019-05-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:21Z"
+}

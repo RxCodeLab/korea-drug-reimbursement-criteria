@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501990",
+ "item_name": "베로타에이정",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20250730",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040678]판크레아틴|[M100297]셀룰라제|[M223083]시메티콘|[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Cellulase/Pancreatin/Simethicone/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A09AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501990",
+ "revisions": [
+  {
+   "revision_id": "202501990-286238c3",
+   "content_sha256": "286238c3b12d46d86e2ad405992ae10e43fd39d2ee3a5cf7ad3fca20120802ff",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:09Z",
+   "last_observed_at": "2026-09-08T09:04:09Z",
+   "official_revision_date": "2025-07-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:09Z"
+}

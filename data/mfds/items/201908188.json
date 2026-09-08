@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908188",
+ "item_name": "폰스텔캡슐(메페남산)(수출용)(수출명:PONSTEL Capsules)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20191202",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100591]메페남산",
+ "main_item_ingr_eng": "Mefenamic Acid",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908188",
+ "revisions": [
+  {
+   "revision_id": "201908188-c1de093a",
+   "content_sha256": "c1de093a3ca97fe43765e27dc1d6042d5ce618282ee3605ffe90cb2c8100f39c",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 두통, 치통, 요통, 골관절염(퇴행성 관절질환),외상후 . 수술후 . 분만후 염증 및 동통, 부비동염에 수반하는 동통, 월경통",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:11Z",
+   "last_observed_at": "2026-09-08T08:57:11Z",
+   "official_revision_date": "2019-12-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:11Z"
+}

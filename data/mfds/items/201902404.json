@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902404",
+ "item_name": "중헌아젤라스틴염산염정1밀리그램",
+ "entp_name": "(주)중헌제약",
+ "permit_date": "20190418",
+ "cancel_date": "20240418",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222870]아젤라스틴염산염",
+ "main_item_ingr_eng": "Azelastine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AX19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902404",
+ "revisions": [
+  {
+   "revision_id": "201902404-0d46cc68",
+   "content_sha256": "0d46cc6846a12a8b1098669558c659415c3e27bb5e72f90e882188084990b0ab",
+   "ee_text": "기관지 천식, 알레르기성비염, 두드러기, 습진, 피부염, 아토피성 피부염, 피부소양증, 가려움",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:53Z",
+   "last_observed_at": "2026-09-08T08:54:53Z",
+   "official_revision_date": "2019-04-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:53Z"
+}

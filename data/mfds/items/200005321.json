@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A02A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005321",
+ "history_fetched_at": "2026-08-28T13:23:56Z",
  "revisions": [
   {
-   "revision_id": "200005321-14d1ed69",
-   "content_sha256": "14d1ed6910ec168c5fc241b9c922237c4754cb424c50d174a8bdc978f0fa3ad5",
-   "ee_text": "1) 다음 질환의 제산작용 및 증상의 개선 : 위 . 십이지장궤양, 위염, 위산과다 2) 산증의 개선 요산배설의 촉진과 통풍발작의 예방",
+   "revision_id": "200005321-1e078ea4",
+   "content_sha256": "1e078ea433cf1041c1e3b4998f7022866f74c451f856128fa9e5b204f63eb682",
+   "ee_text": "1. 주효능 효과 1) 다음 질환의 제산작용 및 증상의 개선 : 위.십이지장궤양, 위염, 위산과다 2) 산증의 개선 2. 다음 질환에도 사용할 수 있다. 요산배설의 촉진과 통풍발작의 예방",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:23:56Z",
-   "last_observed_at": "2026-08-28T13:23:56Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:34:22Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:56Z"
+ ]
 }

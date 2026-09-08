@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600113",
+ "item_name": "엘라프리점안현탁액(브린졸라미드,티몰롤말레산염)(1회용)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20260113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256384]티몰롤말레산염|[M262199]브린졸라미드",
+ "main_item_ingr_eng": "Brinzolamide/Timolol Maleate",
+ "edi_code": "643904251",
+ "atc_code": "S01ED51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600113",
+ "revisions": [
+  {
+   "revision_id": "202600113-be8cc5d4",
+   "content_sha256": "be8cc5d454c5f9b8194fc00d8ccd7fc62d60a621db6ad4ff43882dd336100faa",
+   "ee_text": "단독요법으로 안압감소가 불충분한 경우, 고안압증 또는 개방각 녹내장 환자의 상승된 안내압 감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:39Z",
+   "last_observed_at": "2026-09-08T09:04:39Z",
+   "official_revision_date": "2026-01-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:39Z"
+}

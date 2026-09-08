@@ -7,11 +7,12 @@
  "permit_date": "20170316",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040009]건조효모|[M218515]락토바실루스 스포로게네스균|[M050379]리파제|[M267745]디아스타제·프로테아제·셀룰라제",
+ "main_item_ingr": "[M040009]건조효모|[M050379]리파제|[M218515]락토바실루스 스포로게네스균|[M267745]디아스타제·프로테아제·셀룰라제",
  "main_item_ingr_eng": "Diastase·Protease·Cellulase/Dried Yeast/Lactobacillus Sporogenes/Lipase",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701300",
+ "history_fetched_at": "2026-08-28T13:24:55Z",
  "revisions": [
   {
    "revision_id": "201701300-4c76eba6",
@@ -19,8 +20,9 @@
    "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감, 정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:24:55Z",
-   "last_observed_at": "2026-08-28T13:24:55Z",
-   "official_revision_date": "2021-12-09"
+   "last_observed_at": "2026-09-08T08:51:38Z",
+   "official_revision_date": "2021-12-09",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201701300-1a8f711a",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:55Z",
    "last_observed_at": "2026-08-28T13:24:55Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:55Z"
+ ]
 }

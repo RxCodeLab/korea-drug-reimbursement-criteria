@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403117",
+ "item_name": "트라제트겔(피록시캄)",
+ "entp_name": "아이큐어(주)",
+ "permit_date": "20140714",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071634]피록시캄",
+ "main_item_ingr_eng": "Piroxicam",
+ "edi_code": "",
+ "atc_code": "M02AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403117",
+ "revisions": [
+  {
+   "revision_id": "201403117-fe092714",
+   "content_sha256": "fe092714cd8083e489b278ef81baefd9de8e8e5e30e0da67b38ebf1007826ba1",
+   "ee_text": "(겔제)(연고제)(크림제) 다음 질환 및 증상의 진통ㆍ소염(항염) : 퇴행성관절염(골(뼈)관절염), 어깨관절주위염, 건(힘줄)ㆍ건초염(힘줄윤활막염), 건(힘줄)주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통(근염, 근막염 등), 외상(상처)후의 종창(부기)ㆍ동통(통증)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:18Z",
+   "last_observed_at": "2026-09-08T08:47:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:18Z"
+}

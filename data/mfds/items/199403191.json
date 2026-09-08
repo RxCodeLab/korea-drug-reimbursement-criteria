@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403191",
+ "item_name": "다이아그노스틱알러젠익스트렉트",
+ "entp_name": "(주)신광신약",
+ "permit_date": "19940516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093527]알러젠추출물",
+ "main_item_ingr_eng": "Allergen Extract",
+ "edi_code": "656800010",
+ "atc_code": "V04CL",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403191",
+ "revisions": [
+  {
+   "revision_id": "199403191-defdcb73",
+   "content_sha256": "defdcb733ff31ad611c9df15011906f69609a18e5c82b7883681f2552db56546",
+   "ee_text": "(신광신약 다이아그노스틱 알러지익스트렉트/컴프리핸시브 스킨테스트 케비넷) 다음 알레르기성 질환의 진단을 위한 피부반응의 검사 : 알레르기성 천식, 다년성 비카타르, 고초열, 알레르기성피부염 및 피부의 상태 (알레파인터내쇼날 알레르기 진단용 시약) IgE 관련 알레르기 질환의 진단",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:21Z",
+   "last_observed_at": "2026-09-08T08:29:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:21Z"
+}

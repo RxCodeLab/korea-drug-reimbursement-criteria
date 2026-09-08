@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906521",
+ "item_name": "케어번크림(사황산건조엑스(5→1))",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20090825",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M248656]사황산건조엑스(5→1)",
+ "main_item_ingr_eng": "Sahwangsan Dried Extract (5→1)",
+ "edi_code": "",
+ "atc_code": "D06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906521",
+ "revisions": [
+  {
+   "revision_id": "200906521-89c0e702",
+   "content_sha256": "89c0e702ea3d631905da1e7fc9c9fdb8b47ad57949b4e67cf7ff9f2cda8a3423",
+   "ee_text": "화상에 의한 짓무름과 통증의 완화",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200906521/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:30Z",
+   "last_observed_at": "2026-09-08T08:43:30Z"
+  },
+  {
+   "revision_id": "200906521-8babc5f0",
+   "content_sha256": "8babc5f090db24a7421f17458f54cb980f0fc490783210deab7c0873e5c40a7c",
+   "ee_text": "(크림제) 화상에 의한 짓무름과 통증의 완화",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:43:30Z",
+   "last_observed_at": "2026-09-08T08:43:30Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:30Z"
+}

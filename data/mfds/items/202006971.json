@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006971",
+ "item_name": "뉴넥스정",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20201013",
+ "cancel_date": "20251013",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050687]비사코딜|[M114278]티니벨리센나열매 가루",
+ "main_item_ingr_eng": "Bisacodyl/Tinnevelly Senna Fruit Powder",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006971",
+ "revisions": [
+  {
+   "revision_id": "202006971-e65974a1",
+   "content_sha256": "e65974a155acd38902ff0cf9bfc50a51360618cecd3eafbb105231f7c52d01fa",
+   "ee_text": "· 변비 · 변비에 다른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:30Z",
+   "last_observed_at": "2026-09-08T08:59:30Z",
+   "official_revision_date": "2020-10-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:30Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199400362",
+ "item_name": "이부스트린정200밀리그램(인도부펜)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "19940618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083862]인도부펜",
+ "main_item_ingr_eng": "Indobufen",
+ "edi_code": "642901550",
+ "atc_code": "B01AC10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400362",
+ "revisions": [
+  {
+   "revision_id": "199400362-6608f459",
+   "content_sha256": "6608f4592b3d75c32b022b06b6a7e78042af8d6e1020ef4487295e69b4b4b877",
+   "ee_text": "다음과 같은 질환에 수반되는 혈전의 치료 : 죽상경화성 말초혈관질환",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199400362/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:03Z",
+   "last_observed_at": "2026-09-08T08:29:03Z"
+  },
+  {
+   "revision_id": "199400362-b6fb8964",
+   "content_sha256": "b6fb89643d2a45a5c519d5819196b50821af8976d457853900e5ba04ba3f09b2",
+   "ee_text": "1. 다음과 같은 질환에 수반되는 혈전의 치료 : 허혈성 뇌혈관질환, 허혈성 심질환, 죽상경화성 말초혈관질환, 정맥혈전증 2. 체외순환(혈액투석)시 혈전생성 예방",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-05-29",
+   "first_observed_at": "2026-09-08T08:29:03Z",
+   "last_observed_at": "2026-09-08T08:29:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:03Z"
+}

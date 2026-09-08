@@ -7,11 +7,12 @@
  "permit_date": "20220408",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040006]감초|[M040071]대추|[M040007]건강|[M040048]길경|[M040523]작약|[M040536]지실",
+ "main_item_ingr": "[M040006]감초|[M040007]건강|[M040048]길경|[M040071]대추|[M040523]작약|[M040536]지실",
  "main_item_ingr_eng": "Ginger/Jujube/Licorice/Peony Root/Platycodon Root/Poncirus Immature Fruit",
  "edi_code": "",
  "atc_code": "J01XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201491",
+ "history_fetched_at": "2026-08-28T13:25:28Z",
  "revisions": [
   {
    "revision_id": "202201491-d2110385",
@@ -19,9 +20,9 @@
    "ee_text": "발적(충혈되어 붉어짐), 부기, 단단해지고 통증을 수반하는 화농성질환",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:28Z",
-   "last_observed_at": "2026-08-28T13:25:28Z",
-   "official_revision_date": "2022-04-08"
+   "last_observed_at": "2026-09-08T09:01:14Z",
+   "official_revision_date": "2022-04-08",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:28Z"
+ ]
 }

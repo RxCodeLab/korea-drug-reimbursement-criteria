@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908452",
+ "item_name": "스테안크림",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20191217",
+ "cancel_date": "20241217",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222838]디플루코르톨론발레레이트|[M222880]이소코나졸질산염",
+ "main_item_ingr_eng": "Diflucortolone Valerate/Isoconazole Nitrate",
+ "edi_code": "",
+ "atc_code": "D01AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908452",
+ "revisions": [
+  {
+   "revision_id": "201908452-80835a16",
+   "content_sha256": "80835a1673851d5ff38e97b4cbaa95728bbd98626f7ab3d3ebc26ea9487524d3",
+   "ee_text": "심한 염증 및 습진 등의 임상증상을 수반하는 피부 진균증 : 1) 백선 2) 피부칸디다증 3) 어루러기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:17Z",
+   "last_observed_at": "2026-09-08T08:57:17Z",
+   "official_revision_date": "2019-12-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:17Z"
+}

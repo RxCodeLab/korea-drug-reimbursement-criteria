@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202403035",
+ "item_name": "라타스트점안액(라타노프로스트)(1회용)",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20241220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089240]라타노프로스트",
+ "main_item_ingr_eng": "Latanoprost",
+ "edi_code": "651206171",
+ "atc_code": "S01EE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403035",
+ "revisions": [
+  {
+   "revision_id": "202403035-f8d2b885",
+   "content_sha256": "f8d2b88576777dc8f9fc868b6db3d561960bdbdcc07241905d2072bb9a84c12a",
+   "ee_text": "다음 질환의 안압 하강 : ㆍ 성인 개방각 녹내장, 만성 폐쇄각 녹내장, 고안압 ㆍ 소아 소아 녹내장, 고안압",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:34Z",
+   "last_observed_at": "2026-09-08T09:03:34Z",
+   "official_revision_date": "2024-12-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:34Z"
+}

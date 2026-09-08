@@ -7,11 +7,12 @@
  "permit_date": "20000317",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M089533]천궁엑스산|[M089498]시호엑스산|[M089552]지각엑스산|[M089535]황금엑스산|[M089600]백지엑스산|[M089119]당귀엑스산|[M089564]방풍엑스산|[M089560]연교엑스산|[M089503]치자엑스산|[M090093]작약엑스산|[M082727]감초엑스산|[M084832]길경엑스산|[M089563]형개엑스산",
+ "main_item_ingr": "[M082727]감초엑스산|[M084832]길경엑스산|[M089119]당귀엑스산|[M089498]시호엑스산|[M089503]치자엑스산|[M089533]천궁엑스산|[M089535]황금엑스산|[M089552]지각엑스산|[M089560]연교엑스산|[M089563]형개엑스산|[M089564]방풍엑스산|[M089600]백지엑스산|[M090093]작약엑스산",
  "main_item_ingr_eng": "Angelica Dahurica Root Extract Powder/Angelica Gigas Root Extract Powder/Aurantii Fructus Immaturus Extract Powder/Bupleurum Root Extract Powder/Cnidium Rhizome Extract Powder/Forsythia Fruit Extract Powder/Gardenia Fruit Extract Powder/Glycyrrhiza Extract Powder/Peony Root Extract Powder/Platycodon Root Extract Powder/Saposhnikovia Root Extract Powder/Schizonepeta Spike Extract Powder/Scutellaria Root Extract Powder",
  "edi_code": "",
  "atc_code": "R01B",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000686",
+ "history_fetched_at": "2026-08-28T13:23:53Z",
  "revisions": [
   {
    "revision_id": "200000686-ff32c91b",
@@ -19,9 +20,9 @@
    "ee_text": "한방의료보험용",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:23:53Z",
-   "last_observed_at": "2026-08-28T13:23:53Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:33:36Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:53Z"
+ ]
 }

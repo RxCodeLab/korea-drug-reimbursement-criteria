@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000583",
+ "item_name": "페나베타주(디클로페낙β-디메틸아미노에탄올)",
+ "entp_name": "주식회사케이에스제약",
+ "permit_date": "20200204",
+ "cancel_date": "20260625",
+ "status": "취하",
+ "main_item_ingr": "[M252249]디클로페낙β-디메틸아미노에탄올",
+ "main_item_ingr_eng": "Diclofenac Beta-Dimethylaminoethanol",
+ "edi_code": "059000631",
+ "atc_code": "M01AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000583",
+ "revisions": [
+  {
+   "revision_id": "202000583-f86d173b",
+   "content_sha256": "f86d173bcae9eb6488a50fd8a1a02a0d71793c6e419ddc2b17ee60fd43d51b2c",
+   "ee_text": "다음 질환에 사용할 수 있다. 1. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염 2. 외상후•수술후 염증 및 동통, 급성통풍, 신 및 간산통",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:41Z",
+   "last_observed_at": "2026-09-08T08:57:41Z",
+   "official_revision_date": "2020-02-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:41Z"
+}

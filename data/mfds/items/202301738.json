@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301738",
+ "item_name": "디칼본정",
+ "entp_name": "엔비케이제약(주)",
+ "permit_date": "20230602",
+ "cancel_date": "20260506",
+ "status": "취하",
+ "main_item_ingr": "[M040594]콜레칼시페롤|[M040634]침강탄산칼슘",
+ "main_item_ingr_eng": "Cholecalciferol/Precipitated Calcium Carbonate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301738",
+ "revisions": [
+  {
+   "revision_id": "202301738-6b3e464f",
+   "content_sha256": "6b3e464ff47faca52069533fdb77a4de24b5949864a897ec0df69ac39c0b5c1a",
+   "ee_text": "● 다음 경우의 비타민 D의 보급 - 임신·수유기 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능· 효과 뼈, 이의 발육불량 구루병의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:08Z",
+   "last_observed_at": "2026-09-08T09:02:08Z",
+   "official_revision_date": "2023-06-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:08Z"
+}

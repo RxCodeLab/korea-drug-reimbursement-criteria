@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200704519",
+ "item_name": "보노아이프리필드주(수출용)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20070419",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040141]메글루민|[M089397]가도펜테틴산메글루민",
+ "main_item_ingr_eng": "Meglumine/Meglumine Gadopentetate",
+ "edi_code": "",
+ "atc_code": "V08CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704519",
+ "revisions": [
+  {
+   "revision_id": "200704519-0f3e19d3",
+   "content_sha256": "0f3e19d34d884e5bc5196226bd67e722f46ecd21c297e06584a33d36baac307a",
+   "ee_text": "1. 뇌신경계 및 척추의 자기공명영상(MRI) 조영제 2. 체부의 자기공명영상(MRI) 조영제",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:24Z",
+   "last_observed_at": "2026-09-08T08:41:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:24Z"
+}

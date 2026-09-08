@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200907915",
+ "item_name": "노자임캡슐10000(판크레아틴장용성제피미세정)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20091106",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M262958]판크레아틴장용성제피미세정",
+ "main_item_ingr_eng": "Pancreatin Enteric Coated Micronized Tablets",
+ "edi_code": "",
+ "atc_code": "A09AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907915",
+ "revisions": [
+  {
+   "revision_id": "200907915-74609bf4",
+   "content_sha256": "74609bf4f98399b9985e3042a7d33dfbf698dc49aa2c6366a1c795cdaea245d6",
+   "ee_text": "췌장 외분비 기능장애",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:36Z",
+   "last_observed_at": "2026-09-08T08:43:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:36Z"
+}

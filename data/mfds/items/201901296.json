@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901296",
+ "item_name": "티로케이주(티로프라미드염산염)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20190228",
+ "cancel_date": "20240110",
+ "status": "취하",
+ "main_item_ingr": "[M224812]티로프라미드염산염",
+ "main_item_ingr_eng": "Tiropramide Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A03AC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901296",
+ "revisions": [
+  {
+   "revision_id": "201901296-d7c392c1",
+   "content_sha256": "d7c392c1dfa6dfc6beebd4a49f8768ac14a9600dca186addad0e54cd84d29259",
+   "ee_text": "1. 다음 질환에서의 급성 경련성 동통 : 간담도산통, 여러 원인에 의한 복부산통, 신장ㆍ요관의 산통 2. 다음 질환에서의 복부 경련 및 동통 : 위장관 이상운동증, 담석증, 담낭염, 수술후 유착",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:24Z",
+   "last_observed_at": "2026-09-08T08:54:24Z",
+   "official_revision_date": "2019-02-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:24Z"
+}

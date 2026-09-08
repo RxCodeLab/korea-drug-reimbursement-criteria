@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007718",
+ "item_name": "제비닉스정800밀리그램(에슬리카르바제핀아세테이트(미분화))",
+ "entp_name": "환인제약(주)",
+ "permit_date": "20201110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279911]에슬리카르바제핀아세테이트(미분화)",
+ "main_item_ingr_eng": "Eslicarbazepine Acetate(micronized)",
+ "edi_code": "657203720",
+ "atc_code": "N03AF04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007718",
+ "revisions": [
+  {
+   "revision_id": "202007718-fb063863",
+   "content_sha256": "fb063863815b775d540bf8f1fd57f648df61f3cb613465593e30f2d4a2684a78",
+   "ee_text": "⦁ 새로 뇌전증으로 진단된 성인에서 2차성 전신발작을 동반하거나 동반하지 않은 부분발작 치료의 단독요법 ⦁ 만 6세 이상의 소아 및 성인에서 2차성 전신발작을 동반하거나 동반하지 않은 부분발작 치료의 부가요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:37Z",
+   "last_observed_at": "2026-09-08T08:59:37Z",
+   "official_revision_date": "2020-11-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:37Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "653600190",
  "atc_code": "C09CA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703598",
+ "history_fetched_at": "2026-08-28T13:24:12Z",
  "revisions": [
   {
    "revision_id": "200703598-2a212b5e",
@@ -19,7 +20,8 @@
    "ee_text": "(정제) * 320 mg 본태고혈압",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200703598/EE",
    "first_observed_at": "2026-08-28T13:24:12Z",
-   "last_observed_at": "2026-08-28T13:24:12Z"
+   "last_observed_at": "2026-09-08T08:41:18Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200703598-ba95b825",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:12Z",
    "last_observed_at": "2026-08-28T13:24:12Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:12Z"
+ ]
 }

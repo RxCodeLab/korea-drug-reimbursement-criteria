@@ -7,11 +7,12 @@
  "permit_date": "20200611",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M115798]감초 엑스산|[M110943]오미자 엑스산|[M110900]백출 엑스산|[M115860]절패모 엑스산|[M110918]반하 엑스산|[M115859]상백피 엑스산|[M110890]진피 엑스산|[M110944]자소엽 엑스산|[M110892]생강 엑스산|[M110921]행인 엑스산",
+ "main_item_ingr": "[M110890]진피 엑스산|[M110892]생강 엑스산|[M110900]백출 엑스산|[M110918]반하 엑스산|[M110921]행인 엑스산|[M110943]오미자 엑스산|[M110944]자소엽 엑스산|[M115798]감초 엑스산|[M115859]상백피 엑스산|[M115860]절패모 엑스산",
  "main_item_ingr_eng": "Apricot Kernel Extract Powder/Atractylodes Rhizoma Alba Extract Powder/Citrus Unshiu Peel Extract Powder/Fritillaria Thunbergii Bulb Extract Powder/Glycyrrhiza Extract Powder/Mulberry Root Bark Extract Powder/Perilla Leaf Extract Powder/Pinellia Tuber Extract Powder/Raw Ginger Extract Powder/Schisandra Fruit Extract Powder",
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004338",
+ "history_fetched_at": "2026-08-28T13:25:19Z",
  "revisions": [
   {
    "revision_id": "202004338-ff32c91b",
@@ -19,9 +20,9 @@
    "ee_text": "한방의료보험용",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:19Z",
-   "last_observed_at": "2026-08-28T13:25:19Z",
-   "official_revision_date": "2020-06-11"
+   "last_observed_at": "2026-09-08T08:59:07Z",
+   "official_revision_date": "2020-06-11",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:19Z"
+ ]
 }

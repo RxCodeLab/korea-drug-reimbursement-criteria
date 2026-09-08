@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711446",
+ "item_name": "비로나트점안액(폴리소르베이트80)(수출용)",
+ "entp_name": "(주)옵투스제약",
+ "permit_date": "20071018",
+ "cancel_date": "20240220",
+ "status": "취하",
+ "main_item_ingr": "[M088337]폴리소르베이트80",
+ "main_item_ingr_eng": "Polysorbate 80",
+ "edi_code": "",
+ "atc_code": "S01XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711446",
+ "revisions": [
+  {
+   "revision_id": "200711446-1ef7f0f2",
+   "content_sha256": "1ef7f0f236c78d364a1d0b8c16ad6d17aef3e51975e4853e002ec4297251f90d",
+   "ee_text": "눈의 건조증상의 완화, 자극의 일시적 경감",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:58Z",
+   "last_observed_at": "2026-09-08T08:41:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:58Z"
+}

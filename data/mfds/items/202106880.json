@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106880",
+ "item_name": "베스레미주(로페그인터페론알파-2b, 유전자재조합)",
+ "entp_name": "파마에센시아코리아(주)",
+ "permit_date": "20211013",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281549]로페그인터페론알파-2b|[M281549]로페그인터페론알파-2b",
+ "main_item_ingr_eng": "Ropeginterferon alfa-2b",
+ "edi_code": "074700011,074700012",
+ "atc_code": "L03AB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106880",
+ "revisions": [
+  {
+   "revision_id": "202106880-68a40b86",
+   "content_sha256": "68a40b86367e74753cdc05f38ad67fba2c64d7a859f277948c193968e443b782",
+   "ee_text": "저위험군(단, 세포감소요법을 필요로 하는 환자에 한함) 및 고위험군의 증상을 동반한 비장비대증이 없는 진성적혈구증가증 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:39Z",
+   "last_observed_at": "2026-09-08T09:00:39Z",
+   "official_revision_date": "2021-10-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:39Z"
+}

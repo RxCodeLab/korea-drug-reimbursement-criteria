@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198801248",
+ "item_name": "펙사딘캡슐(페노베린)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19880310",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082524]페노베린",
+ "main_item_ingr_eng": "Fenoverine",
+ "edi_code": "642202300",
+ "atc_code": "A03AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198801248",
+ "revisions": [
+  {
+   "revision_id": "198801248-849d1ce9",
+   "content_sha256": "849d1ce9b95eebe1aadd503635c4a9ffda591cb5962c0716a83ccf9c185a81cf",
+   "ee_text": "과민성대장염, 월경통",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:38Z",
+   "last_observed_at": "2026-09-08T08:27:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:38Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200708513",
+ "item_name": "니엔정(구연산니카메테이트)(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20070724",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M249428]니카메테이트시트르산염",
+ "main_item_ingr_eng": "Nicametate Citrate",
+ "edi_code": "",
+ "atc_code": "C04AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708513",
+ "revisions": [
+  {
+   "revision_id": "200708513-c2a50445",
+   "content_sha256": "c2a5044552971a6ded892c9fcf84964d080f9a5dfd1899657b8e181ae64a0387",
+   "ee_text": "1. 다음 질환에 의한 여러 증상의 개선 : 뇌동맥경화증 2. 이명, 난청 3. 다음 질환에 의한 말초순환장애 : 폐색성혈전혈관염(버거병), 레이노병 및 레이노증후군",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:42Z",
+   "last_observed_at": "2026-09-08T08:41:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:42Z"
+}

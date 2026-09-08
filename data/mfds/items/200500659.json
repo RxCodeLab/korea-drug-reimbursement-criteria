@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500659",
+ "item_name": "레카딘정(레르카니디핀염산염)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20050525",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250577]레르카니디핀염산염",
+ "main_item_ingr_eng": "Lercanidipine Hydrochloride",
+ "edi_code": "649600800",
+ "atc_code": "C08CA13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500659",
+ "revisions": [
+  {
+   "revision_id": "200500659-16cb10e5",
+   "content_sha256": "16cb10e5c73b4404c0e7ca462b34a456457aba1d00bf844882a0747442e04125",
+   "ee_text": "경증 ～ 중등도 본태고혈압",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:58Z",
+   "last_observed_at": "2026-09-08T08:38:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:58Z"
+}

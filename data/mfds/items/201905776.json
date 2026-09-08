@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905776",
+ "item_name": "한풍열다한소탕엑스정(동의수세보원)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20190814",
+ "cancel_date": "20240814",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M221588]열다한소탕건조엑스",
+ "main_item_ingr_eng": "Yeoldahanso-tang Dried Extract",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905776",
+ "revisions": [
+  {
+   "revision_id": "201905776-49d5e1af",
+   "content_sha256": "49d5e1af05795285da79d74b2de10e6dd8d06561266542c73d7a46595f345a3c",
+   "ee_text": "태음인의 구역, 구토",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:06Z",
+   "last_observed_at": "2026-09-08T08:56:06Z",
+   "official_revision_date": "2019-08-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:06Z"
+}

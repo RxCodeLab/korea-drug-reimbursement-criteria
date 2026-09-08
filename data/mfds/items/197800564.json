@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197800564",
+ "item_name": "계지롱과립(계지탕)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19780302",
+ "cancel_date": "20240101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M093487]계지탕연조엑스",
+ "main_item_ingr_eng": "Gyejitang Soft Extract",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197800564",
+ "revisions": [
+  {
+   "revision_id": "197800564-7fd6fe71",
+   "content_sha256": "7fd6fe71b8b0492f8d0a82dcb8dbf80b41604ad1bbd7ddd74cb5a6c2a8a90231",
+   "ee_text": "체력이 쇠했을 때의 감기 초기",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:31Z",
+   "last_observed_at": "2026-09-08T08:26:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:31Z"
+}

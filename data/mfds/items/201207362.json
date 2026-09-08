@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201207362",
+ "item_name": "로마릴크림(아모롤핀염산염)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20121022",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252763]아모롤핀염산염",
+ "main_item_ingr_eng": "Amorolfine Hydrochloride",
+ "edi_code": "671703601",
+ "atc_code": "D01AE16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207362",
+ "revisions": [
+  {
+   "revision_id": "201207362-8caad4f8",
+   "content_sha256": "8caad4f8226b199117fc68e76489d5cbdb6dd9a2660e81e6041b5ecdcc52ad76",
+   "ee_text": "피부사상균증(백선) : 족부백선(무좀, 한포상백선), 고부백선(대퇴부백선)(완선(사타구니백선)), 서혜부백선, 체부백선(도장 부스럼, 소수포성(물집) 반상백선), 수부백선",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:33Z",
+   "last_observed_at": "2026-09-08T08:45:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:33Z"
+}

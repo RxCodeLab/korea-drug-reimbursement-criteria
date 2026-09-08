@@ -3,7 +3,7 @@
  "complete": true,
  "item_seq": "196500051",
  "item_name": "지엘타이밍정(카페인무수물)",
- "entp_name": "지엘파마(주)",
+ "entp_name": "지엘팜텍(주)",
  "permit_date": "19651221",
  "cancel_date": "",
  "status": "정상",
@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "N06BC01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196500051",
+ "history_fetched_at": "2026-08-28T13:23:36Z",
  "revisions": [
   {
    "revision_id": "196500051-6cd67daa",
@@ -19,9 +20,9 @@
    "ee_text": "졸음",
    "ee_doc_id": "3",
    "first_observed_at": "2026-08-28T13:23:36Z",
-   "last_observed_at": "2026-08-28T13:23:36Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:15Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:36Z"
+ ]
 }

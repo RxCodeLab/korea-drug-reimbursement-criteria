@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501244",
+ "item_name": "크라시에소시호탕엑스세립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20150309",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261693]소시호탕엑스",
+ "main_item_ingr_eng": "Sosihotang Extracts",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501244",
+ "revisions": [
+  {
+   "revision_id": "201501244-0d5d8ca1",
+   "content_sha256": "0d5d8ca109f96e34724566a0db9f073af36e5f3ba9cf799e2c29e127f4206aa1",
+   "ee_text": "구역, 식욕부진, 위염, 위장허약, 피로 및 감기 후기 증상",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:35Z",
+   "last_observed_at": "2026-09-08T08:48:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:35Z"
+}

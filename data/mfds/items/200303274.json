@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200303274",
+ "item_name": "댄스탑외용액(케토코나졸)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20031023",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080618]케토코나졸|[M080618]케토코나졸|[M080618]케토코나졸|[M080618]케토코나졸",
+ "main_item_ingr_eng": "Ketoconazole",
+ "edi_code": "",
+ "atc_code": "D01AC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200303274",
+ "revisions": [
+  {
+   "revision_id": "200303274-a8664617",
+   "content_sha256": "a866461786a2206c30fa164c52e071aa789d644715a076b954ef6e3ebb2a63a2",
+   "ee_text": "효모균(Pityrosporum)에 의한 다음의 피부질환 : 비듬, 지루피부염, 어루러기",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:16Z",
+   "last_observed_at": "2026-09-08T08:37:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:16Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805359",
+ "item_name": "제뉴원에바스틴정(에바스틴)(수출용)(수출명:Etmine tablet)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20181228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085337]에바스틴",
+ "main_item_ingr_eng": "Ebastine",
+ "edi_code": "",
+ "atc_code": "R06AX22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805359",
+ "revisions": [
+  {
+   "revision_id": "201805359-8ece25a5",
+   "content_sha256": "8ece25a5994c4068d77864ee62b3afe7fbd8af50daf3bc6aa15967a0d5bfaa38",
+   "ee_text": "알레르기성 비염ㆍ결막염ㆍ피부염, 만성두드러기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:58Z",
+   "last_observed_at": "2026-09-08T08:53:58Z",
+   "official_revision_date": "2018-12-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:58Z"
+}

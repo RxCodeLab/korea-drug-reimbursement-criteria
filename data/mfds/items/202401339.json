@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401339",
+ "item_name": "칼디텍정",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20240529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051564]탄산칼슘|[M256378]농축콜레칼시페롤 과립",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Granules",
+ "edi_code": "645907560",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401339",
+ "revisions": [
+  {
+   "revision_id": "202401339-be420fb9",
+   "content_sha256": "be420fb9bd075e2f3ed3d58f5337fa6864e9a58ef0fc569050abd5b3ddd6f21d",
+   "ee_text": "○ 다음 경우의 비타민 D의 보급 - 임신ㆍ수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ․뼈, 이의 발육불량 ․구루병의 예방 ○ 칼슘결핍 및 기타 칼슘의 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:00Z",
+   "last_observed_at": "2026-09-08T09:03:00Z",
+   "official_revision_date": "2024-05-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:00Z"
+}

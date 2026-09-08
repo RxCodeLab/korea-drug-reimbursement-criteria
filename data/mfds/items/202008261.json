@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202008261",
+ "item_name": "비타폴리오주",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20201126",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040397]에르고칼시페롤|[M050704]비오틴|[M096429]시아노코발라민|[M204304]피리독신염산염|[M222991]레티놀팔미테이트|[M222996]리보플라빈포스페이트나트륨|[M223240]토코페롤아세테이트|[M223258]티아민염산염|[M223289]폴산|[M258994]아스코르브산|[M278679]덱스판테놀",
+ "main_item_ingr_eng": "Ascorbic Acid/Biotin/Cyanocobalamin/Dexpanthenol/Ergocalciferol/Folic Acid/Nicotinamide/Pyridoxine Hydrochloride/Retinol Palmitate/Riboflavin Sodium Phosphate/Thiamine Hydrochloride/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "B05XC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008261",
+ "revisions": [
+  {
+   "revision_id": "202008261-30a830a0",
+   "content_sha256": "30a830a0cfb68624491ecdd8bfee3db076e1ef624198fbdda7026d51d562df3b",
+   "ee_text": "1. 수액제로 영양을 공급받는 환자의 비타민 유지요법 2. 다음 환자의 비타민(비타민 K제외) 결핍 예방 - 외과수술시, 중증화상, 골절 및 기타 외상 - 중증감염증, 혼수상태",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:43Z",
+   "last_observed_at": "2026-09-08T08:59:43Z",
+   "official_revision_date": "2020-11-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:43Z"
+}

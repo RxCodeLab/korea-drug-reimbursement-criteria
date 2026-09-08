@@ -7,11 +7,12 @@
  "permit_date": "20190828",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050058]구아이페네신|[M051301]자소엽|[M050036]육계|[M040769]행인|[M040048]길경|[M040135]마황",
+ "main_item_ingr": "[M040048]길경|[M040135]마황|[M040769]행인|[M050036]육계|[M050058]구아이페네신|[M051301]자소엽",
  "main_item_ingr_eng": "Apricot Kernel/Cinnamon Bark/Ephedra Herb/Guaifenesin/Perilla Leaf/Platycodon Root",
  "edi_code": "",
  "atc_code": "R05FB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906129",
+ "history_fetched_at": "2026-08-28T13:25:10Z",
  "revisions": [
   {
    "revision_id": "201906129-78dd308e",
@@ -19,9 +20,9 @@
    "ee_text": "기침, 가래, 천식",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:10Z",
-   "last_observed_at": "2026-08-28T13:25:10Z",
-   "official_revision_date": "2019-08-28"
+   "last_observed_at": "2026-09-08T08:56:14Z",
+   "official_revision_date": "2019-08-28",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:10Z"
+ ]
 }

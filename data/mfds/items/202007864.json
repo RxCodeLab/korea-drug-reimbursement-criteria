@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007864",
+ "item_name": "카리트과립(폴리스티렌설폰산칼슘)",
+ "entp_name": "(주)시어스제약",
+ "permit_date": "20201113",
+ "cancel_date": "20250422",
+ "status": "취하",
+ "main_item_ingr": "[M081346]폴리스티렌설폰산칼슘",
+ "main_item_ingr_eng": "Calcium Polystyrene Sulfonate",
+ "edi_code": "",
+ "atc_code": "V03AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007864",
+ "revisions": [
+  {
+   "revision_id": "202007864-6a45fe70",
+   "content_sha256": "6a45fe702e51072910b144754359a3fecf4a3dd13897f7f01b88ecd6ea113167",
+   "ee_text": "고칼륨혈증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:38Z",
+   "last_observed_at": "2026-09-08T08:59:38Z",
+   "official_revision_date": "2020-11-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:38Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199601519",
+ "item_name": "더모픽스크림(세르타코나졸질산염)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19960904",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M230519]세르타코나졸질산염",
+ "main_item_ingr_eng": "Sertaconazole Nitrate",
+ "edi_code": "642200132,642200133",
+ "atc_code": "D01AC14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199601519",
+ "revisions": [
+  {
+   "revision_id": "199601519-e87d376e",
+   "content_sha256": "e87d376e9b0933398079541d38dcf87ac21e24d79871ff5c5545a52df48c31b9",
+   "ee_text": "다음의 피부진균증 1. 피부사상균증: 무좀, 완선, 체부백선 2. 피부칸디다증 3. 어루러기",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199601519/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:16Z",
+   "last_observed_at": "2026-09-08T08:30:16Z"
+  },
+  {
+   "revision_id": "199601519-f95018ee",
+   "content_sha256": "f95018ee4584132cd2777506143a00e075c44f53a7e4ccb0e00a3d41c9810d66",
+   "ee_text": "피부사상균증(족부백선, 완선(頑癬), 체부백선) 칸다나증, 어우러기",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:30:16Z",
+   "last_observed_at": "2026-09-08T08:30:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:16Z"
+}

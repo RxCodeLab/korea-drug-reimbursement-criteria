@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503023",
+ "item_name": "루브리푸레쉬피엠안연고(수출용)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20150520",
+ "cancel_date": "20230926",
+ "status": "취하",
+ "main_item_ingr": "[M040676]유동파라핀|[M088336]백색바셀린",
+ "main_item_ingr_eng": "Liquid Paraffin/White Petrolatum",
+ "edi_code": "",
+ "atc_code": "S01XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503023",
+ "revisions": [
+  {
+   "revision_id": "201503023-ec88419a",
+   "content_sha256": "ec88419a0e74ce02e743569833bd6bea68ad73e8a1ae2b434fc5d207084d1ce0",
+   "ee_text": "-안구의 작열감 예방 -안구건조 경감",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:03Z",
+   "last_observed_at": "2026-09-08T08:49:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:03Z"
+}

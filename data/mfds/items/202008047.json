@@ -7,11 +7,12 @@
  "permit_date": "20201120",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040096]디멘히드리네이트|[M223081]스코폴라민브롬화수소산염수화물|[M223183]카페인무수물|[M040064]니코틴산아미드|[M204304]피리독신염산염",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040096]디멘히드리네이트|[M204304]피리독신염산염|[M223081]스코폴라민브롬화수소산염수화물|[M223183]카페인무수물",
  "main_item_ingr_eng": "Anhydrous Caffeine/Dimenhydrinate/Nicotinamide/Pyridoxine Hydrochloride/Scopolamine Hydrobromide Hydrate",
  "edi_code": "",
  "atc_code": "A04AD51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008047",
+ "history_fetched_at": "2026-08-28T13:25:22Z",
  "revisions": [
   {
    "revision_id": "202008047-54917551",
@@ -19,9 +20,9 @@
    "ee_text": "멀미에 의한 어지러움ㆍ구토ㆍ두통의 예방 및 완화",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:22Z",
-   "last_observed_at": "2026-08-28T13:25:22Z",
-   "official_revision_date": "2020-11-20"
+   "last_observed_at": "2026-09-08T08:59:40Z",
+   "official_revision_date": "2020-11-20",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:22Z"
+ ]
 }

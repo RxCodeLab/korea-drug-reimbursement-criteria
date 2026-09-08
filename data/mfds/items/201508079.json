@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508079",
+ "item_name": "신텍스소체환",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20151202",
+ "cancel_date": "20251202",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040228]향부자|[M051138]오령지|[M089688]견우자",
+ "main_item_ingr_eng": "Cyperus Rhizome/Pharbitis Seed/Trogopterorum Faeces",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508079",
+ "revisions": [
+  {
+   "revision_id": "201508079-5d4342d5",
+   "content_sha256": "5d4342d511b10033b5dd2518f493faf1e534e5c2ab34cd0281b2ef3bb5a57b09",
+   "ee_text": "식체(체함), 소화불량, 위부(상복부)팽만감, 위통",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:57Z",
+   "last_observed_at": "2026-09-08T08:49:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:57Z"
+}

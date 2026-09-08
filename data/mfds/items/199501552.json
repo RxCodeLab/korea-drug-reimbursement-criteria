@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501552",
+ "item_name": "세파메칠정(메틸올세팔렉신리시네이트)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "19951020",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245858]메틸올세팔렉신리시네이트",
+ "main_item_ingr_eng": "Methylolcefalexin Lysinate",
+ "edi_code": "645601100",
+ "atc_code": "J01DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501552",
+ "revisions": [
+  {
+   "revision_id": "199501552-f52f8495",
+   "content_sha256": "f52f8495f436747c8de94d1e08a4a077a44c599d706d99a4e7f3fa7be72af8c7",
+   "ee_text": "○ 유효균종 황색포도구균, 표피포도구균, 화농성연쇄구균, 대장균, 클레브시엘라속 ○ 적응증 편도염, 인두염, 급성 신우신염, 방광염, 전립선염, 피부 및 연조직 감염증, 골 감염증",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:37Z",
+   "last_observed_at": "2026-09-08T08:29:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:37Z"
+}

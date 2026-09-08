@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309777",
+ "item_name": "제일벤게이카타플라스마(L-멘톨)(수출용)",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20131017",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279284]L-멘톨|[M279284]L-멘톨",
+ "main_item_ingr_eng": "L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309777",
+ "revisions": [
+  {
+   "revision_id": "201309777-921e00c5",
+   "content_sha256": "921e00c5d288aceb2c272d9d7ce49ad208bfa323c6fcbf216a6efdc7aef6282e",
+   "ee_text": "다음 질환 및 증상의 진통·소염: 염좌, 타박, 근육통, 관절통, 골절통, 요통, 견통, 동상",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:26Z",
+   "last_observed_at": "2026-09-08T08:46:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:26Z"
+}

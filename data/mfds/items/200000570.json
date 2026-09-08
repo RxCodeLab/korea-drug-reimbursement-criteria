@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000570",
+ "item_name": "훼리탑액(글루콘산제이철나트륨착염)(수출용)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20000726",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089472]글루콘산제이철나트륨복염",
+ "main_item_ingr_eng": "Sodium Ferric Gluconate Complex",
+ "edi_code": "",
+ "atc_code": "B03AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000570",
+ "revisions": [
+  {
+   "revision_id": "200000570-1681c4cf",
+   "content_sha256": "1681c4cfa0daf817c00737ea1b0f63d6a0af5071aa3e2dca44878822c03a789f",
+   "ee_text": "철 결핍성 빈혈",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:35Z",
+   "last_observed_at": "2026-09-08T08:33:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:35Z"
+}

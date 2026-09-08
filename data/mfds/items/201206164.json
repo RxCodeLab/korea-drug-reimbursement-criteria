@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206164",
+ "item_name": "넥실렌정[애엽이소프로판올연조엑스(20→1)]",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20120717",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254963]애엽이소프로판올연조엑스(20→1)",
+ "main_item_ingr_eng": "Artemisiae Argyi Folium Isopropanol Soft Extract (20→1)",
+ "edi_code": "645403740",
+ "atc_code": "A02X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206164",
+ "revisions": [
+  {
+   "revision_id": "201206164-ddb457f8",
+   "content_sha256": "ddb457f8cacf0c2e8dbe0d23538d857d36ec38898a2f1694ae0d056736b4481b",
+   "ee_text": "다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:23Z",
+   "last_observed_at": "2026-09-08T08:45:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:23Z"
+}

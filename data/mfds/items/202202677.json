@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202677",
+ "item_name": "스카이코비원멀티주(사스코로나바이러스-2 표면항원 백신(유전자재조합))",
+ "entp_name": "에스케이바이오사이언스(주)",
+ "permit_date": "20220629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282905]사스 코로나바이러스-2 스파이크 단백질 RBD 항원(유전자재조합)(숙주1: CHO-K1(HD-BIOP3), 벡터1: M-2560, 숙주2: E.coli(BL21), 벡터2: pET296(+))",
+ "main_item_ingr_eng": "SARS-CoV-2 Spike Protein Receptor Binding Domain (Recombinant)",
+ "edi_code": "",
+ "atc_code": "J07BN04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202677",
+ "revisions": [
+  {
+   "revision_id": "202202677-5fa720b9",
+   "content_sha256": "5fa720b96e8a7a4e0ee21dbbef8f7659741732afa7e4bea543d0ecee53945dd6",
+   "ee_text": "18세 이상에서 SARS-CoV-2 바이러스에 의한 코로나19의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:24Z",
+   "last_observed_at": "2026-09-08T09:01:24Z",
+   "official_revision_date": "2022-06-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:24Z"
+}

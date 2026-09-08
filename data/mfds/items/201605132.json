@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605132",
+ "item_name": "제로나제주(히알루로니다제)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20160826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M209056]히알루로니다제",
+ "main_item_ingr_eng": "Hyaluronidase",
+ "edi_code": "",
+ "atc_code": "B06AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605132",
+ "revisions": [
+  {
+   "revision_id": "201605132-d3245abf",
+   "content_sha256": "d3245abf5bbf5a392e1380fd84fd3a7c3a43955affde2c43df4b7afd352d2ceb",
+   "ee_text": "- 피하주사나 근육주사, 국소마취제 및 피하주입 시 침투력 증가 - 조직 내에 과다하게 존재하는 체액 및 혈액의 재흡수 촉진",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:10Z",
+   "last_observed_at": "2026-09-08T08:51:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:10Z"
+}

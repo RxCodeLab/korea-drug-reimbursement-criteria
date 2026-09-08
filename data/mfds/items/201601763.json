@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201601763",
+ "item_name": "피테스정5mg(피나스테리드)",
+ "entp_name": "아이큐어(주)",
+ "permit_date": "20160322",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089174]피나스테리드",
+ "main_item_ingr_eng": "Finasteride",
+ "edi_code": "674400760",
+ "atc_code": "G04CB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601763",
+ "revisions": [
+  {
+   "revision_id": "201601763-aa43810f",
+   "content_sha256": "aa43810f8ef222cc3e27000e6202c22168092369a044afef8d1c4c6d52bbcca4",
+   "ee_text": "양성전립샘비대증: - 양성전립샘비대증 증상의 개선 - 비후된 전립샘의 퇴행 및 요류 개선 - 급성 요폐의 발생빈도 감소 - 전립샘 경요도 절제술(Transurethral Resection of the Prostate) 및 전립샘 절제수술 등을 포함한 수술의 필요성 감소",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:24Z",
+   "last_observed_at": "2026-09-08T08:50:24Z",
+   "official_revision_date": "2017-09-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:24Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400957",
+ "item_name": "라베프란정10밀리그램(라베프라졸나트륨)",
+ "entp_name": "(주)한국피엠지제약",
+ "permit_date": "20140228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089852]라베프라졸나트륨",
+ "main_item_ingr_eng": "Rabeprazole Sodium",
+ "edi_code": "697100880",
+ "atc_code": "A02BC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400957",
+ "revisions": [
+  {
+   "revision_id": "201400957-f19822d8",
+   "content_sha256": "f19822d80032c24234e5e9c4d971621239cb9e4e61ceed17ca39ab10c4c971ce",
+   "ee_text": "- 위궤양, 십이지장궤양 - 미란성 또는 궤양성 위식도역류질환 - 위식도역류질환의 증상 완화 - 위식도역류질환의 장기간 유지요법 - 헬리코박터필로리에 감염된 소화기 궤양 환자에 대한 항생제 병용요법 - 졸링거 엘리슨 증후군",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:49Z",
+   "last_observed_at": "2026-09-08T08:46:49Z",
+   "official_revision_date": "2019-10-22"
+  },
+  {
+   "revision_id": "201400957-d5995ee1",
+   "content_sha256": "d5995ee1a1f723355a1cbd532460a955f925dca7e66ba5ec5dfc38f339a4bedd",
+   "ee_text": "(정제) - 위궤양, 십이지장궤양 - 미란성 또는 궤양성 위식도역류질환 - 위식도역류질환의 증상 완화 - 위식도역류질환의 장기간 유지요법 - 헬리코박터필로리에 감염된 소화기 궤양 환자에 대한 항생제 병용(함께 복용(사용)) 요법 - 졸링거 엘리슨 증후군",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:46:49Z",
+   "last_observed_at": "2026-09-08T08:46:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:49Z"
+}

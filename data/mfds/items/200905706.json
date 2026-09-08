@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R01AX10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905706",
+ "history_fetched_at": "2026-08-28T13:24:22Z",
  "revisions": [
   {
    "revision_id": "200905706-24b01f51",
@@ -19,8 +20,9 @@
    "ee_text": "- 코점막 분비물 또는 화농(곪음)성으로 인한 코막힘에 비강(코안)세척 - 건조한 환경에서 코 점막에 수분보급",
    "ee_doc_id": "17",
    "first_observed_at": "2026-08-28T13:24:22Z",
-   "last_observed_at": "2026-08-28T13:24:22Z",
-   "official_revision_date": "2017-11-14"
+   "last_observed_at": "2026-09-08T08:43:27Z",
+   "official_revision_date": "2017-11-14",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200905706-3061c915",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:22Z",
    "last_observed_at": "2026-08-28T13:24:22Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:22Z"
+ ]
 }

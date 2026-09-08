@@ -7,11 +7,12 @@
  "permit_date": "20190117",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M255949]농축콜레칼시페롤과립|[M040262]산화마그네슘|[M243785]산화아연",
+ "main_item_ingr": "[M040262]산화마그네슘|[M243785]산화아연|[M255949]농축콜레칼시페롤과립",
  "main_item_ingr_eng": "Cholecalciferol Concentrate Granules/Magnesium Oxide/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900225",
+ "history_fetched_at": "2026-08-28T13:25:03Z",
  "revisions": [
   {
    "revision_id": "201900225-dac77c8a",
@@ -19,8 +20,9 @@
    "ee_text": "1. 다음경우의 비타민 D의 보급 - 임신 · 수유기, 발육기, 노년기 2. 이 약에 함유된 비타민의 효능∙효과는 다음과 같다. - 뼈, 이의 발육 불량 - 구루병의 예방 3. 아연의 보급",
    "ee_doc_id": "2",
    "first_observed_at": "2026-08-28T13:25:03Z",
-   "last_observed_at": "2026-08-28T13:25:03Z",
-   "official_revision_date": "2019-02-01"
+   "last_observed_at": "2026-09-08T08:54:05Z",
+   "official_revision_date": "2019-02-01",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201900225-2f7314c9",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:25:03Z",
    "last_observed_at": "2026-08-28T13:25:03Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:03Z"
+ ]
 }

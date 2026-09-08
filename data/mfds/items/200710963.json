@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200710963",
+ "item_name": "부테나크림(부테나핀염산염)",
+ "entp_name": "제이더블유신약(주)",
+ "permit_date": "20071002",
+ "cancel_date": "20241204",
+ "status": "취하",
+ "main_item_ingr": "[M252019]부테나핀염산염",
+ "main_item_ingr_eng": "Butenafine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "D01AE23",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710963",
+ "revisions": [
+  {
+   "revision_id": "200710963-fc5a8fad",
+   "content_sha256": "fc5a8fad53d4580ea2e54c898f4d44c149eacec52d9b82bd9f9748bc5e918af3",
+   "ee_text": "다음의 피부진균증 1) 백선 : 족부백선(발백선증,무좀), 고부백선(대퇴부백선)(완선(사타구니백선(증))), 체부백선 2) 어루러기",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:56Z",
+   "last_observed_at": "2026-09-08T08:41:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:56Z"
+}

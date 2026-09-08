@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500892",
+ "item_name": "부광디유렉산정(지파미드)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19850624",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051360]지파미드",
+ "main_item_ingr_eng": "Xipamide",
+ "edi_code": "642200650",
+ "atc_code": "C03BA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500892",
+ "revisions": [
+  {
+   "revision_id": "198500892-6cf107b8",
+   "content_sha256": "6cf107b822fd2537223876ffde38035e5aaaf4263b972c227668e166563a47c8",
+   "ee_text": "1. 고혈압 2. 심성부종, 간성부종, 신성부종, 정맥부전으로 인한 말초성부종",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:05Z",
+   "last_observed_at": "2026-09-08T08:27:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:05Z"
+}

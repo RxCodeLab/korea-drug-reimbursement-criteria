@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199600038",
+ "item_name": "스토펜정(탈니플루메이트)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "19960205",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081412]탈니플루메이트",
+ "main_item_ingr_eng": "Talniflumate",
+ "edi_code": "",
+ "atc_code": "M01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199600038",
+ "revisions": [
+  {
+   "revision_id": "199600038-fc59bb11",
+   "content_sha256": "fc59bb1123f7a830249b57062125a3bb2495ffd6c07006e93c0b0ed58d0d0f22",
+   "ee_text": "류마티스관절염, 골관절염(퇴행관절염)",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:59Z",
+   "last_observed_at": "2026-09-08T08:29:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:59Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100900",
+ "item_name": "크리벤트점안액(크로몰린나트륨)",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20010222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051498]크로몰린나트륨",
+ "main_item_ingr_eng": "Sodium Cromoglicate",
+ "edi_code": "651201751",
+ "atc_code": "S01GX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100900",
+ "revisions": [
+  {
+   "revision_id": "200100900-c55e9453",
+   "content_sha256": "c55e945374e2d35d5b3af6dadee677b21e67750d7b2716d7c9ebff8c2676b3b3",
+   "ee_text": "봄철 각막염이나 결막염, 알레르기성 결막염",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:00Z",
+   "last_observed_at": "2026-09-08T08:35:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:00Z"
+}

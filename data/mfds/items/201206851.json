@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206851",
+ "item_name": "베로늄주10mg(브롬화베쿠로니움)(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20120919",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082018]브롬화베쿠로니움",
+ "main_item_ingr_eng": "Vecuronium Bromide",
+ "edi_code": "",
+ "atc_code": "M03AC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206851",
+ "revisions": [
+  {
+   "revision_id": "201206851-bfc761e2",
+   "content_sha256": "bfc761e217c2092d89855cdc84d6dbb6bc0908313575bda0513736020982f24d",
+   "ee_text": "1. 마취시 근이완 2. 기관내 삽관시 근이완 유지 3. 기계적 조절호흡 용이 4. 수술시 근이완",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:30Z",
+   "last_observed_at": "2026-09-08T08:45:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:30Z"
+}

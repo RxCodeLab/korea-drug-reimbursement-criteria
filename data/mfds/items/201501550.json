@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501550",
+ "item_name": "트리레보정125/31.25/200밀리그램(레보도파, 카르비도파, 엔타카폰)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20150324",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040122]레보도파|[M088786]엔타카폰|[M256275]카르비도파수화물",
+ "main_item_ingr_eng": "Carbidopa Hydrate/Entacapone/Levodopa",
+ "edi_code": "651904180",
+ "atc_code": "N04BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501550",
+ "revisions": [
+  {
+   "revision_id": "201501550-ebbd56b6",
+   "content_sha256": "ebbd56b669fb57efab004c97c36fc676f2869a4699a8d63e3a078da6af8155d2",
+   "ee_text": "레보도파/도파탈탄산효소(Dopadecarboxylase ; DDC) 억제제 표준치료제로 개선되지 않는 파킨슨씨병 환자의 운동 동요 증상(end-of-dose motor fluctuations)의 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:41Z",
+   "last_observed_at": "2026-09-08T08:48:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:41Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200404760",
+ "item_name": "이로탐주사(피라세탐)(수출용)[수출명:인바이오넷이로탐주사(피라세탐)]",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20040421",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M101651]피라세탐",
+ "main_item_ingr_eng": "Piracetam",
+ "edi_code": "",
+ "atc_code": "N06BX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404760",
+ "revisions": [
+  {
+   "revision_id": "200404760-5d978d0f",
+   "content_sha256": "5d978d0f2f41541c3feab67ba3c7ca720feca9b9d86c3a0b23416cb1c382b86b",
+   "ee_text": "1. 대뇌외상증후군(어지러움, 두통)의 개선 2. 허혈성 뇌경색 3. 고령자의 인지력 장애(집중력·기억력 장애) 증상의 개선",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:35Z",
+   "last_observed_at": "2026-09-08T08:38:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:35Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198900532",
+ "item_name": "오큐카르핀점안액2%(필로카르핀염산염)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "19890201",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223342]필로카르핀염산염",
+ "main_item_ingr_eng": "Pilocarpine Hydrochloride",
+ "edi_code": "643901091",
+ "atc_code": "S01EB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900532",
+ "revisions": [
+  {
+   "revision_id": "198900532-f931f553",
+   "content_sha256": "f931f55365135f3225ea5e4f00b1a0302df89ab173ce9478913ba14f942aac9a",
+   "ee_text": "녹내장, 진단 또는 치료를 목적으로 하는 축동",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:50Z",
+   "last_observed_at": "2026-09-08T08:27:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:50Z"
+}

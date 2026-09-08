@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199604708",
+ "item_name": "라리암정250밀리그램(메플로퀸염산염)",
+ "entp_name": "디케이에스에이치코리아(주)",
+ "permit_date": "19960202",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M111219]메플로퀸염산염",
+ "main_item_ingr_eng": "Mefloquine Hydrochloride",
+ "edi_code": "055500040",
+ "atc_code": "P01BC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199604708",
+ "revisions": [
+  {
+   "revision_id": "199604708-61ceb68d",
+   "content_sha256": "61ceb68ddff9476e8301387643b9c71bb3f7a6351b166e3598fb4de2a2e626c7",
+   "ee_text": "말라리아(P.vivax, 복합말라리아, 다른 약물 내성의 P.falciparum)의 치료, 예방 및 대기치료",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:31Z",
+   "last_observed_at": "2026-09-08T08:30:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:31Z"
+}

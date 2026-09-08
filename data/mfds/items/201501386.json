@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501386",
+ "item_name": "디페낙겔1%(디클로페낙디에틸암모늄)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20150316",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249599]디클로페낙디에틸암모늄|[M256203]디클로페낙디에틸아민",
+ "main_item_ingr_eng": "Diclofenac Diethylamine/Diclofenac Diethylammonium",
+ "edi_code": "",
+ "atc_code": "M02AA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501386",
+ "revisions": [
+  {
+   "revision_id": "201501386-0aedba2e",
+   "content_sha256": "0aedba2e6e0dffda6ccf14fdbf41c86b93a6d406a409e219f5465906a57b1050",
+   "ee_text": "다음 질환 및 증상의 진통·소염 : 1. 건, 인대, 근육 및 관절의 외상성 염증(삠, 타박상 등) 2. 연조직 류마티스의 국소형(건초염, 어깨손증후군, 점액낭염, 관절주위염 등) 3. 류마티스 질환의 국소형(말초관절 및 척추의 골관절증 등)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:37Z",
+   "last_observed_at": "2026-09-08T08:48:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:37Z"
+}

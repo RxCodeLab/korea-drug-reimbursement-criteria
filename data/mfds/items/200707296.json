@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200707296",
+ "item_name": "이튼돌연질캡슐(옥수수불검화정량추출물)(수출용)",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20070625",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M098768]옥수수불검화정량추출물",
+ "main_item_ingr_eng": "Titrated Extract of Zea Mays L. Unsaponifiable Fraction",
+ "edi_code": "",
+ "atc_code": "A01A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707296",
+ "revisions": [
+  {
+   "revision_id": "200707296-364513d6",
+   "content_sha256": "364513d677f8aeb9fe5431a70caf7c34ca1fb5946e514629ef95f45ac9d75a3d",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 치주질환[치아지지조직질환, 치은염, 치주증(유년형 치주염)]",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:38Z",
+   "last_observed_at": "2026-09-08T08:41:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:38Z"
+}

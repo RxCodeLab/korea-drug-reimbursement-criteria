@@ -7,7 +7,7 @@
  "permit_date": "20250321",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M261590]맥문동탕연조엑스(2.7→1)|[M040353]아세트아미노펜|[M223273]티페피딘히벤즈산염",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223273]티페피딘히벤즈산염|[M261590]맥문동탕연조엑스(2.7→1)",
  "main_item_ingr_eng": "Acetaminophen/Maegmundongtang Soft Extract (2.7→1)/Tipepidine Hibenzate",
  "edi_code": "",
  "atc_code": "R05X",
@@ -20,7 +20,8 @@
    "ee_text": "감기의 제증상(여러증상)[인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통]의 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202500649/EE",
    "first_observed_at": "2026-08-27T13:05:34Z",
-   "last_observed_at": "2026-08-28T13:25:37Z"
+   "last_observed_at": "2026-09-08T09:03:46Z",
+   "normalizer_version": 3
   }
  ]
 }

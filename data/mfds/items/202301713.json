@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301713",
+ "item_name": "티지풀큐어네일라카(시클로피록스)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20230531",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085228]시클로피록스",
+ "main_item_ingr_eng": "Ciclopirox",
+ "edi_code": "",
+ "atc_code": "D01AE14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301713",
+ "revisions": [
+  {
+   "revision_id": "202301713-24d35229",
+   "content_sha256": "24d352299f4b89eca5e1be36d3a1b87d0c0dbcd4d12177cea775f2c33acf521d",
+   "ee_text": "조갑진균증 (손, 발톱무좀)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:07Z",
+   "last_observed_at": "2026-09-08T09:02:07Z",
+   "official_revision_date": "2023-05-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:07Z"
+}

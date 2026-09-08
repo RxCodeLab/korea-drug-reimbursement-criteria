@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201300141",
+ "item_name": "비타비원주(티아민염산염)(수출용)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20130108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223258]티아민염산염",
+ "main_item_ingr_eng": "Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11DA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300141",
+ "revisions": [
+  {
+   "revision_id": "201300141-e1fa2810",
+   "content_sha256": "e1fa2810eca85e44c52f908ee53de8846d49d22509e60e17b1001e2d0cbdc623",
+   "ee_text": "티아민염산염주사는 티아민 결핍이나 각기병 치료에 효과적이다. 각기병은 “건성”형이나 “습성”형으로 나타날 수 있다. 식욕부진, 구역, 구토 또는 수술전이나 수술후 상태 같은 경구 투여가 가능하지 않는 경우 비경구적 투여가 적용된다. 또한 “흡수장애 증후군” (지방변) 같은 위장관 흡수 장애가 있는 경우에도 마찬가지다.",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:43Z",
+   "last_observed_at": "2026-09-08T08:45:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:43Z"
+}

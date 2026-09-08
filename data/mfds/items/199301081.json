@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199301081",
+ "item_name": "태극아시클로버크림",
+ "entp_name": "태극제약(주)",
+ "permit_date": "19930511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "644802251",
+ "atc_code": "D06BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301081",
+ "revisions": [
+  {
+   "revision_id": "199301081-e79b1565",
+   "content_sha256": "e79b15652e795be5df4af050b2d2ab03e4467ab316fb135873aa446d6322af21",
+   "ee_text": "단순포진 바이러스 감염증(초기 및 재발성 생식기 포진과 구순포진 포함)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:47Z",
+   "last_observed_at": "2026-09-08T08:28:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:47Z"
+}

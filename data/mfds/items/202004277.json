@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004277",
+ "item_name": "킴스암브록솔염산염정",
+ "entp_name": "(주)킴스제약",
+ "permit_date": "20200608",
+ "cancel_date": "20250608",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M233843]암브록솔염산염",
+ "main_item_ingr_eng": "Ambroxol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004277",
+ "revisions": [
+  {
+   "revision_id": "202004277-6c5e04fe",
+   "content_sha256": "6c5e04fe2587b9b5391ce6e9a8373144f7a6e4ff855b63082f35302f070f92d3",
+   "ee_text": "(정제)(캡슐제)(시럽제)(흡입제) 점액분비장애로 인한 다음의 급·만성 호흡기질환 : 급·만성기관지염, 천식성기관지염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:06Z",
+   "last_observed_at": "2026-09-08T08:59:06Z",
+   "official_revision_date": "2020-06-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:06Z"
+}

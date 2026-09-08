@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905457",
+ "item_name": "타니플정(탈니플루메이트)",
+ "entp_name": "안국뉴팜(주)",
+ "permit_date": "20190731",
+ "cancel_date": "20240731",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M081412]탈니플루메이트",
+ "main_item_ingr_eng": "Talniflumate",
+ "edi_code": "",
+ "atc_code": "M01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905457",
+ "revisions": [
+  {
+   "revision_id": "201905457-fc59bb11",
+   "content_sha256": "fc59bb1123f7a830249b57062125a3bb2495ffd6c07006e93c0b0ed58d0d0f22",
+   "ee_text": "류마티스관절염, 골관절염(퇴행관절염)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:59Z",
+   "last_observed_at": "2026-09-08T08:55:59Z",
+   "official_revision_date": "2019-07-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:59Z"
+}

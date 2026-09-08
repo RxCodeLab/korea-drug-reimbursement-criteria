@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "C04AX20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004082",
+ "history_fetched_at": "2026-08-27T13:41:58Z",
  "revisions": [
   {
-   "revision_id": "201004082-a7df7a2a",
-   "content_sha256": "a7df7a2a50af90f473d670bed2bd48f577b7944c5388cd811373d1e8d0644162",
-   "ee_text": ": 레이노병 및 레이노증후군, 간헐성 파행, 폐색성 혈전혈관염(버거병), 홍청색증, 맥관저의 경련 : 어지러움, 이명, 치매성 증상, 성격변화, 기억력ㆍ집중력 저하, 시간과 공간에 대한 지남력 상실, 뇌졸중 후유증",
+   "revision_id": "201004082-92b3e8ed",
+   "content_sha256": "92b3e8ed49df9ed9b4495aaefcfac82215a1f4ee5f3893fa54f07cd75c0847bb",
+   "ee_text": "1. 다음 질환에 의한 말초순환장애 : 레이노병 및 레이노증후군, 간헐성 파행, 폐색성 혈전혈관염(버거병), 홍청색증, 맥관저의 경련 2. 뇌순환부전 : 어지러움, 이명, 치매성 증상, 성격변화, 기억력ㆍ집중력 저하, 시간과 공간에 대한 지남력 상실, 뇌졸중 후유증",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-27T13:41:58Z",
-   "last_observed_at": "2026-08-27T13:41:58Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:44:06Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:41:58Z"
+ ]
 }

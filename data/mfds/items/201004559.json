@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004559",
+ "item_name": "뉴헤모캡슐(수출용)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20100719",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M081531]철단백추출물|[M086692]시아노코발라민|[M223289]폴산",
+ "main_item_ingr_eng": "Cyanocobalamin/Ferritin Extract/Folic Acid",
+ "edi_code": "",
+ "atc_code": "B03AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004559",
+ "revisions": [
+  {
+   "revision_id": "201004559-6121c90e",
+   "content_sha256": "6121c90e5563832e624aacec50b9acb593154f4f94758a9e30734cece47753a6",
+   "ee_text": "철 결핍성 빈혈의 예방 및 치료, 궤양성 대장염 및 위ㆍ십이지장궤양 등 출혈성 질환에 수반되는 빈혈",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:08Z",
+   "last_observed_at": "2026-09-08T08:44:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:08Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405478",
+ "item_name": "더이렌스연고(구아야줄렌)",
+ "entp_name": "아이큐어(주)",
+ "permit_date": "20141124",
+ "cancel_date": "20241124",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M256451]구아야줄렌",
+ "main_item_ingr_eng": "Guaiazulene",
+ "edi_code": "",
+ "atc_code": "D03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405478",
+ "revisions": [
+  {
+   "revision_id": "201405478-7fea21ea",
+   "content_sha256": "7fea21ead0f6964c6865c1d6138b37f4aebfb57326914daf0515c75f9da6fe37",
+   "ee_text": "습진, 열상(화상), 그 외의 질환에 따른 미란(짓무름) 및 궤양",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:02Z",
+   "last_observed_at": "2026-09-08T08:48:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:02Z"
+}

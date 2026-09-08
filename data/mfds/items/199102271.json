@@ -7,7 +7,7 @@
  "permit_date": "19910423",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M083466]만델산벤질|[M040353]아세트아미노펜|[M040499]이소프로필안티피린|[M090611]카페인",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M040499]이소프로필안티피린|[M083466]만델산벤질|[M090611]카페인",
  "main_item_ingr_eng": "Acetaminophen/Benzyl Mandelate/Caffeine/Isopropylantipyrine",
  "edi_code": "",
  "atc_code": "N02BE51",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:56:42Z",
  "revisions": [
   {
-   "revision_id": "199102271-81ff5aa7",
-   "content_sha256": "81ff5aa7901f57bf71acf201b4e294df4922212fa0ed18e9acd8b7716ddc729e",
-   "ee_text": "- 두통, 치통, 발치후 동통, 인후통, 귀의 통증, 관절통, 신경통, 요통, 근육통,견통,타박통,골절통,염좌통,월경통(생리통),외상통의 진통 - 오한, 발열시의 해열",
+   "revision_id": "199102271-4a7741f6",
+   "content_sha256": "4a7741f6857fc9e9bef5b35442c526104431537cb00020da18c2f8a8ced29423",
+   "ee_text": "다음 질환의 진통 및 해열시 단기 치료: - 두통, 치통, 발치후 동통, 인후통, 귀의 통증, 관절통, 신경통, 요통, 근육통,견통,타박통,골절통,염좌통,월경통(생리통),외상통의 진통 - 오한, 발열시의 해열",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199102271/EE",
    "first_observed_at": "2026-08-27T12:56:42Z",
-   "last_observed_at": "2026-08-28T13:23:44Z"
+   "last_observed_at": "2026-09-08T08:28:17Z",
+   "normalizer_version": 3
   }
  ]
 }

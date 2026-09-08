@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309347",
+ "item_name": "아질렉트정(라사길린메실산염)",
+ "entp_name": "한국룬드벡(주)",
+ "permit_date": "20130913",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257939]라사길린메실산염",
+ "main_item_ingr_eng": "Rasagiline Mesylate",
+ "edi_code": "668000100",
+ "atc_code": "N04BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309347",
+ "revisions": [
+  {
+   "revision_id": "201309347-b1701273",
+   "content_sha256": "b1701273d349160e58d74d9f114bdf3bde14b9eef3712c676dbd283d847ebc5c",
+   "ee_text": "특발성 파킨슨병의 치료: 1) 초기 단독요법 또는 도파민 효능제의 보조요법 2) 운동 동요 증상(end of dose fluctuations)이 있는 환자에서 레보도파의 보조요법",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:21Z",
+   "last_observed_at": "2026-09-08T08:46:21Z",
+   "official_revision_date": "2018-11-05"
+  },
+  {
+   "revision_id": "201309347-f9bd8548",
+   "content_sha256": "f9bd8548a70bd27a1906e3d2ce26d55235313762ae2a563eb1b6f94e4e96a401",
+   "ee_text": "특발성 파킨슨병의 치료: 초기 파킨슨병 환자에서 단독요법(레보도파 없이) 또는 운동 동요 증상(end of dose motor fluctuations)이 있는 환자에서 레보도파의 보조요법",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:46:21Z",
+   "last_observed_at": "2026-09-08T08:46:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:21Z"
+}

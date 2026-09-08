@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309290",
+ "item_name": "유니온페니토인나트륨주(수출용)",
+ "entp_name": "한국유니온제약(주)",
+ "permit_date": "20130911",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051707]페니토인나트륨",
+ "main_item_ingr_eng": "Phenytoin Sodium",
+ "edi_code": "",
+ "atc_code": "N03AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309290",
+ "revisions": [
+  {
+   "revision_id": "201309290-115586c0",
+   "content_sha256": "115586c0073cac71522504bdaa7fd48e1729c35b587cbd9f38a70b772a830ebb",
+   "ee_text": "1. 간질중첩상태 2. 경구투여가 불가능한 경우(특히 의식장애, 수술중·수술후) 3. 디기탈리스 중독으로 인한 부정맥(심실성 부정맥)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:20Z",
+   "last_observed_at": "2026-09-08T08:46:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:20Z"
+}

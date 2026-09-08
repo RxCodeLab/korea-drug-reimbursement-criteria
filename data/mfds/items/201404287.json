@@ -7,11 +7,12 @@
  "permit_date": "20140922",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M267745]디아스타제·프로테아제·셀룰라제|[M050379]리파제|[M223167]우르소데옥시콜산|[M279256]시메티콘파우더",
+ "main_item_ingr": "[M050379]리파제|[M223167]우르소데옥시콜산|[M267745]디아스타제·프로테아제·셀룰라제|[M279256]시메티콘파우더",
  "main_item_ingr_eng": "Diastase·Protease·Cellulase/Lipase/Simethicone Powder/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404287",
+ "history_fetched_at": "2026-08-28T13:24:37Z",
  "revisions": [
   {
    "revision_id": "201404287-286238c3",
@@ -19,8 +20,9 @@
    "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:24:37Z",
-   "last_observed_at": "2026-08-28T13:24:37Z",
-   "official_revision_date": "2020-07-30"
+   "last_observed_at": "2026-09-08T08:47:40Z",
+   "official_revision_date": "2020-07-30",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201404287-5669cdab",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:37Z",
    "last_observed_at": "2026-08-28T13:24:37Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:37Z"
+ ]
 }

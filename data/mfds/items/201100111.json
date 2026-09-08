@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201100111",
+ "item_name": "유니텍요오드화나트륨(131I)캡슐(수출용:요오드화나트륨30호, 요오드화나트륨50호)",
+ "entp_name": "(주)삼영유니텍",
+ "permit_date": "20110110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M094481]요오드화나트륨(131 I)액|[M094481]요오드화나트륨(131 I)액|[M094481]요오드화나트륨(131 I)액",
+ "main_item_ingr_eng": "Sodium Iodide (131I) Solution",
+ "edi_code": "685100130,685100160,685100170,685100180,685100200,685100220,685100230,685100240,685100250,685100260",
+ "atc_code": "V10XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100111",
+ "revisions": [
+  {
+   "revision_id": "201100111-57da352c",
+   "content_sha256": "57da352c3585d09ef721ab2be6e0fce986cdab019dfedc065730a8e18b057fb9",
+   "ee_text": "1. 갑상선기능항진증의 치료 2. 갑상선암 및 전이소(轉移巢)의 치료",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:23Z",
+   "last_observed_at": "2026-09-08T08:44:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:23Z"
+}

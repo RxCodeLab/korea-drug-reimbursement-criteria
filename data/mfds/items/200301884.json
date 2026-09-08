@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301884",
+ "item_name": "락시티브정(비사코딜)(수출용)(수출명:락사티브정)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20031113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜",
+ "main_item_ingr_eng": "Bisacodyl",
+ "edi_code": "",
+ "atc_code": "A06AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301884",
+ "revisions": [
+  {
+   "revision_id": "200301884-a989882c",
+   "content_sha256": "a989882cca656fc5e9c9aa74652b2f59c461a075102219ffa030f85e13b4be8e",
+   "ee_text": "1. 주효능효과 급만성 변비, 수술전후 및 분만전후, 장내분변제거, 임신부변비, X-선 촬영시 장내분변 제거 2. 다음 질환에도 사용할 수 있다. 결장조루수술후 배변",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:07Z",
+   "last_observed_at": "2026-09-08T08:37:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:07Z"
+}

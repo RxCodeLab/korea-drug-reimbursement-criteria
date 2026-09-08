@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199800686",
+ "item_name": "케펜텍-엘플라스타(케토프로펜)",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "19980710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "054300270",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199800686",
+ "revisions": [
+  {
+   "revision_id": "199800686-ae9d70e2",
+   "content_sha256": "ae9d70e2631f8ad0599b7d6b6bffde2fd3c28da7a6a7353421734596f849948c",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) : 퇴행성관절염(골(뼈)관절염), 어깨관절주위염, 건(힘줄)ㆍ건초염(힘줄윤활막염), 건(힘줄)주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창ㆍ동통(통증)",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:41Z",
+   "last_observed_at": "2026-09-08T08:31:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:41Z"
+}

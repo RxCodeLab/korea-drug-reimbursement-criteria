@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201568",
+ "item_name": "카보티놀주사(카르보플라틴)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "19920729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M087020]카르보플라틴",
+ "main_item_ingr_eng": "Carboplatin",
+ "edi_code": "644303891,644303901",
+ "atc_code": "L01XA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201568",
+ "revisions": [
+  {
+   "revision_id": "199201568-c9d2e81c",
+   "content_sha256": "c9d2e81cf56531e439fa7b8a7722954f4532b46bf8b3b7c4ad0d2a9ffe8a94a1",
+   "ee_text": "1. 진행성 상피성 난소암 1) 1차 요법 2) 다른 요법 실패 후 2차 요법 2. 소세포폐암",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:27Z",
+   "last_observed_at": "2026-09-08T08:28:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:27Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199400517",
+ "item_name": "무스타진정(염산톨페리손)(수출용)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "19940511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051610]염산톨페리손",
+ "main_item_ingr_eng": "Tolperisone Hydrochloride",
+ "edi_code": "",
+ "atc_code": "M03BX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400517",
+ "revisions": [
+  {
+   "revision_id": "199400517-84bb03c3",
+   "content_sha256": "84bb03c3cd1c568239545fa7991e53ca931b2c977c768a3c8a7f485fb574c35b",
+   "ee_text": "성인의 뇌졸중 후 강직 증상 치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:05Z",
+   "last_observed_at": "2026-09-08T08:29:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:05Z"
+}

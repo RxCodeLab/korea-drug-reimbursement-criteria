@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199806569",
+ "item_name": "케릭스주사(리포좀화한독소루비신염산염)",
+ "entp_name": "주식회사박스터코리아",
+ "permit_date": "19981012",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222835]독소루비신염산염",
+ "main_item_ingr_eng": "Doxorubicin Hydrochloride",
+ "edi_code": "646601761",
+ "atc_code": "L01DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806569",
+ "revisions": [
+  {
+   "revision_id": "199806569-5d6a71a1",
+   "content_sha256": "5d6a71a1f9e202c0860d4ce1dbe03c5117ec8aeec7da257a4634b8424b6c3db7",
+   "ee_text": "1. 전이성 유방암 환자로 심장에 위험요소가 있는 경우 단독요법으로 사용한다. 2. 파크리탁셀 또는 백금착제 항암제를 포함하는 화학요법제에 실패한 진행성 난소암의 치료에 사용한다. 3. 이전의 병용 화학요법으로 질환이 계속 진행되거나 과민반응을 보이는 환자에서 AIDS 관련성 카포시 육종 4. 한 가지 이상의 치료를 받은 환자로써, 골수 이식을 이미 받았거나, 골수 이식이 적합하지 않은 진행성 다발성 골수종 환자에게 보르테조밉과의 병용요법으로 사용한다.",
+   "ee_doc_id": "25",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:23Z",
+   "last_observed_at": "2026-09-08T08:32:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:23Z"
+}

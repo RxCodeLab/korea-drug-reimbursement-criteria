@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601304",
+ "item_name": "테페자주(테프로투무맙)",
+ "entp_name": "암젠코리아유한회사",
+ "permit_date": "20260430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286379]테프로투무맙",
+ "main_item_ingr_eng": "Teprotumumab",
+ "edi_code": "",
+ "atc_code": "L04AG13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601304",
+ "revisions": [
+  {
+   "revision_id": "202601304-adcfe49f",
+   "content_sha256": "adcfe49f1381413a56aba2251ec196a5f08a29237f56c31d45b633c90e909209",
+   "ee_text": "중등도에서 중증의 갑상선안병증 성인 환자(18세 이상)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:09Z",
+   "last_observed_at": "2026-09-08T09:05:09Z",
+   "official_revision_date": "2026-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:09Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201106390",
+ "item_name": "파라메트정20밀리그램(라베프라졸나트륨)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20110915",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089852]라베프라졸나트륨",
+ "main_item_ingr_eng": "Rabeprazole Sodium",
+ "edi_code": "657804730",
+ "atc_code": "A02BC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106390",
+ "revisions": [
+  {
+   "revision_id": "201106390-f19822d8",
+   "content_sha256": "f19822d80032c24234e5e9c4d971621239cb9e4e61ceed17ca39ab10c4c971ce",
+   "ee_text": "- 위궤양, 십이지장궤양 - 미란성 또는 궤양성 위식도역류질환 - 위식도역류질환의 증상 완화 - 위식도역류질환의 장기간 유지요법 - 헬리코박터필로리에 감염된 소화기 궤양 환자에 대한 항생제 병용요법 - 졸링거 엘리슨 증후군",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201106390/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:53Z",
+   "last_observed_at": "2026-09-08T08:44:53Z"
+  },
+  {
+   "revision_id": "201106390-e3b0c442",
+   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "ee_text": "",
+   "ee_doc_id": "28",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:53Z",
+   "last_observed_at": "2026-09-08T08:44:53Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:53Z"
+}

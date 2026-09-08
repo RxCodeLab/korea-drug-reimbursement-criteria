@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405896",
+ "item_name": "루브리칸트안연고(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20141215",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040676]유동파라핀|[M088336]백색바셀린",
+ "main_item_ingr_eng": "Liquid Paraffin/White Petrolatum",
+ "edi_code": "",
+ "atc_code": "S01XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405896",
+ "revisions": [
+  {
+   "revision_id": "201405896-e7572980",
+   "content_sha256": "e757298073a2c920b54f2ce70c57d65f85aadd220a331467081273b373330e55",
+   "ee_text": "- 안구건조 또는 바람, 태양 노출로 인한 작열감, 자극, 그리고 불편함의 일시적 완화 - 그 외의 자극으로부터 보호하기 위해 사용될 수 있다.",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:08Z",
+   "last_observed_at": "2026-09-08T08:48:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:08Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005244",
+ "item_name": "아이헥솔350주(이오헥솔)",
+ "entp_name": "(주)인트로바이오파마",
+ "permit_date": "20200721",
+ "cancel_date": "20250721",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M088960]이오헥솔",
+ "main_item_ingr_eng": "Iohexol",
+ "edi_code": "",
+ "atc_code": "V08AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005244",
+ "revisions": [
+  {
+   "revision_id": "202005244-385a8e34",
+   "content_sha256": "385a8e34cf0c1f78c6f077939c872f918984d9c1e1dbed76aaf0e6144319188f",
+   "ee_text": "1. 혈관조영 2. 정맥요로조영(IVP) 3. CT 조영증강 4. 체강조영 : 관절조영, 소화관조영",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:16Z",
+   "last_observed_at": "2026-09-08T08:59:16Z",
+   "official_revision_date": "2020-07-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:16Z"
+}

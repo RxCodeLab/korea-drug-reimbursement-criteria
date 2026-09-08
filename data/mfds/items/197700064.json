@@ -12,14 +12,16 @@
  "edi_code": "645100773",
  "atc_code": "B05XA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197700064",
+ "history_fetched_at": "2026-08-28T13:23:37Z",
  "revisions": [
   {
-   "revision_id": "197700064-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "197700064-b79f3eae",
+   "content_sha256": "b79f3eae45007703eafaaa92f7b12bbd91fbfdf1877d0e67f9f6272aba7026f8",
+   "ee_text": "전해질 보액의 전해질 보정(저나트륨혈증, 저염소혈증)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197700064/EE",
    "first_observed_at": "2026-08-28T13:23:37Z",
-   "last_observed_at": "2026-08-28T13:23:37Z"
+   "last_observed_at": "2026-09-08T08:26:27Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "197700064-03909bb7",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:37Z",
    "last_observed_at": "2026-08-28T13:23:37Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:37Z"
+ ]
 }

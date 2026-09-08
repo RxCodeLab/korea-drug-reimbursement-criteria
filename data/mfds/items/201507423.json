@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507423",
+ "item_name": "락토루스과립(락토바실루스아시도필루스균)(수출명: HUOBI Granule)(수출용)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20151028",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090094]락토바실루스아시도필루스균",
+ "main_item_ingr_eng": "Lactobacillus Acidophilus",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507423",
+ "revisions": [
+  {
+   "revision_id": "201507423-9a50c22c",
+   "content_sha256": "9a50c22c21497c07e9bf0b25494932895da0ec5213873232346cd0228f8155c8",
+   "ee_text": "주효능 효과 장내균총이상(항생물질, 화학요법제 투여등)에 의한 여러증상의 개선 : 정장, 변비, 묽은변, 복부팽만가, 장내이상발효",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:46Z",
+   "last_observed_at": "2026-09-08T08:49:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:46Z"
+}

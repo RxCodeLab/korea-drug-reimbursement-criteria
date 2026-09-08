@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201607416",
+ "item_name": "유니클린액(염화알루미늄)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20161230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071904]염화알루미늄",
+ "main_item_ingr_eng": "Aluminium Chloride",
+ "edi_code": "",
+ "atc_code": "D11AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607416",
+ "revisions": [
+  {
+   "revision_id": "201607416-de1449eb",
+   "content_sha256": "de1449eb2039ae49f32760a1afe03d9e1331e0224d4951d72fa19d8d94b9a27f",
+   "ee_text": "겨드랑이, 손, 발의 다한증(땀 과다증)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:24Z",
+   "last_observed_at": "2026-09-08T08:51:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:24Z"
+}

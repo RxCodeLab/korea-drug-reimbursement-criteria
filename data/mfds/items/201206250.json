@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201206250",
+ "item_name": "뮤코테라트로키제(암브록솔염산염)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20120725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233843]암브록솔염산염",
+ "main_item_ingr_eng": "Ambroxol Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R02AD05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206250",
+ "revisions": [
+  {
+   "revision_id": "201206250-2c028ae0",
+   "content_sha256": "2c028ae008fb87534bc730d1188a570862c9c63f43e2e65029b4b9f61ac3e69a",
+   "ee_text": "급성 인후염의 통증 완화",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:24Z",
+   "last_observed_at": "2026-09-08T08:45:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:24Z"
+}

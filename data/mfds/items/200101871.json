@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "M01AE02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101871",
+ "history_fetched_at": "2026-08-28T13:23:58Z",
  "revisions": [
   {
-   "revision_id": "200101871-ffcd2756",
-   "content_sha256": "ffcd27562e43d1f9b5312dffc3f75d19ebbee6798aad005ff47f7a859ee26382",
-   "ee_text": "류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건염(힘줄염), 급성통풍, 월경곤란증 활액낭염, 골격근장애(염좌(삠), 좌상(타박상, 멍), 외상(상처), 요천통(허리통증)), 수술 후 동통(통증), 편두통, 발치(이를 뽑음)후 동통(통증)",
+   "revision_id": "200101871-66f7cd34",
+   "content_sha256": "66f7cd34d735f24b0f9a74186c6dd6446eff00467aafed7580c363e8e39a030d",
+   "ee_text": "1. 주효능효과 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건염(힘줄염), 급성통풍, 월경곤란증 2. 다음 질환에도 사용할 수 있다. 활액낭염, 골격근장애(염좌(삠), 좌상(타박상, 멍), 외상(상처), 요천통(허리통증)), 수술 후 동통(통증), 편두통, 발치(이를 뽑음)후 동통(통증)",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:23:58Z",
-   "last_observed_at": "2026-08-28T13:23:58Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:35:18Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:58Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403216",
+ "item_name": "베니핀정(염산베니디핀)(수출용)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20040612",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102164]염산베니디핀",
+ "main_item_ingr_eng": "Benidipine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C08CA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403216",
+ "revisions": [
+  {
+   "revision_id": "200403216-155c0425",
+   "content_sha256": "155c042505167e15f42cc1c478bf8489f11275046c57b07872c0f84357c5cd63",
+   "ee_text": "고혈압증, 협심증",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:16Z",
+   "last_observed_at": "2026-09-08T08:38:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:16Z"
+}

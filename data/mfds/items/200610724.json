@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200610724",
+ "item_name": "바리박스주(수두생바이러스백신)",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "20060829",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246172]약독 수두생바이러스(바이러스주: Oka/Merck주, 세포주: MRC-5)",
+ "main_item_ingr_eng": "Live Attenuated Varicella Virus (Strain: Oka/Merck, Cell Strain: MRC-5 )",
+ "edi_code": "",
+ "atc_code": "J07BK01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200610724",
+ "revisions": [
+  {
+   "revision_id": "200610724-2921a92b",
+   "content_sha256": "2921a92b25ab33f190404d5ca5afa803223b87e3c8838864567147f7fba31ea3",
+   "ee_text": "생후 12개월 이상의 소아 및 성인에서 수두 감염의 예방 - 추가접종 이 백신의 수두에 대한 예방 기간은 아직 알려져 있지 않다. 그러나 백신 접종 후 4~6년 후 수두에 자연 노출되었거나 추가접종한 경우(Oka/Merck) 항체의 상승이 관찰되었다. 이 백신의 접종이 모든 건강하고, 감수성이 있는 소아, 청소년 및 성인에서 수두발생을 예방하는 것은 아니다.",
+   "ee_doc_id": "53",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:40Z",
+   "last_observed_at": "2026-09-08T08:40:40Z",
+   "official_revision_date": "2025-03-25"
+  },
+  {
+   "revision_id": "200610724-76dbe6a3",
+   "content_sha256": "76dbe6a34fc9b69b2c4170a1a63c30e9c386093e53149681780082e400a60be6",
+   "ee_text": "생후 12개월 이상의 소아 및 성인에서 수두 감염의 예방 - 추가접종 이 백신의 수두에 대한 예방 기간은 아직 알려져 있지 않다. 그러나 백신 접종 후 4~6년 후 수두에 자연 노출되었거나 추가접종한 경우(Oka/Merck) 항체의 상승이 관찰되었다. 백신을 접종한 인구의 비율이 높은 경우, 수두에 대한 자연 노출이 감소하므로 일부 개인의 면역성은 감소될 수 있다. 이 백신의 접종이 모든 건강하고, 감수성이 있는 소아, 청소년 및 성인에서 수두발생을 예방하는 것은 아니다. .",
+   "ee_doc_id": "37",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-02-27",
+   "first_observed_at": "2026-09-08T08:40:40Z",
+   "last_observed_at": "2026-09-08T08:40:40Z"
+  },
+  {
+   "revision_id": "200610724-2d58fff3",
+   "content_sha256": "2d58fff37a668f32e06e74576fbc46b83f463b31a830db4fd726c2b41551c8e2",
+   "ee_text": "생후 12개월 이상의 소아 및 성인에서 수두 감염의 예방 - 추가접종 이 백신의 수두에 대한 예방 기간은 아직 알려져 있지 않으며 추가 접종의 필요성 여부도 확실하지 않다. 그러나 백신 접종 후 4~6년 후 수두에 자연 노출되었거나 추가접종한 경우(Oka/Merck) 항체의 상승이 관찰되었다. 백신을 접종한 인구의 비율이 높은 경우, 수두에 대한 자연 노출이 감소하므로 일부 개인의 면역성은 감소될 수 있다. 추가접종의 필요성과 시기를 평가하기 위한 임상시험이 현재 진행 중이다. 이 백신의 접종이 모든 건강하고, 감수성이 있는 소아, 청소년 및 성인에서 수두발생을 예방하는 것은 아니다.",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:40:40Z",
+   "last_observed_at": "2026-09-08T08:40:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:40Z"
+}

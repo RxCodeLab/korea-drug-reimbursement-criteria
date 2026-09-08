@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907444",
+ "item_name": "올리시스캡슐60mg(오르리스타트)",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20191024",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092754]오르리스타트",
+ "main_item_ingr_eng": "Orlistat",
+ "edi_code": "",
+ "atc_code": "A08AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907444",
+ "revisions": [
+  {
+   "revision_id": "201907444-125cf41b",
+   "content_sha256": "125cf41b6c922e3cce8fcf48d89de1744dff1323675d29ea84e1f4fe91c9e18a",
+   "ee_text": "체질량 지수(BMI) 30 ㎏/m² 이상 또는 다른 위험인자 (예, 고혈압, 당뇨, 이상지질혈증)가 있는 27㎏/m² 이상의 비만환자에 있어 저칼로리 식이와 함께 체중감소 또는 체중유지를 포함한 비만치료 또는 체중 재증가의 위험감소에 사용된다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:47Z",
+   "last_observed_at": "2026-09-08T08:56:47Z",
+   "official_revision_date": "2019-10-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:47Z"
+}

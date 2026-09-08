@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200703652",
+ "item_name": "자니심주사(수출용)",
+ "entp_name": "천우신약(주)",
+ "permit_date": "20070329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089971]이미페넴|[M095530]실라스타틴나트륨",
+ "main_item_ingr_eng": "Cilastatin Sodium/Imipenem",
+ "edi_code": "",
+ "atc_code": "J01DH51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703652",
+ "revisions": [
+  {
+   "revision_id": "200703652-4c8ce345",
+   "content_sha256": "4c8ce345fdec978819205aff671eace0fbf5ec07b528375f161b7c89ca4612e0",
+   "ee_text": "○ 유효균종 포도구균, 연쇄구균, 대장균, 시트로박터, 클레브시엘라, 엔테로박터, 세라티 아, 푸로테우스, 슈도 모나스, 인플루엔자균, 아시네토박터, 박테로이드, 펩토구균, 펩토연쇄구균 ○ 적응증 - 기관지염, 기관지확장증(감염 시), 만성호흡기질환의 2차 감염, 폐렴, 폐농양, 농흉 - 신우신염, 방광염, 전립선염 - 담낭염, 담관염, 간농양, 복막염 - 자궁내강염, 자궁부속기염, 골반사강염, 자궁방 결합직염 - 패혈증 - 감염성 심내막염 - 골수염 - 관절염 - 창상의 2차 감염 - 전안구염 각막궤양 - 바르톨린선염",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:19Z",
+   "last_observed_at": "2026-09-08T08:41:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:19Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402865",
+ "item_name": "칼리신정50단위(칼리디노게나제)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20140627",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082140]칼리디노게나제",
+ "main_item_ingr_eng": "Kallidinogenase",
+ "edi_code": "052700160",
+ "atc_code": "C04AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402865",
+ "revisions": [
+  {
+   "revision_id": "201402865-ec3770fc",
+   "content_sha256": "ec3770fc0f37a1cce6bd18b8cb9940b4ccfc335bc27cc50232d867c3f7b4ff04",
+   "ee_text": "1. 다음 질환에 의한 말초순환장애 : 고혈압, 메니에르증후군,폐색성혈전혈관염(버거병) 2. 갱년기장애, 망맥락막의 순환장애에 의한 여러 증상의 개선",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:12Z",
+   "last_observed_at": "2026-09-08T08:47:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:12Z"
+}

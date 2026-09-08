@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000254",
+ "item_name": "류마켄플라스타(케토프로펜)",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20000825",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000254",
+ "revisions": [
+  {
+   "revision_id": "200000254-ce7712c2",
+   "content_sha256": "ce7712c2008c1d1426b7db5e0bc41a21a5500ac2d3f6a56638c6c05816df2453",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) 1) 퇴행성관절염(골관절염) 2) 어깨관절주위염 3) 건염(힘줄염)ㆍ건초염(힘줄윤활막염) 4) 건주위염 5) 상완골(위팔뼈)상과염(테니스 엘보우 등) 6) 근육통 7) 외상(상처)후의 종창(부기)ㆍ동통(통증)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200000254/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:29Z",
+   "last_observed_at": "2026-09-08T08:33:29Z"
+  },
+  {
+   "revision_id": "200000254-804bea08",
+   "content_sha256": "804bea084f7a5924eaa62fbadd581fd1e7118f2c829894022ffe6ea4814697cf",
+   "ee_text": "1. 다음 질환 및 증상의 진통ㆍ소염(항염) 1) 퇴행성관절염(골관절염) 2) 어깨관절주위염 3) 건염(힘줄염)ㆍ건초염(힘줄윤활막염) 4) 건주위염 5) 상완골(위팔뼈)상과염(테니스 엘보우 등) 6) 근육통 7) 외상(상처)후의 종창(부기)ㆍ동통(통증)",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:33:29Z",
+   "last_observed_at": "2026-09-08T08:33:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:29Z"
+}

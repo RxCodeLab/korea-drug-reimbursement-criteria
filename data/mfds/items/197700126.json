@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197700126",
+ "item_name": "후시딘정(퓨시드산나트륨)",
+ "entp_name": "동화약품(주)",
+ "permit_date": "19770121",
+ "cancel_date": "20260707",
+ "status": "취하",
+ "main_item_ingr": "[M243954]퓨시드산나트륨",
+ "main_item_ingr_eng": "Sodium Fusidate",
+ "edi_code": "",
+ "atc_code": "J01XC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197700126",
+ "revisions": [
+  {
+   "revision_id": "197700126-3dc85789",
+   "content_sha256": "3dc857890b7c018b890b4132d506682fc71a144db40bf886858c6247bc0847a2",
+   "ee_text": "(정제) ○ 유효균종 포도구균 ○ 적응증 - 골수염 - 패혈증 - 심내막염, 낭포성섬유증 - 기관지 폐렴 - 창상감염, 부스럼, 옹종 등 피부감염증 (연고제) ○ 유효균종 포도구균, 연쇄구균, 코리네박테륨, 클로스트리듐 ○ 적응증 - 농피증(농가진, 감염성습진양피부염, 심상성여드름(보통여드름), 모낭염, 종기 및 종기증, 화농성한선염, 농가진성습진), 화상ㆍ외상ㆍ봉합창ㆍ식피창에 의한 2차 감염 (첩부제) ○ 유효균종 포도구균 ○ 적응증 - 농피증(농가진, 모낭염, 종기), 화상ㆍ외상ㆍ봉합창ㆍ식피창에 의한 2차 감염",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:27Z",
+   "last_observed_at": "2026-09-08T08:26:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:27Z"
+}

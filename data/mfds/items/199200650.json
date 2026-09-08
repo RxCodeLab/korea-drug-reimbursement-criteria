@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199200650",
+ "item_name": "제일제약피록시캄주사액(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "19920108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071634]피록시캄",
+ "main_item_ingr_eng": "Piroxicam",
+ "edi_code": "",
+ "atc_code": "M01AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200650",
+ "revisions": [
+  {
+   "revision_id": "199200650-74790799",
+   "content_sha256": "747907990768495b7759c05a48b430b44e035c063cecf663754f4a8074ec9f9e",
+   "ee_text": "이 약은 다른 비스테로이드 소염제에 불응성이거나 효과가 불충분한 다음의 경우에만 투여한다. 1. 류마티스 관절염, 골관절염, 강직성척추염 2. 만성에 한함 : 허리통증, 어깨관절주위염, 경견완증후군",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:22Z",
+   "last_observed_at": "2026-09-08T08:28:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:22Z"
+}

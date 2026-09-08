@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203666",
+ "item_name": "트렐리지200엘립타흡입제",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20220926",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259812]플루티카손푸로에이트(미분화)|[M259813]빌란테롤트리페나테이트(미분화)|[M259864]유메클리디늄브롬화물(미분화)",
+ "main_item_ingr_eng": "Fluticasone Furoate Micronized/Umeclidinium Bromide Micronized/Vilanterol Trifenatate Micronized",
+ "edi_code": "650003261",
+ "atc_code": "R03AL08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203666",
+ "revisions": [
+  {
+   "revision_id": "202203666-c15d0ddb",
+   "content_sha256": "c15d0ddba9f5bd4763ca8fb92bd55dfcc5570f2ed22d11463836382c3361d49c",
+   "ee_text": "성인에서 지속성 베타2-효능약과 흡입용 코르티코스테로이드 병용요법으로 적절히 조절되지 않는 천식의 유지요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:34Z",
+   "last_observed_at": "2026-09-08T09:01:34Z",
+   "official_revision_date": "2022-09-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:34Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501751",
+ "item_name": "케이녹시겔5%(미녹시딜)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20250711",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081480]미녹시딜",
+ "main_item_ingr_eng": "Minoxidil",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501751",
+ "revisions": [
+  {
+   "revision_id": "202501751-bbdac689",
+   "content_sha256": "bbdac689385fd504a529668820faaf6ccc53e4e4123cc0de299b4c2362535a69",
+   "ee_text": "남성형 탈모증(안드로젠탈모증)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:03Z",
+   "last_observed_at": "2026-09-08T09:04:03Z",
+   "official_revision_date": "2025-07-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:03Z"
+}

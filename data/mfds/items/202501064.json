@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501064",
+ "item_name": "펜카이라주(데옥시콜산)",
+ "entp_name": "(주)펜믹스",
+ "permit_date": "20250430",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280524]데옥시콜산",
+ "main_item_ingr_eng": "Deoxycholic acid",
+ "edi_code": "",
+ "atc_code": "D11AX24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501064",
+ "revisions": [
+  {
+   "revision_id": "202501064-67c31f4c",
+   "content_sha256": "67c31f4ce895c14561256a4934db9ed76051026224e9b839e28f715903d305b4",
+   "ee_text": "성인의 중등증 ~ 중증의 돌출되거나 과도한 턱밑 지방의 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:53Z",
+   "last_observed_at": "2026-09-08T09:03:53Z",
+   "official_revision_date": "2025-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:53Z"
+}

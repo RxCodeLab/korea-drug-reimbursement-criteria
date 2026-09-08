@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701682",
+ "item_name": "대성의료종합가스의료용질소",
+ "entp_name": "대성의료종합가스(주)",
+ "permit_date": "20170406",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040542]질소",
+ "main_item_ingr_eng": "Nitrogen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701682",
+ "revisions": [
+  {
+   "revision_id": "201701682-e901e335",
+   "content_sha256": "e901e335a6192106f18a6b73f56aed970686b4a3b212c63db5d2e79205bf1fce",
+   "ee_text": "의료용가스 (제제용)",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:43Z",
+   "last_observed_at": "2026-09-08T08:51:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:43Z"
+}

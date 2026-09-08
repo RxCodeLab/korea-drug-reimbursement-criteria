@@ -9,9 +9,10 @@
  "status": "정상",
  "main_item_ingr": "[M087212]프란루카스트수화물",
  "main_item_ingr_eng": "Pranlukast Hydrate",
- "edi_code": "",
+ "edi_code": "670402630",
  "atc_code": "R03DC02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601507",
+ "history_fetched_at": "2026-08-27T13:24:00Z",
  "revisions": [
   {
    "revision_id": "202601507-0f416b3a",
@@ -19,9 +20,9 @@
    "ee_text": "1. 기관지 천식 2. 알레르기성 비염",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:24:00Z",
-   "last_observed_at": "2026-08-27T13:24:00Z",
-   "official_revision_date": "2026-05-26"
+   "last_observed_at": "2026-09-08T09:05:13Z",
+   "official_revision_date": "2026-05-26",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:24:00Z"
+ ]
 }

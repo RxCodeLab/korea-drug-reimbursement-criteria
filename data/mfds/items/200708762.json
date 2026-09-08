@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200708762",
+ "item_name": "심바스트씨알정(심바스타틴)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20070727",
+ "cancel_date": "20240521",
+ "status": "취하",
+ "main_item_ingr": "[M089710]심바스타틴|[M089710]심바스타틴",
+ "main_item_ingr_eng": "Simvastatin",
+ "edi_code": "643501450",
+ "atc_code": "C10AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708762",
+ "revisions": [
+  {
+   "revision_id": "200708762-108da81b",
+   "content_sha256": "108da81bb9ee8a83bb38f0479064ac0664df835d30bfaf54719258a5851401e8",
+   "ee_text": "고지혈증 원발성 고콜레스테롤혈증(이형접합 가족형 및 비가족형) 및 혼합형 이상지질혈증 환자의 상승된 총 콜레스테롤, LDL-콜레스테롤, 아포-B 단백 및 트리글리세라이드치를 감소시키고 HDL-콜레스테롤을 증가시키는 식이요법의 보조제 이 약 치료 개시전, 속발성 고지혈증의 원인이 있는지 확인하여야 하며, 총콜레스테롤, HDL-콜레스테롤 및 트리글리세라이드 등의 지질농도를 측정한다.",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:44Z",
+   "last_observed_at": "2026-09-08T08:41:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:44Z"
+}

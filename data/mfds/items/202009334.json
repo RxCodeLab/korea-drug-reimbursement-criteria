@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202009334",
+ "item_name": "얼리다정(아팔루타마이드)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20201230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280179]아팔루타마이드",
+ "main_item_ingr_eng": "Apalutamide",
+ "edi_code": "646902520",
+ "atc_code": "L02BB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009334",
+ "revisions": [
+  {
+   "revision_id": "202009334-0e3dfabd",
+   "content_sha256": "0e3dfabd6ceb47f6d07a43513a10a1f3424f77de9be7a40e3c47e8a51df3ad24",
+   "ee_text": "1. 호르몬 반응성 전이성 전립선암(mHSPC) 환자의 치료에 안드로겐 차단요법(ADT)과 병용 2. 고위험 비전이성 거세저항성 전립선암(nmCRPC) 환자의 치료",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:48Z",
+   "last_observed_at": "2026-09-08T08:59:48Z",
+   "official_revision_date": "2023-04-10"
+  },
+  {
+   "revision_id": "202009334-7877ee17",
+   "content_sha256": "7877ee1711214df155ab0cc412aa363b11ab9868532a0f4356d4b8d40ff36e85",
+   "ee_text": "전이성 거세 감수성 전립선암 (mCSPC) 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-12-30",
+   "first_observed_at": "2026-09-08T08:59:48Z",
+   "last_observed_at": "2026-09-08T08:59:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:48Z"
+}

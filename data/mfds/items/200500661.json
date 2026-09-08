@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:06:31Z",
  "revisions": [
   {
-   "revision_id": "200500661-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200500661-f3a10e47",
+   "content_sha256": "f3a10e47164dc50c0788fd95a796d0fd8a4812106b4a786822329a4020a2d72c",
+   "ee_text": "1. 고혈압 2. 고혈압의 치료요법으로서, 고혈압을 가진 제 2형 당뇨병 환자의 신질환",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200500661/EE",
    "first_observed_at": "2026-08-27T13:06:31Z",
-   "last_observed_at": "2026-08-28T13:24:07Z"
+   "last_observed_at": "2026-09-08T08:38:58Z",
+   "normalizer_version": 3
   }
  ]
 }

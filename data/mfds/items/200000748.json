@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000748",
+ "item_name": "제일피페라실린나트륨주1그람(수출용)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20000327",
+ "cancel_date": "20250728",
+ "status": "취하",
+ "main_item_ingr": "[M020192]피페라실린나트륨",
+ "main_item_ingr_eng": "Piperacillin Sodium",
+ "edi_code": "",
+ "atc_code": "J01CA12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000748",
+ "revisions": [
+  {
+   "revision_id": "200000748-b3c7324e",
+   "content_sha256": "b3c7324e6b3441d404430d76abc4331ba82c56ba1279f877c8be885a2bb78979",
+   "ee_text": "○ 유효균종 슈도모나스(특히 녹농균), 프로테우스, 시트로박터, 클레브시엘라, 엔테로박터, 세라티아, 대장균, 인플루엔자균, 임균, 수막염균, 박테로이드, 클로스트리듐, 펩토구균, 펩토연쇄구균, 연쇄구균, 폐렴연쇄구균, 포도구균, 장내구균 ○ 적응증 - 패혈증, 심내막염 - 급만성기관지염, 농흉, 폐렴, 폐농양, 기관지확장증, 만성호흡기질환의 2차감염 - 신우신염, 방광염, 임균성요도염 - 자궁내막염, 골반사강염 - 복막염, 복강내농양, 골반농양, 난관염 - 피부 및 연조직감염증 - 담관염 - 호기성균 및 혐기성균의 혼합감염증",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:36Z",
+   "last_observed_at": "2026-09-08T08:33:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:36Z"
+}

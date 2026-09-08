@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708261",
+ "item_name": "타진서방정80/40mg",
+ "entp_name": "한국먼디파마 유한회사",
+ "permit_date": "20171207",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M238042]옥시코돈염산염|[M246655]날록손염산염이수화물",
+ "main_item_ingr_eng": "Naloxone Hydrochloride Dihydrate/Oxycodone Hydrochloride",
+ "edi_code": "678000480",
+ "atc_code": "N02AA55",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708261",
+ "revisions": [
+  {
+   "revision_id": "201708261-27c8ed7b",
+   "content_sha256": "27c8ed7ba5829bd0fcf341f9fcfeba8c30596d07ab46c7664ccd944f0828bc79",
+   "ee_text": "마약성 진통제의 사용을 필요로 하는 중등증 및 중증의 통증",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:38Z",
+   "last_observed_at": "2026-09-08T08:52:38Z",
+   "official_revision_date": "2017-12-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:38Z"
+}

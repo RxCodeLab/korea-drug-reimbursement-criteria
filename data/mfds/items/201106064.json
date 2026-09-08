@@ -12,6 +12,7 @@
  "edi_code": "624900080",
  "atc_code": "J05AE03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106064",
+ "history_fetched_at": "2026-08-28T13:24:26Z",
  "revisions": [
   {
    "revision_id": "201106064-b74cdc48",
@@ -19,8 +20,9 @@
    "ee_text": "HIV-1 감염 환자 치료를 위한 프로테아제 억제제와의 병용요법",
    "ee_doc_id": "30",
    "first_observed_at": "2026-08-28T13:24:26Z",
-   "last_observed_at": "2026-08-28T13:24:26Z",
-   "official_revision_date": "2025-08-29"
+   "last_observed_at": "2026-09-08T08:44:53Z",
+   "official_revision_date": "2025-08-29",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201106064-d7aca90b",
@@ -40,6 +42,5 @@
    "first_observed_at": "2026-08-28T13:24:26Z",
    "last_observed_at": "2026-08-28T13:24:26Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:26Z"
+ ]
 }

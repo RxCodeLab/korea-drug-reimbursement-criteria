@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200808862",
+ "item_name": "장비오캡슐(바실루스리케니포르미스균)",
+ "entp_name": "(주)씨티씨바이오",
+ "permit_date": "20080820",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균",
+ "main_item_ingr_eng": "Bacillus Licheniformis",
+ "edi_code": "669501130",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808862",
+ "revisions": [
+  {
+   "revision_id": "200808862-ed0853c8",
+   "content_sha256": "ed0853c8fbe2ef39645ef749671ba5c755e538d2f396f05c4416ee88c1789a7e",
+   "ee_text": "급ㆍ만성장염, 급ㆍ만성설사, 급성이질 각종 원인에 기인한 장내 이상발효",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:46Z",
+   "last_observed_at": "2026-09-08T08:42:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:46Z"
+}

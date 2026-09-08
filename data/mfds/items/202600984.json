@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600984",
+ "item_name": "본파워정",
+ "entp_name": "메딕스제약(주)",
+ "permit_date": "20260408",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102050]콜레칼시페롤농축분말|[M210377]아셀렌산나트륨오수화물|[M243785]산화아연|[M249983]D-비오틴",
+ "main_item_ingr_eng": "Cholecalciferol Concentrate Powder/D-Biotin/Sodium Selenite Pentahydrate/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "A11CC55",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600984",
+ "revisions": [
+  {
+   "revision_id": "202600984-962f74c2",
+   "content_sha256": "962f74c2f476ee1a0bfe78b447baf02a1093d8dfdca3e417997309e886ed97d5",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신.수유기 - 발육기 - 노년기 2. 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. - 뼈, 이의 발육불량 - 구루병의 예방 3. 아연의 보급 4. 셀레늄의 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:59Z",
+   "last_observed_at": "2026-09-08T09:04:59Z",
+   "official_revision_date": "2026-04-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:59Z"
+}

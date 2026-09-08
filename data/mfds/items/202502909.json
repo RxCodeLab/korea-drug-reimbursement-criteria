@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502909",
+ "item_name": "현대미녹시딜정2.5밀리그램",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20251111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081480]미녹시딜",
+ "main_item_ingr_eng": "Minoxidil",
+ "edi_code": "",
+ "atc_code": "C02DC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502909",
+ "revisions": [
+  {
+   "revision_id": "202502909-f2401e03",
+   "content_sha256": "f2401e03ef5cbfb0dff1e687bcada28f07df71a936c62e0c9db7c1d79cb2c8fc",
+   "ee_text": "1) 증후성 또는 표적기관 손상에 의한 고혈압 2) 이뇨제와 두 종류의 혈압강하제를 병용투여하는 최대용량에도 반응하지 않는 고혈압(불응성고혈압)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:24Z",
+   "last_observed_at": "2026-09-08T09:04:24Z",
+   "official_revision_date": "2025-11-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:24Z"
+}

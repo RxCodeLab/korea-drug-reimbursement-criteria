@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004511",
+ "item_name": "로얄톡크림",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20200619",
+ "cancel_date": "20250619",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M101579]히드로코르티손|[M200412]로얄젤리",
+ "main_item_ingr_eng": "Hydrocortisone/Royal Jelly",
+ "edi_code": "",
+ "atc_code": "D07XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004511",
+ "revisions": [
+  {
+   "revision_id": "202004511-ac7e5e31",
+   "content_sha256": "ac7e5e318d351d2059c141da025f50c4da7a55e25304a58a911eaa2430016501",
+   "ee_text": "알레르기 피부염, 화장독, 땀띠, 가려움, 접촉피부염(기저귀발진), 면도 자극, 피부 거칠어짐 방지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:09Z",
+   "last_observed_at": "2026-09-08T08:59:09Z",
+   "official_revision_date": "2020-06-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:09Z"
+}

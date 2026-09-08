@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200807208",
+ "item_name": "필로겐정(필로카르핀염산염)",
+ "entp_name": "(주)씨티씨바이오",
+ "permit_date": "20080627",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223342]필로카르핀염산염",
+ "main_item_ingr_eng": "Pilocarpine Hydrochloride",
+ "edi_code": "669500950",
+ "atc_code": "N07AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807208",
+ "revisions": [
+  {
+   "revision_id": "200807208-d42120a8",
+   "content_sha256": "d42120a8a40d35e5c2353b884f007c36e5de31bd4e1ca9bc0899f4c0852718b4",
+   "ee_text": "1) 두부암 또는 경부암에 대한 방사선요법에 의해 일어나는 타액선의 기능저하로 인한 구강건조증의 치료 2) 쇼그렌증후군 환자의 구강건조증 또는 안구건조증 치료.",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:39Z",
+   "last_observed_at": "2026-09-08T08:42:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:39Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "N02AF01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802910",
+ "history_fetched_at": "2026-08-27T13:16:25Z",
  "revisions": [
   {
    "revision_id": "201802910-760ce726",
@@ -19,9 +20,9 @@
    "ee_text": "1) 아편계 진통제(Opioid analgesics)가 요구되는 통증의 치료 2) 수술전 또는 마취전 처치 3) 조절마취의 보조제 4) 분만진통 중의 통증 경감",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:16:25Z",
-   "last_observed_at": "2026-08-27T13:16:25Z",
-   "official_revision_date": "2018-07-13"
+   "last_observed_at": "2026-09-08T08:53:23Z",
+   "official_revision_date": "2018-07-13",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:16:25Z"
+ ]
 }

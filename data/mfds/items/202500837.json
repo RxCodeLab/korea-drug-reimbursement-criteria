@@ -7,7 +7,7 @@
  "permit_date": "20250409",
  "cancel_date": "20251210",
  "status": "취하",
- "main_item_ingr": "[M223258]티아민염산염|[M096429]시아노코발라민|[M086116]농축콜레칼시페롤|[M247470]시트르산칼슘수화물",
+ "main_item_ingr": "[M086116]농축콜레칼시페롤|[M096429]시아노코발라민|[M223258]티아민염산염|[M247470]시트르산칼슘수화물",
  "main_item_ingr_eng": "Calcium Citrate Hydrate/Cholecalciferol Concentrate/Cyanocobalamin/Thiamine Hydrochloride",
  "edi_code": "",
  "atc_code": "A12AX",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:38:14Z",
  "revisions": [
   {
-   "revision_id": "202500837-bad15fef",
-   "content_sha256": "bad15fefd33c2b1b3c72cfc9a2a109604ef34abc930f9255f19f11a0117a924e",
-   "ee_text": "1 ,비타민D의 보급\">",
+   "revision_id": "202500837-9ff02237",
+   "content_sha256": "9ff02237e4c7428b663350638583624c0d59a27dff607377d5372b821762b5b9",
+   "ee_text": "1. 다음 경우의 비타민 B1,비타민D의 보급 - 육체피로 - 임신 · 수유기 - 병중·병후의 (병을 앓는 동안이나 회복 후)의 체력저하 시 - 발육기 - 노년기 2. 이 약에 함유된 비타민 등의 효능·효과 - 뼈, 이의 발육불량 - 구루병의 예방",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202500837/EE",
    "first_observed_at": "2026-08-27T10:38:14Z",
-   "last_observed_at": "2026-08-27T10:54:52Z"
+   "last_observed_at": "2026-09-08T09:03:49Z",
+   "normalizer_version": 3
   }
  ]
 }

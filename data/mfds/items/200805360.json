@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805360",
+ "item_name": "알파치모모둘린캡슐(수출용)",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20080509",
+ "cancel_date": "20240709",
+ "status": "취하",
+ "main_item_ingr": "[M082300]치모모둘린",
+ "main_item_ingr_eng": "Thymomodulin",
+ "edi_code": "",
+ "atc_code": "L03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805360",
+ "revisions": [
+  {
+   "revision_id": "200805360-675518e1",
+   "content_sha256": "675518e104ac65e7c3d62837e3bf348505387d1d73775c0b1e596c72d44063ef",
+   "ee_text": "1. 간염, 호흡기 질환등 세균 및 바이러스성 감염질환의 보조치료 2. 1차, 2차 백혈구 감소증 치료 3. 골수독성제에 기인한 백혈구 감소증의 예방 4. 항체생성 결핍증·면역자극 5. 면역골수 조절",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:30Z",
+   "last_observed_at": "2026-09-08T08:42:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:30Z"
+}

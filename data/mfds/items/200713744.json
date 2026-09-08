@@ -7,21 +7,22 @@
  "permit_date": "20071227",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M207935]치자연조엑스(3.0→1)|[M213350]황백연조엑스(3.3→1)|[M223240]토코페롤아세테이트|[M204423]dl-캄파|[M230875]l-멘톨|[M070611]살리실산글리콜",
+ "main_item_ingr": "[M070611]살리실산글리콜|[M204423]dl-캄파|[M207935]치자연조엑스(3.0→1)|[M213350]황백연조엑스(3.3→1)|[M223240]토코페롤아세테이트|[M230875]l-멘톨",
  "main_item_ingr_eng": "DL-Camphor/Gardenia Fruit Soft Extract (3.0→1)/Glycol Salicylate/L-Menthol/Phellodendron Bark Soft Extract (3.3→1)/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "M02AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713744",
+ "history_fetched_at": "2026-08-28T13:24:15Z",
  "revisions": [
   {
-   "revision_id": "200713744-262b6426",
-   "content_sha256": "262b6426304ef327330e6191758827a978659671132e7578763d7bc1e9e012e0",
-   "ee_text": "삠, 타박상, 근육통, 관절통, 골절통, 요[허리]통, 어깨결림, 동창[언 상처]",
+   "revision_id": "200713744-fc323456",
+   "content_sha256": "fc323456f9d31df05f2f5adf069f5c4b80a68c41de8076027c2977ca1b92f063",
+   "ee_text": "다음 증상의 진통 ㆍ 소염[항염] : 삠, 타박상, 근육통, 관절통, 골절통, 요[허리]통, 어깨결림, 동창[언 상처]",
    "ee_doc_id": "23",
    "first_observed_at": "2026-08-28T13:24:15Z",
-   "last_observed_at": "2026-08-28T13:24:15Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:42:07Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:15Z"
+ ]
 }

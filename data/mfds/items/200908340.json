@@ -7,21 +7,22 @@
  "permit_date": "20091126",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M279284]L-멘톨|[M256450]고추 80 % 에탄올 연조엑스",
+ "main_item_ingr": "[M256450]고추 80 % 에탄올 연조엑스|[M279284]L-멘톨",
  "main_item_ingr_eng": "Capsicum 80% Ethanol Soft Extract/L-Menthol",
  "edi_code": "",
  "atc_code": "M02AB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908340",
+ "history_fetched_at": "2026-08-28T13:24:22Z",
  "revisions": [
   {
-   "revision_id": "200908340-623f13fc",
-   "content_sha256": "623f13fc81888d9e61e112be5c34f3e86f3f43d73b4f4da31ca12ccd4df34b23",
-   "ee_text": ": 염좌, 타박, 근육통, 관절통, 골절통, 요통, 견통, 동창",
+   "revision_id": "200908340-00a12134",
+   "content_sha256": "00a121348b3fbfa9d59c78f2e10862daa94417ef94cc49133354efbff2f9d2e0",
+   "ee_text": "진통 ·소염 : 염좌, 타박, 근육통, 관절통, 골절통, 요통, 견통, 동창",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:24:22Z",
-   "last_observed_at": "2026-08-28T13:24:22Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:43:37Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:22Z"
+ ]
 }

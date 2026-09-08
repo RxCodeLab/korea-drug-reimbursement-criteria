@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802749",
+ "item_name": "프레드벨1%점안액(프레드니솔론아세테이트)(1회용)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20180629",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223298]프레드니솔론아세테이트",
+ "main_item_ingr_eng": "Prednisolone Acetate",
+ "edi_code": "643308131",
+ "atc_code": "S01BA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802749",
+ "revisions": [
+  {
+   "revision_id": "201802749-bb1aa3e0",
+   "content_sha256": "bb1aa3e0bd9e2e86951ac0cb7f151f95cc666308c9f02d5f23f133a3edd8432a",
+   "ee_text": "안검염, 결막염, 각막염, 공막염, 포도막염, 수술 후 염증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:20Z",
+   "last_observed_at": "2026-09-08T08:53:20Z",
+   "official_revision_date": "2018-06-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:20Z"
+}

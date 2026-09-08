@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402191",
+ "item_name": "포크랄시럽(포수클로랄)(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20140509",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M220531]포수클로랄",
+ "main_item_ingr_eng": "Chloral Hydrate",
+ "edi_code": "",
+ "atc_code": "N05CC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402191",
+ "revisions": [
+  {
+   "revision_id": "201402191-8e5077df",
+   "content_sha256": "8e5077df9934ea73a375fdf10433bb68854c463b55063b91ec6d708d1a234818",
+   "ee_text": "불면증, 수술 전 진정",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:02Z",
+   "last_observed_at": "2026-09-08T08:47:02Z",
+   "official_revision_date": "2024-05-24"
+  },
+  {
+   "revision_id": "201402191-bf46b1f6",
+   "content_sha256": "bf46b1f632a0a5eeb3362000d40ec6d4246172d2f826b4da2fc57daafa8fc3ac",
+   "ee_text": "불면증, 수술전 진정, 수술 후 동통 경감(아편제, 진통제의 보조)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:47:02Z",
+   "last_observed_at": "2026-09-08T08:47:02Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:02Z"
+}

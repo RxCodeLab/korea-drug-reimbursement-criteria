@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402626",
+ "item_name": "레고라닙정40밀리그램(레고라페닙)",
+ "entp_name": "(주)보령",
+ "permit_date": "20241106",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284318]레고라페닙",
+ "main_item_ingr_eng": "Regorafenib",
+ "edi_code": "641908530",
+ "atc_code": "L01EX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402626",
+ "revisions": [
+  {
+   "revision_id": "202402626-53aff795",
+   "content_sha256": "53aff79592a5f7ddc77ecd953c0115528444f96fe68fbfe39462e871833b7196",
+   "ee_text": "1. 이전에 플루오로피리미딘 계열 약물을 기본으로 하는 항암 화학 요법과 항 VEGF 치료제, 항 EGFR 치료제(RAS 정상형 (wild type)의 경우)로 치료를 받은 적이 있는 전이성 직장결장암 환자의 치료 2. 이전에 이매티닙과 수니티닙으로 치료 받은 적이 있는 전이성 또는 절제불가능한 국소진행성 위장관기질종양(GIST) 환자의 치료 3. 이전에 소라페닙으로 치료 받은 적이 있는 간세포암 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:26Z",
+   "last_observed_at": "2026-09-08T09:03:26Z",
+   "official_revision_date": "2024-11-06"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:26Z"
+}

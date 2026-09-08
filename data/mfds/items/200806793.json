@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806793",
+ "item_name": "쎄레빅스주사(포스페니토인나트륨)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20080620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M235712]포스페니토인나트륨",
+ "main_item_ingr_eng": "Fosphenytoin Sodium",
+ "edi_code": "645304031,645304041",
+ "atc_code": "N03AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806793",
+ "revisions": [
+  {
+   "revision_id": "200806793-009881a9",
+   "content_sha256": "009881a968e61b774c7d80f8d0e943228b1b9d09f20822db3a8478a6be6ef03c",
+   "ee_text": "1. 강직간대발작(대발작)성 뇌전증중첩증 조절 2. 신경외과 수술 중 발생하는 발작의 치료와 예방 3. 경구투여가 가능하지 않거나 또는 금기시될 때의 경구용 페니토인의 대체",
+   "ee_doc_id": "26",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:37Z",
+   "last_observed_at": "2026-09-08T08:42:37Z",
+   "official_revision_date": "2023-06-30"
+  },
+  {
+   "revision_id": "200806793-cefbfdf7",
+   "content_sha256": "cefbfdf7dfff5f01e75f731fce9d2b9725b9e336337dba17a9f52306874bd6f9",
+   "ee_text": "1. 강직간대발작(대발작)성 간질중첩증 조절 2. 신경외과 수술 중 발생하는 발작의 치료와 예방 3. 경구투여가 가능하지 않거나 또는 금기시될 때의 경구용 페니토인의 대체",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:37Z",
+   "last_observed_at": "2026-09-08T08:42:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:37Z"
+}

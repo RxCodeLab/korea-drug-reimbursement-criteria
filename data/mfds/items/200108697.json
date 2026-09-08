@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108697",
+ "item_name": "하이캄틴주4밀리그램(토포테칸염산염)",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20010906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244792]토포테칸염산염",
+ "main_item_ingr_eng": "Topotecan Hydrochloride",
+ "edi_code": "643904181,653602791",
+ "atc_code": "L01CE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108697",
+ "revisions": [
+  {
+   "revision_id": "200108697-4673c6c1",
+   "content_sha256": "4673c6c1378e93ba19baff5152202283fb65e1430d86aae099c7c7179c148c89",
+   "ee_text": "1. 표준화학요법에 실패한 전이성 난소암 2. 1차 화학요법에 실패한 재발성 소세포폐암 3. 수술요법 또는 방사선 요법으로 치료되지 않는 Ⅳ-B기, 재발성, 지속성 자궁경부암",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:46Z",
+   "last_observed_at": "2026-09-08T08:35:46Z",
+   "official_revision_date": "2017-09-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:46Z"
+}

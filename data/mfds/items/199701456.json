@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701456",
+ "item_name": "오라덴정(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "19970901",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020072]스피라마이신|[M040170]메트로니다졸",
+ "main_item_ingr_eng": "Metronidazole/Spiramycin",
+ "edi_code": "",
+ "atc_code": "J01RA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701456",
+ "revisions": [
+  {
+   "revision_id": "199701456-33ab93bd",
+   "content_sha256": "33ab93bd395cc5f69b85f420c1ce87f35b0411566b0416a306bb54e503f23596",
+   "ee_text": "○ 유효균종 연쇄구균, 폐렴연쇄구균, 보르데텔라 백일해, 방선균, 디프테리아균, 클라미디아, 폐렴 미코플라스마, 클로스트리듐 퍼프린젠스, 비피도박테륨, 박테로이디즈 프라질리스, 푸조박테륨, 베요넬라, 유박테륨, 펩토연쇄구균 ○ 적응증 1) 급ㆍ만성 또는 재발성 구강 감염증 치아농양, 연조직염, 치관주위염, 치은염, 구내염, 치주염, 이하선염, 하악염 2) 구강수술 후 감염증 방지",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:02Z",
+   "last_observed_at": "2026-09-08T08:31:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:02Z"
+}

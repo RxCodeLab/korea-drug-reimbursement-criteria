@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400023",
+ "item_name": "프리스엣마일드액(염화알루미늄수화물)",
+ "entp_name": "(주)다산제약",
+ "permit_date": "20240104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M248764]염화알루미늄수화물",
+ "main_item_ingr_eng": "Aluminium Chloride Hydrate",
+ "edi_code": "",
+ "atc_code": "D11AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400023",
+ "revisions": [
+  {
+   "revision_id": "202400023-11b828ed",
+   "content_sha256": "11b828ed2d6b65865a35712c66b91d9cdf9e4d54f8693d613c11a02e9c3dcd45",
+   "ee_text": "겨드랑이, 손, 발의 다한증(땀과다증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:36Z",
+   "last_observed_at": "2026-09-08T09:02:36Z",
+   "official_revision_date": "2024-01-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:36Z"
+}

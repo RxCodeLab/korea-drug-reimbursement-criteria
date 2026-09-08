@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708068",
+ "item_name": "칼리스토정50단위(칼리디노게나제)",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20171124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082140]칼리디노게나제",
+ "main_item_ingr_eng": "Kallidinogenase",
+ "edi_code": "",
+ "atc_code": "C04AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708068",
+ "revisions": [
+  {
+   "revision_id": "201708068-ce2bff5a",
+   "content_sha256": "ce2bff5a8b9a24cddddd56a85fa64ed03cb822b3745de480925b6e039dcee5c8",
+   "ee_text": "1. 다음 질환에 의한 말초순환장애 : 고혈압, 메니에르증후군, 폐색성혈전혈관염 (버거병) 2. 갱년기장애, 망맥락막의 순환장애에 의한 여러 증상의 개선",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:36Z",
+   "last_observed_at": "2026-09-08T08:52:36Z",
+   "official_revision_date": "2017-11-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:36Z"
+}

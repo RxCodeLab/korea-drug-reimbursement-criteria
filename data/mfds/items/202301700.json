@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301700",
+ "item_name": "제놀파워겔(피록시캄)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20230530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071634]피록시캄",
+ "main_item_ingr_eng": "Piroxicam",
+ "edi_code": "",
+ "atc_code": "M02AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301700",
+ "revisions": [
+  {
+   "revision_id": "202301700-5ae002bf",
+   "content_sha256": "5ae002bfb9f66062ad83cf9db176355e865181bbaa54bdbca840275141086ff6",
+   "ee_text": "다음 질환 및 증상의 진통·소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건염(힘줄염)·건초염(힘줄윤활막염), 건(힘줄)주위염, 상완골(위팔뼈)상과염 (테니스 엘보우 등), 근육통(근염, 근막염 등), 외상후의 종창(부기)·동통(통증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:07Z",
+   "last_observed_at": "2026-09-08T09:02:07Z",
+   "official_revision_date": "2023-05-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:07Z"
+}

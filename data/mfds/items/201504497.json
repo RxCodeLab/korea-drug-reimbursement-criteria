@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201504497",
+ "item_name": "노르에핀주(노르에피네프린타르타르산염수화물)(수출용)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20150702",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252333]노르에피네프린타르타르산염수화물",
+ "main_item_ingr_eng": "Norepinephrine Tartrate Hydrate",
+ "edi_code": "",
+ "atc_code": "C01CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504497",
+ "revisions": [
+  {
+   "revision_id": "201504497-88f5e545",
+   "content_sha256": "88f5e545d3cf3aa121f7bb196b9f12f496eefe7bdb963b44fb6dfcde31fb04e2",
+   "ee_text": "1. 각종 질환에 따르는 급성 저혈압 또는 쇽의 보조치료(심근경색에 의한 쇽, 패혈증으로 인한 쇽, 아나필락시성 쇽, 순환 혈액량 저하에 따르는 급성 저혈압 또는 쇽, 전신마취시의 급성 저혈압 등) 2. 심정지의 보조치료",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:18Z",
+   "last_observed_at": "2026-09-08T08:49:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:18Z"
+}

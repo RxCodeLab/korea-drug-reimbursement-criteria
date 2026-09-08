@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200800902",
+ "item_name": "엠엔에이치메디케이트 카타플라스마(수출용)(수출명: Menthol & Histamine medicated Patch)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20080123",
+ "cancel_date": "20260824",
+ "status": "취하",
+ "main_item_ingr": "[M084752]히스타민2염산염|[M279284]L-멘톨",
+ "main_item_ingr_eng": "Histamine Dihydrochloride/L-Menthol",
+ "edi_code": "",
+ "atc_code": "M02AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800902",
+ "revisions": [
+  {
+   "revision_id": "200800902-56f2a6c9",
+   "content_sha256": "56f2a6c9d936a6541324f6b06e1e2e872a3791404884049de44fc0db5ec6c65d",
+   "ee_text": "아래와 관련된 근육과 관절의 작은 통증의 일시적인 경감 요통, 관절염, 염좌, 타박, 삠",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:11Z",
+   "last_observed_at": "2026-09-08T08:42:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:11Z"
+}

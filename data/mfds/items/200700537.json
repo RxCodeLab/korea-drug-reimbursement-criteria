@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200700537",
+ "item_name": "노레보원정(레보노르게스트렐)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20070104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095487]레보노르게스트렐",
+ "main_item_ingr_eng": "Levonorgestrel",
+ "edi_code": "",
+ "atc_code": "G03AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700537",
+ "revisions": [
+  {
+   "revision_id": "200700537-7111bc0d",
+   "content_sha256": "7111bc0d2ac98bf23212869646b3b1cc99d3ae2a47552a44561a49d32a45b8e7",
+   "ee_text": "무방비한 성교 또는 피임방법의 실패로 인한 경우, 성교 후 72시간 이내에 즉시 사용하는 긴급피임제",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:52Z",
+   "last_observed_at": "2026-09-08T08:40:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:52Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "19891214",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M082636]건조에르고칼시페롤|[M040634]침강탄산칼슘|[M222935]글루콘산칼슘수화물|[M233018]락트산칼슘수화물",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M082636]건조에르고칼시페롤|[M222935]글루콘산칼슘수화물|[M233018]락트산칼슘수화물",
  "main_item_ingr_eng": "Calcium Gluconate Hydrate/Calcium Lactate Hydrate/Dried Ergocalciferol/Precipitated Calcium Carbonate",
  "edi_code": "643301810",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900129",
+ "history_fetched_at": "2026-08-28T13:23:42Z",
  "revisions": [
   {
    "revision_id": "198900129-f9dbc9cc",
@@ -19,8 +20,9 @@
    "ee_text": "1. 칼슘 결핍 및 기타 칼슘 보급 2. 다음 경우의 비타민 D의 보급 - 임신ㆍ수유기, 발육기, 노년기 - 이 약에 함유된 비타민D(에르고칼시페롤)의 효능ㆍ효과는 다음과 같다. ㆍ 뼈, 이의 발육불량 ㆍ 구루병의 예방",
    "ee_doc_id": "20",
    "first_observed_at": "2026-08-28T13:23:42Z",
-   "last_observed_at": "2026-08-28T13:23:42Z",
-   "official_revision_date": "2021-10-21"
+   "last_observed_at": "2026-09-08T08:27:47Z",
+   "official_revision_date": "2021-10-21",
+   "normalizer_version": 3
   },
   {
    "revision_id": "198900129-bd6a9c37",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:42Z",
    "last_observed_at": "2026-08-28T13:23:42Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:42Z"
+ ]
 }

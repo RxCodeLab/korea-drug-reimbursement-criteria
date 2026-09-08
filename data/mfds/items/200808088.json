@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200808088",
+ "item_name": "포스터100/6에이치에프에이",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20080724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088695]푸마르산포르모테롤이수화물|[M239060]베클로메타손 디프로피오네이트",
+ "main_item_ingr_eng": "Beclomethasone Dipropionate/Formoterol Fumarate Dihydrate",
+ "edi_code": "670302181",
+ "atc_code": "R03AK08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808088",
+ "revisions": [
+  {
+   "revision_id": "200808088-5643fedb",
+   "content_sha256": "5643fedb4042d5242d842bbd77959928d3ddc6c99c6aa9561c90640ae6d03771",
+   "ee_text": "1. 지속성 기관지 확장제와 흡입용 코르티코스테로이드의 병용요법이 적절하다고 판단된 천식의 치료 2. 정기적인 지속성 기관지 확장제 치료에도 불구하고 반복적 악화 이력이 있는 중증 만성폐쇄성폐질환 환자의 증상 치료",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:43Z",
+   "last_observed_at": "2026-09-08T08:42:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:43Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900151",
+ "item_name": "올비틸제이시럽",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20190111",
+ "cancel_date": "20240111",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M093648]콜레칼시페롤농축물(유상형)|[M203450]아스코르브산|[M204304]피리독신염산염|[M222991]레티놀팔미테이트|[M222996]리보플라빈포스페이트나트륨|[M223258]티아민염산염|[M243439]판토텐산칼슘|[M249150]d-비오틴",
+ "main_item_ingr_eng": "Ascorbic Acid/Calcium Pantothenate/Cholecalciferol Concentrate Oil/D-Biotin/Nicotinamide/Pyridoxine Hydrochloride/Retinol Palmitate/Riboflavin Sodium Phosphate/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900151",
+ "revisions": [
+  {
+   "revision_id": "201900151-d5f8309b",
+   "content_sha256": "d5f8309b2ebb6c852f3e5c918ab22b83b7ed08cdbf526196af8da783fa8cbb11",
+   "ee_text": "다음경우의 비타민 A, D, B1, B2, B6, C의 보급 - 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후의 체력저하시 - 발육기 - 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. : 눈의 건조감의 완화, 야맹증(밤에 잘 못보는 증상), 뼈·이의 발육 불량, 구루병의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:03Z",
+   "last_observed_at": "2026-09-08T08:54:03Z",
+   "official_revision_date": "2019-01-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:03Z"
+}

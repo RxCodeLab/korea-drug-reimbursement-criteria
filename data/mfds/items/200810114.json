@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200810114",
+ "item_name": "토비애즈서방정8밀리그람(페소테로딘푸마르산염)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20081002",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M242751]페소테로딘푸마르산염",
+ "main_item_ingr_eng": "Fesoterodine Fumarate",
+ "edi_code": "648901330",
+ "atc_code": "G04BD11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810114",
+ "revisions": [
+  {
+   "revision_id": "200810114-335c4b57",
+   "content_sha256": "335c4b578081cf937eff15b6eb0aab207782d0800f9593c930ca0280782b79c9",
+   "ee_text": "절박뇨, 빈뇨, 절박성 요실금과 같은 과민성방광 증상의 치료",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:52Z",
+   "last_observed_at": "2026-09-08T08:42:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:52Z"
+}

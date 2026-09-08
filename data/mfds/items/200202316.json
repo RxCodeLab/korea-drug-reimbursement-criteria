@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200202316",
+ "item_name": "레드겔연질캡슐(수출용)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20021028",
+ "cancel_date": "20231215",
+ "status": "취하",
+ "main_item_ingr": "[M040647]토코페롤|[M082761]인삼가루",
+ "main_item_ingr_eng": "Ginseng Powder/Tocopherol",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202316",
+ "revisions": [
+  {
+   "revision_id": "200202316-b437f1e4",
+   "content_sha256": "b437f1e44081a9519c1baa5fa40a48df0ede50dbf1ac0cb044896d08117106c5",
+   "ee_text": "다음 경우의 비타민 보급 : 허약체질, 식욕부진, 영양불량, 소모성 질환, 육체피로, 임신 수유기, 발육기 및 노년기 병중 병후의 자양강장, 피로회복",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:21Z",
+   "last_observed_at": "2026-09-08T08:36:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:21Z"
+}

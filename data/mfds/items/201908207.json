@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908207",
+ "item_name": "이부톡톡크림(이부프로펜피코놀)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20191203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261461]이부프로펜피코놀",
+ "main_item_ingr_eng": "Ibuprofen Piconol",
+ "edi_code": "",
+ "atc_code": "D10AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908207",
+ "revisions": [
+  {
+   "revision_id": "201908207-132562be",
+   "content_sha256": "132562be85243933ae62061f75ef26edfc97208cbf1beaced0e891072933e726",
+   "ee_text": "1. 급성습진, 접촉성피부염, 아토피피부염, 만성습진, 주사성피부염, 구순피부염 2. 대상포진 3. 심상성여드름",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:11Z",
+   "last_observed_at": "2026-09-08T08:57:11Z",
+   "official_revision_date": "2019-12-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:11Z"
+}

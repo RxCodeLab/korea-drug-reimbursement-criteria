@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201307028",
+ "item_name": "패밀리케어 안티펑글 메디케이티드크림(톨나프테이트)(수출용)(수출명:Family Care Antifungal Medicated Cream Tolnaftate Cream USP 1%)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20130422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040650]톨나프테이트",
+ "main_item_ingr_eng": "Tolnaftate",
+ "edi_code": "",
+ "atc_code": "D01AE18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307028",
+ "revisions": [
+  {
+   "revision_id": "201307028-9b91be03",
+   "content_sha256": "9b91be038950b2ec102840e7abb1cc269205bed68d2d5762c301f9330153dcf5",
+   "ee_text": "다음의 피부진균증 1)백선:족부백선,체부백선,고부백선(완선) 2)어우러기",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:00Z",
+   "last_observed_at": "2026-09-08T08:46:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:00Z"
+}

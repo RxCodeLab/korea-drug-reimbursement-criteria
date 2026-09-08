@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200901577",
+ "item_name": "헤파엔정200mg(밀크시슬엑스)(수출용)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20090227",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M250889]밀크시슬엑스",
+ "main_item_ingr_eng": "Milk-thistle Fruit Extract",
+ "edi_code": "",
+ "atc_code": "A05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901577",
+ "revisions": [
+  {
+   "revision_id": "200901577-a9b4e8b7",
+   "content_sha256": "a9b4e8b7b69e2bd1900c2566bd9b35a9f15a77404432470965e11e954f6cedb0",
+   "ee_text": "다음 질환의 보조 치료 : 독성 간질환, 간세포 보호, 만성 간염, 간경변",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:09Z",
+   "last_observed_at": "2026-09-08T08:43:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:09Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200410324",
+ "item_name": "넥시움주(에스오메프라졸나트륨)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20040512",
+ "cancel_date": "20260310",
+ "status": "취하",
+ "main_item_ingr": "[M100498]에스오메프라졸나트륨",
+ "main_item_ingr_eng": "Esomeprazole Sodium",
+ "edi_code": "650700091",
+ "atc_code": "A02BC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410324",
+ "revisions": [
+  {
+   "revision_id": "200410324-27bd9fb3",
+   "content_sha256": "27bd9fb3c42fad1b69b8c7f1e98d7449fb44bb67104c32815b2d086ef168b223",
+   "ee_text": "○ 성인 : 1. 경구 요법이 적절치 않을 때 경구 요법에 대한 대체요법으로서 식도염이 있고/혹은 위식도역류에 따른 증상이 심한 위식도역류질환(GERD) 2. 급성 출혈성 위궤양 또는 십이지장궤양의 내시경치료 후 재출혈의 예방 ○ 1 ∼ 18세의 소아청소년 : 경구 요법이 적절치 않을 때 경구 요법에 대한 대체요법으로서 미란성 역류식도염이 있고/혹은 위식도 역류에 따른 증상이 심한 위식도역류질환(GERD)",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:41Z",
+   "last_observed_at": "2026-09-08T08:38:41Z",
+   "official_revision_date": "2017-09-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:41Z"
+}

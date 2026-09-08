@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008914",
+ "item_name": "테크네디엠에스에이키트주사(디메르캅토숙신산)",
+ "entp_name": "새한산업",
+ "permit_date": "20000826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259762]디메르캅토숙신산",
+ "main_item_ingr_eng": "Dimercaptosuccinic Acid",
+ "edi_code": "656900761",
+ "atc_code": "V09CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008914",
+ "revisions": [
+  {
+   "revision_id": "200008914-8ead4351",
+   "content_sha256": "8ead43517694d2b897f968ff995f7bb35609efa86e666b841111e12992e5ef1c",
+   "ee_text": "1. 진단용 방사성의약품인 디메르캅토숙신산테크네튬(99mTc) 주사액의 조제용 2. 디메르캅토숙신산테크네튬(99mTc) 주사액의 효능ㆍ효과 : 신장 신티 그래피에 의한 신장 질환의 진단",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:34Z",
+   "last_observed_at": "2026-09-08T08:34:34Z",
+   "official_revision_date": "2022-05-11"
+  },
+  {
+   "revision_id": "200008914-e44c5ad1",
+   "content_sha256": "e44c5ad16168724e459762a10e65b636638ad72001e5e4cd0c2228ab2ba4501b",
+   "ee_text": "1. 진단용 방사성의약품인 디메르캅토호박산테크네튬(99mTc) 주사액의 조제용 2. 디메르캅토호박산테크네튬(99mTc) 주사액의 효능ㆍ효과 : 신장 신티 그래피에 의한 신장 질환의 진단",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:34:34Z",
+   "last_observed_at": "2026-09-08T08:34:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:34Z"
+}

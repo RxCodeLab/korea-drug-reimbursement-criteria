@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198902516",
+ "item_name": "클레신비액2%(크로모글리크산나트륨)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "19890906",
+ "cancel_date": "20250212",
+ "status": "취하",
+ "main_item_ingr": "[M082911]크로모글리크산나트륨",
+ "main_item_ingr_eng": "Sodium Cromoglicate",
+ "edi_code": "",
+ "atc_code": "R01AC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198902516",
+ "revisions": [
+  {
+   "revision_id": "198902516-b10eec71",
+   "content_sha256": "b10eec711f6006e86d106f10b2663aab0751a4f3f1902c7eea10504121036ca1",
+   "ee_text": "알레르기성 비염",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:56Z",
+   "last_observed_at": "2026-09-08T08:27:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:56Z"
+}

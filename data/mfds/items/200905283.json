@@ -7,20 +7,22 @@
  "permit_date": "20090713",
  "cancel_date": "20260625",
  "status": "취하",
- "main_item_ingr": "[M223240]토코페롤아세테이트|[M040262]산화마그네슘|[M089702]셀레늄함유건조효모",
+ "main_item_ingr": "[M040262]산화마그네슘|[M089702]셀레늄함유건조효모|[M223240]토코페롤아세테이트",
  "main_item_ingr_eng": "Magnesium Oxide/Selenium In Dried Yeast/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11JB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905283",
+ "history_fetched_at": "2026-08-28T13:24:21Z",
  "revisions": [
   {
-   "revision_id": "200905283-ac65892b",
-   "content_sha256": "ac65892bfd9ead2f804b8d804ab2cfe1af4aee56cba9a4ce8f22648c7efd18eb",
-   "ee_text": "- 노년기 - 이 약에 함유된 비타민 등의 효능효과는 다음과 같다. · 비타민E : 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨·목결림, 수족저림·수족냉증",
+   "revision_id": "200905283-bd57cde2",
+   "content_sha256": "bd57cde2f60ac4954acd2264e01a44b0669e195c8de891dd5a4374fab19be61c",
+   "ee_text": "○ 다음경우의 비타민 E의 보급 - 노년기 - 이 약에 함유된 비타민 등의 효능효과는 다음과 같다. · 비타민E : 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨·목결림, 수족저림·수족냉증 ○ 마그네슘결핍으로 인한 근육경련",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:24:21Z",
-   "last_observed_at": "2026-08-28T13:24:21Z",
-   "official_revision_date": "2021-04-14"
+   "last_observed_at": "2026-09-08T08:43:24Z",
+   "official_revision_date": "2021-04-14",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200905283-81c64ed7",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:21Z",
    "last_observed_at": "2026-08-28T13:24:21Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:21Z"
+ ]
 }

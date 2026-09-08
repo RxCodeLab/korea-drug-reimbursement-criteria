@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404331",
+ "item_name": "아파베린정",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20140923",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223276]파파베린염산염|[M256709]디시클로민염산염",
+ "main_item_ingr_eng": "Dicyclomine Hydrochloride/Papaverine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A03AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404331",
+ "revisions": [
+  {
+   "revision_id": "201404331-f51fb018",
+   "content_sha256": "f51fb018119299ec056c4df3a16c6a7d8f247b3f525a094af9ec0b949c7df670",
+   "ee_text": "위통, 복통, 산통, 위산과다, 속쓰림",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:40Z",
+   "last_observed_at": "2026-09-08T08:47:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:40Z"
+}

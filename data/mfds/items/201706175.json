@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706175",
+ "item_name": "센실라정(센텔라정량추출물)",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20170725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251396]센텔라정량추출물",
+ "main_item_ingr_eng": "Centella Titrated Extract",
+ "edi_code": "",
+ "atc_code": "C05CX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706175",
+ "revisions": [
+  {
+   "revision_id": "201706175-ff194fae",
+   "content_sha256": "ff194faed4b0ba7942e29642a41b68da05201d3296aa5a60d1352d7b6f6629a5",
+   "ee_text": "정맥질환 : 정맥, 림프 부전과 관련된 증상의 개선(하지둔중감, 통증, 하지불온증상)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:08Z",
+   "last_observed_at": "2026-09-08T08:52:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:08Z"
+}

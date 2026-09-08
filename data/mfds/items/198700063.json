@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700063",
+ "item_name": "한풍복령엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19870228",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040225]복령",
+ "main_item_ingr_eng": "Poria",
+ "edi_code": "",
+ "atc_code": "C03X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700063",
+ "revisions": [
+  {
+   "revision_id": "198700063-99c88f15",
+   "content_sha256": "99c88f1552a8d6982c1f1e90b0acc0ba3f62c88486c75e26c70e47504c7f2531",
+   "ee_text": "이뇨, 건위, 진정",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:19Z",
+   "last_observed_at": "2026-09-08T08:27:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:19Z"
+}

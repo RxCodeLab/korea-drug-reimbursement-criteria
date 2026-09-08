@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600001",
+ "item_name": "애니코인핫앤쿨플라스타",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20260102",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040200]박하유|[M200188]노닐산바닐릴아미드|[M203279]살리실산메틸|[M206708]DL-캄파|[M223254]티몰|[M279284]L-멘톨",
+ "main_item_ingr_eng": "DL-Camphor/L-Menthol/Mentha Herb Oil/Methyl Salicylate/Thymol/Vanillyl Nonylamide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600001",
+ "revisions": [
+  {
+   "revision_id": "202600001-2c185cb5",
+   "content_sha256": "2c185cb52431cac40712867a248958b18ed1917ade54b648b2691dc8f2cebce5",
+   "ee_text": "다음 증상의 진통 소염 : 어깨 결림, 허리 통증, 타박상, 삠, 관절통, 근육통, 언 상처, 골절통",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:36Z",
+   "last_observed_at": "2026-09-08T09:04:36Z",
+   "official_revision_date": "2026-01-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:36Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197600029",
+ "item_name": "보중기과립(보중익기탕)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19761104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088599]보중익기탕연조엑스",
+ "main_item_ingr_eng": "Bojungikgitang Soft Extract",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600029",
+ "revisions": [
+  {
+   "revision_id": "197600029-f8a01274",
+   "content_sha256": "f8a01274be71fcde99c8228fc9471da96580d4e5aaac69d4b1345dd073fc9efa",
+   "ee_text": "원기가 없고 위장 기능이 쇠약해져 피로하기 쉬운 다음 증상 : 허약체질, 피로권태, 병후쇠약, 식욕감퇴(식욕부진), 도한(盜汗, 야 간에 자는 동안 땀이 나지만 느끼지 못하고 깨어나면 땀이 그치는 증상)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:24Z",
+   "last_observed_at": "2026-09-08T08:26:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:24Z"
+}

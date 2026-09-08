@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201100874",
+ "item_name": "라이넥주바이알(자하거가수분해물)",
+ "entp_name": "(주)녹십자웰빙",
+ "permit_date": "20110223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089843]자하거가수분해물",
+ "main_item_ingr_eng": "Human Placenta Hydrolysate",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100874",
+ "revisions": [
+  {
+   "revision_id": "201100874-f892f282",
+   "content_sha256": "f892f2829dc554a2abba151b97464d4bc66ba0f3a73fce78194e4240ea33204a",
+   "ee_text": "만성 간질환에 있어서의 간기능의 개선",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:28Z",
+   "last_observed_at": "2026-09-08T08:44:28Z",
+   "official_revision_date": "2017-09-16"
+  },
+  {
+   "revision_id": "201100874-7f278131",
+   "content_sha256": "7f278131a7d1cb1c9347bce3f26471599a8dd1bd660166952311596fef9a5d48",
+   "ee_text": "만성간질환에 있어서의 간기능 개선",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:28Z",
+   "last_observed_at": "2026-09-08T08:44:28Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:28Z"
+}

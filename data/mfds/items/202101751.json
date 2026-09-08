@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101751",
+ "item_name": "유니텍요오드화나트륨(131I)액(수출용)",
+ "entp_name": "(주)삼영유니텍",
+ "permit_date": "20210222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M094481]요오드화나트륨(131 I)액",
+ "main_item_ingr_eng": "Sodium Iodide (131I) Solution",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101751",
+ "revisions": [
+  {
+   "revision_id": "202101751-497f34c6",
+   "content_sha256": "497f34c6e25d2407c712b98b2a885aefb26b92f89781f406d3855915a36370aa",
+   "ee_text": "1. 진단용 1) 131I 갑상선 섭취율에 의한 갑상선 기능 검사 2) 신티그램에 의한 갑상선 질환의 진단 3) 신티그램에 의한 갑상선암 전이소(轉移巢)의 발견 2. 치료용 1) 갑상선기능항진증의 치료 2) 갑상선암 및 전이소(轉移巢)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:58Z",
+   "last_observed_at": "2026-09-08T08:59:58Z",
+   "official_revision_date": "2021-02-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:58Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000942",
+ "item_name": "씨엠피비산(탄산수소나트륨)",
+ "entp_name": "코스맥스파마(주)",
+ "permit_date": "20200213",
+ "cancel_date": "20260528",
+ "status": "취하",
+ "main_item_ingr": "[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "B05ZA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000942",
+ "revisions": [
+  {
+   "revision_id": "202000942-323e7192",
+   "content_sha256": "323e719243fec4d73da5ae28cbfc7442e06468b6c4bdcc3fd70135306a22d700",
+   "ee_text": "1. 급 만성 신부전 환자의 탄산수소염형 혈액투석시 투석액 제조 2. 유독물 해독을 위한 혈액투석시 투석액 제조",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:47Z",
+   "last_observed_at": "2026-09-08T08:57:47Z",
+   "official_revision_date": "2020-02-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:47Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005590",
+ "item_name": "미소그린과립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000811",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M081198]차전자피|[M081393]센나열매가루",
+ "main_item_ingr_eng": "Psyllium Husk/Sennae Fructus Powder",
+ "edi_code": "",
+ "atc_code": "A06AC51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005590",
+ "revisions": [
+  {
+   "revision_id": "200005590-19fd76fa",
+   "content_sha256": "19fd76fafbf287745a567424af913d0af723d4f4834a0e09cf14e58815f989e5",
+   "ee_text": "· 변비 · 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부(배부분)팽만, 장내이상발효, 치질",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200005590/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:23Z",
+   "last_observed_at": "2026-09-08T08:34:23Z"
+  },
+  {
+   "revision_id": "200005590-8092f99e",
+   "content_sha256": "8092f99eabbf1a01a945fdb731cc2b62cd1b10c754461093008e341ecc3c2b94",
+   "ee_text": "· 변비 · 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:34:23Z",
+   "last_observed_at": "2026-09-08T08:34:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:23Z"
+}

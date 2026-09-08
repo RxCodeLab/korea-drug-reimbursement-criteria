@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201406090",
+ "item_name": "플루아릭스테트라프리필드시린지(인플루엔자분할백신)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20141226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280740]정제불활화인플루엔자바이러스항원B형[B/Phuket/3073/2013]|[M283037]정제불활화인플루엔자바이러스항원B형[B/Austria/1359417/2021, BVR-26]|[M283887]정제불활화인플루엔자바이러스항원A형[A/Victoria/4897/2022, IVR-238(H1N1)]|[M285606]정제불활화인플루엔자바이러스항원A형[A/Croatia/10136RV/2023, X-425A(H3N2)]",
+ "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A [A/Croatia/10136RV/2023, X-425A(H3N2)]/Purified Inactivated Influenza Virus Antigen A [A/Victoria/4897/2022 IVR-238(H1N1)]/Purified Inactivated Influenza Virus Antigen B [B/Phuket/3073/2013]/Purified Influenza Virus Antigen B type(Split virion, Inactivated)[B/Austria/1359417/2021, BVR-26]",
+ "edi_code": "",
+ "atc_code": "J07BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406090",
+ "revisions": [
+  {
+   "revision_id": "201406090-be17fc32",
+   "content_sha256": "be17fc32642dea5c72b1ecf72a4d08eabf07278af8971d75b71b0c1ee61d57e4",
+   "ee_text": "생후 6개월 이상의 소아, 청소년, 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스들에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:11Z",
+   "last_observed_at": "2026-09-08T08:48:11Z",
+   "official_revision_date": "2018-04-27"
+  },
+  {
+   "revision_id": "201406090-79a3b8b1",
+   "content_sha256": "79a3b8b1dc60191fdaea48ebb2c4036d5afc9c61d011c8645d6616a9b6a1fad8",
+   "ee_text": "만 3세 이상의 소아 및 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스들에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:48:11Z",
+   "last_observed_at": "2026-09-08T08:48:11Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:11Z"
+}

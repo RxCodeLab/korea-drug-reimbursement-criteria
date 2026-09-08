@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907716",
+ "item_name": "에프이에스주사액(플루오로에스트라디올(18F)액)",
+ "entp_name": "재단법인아산사회복지재단서울아산병원",
+ "permit_date": "20191104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270509]플루오로에스트라디올 (18F) 액",
+ "main_item_ingr_eng": "Fluoro Estradiol (18F)",
+ "edi_code": "",
+ "atc_code": "V09IX11",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907716",
+ "revisions": [
+  {
+   "revision_id": "201907716-0e2a338f",
+   "content_sha256": "0e2a338f5416775e405dab5f4de6ad363a52b40bd89a31e407a729cb0c250d57",
+   "ee_text": "다음 경우의 양전자방출단층촬영(Positron emission tomography, PET)에 사용한다. 성인에서 유방암의 재발 또는 전이가 알려져 있거나 의심되는 병소의 에스트로겐 수용체 발현의 평가에 도움을 주기 위한 영상(PET) 확인",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:58Z",
+   "last_observed_at": "2026-09-08T08:56:58Z",
+   "official_revision_date": "2019-11-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:58Z"
+}

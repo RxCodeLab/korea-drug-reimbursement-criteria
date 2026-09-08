@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711079",
+ "item_name": "케노펜쿨링카타플라스마\n(케토프로펜)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20071005",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711079",
+ "revisions": [
+  {
+   "revision_id": "200711079-c8dd008f",
+   "content_sha256": "c8dd008fb42b42776a908370993aa72f9bbe84d3478ef6328ea798f66e1fc460",
+   "ee_text": "다음 질환 및 증상의 진통, 소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건 ㆍ건초염, 건주위염, 상완골상과염 (테니스 엘보우 등), 근육통, 외상후의 종창 ㆍ동통",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:56Z",
+   "last_observed_at": "2026-09-08T08:41:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:56Z"
+}

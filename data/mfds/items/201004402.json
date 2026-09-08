@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201004402",
+ "item_name": "아주이미페넴수화물실라스타틴나트륨주250밀리그램(수출용)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20100706",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095530]실라스타틴나트륨|[M222879]이미페넴수화물",
+ "main_item_ingr_eng": "Cilastatin Sodium/Imipenem Hydrate",
+ "edi_code": "",
+ "atc_code": "J01DH51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004402",
+ "revisions": [
+  {
+   "revision_id": "201004402-ff169c3e",
+   "content_sha256": "ff169c3efa4285cd3f05115c35561827603f7defbaad4b28d9d96ccff2740fde",
+   "ee_text": "(주사제) ○ 유효균종 포도구균, 연쇄구균, 대장균, 시트로박터, 클레브시엘라, 엔테로박터, 세라티아, 푸로테우스, 슈도모나스, 인플루엔자균, 아시네토박터, 박테로이드, 펩토구균, 펩토연쇄구균 ○ 적응증 - 기관지염, 기관지확장증(감염시), 만성호흡기질환의 2차 감염, 폐렴, 폐농양, 농흉 - 신우신염, 방광염, 전립선염 - 담낭염, 담관염, 간농양, 복막염 - 자궁내강염, 자궁부속기염, 골반사강염, 자궁방 결합직염 - 패혈증 - 감염성 심내막염 - 골수염 - 관절염 - 창상의 2차 감염 - 전안구염, 각막궤양 - 바토린선염",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:08Z",
+   "last_observed_at": "2026-09-08T08:44:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:08Z"
+}

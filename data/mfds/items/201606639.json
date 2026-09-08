@@ -7,7 +7,7 @@
  "permit_date": "20161116",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M243785]산화아연|[M222973]디펜히드라민염산염|[M223353]히드로코르티손아세테이트",
+ "main_item_ingr": "[M222973]디펜히드라민염산염|[M223353]히드로코르티손아세테이트|[M243785]산화아연",
  "main_item_ingr_eng": "Diphenhydramine Hydrochloride/Hydrocortisone Acetate/Zinc Oxide",
  "edi_code": "",
  "atc_code": "D07XA01",
@@ -20,7 +20,8 @@
    "ee_text": "습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201606639/EE",
    "first_observed_at": "2026-08-27T12:30:01Z",
-   "last_observed_at": "2026-08-28T13:24:53Z"
+   "last_observed_at": "2026-09-08T08:51:19Z",
+   "normalizer_version": 3
   }
  ]
 }

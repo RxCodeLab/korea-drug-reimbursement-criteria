@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200709627",
+ "item_name": "수진큐정(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20070820",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040218]베타메타손|[M050213]말레인산덱스클로르페니라민",
+ "main_item_ingr_eng": "Betamethasone/Dexchlorpheniramine Maleate",
+ "edi_code": "",
+ "atc_code": "H02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709627",
+ "revisions": [
+  {
+   "revision_id": "200709627-3e490c8d",
+   "content_sha256": "3e490c8dfe7d3a87f910bb6dc27b17d3318ea94eff14e5a7ec33b66c85461d22",
+   "ee_text": "급성 두드러기, 고초열(화분증), 만성 기관지 천식, 알레르기성 비염, 약진, 아토피성 피부염, 습진, 접촉성피부염, 알레르기성 결막염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:49Z",
+   "last_observed_at": "2026-09-08T08:41:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:49Z"
+}

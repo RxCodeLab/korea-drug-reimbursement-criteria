@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202007043",
+ "item_name": "모리모리액3%(미녹시딜)",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20201014",
+ "cancel_date": "20251014",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M081480]미녹시딜",
+ "main_item_ingr_eng": "Minoxidil",
+ "edi_code": "",
+ "atc_code": "D11AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007043",
+ "revisions": [
+  {
+   "revision_id": "202007043-efb91717",
+   "content_sha256": "efb917176d526aae919349e1bb716963338d8f0899c866004e4b4db9fd6020e8",
+   "ee_text": "· 남성형 탈모증(안드로젠탈모증) 및 여성형 탈모증(안드로젠탈모증)의 치료(2 %, 3 %에 한함) · 남성형 탈모증(안드로젠탈모증)의 치료(5 %에 한함)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:30Z",
+   "last_observed_at": "2026-09-08T08:59:30Z",
+   "official_revision_date": "2020-10-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:30Z"
+}

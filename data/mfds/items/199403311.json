@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403311",
+ "item_name": "비씨염산페치딘주사액",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "19940105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223282]페티딘염산염",
+ "main_item_ingr_eng": "Pethidine Hydrochloride",
+ "edi_code": "653100771",
+ "atc_code": "N02AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403311",
+ "revisions": [
+  {
+   "revision_id": "199403311-8079367e",
+   "content_sha256": "8079367e139c691dac9fc3d33d9881d51bdbe9b3316d7e8b969a962d70cba2d1",
+   "ee_text": "1. 격렬한 통증의 완화, 진정, 진경 2. 마취전 투약 3. 마취시의 보조 4. 무통분만",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:23Z",
+   "last_observed_at": "2026-09-08T08:29:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:23Z"
+}

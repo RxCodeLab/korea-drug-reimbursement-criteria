@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101869",
+ "item_name": "에스오텍디알서방캡슐40밀리그램(에스오메프라졸마그네슘이수화물)",
+ "entp_name": "대원제약(주)",
+ "permit_date": "20210224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259375]에스오메프라졸마그네슘이수화물|[M259375]에스오메프라졸마그네슘이수화물",
+ "main_item_ingr_eng": "Esomeprazole Magnesium Dihydrate",
+ "edi_code": "671807320",
+ "atc_code": "A02BC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101869",
+ "revisions": [
+  {
+   "revision_id": "202101869-3f78981b",
+   "content_sha256": "3f78981b7d5b6a2686a882a06342dcb5568e4db987a2d5af2708dd1a443d4f77",
+   "ee_text": "1. 위식도 역류질환(GERD) - 미란성 역류식도염의 치료 - 식도염 환자의 재발방지를 위한 장기간 유지요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:59Z",
+   "last_observed_at": "2026-09-08T08:59:59Z",
+   "official_revision_date": "2021-02-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:59Z"
+}

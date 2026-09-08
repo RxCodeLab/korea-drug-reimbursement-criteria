@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200702328",
+ "item_name": "레브론정(레보드로프로피진)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20070222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253916]레보드로프로피진",
+ "main_item_ingr_eng": "Levodropropizine",
+ "edi_code": "662500720",
+ "atc_code": "R05DB27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702328",
+ "revisions": [
+  {
+   "revision_id": "200702328-6ff67135",
+   "content_sha256": "6ff67135b99854fda74c622615959fdcb2c44025c131889c321deeef21b8bec0",
+   "ee_text": "다음 질환에서의 기침 :급·만성기관지염",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:09Z",
+   "last_observed_at": "2026-09-08T08:41:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:09Z"
+}

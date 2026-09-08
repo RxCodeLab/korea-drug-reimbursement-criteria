@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101182",
+ "item_name": "씨에스에이현탁액(니푸록사지드)(수출용)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20210208",
+ "cancel_date": "20250312",
+ "status": "취하",
+ "main_item_ingr": "[M200244]니푸록사지드",
+ "main_item_ingr_eng": "Nifuroxazide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101182",
+ "revisions": [
+  {
+   "revision_id": "202101182-b381f9e2",
+   "content_sha256": "b381f9e27026a9c9bad26e850110d16bf8e2b3bb8f1e7abc2cfc20c6ca158ca6",
+   "ee_text": "1. 주효능 효과 급성 세균성 설사",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:56Z",
+   "last_observed_at": "2026-09-08T08:59:56Z",
+   "official_revision_date": "2021-02-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:56Z"
+}

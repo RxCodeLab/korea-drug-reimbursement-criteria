@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701960",
+ "item_name": "영일니페디핀연질캡슐10밀리그램( 수출명 : 메디코렛트연질캡슐10mg, NIFEDINE SOFT CAPSULE 10mg)(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "19970328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050164]니페디핀",
+ "main_item_ingr_eng": "Nifedipine",
+ "edi_code": "",
+ "atc_code": "C08CA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701960",
+ "revisions": [
+  {
+   "revision_id": "199701960-180570fa",
+   "content_sha256": "180570fa2c0c9cfd7aafbb666e5a1b0e4ecbe28005e658606f93955b901408ad",
+   "ee_text": "1. 관동맥심질환(만성안정형협심증, 이형협심증) 2. 고혈압(고혈압성발증 포함) 3. 레이노병 및 레이노증후군",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:11Z",
+   "last_observed_at": "2026-09-08T08:31:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:11Z"
+}

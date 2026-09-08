@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201604308",
+ "item_name": "아시텔라케어연고",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20160713",
+ "cancel_date": "20260320",
+ "status": "취하",
+ "main_item_ingr": "[M202893]네오마이신황산염|[M251396]센텔라정량추출물",
+ "main_item_ingr_eng": "Centella Titrated Extract/Neomycin Sulfate",
+ "edi_code": "",
+ "atc_code": "D06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604308",
+ "revisions": [
+  {
+   "revision_id": "201604308-8bf08869",
+   "content_sha256": "8bf08869c42d0ae79d8b0f8ee27849da7a791f006f37c5c39d6402337ea83092",
+   "ee_text": "네오마이신 감수성 세균에 의해 2차 감염된 피부질환의 초기 치료 : 작은 열상(화상), 찰과상(긁힌 상처), 봉합(꿰맴)된 상처, 표재성(표면에 있는) 2도 이하의 화상",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:00Z",
+   "last_observed_at": "2026-09-08T08:51:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:00Z"
+}

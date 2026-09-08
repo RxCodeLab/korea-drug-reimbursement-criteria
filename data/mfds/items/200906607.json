@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906607",
+ "item_name": "큐엘파마테스토스테론에난테이트주250mg/mL",
+ "entp_name": "주식회사큐엘파마",
+ "permit_date": "20090831",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223230]테스토스테론에난테이트",
+ "main_item_ingr_eng": "Testosterone Enanthate",
+ "edi_code": "",
+ "atc_code": "G03BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906607",
+ "revisions": [
+  {
+   "revision_id": "200906607-610d617c",
+   "content_sha256": "610d617c36b611d1246ce7cf27f055bd35415afd92a513301c8384b33028cca1",
+   "ee_text": "남성 : 성선기능저하증",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:30Z",
+   "last_observed_at": "2026-09-08T08:43:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:30Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202103772",
+ "item_name": "리드프로스트크림5%(리도카인)(수출용)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20210511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103772",
+ "revisions": [
+  {
+   "revision_id": "202103772-333fd460",
+   "content_sha256": "333fd460d71a1e82f714818377957e7fb4b3adc8f4cd3b04468f8d8790626da4",
+   "ee_text": "다음 경우에서의 통증의 일시적 경감 : 치질, 경증(가벼운 증상)의 화상, 외상(상처), 자상(찔린 상처)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:10Z",
+   "last_observed_at": "2026-09-08T09:00:10Z",
+   "official_revision_date": "2021-05-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:10Z"
+}

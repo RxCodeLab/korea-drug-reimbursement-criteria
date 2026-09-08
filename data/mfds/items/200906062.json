@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906062",
+ "item_name": "페이론캡슐(아미노벤조산칼륨)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20090731",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234514]아미노벤조산 칼륨",
+ "main_item_ingr_eng": "Aminobenzoate Potassium",
+ "edi_code": "",
+ "atc_code": "D02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906062",
+ "revisions": [
+  {
+   "revision_id": "200906062-a6962eb2",
+   "content_sha256": "a6962eb29077feba4931a5d7eeb487120f91c0091a4665a5f061de69558a9b59",
+   "ee_text": "피부경화증, 페이로니씨병(음경만곡증)의 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:28Z",
+   "last_observed_at": "2026-09-08T08:43:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:28Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201101859",
+ "item_name": "제브타나주(카바지탁셀아세톤용매화물)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20110331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251905]카바지탁셀아세톤용매화물",
+ "main_item_ingr_eng": "Cabazitaxel Acetone Solvate",
+ "edi_code": "652000901",
+ "atc_code": "L01CD04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101859",
+ "revisions": [
+  {
+   "revision_id": "201101859-2b95d5ca",
+   "content_sha256": "2b95d5caf1454b0147c20bb58b65b418ad180f2dd52232f03de83fbfd1fb3f2a",
+   "ee_text": "프레드니솔론과 병용하여, 이전에 도세탁셀을 포함한 화학요법 치료를 받은 적이 있는 전이성 거세저항성 전립선암의 치료",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:33Z",
+   "last_observed_at": "2026-09-08T08:44:33Z",
+   "official_revision_date": "2017-11-08"
+  },
+  {
+   "revision_id": "201101859-d72e0608",
+   "content_sha256": "d72e0608820585d3f8bf61d230d5b84cb7a51db2a5647e884f6d6ff4ad2396ee",
+   "ee_text": "프레드니솔론과 병용하여, 이전에 도세탁셀을 포함한 화학요법 치료를 받은 적이 있는 호르몬 불응성 전이성 전립선암의 치료",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:33Z",
+   "last_observed_at": "2026-09-08T08:44:33Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:33Z"
+}

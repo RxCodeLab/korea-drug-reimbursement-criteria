@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200601004",
+ "item_name": "대한적십자사경남혈액원농축적혈구(농축적혈구)",
+ "entp_name": "대한적십자사경상남도혈액원",
+ "permit_date": "20060127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270249]농축적혈구",
+ "main_item_ingr_eng": "Red Blood Cells",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200601004",
+ "revisions": [
+  {
+   "revision_id": "200601004-bf051671",
+   "content_sha256": "bf0516715f6790d0ea8e9e8aa8661f9e8c463b28aba51d68d5c2acaca084c26f",
+   "ee_text": "산소운반능과 적혈구의 보충이 요구되는 정상혈액량을 가진 빈혈환자의 치료에 사용한다.",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:14Z",
+   "last_observed_at": "2026-09-08T08:40:14Z",
+   "official_revision_date": "2020-09-15"
+  },
+  {
+   "revision_id": "200601004-51f0efca",
+   "content_sha256": "51f0efca53ad6547d7dc739988d22bdabfc07ca866669e123088e0a9e9a49fe7",
+   "ee_text": "산소운반능과 적혈구의 보충이 요구되는 정상혈액량을 가진 빈혈환자의 치료에 이용된다.",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:40:14Z",
+   "last_observed_at": "2026-09-08T08:40:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:14Z"
+}

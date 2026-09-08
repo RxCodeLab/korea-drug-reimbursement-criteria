@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "M01AE02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600131",
+ "history_fetched_at": "2026-08-28T13:24:09Z",
  "revisions": [
   {
-   "revision_id": "200600131-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200600131-73a3c6f2",
+   "content_sha256": "73a3c6f20a8587b2d78a137b442a39f0ddc12677d87d6280122dd3ddcf42f24b",
+   "ee_text": "다음 질환에 사용할 수 있다. 1. 염증성 및 퇴행성 류마티스성 질병(류마티스성 관절염, 관절증, 강직성 척추염)과 연관된 급성통증의 초기 2. 수술후의 통증",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:24:09Z",
-   "last_observed_at": "2026-08-28T13:24:09Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:39:45Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:09Z"
+ ]
 }

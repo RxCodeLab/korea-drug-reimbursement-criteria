@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199301084",
+ "item_name": "트리헥신정(트리헥시페니딜염산염)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "19931007",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223252]트리헥시페니딜염산염",
+ "main_item_ingr_eng": "Trihexyphenidyl Hydrochloride",
+ "edi_code": "644802680",
+ "atc_code": "N04AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301084",
+ "revisions": [
+  {
+   "revision_id": "199301084-e00d11d4",
+   "content_sha256": "e00d11d49dd5e8a9426a6509a060e8881b88210404cad0b0d4297a6ce0a43862",
+   "ee_text": "1. 특발성 파킨슨증 2. 기타의 파킨슨증(뇌염후, 동맥경화성) 3. 항정신병약 투여에 의한 파킨슨증, 운동장애(지발성은 제외), 정좌불능증",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:47Z",
+   "last_observed_at": "2026-09-08T08:28:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:47Z"
+}

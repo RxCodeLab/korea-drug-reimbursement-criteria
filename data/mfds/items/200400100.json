@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400100",
+ "item_name": "아스테롤정(밤부테롤염산염)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20040120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222849]밤부테롤염산염",
+ "main_item_ingr_eng": "Bambuterol Hydrochloride",
+ "edi_code": "643301710",
+ "atc_code": "R03CC12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400100",
+ "revisions": [
+  {
+   "revision_id": "200400100-c99a2389",
+   "content_sha256": "c99a2389eaf6fb7e3e8e772a3298315ecd83d534309468966fa5e4d1cd83d442",
+   "ee_text": "기관지천식, 기관지연축을 수반하는 만성기관지염, 폐기종 및 기타 폐질환",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:27Z",
+   "last_observed_at": "2026-09-08T08:37:27Z",
+   "official_revision_date": "2012-01-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:27Z"
+}

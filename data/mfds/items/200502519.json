@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502519",
+ "item_name": "케로펜플라스타(케토프로펜)",
+ "entp_name": "(주)티디에스팜",
+ "permit_date": "20050901",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051464]케토프로펜|[M051464]케토프로펜|[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502519",
+ "revisions": [
+  {
+   "revision_id": "200502519-e83b382d",
+   "content_sha256": "e83b382d688fb70dc783f08651a2503abd85473cd1e7e7fc994285e6a2c063a7",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) : 퇴행성관절염(골관절염), 어깨관절주위염, 건ㆍ건초염(힘줄윤활막염), 건주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상후의 종창(부기)ㆍ동통(통증)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:21Z",
+   "last_observed_at": "2026-09-08T08:39:21Z",
+   "official_revision_date": "2020-09-25"
+  },
+  {
+   "revision_id": "200502519-6440f171",
+   "content_sha256": "6440f171e873dc663b7d43c4339d63d8c7fb3dd465456ec312486688ec6da93d",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건ㆍ건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통, 외상후의 종창ㆍ동통",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:39:21Z",
+   "last_observed_at": "2026-09-08T08:39:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:21Z"
+}

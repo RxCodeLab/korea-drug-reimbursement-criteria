@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503646",
+ "item_name": "블랑티스프로겔10%(카바마이드퍼옥사이드)",
+ "entp_name": "(주)나이벡",
+ "permit_date": "20150608",
+ "cancel_date": "20250608",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M207536]카바마이드퍼옥사이드",
+ "main_item_ingr_eng": "Carbamide Peroxide",
+ "edi_code": "",
+ "atc_code": "V07AT",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503646",
+ "revisions": [
+  {
+   "revision_id": "201503646-3d60fe97",
+   "content_sha256": "3d60fe97248dc2e499641263802bd80011bdcfad034710c458c9a586c1555d18",
+   "ee_text": "치아의 미백",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:11Z",
+   "last_observed_at": "2026-09-08T08:49:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:11Z"
+}

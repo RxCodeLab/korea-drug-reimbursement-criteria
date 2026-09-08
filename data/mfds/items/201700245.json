@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201700245",
+ "item_name": "건아이점안액(폴리소르베이트80)(1회용)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20170111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M214655]폴리소르베이트 80",
+ "main_item_ingr_eng": "Polysorbate 80",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700245",
+ "revisions": [
+  {
+   "revision_id": "201700245-1ef7f0f2",
+   "content_sha256": "1ef7f0f236c78d364a1d0b8c16ad6d17aef3e51975e4853e002ec4297251f90d",
+   "ee_text": "눈의 건조증상의 완화, 자극의 일시적 경감",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:27Z",
+   "last_observed_at": "2026-09-08T08:51:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:27Z"
+}

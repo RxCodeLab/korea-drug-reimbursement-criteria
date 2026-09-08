@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302179",
+ "item_name": "아크베리1%크림(나디플록사신)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20230718",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085541]나디플록사신",
+ "main_item_ingr_eng": "Nadifloxacin",
+ "edi_code": "",
+ "atc_code": "D10AF05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302179",
+ "revisions": [
+  {
+   "revision_id": "202302179-f5161597",
+   "content_sha256": "f5161597afe216c3e359a3dbe92f6812185ec5f3e62ab9ccaa999062c33cc0e9",
+   "ee_text": "- 유효균종 : 프로피오니박테리움 아크네(Propionibacterium acnes),스타필로코커스 에피더미디스(Staphylococcus epidermidis) - 적응증 : 경증-중등도의 구진과 농포가 있는 심상성 좌창(여드름)의 국소 적 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:14Z",
+   "last_observed_at": "2026-09-08T09:02:14Z",
+   "official_revision_date": "2023-07-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:14Z"
+}

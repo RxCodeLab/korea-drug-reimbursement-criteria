@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401363",
+ "item_name": "큐어엔오흡입용가스800ppm(산화질소)",
+ "entp_name": "(주)유니온가스",
+ "permit_date": "20240531",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245846]산화질소",
+ "main_item_ingr_eng": "Nitric Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401363",
+ "revisions": [
+  {
+   "revision_id": "202401363-9aa688bc",
+   "content_sha256": "9aa688bceb1acdb3bd0e68eff9a6cb1aba51ed46fe160009ab5caf9b50e29aa4",
+   "ee_text": "이 약은 폐 혈관확장제로써 재태기간 34주를 초과하여 출생한 신생아가 임상적 소견이나 심장 초음파상 폐고혈압을 동반하는 저산소혈증 호흡기능부전증상을 보이는 경우, 인공호흡기에 의한 호흡유지와 다른 적절한 약물 치료를 병행하면서 이 약을 적용하여 산소흡입량을 개선시킴으로써 체외막형산소섭취(Extracorporeal membrane oxygenation: ECMO)의 시행을 감소시킨다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:01Z",
+   "last_observed_at": "2026-09-08T09:03:01Z",
+   "official_revision_date": "2024-05-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:01Z"
+}

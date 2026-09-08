@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904542",
+ "item_name": "화이트녹스정(글루타티온(환원형))(수출용)",
+ "entp_name": "(주)휴비스트제약",
+ "permit_date": "20190703",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256276]글루타티온(환원형)",
+ "main_item_ingr_eng": "Glutathione (Reduced)",
+ "edi_code": "",
+ "atc_code": "V03AB32",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904542",
+ "revisions": [
+  {
+   "revision_id": "201904542-72183115",
+   "content_sha256": "7218311526a7aefb331f23c20efadeb236745ac6248ed57bc441d67431165c59",
+   "ee_text": "미백, 비만, 간 기능 향상으로 인한 해독, 면역 기능 증진, 만성 피로 증후군",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:45Z",
+   "last_observed_at": "2026-09-08T08:55:45Z",
+   "official_revision_date": "2020-12-02"
+  },
+  {
+   "revision_id": "201904542-4329d88a",
+   "content_sha256": "4329d88a43d70061946a1ed62e201b071e4419ee24d425112b39a7f22e5888ee",
+   "ee_text": "간 기능 향상으로 인한 해독, 면역 기능 증진, 만성 피로 증후군, 비만, 미백",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-07-03",
+   "first_observed_at": "2026-09-08T08:55:45Z",
+   "last_observed_at": "2026-09-08T08:55:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:45Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200000363",
+ "item_name": "맥스마빌장용정",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20000306",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082905]칼시트리올|[M222873]알렌드론산나트륨수화물",
+ "main_item_ingr_eng": "Calcitriol/Sodium Alendronate Hydrate",
+ "edi_code": "644500300",
+ "atc_code": "M05BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000363",
+ "revisions": [
+  {
+   "revision_id": "200000363-0b4943ff",
+   "content_sha256": "0b4943ff281759cf4766087ea4fa91eb13d007082c17cd2db2a5a339213afcc8",
+   "ee_text": "골다공증",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:30Z",
+   "last_observed_at": "2026-09-08T08:33:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:30Z"
+}

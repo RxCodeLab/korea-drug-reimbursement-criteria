@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507666",
+ "item_name": "카이바이오텍에프디지주사액\n\n(2-데옥시-2-플루오로-D-글루코스(18F)액)",
+ "entp_name": "(주)카이바이오텍",
+ "permit_date": "20151110",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207122]2-데옥시-2-플루오로-D-글루코스(18F)액",
+ "main_item_ingr_eng": "2-Deoxy-2-Fluoro-D-Glucose (18F) Solution",
+ "edi_code": "051800010",
+ "atc_code": "V09IX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507666",
+ "revisions": [
+  {
+   "revision_id": "201507666-03ffd070",
+   "content_sha256": "03ffd07078fe6512b661d959c2f78c792a4386f17446bb74897ac3c4863ccc86",
+   "ee_text": "다음 경우의 양전자방출단층촬영(Positron Emission Tomography, PET)에 사용한다. 1. 다른 검사방법에 의해 이상이 밝혀졌거나 혹은 이상이 의심되는 환자 또는 이미 악성종양 진단을 받은 환자에 있어서 악성도의 평가에 도움을 주기 위하여 비정상적인 포도당 대사를 측정할 때, 2. 심근 관류 영상과 병용하여 관상동맥질환 및 좌심실기능이상 환자에서의 잔류 포도당 대사 및 가역적인 수축기 기능소실이 있는 좌심실심근을 확인할 때, 3. 간질발작 부위와 관련된 비정상적인 포도당 대사 부위 확인.",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:50Z",
+   "last_observed_at": "2026-09-08T08:49:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:50Z"
+}

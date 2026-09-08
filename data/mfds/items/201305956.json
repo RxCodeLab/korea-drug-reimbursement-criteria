@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201305956",
+ "item_name": "골드본드안티이치크림(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20130228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246661]프라목신염산염|[M246661]프라목신염산염|[M279284]L-멘톨|[M279284]L-멘톨",
+ "main_item_ingr_eng": "L-Menthol/Pramoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "D04AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201305956",
+ "revisions": [
+  {
+   "revision_id": "201305956-16601512",
+   "content_sha256": "16601512de5b5386a17a3642a49b50bf357a1e1c088c87cc157abd04737c97bd",
+   "ee_text": "다음과 관련된 증상의 통증과 가려움의 일시적 완화 : - 가벼운 피부염증 - 경미한 베임 - 가벼운 화상 - 가벼운 햇볕화상 - 옻나무 또는 옻에 의한 발진 - 긁힘 - 벌레물림",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:52Z",
+   "last_observed_at": "2026-09-08T08:45:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:52Z"
+}

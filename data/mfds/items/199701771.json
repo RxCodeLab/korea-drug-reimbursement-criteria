@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701771",
+ "item_name": "아미맥스정(카제인가수분해물)(수출명:뉴젠아미맥스정, 아미노탑정)",
+ "entp_name": "(주)셀릭스",
+ "permit_date": "19971011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084984]카제인가수분해물",
+ "main_item_ingr_eng": "Casein Hydrolysate",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701771",
+ "revisions": [
+  {
+   "revision_id": "199701771-b00dc0bc",
+   "content_sha256": "b00dc0bc9d0a5dbb1849a7faf7f07b8a76cab620d3a2d3d0ca6f86fe4be796d7",
+   "ee_text": "자양강장, 허약체질, 육체피로, 벙중.병후, 발열성 소모성 질환, 임신, 수유기 등의 영양보급",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:08Z",
+   "last_observed_at": "2026-09-08T08:31:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:08Z"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301100",
+ "item_name": "엘카르틸정(아세틸-L-카르니틴염산염)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20031213",
+ "cancel_date": "20241001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M249118]아세틸-L-카르니틴염산염",
+ "main_item_ingr_eng": "Acetyl-L-Carnitine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N06BX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301100",
+ "revisions": [
+  {
+   "revision_id": "200301100-3d6adb77",
+   "content_sha256": "3d6adb77a3440544669411d39d0452122997e864c8df426a27317f00d98ebd7c",
+   "ee_text": "<삭제> ※ 제출된 임상시험 결과가 유효성을 입증하지 못함",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:57Z",
+   "last_observed_at": "2026-09-08T08:36:57Z",
+   "official_revision_date": "2022-10-06"
+  },
+  {
+   "revision_id": "200301100-8017b8e5",
+   "content_sha256": "8017b8e5945ea12506f121ee84027301825d4e3ded202ff7103fcc01d634aa17",
+   "ee_text": "☆ 뇌혈관 질환에 의한 이차적 퇴행성 질환 ☆ 국내임상시험결과 추가제출",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-07-21",
+   "first_observed_at": "2026-09-08T08:36:57Z",
+   "last_observed_at": "2026-09-08T08:36:57Z"
+  },
+  {
+   "revision_id": "200301100-85c2affc",
+   "content_sha256": "85c2affc540c2bb8723f30bf6fe55fa97db00cfe1b7a9fdd9f85acdf45b1a8d0",
+   "ee_text": "일차적 퇴행성 질환 또는 뇌혈관 질환에 의한 이차적 퇴행성 질환",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:36:57Z",
+   "last_observed_at": "2026-09-08T08:36:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:57Z"
+}

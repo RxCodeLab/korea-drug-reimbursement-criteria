@@ -7,7 +7,7 @@
  "permit_date": "20140520",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223155]에페드린염산염|[M223183]카페인무수물|[M040353]아세트아미노펜|[M241191]티아민질산염3배산",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223155]에페드린염산염|[M223183]카페인무수물|[M241191]티아민질산염3배산",
  "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Ephedrine Hydrochloride/Thiamine Nitrate Powder 33.3%",
  "edi_code": "",
  "atc_code": "R05X",
@@ -20,7 +20,8 @@
    "ee_text": "감기의 제증상(인후[목구멍]통, 기침, 가래, 오한[춥고 떨리는 증상], 발열, 두통, 관절통, 근육통)의 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201402309/EE",
    "first_observed_at": "2026-08-27T13:00:09Z",
-   "last_observed_at": "2026-08-28T13:24:35Z"
+   "last_observed_at": "2026-09-08T08:47:03Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201402309-f97af0db",

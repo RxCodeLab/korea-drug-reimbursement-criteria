@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198100655",
+ "item_name": "삼양아트로핀주사제",
+ "entp_name": "삼양화학공업(주)",
+ "permit_date": "19810525",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084258]아트로핀",
+ "main_item_ingr_eng": "Atropine",
+ "edi_code": "",
+ "atc_code": "A03BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100655",
+ "revisions": [
+  {
+   "revision_id": "198100655-78dc0183",
+   "content_sha256": "78dc018371e173b86d759ea0ab449e3f290d5142e44bef2b01c1b5ca77b9b5e5",
+   "ee_text": "유기인계 신경작용제 중독의 치료",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:45Z",
+   "last_observed_at": "2026-09-08T08:26:45Z",
+   "official_revision_date": "2021-07-05"
+  },
+  {
+   "revision_id": "198100655-56e562b2",
+   "content_sha256": "56e562b233d0f64eabff4026769f65c28a030571433f13bbb90a2f7233676a5a",
+   "ee_text": "콜린억제제.",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:26:45Z",
+   "last_observed_at": "2026-09-08T08:26:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:45Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008922",
+ "item_name": "아도스테롤(131I)주사액(요오디네이티트(131I)노르콜레스테롤)",
+ "entp_name": "새한산업",
+ "permit_date": "20001101",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093573]6β-요오드메칠-19-노르-코레스트-5(10)-엔3β-올(131 I)",
+ "main_item_ingr_eng": "6Beta-Iodomethyl-19-Norcholest-5 (10)-EN-3Beta-ol (131I)",
+ "edi_code": "656900482",
+ "atc_code": "V09XA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008922",
+ "revisions": [
+  {
+   "revision_id": "200008922-81a0436f",
+   "content_sha256": "81a0436f43d184fc26d5bcd33fb3260c0fd166ca6f5a0de23fd22e5393beaea8",
+   "ee_text": "가. 부신 신티그램에 의한 부신 질환 부위의 위치 진단",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:35Z",
+   "last_observed_at": "2026-09-08T08:34:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:35Z"
+}

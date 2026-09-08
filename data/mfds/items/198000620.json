@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000620",
+ "item_name": "석전아산화질소",
+ "entp_name": "석전의료공업(주)",
+ "permit_date": "19801103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040349]아산화질소",
+ "main_item_ingr_eng": "Nitrous Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000620",
+ "revisions": [
+  {
+   "revision_id": "198000620-6db071a6",
+   "content_sha256": "6db071a651d8066c79a04becbfa08da9fc369731df1f9878e2525b4ba67fd7a5",
+   "ee_text": "전신마취 진통및 진정",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:41Z",
+   "last_observed_at": "2026-09-08T08:26:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:41Z"
+}

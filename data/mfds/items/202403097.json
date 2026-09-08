@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202403097",
+ "item_name": "동구아시클로버크림",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20241230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "657309173",
+ "atc_code": "D06BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403097",
+ "revisions": [
+  {
+   "revision_id": "202403097-bb7a45ff",
+   "content_sha256": "bb7a45ff1413bef89f56e54aa53634af3a5b4236192de0b9bf4eecffbcef1fd8",
+   "ee_text": "단순포진(물집) 바이러스 감염증(초기 및 재발성 생식기 포진(물집)과 구순(입술)포진(물집) 포함)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:36Z",
+   "last_observed_at": "2026-09-08T09:03:36Z",
+   "official_revision_date": "2024-12-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:36Z"
+}

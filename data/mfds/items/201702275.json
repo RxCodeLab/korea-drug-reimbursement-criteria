@@ -7,11 +7,12 @@
  "permit_date": "20170502",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223287]펜톡시베린시트르산염|[M204422]dl-메틸에페드린염산염|[M050058]구아이페네신",
+ "main_item_ingr": "[M050058]구아이페네신|[M204422]dl-메틸에페드린염산염|[M223287]펜톡시베린시트르산염",
  "main_item_ingr_eng": "DL-Methylephedrine Hydrochloride/Guaifenesin/Pentoxyverine Citrate",
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702275",
+ "history_fetched_at": "2026-08-28T13:24:56Z",
  "revisions": [
   {
    "revision_id": "201702275-da6ae941",
@@ -19,8 +20,9 @@
    "ee_text": "기침, 가래",
    "ee_doc_id": "15",
    "first_observed_at": "2026-08-28T13:24:56Z",
-   "last_observed_at": "2026-08-28T13:24:56Z",
-   "official_revision_date": "2022-02-24"
+   "last_observed_at": "2026-09-08T08:51:49Z",
+   "official_revision_date": "2022-02-24",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201702275-78dd308e",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:56Z",
    "last_observed_at": "2026-08-28T13:24:56Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:56Z"
+ ]
 }

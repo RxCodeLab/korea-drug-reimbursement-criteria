@@ -7,21 +7,22 @@
  "permit_date": "20150910",
  "cancel_date": "20250910",
  "status": "유효기간만료",
- "main_item_ingr": "[M223369]인산수소칼슘수화물|[M222935]글루콘산칼슘수화물|[M245627]농축콜레칼시페롤유|[M040262]산화마그네슘",
+ "main_item_ingr": "[M040262]산화마그네슘|[M222935]글루콘산칼슘수화물|[M223369]인산수소칼슘수화물|[M245627]농축콜레칼시페롤유",
  "main_item_ingr_eng": "Calcium Gluconate Hydrate/Cholecalciferol Concentrate Oil/Dibasic Calcium Phosphate Hydrate/Magnesium Oxide",
  "edi_code": "",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506490",
+ "history_fetched_at": "2026-08-28T13:24:45Z",
  "revisions": [
   {
-   "revision_id": "201506490-057b313d",
-   "content_sha256": "057b313df928c63d0fcd929584e108cacaf64ed4c981d39c4e3cacde5d08458c",
-   "ee_text": "- 임신 ㆍ 수유기, 발육기, 노년기 - 뼈, 이의 발육불량, 구루병의 예방",
+   "revision_id": "201506490-c76f83e6",
+   "content_sha256": "c76f83e62504707f8381862a0628d5345022b26385dae169fb6297674e29a5a2",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신 ㆍ 수유기, 발육기, 노년기 2. 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. - 뼈, 이의 발육불량, 구루병의 예방",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:24:45Z",
-   "last_observed_at": "2026-08-28T13:24:45Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:49:34Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:45Z"
+ ]
 }

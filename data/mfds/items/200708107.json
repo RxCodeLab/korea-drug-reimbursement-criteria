@@ -12,6 +12,7 @@
  "edi_code": "651205221",
  "atc_code": "S01XA20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708107",
+ "history_fetched_at": "2026-08-28T13:24:13Z",
  "revisions": [
   {
    "revision_id": "200708107-f89cd2a7",
@@ -19,8 +20,9 @@
    "ee_text": "안구건조증(눈마름증)이나 바람· 태양에 노출되어 생기는 화끈거리는 증상, 자극감, 불쾌감을 일시적으로 완화시킴, 안구 자극감을 예방하기 위하여 사용할 수 있다.",
    "ee_doc_id": "35",
    "first_observed_at": "2026-08-28T13:24:13Z",
-   "last_observed_at": "2026-08-28T13:24:13Z",
-   "official_revision_date": "2025-10-01"
+   "last_observed_at": "2026-09-08T08:41:40Z",
+   "official_revision_date": "2025-10-01",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200708107-e3b0c442",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:13Z",
    "last_observed_at": "2026-08-28T13:24:13Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:13Z"
+ ]
 }

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200003492",
+ "item_name": "신다스시럽(아르티초쿠스연조엑스)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20000311",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M252538]아르티초쿠스연조엑스|[M252538]아르티초쿠스연조엑스",
+ "main_item_ingr_eng": "Soft Extract of Artichokus",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200003492",
+ "revisions": [
+  {
+   "revision_id": "200003492-86078c08",
+   "content_sha256": "86078c08402ccf75edf12e122c225e93330e39ec3356157637bb2d8605c73352",
+   "ee_text": "다음 증상의 완화 : 소화기능 장애",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:10Z",
+   "last_observed_at": "2026-09-08T08:34:10Z",
+   "official_revision_date": "2021-05-11"
+  },
+  {
+   "revision_id": "200003492-5a0d8906",
+   "content_sha256": "5a0d8906dd61fb8301352cf61bc7a672dc200efdab26e5a3d763f452890e8d89",
+   "ee_text": "다음 증상의 완화 : 신장(콩팥) 배설기능 장애 및 소화기능 장애",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:34:10Z",
+   "last_observed_at": "2026-09-08T08:34:10Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:10Z"
+}

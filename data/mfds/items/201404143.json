@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404143",
+ "item_name": "프로보콜린산100밀리그램(메타콜린염화물)",
+ "entp_name": "(주)오스콜메디켐",
+ "permit_date": "20140904",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260262]메타콜린염화물",
+ "main_item_ingr_eng": "Methacholine Chloride",
+ "edi_code": "",
+ "atc_code": "V04CX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404143",
+ "revisions": [
+  {
+   "revision_id": "201404143-dcc2ed9d",
+   "content_sha256": "dcc2ed9d9cc65c4d7088eca83cb4dc99583cf11df2117918189946db46fee81d",
+   "ee_text": "천식의 진단(임상적으로 천식이 의심되는 환자에서의 기도과민성 진단)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:38Z",
+   "last_observed_at": "2026-09-08T08:47:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:38Z"
+}

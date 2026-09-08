@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199502133",
+ "item_name": "훼마틴에이시럽(철단백추출물)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "19950429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278558]철단백추출물|[M278558]철단백추출물",
+ "main_item_ingr_eng": "Ferritin Extract",
+ "edi_code": "",
+ "atc_code": "B03AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502133",
+ "revisions": [
+  {
+   "revision_id": "199502133-1681c4cf",
+   "content_sha256": "1681c4cfa0daf817c00737ea1b0f63d6a0af5071aa3e2dca44878822c03a789f",
+   "ee_text": "철 결핍성 빈혈",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:42Z",
+   "last_observed_at": "2026-09-08T08:29:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:42Z"
+}

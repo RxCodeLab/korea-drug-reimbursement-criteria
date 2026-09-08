@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200505932",
+ "item_name": "다네옥시12(산화에칠렌)",
+ "entp_name": "단일시스켐(주)",
+ "permit_date": "20050113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082159]산화에칠렌",
+ "main_item_ingr_eng": "Ethylene Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200505932",
+ "revisions": [
+  {
+   "revision_id": "200505932-1ef7d5b2",
+   "content_sha256": "1ef7d5b293f666173d7f9f19ced710d30d24a59e26856c894f8a5426d323979b",
+   "ee_text": "다음에 제시하는 의료용 기계기구의 소독 및 멸균 주사기, 수술용 기구, 유리, 프라스틱, 고무, 섬유를 원료로 한 의료용 기계 기구",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:34Z",
+   "last_observed_at": "2026-09-08T08:39:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:34Z"
+}

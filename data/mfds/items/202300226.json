@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300226",
+ "item_name": "타프비어정(테노포비르알라페나미드헤미타르타르산염)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20230112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282987]테노포비르알라페나미드헤미타르타르산염",
+ "main_item_ingr_eng": "Tenofovir Alafenamide Hemitartrate",
+ "edi_code": "641607790",
+ "atc_code": "J05AF13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300226",
+ "revisions": [
+  {
+   "revision_id": "202300226-5cf20eac",
+   "content_sha256": "5cf20eac2a798a7e3c7d0731b3170dbe87adfa96260de02901a37e854bb49900",
+   "ee_text": "성인의 만성 B형 간염 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:49Z",
+   "last_observed_at": "2026-09-08T09:01:49Z",
+   "official_revision_date": "2023-01-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:49Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002412",
+ "item_name": "유로칼정(오소판물질)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20001228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080313]오소판물질",
+ "main_item_ingr_eng": "Ossopan Substance",
+ "edi_code": "",
+ "atc_code": "A12AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002412",
+ "revisions": [
+  {
+   "revision_id": "200002412-4d4e7255",
+   "content_sha256": "4d4e7255eef18be7395ab14a4032ac486261bc5ebc16c350d1e1eefa585c83ee",
+   "ee_text": "다음 경우의 칼슘과 인의 보급 1. 골다공증, 골절치유 촉진 2. 임신ㆍ수유부",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200002412/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:56Z",
+   "last_observed_at": "2026-09-08T08:33:56Z"
+  },
+  {
+   "revision_id": "200002412-951c6945",
+   "content_sha256": "951c69454dcf0e248ac54b635caf610468fa9f3f0c7b5d573e28f93190448273",
+   "ee_text": "(정제)(산제) 다음 경우의 칼슘과 인의 보급 1. 골다공증, 골절치유 촉진 2. 임신ㆍ수유부",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:33:56Z",
+   "last_observed_at": "2026-09-08T08:33:56Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:56Z"
+}

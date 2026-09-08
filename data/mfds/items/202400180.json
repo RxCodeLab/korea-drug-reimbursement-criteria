@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400180",
+ "item_name": "니콤은교산캡슐",
+ "entp_name": "한국한의약진흥원",
+ "permit_date": "20240123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284282]은교산건조엑스(7.2~8.8→1)",
+ "main_item_ingr_eng": "Eungyosan Dried Extract",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400180",
+ "revisions": [
+  {
+   "revision_id": "202400180-1ef010e8",
+   "content_sha256": "1ef010e84009b24aa915b29f6a79ed31c5f56228ea1fd5b09662a369a698fdd2",
+   "ee_text": "감기로 인한 목구멍 통증, 목마름, 기침, 두통",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:39Z",
+   "last_observed_at": "2026-09-08T09:02:39Z",
+   "official_revision_date": "2024-01-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:39Z"
+}

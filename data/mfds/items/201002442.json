@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201002442",
+ "item_name": "조인트론정[위령선·괄루근·하고초30%에탄올엑스(40:1)]",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20100331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M106908]위령선,괄루근,하고초30%에탄올엑스(40:1)",
+ "main_item_ingr_eng": "Clematidis Radix·Trichosanthis Radix·Prunellae Spica 30% Ethanol Extract (40:1)",
+ "edi_code": "",
+ "atc_code": "M01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002442",
+ "revisions": [
+  {
+   "revision_id": "201002442-0383e520",
+   "content_sha256": "0383e520c41d370b694163f1481b9e17daab2b8a9a07b0a207063aba26c7c2a6",
+   "ee_text": "골관절증(퇴행관절질환), 류마티스관절염의 증상 완화",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:55Z",
+   "last_observed_at": "2026-09-08T08:43:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:55Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202100811",
+ "item_name": "유니텍과테크네튬산나트륨(99mTc)주사액제너레이터(수출용)",
+ "entp_name": "(주)삼영유니텍",
+ "permit_date": "20210127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093129]몰리브덴산나트륨(99Mo)액|[M093569]과테크네튬산나트륨(99mTc)주사액",
+ "main_item_ingr_eng": "Sodium Molybdate (99Mo) Solution/Sodium Pertechnetate (99mTc) Injection",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100811",
+ "revisions": [
+  {
+   "revision_id": "202100811-c5cb200e",
+   "content_sha256": "c5cb200edef4689ad928b85168d206003ef4287fa6421c6e917c7e06fd47def0",
+   "ee_text": "진단용 방사성의약품인 과테크네튬산나트륨(99mTc) 주사액의 조제용 ※ 과테크네튬산나트륨(99mTc)주사액의 효능‧효과 1) 뇌종양 및 뇌혈관 장애의 진단 2) 갑상선 질환의 진단 3) 타액선 질환의 진단 4) 이소성 위점막 질환의 진단",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202100811/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:53Z",
+   "last_observed_at": "2026-09-08T08:59:53Z"
+  },
+  {
+   "revision_id": "202100811-6510fe06",
+   "content_sha256": "6510fe06633f5b809905908ace9145a3bfd9af0b5e9c7fb59a66ed446cff9d47",
+   "ee_text": "이전에 EGFR-TKI로 치료받은 적이 있는 EGFR T790M 변이 양성 국소 진행성 또는 전이성 비소세포폐암 환자의 치료 이 약의 유효성은 반응률 및 반응기간에 근거하였으며, 생존기간의 개선을 입증한 자료는 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-01-27",
+   "first_observed_at": "2026-09-08T08:59:53Z",
+   "last_observed_at": "2026-09-08T08:59:53Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:53Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907364",
+ "item_name": "메트롤주(메토카르바몰)",
+ "entp_name": "(주)하원제약",
+ "permit_date": "20191021",
+ "cancel_date": "20241021",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M050463]메토카르바몰",
+ "main_item_ingr_eng": "Methocarbamol",
+ "edi_code": "",
+ "atc_code": "M03BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907364",
+ "revisions": [
+  {
+   "revision_id": "201907364-4f8bba2e",
+   "content_sha256": "4f8bba2e9357b55b8dd59e1ade5600bdf3fe49faca42942e6e14d6bb7921e2c6",
+   "ee_text": "근골격계 질환에 수반하는 동통성 연축 : 요배통증, 경견완증후군, 견관절주위염, 변형성척추증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:44Z",
+   "last_observed_at": "2026-09-08T08:56:44Z",
+   "official_revision_date": "2019-10-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:44Z"
+}

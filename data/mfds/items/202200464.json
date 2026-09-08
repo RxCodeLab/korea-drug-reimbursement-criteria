@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200464",
+ "item_name": "보드란크림(우레아)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20220127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089404]우레아",
+ "main_item_ingr_eng": "Urea",
+ "edi_code": "",
+ "atc_code": "D02AE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200464",
+ "revisions": [
+  {
+   "revision_id": "202200464-8629da33",
+   "content_sha256": "8629da338ffb60995eae69e87a9e78a51e44ffa3bf0213677c6faa2334329018",
+   "ee_text": "진행성 지장각피증(주부습진의 건조형), 손ㆍ발바닥 각피증, 어린선(魚鱗蘚), 노인성 건피증(피부건조증), 모공성 태선, 아토피 피부",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:01Z",
+   "last_observed_at": "2026-09-08T09:01:01Z",
+   "official_revision_date": "2022-01-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:01Z"
+}

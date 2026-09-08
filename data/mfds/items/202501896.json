@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501896",
+ "item_name": "파킨정(트리헥시페니딜염산염)(수출용)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20250724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223252]트리헥시페니딜염산염",
+ "main_item_ingr_eng": "Trihexyphenidyl Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501896",
+ "revisions": [
+  {
+   "revision_id": "202501896-e00d11d4",
+   "content_sha256": "e00d11d49dd5e8a9426a6509a060e8881b88210404cad0b0d4297a6ce0a43862",
+   "ee_text": "1. 특발성 파킨슨증 2. 기타의 파킨슨증(뇌염후, 동맥경화성) 3. 항정신병약 투여에 의한 파킨슨증, 운동장애(지발성은 제외), 정좌불능증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:06Z",
+   "last_observed_at": "2026-09-08T09:04:06Z",
+   "official_revision_date": "2025-07-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:06Z"
+}

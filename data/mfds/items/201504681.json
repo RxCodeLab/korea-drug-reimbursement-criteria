@@ -7,20 +7,22 @@
  "permit_date": "20150708",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M086116]농축콜레칼시페롤|[M040634]침강탄산칼슘",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M086116]농축콜레칼시페롤",
  "main_item_ingr_eng": "Cholecalciferol Concentrate/Precipitated Calcium Carbonate",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504681",
+ "history_fetched_at": "2026-08-28T13:24:44Z",
  "revisions": [
   {
-   "revision_id": "201504681-233e6b2e",
-   "content_sha256": "233e6b2e6f8a5e80372b81ff5e863f9929d4950dd09c93d178b6864b385965dd",
-   "ee_text": "- 임신ㆍ수유기, 발육기, 노년기 - 뼈, 이의 발육불량 - 구루병의 예방",
+   "revision_id": "201504681-5ec0e718",
+   "content_sha256": "5ec0e718bde5904f861eab660e671f90f27dc6214127482b96b933017a8915f2",
+   "ee_text": "1. 다음 경우의 비타민 D 의 보급 - 임신ㆍ수유기, 발육기, 노년기 2. 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같습니다. - 뼈, 이의 발육불량 - 구루병의 예방 3. 칼슘결핍 및 기타 칼슘의 보급",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:24:44Z",
-   "last_observed_at": "2026-08-28T13:24:44Z",
-   "official_revision_date": "2021-09-30"
+   "last_observed_at": "2026-09-08T08:49:20Z",
+   "official_revision_date": "2021-09-30",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201504681-83a5c7f8",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:44Z",
    "last_observed_at": "2026-08-28T13:24:44Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:44Z"
+ ]
 }

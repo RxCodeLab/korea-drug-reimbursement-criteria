@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199200094",
+ "item_name": "디스토시드정200밀리그람(프라지퀀텔)프라지퀀텔정(수출용)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "19920407",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080517]프라지콴텔",
+ "main_item_ingr_eng": "Praziquantel",
+ "edi_code": "",
+ "atc_code": "P02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200094",
+ "revisions": [
+  {
+   "revision_id": "199200094-bbe6af3a",
+   "content_sha256": "bbe6af3ad8c74ff31a35d4dee1b2074de9fb1ab27c109ad61e0b39fbf6dba002",
+   "ee_text": "1. 간흡충, 폐흡충 및 주혈흡충 감염의 치료 2. 무구조충, 유구조충, 남아메리카 어류조충, 왜소조충 등 각종 조충 감염의 치료",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:19Z",
+   "last_observed_at": "2026-09-08T08:28:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:19Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202502087",
+ "item_name": "예스카타주(악시캅타젠실로류셀)",
+ "entp_name": "길리어드사이언스코리아(유)",
+ "permit_date": "20250813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285739]악시캅타젠실로류셀",
+ "main_item_ingr_eng": "Axicabtagene Ciloleucel",
+ "edi_code": "",
+ "atc_code": "L01XL03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502087",
+ "revisions": [
+  {
+   "revision_id": "202502087-350a7670",
+   "content_sha256": "350a76705bac3273f72bdbb3b494ac785dc5844c6c54e7f5b8e1fbc55902b69c",
+   "ee_text": "1. 일차 화학 면역 요법 치료 이후 12개월 이내에 재발하거나 불응하는 미만성 거대 B세포 림프종(DLBCL) 성인 환자의 치료 2. 이차 이상의 전신 치료 후 재발성 또는 불응성 미만성 거대 B세포 림프종(DLBCL) 및 원발성 종격동 B세포 림프종(PMBCL)이 있는 성인 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:11Z",
+   "last_observed_at": "2026-09-08T09:04:11Z",
+   "official_revision_date": "2025-08-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:11Z"
+}

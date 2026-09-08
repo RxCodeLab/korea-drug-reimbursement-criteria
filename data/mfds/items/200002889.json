@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002889",
+ "item_name": "알피트주사(시메트로퓸브롬화물)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "20001107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257165]시메트로퓸브롬화물",
+ "main_item_ingr_eng": "Cimetropium Bromide",
+ "edi_code": "657801331",
+ "atc_code": "A03BB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002889",
+ "revisions": [
+  {
+   "revision_id": "200002889-e269a117",
+   "content_sha256": "e269a117f2174b5d11b2ca9f38debb737ba12ca24b6cfde3fecdca5d96b9d6af",
+   "ee_text": "(정제) 위장관계의 경련 및 기능적 운동장애 (주사제) 1. 위장관계의 경련 및 기능적 운동장애 2. 소화관 내시경 검사 전 투약 : 십이지장의 무긴장증과 오디괄약근의 이완",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:04Z",
+   "last_observed_at": "2026-09-08T08:34:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:04Z"
+}

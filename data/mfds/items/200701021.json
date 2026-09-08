@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:42:36Z",
  "revisions": [
   {
-   "revision_id": "200701021-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200701021-b8ea07dd",
+   "content_sha256": "b8ea07dd7318e246abe11288212b6535abea2b20637ebd9738ea6f91837256dd",
+   "ee_text": "1. 심방성부정맥, 심실성부정맥, 기타 다른 부정맥용제로 치료되지 않는 재발성중증 부정맥 2. 협심증 등 기초심질환을 수반하는 부정맥",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200701021/EE",
    "first_observed_at": "2026-08-27T13:42:36Z",
-   "last_observed_at": "2026-08-28T13:24:11Z"
+   "last_observed_at": "2026-09-08T08:40:56Z",
+   "normalizer_version": 3
   }
  ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900020",
+ "item_name": "한풍인진호엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19790731",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M051297]인진호",
+ "main_item_ingr_eng": "Artemisiae Capillaris Herba",
+ "edi_code": "",
+ "atc_code": "A05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900020",
+ "revisions": [
+  {
+   "revision_id": "197900020-3140e1bc",
+   "content_sha256": "3140e1bc086da1923605ab151fc172d11b85c2566290d87468bd19bba72d73d1",
+   "ee_text": "해열, 이담, 항균",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:32Z",
+   "last_observed_at": "2026-09-08T08:26:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:32Z"
+}

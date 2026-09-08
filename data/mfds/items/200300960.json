@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300960",
+ "item_name": "노루모현탁액",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20030409",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080685]보에마이트",
+ "main_item_ingr_eng": "Boehmite",
+ "edi_code": "641700533",
+ "atc_code": "A02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300960",
+ "revisions": [
+  {
+   "revision_id": "200300960-63824a4b",
+   "content_sha256": "63824a4b3def22f26236c17acae9d659aa762444732e040b5b1d3b30e08c43b8",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 다음 질환의 제산작용 및 증상의 개선 : 위.십이지장궤양, 위염, 위산과다",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:54Z",
+   "last_observed_at": "2026-09-08T08:36:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:54Z"
+}

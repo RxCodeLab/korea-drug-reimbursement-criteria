@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603042",
+ "item_name": "테라아인점안액(플루오로메톨론, 테트라히드로졸린염산염)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20160530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051832]플루오로메톨론|[M223237]테트라히드로졸린염산염",
+ "main_item_ingr_eng": "Fluorometholone/Tetrahydrozoline Hydrochloride",
+ "edi_code": "671705051",
+ "atc_code": "S01B",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603042",
+ "revisions": [
+  {
+   "revision_id": "201603042-e2b3dfd4",
+   "content_sha256": "e2b3dfd49f546cc5274653c7d1c331aa5716d67f0a87b98d3961e26c5d4ad354",
+   "ee_text": "1. 심한 부종과 충혈이 있는 급성 비감염성 결막염, 알레르기성 각막염 2. 전안부의 비감염성 염증(전포도막염, 상공막염, 공막염) 3. 사시절개술, 백내장, 녹내장 수술 후 염증",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:41Z",
+   "last_observed_at": "2026-09-08T08:50:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:41Z"
+}

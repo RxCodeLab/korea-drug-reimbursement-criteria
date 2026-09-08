@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199701737",
+ "item_name": "한국유나이티드미토마이신씨주10밀리그람(수출명: MITONCO for Inj.10mg, Mitocin for Inj.10mg)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "19970825",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020052]미토마이신씨",
+ "main_item_ingr_eng": "Mitomycin C",
+ "edi_code": "644305123",
+ "atc_code": "L01DC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701737",
+ "revisions": [
+  {
+   "revision_id": "199701737-1260e994",
+   "content_sha256": "1260e994301f7a0472a537d3897e2a0d13ab759e1e10663f34dd21b71fbcf9c7",
+   "ee_text": "다음 질환의 자각적 및 타각적 증상의 완화 : 만성림프성백혈병, 만성골수성백혈병, 위암, 장암ㆍ직장암, 폐암, 췌장암, 간암, 자궁경부암, 유방암, 두경부종양, 방광종양",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:07Z",
+   "last_observed_at": "2026-09-08T08:31:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:07Z"
+}

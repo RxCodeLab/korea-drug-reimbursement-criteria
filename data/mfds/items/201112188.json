@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201112188",
+ "item_name": "티콜정(시티콜린)(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20111228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080525]시티콜린나트륨",
+ "main_item_ingr_eng": "Citicoline Sodium",
+ "edi_code": "",
+ "atc_code": "N06BX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201112188",
+ "revisions": [
+  {
+   "revision_id": "201112188-7f3014bd",
+   "content_sha256": "7f3014bd5e80b6d2cb6fb174d3bb68470636e66b0496b78db7f06bf5d1911d4d",
+   "ee_text": "중등도 - 중증의 급성 허혈성 뇌졸증",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:06Z",
+   "last_observed_at": "2026-09-08T08:45:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:06Z"
+}

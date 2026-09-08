@@ -7,19 +7,21 @@
  "permit_date": "20060628",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M225044]판토텐산 칼슘|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M040133]리보플라빈|[M223258]티아민염산염|[M250889]밀크시슬엑스|[M096429]시아노코발라민",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M096429]시아노코발라민|[M204304]피리독신염산염|[M223258]티아민염산염|[M225044]판토텐산 칼슘|[M250889]밀크시슬엑스",
  "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin/Milk-thistle Fruit Extract/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Hydrochloride",
  "edi_code": "",
  "atc_code": "A05BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607997",
+ "history_fetched_at": "2026-08-28T13:24:11Z",
  "revisions": [
   {
-   "revision_id": "200607997-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200607997-fe2e0fb3",
+   "content_sha256": "fe2e0fb3b01128406f537da7760b4ce649135a8e3edd07eaf3820a2085a1a8cb",
+   "ee_text": "다음 질환의 치료 보조 : 만성간질환, 지방간, 간경변, 중독성 간질환",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200607997/EE",
    "first_observed_at": "2026-08-28T13:24:11Z",
-   "last_observed_at": "2026-08-28T13:24:11Z"
+   "last_observed_at": "2026-09-08T08:40:34Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200607997-e48e7271",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:11Z",
    "last_observed_at": "2026-08-28T13:24:11Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:11Z"
+ ]
 }

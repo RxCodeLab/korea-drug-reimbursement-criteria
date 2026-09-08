@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199600631",
+ "item_name": "페로친주(페르페나진염산염)(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "19960212",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M232514]페르페나진염산염",
+ "main_item_ingr_eng": "Perphenazine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N05AB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199600631",
+ "revisions": [
+  {
+   "revision_id": "199600631-2e357a03",
+   "content_sha256": "2e357a0313c9fd713338387cbea8e332f424d5b540cb922c9d46eea62116afff",
+   "ee_text": "정신분열병, 수술전·후의 구토, 메니에르증후군에 의한 어지러움, 이명",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:07Z",
+   "last_observed_at": "2026-09-08T08:30:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:07Z"
+}

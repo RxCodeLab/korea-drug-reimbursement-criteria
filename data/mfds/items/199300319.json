@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199300319",
+ "item_name": "큐록신정100밀리그램(발로플록사신)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "19930506",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081620]발로플록사신",
+ "main_item_ingr_eng": "Balofloxacin",
+ "edi_code": "",
+ "atc_code": "J01MA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199300319",
+ "revisions": [
+  {
+   "revision_id": "199300319-80fbc58c",
+   "content_sha256": "80fbc58cfd89b8cb76b9a79d3378f902e323d36f660a46d8063af0da73af4dbb",
+   "ee_text": "1.유효균종 : 포도상구균(Staphylococcus)속, 연쇄상구균(Streptococcus)속, 장구균속, 모르가넬라속, 프로비덴시아속, 대장균, 시트로박터속, 클렙시엘라속, 엔테로박터속, 세라티아속, 프로테우스속, 슈도모나스속, 펩토스트렙토코쿠스속, CNS(coagulase-negative staphylococci), 아시네토박터속, 클라미디아 2. 적응증 : 단순성 요로감염증(방광염, 요도염 등), 골반내 감염증, 자궁경관염 이 약을 포함한 플루오로퀴놀론계 약물은 중대한 이상반응과 관련이 있으므로 단순요로감염은 다른 치료 방법이 없는 환자에게 사용한다.",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:43Z",
+   "last_observed_at": "2026-09-08T08:28:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:43Z"
+}

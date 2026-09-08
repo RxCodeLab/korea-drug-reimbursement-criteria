@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906076",
+ "item_name": "파모티엠정20mg(파모티딘)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20190827",
+ "cancel_date": "20240827",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M081653]파모티딘",
+ "main_item_ingr_eng": "Famotidine",
+ "edi_code": "",
+ "atc_code": "A02BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906076",
+ "revisions": [
+  {
+   "revision_id": "201906076-1ca80090",
+   "content_sha256": "1ca800907acb6dece1bbb403e21819888394d711497f3b898375dab2c85819ac",
+   "ee_text": "위. 십이지장궤양, 문합부궤양, 상부소화관출혈(소화성궤양, 급성스트레스궤양, 출혈성위염에 의한), 역류성식도염, 졸링거-엘리슨증후군 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:12Z",
+   "last_observed_at": "2026-09-08T08:56:12Z",
+   "official_revision_date": "2019-08-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:12Z"
+}

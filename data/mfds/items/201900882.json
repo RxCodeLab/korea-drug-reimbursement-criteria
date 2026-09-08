@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900882",
+ "item_name": "암베스크에스정2.5밀리그램(에스암로디핀베실산염2.5수화물)",
+ "entp_name": "(주)보령바이오파마",
+ "permit_date": "20190212",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252107]에스암로디핀베실산염2.5수화물",
+ "main_item_ingr_eng": "S-Amlodipine Besylate 2.5 Hydrate",
+ "edi_code": "670501310",
+ "atc_code": "C08CA17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900882",
+ "revisions": [
+  {
+   "revision_id": "201900882-eb373418",
+   "content_sha256": "eb373418b7f4c4018e5a359585b994ba34a0afbe62b92d5cfbcdbf21651cdb2e",
+   "ee_text": "(정제) * 2.5 mg 고혈압, 관상동맥의 고정폐쇄(안정협심증) 또는 관상혈관계의 혈관경련수축(이형협심증)에 의한 심근성허혈증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:13Z",
+   "last_observed_at": "2026-09-08T08:54:13Z",
+   "official_revision_date": "2019-02-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:13Z"
+}

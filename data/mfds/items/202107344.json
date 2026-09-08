@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202107344",
+ "item_name": "베렉스브루정80밀리그램(티라브루티닙염산염)",
+ "entp_name": "한국오노약품공업주식회사",
+ "permit_date": "20211105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281650]티라브루티닙염산염",
+ "main_item_ingr_eng": "Tirabrutinib hydrochloride",
+ "edi_code": "",
+ "atc_code": "L01EL06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107344",
+ "revisions": [
+  {
+   "revision_id": "202107344-c1efc469",
+   "content_sha256": "c1efc4698294d3cd9f1838a95b64434e309963e3e2ee6c1e8cb8cbaa8d654ccd",
+   "ee_text": "재발성 또는 불응성의 B세포성 원발성 중추신경계 림프종 환자에서 단독요법 이 약의 효능효과는 전체 반응률을 근거로 허가되었으며, 생존 기간의 증가와 같은 임상적 유익성을 입증하는 임상시험결과는 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:45Z",
+   "last_observed_at": "2026-09-08T09:00:45Z",
+   "official_revision_date": "2021-11-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:45Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199907046",
+ "item_name": "조믹정2.5밀리그램(졸미트립탄)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "19991222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090949]졸미트립탄",
+ "main_item_ingr_eng": "Zolmitriptan",
+ "edi_code": "644705110",
+ "atc_code": "N02CC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907046",
+ "revisions": [
+  {
+   "revision_id": "199907046-703bddfe",
+   "content_sha256": "703bddfebf264df16d8f7a342f8ffd015c4882d0ac2f0fae726a698cc6428b9e",
+   "ee_text": "(정제) 전조증상을 수반하거나 수반하지 않는 편두통의 급성치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199907046/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:17Z",
+   "last_observed_at": "2026-09-08T08:33:17Z"
+  },
+  {
+   "revision_id": "199907046-cc10ec36",
+   "content_sha256": "cc10ec36071024cf275d560a64cdf5f575dedbcf63f8281813898a7b6cd42ac6",
+   "ee_text": "전조증상을 수반하거나 수반하지 않는 편두통의 급성치료",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:33:17Z",
+   "last_observed_at": "2026-09-08T08:33:17Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:17Z"
+}

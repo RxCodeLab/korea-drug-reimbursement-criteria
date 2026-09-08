@@ -7,11 +7,12 @@
  "permit_date": "20010915",
  "cancel_date": "20250401",
  "status": "유효기간만료",
- "main_item_ingr": "[M096303]괄루인|[M040792]황련|[M040202]반하",
+ "main_item_ingr": "[M040202]반하|[M040792]황련|[M096303]괄루인",
  "main_item_ingr_eng": "Coptis Rhizome/Pinellia Tuber/Trichosanthes Seed",
  "edi_code": "",
  "atc_code": "R07AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200104074",
+ "history_fetched_at": "2026-08-28T13:23:59Z",
  "revisions": [
   {
    "revision_id": "200104074-c4a26d29",
@@ -19,8 +20,9 @@
    "ee_text": "흉복통(심하부 긴장압통), 기관지염, 늑간신경통(갈비뼈 사이 신경통)",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:23:59Z",
-   "last_observed_at": "2026-08-28T13:23:59Z",
-   "official_revision_date": "2019-06-04"
+   "last_observed_at": "2026-09-08T08:35:42Z",
+   "official_revision_date": "2019-06-04",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200104074-47489c10",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:59Z",
    "last_observed_at": "2026-08-28T13:23:59Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:59Z"
+ ]
 }

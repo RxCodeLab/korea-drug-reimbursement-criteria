@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201704836",
+ "item_name": "시콜린드롭액(시티콜린나트륨)(수출용)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20170627",
+ "cancel_date": "20250619",
+ "status": "취하",
+ "main_item_ingr": "[M080525]시티콜린나트륨",
+ "main_item_ingr_eng": "Citicoline Sodium",
+ "edi_code": "",
+ "atc_code": "N06BX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704836",
+ "revisions": [
+  {
+   "revision_id": "201704836-223b1670",
+   "content_sha256": "223b1670efaf9867218883bbfaad8e397f438e6ec98602dbaa0a759feea49d8d",
+   "ee_text": "중등도 - 중증의 급성 허혈성 뇌졸중",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:00Z",
+   "last_observed_at": "2026-09-08T08:52:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:00Z"
+}

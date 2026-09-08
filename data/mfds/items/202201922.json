@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201922",
+ "item_name": "토피카이나겔(아미노벤조산에틸)",
+ "entp_name": "(주)일청덴탈약품",
+ "permit_date": "20220511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203437]아미노벤조산에틸",
+ "main_item_ingr_eng": "Ethyl Aminobenzoate",
+ "edi_code": "",
+ "atc_code": "N01BA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201922",
+ "revisions": [
+  {
+   "revision_id": "202201922-47797dc5",
+   "content_sha256": "47797dc589a8d4da325066ba82e08285b4d406b81ab720a26a641c6ef5373184",
+   "ee_text": "(겔제) * 20% 치과영역에 있어서의 표면마취",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202201922/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:19Z",
+   "last_observed_at": "2026-09-08T09:01:19Z"
+  },
+  {
+   "revision_id": "202201922-4c5e44cb",
+   "content_sha256": "4c5e44cbf8e558bcdf89034db6b4d8ff47c25f0c0e46158b34ab53abc363e2ac",
+   "ee_text": "치과영역에 있어서의 표면마취",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-05-11",
+   "first_observed_at": "2026-09-08T09:01:19Z",
+   "last_observed_at": "2026-09-08T09:01:19Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:19Z"
+}

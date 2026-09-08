@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600811",
+ "item_name": "칼테란점안액2%(카르테올롤염산염)(1회용)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20260323",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223181]카르테올롤염산염",
+ "main_item_ingr_eng": "Carteolol Hydrochloride",
+ "edi_code": "649606571",
+ "atc_code": "S01ED05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600811",
+ "revisions": [
+  {
+   "revision_id": "202600811-69335b11",
+   "content_sha256": "69335b11408ca680a86d0bc489ed7a21c107b0ad1a60483b2efd993fec6a3bfc",
+   "ee_text": "녹내장 및 고안압증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:55Z",
+   "last_observed_at": "2026-09-08T09:04:55Z",
+   "official_revision_date": "2026-03-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:55Z"
+}

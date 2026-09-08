@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200607938",
+ "item_name": "레보비르캡슐30밀리그램(클레부딘)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20061122",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207075]클레부딘",
+ "main_item_ingr_eng": "Clevudine",
+ "edi_code": "642200270",
+ "atc_code": "J05AF12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607938",
+ "revisions": [
+  {
+   "revision_id": "200607938-2772c2f0",
+   "content_sha256": "2772c2f031add6ee9e60a5cdf3c8058ab339da87bce054fd4491a28c05ac5003",
+   "ee_text": "활동성 바이러스의 복제가 확인되고, 혈청 아미노전이효소(ALT또는 AST)의 상승이 확인된 만성B형간염 바이러스감염증 환자(HBeAg 양성 및 HBeAg 음성)의 바이러스 증식 억제",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:33Z",
+   "last_observed_at": "2026-09-08T08:40:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:33Z"
+}

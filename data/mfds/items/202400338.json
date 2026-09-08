@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400338",
+ "item_name": "레보트로정(레보드로프로피진)(수출용)",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20240216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253916]레보드로프로피진",
+ "main_item_ingr_eng": "Levodropropizine",
+ "edi_code": "",
+ "atc_code": "R05DB27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400338",
+ "revisions": [
+  {
+   "revision_id": "202400338-6ff67135",
+   "content_sha256": "6ff67135b99854fda74c622615959fdcb2c44025c131889c321deeef21b8bec0",
+   "ee_text": "다음 질환에서의 기침 :급·만성기관지염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:43Z",
+   "last_observed_at": "2026-09-08T09:02:43Z",
+   "official_revision_date": "2024-02-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:43Z"
+}

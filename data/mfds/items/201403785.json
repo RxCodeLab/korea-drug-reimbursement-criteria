@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403785",
+ "item_name": "듀라스틴주사액프리필드시린지(트리페그필그라스팀)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20140814",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260078]트리페그필그라스팀",
+ "main_item_ingr_eng": "Tripegfilgrastim",
+ "edi_code": "642507111",
+ "atc_code": "L03AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403785",
+ "revisions": [
+  {
+   "revision_id": "201403785-69c9f84d",
+   "content_sha256": "69c9f84d3de54cd7447daa231221b7c99bda5b7e8120afe5483a59cb75d7af55",
+   "ee_text": "고형암 및 악성 림프종에 대한 세포독성 화학요법을 투여 받는 환자의 중증 호중구감소증 기간 감소",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:30Z",
+   "last_observed_at": "2026-09-08T08:47:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:30Z"
+}

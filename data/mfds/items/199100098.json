@@ -7,11 +7,12 @@
  "permit_date": "19911205",
  "cancel_date": "20241001",
  "status": "유효기간만료",
- "main_item_ingr": "[M040216]백지|[M050535]백강잠|[M051351]지각|[M040048]길경|[M040007]건강|[M040550]천궁|[M051153]오약|[M040538]진피|[M040071]대추|[M050752]생강|[M040006]감초|[M040135]마황|[M246836]오약순기산연조엑스(6.04→1)",
+ "main_item_ingr": "[M040006]감초|[M040007]건강|[M040048]길경|[M040071]대추|[M040135]마황|[M040216]백지|[M040538]진피|[M040550]천궁|[M050535]백강잠|[M050752]생강|[M051153]오약|[M051351]지각|[M246836]오약순기산연조엑스(6.04→1)",
  "main_item_ingr_eng": "Angelica Dahurica Root/Aurantii Fructus Immaturus/Batryticatus Bombyx/Citrus Unshiu Peel/Cnidium Rhizome/Ephedra Herb/Ginger/Jujube/Licorice/Lindera Root/Platycodon Root/Raw Ginger",
  "edi_code": "",
  "atc_code": "M09AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100098",
+ "history_fetched_at": "2026-08-28T13:23:43Z",
  "revisions": [
   {
    "revision_id": "199100098-f650350a",
@@ -19,9 +20,9 @@
    "ee_text": "풍질, 중풍, 역절풍(류마티스관절염 등)",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-28T13:23:43Z",
-   "last_observed_at": "2026-08-28T13:23:43Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:28:07Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:43Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805432",
+ "item_name": "아바미스나잘스프레이(미분화플루티카손푸로에이트)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20080514",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233016]미분화플루티카손푸로에이트",
+ "main_item_ingr_eng": "Fluticasone Furoate Micronized",
+ "edi_code": "650001831",
+ "atc_code": "R01AD12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805432",
+ "revisions": [
+  {
+   "revision_id": "200805432-9beaf37b",
+   "content_sha256": "9beaf37bf379c69fd53fb47ea9b6a96469cd46f5601443d5a47aa17f9f3d291b",
+   "ee_text": "성인 및 2세 이상의 소아에서 계절성 또는 통년성 알레르기 비염 증상의 치료",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:31Z",
+   "last_observed_at": "2026-09-08T08:42:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:31Z"
+}

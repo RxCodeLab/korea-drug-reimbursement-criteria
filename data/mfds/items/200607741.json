@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200607741",
+ "item_name": "디로팝24플라스타(디클로페낙디에틸암모늄)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20061103",
+ "cancel_date": "20260701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M249599]디클로페낙디에틸암모늄",
+ "main_item_ingr_eng": "Diclofenac Diethylammonium",
+ "edi_code": "",
+ "atc_code": "M02AA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607741",
+ "revisions": [
+  {
+   "revision_id": "200607741-d59135f9",
+   "content_sha256": "d59135f9b72796cc02d93dc35e0982ffe483385b9174b49d9a25228c31c3c58c",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) 1) 변형성관절염 2) 견관절(어깨관절)주위염 3) 건(힘줄)ㆍ건초염(힘줄윤활막염) 4) 건(힘줄)주위염 5) 상완골(위팔뼈)상과염(테니스 엘보우 등) 6) 외상(상처) 후의 종창(부기)ㆍ동통(통증)(타박, 좌상(타박상/멍), 염좌(삠) 등) 7) 근육통",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:31Z",
+   "last_observed_at": "2026-09-08T08:40:31Z",
+   "official_revision_date": "2019-11-05"
+  },
+  {
+   "revision_id": "200607741-87db13d4",
+   "content_sha256": "87db13d47f82e0a7de1544ea4cf94cfd91e16f1a79dbc45bf44265db4085c563",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염 1) 변형성관절염 2) 견관절주위염 3) 건ㆍ건초염 4) 건주위염 5) 상완골상과염(테니스 엘보우 등) 6) 외상 후의 종창ㆍ동통(타박, 좌상, 염좌 등) 7) 근육통",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:40:31Z",
+   "last_observed_at": "2026-09-08T08:40:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:31Z"
+}

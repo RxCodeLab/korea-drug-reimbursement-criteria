@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199903112",
+ "item_name": "아피톡신주(건조밀봉독)",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "19991129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085500]건조밀봉독|[M085500]건조밀봉독|[M085500]건조밀봉독|[M085500]건조밀봉독|[M085500]건조밀봉독",
+ "main_item_ingr_eng": "Dried Honey Bee Venom",
+ "edi_code": "",
+ "atc_code": "M01BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199903112",
+ "revisions": [
+  {
+   "revision_id": "199903112-32d216f1",
+   "content_sha256": "32d216f1e3930fa279dbd2929a9f88f589300c54659a90c86772a17d1c5cb68a",
+   "ee_text": "골관절염의 통증개선",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:57Z",
+   "last_observed_at": "2026-09-08T08:32:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:57Z"
+}

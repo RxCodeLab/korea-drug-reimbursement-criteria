@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008915",
+ "item_name": "테크네피친산키트주사(피친산나트륨)",
+ "entp_name": "새한산업",
+ "permit_date": "20000826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092133]피틴산나트륨",
+ "main_item_ingr_eng": "Sodium Phytate",
+ "edi_code": "656900881",
+ "atc_code": "V09DB07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008915",
+ "revisions": [
+  {
+   "revision_id": "200008915-fb33005e",
+   "content_sha256": "fb33005e1a76c6fd7347652eedf4cbbff4c45cb80657b8b89d4b8be932e27545",
+   "ee_text": "1. 진단용 방사성의약품인 피틴산테크네튬(99mTc) 주사액의 조제용 2. 피틴산테크네튬(99mTc) 주사액의 효능ㆍ효과 : 간비(肝脾) 신티그래피에 의한 간장 및 비장 질환의 진단",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200008915/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:34Z",
+   "last_observed_at": "2026-09-08T08:34:34Z"
+  },
+  {
+   "revision_id": "200008915-f94c3eaa",
+   "content_sha256": "f94c3eaa3ab8217356b7cbd7ff9c3fc63909f7d4e110ce7b032c47d810ef7b0d",
+   "ee_text": "1. 진단용 방사성의약품인 피틴산테크네튬(99mTc) 주사액의 조제용 2. 피틴산테크네튬(99mTc) 주사액의 효능ㆍ효과 : 간비(肝脾) 신티그래피에 의한 간장 및 비장 질환의 진단 감시림프절 확인 및 림프신티그래피에 의한, 유방암 및 악성 흑색종 진단",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:34:34Z",
+   "last_observed_at": "2026-09-08T08:34:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:34Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301571",
+ "item_name": "제이투의료용산소",
+ "entp_name": "주식회사제이투가스",
+ "permit_date": "20230516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040256]산소",
+ "main_item_ingr_eng": "Oxygen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301571",
+ "revisions": [
+  {
+   "revision_id": "202301571-a32d7488",
+   "content_sha256": "a32d7488831bc701bd02138b3d88c97f973ec5326392c41088f252a94b37c91f",
+   "ee_text": "의료용가스 - 다음과 같은 광범위한 질환에서의 산소결핍증 치료 · 호흡근의 마비 · 일산화탄소 중독 · 출혈, 외상, 쇼크 · 마취 시의 호흡마비 · 중증의 심질환(순환계 허탈 등) · 폐부종 등으로 인한 기도의 폐쇄 - 폐쇄 순환 마취 시 단독 투여 또는 이산화탄소와 병용투여",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:05Z",
+   "last_observed_at": "2026-09-08T09:02:05Z",
+   "official_revision_date": "2023-05-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:05Z"
+}

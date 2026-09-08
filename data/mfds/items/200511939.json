@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511939",
+ "item_name": "한미젤라틴공캡슐5호",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20051205",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "",
+ "main_item_ingr_eng": "",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511939",
+ "revisions": [
+  {
+   "revision_id": "200511939-7c45c9bc",
+   "content_sha256": "7c45c9bc948d1ad4a1ae8cb139c6c80ce76bb638135a0a0ca403bee3c3059b79",
+   "ee_text": "캡슐제 제제용",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:39Z",
+   "last_observed_at": "2026-09-08T08:39:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:39Z"
+}

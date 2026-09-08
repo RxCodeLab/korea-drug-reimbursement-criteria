@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201402276",
+ "item_name": "마이그리진정(신나리진)",
+ "entp_name": "주식회사큐엘파마",
+ "permit_date": "20140516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050894]신나리진",
+ "main_item_ingr_eng": "Cinnarizine",
+ "edi_code": "",
+ "atc_code": "N07CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402276",
+ "revisions": [
+  {
+   "revision_id": "201402276-ea177bfe",
+   "content_sha256": "ea177bfeafe49444f305cdfed2a78241ba3bd0505582507a4d7934778172fced",
+   "ee_text": "전정계의 기능성 장애로 인한 어지러움",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:03Z",
+   "last_observed_at": "2026-09-08T08:47:03Z",
+   "official_revision_date": "2020-04-08"
+  },
+  {
+   "revision_id": "201402276-7a9f8f92",
+   "content_sha256": "7a9f8f9266986b6543d9e231324186a12882bfd73c8f81250d90071cb4345c21",
+   "ee_text": "1. 중증의 난치성편두통 2. 전정계의 기능성 장애로 인한 어지러움",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:47:03Z",
+   "last_observed_at": "2026-09-08T08:47:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:03Z"
+}

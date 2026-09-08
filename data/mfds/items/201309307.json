@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309307",
+ "item_name": "넥스팜실리마린정(밀크시슬엑스)(수출용)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20130912",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250889]밀크시슬엑스",
+ "main_item_ingr_eng": "Milk-thistle Fruit Extract",
+ "edi_code": "",
+ "atc_code": "A05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309307",
+ "revisions": [
+  {
+   "revision_id": "201309307-b0d11706",
+   "content_sha256": "b0d11706b73892cdb7962c115a8d1867ed880f655772d78777910c778535dc9f",
+   "ee_text": "(정제) 다음 질환의 보조 치료 : 독성 간질환, 간세포 보호, 만성 간염, 간경변",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:20Z",
+   "last_observed_at": "2026-09-08T08:46:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:20Z"
+}

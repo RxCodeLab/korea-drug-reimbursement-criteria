@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201802",
+ "item_name": "코모졸크림(케토코나졸)(수출명:NAZOL)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "19920618",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080618]케토코나졸",
+ "main_item_ingr_eng": "Ketoconazole",
+ "edi_code": "645601772",
+ "atc_code": "D01AC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201802",
+ "revisions": [
+  {
+   "revision_id": "199201802-934860e4",
+   "content_sha256": "934860e4001a5683ee09e33f748d16ff5367097e59d111c178a46a49a66ef758",
+   "ee_text": "다음의 피부진균증 : 1) 백선 : 체부백선, 완선(사타구니 백선), 족부백선(무좀) 2) 피부칸디다증 3) 어루러기 4) 지루피부염",
+   "ee_doc_id": "27",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:29Z",
+   "last_observed_at": "2026-09-08T08:28:29Z",
+   "official_revision_date": "2026-07-21"
+  },
+  {
+   "revision_id": "199201802-7da92b44",
+   "content_sha256": "7da92b4410e9e529a8a72b66c5130fe2b70e5282b7e4765aa6767a788447cb3b",
+   "ee_text": "(크림제)(겔제) 다음의 피부진균증 : 1) 백선 : 체부백선, 완선, 족부백선 2) 피부칸디다증 3) 어루러기 4) 지루피부염 (액제-1%) 비듬 (액제-2%)(비누) 효모균(Pityrosporum)에 의한 다음의 피부질환 : 비듬, 지루피부염, 어루러기",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:28:29Z",
+   "last_observed_at": "2026-09-08T08:28:29Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:29Z"
+}

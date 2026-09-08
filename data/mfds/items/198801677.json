@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198801677",
+ "item_name": "크로낙정250밀리그램(클로닉신리신)(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "19881012",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M212258]클로닉신리신",
+ "main_item_ingr_eng": "Clonixin Lysine",
+ "edi_code": "",
+ "atc_code": "M01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198801677",
+ "revisions": [
+  {
+   "revision_id": "198801677-8a1078ef",
+   "content_sha256": "8a1078ef25ace107b04c61ebd0dd7748fb8c2e0a88db50b75349c653274110ae",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 근육통, 신경통, 외상후 . 수술후 동통, 두통, 치통, 이통, 월경통",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:39Z",
+   "last_observed_at": "2026-09-08T08:27:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:39Z"
+}

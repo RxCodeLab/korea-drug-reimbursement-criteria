@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201211082",
+ "item_name": "레보폴릭주(레보폴린산)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20121228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M118334]레보폴린산",
+ "main_item_ingr_eng": "Levofolinic Acid",
+ "edi_code": "",
+ "atc_code": "V03AF10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201211082",
+ "revisions": [
+  {
+   "revision_id": "201211082-ca4b8f7a",
+   "content_sha256": "ca4b8f7a3a28dd9bf30868db5b4973895f6db0f2fa83e72679aebd86a2837ab8",
+   "ee_text": "1. 엽산대사길항제의 독성 경감 2. 진행성 대장암에서의 5-Fluorouracil(5-FU)과의 병용투여",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:42Z",
+   "last_observed_at": "2026-09-08T08:45:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:42Z"
+}

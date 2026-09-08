@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600302",
+ "item_name": "인터메딕염산디페메린주(수출용)(수출명:CBISPASMOInj.)",
+ "entp_name": "천우신약(주)",
+ "permit_date": "20060324",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081060]염산디페메린",
+ "main_item_ingr_eng": "Difemerine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A03AA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600302",
+ "revisions": [
+  {
+   "revision_id": "200600302-a5b8b0a5",
+   "content_sha256": "a5b8b0a51bb361604f08550347910061d482c9d0c38aa29fd4144d4b681bc19e",
+   "ee_text": "소화기계 및 비뇨기계의 경련",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:48Z",
+   "last_observed_at": "2026-09-08T08:39:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:48Z"
+}

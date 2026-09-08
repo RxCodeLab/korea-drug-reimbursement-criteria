@@ -12,16 +12,17 @@
  "edi_code": "671800731",
  "atc_code": "R03CA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=195800018",
+ "history_fetched_at": "2026-08-28T13:23:36Z",
  "revisions": [
   {
-   "revision_id": "195800018-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "195800018-ad07044c",
+   "content_sha256": "ad07044ca154cc50cc608bf8ffa46958ceea9893cd9305710a7c6bea78ef0af6",
+   "ee_text": "1. 다음 질환에서의 기침 : 기관지천식, 감기, 급ㆍ만성기관지염, 상기도염 2. 비점막의 충혈·종창",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:23:36Z",
-   "last_observed_at": "2026-08-28T13:23:36Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:13Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:36Z"
+ ]
 }

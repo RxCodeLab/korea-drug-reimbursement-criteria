@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503557",
+ "item_name": "한림피브이에이점안액(폴리비닐알코올)(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20150602",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071571]폴리비닐알코올",
+ "main_item_ingr_eng": "Polyvinyl Alcohol",
+ "edi_code": "",
+ "atc_code": "S01XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503557",
+ "revisions": [
+  {
+   "revision_id": "201503557-b583ef69",
+   "content_sha256": "b583ef697046fcee61047b1ecf6a023a6732202d2485b393939b46156cbb7c53",
+   "ee_text": "- 안구자극 악화를 예방 - 안구건조 완화",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:09Z",
+   "last_observed_at": "2026-09-08T08:49:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:09Z"
+}

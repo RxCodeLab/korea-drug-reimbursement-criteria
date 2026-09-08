@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501241",
+ "item_name": "환인아캄프로세이트정(아캄프로세이트칼슘)",
+ "entp_name": "환인제약(주)",
+ "permit_date": "20051213",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102626]아캄프로세이트칼슘",
+ "main_item_ingr_eng": "Acamprosate Calcium",
+ "edi_code": "657201040",
+ "atc_code": "N07BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501241",
+ "revisions": [
+  {
+   "revision_id": "200501241-de4f0362",
+   "content_sha256": "de4f0362fdf532211fb844afbb933367b67048b26e65bdf0afb98e8bd6bf9ba7",
+   "ee_text": "심리적 상담과 병행하여 알코올 의존성 환자의 해독후 금주유지요법",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:06Z",
+   "last_observed_at": "2026-09-08T08:39:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:06Z"
+}

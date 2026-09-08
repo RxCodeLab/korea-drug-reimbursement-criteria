@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199401101",
+ "item_name": "마카린주사액250mg(아미카신황산염)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "19940907",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M235156]아미카신황산염",
+ "main_item_ingr_eng": "Amikacin Sulfate",
+ "edi_code": "653000731",
+ "atc_code": "J01GB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199401101",
+ "revisions": [
+  {
+   "revision_id": "199401101-b477c873",
+   "content_sha256": "b477c873b35535eae82f41e0f06e80f00784f032c00adc32285a3bab1c140737",
+   "ee_text": "○ 유효균종 겐타마이신내성 녹농균, 프로테우스, 세라티아, 대장균, 클레브시엘라, 엔테로박터, 시트로박터, 프로비덴시아, 아시네토박터, 포도구균 ○ 적응증 - 패혈증, 기관지확장증(감염 시), 폐렴, 폐농양 - 중추신경계감염증(수막염 등) - 골 및 관절감염증 - 화상 및 수술 후 감염증 - 복막염 - 피부 및 연조직의 중증감염증 - 중증 복합감염 및 재발성 요로감염증",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:13Z",
+   "last_observed_at": "2026-09-08T08:29:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:13Z"
+}

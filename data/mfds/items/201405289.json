@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405289",
+ "item_name": "피알정제수",
+ "entp_name": "(주)파마리서치",
+ "permit_date": "20141112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M007131]정제수",
+ "main_item_ingr_eng": "Purified Water",
+ "edi_code": "",
+ "atc_code": "V07AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405289",
+ "revisions": [
+  {
+   "revision_id": "201405289-cca9561a",
+   "content_sha256": "cca9561aa965e103a4daeee750d1f5bb6f6dc66fab84237941d33d922bc18c1f",
+   "ee_text": "약품의 용제, 시약, 시약의 조제에 사용",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:58Z",
+   "last_observed_at": "2026-09-08T08:47:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:58Z"
+}

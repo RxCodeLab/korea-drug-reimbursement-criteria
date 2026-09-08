@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200209838",
+ "item_name": "스타빌라이지드세레텍주(엑사메타짐)",
+ "entp_name": "새한산업",
+ "permit_date": "20020401",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089319]엑사메타짐",
+ "main_item_ingr_eng": "Exametazime",
+ "edi_code": "656900471",
+ "atc_code": "V09AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200209838",
+ "revisions": [
+  {
+   "revision_id": "200209838-80732403",
+   "content_sha256": "807324038fd56b1531a0133a8b5d26a27d4386588bde6eacdacbab1163c59b60",
+   "ee_text": "1. 진단용 방사성의약품인 엑사메타짐테크네튬(99mTc) 주사액의 조제용 2. 엑사메타짐테크네튬(99mTc) 주사액의 효능·효과 뇌 관류 SPECT에서 다음을 포함하는 국부 뇌혈류 이상의 진단 - 뇌혈관질환(특히 급성 뇌졸중, 만성 허혈 및 일시적 허혈성 발작)을 가지고 있는 환자의 평가 - 간질 병소의 수술 전 측면화 및 국소화 - 치매(특히 알츠하이머병 및 전두측두엽 치매)가 의심되는 환자의 평가 - 뇌사 진단의 보조 기술",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:34Z",
+   "last_observed_at": "2026-09-08T08:36:34Z",
+   "official_revision_date": "2020-08-28"
+  },
+  {
+   "revision_id": "200209838-2db41ef6",
+   "content_sha256": "2db41ef6d53cfb541c6212d3780ab9e72681b5ca2bbbd947b2081ff8cedd70bb",
+   "ee_text": "1. 진단용 방사성의약품인 엑사메타짐테크네튬(99mTc) 주사액의 조제용 2. 엑사메타짐테크네튬(99mTc) 주사액의 효능·효과 1) 뇌 신티그래피 뇌졸중, 다른 뇌혈관 질환, 간질, 알츠하이머병, 다른 형태의 치매, 일시적 허혈성 발작, 편두통, 뇌종양등으로 발생하는 국부 뇌혈류 이상의 진단",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:36:34Z",
+   "last_observed_at": "2026-09-08T08:36:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:34Z"
+}

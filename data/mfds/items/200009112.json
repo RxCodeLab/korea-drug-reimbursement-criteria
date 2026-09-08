@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200009112",
+ "item_name": "플루존주(인플루엔자분할백신)",
+ "entp_name": "사노피파스퇴르(주)",
+ "permit_date": "20000530",
+ "cancel_date": "20240401",
+ "status": "폐업",
+ "main_item_ingr": "[M255049]정제 불활화 인플루엔자바이러스 항원 A형[A/California/07/2009 X-179A (H1N1)]|[M255049]정제 불활화 인플루엔자바이러스 항원 A형[A/California/07/2009 X-179A (H1N1)]|[M261196]정제불활화 인플루엔자바이러스항원 B형[B/Phuket/3073/2013]|[M261196]정제불활화 인플루엔자바이러스항원 B형[B/Phuket/3073/2013]|[M262401]정제 불활화 인플루엔자바이러스 항원 A형[A/South Australia/55/2014 IVR-175(H3N2)]|[M262401]정제 불활화 인플루엔자바이러스 항원 A형[A/South Australia/55/2014 IVR-175(H3N2)]",
+ "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A [A/California/07/2009 X-179A (H1N1)]/Purified Inactivated Influenza Virus Antigen A [A/South Australia/55/2014 IVR-175 (H3N2)]/Purified Inactivated Influenza Virus Antigen B [B/Phuket/3073/2013]",
+ "edi_code": "",
+ "atc_code": "J07BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009112",
+ "revisions": [
+  {
+   "revision_id": "200009112-794bfcb1",
+   "content_sha256": "794bfcb191bee2a161ec9399c79c09f5aab7ad2eba345c9d444c4a4f3314c308",
+   "ee_text": "6개월 이상의 소아, 청소년, 성인에서 이 백신에 함유된 인플루엔자 A형 바이러스들 및 인플루엔자 B형 바이러스에 의해 유발되는 인플루엔자 질환의 예방",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:41Z",
+   "last_observed_at": "2026-09-08T08:34:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:41Z"
+}

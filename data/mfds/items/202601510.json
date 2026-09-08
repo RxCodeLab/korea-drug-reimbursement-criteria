@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601510",
+ "item_name": "카네스텐원스데일리크림(비포나졸)",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20260527",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200764]비포나졸",
+ "main_item_ingr_eng": "Bifonazole",
+ "edi_code": "",
+ "atc_code": "D01AC10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601510",
+ "revisions": [
+  {
+   "revision_id": "202601510-4349bed0",
+   "content_sha256": "4349bed0fc93a568bfaa10ff7ef847a15719d5fa88decab36aaa800b5a591bca",
+   "ee_text": "1. 다음의 피부진균(곰팡이)증 1) 백선: 수부백선, 족부백선(무좀), 체부백선, 서혜부백선 2) 피부칸디다증 3) 어루러기 2. 홍색음선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:13Z",
+   "last_observed_at": "2026-09-08T09:05:13Z",
+   "official_revision_date": "2026-05-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:13Z"
+}

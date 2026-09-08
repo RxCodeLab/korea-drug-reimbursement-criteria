@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302412",
+ "item_name": "레콕스정",
+ "entp_name": "삼일제약(주)",
+ "permit_date": "20230810",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089149]세레콕시브|[M265871]당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+ "main_item_ingr_eng": "Angelica Gigas Root·Chaenomelis Fructus·Saposhnikovia Root·Dipsaci Radix·Acanthopanax Root Bark·Achyranthes Root·Clematidis Radix·Cinnamon Bark·Gentianae Macrophyllae Radix·Cnidium Rhizome·Gastrodia Rhizome·Safflower 25% Ethanol Soft Extract (3.5→1)/Celecoxib",
+ "edi_code": "643904160",
+ "atc_code": "M01AH",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302412",
+ "revisions": [
+  {
+   "revision_id": "202302412-3f80f100",
+   "content_sha256": "3f80f1005bd61ec05f6a5c799064c853519916ac067ceed05bc9c51486686c27",
+   "ee_text": "골관절염(퇴행관절염)의 증상이나 징후의 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:20Z",
+   "last_observed_at": "2026-09-08T09:02:20Z",
+   "official_revision_date": "2023-08-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:20Z"
+}

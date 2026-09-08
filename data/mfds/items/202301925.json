@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301925",
+ "item_name": "이뮤도주(트레멜리무맙)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20230623",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M265034]트레멜리무맙|[M265034]트레멜리무맙",
+ "main_item_ingr_eng": "Tremelimumab",
+ "edi_code": "650701391",
+ "atc_code": "L01FX20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301925",
+ "revisions": [
+  {
+   "revision_id": "202301925-d734ea35",
+   "content_sha256": "d734ea35c0937b6b218766746ffa165cdb010122862e72c8a2b7f10c31fcb5f8",
+   "ee_text": "진행성 또는 절제 불가능한 간세포암 성인 환자의 1차 치료로서 더발루맙과의 병용요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:10Z",
+   "last_observed_at": "2026-09-08T09:02:10Z",
+   "official_revision_date": "2023-06-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:10Z"
+}

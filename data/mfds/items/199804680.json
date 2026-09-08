@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199804680",
+ "item_name": "한국루베디에스투제독액(군납용)",
+ "entp_name": "(주)한국루베",
+ "permit_date": "19981111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070004]수산화나트륨|[M082676]디에칠렌트리아민",
+ "main_item_ingr_eng": "Diethylenetriamine/Sodium Hydroxide",
+ "edi_code": "",
+ "atc_code": "V07AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199804680",
+ "revisions": [
+  {
+   "revision_id": "199804680-403b0696",
+   "content_sha256": "403b0696172abdd36a8da84c1e9a66fec2cf699b93ef0b380fea481ff7c2921f",
+   "ee_text": "화학 및 생물학 작용제 제독.",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:19Z",
+   "last_observed_at": "2026-09-08T08:32:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:19Z"
+}

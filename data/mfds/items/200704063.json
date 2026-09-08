@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200704063",
+ "item_name": "애니세프세립(세프디니르)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20070411",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088312]세프디니르",
+ "main_item_ingr_eng": "Cefdinir",
+ "edi_code": "642101183",
+ "atc_code": "J01DD15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704063",
+ "revisions": [
+  {
+   "revision_id": "200704063-33802f04",
+   "content_sha256": "33802f04d2d3a5bf4a028caaee29fdfc0f85554aeec49d1c08ffda9114754ff9",
+   "ee_text": "1. 유효균종 포도상구균속, 연쇄상구균속, 폐렴구균, 모락셀라 카타랄리스, 대장균, 클렙시엘라속, 프로테우스 미라빌리스, 인플루엔자균 2. 적응증 - 림프관(절)염, - 인후두염, 급성기관지염, 편도염, 폐렴 - 신우신염, 방광염 - 성홍열 - 중이염, 부비동염",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:22Z",
+   "last_observed_at": "2026-09-08T08:41:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:22Z"
+}

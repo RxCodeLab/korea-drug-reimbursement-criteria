@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201109302",
+ "item_name": "카비그라니세트론주(그라니세트론염산염)",
+ "entp_name": "프레지니우스카비코리아(주)",
+ "permit_date": "20111031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254683]그라니세트론염산염",
+ "main_item_ingr_eng": "Granisetron Hydrochloride",
+ "edi_code": "650901881,650901891",
+ "atc_code": "A04AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109302",
+ "revisions": [
+  {
+   "revision_id": "201109302-cea2497d",
+   "content_sha256": "cea2497d29acc0407d1747e527eabd2fbbccbd5ed39a9f51093edaa534291833",
+   "ee_text": "(주사제) 성인 - 화학요법, 방사선요법으로 인한 구역 및 구토 - 수술 후 구역 및 구토 소아(2세 이상) - 화학요법으로 인한 구역 및 구토",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:56Z",
+   "last_observed_at": "2026-09-08T08:44:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:56Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200605366",
+ "item_name": "제로비탈주(프로카인염산염)(수출용)(수출명:GerovitalInjection)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20060609",
+ "cancel_date": "20250728",
+ "status": "취하",
+ "main_item_ingr": "[M204268]프로카인염산염",
+ "main_item_ingr_eng": "Procaine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N01BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605366",
+ "revisions": [
+  {
+   "revision_id": "200605366-43041db8",
+   "content_sha256": "43041db8e92ffddb2c9cc9d0e71dbed7a16e9ef02369e3fa498af2c0086feb67",
+   "ee_text": "경막외마취, 전달마취",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:20Z",
+   "last_observed_at": "2026-09-08T08:40:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:20Z"
+}

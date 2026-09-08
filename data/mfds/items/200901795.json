@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200901795",
+ "item_name": "메디파프쿨카타플라스마(펠비낙)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20090309",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083570]펠비낙",
+ "main_item_ingr_eng": "Felbinac",
+ "edi_code": "",
+ "atc_code": "M02AA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901795",
+ "revisions": [
+  {
+   "revision_id": "200901795-49504d44",
+   "content_sha256": "49504d44dacc8315cb98360a86775da7b4c8286d395b5c329c24b909df5e7519",
+   "ee_text": "다음 질환 및 증상의 진통ㆍ소염(항염) : 퇴행성관절염(골(뼈)관절염), 어깨관절주위염, 건(힘줄)ㆍ건초염(힘줄윤활막염), 건(힘줄)주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기)ㆍ동통(통증)",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:10Z",
+   "last_observed_at": "2026-09-08T08:43:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:10Z"
+}

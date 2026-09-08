@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501315",
+ "item_name": "시노빈엘프리필드주사(BDDE가교히알루론산나트륨겔)",
+ "entp_name": "엔비케이제약(주)",
+ "permit_date": "20250527",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M115806]BDDE가교히알루론산나트륨 겔",
+ "main_item_ingr_eng": "BDDE Cross Linked Sodium Hyaluronate Gel",
+ "edi_code": "054801621",
+ "atc_code": "M09AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501315",
+ "revisions": [
+  {
+   "revision_id": "202501315-4926996d",
+   "content_sha256": "4926996dd8ea7a5a460c17f631543c830d72cc3822b255f65cabccccc9ac2400",
+   "ee_text": "슬관절의 골관절염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:57Z",
+   "last_observed_at": "2026-09-08T09:03:57Z",
+   "official_revision_date": "2025-05-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:57Z"
+}

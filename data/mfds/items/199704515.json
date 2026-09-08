@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199704515",
+ "item_name": "미드리아실1%점안액(트로픽아미드)",
+ "entp_name": "한국알콘(주)",
+ "permit_date": "19970718",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040657]트로픽아미드",
+ "main_item_ingr_eng": "Tropicamide",
+ "edi_code": "652400161",
+ "atc_code": "S01FA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199704515",
+ "revisions": [
+  {
+   "revision_id": "199704515-f5457098",
+   "content_sha256": "f54570986851dc27f00e662da814e871d01e22007deff0c31834627063c90758",
+   "ee_text": "안과의 진단용 산동 및 조절마비",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:32Z",
+   "last_observed_at": "2026-09-08T08:31:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:32Z"
+}

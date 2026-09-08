@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006967",
+ "item_name": "벤포액티브연질캡슐",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20201013",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M096428]벤포티아민|[M202809]감마-오리자놀|[M204304]피리독신염산염|[M223240]토코페롤아세테이트",
+ "main_item_ingr_eng": "Benfotiamine/Gamma-Oryzanol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Tocopherol Acetate",
+ "edi_code": "",
+ "atc_code": "A11EX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006967",
+ "revisions": [
+  {
+   "revision_id": "202006967-3caece8f",
+   "content_sha256": "3caece8f916cc9ab57794113ebaeaeebf64c04b48136d8bfa561bc86122c8579",
+   "ee_text": "1. 다음 경우의 비타민 E, B1, B2, B6 의 보급 - 육체피로, 임신·수유기, 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시, 노년기 2. 이 약에 함유된 비타민 등의 효능·효과는 다음과 같습니다. - 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨·목결림, 수족저림·수족냉증(손발이 차가움) - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등), 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염 - 각기, 눈의피로",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:30Z",
+   "last_observed_at": "2026-09-08T08:59:30Z",
+   "official_revision_date": "2020-10-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:30Z"
+}

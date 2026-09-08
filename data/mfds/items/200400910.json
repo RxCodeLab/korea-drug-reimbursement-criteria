@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400910",
+ "item_name": "판프라졸정40mg(판토프라졸나트륨세스키히드레이트)",
+ "entp_name": "영진약품(주)",
+ "permit_date": "20040903",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089465]판토프라졸나트륨세스키히드레이트",
+ "main_item_ingr_eng": "Pantoprazole Sodium Sesquihydrate",
+ "edi_code": "642401560",
+ "atc_code": "A02BC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400910",
+ "revisions": [
+  {
+   "revision_id": "200400910-26b70de9",
+   "content_sha256": "26b70de9872024b023413c5cbf3ed990a2eca6c811ae869331627ccbaadd1161",
+   "ee_text": "- 헬리코박터필로리에 감염된 위·십이지장궤양의 재발 방지를 위한 항생제 병용요법 - 십이지장궤양 - 위궤양 - 중등도 ∼ 중증의 역류성 식도염 - 졸링거엘리슨증후군 및 기타 병리학적 위산 과분비 상태",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:40Z",
+   "last_observed_at": "2026-09-08T08:37:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:40Z"
+}

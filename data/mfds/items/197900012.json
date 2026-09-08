@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197900012",
+ "item_name": "한풍글리싸과립(감초탕엑스)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19790608",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M246134]감초탕연조엑스(2.99→1)",
+ "main_item_ingr_eng": "",
+ "edi_code": "",
+ "atc_code": "R02A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900012",
+ "revisions": [
+  {
+   "revision_id": "197900012-e6773103",
+   "content_sha256": "e6773103cb40d6b07c6e1b59d642ce64b74bb1627a2a7a7acf96a76e041ba8a0",
+   "ee_text": "심한 기침, 인후통",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:31Z",
+   "last_observed_at": "2026-09-08T08:26:31Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:31Z"
+}

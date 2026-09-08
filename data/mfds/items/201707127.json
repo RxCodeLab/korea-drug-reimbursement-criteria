@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707127",
+ "item_name": "대한적십자사서울남부혈액원세척혈소판(세척혈소판)",
+ "entp_name": "대한적십자사서울남부혈액원",
+ "permit_date": "20170919",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266827]세척혈소판",
+ "main_item_ingr_eng": "Washed Platelet",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707127",
+ "revisions": [
+  {
+   "revision_id": "201707127-577a191a",
+   "content_sha256": "577a191ac1302143cf031984a98e68d20a221d69e478c132968ef8ccdbb2d917",
+   "ee_text": "1. 혈소판 감소증이나 혈소판 기능 장애를 가진 환자의 출혈을 예방하거나 치료에 사용한다. 특히 초과민반응(anaphylaxis) 또는 반복적 심한 알레르기 수혈반응을 예방(예, IgA 혹은 합토글로빈 결핍 환자가 해당항원 결핍 혈액을 구할 수 없을 경우)하고자 할 때, 급속수혈이나 대량수혈로 인하여 부정맥에 취약할 수 있는 환자에서 고칼륨혈증을 피해야 할 때 사용한다 2. 수혈 후 두드러기, 알레르기 반응, 아나필락시스 반응 등과 같이 혈장단백에 의한 수혈부작용의 기왕력이 있는 환자에게 사용한다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:21Z",
+   "last_observed_at": "2026-09-08T08:52:21Z",
+   "official_revision_date": "2020-08-06"
+  },
+  {
+   "revision_id": "201707127-a3288e57",
+   "content_sha256": "a3288e57c38ad5c2f9262231c9c8da3bdd41b72fe3025c0a243a6d216836f889",
+   "ee_text": "혈소판 감소증이나 혈소판 기능 장애를 가진 환자의 출혈을 예방하거나 치료하는데 사용한다. 특히 수혈 후 두드러기, 알레르기반응, 아나필락시반응 등과 같이 혈장단백에 의한 수혈부작용의 기왕력이 있는 환자에게 사용한다.",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:52:21Z",
+   "last_observed_at": "2026-09-08T08:52:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:21Z"
+}

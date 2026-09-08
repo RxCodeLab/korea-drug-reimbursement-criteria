@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503001",
+ "item_name": "람노스에스캡슐",
+ "entp_name": "한화제약(주)",
+ "permit_date": "20251119",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M113500]락토바실루스카제이변종람노수스균동결건조배양물|[M249960]사카로마이세스보울라르디균",
+ "main_item_ingr_eng": "Lactobacillus Casei Var.Rhamnosus Lyophilizate/Saccharomyces Boulardii",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503001",
+ "revisions": [
+  {
+   "revision_id": "202503001-3c0b197a",
+   "content_sha256": "3c0b197ad89cbc7e7763f5f02207cfaac6ced816e30b8d6e10981ab9f06d1ea3",
+   "ee_text": "정장, 변비, 묽은 변, 복부팽만감, 장내 이상 발효",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:26Z",
+   "last_observed_at": "2026-09-08T09:04:26Z",
+   "official_revision_date": "2025-11-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:26Z"
+}

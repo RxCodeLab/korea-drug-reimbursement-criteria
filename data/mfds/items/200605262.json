@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200605262",
+ "item_name": "바라크루드정0.5밀리그램(엔테카비르)",
+ "entp_name": "(유)한국비엠에스제약",
+ "permit_date": "20060524",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095516]엔테카비르",
+ "main_item_ingr_eng": "Entecavir",
+ "edi_code": "658700100",
+ "atc_code": "J05AF10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605262",
+ "revisions": [
+  {
+   "revision_id": "200605262-5723e877",
+   "content_sha256": "5723e877eb50a25238189c702b150f4d5fe0e61b51fdd15acb83eb31940476ce",
+   "ee_text": "활동성 바이러스의 복제가 확인되고, 혈청 아미노전이효소(ALT 또는 AST)의 지속적 상승 또는 조직학적으로 활동성 질환이 확인된 성인(16세 이상)과 2세 이상의 소아 환자의 만성 B형 간염바이러스 감염의 치료",
+   "ee_doc_id": "28",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:18Z",
+   "last_observed_at": "2026-09-08T08:40:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:18Z"
+}

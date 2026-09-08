@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500789",
+ "item_name": "센스힐겔(살리실산)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20250403",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040264]살리실산",
+ "main_item_ingr_eng": "Salicylic Acid",
+ "edi_code": "",
+ "atc_code": "D02AF",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500789",
+ "revisions": [
+  {
+   "revision_id": "202500789-0562ef4c",
+   "content_sha256": "0562ef4cb207730189d5198eac864eeaf07680fd329d39d5851ca2b32a598bab",
+   "ee_text": "여드름 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:48Z",
+   "last_observed_at": "2026-09-08T09:03:48Z",
+   "official_revision_date": "2025-04-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:48Z"
+}

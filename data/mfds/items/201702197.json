@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702197",
+ "item_name": "산텐플루메토론0.02점안액(플루오로메톨론)",
+ "entp_name": "한국산텐제약(주)",
+ "permit_date": "20170428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051832]플루오로메톨론",
+ "main_item_ingr_eng": "Fluorometholone",
+ "edi_code": "665600261",
+ "atc_code": "S01BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702197",
+ "revisions": [
+  {
+   "revision_id": "201702197-fc40a79e",
+   "content_sha256": "fc40a79ed58a5227b3cf95801601cbf1ff245335679d78ba6707a851a28e14c7",
+   "ee_text": "외안부의 염증성 질환(안검염, 결막염, 각막염, 공막염, 상공막염 등)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:47Z",
+   "last_observed_at": "2026-09-08T08:51:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:47Z"
+}

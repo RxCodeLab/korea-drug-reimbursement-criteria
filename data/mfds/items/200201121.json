@@ -12,14 +12,16 @@
  "edi_code": "",
  "atc_code": "R05CB10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201121",
+ "history_fetched_at": "2026-08-28T13:24:00Z",
  "revisions": [
   {
-   "revision_id": "200201121-2b84aa73",
-   "content_sha256": "2b84aa732f305ae230fc1e752f545a154eb9e7b2bc3dac8671099f7c7162ac92",
-   "ee_text": "1) 기관지염, 기관지확장증, 기관지폐렴 특히 천식, 폐기종 등의 호흡기부전이 수반될 때 2) 폐결핵이나 진폐증이 수반되는 기관지 카타르 3) 비인두염, 후두기관염",
+   "revision_id": "200201121-3d991ad8",
+   "content_sha256": "3d991ad8584c5a91f37097ee40b2d457497bce0a76787dfa0d2417d6f3fb8fd1",
+   "ee_text": "1. 다음 질환에서의 점액 및 점액농분비물의 용해ㆍ배출 1) 기관지염, 기관지확장증, 기관지폐렴 특히 천식, 폐기종 등의 호흡기부전이 수반될 때 2) 폐결핵이나 진폐증이 수반되는 기관지 카타르 3) 비인두염, 후두기관염 2. 수술시 호흡기 합병증의 예방과 치료",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200201121/EE",
    "first_observed_at": "2026-08-28T13:24:00Z",
-   "last_observed_at": "2026-08-28T13:24:00Z"
+   "last_observed_at": "2026-09-08T08:36:09Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200201121-8b77f21f",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:00Z",
    "last_observed_at": "2026-08-28T13:24:00Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:00Z"
+ ]
 }

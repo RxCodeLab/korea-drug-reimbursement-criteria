@@ -7,11 +7,12 @@
  "permit_date": "20071113",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M261244]디아스타제.프로테아제.셀룰라제2000Ⅱ|[M100297]셀룰라제|[M050379]리파제",
+ "main_item_ingr": "[M050379]리파제|[M100297]셀룰라제|[M261244]디아스타제.프로테아제.셀룰라제2000Ⅱ",
  "main_item_ingr_eng": "Cellulase/Diastase·Protease·Cellulase 2000 II/Lipase",
  "edi_code": "",
  "atc_code": "A09AA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712375",
+ "history_fetched_at": "2026-08-28T13:24:15Z",
  "revisions": [
   {
    "revision_id": "200712375-286238c3",
@@ -19,9 +20,9 @@
    "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:24:15Z",
-   "last_observed_at": "2026-08-28T13:24:15Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:42:02Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:15Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200103133",
+ "item_name": "마렉신정,말톱정,마톱정,맥신정,잘라정,마판정(디히드로아르테미시닌)(수출용)",
+ "entp_name": "초당약품공업(주)",
+ "permit_date": "20010725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M091257]디히드로아르테미시닌",
+ "main_item_ingr_eng": "Dihydroartemisinin",
+ "edi_code": "",
+ "atc_code": "P01BE",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200103133",
+ "revisions": [
+  {
+   "revision_id": "200103133-ae3312c9",
+   "content_sha256": "ae3312c95979e45484a9f6d76f23eb1a405256392fbdcd40fe9ab64c0a4ee393",
+   "ee_text": "중증 말라리아, 뇌성 말라리아와 다양한 약물내성 말라리아를 포함한 모든 말라리아",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:34Z",
+   "last_observed_at": "2026-09-08T08:35:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:34Z"
+}

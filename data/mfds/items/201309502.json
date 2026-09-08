@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309502",
+ "item_name": "단일가스켐의료용아산화질소",
+ "entp_name": "단일가스켐(주)",
+ "permit_date": "20130930",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040349]아산화질소",
+ "main_item_ingr_eng": "Nitrous Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309502",
+ "revisions": [
+  {
+   "revision_id": "201309502-afb7dfa1",
+   "content_sha256": "afb7dfa157f0614494ba0056f264fafbca3d3ce9164a326e6899433464fa8346",
+   "ee_text": "1) 주 효능 효과 : 전신마취 진통 및 진정",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:23Z",
+   "last_observed_at": "2026-09-08T08:46:23Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:23Z"
+}

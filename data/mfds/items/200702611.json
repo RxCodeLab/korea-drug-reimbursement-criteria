@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200702611",
+ "item_name": "립포연질캡슐(수출용)",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20070302",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M089207]카르두스마리아누스엑스|[M096429]시아노코발라민|[M204304]피리독신염산염|[M223258]티아민염산염|[M244748]판토텐산칼슘",
+ "main_item_ingr_eng": "Calcium Pantothenate/Cardus Marianus Extract/Cyanocobalamin/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702611",
+ "revisions": [
+  {
+   "revision_id": "200702611-cb5b178a",
+   "content_sha256": "cb5b178ac093d2df9c37c2e823e7a3a8c915cb274b96be7c2d3350c00b1b5f1a",
+   "ee_text": "다음 질환의 보조 치료 : 만성 간질환, 독성 간질환",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:12Z",
+   "last_observed_at": "2026-09-08T08:41:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:12Z"
+}

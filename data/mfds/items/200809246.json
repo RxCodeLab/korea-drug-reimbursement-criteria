@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200809246",
+ "item_name": "플라센텍스주(폴리데옥시리보뉴클레오타이드나트륨)",
+ "entp_name": "(주)파마리서치",
+ "permit_date": "20080904",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M241168]폴리데옥시리보뉴클레오타이드나트륨",
+ "main_item_ingr_eng": "Polydeoxyribonucleotide Sodium",
+ "edi_code": "",
+ "atc_code": "D03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809246",
+ "revisions": [
+  {
+   "revision_id": "200809246-7e636ad2",
+   "content_sha256": "7e636ad2eb88ae64034b130b187974b7b4c821f5214da39ce5796b43507affc8",
+   "ee_text": "피부이식으로 인한 상처의 치료 및 조직 수복",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:48Z",
+   "last_observed_at": "2026-09-08T08:42:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:48Z"
+}

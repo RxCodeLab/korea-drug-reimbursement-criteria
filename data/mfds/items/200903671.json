@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200903671",
+ "item_name": "태승원(대승기탕엑스과립)",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20090525",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040073]대황|[M040536]지실|[M040813]후박|[M088654]망초",
+ "main_item_ingr_eng": "Magnolia Bark/Natrii Sulfas/Poncirus Immature Fruit/Rhubarb",
+ "edi_code": "",
+ "atc_code": "A06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903671",
+ "revisions": [
+  {
+   "revision_id": "200903671-e9ad77cf",
+   "content_sha256": "e9ad77cf72be67286c70107aa49b42b8c9f858fceb759e47d91990f47e029057",
+   "ee_text": "상한(傷寒) 이증(裏症)에 고열, 변비, 복부팽만감",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:16Z",
+   "last_observed_at": "2026-09-08T08:43:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:16Z"
+}

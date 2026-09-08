@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301535",
+ "item_name": "브이트리주(나이아신)",
+ "entp_name": "(주)인트로바이오파마",
+ "permit_date": "20230511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207398]나이아신",
+ "main_item_ingr_eng": "Nicotinic Acid",
+ "edi_code": "",
+ "atc_code": "A11HA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301535",
+ "revisions": [
+  {
+   "revision_id": "202301535-3f517ef9",
+   "content_sha256": "3f517ef9bff7821c9fe034d147352d07643adfbe64bbe8792b96c92a76e98a9c",
+   "ee_text": "1. 비타민 B3 결핍증의 예방과 치료 : 펠라그라 등 2. 비타민 B3의 수요가 증대하여 식사로부터 섭취가 불충분 할 경우의 보급 : 소모성 질환, 임부, 수유부, 심한 육체노동 시 등 3. 다음 질환 중 비타민 B3의 결핍증 또는 대사장애에 관여되는 것으로 추정되는 경우 1) 구각구내염, 구내염, 설염 2) 접촉성 피부염, 급·만성 습진, 광민감성 피부염 3) 메니에르 증후군 4) 말초 순환 장애(레이노 현상, 사지 한랭감, 동창·동상) 5) 이명, 난청 6) SMON(Subacute myelo-optico neuropathy)에 의한 마비감 (상기 3.과 관련하여 효과가 불충분한 경우 1개월 이상 사용해서는 안된다).",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:03Z",
+   "last_observed_at": "2026-09-08T09:02:03Z",
+   "official_revision_date": "2023-05-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:03Z"
+}

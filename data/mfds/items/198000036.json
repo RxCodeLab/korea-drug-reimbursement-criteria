@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000036",
+ "item_name": "청방과립(청상방풍탕)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19800402",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M243935]청상방풍탕연조엑스",
+ "main_item_ingr_eng": "Cheongsangbangpungtang Soft Extract",
+ "edi_code": "",
+ "atc_code": "D10BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000036",
+ "revisions": [
+  {
+   "revision_id": "198000036-04c5d9bb",
+   "content_sha256": "04c5d9bb98863a39cd648f251ceb416dffcc0bebb6b2b01d015dc2b50648c84c",
+   "ee_text": "여드름",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:38Z",
+   "last_observed_at": "2026-09-08T08:26:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:38Z"
+}

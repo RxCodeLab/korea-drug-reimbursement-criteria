@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508550",
+ "item_name": "지씨플루에이치파이브엔원멀티주(어쥬번티드 대유행전단계 인플루엔자(H5N1)백신)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20151231",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M094404]정제불활화인플루엔자바이러스항원",
+ "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen",
+ "edi_code": "",
+ "atc_code": "J07BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508550",
+ "revisions": [
+  {
+   "revision_id": "201508550-7dbb28e3",
+   "content_sha256": "7dbb28e3f6e75941b2f5a72a25d634c5b5c4ca793a57dfa07ac3d922914852b1",
+   "ee_text": "만 18세 이상 ~ 만 60세 이하에서 대유행 인플루엔자(A/Vietnam/1194/2004(H5N1))의 예방",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:04Z",
+   "last_observed_at": "2026-09-08T08:50:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:04Z"
+}

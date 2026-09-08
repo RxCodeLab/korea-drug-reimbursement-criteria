@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602014",
+ "item_name": "굿모닝프렙산(D-소르비톨,아스코르브산)",
+ "entp_name": "(주)건강약품",
+ "permit_date": "20260710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204410]D-소르비톨|[M258994]아스코르브산",
+ "main_item_ingr_eng": "Ascorbic Acid/D-Sorbitol",
+ "edi_code": "",
+ "atc_code": "B05CX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602014",
+ "revisions": [
+  {
+   "revision_id": "202602014-96c57701",
+   "content_sha256": "96c57701c578c6eaebaa6164fdf94122529a65fc7ce669852834e9da3ba1f752",
+   "ee_text": "대장(X선, 내시경)검사 시의 전처치용 장세척",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:30Z",
+   "last_observed_at": "2026-09-08T09:05:30Z",
+   "official_revision_date": "2026-07-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:30Z"
+}

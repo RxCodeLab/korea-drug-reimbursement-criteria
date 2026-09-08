@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204099",
+ "item_name": "보령티디백신프리필드시린지(성인용 흡착 디프테리아 및 파상풍 혼합백신)",
+ "entp_name": "(주)보령바이오파마",
+ "permit_date": "20221114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283253]디프테리아톡소이드(균주명: 디프테리아균 Park-Williams No.8주)|[M283254]파상풍톡소이드(균주명: 파상풍균 Harvard주)",
+ "main_item_ingr_eng": "Diphtheria Toxoid (Strain: Park-Williams No.8)/Tetanus Toxoid (Strain: Harvard)",
+ "edi_code": "",
+ "atc_code": "J07AM51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204099",
+ "revisions": [
+  {
+   "revision_id": "202204099-9d8aada6",
+   "content_sha256": "9d8aada6c3a02439bd49f18a57c6d4205f87926ae2f3c73f2afd613652fae016",
+   "ee_text": "디프테리아 및 파상풍의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:39Z",
+   "last_observed_at": "2026-09-08T09:01:39Z",
+   "official_revision_date": "2022-11-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:39Z"
+}

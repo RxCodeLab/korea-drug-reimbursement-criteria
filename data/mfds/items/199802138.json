@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199802138",
+ "item_name": "넬슨로라타딘정",
+ "entp_name": "한국넬슨제약(주)",
+ "permit_date": "19980520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082724]로라타딘",
+ "main_item_ingr_eng": "Loratadine",
+ "edi_code": "656700230",
+ "atc_code": "R06AX13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802138",
+ "revisions": [
+  {
+   "revision_id": "199802138-f8641a32",
+   "content_sha256": "f8641a320817f156f85c1d82a6c9166ff689f2672be81ce582e8c0ebd7d0e44b",
+   "ee_text": "알레르기성 비염(코염)(재채기, 코막힘, 가려움, 눈의 작열감(화끈거림)), 만성 특발성(원인 불명의) 두드러기",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:02Z",
+   "last_observed_at": "2026-09-08T08:32:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:02Z"
+}

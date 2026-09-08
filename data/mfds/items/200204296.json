@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200204296",
+ "item_name": "벤다졸린주사10mg(염산톨라졸린)(수출용)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20020808",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M040651]염산톨라졸린",
+ "main_item_ingr_eng": "Tolazoline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C04AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200204296",
+ "revisions": [
+  {
+   "revision_id": "200204296-a0bd0373",
+   "content_sha256": "a0bd0373b2be951d055a95c7b195fe29ba9ad1abdfdcffa728069e8dc2360792",
+   "ee_text": "다음 질환에 의한 말초순환장애 : 폐색성 혈전혈관염(버거병), 폐색성 동맥경화증, 혈전성 정맥염, 레이노병 및 레이노증후군, 말단청색증, 동상ㆍ동창, 말단지각이상, 괴저, 작열통",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:28Z",
+   "last_observed_at": "2026-09-08T08:36:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:28Z"
+}

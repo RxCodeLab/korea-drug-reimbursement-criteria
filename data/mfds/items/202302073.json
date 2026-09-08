@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302073",
+ "item_name": "광동인후엔가글액(포비돈요오드)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20230707",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244708]포비돈요오드",
+ "main_item_ingr_eng": "Povidone Iodine",
+ "edi_code": "",
+ "atc_code": "R02AA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302073",
+ "revisions": [
+  {
+   "revision_id": "202302073-f8b1a269",
+   "content_sha256": "f8b1a2692ad621cee092d69f9a587f88744dbe1615bed459c0e52187589a671f",
+   "ee_text": "구강내(입안) 및 인후(목구멍)의 살균, 소독, 세정, 구취제거",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:13Z",
+   "last_observed_at": "2026-09-08T09:02:13Z",
+   "official_revision_date": "2023-07-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:13Z"
+}

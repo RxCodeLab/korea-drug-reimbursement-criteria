@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602439",
+ "item_name": "테라콘드로이틴1200경구용겔(콘드로이틴설페이트나트륨)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20260821",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr_eng": "Sodium Chondroitin Sulfate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602439",
+ "revisions": [
+  {
+   "revision_id": "202602439-157efe2f",
+   "content_sha256": "157efe2fa6095a71b14a8892580b9db6502aaa0d5ff09d9ad055a984fbdd4a25",
+   "ee_text": "경증(가벼운 증상)에서 중등도의 골(뼈)관절염(퇴행성관절염)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:39Z",
+   "last_observed_at": "2026-09-08T09:05:39Z",
+   "official_revision_date": "2026-08-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:39Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201939",
+ "item_name": "헤다크캡슐(플루나리진염산염)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "19920812",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251249]플루나리진염산염|[M251249]플루나리진염산염",
+ "main_item_ingr_eng": "Flunarizine Hydrochloride",
+ "edi_code": "648102410",
+ "atc_code": "N07CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201939",
+ "revisions": [
+  {
+   "revision_id": "199201939-14712123",
+   "content_sha256": "1471212333deb6474b2593ed6c61c3c44c55c9f561e0b3facecad5825f6fe2e8",
+   "ee_text": "1. 중증의 난치성편두통 2. 전정계의 기능성장애에 의한 어지러움",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:30Z",
+   "last_observed_at": "2026-09-08T08:28:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:30Z"
+}

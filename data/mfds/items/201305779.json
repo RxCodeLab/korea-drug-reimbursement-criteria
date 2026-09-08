@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201305779",
+ "item_name": "패밀리케어프리미엄셀라인나잘스프레이(염화나트륨)(수출용)",
+ "entp_name": "조아제약(주)",
+ "permit_date": "20130221",
+ "cancel_date": "20250312",
+ "status": "취하",
+ "main_item_ingr": "[M040426]염화나트륨",
+ "main_item_ingr_eng": "Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "R01AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201305779",
+ "revisions": [
+  {
+   "revision_id": "201305779-657874ad",
+   "content_sha256": "657874ad569b63c5774db99b8b9d5032599701446effe33013c08b2c74ea84d3",
+   "ee_text": "비점막 건조 증상의 완화",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:52Z",
+   "last_observed_at": "2026-09-08T08:45:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:52Z"
+}

@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:41:41Z",
  "revisions": [
   {
-   "revision_id": "201309501-b44f8c8f",
-   "content_sha256": "b44f8c8f190fd6ef06f86fe26a1462d4ad400a8784f912a482386ba9951164c8",
-   "ee_text": "뇌전증",
+   "revision_id": "201309501-6f11df5b",
+   "content_sha256": "6f11df5b48f9434ccb592853df6aa1b66e78e398af64b33c79395346c65f9a6b",
+   "ee_text": "뇌전증 1. 부분발작(이차적인 전신발작을 수반하는 경우 포함) 2. 전신 강직간대발작",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201309501/EE",
    "first_observed_at": "2026-08-27T13:41:41Z",
-   "last_observed_at": "2026-08-28T13:24:33Z"
+   "last_observed_at": "2026-09-08T08:46:23Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201309501-7c8c192d",

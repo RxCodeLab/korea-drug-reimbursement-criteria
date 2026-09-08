@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201503569",
+ "item_name": "미앤디플러스정",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "20150603",
+ "cancel_date": "20250117",
+ "status": "취하",
+ "main_item_ingr": "[M051564]탄산칼슘|[M255949]농축콜레칼시페롤과립",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Granules",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503569",
+ "revisions": [
+  {
+   "revision_id": "201503569-7d624b15",
+   "content_sha256": "7d624b152356f5644817ccb20b23b87256ca3de0e27242dba0fb3c8b46a40a1e",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 -임신·수유기, 발육기, 노년기 -이 약에 함유된 비타민 D(농축콜레칼시페롤과립)의 효능·효과는 다음과 같다 · 뼈, 이의 발육불량 · 구루병의 예방 2. 칼슘결핍 및 기타 칼슘의 보급",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:09Z",
+   "last_observed_at": "2026-09-08T08:49:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:09Z"
+}

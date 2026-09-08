@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201862",
+ "item_name": "레블로질주75mg(루스파터셉트)",
+ "entp_name": "(유)한국비엠에스제약",
+ "permit_date": "20220509",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282622]루스파터셉트",
+ "main_item_ingr_eng": "Luspatercept",
+ "edi_code": "",
+ "atc_code": "B03XA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201862",
+ "revisions": [
+  {
+   "revision_id": "202201862-870c2a3d",
+   "content_sha256": "870c2a3dd05abb573e4eba2c62f9fcb4fa5b76025c8fad4f538a61f12f2e844f",
+   "ee_text": "1. 이전에 적혈구생성자극제(ESA) 치료를 받은 적이 없으며 적혈구 수혈이 필요한 최저위험, 저위험, 중등도 위험의 골수형성이상증후군(MDS)으로 인한 성인 빈혈 환자의 치료 2. 적혈구생성자극제 (ESA) 치료에 불충분한 반응을 보였거나 부적합하여 적혈구 수혈이 필요한 다음의 성인 빈혈 환자의 치료 - 최저위험, 저위험, 중등도 위험의 고리철적혈모구 동반 골수형성이상증후군(MDS-RS) 또는 - 최저위험, 저위험, 중등도 위험의 고리철적혈모구와 혈소판증가증 동반 골수형성이상/골수증식종양(MDS/MPN-RS-T) 3. 수혈 의존성 및 수혈 비의존성 성인 베타지중해빈혈 환자의 빈혈 치료",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:18Z",
+   "last_observed_at": "2026-09-08T09:01:18Z",
+   "official_revision_date": "2024-10-10"
+  },
+  {
+   "revision_id": "202201862-207a8b82",
+   "content_sha256": "207a8b82c8f45b06ed02cdb36018c799412ed115423f281a04c951394d72a371",
+   "ee_text": "1. 적혈구생성자극제 (ESA) 치료에 불충분한 반응을 보였거나 부적합하여 적혈구 수혈이 필요한 다음의 성인 빈혈 환자의 치료 - 최저위험, 저위험, 중등도 위험의 고리철적혈모구 동반 골수형성이상증후군(MDS-RS) 또는 - 최저위험, 저위험, 중등도 위험의 고리철적혈모구와 혈소판증가증 동반 골수형성이상/골수증식종양(MDS/MPN-RS-T) 2. 적혈구 수혈이 필요한 성인 베타 지중해 빈혈 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-05-09",
+   "first_observed_at": "2026-09-08T09:01:18Z",
+   "last_observed_at": "2026-09-08T09:01:18Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:18Z"
+}

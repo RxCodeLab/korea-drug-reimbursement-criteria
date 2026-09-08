@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702246",
+ "item_name": "루파핀정(루파타딘푸마르산염)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20170428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M118314]루파타딘푸마르산염",
+ "main_item_ingr_eng": "Rupatadine Fumarate",
+ "edi_code": "650204770",
+ "atc_code": "R06AX28",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702246",
+ "revisions": [
+  {
+   "revision_id": "201702246-aa1244ff",
+   "content_sha256": "aa1244ffb26fa71845667e7179232b3dbf6db337ffc321bfbe9a64451b3898f4",
+   "ee_text": "알레르기성 비염 및 두드러기 증상 치료 (소양증, 발적 등)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:48Z",
+   "last_observed_at": "2026-09-08T08:51:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:48Z"
+}

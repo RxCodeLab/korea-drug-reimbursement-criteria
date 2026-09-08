@@ -7,11 +7,12 @@
  "permit_date": "20010313",
  "cancel_date": "20231128",
  "status": "취하",
- "main_item_ingr": "[M040564]치자|[M050747]삼릉|[M040550]천궁|[M088722]아출|[M040228]향부자|[M040086]도인|[M210181]내복자|[M040012]개자|[M040792]황련|[M050729]산사|[M050891]신곡|[M051394]청피|[M040447]오수유|[M040507]익지",
+ "main_item_ingr": "[M040012]개자|[M040086]도인|[M040228]향부자|[M040447]오수유|[M040507]익지|[M040550]천궁|[M040564]치자|[M040792]황련|[M050729]산사|[M050747]삼릉|[M050891]신곡|[M051394]청피|[M088722]아출|[M210181]내복자",
  "main_item_ingr_eng": "Bitter Cardamon/Brassicae Semen/Citrii Unshiu Immaturi Pericarpium/Cnidium Rhizome/Coptis Rhizome/Cyperus Rhizome/Evodia Fruit/Gardenia Fruit/Hawthorn Fruit/Massa Medicata Fermentata/Peach Kernel/Raphani Semen/Sparganium Rhizome/Zedoary",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102867",
+ "history_fetched_at": "2026-08-28T13:23:59Z",
  "revisions": [
   {
    "revision_id": "200102867-80027490",
@@ -19,9 +20,9 @@
    "ee_text": "식체(위체), 소화불량",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:23:59Z",
-   "last_observed_at": "2026-08-28T13:23:59Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:35:30Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:59Z"
+ ]
 }

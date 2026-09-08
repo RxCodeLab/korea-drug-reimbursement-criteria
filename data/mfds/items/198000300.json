@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000300",
+ "item_name": "삼진페니토인나트륨주사250밀리그램",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19801118",
+ "cancel_date": "20231001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051707]페니토인나트륨",
+ "main_item_ingr_eng": "Phenytoin Sodium",
+ "edi_code": "",
+ "atc_code": "N03AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000300",
+ "revisions": [
+  {
+   "revision_id": "198000300-6a5df234",
+   "content_sha256": "6a5df23428e3be8750ba1aa2cf95dc2de6a3ca9ab9363e292edd9e2bc91d0a97",
+   "ee_text": "(정제)(캡슐제) 간질 : 강직간대발작(대발작), 부분발작(초첨발작), 정신운동성발작 (주사제) 1. 간질중첩상태 2. 경구투여로 발작의 억제가 불가능한 경우(특히 의식장애, 수술중·수술후) 3. 1차라인 치료가 효과적이지 않은 디기탈리스로 유도된 심부정맥",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:40Z",
+   "last_observed_at": "2026-09-08T08:26:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:40Z"
+}

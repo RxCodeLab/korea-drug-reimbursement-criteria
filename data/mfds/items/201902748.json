@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201902748",
+ "item_name": "에비힐정(라록시펜염산염)",
+ "entp_name": "(주)바스칸바이오제약",
+ "permit_date": "20190429",
+ "cancel_date": "20240429",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M243360]라록시펜염산염",
+ "main_item_ingr_eng": "Raloxifene Hydrochloride",
+ "edi_code": "",
+ "atc_code": "G03XC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902748",
+ "revisions": [
+  {
+   "revision_id": "201902748-af73c3e0",
+   "content_sha256": "af73c3e0ae3ae54714a9a6431181576e96eba375fa8a04a91b5e334233fa3f59",
+   "ee_text": "폐경 후 여성의 골다공증 치료 및 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:59Z",
+   "last_observed_at": "2026-09-08T08:54:59Z",
+   "official_revision_date": "2019-04-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:59Z"
+}

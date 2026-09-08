@@ -7,21 +7,22 @@
  "permit_date": "19970222",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051139]오로트산|[M083966]필수인지질성물질|[M080328]트록세루틴|[M070990]서양산사자건조엑스|[M251458]백삼건조엑스|[M084613]마늘건조엑스|[M070379]마늘정유|[M050416]마늘추출유",
+ "main_item_ingr": "[M050416]마늘추출유|[M051139]오로트산|[M070379]마늘정유|[M070990]서양산사자건조엑스|[M080328]트록세루틴|[M083966]필수인지질성물질|[M084613]마늘건조엑스|[M251458]백삼건조엑스",
  "main_item_ingr_eng": "Allium Sativum Dried Extract/Allium Sativum Extract Oil/Allium Sativum Oil/Essential Phospholipids (EPL) Substance/Hawthorn Berry Dried Extract/Orotic Acid Hydrate/Troxerutin/White Ginseng Dried Extract",
  "edi_code": "",
  "atc_code": "C05CA54",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700374",
+ "history_fetched_at": "2026-08-28T13:23:48Z",
  "revisions": [
   {
-   "revision_id": "199700374-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "199700374-1ffbf672",
+   "content_sha256": "1ffbf672a7f16ed750ec3fb6e4ff9e9d9fb0818fbeb4d21df02051b5067a33cb",
+   "ee_text": "1. 동맥경화증, 신경성 심장질환 2. 정신적, 신체적 스트레스에 기인한 활력감퇴 3. 동맥경화증에 기인한 무기력, 피로, 집중력 장애등의 개선",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:23:48Z",
-   "last_observed_at": "2026-08-28T13:23:48Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:30:40Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:48Z"
+ ]
 }

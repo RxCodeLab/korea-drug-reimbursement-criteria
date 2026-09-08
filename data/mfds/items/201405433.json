@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405433",
+ "item_name": "펜티온주1200mg(글루타티온(환원형))",
+ "entp_name": "(주)펜믹스",
+ "permit_date": "20141121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256276]글루타티온(환원형)|[M256276]글루타티온(환원형)",
+ "main_item_ingr_eng": "Glutathione (Reduced)",
+ "edi_code": "",
+ "atc_code": "V03AB32",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405433",
+ "revisions": [
+  {
+   "revision_id": "201405433-50ff23fd",
+   "content_sha256": "50ff23fd44391a1e90c83759233e15543d4217e5c45ae1bdd690909c0fff4750",
+   "ee_text": "시스플라틴 또는 유사계열 화학요법에 의한 신경성질환의 예방",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:00Z",
+   "last_observed_at": "2026-09-08T08:48:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:00Z"
+}

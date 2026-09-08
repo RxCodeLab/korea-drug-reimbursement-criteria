@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400584",
+ "item_name": "제일제약시메티딘주사액200mg",
+ "entp_name": "(주)제일제약",
+ "permit_date": "20040227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050857]시메티딘|[M050857]시메티딘",
+ "main_item_ingr_eng": "Cimetidine",
+ "edi_code": "650500581",
+ "atc_code": "A02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400584",
+ "revisions": [
+  {
+   "revision_id": "200400584-22e478ae",
+   "content_sha256": "22e478ae61aec51277ae1c3266b4fdc08bd8c0f82c0506c8a58b5991179062cc",
+   "ee_text": "졸링거-엘리슨증후군, 상부소화관출혈(소화성궤양, 급성스트레스궤양, 출혈성위염에 의한)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:36Z",
+   "last_observed_at": "2026-09-08T08:37:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:36Z"
+}

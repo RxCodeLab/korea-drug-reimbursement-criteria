@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201877",
+ "item_name": "메모로정(도베실산칼슘수화물)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "19920518",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257668]도베실산칼슘수화물",
+ "main_item_ingr_eng": "Dobesilate Calcium Hydrate",
+ "edi_code": "649400690",
+ "atc_code": "C05BX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201877",
+ "revisions": [
+  {
+   "revision_id": "199201877-a9e6438d",
+   "content_sha256": "a9e6438dd06fd3d0973ca5889ade758597d3c2ec975c6a7eccb608a4d8858c62",
+   "ee_text": "항진된 모세혈관 파열과 투과장애를 수반하는 혈관손상, 당뇨병성모세혈관장애, 당뇨병성망막병증, 정맥기능부전, 혈전후증후군, 말초울혈성부종, 치질",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:29Z",
+   "last_observed_at": "2026-09-08T08:28:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:29Z"
+}

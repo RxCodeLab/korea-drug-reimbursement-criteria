@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "N05CH01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500950",
+ "history_fetched_at": "2026-08-27T13:17:33Z",
  "revisions": [
   {
    "revision_id": "202500950-21a599f0",
@@ -19,9 +20,9 @@
    "ee_text": "수면의 질이 저하된 55세 이상의 불면증 환자의 단기치료",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:17:33Z",
-   "last_observed_at": "2026-08-27T13:17:33Z",
-   "official_revision_date": "2025-04-22"
+   "last_observed_at": "2026-09-08T09:03:51Z",
+   "official_revision_date": "2025-04-22",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:17:33Z"
+ ]
 }

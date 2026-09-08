@@ -7,11 +7,12 @@
  "permit_date": "20040430",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M083749]염화칼슘이수화물|[M246107]봉합단백 중 피브리노겐|[M051001]아프로티닌|[M254968]사람트롬빈|[M083749]염화칼슘이수화물|[M254968]사람트롬빈|[M051001]아프로티닌|[M246107]봉합단백 중 피브리노겐|[M083749]염화칼슘이수화물|[M254968]사람트롬빈|[M051001]아프로티닌|[M246107]봉합단백 중 피브리노겐",
+ "main_item_ingr": "[M051001]아프로티닌|[M051001]아프로티닌|[M051001]아프로티닌|[M083749]염화칼슘이수화물|[M083749]염화칼슘이수화물|[M083749]염화칼슘이수화물|[M246107]봉합단백 중 피브리노겐|[M246107]봉합단백 중 피브리노겐|[M246107]봉합단백 중 피브리노겐|[M254968]사람트롬빈|[M254968]사람트롬빈|[M254968]사람트롬빈",
  "main_item_ingr_eng": "Aprotinin/Calcium Chloride Hydrate/Fibrinogen (Sealer Protein)/Human Thrombin",
  "edi_code": "655300160,655300250,655300411",
  "atc_code": "B02BC30",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410125",
+ "history_fetched_at": "2026-08-28T13:24:06Z",
  "revisions": [
   {
    "revision_id": "200410125-57e30bd6",
@@ -19,9 +20,9 @@
    "ee_text": "기존 치료법으로 조절할 수 없는 경우 또는 기존 치료법으로 불충한 경우에서의 보조 : 국소지혈, 봉합, 조직접합",
    "ee_doc_id": "36",
    "first_observed_at": "2026-08-28T13:24:06Z",
-   "last_observed_at": "2026-08-28T13:24:06Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:38:40Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:06Z"
+ ]
 }

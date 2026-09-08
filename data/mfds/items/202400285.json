@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400285",
+ "item_name": "큐앤큐니트로푸라존거즈",
+ "entp_name": "큐앤큐팜(주)",
+ "permit_date": "20240207",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040066]니트로푸라존|[M040066]니트로푸라존|[M040066]니트로푸라존|[M040066]니트로푸라존|[M040066]니트로푸라존|[M040066]니트로푸라존|[M040066]니트로푸라존|[M040066]니트로푸라존|[M040066]니트로푸라존|[M040066]니트로푸라존",
+ "main_item_ingr_eng": "Nitrofurazone",
+ "edi_code": "",
+ "atc_code": "D09AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400285",
+ "revisions": [
+  {
+   "revision_id": "202400285-56878e21",
+   "content_sha256": "56878e2168bcfe10a06cdc77a9c0443a0fd5f9673a1a7c82aae7128a8f8d882d",
+   "ee_text": "화상 또는 외상에 의한 2차 세균감염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:41Z",
+   "last_observed_at": "2026-09-08T09:02:41Z",
+   "official_revision_date": "2024-02-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:41Z"
+}

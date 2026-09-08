@@ -7,11 +7,12 @@
  "permit_date": "20130206",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223183]카페인무수물|[M040096]디멘히드리네이트",
+ "main_item_ingr": "[M040096]디멘히드리네이트|[M223183]카페인무수물",
  "main_item_ingr_eng": "Anhydrous Caffeine/Dimenhydrinate",
  "edi_code": "",
  "atc_code": "A04AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201303989",
+ "history_fetched_at": "2026-08-28T13:24:29Z",
  "revisions": [
   {
    "revision_id": "201303989-54917551",
@@ -19,9 +20,9 @@
    "ee_text": "멀미에 의한 어지러움ㆍ구토ㆍ두통의 예방 및 완화",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:24:29Z",
-   "last_observed_at": "2026-08-28T13:24:29Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:45:49Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:29Z"
+ ]
 }

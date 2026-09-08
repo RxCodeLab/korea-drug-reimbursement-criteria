@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200606934",
+ "item_name": "고나도핀주사액150IU/mL(인난포자극호르몬, 유전자재조합)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20060630",
+ "cancel_date": "20240415",
+ "status": "취하",
+ "main_item_ingr": "[M262327]재조합인난포자극호르몬",
+ "main_item_ingr_eng": "Follitropin",
+ "edi_code": "",
+ "atc_code": "G03GA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606934",
+ "revisions": [
+  {
+   "revision_id": "200606934-58b8c40a",
+   "content_sha256": "58b8c40aa65fe5c3f5dfba3f5f2d036a3f5be9204ff9d2373838b5231c862175",
+   "ee_text": "다음과 같은 임상적 상황에서 여성의 불임증 치료 1. 보조생식 프로그램(즉, in vitro fertilization/embryo transfer : IVF/ET, gamete intra-fallopian transfer : GIFT, zygote intra-fallopian transfer : ZIFT, intra-cytoplasmic sperm injection : ICSI) 실시 중 다수의 난포를 성숙시키기 위한 조절된 난포 과자극(controlled ovarian hyperstimulation). 2. Clomiphene citrate로 치료되지 않은 여성의 무배란증 (다낭성난포질환(PCOD)을 포함하는 WHO 그룹 II에 해당되는 환자들)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:28Z",
+   "last_observed_at": "2026-09-08T08:40:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:28Z"
+}

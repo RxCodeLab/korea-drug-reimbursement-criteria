@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199602559",
+ "item_name": "포맨액(L-아스파르트산-L-아르기닌수화물)",
+ "entp_name": "구주제약(주)",
+ "permit_date": "19961024",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258544]L-아스파르트산-L-아르기닌수화물",
+ "main_item_ingr_eng": "L-Arginine-L-Aspartate Hydrate",
+ "edi_code": "",
+ "atc_code": "V06DD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602559",
+ "revisions": [
+  {
+   "revision_id": "199602559-4d00f243",
+   "content_sha256": "4d00f243e5ab4b0a82ae59e6a71f5e8bafaf6ed7b8f103a3c629de9ae5aae8ea",
+   "ee_text": "정신적·신체적 기능무력 증상의 보조요법",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/199602559/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:23Z",
+   "last_observed_at": "2026-09-08T08:30:23Z"
+  },
+  {
+   "revision_id": "199602559-c6132861",
+   "content_sha256": "c6132861fe2ed10ae02992b96127c3aac562583d22fb03b0a5e19263d1d5bf7e",
+   "ee_text": "* 5 g / 100 mL, 20 g / 100 mL 정신적·신체적 기능무력 증상의 보조요법",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:30:23Z",
+   "last_observed_at": "2026-09-08T08:30:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:23Z"
+}

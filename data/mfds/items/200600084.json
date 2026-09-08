@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600084",
+ "item_name": "세토람정5밀리그람(토라세미드)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20060123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M087101]토라세미드",
+ "main_item_ingr_eng": "Torsemide",
+ "edi_code": "642900730",
+ "atc_code": "C03CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600084",
+ "revisions": [
+  {
+   "revision_id": "200600084-39e15327",
+   "content_sha256": "39e15327e7d60f0e90b353aad1d4b5006fea7914218b2dcb02c7dcfb518d2a20",
+   "ee_text": "* 5 mg 경증 내지 중등도 본태고혈압, 부종(울혈심부전, 간경변, 신질환)",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200600084/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:44Z",
+   "last_observed_at": "2026-09-08T08:39:44Z"
+  },
+  {
+   "revision_id": "200600084-c4b49e7c",
+   "content_sha256": "c4b49e7c30c2bd01f2a07d396df81bbc95aab998fe68ea01027e2cf090f8b8cf",
+   "ee_text": "경증 내지 중등도 본태고혈압, 부종(울혈심부전, 간경변, 신질환)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:39:44Z",
+   "last_observed_at": "2026-09-08T08:39:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:44Z"
+}

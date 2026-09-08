@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202303350",
+ "item_name": "비엠비산(탄산수소나트륨)",
+ "entp_name": "원광제약(주)",
+ "permit_date": "20231215",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207094]탄산수소나트륨",
+ "main_item_ingr_eng": "Sodium Bicarbonate",
+ "edi_code": "",
+ "atc_code": "B05ZA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303350",
+ "revisions": [
+  {
+   "revision_id": "202303350-f72ddc7e",
+   "content_sha256": "f72ddc7e46f55bead538a82879eb44e8b9d73f223134de6544edb4a4a909539f",
+   "ee_text": "1. 급ㆍ만성 신부전 환자의 탄산수소염형 혈액투석시 투석액 조제 2. 유독물 해독을 위한 혈액투석시 투석액 조제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:34Z",
+   "last_observed_at": "2026-09-08T09:02:34Z",
+   "official_revision_date": "2023-12-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:34Z"
+}

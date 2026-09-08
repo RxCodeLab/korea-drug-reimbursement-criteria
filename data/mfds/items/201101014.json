@@ -12,6 +12,7 @@
  "edi_code": "670605790",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101014",
+ "history_fetched_at": "2026-08-28T13:24:25Z",
  "revisions": [
   {
    "revision_id": "201101014-cac4e08f",
@@ -19,8 +20,9 @@
    "ee_text": "1. 다음 경우의 비타민D의 보급 - 임신·수유기, 발육기, 노년기 - 이약에 함유된 비타민 등의 효능·효과는 다음과 같다. · 뼈, 이의 발육불량 · 구루병의 예방 2. 칼슘결핍 및 기타 칼슘의 보급",
    "ee_doc_id": "22",
    "first_observed_at": "2026-08-28T13:24:25Z",
-   "last_observed_at": "2026-08-28T13:24:25Z",
-   "official_revision_date": "2021-12-08"
+   "last_observed_at": "2026-09-08T08:44:30Z",
+   "official_revision_date": "2021-12-08",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201101014-d4a1c9b5",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:25Z",
    "last_observed_at": "2026-08-28T13:24:25Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:25Z"
+ ]
 }

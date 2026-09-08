@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100155",
+ "item_name": "미노브이주2mL(디클로페낙β-디메틸아미노에탄올)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "20010711",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252249]디클로페낙β-디메틸아미노에탄올",
+ "main_item_ingr_eng": "Diclofenac Beta-Dimethylaminoethanol",
+ "edi_code": "658600401",
+ "atc_code": "M01AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100155",
+ "revisions": [
+  {
+   "revision_id": "200100155-6e31bb9a",
+   "content_sha256": "6e31bb9a3ea0cf9334b5e9e862b1fcbf314400a7ea539a94ae9d4fe7023645ea",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 외상후ㆍ수술후 염증 및 동통, 급성통풍, 신 및 간산통",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:49Z",
+   "last_observed_at": "2026-09-08T08:34:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:49Z"
+}

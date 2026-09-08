@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199704509",
+ "item_name": "스크랫치테스트용알러젠추출물",
+ "entp_name": "(주)원메디칼",
+ "permit_date": "19971224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093527]알러젠추출물",
+ "main_item_ingr_eng": "Allergen Extract",
+ "edi_code": "",
+ "atc_code": "V04CL",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199704509",
+ "revisions": [
+  {
+   "revision_id": "199704509-a7a0af7a",
+   "content_sha256": "a7a0af7adc5739ff391f08fe4702f1de4338ee11dae366e7f7973688df0bf20c",
+   "ee_text": "알레르기성천식, 알레르기성 비염등 알레르기성 질환의 알레르겐의 확인",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:32Z",
+   "last_observed_at": "2026-09-08T08:31:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:32Z"
+}

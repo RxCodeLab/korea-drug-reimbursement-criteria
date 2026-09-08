@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202002491",
+ "item_name": "휴엠엘점안액(플루오로메톨론)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20200409",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051832]플루오로메톨론",
+ "main_item_ingr_eng": "Fluorometholone",
+ "edi_code": "670608401",
+ "atc_code": "S01BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002491",
+ "revisions": [
+  {
+   "revision_id": "202002491-139d2338",
+   "content_sha256": "139d2338594306225d28e5602f11b96db26402df7fe8df455bfa3df688286ff4",
+   "ee_text": "외안부 및 전안부의 염증성 질환 (안건염, 결막염, 각막염, 공막염, 상공막염, 홍채염, 홍채모양체염, 포도막염, 수술후 염증 등)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:20Z",
+   "last_observed_at": "2026-09-08T08:58:20Z",
+   "official_revision_date": "2020-04-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:20Z"
+}

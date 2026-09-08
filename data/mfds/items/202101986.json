@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101986",
+ "item_name": "티스롤플러스정",
+ "entp_name": "동성제약(주)",
+ "permit_date": "20210303",
+ "cancel_date": "20260303",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M237099]옥수수불검화정량추출물|[M259618]후박75%에탄올연조엑스(5→1)",
+ "main_item_ingr_eng": "Magnolia Bark 75％ Ethanol Soft Extract (5→1)/Titrated Extract of Zea Mays L. Unsaponifiable Fraction",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101986",
+ "revisions": [
+  {
+   "revision_id": "202101986-390544c4",
+   "content_sha256": "390544c4a96961be8425eed9ea3155f26764dde713b5a6a45236b36ee6697eb2",
+   "ee_text": "치주(치아주위조직)치료 후 치은염(잇몸염), 경ㆍ중등도 치주(치아주위조직)염의 보조치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:00Z",
+   "last_observed_at": "2026-09-08T09:00:00Z",
+   "official_revision_date": "2021-03-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:00Z"
+}

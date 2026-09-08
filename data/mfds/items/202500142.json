@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500142",
+ "item_name": "비브가트주(에프가티지모드알파)",
+ "entp_name": "(주)한독",
+ "permit_date": "20250120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285138]에프가티지모드알파",
+ "main_item_ingr_eng": "Efgartigimod Alfa",
+ "edi_code": "",
+ "atc_code": "L04AL01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500142",
+ "revisions": [
+  {
+   "revision_id": "202500142-a0b86d55",
+   "content_sha256": "a0b86d55a913fc6960b7dcd15f82e0e380f56702a5782533bbda76fb1dd48ef8",
+   "ee_text": "항아세틸콜린 수용체 항체 양성인 전신 중증 근무력증 성인 환자의 치료 시의 표준 요법에 부가요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:38Z",
+   "last_observed_at": "2026-09-08T09:03:38Z",
+   "official_revision_date": "2025-01-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:38Z"
+}

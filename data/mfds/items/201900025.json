@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900025",
+ "item_name": "베스폰사주(이노투주맙오조가마이신)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20190103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268719]이노투주맙오조가마이신",
+ "main_item_ingr_eng": "Inotuzumab Ozogamicin",
+ "edi_code": "648903421",
+ "atc_code": "L01XC26",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900025",
+ "revisions": [
+  {
+   "revision_id": "201900025-40ccae7e",
+   "content_sha256": "40ccae7ebeff0ee6bd966ffe5e892f3376719b85ab8905d75f2a570c1c7cd1ce",
+   "ee_text": "재발 또는 불응성 전구 B세포 급성 림프모구성 백혈병(ALL) 성인 환자의 치료 필라델피아 염색체 양성인 재발 또는 불응성 전구 B세포 급성 림프모구성 백혈병 환자는 1가지 이상의 티로신 키나제 억제제(TKI)에 실패한 적이 있어야 한다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:00Z",
+   "last_observed_at": "2026-09-08T08:54:00Z",
+   "official_revision_date": "2019-01-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:00Z"
+}

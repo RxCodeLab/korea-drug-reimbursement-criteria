@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201105112",
+ "item_name": "코딜로드-에이정(수출용)",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20110808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M081899]센나엽가루|[M081950]도큐세이트나트륨|[M248126]센나열매가루(Tinnevelly)",
+ "main_item_ingr_eng": "Bisacodyl/Docusate Sodium/Senna Leaf Powder/Tinnevelly Senna Fruit Powder",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201105112",
+ "revisions": [
+  {
+   "revision_id": "201105112-e82d2aef",
+   "content_sha256": "e82d2aef0b8cdf0a76dbe9e0df921896309319b5a488ba50cb4b4e91a70c909a",
+   "ee_text": "- 변비 - 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:49Z",
+   "last_observed_at": "2026-09-08T08:44:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:49Z"
+}

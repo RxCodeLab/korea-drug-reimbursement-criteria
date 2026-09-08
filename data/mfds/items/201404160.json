@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404160",
+ "item_name": "슈글렛정50밀리그램(이프라글리플로진L-프롤린)",
+ "entp_name": "한국아스텔라스제약(주)",
+ "permit_date": "20140905",
+ "cancel_date": "20250122",
+ "status": "취하",
+ "main_item_ingr": "[M260268]이프라글리플로진L-프롤린",
+ "main_item_ingr_eng": "Ipragliflozin L-Proline",
+ "edi_code": "",
+ "atc_code": "A10BK05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404160",
+ "revisions": [
+  {
+   "revision_id": "201404160-5c51f28d",
+   "content_sha256": "5c51f28dba89419e90b870fb8c950dd770a210d2bf65a2eabe703d031f6edbda",
+   "ee_text": "이 약은 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. - 단독요법 - 병용요법",
+   "ee_doc_id": "36",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:38Z",
+   "last_observed_at": "2026-09-08T08:47:38Z",
+   "official_revision_date": "2021-02-09"
+  },
+  {
+   "revision_id": "201404160-165b92e6",
+   "content_sha256": "165b92e6b0b2b897ab9d41fb5e62fa6d6d34be176b9b27ba45b69ca0c3c660be",
+   "ee_text": "이 약은 성인 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 이 약은 단독요법으로 투여한다. 2. 메트포르민 또는 피오글리타존 단독요법으로 충분한 혈당조절을 할 수 없는 경우, 이 약을 병용투여한다.",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:47:38Z",
+   "last_observed_at": "2026-09-08T08:47:38Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:38Z"
+}

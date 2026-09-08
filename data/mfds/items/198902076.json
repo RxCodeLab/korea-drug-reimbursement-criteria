@@ -7,11 +7,12 @@
  "permit_date": "19890306",
  "cancel_date": "20250312",
  "status": "취하",
- "main_item_ingr": "[M223240]토코페롤아세테이트|[M223262]티아민질산염|[M084603]마늘엑스|[M252517]하우소른엑스|[M081330]미스트레토우엑스",
+ "main_item_ingr": "[M081330]미스트레토우엑스|[M084603]마늘엑스|[M223240]토코페롤아세테이트|[M223262]티아민질산염|[M252517]하우소른엑스",
  "main_item_ingr_eng": "Allium Sativum Extract/Hawthorn Extract/Mistletoe Extract/Thiamine Nitrate/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198902076",
+ "history_fetched_at": "2026-08-28T13:23:42Z",
  "revisions": [
   {
    "revision_id": "198902076-a3cd534a",
@@ -19,9 +20,9 @@
    "ee_text": "심질환, 순환장애, 고혈압에 의한 여러 증상의 개선",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-28T13:23:42Z",
-   "last_observed_at": "2026-08-28T13:23:42Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:27:55Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:42Z"
+ ]
 }

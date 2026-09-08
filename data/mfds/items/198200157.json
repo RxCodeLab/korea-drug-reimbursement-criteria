@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198200157",
+ "item_name": "제일스파게린정(플라복세이트염산염)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "19820821",
+ "cancel_date": "20240704",
+ "status": "취하",
+ "main_item_ingr": "[M223319]플라복세이트염산염",
+ "main_item_ingr_eng": "Flavoxate Hydrochloride",
+ "edi_code": "",
+ "atc_code": "G04BD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200157",
+ "revisions": [
+  {
+   "revision_id": "198200157-ec847030",
+   "content_sha256": "ec8470301566280defaae33ccb339d6d5973430bae3f4fa366831bf881591159",
+   "ee_text": "다음 질환에 수반되는 빈뇨 및 잔뇨감 : 신경성빈뇨, 만성 전립선염, 만성 방광염",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:48Z",
+   "last_observed_at": "2026-09-08T08:26:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:48Z"
+}

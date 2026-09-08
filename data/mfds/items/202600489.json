@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600489",
+ "item_name": "윤담액",
+ "entp_name": "경진제약(주)",
+ "permit_date": "20260223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040048]길경|[M040135]마황|[M040482]원지|[M050058]구아이페네신|[M050752]생강|[M051291]인삼",
+ "main_item_ingr_eng": "Ephedra Herb/Ginseng/Guaifenesin/Platycodon Root/Polygala Root/Raw Ginger",
+ "edi_code": "",
+ "atc_code": "R05FB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600489",
+ "revisions": [
+  {
+   "revision_id": "202600489-78dd308e",
+   "content_sha256": "78dd308e0cabff9495a553cd7e6646318532bf70f886bda2821e2f6252f7b915",
+   "ee_text": "기침, 가래, 천식",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:48Z",
+   "last_observed_at": "2026-09-08T09:04:48Z",
+   "official_revision_date": "2026-02-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:48Z"
+}

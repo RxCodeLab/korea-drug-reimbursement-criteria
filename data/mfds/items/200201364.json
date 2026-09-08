@@ -12,6 +12,7 @@
  "edi_code": "653000590",
  "atc_code": "C10AB05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201364",
+ "history_fetched_at": "2026-08-28T13:24:00Z",
  "revisions": [
   {
    "revision_id": "200201364-a370277d",
@@ -19,7 +20,8 @@
    "ee_text": "(캡슐제) 130, 160, 200 mg (정제) 145, 160 mg 원발성 고지혈증 : 고콜레스테롤혈증(IIa형), 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(IIb형, Ⅲ형), 고트리글리세라이드혈증 (IV형)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200201364/EE",
    "first_observed_at": "2026-08-28T13:24:00Z",
-   "last_observed_at": "2026-08-28T13:24:00Z"
+   "last_observed_at": "2026-09-08T08:36:11Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200201364-41a2a11c",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:00Z",
    "last_observed_at": "2026-08-28T13:24:00Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:00Z"
+ ]
 }

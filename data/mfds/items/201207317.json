@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201207317",
+ "item_name": "플루오점안액(플루오로메톨론)",
+ "entp_name": "풍림무약(주)",
+ "permit_date": "20121019",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051832]플루오로메톨론",
+ "main_item_ingr_eng": "Fluorometholone",
+ "edi_code": "649001012",
+ "atc_code": "S01BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207317",
+ "revisions": [
+  {
+   "revision_id": "201207317-4094cdef",
+   "content_sha256": "4094cdef9596c1f021c70143422741ea13ef3383482ea14c59da3c02c02d4fb5",
+   "ee_text": "외안부 및 전안부의 염증성 질환 (안검염, 결막염, 각막염, 공막염, 상공막염, 홍채염, 홍채모양체염, 포도막염, 수술후 염증 등)",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:32Z",
+   "last_observed_at": "2026-09-08T08:45:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:32Z"
+}

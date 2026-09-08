@@ -7,11 +7,12 @@
  "permit_date": "20200219",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M284425]에탄올(95)|[M223220]클로르헥시딘글루콘산염 액|[M284425]에탄올(95)|[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액|[M223220]클로르헥시딘글루콘산염 액|[M284425]에탄올(95)|[M284425]에탄올(95)",
  "main_item_ingr_eng": "Chlorhexidine Gluconate Solution/Ethanol 95%",
  "edi_code": "",
  "atc_code": "D09AA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001153",
+ "history_fetched_at": "2026-08-28T13:25:15Z",
  "revisions": [
   {
    "revision_id": "202001153-c4af558f",
@@ -19,9 +20,9 @@
    "ee_text": "수술전 환자의 피부소독, 주사기 바늘, 카테타 삽입 전 환자의 피부소독",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:15Z",
-   "last_observed_at": "2026-08-28T13:25:15Z",
-   "official_revision_date": "2020-02-19"
+   "last_observed_at": "2026-09-08T08:57:51Z",
+   "official_revision_date": "2020-02-19",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:15Z"
+ ]
 }

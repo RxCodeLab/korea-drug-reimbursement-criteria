@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104004",
+ "item_name": "제일약품황산마그네슘수화물주10%(수출용)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20210520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080356]황산마그네슘수화물",
+ "main_item_ingr_eng": "Magnesium Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "A12CC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104004",
+ "revisions": [
+  {
+   "revision_id": "202104004-8f0700cf",
+   "content_sha256": "8f0700cf94fa1e2566f7ef8cf26699c7c82081272caf7fc4b347b75820e780cf",
+   "ee_text": "경련, 자간증의 발작, 자궁경직 방지, 전해질보급(저마그네슘혈증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:12Z",
+   "last_observed_at": "2026-09-08T09:00:12Z",
+   "official_revision_date": "2021-05-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:12Z"
+}

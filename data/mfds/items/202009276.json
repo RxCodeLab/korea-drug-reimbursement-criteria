@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202009276",
+ "item_name": "룸제브주100단위/밀리리터(인슐린라이스프로,유전자재조합)",
+ "entp_name": "한국릴리(유)",
+ "permit_date": "20201228",
+ "cancel_date": "20250331",
+ "status": "취하",
+ "main_item_ingr": "[M251028]인슐린라이스프로(숙주:EㆍcoliㆍK12RV308,벡터:pHKY694)",
+ "main_item_ingr_eng": "Insulin Lispro (Host: E Coli K12RV308, Vector: pHKY694)",
+ "edi_code": "",
+ "atc_code": "A10AB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009276",
+ "revisions": [
+  {
+   "revision_id": "202009276-0c0012da",
+   "content_sha256": "0c0012daa360acd0f409e1187b5ee13c514daa380372ddef5122f83ce4e5851a",
+   "ee_text": "성인, 청소년 및 만 1세 이상의 소아에서의 인슐린 요법이 요구되는 당뇨병",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:47Z",
+   "last_observed_at": "2026-09-08T08:59:47Z",
+   "official_revision_date": "2023-06-08"
+  },
+  {
+   "revision_id": "202009276-90dc32df",
+   "content_sha256": "90dc32dfa1eb952c7624eb9380c4ea5e395245ad7a81754338c7236d3d98a0fa",
+   "ee_text": "인슐린 요법이 요구되는 성인 당뇨병",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-12-28",
+   "first_observed_at": "2026-09-08T08:59:47Z",
+   "last_observed_at": "2026-09-08T08:59:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:47Z"
+}

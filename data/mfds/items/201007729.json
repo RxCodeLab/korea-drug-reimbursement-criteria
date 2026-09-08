@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201007729",
+ "item_name": "파라카인점안액0.5%(프로파라카인염산염)(1회용)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20101228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251334]프로파라카인염산염",
+ "main_item_ingr_eng": "Proparacaine Hydrochloride",
+ "edi_code": "643505831",
+ "atc_code": "S01HA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007729",
+ "revisions": [
+  {
+   "revision_id": "201007729-1187b341",
+   "content_sha256": "1187b34134db37c96345d286b3a8a123bd2d7133ddc0de83bf3dd7bb71c53286",
+   "ee_text": "다음 경우의 안과용 국소마취제 : 단시간의 각막 마취(예, 안압 측정, 우각검사, 각막의 이물 및 봉합사 제거) 및 간단한 각막 및 결막 처치",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:22Z",
+   "last_observed_at": "2026-09-08T08:44:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:22Z"
+}

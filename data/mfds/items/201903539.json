@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903539",
+ "item_name": "토브엠점안액(토브라마이신)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20190529",
+ "cancel_date": "20240529",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M020144]토브라마이신",
+ "main_item_ingr_eng": "Tobramycin",
+ "edi_code": "",
+ "atc_code": "S01AA12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903539",
+ "revisions": [
+  {
+   "revision_id": "201903539-9a0cec8b",
+   "content_sha256": "9a0cec8b639159ad6bb2aa913fdf3a04f3e6fd6d0a06cbe1764d39c6a90f0d1e",
+   "ee_text": "○ 유효균종 포도구균(황색포도구균, 표피포도구균, 페니실린 내성균 포함), 연쇄구균(일부 그룹 A-베타용혈성 연쇄구균, 비용혈성 연쇄구균, 폐렴구균 포함), 녹농균, 대장균, 폐렴간균, 엔테로박터 에로제니스, 프로테우스 미라빌리스, 프로테우스 불가리스, 모르가넬라 모르가니, 인플루엔자균, 코흐-위크스균, 결막염 호혈균, 아시네토박터 칼코아세티쿠스, 일부 나이세리아 ○ 적응증 안검염, 누낭염, 다래끼, 결막염, 각막염, 각막궤양",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:27Z",
+   "last_observed_at": "2026-09-08T08:55:27Z",
+   "official_revision_date": "2019-05-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:27Z"
+}

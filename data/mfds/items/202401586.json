@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401586",
+ "item_name": "탈베이주40mg/mL(탈쿠에타맙)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20240628",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284746]탈쿠에타맙",
+ "main_item_ingr_eng": "Talquetamab",
+ "edi_code": "",
+ "atc_code": "L01FX29",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401586",
+ "revisions": [
+  {
+   "revision_id": "202401586-aaa38b74",
+   "content_sha256": "aaa38b74ba946f23eb534b7815bcd66035c3dd38f2ba71a744dfb126fbfd1c5d",
+   "ee_text": "프로테아좀억제제, 면역조절제, 항-CD38 단클론항체를 포함하여 적어도 3차 이상의 치료를 받은 재발 또는 불응성 다발골수종 성인환자에 대한 단독요법 이 약의 유효성을 치료적확증시험에서 입증한 자료는 없다.",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202401586/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:07Z",
+   "last_observed_at": "2026-09-08T09:03:07Z"
+  },
+  {
+   "revision_id": "202401586-b73d5444",
+   "content_sha256": "b73d5444e78b2109a0afd00712782cb1fa3c5a2b1a089901345a08c3c2f4f3fe",
+   "ee_text": "프로테아좀억제제, 면역조절제제, 항-CD38 단클론항체를 포함하여 적어도 3차 이상의 치료를 받은 재발 또는 불응성 다발골수종 성인환자에 대한 단독요법 이 약의 유효성을 치료적확증시험에서 입증한 자료는 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-06-28",
+   "first_observed_at": "2026-09-08T09:03:07Z",
+   "last_observed_at": "2026-09-08T09:03:07Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:07Z"
+}

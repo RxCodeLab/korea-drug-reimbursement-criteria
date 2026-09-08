@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104005",
+ "item_name": "제일약품푸로세미드주(수출용)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20210520",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040715]푸로세미드",
+ "main_item_ingr_eng": "Furosemide",
+ "edi_code": "",
+ "atc_code": "C03CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104005",
+ "revisions": [
+  {
+   "revision_id": "202104005-11aa064d",
+   "content_sha256": "11aa064dca6ebcf693fe6f34a5a47316380b5fbfbce3e787308594d515045da1",
+   "ee_text": "고혈압(본태성, 신성 등), 심성부종(울혈성심부전), 신성부종, 간성부종(복수), 급성폐부종",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:12Z",
+   "last_observed_at": "2026-09-08T09:00:12Z",
+   "official_revision_date": "2021-05-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:12Z"
+}

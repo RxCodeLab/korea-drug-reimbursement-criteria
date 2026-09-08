@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199704519",
+ "item_name": "펜타사서방정500밀리그램(메살라진)",
+ "entp_name": "한국페링제약(주)",
+ "permit_date": "19970905",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083890]메살라진",
+ "main_item_ingr_eng": "Mesalazine",
+ "edi_code": "652500230",
+ "atc_code": "A07EC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199704519",
+ "revisions": [
+  {
+   "revision_id": "199704519-10cf9977",
+   "content_sha256": "10cf9977cc783dc6c761ffab4186a89bdf94126ba9c1ea920be028a6f3db9e6b",
+   "ee_text": "경증에서 중등도의 궤양성 대장염, 크론병의 치료",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:33Z",
+   "last_observed_at": "2026-09-08T08:31:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:33Z"
+}

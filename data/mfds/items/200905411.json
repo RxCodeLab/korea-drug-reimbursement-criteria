@@ -7,7 +7,7 @@
  "permit_date": "20090715",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M110035]시트르산칼슘|[M099907]콜레칼시페롤과립",
+ "main_item_ingr": "[M099907]콜레칼시페롤과립|[M110035]시트르산칼슘",
  "main_item_ingr_eng": "Calcium Citrate/Cholecalciferol Granules",
  "edi_code": "652902370",
  "atc_code": "A12AX",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T10:37:08Z",
  "revisions": [
   {
-   "revision_id": "200905411-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200905411-ebadc56f",
+   "content_sha256": "ebadc56fba1d7919f002b566c88b25ed7f89b2dd24636c3c66b3c19b62f1fd40",
+   "ee_text": "⃝ 칼슘결핍 및 기타 칼슘의 보급 ⃝ 다음경우의 비타민 D의 보급 - 임신 · 수유기 - 발육기 - 노년기 - 이약에 함유된 비타민 등의 효능 · 효과는 다음과 같다. · 뼈, 이의 발육불량 · 구루병의 예방",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200905411/EE",
    "first_observed_at": "2026-08-27T10:37:08Z",
-   "last_observed_at": "2026-08-28T13:24:21Z"
+   "last_observed_at": "2026-09-08T08:43:25Z",
+   "normalizer_version": 3
   }
  ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "19961101",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040030]구기자|[M040070]당귀|[M040089]두충|[M040135]마황|[M040198]박하|[M040006]감초|[M040279]석고|[M040216]백지|[M040548]창출|[M051352]지골피|[M051363]생지황|[M081396]감국|[M081460]만형자|[M040205]방풍|[M051291]인삼|[M040336]시호|[M081462]진교|[M040550]천궁|[M040789]황금|[M040790]황기|[M050022]강활|[M050036]육계|[M050227]독활|[M040535]지모|[M040293]세신|[M040523]작약|[M051351]지각|[M050752]생강",
+ "main_item_ingr": "[M040006]감초|[M040030]구기자|[M040070]당귀|[M040089]두충|[M040135]마황|[M040198]박하|[M040205]방풍|[M040216]백지|[M040279]석고|[M040293]세신|[M040336]시호|[M040523]작약|[M040535]지모|[M040548]창출|[M040550]천궁|[M040789]황금|[M040790]황기|[M050022]강활|[M050036]육계|[M050227]독활|[M050752]생강|[M051291]인삼|[M051351]지각|[M051352]지골피|[M051363]생지황|[M081396]감국|[M081460]만형자|[M081462]진교",
  "main_item_ingr_eng": "Anemarrhena Rhizome/Angelica Dahurica Root/Angelica Gigas Root/Aralia Continentalis Root/Asiasarum Root and Rhizome/Astragalus Root/Atractylodes Rhizome/Aurantii Fructus Immaturus/Bupleurum Root/Chrysanthemi Indici Flos/Cinnamon Bark/Cnidium Rhizome/Ephedra Herb/Eucommiae Cortex/Gentianae Macrophyllae Radix/Ginseng/Gypsum Fibrosum/Licorice/Lycium Fruit/Lycium Root Bark/Mentha Herb/Ostericum Root/Peony Root/Raw Ginger/Rehmanniae Radix Recens/Saposhnikovia Root/Scutellaria Root/Vitex Fruit",
  "edi_code": "",
  "atc_code": "C01EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602920",
+ "history_fetched_at": "2026-08-28T13:23:48Z",
  "revisions": [
   {
    "revision_id": "199602920-68fc14b9",
@@ -19,9 +20,9 @@
    "ee_text": "중풍의 조리약",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:23:48Z",
-   "last_observed_at": "2026-08-28T13:23:48Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:30:25Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:48Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199901180",
+ "item_name": "타우스액(수출용)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19990127",
+ "cancel_date": "20240503",
+ "status": "취하",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040488]이노시톨|[M040580]무수카페인|[M071150]질산치아민|[M100863]타우린(아미노에칠설폰산)|[M240075]염산피리독신",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Inositol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Taurine/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901180",
+ "revisions": [
+  {
+   "revision_id": "199901180-cfd4d0d3",
+   "content_sha256": "cfd4d0d31fcaf3adad1029f240a80d2355ee201b20d8b0fd801d9513bee92a69",
+   "ee_text": "육체피로, 병중병후, 식욕부진, 영양장해, 발열성소모성질환 등의 경우의 영양보급, 자양강장, 허약체질",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:41Z",
+   "last_observed_at": "2026-09-08T08:32:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:41Z"
+}

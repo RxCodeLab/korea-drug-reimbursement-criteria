@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199504344",
+ "item_name": "플라렉스점안현탁액(플루오로메톨론아세테이트)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "19950907",
+ "cancel_date": "20250326",
+ "status": "취하",
+ "main_item_ingr": "[M267533]플루오로메톨론아세테이트",
+ "main_item_ingr_eng": "Fluorometholone Acetate",
+ "edi_code": "",
+ "atc_code": "S01BA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199504344",
+ "revisions": [
+  {
+   "revision_id": "199504344-de9ffd45",
+   "content_sha256": "de9ffd45f03f887d018910dd8f26fb42067df9578feb39d77ce7be4bfe2ef406",
+   "ee_text": "안검 및 안구의 결막, 각막 및 안구 전방의 스테로이드 감수성의 염증성 질환.",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:58Z",
+   "last_observed_at": "2026-09-08T08:29:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:58Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199900045",
+ "item_name": "가벡실주사100밀리그램(가벡세이트메실산염)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "19990623",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222932]가벡세이트메실산염|[M222932]가벡세이트메실산염|[M222932]가벡세이트메실산염",
+ "main_item_ingr_eng": "Gabexate Mesylate",
+ "edi_code": "653400021",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900045",
+ "revisions": [
+  {
+   "revision_id": "199900045-5aff0954",
+   "content_sha256": "5aff09544ddc7428f618d8b067190001d641f298e2380027a4461361d0ee8247",
+   "ee_text": "○ 단백분해 효소(트립신, 칼리크레인, 플라스민 등)의 일탈에 기인하는 다음의 질환 : 급성 췌장염, 만성재발성 췌장염의 급성악화기, 수술 후 급성췌장염 ○ 범발성 혈관내 혈액응고증",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:27Z",
+   "last_observed_at": "2026-09-08T08:32:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:27Z"
+}

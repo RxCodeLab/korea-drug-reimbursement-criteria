@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199202870",
+ "item_name": "단일의료용질소",
+ "entp_name": "단일시스켐(주)",
+ "permit_date": "19920423",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040542]질소",
+ "main_item_ingr_eng": "Nitrogen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199202870",
+ "revisions": [
+  {
+   "revision_id": "199202870-df22f0fb",
+   "content_sha256": "df22f0fb2856eadc619daaf4d5da5caf2640e32bf6bce7085b436b7f7ab7be01",
+   "ee_text": "의료용가스(제제용)",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:34Z",
+   "last_observed_at": "2026-09-08T08:28:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:34Z"
+}

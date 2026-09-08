@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200601023",
+ "item_name": "대한적십자사제주도혈액원백혈구여과제거성분채혈혈소판(백혈구여과제거성분채혈혈소판)",
+ "entp_name": "대한적십자사제주도특별자치도혈액원",
+ "permit_date": "20060127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279031]백혈구여과제거성분채혈혈소판",
+ "main_item_ingr_eng": "Platlet From Drawing Blood (WBC Removed)",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200601023",
+ "revisions": [
+  {
+   "revision_id": "200601023-131f24cf",
+   "content_sha256": "131f24cfdfcddaee4577738adaab664796b1d8454152cd56aff0292d5eaf0188",
+   "ee_text": "1. 혈소판 감소증이나 혈소판 기능장애를 가진 환자에서 출혈의 예방 및 치료에 사용한다. 특히 수혈로 인한 발열성 비용혈성 수혈반응의 예방, HLA 동종면역의 예방, 백혈구 내에 존재하는 거대세포바이러스 감염 전파의 예방을 위해 사용한다. 2. 자주 혈소판 수혈을 받을 경우에는 혈소판수혈불응증을 예방하기 위하여 백혈구가 제거된 혈소판 제제를 사용한다.",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:16Z",
+   "last_observed_at": "2026-09-08T08:40:16Z",
+   "official_revision_date": "2020-07-06"
+  },
+  {
+   "revision_id": "200601023-a18885d5",
+   "content_sha256": "a18885d5d48adf9dbc5fa52a1a1f13e879d77081b436cd7f255df3171394356b",
+   "ee_text": "혈소판 감소증이나 혈소판 기능 장애를 가진 환자의 출혈을 예방하거나 치료하는데 사용한다. 특히 자주 혈소판 수혈을 받을 경우에는 혈소판수혈불응증을 예방하기 위하여 백혈구가 제거된 혈소판 제제를 사용한다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:40:16Z",
+   "last_observed_at": "2026-09-08T08:40:16Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:16Z"
+}

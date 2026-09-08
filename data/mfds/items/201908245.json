@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908245",
+ "item_name": "아다수브흡입제10밀리그램(록사핀)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20191205",
+ "cancel_date": "20250226",
+ "status": "취하",
+ "main_item_ingr": "[M278647]록사핀",
+ "main_item_ingr_eng": "Loxapine",
+ "edi_code": "",
+ "atc_code": "N05AH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908245",
+ "revisions": [
+  {
+   "revision_id": "201908245-4852ff60",
+   "content_sha256": "4852ff60aa97841656315db64294da367df336a92c99c01bfdbfc5239a1d4933",
+   "ee_text": "조현병 및 양극성 장애에 수반되는 경도 및 중등도 초조 증상의 빠른 조절",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:13Z",
+   "last_observed_at": "2026-09-08T08:57:13Z",
+   "official_revision_date": "2019-12-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:13Z"
+}

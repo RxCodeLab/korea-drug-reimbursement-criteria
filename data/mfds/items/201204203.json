@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201204203",
+ "item_name": "코러스스펙티노마이신주(스펙티노마이신염산염수화물)(수출용)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20120507",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223082]스펙티노마이신염산염수화물",
+ "main_item_ingr_eng": "Spectinomycin Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "J01XX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201204203",
+ "revisions": [
+  {
+   "revision_id": "201204203-07002051",
+   "content_sha256": "07002051d8d01768b1f5ee57f495b75544636925d76f1e45851c00a6110b2220",
+   "ee_text": "○ 유효균종 임균 ○ 적응증 급성임균성요도염 급성임균성자궁경관염 급성임균성직장항문염",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:17Z",
+   "last_observed_at": "2026-09-08T08:45:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:17Z"
+}

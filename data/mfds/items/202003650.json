@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003650",
+ "item_name": "리목신점안액(목시플록사신염산염)",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20200519",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M247915]목시플록사신염산염",
+ "main_item_ingr_eng": "Moxifloxacin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S01AE07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003650",
+ "revisions": [
+  {
+   "revision_id": "202003650-10e83683",
+   "content_sha256": "10e83683bbfb376fb12050891e5ad5ebf4616faed88b90805450373d0db78ef5",
+   "ee_text": "다음의 감수성 균종에 의한 세균성 결막염, 검판선염, 각막염(각막궤양포함)의 치료, 안과수술전후의 무균화요법 : 포도구균속, 연쇄상구균속, 폐렴구균, 장구균속, 마이크로코카스속, 모라셀라속,코리네박테리움속, 시트로박터속, 클렙시엘라속, 엔테로박터속, 세라치아속, 프로테우스속, 몰가네라 몰가니, 인플루엔자균, 슈도모나스속, 벅크홀데리아 세파치아, 스테노트로포모나스말토필리아, 아시네토박타속, 아크네균",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:51Z",
+   "last_observed_at": "2026-09-08T08:58:51Z",
+   "official_revision_date": "2020-05-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:51Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901256",
+ "item_name": "비앙코정(글루타티온(환원형))",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20190227",
+ "cancel_date": "20240227",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M256276]글루타티온(환원형)",
+ "main_item_ingr_eng": "Glutathione (Reduced)",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901256",
+ "revisions": [
+  {
+   "revision_id": "201901256-7996c777",
+   "content_sha256": "7996c777f14feed35a84d57b52783faef59c20f20da28fe45e79d344341e432c",
+   "ee_text": "약물중독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:22Z",
+   "last_observed_at": "2026-09-08T08:54:22Z",
+   "official_revision_date": "2019-02-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:22Z"
+}

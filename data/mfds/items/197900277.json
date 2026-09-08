@@ -7,7 +7,7 @@
  "permit_date": "19790315",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040353]아세트아미노펜|[M223183]카페인무수물|[M040499]이소프로필안티피린",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M040499]이소프로필안티피린|[M223183]카페인무수물",
  "main_item_ingr_eng": "Acetaminophen/Anhydrous Caffeine/Isopropylantipyrine",
  "edi_code": "",
  "atc_code": "N02BE51",
@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:56:38Z",
  "revisions": [
   {
-   "revision_id": "197900277-fc6cd8f6",
-   "content_sha256": "fc6cd8f6e6e8410712173174531ffba89ebe4eee2dae6d700699aa15f4b7e4dd",
-   "ee_text": "- 두통, 치통, 발치(이를 뽑음)후 동통(통증), 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요(허리)통, 근육통, 견통(어깨통증), 타박통, 골절통, 염좌통(삔 통증), 월경통(생리통), 외상(상처)통의 진통 - 오한(춥고 떨리는 증상), 발열시의 해열",
+   "revision_id": "197900277-c6e5ac7e",
+   "content_sha256": "c6e5ac7ecd83f1515b8deefe8c8cde1dcd58ad43b1fc4e47bbc2bc6419c8aaab",
+   "ee_text": "다음 질환의 진통 및 해열시 단기치료: - 두통, 치통, 발치(이를 뽑음)후 동통(통증), 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요(허리)통, 근육통, 견통(어깨통증), 타박통, 골절통, 염좌통(삔 통증), 월경통(생리통), 외상(상처)통의 진통 - 오한(춥고 떨리는 증상), 발열시의 해열",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/197900277/EE",
    "first_observed_at": "2026-08-27T12:56:38Z",
-   "last_observed_at": "2026-08-28T13:23:38Z"
+   "last_observed_at": "2026-09-08T08:26:34Z",
+   "normalizer_version": 3
   }
  ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004980",
+ "item_name": "휴메트린정(메틸에르고메트린말레산염)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20200709",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223020]메틸에르고메트린말레산염",
+ "main_item_ingr_eng": "Methylergometrine Maleate",
+ "edi_code": "",
+ "atc_code": "G02AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004980",
+ "revisions": [
+  {
+   "revision_id": "202004980-aabc2f9c",
+   "content_sha256": "aabc2f9cb2a619da6fd17185c3b0bb4fa149fa6670a39608a321073c820da010",
+   "ee_text": "다음의 경우 출혈의 방지 및 치료: 태반만출 후, 분만 후, 유산 후 출혈, 자궁퇴축부전",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:14Z",
+   "last_observed_at": "2026-09-08T08:59:14Z",
+   "official_revision_date": "2020-07-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:14Z"
+}

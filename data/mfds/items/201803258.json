@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803258",
+ "item_name": "파비스세티리진염산염정(수출용)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20180808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222857]세티리진염산염",
+ "main_item_ingr_eng": "Cetirizine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AE07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803258",
+ "revisions": [
+  {
+   "revision_id": "201803258-7d524682",
+   "content_sha256": "7d52468237d1ac33a36b2d0f64ca3aadd0930218b505f2194e159e631a155ceb",
+   "ee_text": "1. 계절성 및 다년성 알레르기성 비염, 알레르기성 결막염, 만성 특발성 두드러기, 피부소양증 2. 하이드로코티손 외용제와 병용에 의한 습진, 피부염(정제에 한함)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:30Z",
+   "last_observed_at": "2026-09-08T08:53:30Z",
+   "official_revision_date": "2018-08-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:30Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600832",
+ "item_name": "올린빅주(올리세리딘푸마르산염)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20260324",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286155]올리세리딘푸마르산염",
+ "main_item_ingr_eng": "Oliceridine Fumarate",
+ "edi_code": "",
+ "atc_code": "N02AX07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600832",
+ "revisions": [
+  {
+   "revision_id": "202600832-58bbeb61",
+   "content_sha256": "58bbeb61add214efabd25471a6d60d6c8fed20d86fe6004e3625733677debe2d",
+   "ee_text": "마약성 진통제 사용이 필요한 성인에서 수술 후 중등도 및 중증의 급성 통증 조절",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:55Z",
+   "last_observed_at": "2026-09-08T09:04:55Z",
+   "official_revision_date": "2026-03-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:55Z"
+}

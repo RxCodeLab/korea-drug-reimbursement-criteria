@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200809103",
+ "item_name": "파미론주사(파미드론산나트륨오수화물)",
+ "entp_name": "(주)비씨월드제약",
+ "permit_date": "20080829",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089858]파미드론산나트륨오수화물",
+ "main_item_ingr_eng": "Pamidronate Disodium Hydrate",
+ "edi_code": "653102031",
+ "atc_code": "M05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809103",
+ "revisions": [
+  {
+   "revision_id": "200809103-4b578513",
+   "content_sha256": "4b57851342eb707b74ee011d67508219a1dd979b05102014373a191d22f50aee",
+   "ee_text": "1. 골(骨)칼슘 함량의 부(負)균형에 기인한 T값이 – 2.5이하인(T ≤ - 2.5) 하기 골대사 이상 질환의 치료 : 골다공증 2. 골대사 이상에 의한 하기 질환의 치료 : 파제트골염, 악성종양에 의한 과칼슘혈증,유방암 환자의 용해성 골전이, 다발성 골수종에 의한 골연화",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:47Z",
+   "last_observed_at": "2026-09-08T08:42:47Z",
+   "official_revision_date": "2018-01-21"
+  },
+  {
+   "revision_id": "200809103-75e9c956",
+   "content_sha256": "75e9c9562d398662f592af455528b1930d7eaa790875afeace75bae44d7d8d2a",
+   "ee_text": "1. 골(骨)칼슘 함량의 부(負)균형에 기인한 T값이 -2.5이하인(T≤-2.5) 하기 골대사 이상 질환의 치료 : 골다공증 2. 골대사 이상에 의한 하기 질환의 치료 파제트골염, 악성종양에 의한 과칼슘혈증, 유방암 환자의 용해성 골전이, 다발성 골수종에 의한 골연화",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:47Z",
+   "last_observed_at": "2026-09-08T08:42:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:47Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201303988",
+ "item_name": "빅톤에프연질캡슐",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20130206",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040133]리보플라빈|[M204304]피리독신염산염|[M223262]티아민질산염|[M223289]폴산|[M258994]아스코르브산",
+ "main_item_ingr_eng": "Ascorbic Acid/Folic Acid/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A11EB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201303988",
+ "revisions": [
+  {
+   "revision_id": "201303988-8be3ab81",
+   "content_sha256": "8be3ab81cc06f77bda6a113fcf1002e059144ffcaa61655848b4f4d500a86844",
+   "ee_text": "다음 경우의 비타민 B1, B2, B6, C의 보급: 육체피로, 임신·수유기, 병중(병을 앓는동안)·병후(회복후)의 체력 저하시",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:48Z",
+   "last_observed_at": "2026-09-08T08:45:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:48Z"
+}

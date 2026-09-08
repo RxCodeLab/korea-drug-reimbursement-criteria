@@ -12,14 +12,16 @@
  "edi_code": "",
  "atc_code": "S01AE03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707273",
+ "history_fetched_at": "2026-08-27T13:22:23Z",
  "revisions": [
   {
-   "revision_id": "200707273-5e58d111",
-   "content_sha256": "5e58d1112a7f891bd8e053682e62ca9abafd4f46683e6356ea57703756c377af",
-   "ee_text": "* 이 균종에 대한 효능연구는 10개 이하 경우에서 실시됨.",
+   "revision_id": "200707273-1475761a",
+   "content_sha256": "1475761a7d1d89942b0d38e192e53caed2d9a4a4ce6f8952a56919f444e97b42",
+   "ee_text": "1. 다음 균종에 의한 각막궤양 : 녹농균, *세라치아속, 황색포도상구균, 폐렴연쇄상구균, 표피포도상구균, 2. 다음 균종에 의한 결막염 : 황색포도상구균, 표피포도상구균, 폐렴연쇄상구균 * 이 균종에 대한 효능연구는 10개 이하 경우에서 실시됨.",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200707273/EE",
    "first_observed_at": "2026-08-27T13:22:23Z",
-   "last_observed_at": "2026-08-27T13:22:23Z"
+   "last_observed_at": "2026-09-08T08:41:37Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200707273-39c779e6",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-27T13:22:23Z",
    "last_observed_at": "2026-08-27T13:22:23Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:22:23Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201869",
+ "item_name": "포머렐정0.075밀리그램(데소게스트렐)",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20220509",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083365]데소게스트렐",
+ "main_item_ingr_eng": "Desogestrel",
+ "edi_code": "",
+ "atc_code": "G03AC09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201869",
+ "revisions": [
+  {
+   "revision_id": "202201869-3ce3ac5f",
+   "content_sha256": "3ce3ac5f80b0228deb555aefefaf2e7ddaca7d1c1ba78cd2d1d13a611f474189",
+   "ee_text": "피임",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:18Z",
+   "last_observed_at": "2026-09-08T09:01:18Z",
+   "official_revision_date": "2022-05-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:18Z"
+}

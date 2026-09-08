@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203091",
+ "item_name": "신신파스콘밴드(수출용)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20220726",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040264]살리실산|[M040264]살리실산",
+ "main_item_ingr_eng": "Salicylic Acid",
+ "edi_code": "",
+ "atc_code": "D11AF",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203091",
+ "revisions": [
+  {
+   "revision_id": "202203091-930e6d27",
+   "content_sha256": "930e6d27747b81852fb71165f67373d021b5a8be6183a83f7910f8bca9b220ed",
+   "ee_text": "티눈, 못(굳은살), 사마귀",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:28Z",
+   "last_observed_at": "2026-09-08T09:01:28Z",
+   "official_revision_date": "2022-07-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:28Z"
+}

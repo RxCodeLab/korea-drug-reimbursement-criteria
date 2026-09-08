@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906924",
+ "item_name": "렉스민캡슐(디오스민)",
+ "entp_name": "(주)시어스제약",
+ "permit_date": "20190930",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082272]디오스민",
+ "main_item_ingr_eng": "Diosmin",
+ "edi_code": "689001030",
+ "atc_code": "C05CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906924",
+ "revisions": [
+  {
+   "revision_id": "201906924-251b5722",
+   "content_sha256": "251b572282150fcbc879b21cc6aed6f7a1a268909e354ffefe9c3b6cb446de54",
+   "ee_text": "1. 정맥부전과 관련된 증상의 개선 : 다리 중압감, 통증 2. 모세혈관 취약증에 의한 장애의 보조치료 3. 치질과 관련된 징후의 치료",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:32Z",
+   "last_observed_at": "2026-09-08T08:56:32Z",
+   "official_revision_date": "2024-12-11"
+  },
+  {
+   "revision_id": "201906924-9d02b01d",
+   "content_sha256": "9d02b01d1bfa617ae12914499f2f2fac51e2d690df0c8bcc77932ed328238ed2",
+   "ee_text": "1. 치질 2. 다음 질환에 의한 여러 증상(하지중압감, 동통, 부종 등)의 개선 : 정맥류, 정맥부전(임신시 포함), 정맥염후증후군 3. 모세혈관취약증에 의한 출혈증상 : 자반증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-09-30",
+   "first_observed_at": "2026-09-08T08:56:32Z",
+   "last_observed_at": "2026-09-08T08:56:32Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:32Z"
+}

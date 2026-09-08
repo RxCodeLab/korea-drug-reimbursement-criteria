@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004686",
+ "item_name": "케로졸크림(케토코나졸)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20200626",
+ "cancel_date": "20250626",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M080618]케토코나졸",
+ "main_item_ingr_eng": "Ketoconazole",
+ "edi_code": "",
+ "atc_code": "D01AC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004686",
+ "revisions": [
+  {
+   "revision_id": "202004686-7667b84c",
+   "content_sha256": "7667b84c29f5ff1852f625df8e288be7142f944e063862610521a6b4f07295a1",
+   "ee_text": "다음의 피부진균증 : 1) 백선 : 체부백선, 완선, 족부백선 2) 피부칸디다증 3) 어루러기 4) 지루피부염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:11Z",
+   "last_observed_at": "2026-09-08T08:59:11Z",
+   "official_revision_date": "2020-06-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:11Z"
+}

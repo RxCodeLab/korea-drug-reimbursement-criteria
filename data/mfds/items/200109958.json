@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200109958",
+ "item_name": "아이알코돈정5밀리그램(옥시코돈염산염)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20011015",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M238042]옥시코돈염산염",
+ "main_item_ingr_eng": "Oxycodone Hydrochloride",
+ "edi_code": "649501370",
+ "atc_code": "N02AA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109958",
+ "revisions": [
+  {
+   "revision_id": "200109958-fbe5af36",
+   "content_sha256": "fbe5af361a00c89397e70fb9af247536406e820429968f3e5457b116c2e6c0f5",
+   "ee_text": "마약성 진통제 사용이 필요한 중등도 및 심한 통증의 완화",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:57Z",
+   "last_observed_at": "2026-09-08T08:35:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:57Z"
+}

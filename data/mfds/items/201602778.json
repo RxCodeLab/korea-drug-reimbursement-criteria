@@ -1,0 +1,68 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602778",
+ "item_name": "타그리소정80밀리그램(오시머티닙메실산염)",
+ "entp_name": "한국아스트라제네카(주)",
+ "permit_date": "20160519",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264019]오시머티닙메실산염",
+ "main_item_ingr_eng": "Osimertinib Mesylate",
+ "edi_code": "650700980",
+ "atc_code": "L01EB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602778",
+ "revisions": [
+  {
+   "revision_id": "201602778-f71f3c08",
+   "content_sha256": "f71f3c082b40882e99e76b3a6f2535e9bed3be4b1997f16833ca5f29ce66c0bb",
+   "ee_text": "단독요법 · EGFR 엑손 19 결손 또는 엑손 21(L858R) 치환 변이된 비소세포폐암 환자에서 완전 종양 절제술 후 보조 치료 ‧ EGFR 엑손 19 결손 또는 엑손 21 (L858R) 치환 변이가 있고 백금-기반 화학 방사선 요법 중 또는 후 질병이 진행되지 않은 절제 불가능한 국소 진행성(III기) 비소세포폐암 환자의 치료 · EGFR 엑손 19 결손 또는 엑손 21(L858R) 치환 변이된 국소 진행성 또는 전이성 비소세포폐암 환자의 1차 치료 · 이전에 EGFR-TKI로 치료 받은 적이 있는 EGFR T790M 변이 양성 국소 진행성 또는 전이성 비소세포폐암 환자의 치료 병용요법 · EGFR 엑손 19 결손 또는 엑손 21(L858R) 치환 변이된 국소 진행성 또는 전이성 비편평 비소세포폐암 환자의 1차 치료에서 페메트렉시드와 백금 기반 항암화학요법과 병용 요법",
+   "ee_doc_id": "40",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:37Z",
+   "last_observed_at": "2026-09-08T08:50:37Z",
+   "official_revision_date": "2024-12-06"
+  },
+  {
+   "revision_id": "201602778-14af1c8c",
+   "content_sha256": "14af1c8c7da6e2455b0f35a3af2b886d8f16780fc8e1cacc485c2c05f785b37c",
+   "ee_text": "단독요법 · EGFR 엑손 19 결손 또는 엑손 21(L858R) 치환 변이된 비소세포폐암 환자에서 완전 종양 절제술 후 보조 치료 · EGFR 엑손 19 결손 또는 엑손 21(L858R) 치환 변이된 국소 진행성 또는 전이성 비소세포폐암 환자의 1차 치료 · 이전에 EGFR-TKI로 치료 받은 적이 있는 EGFR T790M 변이 양성 국소 진행성 또는 전이성 비소세포폐암 환자의 치료 병용요법 · EGFR 엑손 19 결손 또는 엑손 21(L858R) 치환 변이된 국소 진행성 또는 전이성 비편평 비소세포폐암 환자의 1차 치료에서 페메트렉시드와 백금 기반 항암화학요법과 병용 요법",
+   "ee_doc_id": "38",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-04-15",
+   "first_observed_at": "2026-09-08T08:50:37Z",
+   "last_observed_at": "2026-09-08T08:50:37Z"
+  },
+  {
+   "revision_id": "201602778-952d1fb1",
+   "content_sha256": "952d1fb1685796e65bbc600b2c8a5eaa81529111420e18500575b52ae009c4e6",
+   "ee_text": "EGFR 엑손 19 결손 또는 엑손 21(L858R) 치환 변이된 비소세포폐암 환자에서 완전 종양 절제술 후 보조 치료 EGFR 엑손 19 결손 또는 엑손 21(L858R) 치환 변이된 국소 진행성 또는 전이성 비소세포폐암 환자의 1차 치료 이전에 EGFR-TKI로 치료 받은 적이 있는 EGFR T790M 변이 양성 국소 진행성 또는 전이성 비소세포폐암 환자의 치료",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-02-23",
+   "first_observed_at": "2026-09-08T08:50:37Z",
+   "last_observed_at": "2026-09-08T08:50:37Z"
+  },
+  {
+   "revision_id": "201602778-f0337a40",
+   "content_sha256": "f0337a4060251e73d732854054e8ebd120d16da558f9586a084ffdf9cc5593a9",
+   "ee_text": "EGFR 엑손 19 결손 또는 엑손 21(L858R) 치환 변이된 국소 진행성 또는 전이성 비소세포폐암 환자의 1차 치료 이전에 EGFR-TKI로 치료 받은 적이 있는 EGFR T790M 변이 양성 국소 진행성 또는 전이성 비소세포폐암 환자의 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-12-26",
+   "first_observed_at": "2026-09-08T08:50:37Z",
+   "last_observed_at": "2026-09-08T08:50:37Z"
+  },
+  {
+   "revision_id": "201602778-d6f09e04",
+   "content_sha256": "d6f09e044c3cfc411173ca3b39258847d5014c76c9d7e18c005197e4eb18a51c",
+   "ee_text": "이전에 EGFR-TKI로 치료 받은 적이 있는 T790M 변이 양성 국소 진행성 또는 전이성 비소세포폐암 환자의 치료 이 약의 유효성은 반응률 및 반응기간에 근거하였으며, 생존기간의 개선을 입증한 자료는 없다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:50:37Z",
+   "last_observed_at": "2026-09-08T08:50:37Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:37Z"
+}

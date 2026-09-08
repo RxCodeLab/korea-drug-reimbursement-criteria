@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201100382",
+ "item_name": "브리딘티점안액0.15%(브리모니딘타르타르산염)(1회용), 브리딘티점안액0.15%(브리모니딘타르타르산염)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20110125",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M251494]브리모니딘타르타르산염|[M251494]브리모니딘타르타르산염",
+ "main_item_ingr_eng": "Brimonidine Tartrate",
+ "edi_code": "645304221,645305951",
+ "atc_code": "S01EA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100382",
+ "revisions": [
+  {
+   "revision_id": "201100382-5f363721",
+   "content_sha256": "5f363721ddf91b9cd42f38d731a177f46bc636b8233d1d02d7c1020a0ae2026a",
+   "ee_text": "다음 질환의 안압 하강 : 개방각 녹내장, 고안압",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:26Z",
+   "last_observed_at": "2026-09-08T08:44:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:26Z"
+}

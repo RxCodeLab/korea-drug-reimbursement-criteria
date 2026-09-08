@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505868",
+ "item_name": "페부레인과립(페닐부틸산나트륨)",
+ "entp_name": "(주)이수앱지스",
+ "permit_date": "20150821",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102326]페닐부틸산나트륨",
+ "main_item_ingr_eng": "Sodium Phenylbutyrate",
+ "edi_code": "668500091",
+ "atc_code": "A16AX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505868",
+ "revisions": [
+  {
+   "revision_id": "201505868-f7f22335",
+   "content_sha256": "f7f22335723cd07589226d0a0109e071320628a00724e328f21fa13aafd7415c",
+   "ee_text": "다음 효소결핍을 수반하는 요소회로이상증 환자의 치료를 위한 보조요법 : Carbamylphosphate synthetase(CPS), Ornithine transcarbamylase(OTC) 또는 arginosiccinic acid synthetase(AS) 신생아형 효소결핍(생후 28일 이내에 나타나는 완전효소결핍) 환자 또는 고암모니아성 뇌증의 병력이 있는 후발효소결핍(생후 1개월 이후 나타나는 부분 효소결핍)이 있는 환자",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:30Z",
+   "last_observed_at": "2026-09-08T08:49:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:30Z"
+}

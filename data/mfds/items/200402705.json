@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402705",
+ "item_name": "키리스정(수출용)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20040114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083422]레비스티근|[M083423]로즈마리엽|[M084362]센토리초|[M099169]도그로스",
+ "main_item_ingr_eng": "Centaury/Dog Rose/Levistici Radix/Rosemary Leaf",
+ "edi_code": "",
+ "atc_code": "G04BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402705",
+ "revisions": [
+  {
+   "revision_id": "200402705-9216f26a",
+   "content_sha256": "9216f26a797ab06116c7b92b38756f806adba844e4de638e773ab1f2c53b48c0",
+   "ee_text": "만성 신장염,만성방광염,신증 및 요로결석 제거수술 후의 보조요법,요로결석증의 방지",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:07Z",
+   "last_observed_at": "2026-09-08T08:38:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:07Z"
+}

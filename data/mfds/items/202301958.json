@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301958",
+ "item_name": "제이투의료용이산화탄소",
+ "entp_name": "주식회사제이투가스",
+ "permit_date": "20230627",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040491]이산화탄소",
+ "main_item_ingr_eng": "Carbon Dioxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301958",
+ "revisions": [
+  {
+   "revision_id": "202301958-e901e335",
+   "content_sha256": "e901e335a6192106f18a6b73f56aed970686b4a3b212c63db5d2e79205bf1fce",
+   "ee_text": "의료용가스 (제제용)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:11Z",
+   "last_observed_at": "2026-09-08T09:02:11Z",
+   "official_revision_date": "2023-06-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:11Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005256",
+ "item_name": "한국유나이티드닥티노마이신주",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "20200722",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085416]닥티노마이신",
+ "main_item_ingr_eng": "Dactinomycin",
+ "edi_code": "",
+ "atc_code": "L01DA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005256",
+ "revisions": [
+  {
+   "revision_id": "202005256-03968a11",
+   "content_sha256": "03968a114ea08fd6476cc4a2350cfc8adc46d7fb8b52f6f247b84c41060de03a",
+   "ee_text": "윌름즈종양, 임신융모종양, 횡문근육종, 고환종양, 유잉육종",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:16Z",
+   "last_observed_at": "2026-09-08T08:59:16Z",
+   "official_revision_date": "2020-07-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:16Z"
+}

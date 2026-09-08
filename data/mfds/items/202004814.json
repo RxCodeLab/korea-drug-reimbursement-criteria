@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202004814",
+ "item_name": "챔피엑스정1밀리그램(바레니클린살리실산염)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20200702",
+ "cancel_date": "20250702",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M266101]바레니클린살리실산염",
+ "main_item_ingr_eng": "Varenicline Salicylate",
+ "edi_code": "",
+ "atc_code": "N07BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004814",
+ "revisions": [
+  {
+   "revision_id": "202004814-79eeaf18",
+   "content_sha256": "79eeaf18cf99e171faa4bb799b7612a9381801bfb70ab8f027501829b9ee0928",
+   "ee_text": "금연치료의 보조요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:12Z",
+   "last_observed_at": "2026-09-08T08:59:12Z",
+   "official_revision_date": "2020-07-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:12Z"
+}

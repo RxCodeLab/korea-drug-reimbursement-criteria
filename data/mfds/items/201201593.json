@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201201593",
+ "item_name": "리포더마주(히알루로니다제)",
+ "entp_name": "알보젠코리아(주)",
+ "permit_date": "20120309",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M209056]히알루로니다제",
+ "main_item_ingr_eng": "Hyaluronidase",
+ "edi_code": "",
+ "atc_code": "B06AA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201593",
+ "revisions": [
+  {
+   "revision_id": "201201593-8a5e7483",
+   "content_sha256": "8a5e74835e64e6680173572e1c36ecdf7f8319468061bc7f18c5bb0b88bb6fd0",
+   "ee_text": "○ 피하주사나 근육주사, 국소마취제 및 피하주입 시 침투력 증가 ○ 조직 내에 과다하게 존재하는 체액 및 혈액의 재흡수 촉진",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201201593/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:13Z",
+   "last_observed_at": "2026-09-08T08:45:13Z"
+  },
+  {
+   "revision_id": "201201593-77e91fd1",
+   "content_sha256": "77e91fd1635fdef64b74211adcd0043e825b1403e12dda55a01784dd80a82160",
+   "ee_text": "(주사제) ○ 피하주사나 근육주사, 국소마취제 및 피하주입 시 침투력 증가 ○ 조직 내에 과다하게 존재하는 체액 및 혈액의 재흡수 촉진",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:45:13Z",
+   "last_observed_at": "2026-09-08T08:45:13Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:13Z"
+}

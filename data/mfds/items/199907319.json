@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199907319",
+ "item_name": "벤토린네뷸2.5mg(살부타몰황산염)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "19990922",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223069]살부타몰황산염",
+ "main_item_ingr_eng": "Salbutamol Sulfate",
+ "edi_code": "650000452",
+ "atc_code": "R03AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907319",
+ "revisions": [
+  {
+   "revision_id": "199907319-fd188ff3",
+   "content_sha256": "fd188ff33d3955a22137f4d4a3ccc66c10358ce65a4f5e81ada840afc1c306b7",
+   "ee_text": "중증의 급성천식(천식지속상태의 치료), 통상요법으로 효과가 없는 만성기관지 경련의 처치",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:25Z",
+   "last_observed_at": "2026-09-08T08:33:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:25Z"
+}

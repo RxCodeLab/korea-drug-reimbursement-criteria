@@ -7,11 +7,12 @@
  "permit_date": "20000811",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040006]감초|[M040550]천궁|[M040535]지모|[M040225]복령|[M225911]산조인",
+ "main_item_ingr": "[M040006]감초|[M040225]복령|[M040535]지모|[M040550]천궁|[M225911]산조인",
  "main_item_ingr_eng": "Anemarrhena Rhizome/Cnidium Rhizome/Licorice/Poria/Zizyphus Seed",
  "edi_code": "",
  "atc_code": "N05CM",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005578",
+ "history_fetched_at": "2026-08-28T13:23:56Z",
  "revisions": [
   {
    "revision_id": "200005578-411199cf",
@@ -19,9 +20,9 @@
    "ee_text": "심신이 피로하고 허약하여 잠을 자지 못하는 경우",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:23:56Z",
-   "last_observed_at": "2026-08-28T13:23:56Z",
-   "official_revision_date": "2010-04-09"
+   "last_observed_at": "2026-09-08T08:34:23Z",
+   "official_revision_date": "2010-04-09",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:56Z"
+ ]
 }

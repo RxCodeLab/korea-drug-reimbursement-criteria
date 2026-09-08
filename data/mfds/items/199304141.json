@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199304141",
+ "item_name": "생비원(수출용)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "19930112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084423]알로에|[M104809]당약엑스(2.5:1)|[M201438]우담|[M228730]예덕엑스(6.25:1)|[M228731]울금엑스(2.5:1)|[M228732]대황엑스(2.5:1)|[M228733]겐치아나엑스(2.5:1)|[M228734]황백엑스(2.5:1)|[M228735]황련엑스(2.5:1)",
+ "main_item_ingr_eng": "Aloe/Bovis Fel/Coptis Rhizome Extract (2.5:1)/Curcuma Root Radix Extract (2.5:1)/Gentian Extract (2.5:1)/Mallotus Japonia Extract (6.25:1)/Phellodendron Bark Extract (2.5:1)/Rhubarb Extract (2.5:1)/Swertia Herb Extract (2.5:1)",
+ "edi_code": "",
+ "atc_code": "A16AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199304141",
+ "revisions": [
+  {
+   "revision_id": "199304141-8644e07f",
+   "content_sha256": "8644e07f0ee711bca0d2d864b332ddf1ba5dac3cad6a88cf655bf4c9a306b8f9",
+   "ee_text": "식욕부진(식욕감퇴), 위부팽만감, 소화불량, 과음, 과식, 식체(위체), 구역, 구토, 정장, 묽은변, 변비, 복부팽만감, 장내이상 발효",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:57Z",
+   "last_observed_at": "2026-09-08T08:28:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:57Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600088",
+ "item_name": "람제데주10밀리그램(벨마나제알파)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20260112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286032]벨마나제알파",
+ "main_item_ingr_eng": "Velmanase Alfa",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600088",
+ "revisions": [
+  {
+   "revision_id": "202600088-eaedeb7d",
+   "content_sha256": "eaedeb7d59492b55cc93d8de4b8ff7d0713da7206636c4d60a0bf49dbfdf93cc",
+   "ee_text": "알파-만노사이드축적증 환자의 비-중추신경계 증상치료를 위한 효소 대체 요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:38Z",
+   "last_observed_at": "2026-09-08T09:04:38Z",
+   "official_revision_date": "2026-01-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:38Z"
+}

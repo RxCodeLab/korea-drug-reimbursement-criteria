@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600506",
+ "item_name": "모겐쿨스프레이",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20160126",
+ "cancel_date": "20260126",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M095125]수용성아줄렌|[M250372]세틸피리디늄염화물수화물",
+ "main_item_ingr_eng": "Cetylpyridinium Chloride Hydrate/Soluble Azulene",
+ "edi_code": "",
+ "atc_code": "A01AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600506",
+ "revisions": [
+  {
+   "revision_id": "201600506-0eeeff1b",
+   "content_sha256": "0eeeff1bdba593b13371baebe8c5ab7025704f6c39881317c4c612b2f1d031c9",
+   "ee_text": "목(인후)의 염증으로 인한 목의 통증, 목의 부종, 목의 불쾌감, 목이 쉼, 구내염",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:09Z",
+   "last_observed_at": "2026-09-08T08:50:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:09Z"
+}

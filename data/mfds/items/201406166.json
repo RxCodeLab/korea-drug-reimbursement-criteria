@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201406166",
+ "item_name": "호이콜정100밀리그램(카모스타트메실산염)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20141231",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249049]카모스타트메실산염",
+ "main_item_ingr_eng": "Camostat Mesylate",
+ "edi_code": "659900930",
+ "atc_code": "B02AB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406166",
+ "revisions": [
+  {
+   "revision_id": "201406166-4d43fa43",
+   "content_sha256": "4d43fa43e57466aff9af72e1c114777db56bebc49d1aafa89e2281c4ed5fb61c",
+   "ee_text": "○ 단백분해 효소(트립신, 칼리크레인, 플라스민 등)의 일탈에 의한 만성췌장염의 급성증상의 완화 ○ 위절제 수술 후 역류성 식도염",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:12Z",
+   "last_observed_at": "2026-09-08T08:48:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:12Z"
+}

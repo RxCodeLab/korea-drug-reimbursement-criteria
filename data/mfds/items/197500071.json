@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197500071",
+ "item_name": "대한5%레브로즈(과당주사액)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "19750122",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040024]과당",
+ "main_item_ingr_eng": "Fructose",
+ "edi_code": "645100211",
+ "atc_code": "B05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197500071",
+ "revisions": [
+  {
+   "revision_id": "197500071-926e4510",
+   "content_sha256": "926e45101c9263d59e4176856073c77bb0f1fa825fd735ce8eb268c46c1c7f5c",
+   "ee_text": "1. 당뇨병 및 당뇨병 상태시의 에너지 보급 2. 약물중독, 알콜중독 3. 기타 비경구적으로 수분·에너지 보급을 필요로 하는 경우 4. 주사제의 용해희석제",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:21Z",
+   "last_observed_at": "2026-09-08T08:26:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:21Z"
+}

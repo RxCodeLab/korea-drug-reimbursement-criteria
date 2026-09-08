@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102137",
+ "item_name": "네오로닌관류제",
+ "entp_name": "(주)한국비엠아이",
+ "permit_date": "20210308",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202893]네오마이신황산염|[M233313]폴리믹신B황산염",
+ "main_item_ingr_eng": "Neomycin Sulfate/Polymyxin B Sulfate",
+ "edi_code": "",
+ "atc_code": "B05CA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102137",
+ "revisions": [
+  {
+   "revision_id": "202102137-d034754d",
+   "content_sha256": "d034754ded1e0316d362aece6b15907af105b131fbc4f686d8a80c210820f6d6",
+   "ee_text": "유치 카테터가 삽입된 환자의 감염 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:01Z",
+   "last_observed_at": "2026-09-08T09:00:01Z",
+   "official_revision_date": "2021-03-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:01Z"
+}

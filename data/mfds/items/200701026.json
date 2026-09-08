@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200701026",
+ "item_name": "네오폴신연고(수출용)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "20070124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020054]바시트라신|[M202893]네오마이신황산염|[M233313]폴리믹신B황산염",
+ "main_item_ingr_eng": "Bacitracin/Neomycin Sulfate/Polymyxin B Sulfate",
+ "edi_code": "",
+ "atc_code": "D06AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701026",
+ "revisions": [
+  {
+   "revision_id": "200701026-98e72d9e",
+   "content_sha256": "98e72d9eebbde1e222bb4a651a0517ea808eb23ccda9f28aa4c9fee9e1b1e14f",
+   "ee_text": "경미한 베인 상처, 긁힌 상처, 화상의 감염 방지",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:57Z",
+   "last_observed_at": "2026-09-08T08:40:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:57Z"
+}

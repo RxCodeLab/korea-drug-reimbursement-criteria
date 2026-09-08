@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200003802",
+ "item_name": "제포정8밀리그램(로녹시캄)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20000522",
+ "cancel_date": "20240401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M088931]로녹시캄",
+ "main_item_ingr_eng": "Lornoxicam",
+ "edi_code": "",
+ "atc_code": "M01AC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200003802",
+ "revisions": [
+  {
+   "revision_id": "200003802-f1f8cd6e",
+   "content_sha256": "f1f8cd6e215aa1cc0601ffa7672498613bf74eea279d90ca4819e4cb3ea058fc",
+   "ee_text": "1. 류마티스관절염, 골관절염(퇴행관절염) 2. 요통, 발치후 통증",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:12Z",
+   "last_observed_at": "2026-09-08T08:34:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:12Z"
+}

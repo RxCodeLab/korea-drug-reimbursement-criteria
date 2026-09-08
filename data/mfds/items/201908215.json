@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908215",
+ "item_name": "티브린정2.5밀리그램(티볼론)",
+ "entp_name": "지엘팜텍(주)",
+ "permit_date": "20191203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083880]티볼론",
+ "main_item_ingr_eng": "Tibolone",
+ "edi_code": "649702390",
+ "atc_code": "G03CX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908215",
+ "revisions": [
+  {
+   "revision_id": "201908215-0ddacf2d",
+   "content_sha256": "0ddacf2d6f1d1a501d1b8f2e2ff80d2ae4e87fb77a7bd5883ffa4b56255793d8",
+   "ee_text": "1) 폐경 후(마지막 생리 후 최소 1년이 경과된 시점) 여성의 에스트로겐 결핍 증상 2) (다른 골다공증 예방약이 금기이거나 내약성이 없는 경우) 골절 위험성이 높은 폐경 이후 여성의 골다공증 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:12Z",
+   "last_observed_at": "2026-09-08T08:57:12Z",
+   "official_revision_date": "2019-12-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:12Z"
+}

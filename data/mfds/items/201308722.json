@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308722",
+ "item_name": "코러스주사용수(바이알)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20130808",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040534]주사용수",
+ "main_item_ingr_eng": "Water For Injection",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308722",
+ "revisions": [
+  {
+   "revision_id": "201308722-b119638e",
+   "content_sha256": "b119638e8e876bb9f1b46c0e56049ec78798af6861722a02823acfdaedf845b5",
+   "ee_text": "각종 주사제의 용제",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:14Z",
+   "last_observed_at": "2026-09-08T08:46:14Z",
+   "official_revision_date": "2023-08-21"
+  },
+  {
+   "revision_id": "201308722-942c1d9c",
+   "content_sha256": "942c1d9c899a61151965cb5f448fd12ddae1838d5602695ec4ce646e93470de7",
+   "ee_text": "주사제의 용제로 사용한다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:46:14Z",
+   "last_observed_at": "2026-09-08T08:46:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:14Z"
+}

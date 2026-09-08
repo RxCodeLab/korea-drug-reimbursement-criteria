@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302243",
+ "item_name": "라온크림(클로르헥시딘글루콘산염액)",
+ "entp_name": "(주)두원사이언스제약",
+ "permit_date": "20230725",
+ "cancel_date": "20250219",
+ "status": "행정(취소)",
+ "main_item_ingr": "[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "",
+ "atc_code": "D08AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302243",
+ "revisions": [
+  {
+   "revision_id": "202302243-df22cf65",
+   "content_sha256": "df22cf6547040a2ac0accf0045d5b947c5a7c8174f3e08f38b0c54d38b6ce63d",
+   "ee_text": "- 좁은 범위 피부의 창상부위 소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:15Z",
+   "last_observed_at": "2026-09-08T09:02:15Z",
+   "official_revision_date": "2023-07-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:15Z"
+}

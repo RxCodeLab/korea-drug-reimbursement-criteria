@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202102233",
+ "item_name": "릴라이온페라세이프산(과탄산나트륨)",
+ "entp_name": "(주)나노팜",
+ "permit_date": "20210310",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095079]과탄산나트륨",
+ "main_item_ingr_eng": "Sodium Percarbonate",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102233",
+ "revisions": [
+  {
+   "revision_id": "202102233-9a643179",
+   "content_sha256": "9a6431798b301a92081c16adae4b2e4696b45610b6e5c48e7d7a5ae555ee1bb6",
+   "ee_text": "의료기구의 소독 및 멸균 (열에 민감한 내시경 포함)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:02Z",
+   "last_observed_at": "2026-09-08T09:00:02Z",
+   "official_revision_date": "2021-03-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:02Z"
+}

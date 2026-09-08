@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400200",
+ "item_name": "유유마이코부틴캡슐(리파부틴)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20040705",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089091]리파부틴",
+ "main_item_ingr_eng": "Rifabutin",
+ "edi_code": "644500750",
+ "atc_code": "J04AB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400200",
+ "revisions": [
+  {
+   "revision_id": "200400200-6a5bcae8",
+   "content_sha256": "6a5bcae86082b9343d176165c5ac86316333de8114a19c46176ef573a121e065",
+   "ee_text": "1. CD4 림프구수가 200cells/μL 이하의 면역기능저하환자에 있어서 Mycobacterium avium intracellulare complex(MAC) 감염억제 2. 비결핵성 마이코박테리아에 의한 감염증 3. 폐결핵",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:30Z",
+   "last_observed_at": "2026-09-08T08:37:30Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:30Z"
+}

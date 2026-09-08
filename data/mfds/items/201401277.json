@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401277",
+ "item_name": "대덕의료용질소",
+ "entp_name": "대덕가스(주)",
+ "permit_date": "19980108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040542]질소",
+ "main_item_ingr_eng": "Nitrogen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401277",
+ "revisions": [
+  {
+   "revision_id": "201401277-749303d5",
+   "content_sha256": "749303d512e4eea11c58788bd5b1c9bd459cd3a354fec99b6af023acb16a0d0c",
+   "ee_text": "의료용가스 제제용",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:52Z",
+   "last_observed_at": "2026-09-08T08:46:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:52Z"
+}

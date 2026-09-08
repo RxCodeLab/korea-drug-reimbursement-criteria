@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199400746",
+ "item_name": "암스펜시럽",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "19940615",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222889]클렌부테롤염산염|[M233843]암브록솔염산염",
+ "main_item_ingr_eng": "Ambroxol Hydrochloride/Clenbuterol Hydrochloride",
+ "edi_code": "645202142",
+ "atc_code": "R03CC63",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400746",
+ "revisions": [
+  {
+   "revision_id": "199400746-66bffb5a",
+   "content_sha256": "66bffb5a2d06e8c2abbeca3a0e0e9f0ca210ae60079f82ad80dae46be04b8ea6",
+   "ee_text": "다음 질환에서의 기관지경련 및 점액과다분비 : 기관지 천식, 폐기종, 기관지염",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:10Z",
+   "last_observed_at": "2026-09-08T08:29:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:10Z"
+}

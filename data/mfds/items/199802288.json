@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199802288",
+ "item_name": "프라섹캡슐(오메프라졸)",
+ "entp_name": "하나제약(주)",
+ "permit_date": "19980221",
+ "cancel_date": "20250401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M083697]오메프라졸장용성과립|[M083697]오메프라졸장용성과립",
+ "main_item_ingr_eng": "Omeprazole Enteric Coated Granules",
+ "edi_code": "",
+ "atc_code": "A02BC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802288",
+ "revisions": [
+  {
+   "revision_id": "199802288-2f93cf2d",
+   "content_sha256": "2f93cf2d5db0ac9561d9013ae2587cbcba32ebe0cd953d86971fbb773655a53c",
+   "ee_text": "- 위궤양, 십이지장궤양의 단기치료 - 역류성 식도염 및 위식도 역류질환(GERD)의 증상(가슴앓이, 토출 등) 치료 - 심한 역류성 식도염과 잘 치료되지 않는 소화성궤양의 유지요법 - 졸링거엘리슨 증후군 - Helicobacter pylori 에 감염된 십이지장궤양의 재발 방지를 위한 항생제 병용요법 - 비스테로이드성 소염진통제(NSAID) 투여로 인한 위ㆍ십이지장궤양 또는 미란의 치료 - 위ㆍ십이지장 병변의 병력이 있는 비스테로이드성 소염진통제(NSAID) 장기투여 환자에서 NSAID 투여로 인한 위ㆍ십이지장궤양 또는 미란 및 소화불량증상의 예방 - 역류성식도염의 재발방지",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:05Z",
+   "last_observed_at": "2026-09-08T08:32:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:05Z"
+}

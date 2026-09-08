@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000620",
+ "item_name": "잘프펜정(잘토프로펜)",
+ "entp_name": "건일바이오팜주식회사",
+ "permit_date": "20200204",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086829]잘토프로펜",
+ "main_item_ingr_eng": "Zaltoprofen",
+ "edi_code": "073000660",
+ "atc_code": "M01AE",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000620",
+ "revisions": [
+  {
+   "revision_id": "202000620-e9a02a51",
+   "content_sha256": "e9a02a51e37e76a67bdbc8ad32c236f30806e4943a1b1542d917d63d6c051f0b",
+   "ee_text": "1. 다음 질환 및 증상의 소염·진통 : 만성 류마티스관절염, 골관절염(퇴행관절염), 요통, 견괄절주위염, 경견완증후군 2. 수술후, 외상후 및 발치 후의 소염·진통",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:42Z",
+   "last_observed_at": "2026-09-08T08:57:42Z",
+   "official_revision_date": "2022-02-11"
+  },
+  {
+   "revision_id": "202000620-9528f313",
+   "content_sha256": "9528f31396a2a355670ee05c2f93488d74cbe458d03792bef31c630aae88f592",
+   "ee_text": "1. 다음 질환 및 증상의 소염·진통 : 만성 류마티스관절염, 골관절염(퇴행관절염), 요통, 견괄절주위염, 경견완증후군 2. 수술후, 외상후 및 발 후의 소염·진통",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-02-04",
+   "first_observed_at": "2026-09-08T08:57:42Z",
+   "last_observed_at": "2026-09-08T08:57:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:42Z"
+}

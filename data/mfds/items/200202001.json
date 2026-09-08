@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200202001",
+ "item_name": "아크로빈크림(아시클로버)",
+ "entp_name": "에스케이케미칼(주)",
+ "permit_date": "20020315",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "644701111",
+ "atc_code": "D06BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202001",
+ "revisions": [
+  {
+   "revision_id": "200202001-d13fd9e5",
+   "content_sha256": "d13fd9e5771f019b71be58021d33dbfeb34dbda886b7135a2bad55b830d2f63a",
+   "ee_text": "단순 포진(물집) 바이러스 감염증(초기 및 재발성 생식기 포진(물집)과 구순포진(물집) 포함)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:18Z",
+   "last_observed_at": "2026-09-08T08:36:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:18Z"
+}

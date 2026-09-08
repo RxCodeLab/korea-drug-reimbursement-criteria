@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198701383",
+ "item_name": "메디락디에스장용캡슐",
+ "entp_name": "한미약품(주)",
+ "permit_date": "19870608",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080610]바실루스서브틸리스균|[M263434]엔테로코쿠스페슘균",
+ "main_item_ingr_eng": "Bacillus Subtilis/Enterococcus Faecium Culture",
+ "edi_code": "643500900",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198701383",
+ "revisions": [
+  {
+   "revision_id": "198701383-a13348c6",
+   "content_sha256": "a13348c67da4a18444153ab8c9733e07afe65541e01ad2ff82c2ede164e9c386",
+   "ee_text": "정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:25Z",
+   "last_observed_at": "2026-09-08T08:27:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:25Z"
+}

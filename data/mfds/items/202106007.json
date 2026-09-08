@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106007",
+ "item_name": "피알황산마그네슘수화물주100mg(황산마그네슘수화물)",
+ "entp_name": "(주)파마리서치",
+ "permit_date": "20210818",
+ "cancel_date": "20260212",
+ "status": "취하",
+ "main_item_ingr": "[M080356]황산마그네슘수화물",
+ "main_item_ingr_eng": "Magnesium Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106007",
+ "revisions": [
+  {
+   "revision_id": "202106007-8f0700cf",
+   "content_sha256": "8f0700cf94fa1e2566f7ef8cf26699c7c82081272caf7fc4b347b75820e780cf",
+   "ee_text": "경련, 자간증의 발작, 자궁경직 방지, 전해질보급(저마그네슘혈증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:28Z",
+   "last_observed_at": "2026-09-08T09:00:28Z",
+   "official_revision_date": "2021-08-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:28Z"
+}

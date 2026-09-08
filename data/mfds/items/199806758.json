@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199806758",
+ "item_name": "1.도타렘주 2.도타렘주프리필드시린지",
+ "entp_name": "게르베코리아(주)",
+ "permit_date": "19981217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040141]메글루민|[M040141]메글루민|[M086220]도타|[M086220]도타|[M086651]산화가돌리늄|[M086651]산화가돌리늄",
+ "main_item_ingr_eng": "DOTA/Gadolinium Oxide/Meglumine",
+ "edi_code": "654900011,654900021,654900031,654900041,654900051,654900061",
+ "atc_code": "V08CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806758",
+ "revisions": [
+  {
+   "revision_id": "199806758-5f2ec2dd",
+   "content_sha256": "5f2ec2dddd6925d10cbeeb481cc2ee8b5ed5dd17ed5783b28f14fe7b7d077a06",
+   "ee_text": "1. 뇌신경계 및 척추의 자기공명영상(MRI) 조영제 2. 체부(MR혈관조영 포함)의 자기공명영상(MRI) 조영제",
+   "ee_doc_id": "24",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:26Z",
+   "last_observed_at": "2026-09-08T08:32:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:26Z"
+}

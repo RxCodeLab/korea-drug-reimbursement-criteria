@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400385",
+ "item_name": "아진팜큐정",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20240222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050379]리파제|[M051231]락토바실루스스포로게네스균|[M110317]판크레아틴 장용과립|[M249085]시메티콘산|[M262325]디아스타제·프로테아제N1",
+ "main_item_ingr_eng": "Diastase·Protease N 1/Lactobacillus Sporogenes/Lipase/Pancreatin Enteric Coated Granules/Simethicone Powder",
+ "edi_code": "",
+ "atc_code": "A09AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400385",
+ "revisions": [
+  {
+   "revision_id": "202400385-2cd8d905",
+   "content_sha256": "2cd8d9053861b9287659494e19629ef77f4ae9f598c6e95921b4a79d31aea7d2",
+   "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 위한 위부팽만감, 정장, 변비, 묽은 변, 복부팽만감, 장내이상발효",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:44Z",
+   "last_observed_at": "2026-09-08T09:02:44Z",
+   "official_revision_date": "2024-02-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:44Z"
+}

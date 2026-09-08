@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201906",
+ "item_name": "위소탄-에프정",
+ "entp_name": "한국넬슨제약(주)",
+ "permit_date": "20020403",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040629]탄산마그네슘|[M242935]건조수산화알루미늄겔",
+ "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel/Magnesium Carbonate",
+ "edi_code": "",
+ "atc_code": "A02AD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201906",
+ "revisions": [
+  {
+   "revision_id": "200201906-78ae02c8",
+   "content_sha256": "78ae02c8b21e04af5bc22992e5fb5409fe4dabae4e072fa927f95e2d0ffca782",
+   "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 식체(위체), 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:16Z",
+   "last_observed_at": "2026-09-08T08:36:16Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:16Z"
+}

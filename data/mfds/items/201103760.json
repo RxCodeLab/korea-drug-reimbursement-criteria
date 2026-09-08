@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201103760",
+ "item_name": "프로핸스주(가도테리돌)",
+ "entp_name": "브라코이미징코리아(유)",
+ "permit_date": "20110609",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252334]가도테리돌",
+ "main_item_ingr_eng": "Gadoteridol",
+ "edi_code": "621400071",
+ "atc_code": "V08CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103760",
+ "revisions": [
+  {
+   "revision_id": "201103760-91fc3f87",
+   "content_sha256": "91fc3f87a653306ea23a6d4ad9647dd03bf5768cd0157eee47724bb9767010ce",
+   "ee_text": "1) 중추신경계(뇌, 척추 및 그 관련 조직)의 자기공명영상(MRI) 조영제 2) 체부의 자기공명영상(MRI) 조영제",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:41Z",
+   "last_observed_at": "2026-09-08T08:44:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:41Z"
+}

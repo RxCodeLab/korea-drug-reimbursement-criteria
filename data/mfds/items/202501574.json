@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501574",
+ "item_name": "태경의료용산소",
+ "entp_name": "태경에코(주)",
+ "permit_date": "20250625",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040256]산소",
+ "main_item_ingr_eng": "Oxygen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501574",
+ "revisions": [
+  {
+   "revision_id": "202501574-c8ec2bea",
+   "content_sha256": "c8ec2bea2f61e5ed94179c270ba03a04c668e2ffe4837630ba4b6f66a746ec2d",
+   "ee_text": "의료용가스 다음과 같은 광범위한 질환에서의 산소결핍증 치료 -호흡근의 마비 -일산화탄소 중독 -출혈, 외상, 쇼크 -마취 시의 호흡마비 -중증의 심질환(순환계 허탈 등) -폐부종 등으로 인한 기도의 폐쇄 -폐쇄 순환 마취 시 단독 투여 또는 이산화탄소와 병용투여",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:01Z",
+   "last_observed_at": "2026-09-08T09:04:01Z",
+   "official_revision_date": "2025-06-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:01Z"
+}

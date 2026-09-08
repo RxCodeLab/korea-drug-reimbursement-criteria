@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201630",
+ "item_name": "스파스몰리트당의정(트로스퓸염화물)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19921010",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250033]트로스퓸염화물",
+ "main_item_ingr_eng": "Trospium Chloride",
+ "edi_code": "642201290",
+ "atc_code": "G04BD09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201630",
+ "revisions": [
+  {
+   "revision_id": "199201630-c5e194b5",
+   "content_sha256": "c5e194b5ebb06096b41a4fdd196446d1e665d42b617846fb65b33594cdc8e087",
+   "ee_text": "하부요로폐쇄에 의하지 않은 방광기능 이상에 의한 다음 질환 : 빈뇨, 야간다뇨, 과민성 방광, 절박 요실금",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:28Z",
+   "last_observed_at": "2026-09-08T08:28:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:28Z"
+}

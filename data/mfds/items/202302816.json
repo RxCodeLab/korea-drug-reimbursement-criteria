@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302816",
+ "item_name": "아키가정50/500밀리그램",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20230925",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M262177]아비라테론아세테이트(미분화)|[M269158]니라파립토실산염일수화물",
+ "main_item_ingr_eng": "Abiraterone Acetate Micronized/Niraparib Tosylate Monohydrate",
+ "edi_code": "",
+ "atc_code": "L01XK52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302816",
+ "revisions": [
+  {
+   "revision_id": "202302816-8c146380",
+   "content_sha256": "8c146380b36d5a7059765f139affe008d58256473eb06db254d57109d6ee380a",
+   "ee_text": "BRCA 변이 전이성 거세 저항성 전립선암 진단 후 항암화학요법 치료경험이 없는 성인 환자의 프레드니솔론과 병용 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:24Z",
+   "last_observed_at": "2026-09-08T09:02:24Z",
+   "official_revision_date": "2023-09-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:24Z"
+}

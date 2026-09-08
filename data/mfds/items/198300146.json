@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:37:42Z",
  "revisions": [
   {
-   "revision_id": "198300146-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "198300146-4a3f0888",
+   "content_sha256": "4a3f0888d243b57d9ce2ff7e6932eccbe9f7aa42bacdf2f3b7b5dca69274e4fb",
+   "ee_text": "1. 윌슨병 2. 시스틴뇨증, 시스틴결석증 3. 류마티스관절염 4. 납 또는 수은중독 5. 만성간염 6. 피부경화증",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198300146/EE",
    "first_observed_at": "2026-08-27T13:37:42Z",
-   "last_observed_at": "2026-08-28T13:23:39Z"
+   "last_observed_at": "2026-09-08T08:26:51Z",
+   "normalizer_version": 3
   }
  ]
 }

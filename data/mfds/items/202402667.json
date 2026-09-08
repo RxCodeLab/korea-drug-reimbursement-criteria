@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402667",
+ "item_name": "피나베린듀오정(미녹시딜,피나스테리드)(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20241111",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081480]미녹시딜|[M089174]피나스테리드",
+ "main_item_ingr_eng": "Finasteride/Minoxidil",
+ "edi_code": "",
+ "atc_code": "D11AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402667",
+ "revisions": [
+  {
+   "revision_id": "202402667-ec0d4928",
+   "content_sha256": "ec0d4928c8d6c93f5a7bd95d0fe2e56e2512116d6c0279b78aa25c3d883f7010",
+   "ee_text": "성인남성(만 18~41세)의 남성형 탈모증(안드로겐 탈모증)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:26Z",
+   "last_observed_at": "2026-09-08T09:03:26Z",
+   "official_revision_date": "2024-11-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:26Z"
+}

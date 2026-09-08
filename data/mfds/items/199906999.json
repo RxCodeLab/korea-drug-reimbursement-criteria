@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199906999",
+ "item_name": "스테리-가스EO카트리지",
+ "entp_name": "솔벤텀코리아주식회사",
+ "permit_date": "19990413",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254144]산화에틸렌",
+ "main_item_ingr_eng": "Ethylene Oxide",
+ "edi_code": "641000020",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199906999",
+ "revisions": [
+  {
+   "revision_id": "199906999-b7279c1a",
+   "content_sha256": "b7279c1a7c9b3e59856f6c544fa4bc9fce7e020946fe4ffc22aebd8ce14b7ac9",
+   "ee_text": "의료용 기재등의 소독멸균",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:17Z",
+   "last_observed_at": "2026-09-08T08:33:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:17Z"
+}

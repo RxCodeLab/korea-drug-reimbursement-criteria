@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203492",
+ "item_name": "핀쥬베스프레이(피나스테리드)",
+ "entp_name": "(주)보령",
+ "permit_date": "20220906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089174]피나스테리드",
+ "main_item_ingr_eng": "Finasteride",
+ "edi_code": "",
+ "atc_code": "D11AX10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203492",
+ "revisions": [
+  {
+   "revision_id": "202203492-187b4004",
+   "content_sha256": "187b4004f67c5f1e393f1660180b244c409e6c4c42d9a3b149d8976101583cac",
+   "ee_text": "성인 남성(만 18세 ~41세)의 경증 내지 중등도 남성형 탈모증(안드로겐 탈모증) 치료",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202203492/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:32Z",
+   "last_observed_at": "2026-09-08T09:01:32Z"
+  },
+  {
+   "revision_id": "202203492-5f118716",
+   "content_sha256": "5f118716f2b60a405e0d4523ee1311057aa47be27d2ec1a1cb07ddeab0cc19d0",
+   "ee_text": "성인 남성(만 18세 ~41세)의 경증 내지 중등도 남성형 탈모증(안드로겐 탈모증)의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-09-06",
+   "first_observed_at": "2026-09-08T09:01:32Z",
+   "last_observed_at": "2026-09-08T09:01:32Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:32Z"
+}

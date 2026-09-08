@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606897",
+ "item_name": "이부쎈에프정(이부프로펜아르기닌)",
+ "entp_name": "(주)마더스제약",
+ "permit_date": "20161202",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M209277]이부프로펜아르기닌",
+ "main_item_ingr_eng": "Ibuprofen Arginine",
+ "edi_code": "",
+ "atc_code": "M01AE51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606897",
+ "revisions": [
+  {
+   "revision_id": "201606897-10eae66c",
+   "content_sha256": "10eae66c22faca538a47789e72795b1cf23d3c7b249ebc0f6941e7ed5ea03ee5",
+   "ee_text": "류마티스 관절염, 골관절염, 배통, 두통, 월경통, 외상후 소염ㆍ진통, 유행성 감기로 인한 발열 및 통증",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:21Z",
+   "last_observed_at": "2026-09-08T08:51:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:21Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106628",
+ "item_name": "센스데이큐정",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20210924",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095487]레보노르게스트렐|[M223147]에티닐에스트라디올",
+ "main_item_ingr_eng": "Ethinyl Estradiol/Levonorgestrel",
+ "edi_code": "",
+ "atc_code": "G03AA07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106628",
+ "revisions": [
+  {
+   "revision_id": "202106628-f9a4c1b4",
+   "content_sha256": "f9a4c1b4bea615ae56c8cc1f8fbf4953c15b232c9f7c87efb7e70025a204b856",
+   "ee_text": "- 피임 - 이 약을 복용할 수 있는 여성의 중등도의 여드름 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:36Z",
+   "last_observed_at": "2026-09-08T09:00:36Z",
+   "official_revision_date": "2021-09-24"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:36Z"
+}

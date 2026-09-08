@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104142",
+ "item_name": "제일파네린정",
+ "entp_name": "제일헬스사이언스(주)",
+ "permit_date": "20210525",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223276]파파베린염산염|[M256709]디시클로민염산염",
+ "main_item_ingr_eng": "Dicyclomine Hydrochloride/Papaverine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A03AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104142",
+ "revisions": [
+  {
+   "revision_id": "202104142-610e3447",
+   "content_sha256": "610e34470bed5f99f25d9304b6320858b2b8567c3ee5553e8d9d6eb2d7d150c4",
+   "ee_text": "위통, 복통(배아픔), 산통, 위산과다, 속쓰림",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:14Z",
+   "last_observed_at": "2026-09-08T09:00:14Z",
+   "official_revision_date": "2025-10-20"
+  },
+  {
+   "revision_id": "202104142-f51fb018",
+   "content_sha256": "f51fb018119299ec056c4df3a16c6a7d8f247b3f525a094af9ec0b949c7df670",
+   "ee_text": "위통, 복통, 산통, 위산과다, 속쓰림",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-05-25",
+   "first_observed_at": "2026-09-08T09:00:14Z",
+   "last_observed_at": "2026-09-08T09:00:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:14Z"
+}

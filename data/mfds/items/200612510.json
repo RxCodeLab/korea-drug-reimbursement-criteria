@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200612510",
+ "item_name": "타라신주(케토롤락트로메타민)",
+ "entp_name": "지피테라퓨틱스코리아주식회사",
+ "permit_date": "20061219",
+ "cancel_date": "20250916",
+ "status": "취하",
+ "main_item_ingr": "[M084703]케토롤락트로메타민",
+ "main_item_ingr_eng": "Ketorolac Tromethamine",
+ "edi_code": "",
+ "atc_code": "M01AB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200612510",
+ "revisions": [
+  {
+   "revision_id": "200612510-0c62c6d0",
+   "content_sha256": "0c62c6d0a45b4243bc0b255114056da72dbec92da165d449c063e79d6dd35b76",
+   "ee_text": "1. 중등도 및 중증의 급성통증(수술후 통증 포함)에 대한 단기요법 2. 2세 이상의 소아 마약성 진통제가 금기인 중증의 수술후 통증",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:49Z",
+   "last_observed_at": "2026-09-08T08:40:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:49Z"
+}

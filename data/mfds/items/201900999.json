@@ -7,11 +7,12 @@
  "permit_date": "20190219",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M096428]벤포티아민|[M243601]판토텐산칼슘|[M247683]콜린타르타르산염|[M040488]이노시톨|[M222995]리보플라빈부티레이트|[M040064]니코틴산아미드|[M255994]시아노코발라민1000배산|[M204304]피리독신염산염|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040488]이노시톨|[M096428]벤포티아민|[M204304]피리독신염산염|[M222995]리보플라빈부티레이트|[M243601]판토텐산칼슘|[M247683]콜린타르타르산염|[M255994]시아노코발라민1000배산|[M256191]콘드로이틴설페이트나트륨",
  "main_item_ingr_eng": "Benfotiamine/Calcium Pantothenate/Choline Tartrate/Cyanocobalamin Powder 0.1%/Inositol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Sodium Chondroitin Sulfate",
  "edi_code": "",
  "atc_code": "A11EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900999",
+ "history_fetched_at": "2026-08-28T13:25:04Z",
  "revisions": [
   {
    "revision_id": "201900999-1b657792",
@@ -19,7 +20,8 @@
    "ee_text": "1. 다음의 경우의 비타민 B 1 , B 2 , B 6 의 보급 - 육체피로 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. · 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) · 각기 · 눈의 피로",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201900999/EE",
    "first_observed_at": "2026-08-28T13:25:04Z",
-   "last_observed_at": "2026-08-28T13:25:04Z"
+   "last_observed_at": "2026-09-08T08:54:17Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201900999-f67d3426",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:25:04Z",
    "last_observed_at": "2026-08-28T13:25:04Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:04Z"
+ ]
 }

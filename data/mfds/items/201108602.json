@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201108602",
+ "item_name": "안국시프로플록사신점안액(수출용)",
+ "entp_name": "안국약품(주)",
+ "permit_date": "20111014",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M095543]염산시프로플록사신",
+ "main_item_ingr_eng": "Ciprofloxacin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "S01AE03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201108602",
+ "revisions": [
+  {
+   "revision_id": "201108602-1f28f836",
+   "content_sha256": "1f28f836382dddbcc1b907f9d8e7198d0bc1fc3edead072c85602443977791fe",
+   "ee_text": "ㆍ 다음균종에 의한 각막궤양 치료 - 녹농균(Pseudomonas aeruginosa), 영균(Serratia marcescens), 황색포도상구균(Staphylococcus aureus), 표피포도상구균(Staphylococcus epidermidis), 폐렴연쇄상구균(Streptococcus pneumoniae) ㆍ 다음균종에 의한 결막염의 치료 - 황색포도상구균(Staphylococcus aureus), 표피포도상구균(Staphylococcus epidermidis), 폐렴연쇄상구균(Streptococcus pneumoniae)",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:55Z",
+   "last_observed_at": "2026-09-08T08:44:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:55Z"
+}

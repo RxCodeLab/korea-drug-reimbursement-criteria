@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199602752",
+ "item_name": "씨로텍정(미소프로스톨 100배산)(수출용)",
+ "entp_name": "(주)유영제약",
+ "permit_date": "19960229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257626]미소프로스톨 100배산",
+ "main_item_ingr_eng": "Misoprostol 1%",
+ "edi_code": "",
+ "atc_code": "A02BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602752",
+ "revisions": [
+  {
+   "revision_id": "199602752-ba8a3fe2",
+   "content_sha256": "ba8a3fe28671653c14c21dde77764425e90f93a7b0f098a97fbc2e0909493a15",
+   "ee_text": "1. 주효능 효과 위.십이지장궤양, 비스테로이드성 소염진통제 투여로 인한 위.십이지장염 및 위.십이지장 궤양의 예방과 치료",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:25Z",
+   "last_observed_at": "2026-09-08T08:30:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:25Z"
+}

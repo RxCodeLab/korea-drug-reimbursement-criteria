@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200807391",
+ "item_name": "메가베타정24mg(베타히스틴염산염)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20080703",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M228002]베타히스틴염산염",
+ "main_item_ingr_eng": "Betahistine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N07CA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807391",
+ "revisions": [
+  {
+   "revision_id": "200807391-07fe9d11",
+   "content_sha256": "07fe9d1112924c96cbfb9c46d490b384b9eab71daa0c3962ddd744cda6dd5d97",
+   "ee_text": "메니에르병에 의한 어지러움, 이명, 청력 소실",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:40Z",
+   "last_observed_at": "2026-09-08T08:42:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:40Z"
+}

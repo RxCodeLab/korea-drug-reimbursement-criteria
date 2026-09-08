@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000988",
+ "item_name": "도베진정250밀리그램(도베실산칼슘수화물)",
+ "entp_name": "(주)이든파마",
+ "permit_date": "20200214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257668]도베실산칼슘수화물",
+ "main_item_ingr_eng": "Dobesilate Calcium Hydrate",
+ "edi_code": "628901600",
+ "atc_code": "C05BX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000988",
+ "revisions": [
+  {
+   "revision_id": "202000988-021da5ce",
+   "content_sha256": "021da5ce4acfb61d2757d90d692d0eb1db8e673bfc8c63ad44642cab410d4e31",
+   "ee_text": "항진된 모세혈관 파열과 투과장애를 수반하는 혈관손상, 당뇨병성 모세혈관장애, 당뇨병성망막병증, 정맥기능부전, 혈전 후 증후군, 말초울혈성부종, 치질.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:48Z",
+   "last_observed_at": "2026-09-08T08:57:48Z",
+   "official_revision_date": "2020-02-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:48Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700916",
+ "item_name": "에마존정(에몰파존)(수출용)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "19870411",
+ "cancel_date": "20250117",
+ "status": "취하",
+ "main_item_ingr": "[M082008]에몰파존",
+ "main_item_ingr_eng": "Emorfazone",
+ "edi_code": "",
+ "atc_code": "M01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700916",
+ "revisions": [
+  {
+   "revision_id": "198700916-33b1b789",
+   "content_sha256": "33b1b789d76a8a542c98a752f3d9961bcf5b0b3ab4e18fdfd419da26f7ce140e",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 골관절염(퇴행성 관절질환), 경견완증후군, 견관절주위염, 요통, 회음열상, 수술후 . 외상후 염증 및 동통",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:24Z",
+   "last_observed_at": "2026-09-08T08:27:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:24Z"
+}

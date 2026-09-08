@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "R05CB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600149",
+ "history_fetched_at": "2026-08-28T13:24:09Z",
  "revisions": [
   {
-   "revision_id": "200600149-735cdb95",
-   "content_sha256": "735cdb95506680e43b6f556ab64df7f4f8e19e04cc87e6ec90b8300537a94dfc",
-   "ee_text": "다음 질환에서의 객담배출곤란 : 급·만성기관지염, 폐결핵, 진폐증, 수술후, 기관지확장증 1) 다음 질환에서의 객담배출곤란 : 급·만성기관지염, 폐결핵, 진폐증, 수술후, 기관지확장증 2) 기관지조영후 조영제의 배출촉진",
+   "revision_id": "200600149-0a36bbad",
+   "content_sha256": "0a36bbadcc10f6fa68e260c794085554127df2a61ef3aa846e9dbf495aaaf060",
+   "ee_text": "(경구 : 정제, 시럽제) 1. 주효능 효과 다음 질환에서의 객담배출곤란 : 급·만성기관지염, 폐결핵, 진폐증, 수술후, 기관지확장증 (주사제) 1. 주효능 효과 1) 다음 질환에서의 객담배출곤란 : 급·만성기관지염, 폐결핵, 진폐증, 수술후, 기관지확장증 2) 기관지조영후 조영제의 배출촉진",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:24:09Z",
-   "last_observed_at": "2026-08-28T13:24:09Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:39:46Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:09Z"
+ ]
 }

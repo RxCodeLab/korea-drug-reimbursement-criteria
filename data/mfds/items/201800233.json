@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201800233",
+ "item_name": "구미포비돈세정액7.5%(포비돈요오드)",
+ "entp_name": "구미제약(주)",
+ "permit_date": "20180116",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244694]포비돈요오드",
+ "main_item_ingr_eng": "Povidone Iodine",
+ "edi_code": "",
+ "atc_code": "D08AG02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800233",
+ "revisions": [
+  {
+   "revision_id": "201800233-15d280ec",
+   "content_sha256": "15d280ec144efa091665c9dc8c0bb941964a9074903ffec9ecba8b843dd242f5",
+   "ee_text": "수술자의 손 및 팔의 살균소독 수술부위의 살균소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:47Z",
+   "last_observed_at": "2026-09-08T08:52:47Z",
+   "official_revision_date": "2018-01-16"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:47Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601860",
+ "item_name": "비노벨린주(비노렐빈타르타르산염)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20260630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222855]비노렐빈타르타르산염",
+ "main_item_ingr_eng": "Vinorelbine Tartrate",
+ "edi_code": "643310441,643310451",
+ "atc_code": "L01CA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601860",
+ "revisions": [
+  {
+   "revision_id": "202601860-3b6f83da",
+   "content_sha256": "3b6f83da51f2094aa548dd81035a30cff4e6364638540d4015300aef1fe03f40",
+   "ee_text": "비소세포폐암, 진행성 유방암",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:23Z",
+   "last_observed_at": "2026-09-08T09:05:23Z",
+   "official_revision_date": "2026-06-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:23Z"
+}

@@ -12,14 +12,16 @@
  "edi_code": "696601011",
  "atc_code": "R05CB01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403596",
+ "history_fetched_at": "2026-08-28T13:24:37Z",
  "revisions": [
   {
-   "revision_id": "201403596-d8c1c9d2",
-   "content_sha256": "d8c1c9d2f49c36f37dc326af0ca04382b1e048e53078de8f672d6ab1ddc7e8f5",
-   "ee_text": "(캡슐제)(과립제)(시럽제) 다음 질환에서의 객담배출곤란 : 급·만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증",
+   "revision_id": "201403596-7c8f11b8",
+   "content_sha256": "7c8f11b8cc9ff68f40392e8b3299a6458c4b3166a326c1c7f1c0a3489fd2c01e",
+   "ee_text": "1. 주효능 효과 (캡슐제)(과립제)(시럽제) 다음 질환에서의 객담배출곤란 : 급·만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201403596/EE",
    "first_observed_at": "2026-08-28T13:24:37Z",
-   "last_observed_at": "2026-08-28T13:24:37Z"
+   "last_observed_at": "2026-09-08T08:47:27Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201403596-06e627d8",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:37Z",
    "last_observed_at": "2026-08-28T13:24:37Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:37Z"
+ ]
 }

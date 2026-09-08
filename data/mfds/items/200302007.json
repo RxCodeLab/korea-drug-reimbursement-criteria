@@ -7,11 +7,12 @@
  "permit_date": "20031017",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223167]우르소데옥시콜산|[M113486]노회 건조엑스|[M040306]수산화마그네슘|[M080745]노회엑스|[M223167]우르소데옥시콜산|[M040306]수산화마그네슘",
+ "main_item_ingr": "[M040306]수산화마그네슘|[M040306]수산화마그네슘|[M080745]노회엑스|[M113486]노회 건조엑스|[M223167]우르소데옥시콜산|[M223167]우르소데옥시콜산",
  "main_item_ingr_eng": "Aloe Dried Extract/Aloe Extract/Magnesium Hydroxide/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A06AB20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302007",
+ "history_fetched_at": "2026-08-28T13:24:03Z",
  "revisions": [
   {
    "revision_id": "200302007-8092f99e",
@@ -19,8 +20,9 @@
    "ee_text": "· 변비 · 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
    "ee_doc_id": "24",
    "first_observed_at": "2026-08-28T13:24:03Z",
-   "last_observed_at": "2026-08-28T13:24:03Z",
-   "official_revision_date": "2025-11-21"
+   "last_observed_at": "2026-09-08T08:37:08Z",
+   "official_revision_date": "2025-11-21",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200302007-edea8414",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:03Z",
    "last_observed_at": "2026-08-28T13:24:03Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:03Z"
+ ]
 }

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008931",
+ "item_name": "테크네라이트제너레이터(과테크네튬산나트륨(99mTc)주사액제너레이터)",
+ "entp_name": "(주)부경에스엠",
+ "permit_date": "20001011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M093129]몰리브덴산나트륨(99Mo)액",
+ "main_item_ingr_eng": "Sodium Molybdate (99Mo) Solution",
+ "edi_code": "662900080",
+ "atc_code": "V09FX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008931",
+ "revisions": [
+  {
+   "revision_id": "200008931-e114dcdc",
+   "content_sha256": "e114dcdc10250c16000ccd60f50c616e5c6ecaf10c91747c6eac0e97ef25cda0",
+   "ee_text": "1. 진단용 방사성의약품인 과테크네튬산나트륨(99mTc) 주사액의 조제용 2. 과테크네튬산나트륨(99mTc) 주사액의 효능.효과 성인: 갑상선질환의 진단, 타액선질환의 진단, 방광-뇨관 역류 측정을 위한 방광질환의 진단, 코눈물관계통질환의 진단. 소아: 갑상선질환의 진단, 방광-뇨관 역류 측정을 위한 방광질환의 진단.",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:36Z",
+   "last_observed_at": "2026-09-08T08:34:36Z",
+   "official_revision_date": "2003-04-21"
+  },
+  {
+   "revision_id": "200008931-0e7593d2",
+   "content_sha256": "0e7593d209bb92a338e4a72dfa582b410c096f43344e820c3cfa7be4b668f9f5",
+   "ee_text": "성인: 갑상선질환의 진단, 타액선질환의 진단, 방광-뇨관 역류 측정을 위한 방광질환의 진단, 코눈물관계통질환의 진단. 소아: 갑상선질환의 진단, 방광-뇨관 역류 측정을 위한 방광질환의 진단.",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:34:36Z",
+   "last_observed_at": "2026-09-08T08:34:36Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:36Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197400347",
+ "item_name": "신일살부타몰정(수출명:BUTAMOLTab.)(SalbutamolSulfate)",
+ "entp_name": "신일제약(주)",
+ "permit_date": "19740902",
+ "cancel_date": "20250101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M223069]살부타몰황산염|[M223069]살부타몰황산염",
+ "main_item_ingr_eng": "Salbutamol Sulfate",
+ "edi_code": "",
+ "atc_code": "R03CC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400347",
+ "revisions": [
+  {
+   "revision_id": "197400347-40566dac",
+   "content_sha256": "40566daca8be9f4b96b8cb67d2ea540a570b0639ec6738aaa9bf93cba5abddfc",
+   "ee_text": "(경구 : 정제, 시럽제, 서방형 정제)(에어로솔제) 1. 주효능 효과 다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 만성기관지염, 폐기종 (흡입액) 1. 주효능 효과 중증의 급성천식(천식지속상태의 치료), 통상요법으로 효과가 없는 만성 기관지경련의 처치",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:20Z",
+   "last_observed_at": "2026-09-08T08:26:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:20Z"
+}

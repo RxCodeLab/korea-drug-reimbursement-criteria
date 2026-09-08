@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105308",
+ "item_name": "전남대학교병원플루오르화나트륨주사액(플루오르화나트륨 F-18액)",
+ "entp_name": "전남대학교병원",
+ "permit_date": "20210713",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255887]플루오르화나트륨 F-18액",
+ "main_item_ingr_eng": "Sodium Fluoride (18F) Solution",
+ "edi_code": "",
+ "atc_code": "V09IX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105308",
+ "revisions": [
+  {
+   "revision_id": "202105308-72facb46",
+   "content_sha256": "72facb467d1e443baded918231ce49f986697aacffe05a7c0eb608d564e9bde5",
+   "ee_text": "다음 경우의 양전자방출 단층촬영(Positronemissiontomography, PET)에 사용한다. 1) 변화된 골형성 활성 영역을 확인하기 위한 뼈의 촬영",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:23Z",
+   "last_observed_at": "2026-09-08T09:00:23Z",
+   "official_revision_date": "2021-07-13"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:23Z"
+}

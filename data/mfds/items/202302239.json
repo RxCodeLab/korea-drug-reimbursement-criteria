@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302239",
+ "item_name": "젠포자임주(올리푸다제알파)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20230725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283932]올리푸다제알파",
+ "main_item_ingr_eng": "Olipudase alfa",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302239",
+ "revisions": [
+  {
+   "revision_id": "202302239-5920b4e7",
+   "content_sha256": "5920b4e7e94db544374c77b7f368df632e7231b913b09bd46be391a1cc876bd4",
+   "ee_text": "소아 및 성인 환자에서 산성 스핑고미엘린분해효소 결핍(ASMD)의 비-중추신경계(non-CNS) 증상 치료를 위한 효소 대체 요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:14Z",
+   "last_observed_at": "2026-09-08T09:02:14Z",
+   "official_revision_date": "2023-07-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:14Z"
+}

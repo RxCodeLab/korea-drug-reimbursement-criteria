@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "B01AC07",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403295",
+ "history_fetched_at": "2026-08-28T13:24:05Z",
  "revisions": [
   {
-   "revision_id": "200403295-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200403295-89be6204",
+   "content_sha256": "89be62043c29cc8e220bcdcef5e26c85b083eb825ba492ecd5efaef0c73655db",
+   "ee_text": "(경구 : 정제) 1. 협심증, 관경화증(만성허혈성심질환, 무증후성허혈성심질환, 동맥경화성심질환), 심근경색(급성기 제외), 울혈성심부전 2. 심장판막치환술후의 혈전·색전 예방을 위한 항응고제의 보조요법 3. 다음 질환에 의한 요단백감소 : 스테로이드저항성신증후군 (주사제) 1. 협심증, 관경화증(만성허혈성심질환, 무증후성허혈성심질환, 동맥경화성심질환), 심근경색, 울혈성심부전 2. 탈륨심근영상의 보조(운동부하의 대체)",
    "ee_doc_id": "4",
    "first_observed_at": "2026-08-28T13:24:05Z",
-   "last_observed_at": "2026-08-28T13:24:05Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:38:19Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:05Z"
+ ]
 }

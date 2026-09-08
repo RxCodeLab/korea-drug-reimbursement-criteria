@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T12:22:55Z",
  "revisions": [
   {
-   "revision_id": "198301052-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "198301052-815d419d",
+   "content_sha256": "815d419d7253efb7037d7fda79aca3a2e1dc9f3f78b0234ab6ca4fa565303795",
+   "ee_text": "1. 특발성 파킨슨증 2. 기타의 파킨슨증(뇌염후, 동맥경화성) 3. 골격근 연축의 진통",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198301052/EE",
    "first_observed_at": "2026-08-27T12:22:55Z",
-   "last_observed_at": "2026-08-28T13:23:39Z"
+   "last_observed_at": "2026-09-08T08:26:54Z",
+   "normalizer_version": 3
   }
  ]
 }

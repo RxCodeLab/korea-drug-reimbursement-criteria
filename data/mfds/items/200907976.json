@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200907976",
+ "item_name": "뮤타플로캡슐(E.coli strain Nissle 1917의 동결건조물)",
+ "entp_name": "리퓨어헬스케어(주)",
+ "permit_date": "20091106",
+ "cancel_date": "20260101",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M247667]E.coli strain Nissle 1917의 동결건조물",
+ "main_item_ingr_eng": "E.coli strain Nissle 1917 Lyophilizate",
+ "edi_code": "",
+ "atc_code": "A07E",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907976",
+ "revisions": [
+  {
+   "revision_id": "200907976-25286068",
+   "content_sha256": "252860687e2a1b19fdbeb7adefedd4d24c914e92f7412c851f30d805ed54fbd7",
+   "ee_text": "- 궤양성 대장염의 재발방지 - 만성변비",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:36Z",
+   "last_observed_at": "2026-09-08T08:43:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:36Z"
+}

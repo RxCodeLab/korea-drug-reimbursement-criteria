@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500373",
+ "item_name": "클리어틴이부스팟톡크림(이부프로펜피코놀)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20150123",
+ "cancel_date": "20240726",
+ "status": "취하",
+ "main_item_ingr": "[M261461]이부프로펜피코놀",
+ "main_item_ingr_eng": "Ibuprofen Piconol",
+ "edi_code": "",
+ "atc_code": "D10AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500373",
+ "revisions": [
+  {
+   "revision_id": "201500373-0562ef4c",
+   "content_sha256": "0562ef4cb207730189d5198eac864eeaf07680fd329d39d5851ca2b32a598bab",
+   "ee_text": "여드름 치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:22Z",
+   "last_observed_at": "2026-09-08T08:48:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:22Z"
+}

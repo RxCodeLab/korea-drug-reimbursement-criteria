@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003939",
+ "item_name": "인판릭스아이피브이프리필드시린지(흡착 디프테리아, 파상풍 톡소이드, 정제 백일해 및 개량 불활화 폴리오 혼합백신)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20100610",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102929]불활화 폴리오 바이러스제2형(균주명:MEF-1주)|[M104500]파상풍톡소이드(균주명:Massachusetts주)|[M104501]디프테리아톡소이드(균주명:Mass8주)|[M245422]백일해톡소이드(균주명:Tohama주, 1상)|[M245423]불활화백일해균선모적혈구응집소(균주명:Tohama주, 1상)|[M245424]불활화백일해균69kDa외막단백질(균주명:Tohama주, 1상)|[M250166]불활화 폴리오 바이러스제1형(균주명:Mahoney주)|[M250167]불활화 폴리오 바이러스제3형(균주명:Saukett주)",
+ "main_item_ingr_eng": "B. Pertussis Toxoid (Strain: Tohama, Phase 1)/Diphtheria Toxoid (Strain: Mass8 Strain)/Inactivated B. Pertussis B69kDa outer membrane Protein (Strain: Tohama, Phase 1)/Inactivated B. pertussis Filamentous Hemagglutinin (Strain: Tohama, Phase 1)/Inactivated Polio Virus Type I (Stain: Mahoney)/Inactivated Polio Virus Type II (Stain: MEF-1)/Inactivated Polio Virus Type III (Stain: Saukett)/Tetanus Toxoid (Strain: Massachusetts)",
+ "edi_code": "",
+ "atc_code": "J07CA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003939",
+ "revisions": [
+  {
+   "revision_id": "201003939-88ea25ad",
+   "content_sha256": "88ea25add4cbbbab7cb85dbb75b39eb88a62414f6ca50eb895992d66633097ba",
+   "ee_text": "생후 2개월부터의 영아 및 어린이에서 디프테리아, 파상풍, 백일해 및 소아마비(폴리오)의 예방.",
+   "ee_doc_id": "36",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:06Z",
+   "last_observed_at": "2026-09-08T08:44:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:06Z"
+}

@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201404338",
+ "item_name": "휴온스시메티딘염산염주사(수출용)",
+ "entp_name": "(주)휴온스",
+ "permit_date": "20140924",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222866]시메티딘염산염",
+ "main_item_ingr_eng": "Cimetidine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404338",
+ "revisions": [
+  {
+   "revision_id": "201404338-04b793d7",
+   "content_sha256": "04b793d7760317c78edd40465d96b99cdbe105c0fe7db6d31c259a0957e7a5ca",
+   "ee_text": "1. 주효능 효과 위.십이지장궤양, 역류성식도염, 졸링거-엘리슨증후군, 상부소화관출혈(소화성궤양, 급성스트레스궤양, 출혈성위염에 의한), 재발성궤양",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201404338/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:40Z",
+   "last_observed_at": "2026-09-08T08:47:40Z"
+  },
+  {
+   "revision_id": "201404338-56a76613",
+   "content_sha256": "56a76613b293f0a77ecca25755f1c172da751e7d5de96e0939dd9326e37f0e12",
+   "ee_text": "1. 위·십이지장궤양, 역류성식도염, 재발성궤양, 문합부궤양, 졸링거-엘리슨증후군, 2. 다음 질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:47:40Z",
+   "last_observed_at": "2026-09-08T08:47:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:40Z"
+}

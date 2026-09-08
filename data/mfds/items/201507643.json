@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201507643",
+ "item_name": "오메크린크림(퍼메트린)",
+ "entp_name": "(주)대웅제약",
+ "permit_date": "20151109",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071543]퍼메트린",
+ "main_item_ingr_eng": "Permethrin",
+ "edi_code": "",
+ "atc_code": "P03AC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507643",
+ "revisions": [
+  {
+   "revision_id": "201507643-8d9d9605",
+   "content_sha256": "8d9d9605b8bc56758ae4e9ff7fed3d85bd80fb69b826ddcc41b42fb140bf8fbf",
+   "ee_text": "옴의 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:49Z",
+   "last_observed_at": "2026-09-08T08:49:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:49Z"
+}

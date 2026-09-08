@@ -7,11 +7,12 @@
  "permit_date": "20030709",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M216095]규산알루민산마그네슘|[M070414]알디옥사|[M050857]시메티딘",
+ "main_item_ingr": "[M050857]시메티딘|[M070414]알디옥사|[M216095]규산알루민산마그네슘",
  "main_item_ingr_eng": "Aldioxa/Cimetidine/Magnesium Aluminosilicate",
  "edi_code": "",
  "atc_code": "A02AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301945",
+ "history_fetched_at": "2026-08-28T13:24:03Z",
  "revisions": [
   {
    "revision_id": "200301945-a9e6f7dd",
@@ -19,9 +20,9 @@
    "ee_text": "위통, 속쓰림, 소화불량, 구역",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:24:03Z",
-   "last_observed_at": "2026-08-28T13:24:03Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:37:07Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:03Z"
+ ]
 }

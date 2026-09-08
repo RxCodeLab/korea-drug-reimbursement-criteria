@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201633",
+ "item_name": "바이놀크림(아시클로버)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "19921116",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "",
+ "atc_code": "D06BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201633",
+ "revisions": [
+  {
+   "revision_id": "199201633-ee61b533",
+   "content_sha256": "ee61b533c32a08bd7d2e567bcec2c5938d7713c536f6f3c6cb4f77e1e0ed0a0c",
+   "ee_text": "단순포진(물집) 바이러스 감염증(초기 및 재발성 생식기 포진(물집)과 구순(입술)포진(물집)포함)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:29Z",
+   "last_observed_at": "2026-09-08T08:28:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:29Z"
+}

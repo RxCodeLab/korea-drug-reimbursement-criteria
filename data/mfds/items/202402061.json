@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402061",
+ "item_name": "에스엔뷰캡슐",
+ "entp_name": "주식회사 노바엠헬스케어",
+ "permit_date": "20240827",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M111600]오르소시폰 가루|[M112209]다엽 가루",
+ "main_item_ingr_eng": "Green Tea Powder/Orthosiphon Powder",
+ "edi_code": "",
+ "atc_code": "A08AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402061",
+ "revisions": [
+  {
+   "revision_id": "202402061-ce281beb",
+   "content_sha256": "ce281beb882a25007451a016cc9046aea747191ec322e30f38a9c38a1d76b531",
+   "ee_text": "비만 또는 과체중시 체중감량(줄임) 보조제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:16Z",
+   "last_observed_at": "2026-09-08T09:03:16Z",
+   "official_revision_date": "2024-08-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:16Z"
+}

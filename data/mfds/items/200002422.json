@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002422",
+ "item_name": "안티비오캡슐300mg(락토바실루스아시도필루스균)(수출용)",
+ "entp_name": "한화제약(주)",
+ "permit_date": "20000210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M090094]락토바실루스아시도필루스균",
+ "main_item_ingr_eng": "Lactobacillus Acidophilus",
+ "edi_code": "",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002422",
+ "revisions": [
+  {
+   "revision_id": "200002422-180c8194",
+   "content_sha256": "180c8194b1ceb88c01bc6137a28fcef198cf3529fd51ec276b4c975676d4f5f8",
+   "ee_text": "정장, 변비, 묽은 변, 복부팽만감, 장내 이상발효",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:57Z",
+   "last_observed_at": "2026-09-08T08:33:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:57Z"
+}

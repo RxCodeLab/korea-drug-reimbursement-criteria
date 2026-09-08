@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200800905",
+ "item_name": "프리모비스트주사",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20080123",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086651]산화가돌리늄|[M222614]이오비-디티피에이",
+ "main_item_ingr_eng": "EOB-DTPA/Gadolinium Oxide",
+ "edi_code": "641100931",
+ "atc_code": "V08CA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800905",
+ "revisions": [
+  {
+   "revision_id": "200800905-955452bd",
+   "content_sha256": "955452bd6dadeae9f89d7af54568339b10f3f49a26c3a4c1d7bf4bcc94ad7ed3",
+   "ee_text": "간의 자기공명영상(MRI)조영제 : 병소확인 및 특성파악",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:11Z",
+   "last_observed_at": "2026-09-08T08:42:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:11Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200902340",
+ "item_name": "경남트라넥사민주500밀리그램(트라넥사민산)(수출용)",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20090331",
+ "cancel_date": "20250623",
+ "status": "취하",
+ "main_item_ingr": "[M082938]트라넥사민산",
+ "main_item_ingr_eng": "Tranexamic Acid",
+ "edi_code": "",
+ "atc_code": "B02AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902340",
+ "revisions": [
+  {
+   "revision_id": "200902340-d3d663e9",
+   "content_sha256": "d3d663e9dae043d9d00b2e6a708c206e9e6fdf2a6489a02e82d3282ea8627ade",
+   "ee_text": "1. 전신적 섬유소용해항진과 관련있다고 생각되는 출혈 경향 (백혈병, 재생불량성 빈혈, 자반병, 암 등 및 수술 중ㆍ수술 후의 이상 출혈) 2. 국소적 섬유소용해항진과 관련있다고 생각되는 이상출혈 (폐출혈, 성기출혈, 신출혈, 전립선 수술 중ㆍ수술 후의 이상 출혈)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:12Z",
+   "last_observed_at": "2026-09-08T08:43:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:12Z"
+}

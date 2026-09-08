@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202100802",
+ "item_name": "종근당티카그렐러정60밀리그램",
+ "entp_name": "(주)종근당",
+ "permit_date": "20210126",
+ "cancel_date": "20260126",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M280351]티카그렐러나파디실산염이수화물",
+ "main_item_ingr_eng": "Ticagrelor Napadisilate Dihydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100802",
+ "revisions": [
+  {
+   "revision_id": "202100802-277bf89b",
+   "content_sha256": "277bf89b098a89945e7e67524d237900c4eae5846160c2969b8e9d02d5a2483b",
+   "ee_text": "다음의 성인 환자에서 아스피린과 병용하여, 혈전성 심혈관 사건(심혈관 이상으로 인한 사망, 심근경색, 뇌졸중)의 발생률 감소 ㆍ급성관상동맥증후군 ㆍ심근경색의 병력(최소 1년 이상 이전에 발생)이 있는 혈전성 심혈관 사건의 발생 위험이 높은 환자",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:53Z",
+   "last_observed_at": "2026-09-08T08:59:53Z",
+   "official_revision_date": "2021-01-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:53Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505057",
+ "item_name": "옵티브어드벤스드점안액(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20150724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040043]글리세린|[M088337]폴리소르베이트80|[M244062]카르복시메틸셀룰로오스나트륨",
+ "main_item_ingr_eng": "Carboxymethylcellulose Sodium/Glycerin/Polysorbate 80",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505057",
+ "revisions": [
+  {
+   "revision_id": "201505057-e668270f",
+   "content_sha256": "e668270f0eb756c26f0b343cddaf3abccbc46f3fe61acd271fe4b3d6cd768913",
+   "ee_text": "1. 눈의 건조 또는 바람, 태양 노출로 인한 눈의 작열감, 자극감 및 불편함의 일시적 완화 2. 그 외의 자극으로부터 보호하기 위해 사용될 수 있다",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:24Z",
+   "last_observed_at": "2026-09-08T08:49:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:24Z"
+}

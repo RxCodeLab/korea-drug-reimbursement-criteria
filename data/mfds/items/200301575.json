@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200301575",
+ "item_name": "하비톤연질캡슐(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20031111",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040442]엽산|[M050884]엘시트룰린|[M085778]엘염산오르니친|[M086692]시아노코발라민|[M095151]엘염산아르기닌",
+ "main_item_ingr_eng": "Cyanocobalamin/Folic Acid/L-Arginine Hydrochloride/L-Citrulline/L-Ornithine Hydrochloride/Nicotinamide",
+ "edi_code": "",
+ "atc_code": "A05BA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301575",
+ "revisions": [
+  {
+   "revision_id": "200301575-4c238b99",
+   "content_sha256": "4c238b99224e1dcc20ae00b755f77ef291abcec3291f2b574e54d702cb2bfa77",
+   "ee_text": "다음 질환의 치료보조 : 급·만성 간염, 간실질손상으로 인한 담도질환, 간경변, 간부전",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:02Z",
+   "last_observed_at": "2026-09-08T08:37:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:02Z"
+}

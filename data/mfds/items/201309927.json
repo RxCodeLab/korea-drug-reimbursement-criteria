@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309927",
+ "item_name": "베타펜주(디클로페낙β-디메틸아미노에탄올)",
+ "entp_name": "구주제약(주)",
+ "permit_date": "20131028",
+ "cancel_date": "20260126",
+ "status": "취하",
+ "main_item_ingr": "[M252249]디클로페낙β-디메틸아미노에탄올",
+ "main_item_ingr_eng": "Diclofenac Beta-Dimethylaminoethanol",
+ "edi_code": "",
+ "atc_code": "M01AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309927",
+ "revisions": [
+  {
+   "revision_id": "201309927-28889a9d",
+   "content_sha256": "28889a9dca6363dd2dc59927c604dabe7477a62389ea33e02f9481fb4d05a952",
+   "ee_text": "(주사제) 다음 질환에 사용할 수 있다. 1. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염 2. 외상후 · 수술후 염증 및 동통, 급성통풍, 신 및 간산통",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:28Z",
+   "last_observed_at": "2026-09-08T08:46:28Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:28Z"
+}

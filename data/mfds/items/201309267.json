@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "A10BF03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309267",
+ "history_fetched_at": "2026-08-27T13:25:56Z",
  "revisions": [
   {
    "revision_id": "201309267-a78f879a",
@@ -19,7 +20,8 @@
    "ee_text": "당뇨병의 식후 고혈당개선(단, 식사요법, 운동요법을 행하고 있는 환자에서 충분한 효과를 얻을 수 없는 경우, 또는 식사요법, 운동요법에 추가하여 경구혈당강하제 또는 인슐린 제제를 사용하고 있는 환자에서 충분한 효과를 얻을 수 없는 경우에 한함.)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201309267/EE",
    "first_observed_at": "2026-08-27T13:25:56Z",
-   "last_observed_at": "2026-08-27T13:25:56Z"
+   "last_observed_at": "2026-09-08T08:46:20Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201309267-7107fbfd",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-27T13:25:56Z",
    "last_observed_at": "2026-08-27T13:25:56Z"
   }
- ],
- "history_fetched_at": "2026-08-27T13:25:56Z"
+ ]
 }

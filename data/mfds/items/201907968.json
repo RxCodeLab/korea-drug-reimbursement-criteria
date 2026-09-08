@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907968",
+ "item_name": "한국팜비오티볼론정",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20191118",
+ "cancel_date": "20241118",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M083880]티볼론",
+ "main_item_ingr_eng": "Tibolone",
+ "edi_code": "",
+ "atc_code": "G03CX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907968",
+ "revisions": [
+  {
+   "revision_id": "201907968-5f77b297",
+   "content_sha256": "5f77b2979c88b845c42e735f0e39c808cd7802c4567d877e2f01508596961769",
+   "ee_text": "1) 폐경 후 1년이 경과한 여성의 에스트로겐 결핍 증상 2) (다른 골다공증 예방약이 금기이거나 내약성이 없는 경우) 골절 위험성이 높은 폐경 이후 여성의 골다공증 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:03Z",
+   "last_observed_at": "2026-09-08T08:57:03Z",
+   "official_revision_date": "2019-11-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:03Z"
+}

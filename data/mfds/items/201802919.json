@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201802919",
+ "item_name": "피아스프주100단위/밀리리터(인슐린아스파트)",
+ "entp_name": "노보노디스크제약(주)",
+ "permit_date": "20180713",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M097114]인슐린아스파트",
+ "main_item_ingr_eng": "Insulin Aspart",
+ "edi_code": "654400591",
+ "atc_code": "A10AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802919",
+ "revisions": [
+  {
+   "revision_id": "201802919-ca028d36",
+   "content_sha256": "ca028d36eeca108a1c3ac90d999e3056725f44a800c7ed092ab6df0b47660b55",
+   "ee_text": "성인, 청소년 및 만 2세 이상의 소아에서의 인슐린 요법이 요구되는 당뇨병",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:23Z",
+   "last_observed_at": "2026-09-08T08:53:23Z",
+   "official_revision_date": "2020-03-05"
+  },
+  {
+   "revision_id": "201802919-6676b2c0",
+   "content_sha256": "6676b2c0901f1df601e3653ec3d39a2bd176fcf12b248089dd4d2eba7f96488e",
+   "ee_text": "성인에서의 인슐린 요법이 요구되는 당뇨병",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-07-13",
+   "first_observed_at": "2026-09-08T08:53:23Z",
+   "last_observed_at": "2026-09-08T08:53:23Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:23Z"
+}

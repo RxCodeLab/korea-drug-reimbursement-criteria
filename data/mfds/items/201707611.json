@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707611",
+ "item_name": "에너라민파워액",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20171026",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M100992]코바마미드|[M228349]레보카르니틴",
+ "main_item_ingr_eng": "Cobamamide/Levocarnitine",
+ "edi_code": "",
+ "atc_code": "A11JC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707611",
+ "revisions": [
+  {
+   "revision_id": "201707611-a82e45bb",
+   "content_sha256": "a82e45bb71914b87d74e75f523cf6f6b0c9542b1c99f0f7bafe610c671851484",
+   "ee_text": "1. 성인 1) 병적인 체중감소 2) 뚜렷한 원인이 없는 쇠약 3) 식욕부진, 무력증 4) 병후(병을 않고 난 회복 후) 회복기 5) 스테로이드 제제의 장기치료, 갑상선기능항진증 치료 등에서 비롯된 대사억제 상태 6) 간질환 및 신장질환에 의한 저단백혈증 2. 어린이 1) 미숙아, 유아, 어린이의 영양결핍에 의한 모든 증상 2) 성장지연 3) 저체중, 체중감소 4) 영양실조 5) 식욕부진 6) 감염 후 허약기",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:30Z",
+   "last_observed_at": "2026-09-08T08:52:30Z",
+   "official_revision_date": "2017-10-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:30Z"
+}

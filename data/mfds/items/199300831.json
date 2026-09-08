@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199300831",
+ "item_name": "세르젠정(살리실산이미다졸)",
+ "entp_name": "(주)새한제약",
+ "permit_date": "19931103",
+ "cancel_date": "20240415",
+ "status": "취하",
+ "main_item_ingr": "[M259636]살리실산이미다졸",
+ "main_item_ingr_eng": "Imidazole Salicylate",
+ "edi_code": "",
+ "atc_code": "N02BA16",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199300831",
+ "revisions": [
+  {
+   "revision_id": "199300831-9e73984e",
+   "content_sha256": "9e73984e868cacd82e601c51360de2400492eace01b25eaf7b108136ab250a67",
+   "ee_text": "1. 호흡기계 및 이비인후계의 염증성질환 2. 발열",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:46Z",
+   "last_observed_at": "2026-09-08T08:28:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:46Z"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300340",
+ "item_name": "성광헥시클렌액(클로르헥시딘글루콘산염 액)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20031007",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244239]클로르헥시딘글루콘산염액",
+ "main_item_ingr_eng": "Chlorhexidine Gluconate Solution",
+ "edi_code": "",
+ "atc_code": "D08AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300340",
+ "revisions": [
+  {
+   "revision_id": "200300340-474b6261",
+   "content_sha256": "474b626165385b416070c5e0ce02b14fe800b7f13e7d2cc7ec381d32085d260c",
+   "ee_text": "항균 피부 세정제로서, 일반 피부 및 상처부위 세정, 수술 시 손 소독, 개인의 손 소독, 수술 전 수술부위 피부소독",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:44Z",
+   "last_observed_at": "2026-09-08T08:36:44Z",
+   "official_revision_date": "2019-09-26"
+  },
+  {
+   "revision_id": "200300340-7d1d43b8",
+   "content_sha256": "7d1d43b8b612c309d6bfe432e4d3887a0b050c426d00a447ff691fdf4840135a",
+   "ee_text": "수술시 수술자 및 보건위생종사자의 손 소독",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-08-30",
+   "first_observed_at": "2026-09-08T08:36:44Z",
+   "last_observed_at": "2026-09-08T08:36:44Z"
+  },
+  {
+   "revision_id": "200300340-af60da01",
+   "content_sha256": "af60da01727ee4318c45dcfe5ffd14ddcba6e0c56b393c27cef9e4a1ab1c1ab2",
+   "ee_text": "(4% 액제) 수술시 수술자 및 보건위생종사자의 손 소독 (5% 액제) - 손 및 피부의 소독 - 수술부위의 피부소독 - 의료용구의 소독 - 가구, 기구 등의 소독 - 피부의 창상부위 소독 (20% 액제) - 손 및 피부의 소독 - 수술부위의 피부소독 - 의료용구의 소독 - 가구, 기구 등의 소독 - 피부의 창상부위 소독 - 산부인과, 비뇨기과에서의 외음, 외성기의 피부소독 (크림제) 좁은 범위 피부의 창상부위 소독",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:36:44Z",
+   "last_observed_at": "2026-09-08T08:36:44Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:44Z"
+}

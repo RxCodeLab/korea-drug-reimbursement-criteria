@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001929",
+ "item_name": "부광미졸렌정10밀리그램(미졸라스틴)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20000128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089840]미졸라스틴",
+ "main_item_ingr_eng": "Mizolastine",
+ "edi_code": "642200720",
+ "atc_code": "R06AX25",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001929",
+ "revisions": [
+  {
+   "revision_id": "200001929-3a56f7a7",
+   "content_sha256": "3a56f7a7f618fda3f96909961188d9141855ba495c0aa404207a409619a48af4",
+   "ee_text": "계절알레르기비결막염(고초열), 연중알레르기비결막염, 두드러기 증상의 완화",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:50Z",
+   "last_observed_at": "2026-09-08T08:33:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:50Z"
+}

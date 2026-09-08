@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200608036",
+ "item_name": "명문케토프로펜주사(수출용)(수출명 : Ketofron)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20061124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "",
+ "atc_code": "M01AE03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608036",
+ "revisions": [
+  {
+   "revision_id": "200608036-d6b697ee",
+   "content_sha256": "d6b697ee76ee3bafbb4113b02af925f285ce90ce1cca0568e7d2b16d5b30e767",
+   "ee_text": "1. 주효능 효과 류마티양 관절염, 골관절염(퇴행성 관절질환) 2. 다음 질환에 사용할 수 있다. 강직성 척추염, 급성통풍, 견관절주위염, 외상후 . 수술후 염증 및 동통, 건염, 활액낭염",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:34Z",
+   "last_observed_at": "2026-09-08T08:40:34Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:34Z"
+}

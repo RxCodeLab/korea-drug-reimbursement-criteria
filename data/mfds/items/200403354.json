@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403354",
+ "item_name": "녹십자-파이브리노겐주(건조사람피브리노겐)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20041115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M249840]사람 피브리노겐",
+ "main_item_ingr_eng": "Human Fibrinogen",
+ "edi_code": "643600821",
+ "atc_code": "B02BB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403354",
+ "revisions": [
+  {
+   "revision_id": "200403354-c735ffe3",
+   "content_sha256": "c735ffe3726c951c257190f0b802cbd53e42ca5783f01edfce4456ab57cebfca",
+   "ee_text": "선천성 저·무 피브리노겐혈증, 후천성 저피브노겐혈증",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:20Z",
+   "last_observed_at": "2026-09-08T08:38:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:20Z"
+}

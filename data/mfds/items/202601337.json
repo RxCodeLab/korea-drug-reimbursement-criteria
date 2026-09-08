@@ -7,7 +7,7 @@
  "permit_date": "20260506",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M263840]S-암로디핀베실산염2.5수화물|[M090403]발사르탄|[M051280]인다파미드",
+ "main_item_ingr": "[M051280]인다파미드|[M090403]발사르탄|[M263840]S-암로디핀베실산염2.5수화물",
  "main_item_ingr_eng": "Indapamide/S-Amlodipine Besylate 2.5 Hydrate/Valsartan",
  "edi_code": "",
  "atc_code": "C09DX",
@@ -20,7 +20,8 @@
    "ee_text": "에스암로디핀(암로디핀)과 발사르탄의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202601337/EE",
    "first_observed_at": "2026-08-27T12:29:22Z",
-   "last_observed_at": "2026-08-28T13:25:38Z"
+   "last_observed_at": "2026-09-08T09:05:09Z",
+   "normalizer_version": 3
   }
  ]
 }

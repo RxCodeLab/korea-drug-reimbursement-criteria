@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400421",
+ "item_name": "뉴로고린정30밀리그램(니세르골린)",
+ "entp_name": "고려제약(주)",
+ "permit_date": "20240229",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070142]니세르골린",
+ "main_item_ingr_eng": "Nicergoline",
+ "edi_code": "642803510",
+ "atc_code": "C04AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400421",
+ "revisions": [
+  {
+   "revision_id": "202400421-91a81b2b",
+   "content_sha256": "91a81b2bde92bea447ca04bcb8634a780fcd66ffcb54aba66f8998493cdddf3f",
+   "ee_text": "일차성 퇴행성 혈관치매 및 복합성치매와 관련된 다음 치매증후군의 일차적 치료 : 기억력 손상, 집중력장애, 판단력장애, 적극성 부족",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:45Z",
+   "last_observed_at": "2026-09-08T09:02:45Z",
+   "official_revision_date": "2025-10-15"
+  },
+  {
+   "revision_id": "202400421-9ebf1853",
+   "content_sha256": "9ebf18537d0889c4b2a5769995ef39294785d45db743e0404067d0cb525889e9",
+   "ee_text": "* 5, 10 mg - 뇌경색 후유증에 수반되는 만성뇌순환장애에 의한 의욕저하의 개선 - 노인 동맥경화성 두통 - 고혈압의 보조요법 * 30 mg 일차성 퇴행성 혈관치매 및 복합성치매와 관련된 다음 치매증후군의 일차적 치료 : 기억력 손상, 집중력장애, 판단력장애, 적극성 부족",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2024-02-29",
+   "first_observed_at": "2026-09-08T09:02:45Z",
+   "last_observed_at": "2026-09-08T09:02:45Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:45Z"
+}

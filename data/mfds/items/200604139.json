@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200604139",
+ "item_name": "유한케타민50주사(케타민염산염)(동물용)",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20060220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223186]케타민염산염",
+ "main_item_ingr_eng": "Ketamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N01AX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604139",
+ "revisions": [
+  {
+   "revision_id": "200604139-d0694df3",
+   "content_sha256": "d0694df3e966122f7ee95a9c8773bd67c74b9453d9d47b0b432a96e8dafffa5d",
+   "ee_text": "수술, 검사 및 외과적 처치시의 전신마취, 흡입 마취시의 유도, 흡입마취의 유도, 타 마취제 사용시의 보",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:20Z",
+   "last_observed_at": "2026-09-08T08:40:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:20Z"
+}

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706992",
+ "item_name": "자이티가정500밀리그램(아비라테론아세테이트(미분화))",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20170906",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M262177]아비라테론아세테이트(미분화)",
+ "main_item_ingr_eng": "Abiraterone Acetate Micronized",
+ "edi_code": "646902200",
+ "atc_code": "L02BX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706992",
+ "revisions": [
+  {
+   "revision_id": "201706992-79116f2d",
+   "content_sha256": "79116f2d362ddfa18a11bd21c17a5bc36ff8d35b09a515a44dc0ba1258a9b1bb",
+   "ee_text": "1. 무증상 또는 경미한 증상의 전이성 거세저항성 전립선암 환자의 치료 2. 이전에 도세탁셀을 포함한 화학요법을 받았던 전이성 거세저항성 전립선암 환자의 치료 3. 호르몬 반응성 고위험 전이성 전립선암(mHSPC)으로 새롭게 진단된 환자의 치료에 안드로겐 차단요법(ADT)과 병용. 이 약은 프레드니솔론과 병용하여야 한다.",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:19Z",
+   "last_observed_at": "2026-09-08T08:52:19Z",
+   "official_revision_date": "2018-06-07"
+  },
+  {
+   "revision_id": "201706992-f15df721",
+   "content_sha256": "f15df721ea002835c29d25cd0f12984d68489b06efb7afaf4540f8614cbf286c",
+   "ee_text": "1. 무증상 또는 경미한 증상의 전이성 거세저항성 전립선암 환자의 치료 2. 이전에 도세탁셀을 포함한 화학요법을 받았던 전이성 거세저항성 전립선암 환자의 치료 이 약은 프레드니솔론과 병용하여야 한다.",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:52:19Z",
+   "last_observed_at": "2026-09-08T08:52:19Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:19Z"
+}

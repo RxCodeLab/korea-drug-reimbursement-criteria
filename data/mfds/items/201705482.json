@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201705482",
+ "item_name": "가스트로메토주(메토클로프라미드염산염수화물)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20170710",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223013]메토클로프라미드염산염수화물",
+ "main_item_ingr_eng": "Metoclopramide Hydrochloride Hydrate",
+ "edi_code": "645104461",
+ "atc_code": "A03FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705482",
+ "revisions": [
+  {
+   "revision_id": "201705482-ed2b061b",
+   "content_sha256": "ed2b061b746a88ebf863c98fd8ae97c778a9f62cafef424aa53649acb73e48b9",
+   "ee_text": "(성인) ㆍ 수술 후 구역구토 예방 ㆍ 방사선요법 유발 구역ㆍ구토 예방 ㆍ 구역ㆍ구토의 증상 치료 (1～18세 소아) ㆍ 2차 치료로써 항암화학요법 후 지연된 구역ㆍ구토 예방 ㆍ 2차 치료로써 확립된 수술 후 구역ㆍ구토 치료",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:04Z",
+   "last_observed_at": "2026-09-08T08:52:04Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:04Z"
+}

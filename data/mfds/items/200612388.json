@@ -7,7 +7,7 @@
  "permit_date": "20061212",
  "cancel_date": "20240101",
  "status": "유효기간만료",
- "main_item_ingr": "[M050059]구아야콜설폰산칼륨|[M222957]덱스트로메토르판브롬화수소산염수화물|[M040353]아세트아미노펜|[M252443]소청룡탕연조엑스[2.77→1]",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M050059]구아야콜설폰산칼륨|[M222957]덱스트로메토르판브롬화수소산염수화물|[M252443]소청룡탕연조엑스[2.77→1]",
  "main_item_ingr_eng": "Acetaminophen/Dextromethorphan Hydrobromide Hydrate/Potassium Guaiacolsulfonate/Socheongryongtang Soft Extract (2.77→1)",
  "edi_code": "",
  "atc_code": "R05X",
@@ -20,7 +20,8 @@
    "ee_text": "감기의 제증상 (인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200612388/EE",
    "first_observed_at": "2026-08-27T12:57:48Z",
-   "last_observed_at": "2026-08-28T13:24:11Z"
+   "last_observed_at": "2026-09-08T08:40:48Z",
+   "normalizer_version": 3
   }
  ]
 }

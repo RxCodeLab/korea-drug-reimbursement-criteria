@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403207",
+ "item_name": "영일알마게이트현탁액(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20140717",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081294]알마게이트",
+ "main_item_ingr_eng": "Almagate",
+ "edi_code": "",
+ "atc_code": "A02AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403207",
+ "revisions": [
+  {
+   "revision_id": "201403207-41fd5680",
+   "content_sha256": "41fd56804bdce49570bfead3617c70494cf4018b5bb789af4f296e462e4380d2",
+   "ee_text": "다음 질환의 제산작용 및 증상의 개선 : 위.십이지장궤양, 위염, 위산과다, 속쓰림, 구역, 구토, 위통, 신트림",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:20Z",
+   "last_observed_at": "2026-09-08T08:47:20Z",
+   "official_revision_date": "2022-09-07"
+  },
+  {
+   "revision_id": "201403207-2e86f65e",
+   "content_sha256": "2e86f65ed63cb23013aaaa0c1f075a258896cb1ca4995e6f17d69d83889c3df2",
+   "ee_text": "다음 질환의 제산작용 및 증상의 개선 : 위.십이지장궤양, 위염, 위산과다(속쓰림, 구역, 구토, 위통, 신트림), 역류성식도염",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:47:20Z",
+   "last_observed_at": "2026-09-08T08:47:20Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:20Z"
+}

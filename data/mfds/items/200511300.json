@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511300",
+ "item_name": "바슈롬플루비프로펜나트륨점안액0.03%",
+ "entp_name": "(주)바슈헬스코리아",
+ "permit_date": "20050808",
+ "cancel_date": "20251001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M112103]플루르비프로펜나트륨",
+ "main_item_ingr_eng": "Flurbiprofen Sodium",
+ "edi_code": "",
+ "atc_code": "S01BC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511300",
+ "revisions": [
+  {
+   "revision_id": "200511300-ab95e36b",
+   "content_sha256": "ab95e36b302f48470f428ec821c740aeab99a070e4a4177eccc86f64b0c0806e",
+   "ee_text": "수술중 축동억제, 안과수술 후 또는 레이저 육주성형술 후 나타나는 전안부의 염증",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:37Z",
+   "last_observed_at": "2026-09-08T08:39:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:37Z"
+}

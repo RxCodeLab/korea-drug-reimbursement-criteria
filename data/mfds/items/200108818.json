@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108818",
+ "item_name": "브이펜드주사200밀리그람(보리코나졸)(주사용)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20010730",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102252]보리코나졸",
+ "main_item_ingr_eng": "Voriconazole",
+ "edi_code": "648900371",
+ "atc_code": "J02AC03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108818",
+ "revisions": [
+  {
+   "revision_id": "200108818-30682d53",
+   "content_sha256": "30682d535dd3ff1f0ede915cbbb52da9e269b9dd08dc2919327d4707498a3601",
+   "ee_text": "브이펜드는 다음과 같은 진균 감염에 대한 치료에 사용된다. - 침습성 Aspergillus 감염에 대한 치료 임상시험에서 얻은 분리균주의 대부분은 Aspergillus fumigatus이었다. 균배양을 통해 A. fumigatus 이외의 다른 Aspergillus 균주에 대한 질환인 것으로 확인된 예도 소수 있었다. - 호중구감소증이 없는 환자에서의 칸디다혈증 및 다음의 칸디다 감염: 피부의 파종성 감염 및 복부, 신장, 방광벽, 상처부위의 감염 - Scedosporium apiospermum (Pseudallescheria boydii의 무성생식형)과 Fusarium 속(Fusarium solani 포함)에 의한 중증 진균감염 중 다른 치료법에 대해 내약성이 나쁘거나 불응성인 환자에 대한 치료 급성백혈병(급성 골수성 백혈병, 급성 림프성 백혈병, 골수형성이상증후군), 림프종 치료실패 또는 만성골수성백혈병으로 인한 조혈모세포이식환자에서의 침습성 진균 감염증의 예방",
+   "ee_doc_id": "25",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:49Z",
+   "last_observed_at": "2026-09-08T08:35:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:49Z"
+}

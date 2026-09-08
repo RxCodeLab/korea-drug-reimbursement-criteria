@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000203",
+ "item_name": "하이톡스주100단위(클로스트리디움보툴리눔독소A형)(수출용)[수출명:엠유렉스주(Mulex inj.)]",
+ "entp_name": "(주)한국비엠아이",
+ "permit_date": "20200113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096119]클로스트리디움보툴리눔독소A형",
+ "main_item_ingr_eng": "Clostridium Botulinum Toxin Type A",
+ "edi_code": "",
+ "atc_code": "M03AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000203",
+ "revisions": [
+  {
+   "revision_id": "202000203-e442806b",
+   "content_sha256": "e442806b7a94f18d791706d95550761d1556d747e27152dc39811ac29aa0c132",
+   "ee_text": "만 19세 이상 65세 이하의 성인에 있어서 눈썹주름근(Corrugator muscle) 그리고/또는 눈살근(Procerus muscle) 활동과 관련된 중등증 내지 중증의 심한 미간 주름의 일시적 개선",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:28Z",
+   "last_observed_at": "2026-09-08T08:57:28Z",
+   "official_revision_date": "2024-03-19"
+  },
+  {
+   "revision_id": "202000203-aeed8bd0",
+   "content_sha256": "aeed8bd0e9a0e9ee718c9ccc3309c4aea0056d53d51dc74d17cb33fbd7bf1ed7",
+   "ee_text": "만 19세 이상 65세 이하의 성인에 있어서 눈썹주름근(corrugator muscle) 그리고/또는 눈살근(procerus muscle) 활동과 관련된 중등도 내지 중증의 심한 미간 주름의 일시적 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-01-13",
+   "first_observed_at": "2026-09-08T08:57:28Z",
+   "last_observed_at": "2026-09-08T08:57:28Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:28Z"
+}

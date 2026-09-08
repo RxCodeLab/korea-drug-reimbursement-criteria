@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201908474",
+ "item_name": "명문시티콜린정500밀리그램(시티콜린나트륨)(수출용)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20191217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080525]시티콜린나트륨",
+ "main_item_ingr_eng": "Citicoline Sodium",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908474",
+ "revisions": [
+  {
+   "revision_id": "201908474-7f3014bd",
+   "content_sha256": "7f3014bd5e80b6d2cb6fb174d3bb68470636e66b0496b78db7f06bf5d1911d4d",
+   "ee_text": "중등도 - 중증의 급성 허혈성 뇌졸증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:17Z",
+   "last_observed_at": "2026-09-08T08:57:17Z",
+   "official_revision_date": "2019-12-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:17Z"
+}

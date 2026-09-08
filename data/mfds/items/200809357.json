@@ -7,11 +7,12 @@
  "permit_date": "20080908",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040202]반하|[M051291]인삼|[M040073]대황|[M040071]대추|[M040180]모려|[M050037]계지|[M040225]복령|[M040789]황금|[M218953]이상 연조엑스로서|[M051196]용골|[M040336]시호|[M050752]생강",
+ "main_item_ingr": "[M040071]대추|[M040073]대황|[M040180]모려|[M040202]반하|[M040225]복령|[M040336]시호|[M040789]황금|[M050037]계지|[M050752]생강|[M051196]용골|[M051291]인삼|[M218953]이상 연조엑스로서",
  "main_item_ingr_eng": "As Soft Extract/Bupleurum Root/Cinnamomi Ramulus/Ginseng/Jujube/Longgu/Oyster Shell/Pinellia Tuber/Poria/Raw Ginger/Rhubarb/Scutellaria Root",
  "edi_code": "",
  "atc_code": "N07XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809357",
+ "history_fetched_at": "2026-08-28T13:24:19Z",
  "revisions": [
   {
    "revision_id": "200809357-37f4bfaa",
@@ -19,7 +20,8 @@
    "ee_text": "정신불안이 있고, 두근거림, 불면 등을 동반하는 다음의 증상 : 고혈압의 동반증상(두근거림, 불안, 불면), 신경과민, 갱년기 신경과민, 야제증(夜啼症, 어린이가 밤에 우는 증상)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200809357/EE",
    "first_observed_at": "2026-08-28T13:24:19Z",
-   "last_observed_at": "2026-08-28T13:24:19Z"
+   "last_observed_at": "2026-09-08T08:42:48Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200809357-c6e60450",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:19Z",
    "last_observed_at": "2026-08-28T13:24:19Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:19Z"
+ ]
 }

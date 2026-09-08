@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199402941",
+ "item_name": "팩슨의료용아산화질소",
+ "entp_name": "(주)팩슨",
+ "permit_date": "19941027",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040349]아산화질소",
+ "main_item_ingr_eng": "Nitrous Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199402941",
+ "revisions": [
+  {
+   "revision_id": "199402941-cf2486e4",
+   "content_sha256": "cf2486e4c51a61f7280e3a0f7690c1218b3e43ea3d39a6b7a4273ec299898c12",
+   "ee_text": "전신 마취 진통 및 진정",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:21Z",
+   "last_observed_at": "2026-09-08T08:29:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:21Z"
+}

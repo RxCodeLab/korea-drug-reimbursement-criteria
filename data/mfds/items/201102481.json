@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201102481",
+ "item_name": "동광제피아스코르빈산질정(수출용)",
+ "entp_name": "동광제약(주)",
+ "permit_date": "20110422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M236913]제피아스코르브산",
+ "main_item_ingr_eng": "Ascorbic Acid Coated",
+ "edi_code": "",
+ "atc_code": "G01AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102481",
+ "revisions": [
+  {
+   "revision_id": "201102481-26ebe52c",
+   "content_sha256": "26ebe52c6652772654bc831ab09e3c240416e0ba99b22e4c17676a94f01b5f8f",
+   "ee_text": "경증 및 중등도의 만성 또는 재발성질염(세균성 질염, 비특이성 질염) ; 손상된 질내 세균총의 정상화",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:35Z",
+   "last_observed_at": "2026-09-08T08:44:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:35Z"
+}

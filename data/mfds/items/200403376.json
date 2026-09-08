@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403376",
+ "item_name": "녹십자-수두사람면역글로불린주",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20041115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085442]수두사람면역글로불린",
+ "main_item_ingr_eng": "Varicella Human Immunoglobulin",
+ "edi_code": "643600411",
+ "atc_code": "J06BB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403376",
+ "revisions": [
+  {
+   "revision_id": "200403376-77e83f9b",
+   "content_sha256": "77e83f9b1db5514966d9814c4fbec2d1f446a29859af630eecfc7c8098733ead",
+   "ee_text": "수두에 노출된 감수성 높은 면역결핍 소아의 수동면역 1. 선천성 면역결핍질환 또는 종양을 앓고 있는 소아 2. 면역 억제를 위하여 스테로이드제나 대사억제 또는 기타의 면역억제 요법을 투여중인 소아 3. 분만 5일 이전 또는 분만 후 48시간 이내에 수두에 감염된 산모로부터 태어난 신생아",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:20Z",
+   "last_observed_at": "2026-09-08T08:38:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:20Z"
+}

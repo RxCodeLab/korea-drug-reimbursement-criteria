@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199700684",
+ "item_name": "장나환",
+ "entp_name": "정우신약(주)",
+ "permit_date": "19971008",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M252310]장나환건조엑스(6.7->1)",
+ "main_item_ingr_eng": "Jangnahwan Dried Extract(6.7→1)",
+ "edi_code": "",
+ "atc_code": "A07XA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700684",
+ "revisions": [
+  {
+   "revision_id": "199700684-d6c7f2c4",
+   "content_sha256": "d6c7f2c4d9a8a8321f0ee24b692a9c1f4b404bbc374c2a042e0d978bd1599db5",
+   "ee_text": "급·만성장염, 설사, 궤양성 대장염",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:47Z",
+   "last_observed_at": "2026-09-08T08:30:47Z",
+   "official_revision_date": "2009-04-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:47Z"
+}

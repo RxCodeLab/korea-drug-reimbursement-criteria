@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201007720",
+ "item_name": "엠에스의료용이산화탄소",
+ "entp_name": "(주)엠에스가스",
+ "permit_date": "20101227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040491]이산화탄소",
+ "main_item_ingr_eng": "Carbon Dioxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007720",
+ "revisions": [
+  {
+   "revision_id": "201007720-fa5474cd",
+   "content_sha256": "fa5474cdd636a1fbbee78ccf411f66d440fd8e39b205ff81b736717387d2b8ca",
+   "ee_text": "의료용가스",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:21Z",
+   "last_observed_at": "2026-09-08T08:44:21Z",
+   "official_revision_date": "2019-12-05"
+  },
+  {
+   "revision_id": "201007720-988ba5e7",
+   "content_sha256": "988ba5e77e3471b0a618c6b11ec4b184f67a0d9ad2dfe9ecab3e13a84909fb6f",
+   "ee_text": "의료용 가스(제제용) 폐쇄순환 마취기에 산소와 혼용하여 사용, 호흡기질환, 흥분제",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:21Z",
+   "last_observed_at": "2026-09-08T08:44:21Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:21Z"
+}

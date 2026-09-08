@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200290",
+ "item_name": "위크린피에이액(고농도아세트산평형혼합물)",
+ "entp_name": "주식회사위지피제약",
+ "permit_date": "20220118",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269413]고농도아세트산평형혼합물",
+ "main_item_ingr_eng": "Highly Concentrated Balanced Mixture of Acetic Acid",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200290",
+ "revisions": [
+  {
+   "revision_id": "202200290-d74325e0",
+   "content_sha256": "d74325e036258f7ddab50eca0c3eaa3557b144078aca94095d793e0d2f2fa1cd",
+   "ee_text": "의료기구의 멸균 및 소독 (열에 민감한 내시경 포함)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:59Z",
+   "last_observed_at": "2026-09-08T09:00:59Z",
+   "official_revision_date": "2022-01-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:59Z"
+}

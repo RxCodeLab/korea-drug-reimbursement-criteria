@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197500236",
+ "item_name": "래피탈질정(클로트리마졸)(수출명:CATIOMA)(수출용)",
+ "entp_name": "(주)에이프로젠바이오로직스",
+ "permit_date": "19751128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088335]클로트리마졸",
+ "main_item_ingr_eng": "Clotrimazole",
+ "edi_code": "",
+ "atc_code": "G01AF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197500236",
+ "revisions": [
+  {
+   "revision_id": "197500236-a878942e",
+   "content_sha256": "a878942e292a407b694904ebf0e6095b95ec0302ad5b99f25c51ca32ffcd285d",
+   "ee_text": "칸디다성 질염",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:22Z",
+   "last_observed_at": "2026-09-08T08:26:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:22Z"
+}

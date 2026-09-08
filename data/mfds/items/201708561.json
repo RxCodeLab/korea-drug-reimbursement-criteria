@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201708561",
+ "item_name": "에스람정10밀리그램(에스시탈로프람옥살산염)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20171222",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234885]에스시탈로프람옥살산염",
+ "main_item_ingr_eng": "Escitalopram Oxalate",
+ "edi_code": "647204860",
+ "atc_code": "N06AB10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708561",
+ "revisions": [
+  {
+   "revision_id": "201708561-615dbb5c",
+   "content_sha256": "615dbb5c9b65b9bf03744420c05a583e4648c2c3cf6a95a0ec738567c8df8e73",
+   "ee_text": "주요우울장애, 광장공포증을 수반하거나 수반하지 않는 공황장애, 사회불안장애(사회공포증), 범불안장애, 강박장애의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:44Z",
+   "last_observed_at": "2026-09-08T08:52:44Z",
+   "official_revision_date": "2017-12-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:44Z"
+}

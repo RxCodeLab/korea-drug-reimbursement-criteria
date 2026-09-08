@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201903110",
+ "item_name": "안티렌크림(구아야줄렌)",
+ "entp_name": "(주)일화",
+ "permit_date": "20190514",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256451]구아야줄렌",
+ "main_item_ingr_eng": "Guaiazulene",
+ "edi_code": "",
+ "atc_code": "D03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903110",
+ "revisions": [
+  {
+   "revision_id": "201903110-5b5989f1",
+   "content_sha256": "5b5989f19b34caab2d68136f071dfb6a950b5aadf22a04a9bb9fb2c276648ba5",
+   "ee_text": "습진, 열상(화상), 그 외의 질환에 따른 미란 및 궤양",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:09Z",
+   "last_observed_at": "2026-09-08T08:55:09Z",
+   "official_revision_date": "2019-05-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:09Z"
+}

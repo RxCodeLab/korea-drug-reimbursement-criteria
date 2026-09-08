@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400079",
+ "item_name": "아스카캡슐",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "20040826",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040059]노스카핀|[M050059]구아야콜설폰산칼륨|[M100982]감초건조엑스(5ㆍ9->1)|[M223183]카페인무수물|[M251260]카르비녹사민말레산염|[M253687]메톡시페나민염산염",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Carbinoxamine Maleate/Glycyrrhiza Dried Extract (5.9→1)/Methoxyphenamine Hydrochloride/Noscapine/Potassium Guaiacolsulfonate",
+ "edi_code": "",
+ "atc_code": "R05FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400079",
+ "revisions": [
+  {
+   "revision_id": "200400079-78dd308e",
+   "content_sha256": "78dd308e0cabff9495a553cd7e6646318532bf70f886bda2821e2f6252f7b915",
+   "ee_text": "기침, 가래, 천식",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:27Z",
+   "last_observed_at": "2026-09-08T08:37:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:27Z"
+}

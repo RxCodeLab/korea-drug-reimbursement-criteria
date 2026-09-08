@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905921",
+ "item_name": "엘티스에프정[애엽이소프로판올연조엑스(20→1)]",
+ "entp_name": "지엘팜텍(주)",
+ "permit_date": "20190821",
+ "cancel_date": "20231207",
+ "status": "취하",
+ "main_item_ingr": "[M255044]애엽이소프로판올연조엑스(20→1)",
+ "main_item_ingr_eng": "Artemisiae Argyi Folium Isopropanol Soft Extract (20→1)",
+ "edi_code": "",
+ "atc_code": "A02X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905921",
+ "revisions": [
+  {
+   "revision_id": "201905921-ddb457f8",
+   "content_sha256": "ddb457f8cacf0c2e8dbe0d23538d857d36ec38898a2f1694ae0d056736b4481b",
+   "ee_text": "다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:10Z",
+   "last_observed_at": "2026-09-08T08:56:10Z",
+   "official_revision_date": "2019-08-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:10Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900710",
+ "item_name": "시메트로주사(시메트로퓸브롬화물)",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "20190130",
+ "cancel_date": "20240130",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M257165]시메트로퓸브롬화물",
+ "main_item_ingr_eng": "Cimetropium Bromide",
+ "edi_code": "",
+ "atc_code": "A03BB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900710",
+ "revisions": [
+  {
+   "revision_id": "201900710-c3ee9dc5",
+   "content_sha256": "c3ee9dc5314ecbe9ff9c2e333074951cc40b5ad0f1aa0af1c6e1c1275ed7790a",
+   "ee_text": "1. 위장관계의 경련 및 기능적 운동장애 2. 소화관 내시경 검사 전 투약 : 십이지장의 무긴장증과 오디괄약근의 이완",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:10Z",
+   "last_observed_at": "2026-09-08T08:54:10Z",
+   "official_revision_date": "2019-01-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:10Z"
+}

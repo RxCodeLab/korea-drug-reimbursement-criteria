@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501407",
+ "item_name": "노스카딘겔(퓨시드산수화물)",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20250609",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259971]퓨시드산수화물",
+ "main_item_ingr_eng": "Fusidic Acid Hydrate",
+ "edi_code": "",
+ "atc_code": "D06AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501407",
+ "revisions": [
+  {
+   "revision_id": "202501407-c484feda",
+   "content_sha256": "c484fedadcede8bc12e5903c8599e9e3c1427959432e5269e2cc15339c94bd7e",
+   "ee_text": "○ 유효균종 포도구균(포도알균), 연쇄구균, 코리네박테륨, 클로스트리듐 ○ 적응증 - 농피증(고름피부증)[농가진(고름딱지증), 감염성습진양피부염, 심상성여드름(보통여드름), 모낭염, 종기 및 종기증, 화농성한선염, 농가진성습진], 화상ㆍ외상(상처)ㆍ봉합창(꿰맴상처)ㆍ식피창(피부 이식후 생긴 상처)에 의한 2차 감염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:59Z",
+   "last_observed_at": "2026-09-08T09:03:59Z",
+   "official_revision_date": "2025-06-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:59Z"
+}

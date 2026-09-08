@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201006527",
+ "item_name": "프레지스타정400밀리그램(다루나비르에탄올레이트)",
+ "entp_name": "(주)한국얀센",
+ "permit_date": "20101029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258751]다루나비르에탄올레이트",
+ "main_item_ingr_eng": "Darunavir Ethanolate",
+ "edi_code": "646901640",
+ "atc_code": "J05AE10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006527",
+ "revisions": [
+  {
+   "revision_id": "201006527-3284c903",
+   "content_sha256": "3284c903c10fa31bd0d7d4d46f6b65e11114853d1dbfdcd521ad6ec83c208156",
+   "ee_text": "인간면역결핍바이러스(HIV) 감염환자의 치료를 위한 다른 항레트로바이러스제와의 병용 요법. 단, 이 약은 항상 리토나비르 100mg 과 함께 투여한다.",
+   "ee_doc_id": "31",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:17Z",
+   "last_observed_at": "2026-09-08T08:44:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:17Z"
+}

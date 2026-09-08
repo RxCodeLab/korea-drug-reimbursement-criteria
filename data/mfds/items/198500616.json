@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500616",
+ "item_name": "명인클로르프로마진염산염정100mg",
+ "entp_name": "명인제약(주)",
+ "permit_date": "19850417",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223216]클로르프로마진염산염",
+ "main_item_ingr_eng": "Chlorpromazine Hydrochloride",
+ "edi_code": "651900760",
+ "atc_code": "N05AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500616",
+ "revisions": [
+  {
+   "revision_id": "198500616-522047f9",
+   "content_sha256": "522047f9978b1d35ac54145a3a369befc6a25663c704ab60da3b48c947cc6990",
+   "ee_text": "정신분열증, 기타의 정신병, 조증, 구역·구토, 딸꾹질, 인공동면, 정신병적 장애에서의 증상으로 나타나는 불안·긴장·흥분",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:03Z",
+   "last_observed_at": "2026-09-08T08:27:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:03Z"
+}

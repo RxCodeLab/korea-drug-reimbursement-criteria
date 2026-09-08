@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204353",
+ "item_name": "베나보정0.3밀리그램(이나보글리플로진)",
+ "entp_name": "대웅바이오(주)",
+ "permit_date": "20221205",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283330]이나보글리플로진",
+ "main_item_ingr_eng": "Enavogliflozin",
+ "edi_code": "694003990",
+ "atc_code": "A10BK09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204353",
+ "revisions": [
+  {
+   "revision_id": "202204353-5c51f28d",
+   "content_sha256": "5c51f28dba89419e90b870fb8c950dd770a210d2bf65a2eabe703d031f6edbda",
+   "ee_text": "이 약은 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. - 단독요법 - 병용요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:43Z",
+   "last_observed_at": "2026-09-08T09:01:43Z",
+   "official_revision_date": "2022-12-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:43Z"
+}

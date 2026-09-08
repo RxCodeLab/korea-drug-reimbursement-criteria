@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200908472",
+ "item_name": "뮤타플로현탁액 (E.coli strain Nissle 1917)",
+ "entp_name": "리퓨어헬스케어(주)",
+ "permit_date": "20091204",
+ "cancel_date": "20250701",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M247882]E.coli strain Nissle 1917의 Biomass",
+ "main_item_ingr_eng": "Biomass With Viable Cells of E.coli Strain Nissle 1917",
+ "edi_code": "",
+ "atc_code": "A07FA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908472",
+ "revisions": [
+  {
+   "revision_id": "200908472-c14b85d9",
+   "content_sha256": "c14b85d91707eafc118bf113871497da01f2949e0a6c6d4473b5bd4a6595ccbc",
+   "ee_text": "• 영아 및 어린이의 설사 • 조산아 및 신생아의 장내 유해세균의 집락형성 예방 • 조산아 및 신생아의 신체 자연방어력 증강",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:37Z",
+   "last_observed_at": "2026-09-08T08:43:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:37Z"
+}

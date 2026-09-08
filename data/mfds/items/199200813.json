@@ -7,11 +7,12 @@
  "permit_date": "19920627",
  "cancel_date": "20250903",
  "status": "폐업",
- "main_item_ingr": "[M250837]오로트산수화물|[M223183]카페인무수물|[M040064]니코틴산아미드|[M040133]리보플라빈|[M204304]피리독신염산염|[M050083]글루쿠로노락톤|[M204304]피리독신염산염|[M040133]리보플라빈|[M040064]니코틴산아미드|[M223183]카페인무수물|[M250837]오로트산수화물|[M050083]글루쿠로노락톤",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040064]니코틴산아미드|[M040133]리보플라빈|[M040133]리보플라빈|[M050083]글루쿠로노락톤|[M050083]글루쿠로노락톤|[M204304]피리독신염산염|[M204304]피리독신염산염|[M223183]카페인무수물|[M223183]카페인무수물|[M250837]오로트산수화물|[M250837]오로트산수화물",
  "main_item_ingr_eng": "Anhydrous Caffeine/Glucuronolactone/Nicotinamide/Orotic Acid Hydrate/Pyridoxine Hydrochloride/Riboflavin",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200813",
+ "history_fetched_at": "2026-08-28T13:23:44Z",
  "revisions": [
   {
    "revision_id": "199200813-8a0c6524",
@@ -19,9 +20,9 @@
    "ee_text": "자양강장, 피로회복",
    "ee_doc_id": "19",
    "first_observed_at": "2026-08-28T13:23:44Z",
-   "last_observed_at": "2026-08-28T13:23:44Z",
-   "official_revision_date": "2017-10-30"
+   "last_observed_at": "2026-09-08T08:28:23Z",
+   "official_revision_date": "2017-10-30",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:44Z"
+ ]
 }

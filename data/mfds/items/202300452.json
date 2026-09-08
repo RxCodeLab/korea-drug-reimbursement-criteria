@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300452",
+ "item_name": "가스트릭서방정(록사티딘아세테이트염산염)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20230203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M241476]록사티딘아세테이트염산염",
+ "main_item_ingr_eng": "Roxatidine Acetate Hydrochloride",
+ "edi_code": "645605810",
+ "atc_code": "A02BA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300452",
+ "revisions": [
+  {
+   "revision_id": "202300452-da72ca2d",
+   "content_sha256": "da72ca2da21b6b9c99f6e0185adfcfcc272322cbe5a6b5802fac21d69a606f1e",
+   "ee_text": "1. 주효능 효과 ⦁ 위.십이지장궤양 ⦁ 역류성식도염 ⦁ 졸링거엘리슨 증후군 ⦁ 위산이 흡인될 위험(Mendelson's syndrome)이 있는 환자의 마취전 투여, 특히 분만중인 환자의 마취전 투여 ⦁ 다음 질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성 위염의 급성악화기",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:51Z",
+   "last_observed_at": "2026-09-08T09:01:51Z",
+   "official_revision_date": "2023-02-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:51Z"
+}

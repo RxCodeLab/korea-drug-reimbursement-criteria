@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200902797",
+ "item_name": "볼리브리스정10밀리그램(암브리센탄)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20090420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246197]암브리센탄",
+ "main_item_ingr_eng": "Ambrisentan",
+ "edi_code": "650002320",
+ "atc_code": "C02KX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902797",
+ "revisions": [
+  {
+   "revision_id": "200902797-e779d4e3",
+   "content_sha256": "e779d4e3e06cf3581dc6fd2d73c04e9b30c40157c7c0ebc19893d574b91cbf55",
+   "ee_text": "WHO 기능분류 II, III 단계에 해당하는 폐동맥 고혈압 (WHO Group 1) 환자에서 운동능력개선 및 임상적 악화의 지연",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:14Z",
+   "last_observed_at": "2026-09-08T08:43:14Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:14Z"
+}

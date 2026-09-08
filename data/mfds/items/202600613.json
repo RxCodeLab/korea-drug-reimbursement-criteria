@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600613",
+ "item_name": "다사킨정20밀리그램(다사티닙)",
+ "entp_name": "(주)보령",
+ "permit_date": "20260227",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M206461]다사티닙",
+ "main_item_ingr_eng": "Dasatinib",
+ "edi_code": "641908810",
+ "atc_code": "L01EA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600613",
+ "revisions": [
+  {
+   "revision_id": "202600613-0b95d4d6",
+   "content_sha256": "0b95d4d69416b6e8e36417adcc42dc85fcaae38f6343b4fca1731daca4555f71",
+   "ee_text": "1) 새로이 진단받은 만성기 필라델피아 염색체 양성 만성골수성백혈병(Ph＋ CML) 성인환자의 치료. 2) 이매티닙을 포함한 선행요법에 저항성 또는 불내성을 보이는 만성기, 가속기, 또는 골수성이나 림프구성 모구성발증기의 만성골수성백혈병(Ph＋ CML) 성인환자의 치료. 3) 선행요법에 저항성 또는 불내성을 보이는 필라델피아 염색체 양성 급성 림프구성 백혈병(Ph+ ALL) 성인환자의 치료. 4) 만 1세 이상의 만성기 필라델피아 염색체 양성 만성골수성백혈병(Ph＋ CML) 소아환자의 치료. 5) 새로이 진단받은 만 1세 이상의 필라델피아 염색체 양성 급성 림프구성 백혈병(Ph+ ALL) 소아환자에서 항암화학요법과의 병용 요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:51Z",
+   "last_observed_at": "2026-09-08T09:04:51Z",
+   "official_revision_date": "2026-02-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:51Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201406185",
+ "item_name": "올로벨라점안액0.1%(올로파타딘염산염)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20141231",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M233188]올로파타딘염산염",
+ "main_item_ingr_eng": "Olopatadine Hydrochloride",
+ "edi_code": "643306841",
+ "atc_code": "S01GX09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406185",
+ "revisions": [
+  {
+   "revision_id": "201406185-50267db1",
+   "content_sha256": "50267db165b8023ba9787ced7cdc75c23f27eff82e2d140b6058c957df155c21",
+   "ee_text": "알레르기성 결막염으로 인한 증상 치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:13Z",
+   "last_observed_at": "2026-09-08T08:48:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:13Z"
+}

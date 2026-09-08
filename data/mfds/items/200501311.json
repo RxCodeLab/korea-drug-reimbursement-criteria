@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501311",
+ "item_name": "마크라신정(수출용)(아세틸스피라마이신)(수출명:VIDOROVICYNTab.)",
+ "entp_name": "천우신약(주)",
+ "permit_date": "20050818",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020086]아세틸스피라마이신",
+ "main_item_ingr_eng": "Acetylspiramycin",
+ "edi_code": "",
+ "atc_code": "J01FA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501311",
+ "revisions": [
+  {
+   "revision_id": "200501311-d75e2e1f",
+   "content_sha256": "d75e2e1f7f60cba1234d2603b042f18bba026cdd1e026c08bbbdc25fd95df8b1",
+   "ee_text": "○ 유효균종 포도구균, 연쇄구균, 폐렴연쇄구균, 매독균 ○ 적응증 - 옹종, 종기, 종기증, 연조직염, 생인손, 농가진, 림프절염, 모낭염, 감염성 죽종 - 편도염, 인두염, 기관지염, 폐렴, 기관지확장증(감염 시), 폐농양 - 중이염 - 창상, 화상 및 수술 후 2차 감염, 골수염, 유선염 - 성홍열 - 담낭염 - 자궁부속기염 - 매독 - 다래끼, 급성누낭염",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:07Z",
+   "last_observed_at": "2026-09-08T08:39:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:07Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200103166",
+ "item_name": "메리난주(수출용)",
+ "entp_name": "(주)유영제약",
+ "permit_date": "20010924",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051845]프록시필린|[M096070]멜릴로투스추출액",
+ "main_item_ingr_eng": "Melilotus Extract Solution/Proxyphylline",
+ "edi_code": "",
+ "atc_code": "C04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200103166",
+ "revisions": [
+  {
+   "revision_id": "200103166-b15d6f03",
+   "content_sha256": "b15d6f039c5738e8b0cc756ca7e7de565ff341a2d1b660ce19db553c28959402",
+   "ee_text": "1. 뇌혈관 및 말초순환장애 2. 와상(염좌, 골절, 타박, 좌상 등), 수술 후의 연부 종창으로 인한 염증의 완화",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:35Z",
+   "last_observed_at": "2026-09-08T08:35:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:35Z"
+}

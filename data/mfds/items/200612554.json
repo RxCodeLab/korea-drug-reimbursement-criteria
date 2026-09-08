@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200612554",
+ "item_name": "화일세프트리악손나트륨주 500mg(세프트리악손나트륨수화물)(수출용)",
+ "entp_name": "화일약품(주)",
+ "permit_date": "20061220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222862]세프트리악손나트륨수화물",
+ "main_item_ingr_eng": "Ceftriaxone Sodium Hydrate",
+ "edi_code": "",
+ "atc_code": "J01DD04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200612554",
+ "revisions": [
+  {
+   "revision_id": "200612554-8f3d3067",
+   "content_sha256": "8f3d3067321eadb254398fc06f2db7edd29473f00908856fefb7500185e50cbe",
+   "ee_text": "http://ezdrug.kfda.go.kr 중 AA01841의 효능/효과에 의함.",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:49Z",
+   "last_observed_at": "2026-09-08T08:40:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:49Z"
+}

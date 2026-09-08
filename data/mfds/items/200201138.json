@@ -7,11 +7,12 @@
  "permit_date": "20020822",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M220819]L-카르보시스테인|[M084178]히드록시벤조일안식향산프로녹스디아진",
+ "main_item_ingr": "[M084178]히드록시벤조일안식향산프로녹스디아진|[M220819]L-카르보시스테인",
  "main_item_ingr_eng": "L-Carbocisteine/Prenoxdiazine Hydroxybenzoylbenzoate",
  "edi_code": "",
  "atc_code": "R05FB01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201138",
+ "history_fetched_at": "2026-08-28T13:24:00Z",
  "revisions": [
   {
    "revision_id": "200201138-e08fc327",
@@ -19,9 +20,9 @@
    "ee_text": "다음 질환에서의 기침 및 객담배출곤란 : 기관지염, 경련성 기관·기관지염, 기관지확장증, 기관지루, 폐기종, 유아의 선천성 기침과 그 합병증의 예방",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:24:00Z",
-   "last_observed_at": "2026-08-28T13:24:00Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:36:09Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:00Z"
+ ]
 }

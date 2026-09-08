@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201305496",
+ "item_name": "포탈락시럽(락티톨일수화물)",
+ "entp_name": "(주)텔콘알에프제약",
+ "permit_date": "20130220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203039]락티톨일수화물|[M203039]락티톨일수화물",
+ "main_item_ingr_eng": "Lactitol Monohydrate",
+ "edi_code": "",
+ "atc_code": "A06AD12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201305496",
+ "revisions": [
+  {
+   "revision_id": "201305496-8ff00411",
+   "content_sha256": "8ff00411e105f07b7dfcee63f3cbc142be0532eb0e36e59eb1e7bae65cec8d1c",
+   "ee_text": "변비",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:51Z",
+   "last_observed_at": "2026-09-08T08:45:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:51Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "20140120",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040306]수산화마그네슘|[M229291]건조수산화알루미늄 겔|[M201415]옥세타자인|[M201415]옥세타자인|[M040306]수산화마그네슘|[M040308]건조수산화알루미늄겔",
+ "main_item_ingr": "[M040306]수산화마그네슘|[M040306]수산화마그네슘|[M040308]건조수산화알루미늄겔|[M201415]옥세타자인|[M201415]옥세타자인|[M229291]건조수산화알루미늄 겔",
  "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel/Magnesium Hydroxide/Oxethazaine",
  "edi_code": "",
  "atc_code": "A02AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400237",
+ "history_fetched_at": "2026-08-28T13:24:34Z",
  "revisions": [
   {
    "revision_id": "201400237-58092018",
@@ -19,8 +20,9 @@
    "ee_text": "급성 ㆍ 만성통증, 위염, 십이지장궤양, 식도염, 방사선요법시 소화장애에의한 위통",
    "ee_doc_id": "19",
    "first_observed_at": "2026-08-28T13:24:34Z",
-   "last_observed_at": "2026-08-28T13:24:34Z",
-   "official_revision_date": "2024-06-11"
+   "last_observed_at": "2026-09-08T08:46:42Z",
+   "official_revision_date": "2024-06-11",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201400237-8c6c0bea",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:34Z",
    "last_observed_at": "2026-08-28T13:24:34Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:34Z"
+ ]
 }

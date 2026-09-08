@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401905",
+ "item_name": "나드릴정(나프로닐옥살산염)",
+ "entp_name": "대우제약(주)",
+ "permit_date": "20140418",
+ "cancel_date": "20240318",
+ "status": "취하",
+ "main_item_ingr": "[M247193]나프로닐옥살산염",
+ "main_item_ingr_eng": "Nafronyl Oxalate",
+ "edi_code": "",
+ "atc_code": "C04AX21",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401905",
+ "revisions": [
+  {
+   "revision_id": "201401905-e367e212",
+   "content_sha256": "e367e21205da7ea5d42a472e986c6a41358f7552a174ab1c204868079da90629",
+   "ee_text": "말초혈관 장애",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:57Z",
+   "last_observed_at": "2026-09-08T08:46:57Z",
+   "official_revision_date": "2020-05-02"
+  },
+  {
+   "revision_id": "201401905-1c61492b",
+   "content_sha256": "1c61492bb0c8fda6f731477a10460f8255f319052b9b1b0e5a3b17e234290f3f",
+   "ee_text": "1. 뇌혈행 및 뇌영양장애에 의한 증상 2. 말초, 내이, 눈의 망막·맥락막 혈행 및 영양장애",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:46:57Z",
+   "last_observed_at": "2026-09-08T08:46:57Z"
+  },
+  {
+   "revision_id": "201401905-eac4376d",
+   "content_sha256": "eac4376d28abec3d5590acde15d459ebe1d251b3cdd774bc09518784b0d4dbd8",
+   "ee_text": "1. 뇌혈관 장애 2. 말초혈관 장애",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2015-12-17",
+   "first_observed_at": "2026-09-08T08:46:57Z",
+   "last_observed_at": "2026-09-08T08:46:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:57Z"
+}

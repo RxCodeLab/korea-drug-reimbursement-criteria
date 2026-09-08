@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601284",
+ "item_name": "엘비탄디연질캡슐40밀리그램(엔잘루타미드)",
+ "entp_name": "에이치엘비제약(주)",
+ "permit_date": "20260429",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M115674]엔잘루타미드",
+ "main_item_ingr_eng": "Enzalutamide",
+ "edi_code": "647304780",
+ "atc_code": "L02BB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601284",
+ "revisions": [
+  {
+   "revision_id": "202601284-d9f5c9c5",
+   "content_sha256": "d9f5c9c580a4ec367b076808d89dadcb701a4f0ff6b01650c67795b60e59f2cb",
+   "ee_text": "1. 무증상 또는 경미한 증상의 전이성 거세저항성 전립선암 환자의 치료 2. 이전에 도세탁셀로 치료받았던 전이성 거세저항성 전립선암 환자의 치료 3. 고위험 비전이성 거세저항성 전립선암 환자의 치료 4. 호르몬 반응성 전이성 전립선암(mHSPC) 환자의 치료에 안드로겐 차단요법(ADT)과 병용 5. 생화학적으로 재발한(BCR) 고위험 호르몬 반응성 비전이성 전립선암(nmHSPC) 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:08Z",
+   "last_observed_at": "2026-09-08T09:05:08Z",
+   "official_revision_date": "2026-04-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:08Z"
+}

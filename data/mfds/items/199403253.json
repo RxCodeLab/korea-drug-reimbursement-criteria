@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199403253",
+ "item_name": "알콘아트로핀황산염1%점안제(아트로핀황산염수화물)",
+ "entp_name": "한국알콘(주)",
+ "permit_date": "19950224",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223111]아트로핀황산염수화물",
+ "main_item_ingr_eng": "Atropine Sulfate Hydrate",
+ "edi_code": "652400751",
+ "atc_code": "S01FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403253",
+ "revisions": [
+  {
+   "revision_id": "199403253-775c9bdd",
+   "content_sha256": "775c9bdd5e0f37571f8b886fa75483ccd9090bc07bf3a4110d6f637d9eb00c42",
+   "ee_text": "진단 및 치료 목적의 산동 및 조절마비",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:21Z",
+   "last_observed_at": "2026-09-08T08:29:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:21Z"
+}

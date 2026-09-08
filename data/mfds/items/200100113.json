@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200100113",
+ "item_name": "펜굿과립250㎎(바캄피실린염산염)(수출용)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20010605",
+ "cancel_date": "20250714",
+ "status": "취하",
+ "main_item_ingr": "[M222846]바캄피실린염산염",
+ "main_item_ingr_eng": "Bacampicillin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "J01CA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100113",
+ "revisions": [
+  {
+   "revision_id": "200100113-96ee48c8",
+   "content_sha256": "96ee48c8bfa779cf9204774f0e54a59772d30f9abad7842353ef52270d23d47e",
+   "ee_text": "황색포도구균, 표피포도구균, 화농연쇄구균, 장구균, 폐렴구균, 대장균 프로테우스 미라빌리 스, 인플루엔자균, 임균 중 암피실린 감성균에 대한 하기감염증 1) 편도염, 인후두염, 기관지염, 폐렴, 부비강염, 중이염 2) 성홍열 3) 절·절종증 모낭염, 농가진, 농피증, 피하농양, 봉와직염, 감염성분류, 표저 4) 임파절염, 유선염 5) 신우신염, 방광염, 요도염, 임질 6) 담낭염, 담관염, 복막염 7) 자궁부속기염, 자궁내막염 8) 맥립종, 안검농양, 각막궤양 9) 치조농양, 발치후 감염, 지치주위염 10) 창상·열상의 이차감염",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200100113/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:48Z",
+   "last_observed_at": "2026-09-08T08:34:48Z"
+  },
+  {
+   "revision_id": "200100113-cf860f9c",
+   "content_sha256": "cf860f9cea78655ff915c6508ba5d382a50b8627bf263b435b20ed9ede9c0407",
+   "ee_text": "1. 편도염, 인후두염, 기관지염, 폐렴, 부비강염, 중이염 2. 성홍열 3. 절·절종증 모낭염, 농가진, 농피증, 피하농양, 봉와직염, 감염성분류, 표저 4. 임파절염, 유선염 5. 신우신염, 방광염, 요도염, 임질 6. 담낭염, 담관염, 복막염 7. 자궁부속기염, 자궁내막염 8. 맥립종, 안검농양, 각막궤양 9. 치조농양, 발치후 감염, 지치주위염 10. 창상·열상의 이차감염",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:34:48Z",
+   "last_observed_at": "2026-09-08T08:34:48Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:48Z"
+}

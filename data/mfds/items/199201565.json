@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199201565",
+ "item_name": "싸이크람주200밀리그람(시클로포스파미드)(수출명: Zycram for Inj.200mg, Sinfosfamida for Inj.200mg, Xyclomed for Inj.200mg, Cyclovid for Inj.200mg)(수출용)",
+ "entp_name": "한국유나이티드제약(주)",
+ "permit_date": "19920904",
+ "cancel_date": "20241004",
+ "status": "취하",
+ "main_item_ingr": "[M040333]시클로포스파미드",
+ "main_item_ingr_eng": "Cyclophosphamide",
+ "edi_code": "",
+ "atc_code": "L01AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201565",
+ "revisions": [
+  {
+   "revision_id": "199201565-b805b959",
+   "content_sha256": "b805b959a2d2d4bb5f963d760986d4d89733834275f97ecb0eefefafe6163bfd",
+   "ee_text": "1. 악성림프종 2. 다발성골수종 3. 백혈병 4. 신경모세포종 5. 난소암 6. 망막아종 7. 유방암",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:27Z",
+   "last_observed_at": "2026-09-08T08:28:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:27Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "661900510",
  "atc_code": "M09AB03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502474",
+ "history_fetched_at": "2026-08-28T13:24:08Z",
  "revisions": [
   {
    "revision_id": "200502474-1456c510",
@@ -19,9 +20,9 @@
    "ee_text": "○ 부종(부기)을 동반한 염증 증상의 완화, 외상(상처) 또는 수술 후의 부종(부기)",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:24:08Z",
-   "last_observed_at": "2026-08-28T13:24:08Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:39:21Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:08Z"
+ ]
 }

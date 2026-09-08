@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302211",
+ "item_name": "페라사이드에스액(과아세트산액)",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20230720",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M115827]과아세트산 액",
+ "main_item_ingr_eng": "Peracetic Acid Solution",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302211",
+ "revisions": [
+  {
+   "revision_id": "202302211-2b0d6547",
+   "content_sha256": "2b0d65473e6a1e881dc5c090c99505d1bdfc82e9d7dc6954afd57956881a82fe",
+   "ee_text": "의료기구의 화학적 멸균 및 소독",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:14Z",
+   "last_observed_at": "2026-09-08T09:02:14Z",
+   "official_revision_date": "2023-12-06"
+  },
+  {
+   "revision_id": "202302211-80c8225a",
+   "content_sha256": "80c8225ad1854a1e0f34fc0de2eb3694b235a6fe3ad42ba77f1db1aab1dbe93f",
+   "ee_text": "의료기구의 살균 및 소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2023-07-20",
+   "first_observed_at": "2026-09-08T09:02:14Z",
+   "last_observed_at": "2026-09-08T09:02:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:14Z"
+}

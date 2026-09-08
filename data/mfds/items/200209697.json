@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200209697",
+ "item_name": "엘리델크림1%(피메크로리무스)",
+ "entp_name": "한국메나리니(주)",
+ "permit_date": "20021129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M097515]피메크로리무스",
+ "main_item_ingr_eng": "Pimecrolimus",
+ "edi_code": "674900371,674900372",
+ "atc_code": "D11AH02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200209697",
+ "revisions": [
+  {
+   "revision_id": "200209697-0c3f9d0f",
+   "content_sha256": "0c3f9d0fa93e99abe895202cb1ccea36aca942036ae70a01e6defc7b864c8ca3",
+   "ee_text": "다음 환자의 경증 ∼ 중등도 아토피 피부염의 2차치료제로서 단기 치료 또는 간헐적 장기치료 - 면역기능이 정상인 2세 이상의 소아 및 성인 환자 - 대체요법이나 기존치료법에 효과가 없거나 내약성이 있는 환자",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:33Z",
+   "last_observed_at": "2026-09-08T08:36:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:33Z"
+}

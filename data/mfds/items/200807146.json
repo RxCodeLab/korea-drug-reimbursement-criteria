@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200807146",
+ "item_name": "포리지질연질캡슐",
+ "entp_name": "위더스제약(주)",
+ "permit_date": "20080627",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020020]니스타틴|[M202893]네오마이신황산염|[M233313]폴리믹신B황산염",
+ "main_item_ingr_eng": "Neomycin Sulfate/Nystatin/Polymyxin B Sulfate",
+ "edi_code": "660702110",
+ "atc_code": "G01AA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807146",
+ "revisions": [
+  {
+   "revision_id": "200807146-dbae790b",
+   "content_sha256": "dbae790be6ad41c996c6f6503041b7d1980cb7770580498d9ff807edc6d9b948",
+   "ee_text": "질칸디다증 및 비특이성 세균성질염에 대한 국소 치료",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:39Z",
+   "last_observed_at": "2026-09-08T08:42:39Z",
+   "official_revision_date": "2017-10-27"
+  },
+  {
+   "revision_id": "200807146-02297359",
+   "content_sha256": "02297359ec3703536f56f728840fba0ae12352d202f901a6ee5ba2cec009b2d3",
+   "ee_text": "비특이성 세균성질염의 국소 치료",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:39Z",
+   "last_observed_at": "2026-09-08T08:42:39Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:39Z"
+}

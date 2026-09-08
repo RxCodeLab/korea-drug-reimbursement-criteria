@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302483",
+ "item_name": "알지퀵연질캡슐(펙소페나딘염산염)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20230822",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246634]펙소페나딘염산염",
+ "main_item_ingr_eng": "Fexofenadine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AX26",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302483",
+ "revisions": [
+  {
+   "revision_id": "202302483-7f085a39",
+   "content_sha256": "7f085a39629a7619122cf129fac2f957e319ecab813dfb9eed28d1696f79d164",
+   "ee_text": "꽃가루, 집 먼지(실내 먼지) 등에 의한 다음과 같은 코의 알레르기 증상의 완화: 재채기, 콧물, 코 막힘",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:21Z",
+   "last_observed_at": "2026-09-08T09:02:21Z",
+   "official_revision_date": "2023-08-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:21Z"
+}

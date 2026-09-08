@@ -7,20 +7,22 @@
  "permit_date": "20071023",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M250660]콘드로이틴설페이트나트륨|[M208932]γ-오리자놀|[M223240]토코페롤아세테이트|[M096429]시아노코발라민|[M204304]피리독신염산염|[M244748]판토텐산칼슘|[M040064]니코틴산아미드|[M222995]리보플라빈부티레이트|[M051415]푸르설티아민",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M051415]푸르설티아민|[M096429]시아노코발라민|[M204304]피리독신염산염|[M208932]γ-오리자놀|[M222995]리보플라빈부티레이트|[M223240]토코페롤아세테이트|[M244748]판토텐산칼슘|[M250660]콘드로이틴설페이트나트륨",
  "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin/Fursultiamine/Gamma-Oryzanol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Sodium Chondroitin Sulfate/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711893",
+ "history_fetched_at": "2026-08-28T13:24:15Z",
  "revisions": [
   {
-   "revision_id": "200711893-faa946c8",
-   "content_sha256": "faa946c89a5d6d3f817bde2d7acca75251fb48e14495da935034795e50921172",
-   "ee_text": "- 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 • 비타민E(토코페롤아세테이트) - 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨 ㆍ 목결림, 수족저림, 수족냉증 (손발이 차가움) • 비타민B 1 (푸르설티아민) - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) - 각기 - 눈의 피로 • 비타민B 2 , B 6 (리보플라빈부티레이트, 피리독신염산염) - 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(허염), 습진, 피부염",
+   "revision_id": "200711893-c0620a68",
+   "content_sha256": "c0620a68cccb5ef859ebd56c7f61bde8ead7e66bbf20cb8c0ab0215b5eb7d2ed",
+   "ee_text": "1. 다음경우의 비타민 E, B1, B2, B6의 보급 - 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 노년기 2. 이 약에 함유된 비타민 등의 효능․효과는 다음과 같다. • 비타민E(토코페롤아세테이트) - 말초혈행장애 및 갱년기시 다음 증상의 완화 : 어깨 ㆍ 목결림, 수족저림, 수족냉증 (손발이 차가움) • 비타민B1(푸르설티아민) - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) - 각기 - 눈의 피로 • 비타민B2, B6(리보플라빈부티레이트, 피리독신염산염) - 다음 증상의 완화 : 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(허염), 습진, 피부염",
    "ee_doc_id": "20",
    "first_observed_at": "2026-08-28T13:24:15Z",
-   "last_observed_at": "2026-08-28T13:24:15Z",
-   "official_revision_date": "2021-09-07"
+   "last_observed_at": "2026-09-08T08:42:01Z",
+   "official_revision_date": "2021-09-07",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200711893-5a4dbcbc",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:24:15Z",
    "last_observed_at": "2026-08-28T13:24:15Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:15Z"
+ ]
 }

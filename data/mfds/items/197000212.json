@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197000212",
+ "item_name": "하나페노바르비탈정",
+ "entp_name": "하나제약(주)",
+ "permit_date": "19701211",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040685]페노바르비탈",
+ "main_item_ingr_eng": "Phenobarbital",
+ "edi_code": "657802870",
+ "atc_code": "N03AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197000212",
+ "revisions": [
+  {
+   "revision_id": "197000212-521bc47a",
+   "content_sha256": "521bc47a8ec8796122e5e89676e5f7b482dd1a57c0a8ac627d32e4d24c6e5b93",
+   "ee_text": "(경구 : 정제) 불면, 진정, 뇌전증 (주사제) 진정(긴급을 요하는 경우), 뇌전증, 뇌전증중첩상태",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:17Z",
+   "last_observed_at": "2026-09-08T08:26:17Z",
+   "official_revision_date": "2022-11-30"
+  },
+  {
+   "revision_id": "197000212-7929630d",
+   "content_sha256": "7929630d46b3b0ba31d88589a064da796fdf9ea413bbd7ff3258109fa32e174e",
+   "ee_text": "(경구 : 정제) 불면, 진정, 간질 (주사제) 진정(긴급을 요하는 경우), 간질, 간질중첩상태",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:26:17Z",
+   "last_observed_at": "2026-09-08T08:26:17Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:17Z"
+}

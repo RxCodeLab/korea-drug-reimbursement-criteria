@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300338",
+ "item_name": "니라마이드산",
+ "entp_name": "(주)퍼슨",
+ "permit_date": "20030519",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040625]탄닌산|[M223110]아크리놀수화물|[M243785]산화아연",
+ "main_item_ingr_eng": "Acrinol Hydrate/Tannic Acid/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "D03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300338",
+ "revisions": [
+  {
+   "revision_id": "200300338-509be3c3",
+   "content_sha256": "509be3c3f1971878688f5c926710c480d112b4d3aa79f5ee468f90a24284af51",
+   "ee_text": "베인상처, 긁힌상처, 쓸린상처",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:44Z",
+   "last_observed_at": "2026-09-08T08:36:44Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:44Z"
+}

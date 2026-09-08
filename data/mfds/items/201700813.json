@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201700813",
+ "item_name": "노코리즈액(과산화수소수30%)",
+ "entp_name": "동아참메드주식회사",
+ "permit_date": "20170215",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080602]과산화수소수30%",
+ "main_item_ingr_eng": "Hydrogen Peroxide Solution 30%",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700813",
+ "revisions": [
+  {
+   "revision_id": "201700813-00e041e2",
+   "content_sha256": "00e041e2bff1ea82e790bd3343f65dccfd96153d32f13b2f5c0c00b06fbd1b02",
+   "ee_text": "의료기구(진료대, 수술대, 의료용 조명기 등)의 소독",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:31Z",
+   "last_observed_at": "2026-09-08T08:51:31Z",
+   "official_revision_date": "2018-03-23"
+  },
+  {
+   "revision_id": "201700813-c643d955",
+   "content_sha256": "c643d955b53b98d15eaa5bf895f495f0f59687275d91a849fc4d9713360e97ee",
+   "ee_text": "의료기기(진료대, 수술대, 의료용 조명기 등)의 살균소독",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:51:31Z",
+   "last_observed_at": "2026-09-08T08:51:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:31Z"
+}

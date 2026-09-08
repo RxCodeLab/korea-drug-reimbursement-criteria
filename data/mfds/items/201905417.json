@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905417",
+ "item_name": "퓨어아이점안액(폴리소르베이트80)(1회용)",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20190731",
+ "cancel_date": "20240731",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M244105]폴리소르베이트80",
+ "main_item_ingr_eng": "Polysorbate 80",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905417",
+ "revisions": [
+  {
+   "revision_id": "201905417-1ef7f0f2",
+   "content_sha256": "1ef7f0f236c78d364a1d0b8c16ad6d17aef3e51975e4853e002ec4297251f90d",
+   "ee_text": "눈의 건조증상의 완화, 자극의 일시적 경감",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:58Z",
+   "last_observed_at": "2026-09-08T08:55:58Z",
+   "official_revision_date": "2019-07-31"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:58Z"
+}

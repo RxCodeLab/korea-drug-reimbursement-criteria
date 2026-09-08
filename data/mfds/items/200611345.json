@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200611345",
+ "item_name": "셀비온메브로페닌주(메브로페닌)",
+ "entp_name": "(주)셀비온",
+ "permit_date": "20061120",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M207096]메브로페닌",
+ "main_item_ingr_eng": "Mebrofenin",
+ "edi_code": "055800042",
+ "atc_code": "V09DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611345",
+ "revisions": [
+  {
+   "revision_id": "200611345-c2c2ca91",
+   "content_sha256": "c2c2ca911b5602d891cb8716b83c6ce9735c31f4cecd67c260b1992607959de6",
+   "ee_text": "- 진단용 방사성의약품인 메브로페닌테크네튬(99mTc) 주사액의 조제용 - 메브로페닌테크네튬(99mTc) 주사액의 효능·효과 : 간담도 신티그래피에 의한 간담도 영상진단",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:46Z",
+   "last_observed_at": "2026-09-08T08:40:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:46Z"
+}

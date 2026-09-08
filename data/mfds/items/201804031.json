@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804031",
+ "item_name": "티포스겔(티로트리신)",
+ "entp_name": "일양바이오팜(주)",
+ "permit_date": "20181015",
+ "cancel_date": "20231015",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M020148]티로트리신",
+ "main_item_ingr_eng": "Tyrothricin",
+ "edi_code": "",
+ "atc_code": "D06AX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804031",
+ "revisions": [
+  {
+   "revision_id": "201804031-89e2a43d",
+   "content_sha256": "89e2a43ddd69442b6b6eefdfa672d96431f88791d96e0cd9e07cb08e77b1934f",
+   "ee_text": "티로트리신 감수성 균에 감염된 외상(예, 찰과상), 곪은 피부감염의 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:42Z",
+   "last_observed_at": "2026-09-08T08:53:42Z",
+   "official_revision_date": "2018-10-15"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:42Z"
+}

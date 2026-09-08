@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402426",
+ "item_name": "카나리스정100mg(카르두스마리아누스엑스)(수출용)(수출명:SUNAREXTabs.100mgWELLIVERTabs.)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20040805",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089207]카르두스마리아누스엑스",
+ "main_item_ingr_eng": "Cardus Marianus Extract",
+ "edi_code": "",
+ "atc_code": "A05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402426",
+ "revisions": [
+  {
+   "revision_id": "200402426-db02138d",
+   "content_sha256": "db02138dcf6fa37479dc21d1b9a68e36c90b803048df7d47a0c8ebbea3547d64",
+   "ee_text": "다음질환의 보조치료: 독성 간질환, 간세포 보호, 만성 간염, 간경변",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:03Z",
+   "last_observed_at": "2026-09-08T08:38:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:03Z"
+}

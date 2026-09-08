@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200809175",
+ "item_name": "인파서프주(칼팍탄트)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20080902",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M241023]칼팍탄트",
+ "main_item_ingr_eng": "Calfactant",
+ "edi_code": "644914391,644914421",
+ "atc_code": "R07AA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809175",
+ "revisions": [
+  {
+   "revision_id": "200809175-e8052907",
+   "content_sha256": "e8052907e217604f5bd4e33f5ffaed1c3a1ea14685171565501fff629556cfc1",
+   "ee_text": "1. 신생아 호흡곤란증후군의 치료 : 기관 내 삽관을 요하는 호흡곤란증후군의 생후 72시간 내 신생아 2. 미숙아 호흡곤란증후군의 예방 : 호흡곤란증후군의 발생위험이 높은 임신주수 29주 이하의 미숙아",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:47Z",
+   "last_observed_at": "2026-09-08T08:42:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:47Z"
+}

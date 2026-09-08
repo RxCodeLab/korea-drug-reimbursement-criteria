@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200307986",
+ "item_name": "인반즈주1그램(에르타페넴나트륨)",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "20030108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M098170]에르타페넴나트륨",
+ "main_item_ingr_eng": "Ertapenem Sodium",
+ "edi_code": "655500291",
+ "atc_code": "J01DH03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307986",
+ "revisions": [
+  {
+   "revision_id": "200307986-47b57ff1",
+   "content_sha256": "47b57ff183f46c5240c7ae4a6eb948bc5529e2a88b17b94d7a3d109d3afda68d",
+   "ee_text": "1. 유효균종 Escherichia coli (균혈증을 동반한 경우를 포함), Clostridium clostridioforme, Eubacterium lentum, Peptostreptococcus 종, Bacteroides fragilis, Bacteroides distasonis, Bacteroides ovatus, Bacteroides thetaiotaomicron, Bacteroides uniformis, Staphylococcus aureus (methicillin 감수성 균종), Streptococcus pyogenes, Streptococcus pneumoniae (페니실린 감수성 균주, 균혈증을 동반한 경우를 포함), Haemophilus influenzae (beta-lactamase 음성 균주), Moraxella catarrhalis, Klebsiella pneumoniae, Streptococcus agalactiae, Porphyromonas asaccharolytica, Proteus mirabilis 혹은 Prevotella bivia. 2. 적응증 1) 치료 - 복잡성 복부내 감염 - 복잡성 피부 및 피부조직 감염 (성인에서 골수염을 동반하지 않은 당뇨성 족부감염 포함) - 지역사회 획득성 폐렴 - 복잡성 요로감염 - 급성 골반 감염 (분만후 자궁실질내막염, 패혈성 유산, 수술후 부인과 감염 등) 2) 예방 (성인) - 계획된 직장결장수술로 인한 수술부위 감염 예방 적절한 검체로 원인균을 분리 확인하고, 이 약에 대한 감수성 여부를 확인한다. 시험결과를 확인하기 전에 경험적으로 이 약의 투여를 시작할 수도 있으며, 시험결과가 확인된 후에는 그에 따라 적절하게 항균제를 투여하여야 한다.",
+   "ee_doc_id": "21",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:22Z",
+   "last_observed_at": "2026-09-08T08:37:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:22Z"
+}

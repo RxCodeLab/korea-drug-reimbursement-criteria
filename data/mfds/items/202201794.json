@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201794",
+ "item_name": "마그메가주(황산마그네슘수화물)",
+ "entp_name": "(주)일화",
+ "permit_date": "20220503",
+ "cancel_date": "20260331",
+ "status": "취하",
+ "main_item_ingr": "[M080356]황산마그네슘수화물",
+ "main_item_ingr_eng": "Magnesium Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "A12CC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201794",
+ "revisions": [
+  {
+   "revision_id": "202201794-6749bc89",
+   "content_sha256": "6749bc891d143d4f977ff72ab81dd1a37cbdaa11afe90b7c02446ee71cbcdf91",
+   "ee_text": "저마그네슘혈증에 의한 경련, 자간증의 발작, 자궁경직 방지, 전해질보급(저마그네슘혈증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:17Z",
+   "last_observed_at": "2026-09-08T09:01:17Z",
+   "official_revision_date": "2022-05-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:17Z"
+}

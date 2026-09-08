@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701541",
+ "item_name": "키프롤리스주30밀리그램(카르필조밉)",
+ "entp_name": "암젠코리아유한회사",
+ "permit_date": "20170331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M263140]카르필조밉",
+ "main_item_ingr_eng": "Carfilzomib",
+ "edi_code": "052300071",
+ "atc_code": "L01XG02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701541",
+ "revisions": [
+  {
+   "revision_id": "201701541-c9114dea",
+   "content_sha256": "c9114deaa068e87d07801a6e480add8d51fbab93eb5c10c0bcdc96a3af53cb43",
+   "ee_text": "이전에 한 가지 이상의 치료를 받은 다발성골수종 환자의 치료를 위한 다음 약물과의 병용요법: • 레날리도마이드 및 덱사메타손 또는 • 덱사메타손 또는 • 다라투무맙 및 덱사메타손",
+   "ee_doc_id": "27",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:42Z",
+   "last_observed_at": "2026-09-08T08:51:42Z",
+   "official_revision_date": "2021-05-04"
+  },
+  {
+   "revision_id": "201701541-1b04529f",
+   "content_sha256": "1b04529fc2b50290e9e7c5f2a4cf999e6c35491c8eaa7e2c5bc1a11a6629b049",
+   "ee_text": "이전에 한 가지 이상의 치료를 받은 다발성골수종 환자의 치료에 레날리도마이드 및 덱사메타손 또는 덱사메타손과의 병용요법",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-21",
+   "first_observed_at": "2026-09-08T08:51:42Z",
+   "last_observed_at": "2026-09-08T08:51:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:42Z"
+}

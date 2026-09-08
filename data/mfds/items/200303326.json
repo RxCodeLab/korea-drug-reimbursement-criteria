@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200303326",
+ "item_name": "인바이오넷아로사민캡슐(결정글루코사민황산염)(수출용)",
+ "entp_name": "(주)휴온스생명과학",
+ "permit_date": "20030929",
+ "cancel_date": "20240402",
+ "status": "취하",
+ "main_item_ingr": "[M247626]결정글루코사민황산염",
+ "main_item_ingr_eng": "Crystallized Glucosamine Sulfate",
+ "edi_code": "",
+ "atc_code": "M01AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200303326",
+ "revisions": [
+  {
+   "revision_id": "200303326-11d1a693",
+   "content_sha256": "11d1a693b9fe9fd380b0635bbf33a0789a2dcb0316549f78cb46dbfa205b724c",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 골관절염(퇴행성 관절질환)",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:17Z",
+   "last_observed_at": "2026-09-08T08:37:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:17Z"
+}

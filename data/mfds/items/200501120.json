@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200501120",
+ "item_name": "오라빌정(팜시클로비르)",
+ "entp_name": "(주)제뉴파마",
+ "permit_date": "20050810",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250929]팜시클로비르",
+ "main_item_ingr_eng": "Famciclovir",
+ "edi_code": "698000910",
+ "atc_code": "J05AB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501120",
+ "revisions": [
+  {
+   "revision_id": "200501120-0d33e61e",
+   "content_sha256": "0d33e61e1025dbccb8759d44772a5757a4d7a3a663483e2a41e3d1be835e7f10",
+   "ee_text": "(정제 125, 250, 500 mg) 1. 대상포진 바이러스 감염증 2. 생식기포진 감염증의 치료 및 재발성 생식기포진의 억제 (정제 500 mg) 1. 면역기능저하 환자의 대상포진 바이러스 감염증 2. 면역기능저하 환자의 단순포진 바이러스 감염증의 치료 및 억제 (정제 750 mg) 대상포진 바이러스 감염증 (크림제) 단순포진 바이러스 감염증(입술포진)",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:03Z",
+   "last_observed_at": "2026-09-08T08:39:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:03Z"
+}

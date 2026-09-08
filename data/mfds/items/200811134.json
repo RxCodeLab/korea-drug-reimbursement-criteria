@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200811134",
+ "item_name": "이클린탁스페이스트",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20081124",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082703]라타니아틴크|[M082733]몰약틴크|[M082899]카모밀레틴크",
+ "main_item_ingr_eng": "Chamomille Tincture/Myrrh Tincture/Rhatany Tincture",
+ "edi_code": "",
+ "atc_code": "A01AD",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811134",
+ "revisions": [
+  {
+   "revision_id": "200811134-886865bc",
+   "content_sha256": "886865bc17ff11a3bccbd249bd14cbc0f7e6a7f37b6be379914f31f22a501313",
+   "ee_text": "치은염, 치조농루에 의한 여러 증상(잇몸의 발적ㆍ부기ㆍ출혈ㆍ고름 등)의 완화",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:56Z",
+   "last_observed_at": "2026-09-08T08:42:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:56Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201406134",
+ "item_name": "바리켄산(바실루스리케니포르미스균)",
+ "entp_name": "일성아이에스(주)",
+ "permit_date": "20141230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균",
+ "main_item_ingr_eng": "Bacillus Licheniformis",
+ "edi_code": "655403351",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406134",
+ "revisions": [
+  {
+   "revision_id": "201406134-460499c5",
+   "content_sha256": "460499c5d0f05ad1e5bdc9856a9856cda5de2193d33dba2ecea70923bcf5544d",
+   "ee_text": "급ㆍ만성 장염, 급ㆍ만성 설사, 급성 이질, 각종 원인에 기인한 장내 이상발효",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:12Z",
+   "last_observed_at": "2026-09-08T08:48:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:12Z"
+}

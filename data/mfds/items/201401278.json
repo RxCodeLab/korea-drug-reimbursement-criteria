@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201401278",
+ "item_name": "대덕의료용이산화탄소",
+ "entp_name": "대덕가스(주)",
+ "permit_date": "19980108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040491]이산화탄소",
+ "main_item_ingr_eng": "Carbon Dioxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401278",
+ "revisions": [
+  {
+   "revision_id": "201401278-8158759e",
+   "content_sha256": "8158759ee7c4f403ff14a04fa016ad6f674ce16c8d044f5f31d26fbcf488f1f9",
+   "ee_text": "- (흡입제)의료용가스",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:52Z",
+   "last_observed_at": "2026-09-08T08:46:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:52Z"
+}

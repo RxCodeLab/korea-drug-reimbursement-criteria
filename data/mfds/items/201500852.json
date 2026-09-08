@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201500852",
+ "item_name": "유니버거에프정0.04밀리그램(베라프로스트나트륨)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20150216",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040128]베라프로스트나트륨",
+ "main_item_ingr_eng": "Beraprost Sodium",
+ "edi_code": "649506340",
+ "atc_code": "B01AC19",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500852",
+ "revisions": [
+  {
+   "revision_id": "201500852-ba7c23d4",
+   "content_sha256": "ba7c23d4b9b632f5128bb9f90e23d5e0e75358f1987d03edfc0b6863776d065d",
+   "ee_text": "1. 만성동맥폐색증(버거씨병, 폐색성 동맥경화증, 당뇨병성 말초혈관병증 등)에 따른 궤양, 동통 및 냉감의 개선 2. 원발성 폐고혈압증",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:29Z",
+   "last_observed_at": "2026-09-08T08:48:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:29Z"
+}

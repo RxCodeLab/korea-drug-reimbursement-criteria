@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201403144",
+ "item_name": "모니펜정(모니플루메이트)",
+ "entp_name": "오스틴제약(주)",
+ "permit_date": "20140714",
+ "cancel_date": "20240714",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M092795]모니플루메이트",
+ "main_item_ingr_eng": "Morniflumate",
+ "edi_code": "",
+ "atc_code": "M01AX22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403144",
+ "revisions": [
+  {
+   "revision_id": "201403144-825a1472",
+   "content_sha256": "825a14726f61c0962d208de22c6b906cf1ae7cd9a7c3fe77966b3cdfa6cf1f83",
+   "ee_text": "다음 질환 및 증상의 진통,소염 - 호흡기 질환(후두염, 기관염, 기관지염) - 이비인후과 질환(부비동염, 이염, 편도염, 인두염) - 골관절 질환",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:47:19Z",
+   "last_observed_at": "2026-09-08T08:47:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:47:19Z"
+}

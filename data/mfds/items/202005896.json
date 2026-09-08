@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202005896",
+ "item_name": "이녹시시럽(이노시플렉스)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20200819",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M101156]이노시플렉스",
+ "main_item_ingr_eng": "Inosiplex",
+ "edi_code": "670304601",
+ "atc_code": "J05AX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005896",
+ "revisions": [
+  {
+   "revision_id": "202005896-dd3b89c9",
+   "content_sha256": "dd3b89c90520323ee31d01fc6a5ed8343bb07f93c8196ed883dafc8980f09145",
+   "ee_text": "- 다음의 바이러스 감염증 : 단순포진, 대상포진, 수두, 면역저하 환자에서의 홍역, 아급성경화범뇌염(SSPE)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:21Z",
+   "last_observed_at": "2026-09-08T08:59:21Z",
+   "official_revision_date": "2020-08-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:21Z"
+}

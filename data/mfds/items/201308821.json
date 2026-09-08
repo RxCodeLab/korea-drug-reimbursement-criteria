@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201308821",
+ "item_name": "탈리그로브캡슐50밀리그램(탈리도마이드)",
+ "entp_name": "에이징생명과학(주)",
+ "permit_date": "20130813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M218518]탈리도마이드",
+ "main_item_ingr_eng": "Thalidomide",
+ "edi_code": "626100130",
+ "atc_code": "L04AX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308821",
+ "revisions": [
+  {
+   "revision_id": "201308821-5a751c0c",
+   "content_sha256": "5a751c0c9461704cb7bea8fe32e1755e3ba56dc0a420b0bb91e2e723178a99ce",
+   "ee_text": "1. 중등도- 중증 나성결절홍반(ENL)의 피부 병변의 급성 치료. 탈리도마이드는 증등도-중증 신경염이 있는 ENL치료의 단일요법제로는 사용하지 않는다. 탈리도마이드는 또한 ENL 재발시 피부병변의 예방 및 억제를 위한 유지요법제로 사용한다. 2. 새로 진단된 다발성골수종환자 치료에 있어서 덱사메타손과 병용요법",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:15Z",
+   "last_observed_at": "2026-09-08T08:46:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:15Z"
+}

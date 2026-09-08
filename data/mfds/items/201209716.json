@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201209716",
+ "item_name": "에비셀(EVICEL)",
+ "entp_name": "한국존슨앤드존슨메디칼(주)",
+ "permit_date": "20121214",
+ "cancel_date": "20231101",
+ "status": "취하",
+ "main_item_ingr": "[M254968]사람트롬빈|[M254968]사람트롬빈|[M254968]사람트롬빈|[M255947]사람응고성단백질|[M255947]사람응고성단백질|[M255947]사람응고성단백질",
+ "main_item_ingr_eng": "Clottable Protein/Human Thrombin",
+ "edi_code": "",
+ "atc_code": "B02BC30",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201209716",
+ "revisions": [
+  {
+   "revision_id": "201209716-87116b0c",
+   "content_sha256": "87116b0ca8b55f7360c4c3fb4edf9fd45b4ed1c98ea01de44ca9e2516dd96641",
+   "ee_text": "수술 중인 환자에서 표준외과기술(봉합, 결찰 또는 소작 등)로 출혈의 제어가 불충분하거나 제어할 수 없는 경우 지혈보조",
+   "ee_doc_id": "34",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:39Z",
+   "last_observed_at": "2026-09-08T08:45:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:39Z"
+}

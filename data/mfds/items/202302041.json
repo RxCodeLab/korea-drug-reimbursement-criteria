@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302041",
+ "item_name": "디오치민정(디오스민)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20230703",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082272]디오스민",
+ "main_item_ingr_eng": "Diosmin",
+ "edi_code": "",
+ "atc_code": "C05CA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302041",
+ "revisions": [
+  {
+   "revision_id": "202302041-251b5722",
+   "content_sha256": "251b572282150fcbc879b21cc6aed6f7a1a268909e354ffefe9c3b6cb446de54",
+   "ee_text": "1. 정맥부전과 관련된 증상의 개선 : 다리 중압감, 통증 2. 모세혈관 취약증에 의한 장애의 보조치료 3. 치질과 관련된 징후의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:12Z",
+   "last_observed_at": "2026-09-08T09:02:12Z",
+   "official_revision_date": "2023-07-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:12Z"
+}

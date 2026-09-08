@@ -7,11 +7,12 @@
  "permit_date": "19700615",
  "cancel_date": "20250701",
  "status": "유효기간만료",
- "main_item_ingr": "[M229810]황백가루|[M040631]탄산수소나트륨",
+ "main_item_ingr": "[M040631]탄산수소나트륨|[M229810]황백가루",
  "main_item_ingr_eng": "Phellodendron Bark Powder/Sodium Bicarbonate",
  "edi_code": "",
  "atc_code": "A02AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197000208",
+ "history_fetched_at": "2026-08-28T13:23:37Z",
  "revisions": [
   {
    "revision_id": "197000208-cf980bd3",
@@ -19,9 +20,9 @@
    "ee_text": "위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림, 식욕감퇴(식욕부진), 소화불량, 과식",
    "ee_doc_id": "10",
    "first_observed_at": "2026-08-28T13:23:37Z",
-   "last_observed_at": "2026-08-28T13:23:37Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:17Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:37Z"
+ ]
 }

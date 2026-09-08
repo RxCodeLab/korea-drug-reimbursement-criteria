@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200200196",
+ "item_name": "펜톨민주사(펜토라민메실레이트)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "20020522",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M097154]펜토라민메실레이트",
+ "main_item_ingr_eng": "Phentolamine Mesylate",
+ "edi_code": "658601811",
+ "atc_code": "C04AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200196",
+ "revisions": [
+  {
+   "revision_id": "200200196-f5c5fed2",
+   "content_sha256": "f5c5fed202193c343815d19129e6f9edd1dabce86870fac1652a5beb0c1264b6",
+   "ee_text": "1. 크롬친화세포종 환자의 수술전·수술중의 고혈압 2. 크롬친화세포종 진단 3. 노르에피네프린의 정맥 또는 정맥주위 투여(유출) 후의 피부괴사와 허물벗기(sloughing)의 예방",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:00Z",
+   "last_observed_at": "2026-09-08T08:36:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:00Z"
+}

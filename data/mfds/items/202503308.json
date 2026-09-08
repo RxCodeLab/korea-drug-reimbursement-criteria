@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202503308",
+ "item_name": "엠레스비아프리필드시린지(호흡기세포융합바이러스 mRNA 백신)",
+ "entp_name": "모더나코리아(주)",
+ "permit_date": "20251218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M285996]호흡기세포융합바이러스 F 당단백질 발현 메신저 리보핵산(숙주: DIG315, 벡터: PL-029735)",
+ "main_item_ingr_eng": "Respiratory Syncytial Virus F Glycoprotein Encoded Messenger Ribonucleic Acid",
+ "edi_code": "",
+ "atc_code": "J07BX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503308",
+ "revisions": [
+  {
+   "revision_id": "202503308-a19aceed",
+   "content_sha256": "a19aceed8e6d9f7cf00e3e4f371374833e75451d860cf1cd0f926d503e034979",
+   "ee_text": "다음에서의 호흡기세포융합바이러스(RSV; Respiratory Syncytial Virus)로 인한 하기도 질환(LRTD)의 예방 - 60세 이상 성인 - 18세 이상 60세 미만의 성인 중 RSV로 인한 LRTD의 위험이 높은 사람",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:33Z",
+   "last_observed_at": "2026-09-08T09:04:33Z",
+   "official_revision_date": "2025-12-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:33Z"
+}

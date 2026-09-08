@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101839",
+ "item_name": "유한락티톨산",
+ "entp_name": "(주)유한양행",
+ "permit_date": "20010203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261382]락티톨수화물",
+ "main_item_ingr_eng": "Lactitol Hydrate",
+ "edi_code": "642104061",
+ "atc_code": "A06AD12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101839",
+ "revisions": [
+  {
+   "revision_id": "200101839-80920594",
+   "content_sha256": "809205943d481411124ee60dbc3700a69f6ed76d53bf51759cfed3aba48a3fa0",
+   "ee_text": "급성 및 만성 문맥계 뇌병증(간성혼수)",
+   "ee_doc_id": "25",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:18Z",
+   "last_observed_at": "2026-09-08T08:35:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:18Z"
+}

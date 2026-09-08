@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901720",
+ "item_name": "바벤시오주(아벨루맙)",
+ "entp_name": "머크(주)",
+ "permit_date": "20190322",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M264740]아벨루맙",
+ "main_item_ingr_eng": "Avelumab",
+ "edi_code": "661700691",
+ "atc_code": "L01XC31",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901720",
+ "revisions": [
+  {
+   "revision_id": "201901720-e86ba4b5",
+   "content_sha256": "e86ba4b54e56eb7d428be689ed2101aee2b9985474d1799b69f6c461c9e713ab",
+   "ee_text": "1. 성인에서의 전이성 메르켈세포암 치료로 단독요법 2. 백금기반 화학요법치료에 질병이 진행되지 않은 국소 진행성 또는 전이성 요로상피세포암 성인 환자에서의 1차 단독유지요법",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:34Z",
+   "last_observed_at": "2026-09-08T08:54:34Z",
+   "official_revision_date": "2021-08-05"
+  },
+  {
+   "revision_id": "201901720-481449c1",
+   "content_sha256": "481449c17d2ce0983ba3fb6c5c533da97452499217db825ea58f7612bc69d87e",
+   "ee_text": "성인에서의 전이성 메르켈세포암 치료로 단독요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-03-22",
+   "first_observed_at": "2026-09-08T08:54:34Z",
+   "last_observed_at": "2026-09-08T08:54:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:34Z"
+}

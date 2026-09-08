@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201484",
+ "item_name": "플루닐주사(플루마제닐)",
+ "entp_name": "부광약품(주)",
+ "permit_date": "20021011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085047]플루마제닐",
+ "main_item_ingr_eng": "Flumazenil",
+ "edi_code": "642202351,642202361",
+ "atc_code": "V03AB25",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201484",
+ "revisions": [
+  {
+   "revision_id": "200201484-746a00e1",
+   "content_sha256": "746a00e104affcacf019c7ecf37c2b3e1ce87d84b869f2bdb7ffce331616938d",
+   "ee_text": "벤조디아제핀계 약물의 중추진정작용 역전(reversal) ○ 마취시 - 입원환자에서 벤조디아제핀계 약물로 유도 또는 유지되는 전신마취의 종료 - 입원 및 외래환자의 단시간 진단 및 치료시의 벤조디아제핀계 약물에 의한 진정작용의 역전 ○ 중환자 치료시 - 벤조디아제핀계 약물중독의 확진 및 해독 - 원인불명으로 의식불명시 벤조디아제핀계 약물, 다른 약물 또는 뇌손상에 의한 것인지의 감별을 위한 진단수단 - 약물과량 투여시 벤조디아제핀계 약물의 중추작용에 대한 특정 역전(삽관법이 불필요하게 하거나 발관법을 실시할 수 있도록 하기 위하여 자발 호흡 및 의식을 회복시킴.)",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:13Z",
+   "last_observed_at": "2026-09-08T08:36:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:13Z"
+}

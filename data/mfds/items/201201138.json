@@ -7,11 +7,12 @@
  "permit_date": "20120223",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨",
  "main_item_ingr_eng": "Potassium Chloride/Sodium Chloride",
  "edi_code": "678900860",
  "atc_code": "B05BB01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201138",
+ "history_fetched_at": "2026-08-28T13:24:27Z",
  "revisions": [
   {
    "revision_id": "201201138-e6ad90c7",
@@ -19,9 +20,9 @@
    "ee_text": "칼륨부족시 전해질 보정",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:24:27Z",
-   "last_observed_at": "2026-08-28T13:24:27Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:45:11Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:27Z"
+ ]
 }

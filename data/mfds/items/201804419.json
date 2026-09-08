@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201804419",
+ "item_name": "울트라비스트듀370주사(이오프로마이드)",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20181107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085564]이오프로마이드",
+ "main_item_ingr_eng": "Iopromide",
+ "edi_code": "641106081,641106082,641106083,641106084",
+ "atc_code": "V08AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804419",
+ "revisions": [
+  {
+   "revision_id": "201804419-a987eb98",
+   "content_sha256": "a987eb98f736a0e4390243ed45af9334ca71507435d4679713a6fd58c1a0d50a",
+   "ee_text": "1. 정맥요로조영(IVP) 2. CT 조영증강 : 두부, 체부 3. 혈관조영 4. 디지털감산혈관조영(DSA) 5. 조영증강 유방촬영술(Contrast-Enhanced Mammography): 알려지거나 의심스러운 유방병변이 있는 환자 중 · 유방촬영술(mammography)(초음파검사 실시 여부와 상관없이)에 추가적으로 진단이 필요한 환자 · 자기공명영상(Magnetic Resonance Imaging) 검사를 이용할 수 없는 환자",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:47Z",
+   "last_observed_at": "2026-09-08T08:53:47Z",
+   "official_revision_date": "2023-08-18"
+  },
+  {
+   "revision_id": "201804419-2469e9e0",
+   "content_sha256": "2469e9e076ace9defe5fbf99d7ec957611edadf0b54289e70d5b85f57c91d3d3",
+   "ee_text": "1. 정맥요로조영(IVP) 2. CT 조영증강 : 두부, 체부 3. 혈관조영 4. 디지털감산혈관조영(DSA)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2018-11-07",
+   "first_observed_at": "2026-09-08T08:53:47Z",
+   "last_observed_at": "2026-09-08T08:53:47Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:47Z"
+}

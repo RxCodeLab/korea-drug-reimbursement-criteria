@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200605438",
+ "item_name": "리엔질연질캡슐(수출용)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "20060620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020020]니스타틴|[M202893]네오마이신황산염|[M233313]폴리믹신B황산염",
+ "main_item_ingr_eng": "Neomycin Sulfate/Nystatin/Polymyxin B Sulfate",
+ "edi_code": "",
+ "atc_code": "G01AA51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605438",
+ "revisions": [
+  {
+   "revision_id": "200605438-e6aca7a1",
+   "content_sha256": "e6aca7a11b419c59974ccde67ec757cb3cf6ff5b53c5e286a87b1df59f3e46c9",
+   "ee_text": "질칸디다증, 비특이성 세균성질염, 외음부염, 위 질환에 기인하는 화농성 대하",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:22Z",
+   "last_observed_at": "2026-09-08T08:40:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:22Z"
+}

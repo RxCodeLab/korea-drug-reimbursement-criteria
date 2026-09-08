@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199604632",
+ "item_name": "비아핀에멀젼(트롤아민)",
+ "entp_name": "켄뷰코리아판매유한회사",
+ "permit_date": "19960109",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M087110]트롤아민",
+ "main_item_ingr_eng": "Trolamine",
+ "edi_code": "",
+ "atc_code": "D03AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199604632",
+ "revisions": [
+  {
+   "revision_id": "199604632-54d75062",
+   "content_sha256": "54d750626ad3a7d6b06e129aee6ae46083056e59e6c0d85a7debac1b78a7f1c5",
+   "ee_text": "1. 1도, 2도 화상 및 기타 비감염성 피부상처 2. 방사선 치료에 의한 2차적 홍반(붉은 반점)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:31Z",
+   "last_observed_at": "2026-09-08T08:30:31Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:31Z"
+}

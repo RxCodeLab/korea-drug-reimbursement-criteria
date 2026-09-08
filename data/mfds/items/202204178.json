@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204178",
+ "item_name": "옥소프리주(아셀렌산나트륨오수화물)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20221121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M210377]아셀렌산나트륨오수화물",
+ "main_item_ingr_eng": "Sodium Selenite Pentahydrate",
+ "edi_code": "",
+ "atc_code": "B05XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204178",
+ "revisions": [
+  {
+   "revision_id": "202204178-81dbb447",
+   "content_sha256": "81dbb447e5caa6a0664136cc3cfb4b8538b1200444e50ee76667eda297445504",
+   "ee_text": "(주사제) 영양공급으로 보충될 수 없는 셀레늄 결핍 환자에서 셀레늄 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:41Z",
+   "last_observed_at": "2026-09-08T09:01:41Z",
+   "official_revision_date": "2022-11-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:41Z"
+}

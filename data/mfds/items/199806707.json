@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199806707",
+ "item_name": "예나스테론주(테스토스테론에난테이트)",
+ "entp_name": "제이텍바이오젠",
+ "permit_date": "19981023",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223230]테스토스테론에난테이트",
+ "main_item_ingr_eng": "Testosterone Enanthate",
+ "edi_code": "",
+ "atc_code": "G03BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806707",
+ "revisions": [
+  {
+   "revision_id": "199806707-610d617c",
+   "content_sha256": "610d617c36b611d1246ce7cf27f055bd35415afd92a513301c8384b33028cca1",
+   "ee_text": "남성 : 성선기능저하증",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:25Z",
+   "last_observed_at": "2026-09-08T08:32:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:25Z"
+}

@@ -7,7 +7,7 @@
  "permit_date": "20050305",
  "cancel_date": "20250312",
  "status": "취하",
- "main_item_ingr": "[M082592]티미딘|[M050911]아데노신|[M096429]시아노코발라민",
+ "main_item_ingr": "[M050911]아데노신|[M082592]티미딘|[M096429]시아노코발라민",
  "main_item_ingr_eng": "Adenosine/Cyanocobalamin/Thymidine",
  "edi_code": "",
  "atc_code": "A05BA",
@@ -20,7 +20,8 @@
    "ee_text": "급·만성 간장염, 빈혈증, 대사기능장애, 회복기 피로감",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200502461/EE",
    "first_observed_at": "2026-08-27T12:03:56Z",
-   "last_observed_at": "2026-08-28T13:24:08Z"
+   "last_observed_at": "2026-09-08T08:39:20Z",
+   "normalizer_version": 3
   }
  ]
 }

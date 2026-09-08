@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302791",
+ "item_name": "탑스에프카타플라스마(케토프로펜)",
+ "entp_name": "대화제약(주)",
+ "permit_date": "20030328",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302791",
+ "revisions": [
+  {
+   "revision_id": "200302791-5ac464cf",
+   "content_sha256": "5ac464cfa2dc54af6748c068782863d25b981d3ff835862fd15ce15b4ef04d22",
+   "ee_text": "다음 질환 및 증상의 진통, 소염 : 퇴행성관절염(골관절염), 어깨관절주위염, 건 - 건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통, 외상후의 종창 - 동통",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200302791/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:15Z",
+   "last_observed_at": "2026-09-08T08:37:15Z"
+  },
+  {
+   "revision_id": "200302791-8bb63506",
+   "content_sha256": "8bb6350683da8f0f26b929596ab595cc20e4bef3c51e9fff669110dc3c194e46",
+   "ee_text": "다음 질환 및 증상의 진통, 소염 : 퇴행성관절염, 어깨관절주위염, - 건초염, 건주위염, 상완골상과염 - 동통",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:37:15Z",
+   "last_observed_at": "2026-09-08T08:37:15Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:15Z"
+}

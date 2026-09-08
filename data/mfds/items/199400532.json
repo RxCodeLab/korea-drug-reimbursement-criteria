@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199400532",
+ "item_name": "비코그린정(수출용)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "19940706",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040481]울금|[M050438]센나엽엑스|[M050543]백굴채|[M050687]비사코딜|[M070153]대황엑스|[M080745]노회엑스|[M084964]알로에카펜시스|[M257637]프랑굴랑피엑스",
+ "main_item_ingr_eng": "Aloe Capensis/Aloe Extract/Bisacodyl/Chelidonii Herba/Curcuma Root/Rhubarb Extract/Senna Leaf Extract",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400532",
+ "revisions": [
+  {
+   "revision_id": "199400532-8092f99e",
+   "content_sha256": "8092f99eabbf1a01a945fdb731cc2b62cd1b10c754461093008e341ecc3c2b94",
+   "ee_text": "· 변비 · 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:05Z",
+   "last_observed_at": "2026-09-08T08:29:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:05Z"
+}

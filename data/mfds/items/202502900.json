@@ -7,11 +7,12 @@
  "permit_date": "20251110",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223211]클로르페니라민말레산염|[M223162]옥시메타졸린염산염",
+ "main_item_ingr": "[M223162]옥시메타졸린염산염|[M223211]클로르페니라민말레산염",
  "main_item_ingr_eng": "Chlorpheniramine Maleate/Oxymetazoline Hydrochloride",
  "edi_code": "",
  "atc_code": "R01AB07",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502900",
+ "history_fetched_at": "2026-08-28T13:25:38Z",
  "revisions": [
   {
    "revision_id": "202502900-37e02323",
@@ -19,8 +20,9 @@
    "ee_text": "코감기(급성비염(코염)), 알레르기성 비염(코염) 또는 부비동염에 의한 다음 증상의 완화 : 코막힘, 콧물, 재채기, 머리무거움",
    "ee_doc_id": "2",
    "first_observed_at": "2026-08-28T13:25:38Z",
-   "last_observed_at": "2026-08-28T13:25:38Z",
-   "official_revision_date": "2025-12-22"
+   "last_observed_at": "2026-09-08T09:04:24Z",
+   "official_revision_date": "2025-12-22",
+   "normalizer_version": 3
   },
   {
    "revision_id": "202502900-704317dc",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:25:38Z",
    "last_observed_at": "2026-08-28T13:25:38Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:38Z"
+ ]
 }

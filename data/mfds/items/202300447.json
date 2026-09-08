@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300447",
+ "item_name": "로큐바주(로쿠로늄브롬화물수화물)",
+ "entp_name": "(주)새한제약",
+ "permit_date": "20230203",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255024]로쿠로늄브롬화물",
+ "main_item_ingr_eng": "Rocuronium Bromide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300447",
+ "revisions": [
+  {
+   "revision_id": "202300447-d32b5347",
+   "content_sha256": "d32b53479faee7f6d4355dabb4f4c3443e8ed159d2082c22413b392253f464a5",
+   "ee_text": "1. 연속마취유도 또는 빠른연속마취유도(RSI)를 하는 동안 기관삽관을 돕고 수술 중 골격근 이완을 유도하기 위한 전신마취시의 보조제 2. 중환자실(ICU)에서 기관삽관과 기계적 환기를 돕기 위한 보조제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:51Z",
+   "last_observed_at": "2026-09-08T09:01:51Z",
+   "official_revision_date": "2023-02-03"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:51Z"
+}

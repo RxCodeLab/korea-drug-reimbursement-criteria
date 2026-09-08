@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901031",
+ "item_name": "아셀렌주(아셀렌산나트륨오수화물)",
+ "entp_name": "(주)텔콘알에프제약",
+ "permit_date": "20190220",
+ "cancel_date": "20240220",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M210377]아셀렌산나트륨오수화물",
+ "main_item_ingr_eng": "Sodium Selenite Pentahydrate",
+ "edi_code": "",
+ "atc_code": "A12CE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901031",
+ "revisions": [
+  {
+   "revision_id": "201901031-81dbb447",
+   "content_sha256": "81dbb447e5caa6a0664136cc3cfb4b8538b1200444e50ee76667eda297445504",
+   "ee_text": "(주사제) 영양공급으로 보충될 수 없는 셀레늄 결핍 환자에서 셀레늄 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:18Z",
+   "last_observed_at": "2026-09-08T08:54:18Z",
+   "official_revision_date": "2019-02-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:18Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200711475",
+ "item_name": "녹사필현탁액(포사코나졸(미분화))",
+ "entp_name": "한국엠에스디(주)",
+ "permit_date": "20071019",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M256381]포사코나졸(미분화)",
+ "main_item_ingr_eng": "Posaconazole Micronized",
+ "edi_code": "655501341",
+ "atc_code": "J02AC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711475",
+ "revisions": [
+  {
+   "revision_id": "200711475-fa54bcd1",
+   "content_sha256": "fa54bcd1b39af215fe1149858522b550de1acf158120845490f3553998aae5ca",
+   "ee_text": "1. 다음 진균 감염증의 치료 1) 암포테리신B 또는 이트라코나졸에 불응성이거나 이들 치료제에 불내성인 침습성 아스페르길루스증 환자의 치료 2) 구강인두칸디다증: 질환이 중증이거나 면역기능이 저하된, 국소요법의 효과가 적을 것으로 예측되는 환자의 치료 * 불응성은 해당 항진균제를 치료 용량으로 투여한 후 최소 7일 경과 시 감염의 진행 또는 개선 실패로 정의한다. 2. 다음 침습성 진균 감염증의 예방 1) 장기간의 호중구감소증이 예측되거나 침습성진균감염증에 걸릴 위험이 높은, 급성골수성백혈병이나 골수이형성증후군으로 관해-유도 화학요법을 받고 있는 환자에서의 침습성진균감염증 예방 2) 이식편-숙주 질환(GVHD; Graft-versus-Host disease)으로 고용량 면역억제요법을 받고 있는 조혈모세포 이식 수여자로서 침습성 진균 감염증에 걸릴 위험이 높은 환자에서의 침습성진균감염증 예방",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:59Z",
+   "last_observed_at": "2026-09-08T08:41:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:59Z"
+}

@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201907316",
+ "item_name": "론서프정20",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20191017",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085753]트리플루리딘|[M270421]티피라실염산염",
+ "main_item_ingr_eng": "Tipiracil Hydrochloride/Trifluridine",
+ "edi_code": "",
+ "atc_code": "L01BC59",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907316",
+ "revisions": [
+  {
+   "revision_id": "201907316-f8c1d56a",
+   "content_sha256": "f8c1d56ad20828f6830f730267db2bc117b54189c6f636974d72667a11315d61",
+   "ee_text": "1. 전이성 결장 직장암 이전에 플루오로피리미딘 계열, 옥살리플라틴 및 이리노테칸을 기본으로 하는 항암 화학 요법으로 치료를 받은 적이 있고, 항 VEGF 치료제, 항 EGFR 치료제(RAS 정상형 (wild type)의 경우)로 치료를 받은 적이 있거나 치료할 수 없는 전이성 결장직장암 성인 환자의 치료로 단독 또는 베바시주맙과 병용 투여 2. 전이성 위암 이전에 플루오로피리미딘 계열, 백금요법, 탁산 또는 이리노테칸, HER2(Human Epidermal growth factor Receptor 2 protein) 표적치료제(HER2 양성인 경우) 중 최소 두 가지 이상의 항암 화학 요법으로 치료를 받은 적이 있는 전이성 위암 또는 위식도 접합부 선암 성인 환자의 치료",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:43Z",
+   "last_observed_at": "2026-09-08T08:56:43Z",
+   "official_revision_date": "2024-10-09"
+  },
+  {
+   "revision_id": "201907316-0ef327df",
+   "content_sha256": "0ef327df7d50bd132e8d78818b9e34c7afcef1263afcafc65d34cd7312d1bb2d",
+   "ee_text": "1. 전이성 결장 직장암 이전에 플루오로피리미딘 계열, 옥살리플라틴 및 이리노테칸을 기본으로 하는 항암 화학 요법으로 치료를 받은 적이 있고, 항 VEGF 치료제, 항 EGFR 치료제(RAS 정상형 (wild type)의 경우)로 치료를 받은 적이 있거나 치료할 수 없는 전이성 결장직장암 성인 환자의 치료 2. 전이성 위암 이전에 플루오로피리미딘 계열, 백금요법, 탁산 또는 이리노테칸, HER2(Human Epidermal growth factor Receptor 2 protein) 표적치료제(HER2 양성인 경우) 중 최소 두 가지 이상의 항암 화학 요법으로 치료를 받은 적이 있는 전이성 위암 또는 위식도 접합부 선암 성인 환자의 치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-07-28",
+   "first_observed_at": "2026-09-08T08:56:43Z",
+   "last_observed_at": "2026-09-08T08:56:43Z"
+  },
+  {
+   "revision_id": "201907316-5dcd9e81",
+   "content_sha256": "5dcd9e8188a6bf189c47a0c43e97ad909a8ba2d479c275c06c6e09eeef920f0c",
+   "ee_text": "이전에 플루오로피리미딘 계열, 옥살리플라틴 및 이리노테칸을 기본으로 하는 항암 화학 요법으로 치료를 받은 적이 있고, 항 VEGF 치료제, 항 EGFR 치료제(RAS 정상형 (wild type)의 경우)로 치료를 받은 적이 있거나 치료할 수 없는 전이성 결장직장암 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2019-10-17",
+   "first_observed_at": "2026-09-08T08:56:43Z",
+   "last_observed_at": "2026-09-08T08:56:43Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:43Z"
+}

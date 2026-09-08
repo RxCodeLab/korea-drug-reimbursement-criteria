@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600864",
+ "item_name": "대한적십자사서울중앙혈액원세척적혈구(세척적혈구)",
+ "entp_name": "대한적십자사서울중앙혈액원",
+ "permit_date": "20060127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M279192]세척적혈구",
+ "main_item_ingr_eng": "Red Blood Cells, Washed",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600864",
+ "revisions": [
+  {
+   "revision_id": "200600864-5f44528f",
+   "content_sha256": "5f44528f35342c8e83a716681d26fafdb3808c2d00c70f6e5691ced313cf00fd",
+   "ee_text": "산소운반능과 적혈구의 보충이 요구되는 정상혈액량을 가진 빈혈환자의 치료에 사용한다. 특히 초과민반응(anaphylaxis) 또는 반복적 심한 알레르기 수혈반응을 예방(예, IgA 혹은 합토글로빈 결핍 환자가 해당항원 결핍 혈액을 구할 수 없을 경우)하고자 할 때, 급속수혈이나 대량수혈로 인하여 부정맥에 취약할 수 있는 환자에서 고칼륨혈증을 피해야 할 때 사용한다.",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:54Z",
+   "last_observed_at": "2026-09-08T08:39:54Z",
+   "official_revision_date": "2020-09-24"
+  },
+  {
+   "revision_id": "200600864-dd35933b",
+   "content_sha256": "dd35933b051d197d53cfa1a6c3f7a60464499487ffdce55e2de1e8e28be765eb",
+   "ee_text": "적혈구나 전혈을 수혈받고 심한 알레르기성 반응을 보이는 환자나 혈장단백, 특히 anti-IgA에 대한 항체를 가진 환자에게 사용되며 신생아나 자궁내 태아수혈시에도 사용된다. 발열반응의 원인이 혈장단백이나 cytokine, anaphylatoxin인 경우에 사용된다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:39:54Z",
+   "last_observed_at": "2026-09-08T08:39:54Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:54Z"
+}

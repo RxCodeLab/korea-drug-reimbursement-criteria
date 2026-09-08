@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700071",
+ "item_name": "한풍택사엑스산",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19870228",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M040638]택사",
+ "main_item_ingr_eng": "Alisma Rhizome",
+ "edi_code": "",
+ "atc_code": "C03X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700071",
+ "revisions": [
+  {
+   "revision_id": "198700071-5b933264",
+   "content_sha256": "5b933264d014e4212558d1e291fbf4fc870453b1ae7bc269632f9d01434f4b40",
+   "ee_text": "이뇨",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:20Z",
+   "last_observed_at": "2026-09-08T08:27:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:20Z"
+}

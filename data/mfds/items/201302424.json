@@ -7,21 +7,22 @@
  "permit_date": "20130128",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M090685]글루콘산나트륨|[M227966]아세트산나트륨수화물|[M251286]염화마그네슘수화물|[M040438]염화칼륨|[M040426]염화나트륨",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M090685]글루콘산나트륨|[M227966]아세트산나트륨수화물|[M251286]염화마그네슘수화물",
  "main_item_ingr_eng": "Magnesium Chloride Hydrate/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride/Sodium Gluconate",
  "edi_code": "078200110",
  "atc_code": "B05BB04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201302424",
+ "history_fetched_at": "2026-08-28T13:24:29Z",
  "revisions": [
   {
-   "revision_id": "201302424-14ebc6c1",
-   "content_sha256": "14ebc6c137a9d95521d8a100e18f48b1da7672e676f08657ab80bf2c3c472363",
-   "ee_text": "(주사제)",
+   "revision_id": "201302424-0109ba5a",
+   "content_sha256": "0109ba5a91615f2d08877969efa2d58ebfa138669cd538c22c04f3a648bf616b",
+   "ee_text": "(주사제) ○ 순환혈액량 및 조직간액의 감소시 세포외액의 보급ㆍ보정 ○ 대사성 산증의 보정",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:24:29Z",
-   "last_observed_at": "2026-08-28T13:24:29Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:45:46Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:29Z"
+ ]
 }

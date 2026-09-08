@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001662",
+ "item_name": "아이파프케어팝카타플라스마(케토프로펜)",
+ "entp_name": "아이큐어(주)",
+ "permit_date": "20200311",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051464]케토프로펜|[M051464]케토프로펜",
+ "main_item_ingr_eng": "Ketoprofen",
+ "edi_code": "",
+ "atc_code": "M02AA10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001662",
+ "revisions": [
+  {
+   "revision_id": "202001662-2eb84dbe",
+   "content_sha256": "2eb84dbe015def2ead1cfa7b6e77e7462e8b42b682b309a905b6d9b87f0e5356",
+   "ee_text": "다음 질환 및 증상의 진통·소염 : 퇴행성관절염(골(뼈)관절염), 어깨관절주위염, 건(힘줄)·건초(힘줄윤활막)염, 건(힘줄)주위염, 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상후의 종창·동통(상처후의 부기·통증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:01Z",
+   "last_observed_at": "2026-09-08T08:58:01Z",
+   "official_revision_date": "2020-03-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:01Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202402082",
+ "item_name": "코미나티바이밸런트주(단회용)(토지나메란,팜토지나메란)(사스코로나바이러스-2 mRNA백신)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20240829",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280550]사스 코로나바이러스-2 스파이크 단백질 발현 메신저 리보핵산(토지나메란)(숙주: DH10B, 벡터: pST4-1525)|[M283219]사스 코로나바이러스-2 스파이크 단백질 발현 메신저 리보핵산(팜토지나메란)(숙주: DH10B, 벡터: pVV-00880)",
+ "main_item_ingr_eng": "SARS-CoV-2 Spike Protein encoded messenger Ribonucleic Acid(famtozinameran)/SARS-CoV-2 Spike Protein encoded messenger Ribonucleic Acid(tozinameran)(Host: DH10B, Vector: pST4-1525)",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402082",
+ "revisions": [
+  {
+   "revision_id": "202402082-6f73364b",
+   "content_sha256": "6f73364b97012319717048daff3d7678e7a3fcf444e0e59d1f9ff5ff5349a77b",
+   "ee_text": "12세 이상에서 SARS-CoV-2 바이러스에 의한 코로나19의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:16Z",
+   "last_observed_at": "2026-09-08T09:03:16Z",
+   "official_revision_date": "2024-08-29"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:16Z"
+}

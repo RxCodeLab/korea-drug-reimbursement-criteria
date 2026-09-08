@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003817",
+ "item_name": "테리손로션(모메타손푸로에이트)",
+ "entp_name": "(주)메디카코리아",
+ "permit_date": "20200526",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070188]모메타손푸로에이트",
+ "main_item_ingr_eng": "Mometasone Furoate",
+ "edi_code": "646005181",
+ "atc_code": "D07AC13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003817",
+ "revisions": [
+  {
+   "revision_id": "202003817-bef85d47",
+   "content_sha256": "bef85d47224b82ae30c98800f2233112ed8a35b393254e02570858f122dd6700",
+   "ee_text": "코르티코이드에 반응하는 피부질환의 가려움 및 염증의 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:57Z",
+   "last_observed_at": "2026-09-08T08:58:57Z",
+   "official_revision_date": "2020-05-26"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:57Z"
+}

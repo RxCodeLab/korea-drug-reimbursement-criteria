@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199600258",
+ "item_name": "네오고비온캅셀(수출용)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "19961217",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040442]엽산|[M040799]황산동|[M051962]황산망간|[M070072]글루콘산제일철|[M083188]시아노코발라민0ㆍ1%|[M084448]아스코르빈산97%",
+ "main_item_ingr_eng": "Ascorbic Acid 97%/Cupric Sulfate Hydrate/Cyanocobalamin 0.1%/Ferrous Gluconate/Folic Acid/Manganese Sulfate",
+ "edi_code": "",
+ "atc_code": "B03AE10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199600258",
+ "revisions": [
+  {
+   "revision_id": "199600258-e1552715",
+   "content_sha256": "e15527158ad51365176acce3ccda57ab633c4fa082a5f0605893180219c6743f",
+   "ee_text": "철결핍성 빈혈 다음 경우의 결핍성 또는 요구량 증가에 의한 빈혈의 예방 및 치료:외상성 또는 내인성 출혈, 임신, 성장기, 병후 회복기, 노년기, 영양불량, 헌혈시",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:30:03Z",
+   "last_observed_at": "2026-09-08T08:30:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:30:03Z"
+}

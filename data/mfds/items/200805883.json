@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200805883",
+ "item_name": "로바프릴플러스정15/25mg(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20080527",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M088647]염산모엑시프릴|[M089923]히드로클로로치아짓",
+ "main_item_ingr_eng": "Hydrochlorothiazide/Moexipril Hydrochloride",
+ "edi_code": "",
+ "atc_code": "C09BA13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805883",
+ "revisions": [
+  {
+   "revision_id": "200805883-27222081",
+   "content_sha256": "27222081e3ea8da3ac9aef0da5de3fd297565d808acc4cdd6d93f71a97047236",
+   "ee_text": "단독요법으로 혈압이 적절히 조절되지 않는 고혈압",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:33Z",
+   "last_observed_at": "2026-09-08T08:42:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:33Z"
+}

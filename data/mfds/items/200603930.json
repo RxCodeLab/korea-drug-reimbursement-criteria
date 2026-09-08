@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603930",
+ "item_name": "로도질정",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20060418",
+ "cancel_date": "20260805",
+ "status": "취하",
+ "main_item_ingr": "[M020072]스피라마이신|[M040170]메트로니다졸",
+ "main_item_ingr_eng": "Metronidazole/Spiramycin",
+ "edi_code": "652000170",
+ "atc_code": "J01RA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603930",
+ "revisions": [
+  {
+   "revision_id": "200603930-f4495e83",
+   "content_sha256": "f4495e83f6772d183d9fb6510919205eb9e3832067e9c614d5ffa6a288965bc4",
+   "ee_text": "1. 유효균종 연쇄구균, 폐렴연쇄구균, 보르데텔라 백일해, 방선균, 디프테리아균, 클라미디아, 폐렴미코플라스마, 클로스트리듐 퍼프린젠스, 비피도박테륨, 박테로이디즈 프라질리스, 푸조박테륨, 베요넬라, 유박테륨, 펩토연쇄구균 2. 적 응 증 1) 급·만성 또는 재발성 구강 감염증 치아농양, 연조직염, 치관주위염, 치은염, 구내염, 치주염, 이하선염, 하악염",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:01Z",
+   "last_observed_at": "2026-09-08T08:40:01Z",
+   "official_revision_date": "2019-06-21"
+  },
+  {
+   "revision_id": "200603930-3831800e",
+   "content_sha256": "3831800eaee38f1548fa01a6ecaffbfa6028e38f5a01115f388230952bc99069",
+   "ee_text": "1. 유효균종 연쇄구균, 폐염구균, 사막염균, 백일해균, 방선균, 코리네박테륨, 클라미다아,미코플라스마, 클로스트리듐, 페르프린젠스, 비피도박테륨비피듐, 박테로이디즈 프라질리스, 푸조박테륨, 베요넬라, 유박테륨, 펩토연쇄구균, 펩토구균 2. 적 응 증 1) 급·만성 또는 재발성 구강 감염증 치아농양, 봉와직명, 턱뼈 주위의 봉와직염, 치관주위염, 골염, 치은염, 구내염, 치주염, 이하선염, 하악염 2) 구강수술후 감염증 예방",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-22",
+   "first_observed_at": "2026-09-08T08:40:01Z",
+   "last_observed_at": "2026-09-08T08:40:01Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:01Z"
+}

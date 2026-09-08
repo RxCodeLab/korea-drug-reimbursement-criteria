@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906856",
+ "item_name": "경남세프라딘주1그램(세프라딘)(수출용)",
+ "entp_name": "경남제약(주)",
+ "permit_date": "20090911",
+ "cancel_date": "20250623",
+ "status": "취하",
+ "main_item_ingr": "[M020069]세프라딘",
+ "main_item_ingr_eng": "Cefradine",
+ "edi_code": "",
+ "atc_code": "J01DB09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906856",
+ "revisions": [
+  {
+   "revision_id": "200906856-7c691ea6",
+   "content_sha256": "7c691ea6d3185dcb2852f70f6da1f2fbfac334c70b4c27da6b4651d720c7d84c",
+   "ee_text": "○ 유효균종 포도구균, 폐렴연쇄구균, 인플루엔자균, 대장균, 프로테우스 미라빌리스, 클레브시엘라, 연쇄구균 ○ 적응증 (주사제) - 편도염, 인두염, 대엽성 폐렴, 기관지염 - 방광염, 신우신염, 요도염, 전립선염 - 농양, 연조직염, 종기, 농가진 - 중이염 - 골감염증 - 패혈증",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:33Z",
+   "last_observed_at": "2026-09-08T08:43:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:33Z"
+}

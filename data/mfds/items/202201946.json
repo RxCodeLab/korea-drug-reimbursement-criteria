@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201946",
+ "item_name": "레이보우정100밀리그램(라스미디탄헤미숙신산염)",
+ "entp_name": "일동제약(주)",
+ "permit_date": "20220511",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282701]라스미디탄헤미숙신산염",
+ "main_item_ingr_eng": "Lasmiditan Hemisuccinate",
+ "edi_code": "",
+ "atc_code": "N02CC08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201946",
+ "revisions": [
+  {
+   "revision_id": "202201946-cc10ec36",
+   "content_sha256": "cc10ec36071024cf275d560a64cdf5f575dedbcf63f8281813898a7b6cd42ac6",
+   "ee_text": "전조증상을 수반하거나 수반하지 않는 편두통의 급성치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:19Z",
+   "last_observed_at": "2026-09-08T09:01:19Z",
+   "official_revision_date": "2022-05-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:19Z"
+}

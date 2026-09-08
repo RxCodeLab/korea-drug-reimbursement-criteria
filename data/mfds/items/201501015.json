@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201501015",
+ "item_name": "조레틸 50 주사(동물용)",
+ "entp_name": "주식회사 버박코리아",
+ "permit_date": "20150226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M260950]틸레타민염산염|[M260951]졸라제팜염산염",
+ "main_item_ingr_eng": "Tiletamine Hydrochloride/Zolazepam Hydrochloride",
+ "edi_code": "",
+ "atc_code": "N01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501015",
+ "revisions": [
+  {
+   "revision_id": "201501015-ea404931",
+   "content_sha256": "ea40493156464fe46c2a0b375dee5680a487910c6c287173ad92b4f46d927c0a",
+   "ee_text": "대상 동물 효능ㆍ효과 적 응 증 개, 고양이, 야생동물 (1) 개, 고양이와 야생동물의 마취 보정, 검진 및 소수술, 대수술 (2) 사용량에 따라 20~60분간 마취됨.",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:32Z",
+   "last_observed_at": "2026-09-08T08:48:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:32Z"
+}

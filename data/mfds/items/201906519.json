@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906519",
+ "history_fetched_at": "2026-08-27T13:02:25Z",
  "revisions": [
   {
    "revision_id": "201906519-f97af0db",
@@ -19,9 +20,9 @@
    "ee_text": "감기의 제증상(인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T13:02:25Z",
-   "last_observed_at": "2026-08-27T13:02:25Z",
-   "official_revision_date": "2019-09-18"
+   "last_observed_at": "2026-09-08T08:56:24Z",
+   "official_revision_date": "2019-09-18",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:02:25Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201007562",
+ "item_name": "클로람정(클로람부실)(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20101220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040609]클로람부실",
+ "main_item_ingr_eng": "Chlorambucil",
+ "edi_code": "",
+ "atc_code": "L01AA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007562",
+ "revisions": [
+  {
+   "revision_id": "201007562-8a1d2c27",
+   "content_sha256": "8a1d2c278972ef23705617cc0c61e0f22148753b910b457407b8f987bfbeb4c0",
+   "ee_text": "1. 호지킨병 2. 특이형의 비호지킨림프종 3. 만성림프모구백혈병 4. Waldenstrom´s 거대글로불린혈증 5. 진행성난소암 6. 유방암",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:20Z",
+   "last_observed_at": "2026-09-08T08:44:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:20Z"
+}

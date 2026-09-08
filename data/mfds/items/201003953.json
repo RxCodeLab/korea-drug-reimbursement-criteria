@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003953",
+ "item_name": "헥소슈어300주(이오헥솔)",
+ "entp_name": "(주)한국파비스제약",
+ "permit_date": "20100611",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088960]이오헥솔",
+ "main_item_ingr_eng": "Iohexol",
+ "edi_code": "621803851,621803852,621803853,621803854",
+ "atc_code": "V08AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003953",
+ "revisions": [
+  {
+   "revision_id": "201003953-ddd2ce58",
+   "content_sha256": "ddd2ce580657680ca10f15372b2243cf630dcd73cd78a64ad4e679514b44eb86",
+   "ee_text": "1. 척수조영 2. 혈관조영 3. 정맥요로조영(IVP) 4. CT 조영증강 5. 체강조영 : 관절조영, 자궁난관조영, 침샘조영, 소화관조영",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:06Z",
+   "last_observed_at": "2026-09-08T08:44:06Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:06Z"
+}

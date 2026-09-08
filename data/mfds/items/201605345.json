@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201605345",
+ "item_name": "수란트라크림1%(이버멕틴)",
+ "entp_name": "갈더마코리아(주)",
+ "permit_date": "20160831",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102559]이버멕틴",
+ "main_item_ingr_eng": "Ivermectin",
+ "edi_code": "",
+ "atc_code": "D11AX22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605345",
+ "revisions": [
+  {
+   "revision_id": "201605345-6ac5a8ce",
+   "content_sha256": "6ac5a8ce6187498e5f585b1f740372dc670cf7ea6ce47d4e2fb17db549ee5e20",
+   "ee_text": "성인의 주사(rosacea)로 인한 염증성 병변(papulopustular)의 국소 치료",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:11Z",
+   "last_observed_at": "2026-09-08T08:51:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:11Z"
+}

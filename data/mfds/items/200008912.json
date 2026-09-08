@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008912",
+ "item_name": "테크네피로인산키트주사(피로인산나트륨)",
+ "entp_name": "새한산업",
+ "permit_date": "20000826",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M106791]피로인산나트륨(결정)",
+ "main_item_ingr_eng": "Sodium Pyrophosphate",
+ "edi_code": "656900871",
+ "atc_code": "V09BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008912",
+ "revisions": [
+  {
+   "revision_id": "200008912-e9393092",
+   "content_sha256": "e9393092c10d5724525edf2471e8871aab09d40952b6b6eeb7f63a79bcabfe32",
+   "ee_text": "1. 진단용 방사성의약품인 피로인산테크네튬(99mTc) 주사액의 조제용 2. 피로인산테크네튬(99mTc) 주사액의 효능ㆍ효과 1) 심장 신티그래피에 의한 심장 질환의 진단 2) 뼈 신티그래피에 의한 골격 질환의 진단",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:33Z",
+   "last_observed_at": "2026-09-08T08:34:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:33Z"
+}

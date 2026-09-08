@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200401539",
+ "item_name": "크레메진세립(구형흡착탄)",
+ "entp_name": "에이치케이이노엔(주)",
+ "permit_date": "20040331",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M261950]구형흡착탄",
+ "main_item_ingr_eng": "spherical carbonaceouse adsorbent",
+ "edi_code": "640002511",
+ "atc_code": "V03AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401539",
+ "revisions": [
+  {
+   "revision_id": "200401539-0bf2dd9b",
+   "content_sha256": "0bf2dd9b541d4a78193363dca8fba2566c6f7873691e1bdd0f367f4c2a1df3b9",
+   "ee_text": "만성신부전(진행성)에 대한 요독증 증상의 개선 및 투석도입의 지연",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200401539/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:50Z",
+   "last_observed_at": "2026-09-08T08:37:50Z"
+  },
+  {
+   "revision_id": "200401539-e140661f",
+   "content_sha256": "e140661f06e5e852c1e1828c74fc345acd1b3df631ca7cad79c27816d1c84913",
+   "ee_text": "만성신부전증(진행성)에 대한 요독증 증상의 개선 및 투석도입의 지연",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:37:50Z",
+   "last_observed_at": "2026-09-08T08:37:50Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:50Z"
+}

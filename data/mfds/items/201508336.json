@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508336",
+ "item_name": "라디컷주30mg(에다라본)",
+ "entp_name": "타나베파마코리아주식회사",
+ "permit_date": "20151218",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M201202]에다라본",
+ "main_item_ingr_eng": "Edaravone",
+ "edi_code": "",
+ "atc_code": "N07XX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508336",
+ "revisions": [
+  {
+   "revision_id": "201508336-2cb936ef",
+   "content_sha256": "2cb936efb513ad9433e7892bfecc8115e33b7e3826dc0087c005328e728c3cac",
+   "ee_text": "근위축성 측삭경화증(ALS)에 의한 기능장애의 진행을 늦추어 준다.",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:00Z",
+   "last_observed_at": "2026-09-08T08:50:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:00Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "N07XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000150",
+ "history_fetched_at": "2026-08-28T13:23:52Z",
  "revisions": [
   {
    "revision_id": "200000150-09e9cb40",
@@ -19,9 +20,9 @@
    "ee_text": "체질이 허약한 사람으로 쉽게 피로를 느끼고 흥분하기 쉬운 사람의 다음과 같은 증상 : 신경질, 불면증, 소아야뇨증, 야제증(夜啼症, 어린이가 밤에 우는 증상), 눈의 피로",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:23:52Z",
-   "last_observed_at": "2026-08-28T13:23:52Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:33:28Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:52Z"
+ ]
 }

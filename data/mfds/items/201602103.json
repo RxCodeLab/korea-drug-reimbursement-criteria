@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201602103",
+ "item_name": "펜믹스타이제사이클린주",
+ "entp_name": "(주)펜믹스",
+ "permit_date": "20160414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M215175]타이제사이클린",
+ "main_item_ingr_eng": "Tigecycline",
+ "edi_code": "",
+ "atc_code": "J01AA12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602103",
+ "revisions": [
+  {
+   "revision_id": "201602103-a757e81d",
+   "content_sha256": "a757e81d7f3beb61562ae02a67449c19c491a63648b8a26f88b6c1a1d59c1cdd",
+   "ee_text": "1. 유효균종 이 약은 다음 미생물에 대해 in vitro 및 임상적 감염 모두에서 활성을 나타낸다. ㆍ 통성호기성 그람양성균 Enterococcus faecalis (반코마이신-감수성 균주) Staphylococcus aureus (메치실린-감수성 및 내성 균주) Streptococcus agalactiae Streptococcus anginosus군 (S. anginosus, S. intermedius, S. constellatus) Streptococcus pneumoniae (페니실린-감수성 균주) Streptococcus pyogenes ㆍ 통성호기성 그람음성균 Citrobacter freundii Enterobacter cloacae Escherichia coli Haemophilus influenzae (베타-락타마제 음성 균주) Klebsiella oxytoca Klebsiella pneumoniae Legionella pneumophila ㆍ 혐기성균 Bacteroides fragilis Bacteroides thetaiotaomicron Bacteroides uniformis Bacteroides vulgatus Clostridium perfringens Peptostreptococcus micros 다음 미생물의 90% 이상에서 관찰된 in vitro MIC는 이 약의 감수성 breakpoint 보다 낮거나 같다. 그러나, 이러한 미생물들에 의한 임상적 감염 치료에 있어서 이 약의 안전성 및 유효성은 적절하고 잘 관리된 임상시험으로는 확립되지 않아 임상적 유의성은 알려진 바 없다. ㆍ 통성호기성 그람양성균 Enterococcus avium Enterococcus casseliflavus Enterococcus faecalis (반코마이신-내성 균주) Enterococcus faecium (반코마이신-감수성 및 내성 균주) Enterococcus gallinarum Listeria monocytogenes Staphylococcus epidermidis (메치실린-감수성 및 내성 균주) Staphylococcus haemolyticus ㆍ 통성호기성 그람음성균 Acinetobacter baumannii Aeromonas hydrophila Citrobacter koseri Enterobacter aerogenes Haemophilus influenzae (암피실린-내성) Haemophilus parainfluenzae Pasteurella multocida Serratia marcescens Stenotrophomonas maltophilia ㆍ 혐기성균 Bacteroides distasonis Bacteroides ovatus Peptostreptococcus spp. Porphyromonas spp. Prevotella spp. ㆍ 기타 미생물 Mycobacterium abscessus Mycobacterium chelonae Mycobacterium fortuitum 2. 적응증 성인(18세 이상)에서의 ㆍ 복잡성 피부 및 피부조직 감염 ㆍ 복잡성 복강내 감염 ㆍ 지역사회 획득 세균성 폐렴 적절한 검체로 원인균을 분리 확인하고, 이 약에 대한 감수성 여부를 확인한다. 시험결과를 확인하기 전에 경험적으로 이 약의 투여를 시작할 수도 있으며, 시험결과가 확인된 후에는 그에 따라 적절하게 항균제를 투여하여야 한다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:26Z",
+   "last_observed_at": "2026-09-08T08:50:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:26Z"
+}

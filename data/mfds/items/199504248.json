@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199504248",
+ "item_name": "티얼즈내츄럴프리점안액(1회용)",
+ "entp_name": "한국알콘(주)",
+ "permit_date": "19950119",
+ "cancel_date": "20240425",
+ "status": "취하",
+ "main_item_ingr": "[M040083]덱스트란70|[M240098]히드록시프로필메칠셀룰로오스2910",
+ "main_item_ingr_eng": "Dextran 70/Hypromellose 2910",
+ "edi_code": "",
+ "atc_code": "S01XA20",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199504248",
+ "revisions": [
+  {
+   "revision_id": "199504248-18ccb27b",
+   "content_sha256": "18ccb27bbd51d2c7cf3a056b74211f2ba6f3b39581997b4edfde450e3654808c",
+   "ee_text": "눈물 분비 부족 및 점액 부족에 의한 눈의 건조",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:54Z",
+   "last_observed_at": "2026-09-08T08:29:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:54Z"
+}

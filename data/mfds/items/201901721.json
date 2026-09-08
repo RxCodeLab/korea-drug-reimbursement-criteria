@@ -3,15 +3,16 @@
  "complete": true,
  "item_seq": "201901721",
  "item_name": "애크논크림",
- "entp_name": "지엘파마(주)",
+ "entp_name": "지엘팜텍(주)",
  "permit_date": "20190322",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M261461]이부프로펜피코놀|[M261256]이소프로필메틸페놀",
+ "main_item_ingr": "[M261256]이소프로필메틸페놀|[M261461]이부프로펜피코놀",
  "main_item_ingr_eng": "Ibuprofen Piconol/Isopropyl Methylphenol",
  "edi_code": "",
  "atc_code": "D10AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901721",
+ "history_fetched_at": "2026-08-28T13:25:05Z",
  "revisions": [
   {
    "revision_id": "201901721-8c16c6b1",
@@ -19,9 +20,9 @@
    "ee_text": "여드름, 뾰루지",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:05Z",
-   "last_observed_at": "2026-08-28T13:25:05Z",
-   "official_revision_date": "2019-03-22"
+   "last_observed_at": "2026-09-08T08:54:35Z",
+   "official_revision_date": "2019-03-22",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:05Z"
+ ]
 }

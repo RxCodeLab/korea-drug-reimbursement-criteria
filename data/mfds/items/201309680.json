@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309680",
+ "item_name": "밀성산업가스의료용산소",
+ "entp_name": "(주)밀성산업가스",
+ "permit_date": "20131011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040256]산소",
+ "main_item_ingr_eng": "Oxygen",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309680",
+ "revisions": [
+  {
+   "revision_id": "201309680-5a6bfe33",
+   "content_sha256": "5a6bfe33d1c9a1ab7f746f3641d1564c226b6215bba81c08596c0334d29f8fe5",
+   "ee_text": "〇 의료용가스 - 다음과 같은 광범위한 질환에서의 산소결핍증 치료 · 호흡근의 마비 · 일산화탄소 중독 · 출혈, 외상, 쇼크 · 마취 시의 호흡마비 · 중증의 심질환(순환계 허탈 등) · 폐부종 등으로 인한 기도의 폐쇄 - 폐쇄 순환 마취 시 단독 투여 또는 이산화탄소와 병용투여",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:25Z",
+   "last_observed_at": "2026-09-08T08:46:25Z",
+   "official_revision_date": "2020-02-06"
+  },
+  {
+   "revision_id": "201309680-7374a947",
+   "content_sha256": "7374a9474b47bc700f492cf37b00c1a81692eea0815ee5c1f5a5060284582e0a",
+   "ee_text": "산소 결핍증이 일어났을 때 하는 산소 흡입 또는 폐쇄 순환 마취기에 단독 혹은 이산화탄소와 함께 사용, 호흡근의 마비, 일산화탄소, 아질산, 코카인 등에 의한 중독시의 가사, 출혈, 의상쑈크, 마취시의 호흡마비, 순환계허탈, 관혈관 질환 두부외상, 폐염 급성긴엽 및 요독 증세의 심기능 장해, 폐부종 기도의 폐쇄",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:46:25Z",
+   "last_observed_at": "2026-09-08T08:46:25Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:25Z"
+}

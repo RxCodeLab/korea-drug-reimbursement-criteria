@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198500875",
+ "item_name": "세레스타정(수출용)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "19850817",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040218]베타메타손|[M040218]베타메타손|[M249715]덱스클로르페니라민 말레산염|[M249715]덱스클로르페니라민 말레산염",
+ "main_item_ingr_eng": "Betamethasone/Dexchlorpheniramine Maleate",
+ "edi_code": "",
+ "atc_code": "H02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500875",
+ "revisions": [
+  {
+   "revision_id": "198500875-faed5342",
+   "content_sha256": "faed534297c1faa4625c5401358c71804a3a7acc79c842d86a3decceb901b879",
+   "ee_text": "급성 두드러기, 고초열(화분증), 만성 기관지 천식, 알레르기성 비염, 약진, 아토피성 피부염, 습진, 접촉성 피부염, 알레르기성 결막염",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:05Z",
+   "last_observed_at": "2026-09-08T08:27:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:05Z"
+}

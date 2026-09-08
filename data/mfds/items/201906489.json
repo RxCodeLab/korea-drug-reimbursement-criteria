@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906489",
+ "item_name": "평위천프라임액",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20190917",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040006]감초|[M040007]건강|[M040538]진피|[M040548]창출|[M040813]후박|[M223167]우르소데옥시콜산|[M223262]티아민질산염|[M246203]DL-카르니틴염산염",
+ "main_item_ingr_eng": "Atractylodes Rhizome/Citrus Unshiu Peel/DL-Carnitine Hydrochloride/Ginger/Licorice/Magnolia Bark/Thiamine Nitrate/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "A09A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906489",
+ "revisions": [
+  {
+   "revision_id": "201906489-286efed7",
+   "content_sha256": "286efed76b7714e49a0ae451453889e2c9cacb282a60491125ff6238d9095ed5",
+   "ee_text": "식욕감퇴(식욕부진), 위부팽만감, 소화불량, 과식, 체함, 구역, 구토, 소화촉진",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:23Z",
+   "last_observed_at": "2026-09-08T08:56:23Z",
+   "official_revision_date": "2019-09-17"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:23Z"
+}

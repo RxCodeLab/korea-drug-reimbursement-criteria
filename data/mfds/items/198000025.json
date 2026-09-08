@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198000025",
+ "item_name": "시함과립(시함탕)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19800226",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270830]시함탕연조엑스(7.09→1)",
+ "main_item_ingr_eng": "",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000025",
+ "revisions": [
+  {
+   "revision_id": "198000025-b60c92d7",
+   "content_sha256": "b60c92d77ea91ecf2c6c3ad1a2bfc2b43e160eb1a76590257e94f58be5cbac66",
+   "ee_text": "기침, 기침으로 인한 가슴통증",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:36Z",
+   "last_observed_at": "2026-09-08T08:26:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:36Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701102",
+ "item_name": "산텐알레기살점안액(페미로라스트칼륨)",
+ "entp_name": "한국산텐제약(주)",
+ "permit_date": "20170228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088859]페미로라스트칼륨",
+ "main_item_ingr_eng": "Pemirolast Potassium",
+ "edi_code": "665600221",
+ "atc_code": "S01GX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701102",
+ "revisions": [
+  {
+   "revision_id": "201701102-0c518888",
+   "content_sha256": "0c518888d5fd533803a13ba5417537a6bda768a749580daa1963fc327a0c6550",
+   "ee_text": "알레르기결막염, 봄철 각막염이나 결막염",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:35Z",
+   "last_observed_at": "2026-09-08T08:51:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:35Z"
+}

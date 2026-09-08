@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508220",
+ "item_name": "독시베실정250밀리그램(도베실산칼슘수화물)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20151211",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257668]도베실산칼슘수화물",
+ "main_item_ingr_eng": "Dobesilate Calcium Hydrate",
+ "edi_code": "662503300",
+ "atc_code": "C05BX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508220",
+ "revisions": [
+  {
+   "revision_id": "201508220-2e1dd252",
+   "content_sha256": "2e1dd25240938cfb39b0765b72e52ad121ea998562a8b3fd46b086af24ae0c28",
+   "ee_text": "항진된 모세혈관 파열과 투과장애를 수반하는 혈관손상, 당뇨병성모세혈관장애, 당뇨병성망막변증, 정맥기능부전, 혈전후 증후군, 말초울혈성부종, 치질.",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:58Z",
+   "last_observed_at": "2026-09-08T08:49:58Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:58Z"
+}

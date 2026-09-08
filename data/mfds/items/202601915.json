@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202601915",
+ "item_name": "케렌디아정40밀리그램(피네레논)",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20260630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282671]피네레논(미분화)",
+ "main_item_ingr_eng": "Finerenone Micronized",
+ "edi_code": "",
+ "atc_code": "C03DA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601915",
+ "revisions": [
+  {
+   "revision_id": "202601915-096a8636",
+   "content_sha256": "096a8636b067d89a588c665188b97d432e45942740f66870188a6370d8a4e164",
+   "ee_text": "만성 심부전(LVEF ≥40%) 좌심실 박출률(LVEF)이 40% 이상인 만성 심부전 성인 환자에서 심혈관계 질환으로 인한 사망, 심부전으로 인한 입원 및 심부전으로 인한 긴급 병원 방문 위험성 감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:05:27Z",
+   "last_observed_at": "2026-09-08T09:05:27Z",
+   "official_revision_date": "2026-06-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:05:27Z"
+}

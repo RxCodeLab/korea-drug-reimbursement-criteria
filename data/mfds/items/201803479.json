@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803479",
+ "item_name": "태경화학의료용이산화탄소",
+ "entp_name": "태경케미컬(주)",
+ "permit_date": "20180827",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040491]이산화탄소",
+ "main_item_ingr_eng": "Carbon Dioxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803479",
+ "revisions": [
+  {
+   "revision_id": "201803479-53d6219b",
+   "content_sha256": "53d6219bf7f9041b36baca46f2ab99fedf1d200e00fcd9cdd5a8fa9f821b38c9",
+   "ee_text": "의료용 가스",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:33Z",
+   "last_observed_at": "2026-09-08T08:53:33Z",
+   "official_revision_date": "2018-08-27"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:33Z"
+}

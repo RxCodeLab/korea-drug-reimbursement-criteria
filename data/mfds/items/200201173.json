@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201173",
+ "item_name": "치오에스정(수출용)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20021121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080565]무정형에스신|[M095614]치오콜치코시드",
+ "main_item_ingr_eng": "Aescin Amorphous/Thiocolchicoside",
+ "edi_code": "",
+ "atc_code": "M03BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201173",
+ "revisions": [
+  {
+   "revision_id": "200201173-30ea1eb6",
+   "content_sha256": "30ea1eb64012abd1343d9a5b93bfc0ae36ef9460f2a6578c5837c409225a05d2",
+   "ee_text": "근골격계 질환에 수반하는 근이완, 진통 및 소염작용 : 근염, 골절, 좌상, 염좌(특히 외상성 또는 염증성 부종이 있을 때)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:09Z",
+   "last_observed_at": "2026-09-08T08:36:09Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:09Z"
+}

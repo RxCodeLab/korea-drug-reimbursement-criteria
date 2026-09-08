@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199502670",
+ "item_name": "파노린주사(파미드론산나트륨)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "19950519",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M071878]파미드론산나트륨",
+ "main_item_ingr_eng": "Pamidronate Sodium",
+ "edi_code": "645301971",
+ "atc_code": "M05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502670",
+ "revisions": [
+  {
+   "revision_id": "199502670-4b578513",
+   "content_sha256": "4b57851342eb707b74ee011d67508219a1dd979b05102014373a191d22f50aee",
+   "ee_text": "1. 골(骨)칼슘 함량의 부(負)균형에 기인한 T값이 – 2.5이하인(T ≤ - 2.5) 하기 골대사 이상 질환의 치료 : 골다공증 2. 골대사 이상에 의한 하기 질환의 치료 : 파제트골염, 악성종양에 의한 과칼슘혈증,유방암 환자의 용해성 골전이, 다발성 골수종에 의한 골연화",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:49Z",
+   "last_observed_at": "2026-09-08T08:29:49Z",
+   "official_revision_date": "2018-01-21"
+  },
+  {
+   "revision_id": "199502670-624276c5",
+   "content_sha256": "624276c576bc5c21ae7b3311ce322d651c097ca34d6c2c12ceb335f439b42ab3",
+   "ee_text": "1. 골(骨)칼슘 함량의 부(負)균형에 기인한 T값이 -2.5이하인(T≤-2.5) 하기 골대사 이상 질환의 치료 : 골다공증 2. 골대사 이상에 의한 하기 질환의 치료 파제트골염, 악성종양에 의한 과칼슘혈증, 유방암 환자의 용해성 골전이, 다발성 골수종 에 의한 골연화",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:29:49Z",
+   "last_observed_at": "2026-09-08T08:29:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:49Z"
+}

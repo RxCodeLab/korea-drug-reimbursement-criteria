@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200906557",
+ "item_name": "리비알정(티볼론)",
+ "entp_name": "한국오가논(주)",
+ "permit_date": "20090827",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083880]티볼론",
+ "main_item_ingr_eng": "Tibolone",
+ "edi_code": "073100370",
+ "atc_code": "G03CX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906557",
+ "revisions": [
+  {
+   "revision_id": "200906557-0ddacf2d",
+   "content_sha256": "0ddacf2d6f1d1a501d1b8f2e2ff80d2ae4e87fb77a7bd5883ffa4b56255793d8",
+   "ee_text": "1) 폐경 후(마지막 생리 후 최소 1년이 경과된 시점) 여성의 에스트로겐 결핍 증상 2) (다른 골다공증 예방약이 금기이거나 내약성이 없는 경우) 골절 위험성이 높은 폐경 이후 여성의 골다공증 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200906557/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:30Z",
+   "last_observed_at": "2026-09-08T08:43:30Z"
+  },
+  {
+   "revision_id": "200906557-5f77b297",
+   "content_sha256": "5f77b2979c88b845c42e735f0e39c808cd7802c4567d877e2f01508596961769",
+   "ee_text": "1) 폐경 후 1년이 경과한 여성의 에스트로겐 결핍 증상 2) (다른 골다공증 예방약이 금기이거나 내약성이 없는 경우) 골절 위험성이 높은 폐경 이후 여성의 골다공증 예방",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-29",
+   "first_observed_at": "2026-09-08T08:43:30Z",
+   "last_observed_at": "2026-09-08T08:43:30Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:30Z"
+}

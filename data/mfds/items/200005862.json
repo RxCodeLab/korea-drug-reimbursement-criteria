@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200005862",
+ "item_name": "경방대황목단피탕엑스과립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20000816",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040073]대황|[M040086]도인|[M040185]목단피|[M070170]동과자|[M088654]망초",
+ "main_item_ingr_eng": "Benincasae Semen/Moutan Root Bark/Natrii Sulfas/Peach Kernel/Rhubarb",
+ "edi_code": "",
+ "atc_code": "B01AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005862",
+ "revisions": [
+  {
+   "revision_id": "200005862-e936cc28",
+   "content_sha256": "e936cc28dc22dc077bb8f17d5b92607c190ff62897d9355626c97931f5d76c72",
+   "ee_text": "비교적 체력이 있고 하복부통, 변비 경향이 있는 사람의 다음 증상 : 월경불순, 월경곤란, 변비, 치핵",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:26Z",
+   "last_observed_at": "2026-09-08T08:34:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:26Z"
+}

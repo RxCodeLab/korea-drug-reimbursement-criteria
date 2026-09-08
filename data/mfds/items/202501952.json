@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501952",
+ "item_name": "프로지너스질정(미분화프로게스테론)",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20250728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086429]미분화프로게스테론",
+ "main_item_ingr_eng": "Progesterone Micronized",
+ "edi_code": "",
+ "atc_code": "G03DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501952",
+ "revisions": [
+  {
+   "revision_id": "202501952-f8576411",
+   "content_sha256": "f8576411dde03b2a5d60ec8f2ff87f6240d9c2d31f8c7c84f5354d08633286d3",
+   "ee_text": "프로게스테론 결핍으로 인한 불임 여성의 ART(Assisted Reproductive Technique)의 한 부분으로서 황체 기능의 보충요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:07Z",
+   "last_observed_at": "2026-09-08T09:04:07Z",
+   "official_revision_date": "2025-07-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:07Z"
+}

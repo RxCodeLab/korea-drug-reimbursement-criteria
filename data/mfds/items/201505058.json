@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505058",
+ "item_name": "발란스피이지점안액(프로필렌글리콜)(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20150724",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040733]프로필렌글리콜",
+ "main_item_ingr_eng": "Propylene Glycol",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505058",
+ "revisions": [
+  {
+   "revision_id": "201505058-a7b21308",
+   "content_sha256": "a7b213084dc9f506f654ffaa2632fd21d752fb76d6b89a1a5460c7cc779ea280",
+   "ee_text": "눈의 건조로 인한 자극감과 작열감(화끈거림)의 일시적 완화",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:25Z",
+   "last_observed_at": "2026-09-08T08:49:25Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:25Z"
+}

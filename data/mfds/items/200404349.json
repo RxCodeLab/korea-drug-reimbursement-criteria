@@ -7,11 +7,12 @@
  "permit_date": "20041229",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051385]천축황|[M051206]우담남성|[M051946]호박|[M051366]진주|[M040253]사향|[M040478]우황",
+ "main_item_ingr": "[M040253]사향|[M040478]우황|[M051206]우담남성|[M051366]진주|[M051385]천축황|[M051946]호박",
  "main_item_ingr_eng": "Arisaematis Rhizoma Preparata cum Bovis Fel/Bambusae Concretio Silicea/Cattle Gallstone/Margarita/Moschus/Succinum",
  "edi_code": "",
  "atc_code": "N07XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404349",
+ "history_fetched_at": "2026-08-28T13:24:06Z",
  "revisions": [
   {
    "revision_id": "200404349-df164fee",
@@ -19,9 +20,9 @@
    "ee_text": "급·만성 경풍(驚風, 갑자기 의식을 잃고 경련하는 병증), 가래, 경련, 간기(癎氣), 토유(吐乳)",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:24:06Z",
-   "last_observed_at": "2026-08-28T13:24:06Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:38:30Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:06Z"
+ ]
 }

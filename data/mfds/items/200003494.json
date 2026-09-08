@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A12AA05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200003494",
+ "history_fetched_at": "2026-08-28T13:23:55Z",
  "revisions": [
   {
-   "revision_id": "200003494-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "200003494-6138937f",
+   "content_sha256": "6138937fa27263c1362a607ec8bf09390db256d911f7a73c47a4ec42b22af34c",
+   "ee_text": "1. 칼슘 결핍증의 예방 및 치료 2. 임산부, 수유부 및 어린이의 칼슘보충",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:23:55Z",
-   "last_observed_at": "2026-08-28T13:23:55Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:34:11Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:55Z"
+ ]
 }

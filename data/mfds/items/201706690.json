@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201706690",
+ "item_name": "듀오그린정",
+ "entp_name": "한국신텍스제약(주)",
+ "permit_date": "20170821",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜|[M081899]센나엽가루|[M081950]도큐세이트나트륨|[M237598]Tinnevelly 센나열매가루",
+ "main_item_ingr_eng": "Bisacodyl/Docusate Sodium/Senna Leaf Powder/Tinnevelly Senna Fruit Powder",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706690",
+ "revisions": [
+  {
+   "revision_id": "201706690-5b266025",
+   "content_sha256": "5b2660256010bb704afdcd6637560a95e3d44292e639ef282c16d6fc9723e4a1",
+   "ee_text": "․ 변비 ․ 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:14Z",
+   "last_observed_at": "2026-09-08T08:52:14Z",
+   "official_revision_date": "2020-03-16"
+  },
+  {
+   "revision_id": "201706690-7330b929",
+   "content_sha256": "7330b929b3588bc58d71a2fa42e08e5ce1c3d4f749dbfdf52f04a4ba4d31355a",
+   "ee_text": "변비, 변비에 수반하는 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:52:14Z",
+   "last_observed_at": "2026-09-08T08:52:14Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:14Z"
+}

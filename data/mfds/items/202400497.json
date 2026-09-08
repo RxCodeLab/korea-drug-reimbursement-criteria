@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400497",
+ "item_name": "렐리체크주사(고나도렐린아세트산염)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20240308",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258287]고나도렐린아세트산염",
+ "main_item_ingr_eng": "Gonadorelin Acetate",
+ "edi_code": "653405461",
+ "atc_code": "V04CM01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400497",
+ "revisions": [
+  {
+   "revision_id": "202400497-77218722",
+   "content_sha256": "77218722e00d10f577e8a557c040546c867c7352f4c7290e9bb4094f4a1d6939",
+   "ee_text": "1. 불임증의 감별진단 : - 사춘기가 늦게 오는 경우 - 다음에서와 같은 원발성 성기능 부전 클라인펠터 증후군 (Klinefelter's syndrome) 터너 증후군 (Turner's syndrome) 세르톨리세포 유일증후군 (Sertoli-Cells-only syndrome) - 다음에서와 같은 속발성 성기능 부전 : 칼만 증후군 (Kallmann's syndrome) 특발성 유환관증 파스콸리니 증후군 (Pasqualini's syndrome) - 원발성 무월경증 - 신경성 식욕부진에서와 같은 속발성 무월경증 2. 시상하부 및 뇌하수체에 생기는 질환의 위치 및 정도 조사",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:48Z",
+   "last_observed_at": "2026-09-08T09:02:48Z",
+   "official_revision_date": "2024-03-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:48Z"
+}

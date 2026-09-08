@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "D01AC03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900217",
+ "history_fetched_at": "2026-08-28T13:23:38Z",
  "revisions": [
   {
-   "revision_id": "197900217-7ed23d1e",
-   "content_sha256": "7ed23d1edcbd6219eae5c1a59e974751400995e7399c566e6ba559c1a27828eb",
-   "ee_text": "1) 피부사상균(백선균등)에 의한 피부질환 : 족부백선, 완선, 두부백선 2) 피부칸디다증 3) 어루러기",
+   "revision_id": "197900217-19f0cb9b",
+   "content_sha256": "19f0cb9be7dda901bc8d25bf87fb5b38c99abad9f3886f8059f725718f19299b",
+   "ee_text": "1. 다음의 피부진균증 1) 피부사상균(백선균등)에 의한 피부질환 : 족부백선, 완선, 두부백선 2) 피부칸디다증 3) 어루러기 2. 이 약 감수성균에 의한 피부감염",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:23:38Z",
-   "last_observed_at": "2026-08-28T13:23:38Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:34Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:38Z"
+ ]
 }

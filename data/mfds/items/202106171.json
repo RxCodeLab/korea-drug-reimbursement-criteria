@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202106171",
+ "item_name": "케라힐(바솔자가피부유래각질세포)",
+ "entp_name": "(주)바이오솔루션",
+ "permit_date": "20210825",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266924]바솔자가피부유래각질세포",
+ "main_item_ingr_eng": "Autologous Keratinocytes",
+ "edi_code": "",
+ "atc_code": "D03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106171",
+ "revisions": [
+  {
+   "revision_id": "202106171-4864783b",
+   "content_sha256": "4864783bef22b19f057dfc016e96b316aecacc5245975355db5a1cc80857a420",
+   "ee_text": "다음과 같은 상처에 이식하여 기능적인 표피층이 생성되도록 한다. 1) 체표면적의 30% 이상을 차지하는 이도화상 2) 체표면적의 10% 이상을 차지하는 삼도화상",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:30Z",
+   "last_observed_at": "2026-09-08T09:00:30Z",
+   "official_revision_date": "2021-08-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:30Z"
+}

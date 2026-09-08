@@ -7,11 +7,12 @@
  "permit_date": "19660919",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M070009]감초가루|[M083617]세네가가루|[M256713]길경행인가루|[M070009]감초가루|[M040769]행인|[M083617]세네가가루|[M082634]길경가루",
+ "main_item_ingr": "[M040769]행인|[M070009]감초가루|[M070009]감초가루|[M082634]길경가루|[M083617]세네가가루|[M083617]세네가가루|[M256713]길경행인가루",
  "main_item_ingr_eng": "Apricot Kernel/Glycyrrhiza Powder/Platycodon Root Powder/Platycodon Root·Apricot Kernel Powder/Senega Powder",
  "edi_code": "",
  "atc_code": "R05F",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196600062",
+ "history_fetched_at": "2026-08-28T13:23:36Z",
  "revisions": [
   {
    "revision_id": "196600062-bd417dca",
@@ -19,9 +20,9 @@
    "ee_text": "기침, 가래, 인후[목구멍]의 염증에 의한 인후[목구멍]의 통증·부기·불쾌감, 목쉼",
    "ee_doc_id": "13",
    "first_observed_at": "2026-08-28T13:23:36Z",
-   "last_observed_at": "2026-08-28T13:23:36Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:15Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:36Z"
+ ]
 }

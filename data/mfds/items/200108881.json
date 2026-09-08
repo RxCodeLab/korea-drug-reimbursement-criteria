@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108881",
+ "item_name": "화이자시타라빈주100mg/5ml",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20010412",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040334]시타라빈",
+ "main_item_ingr_eng": "Cytarabine",
+ "edi_code": "648903311",
+ "atc_code": "L01BC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108881",
+ "revisions": [
+  {
+   "revision_id": "200108881-d8bc9382",
+   "content_sha256": "d8bc93826d9968474e4809012e73949e8ad415f9e40cc5093223890f53169c5c",
+   "ee_text": "암종 : 위암, 담낭암, 담도암, 췌장암, 간암, 결장암, 직장암 등의 소화기암, 폐암, 유방암, 자궁암, 난소암 등(단, 다른 항암제 즉 플루오로우라실, 미토마이신 C, 시클로포스파마이드, 크로모마이신, 메토트렉세이트, 빈크리스틴, 빈블라스틴 등과 병용 시에 한함) 백혈병 : 급성백혈병, 적백혈병, 만성골수성백혈병의 급성전환기",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:49Z",
+   "last_observed_at": "2026-09-08T08:35:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:49Z"
+}

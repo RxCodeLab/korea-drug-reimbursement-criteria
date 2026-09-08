@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200210111",
+ "item_name": "노보래피드플렉스펜주100단위/밀리리터(인슐린아스파트)",
+ "entp_name": "노보노디스크제약(주)",
+ "permit_date": "20021031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M097114]인슐린아스파트",
+ "main_item_ingr_eng": "Insulin Aspart",
+ "edi_code": "654400091",
+ "atc_code": "A10AB05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210111",
+ "revisions": [
+  {
+   "revision_id": "200210111-4992ba1e",
+   "content_sha256": "4992ba1e4f13896e85401abf4715ed2b10acfc2267956ee859c454535c7104e0",
+   "ee_text": "인슐린 요법이 요구되는 당뇨병",
+   "ee_doc_id": "20",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:36Z",
+   "last_observed_at": "2026-09-08T08:36:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:36Z"
+}

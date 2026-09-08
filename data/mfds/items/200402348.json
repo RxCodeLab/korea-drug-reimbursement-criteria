@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402348",
+ "item_name": "에크로바주500밀리그람(아시클로버)(수출용)",
+ "entp_name": "경동제약(주)",
+ "permit_date": "20040615",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081569]아시클로버",
+ "main_item_ingr_eng": "Acyclovir",
+ "edi_code": "",
+ "atc_code": "J05AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402348",
+ "revisions": [
+  {
+   "revision_id": "200402348-9a280f57",
+   "content_sha256": "9a280f571255540c136b105b2b11459a3fb0a0691eab93d7e185f38d03f3a8d6",
+   "ee_text": "1. 면역기능정상 환자 : 중증 초발성 생식기포진, 재발성 수두대상포진 바이러스 감염증, 단순포진성 뇌염 2. 면역기능저하 환자 : 단순포진 바이러스 감염증의 치료 및 예방, 초발성 및 재발성 수두대상포진바이러스 감염증, 단순포진성 뇌염",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:01Z",
+   "last_observed_at": "2026-09-08T08:38:01Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:01Z"
+}

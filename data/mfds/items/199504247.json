@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199504247",
+ "item_name": "아이오피딘0.5%점안액(아프라클로니딘염산염\r\n)",
+ "entp_name": "클리니젠코리아(유)",
+ "permit_date": "19951121",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M259621]아프라클로니딘염산염",
+ "main_item_ingr_eng": "Apraclonidine Hydrochloride",
+ "edi_code": "653603181",
+ "atc_code": "S01EA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199504247",
+ "revisions": [
+  {
+   "revision_id": "199504247-4dc93266",
+   "content_sha256": "4dc93266077197bec3462fb67fcf1a3fa01e5e4d8da55c843be68c00258ca5a5",
+   "ee_text": "안방수 생성 억제로 인한 안압하강 최대 내성 약물 요법 중인 환자의 단기간의 추가 안압하강 이 약은 방수 생성을 억제하기 때문에 최대 내성 약물 요법으로 이미 2가지의 방수억제제(예. 베타차단제 및 탄산탈수소효소저해제)를 사용하는 환자에게 투여 시 안압을 유의하게 감소시키지 않을 수 있다. 대부분의 환자들에게 치료 효과는 한 달 미만이다.",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:54Z",
+   "last_observed_at": "2026-09-08T08:29:54Z",
+   "official_revision_date": "2022-01-30"
+  },
+  {
+   "revision_id": "199504247-61be4b7d",
+   "content_sha256": "61be4b7d6167b8b3dd9cbb7b07d4a6ac6ed3675879a71021513e771fe0c7851d",
+   "ee_text": "(점안액 : 0.5%) 안방수 생성 억제로 인한 안압하강 최대 내성 약물 요법 중인 환자의 단기간의 추가 안압하강 (점안액 : 1.0%) 아르곤 레이저 우각 조형술 또는 홍채 절개술 후 발생하는 안압상승 방지",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "1999-12-31",
+   "first_observed_at": "2026-09-08T08:29:54Z",
+   "last_observed_at": "2026-09-08T08:29:54Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:54Z"
+}

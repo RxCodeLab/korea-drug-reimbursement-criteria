@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301794",
+ "item_name": "아미노믹스페리주",
+ "entp_name": "프레지니우스카비코리아(주)",
+ "permit_date": "20230609",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040438]염화칼륨|[M040438]염화칼륨|[M044300]포도당일수화물|[M044300]포도당일수화물|[M070096]글리세로인산나트륨|[M070096]글리세로인산나트륨|[M088656]글리신|[M088656]글리신|[M102908]타우린|[M102908]타우린|[M103060]L-트레오닌|[M103060]L-트레오닌|[M103077]L-아르기닌|[M103077]L-아르기닌|[M204435]L-세린|[M204435]L-세린|[M204442]L-페닐알라닌|[M204442]L-페닐알라닌|[M209360]L-발린|[M209360]L-발린|[M209366]L-알라닌|[M209366]L-알라닌|[M214274]L-트리프토판|[M214274]L-트리프토판|[M214313]L-티로신|[M214313]L-티로신|[M214861]L-프롤린|[M214861]L-프롤린|[M215288]L-히스티딘|[M215288]L-히스티딘|[M218567]L-메티오닌|[M218567]L-메티오닌|[M222530]L-이소류신|[M222530]L-이소류신|[M222531]L-류신|[M222531]L-류신|[M240607]아세트산나트륨삼수화물|[M240607]아세트산나트륨삼수화물|[M244189]L-리신아세트산염|[M244189]L-리신아세트산염|[M245290]황산마그네슘칠수화물|[M245290]황산마그네슘칠수화물|[M280421]염화칼슘이수화물|[M280421]염화칼슘이수화물",
+ "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose Monohydrate/Glycine/L-Alanine/L-Arginine/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Acetate/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine/Magnesium Sulfate Heptahydrate/Potassium Chloride/Sodium Acetate Hydrate/Sodium Glycerophosphate/Taurine",
+ "edi_code": "650902171",
+ "atc_code": "B05BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301794",
+ "revisions": [
+  {
+   "revision_id": "202301794-1da579fd",
+   "content_sha256": "1da579fd8c02effb7d24a598ec7f248ac7900712d599eb838f6836a32b7c5333",
+   "ee_text": "경구 또는 위장관 영양공급이 불가능, 불충분하거나 제한되어 경정맥 영양 공급을 실시해야 하는 성인에게 아미노산, 전해질 및 포도당의 공급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:08Z",
+   "last_observed_at": "2026-09-08T09:02:08Z",
+   "official_revision_date": "2023-06-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:08Z"
+}

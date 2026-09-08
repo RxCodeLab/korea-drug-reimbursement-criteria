@@ -7,11 +7,12 @@
  "permit_date": "20000811",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040538]진피|[M040202]반하|[M081401]복신|[M040536]지실|[M050891]신곡|[M040792]황련|[M040523]작약|[M040228]향부자|[M040187]목향|[M040214]백출|[M099441]자소자|[M210181]내복자|[M040550]천궁|[M040070]당귀|[M050540]백두구|[M040006]감초",
+ "main_item_ingr": "[M040006]감초|[M040070]당귀|[M040187]목향|[M040202]반하|[M040214]백출|[M040228]향부자|[M040523]작약|[M040536]지실|[M040538]진피|[M040550]천궁|[M040792]황련|[M050540]백두구|[M050891]신곡|[M081401]복신|[M099441]자소자|[M210181]내복자",
  "main_item_ingr_eng": "Angelica Gigas Root/Atractylodes Rhizome White/Aucklandiae Radix/Citrus Unshiu Peel/Cnidium Rhizome/Coptis Rhizome/Cyperus Rhizome/Licorice/Massa Medicata Fermentata/Peony Root/Perillae Fructus/Pinellia Tuber/Poncirus Immature Fruit/Poria Sclertum Cum Pini Radix/Raphani Semen/Round Amomum Fruit",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005583",
+ "history_fetched_at": "2026-08-28T13:23:56Z",
  "revisions": [
   {
    "revision_id": "200005583-7a0fe129",
@@ -19,8 +20,9 @@
    "ee_text": "구토, 위무력, 위하수(위처짐), 위장카타르, 소화불량",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:23:56Z",
-   "last_observed_at": "2026-08-28T13:23:56Z",
-   "official_revision_date": "2020-02-06"
+   "last_observed_at": "2026-09-08T08:34:23Z",
+   "official_revision_date": "2020-02-06",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200005583-71a43f47",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:56Z",
    "last_observed_at": "2026-08-28T13:23:56Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:56Z"
+ ]
 }

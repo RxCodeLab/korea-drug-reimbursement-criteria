@@ -7,11 +7,12 @@
  "permit_date": "20130520",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M255988]이르베사탄|[M223356]히드로클로로티아지드",
+ "main_item_ingr": "[M223356]히드로클로로티아지드|[M255988]이르베사탄",
  "main_item_ingr_eng": "Hydrochlorothiazide/Irbesartan",
  "edi_code": "",
  "atc_code": "C09DA04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307385",
+ "history_fetched_at": "2026-08-28T13:24:30Z",
  "revisions": [
   {
    "revision_id": "201307385-e8505e38",
@@ -19,9 +20,9 @@
    "ee_text": "본태성 고혈압의 치료 1) 단일요법으로 혈압이 충분히 조절되지 않은 환자 2) 중등도 또는 중증 고혈압 (stage 2) 환자와 같이 치료 목표 혈압에 도달하기 위해 복합제 투여가 필요한 환자의 초기요법",
    "ee_doc_id": "3",
    "first_observed_at": "2026-08-28T13:24:30Z",
-   "last_observed_at": "2026-08-28T13:24:30Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:46:03Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:30Z"
+ ]
 }

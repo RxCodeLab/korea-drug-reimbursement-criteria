@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502457",
+ "item_name": "프로멜리주(수출용)",
+ "entp_name": "알파제약(주)",
+ "permit_date": "20051104",
+ "cancel_date": "20240709",
+ "status": "취하",
+ "main_item_ingr": "[M051845]프록시필린|[M096070]멜릴로투스추출액",
+ "main_item_ingr_eng": "Melilotus Extract Solution/Proxyphylline",
+ "edi_code": "",
+ "atc_code": "C04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502457",
+ "revisions": [
+  {
+   "revision_id": "200502457-616146aa",
+   "content_sha256": "616146aa40da62fff863783163f0ae0d79b3eed3a28932b497df5e961ac1a764",
+   "ee_text": "1. 뇌혈관 및 말초순환장애 2. 외상(염좌, 골절, 타박, 좌상 등), 수술후의 연부 종창으로 인한 염증의 완화",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:20Z",
+   "last_observed_at": "2026-09-08T08:39:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:20Z"
+}

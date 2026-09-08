@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201906836",
+ "item_name": "이뮨젠주(싸이모신알파1)",
+ "entp_name": "(주)인트로바이오파마",
+ "permit_date": "20190925",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089874]싸이모신알파1",
+ "main_item_ingr_eng": "Thymosin-Alpha 1",
+ "edi_code": "",
+ "atc_code": "L03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906836",
+ "revisions": [
+  {
+   "revision_id": "201906836-c4423024",
+   "content_sha256": "c44230244fe8d4d7914bff4210558c84c2347449237086b3af400a07948b0173",
+   "ee_text": "면역기능이 저하된 고령 환자의 인플루엔자 백신접종시의 보조요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:30Z",
+   "last_observed_at": "2026-09-08T08:56:30Z",
+   "official_revision_date": "2019-09-25"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:30Z"
+}

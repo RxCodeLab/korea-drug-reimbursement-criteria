@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202108037",
+ "item_name": "해파민과립(수출용)",
+ "entp_name": "맥널티제약(주)",
+ "permit_date": "20211220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M209360]L-발린|[M222530]L-이소류신|[M222531]L-류신",
+ "main_item_ingr_eng": "L-Isoleucine/L-Leucine/L-Valine",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108037",
+ "revisions": [
+  {
+   "revision_id": "202108037-e27c7269",
+   "content_sha256": "e27c7269720b1c64dbd88a34be1bc848808ee7257b1f51c47ecd7d268325ae48",
+   "ee_text": "식사 섭취량이 많음에도 불구하고 저알부민 혈증을 나타내는 대상부전성 간경변 환자의 저알부민 혈증의 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:53Z",
+   "last_observed_at": "2026-09-08T09:00:53Z",
+   "official_revision_date": "2021-12-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:53Z"
+}

@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "R03DC03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000178",
+ "history_fetched_at": "2026-08-27T12:10:37Z",
  "revisions": [
   {
-   "revision_id": "202000178-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202000178-0162f240",
+   "content_sha256": "0162f24003ef8ac1e754a64a70c914a6bcae8a7e79e77c40663546382d846c9c",
+   "ee_text": "1. 천식의 방지 및 지속적 치료 2. 계절 및 연중 알레르기비염 증상 완화",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-27T12:10:37Z",
-   "last_observed_at": "2026-08-27T12:10:37Z",
-   "official_revision_date": "2020-01-10"
+   "last_observed_at": "2026-09-08T08:57:27Z",
+   "official_revision_date": "2020-01-10",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T12:10:37Z"
+ ]
 }

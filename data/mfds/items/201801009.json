@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201801009",
+ "item_name": "스코테린플러스액(과아세트산액)",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20180228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267442]과아세트산액0.21%",
+ "main_item_ingr_eng": "Peracetic Acid Solution 0.21%",
+ "edi_code": "",
+ "atc_code": "V07AV",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801009",
+ "revisions": [
+  {
+   "revision_id": "201801009-70f40505",
+   "content_sha256": "70f40505eff23463ca59d37b7ca041e7bc624f4bb406dafcc0a0ae24b370321c",
+   "ee_text": "의료기구의 멸균 및 소독",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:55Z",
+   "last_observed_at": "2026-09-08T08:52:55Z",
+   "official_revision_date": "2018-02-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:55Z"
+}

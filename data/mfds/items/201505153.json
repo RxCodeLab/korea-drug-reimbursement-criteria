@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201505153",
+ "item_name": "비오켄캡슐(바실루스리케니포르미스균)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "20150729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088551]바실루스리케니포르미스균",
+ "main_item_ingr_eng": "Bacillus Licheniformis",
+ "edi_code": "662503250",
+ "atc_code": "A07FA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505153",
+ "revisions": [
+  {
+   "revision_id": "201505153-98f48ed1",
+   "content_sha256": "98f48ed17b79c8764ee25b7b7e11039ec28c7ab0c9ae48783c077032d3c5c757",
+   "ee_text": "급.만성장염, 급.만성설사, 급성이질, 각종원인에 기인한 장내 이상발효",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:27Z",
+   "last_observed_at": "2026-09-08T08:49:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:27Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200108349",
+ "item_name": "현대하이파딜점안액(니프라딜롤)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20010414",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083116]니프라딜롤",
+ "main_item_ingr_eng": "Nipradilol",
+ "edi_code": "642001381",
+ "atc_code": "S01ED",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108349",
+ "revisions": [
+  {
+   "revision_id": "200108349-598622ab",
+   "content_sha256": "598622abd18d56fff8b3c263c53c6ad15aa901dd4c7f5623d6bef5fcad38118b",
+   "ee_text": "녹내장, 고안압증",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:43Z",
+   "last_observed_at": "2026-09-08T08:35:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:43Z"
+}

@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A01AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900160",
+ "history_fetched_at": "2026-08-28T13:25:03Z",
  "revisions": [
   {
-   "revision_id": "201900160-22307d39",
-   "content_sha256": "22307d393109e6ba163a222f0525a087950b8620c203d3df9c3365743ec85f0a",
-   "ee_text": "다음 질환에 의한 통증의 완화: 치은염(잇몸염), 치은출혈, 보철(의치)에 의한 염증",
+   "revision_id": "201900160-db1dee64",
+   "content_sha256": "db1dee64bcaa029ef6ec890d3233d10126d993f3b91e4ba790bebfa610b26b3c",
+   "ee_text": "1. 주효능 효과 다음 질환에 의한 통증의 완화: 치은염(잇몸염), 치은출혈, 보철(의치)에 의한 염증",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:03Z",
-   "last_observed_at": "2026-08-28T13:25:03Z",
-   "official_revision_date": "2019-01-14"
+   "last_observed_at": "2026-09-08T08:54:03Z",
+   "official_revision_date": "2019-01-14",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:03Z"
+ ]
 }

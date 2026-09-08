@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403301",
+ "item_name": "아자설판장용정500밀리그램(설파살라진(살라조설파피리딘))(수출용)",
+ "entp_name": "(주)유영제약",
+ "permit_date": "20041230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083653]설파살라진",
+ "main_item_ingr_eng": "Sulfasalazine",
+ "edi_code": "",
+ "atc_code": "A07EC01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403301",
+ "revisions": [
+  {
+   "revision_id": "200403301-b8074aca",
+   "content_sha256": "b8074aca333af363f855b9006ff825c1948d6fcb8e1859a7731b699a339b1413",
+   "ee_text": "다음 질환에 사용할 수 있다. ㆍ비스테로이드성 항염증약에 반응하지 않는 류마티스성 관절염 ㆍ궤양성 대장염",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:19Z",
+   "last_observed_at": "2026-09-08T08:38:19Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:19Z"
+}

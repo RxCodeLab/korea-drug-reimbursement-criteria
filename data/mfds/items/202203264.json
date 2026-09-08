@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202203264",
+ "item_name": "가스터주사액20밀리그램(파모티딘)",
+ "entp_name": "동아에스티(주)",
+ "permit_date": "20220811",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081653]파모티딘",
+ "main_item_ingr_eng": "Famotidine",
+ "edi_code": "642507651",
+ "atc_code": "A02BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203264",
+ "revisions": [
+  {
+   "revision_id": "202203264-d46e33a6",
+   "content_sha256": "d46e33a66032fc665598abf15225924315b50c02eb1e2111fcebb1237fd8802d",
+   "ee_text": "1. 상부소화관출혈(소화성궤양, 급성스트레스성궤양, 출혈성위염에 의한) 2. 졸링거-엘리슨증후군 3. 신체적 스트레스(대수술후, 중증의 뇌혈관장해ㆍ 두부외상ㆍ다장기부전ㆍ중증의 화상)에 의한 상부소화관출혈의 억제 4. 마취전 투약",
+   "ee_doc_id": "13",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:31Z",
+   "last_observed_at": "2026-09-08T09:01:31Z",
+   "official_revision_date": "2026-06-04"
+  },
+  {
+   "revision_id": "202203264-b49ae5d8",
+   "content_sha256": "b49ae5d82cf055256e2c6ab831a6c019e6a7000ea2ce20edd5cd23387df2b315",
+   "ee_text": "상부소화관출혈(소화성궤양, 급성스트레스성궤양, 출혈성위염에 의한), 졸링거-엘리슨증후군, 신체적 스트레스(대수술후, 중증의 뇌혈관장해ㆍ 두부외상ㆍ다장기부전ㆍ중증의 화상)에 의한 상부소화관출혈의 억제, 마취전 투약",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-08-11",
+   "first_observed_at": "2026-09-08T09:01:31Z",
+   "last_observed_at": "2026-09-08T09:01:31Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:31Z"
+}

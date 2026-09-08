@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201905769",
+ "item_name": "칼시타민정",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20190814",
+ "cancel_date": "20240814",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051564]탄산칼슘|[M113501]농축콜레칼시페롤 산",
+ "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Powder",
+ "edi_code": "",
+ "atc_code": "A12AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905769",
+ "revisions": [
+  {
+   "revision_id": "201905769-812543c2",
+   "content_sha256": "812543c2571366b209707de5aa2e17a6639c47307a35d29cc6cbdade7c533eff",
+   "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신ㆍ수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능ㆍ효과는 다음과 같다. ㆍ 뼈, 이의 발육불량 ㆍ 구루병의 예방 2. 칼슘 결핍 및 기타 칼슘의 보급",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:56:06Z",
+   "last_observed_at": "2026-09-08T08:56:06Z",
+   "official_revision_date": "2019-08-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:56:06Z"
+}

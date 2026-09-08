@@ -7,11 +7,12 @@
  "permit_date": "19950626",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040262]산화마그네슘|[M040594]콜레칼시페롤|[M040133]리보플라빈|[M040064]니코틴산아미드|[M088483]팔미틴산레티놀|[M240075]염산피리독신|[M040802]황산아연|[M051783]푸마르산철|[M051962]황산망간|[M071150]질산치아민|[M089686]초산토코페롤50%|[M083040]아스코르빈산97%과립|[M082746]모려가루",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M040594]콜레칼시페롤|[M040802]황산아연|[M051783]푸마르산철|[M051962]황산망간|[M071150]질산치아민|[M082746]모려가루|[M083040]아스코르빈산97%과립|[M088483]팔미틴산레티놀|[M089686]초산토코페롤50%|[M240075]염산피리독신",
  "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Cholecalciferol/Ferrous Fumarate/Magnesium Oxide/Manganese Sulfate/Nicotinamide/Oyster Shell Powder/Pyridoxine Hydrochloride/Retinol Palmitate/Riboflavin/Thiamine Nitrate/Tocopherol Acetate 50%/Zinc Sulfate",
  "edi_code": "",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500329",
+ "history_fetched_at": "2026-08-28T13:23:46Z",
  "revisions": [
   {
    "revision_id": "199500329-6df893a8",
@@ -19,9 +20,9 @@
    "ee_text": "칼슘결핍 및 기타 칼슘보급을 필요로 하는 경우 비타민 및 무기질의 보급.",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:23:46Z",
-   "last_observed_at": "2026-08-28T13:23:46Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:29:27Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:46Z"
+ ]
 }

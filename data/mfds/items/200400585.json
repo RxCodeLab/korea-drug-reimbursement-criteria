@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200400585",
+ "item_name": "멀티비씨덱스주(수출용)",
+ "entp_name": "(주)제일제약",
+ "permit_date": "20040529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M051750]무수포도당|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223258]티아민염산염|[M258994]아스코르브산",
+ "main_item_ingr_eng": "Anhydrous Glucose/Ascorbic Acid/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Thiamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11EX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400585",
+ "revisions": [
+  {
+   "revision_id": "200400585-d9fe3384",
+   "content_sha256": "d9fe3384d76347fede762f906d1ea8b921c6b8c9869544fa9133177a04b2d0e1",
+   "ee_text": "1. 수용성 비타민 B, C의 심한 부족 및 흡수불량의 신속한 치료 (특히, 알콜중독, 급성 감염후, 수술후 및 정신분열상태) 2. 만성 간헐성 혈액투석중인 환자에서 비타민 B, C의 유지",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:37Z",
+   "last_observed_at": "2026-09-08T08:37:37Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:37Z"
+}

@@ -12,6 +12,7 @@
  "edi_code": "645100341",
  "atc_code": "B05CB01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300245",
+ "history_fetched_at": "2026-08-28T13:24:01Z",
  "revisions": [
   {
    "revision_id": "200300245-60a79cec",
@@ -19,7 +20,8 @@
    "ee_text": "관류 및 세정제",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200300245/EE",
    "first_observed_at": "2026-08-28T13:24:01Z",
-   "last_observed_at": "2026-08-28T13:24:01Z"
+   "last_observed_at": "2026-09-08T08:36:43Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200300245-4ba3f474",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:01Z",
    "last_observed_at": "2026-08-28T13:24:01Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:01Z"
+ ]
 }

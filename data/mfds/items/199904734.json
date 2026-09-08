@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199904734",
+ "item_name": "넥스팜케토프로펜리신캅셀(수출용)",
+ "entp_name": "(주)넥스팜코리아",
+ "permit_date": "19990529",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081361]케토프로펜리신",
+ "main_item_ingr_eng": "Ketoprofen Lysin",
+ "edi_code": "",
+ "atc_code": "M01AE03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199904734",
+ "revisions": [
+  {
+   "revision_id": "199904734-99adb796",
+   "content_sha256": "99adb7962e245eba74043e06ac059b51c72ecb78e246436ae6cc08b2e4db0bbf",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 고관절증, 목관절증, 무릎관절증, 견관절주위염, 강직성 척추염, 좌상, 염좌, 탈구, 근좌상",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:08Z",
+   "last_observed_at": "2026-09-08T08:33:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:08Z"
+}

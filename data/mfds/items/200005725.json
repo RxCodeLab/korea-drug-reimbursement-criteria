@@ -7,11 +7,12 @@
  "permit_date": "20001017",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040279]석고|[M040006]감초|[M040769]행인|[M040135]마황",
+ "main_item_ingr": "[M040006]감초|[M040135]마황|[M040279]석고|[M040769]행인",
  "main_item_ingr_eng": "Apricot Kernel/Ephedra Herb/Gypsum Fibrosum/Licorice",
  "edi_code": "",
  "atc_code": "R03DX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005725",
+ "history_fetched_at": "2026-08-28T13:23:57Z",
  "revisions": [
   {
    "revision_id": "200005725-fae4cc40",
@@ -19,8 +20,9 @@
    "ee_text": "기관지천식, 소아천식",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:23:57Z",
-   "last_observed_at": "2026-08-28T13:23:57Z",
-   "official_revision_date": "2009-04-30"
+   "last_observed_at": "2026-09-08T08:34:26Z",
+   "official_revision_date": "2009-04-30",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200005725-c6bd317d",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:57Z",
    "last_observed_at": "2026-08-28T13:23:57Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:57Z"
+ ]
 }

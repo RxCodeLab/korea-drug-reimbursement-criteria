@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200503635",
+ "item_name": "케이녹시액5%(미녹시딜)",
+ "entp_name": "주식회사제뉴원사이언스",
+ "permit_date": "20050412",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081480]미녹시딜",
+ "main_item_ingr_eng": "Minoxidil",
+ "edi_code": "",
+ "atc_code": "D11AX01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503635",
+ "revisions": [
+  {
+   "revision_id": "200503635-efb91717",
+   "content_sha256": "efb917176d526aae919349e1bb716963338d8f0899c866004e4b4db9fd6020e8",
+   "ee_text": "· 남성형 탈모증(안드로젠탈모증) 및 여성형 탈모증(안드로젠탈모증)의 치료(2 %, 3 %에 한함) · 남성형 탈모증(안드로젠탈모증)의 치료(5 %에 한함)",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:32Z",
+   "last_observed_at": "2026-09-08T08:39:32Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:32Z"
+}

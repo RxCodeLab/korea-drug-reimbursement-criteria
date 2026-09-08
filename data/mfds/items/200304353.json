@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200304353",
+ "item_name": "하이겐-에이치에프(산화에틸렌)",
+ "entp_name": "아시아케미칼(주)",
+ "permit_date": "20030516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M254144]산화에틸렌",
+ "main_item_ingr_eng": "Ethylene Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200304353",
+ "revisions": [
+  {
+   "revision_id": "200304353-217f78d3",
+   "content_sha256": "217f78d3c307c14faeb6e2d024a399303c6960e3be3bd9eb9ede3d2a4543a903",
+   "ee_text": "고온이나 습도에 민감한 섬세하고 예리한 외과기구, 안이비과 성형외과기구, 현미경, 미세수술기구 장비의 부속품, 플라스틱 및 다공성물질, 전기기구등 의료용기기의 멸균",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:18Z",
+   "last_observed_at": "2026-09-08T08:37:18Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:18Z"
+}

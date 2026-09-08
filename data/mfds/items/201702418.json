@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702418",
+ "item_name": "베믈리디정(테노포비르알라페나미드헤미푸마르산염)",
+ "entp_name": "길리어드사이언스코리아(유)",
+ "permit_date": "20170516",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278212]테노포비르알라페나미드헤미푸마르산염",
+ "main_item_ingr_eng": "Tenofovir Alafenamide HemiFumarate",
+ "edi_code": "625900120",
+ "atc_code": "J05AF13",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702418",
+ "revisions": [
+  {
+   "revision_id": "201702418-758f6711",
+   "content_sha256": "758f67114c6af545dd90c46423fb92312272c6cac4b34b9febebb9f5c1c5af55",
+   "ee_text": "성인 및 6세 이상이고 체중이 25kg 이상인 소아의 만성 B형 간염바이러스(HBV) 감염의 치료",
+   "ee_doc_id": "32",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:51Z",
+   "last_observed_at": "2026-09-08T08:51:51Z",
+   "official_revision_date": "2025-06-23"
+  },
+  {
+   "revision_id": "201702418-5cf20eac",
+   "content_sha256": "5cf20eac2a798a7e3c7d0731b3170dbe87adfa96260de02901a37e854bb49900",
+   "ee_text": "성인의 만성 B형 간염 치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:51:51Z",
+   "last_observed_at": "2026-09-08T08:51:51Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:51Z"
+}

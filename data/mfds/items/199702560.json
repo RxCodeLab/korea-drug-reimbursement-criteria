@@ -7,11 +7,12 @@
  "permit_date": "19971006",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223083]시메티콘|[M040678]판크레아틴",
+ "main_item_ingr": "[M040678]판크레아틴|[M223083]시메티콘",
  "main_item_ingr_eng": "Pancreatin/Simethicone",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702560",
+ "history_fetched_at": "2026-08-28T13:23:48Z",
  "revisions": [
   {
    "revision_id": "199702560-5eaf905f",
@@ -19,9 +20,9 @@
    "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 식체(위체), 소화촉진, 소화불량으로 인한 위부팽만감, 가스제거",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:23:48Z",
-   "last_observed_at": "2026-08-28T13:23:48Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:31:19Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:48Z"
+ ]
 }

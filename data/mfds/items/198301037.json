@@ -7,19 +7,21 @@
  "permit_date": "19830812",
  "cancel_date": "20241001",
  "status": "유효기간만료",
- "main_item_ingr": "[M086537]마늘유|[M040647]토코페롤",
+ "main_item_ingr": "[M040647]토코페롤|[M086537]마늘유",
  "main_item_ingr_eng": "Allium Sativum Oil/Tocopherol",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198301037",
+ "history_fetched_at": "2026-08-28T13:23:39Z",
  "revisions": [
   {
-   "revision_id": "198301037-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "198301037-e9ca1ac3",
+   "content_sha256": "e9ca1ac322008955ff63eaca8b2cf4ab36f6622ed5ff5a9f153e6eeb539cb6e0",
+   "ee_text": "말초혈행장애로 인한 다음 증상의 완화 : 어깨ᆞ목결림, 수족저림ᆞ수족냉증(손발이 차가움)",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198301037/EE",
    "first_observed_at": "2026-08-28T13:23:39Z",
-   "last_observed_at": "2026-08-28T13:23:39Z"
+   "last_observed_at": "2026-09-08T08:26:53Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "198301037-42932458",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:23:39Z",
    "last_observed_at": "2026-08-28T13:23:39Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:39Z"
+ ]
 }

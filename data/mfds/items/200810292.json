@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200810292",
+ "item_name": "시네크캡슐",
+ "entp_name": "(주)우일팜",
+ "permit_date": "20081008",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M242942]아르니카몬타나 1M|[M242943]아르니카몬타나 12C",
+ "main_item_ingr_eng": "Arnica Montana 12C/Arnica Montana 1M",
+ "edi_code": "",
+ "atc_code": "M09AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810292",
+ "revisions": [
+  {
+   "revision_id": "200810292-0d57947a",
+   "content_sha256": "0d57947aaf8cf5a9bb5ef37cfb002059dd47550b4ea872b8fbdbce0e2c648e97",
+   "ee_text": "수술시 멍 및 부종의 완화",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:52Z",
+   "last_observed_at": "2026-09-08T08:42:52Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:52Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500039",
+ "item_name": "이버튼정3밀리그램(이버멕틴)(수출용)(수출명: Ivertin Tablet 3mg)",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "20051010",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M102559]이버멕틴",
+ "main_item_ingr_eng": "Ivermectin",
+ "edi_code": "",
+ "atc_code": "P02CF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500039",
+ "revisions": [
+  {
+   "revision_id": "200500039-3d57b703",
+   "content_sha256": "3d57b7033e52dddb3b85a467c96f68b04c54309d93046a104a421c3265b98daa",
+   "ee_text": "1. 분선충에 의한 장관계의 분선충증(즉, 비전염성)의 치료 2. 회선사상충에 의한 회선사상충증의 치료(회선사상충 성충 치료에는 효과없음.)",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:47Z",
+   "last_observed_at": "2026-09-08T08:38:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:47Z"
+}

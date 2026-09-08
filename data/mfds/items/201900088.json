@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201900088",
+ "item_name": "자이드라점안액(리피테그라스트)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20190109",
+ "cancel_date": "20240423",
+ "status": "취하",
+ "main_item_ingr": "[M268704]리피테그라스트",
+ "main_item_ingr_eng": "Lifitegrast",
+ "edi_code": "",
+ "atc_code": "S01XA25",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900088",
+ "revisions": [
+  {
+   "revision_id": "201900088-2b909af3",
+   "content_sha256": "2b909af31cc954704b8ae316887629b6a4244810bd44577b7830e4ea55940999",
+   "ee_text": "성인 안구건조증의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:02Z",
+   "last_observed_at": "2026-09-08T08:54:02Z",
+   "official_revision_date": "2019-01-09"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:02Z"
+}

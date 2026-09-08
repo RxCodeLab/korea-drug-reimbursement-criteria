@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202204282",
+ "item_name": "하이퍼벤서방정90밀리그램(딜티아젬염산염)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20221128",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222982]딜티아젬염산염",
+ "main_item_ingr_eng": "Diltiazem Hydrochloride",
+ "edi_code": "649105630",
+ "atc_code": "C08DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204282",
+ "revisions": [
+  {
+   "revision_id": "202204282-d089447f",
+   "content_sha256": "d089447f747dba7e31b02a380188494ab9dcf0bc6e4707b2eb4c35974d064484",
+   "ee_text": "(경구 : 서방형 정제·캅셀제) 협심증, 본태성고혈압(경증-중등도) (주사제) 1. 빈맥성부정맥(상실성) 2. 수술시 이상 고혈압의 구급처치, 응급성고혈압(고혈압성발증)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:42Z",
+   "last_observed_at": "2026-09-08T09:01:42Z",
+   "official_revision_date": "2022-11-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:42Z"
+}

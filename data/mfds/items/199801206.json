@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801206",
+ "item_name": "보령에바스텔정(에바스틴)",
+ "entp_name": "(주)보령",
+ "permit_date": "19980421",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085337]에바스틴",
+ "main_item_ingr_eng": "Ebastine",
+ "edi_code": "641901530",
+ "atc_code": "R06AX22",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801206",
+ "revisions": [
+  {
+   "revision_id": "199801206-3170f844",
+   "content_sha256": "3170f8444341b39a94020fe8ce74259def9bf110e8c5c0b25adc1d3be3aeb032",
+   "ee_text": "알레르기성 비염 · 결막염 · 피부염, 만성 두드러기",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:49Z",
+   "last_observed_at": "2026-09-08T08:31:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:49Z"
+}

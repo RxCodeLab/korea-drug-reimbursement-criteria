@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302015",
+ "item_name": "페로딜정(이펜프로딜타르타르산염)",
+ "entp_name": "영풍제약(주)",
+ "permit_date": "20030307",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223176]이펜프로딜타르타르산염",
+ "main_item_ingr_eng": "Ifenprodil Tartrate",
+ "edi_code": "661901830",
+ "atc_code": "C04AX28",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302015",
+ "revisions": [
+  {
+   "revision_id": "200302015-bba34ae4",
+   "content_sha256": "bba34ae4692524567b681e539feac93f1e5ba7aac9c80c3ced42e43fd3ee1698",
+   "ee_text": "뇌경색 후유증, 뇌출혈 후유증에 따른 어지럼 개선",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:08Z",
+   "last_observed_at": "2026-09-08T08:37:08Z",
+   "official_revision_date": "2020-02-08"
+  },
+  {
+   "revision_id": "200302015-4ec8c7d7",
+   "content_sha256": "4ec8c7d7f91661b6ea251823f26be79a7f797e50dba0c247fa79f1d1c29947f4",
+   "ee_text": "1. 뇌경색 후유증, 뇌출혈 후유증에 따른 어지럼 개선 2. 말초순환장애(간헐파행)",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:37:08Z",
+   "last_observed_at": "2026-09-08T08:37:08Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:08Z"
+}

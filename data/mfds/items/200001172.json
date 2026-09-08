@@ -12,15 +12,17 @@
  "edi_code": "643200290",
  "atc_code": "M01AE01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001172",
+ "history_fetched_at": "2026-08-28T13:23:53Z",
  "revisions": [
   {
-   "revision_id": "200001172-f74e4b73",
-   "content_sha256": "f74e4b738132384f1e047213d36133655ad8d53ea641f3299d600d1a9518d960",
-   "ee_text": "류마티양 관절염, 연소성 류마티양 관절염, 골관절염(퇴행성 관절질환), 감기로 인한 발열 및 동통, 요통, 월경곤란증, 수술후 동통 강직성 척추염, 두통, 치통, 근육통, 신경통, 급성통풍, 건선성 관절염, 연조직손상(염좌,좌상), 비관절성 류마티스질환(건염, 건초염, 활액낭염)",
+   "revision_id": "200001172-b3af561d",
+   "content_sha256": "b3af561df21e3ae88fa2e96ea07a8e35d7bd7bd3677b539083d52b8d3e9ab3b3",
+   "ee_text": "1. 주효능효과 류마티양 관절염, 연소성 류마티양 관절염, 골관절염(퇴행성 관절질환), 감기로 인한 발열 및 동통, 요통, 월경곤란증, 수술후 동통 2. 다음 질환에도 사용할 수 있다. 강직성 척추염, 두통, 치통, 근육통, 신경통, 급성통풍, 건선성 관절염, 연조직손상(염좌,좌상), 비관절성 류마티스질환(건염, 건초염, 활액낭염)",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:23:53Z",
-   "last_observed_at": "2026-08-28T13:23:53Z",
-   "official_revision_date": "2019-03-08"
+   "last_observed_at": "2026-09-08T08:33:40Z",
+   "official_revision_date": "2019-03-08",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200001172-90384c0d",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:53Z",
    "last_observed_at": "2026-08-28T13:23:53Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:53Z"
+ ]
 }

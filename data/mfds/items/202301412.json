@@ -7,7 +7,7 @@
  "permit_date": "20230428",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M249673]로사르탄칼륨|[M040615]클로르탈리돈",
+ "main_item_ingr": "[M040615]클로르탈리돈|[M249673]로사르탄칼륨",
  "main_item_ingr_eng": "Chlorthalidone/Losartan Potassium",
  "edi_code": "643508670",
  "atc_code": "C09DA01",
@@ -20,7 +20,8 @@
    "ee_text": "로사르탄 단일요법으로 혈압이 적절히 조절되지 않는 고혈압",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202301412/EE",
    "first_observed_at": "2026-08-27T12:26:33Z",
-   "last_observed_at": "2026-08-28T13:25:33Z"
+   "last_observed_at": "2026-09-08T09:02:02Z",
+   "normalizer_version": 3
   }
  ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199203393",
+ "item_name": "마도파에취비에스캡슐125",
+ "entp_name": "(주)한국로슈",
+ "permit_date": "19921119",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040122]레보도파|[M096035]염산벤세라짓",
+ "main_item_ingr_eng": "Benserazide Hydrochloride/Levodopa",
+ "edi_code": "645000170",
+ "atc_code": "N04BA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199203393",
+ "revisions": [
+  {
+   "revision_id": "199203393-3087e1f6",
+   "content_sha256": "3087e1f6f4d2b485316866a8c93d301b951c72aa9b6ec57a5bd7e7b6c18831e2",
+   "ee_text": "파킨슨증후군(약물로 인한 파킨슨병 제외)",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:38Z",
+   "last_observed_at": "2026-09-08T08:28:38Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:38Z"
+}

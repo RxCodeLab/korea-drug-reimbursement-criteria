@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901046",
+ "item_name": "키미테정",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20190220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040096]디멘히드리네이트|[M223081]스코폴라민브롬화수소산염수화물",
+ "main_item_ingr_eng": "Dimenhydrinate/Scopolamine Hydrobromide Hydrate",
+ "edi_code": "",
+ "atc_code": "A04AD51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901046",
+ "revisions": [
+  {
+   "revision_id": "201901046-e334d785",
+   "content_sha256": "e334d78528fafb3d0ef7d7b8c8c8e71ae8ba115fc5ef292e9e42a67e064ceb7d",
+   "ee_text": "멀미에 의한 어지러움 ∙ 구토 ∙ 두통의 예방 및 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:19Z",
+   "last_observed_at": "2026-09-08T08:54:19Z",
+   "official_revision_date": "2019-02-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:19Z"
+}

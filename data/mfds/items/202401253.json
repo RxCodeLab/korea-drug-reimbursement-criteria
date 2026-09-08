@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401253",
+ "item_name": "팁소보정(이보시데닙)",
+ "entp_name": "한국세르비에(주)",
+ "permit_date": "20240522",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284687]이보시데닙",
+ "main_item_ingr_eng": "Ivosidenib",
+ "edi_code": "",
+ "atc_code": "L01XM02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401253",
+ "revisions": [
+  {
+   "revision_id": "202401253-5518318b",
+   "content_sha256": "5518318b1554a8fd16dd7d18aa67ba37b0047f5f6a018e95137fe25208c939b1",
+   "ee_text": "1. IDH1 변이 양성인 급성 골수성 백혈병을 새롭게 진단받은, 만 75세 이상 또는 집중유도 화학요법에 적합하지 않는 동반질환이 있는 성인 환자에서의 아자시티딘과 병용요법 2. IDH1 변이 양성인 이전 치료 경험이 있는 국소 진행성 또는 전이성 담관암 성인 환자에서의 단독요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:59Z",
+   "last_observed_at": "2026-09-08T09:02:59Z",
+   "official_revision_date": "2024-05-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:59Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202200222",
+ "item_name": "그린포비돈요오드가글액7.5%",
+ "entp_name": "(주)그린제약",
+ "permit_date": "20220112",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M244708]포비돈요오드",
+ "main_item_ingr_eng": "Povidone Iodine",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200222",
+ "revisions": [
+  {
+   "revision_id": "202200222-24d3d70c",
+   "content_sha256": "24d3d70c659c03602619cc99e7858dcb0c147571924d7150c5e41afa150f9c40",
+   "ee_text": "1. 주 효능효과 1) 다음 질환에 의한 염증의 완화 : 인두염, 구내염 2) 구강 내 살균소독, 발치창 및 구강창상의 감염예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:58Z",
+   "last_observed_at": "2026-09-08T09:00:58Z",
+   "official_revision_date": "2022-01-12"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:58Z"
+}

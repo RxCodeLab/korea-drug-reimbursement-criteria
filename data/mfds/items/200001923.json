@@ -7,7 +7,7 @@
  "permit_date": "20000419",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M201934]포도당수화물|[M222565]시트르산나트륨수화물|[M096666]시트르산",
+ "main_item_ingr": "[M096666]시트르산|[M201934]포도당수화물|[M222565]시트르산나트륨수화물",
  "main_item_ingr_eng": "Anhydrous Citric Acid/Glucose Hydrate/Sodium Citrate Hydrate",
  "edi_code": "",
  "atc_code": "B01AX",
@@ -20,7 +20,8 @@
    "ee_text": "저장혈액의 응고방지",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200001923/EE",
    "first_observed_at": "2026-08-27T10:36:57Z",
-   "last_observed_at": "2026-08-28T13:23:54Z"
+   "last_observed_at": "2026-09-08T08:33:50Z",
+   "normalizer_version": 3
   }
  ]
 }

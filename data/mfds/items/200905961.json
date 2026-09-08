@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200905961",
+ "item_name": "프릴리지정60밀리그램(다폭세틴염산염)",
+ "entp_name": "한국메나리니(주)",
+ "permit_date": "20090729",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245211]다폭세틴염산염",
+ "main_item_ingr_eng": "Dapoxetine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "G04BX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905961",
+ "revisions": [
+  {
+   "revision_id": "200905961-698c3698",
+   "content_sha256": "698c36988fe53655c2f7fc15a888277f75bfdfb16eb74ca76ebb435eb5dfade8",
+   "ee_text": "조루증의 치료 질 내 삽입 후 사정까지의 시간이 2분 미만인 경우로, 조루증이 지속적이거나 재발하여, 개인적 고통이 크거나 대인관계에 어려움이 있으며, 사정제어가 잘 안 되는 경우로써 지난 6개월 동안 대부분의 성행위 시도에서 조루가 발생한 경우 이 약은 예상된 성행위 전에 필요한 경우에만 투여해야 한다.",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:28Z",
+   "last_observed_at": "2026-09-08T08:43:28Z",
+   "official_revision_date": "2021-10-14"
+  },
+  {
+   "revision_id": "200905961-04d88444",
+   "content_sha256": "04d8844439a8b96b1ffd6b18517d2982b688b63a4d92653a57bcccd7c74c81df",
+   "ee_text": "조루증의 치료 - 질 내 삽입 후 사정까지의 시간이 2분 미만인 경우로, 조루증이 지속적이거나 재발하여, 개인적 고통이 크거나 대인관계에 어려움이 있으며, 사정제어가 잘 안 되는 경우",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:43:28Z",
+   "last_observed_at": "2026-09-08T08:43:28Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:28Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202500819",
+ "item_name": "바렌톡네일라카(시클로피록스)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20250407",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085228]시클로피록스",
+ "main_item_ingr_eng": "Ciclopirox",
+ "edi_code": "",
+ "atc_code": "D01AE14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500819",
+ "revisions": [
+  {
+   "revision_id": "202500819-f28e514c",
+   "content_sha256": "f28e514c798da64d52a669d7c3b4684488d9712f70d34f94d1bede86dac9fb82",
+   "ee_text": "조갑진균증(손발톱진균증) (손, 발톱무좀)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:49Z",
+   "last_observed_at": "2026-09-08T09:03:49Z",
+   "official_revision_date": "2025-04-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:49Z"
+}

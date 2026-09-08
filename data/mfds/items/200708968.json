@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200708968",
+ "item_name": "덴드로프-쿨액(시클로피록스올아민)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20070802",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085155]시클로피록스올아민",
+ "main_item_ingr_eng": "Ciclopirox Olamine",
+ "edi_code": "",
+ "atc_code": "D01AE14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708968",
+ "revisions": [
+  {
+   "revision_id": "200708968-362399a0",
+   "content_sha256": "362399a0f1064c223cd21b97ada12ac9f8c0aac740bc31c62806cbc55c4136ac",
+   "ee_text": "지루성 피부염",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:46Z",
+   "last_observed_at": "2026-09-08T08:41:46Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:46Z"
+}

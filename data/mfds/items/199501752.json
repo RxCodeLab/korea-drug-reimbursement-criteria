@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199501752",
+ "item_name": "벤키스캡슐(치모모둘린)(수출용)",
+ "entp_name": "(주)테라젠이텍스",
+ "permit_date": "19950330",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082300]치모모둘린",
+ "main_item_ingr_eng": "Thymomodulin",
+ "edi_code": "",
+ "atc_code": "L03AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501752",
+ "revisions": [
+  {
+   "revision_id": "199501752-8fc38ad4",
+   "content_sha256": "8fc38ad4559619e6a7cf7841272a5a324283c98ad09800ec23caf9df1637f0c5",
+   "ee_text": "1. 간염, 호흡기 질환등 세균 및 바이러스성 감염 질환외 보조치료 2. 항체 생성 결핍증 - 면역자극 3. 면역 골수 조절 4. 골수 독성제에 기인한 백혈구 감소증의 예방 5. 1차, 2차 백혈구 감소증 치료.",
+   "ee_doc_id": "18",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:40Z",
+   "last_observed_at": "2026-09-08T08:29:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:40Z"
+}

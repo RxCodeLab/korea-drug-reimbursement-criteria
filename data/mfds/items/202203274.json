@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "M02AA13",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203274",
+ "history_fetched_at": "2026-08-28T13:25:30Z",
  "revisions": [
   {
    "revision_id": "202203274-2073f75a",
@@ -19,9 +20,9 @@
    "ee_text": "다음 질환 및 증상의 진통·소염(항염): 골관절염, 어깨관절주위염, 건.건초염(힘줄염.힘줄윤활막염), 건주위염(힘줄주위염), 상과염(테니스 엘보우 등), 근육통, 외상후의 종창(부기).동통(통증)",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:30Z",
-   "last_observed_at": "2026-08-28T13:25:30Z",
-   "official_revision_date": "2022-08-12"
+   "last_observed_at": "2026-09-08T09:01:31Z",
+   "official_revision_date": "2022-08-12",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:30Z"
+ ]
 }

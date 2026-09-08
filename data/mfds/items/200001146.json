@@ -7,11 +7,12 @@
  "permit_date": "20000619",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223043]베타메타손발레레이트|[M202821]겐타마이신황산염",
+ "main_item_ingr": "[M202821]겐타마이신황산염|[M223043]베타메타손발레레이트",
  "main_item_ingr_eng": "Betamethasone Valerate/Gentamicin Sulfate",
  "edi_code": "",
  "atc_code": "D07CC01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001146",
+ "history_fetched_at": "2026-08-28T13:23:53Z",
  "revisions": [
   {
    "revision_id": "200001146-d1b11b39",
@@ -19,8 +20,9 @@
    "ee_text": "- 2차 감염된 알레르기성 또는 염증성 피부질환 : 습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염, 가려움, 건선(마른비닐증) - 1도 화상",
    "ee_doc_id": "20",
    "first_observed_at": "2026-08-28T13:23:53Z",
-   "last_observed_at": "2026-08-28T13:23:53Z",
-   "official_revision_date": "2021-05-21"
+   "last_observed_at": "2026-09-08T08:33:39Z",
+   "official_revision_date": "2021-05-21",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200001146-5d8ab236",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:23:53Z",
    "last_observed_at": "2026-08-28T13:23:53Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:53Z"
+ ]
 }

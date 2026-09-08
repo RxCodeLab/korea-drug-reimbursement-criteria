@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606000",
+ "item_name": "제일히드록시우레아캡슐(수출용)",
+ "entp_name": "제일약품(주)",
+ "permit_date": "20161011",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085397]히드록시우레아",
+ "main_item_ingr_eng": "Hydroxyurea",
+ "edi_code": "",
+ "atc_code": "L01XX05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606000",
+ "revisions": [
+  {
+   "revision_id": "201606000-dfd98902",
+   "content_sha256": "dfd98902114c981b01d56c772380a51f8fae078974220a6be3425abc28455df4",
+   "ee_text": "1. 흑색종, 재발성, 전이성 또는 수술이 불가능한 난소암 2. 방사선요법과 병용하여 입술을 제외한 두경부의 1차 편평세포암종(표피유사암종)에 대한 국소치료 3. 내성이 있는 만성골수성백혈병",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:15Z",
+   "last_observed_at": "2026-09-08T08:51:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:15Z"
+}

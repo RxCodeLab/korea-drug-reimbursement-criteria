@@ -7,11 +7,12 @@
  "permit_date": "20101027",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M244062]카르복시메틸셀룰로오스나트륨|[M209822]카르복시메틸셀룰로오스 나트륨",
+ "main_item_ingr": "[M209822]카르복시메틸셀룰로오스 나트륨|[M244062]카르복시메틸셀룰로오스나트륨",
  "main_item_ingr_eng": "Carboxymethylcellulose Sodium",
  "edi_code": "670608311",
  "atc_code": "S01XA20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006493",
+ "history_fetched_at": "2026-08-28T13:24:24Z",
  "revisions": [
   {
    "revision_id": "201006493-b644176a",
@@ -19,9 +20,9 @@
    "ee_text": "안구건조증(눈마름증)이나 바람ㆍ태양에 노출되어 생기는 화끈거리는 증상, 자극감, 불쾌감을 일시적으로 완화시킴, 안구 자극감을 예방하기 위하여 사용할 수 있다.",
    "ee_doc_id": "20",
    "first_observed_at": "2026-08-28T13:24:24Z",
-   "last_observed_at": "2026-08-28T13:24:24Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:44:17Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:24Z"
+ ]
 }

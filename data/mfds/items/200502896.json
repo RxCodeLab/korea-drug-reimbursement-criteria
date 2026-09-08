@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200502896",
+ "item_name": "프로탄플러스점안액(수출용)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20050928",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089240]라타노프로스트|[M256384]티몰롤말레산염",
+ "main_item_ingr_eng": "Latanoprost/Timolol Maleate",
+ "edi_code": "",
+ "atc_code": "S01ED51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502896",
+ "revisions": [
+  {
+   "revision_id": "200502896-fca527ac",
+   "content_sha256": "fca527ac2aa0a171da127e1d642329172f52cc83f78b57109fe6e2dc709cec82",
+   "ee_text": "개방각 녹내장 환자 또는 국소 베타차단제에 불충분하게 반응하는 고안압 환자의 안압 감소",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:27Z",
+   "last_observed_at": "2026-09-08T08:39:27Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:27Z"
+}

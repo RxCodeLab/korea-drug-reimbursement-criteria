@@ -7,11 +7,12 @@
  "permit_date": "19690307",
  "cancel_date": "20260101",
  "status": "유효기간만료",
- "main_item_ingr": "[M051432]침향|[M051291]인삼|[M040253]사향|[M051216]웅담",
+ "main_item_ingr": "[M040253]사향|[M051216]웅담|[M051291]인삼|[M051432]침향",
  "main_item_ingr_eng": "Aquilariae Lignum/Ginseng/Moschus/Ursi Fel",
  "edi_code": "",
  "atc_code": "N07XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196900068",
+ "history_fetched_at": "2026-08-28T13:23:36Z",
  "revisions": [
   {
    "revision_id": "196900068-a626923e",
@@ -19,9 +20,9 @@
    "ee_text": "소화불량, 식욕감퇴(식욕부진), 위장허약, 토유, 간병(癎病, 신경병증), 경련(경풍), 설사, 신경과민, 감기, 감기로 인한 발열, 야제증(어린이가 밤에 울고 보채는 증상), 침냉(寢冷, 차게 자서 감기가 들거나 배탈이 나는 증상)",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:23:36Z",
-   "last_observed_at": "2026-08-28T13:23:36Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:26:16Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:36Z"
+ ]
 }

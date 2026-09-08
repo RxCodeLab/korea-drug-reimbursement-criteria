@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201901075",
+ "item_name": "카네트리졸질정(클로트리마졸)",
+ "entp_name": "현대약품(주)",
+ "permit_date": "20190221",
+ "cancel_date": "20240221",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051543]클로트리마졸",
+ "main_item_ingr_eng": "Clotrimazole",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901075",
+ "revisions": [
+  {
+   "revision_id": "201901075-a878942e",
+   "content_sha256": "a878942e292a407b694904ebf0e6095b95ec0302ad5b99f25c51ca32ffcd285d",
+   "ee_text": "칸디다성 질염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:54:20Z",
+   "last_observed_at": "2026-09-08T08:54:20Z",
+   "official_revision_date": "2019-02-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:54:20Z"
+}

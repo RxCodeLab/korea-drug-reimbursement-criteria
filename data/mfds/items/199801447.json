@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199801447",
+ "item_name": "파마염산세티리진정(수출용)(수출명:세르텍정,와이케이피세르텍정)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "19980725",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222857]세티리진염산염|[M222857]세티리진염산염",
+ "main_item_ingr_eng": "Cetirizine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R06AE07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801447",
+ "revisions": [
+  {
+   "revision_id": "199801447-96cc71c1",
+   "content_sha256": "96cc71c117ce1a390e1fe1b8a2ba9a504bc23ea7b6b77ccc92ab345dee273df6",
+   "ee_text": "1. 계절성 및 다년성 알레르기성 비염(코염), 알레르기성 결막염, 만성 특발성 두드러기, 피부소양증(가려움증) 2. 하이드로코티손 외용제와 병용(함께 복용(사용))에 의한 습진, 피부염(정제에 한함)",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:31:51Z",
+   "last_observed_at": "2026-09-08T08:31:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:31:51Z"
+}

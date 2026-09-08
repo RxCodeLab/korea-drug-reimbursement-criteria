@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300828",
+ "item_name": "이클린케어겔7.5%(아미노벤조산에틸)(수출용)",
+ "entp_name": "태극제약(주)",
+ "permit_date": "20030701",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203437]아미노벤조산에틸",
+ "main_item_ingr_eng": "Ethyl Aminobenzoate",
+ "edi_code": "",
+ "atc_code": "N01BA05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300828",
+ "revisions": [
+  {
+   "revision_id": "200300828-83be6baf",
+   "content_sha256": "83be6bafd45661c98ad0b82dbd3dccc8457df84904f2baba122e8b7f9f66c732",
+   "ee_text": "(겔제) * 7.5% 치아발생에 따른 잇몸 자극감의 일시적 완화",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:52Z",
+   "last_observed_at": "2026-09-08T08:36:52Z",
+   "official_revision_date": "2018-08-26"
+  },
+  {
+   "revision_id": "200300828-32ecb76b",
+   "content_sha256": "32ecb76b6fbf6ff0c771d4ade487a38664b95999ef9401d758e92fbab13ee146",
+   "ee_text": "(겔제) * 7.5% 4개월 이상 영ㆍ유아 : 치아발생에 따른 잇몸 자극감의 일시적 완화",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:36:52Z",
+   "last_observed_at": "2026-09-08T08:36:52Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:52Z"
+}

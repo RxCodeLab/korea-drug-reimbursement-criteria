@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000777",
+ "item_name": "칼시마정",
+ "entp_name": "초당약품공업(주)",
+ "permit_date": "20200210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M270667]농축콜레칼시페롤(분말형)|[M278130]칼슘시트레이트말레이트",
+ "main_item_ingr_eng": "Calcium Citrate Maleate/Cholecalciferol Concentrate Powder",
+ "edi_code": "670701960",
+ "atc_code": "A11CC55",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000777",
+ "revisions": [
+  {
+   "revision_id": "202000777-ca3a7784",
+   "content_sha256": "ca3a7784fed48030323fab4a0673ec7e17dfe6db821750105940018b0b4928bf",
+   "ee_text": "다음 경우의 비타민D의 보급 - 임신∙수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능효과는 다음과 같다. ∙뼈, 이의 발육불량 ∙구루병의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:45Z",
+   "last_observed_at": "2026-09-08T08:57:45Z",
+   "official_revision_date": "2020-02-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:45Z"
+}

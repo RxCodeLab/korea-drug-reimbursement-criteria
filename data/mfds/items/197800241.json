@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197800241",
+ "item_name": "이피라돌정(황산헥소푸레나린) (수출용)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19781103",
+ "cancel_date": "20240503",
+ "status": "취하",
+ "main_item_ingr": "[M021928]황산헥소프레날린",
+ "main_item_ingr_eng": "Hexoprenaline Sulfate",
+ "edi_code": "",
+ "atc_code": "R03CC05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197800241",
+ "revisions": [
+  {
+   "revision_id": "197800241-431535a6",
+   "content_sha256": "431535a6580d81aea818a2d690c243685c604a17c9da719732a6dfe6716172e7",
+   "ee_text": "1. 주효능 효과 다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 만성기관지염, 진폐증",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:29Z",
+   "last_observed_at": "2026-09-08T08:26:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:29Z"
+}

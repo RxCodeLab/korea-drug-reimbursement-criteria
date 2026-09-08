@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198900115",
+ "item_name": "청통엑스과립(청상견통탕)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19890318",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088626]청상견통탕연조엑스",
+ "main_item_ingr_eng": "Cheongsanggyeontongtang Soft Extract",
+ "edi_code": "",
+ "atc_code": "N02BG",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900115",
+ "revisions": [
+  {
+   "revision_id": "198900115-15990c28",
+   "content_sha256": "15990c28682490123c569d7a7b8982ec565eb9b76a35c79140a6de6c6ede807a",
+   "ee_text": "안면통, 두통",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:47Z",
+   "last_observed_at": "2026-09-08T08:27:47Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:47Z"
+}

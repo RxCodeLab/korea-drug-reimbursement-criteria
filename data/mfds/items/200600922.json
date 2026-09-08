@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600922",
+ "item_name": "대한적십자사인천혈액원신선동결혈장(신선동결혈장)",
+ "entp_name": "대한적십자사인천혈액원",
+ "permit_date": "20060127",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M206365]신선동결혈장",
+ "main_item_ingr_eng": "Fresh Frozen Plasma",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600922",
+ "revisions": [
+  {
+   "revision_id": "200600922-c2e6bcf3",
+   "content_sha256": "c2e6bcf3a4e1cf89ce655abd0ce4e75d2a20eb099a0363753a988df3b75b1080",
+   "ee_text": "1) 단일 응고인자결핍의 보충 2) 와파린(Warfarin)효과의 신속한 역전(reversal)을 위해 사용 3) 비타민 K 결핍증(Vitamin K Deficiency) 4) 급성 파종혈관내응고증 5) 혈전성저혈소판혈증자색반병 6) 유전성 응고억제제 결핍증",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:03Z",
+   "last_observed_at": "2026-09-08T08:40:03Z",
+   "official_revision_date": "2020-09-28"
+  },
+  {
+   "revision_id": "200600922-8ee5260e",
+   "content_sha256": "8ee5260e6df534114e36c70e9660484085cdb18002a33b979101fe56b67f8d12",
+   "ee_text": "1) 단일 응고인자결핍의 보충 2) 와파린(Warfarin)효과의 신속한 역전(reversal)을 위해 사용 3) 비타민 K 결핍증(Vitamin K Deficiency) 4) 급성 파종성혈관내응고증 5) 혈전성 혈소판감소성 자반증 6) 유전성 응고억제제 결핍증",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:40:03Z",
+   "last_observed_at": "2026-09-08T08:40:03Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:03Z"
+}

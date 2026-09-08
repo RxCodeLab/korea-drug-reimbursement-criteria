@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199906869",
+ "item_name": "벤토린에보할러(살부타몰황산염)",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "19990607",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223069]살부타몰황산염",
+ "main_item_ingr_eng": "Salbutamol Sulfate",
+ "edi_code": "650000471",
+ "atc_code": "R03AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199906869",
+ "revisions": [
+  {
+   "revision_id": "199906869-24474e49",
+   "content_sha256": "24474e499310b6c176b79ae4b8977ea2beaa284be16a5b2c4305b38f0e2203af",
+   "ee_text": "다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 만성기관지염, 폐기종.",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:13Z",
+   "last_observed_at": "2026-09-08T08:33:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:13Z"
+}

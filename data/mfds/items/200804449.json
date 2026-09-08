@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200804449",
+ "item_name": "에프엘티주사(3′-데옥시-3′-플루오로티미딘(18F))",
+ "entp_name": "재단법인아산사회복지재단서울아산병원",
+ "permit_date": "20080422",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M262548]3'-데옥시-3'-플루오로티미딘(18F)액",
+ "main_item_ingr_eng": "3'-Deoxy-3'-Fluorothymidine (18F) Solution",
+ "edi_code": "",
+ "atc_code": "V09IX04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804449",
+ "revisions": [
+  {
+   "revision_id": "200804449-6c9acaec",
+   "content_sha256": "6c9acaec9a1a3c8a816d7fcdf685a3c3371ff758494f7729845af88aa846de67",
+   "ee_text": "이 약은 다른 검사방법에 의해 폐종양이 진단되었거나 의심되는 환자에서 세포증식 평가에 도움을 주기 위하여 양전자방출단층촬영을 적용할 때 사용한다.",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:26Z",
+   "last_observed_at": "2026-09-08T08:42:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:26Z"
+}

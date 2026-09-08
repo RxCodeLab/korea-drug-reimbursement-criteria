@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201606201",
+ "item_name": "알리코알리벤돌정(수출용)",
+ "entp_name": "알리코제약(주)",
+ "permit_date": "20161020",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083251]알리벤돌",
+ "main_item_ingr_eng": "Alibendol",
+ "edi_code": "",
+ "atc_code": "A03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606201",
+ "revisions": [
+  {
+   "revision_id": "201606201-cb59e13d",
+   "content_sha256": "cb59e13dc45185fdcefea201eb4be5f4ec7189f6ceaf5f0282868b273d66e58c",
+   "ee_text": "1. 주효능 효과 소화불량, 구역, 구토, 변비 등의 증상치료",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:17Z",
+   "last_observed_at": "2026-09-08T08:51:17Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:17Z"
+}

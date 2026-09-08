@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200500245",
+ "item_name": "옵티잘탄점안액(라타노프로스트)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "20051026",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089240]라타노프로스트",
+ "main_item_ingr_eng": "Latanoprost",
+ "edi_code": "658601021",
+ "atc_code": "S01EE01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500245",
+ "revisions": [
+  {
+   "revision_id": "200500245-f8d2b885",
+   "content_sha256": "f8d2b88576777dc8f9fc868b6db3d561960bdbdcc07241905d2072bb9a84c12a",
+   "ee_text": "다음 질환의 안압 하강 : ㆍ 성인 개방각 녹내장, 만성 폐쇄각 녹내장, 고안압 ㆍ 소아 소아 녹내장, 고안압",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:50Z",
+   "last_observed_at": "2026-09-08T08:38:50Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:50Z"
+}

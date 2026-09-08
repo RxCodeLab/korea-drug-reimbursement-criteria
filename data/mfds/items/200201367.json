@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200201367",
+ "item_name": "락티케어제마지스로션0.25%(프레드니카르베이트)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20021007",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M084063]프레드니카르베이트",
+ "main_item_ingr_eng": "Prednicarbate",
+ "edi_code": "653000411,653000412",
+ "atc_code": "D07AC18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201367",
+ "revisions": [
+  {
+   "revision_id": "200201367-64281586",
+   "content_sha256": "642815860f7d21bb70e30bb5af13047b1b32bde71780ce47b89bc79faae5fb67",
+   "ee_text": "다음의 코르티코이드 반응성 피부질환: 습진·피부염군(아토피피부염, 지루피부염, 접촉성알레르기 피부염, 유사건선, 편평태선, 가려움발진 포함), 건선",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:11Z",
+   "last_observed_at": "2026-09-08T08:36:11Z",
+   "official_revision_date": "2017-09-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:11Z"
+}

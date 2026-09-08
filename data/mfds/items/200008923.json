@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200008923",
+ "item_name": "테크네스캔에치디피주(옥시드론산나트륨)",
+ "entp_name": "새한산업",
+ "permit_date": "20001107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092003]옥시드론산나트륨",
+ "main_item_ingr_eng": "Oxidronate Disodium",
+ "edi_code": "656900823",
+ "atc_code": "V09BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008923",
+ "revisions": [
+  {
+   "revision_id": "200008923-27599148",
+   "content_sha256": "275991488c32f8485d88c5bc9f7b040ec4d07a01bdc9d27a8ac72f6f0c3c0768",
+   "ee_text": "1. 진단용 방사성의약품인 옥시드론산테크네튬(99mTc) 주사액의 조제용 2. 옥시드론산테크네튬(99mTc) 주사액의 효능ㆍ효과 : 뼈 신티그래피에 의한 골격 질환의 진단",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:34:35Z",
+   "last_observed_at": "2026-09-08T08:34:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:34:35Z"
+}

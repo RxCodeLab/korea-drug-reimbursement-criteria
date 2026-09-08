@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300168",
+ "item_name": "린코신캡슐500mg(린코마이신염산염수화물)",
+ "entp_name": "(주)유유제약",
+ "permit_date": "20031103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223001]린코마이신염산염수화물",
+ "main_item_ingr_eng": "Lincomycin Hydrochloride Hydrate",
+ "edi_code": "644500200",
+ "atc_code": "J01FF02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300168",
+ "revisions": [
+  {
+   "revision_id": "200300168-e2d689b0",
+   "content_sha256": "e2d689b0854bb2b63e194cf7bfdca0cbc6de2cd017de1ccd4b99d8e36bd54f77",
+   "ee_text": "○ 유효균종 린코마이신에 감수성인 포도구균, 연쇄구균(장내구균 제외), 폐렴연쇄구균, 시겔라 ○ 적응증 - 종기, 연조직염, 생인손, 단독, 림프절염 - 기관지염, 농가진, 폐렴, 편도염, 인두염 - 골수염, 유선염 - 성홍열 - 세균성이질 - 중이염, 부비동염",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:42Z",
+   "last_observed_at": "2026-09-08T08:36:42Z",
+   "official_revision_date": "2023-01-14"
+  },
+  {
+   "revision_id": "200300168-30d02baa",
+   "content_sha256": "30d02baa9622586e58cf0f2f923a75097a8f40b733f50efe6ae61a9f61fbe8df",
+   "ee_text": "(캡슐제) ○ 유효균종 린코마이신에 감수성인 포도구균, 연쇄구균(장내구균 제외), 폐렴연쇄구균, 시겔라 ○ 적응증 - 종기, 연조직염, 생인손, 단독, 림프절염 - 기관지염, 농가진, 폐렴, 편도염, 인두염 - 골수염, 관절염, 유선염 - 패혈증 - 성홍열 - 세균성이질 - 중이염, 부비동염 (주사제) ○ 유효균종 린코마이신에 감수성인 포도구균, 연쇄구균(장내구균 제외), 폐렴연쇄구균 ○ 적응증 - 종기, 연조직염, 생인손, 단독, 림프절염 - 기관지염, 농가진, 폐렴, 편도염, 인두염 - 골수염, 관절염, 유선염 - 세균성심내막염, 패혈증 - 성홍열 - 중이염, 부비동염",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:36:42Z",
+   "last_observed_at": "2026-09-08T08:36:42Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:42Z"
+}

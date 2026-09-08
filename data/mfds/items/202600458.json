@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202600458",
+ "item_name": "일양바이오마그액",
+ "entp_name": "일양바이오팜(주)",
+ "permit_date": "20260219",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081871]글리세로인산마그네슘|[M081871]글리세로인산마그네슘|[M204304]피리독신염산염|[M204304]피리독신염산염|[M217501]황산아연수화물|[M217501]황산아연수화물",
+ "main_item_ingr_eng": "Magnesium Glycerophosphate/Pyridoxine Hydrochloride/Zinc Sulfate Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600458",
+ "revisions": [
+  {
+   "revision_id": "202600458-da4cc1f1",
+   "content_sha256": "da4cc1f11280152e9ba0caff68e6a9cae53acfe3b7571e52cf3fcfe25aef8fa1",
+   "ee_text": "○ 다음경우의 비타민 B6의 보급 - 임신·수유기 - 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하시 ○ 아연의 보급 ○ 마그네슘결핍으로 인한 근육경련",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:47Z",
+   "last_observed_at": "2026-09-08T09:04:47Z",
+   "official_revision_date": "2026-02-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:47Z"
+}

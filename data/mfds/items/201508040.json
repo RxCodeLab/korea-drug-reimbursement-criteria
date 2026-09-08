@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508040",
+ "item_name": "씨디제박스멸균주사용수(관수용)",
+ "entp_name": "(주)펜믹스",
+ "permit_date": "20151201",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040534]주사용수",
+ "main_item_ingr_eng": "Water For Injection",
+ "edi_code": "",
+ "atc_code": "V07AB",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508040",
+ "revisions": [
+  {
+   "revision_id": "201508040-b119638e",
+   "content_sha256": "b119638e8e876bb9f1b46c0e56049ec78798af6861722a02823acfdaedf845b5",
+   "ee_text": "각종 주사제의 용제",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:57Z",
+   "last_observed_at": "2026-09-08T08:49:57Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:57Z"
+}

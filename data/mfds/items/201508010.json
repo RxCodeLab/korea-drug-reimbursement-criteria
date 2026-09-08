@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201508010",
+ "item_name": "브론펙트캡슐(에르도스테인)",
+ "entp_name": "삼진제약(주)",
+ "permit_date": "20151130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086745]에르도스테인",
+ "main_item_ingr_eng": "Erdosteine",
+ "edi_code": "647804400",
+ "atc_code": "R05CB15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508010",
+ "revisions": [
+  {
+   "revision_id": "201508010-88aeb3eb",
+   "content_sha256": "88aeb3eba0b1400dc15d8e150f1ef96e9ba9fcf4e64ba19cf2bcac64b53239eb",
+   "ee_text": "급·만성 호흡기질환에서의 점액용해 및 거담",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:49:56Z",
+   "last_observed_at": "2026-09-08T08:49:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:49:56Z"
+}

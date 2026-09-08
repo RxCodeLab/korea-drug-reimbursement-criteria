@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202302854",
+ "item_name": "후로팡설하정(플로로글루시놀)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20231004",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083269]플로로글루시놀",
+ "main_item_ingr_eng": "Phloroglucinol",
+ "edi_code": "659901920",
+ "atc_code": "A03AX12",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302854",
+ "revisions": [
+  {
+   "revision_id": "202302854-e3e88781",
+   "content_sha256": "e3e88781fe43ad5fc5103aa8988ca3c0a9c37ad60493b15865d4f0cdc463661f",
+   "ee_text": "- 비뇨기계의 경련 및 통증: 신염성 산통 - 소화관 및 담도계의 기능장애에 의한 통증 - 부인과의 경련성 통증 - 임신중 수축의 보조치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:25Z",
+   "last_observed_at": "2026-09-08T09:02:25Z",
+   "official_revision_date": "2023-10-04"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:25Z"
+}

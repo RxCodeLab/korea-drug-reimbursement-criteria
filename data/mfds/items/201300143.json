@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201300143",
+ "item_name": "비타코발라민주(시아노코발라민)(수출용)",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "20130108",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096429]시아노코발라민",
+ "main_item_ingr_eng": "Cyanocobalamin",
+ "edi_code": "",
+ "atc_code": "B03BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300143",
+ "revisions": [
+  {
+   "revision_id": "201300143-d36588cb",
+   "content_sha256": "d36588cb3d7a53340321ff5239ff9f169606d5d45904f7fb420c1f10c89b2c93",
+   "ee_text": "시아노코발라민은 다음 상태와 관련된 수 있는 흡수장애로 인한 B12 결핍에 적용된다. -에디슨(악성)빈혈 -글루텐장병증이나 스프루, 소장세균 과도증식, 전부 또는 일부 위 절제를 포함하여, 위장관 병리학, 기능 장애, 또는 수술 -어조충 감염 -췌장이나 장의 악성종양 -엽산 결핌 소장세균 과도증식, 어조충의 배출, 비타민 흡수장애를 야기하는 약물 중단(사용상의 주의사항 참조), 비열대성 스프루에서 무글루텐 식이요법 또는 열대성 스프루에서 항생제 투약으로 이어지는 해부 병변의 수술적 교정으로 기저 질병을 치료하는 것이 가능할 수 있다. 이러한 조치는 시아노코발라민의 장기 투여 요구를 없앤다. 정상을 초과하는 비타민 B12 요구(임신, 갑상선 중독증, 용혈성 빈혈, 출혈, 악성종양, 간 및 신장 질병으로 인한)는 보통 경구보충투여로 충족될 수 있다.",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:43Z",
+   "last_observed_at": "2026-09-08T08:45:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:43Z"
+}

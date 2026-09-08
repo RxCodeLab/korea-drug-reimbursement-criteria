@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200600306",
+ "item_name": "입안애구강점막스프레이(벤지다민염산염)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20060109",
+ "cancel_date": "20250401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M222851]벤지다민염산염",
+ "main_item_ingr_eng": "Benzydamine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A01AD02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600306",
+ "revisions": [
+  {
+   "revision_id": "200600306-254098cc",
+   "content_sha256": "254098ccf275ecc03d0bfc9b12a55a8cb188aee52a0d790f3483f41b7e6ed7b1",
+   "ee_text": "인후, 구강, 잇몸, 발치전후의 염증치료 및 진통",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:49Z",
+   "last_observed_at": "2026-09-08T08:39:49Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:49Z"
+}

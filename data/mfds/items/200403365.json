@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403365",
+ "item_name": "헤파빅주(비형간염사람면역글로불린)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20041115",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202641]비형간염사람면역글로불린",
+ "main_item_ingr_eng": "Hepatitis B Human Normal Immunoglobulin",
+ "edi_code": "",
+ "atc_code": "J06BB04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403365",
+ "revisions": [
+  {
+   "revision_id": "200403365-21737dfd",
+   "content_sha256": "21737dfd5de05512d8de11bfe9807818c26fca5599c1f4f53202ca3fa22e0031",
+   "ee_text": "1. HBsAg 양성혈액 오염사고 후의 B형 간염 발증의 예방 2. 신생아의 B형 간염 예방(원칙적으로 침강B형간염 백신을 병용)",
+   "ee_doc_id": "31",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:20Z",
+   "last_observed_at": "2026-09-08T08:38:20Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:20Z"
+}

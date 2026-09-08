@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199400872",
+ "item_name": "메이킨에스정(수출용)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "19941209",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040078]데히드로콜린산|[M050687]비사코딜|[M081950]도큐세이트나트륨|[M201737]카산트라놀",
+ "main_item_ingr_eng": "Bisacodyl/Casanthranol/Dehydrocholic Acid/Docusate Sodium",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400872",
+ "revisions": [
+  {
+   "revision_id": "199400872-0ec54aed",
+   "content_sha256": "0ec54aed8a03183b7d2ce71a62130e501f0a7da05a65b7d67e06c52cbbbbb662",
+   "ee_text": ". 변비 . 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부(배부분)팽만, 장내이상발효, 치질",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:12Z",
+   "last_observed_at": "2026-09-08T08:29:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:12Z"
+}

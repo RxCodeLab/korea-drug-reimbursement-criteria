@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200001487",
+ "item_name": "원비디액(미국수출용)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20000705",
+ "cancel_date": "20240503",
+ "status": "취하",
+ "main_item_ingr": "[M040133]리보플라빈|[M040679]판토텐산칼슘|[M071030]인삼유동엑스|[M202904]니코틴아마이드|[M204304]피리독신염산염|[M223184]카페인수화물",
+ "main_item_ingr_eng": "Caffeine Hydrate/Calcium Pantothenate/Ginseng Fluid Extract/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001487",
+ "revisions": [
+  {
+   "revision_id": "200001487-8791a3c9",
+   "content_sha256": "8791a3c973737e50a3c0534d2b0ff0ee5c1ca22af5e410674937dae2f889dc0a",
+   "ee_text": "간기능 보조 및 개선, 자양강장, 허약체질 보조 및 개선, 피로회복",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:43Z",
+   "last_observed_at": "2026-09-08T08:33:43Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:43Z"
+}

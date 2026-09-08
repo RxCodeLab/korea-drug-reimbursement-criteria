@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200103347",
+ "item_name": "캐리엠아이비지(131I)주사액",
+ "entp_name": "한국원자력연구원",
+ "permit_date": "20010329",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283999]3-요오도벤질구아니딘(131I)액",
+ "main_item_ingr_eng": "3-Iodobenzylguanidine (131I) Solution",
+ "edi_code": "672400111,672400113,672400114,672400115,672400116,672400117,672400118",
+ "atc_code": "V09IX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200103347",
+ "revisions": [
+  {
+   "revision_id": "200103347-5e03eb45",
+   "content_sha256": "5e03eb45af23bb7cfd18fc46d8cce0831428b2911a037c84e52293cf60e11904",
+   "ee_text": "1. 진단용 : 37-111 MBq(1-3 mCi) 신티그래피에 의한 갈색세포종, 신경아세포종, 갑상선 수질종양의 진단 2. 치료용 : 1.11-7.4 GBq(30-200 mCi) 갈색세포종, 신경아세포종의 치료",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:35Z",
+   "last_observed_at": "2026-09-08T08:35:35Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:35Z"
+}

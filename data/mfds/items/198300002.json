@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198300002",
+ "item_name": "디스토시드정(프라지콴텔)군납명:프라지콴텔정",
+ "entp_name": "신풍제약(주)",
+ "permit_date": "19830521",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M080517]프라지콴텔",
+ "main_item_ingr_eng": "Praziquantel",
+ "edi_code": "648500340",
+ "atc_code": "P02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300002",
+ "revisions": [
+  {
+   "revision_id": "198300002-365b3b42",
+   "content_sha256": "365b3b42dd9a7762b10d4c4b220270b23e829894672668f873c24d8042896d0b",
+   "ee_text": "간흡충, 폐흡충 및 주혈흡충 감염의 치료",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:49Z",
+   "last_observed_at": "2026-09-08T08:26:49Z",
+   "official_revision_date": "2023-05-14"
+  },
+  {
+   "revision_id": "198300002-bbe6af3a",
+   "content_sha256": "bbe6af3ad8c74ff31a35d4dee1b2074de9fb1ab27c109ad61e0b39fbf6dba002",
+   "ee_text": "1. 간흡충, 폐흡충 및 주혈흡충 감염의 치료 2. 무구조충, 유구조충, 남아메리카 어류조충, 왜소조충 등 각종 조충 감염의 치료",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:26:49Z",
+   "last_observed_at": "2026-09-08T08:26:49Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:49Z"
+}

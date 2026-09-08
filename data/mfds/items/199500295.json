@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199500295",
+ "item_name": "데오에스베리벤에프주",
+ "entp_name": "대한약품공업(주)",
+ "permit_date": "19950826",
+ "cancel_date": "20251216",
+ "status": "취하",
+ "main_item_ingr": "[M051845]프록시필린|[M082512]멜릴로투스엑스",
+ "main_item_ingr_eng": "Melilotus Extract/Proxyphylline",
+ "edi_code": "",
+ "atc_code": "C04AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500295",
+ "revisions": [
+  {
+   "revision_id": "199500295-6899fc78",
+   "content_sha256": "6899fc78562fa062d71741c3d0310febd5318c72495de732373b3cf87b512071",
+   "ee_text": "외상(염좌, 골절, 타박, 좌상 등), 수술후의 연부 종창으로 인한 염증의 완화",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:29:26Z",
+   "last_observed_at": "2026-09-08T08:29:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:29:26Z"
+}

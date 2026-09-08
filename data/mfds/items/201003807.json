@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003807",
+ "item_name": "아스테리아정250밀리그램(메트로니다졸)(수출용)(수출명:METRONIDAZOLE-ASTERIA TAB.250mg)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20100531",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040170]메트로니다졸",
+ "main_item_ingr_eng": "Metronidazole",
+ "edi_code": "",
+ "atc_code": "J01XD01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003807",
+ "revisions": [
+  {
+   "revision_id": "201003807-5441d351",
+   "content_sha256": "5441d351d625e7a3ad5929b51ef0ef71a819a7fa26c74f1ed8c4b41cbadd489d",
+   "ee_text": "1. 트리코모나스증 2. 혐기성균 감염증 : 복부내감염증(복막염, 복부내농양, 간농양 등), 피부 및 피부조직 감염증, 부인과 감염증(자궁내막염, 자궁실질내막염, 난관, 난소농양 등), 세균성 패혈증, 골 및 관절 감염증, 중추신경계 감염증(뇌종양, 뇌수막염 등), 하기도 감염증(폐염, 농흉, 폐농양 등), 심내막염, 수술후 감염증의 예방 3. 아메바증",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:05Z",
+   "last_observed_at": "2026-09-08T08:44:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:05Z"
+}

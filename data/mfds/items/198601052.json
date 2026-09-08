@@ -15,12 +15,13 @@
  "history_fetched_at": "2026-08-27T13:15:02Z",
  "revisions": [
   {
-   "revision_id": "198601052-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "198601052-e094633e",
+   "content_sha256": "e094633e93381e612d1a87633735efc4445a4321c278bcd22f7b575fe620a258",
+   "ee_text": "1. 정맥혈전증의 예방 및 치료 2. 색전성 심방세동의 치료 3. 폐동맥색전증의 예방 및 치료 4. 관상동맥폐색의 보조제",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/198601052/EE",
    "first_observed_at": "2026-08-27T13:15:02Z",
-   "last_observed_at": "2026-08-28T13:23:40Z"
+   "last_observed_at": "2026-09-08T08:27:14Z",
+   "normalizer_version": 3
   }
  ]
 }

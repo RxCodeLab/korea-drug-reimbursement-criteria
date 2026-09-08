@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202321",
+ "item_name": "리포타론주(덱사메타손팔미테이트)(수출용)",
+ "entp_name": "타나베파마코리아주식회사",
+ "permit_date": "20220602",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258481]덱사메타손팔미테이트|[M258481]덱사메타손팔미테이트",
+ "main_item_ingr_eng": "Dexamethasone Palmitate",
+ "edi_code": "",
+ "atc_code": "H02AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202321",
+ "revisions": [
+  {
+   "revision_id": "202202321-59aeb0ac",
+   "content_sha256": "59aeb0ac0882fa6f51bd67a9a3196b620e107436cdc4c81fa1170724eefa371b",
+   "ee_text": "류마티스관절염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:22Z",
+   "last_observed_at": "2026-09-08T09:01:22Z",
+   "official_revision_date": "2022-06-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:22Z"
+}

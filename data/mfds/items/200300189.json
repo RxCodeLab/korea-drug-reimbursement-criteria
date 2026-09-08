@@ -7,7 +7,7 @@
  "permit_date": "20030501",
  "cancel_date": "20240101",
  "status": "유효기간만료",
- "main_item_ingr": "[M223211]클로르페니라민말레산염|[M222865]수도에페드린염산염|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M222865]수도에페드린염산염|[M223211]클로르페니라민말레산염",
  "main_item_ingr_eng": "Acetaminophen/Chlorpheniramine Maleate/Pseudoephedrine Hydrochloride",
  "edi_code": "",
  "atc_code": "R05X",
@@ -20,7 +20,8 @@
    "ee_text": "감기의 제증상(콧물, 코막힘, 재채기, 인후통, 오한, 발열, 두통, 관절통, 근육통)의 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200300189/EE",
    "first_observed_at": "2026-08-27T12:57:23Z",
-   "last_observed_at": "2026-08-28T13:24:01Z"
+   "last_observed_at": "2026-09-08T08:36:42Z",
+   "normalizer_version": 3
   }
  ]
 }

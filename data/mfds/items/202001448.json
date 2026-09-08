@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202001448",
+ "item_name": "배리셀라주(수두생바이러스백신)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20200302",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M278461]약독수두생바이러스(Live  Attenuated  Varicella  Vaccine)(바이러스주:  MAV/06,  세포주:  MRC-5)",
+ "main_item_ingr_eng": "Live Attenuated Varicella Virus (Strain: MAV/06, Cell Strain: MRC-5 )",
+ "edi_code": "",
+ "atc_code": "J07BK01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001448",
+ "revisions": [
+  {
+   "revision_id": "202001448-7547a9ef",
+   "content_sha256": "7547a9efeafce1f94f69bfac313b5dde1c137bfb7c4cdcaded4ae0a3b84c05f7",
+   "ee_text": "생후 12개월 ~ 만 12세 소아에서 수두의 예방",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202001448/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:57Z",
+   "last_observed_at": "2026-09-08T08:57:57Z"
+  },
+  {
+   "revision_id": "202001448-8b804685",
+   "content_sha256": "8b804685272d09f1b470666bba4008795b80bf00ca82ec1df90b1014abfa87d5",
+   "ee_text": "생후 12개월 ~ 만 12세 이하 소아에서 수두의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "official_revision_date": "2020-03-02",
+   "first_observed_at": "2026-09-08T08:57:57Z",
+   "last_observed_at": "2026-09-08T08:57:57Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:57Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300199",
+ "item_name": "토라코나정(이트라코나졸)(수출용)(수출명:이트라코네트정50mg, 이트라코나졸정50mg)",
+ "entp_name": "제이더블유중외제약(주)",
+ "permit_date": "20031230",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M083734]이트라코나졸",
+ "main_item_ingr_eng": "Itraconazole",
+ "edi_code": "",
+ "atc_code": "J02AC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300199",
+ "revisions": [
+  {
+   "revision_id": "200300199-0d99da4d",
+   "content_sha256": "0d99da4da6adda184e888deb84fd75cb35c2ae3cd77d397c348b77758457a08c",
+   "ee_text": "- 칸디다성 질염 - 어루러기 - 피부사상균증 [체부백선, 고부백선(완선), 수부백선, 족부백선] - 진균성 각막염 - 구강칸디다증 - 조갑진균증 - 다음과 같은 전신성 진균감염증 : 아스페르길루스증, 칸디다중, 크립토콕스병 (크립토콕쿠스 수막염 포함), 파라콕시디오이드미시스중",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:42Z",
+   "last_observed_at": "2026-09-08T08:36:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:42Z"
+}

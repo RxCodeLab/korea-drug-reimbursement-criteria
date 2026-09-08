@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201805184",
+ "item_name": "쿨스탁필름형트로키(세틸피리디늄염화물)",
+ "entp_name": "(주)경보제약",
+ "permit_date": "20181220",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M273071]세틸피리디늄염화물",
+ "main_item_ingr_eng": "Cetylpyridinium Chloride",
+ "edi_code": "",
+ "atc_code": "R02AA06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805184",
+ "revisions": [
+  {
+   "revision_id": "201805184-dbe6efe1",
+   "content_sha256": "dbe6efe136e737581fd76c257636fc456ef931e3ae8f87e4fb2299e3b0503bf6",
+   "ee_text": "다음 질환에 의한 염증의 완화 : 인두염, 편도염, 구내염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:56Z",
+   "last_observed_at": "2026-09-08T08:53:56Z",
+   "official_revision_date": "2018-12-20"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:56Z"
+}

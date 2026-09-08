@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200903044",
+ "item_name": "본렉스이알캡슐15밀리그램(시클로벤자프린염산염)",
+ "entp_name": "(주)새한제약",
+ "permit_date": "20090428",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246272]시클로벤자프린염산염",
+ "main_item_ingr_eng": "Cyclobenzaprine Hydrochloride",
+ "edi_code": "651300630",
+ "atc_code": "M03BX08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903044",
+ "revisions": [
+  {
+   "revision_id": "200903044-12d2332b",
+   "content_sha256": "12d2332b2736f2822b31179832f90c9579b0b31c656f62b71bc89168cb9d03d5",
+   "ee_text": "급성, 동통성 근골격계 질환에 수반하는 증상 완화",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:15Z",
+   "last_observed_at": "2026-09-08T08:43:15Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:15Z"
+}

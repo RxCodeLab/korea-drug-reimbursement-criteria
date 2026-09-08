@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201904495",
+ "item_name": "클린디올액(클린다마이신포스페이트)",
+ "entp_name": "주식회사더유제약",
+ "permit_date": "20190702",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223228]클린다마이신포스페이트",
+ "main_item_ingr_eng": "Clindamycin Phosphate",
+ "edi_code": "",
+ "atc_code": "D10AF01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904495",
+ "revisions": [
+  {
+   "revision_id": "201904495-41a90956",
+   "content_sha256": "41a909565e86ca62e56c97e57bde46a70db9eb74644606f0e17a3dff857d514d",
+   "ee_text": "○ 유효균종 : 프로피오니박테륨 아크네 ○ 적응증 : 심상성여드름(보통여드름)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:55:43Z",
+   "last_observed_at": "2026-09-08T08:55:43Z",
+   "official_revision_date": "2019-07-02"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:55:43Z"
+}

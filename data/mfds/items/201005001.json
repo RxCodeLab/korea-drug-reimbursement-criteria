@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201005001",
+ "item_name": "에카렉스현탁액(에카베트나트륨수화물)(수출용)",
+ "entp_name": "광동제약(주)",
+ "permit_date": "20100813",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257807]에카베트나트륨수화물",
+ "main_item_ingr_eng": "Ecabet Sodium Hydrate",
+ "edi_code": "",
+ "atc_code": "A02BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005001",
+ "revisions": [
+  {
+   "revision_id": "201005001-f976e526",
+   "content_sha256": "f976e5260c08c537fa0cc86055b061473c1019f124dc37a5e7d221ef80989d74",
+   "ee_text": "다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성 위염, 만성 위염의 급성악화기",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:12Z",
+   "last_observed_at": "2026-09-08T08:44:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:12Z"
+}

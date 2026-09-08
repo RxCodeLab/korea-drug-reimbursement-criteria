@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201201616",
+ "item_name": "대한뉴팜메살라민정500밀리그램(수출용)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20120315",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M088568]메살라민",
+ "main_item_ingr_eng": "Mesalazine",
+ "edi_code": "",
+ "atc_code": "A07EC02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201616",
+ "revisions": [
+  {
+   "revision_id": "201201616-ba859ca1",
+   "content_sha256": "ba859ca1e1903069a992eeccf9d84c9255f1c8fe065dda7f317c42ff2986c93f",
+   "ee_text": "1. 주효능 효과 궤양성 대장염의 급성발병치료 및 재발방지, 크론병의 급성발병치료",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:45:13Z",
+   "last_observed_at": "2026-09-08T08:45:13Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:45:13Z"
+}

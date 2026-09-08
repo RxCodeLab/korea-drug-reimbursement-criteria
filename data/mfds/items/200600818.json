@@ -12,6 +12,7 @@
  "edi_code": "073200570",
  "atc_code": "M01AB16",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600818",
+ "history_fetched_at": "2026-08-28T13:24:10Z",
  "revisions": [
   {
    "revision_id": "200600818-85076b17",
@@ -19,7 +20,8 @@
    "ee_text": "류마티스관절염, 강직척추염, 골관절염(퇴행관절염) 및 견갑상완골의 관절주위염, 치통, 외상 후 생기는 염증, 요통, 좌골통, 비관절성 류머티즘으로 인한 통증",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200600818/EE",
    "first_observed_at": "2026-08-28T13:24:10Z",
-   "last_observed_at": "2026-08-28T13:24:10Z"
+   "last_observed_at": "2026-09-08T08:39:54Z",
+   "normalizer_version": 3
   },
   {
    "revision_id": "200600818-132c739a",
@@ -30,6 +32,5 @@
    "first_observed_at": "2026-08-28T13:24:10Z",
    "last_observed_at": "2026-08-28T13:24:10Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:10Z"
+ ]
 }

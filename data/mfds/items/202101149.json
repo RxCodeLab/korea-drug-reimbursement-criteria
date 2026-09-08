@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202101149",
+ "item_name": "비줄타점안액0.024%(라타노프로스틴부노드)",
+ "entp_name": "(주)바슈헬스코리아",
+ "permit_date": "20210205",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M280415]라타노프로스틴부노드",
+ "main_item_ingr_eng": "latanoprostene bunod",
+ "edi_code": "664400301,664400302",
+ "atc_code": "S01EE06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101149",
+ "revisions": [
+  {
+   "revision_id": "202101149-82518bd4",
+   "content_sha256": "82518bd417ce68b34eb6d9fd56ac123606e582e810e4aaa415cfc7d14be951a7",
+   "ee_text": "다음 질환의 안압하강 : 개방각 녹내장, 고안압증",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:55Z",
+   "last_observed_at": "2026-09-08T08:59:55Z",
+   "official_revision_date": "2021-02-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:55Z"
+}

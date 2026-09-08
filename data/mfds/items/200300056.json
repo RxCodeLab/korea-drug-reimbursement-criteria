@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200300056",
+ "item_name": "타이콘주사(테이코플라닌)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20031103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M245142]테이코플라닌|[M245142]테이코플라닌|[M245142]테이코플라닌|[M245142]테이코플라닌",
+ "main_item_ingr_eng": "Teicoplanin",
+ "edi_code": "653400961",
+ "atc_code": "J01XA02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300056",
+ "revisions": [
+  {
+   "revision_id": "200300056-2aacb7d7",
+   "content_sha256": "2aacb7d7966d76647f00ff9162b43cab587a263880dfa1603fac3fd30bb93a92",
+   "ee_text": "유효균종 : 이 약은 Actinoplanes teichomyceticus의 발효에 의해 생산된 살균성 글리코펩타이드 항생물질이다. 그람 양성의 호기성과 혐기성균에 대해 작용한다. 1) 감수성 균주 : 코리네박테리아(Corynebacterium jeikeium), 장내구균(Enterococcus faecalis), 황색포도구균 (메티실린 내성 포함), 연쇄구균(Streptococcus agalactiae, Streptococcus dysgalactiae subsp. Equisimilis (Group C & G streptococci), Streptococcus pneumoniae, Streptococcus pyogenes, Streptococci in the viridans group) 등 그람양성 호기성균 및 클로스트리듐 다이피셀과 펩토구균 등 그람양성 혐기성균 2) 내성 균주 : 노르카디아 아스트로이드, 락토바실루스, 류코노스톡, 그람음성 D군의 연쇄구균과 포도구균에 대해서는 아미노글리코사이드 항생물질과 시험관내에서의 상승적 살균작용이 입증되었다. 이 약은 시험관에서 리팜피신 또는 불화 퀴놀론계 항균제와 일차적으로는 상가적 작용을 나타내었고 때로 상승작용을 나타내었다. 이 약에 대한 1단계의 내성은 시험관내에서는 나타나지 않았으며 다단계 내성은 시험관내에서 11 ∼ 14세대 배양 후에 얻어졌다. 이 약은 여러 항생물질군과 교차내성을 보이지 않는다. - 후천적 내성균주: 장내구균 (Enterococcus faecium), 포도구균 (Staphylococcus epidermidis, Staphylococcus haemolyticus, Staphylococcus hominis) 등 호기성 그람양성균 - 선천적 내성 균주: 모든 그람 음성 균 및 클라미디아(Chlamydia spp., Chlamydophila spp), 레지오넬라 뉴모필라, 마이코플라스마 3) 감수성 시험 : 감수성 시험용 디스크(Sensidisc)는 이 약 30 ㎍을 함유한다. 억제대(Inhibition Zone)의 직경이 14 mm 이상이면 감수성이고 10 mm이하이면 내성이다. 적응증 : 성인 및 소아(신생아부터)의 다음 감염증의 주사 요법 ○ 피부 및 연조직 감염증 ○ 골·관절 감염증 ○ 병원 및 지역사회 획득 폐렴 ○ 복합 요로 감염증 ○ 감염성 심내막염 ○ 지속성 외래 복막 투석(CAPD)에 의한 복막염 ○ 적응증에 포함되는 증상과 연관된 균혈증",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:36:40Z",
+   "last_observed_at": "2026-09-08T08:36:40Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:36:40Z"
+}

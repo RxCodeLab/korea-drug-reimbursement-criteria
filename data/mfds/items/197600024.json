@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "197600024",
+ "item_name": "소요과립(가미소요산엑스과립)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19761104",
+ "cancel_date": "20260401",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M088634]가미소요산연조엑스",
+ "main_item_ingr_eng": "Gamisoyosan Soft Extract",
+ "edi_code": "",
+ "atc_code": "N07XX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600024",
+ "revisions": [
+  {
+   "revision_id": "197600024-e88cb64f",
+   "content_sha256": "e88cb64fb4075af0760104dae5a1465efd0f922aca444df5f57f8aecb96172cc",
+   "ee_text": "체질이 허약한 여성으로 어깨가 결리며 피로하기 쉽고, 정신불안 등의 정신신경증상, 때때로 변비가 있는 사람의 다음 증상 : 냉증, 허약체질, 월경불순, 월경곤란, 갱년기장애",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:24Z",
+   "last_observed_at": "2026-09-08T08:26:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:24Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202003157",
+ "item_name": "레가마린연질캡슐(밀크시슬열매건조엑스)",
+ "entp_name": "(주)일화",
+ "permit_date": "20200428",
+ "cancel_date": "20250428",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M268656]밀크시슬열매건조엑스",
+ "main_item_ingr_eng": "Milk-Thistle Fruit Dried Extract",
+ "edi_code": "",
+ "atc_code": "A05BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003157",
+ "revisions": [
+  {
+   "revision_id": "202003157-f146bff3",
+   "content_sha256": "f146bff36f810ba99a7c0afc302794281f1e54acdaae018b70d37111b6f3a3ad",
+   "ee_text": "다음 질환의 보조 치료 : 독성 간질환, 만성간염, 간경변",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:58:37Z",
+   "last_observed_at": "2026-09-08T08:58:37Z",
+   "official_revision_date": "2020-04-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:58:37Z"
+}

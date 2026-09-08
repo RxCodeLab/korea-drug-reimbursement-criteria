@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202105753",
+ "item_name": "업리즈나주(이네빌리주맙)",
+ "entp_name": "타나베파마코리아주식회사",
+ "permit_date": "20210805",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M281285]이네빌리주맙",
+ "main_item_ingr_eng": "Inebilizumab",
+ "edi_code": "",
+ "atc_code": "L04AG10",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105753",
+ "revisions": [
+  {
+   "revision_id": "202105753-6f7ae4b0",
+   "content_sha256": "6f7ae4b04d8de9cf3c40cde83c429a6867002b3f85142fc62982dbbb5b000cf3",
+   "ee_text": "항아쿠아포린-4(Aquaporin-4, AQP4) 항체 양성인 성인 환자에서의 시신경척수염범주질환의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:26Z",
+   "last_observed_at": "2026-09-08T09:00:26Z",
+   "official_revision_date": "2021-08-05"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:26Z"
+}

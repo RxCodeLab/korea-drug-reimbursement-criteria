@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200307980",
+ "item_name": "알레버트정",
+ "entp_name": "(주)한국유니팜",
+ "permit_date": "20030311",
+ "cancel_date": "20231001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040096]디멘히드리네이트|[M050894]신나리진",
+ "main_item_ingr_eng": "Cinnarizine/Dimenhydrinate",
+ "edi_code": "",
+ "atc_code": "N07CA52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307980",
+ "revisions": [
+  {
+   "revision_id": "200307980-179994a4",
+   "content_sha256": "179994a474bcb3f33d4f2031ec32bd7223c9d83dd521f636b35528d7077ef7fa",
+   "ee_text": "메니에르 질환, 척추기저 부전에 의한 어지러움을 포함한 중추성/말초성 원인의 어지러움증 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:21Z",
+   "last_observed_at": "2026-09-08T08:37:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:21Z"
+}

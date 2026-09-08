@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403526",
+ "item_name": "자벨주사(이다루비신염산염)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20040922",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250064]이다루비신염산염",
+ "main_item_ingr_eng": "Idarubicin Hydrochloride",
+ "edi_code": "645301431",
+ "atc_code": "L01DB06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403526",
+ "revisions": [
+  {
+   "revision_id": "200403526-5eaaf716",
+   "content_sha256": "5eaaf716778a2d7333d3191fbe890acf7b51bd6ee17b510170bef76fbb133e29",
+   "ee_text": "성인 급성 골수성 백혈병, 성인 및 소아 재발성 급성 림프성 백혈병의 2차 치료",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:22Z",
+   "last_observed_at": "2026-09-08T08:38:22Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:22Z"
+}

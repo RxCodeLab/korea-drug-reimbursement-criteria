@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200800233",
+ "item_name": "넥사바정200밀리그램(소라페닙토실레이트(미분화))",
+ "entp_name": "바이엘코리아(주)",
+ "permit_date": "20080107",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M257069]소라페닙토실레이트(미분화)",
+ "main_item_ingr_eng": "Sorafenib Tosylate Micronized",
+ "edi_code": "641104700",
+ "atc_code": "L01EX02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800233",
+ "revisions": [
+  {
+   "revision_id": "200800233-d2935a50",
+   "content_sha256": "d2935a509346719d2bc82addd674587b93a61c05119f7d2874f864d756d148ae",
+   "ee_text": "- 이전의 cytokine 치료에 실패 경험이 있거나, 이러한 치료 요법이 적절치 않은 진행성 신장세포암 - 간세포성 암 - 방사성 요오드에 불응한, 국소 재발성 또는 전이성의 진행성 분화 갑상선 암",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:08Z",
+   "last_observed_at": "2026-09-08T08:42:08Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:08Z"
+}

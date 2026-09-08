@@ -7,11 +7,12 @@
  "permit_date": "19870120",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M096429]시아노코발라민|[M246203]DL-카르니틴염산염|[M222998]L-리신염산염|[M254960]시프로헵타딘오로트산염수화물",
+ "main_item_ingr": "[M096429]시아노코발라민|[M222998]L-리신염산염|[M246203]DL-카르니틴염산염|[M254960]시프로헵타딘오로트산염수화물",
  "main_item_ingr_eng": "Cyanocobalamin/Cyproheptadine Orotate Hydrate/DL-Carnitine Hydrochloride/L-Lysine Hydrochloride",
  "edi_code": "",
  "atc_code": "A15",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198701352",
+ "history_fetched_at": "2026-08-28T13:23:41Z",
  "revisions": [
   {
    "revision_id": "198701352-8b1ea231",
@@ -19,8 +20,9 @@
    "ee_text": "(정제)(저작정)(캡슐제) 식욕부진",
    "ee_doc_id": "32",
    "first_observed_at": "2026-08-28T13:23:41Z",
-   "last_observed_at": "2026-08-28T13:23:41Z",
-   "official_revision_date": "2020-09-30"
+   "last_observed_at": "2026-09-08T08:27:25Z",
+   "official_revision_date": "2020-09-30",
+   "normalizer_version": 3
   },
   {
    "revision_id": "198701352-21215862",
@@ -40,6 +42,5 @@
    "first_observed_at": "2026-08-28T13:23:41Z",
    "last_observed_at": "2026-08-28T13:23:41Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:41Z"
+ ]
 }

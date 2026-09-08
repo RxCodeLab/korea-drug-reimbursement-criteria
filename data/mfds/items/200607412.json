@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200607412",
+ "item_name": "후콜리스티메테이트주(콜리스틴메탄설폰나트륨)",
+ "entp_name": "(주)서울메디칼",
+ "permit_date": "20060810",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040598]콜리스틴메탄설폰산나트륨",
+ "main_item_ingr_eng": "Colistin Sodium Methanesulfonate",
+ "edi_code": "698800011",
+ "atc_code": "J01XB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607412",
+ "revisions": [
+  {
+   "revision_id": "200607412-28f323c2",
+   "content_sha256": "28f323c2df77e1c18be9d3f5da9c708aaaeb570acefe792ddb2f80d60af6704d",
+   "ee_text": "유효균종 : 엔테로박터 에로제니즈, 폐렴간균, 다른 항생물질에 내성인 대장균, 녹농균 적응증 : 주효능효과 방광염, 신우신염",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:29Z",
+   "last_observed_at": "2026-09-08T08:40:29Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:29Z"
+}

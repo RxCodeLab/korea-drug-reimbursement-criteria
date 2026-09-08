@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200811818",
+ "item_name": "코플라쎈액(수출명: COREPLACEN SOLUTION)",
+ "entp_name": "구주제약(주)",
+ "permit_date": "20081223",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M096516]자하거엑스|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223183]카페인무수물|[M223262]티아민질산염",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Human Placenta Extract/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Thiamine Nitrate",
+ "edi_code": "",
+ "atc_code": "A13A",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811818",
+ "revisions": [
+  {
+   "revision_id": "200811818-2758ac31",
+   "content_sha256": "2758ac311efaf874680317ce5611ecf0647348348622c4c127ab42905e84dcce",
+   "ee_text": "자양강장, 허약체질, 육체피로, 병후의 체력저하, 식욕부진, 영양장애, 발열성·소모성질환, 임신수유기일 때의 영양보급",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:59Z",
+   "last_observed_at": "2026-09-08T08:42:59Z",
+   "official_revision_date": "2017-09-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:59Z"
+}

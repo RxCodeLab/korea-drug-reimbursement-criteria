@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200512347",
+ "item_name": "둘코락스좌약(비사코딜)",
+ "entp_name": "오펠라헬스케어코리아(주)",
+ "permit_date": "20050927",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050687]비사코딜",
+ "main_item_ingr_eng": "Bisacodyl",
+ "edi_code": "074200080",
+ "atc_code": "A06AB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512347",
+ "revisions": [
+  {
+   "revision_id": "200512347-3b2d3e44",
+   "content_sha256": "3b2d3e44a643a989ac785f429e8ec922b886bbf7965b46a45444302a200be6b7",
+   "ee_text": "1. 주효능 효과 급·만성변비, 수술·분만전후 및 X-선 촬영시 장내분변제거",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:42Z",
+   "last_observed_at": "2026-09-08T08:39:42Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:42Z"
+}

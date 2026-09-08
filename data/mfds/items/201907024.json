@@ -7,7 +7,7 @@
  "permit_date": "20191002",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M247022]브롬페니라민말레산염|[M203364]슈도에페드린염산염|[M050058]구아이페네신|[M222890]클로페라스틴염산염|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M050058]구아이페네신|[M203364]슈도에페드린염산염|[M222890]클로페라스틴염산염|[M247022]브롬페니라민말레산염",
  "main_item_ingr_eng": "Acetaminophen/Brompheniramine Maleate/Cloperastine Hydrochloride/Guaifenesin/Pseudoephedrine Hydrochloride",
  "edi_code": "",
  "atc_code": "R05X",
@@ -20,7 +20,8 @@
    "ee_text": "감기의 제증상(여러증상)(콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201907024/EE",
    "first_observed_at": "2026-08-27T13:02:29Z",
-   "last_observed_at": "2026-08-28T13:25:12Z"
+   "last_observed_at": "2026-09-08T08:56:36Z",
+   "normalizer_version": 3
   }
  ]
 }

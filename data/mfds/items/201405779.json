@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201405779",
+ "item_name": "셀렉콕캡슐200mg(세레콕시브)",
+ "entp_name": "대한뉴팜(주)",
+ "permit_date": "20141208",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089149]세레콕시브",
+ "main_item_ingr_eng": "Celecoxib",
+ "edi_code": "669906100",
+ "atc_code": "M01AH01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405779",
+ "revisions": [
+  {
+   "revision_id": "201405779-67e283ca",
+   "content_sha256": "67e283ca90cd553941418f0bc0c6b932912d545e0f7d11fa60734a6f59fc1ea6",
+   "ee_text": "1. 골관절염(퇴행관절염)의 증상이나 징후의 완화 2. 류마티스관절염의 증상이나 징후의 완화 3. 강직척추염의 증상 및 징후의 완화 4. 성인의 급성 통증 완화(수술후, 발치후 진통) 5. 원발월경통",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:48:06Z",
+   "last_observed_at": "2026-09-08T08:48:06Z",
+   "official_revision_date": "2019-05-02"
+  },
+  {
+   "revision_id": "201405779-7b0bb1a1",
+   "content_sha256": "7b0bb1a1212c24397d58b6ecc8b4a6b7f39e829a04b9ed1b5e0990a3414d23f6",
+   "ee_text": "1) 골관절염의 증상이나 증후의 완화 2) 류마티스성 관절염의 증상이나 증후의 완화 3) 강직성 척추염의 증상 및 징후의 완화 4) 성인의 급성 통증 완화 (수술후, 발치후 진통) 5) 원발성 월경곤란증의 치료",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:48:06Z",
+   "last_observed_at": "2026-09-08T08:48:06Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:48:06Z"
+}

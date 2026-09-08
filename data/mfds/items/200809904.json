@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200809904",
+ "item_name": "플로실 헤모스태틱 매트릭스",
+ "entp_name": "주식회사박스터코리아",
+ "permit_date": "20080926",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M094441]정제된특수처치젤라틴|[M254968]사람트롬빈",
+ "main_item_ingr_eng": "Human Thrombin/Purified Gelatin",
+ "edi_code": "",
+ "atc_code": "B02BC30",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809904",
+ "revisions": [
+  {
+   "revision_id": "200809904-40a8319a",
+   "content_sha256": "40a8319ac782793af80f3ed682e9fe88c4f5a2a0fe9ec86b9e772bdcbfc3cea1",
+   "ee_text": "눈 이외의 부위에 대한 여러 영역의 외과적 수술 시, 결찰(ligature) 또는 일반적인 절차로 효과적으로 조절되지 않거나 조절이 불가능한 출혈",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:51Z",
+   "last_observed_at": "2026-09-08T08:42:51Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:51Z"
+}

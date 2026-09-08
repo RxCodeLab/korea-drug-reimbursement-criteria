@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202301172",
+ "item_name": "페라스텔에스액(과아세트산액0.13%)",
+ "entp_name": "(주)에이치피앤씨",
+ "permit_date": "20230407",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M115826]과아세트산 액0.13%",
+ "main_item_ingr_eng": "Peracetic Acid Solution 0.13%",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301172",
+ "revisions": [
+  {
+   "revision_id": "202301172-c94a51e5",
+   "content_sha256": "c94a51e5d7a87fa4731e2f0a792fc403eb0eb0a25b505608da0f528265899d01",
+   "ee_text": "의료기구의 화학적 멸균 및 살균소독(열에 민감한 내시경 포함)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:59Z",
+   "last_observed_at": "2026-09-08T09:01:59Z",
+   "official_revision_date": "2023-04-07"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:59Z"
+}

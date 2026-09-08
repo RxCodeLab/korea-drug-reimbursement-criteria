@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202501941",
+ "item_name": "키드고액",
+ "entp_name": "경진제약(주)",
+ "permit_date": "20250728",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M204304]피리독신염산염|[M223081]스코폴라민브롬화수소산염수화물|[M223183]카페인무수물|[M223211]클로르페니라민말레산염",
+ "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/Nicotinamide/Pyridoxine Hydrochloride/Scopolamine Hydrobromide Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501941",
+ "revisions": [
+  {
+   "revision_id": "202501941-5fdc9e87",
+   "content_sha256": "5fdc9e87a283f136e6c9e0ae0642ed2b737b7d5e3a76b6f240f69c427ad4e0ae",
+   "ee_text": "멀미에 의한 어지러움․구토․두통의 예방 및 완화",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:04:07Z",
+   "last_observed_at": "2026-09-08T09:04:07Z",
+   "official_revision_date": "2025-07-28"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:04:07Z"
+}

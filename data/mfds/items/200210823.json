@@ -7,11 +7,12 @@
  "permit_date": "20020304",
  "cancel_date": "20230927",
  "status": "폐업",
- "main_item_ingr": "[M040004]갈근|[M040048]길경|[M040216]백지|[M040329]승마|[M050041]고본|[M040789]황금",
+ "main_item_ingr": "[M040004]갈근|[M040048]길경|[M040216]백지|[M040329]승마|[M040789]황금|[M050041]고본",
  "main_item_ingr_eng": "Angelica Dahurica Root/Cimicifuga Rhizome/Ligustici Tenuissimi Rhizoma et Radix/Platycodon Root/Pueraria Root/Scutellaria Root",
  "edi_code": "",
  "atc_code": "N02BG",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210823",
+ "history_fetched_at": "2026-08-28T13:24:01Z",
  "revisions": [
   {
    "revision_id": "200210823-395e101e",
@@ -19,9 +20,9 @@
    "ee_text": "태음인의 양명병(눈이 충혈 되고, 코가 마르고 막히고, 잠이 안올 때)",
    "ee_doc_id": "9",
    "first_observed_at": "2026-08-28T13:24:01Z",
-   "last_observed_at": "2026-08-28T13:24:01Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:36:39Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:24:01Z"
+ ]
 }

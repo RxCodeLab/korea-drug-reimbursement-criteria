@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200802821",
+ "item_name": "콰이포르테당의정 300mg(마늘가루)",
+ "entp_name": "리퓨어헬스케어(주)",
+ "permit_date": "20080314",
+ "cancel_date": "20241001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M084604]마늘가루",
+ "main_item_ingr_eng": "Allium Sativum Powder",
+ "edi_code": "",
+ "atc_code": "C10AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802821",
+ "revisions": [
+  {
+   "revision_id": "200802821-24b2df6e",
+   "content_sha256": "24b2df6e7370761325592654ba411d9ef45dae237112fe09afab70041a4aadc4",
+   "ee_text": "죽상 동맥경화의 예방",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:21Z",
+   "last_observed_at": "2026-09-08T08:42:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:21Z"
+}

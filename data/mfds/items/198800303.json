@@ -7,21 +7,22 @@
  "permit_date": "19880912",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M096429]시아노코발라민|[M040064]니코틴산아미드|[M222996]리보플라빈포스페이트나트륨|[M204304]피리독신염산염|[M082390]덱스판테놀|[M050704]비오틴|[M223258]티아민염산염",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M050704]비오틴|[M082390]덱스판테놀|[M096429]시아노코발라민|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223258]티아민염산염",
  "main_item_ingr_eng": "Biotin/Cyanocobalamin/Dexpanthenol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Thiamine Hydrochloride",
  "edi_code": "",
  "atc_code": "A11EA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800303",
+ "history_fetched_at": "2026-08-28T13:23:41Z",
  "revisions": [
   {
-   "revision_id": "198800303-81b50256",
-   "content_sha256": "81b5025681b2515ce4935733e8086330fbaaf0ba59f9c3abbfc21856b6d07e6e",
-   "ee_text": "1) 육체피로 2) 임신ㆍ수유기 3) 병중ㆍ병후의 체력저하시 4) 영양불량, 체중감소 5) 위장관질환 6) 신경염, 피부염 7) 화학요법제 투여시",
+   "revision_id": "198800303-10355b88",
+   "content_sha256": "10355b88fd63136b3adca9cfbc35364f54e8f88102ebbf448201b8171311906b",
+   "ee_text": "다음과 같은 경우 이 약에 함유된 비타민의 보급 또는 결핍증의 예방 1) 육체피로 2) 임신ㆍ수유기 3) 병중ㆍ병후의 체력저하시 4) 영양불량, 체중감소 5) 위장관질환 6) 신경염, 피부염 7) 화학요법제 투여시",
    "ee_doc_id": "12",
    "first_observed_at": "2026-08-28T13:23:41Z",
-   "last_observed_at": "2026-08-28T13:23:41Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:27:35Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:41Z"
+ ]
 }

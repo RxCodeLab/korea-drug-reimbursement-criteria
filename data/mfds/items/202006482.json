@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202006482",
+ "item_name": "콤비벨라점안액(1회용)",
+ "entp_name": "(주)종근당",
+ "permit_date": "20200921",
+ "cancel_date": "20250320",
+ "status": "취하",
+ "main_item_ingr": "[M255020]브리모니딘타르타르산염|[M256384]티몰롤말레산염",
+ "main_item_ingr_eng": "Brimonidine Tartrate/Timolol Maleate",
+ "edi_code": "",
+ "atc_code": "S01ED51",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006482",
+ "revisions": [
+  {
+   "revision_id": "202006482-76d577ce",
+   "content_sha256": "76d577ceaf0d72be91c01493552fd5f1d44dcd94d54ec7216d1dc146c7128732",
+   "ee_text": "다음 환자에서의 안압 감소 : 국소 베타차단제에 불충분하게 반응하는 만성 개방각 녹내장 환자, 고안압증 환자",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:59:25Z",
+   "last_observed_at": "2026-09-08T08:59:25Z",
+   "official_revision_date": "2020-09-21"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:59:25Z"
+}

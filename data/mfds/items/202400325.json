@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202400325",
+ "item_name": "투비베타액",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20240214",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040030]구기자|[M040064]니코틴산아미드|[M040133]리보플라빈|[M040488]이노시톨|[M051291]인삼|[M204304]피리독신염산염",
+ "main_item_ingr_eng": "Ginseng/Inositol/Lycium Fruit/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400325",
+ "revisions": [
+  {
+   "revision_id": "202400325-97088d6e",
+   "content_sha256": "97088d6eaeb414e9729a474e9b45953ced690f6cb7fa0f068cccb5e7c460d294",
+   "ee_text": "○ 다음경우의 비타민 (B2, B6)의 보급 - 육체피로 - 임신․수유기 - 병중․병후(병을 앓는 동안이나 회복 후)의 체력저하시 ○ 자양강장",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:02:43Z",
+   "last_observed_at": "2026-09-08T09:02:43Z",
+   "official_revision_date": "2024-02-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:02:43Z"
+}

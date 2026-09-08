@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200002569",
+ "item_name": "메이에스정(수출용)",
+ "entp_name": "영일제약(주)",
+ "permit_date": "20000426",
+ "cancel_date": "20240229",
+ "status": "취하",
+ "main_item_ingr": "[M040078]데히드로콜린산|[M050687]비사코딜|[M081950]도큐세이트나트륨|[M085003]카산드라놀",
+ "main_item_ingr_eng": "Bisacodyl/Casanthranol/Dehydrocholic Acid/Docusate Sodium",
+ "edi_code": "",
+ "atc_code": "A06AB52",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002569",
+ "revisions": [
+  {
+   "revision_id": "200002569-692e79f3",
+   "content_sha256": "692e79f316469ccbf60552577320c2a878d68531f3480f0a50684bea244e0488",
+   "ee_text": "변비 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴),복부팽만,장내이상발효, 치질",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:33:59Z",
+   "last_observed_at": "2026-09-08T08:33:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:33:59Z"
+}

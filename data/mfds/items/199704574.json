@@ -12,16 +12,17 @@
  "edi_code": "664300021,664300051",
  "atc_code": "B05ZA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199704574",
+ "history_fetched_at": "2026-08-28T13:23:49Z",
  "revisions": [
   {
-   "revision_id": "199704574-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "199704574-f72ddc7e",
+   "content_sha256": "f72ddc7e46f55bead538a82879eb44e8b9d73f223134de6544edb4a4a909539f",
+   "ee_text": "1. 급ㆍ만성 신부전 환자의 탄산수소염형 혈액투석시 투석액 조제 2. 유독물 해독을 위한 혈액투석시 투석액 조제",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:23:49Z",
-   "last_observed_at": "2026-08-28T13:23:49Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:31:34Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:23:49Z"
+ ]
 }

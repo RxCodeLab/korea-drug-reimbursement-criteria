@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201400444",
+ "item_name": "지오트립정40밀리그램(아파티닙이말레산염)",
+ "entp_name": "한국베링거인겔하임(주)",
+ "permit_date": "20140129",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M258804]아파티닙이말레산염",
+ "main_item_ingr_eng": "Afatinib Dimaleate",
+ "edi_code": "653501450",
+ "atc_code": "L01EB03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400444",
+ "revisions": [
+  {
+   "revision_id": "201400444-98e58f40",
+   "content_sha256": "98e58f40171682ba2aabd13e49058588abba2008240949ca67dbc208dcbe69c0",
+   "ee_text": "1. EGFR 활성 변이가 있는 국소 진행성 또는 전이성 비소세포폐암의 1차 치료 2. 백금 기반 화학요법 투여 중 또는 투여 이후 진행되는 국소 진행성 또는 전이성 편평조직 비소세포폐암",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:45Z",
+   "last_observed_at": "2026-09-08T08:46:45Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:45Z"
+}

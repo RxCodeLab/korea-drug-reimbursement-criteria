@@ -1,0 +1,37 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201104725",
+ "item_name": "넵틴정12.5밀리그램(티아넵틴나트륨)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20110727",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089308]티아넵틴나트륨",
+ "main_item_ingr_eng": "Tianeptine Sodium",
+ "edi_code": "643505990",
+ "atc_code": "N06AX14",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104725",
+ "revisions": [
+  {
+   "revision_id": "201104725-4fb1dfc6",
+   "content_sha256": "4fb1dfc662e55f3e98d6fdf7b8ba3a5ab18ca7969229873098e4fc16d257bd92",
+   "ee_text": "주요우울증",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201104725/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:46Z",
+   "last_observed_at": "2026-09-08T08:44:46Z"
+  },
+  {
+   "revision_id": "201104725-d179faef",
+   "content_sha256": "d179faef8db3f00a85ff46e425a98f8ab02f225f6e9e52a4b945108644a270a6",
+   "ee_text": "(정제) 주요우울증",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:44:46Z",
+   "last_observed_at": "2026-09-08T08:44:46Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:46Z"
+}

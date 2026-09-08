@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200608469",
+ "item_name": "바미필정(바미필린염산염)",
+ "entp_name": "일양바이오팜(주)",
+ "permit_date": "20061123",
+ "cancel_date": "20240220",
+ "status": "취하",
+ "main_item_ingr": "[M254615]바미필린염산염",
+ "main_item_ingr_eng": "Bamifylline Hydrochloride",
+ "edi_code": "",
+ "atc_code": "R03DA08",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608469",
+ "revisions": [
+  {
+   "revision_id": "200608469-54ad4c26",
+   "content_sha256": "54ad4c2674e1f7d2ef01770257ec3e08963d7954910d3f7ee9aaa2887d84731e",
+   "ee_text": "1. 다음 질환에 사용할 수 있다. 다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 만성기관지염",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:40:39Z",
+   "last_observed_at": "2026-09-08T08:40:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:40:39Z"
+}

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202202108",
+ "item_name": "벡세로프리필드시린지(수막구균B군흡착백신(유전자재조합,외막소포))",
+ "entp_name": "(주)글락소스미스클라인",
+ "permit_date": "20220519",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M282725]재조합수막구균B군NHBA융합단백질(rp287-953,숙주:E.coli BL21(DE3), 벡터:ΔG287NZ-953-K)|[M282726]재조합수막구균B군NadA단백질(rp961c, 숙주:E.coli BL21(DE3), 벡터:961cL-K)|[M282727]재조합수막구균B군fHBP융합단백질(rp936-741, 숙주:E.coli BL21(DE3), 벡터:936-741-K)|[M282728]수막구균B군NZ98/254균주외막소포(OMV, 균주:N.meningitidis NZ98/254)",
+ "main_item_ingr_eng": "Outer membrane vesicles(OMV) from Neisseria meningitidis group B strain NZ98/254/Recombinant Neisseria meningitidis group B NHBA fusion protein(rp287-953)/Recombinant Neisseria meningitidis group B NadA protein(rp961c)/Recombinant Neisseria meningitidis group B fHBP fusion protein(rp936-741)",
+ "edi_code": "",
+ "atc_code": "J07AH09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202108",
+ "revisions": [
+  {
+   "revision_id": "202202108-5084e077",
+   "content_sha256": "5084e0770bdea2231a9803136b5140c8123ab613f0e6825aa1f9fc1d7c5a1738",
+   "ee_text": "생후 2개월 이상에서 Neisseria meningitidis B군에 의한 침습성 수막구균 질환의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:20Z",
+   "last_observed_at": "2026-09-08T09:01:20Z",
+   "official_revision_date": "2022-05-19"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:20Z"
+}

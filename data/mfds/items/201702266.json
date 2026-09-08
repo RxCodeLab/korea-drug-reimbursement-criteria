@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201702266",
+ "item_name": "에스엠겔5%(리도카인)(수출용)",
+ "entp_name": "(주)셀비온",
+ "permit_date": "20170501",
+ "cancel_date": "20250430",
+ "status": "취하",
+ "main_item_ingr": "[M040131]리도카인",
+ "main_item_ingr_eng": "Lidocaine",
+ "edi_code": "",
+ "atc_code": "N01BB02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702266",
+ "revisions": [
+  {
+   "revision_id": "201702266-60bd18bc",
+   "content_sha256": "60bd18bc4b4fd77a790b55b0c5a8edbd94601fb4e422aa3fcf14be8ed85acb09",
+   "ee_text": "다음의 경우에서의 통증의 일시적 경감 : 경증(가벼운 증상)의 화상, 일광화상(햇볕 탄데), 외상(상처), 자상(찔린상처)",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:49Z",
+   "last_observed_at": "2026-09-08T08:51:49Z",
+   "official_revision_date": "2017-09-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:49Z"
+}

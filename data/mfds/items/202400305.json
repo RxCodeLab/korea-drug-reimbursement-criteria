@@ -7,7 +7,7 @@
  "permit_date": "20240208",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050059]구아야콜설폰산칼륨|[M110372]길경 가루|[M040353]아세트아미노펜",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M050059]구아야콜설폰산칼륨|[M110372]길경 가루",
  "main_item_ingr_eng": "Acetaminophen/Platycodon Root Powder/Potassium Guaiacolsulfonate",
  "edi_code": "",
  "atc_code": "R05X",
@@ -20,7 +20,8 @@
    "ee_text": "감기의 제증상(인후통, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화",
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202400305/EE",
    "first_observed_at": "2026-08-27T13:04:56Z",
-   "last_observed_at": "2026-08-28T13:25:35Z"
+   "last_observed_at": "2026-09-08T09:02:42Z",
+   "normalizer_version": 3
   }
  ]
 }

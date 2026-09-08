@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198700321",
+ "item_name": "메시란주(프리디놀메실산염)",
+ "entp_name": "한올바이오파마(주)",
+ "permit_date": "19870420",
+ "cancel_date": "20251001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M253051]프리디놀메실산염",
+ "main_item_ingr_eng": "Pridinol Mesylate",
+ "edi_code": "",
+ "atc_code": "M03BX03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700321",
+ "revisions": [
+  {
+   "revision_id": "198700321-b9bce55c",
+   "content_sha256": "b9bce55c6d47ec9d0ef125b69e1417ff419b6ef6fa005151eb244369f2572542",
+   "ee_text": "근골격계 질환에 수반하는 동통성 연축 : 요배통증 경견완 증후군 견관절 주위염 변형성 척추증",
+   "ee_doc_id": "12",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:21Z",
+   "last_observed_at": "2026-09-08T08:27:21Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:21Z"
+}

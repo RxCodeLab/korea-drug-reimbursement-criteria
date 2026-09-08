@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202000759",
+ "item_name": "제이다운캡슐120밀리그램(오르리스타트)",
+ "entp_name": "제이더블유신약(주)",
+ "permit_date": "20200210",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M092754]오르리스타트",
+ "main_item_ingr_eng": "Orlistat",
+ "edi_code": "",
+ "atc_code": "A08AB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000759",
+ "revisions": [
+  {
+   "revision_id": "202000759-f5a47668",
+   "content_sha256": "f5a476686f2ae6b6e796aa285bb526069f6ad3042a1c670aa340dc24aab2cabc",
+   "ee_text": "체질량 지수(BMI) 30 ㎏/m² 이상 또는 다른 위험인자 (예, 고혈압, 당뇨, 이상지질혈증)가 있는 27㎏/m² 이상의 비만환자에 있어 저칼로리 식이와 함께 체중감소 또는 체중유지를 포함한 비만치료 또는 체중 재증가의 위험감소",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:57:44Z",
+   "last_observed_at": "2026-09-08T08:57:44Z",
+   "official_revision_date": "2020-02-10"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:57:44Z"
+}

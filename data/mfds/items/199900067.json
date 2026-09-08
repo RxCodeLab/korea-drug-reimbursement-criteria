@@ -7,11 +7,12 @@
  "permit_date": "20060808",
  "cancel_date": "20230927",
  "status": "폐업",
- "main_item_ingr": "[M040262]산화마그네슘|[M222983]라니티딘염산염|[M088538]수산화알루민산마그네슘|[M216095]규산알루민산마그네슘",
+ "main_item_ingr": "[M040262]산화마그네슘|[M088538]수산화알루민산마그네슘|[M216095]규산알루민산마그네슘|[M222983]라니티딘염산염",
  "main_item_ingr_eng": "Magnesium Aluminium Hydrate/Magnesium Aluminosilicate/Magnesium Oxide/Ranitidine Hydrochloride",
  "edi_code": "",
  "atc_code": "A02AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900067",
+ "history_fetched_at": "2026-08-27T13:42:53Z",
  "revisions": [
   {
    "revision_id": "199900067-a9e6f7dd",
@@ -19,9 +20,9 @@
    "ee_text": "위통, 속쓰림, 소화불량, 구역",
    "ee_doc_id": "11",
    "first_observed_at": "2026-08-27T13:42:53Z",
-   "last_observed_at": "2026-08-27T13:42:53Z",
-   "official_revision_date": "2017-09-23"
+   "last_observed_at": "2026-09-08T08:32:28Z",
+   "official_revision_date": "2017-09-23",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-27T13:42:53Z"
+ ]
 }

@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603029",
+ "item_name": "아이모사정(모사프리드시트르산염수화물)",
+ "entp_name": "(주)아이월드제약",
+ "permit_date": "20160530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234050]모사프리드시트르산염수화물",
+ "main_item_ingr_eng": "Mosapride Citrate Dihydrate",
+ "edi_code": "669604570",
+ "atc_code": "A03FA09",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603029",
+ "revisions": [
+  {
+   "revision_id": "201603029-6e49ab70",
+   "content_sha256": "6e49ab7051abf1f3b818a9080ba4e1e478bcfff9754f1db27de9296b6e39e4c0",
+   "ee_text": "기능성소화불량으로 인한 소화기증상(속쓰림, 구역, 구토)",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:40Z",
+   "last_observed_at": "2026-09-08T08:50:40Z",
+   "official_revision_date": "2019-06-19"
+  },
+  {
+   "revision_id": "201603029-c3fade5c",
+   "content_sha256": "c3fade5c06fe35342ff07ff91fda06cdc6bffdfbadef7c655573584f491644fa",
+   "ee_text": "기능성소화불량으로 인한 소화기증상(속쓰림, 오심, 구토)",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:50:40Z",
+   "last_observed_at": "2026-09-08T08:50:40Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:40Z"
+}

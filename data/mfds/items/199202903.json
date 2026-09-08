@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199202903",
+ "item_name": "참클로람페니콜점안액(수출명:게라펜점안액)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "19920318",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M020122]클로람페니콜",
+ "main_item_ingr_eng": "Chloramphenicol",
+ "edi_code": "649503851",
+ "atc_code": "S01AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199202903",
+ "revisions": [
+  {
+   "revision_id": "199202903-4bc02e1c",
+   "content_sha256": "4bc02e1cf896e1c0332d464b11eaac4b26e494e0defb49acf654bbf3c48c0a3c",
+   "ee_text": "○ 유효균종 트라코마 병원체, 포도구균, 연쇄구균, 임균, 폐렴연쇄구균, 폐렴간균, 인플루엔자균, 모락스-악센펠트균, 코흐-위그스균, 수막염균, 세라티아, 알칼리게네스, 대장균 ○ 적응증 과립성 결막염(트라코마), 결막염(유행성 각결막염 포함), 다래끼, 안검염(안검연염포함), 각막궤양, 각막염 ,누낭염",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:28:33Z",
+   "last_observed_at": "2026-09-08T08:28:33Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:28:33Z"
+}

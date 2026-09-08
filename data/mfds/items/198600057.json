@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198600057",
+ "item_name": "당피롱과립(당귀음자엑스과립)",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19861104",
+ "cancel_date": "20230927",
+ "status": "폐업",
+ "main_item_ingr": "[M243811]당귀음자연조엑스",
+ "main_item_ingr_eng": "Danggwieumja Soft Extract",
+ "edi_code": "",
+ "atc_code": "D11AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600057",
+ "revisions": [
+  {
+   "revision_id": "198600057-b31230a3",
+   "content_sha256": "b31230a39d88b660b84bc3d1511df08980418e3913b79a34d69f8e114ea39064",
+   "ee_text": "냉증인 사람의 다음 증상 : 만성 습진(분비물이 적은 것), 가려움",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:07Z",
+   "last_observed_at": "2026-09-08T08:27:07Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:07Z"
+}

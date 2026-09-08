@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201600528",
+ "item_name": "쿨에버인후스프레이(포비돈요오드)",
+ "entp_name": "신일제약(주)",
+ "permit_date": "20160126",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051757]포비돈요오드",
+ "main_item_ingr_eng": "Povidone Iodine",
+ "edi_code": "",
+ "atc_code": "R02AA15",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600528",
+ "revisions": [
+  {
+   "revision_id": "201600528-af4966b8",
+   "content_sha256": "af4966b86abf4da23efcea15189670b3bc1acb8ec7a8a23aed362f59ed31a52a",
+   "ee_text": "구강내 살균소독, 인두염, 후두염, 구내염, 발치후 및 구내수술후 살균소독, 구취증",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:10Z",
+   "last_observed_at": "2026-09-08T08:50:10Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:10Z"
+}

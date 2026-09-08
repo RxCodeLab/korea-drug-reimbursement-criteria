@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198400285",
+ "item_name": "제일에피네프린주사액",
+ "entp_name": "(주)제일제약",
+ "permit_date": "19841114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040421]에피네프린",
+ "main_item_ingr_eng": "Epinephrine",
+ "edi_code": "650500421",
+ "atc_code": "C01CA24",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400285",
+ "revisions": [
+  {
+   "revision_id": "198400285-c65717ba",
+   "content_sha256": "c65717bac92012416e1cfdcd16be55f2f6b0ca5a58d5f0df01ae00a95b666126",
+   "ee_text": "기관지 천식 발작의 완화, 혈청병. 두드러기. 맥관신경성 부종의 증상 완화, 약물에 의한 쇽. 심정지의 보조치료, 국소마취제 효력의 지속",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:56Z",
+   "last_observed_at": "2026-09-08T08:26:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:56Z"
+}

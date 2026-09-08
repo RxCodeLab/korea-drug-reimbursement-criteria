@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202201040",
+ "item_name": "코발맥정",
+ "entp_name": "(주)다림바이오텍",
+ "permit_date": "20220314",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051415]푸르설티아민|[M096429]시아노코발라민|[M204304]피리독신염산염|[M223289]폴산",
+ "main_item_ingr_eng": "Cyanocobalamin/Folic Acid/Fursultiamine/Pyridoxine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "A11JA",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201040",
+ "revisions": [
+  {
+   "revision_id": "202201040-b9eeec62",
+   "content_sha256": "b9eeec628b03a1273ced85d0403e3bc77b488d37476c9907c26ca4a33dcf5d8c",
+   "ee_text": "○ 다음경우의 비타민B1, B6의 보급 - 육체피로 - 임신ㆍ수유기 - 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력저하시 - 이 약에 함유된 비타민등의 효능ㆍ효과는 다음과 같다. ㆍ다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) ㆍ각기 ㆍ눈의피로",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:11Z",
+   "last_observed_at": "2026-09-08T09:01:11Z",
+   "official_revision_date": "2022-03-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:11Z"
+}

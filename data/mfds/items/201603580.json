@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201603580",
+ "item_name": "라베라즈정20mg(라베프라졸나트륨)",
+ "entp_name": "(주)휴온스메디텍",
+ "permit_date": "20160620",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089852]라베프라졸나트륨",
+ "main_item_ingr_eng": "Rabeprazole Sodium",
+ "edi_code": "670401150",
+ "atc_code": "A02BC04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603580",
+ "revisions": [
+  {
+   "revision_id": "201603580-2cb11ae7",
+   "content_sha256": "2cb11ae740042a72a0ebfe04e9a7cbb61b6e4123eb31f24aa9b6a14a07099d7a",
+   "ee_text": "위궤양, 십이지장궤양 미란성 또는 궤양성 위식도역류질환 위식도역류질환의 증상 완화 위식도역류질환의 장기간 유지요법 헬리코박터필로리에 감염된 소화기 궤양 환자에 대한 항생제 병용요법 졸링거 엘리슨 증후군",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:50:48Z",
+   "last_observed_at": "2026-09-08T08:50:48Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:50:48Z"
+}

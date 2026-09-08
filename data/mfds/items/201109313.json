@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201109313",
+ "item_name": "폴라리스정100mg(아미설프리드)",
+ "entp_name": "유니메드제약(주)",
+ "permit_date": "20111031",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089148]아미설프리드",
+ "main_item_ingr_eng": "Amisulpride",
+ "edi_code": "649506050",
+ "atc_code": "N05AL05",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109313",
+ "revisions": [
+  {
+   "revision_id": "201109313-e34c3acc",
+   "content_sha256": "e34c3acc243bf5f3dc5a433f952a5c262c585f97b7acd639af0ed90b429c99bc",
+   "ee_text": "(정제)(시럽제) 정신분열병",
+   "ee_doc_id": "16",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:56Z",
+   "last_observed_at": "2026-09-08T08:44:56Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:56Z"
+}

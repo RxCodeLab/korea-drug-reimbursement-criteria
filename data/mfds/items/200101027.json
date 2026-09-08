@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101027",
+ "item_name": "디스그렌장용과립캡슐(트리플루살)(수출용)",
+ "entp_name": "명인제약(주)",
+ "permit_date": "20010402",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M220422]트리플루살장용성과립",
+ "main_item_ingr_eng": "Triflusal Enteric Coated Granules",
+ "edi_code": "",
+ "atc_code": "B01AC18",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101027",
+ "revisions": [
+  {
+   "revision_id": "200101027-b4182fd2",
+   "content_sha256": "b4182fd2263c39dbb1420966ee399ae728977d28b346471ac45ae2b571220822",
+   "ee_text": "혈전증에 의한 합병증을 포함한 혈전색전질환 예방과 치료 및 혈소판 응집억제 - 외과수술후 심부정맥 혈전증 및 폐색전증의 예방 - 동맥경화성 기능장애의 예방 - 불안정 협심증으로 인한 급성 심근경색의 예방 - 혈관수술후 혈전증 - 일과성 허혈에 의한 뇌혈관장애 또는 가역적 불완전 신경결핍을 나타내는 뇌혈관장애의 예방 및 증상개선",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:02Z",
+   "last_observed_at": "2026-09-08T08:35:02Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:02Z"
+}

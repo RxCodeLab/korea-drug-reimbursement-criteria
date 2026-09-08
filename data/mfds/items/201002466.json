@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201002466",
+ "item_name": "다네옥시8.6(산화에틸렌)",
+ "entp_name": "단일시스켐(주)",
+ "permit_date": "20100401",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M082159]산화에칠렌",
+ "main_item_ingr_eng": "Ethylene Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002466",
+ "revisions": [
+  {
+   "revision_id": "201002466-f544b5cb",
+   "content_sha256": "f544b5cb6a0bbce09dc8c372b899c34b97e5e439b9e94436bf479e9769ad3efa",
+   "ee_text": "고온이나 습도에 민감한 섬세하고 예리한 외과기구, 안이비과, 성형외과기구, 현미경 미세 수술기구, 장비의부속품, 플라스틱 및 다공성 물질, 전기기구 등 의료용 기기의 멸균",
+   "ee_doc_id": "3",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:43:55Z",
+   "last_observed_at": "2026-09-08T08:43:55Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:43:55Z"
+}

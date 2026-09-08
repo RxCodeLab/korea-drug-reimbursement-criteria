@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200806020",
+ "item_name": "에락시스주100밀리그램(아니둘라펀진과당혼합물)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20080530",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M234183]아니둘라펀진과당혼합물",
+ "main_item_ingr_eng": "Anidulafungin Fructose Mixture",
+ "edi_code": "648901311",
+ "atc_code": "J02AX06",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806020",
+ "revisions": [
+  {
+   "revision_id": "200806020-29abfb5e",
+   "content_sha256": "29abfb5e45ee19628d8a108f1327fa9adce2bcd6142433ee1e6a70327a15dcee",
+   "ee_text": "1. 유효균종 임상시험을 위해 분리하여 얻은 원인 균주의 대부분은 Candida albicans, Candida glabrata, Candida krusei, Candida Parapsilosis, Candida tropicalis 였으며 그 외 다른 Candida 균도 소수 관찰되었다. 2. 적응증 성인 및 생후 1개월 이상 소아환자의 침습성 칸디다증 치료 (이 약은 심내막염, 골수염, 뇌수막염에 대해서는 연구된 바 없음) 원인 병원균을 분리하고 확인하기 위해 치료를 시작하기에 앞서, 우선 진균 배양 및 조직 병리학을 비롯한 그 밖의 실험실적 검사를 위한 검체가 얻어져야 한다. 이 약을 사용한 치료법은 원인균 배양결과 또는 다른 실험적 검사 결과가 나오기 전에 시작될 수 있다. 그러나 일단 이러한 검사 결과가 유력해지면 항진균 요법은 이에 따라 조절되어야 한다.",
+   "ee_doc_id": "33",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:42:34Z",
+   "last_observed_at": "2026-09-08T08:42:34Z",
+   "official_revision_date": "2021-07-06"
+  },
+  {
+   "revision_id": "200806020-537cd499",
+   "content_sha256": "537cd499f8f357c5ae09ef58bfcc1676db63e5e82e04b4318d05cf0846a6d5c5",
+   "ee_text": "1. 유효균종 임상시험을 위해 분리하여 얻은 원인 균주의 대부분은 Candida albicans, Candida glabrata, Candida krusei, Candida Parapsilosis, Candida tropicalis 였으며 그 외 다른 Candida 균도 소수 관찰되었다. 2. 적응증 성인 환자의 침습성 칸디다증 치료 (이 약은 심내막염, 골수염, 뇌수막염에 대해서는 연구된 바 없음) 원인 병원균을 분리하고 확인하기 위해 치료를 시작하기에 앞서, 우선 진균 배양 및 조직 병리학을 비롯한 그 밖의 실험실적 검사를 위한 검체가 얻어져야 한다. 이 약을 사용한 치료법은 원인균 배양결과 또는 다른 실험적 검사 결과가 나오기 전에 시작될 수 있다. 그러나 일단 이러한 검사 결과가 유력해지면 항진균 요법은 이에 따라 조절되어야 한다.",
+   "ee_doc_id": "22",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:42:34Z",
+   "last_observed_at": "2026-09-08T08:42:34Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:42:34Z"
+}

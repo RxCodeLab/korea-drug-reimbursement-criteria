@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200302198",
+ "item_name": "세프렉신주1그램(세팔렉신나트륨수화물)(수출용)",
+ "entp_name": "(주)유영제약",
+ "permit_date": "20030825",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250713]세팔렉신나트륨수화물",
+ "main_item_ingr_eng": "Cefalexin Sodium Hydrate",
+ "edi_code": "",
+ "atc_code": "J01DB01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302198",
+ "revisions": [
+  {
+   "revision_id": "200302198-fd9e81ea",
+   "content_sha256": "fd9e81eab8781624f975ab6ea7c4e15ffa7c6edff9512f61a7e7bea90c422516",
+   "ee_text": "o 유효균종 황색포도구균, 표피포도구균, 화농성 연쇄구균, 폐렴구균, 대장균, 프로테우스 미라빌리스, 엔테로박터속, 인플루엔자균, 클레브시엘라속, 장내구균, 임균 o 적응증 1. 주효능 효과 인후두염, 기관지염, 기관지폐렴, 폐렴, 요도염, 방광염, 신우신염, 모낭염, 조위염, 표저, 농피증, 화농성피부염, 중이염",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:37:11Z",
+   "last_observed_at": "2026-09-08T08:37:11Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:37:11Z"
+}

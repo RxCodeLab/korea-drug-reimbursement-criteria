@@ -1,0 +1,38 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200403234",
+ "item_name": "메조필린주사(펜톡시필린)",
+ "entp_name": "명문제약(주)",
+ "permit_date": "20041103",
+ "cancel_date": "20241001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M051736]펜톡시필린",
+ "main_item_ingr_eng": "Pentoxifylline",
+ "edi_code": "",
+ "atc_code": "C04AD03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403234",
+ "revisions": [
+  {
+   "revision_id": "200403234-32d41c04",
+   "content_sha256": "32d41c04bfba3b10dac0c1df6bf6cbf08f774b80bffc8b5af07ab4b9e10d8d8f",
+   "ee_text": "말초동맥순환장애(간헐성파행) 초기 치료 및 경구치료 시 보조요법",
+   "ee_doc_id": "15",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:17Z",
+   "last_observed_at": "2026-09-08T08:38:17Z",
+   "official_revision_date": "2022-09-26"
+  },
+  {
+   "revision_id": "200403234-ae9f93c9",
+   "content_sha256": "ae9f93c9ca3536d805e4c485bf902b55f4e1ff2d18471e80f0aff2143b19c794",
+   "ee_text": "1. 뇌순환장애(허혈 및 뇌졸증후증상, 어지러움.두통.건망증 등 뇌동맥경화증 증상) 2. 눈의 혈류순환장애 3. 말초동맥순환장애(간헐성파행, 휴식시 동통,당뇨병혈관병증, 위축증, 혈관신경병증)",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-09-23",
+   "first_observed_at": "2026-09-08T08:38:17Z",
+   "last_observed_at": "2026-09-08T08:38:17Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:17Z"
+}

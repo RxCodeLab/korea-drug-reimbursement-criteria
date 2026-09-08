@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201309604",
+ "item_name": "크라시에소청룡탕엑스세립",
+ "entp_name": "경방신약(주)",
+ "permit_date": "20131008",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M104005]소청룡탕엑스",
+ "main_item_ingr_eng": "Socheongryongtang Extract",
+ "edi_code": "",
+ "atc_code": "R05X",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309604",
+ "revisions": [
+  {
+   "revision_id": "201309604-e4a5f91e",
+   "content_sha256": "e4a5f91ea7da4bc76cf2af8abb579e30c60020daf2ce385e5105aae71d66a9ce",
+   "ee_text": "기관지염, 기관지천식, 콧물, 묽은 가래를 수반하는 기침, 비염",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:46:24Z",
+   "last_observed_at": "2026-09-08T08:46:24Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:46:24Z"
+}

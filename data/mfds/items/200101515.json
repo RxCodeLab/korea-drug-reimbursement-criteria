@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200101515",
+ "item_name": "파마메토카르바몰정250밀리그램(수출용)",
+ "entp_name": "(주)한국파마",
+ "permit_date": "20010419",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M200536]메토카바몰",
+ "main_item_ingr_eng": "Methocarbamol",
+ "edi_code": "",
+ "atc_code": "M03BA03",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101515",
+ "revisions": [
+  {
+   "revision_id": "200101515-ff1d3a59",
+   "content_sha256": "ff1d3a599b7cf1c552a1a2af92f457fc5265c30b00434868aac2735898595421",
+   "ee_text": "근골격계 질환에 수반하는 동통(통증)성 연축(뒤당김/수축) : 요배통증(허리, 등 통증), 경견완증후군(목어깨팔증후군), 견관절(어깨관절) 주위염, 변행성 척추증",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:35:12Z",
+   "last_observed_at": "2026-09-08T08:35:12Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:35:12Z"
+}

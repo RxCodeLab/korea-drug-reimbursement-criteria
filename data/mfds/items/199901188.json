@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "199901188",
+ "item_name": "알타질주(주사용아스피린리신90%)",
+ "entp_name": "일양약품(주)",
+ "permit_date": "19990807",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M089224]주사용아스피린리신90%",
+ "main_item_ingr_eng": "Aspirin Lysine For Injection 90%",
+ "edi_code": "",
+ "atc_code": "N02BA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901188",
+ "revisions": [
+  {
+   "revision_id": "199901188-dbd9de82",
+   "content_sha256": "dbd9de826a11234667c0ffa5afdae1e2bd452be93f312a21c6addd5db72112ec",
+   "ee_text": "암성동통, 수술후 동통",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:32:41Z",
+   "last_observed_at": "2026-09-08T08:32:41Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:32:41Z"
+}

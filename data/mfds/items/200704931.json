@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200704931",
+ "item_name": "데올론건조시럽20%(테오필린)(수출용)",
+ "entp_name": "코오롱제약(주)",
+ "permit_date": "20070427",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040643]테오필린",
+ "main_item_ingr_eng": "Theophylline",
+ "edi_code": "",
+ "atc_code": "R03DA04",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704931",
+ "revisions": [
+  {
+   "revision_id": "200704931-614f17fd",
+   "content_sha256": "614f17fd157fbd462aba10fc16e246abeb702f67a92b1464d4d5bfb564475751",
+   "ee_text": "다음 질환의 기도폐쇄 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 천식기관지염",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:41:26Z",
+   "last_observed_at": "2026-09-08T08:41:26Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:41:26Z"
+}

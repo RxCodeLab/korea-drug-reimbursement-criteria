@@ -7,11 +7,12 @@
  "permit_date": "20210526",
  "cancel_date": "20260526",
  "status": "유효기간만료",
- "main_item_ingr": "[M040678]판크레아틴|[M100297]셀룰라제|[M268886]우담즙건조엑스|[M227778]디메티콘|[M256386]글리시리진산이칼륨",
+ "main_item_ingr": "[M040678]판크레아틴|[M100297]셀룰라제|[M227778]디메티콘|[M256386]글리시리진산이칼륨|[M268886]우담즙건조엑스",
  "main_item_ingr_eng": "Cellulase/Dimethicone/Dipotassium Glycyrrhizinate/Ox Bile Dried Extract/Pancreatin",
  "edi_code": "",
  "atc_code": "A09AA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104162",
+ "history_fetched_at": "2026-08-28T13:25:24Z",
  "revisions": [
   {
    "revision_id": "202104162-286238c3",
@@ -19,9 +20,9 @@
    "ee_text": "소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:24Z",
-   "last_observed_at": "2026-08-28T13:25:24Z",
-   "official_revision_date": "2021-05-26"
+   "last_observed_at": "2026-09-08T09:00:14Z",
+   "official_revision_date": "2021-05-26",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:24Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202401916",
+ "item_name": "사미골린정10밀리그램(니세르골린)",
+ "entp_name": "동국제약(주)",
+ "permit_date": "20240806",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M070142]니세르골린",
+ "main_item_ingr_eng": "Nicergoline",
+ "edi_code": "653405810",
+ "atc_code": "C04AE02",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401916",
+ "revisions": [
+  {
+   "revision_id": "202401916-3fd7d5b8",
+   "content_sha256": "3fd7d5b81a9b9ca0168c074eeb136654ac11db625d291bb86d55a34515d44115",
+   "ee_text": "- 뇌경색 후유증에 수반되는 만성뇌순환장애에 의한 의욕저하의 개선 - 노인 동맥경화성 두통 - 고혈압의 보조요법",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:03:12Z",
+   "last_observed_at": "2026-09-08T09:03:12Z",
+   "official_revision_date": "2024-08-06"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:03:12Z"
+}

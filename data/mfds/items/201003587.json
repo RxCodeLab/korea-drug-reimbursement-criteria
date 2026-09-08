@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201003587",
+ "item_name": "온다론주(염산온단세트론이수화물)(수출용)(수출명:①Ondaon Inj. ②Ondansetron-Asteria Inj. ③MEDIBILS Ondansetron)",
+ "entp_name": "한국코러스(주)",
+ "permit_date": "20100519",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M086743]염산온단세트론이수화물",
+ "main_item_ingr_eng": "Ondansetron Hydrochloride Hydrate",
+ "edi_code": "",
+ "atc_code": "A04AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003587",
+ "revisions": [
+  {
+   "revision_id": "201003587-1bbf8094",
+   "content_sha256": "1bbf8094c729c4eaa732ea32a47d7fd47728a61f97a30b687d62e325d4d013fe",
+   "ee_text": "1. 주효능 효과 세포독성을 유발하는 화학요법 또는 방사선요법에 의한 구역과 구토, 수술 후 구역과 구토의 예방 및 치료",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:44:03Z",
+   "last_observed_at": "2026-09-08T08:44:03Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:44:03Z"
+}

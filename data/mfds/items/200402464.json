@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200402464",
+ "item_name": "네프리스에스정(수출용)",
+ "entp_name": "(주)팜젠사이언스",
+ "permit_date": "20040512",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M284617]오르소시폰엽40%에탄올건조엑스(5→1)|[M284618]레스트애로우근30%에탄올건조엑스(6.5→1)|[M284619]골든로드50%에탄올건조엑스(5.5→1)",
+ "main_item_ingr_eng": "Goldenrod 50% Ethanol Dried Extract (5.5→1)/Orthosiphonis Folium 40% Ethanol Dried Extract (5→1)/Restarrow Root 30% Ethanol Dried Extract (6.5→1)",
+ "edi_code": "",
+ "atc_code": "G04BX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402464",
+ "revisions": [
+  {
+   "revision_id": "200402464-da3f76b8",
+   "content_sha256": "da3f76b8178fc6349600f4c6412e3e00aafaca0b9c94c0f4b7e39baf70e3cfa0",
+   "ee_text": "급 만성 방광염, 신장염, 방광 및 신장 결석의 치료보조",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:38:05Z",
+   "last_observed_at": "2026-09-08T08:38:05Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:38:05Z"
+}

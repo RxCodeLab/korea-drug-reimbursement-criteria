@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198301330",
+ "item_name": "한풍형방패독산엑스과립",
+ "entp_name": "(주)한풍제약",
+ "permit_date": "19830827",
+ "cancel_date": "20231001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M096436]형방패독산연조엑스",
+ "main_item_ingr_eng": "Hyeongbangpaedoksan Soft Extract",
+ "edi_code": "",
+ "atc_code": "D11AX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198301330",
+ "revisions": [
+  {
+   "revision_id": "198301330-95380542",
+   "content_sha256": "9538054227e2e49650d487cf8fa3bad9dcb1ac2ed00a5508eb9e6eb9122a22f8",
+   "ee_text": "머리와 얼굴부위가 붉어지며 열이 나는 증상",
+   "ee_doc_id": "8",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:26:54Z",
+   "last_observed_at": "2026-09-08T08:26:54Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:26:54Z"
+}

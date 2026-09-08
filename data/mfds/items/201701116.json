@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201701116",
+ "item_name": "데스코비정 200/10 mg",
+ "entp_name": "길리어드사이언스코리아(유)",
+ "permit_date": "20170228",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250026]엠트리시타빈|[M278212]테노포비르알라페나미드헤미푸마르산염",
+ "main_item_ingr_eng": "Emtricitabine/Tenofovir Alafenamide HemiFumarate",
+ "edi_code": "625900110",
+ "atc_code": "J05AR17",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701116",
+ "revisions": [
+  {
+   "revision_id": "201701116-3d9565cb",
+   "content_sha256": "3d9565cb0ecd967d30446c57c500254f64247e34903dacb06eb7d4aab00113b1",
+   "ee_text": "성인 및 청소년(만 12세 이상으로 체중 35 kg 이상)의 인간 면역 결핍 바이러스 1형(HIV-1) 감염 치료를 위해 다른 항레트로바이러스 제제와 병용",
+   "ee_doc_id": "9",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:51:36Z",
+   "last_observed_at": "2026-09-08T08:51:36Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:51:36Z"
+}

@@ -7,11 +7,12 @@
  "permit_date": "20191205",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M270667]농축콜레칼시페롤(분말형)|[M051564]탄산칼슘",
+ "main_item_ingr": "[M051564]탄산칼슘|[M270667]농축콜레칼시페롤(분말형)",
  "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate Powder",
  "edi_code": "644604030",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908257",
+ "history_fetched_at": "2026-08-28T13:25:13Z",
  "revisions": [
   {
    "revision_id": "201908257-03093013",
@@ -19,8 +20,9 @@
    "ee_text": "1. 다음 경우의 비타민 D의 보급 - 임신·수유기, 발육기, 노년기 - 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. · 뼈, 이의 발육불량 · 구루병의 예방 2. 칼슘 결핍 및 기타 칼슘의 보급",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:25:13Z",
-   "last_observed_at": "2026-08-28T13:25:13Z",
-   "official_revision_date": "2025-02-17"
+   "last_observed_at": "2026-09-08T08:57:13Z",
+   "official_revision_date": "2025-02-17",
+   "normalizer_version": 3
   },
   {
    "revision_id": "201908257-832c7164",
@@ -31,6 +33,5 @@
    "first_observed_at": "2026-08-28T13:25:13Z",
    "last_observed_at": "2026-08-28T13:25:13Z"
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:13Z"
+ ]
 }

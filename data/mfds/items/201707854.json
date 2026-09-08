@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201707854",
+ "item_name": "솔리쿠아펜주(30-60)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20171109",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M118341]릭시세나티드|[M201508]인슐린글라진(유전자재조합)",
+ "main_item_ingr_eng": "Insulin Glargine (rDNA)/Lixisenatide",
+ "edi_code": "652001071",
+ "atc_code": "A10AE54",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707854",
+ "revisions": [
+  {
+   "revision_id": "201707854-bd90364f",
+   "content_sha256": "bd90364f87012a662ecc9f0c00c6fe05cf2fbb2e76b2e5f5ba0c9f3bb7f397da",
+   "ee_text": "이 약은 운동과 식이에 대한 보조제로서, 성인 제2형 당뇨병 환자의 혈당 조절을 향상시키기 위하여 다음의 경우 투여한다. - 경구 혈당강하제의 병용투여 이후 혈당조절 효과가 불충분한 경우 이 약과 메트포르민을 병용 투여 - 기저 인슐린 단독 투여 이후 혈당조절효과가 불충분한 경우 이 약 투여 - 기저 인슐린과 경구 혈당강하제의 병용투여 이후 혈당조절 효과가 불충분한 경우 이 약과 경구 혈당강하제를 병용 투여 - GLP-1 수용체 효능제와 경구 혈당강하제의 병용투여 이후 혈당조절 효과가 불충분한 경우 이 약과 경구 혈당강하제를 병용 투여",
+   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201707854/EE",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:52:32Z",
+   "last_observed_at": "2026-09-08T08:52:32Z"
+  },
+  {
+   "revision_id": "201707854-e11736d0",
+   "content_sha256": "e11736d025f2a2d5b06a1d9a9feb644773deb19b93808bb341a03b80a7edf28d",
+   "ee_text": "이 약은 운동과 식이에 대한 보조제로서, 성인 제2형 당뇨병 환자의 혈당 조절을 향상시키기 위하여 다음의 경우 투여한다. - 경구 혈당강하제의 병용투여 이후 혈당조절 효과가 불충분한 경우 이 약과 메트포르민을 병용 투여 - 기저 인슐린 단독 투여 이후 혈당조절효과가 불충분한 경우 이 약 투여 - 기저 인슐린과 경구 혈당강하제의 병용투여 이후 혈당조절 효과가 불충분한 경우 이 약과 경구 혈당강하제를 병용 투여 - GLP-1 수용체 효능제와 경구 혈당강하제의 병용투여 이후 혈당조절 효과가 불충분한 경우 이 약과 혈당강하제를 병용 투여",
+   "ee_doc_id": "11",
+   "normalizer_version": 3,
+   "official_revision_date": "2021-07-23",
+   "first_observed_at": "2026-09-08T08:52:32Z",
+   "last_observed_at": "2026-09-08T08:52:32Z"
+  },
+  {
+   "revision_id": "201707854-5206d131",
+   "content_sha256": "5206d131a32fa702d0c7fe2f2c6c3a3006691581ad4149ee57c79b24c88ecd17",
+   "ee_text": "이 약은 성인 제2형 당뇨병 환자의 혈당 조절을 향상시키기 위하여 다음의 경우 투여한다. -메트포르민과 다른 경구 혈당강하제병용 투여 이후 혈당조절효과가 불충분한 경우 이 약과 메트포르민을 병용 투여 -기저 인슐린 단독 투여 이후 혈당조절효과가 불충분한 경우 이 약 투여 -기저인슐린과 메트포르민 병용 투여 이후 혈당조절이 불충분한 경우 이 약과 메트포르민을 병용 투여",
+   "ee_doc_id": "2",
+   "normalizer_version": 3,
+   "official_revision_date": "2017-11-09",
+   "first_observed_at": "2026-09-08T08:52:32Z",
+   "last_observed_at": "2026-09-08T08:52:32Z"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:52:32Z"
+}

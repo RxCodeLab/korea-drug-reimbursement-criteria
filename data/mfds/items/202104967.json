@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202104967",
+ "item_name": "피드로씨알서방정(레보드로프로피진)",
+ "entp_name": "한국프라임제약(주)",
+ "permit_date": "20210630",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253916]레보드로프로피진|[M253916]레보드로프로피진",
+ "main_item_ingr_eng": "Levodropropizine",
+ "edi_code": "663608470",
+ "atc_code": "R05DB27",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104967",
+ "revisions": [
+  {
+   "revision_id": "202104967-2d59075b",
+   "content_sha256": "2d59075b7ad0189bb7a1a4a18d5c398bac6a4898bc5736e132af7688550490f3",
+   "ee_text": "다음 질환에서의 기침 : 급·만성기관지염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:00:19Z",
+   "last_observed_at": "2026-09-08T09:00:19Z",
+   "official_revision_date": "2021-06-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:00:19Z"
+}

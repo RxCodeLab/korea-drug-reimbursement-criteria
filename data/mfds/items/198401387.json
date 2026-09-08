@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "198401387",
+ "item_name": "제일모르핀염산염주사액",
+ "entp_name": "(주)제일제약",
+ "permit_date": "19841114",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M230907]모르핀염산염수화물",
+ "main_item_ingr_eng": "Morphine Hydrochloride Hydrate",
+ "edi_code": "650500441,650500451",
+ "atc_code": "N02AA01",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198401387",
+ "revisions": [
+  {
+   "revision_id": "198401387-240f8144",
+   "content_sha256": "240f8144935ce3ccf91ccabcf6656ffaf77fda45b40efd827f580ff13bcd54e2",
+   "ee_text": "1. 심한 통증의 완화 2. 심한 기침발작의 진정 3. 전신마취의 보조",
+   "ee_doc_id": "4",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:27:00Z",
+   "last_observed_at": "2026-09-08T08:27:00Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:27:00Z"
+}

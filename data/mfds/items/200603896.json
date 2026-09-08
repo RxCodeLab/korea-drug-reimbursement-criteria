@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200603896",
+ "item_name": "패스터텍주1.5밀리그램(라스부리카제)",
+ "entp_name": "(주)사노피-아벤티스코리아",
+ "permit_date": "20060420",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M096158]라스부리카제",
+ "main_item_ingr_eng": "Rasburicase",
+ "edi_code": "652000551",
+ "atc_code": "V03AF07",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603896",
+ "revisions": [
+  {
+   "revision_id": "200603896-a063f87a",
+   "content_sha256": "a063f87a9b6510b697c2a2fa4868d5070983b482a3e07025da44c0a9a074ab40",
+   "ee_text": "화학요법중인 악성종양 환자에서의 고뇨산혈증",
+   "ee_doc_id": "23",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:59Z",
+   "last_observed_at": "2026-09-08T08:39:59Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:59Z"
+}

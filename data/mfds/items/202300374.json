@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202300374",
+ "item_name": "유코백-19멀티주(사스코로나바이러스-2 표면항원 백신(유전자재조합))(수출용)",
+ "entp_name": "(주)유바이오로직스",
+ "permit_date": "20230130",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M283471]재조합 사스 코로나바이러스-2 스파이크 단백질 RBD 항원(숙주: CHO-S, 벡터: CE-124)",
+ "main_item_ingr_eng": "SARS-CoV-2 Spike Protein Receptor Binding Domain Antigen (Recombinant) (Host: CHO-S, Vector: CE-124)",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300374",
+ "revisions": [
+  {
+   "revision_id": "202300374-fd65fd58",
+   "content_sha256": "fd65fd58920a3dc1e0ca16b4bc8333766083313893eb1fb60fb1ea4babf6b4b2",
+   "ee_text": "18세 이상에서 SARS-CoV-2 바이러스에 의한 코로나-19의 예방",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T09:01:50Z",
+   "last_observed_at": "2026-09-08T09:01:50Z",
+   "official_revision_date": "2023-01-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T09:01:50Z"
+}

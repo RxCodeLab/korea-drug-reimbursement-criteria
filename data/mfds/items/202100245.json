@@ -12,6 +12,7 @@
  "edi_code": "",
  "atc_code": "N01BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100245",
+ "history_fetched_at": "2026-08-28T13:25:23Z",
  "revisions": [
   {
    "revision_id": "202100245-ccacdbbd",
@@ -19,9 +20,9 @@
    "ee_text": "가벼운 통증의 일시적인 완화",
    "ee_doc_id": "1",
    "first_observed_at": "2026-08-28T13:25:23Z",
-   "last_observed_at": "2026-08-28T13:25:23Z",
-   "official_revision_date": "2021-01-08"
+   "last_observed_at": "2026-09-08T08:59:50Z",
+   "official_revision_date": "2021-01-08",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:23Z"
+ ]
 }

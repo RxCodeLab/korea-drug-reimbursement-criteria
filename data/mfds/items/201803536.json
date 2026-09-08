@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "201803536",
+ "item_name": "신신물파스에스에스(수출용)",
+ "entp_name": "신신제약(주)",
+ "permit_date": "20180830",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M203279]살리실산메틸|[M204423]dl-캄파|[M223211]클로르페니라민말레산염|[M223254]티몰|[M230875]l-멘톨",
+ "main_item_ingr_eng": "Chlorpheniramine Maleate/DL-Camphor/L-Menthol/Methyl Salicylate/Thymol",
+ "edi_code": "",
+ "atc_code": "M02AC",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803536",
+ "revisions": [
+  {
+   "revision_id": "201803536-f2c5c90f",
+   "content_sha256": "f2c5c90f56af7bcebe6083e1c2d0480aaf46846601d32874d87d28dee79c5797",
+   "ee_text": "- 다음 증상의 진통 · 소염(항염) : 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 신경통, 류마티스통증 - 피부 가려움, 벌레 물린데 - 동창(언 상처)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:53:34Z",
+   "last_observed_at": "2026-09-08T08:53:34Z",
+   "official_revision_date": "2018-08-30"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:53:34Z"
+}

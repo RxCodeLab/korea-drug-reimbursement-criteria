@@ -12,16 +12,17 @@
  "edi_code": "",
  "atc_code": "A11JB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007130",
+ "history_fetched_at": "2026-08-28T13:25:21Z",
  "revisions": [
   {
-   "revision_id": "202007130-e3b0c442",
-   "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "ee_text": "",
+   "revision_id": "202007130-f4c38045",
+   "content_sha256": "f4c380456b71146f35862c7b930c94017bbfacc13f9babf1c0f07cefffbfcf57",
+   "ee_text": "1. 다음 경우의 비타민 B₁의 보급 : 육체피로, 임신‧수유기, 병중‧병후(병을 앓는 동안이나 회복 후)의 체력저하시 2. 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다. - 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 어깨결림 등) - 각기, 눈의 피로 3. 셀레늄의 보급",
    "ee_doc_id": "6",
    "first_observed_at": "2026-08-28T13:25:21Z",
-   "last_observed_at": "2026-08-28T13:25:21Z",
-   "official_revision_date": "2024-01-24"
+   "last_observed_at": "2026-09-08T08:59:32Z",
+   "official_revision_date": "2024-01-24",
+   "normalizer_version": 3
   }
- ],
- "history_fetched_at": "2026-08-28T13:25:21Z"
+ ]
 }

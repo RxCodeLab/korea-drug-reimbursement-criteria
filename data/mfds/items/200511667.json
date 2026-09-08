@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "200511667",
+ "item_name": "옵티졸지에스액",
+ "entp_name": "(주)제니스팜",
+ "permit_date": "20050513",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M202821]겐타마이신황산염|[M203395]스트렙토마이신황산염",
+ "main_item_ingr_eng": "Gentamicin Sulfate/Streptomycin Sulfate",
+ "edi_code": "660300020",
+ "atc_code": "S01KX",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511667",
+ "revisions": [
+  {
+   "revision_id": "200511667-8ac788b6",
+   "content_sha256": "8ac788b63bdcfa8982f680cf721117bfe28189354bb215aef519dbb0427f75b7",
+   "ee_text": "각막이식을 위한 각막의 보존(4℃에서 14일간 보존)",
+   "ee_doc_id": "5",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-08T08:39:39Z",
+   "last_observed_at": "2026-09-08T08:39:39Z",
+   "official_revision_date": "2017-09-23"
+  }
+ ],
+ "history_fetched_at": "2026-09-08T08:39:39Z"
+}
