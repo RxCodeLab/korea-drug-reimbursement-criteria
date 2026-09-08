@@ -9,7 +9,7 @@ from pathlib import Path
 # 환경 문제(pypdf 미설치)는 문서 오류로 위장되지 않고 import 시점에 그대로 터져야 한다.
 from pypdf import PdfReader
 
-PARSER_VERSION = "documents-15-rhwp-0.8.4"
+PARSER_VERSION = "documents-16-rhwp-0.8.4"
 _MAX_RHWP_OUTPUT = 128 * 1024 * 1024
 _MAX_STDERR = 8 * 1024
 _HEADER = re.compile(r"^\[(?:\d{3}|일반원칙)\](?:\s+\S.*)?$")
@@ -124,6 +124,23 @@ def _joined_label(parts: list[str]) -> str:
     return " ".join(unique)
 
 
+_HYPHEN_LINEBREAK = re.compile(r"([A-Za-z])-\n(?=[a-z])")
+
+
+def _dehyphenate_cell_text(text: str) -> str:
+    """Standard hyphenation across a cell line break only: join without space.
+
+    Only handles trailing ``<letter>-`` followed by a lowercase continuation
+    on the next line (e.g. ``Thiazoli-\ndinedione`` -> ``Thiazolidinedione``).
+    Any other line break (including hyphen-less lowercase-to-lowercase breaks
+    like ``ipragli\nflozin``) is left as a normal whitespace join, since there
+    is no reliable signal in the source to distinguish an intentional space
+    from an author's line wrap.
+    """
+    joined = _HYPHEN_LINEBREAK.sub(r"\1", text)
+    return re.sub(r"\s+", " ", joined).strip()
+
+
 def _render_table_grid(table: dict[str, object]) -> str:
     """중첩 표를 텍스트로 만든다.
 
@@ -151,7 +168,7 @@ def _render_table_grid(table: dict[str, object]) -> str:
                 or isinstance(col_span, bool) or not isinstance(col_span, int) or col_span < 1
                 or not isinstance(text, str)):
             raise ExtractionError("rhwp JSON 중첩 표 셀 필드가 잘못되었습니다")
-        value = re.sub(r"\s+", " ", text).strip()
+        value = _dehyphenate_cell_text(text)
         for fill_row in range(row, min(row + row_span, rows)):
             for fill_column in range(column, min(column + col_span, cols)):
                 grid[fill_row][fill_column] = value

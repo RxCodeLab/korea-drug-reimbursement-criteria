@@ -295,6 +295,41 @@ def test_rhwp_renders_plain_list_table_as_grid() -> None:
     assert rendered == "[표]" + chr(10) + "성분군 | 성분명" + chr(10) + "Biguanide계 | Metformin HCl"
 
 
+def test_dehyphenate_cell_text_joins_hyphenated_line_break() -> None:
+    """표준 하이픈 분철(`Thiazoli-` + `dinedione`)은 하이픈 없이 붙인다."""
+    assert documents._dehyphenate_cell_text("Thiazoli-\ndinedione") == "Thiazolidinedione"
+
+
+def test_dehyphenate_cell_text_keeps_space_for_normal_line_break() -> None:
+    """정상 줄바꿈(공백 구분)은 기존대로 공백으로 잇는다."""
+    assert documents._dehyphenate_cell_text("인정\n기준") == "인정 기준"
+
+
+def test_dehyphenate_cell_text_keeps_hyphen_and_space_when_ambiguous() -> None:
+    """하이픈 뒤 대문자/숫자로 이어지면 분철이 아니므로 하이픈과 공백을 유지한다."""
+    assert documents._dehyphenate_cell_text("α-glucosidase\ninhibitor") == "α-glucosidase inhibitor"
+    assert documents._dehyphenate_cell_text("SGLT-2\ninhibitor") == "SGLT-2 inhibitor"
+
+
+def test_dehyphenate_cell_text_leaves_hyphenless_lowercase_break_untouched() -> None:
+    """하이픈 없는 소문자→소문자 줄바꿈(ipragli/flozin류)은 판별 근거가 없어 공백으로 남긴다."""
+    assert documents._dehyphenate_cell_text("ipragli\nflozin") == "ipragli flozin"
+    assert documents._dehyphenate_cell_text("dapagli\nflozin") == "dapagli flozin"
+
+
+def test_rhwp_render_table_grid_dehyphenates_cell_text() -> None:
+    """표 렌더링 경로에서도 셀 줄바꿈 하이픈 분철이 적용된다."""
+    cells = [
+        {"row": 0, "col": 0, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "Thiazoli-\ndinedione"},
+        {"row": 0, "col": 1, "rowSpan": 1, "colSpan": 1, "isHeader": False, "text": "α-glucosidase\ninhibitor"},
+    ]
+    table = {"rows": 1, "cols": 2, "cellCount": len(cells), "cells": cells}
+
+    rendered = documents._render_table_grid(table)
+
+    assert rendered == "[표]\nThiazolidinedione | α-glucosidase inhibitor"
+
+
 def test_rhwp_keeps_nested_tables_with_their_owning_cells() -> None:
     """서로 다른 셀의 중첩 표는 각자 자기 셀 뒤에 남아야 한다."""
     def small(text):
