@@ -75,6 +75,10 @@ jobs:
         env:
           RHWP_BIN: rhwp
         run: python -m pytest -q
+      # 검색 스크립트(assets/search-core.js)는 파이썬 테스트가 닿지 않으므로 Node 내장
+      # 러너로 따로 돌린다. 외부 의존성이 없어 setup-node 없이 러너 기본 node로 충분하다.
+      - name: Run search script tests
+        run: node --test tests/*.test.js
       # 법제처 장애(해외 IP 시간대 제한 등) 시에도 뒤 단계를 막지 않는다.
       # 급여기준 신규분만 다음 성공 런으로 미뤄지고, 불완전 자료는 ingest/verify가 걸러낸다.
       # 실패는 report-upstream job이 issue로 알린다.

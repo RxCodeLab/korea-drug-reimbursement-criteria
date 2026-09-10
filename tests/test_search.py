@@ -1,4 +1,5 @@
 import json
+import re
 
 import pytest
 
@@ -203,6 +204,53 @@ def test_has_clean_current_text_rejects_only_stale_markup_leftovers():
     })
 
 
+def test_search_script_inlines_core_before_ui_with_no_placeholders_left():
+    """검색 JS는 assets/의 두 파일에서 오고, core가 ui보다 먼저 실려야 한다.
+
+    ui 첫 줄이 SearchCore를 구조 분해하므로 순서가 뒤집히면 페이지 전체가 죽는다.
+    """
+    script = build_site.search_script()
+    assert script.index("const SearchCore=") < script.index("}=SearchCore;")
+    assert "module.exports=SearchCore" in script  # Node 테스트가 잡을 수 있는 형태
+
+    page = build_site.render_index_page([], "")
+    assert "__SEARCH_JS__" not in page
+    # 주입 플레이스홀더가 하나라도 남으면 문법 오류가 된다.
+    assert not re.search(r"__[A-Z_]+__", page), "치환되지 않은 플레이스홀더가 남았습니다"
+    assert "const SearchCore=" in page and "}=SearchCore;" in page
+
+
+def test_encode_mfds_index_round_trips_every_row():
+    """사전 인코딩은 되돌리면 원래 행과 정확히 같아야 한다 — 브라우저가 이 규칙으로 복원한다."""
+    fields = list(build_site.MFDS_INDEX_FIELDS)
+    rows = [
+        ["1", "가정", "제약갑", "성분A", "IngredientA", "20200101", 2, "a" * 12],
+        ["2", "나정", "제약갑", "성분A", "IngredientA", "20200101", 1, "b" * 12],
+        ["3", "다정", "제약을", "성분B", "", "20210202", 3, "a" * 12],
+    ]
+    written = build_site.encode_mfds_index(rows)
+
+    restored = []
+    for packed in written["rows"]:
+        row = list(packed)
+        for field, table in written["dicts"].items():
+            row[fields.index(field)] = table[row[fields.index(field)]]
+        restored.append(row)
+    assert restored == rows
+    # 반복 값은 사전에 한 번만 담긴다.
+    assert written["dicts"]["entp_name"] == ["제약갑", "제약을"]
+    assert written["dicts"]["main_item_ingr_eng"] == ["IngredientA", ""]
+    # 사전으로 빠지지 않는 열은 값이 그대로 남는다.
+    assert [row[fields.index("item_name")] for row in written["rows"]] == ["가정", "나정", "다정"]
+
+
+def test_encode_mfds_index_handles_empty_rows():
+    written = build_site.encode_mfds_index([])
+    assert written == {"fields": list(build_site.MFDS_INDEX_FIELDS),
+                       "dicts": {field: [] for field in build_site.MFDS_INDEX_DICT_FIELDS},
+                       "rows": []}
+
+
 def test_build_mfds_public_writes_search_and_detail_indexes(tmp_path, monkeypatch):
     source = tmp_path / "mfds" / "items"
     public = tmp_path / "public"
@@ -265,8 +313,14 @@ def test_build_mfds_public_writes_search_and_detail_indexes(tmp_path, monkeypatc
         ["202600001", "시험약", "시험제약", "Dapagliflozin", "Dapagliflozin", "20260101", 1, "a" * 12],
     ]
     written = json.loads((public / "mfds" / "search-index.json").read_text(encoding="utf-8"))
-    assert written == {"fields": list(build_site.MFDS_INDEX_FIELDS), "rows": index}
+    assert written == build_site.encode_mfds_index(index)
+    assert written["fields"] == list(build_site.MFDS_INDEX_FIELDS)
     assert "status" not in written["fields"] and "last_observed_at" not in written["fields"] and "source_url" not in written["fields"]
+    # 반복되는 열은 사전으로 빠지고 행에는 정수 인덱스만 남는다. 두 행이 같은 제조사·성분이라 사전은 1개씩이다.
+    assert written["dicts"]["entp_name"] == ["시험제약"]
+    assert written["dicts"]["content_key"] == ["b" * 12, "a" * 12]
+    entp_at = list(build_site.MFDS_INDEX_FIELDS).index("entp_name")
+    assert [row[entp_at] for row in written["rows"]] == [0, 0]
     assert json.loads((public / "mfds" / "items" / "202600001.json").read_text(encoding="utf-8")) == item
     assert json.loads((public / "mfds" / "items" / "202600002.json").read_text(encoding="utf-8")) == unrematched_item
     # 옛 파싱 버그로 본문이 깨진 레코드는 재수집되기 전까지 색인과 상세 어느 쪽에도 실리지 않는다.
@@ -361,8 +415,8 @@ def test_static_page_has_footer_and_no_disclaimer(tmp_path, monkeypatch):
     assert "const mfdsTier=" in page
     assert "fuzzyContains" not in page
     # 정확 일치는 순위만 올린다. 다른 검색어의 결과를 지우면 안내한 OR 검색 계약과 어긋난다.
-    assert "pairs=pairs.filter(pair=>pair[0]===0)" not in page
-    assert ".filter(pair=>pair[0]<4).sort((a,b)=>a[0]-b[0])" in page
+    assert "matches.filter(match=>match[0]===0)" not in page
+    assert "if(tier<4)matches.push([tier,r])" in page and "matches.sort((a,b)=>a[0]-b[0])" in page
     # 허가 색인은 첫 검색어 입력 때 한 번만 받고, 검색 키는 로드 시 1회 계산하며, 입력은 debounce 한다
     assert "function ensureMfds()" in page and "fetch('mfds/search-index.json')" in page.split("function ensureMfds()")[1]
     assert "fetch('mfds/search-index.json')" not in page.split("function ensureMfds()")[0]
@@ -373,7 +427,10 @@ def test_static_page_has_footer_and_no_disclaimer(tmp_path, monkeypatch):
     # 상세 페이지 URL은 최신 제목이 아니라 항목 식별자에서 나온다
     assert 'href="criteria/219-dapagliflozin%EA%B2%BD%EA%B5%AC%EC%A0%9C.html"' in page
     # 묶음 대표는 계층이 가장 좋은 품목이어야 한다
-    assert "products.reduce((best,item)=>mfdsTier(item,terms||[])" in page
+    assert "products.reduce((best,item)=>item.tier<best.tier?item:best" in page
+    # 로드 시에는 품목 객체를 만들지 않는다 — 그리는 그룹만 materializeMfds로 실체화한다
+    assert "function buildMfdsIndex(" in page and "function materializeMfds(" in page
+    assert "bucket.map(match=>materializeMfds(index,match[1],match[0]))" in page
     # SEO: canonical·JSON-LD·크롤러 파일·정적 약제 목록
     assert '<link rel="canonical" href="https://rxcodelab.github.io/korea-drug-reimbursement-criteria/">' in page
     assert 'application/ld+json' in page and '"SearchAction"' in page

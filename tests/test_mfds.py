@@ -507,10 +507,8 @@ def test_full_saves_universe_without_notice_matching(monkeypatch, tmp_path):
     """--full은 mfds_match 필터가 사라졌다: 고시 제목과 전혀 연결되지 않는 성분도 그대로 저장된다
     (슈글렛정 사례: ipragliflozin이 고시 제목이 아니라 본문에만 등장해 검색어가 안 만들어지던 문제)."""
     monkeypatch.setenv("DATA_GO_KEY", SERVICE_KEY)
-    # 고시 제목이 당뇨병 용제라는 분류명일 뿐 이럼로 이 성분명은 term_groups_from_titles에 전혀 잡히지 않는다.
-    monkeypatch.setattr(fetch_mfds, "NORMALIZED_DIR", write_normalized(
-        tmp_path / "normalized", ["당뇨병 용제"],
-    ))
+    # 고시 제목을 따로 깔지 않는다 — main()은 더 이상 NORMALIZED_DIR를 읽지 않으므로
+    # 이 품목을 가리킬 검색어가 아예 없는 상태 그대로 전량 열거만으로 저장돼야 한다.
     monkeypatch.setattr(fetch_mfds, "ITEMS_DIR", tmp_path / "items")
     universe = [api_item(51, ITEM_NAME="슈글렛정", MAIN_INGR_ENG="Ipragliflozin")]
     fake = FakeApi(lambda params: envelope({"totalCount": "1", "items": universe}))
