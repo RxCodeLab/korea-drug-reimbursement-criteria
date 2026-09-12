@@ -7,11 +7,12 @@
  "permit_date": "20240104",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M281118]정제불활화인플루엔자바이러스항원B형[B/California/12/2015, NYMC BX-59B]|[M283037]정제불활화인플루엔자바이러스항원B형[B/Austria/1359417/2021, BVR-26]|[M283839]정제불활화인플루엔자바이러스항원A형[A/Victoria/4897/2022 IVR-238(H1N1)]|[M285529]정제불활화인플루엔자바이러스항원A형[A/Croatia/10136RV/2023, NIB-146(H3N2)]",
+ "main_item_ingr": "[M283037]정제불활화인플루엔자바이러스항원B형[B/Austria/1359417/2021, BVR-26]|[M281118]정제불활화인플루엔자바이러스항원B형[B/California/12/2015, NYMC BX-59B]|[M285529]정제불활화인플루엔자바이러스항원A형[A/Croatia/10136RV/2023, NIB-146(H3N2)]|[M283839]정제불활화인플루엔자바이러스항원A형[A/Victoria/4897/2022 IVR-238(H1N1)]",
  "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A [A/Croatia/10136RV/2023, NIB-146(H3N2)]/Purified Inactivated Influenza Virus Antigen A [A/Victoria/4897/2022 IVR-238(H1N1)]/Purified Inactivated Influenza Virus Antigen B [B/California/12/2015, NYMC BX-59B]/Purified Influenza Virus Antigen B type(Split virion, Inactivated)[B/Austria/1359417/2021, BVR-26]",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400021",
+ "history_fetched_at": "2026-09-08T09:02:36Z",
  "revisions": [
   {
    "revision_id": "202400021-fe30052a",
@@ -20,7 +21,7 @@
    "ee_doc_id": "11",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:36Z",
-   "last_observed_at": "2026-09-08T09:02:36Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2026-04-27"
   },
   {
@@ -43,6 +44,5 @@
    "first_observed_at": "2026-09-08T09:02:36Z",
    "last_observed_at": "2026-09-08T09:02:36Z"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:36Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20260424",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M102050]콜레칼시페롤농축분말|[M210377]아셀렌산나트륨오수화물|[M243785]산화아연|[M249983]D-비오틴",
+ "main_item_ingr": "[M210377]아셀렌산나트륨오수화물|[M102050]콜레칼시페롤농축분말|[M243785]산화아연|[M249983]D-비오틴",
  "main_item_ingr_eng": "Cholecalciferol Concentrate Powder/D-Biotin/Sodium Selenite Pentahydrate/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601222",
+ "history_fetched_at": "2026-09-08T09:05:06Z",
  "revisions": [
   {
    "revision_id": "202601222-962f74c2",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:06Z",
-   "last_observed_at": "2026-09-08T09:05:06Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-04-24"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:06Z"
+ ]
 }

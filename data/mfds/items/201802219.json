@@ -7,11 +7,12 @@
  "permit_date": "20180529",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M204304]피리독신염산염|[M223292]푸르설티아민염산염|[M227509]아스코르브산97%과립|[M255819]토코페롤아세테이트 2배산|[M255994]시아노코발라민1000배산",
+ "main_item_ingr": "[M255994]시아노코발라민1000배산|[M040133]리보플라빈|[M204304]피리독신염산염|[M227509]아스코르브산97%과립|[M255819]토코페롤아세테이트 2배산|[M223292]푸르설티아민염산염",
  "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Cyanocobalamin Powder 0.1%/Fursultiamine Hydrochloride/Pyridoxine Hydrochloride/Riboflavin/Tocopherol Acetate Powder 50%",
  "edi_code": "",
  "atc_code": "A11JA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802219",
+ "history_fetched_at": "2026-09-08T08:53:11Z",
  "revisions": [
   {
    "revision_id": "201802219-ee36a39a",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:53:11Z",
-   "last_observed_at": "2026-09-08T08:53:11Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2018-05-29"
   }
- ],
- "history_fetched_at": "2026-09-08T08:53:11Z"
+ ]
 }

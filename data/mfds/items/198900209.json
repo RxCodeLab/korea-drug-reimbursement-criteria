@@ -7,11 +7,12 @@
  "permit_date": "19890904",
  "cancel_date": "20240701",
  "status": "유효기간만료",
- "main_item_ingr": "[M228651]니카르디핀염산염위용성과립|[M228652]니카르디핀염산염장용성과립",
+ "main_item_ingr": "[M228652]니카르디핀염산염장용성과립|[M228651]니카르디핀염산염위용성과립",
  "main_item_ingr_eng": "Nicardipine Hydrochloride Enteric Granules/Nicardipine Hydrochloride Gastric Granules",
  "edi_code": "",
  "atc_code": "C08CA04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900209",
+ "history_fetched_at": "2026-09-08T08:27:48Z",
  "revisions": [
   {
    "revision_id": "198900209-348b1a22",
@@ -20,9 +21,8 @@
    "ee_doc_id": "10",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:27:48Z",
-   "last_observed_at": "2026-09-08T08:27:48Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:27:48Z"
+ ]
 }

@@ -2,16 +2,17 @@
  "schema_version": 1,
  "complete": true,
  "item_seq": "201908051",
- "item_name": "조플루자정20밀리그램(발록사비르마르복실)",
+ "item_name": "조플루자정20밀리그램(발록사비르 마르복실(미분화))",
  "entp_name": "(주)한국로슈",
  "permit_date": "20191122",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M268731]발록사비르 마르복실",
- "main_item_ingr_eng": "Baloxavir Marboxil",
+ "main_item_ingr": "[M286770]발록사비르 마르복실(미분화)",
+ "main_item_ingr_eng": "Baloxavir Marboxil(Micronized)",
  "edi_code": "",
  "atc_code": "J05AX25",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908051",
+ "history_fetched_at": "2026-09-08T08:57:07Z",
  "revisions": [
   {
    "revision_id": "201908051-47862678",
@@ -20,7 +21,7 @@
    "ee_doc_id": "22",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:57:07Z",
-   "last_observed_at": "2026-09-08T08:57:07Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2023-10-19"
   },
   {
@@ -43,6 +44,5 @@
    "first_observed_at": "2026-09-08T08:57:07Z",
    "last_observed_at": "2026-09-08T08:57:07Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:57:07Z"
+ ]
 }

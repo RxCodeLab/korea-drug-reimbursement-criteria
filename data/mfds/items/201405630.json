@@ -7,11 +7,12 @@
  "permit_date": "20141128",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M209360]L-발린|[M222530]L-이소류신|[M222531]L-류신",
+ "main_item_ingr": "[M209360]L-발린|[M222531]L-류신|[M222530]L-이소류신",
  "main_item_ingr_eng": "L-Isoleucine/L-Leucine/L-Valine",
  "edi_code": "",
  "atc_code": "V06B",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405630",
+ "history_fetched_at": "2026-09-08T08:48:04Z",
  "revisions": [
   {
    "revision_id": "201405630-2f308361",
@@ -20,9 +21,8 @@
    "ee_doc_id": "4",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:48:04Z",
-   "last_observed_at": "2026-09-08T08:48:04Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:48:04Z"
+ ]
 }

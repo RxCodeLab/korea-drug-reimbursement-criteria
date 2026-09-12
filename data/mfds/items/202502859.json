@@ -7,11 +7,12 @@
  "permit_date": "20251105",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M050436]메코발라민|[M051415]푸르설티아민|[M222995]리보플라빈부티레이트|[M223289]폴산|[M244748]판토텐산칼슘|[M248795]피리독살포스페이트수화물|[M255819]토코페롤아세테이트 2배산|[M258994]아스코르브산",
+ "main_item_ingr": "[M255819]토코페롤아세테이트 2배산|[M258994]아스코르브산|[M050436]메코발라민|[M223289]폴산|[M248795]피리독살포스페이트수화물|[M244748]판토텐산칼슘|[M040064]니코틴산아미드|[M222995]리보플라빈부티레이트|[M051415]푸르설티아민",
  "main_item_ingr_eng": "Ascorbic Acid/Calcium Pantothenate/Folic Acid/Fursultiamine/Mecobalamin/Nicotinamide/Pyridoxal Phosphate Hydrate/Riboflavin Butyrate/Tocopherol Acetate Powder 50%",
  "edi_code": "",
  "atc_code": "A11JA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502859",
+ "history_fetched_at": "2026-09-08T09:04:23Z",
  "revisions": [
   {
    "revision_id": "202502859-2d7e9853",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:23Z",
-   "last_observed_at": "2026-09-08T09:04:23Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-11-05"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:23Z"
+ ]
 }

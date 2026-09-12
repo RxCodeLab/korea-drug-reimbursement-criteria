@@ -7,11 +7,12 @@
  "permit_date": "20070627",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M213777]인유두종바이러스 6형 L1 단백질|[M213778]인유두종바이러스 11형 L1 단백질|[M213779]인유두종바이러스 16형 L1 단백질|[M213780]인유두종바이러스 18형 L1 단백질",
+ "main_item_ingr": "[M213780]인유두종바이러스 18형 L1 단백질|[M213779]인유두종바이러스 16형 L1 단백질|[M213778]인유두종바이러스 11형 L1 단백질|[M213777]인유두종바이러스 6형 L1 단백질",
  "main_item_ingr_eng": "Human Papilloma Virus Type 11 L1 Protein/Human Papilloma Virus Type 16 L1 Protein/Human Papilloma Virus Type 18 L1 Protein/Human Papilloma Virus Type 6 L1 Protein",
  "edi_code": "",
  "atc_code": "J07BM01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707347",
+ "history_fetched_at": "2026-09-08T08:41:37Z",
  "revisions": [
   {
    "revision_id": "200707347-7a7f579e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "32",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:41:37Z",
-   "last_observed_at": "2026-09-08T08:41:37Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:41:37Z"
+ ]
 }

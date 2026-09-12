@@ -7,11 +7,12 @@
  "permit_date": "20260710",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M204410]D-소르비톨|[M258994]아스코르브산",
+ "main_item_ingr": "[M258994]아스코르브산|[M204410]D-소르비톨",
  "main_item_ingr_eng": "Ascorbic Acid/D-Sorbitol",
  "edi_code": "",
  "atc_code": "B05CX10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602014",
+ "history_fetched_at": "2026-09-08T09:05:30Z",
  "revisions": [
   {
    "revision_id": "202602014-96c57701",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:30Z",
-   "last_observed_at": "2026-09-08T09:05:30Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-07-10"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:30Z"
+ ]
 }

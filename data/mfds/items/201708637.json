@@ -7,11 +7,12 @@
  "permit_date": "20171229",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M083577]비스벤티아민|[M096429]시아노코발라민|[M204304]피리독신염산염|[M223239]토코페롤숙시네이트칼슘",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M223239]토코페롤숙시네이트칼슘|[M096429]시아노코발라민|[M204304]피리독신염산염|[M083577]비스벤티아민",
  "main_item_ingr_eng": "Bisbentiamine/Cyanocobalamin/Nicotinamide/Pyridoxine Hydrochloride/Tocopherol Calcium Succinate",
  "edi_code": "",
  "atc_code": "A11JA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708637",
+ "history_fetched_at": "2026-09-08T08:52:45Z",
  "revisions": [
   {
    "revision_id": "201708637-bcbc43ae",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:52:45Z",
-   "last_observed_at": "2026-09-08T08:52:45Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2017-12-29"
   }
- ],
- "history_fetched_at": "2026-09-08T08:52:45Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20241004",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040073]대황|[M040564]치자|[M040789]황금|[M040792]황련|[M040793]황백",
+ "main_item_ingr": "[M040073]대황|[M040564]치자|[M040793]황백|[M040792]황련|[M040789]황금",
  "main_item_ingr_eng": "Coptis Rhizome/Gardenia Fruit/Phellodendron Bark/Rhubarb/Scutellaria Root",
  "edi_code": "",
  "atc_code": "N07XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402369",
+ "history_fetched_at": "2026-09-08T09:03:22Z",
  "revisions": [
   {
    "revision_id": "202402369-62ab3664",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:22Z",
-   "last_observed_at": "2026-09-08T09:03:22Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2024-10-04"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:22Z"
+ ]
 }

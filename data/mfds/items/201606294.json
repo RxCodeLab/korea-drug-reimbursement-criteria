@@ -7,11 +7,12 @@
  "permit_date": "20161026",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M264783]유럽집먼지진드기 정제추출물|[M264784]아메리카집먼지진드기 정제추출물",
+ "main_item_ingr": "[M264784]아메리카집먼지진드기 정제추출물|[M264783]유럽집먼지진드기 정제추출물",
  "main_item_ingr_eng": "American House Dust Mite Allergen Extract/Purified Europe House Dust Mite Allergen Extract",
  "edi_code": "",
  "atc_code": "V01AA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606294",
+ "history_fetched_at": "2026-09-08T08:51:17Z",
  "revisions": [
   {
    "revision_id": "201606294-98966f89",
@@ -20,9 +21,8 @@
    "ee_doc_id": "4",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:51:17Z",
-   "last_observed_at": "2026-09-08T08:51:17Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:51:17Z"
+ ]
 }

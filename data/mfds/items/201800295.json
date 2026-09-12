@@ -7,11 +7,12 @@
  "permit_date": "20180122",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M203279]살리실산메틸|[M204423]dl-캄파|[M230875]l-멘톨",
+ "main_item_ingr": "[M230875]l-멘톨|[M204423]dl-캄파|[M203279]살리실산메틸",
  "main_item_ingr_eng": "DL-Camphor/L-Menthol/Methyl Salicylate",
  "edi_code": "",
  "atc_code": "M02AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800295",
+ "history_fetched_at": "2026-09-08T08:52:48Z",
  "revisions": [
   {
    "revision_id": "201800295-800b6055",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:52:48Z",
-   "last_observed_at": "2026-09-08T08:52:48Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2018-01-22"
   }
- ],
- "history_fetched_at": "2026-09-08T08:52:48Z"
+ ]
 }

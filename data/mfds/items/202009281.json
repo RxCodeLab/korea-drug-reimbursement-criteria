@@ -7,11 +7,12 @@
  "permit_date": "20201229",
  "cancel_date": "20251229",
  "status": "유효기간만료",
- "main_item_ingr": "[M051971]약용효모|[M081430]케라틴|[M103054]L-시스틴|[M223262]티아민질산염|[M243404]판토텐산칼슘|[M253520]p-아미노벤조산",
+ "main_item_ingr": "[M253520]p-아미노벤조산|[M103054]L-시스틴|[M243404]판토텐산칼슘|[M223262]티아민질산염|[M081430]케라틴|[M051971]약용효모",
  "main_item_ingr_eng": "Calcium Pantothenate/Keratin/L-Cystine/Medicinal Yeast/Thiamine Nitrate/p-Aminobenzoic Acid",
  "edi_code": "",
  "atc_code": "D11AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009281",
+ "history_fetched_at": "2026-09-08T08:59:48Z",
  "revisions": [
   {
    "revision_id": "202009281-b65af219",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:59:48Z",
-   "last_observed_at": "2026-09-08T08:59:48Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-12-29"
   }
- ],
- "history_fetched_at": "2026-09-08T08:59:48Z"
+ ]
 }

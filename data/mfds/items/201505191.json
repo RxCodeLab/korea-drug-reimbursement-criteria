@@ -7,11 +7,12 @@
  "permit_date": "20150731",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M262496]창출연조엑스(2.7~3.3→1)|[M262499]후박연조엑스(7.8~9.5→1)|[M262510]감초연조엑스(2.4~2.9→1)|[M262511]생강연조엑스(12.3~15.0→1)|[M262512]대추연조엑스(1.5∼1.9→1)|[M267552]진피연조엑스(2.6~3.2→1)",
+ "main_item_ingr": "[M262512]대추연조엑스(1.5∼1.9→1)|[M262511]생강연조엑스(12.3~15.0→1)|[M262510]감초연조엑스(2.4~2.9→1)|[M262499]후박연조엑스(7.8~9.5→1)|[M267552]진피연조엑스(2.6~3.2→1)|[M262496]창출연조엑스(2.7~3.3→1)",
  "main_item_ingr_eng": "Atractylodes Rhizome Soft Extract (2.7~3.3→1)/Citrus Unshiu Peel Soft Extract (2.6∼3.2→1)/Glycyrrhiza Soft Extract (2.4~2.9→1)/Jujube Soft Extract (1.5~1.9→1)/Magnolia Bark Soft Extract (7.8~9.5→1)/Raw Ginger Soft Extract (12.3~15.0→1)",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505191",
+ "history_fetched_at": "2026-09-08T08:49:28Z",
  "revisions": [
   {
    "revision_id": "201505191-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "5",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:49:28Z",
-   "last_observed_at": "2026-09-08T08:49:28Z",
+   "last_observed_at": "2026-09-12T16:32:34Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:49:28Z"
+ ]
 }

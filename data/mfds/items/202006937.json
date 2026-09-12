@@ -7,11 +7,12 @@
  "permit_date": "20201012",
  "cancel_date": "20251012",
  "status": "유효기간만료",
- "main_item_ingr": "[M051564]탄산칼슘|[M086116]농축콜레칼시페롤",
+ "main_item_ingr": "[M086116]농축콜레칼시페롤|[M051564]탄산칼슘",
  "main_item_ingr_eng": "Calcium Carbonate/Cholecalciferol Concentrate",
  "edi_code": "",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006937",
+ "history_fetched_at": "2026-09-08T08:59:29Z",
  "revisions": [
   {
    "revision_id": "202006937-e0473de9",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:59:29Z",
-   "last_observed_at": "2026-09-08T08:59:29Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-10-12"
   }
- ],
- "history_fetched_at": "2026-09-08T08:59:29Z"
+ ]
 }

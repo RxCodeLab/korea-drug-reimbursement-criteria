@@ -7,11 +7,12 @@
  "permit_date": "20230329",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M113513]아스코르브산 과립97%|[M204437]L-시스테인|[M244748]판토텐산칼슘",
+ "main_item_ingr": "[M204437]L-시스테인|[M113513]아스코르브산 과립97%|[M244748]판토텐산칼슘",
  "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Calcium Pantothenate/L-Cysteine",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301045",
+ "history_fetched_at": "2026-09-08T09:01:57Z",
  "revisions": [
   {
    "revision_id": "202301045-c4879994",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:57Z",
-   "last_observed_at": "2026-09-08T09:01:57Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2023-03-29"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:57Z"
+ ]
 }

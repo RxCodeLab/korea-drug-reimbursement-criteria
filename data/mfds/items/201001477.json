@@ -7,11 +7,12 @@
  "permit_date": "20100217",
  "cancel_date": "20251016",
  "status": "취하",
- "main_item_ingr": "[M249540]세페핌염산염수화물|[M255883]세페핌염산염수화물 . L-아르기닌|[M256594]세페핌염산염.L-아르기닌",
+ "main_item_ingr": "[M256594]세페핌염산염.L-아르기닌|[M255883]세페핌염산염수화물 . L-아르기닌|[M249540]세페핌염산염수화물",
  "main_item_ingr_eng": "Cefepime Hydrochloride Hydrate/Cefepime Hydrochloride Hydrate·L-Arginine",
  "edi_code": "",
  "atc_code": "J01DE01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001477",
+ "history_fetched_at": "2026-09-08T08:43:49Z",
  "revisions": [
   {
    "revision_id": "201001477-10516bd7",
@@ -20,9 +21,8 @@
    "ee_doc_id": "14",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:43:49Z",
-   "last_observed_at": "2026-09-08T08:43:49Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:43:49Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20250317",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050436]메코발라민|[M051415]푸르설티아민|[M083577]비스벤티아민|[M202809]감마-오리자놀|[M222996]리보플라빈포스페이트나트륨|[M244748]판토텐산칼슘|[M248795]피리독살포스페이트수화물|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr": "[M255819]토코페롤아세테이트 2배산|[M244748]판토텐산칼슘|[M202809]감마-오리자놀|[M050436]메코발라민|[M248795]피리독살포스페이트수화물|[M222996]리보플라빈포스페이트나트륨|[M083577]비스벤티아민|[M051415]푸르설티아민",
  "main_item_ingr_eng": "Bisbentiamine/Calcium Pantothenate/Fursultiamine/Gamma-Oryzanol/Mecobalamin/Pyridoxal Phosphate Hydrate/Riboflavin Sodium Phosphate/Tocopherol Acetate Powder 50%",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500584",
+ "history_fetched_at": "2026-09-08T09:03:46Z",
  "revisions": [
   {
    "revision_id": "202500584-d9a11e69",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:46Z",
-   "last_observed_at": "2026-09-08T09:03:46Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-03-17"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:46Z"
+ ]
 }

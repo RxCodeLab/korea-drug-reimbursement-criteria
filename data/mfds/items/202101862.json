@@ -7,11 +7,12 @@
  "permit_date": "20210224",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040004]갈근|[M040006]감초|[M040048]길경|[M040070]당귀|[M040187]목향|[M040214]백출|[M040216]백지|[M040225]복령|[M040329]승마|[M040482]원지|[M040789]황금|[M040790]황기|[M050041]고본|[M050729]산사|[M051200]용안육|[M051291]인삼|[M051347]죽여|[M051364]숙지황",
+ "main_item_ingr": "[M051364]숙지황|[M040006]감초|[M040048]길경|[M040070]당귀|[M051291]인삼|[M040214]백출|[M040225]복령|[M040482]원지|[M040187]목향|[M051347]죽여|[M040004]갈근|[M040789]황금|[M040790]황기|[M051200]용안육|[M050729]산사|[M040329]승마|[M040216]백지|[M050041]고본",
  "main_item_ingr_eng": "Angelica Dahurica Root/Angelica Gigas Root/Astragalus Root/Atractylodes Rhizome White/Aucklandiae Radix/Cimicifuga Rhizome/Ginseng/Hawthorn Fruit/Licorice/Ligustici Tenuissimi Rhizoma et Radix/Longan Arillus/Phyllostachyos Caulis in Taeniam/Platycodon Root/Polygala Root/Poria/Prepared Rehmannia Root/Pueraria Root/Scutellaria Root",
  "edi_code": "",
  "atc_code": "N07XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101862",
+ "history_fetched_at": "2026-09-08T08:59:58Z",
  "revisions": [
   {
    "revision_id": "202101862-c4c386df",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:59:58Z",
-   "last_observed_at": "2026-09-08T08:59:58Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2021-02-24"
   }
- ],
- "history_fetched_at": "2026-09-08T08:59:58Z"
+ ]
 }

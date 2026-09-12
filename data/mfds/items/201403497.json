@@ -7,11 +7,12 @@
  "permit_date": "20140730",
  "cancel_date": "20240730",
  "status": "유효기간만료",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040679]판토텐산칼슘|[M051415]푸르설티아민|[M204304]피리독신염산염|[M208932]γ-오리자놀|[M222995]리보플라빈부티레이트|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr": "[M208932]γ-오리자놀|[M222995]리보플라빈부티레이트|[M040679]판토텐산칼슘|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M051415]푸르설티아민|[M256191]콘드로이틴설페이트나트륨",
  "main_item_ingr_eng": "Calcium Pantothenate/Fursultiamine/Gamma-Oryzanol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Sodium Chondroitin Sulfate",
  "edi_code": "",
  "atc_code": "A11EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403497",
+ "history_fetched_at": "2026-09-08T08:47:24Z",
  "revisions": [
   {
    "revision_id": "201403497-70ba2e47",
@@ -20,9 +21,8 @@
    "ee_doc_id": "5",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:47:24Z",
-   "last_observed_at": "2026-09-08T08:47:24Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:47:24Z"
+ ]
 }

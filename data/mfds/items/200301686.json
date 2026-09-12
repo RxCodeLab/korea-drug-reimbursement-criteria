@@ -7,11 +7,12 @@
  "permit_date": "20031206",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M071150]질산치아민|[M089207]카르두스마리아누스엑스|[M096429]시아노코발라민|[M240075]염산피리독신|[M240076]판토텐산칼슘",
+ "main_item_ingr": "[M096429]시아노코발라민|[M089207]카르두스마리아누스엑스|[M040064]니코틴산아미드|[M240076]판토텐산칼슘|[M240075]염산피리독신|[M071150]질산치아민",
  "main_item_ingr_eng": "Calcium Pantothenate/Cardus Marianus Extract/Cyanocobalamin/Nicotinamide/Pyridoxine Hydrochloride/Thiamine Nitrate",
  "edi_code": "",
  "atc_code": "A05BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301686",
+ "history_fetched_at": "2026-09-08T08:37:04Z",
  "revisions": [
   {
    "revision_id": "200301686-69921642",
@@ -20,9 +21,8 @@
    "ee_doc_id": "2",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:37:04Z",
-   "last_observed_at": "2026-09-08T08:37:04Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:37:04Z"
+ ]
 }

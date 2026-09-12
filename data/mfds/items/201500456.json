@@ -7,11 +7,12 @@
  "permit_date": "20150128",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M200675]베타메타손디프로피오네이트|[M261479]칼시포트리올수화물",
+ "main_item_ingr": "[M261479]칼시포트리올수화물|[M200675]베타메타손디프로피오네이트",
  "main_item_ingr_eng": "Betamethasone Dipropionate/Calcipotriol Hydrate",
  "edi_code": "657306501",
  "atc_code": "D05AX52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500456",
+ "history_fetched_at": "2026-09-08T08:48:24Z",
  "revisions": [
   {
    "revision_id": "201500456-f1d2a442",
@@ -20,9 +21,8 @@
    "ee_doc_id": "13",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:48:24Z",
-   "last_observed_at": "2026-09-08T08:48:24Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:48:24Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20030519",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040625]탄닌산|[M223110]아크리놀수화물|[M243785]산화아연",
+ "main_item_ingr": "[M223110]아크리놀수화물|[M040625]탄닌산|[M243785]산화아연",
  "main_item_ingr_eng": "Acrinol Hydrate/Tannic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "D03AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300338",
+ "history_fetched_at": "2026-09-08T08:36:44Z",
  "revisions": [
   {
    "revision_id": "200300338-509be3c3",
@@ -20,9 +21,8 @@
    "ee_doc_id": "16",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:36:44Z",
-   "last_observed_at": "2026-09-08T08:36:44Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:36:44Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20130822",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051649]결정트립신|[M095415]브로멜라인",
+ "main_item_ingr": "[M095415]브로멜라인|[M051649]결정트립신",
  "main_item_ingr_eng": "Bromelain/Crystallized Trypsin",
  "edi_code": "",
  "atc_code": "M09AB52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308958",
+ "history_fetched_at": "2026-09-08T08:46:16Z",
  "revisions": [
   {
    "revision_id": "201308958-6c9494cf",
@@ -20,9 +21,8 @@
    "ee_doc_id": "3",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:46:16Z",
-   "last_observed_at": "2026-09-08T08:46:16Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:46:16Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20200414",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M114160]디프테리아톡소이드(균주명:1514-N-3S주)|[M114163]필라멘트헤마글루티닌(균주명:1591주)|[M245920]파상풍톡소이드와접합된헤모필루스인플루엔자비형균다당류[균주: Haemophilus influenzae type b 1482(제조원균주번호 2164), 접합단백질용 균주: Clostridium tetani Havard 49205(제조원균주번호 1472C)]|[M247157]파상풍톡소이드(균주명:1472-C주)|[M247158]백일해톡소이드(균주명:1591주)|[M268523]불활화폴리오바이러스제1형(바이러스주명:Mahoney주)|[M268524]불활화폴리오바이러스제2형(바이러스주명:MEF-1주)|[M268525]불활화폴리오바이러스제3형(바이러스주명:Saukett주)|[M278512]정제B형간염표면항원단백(유전자재조합)",
+ "main_item_ingr": "[M245920]파상풍톡소이드와접합된헤모필루스인플루엔자비형균다당류[균주: Haemophilus influenzae type b 1482(제조원균주번호 2164), 접합단백질용 균주: Clostridium tetani Havard 49205(제조원균주번호 1472C)]|[M278512]정제B형간염표면항원단백(유전자재조합)|[M268525]불활화폴리오바이러스제3형(바이러스주명:Saukett주)|[M268524]불활화폴리오바이러스제2형(바이러스주명:MEF-1주)|[M268523]불활화폴리오바이러스제1형(바이러스주명:Mahoney주)|[M114163]필라멘트헤마글루티닌(균주명:1591주)|[M247158]백일해톡소이드(균주명:1591주)|[M247157]파상풍톡소이드(균주명:1472-C주)|[M114160]디프테리아톡소이드(균주명:1514-N-3S주)",
  "main_item_ingr_eng": "B. Pertussis Toxoid (Strain: 1591)/Diphtheria Toxoid (Strain: 1514-N-3S)/Filament Hemagglutinin (Strain: 1591)/Haemophilus Influenzae Type B Polysaccharide·Tetanus Toxoid Conjugate (Strain: Haemophilus Influenzae Type B 1482, Strain: Clostridium Tetani Havard 49205)/Inactivated Polio Virus Type I (Stain: Mahoney)/Inactivated Polio Virus Type II (Stain: MEF-1)/Inactivated Polio Virus Type III (Stain: Saukett)/Purified Hepatitis B Surface Antigen Protein (rDNA)/Tetanus Toxoid (Strain: 1472-C)",
  "edi_code": "",
  "atc_code": "J07CA09",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002632",
+ "history_fetched_at": "2026-09-08T08:58:23Z",
  "revisions": [
   {
    "revision_id": "202002632-337b3f0d",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:58:23Z",
-   "last_observed_at": "2026-09-08T08:58:23Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-04-14"
   }
- ],
- "history_fetched_at": "2026-09-08T08:58:23Z"
+ ]
 }

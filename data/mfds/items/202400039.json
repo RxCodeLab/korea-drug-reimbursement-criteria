@@ -7,11 +7,12 @@
  "permit_date": "20240105",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050058]구아이페네신|[M204422]dl-메틸에페드린염산염|[M254445]티페피딘시트르산염",
+ "main_item_ingr": "[M254445]티페피딘시트르산염|[M204422]dl-메틸에페드린염산염|[M050058]구아이페네신",
  "main_item_ingr_eng": "DL-Methylephedrine Hydrochloride/Guaifenesin/Tipepidine Citrate",
  "edi_code": "",
  "atc_code": "R05FB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400039",
+ "history_fetched_at": "2026-09-08T09:02:37Z",
  "revisions": [
   {
    "revision_id": "202400039-da6ae941",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:37Z",
-   "last_observed_at": "2026-09-08T09:02:37Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2024-01-05"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:37Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "19940706",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040481]울금|[M050438]센나엽엑스|[M050543]백굴채|[M050687]비사코딜|[M070153]대황엑스|[M080745]노회엑스|[M084964]알로에카펜시스|[M257637]프랑굴랑피엑스",
+ "main_item_ingr": "[M050687]비사코딜|[M257637]프랑굴랑피엑스|[M070153]대황엑스|[M050438]센나엽엑스|[M080745]노회엑스|[M084964]알로에카펜시스|[M050543]백굴채|[M040481]울금",
  "main_item_ingr_eng": "Aloe Capensis/Aloe Extract/Bisacodyl/Chelidonii Herba/Curcuma Root/Rhubarb Extract/Senna Leaf Extract",
  "edi_code": "",
  "atc_code": "A06AB52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400532",
+ "history_fetched_at": "2026-09-08T08:29:05Z",
  "revisions": [
   {
    "revision_id": "199400532-8092f99e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "10",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:29:05Z",
-   "last_observed_at": "2026-09-08T08:29:05Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:29:05Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "19970303",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M081393]센나열매가루|[M097831]차전자피가루",
+ "main_item_ingr": "[M097831]차전자피가루|[M081393]센나열매가루",
  "main_item_ingr_eng": "Psyllium Husk Powder/Sennae Fructus Powder",
  "edi_code": "",
  "atc_code": "A06AC51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701919",
+ "history_fetched_at": "2026-09-08T08:31:10Z",
  "revisions": [
   {
    "revision_id": "199701919-8092f99e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "6",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:31:10Z",
-   "last_observed_at": "2026-09-08T08:31:10Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:31:10Z"
+ ]
 }

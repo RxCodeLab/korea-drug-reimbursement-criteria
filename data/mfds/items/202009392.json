@@ -7,11 +7,12 @@
  "permit_date": "20201230",
  "cancel_date": "20251230",
  "status": "유효기간만료",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M051962]황산망간|[M091374]무수인산수소칼슘|[M113020]황산아연|[M204304]피리독신염산염|[M223262]티아민질산염|[M223289]폴산|[M244365]셀레늄함유건조효모|[M244748]판토텐산칼슘|[M251365]폴리사카리드철착염|[M255819]토코페롤아세테이트 2배산|[M255994]시아노코발라민1000배산|[M258994]아스코르브산|[M279876]d-비오틴",
+ "main_item_ingr": "[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M279876]d-비오틴|[M223289]폴산|[M255994]시아노코발라민1000배산|[M258994]아스코르브산|[M040064]니코틴산아미드|[M040133]리보플라빈|[M244365]셀레늄함유건조효모|[M223262]티아민질산염|[M255819]토코페롤아세테이트 2배산|[M091374]무수인산수소칼슘|[M251365]폴리사카리드철착염|[M051962]황산망간|[M113020]황산아연",
  "main_item_ingr_eng": "Anhydrous Dibasic Calcium Phosphate/Ascorbic Acid/Calcium Pantothenate/Cyanocobalamin Powder 0.1%/D-Biotin/Folic Acid/Manganese Sulfate/Nicotinamide/Polysaccharide Iron Complex/Pyridoxine Hydrochloride/Riboflavin/Selenium In Dried Yeast/Thiamine Nitrate/Tocopherol Acetate Powder 50%/Zinc Sulfate",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009392",
+ "history_fetched_at": "2026-09-08T08:59:48Z",
  "revisions": [
   {
    "revision_id": "202009392-16ea2466",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:59:48Z",
-   "last_observed_at": "2026-09-08T08:59:48Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-12-30"
   }
- ],
- "history_fetched_at": "2026-09-08T08:59:48Z"
+ ]
 }

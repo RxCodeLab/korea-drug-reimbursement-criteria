@@ -7,11 +7,12 @@
  "permit_date": "20260720",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040262]산화마그네슘|[M051259]이부프로펜|[M070009]감초가루|[M082518]작약가루",
+ "main_item_ingr": "[M051259]이부프로펜|[M070009]감초가루|[M082518]작약가루|[M040262]산화마그네슘",
  "main_item_ingr_eng": "Glycyrrhiza Powder/Ibuprofen/Magnesium Oxide/Peony Root Powder",
  "edi_code": "",
  "atc_code": "M01AE51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602077",
+ "history_fetched_at": "2026-09-08T09:05:32Z",
  "revisions": [
   {
    "revision_id": "202602077-20f838b4",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:32Z",
-   "last_observed_at": "2026-09-08T09:05:32Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-07-20"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:32Z"
+ ]
 }

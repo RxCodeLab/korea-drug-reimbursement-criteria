@@ -7,11 +7,12 @@
  "permit_date": "20250207",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M096428]벤포티아민|[M096429]시아노코발라민|[M204304]피리독신염산염|[M223289]폴산",
+ "main_item_ingr": "[M096428]벤포티아민|[M204304]피리독신염산염|[M223289]폴산|[M096429]시아노코발라민",
  "main_item_ingr_eng": "Benfotiamine/Cyanocobalamin/Folic Acid/Pyridoxine Hydrochloride",
  "edi_code": "",
  "atc_code": "A11JA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500265",
+ "history_fetched_at": "2026-09-08T09:03:40Z",
  "revisions": [
   {
    "revision_id": "202500265-e441d933",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:40Z",
-   "last_observed_at": "2026-09-08T09:03:40Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-02-07"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:40Z"
+ ]
 }

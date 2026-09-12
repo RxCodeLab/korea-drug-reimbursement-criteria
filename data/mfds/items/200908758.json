@@ -7,11 +7,12 @@
  "permit_date": "20091211",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M040397]에르고칼시페롤|[M040805]건조황산제일철|[M051962]황산망간|[M082761]인삼가루|[M089480]레시친|[M089594]산화제이동|[M091374]무수인산수소칼슘|[M096429]시아노코발라민|[M204304]피리독신염산염|[M222991]레티놀팔미테이트|[M223240]토코페롤아세테이트|[M223258]티아민염산염|[M243785]산화아연|[M244748]판토텐산칼슘|[M258994]아스코르브산",
+ "main_item_ingr": "[M223240]토코페롤아세테이트|[M243785]산화아연|[M244748]판토텐산칼슘|[M089480]레시친|[M204304]피리독신염산염|[M223258]티아민염산염|[M091374]무수인산수소칼슘|[M222991]레티놀팔미테이트|[M040064]니코틴산아미드|[M258994]아스코르브산|[M082761]인삼가루|[M040262]산화마그네슘|[M040805]건조황산제일철|[M089594]산화제이동|[M040397]에르고칼시페롤|[M040133]리보플라빈|[M051962]황산망간|[M096429]시아노코발라민",
  "main_item_ingr_eng": "Anhydrous Dibasic Calcium Phosphate/Ascorbic Acid/Calcium Pantothenate/Cupric Oxide/Cyanocobalamin/Dried Ferrous Sulfate/Ergocalciferol/Ginseng Powder/Lecithin/Magnesium Oxide/Manganese Sulfate/Nicotinamide/Pyridoxine Hydrochloride/Retinol Palmitate/Riboflavin/Thiamine Hydrochloride/Tocopherol Acetate/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908758",
+ "history_fetched_at": "2026-09-08T08:43:40Z",
  "revisions": [
   {
    "revision_id": "200908758-3c70f63a",
@@ -20,9 +21,8 @@
    "ee_doc_id": "6",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:43:40Z",
-   "last_observed_at": "2026-09-08T08:43:40Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:43:40Z"
+ ]
 }

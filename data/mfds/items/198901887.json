@@ -7,11 +7,12 @@
  "permit_date": "19890118",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223276]파파베린염산염|[M256709]디시클로민염산염",
+ "main_item_ingr": "[M256709]디시클로민염산염|[M223276]파파베린염산염",
  "main_item_ingr_eng": "Dicyclomine Hydrochloride/Papaverine Hydrochloride",
  "edi_code": "",
  "atc_code": "A03AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901887",
+ "history_fetched_at": "2026-09-08T08:27:54Z",
  "revisions": [
   {
    "revision_id": "198901887-610e3447",
@@ -20,7 +21,7 @@
    "ee_doc_id": "13",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:27:54Z",
-   "last_observed_at": "2026-09-08T08:27:54Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2020-06-09"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:27:54Z",
    "last_observed_at": "2026-09-08T08:27:54Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:27:54Z"
+ ]
 }

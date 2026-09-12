@@ -7,11 +7,12 @@
  "permit_date": "20000812",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M088654]망초|[M089501]대황엑스산|[M089521]목단피엑스산|[M089601]도인엑스산|[M089609]괄루인엑스산",
+ "main_item_ingr": "[M088654]망초|[M089501]대황엑스산|[M089609]괄루인엑스산|[M089601]도인엑스산|[M089521]목단피엑스산",
  "main_item_ingr_eng": "Moutan Root Bark Extract Powder/Natrii Sulfas/Peach Kernel Extract Powder/Rhubarb Extract Powder/Trichosanthes Seed Extract Powder",
  "edi_code": "",
  "atc_code": "B01AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200005603",
+ "history_fetched_at": "2026-09-08T08:34:24Z",
  "revisions": [
   {
    "revision_id": "200005603-9ffab8db",
@@ -20,7 +21,7 @@
    "ee_doc_id": "8",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:34:24Z",
-   "last_observed_at": "2026-09-08T08:34:24Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2020-10-15"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:34:24Z",
    "last_observed_at": "2026-09-08T08:34:24Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:34:24Z"
+ ]
 }

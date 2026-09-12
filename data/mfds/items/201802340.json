@@ -7,11 +7,12 @@
  "permit_date": "20180605",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040006]감초|[M040007]건강|[M040187]목향|[M040198]박하|[M040214]백출|[M040260]산초|[M040350]아선약|[M040447]오수유|[M040507]익지|[M040527]정향|[M040536]지실|[M040538]진피|[M040792]황련|[M040815]후추|[M050036]육계|[M050048]곽향|[M050729]산사|[M051892]필발|[M088722]아출|[M095260]사인",
+ "main_item_ingr": "[M050048]곽향|[M040538]진피|[M040187]목향|[M040198]박하|[M040214]백출|[M095260]사인|[M040260]산초|[M088722]아출|[M040447]오수유|[M040006]감초|[M050729]산사|[M040007]건강|[M050036]육계|[M040507]익지|[M040527]정향|[M040536]지실|[M051892]필발|[M040792]황련|[M040815]후추|[M040350]아선약",
  "main_item_ingr_eng": "Agastachis Herba/Amomum Fruit/Atractylodes Rhizome White/Aucklandiae Radix/Bitter Cardamon/Cinnamon Bark/Citrus Unshiu Peel/Clove/Coptis Rhizome/Evodia Fruit/Gambir/Ginger/Hawthorn Fruit/Licorice/Mentha Herb/Piperis Longi Fructus/Piperis Nigri Fructus/Poncirus Immature Fruit/Zanthoxylum Peel/Zedoary",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802340",
+ "history_fetched_at": "2026-09-08T08:53:13Z",
  "revisions": [
   {
    "revision_id": "201802340-d80efba0",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:53:13Z",
-   "last_observed_at": "2026-09-08T08:53:13Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2018-06-05"
   }
- ],
- "history_fetched_at": "2026-09-08T08:53:13Z"
+ ]
 }

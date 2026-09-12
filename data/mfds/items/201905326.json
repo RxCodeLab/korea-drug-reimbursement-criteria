@@ -7,11 +7,12 @@
  "permit_date": "20190726",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M110317]판크레아틴 장용과립|[M110397]정향 가루|[M110408]용담 가루|[M110414]회향 가루|[M113524]육계 가루|[M223167]우르소데옥시콜산",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M110397]정향 가루|[M110408]용담 가루|[M110414]회향 가루|[M113524]육계 가루|[M110317]판크레아틴 장용과립",
  "main_item_ingr_eng": "Cinnamon Bark Powder/Clove Powder/Fennel Powder/Gentian Root and Rhizome Powder/Pancreatin Enteric Coated Granules/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905326",
+ "history_fetched_at": "2026-09-08T08:55:56Z",
  "revisions": [
   {
    "revision_id": "201905326-267deb98",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:55:56Z",
-   "last_observed_at": "2026-09-08T08:55:56Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-07-26"
   }
- ],
- "history_fetched_at": "2026-09-08T08:55:56Z"
+ ]
 }

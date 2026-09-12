@@ -7,11 +7,12 @@
  "permit_date": "20231030",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M089852]라베프라졸나트륨|[M115079]아스피린 장용펠렛",
+ "main_item_ingr": "[M115079]아스피린 장용펠렛|[M089852]라베프라졸나트륨",
  "main_item_ingr_eng": "Aspirin Enteric Pellets/Rabeprazole Sodium",
  "edi_code": "643508750",
  "atc_code": "B01AC56",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303032",
+ "history_fetched_at": "2026-09-08T09:02:28Z",
  "revisions": [
   {
    "revision_id": "202303032-e5d63458",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:28Z",
-   "last_observed_at": "2026-09-08T09:02:28Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2023-10-30"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:28Z"
+ ]
 }

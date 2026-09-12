@@ -7,11 +7,12 @@
  "permit_date": "19760327",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040185]목단피|[M040225]복령|[M040257]산수유|[M040258]산약|[M040638]택사|[M051364]숙지황|[M088605]육미지황탕연조엑스",
+ "main_item_ingr": "[M088605]육미지황탕연조엑스|[M040185]목단피|[M040225]복령|[M040638]택사|[M040258]산약|[M040257]산수유|[M051364]숙지황",
  "main_item_ingr_eng": "Alisma Rhizome/Cornus Fruit/Dioscorea Rhizome/Moutan Root Bark/Poria/Prepared Rehmannia Root/Yukmijihwangtang Soft Extract",
  "edi_code": "",
  "atc_code": "G04BX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600025",
+ "history_fetched_at": "2026-09-08T08:26:24Z",
  "revisions": [
   {
    "revision_id": "197600025-0485ae96",
@@ -20,9 +21,8 @@
    "ee_doc_id": "5",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:26:24Z",
-   "last_observed_at": "2026-09-08T08:26:24Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:26:24Z"
+ ]
 }

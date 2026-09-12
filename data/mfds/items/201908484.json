@@ -7,11 +7,12 @@
  "permit_date": "20191217",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040096]디멘히드리네이트|[M204304]피리독신염산염|[M223183]카페인무수물",
+ "main_item_ingr": "[M040096]디멘히드리네이트|[M223183]카페인무수물|[M204304]피리독신염산염",
  "main_item_ingr_eng": "Anhydrous Caffeine/Dimenhydrinate/Pyridoxine Hydrochloride",
  "edi_code": "",
  "atc_code": "A04AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908484",
+ "history_fetched_at": "2026-09-08T08:57:17Z",
  "revisions": [
   {
    "revision_id": "201908484-f0e57a84",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:57:17Z",
-   "last_observed_at": "2026-09-08T08:57:17Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-12-17"
   }
- ],
- "history_fetched_at": "2026-09-08T08:57:17Z"
+ ]
 }

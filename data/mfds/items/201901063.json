@@ -7,11 +7,12 @@
  "permit_date": "20190221",
  "cancel_date": "20240221",
  "status": "유효기간만료",
- "main_item_ingr": "[M262502]당귀연조엑스(2.1~2.6→1)|[M262504]작약연조엑스(3.3~4.0→1)|[M262505]복령연조엑스(14.0~17.1→1)|[M262507]백지연조엑스(2.2~2.7→1)|[M262510]감초연조엑스(2.4~2.9→1)|[M267396]인삼연조엑스(3.6~4.4→1)|[M267547]연교연조엑스(4.5∼5.6→1)|[M267552]진피연조엑스(2.6~3.2→1)|[M267585]백출연조엑스(1.4∼1.7→1)|[M267646]황기연조엑스(2.8∼3.4→1)|[M268194]금은화연조엑스(2.9~3.6→1)",
+ "main_item_ingr": "[M262505]복령연조엑스(14.0~17.1→1)|[M268194]금은화연조엑스(2.9~3.6→1)|[M267547]연교연조엑스(4.5∼5.6→1)|[M267552]진피연조엑스(2.6~3.2→1)|[M267585]백출연조엑스(1.4∼1.7→1)|[M262502]당귀연조엑스(2.1~2.6→1)|[M262504]작약연조엑스(3.3~4.0→1)|[M267646]황기연조엑스(2.8∼3.4→1)|[M262510]감초연조엑스(2.4~2.9→1)|[M262507]백지연조엑스(2.2~2.7→1)|[M267396]인삼연조엑스(3.6~4.4→1)",
  "main_item_ingr_eng": "Angelica Dahurica Root Soft Extract (2.2~2.7→1)/Angelica Gigas Root Soft Extract Powder (2.1~2.6→1)/Astragalus Root Soft Extract (2.8∼3.4→1)/Atractylodes Rhizome White Soft Extract (1.4∼1.7→1)/Citrus Unshiu Peel Soft Extract (2.6∼3.2→1)/Forsythia Fruit Soft Extract (4.5∼5.6→1)/Ginseng Soft Extract (3.6∼4.4→1)/Glycyrrhiza Soft Extract (2.4~2.9→1)/Lonicera Flower Soft Extract (2.9∼3.6→1)/Peony Root Soft Extract (3.3~4.0→1)/Poria Soft Extract (14.0~17.1→1)",
  "edi_code": "",
  "atc_code": "J01XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901063",
+ "history_fetched_at": "2026-09-08T08:54:19Z",
  "revisions": [
   {
    "revision_id": "201901063-9d29426a",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:54:19Z",
-   "last_observed_at": "2026-09-08T08:54:19Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2019-02-21"
   }
- ],
- "history_fetched_at": "2026-09-08T08:54:19Z"
+ ]
 }

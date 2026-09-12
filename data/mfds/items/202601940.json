@@ -7,11 +7,12 @@
  "permit_date": "20260703",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050446]메퀴타진|[M086528]벨라돈나총알칼로이드|[M203364]슈도에페드린염산염|[M223183]카페인무수물|[M256386]글리시리진산이칼륨",
+ "main_item_ingr": "[M223183]카페인무수물|[M203364]슈도에페드린염산염|[M256386]글리시리진산이칼륨|[M086528]벨라돈나총알칼로이드|[M050446]메퀴타진",
  "main_item_ingr_eng": "Anhydrous Caffeine/Belladonna Total Alkaloid/Dipotassium Glycyrrhizinate/Mequitazine/Pseudoephedrine Hydrochloride",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601940",
+ "history_fetched_at": "2026-09-08T09:05:28Z",
  "revisions": [
   {
    "revision_id": "202601940-e4b23214",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:28Z",
-   "last_observed_at": "2026-09-08T09:05:28Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-07-03"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:28Z"
+ ]
 }

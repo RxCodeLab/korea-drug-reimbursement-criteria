@@ -7,11 +7,12 @@
  "permit_date": "20170620",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M266472]정제 불활화 인플루엔자 바이러스 항원 B형 [B/Phuket/3073/2013 - like strain (B/Phuket/3073/2013, wild type)]|[M282833]정제불활화인플루엔자바이러스항원B형[B/Austria/1359417/2021 - like strain (B/Michigan/01/2021, wild type)]|[M283939]정제불활화인플루엔자바이러스항원A형[A/Victoria/4897/2022 (H1N1)pdm09 - like strain (A/Victoria/4897/2022, IVR-238)]|[M284739]정제불활화인플루엔자바이러스항원A형[A/Thailand/8/2022 (H3N2)-like strain (A/California/122/2022, SAN-022)]",
+ "main_item_ingr": "[M283939]정제불활화인플루엔자바이러스항원A형[A/Victoria/4897/2022 (H1N1)pdm09 - like strain (A/Victoria/4897/2022, IVR-238)]|[M284739]정제불활화인플루엔자바이러스항원A형[A/Thailand/8/2022 (H3N2)-like strain (A/California/122/2022, SAN-022)]|[M266472]정제 불활화 인플루엔자 바이러스 항원 B형 [B/Phuket/3073/2013 - like strain (B/Phuket/3073/2013, wild type)]|[M282833]정제불활화인플루엔자바이러스항원B형[B/Austria/1359417/2021 - like strain (B/Michigan/01/2021, wild type)]",
  "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A [A/Thailand/8/2022 (H3N2)-like strain (A/California/122/2022, SAN-022)]/Purified Inactivated Influenza Virus Antigen B [B/Austria/1359417/2021 - like strain (B/Michigan/01/2021, wild type)]/Purified Inactivated Influenza Virus Antigen B [B/Phuket/3073/2013 - like strain (B/Phuket/3073/2013, wild type)]/Purified influenza virus antigen(split virion, inactivated) [A/Victoria/4897/2022 (H1N1)pdm09 - like strain (A/Victoria/4897/2022, IVR-238)]",
  "edi_code": "",
  "atc_code": "J07BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704029",
+ "history_fetched_at": "2026-09-08T08:51:58Z",
  "revisions": [
   {
    "revision_id": "201704029-be17fc32",
@@ -20,7 +21,7 @@
    "ee_doc_id": "9",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:51:58Z",
-   "last_observed_at": "2026-09-08T08:51:58Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2018-07-06"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:51:58Z",
    "last_observed_at": "2026-09-08T08:51:58Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:51:58Z"
+ ]
 }

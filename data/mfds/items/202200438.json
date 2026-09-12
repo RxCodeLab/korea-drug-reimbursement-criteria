@@ -7,11 +7,12 @@
  "permit_date": "20220127",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M096428]벤포티아민|[M096429]시아노코발라민|[M202809]감마-오리자놀|[M204304]피리독신염산염|[M223167]우르소데옥시콜산|[M223240]토코페롤아세테이트",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M202809]감마-오리자놀|[M096429]시아노코발라민|[M040064]니코틴산아미드|[M040133]리보플라빈|[M204304]피리독신염산염|[M096428]벤포티아민|[M223240]토코페롤아세테이트|[M040262]산화마그네슘",
  "main_item_ingr_eng": "Benfotiamine/Cyanocobalamin/Gamma-Oryzanol/Magnesium Oxide/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Tocopherol Acetate/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200438",
+ "history_fetched_at": "2026-09-08T09:01:01Z",
  "revisions": [
   {
    "revision_id": "202200438-d36bf9a6",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:01Z",
-   "last_observed_at": "2026-09-08T09:01:01Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2022-01-27"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:01Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20080509",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M100596]비마토프로스트|[M100596]비마토프로스트|[M222894]티몰롤말레산염|[M222894]티몰롤말레산염",
+ "main_item_ingr": "[M222894]티몰롤말레산염|[M100596]비마토프로스트|[M222894]티몰롤말레산염|[M100596]비마토프로스트",
  "main_item_ingr_eng": "Bimatoprost/Timolol Maleate",
  "edi_code": "624900451,624900461",
  "atc_code": "S01ED51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805356",
+ "history_fetched_at": "2026-09-08T08:42:30Z",
  "revisions": [
   {
    "revision_id": "200805356-d1ca52b0",
@@ -20,9 +21,8 @@
    "ee_doc_id": "29",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:42:30Z",
-   "last_observed_at": "2026-09-08T08:42:30Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:42:30Z"
+ ]
 }

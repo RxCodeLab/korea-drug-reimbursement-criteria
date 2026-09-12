@@ -7,11 +7,12 @@
  "permit_date": "20171122",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M204304]피리독신염산염|[M204437]L-시스테인|[M223167]우르소데옥시콜산|[M223262]티아민질산염|[M223289]폴산|[M247683]콜린타르타르산염|[M255819]토코페롤아세테이트 2배산|[M258994]아스코르브산",
+ "main_item_ingr": "[M223289]폴산|[M204437]L-시스테인|[M204304]피리독신염산염|[M040133]리보플라빈|[M223262]티아민질산염|[M255819]토코페롤아세테이트 2배산|[M223167]우르소데옥시콜산|[M247683]콜린타르타르산염|[M258994]아스코르브산",
  "main_item_ingr_eng": "Ascorbic Acid/Choline Tartrate/Folic Acid/L-Cysteine/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate/Tocopherol Acetate Powder 50%/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708001",
+ "history_fetched_at": "2026-09-08T08:52:35Z",
  "revisions": [
   {
    "revision_id": "201708001-dba6b6a6",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:52:35Z",
-   "last_observed_at": "2026-09-08T08:52:35Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2017-11-22"
   }
- ],
- "history_fetched_at": "2026-09-08T08:52:35Z"
+ ]
 }

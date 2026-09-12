@@ -7,11 +7,12 @@
  "permit_date": "20120405",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M081378]오로트산카르니틴|[M081379]항독성간장엑스|[M081380]염산아데닌|[M096429]시아노코발라민|[M204304]피리독신염산염",
+ "main_item_ingr": "[M096429]시아노코발라민|[M040133]리보플라빈|[M204304]피리독신염산염|[M081380]염산아데닌|[M081379]항독성간장엑스|[M081378]오로트산카르니틴",
  "main_item_ingr_eng": "Adenine Hydrochloride/Antitoxic Liver Extract/Carnitine Orotate/Cyanocobalamin/Pyridoxine Hydrochloride/Riboflavin",
  "edi_code": "",
  "atc_code": "A05BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201202712",
+ "history_fetched_at": "2026-09-08T08:45:15Z",
  "revisions": [
   {
    "revision_id": "201202712-e93c9834",
@@ -20,9 +21,8 @@
    "ee_doc_id": "2",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:45:15Z",
-   "last_observed_at": "2026-09-08T08:45:15Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:45:15Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20250402",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223211]클로르페니라민말레산염|[M257887]자일로메타졸린염산염",
+ "main_item_ingr": "[M257887]자일로메타졸린염산염|[M223211]클로르페니라민말레산염",
  "main_item_ingr_eng": "Chlorpheniramine Maleate/Xylometazoline Hydrochloride",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500775",
+ "history_fetched_at": "2026-09-08T09:03:48Z",
  "revisions": [
   {
    "revision_id": "202500775-704317dc",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:48Z",
-   "last_observed_at": "2026-09-08T09:03:48Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-04-02"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:48Z"
+ ]
 }

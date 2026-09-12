@@ -7,11 +7,12 @@
  "permit_date": "20211005",
  "cancel_date": "20250109",
  "status": "취하",
- "main_item_ingr": "[M223240]토코페롤아세테이트|[M255993]농축콜레칼시페롤(유상)|[M258994]아스코르브산",
+ "main_item_ingr": "[M258994]아스코르브산|[M223240]토코페롤아세테이트|[M255993]농축콜레칼시페롤(유상)",
  "main_item_ingr_eng": "Ascorbic Acid/Cholecalciferol Concentrate Oil/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11JA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106739",
+ "history_fetched_at": "2026-09-08T09:00:38Z",
  "revisions": [
   {
    "revision_id": "202106739-69b61594",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:38Z",
-   "last_observed_at": "2026-09-08T09:00:38Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-10-05"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:38Z"
+ ]
 }

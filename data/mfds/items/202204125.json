@@ -7,11 +7,12 @@
  "permit_date": "20221116",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M117558]시아노코발라민 1000배산|[M204304]피리독신염산염|[M223262]티아민질산염|[M244748]판토텐산칼슘|[M258994]아스코르브산",
+ "main_item_ingr": "[M117558]시아노코발라민 1000배산|[M244748]판토텐산칼슘|[M223262]티아민질산염|[M040133]리보플라빈|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M258994]아스코르브산",
  "main_item_ingr_eng": "Ascorbic Acid/Calcium Pantothenate/Cyanocobalamin Powder 0.1%/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate",
  "edi_code": "",
  "atc_code": "A11EB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204125",
+ "history_fetched_at": "2026-09-08T09:01:40Z",
  "revisions": [
   {
    "revision_id": "202204125-51e4c720",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:40Z",
-   "last_observed_at": "2026-09-08T09:01:40Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2022-11-16"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:40Z"
+ ]
 }

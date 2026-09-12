@@ -7,11 +7,12 @@
  "permit_date": "20190527",
  "cancel_date": "20240527",
  "status": "유효기간만료",
- "main_item_ingr": "[M051832]플루오로메톨론|[M223237]테트라히드로졸린염산염",
+ "main_item_ingr": "[M223237]테트라히드로졸린염산염|[M051832]플루오로메톨론",
  "main_item_ingr_eng": "Fluorometholone/Tetrahydrozoline Hydrochloride",
  "edi_code": "",
  "atc_code": "S01B",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903409",
+ "history_fetched_at": "2026-09-08T08:55:20Z",
  "revisions": [
   {
    "revision_id": "201903409-b98433ed",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:55:20Z",
-   "last_observed_at": "2026-09-08T08:55:20Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-05-27"
   }
- ],
- "history_fetched_at": "2026-09-08T08:55:20Z"
+ ]
 }

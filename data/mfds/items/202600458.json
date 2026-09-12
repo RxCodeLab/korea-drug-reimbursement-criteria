@@ -7,11 +7,12 @@
  "permit_date": "20260219",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M081871]글리세로인산마그네슘|[M081871]글리세로인산마그네슘|[M204304]피리독신염산염|[M204304]피리독신염산염|[M217501]황산아연수화물|[M217501]황산아연수화물",
+ "main_item_ingr": "[M204304]피리독신염산염|[M217501]황산아연수화물|[M081871]글리세로인산마그네슘|[M204304]피리독신염산염|[M217501]황산아연수화물|[M081871]글리세로인산마그네슘",
  "main_item_ingr_eng": "Magnesium Glycerophosphate/Pyridoxine Hydrochloride/Zinc Sulfate Hydrate",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600458",
+ "history_fetched_at": "2026-09-08T09:04:47Z",
  "revisions": [
   {
    "revision_id": "202600458-da4cc1f1",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:47Z",
-   "last_observed_at": "2026-09-08T09:04:47Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-02-19"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:47Z"
+ ]
 }

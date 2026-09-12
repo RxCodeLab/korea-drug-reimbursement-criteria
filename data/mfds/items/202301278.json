@@ -7,11 +7,12 @@
  "permit_date": "20230419",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M040488]이노시톨|[M050704]비오틴|[M083577]비스벤티아민|[M096428]벤포티아민|[M096429]시아노코발라민|[M102050]콜레칼시페롤농축분말|[M204304]피리독신염산염|[M223167]우르소데옥시콜산|[M223289]폴산|[M243785]산화아연|[M244365]셀레늄함유건조효모|[M244748]판토텐산칼슘|[M247683]콜린타르타르산염",
+ "main_item_ingr": "[M040133]리보플라빈|[M040064]니코틴산아미드|[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M050704]비오틴|[M223289]폴산|[M096429]시아노코발라민|[M083577]비스벤티아민|[M040488]이노시톨|[M096428]벤포티아민|[M102050]콜레칼시페롤농축분말|[M244365]셀레늄함유건조효모|[M243785]산화아연|[M040262]산화마그네슘|[M223167]우르소데옥시콜산|[M247683]콜린타르타르산염",
  "main_item_ingr_eng": "Benfotiamine/Biotin/Bisbentiamine/Calcium Pantothenate/Cholecalciferol Concentrate Powder/Choline Tartrate/Cyanocobalamin/Folic Acid/Inositol/Magnesium Oxide/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Selenium In Dried Yeast/Ursodeoxycholic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301278",
+ "history_fetched_at": "2026-09-08T09:02:01Z",
  "revisions": [
   {
    "revision_id": "202301278-71437b71",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:01Z",
-   "last_observed_at": "2026-09-08T09:02:01Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2023-04-19"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:01Z"
+ ]
 }

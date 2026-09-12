@@ -7,11 +7,12 @@
  "permit_date": "20210420",
  "cancel_date": "20260420",
  "status": "유효기간만료",
- "main_item_ingr": "[M040647]토코페롤|[M244365]셀레늄함유건조효모|[M250857]β-카로틴현탁액30%|[M258994]아스코르브산",
+ "main_item_ingr": "[M250857]β-카로틴현탁액30%|[M040647]토코페롤|[M258994]아스코르브산|[M244365]셀레늄함유건조효모",
  "main_item_ingr_eng": "Ascorbic Acid/Beta-Carotene Suspension 30%/Selenium In Dried Yeast/Tocopherol",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103218",
+ "history_fetched_at": "2026-09-08T09:00:07Z",
  "revisions": [
   {
    "revision_id": "202103218-1a8f116f",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:07Z",
-   "last_observed_at": "2026-09-08T09:00:07Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-04-20"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:07Z"
+ ]
 }

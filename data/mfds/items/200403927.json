@@ -7,11 +7,12 @@
  "permit_date": "20041217",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051324]젖산마그네슘|[M240075]염산피리독신",
+ "main_item_ingr": "[M240075]염산피리독신|[M051324]젖산마그네슘",
  "main_item_ingr_eng": "Magnesium Lactate/Pyridoxine Hydrochloride",
  "edi_code": "",
  "atc_code": "A12CC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403927",
+ "history_fetched_at": "2026-09-08T08:38:27Z",
  "revisions": [
   {
    "revision_id": "200403927-2a3e7d94",
@@ -20,9 +21,8 @@
    "ee_doc_id": "3",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:38:27Z",
-   "last_observed_at": "2026-09-08T08:38:27Z",
+   "last_observed_at": "2026-09-12T16:32:30Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:38:27Z"
+ ]
 }

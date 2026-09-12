@@ -7,11 +7,12 @@
  "permit_date": "20260814",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M223289]폴산|[M251365]폴리사카리드철착염|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr": "[M251365]폴리사카리드철착염|[M040133]리보플라빈|[M223289]폴산|[M255819]토코페롤아세테이트 2배산",
  "main_item_ingr_eng": "Folic Acid/Polysaccharide Iron Complex/Riboflavin/Tocopherol Acetate Powder 50%",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602388",
+ "history_fetched_at": "2026-09-08T09:05:37Z",
  "revisions": [
   {
    "revision_id": "202602388-48a544d7",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:37Z",
-   "last_observed_at": "2026-09-08T09:05:37Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-08-14"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:37Z"
+ ]
 }

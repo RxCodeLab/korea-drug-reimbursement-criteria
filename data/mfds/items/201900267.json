@@ -7,11 +7,12 @@
  "permit_date": "20190118",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M250026]엠트리시타빈|[M268156]빅테그라비르나트륨|[M278212]테노포비르알라페나미드헤미푸마르산염",
+ "main_item_ingr": "[M268156]빅테그라비르나트륨|[M250026]엠트리시타빈|[M278212]테노포비르알라페나미드헤미푸마르산염",
  "main_item_ingr_eng": "Bictegravir Sodium/Emtricitabine/Tenofovir Alafenamide HemiFumarate",
  "edi_code": "625900130",
  "atc_code": "J05AR20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900267",
+ "history_fetched_at": "2026-09-08T08:54:05Z",
  "revisions": [
   {
    "revision_id": "201900267-98919ded",
@@ -20,7 +21,7 @@
    "ee_doc_id": "34",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:54:05Z",
-   "last_observed_at": "2026-09-08T08:54:05Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2025-04-24"
   },
   {
@@ -43,6 +44,5 @@
    "first_observed_at": "2026-09-08T08:54:05Z",
    "last_observed_at": "2026-09-08T08:54:05Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:54:05Z"
+ ]
 }

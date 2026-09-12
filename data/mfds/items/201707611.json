@@ -7,11 +7,12 @@
  "permit_date": "20171026",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M100992]코바마미드|[M228349]레보카르니틴",
+ "main_item_ingr": "[M228349]레보카르니틴|[M100992]코바마미드",
  "main_item_ingr_eng": "Cobamamide/Levocarnitine",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707611",
+ "history_fetched_at": "2026-09-08T08:52:30Z",
  "revisions": [
   {
    "revision_id": "201707611-a82e45bb",
@@ -20,9 +21,8 @@
    "ee_doc_id": "2",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:52:30Z",
-   "last_observed_at": "2026-09-08T08:52:30Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2017-10-27"
   }
- ],
- "history_fetched_at": "2026-09-08T08:52:30Z"
+ ]
 }

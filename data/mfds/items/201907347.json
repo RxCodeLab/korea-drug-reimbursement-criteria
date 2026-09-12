@@ -7,11 +7,12 @@
  "permit_date": "20191018",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M200412]로얄젤리|[M202582]D-판테놀|[M204304]피리독신염산염|[M223240]토코페롤아세테이트|[M223262]티아민질산염",
+ "main_item_ingr": "[M200412]로얄젤리|[M202582]D-판테놀|[M223262]티아민질산염|[M223240]토코페롤아세테이트|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M040133]리보플라빈",
  "main_item_ingr_eng": "Dexpanthenol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Royal Jelly/Thiamine Nitrate/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907347",
+ "history_fetched_at": "2026-09-08T08:56:44Z",
  "revisions": [
   {
    "revision_id": "201907347-710bb4b7",
@@ -20,7 +21,7 @@
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201907347/EE",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:56:44Z",
-   "last_observed_at": "2026-09-08T08:56:44Z"
+   "last_observed_at": "2026-09-12T16:32:37Z"
   },
   {
    "revision_id": "201907347-db96be92",
@@ -32,6 +33,5 @@
    "first_observed_at": "2026-09-08T08:56:44Z",
    "last_observed_at": "2026-09-08T08:56:44Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:56:44Z"
+ ]
 }

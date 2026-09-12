@@ -7,11 +7,12 @@
  "permit_date": "20230609",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040488]이노시톨|[M050436]메코발라민|[M096428]벤포티아민|[M113501]농축콜레칼시페롤 산|[M202809]감마-오리자놀|[M204304]피리독신염산염|[M243785]산화아연|[M244748]판토텐산칼슘|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr": "[M040488]이노시톨|[M050436]메코발라민|[M113501]농축콜레칼시페롤 산|[M040133]리보플라빈|[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M096428]벤포티아민|[M202809]감마-오리자놀|[M243785]산화아연|[M256191]콘드로이틴설페이트나트륨",
  "main_item_ingr_eng": "Benfotiamine/Calcium Pantothenate/Cholecalciferol Concentrate Powder/Gamma-Oryzanol/Inositol/Mecobalamin/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Sodium Chondroitin Sulfate/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301790",
+ "history_fetched_at": "2026-09-08T09:02:08Z",
  "revisions": [
   {
    "revision_id": "202301790-7f16cd69",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:08Z",
-   "last_observed_at": "2026-09-08T09:02:08Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2023-06-09"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:08Z"
+ ]
 }

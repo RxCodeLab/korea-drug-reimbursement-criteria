@@ -7,11 +7,12 @@
  "permit_date": "20250428",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M286564]약독인플루엔자생바이러스A형[A/Darwin/1369/2025(H3N2)]|[M286565]약독인플루엔자생바이러스A형[A/Switzerland/6849/2025(H1N1)]|[M286566]약독인플루엔자생바이러스B형[B/Perth/115/2025(Victoria)]",
+ "main_item_ingr": "[M286566]약독인플루엔자생바이러스B형[B/Perth/115/2025(Victoria)]|[M286564]약독인플루엔자생바이러스A형[A/Darwin/1369/2025(H3N2)]|[M286565]약독인플루엔자생바이러스A형[A/Switzerland/6849/2025(H1N1)]",
  "main_item_ingr_eng": "Live Attenuated Influenza Virus Type A [A/Darwin/1369/2025(H3N2)]/Live Attenuated Influenza Virus Type A [A/Switzerland/6849/2025(H1N1)]/Live Attenuated Influenza Virus Type B [B/Perth/115/2025(Victoria)]",
  "edi_code": "",
  "atc_code": "J07BB03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501023",
+ "history_fetched_at": "2026-09-08T09:03:52Z",
  "revisions": [
   {
    "revision_id": "202501023-9b03c2d5",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:52Z",
-   "last_observed_at": "2026-09-08T09:03:52Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-04-28"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:52Z"
+ ]
 }

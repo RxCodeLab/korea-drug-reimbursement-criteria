@@ -7,11 +7,12 @@
  "permit_date": "20091012",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M246732]에키나시아푸르푸레아 허바팅크|[M246733]에키나시아푸르푸레아 뿌리팅크",
+ "main_item_ingr": "[M246733]에키나시아푸르푸레아 뿌리팅크|[M246732]에키나시아푸르푸레아 허바팅크",
  "main_item_ingr_eng": "Echinacea Purpurea Tincture",
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907385",
+ "history_fetched_at": "2026-09-08T08:43:35Z",
  "revisions": [
   {
    "revision_id": "200907385-c3bf7142",
@@ -20,9 +21,8 @@
    "ee_doc_id": "17",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:43:35Z",
-   "last_observed_at": "2026-09-08T08:43:35Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:43:35Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20190605",
  "cancel_date": "20240605",
  "status": "유효기간만료",
- "main_item_ingr": "[M099850]이소프로판올|[M099850]이소프로판올|[M099850]이소프로판올|[M223220]클로르헥시딘글루콘산염 액|[M223220]클로르헥시딘글루콘산염 액|[M223220]클로르헥시딘글루콘산염 액",
+ "main_item_ingr": "[M099850]이소프로판올|[M223220]클로르헥시딘글루콘산염 액|[M099850]이소프로판올|[M223220]클로르헥시딘글루콘산염 액|[M099850]이소프로판올|[M223220]클로르헥시딘글루콘산염 액",
  "main_item_ingr_eng": "Chlorhexidine Gluconate Solution/Isopropanol",
  "edi_code": "",
  "atc_code": "D08AC52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903769",
+ "history_fetched_at": "2026-09-08T08:55:32Z",
  "revisions": [
   {
    "revision_id": "201903769-b39bd546",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:55:32Z",
-   "last_observed_at": "2026-09-08T08:55:32Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-06-05"
   }
- ],
- "history_fetched_at": "2026-09-08T08:55:32Z"
+ ]
 }

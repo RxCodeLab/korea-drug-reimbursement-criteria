@@ -7,11 +7,12 @@
  "permit_date": "20190619",
  "cancel_date": "20240619",
  "status": "유효기간만료",
- "main_item_ingr": "[M088654]망초|[M266088]감초건조엑스(5.4~6.6→1)|[M269795]계지건조엑스(45.5~55.6→1)|[M269796]대황건조엑스(4.3~5.2→1)|[M269797]도인건조엑스(5.1~6.2→1)",
+ "main_item_ingr": "[M088654]망초|[M269797]도인건조엑스(5.1~6.2→1)|[M269796]대황건조엑스(4.3~5.2→1)|[M269795]계지건조엑스(45.5~55.6→1)|[M266088]감초건조엑스(5.4~6.6→1)",
  "main_item_ingr_eng": "Cinnamomi Ramulus Dried Extract (45.5~55.6→1)/Glycyrrhiza Dried Extract (5.4~6.6→1)/Natrii Sulfas/Peach Kernel Dried Extract (5.1~6.2→1)/Rhubarb Dried Extract (4.3~5.2→1)",
  "edi_code": "",
  "atc_code": "N07XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904247",
+ "history_fetched_at": "2026-09-08T08:55:36Z",
  "revisions": [
   {
    "revision_id": "201904247-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:55:36Z",
-   "last_observed_at": "2026-09-08T08:55:36Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-06-19"
   }
- ],
- "history_fetched_at": "2026-09-08T08:55:36Z"
+ ]
 }

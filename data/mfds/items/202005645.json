@@ -7,11 +7,12 @@
  "permit_date": "20200805",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040021]고추엑스|[M040021]고추엑스|[M040021]고추엑스|[M230875]l-멘톨|[M230875]l-멘톨|[M230875]l-멘톨",
+ "main_item_ingr": "[M230875]l-멘톨|[M040021]고추엑스|[M230875]l-멘톨|[M040021]고추엑스|[M230875]l-멘톨|[M040021]고추엑스",
  "main_item_ingr_eng": "Capsicum Extract/L-Menthol",
  "edi_code": "",
  "atc_code": "M02AB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005645",
+ "history_fetched_at": "2026-09-08T08:59:20Z",
  "revisions": [
   {
    "revision_id": "202005645-6052499f",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:59:20Z",
-   "last_observed_at": "2026-09-08T08:59:20Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-08-05"
   }
- ],
- "history_fetched_at": "2026-09-08T08:59:20Z"
+ ]
 }

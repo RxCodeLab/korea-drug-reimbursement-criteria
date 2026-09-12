@@ -7,7 +7,7 @@
  "permit_date": "20030826",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040188]몰약|[M050499]목별자|[M051238]유향|[M083244]위령선|[M088936]피마자|[M203279]살리실산메틸|[M243785]산화아연|[M279284]L-멘톨",
+ "main_item_ingr": "[M203279]살리실산메틸|[M243785]산화아연|[M279284]L-멘톨|[M051238]유향|[M040188]몰약|[M088936]피마자|[M050499]목별자|[M083244]위령선",
  "main_item_ingr_eng": "Clematidis Radix/L-Menthol/Methyl Salicylate/Momordicae Semen/Myrrh/Olibanum/Ricini Semen/Zinc Oxide",
  "edi_code": "",
  "atc_code": "M02AC",
@@ -20,7 +20,7 @@
    "ee_text": "다음 증상에 대한 진통, 소염(항염) : 타박상, 어깨결림, 류마티스통증",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:24:03Z",
-   "last_observed_at": "2026-09-08T08:37:23Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2017-09-23",
    "normalizer_version": 3
   }

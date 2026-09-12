@@ -7,11 +7,12 @@
  "permit_date": "20090716",
  "cancel_date": "20250701",
  "status": "유효기간만료",
- "main_item_ingr": "[M040007]건강|[M040198]박하|[M040486]육두구|[M040527]정향|[M040536]지실|[M040538]진피|[M040548]창출|[M050036]육계|[M051153]오약",
+ "main_item_ingr": "[M040527]정향|[M040198]박하|[M040486]육두구|[M040007]건강|[M040548]창출|[M040538]진피|[M040536]지실|[M051153]오약|[M050036]육계",
  "main_item_ingr_eng": "Atractylodes Rhizome/Cinnamon Bark/Citrus Unshiu Peel/Clove/Ginger/Lindera Root/Mentha Herb/Nutmeg/Poncirus Immature Fruit",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905435",
+ "history_fetched_at": "2026-09-08T08:43:25Z",
  "revisions": [
   {
    "revision_id": "200905435-aecee3ec",
@@ -20,9 +21,8 @@
    "ee_doc_id": "6",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:43:25Z",
-   "last_observed_at": "2026-09-08T08:43:25Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:43:25Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20171109",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M118341]릭시세나티드|[M201508]인슐린글라진(유전자재조합)",
+ "main_item_ingr": "[M201508]인슐린글라진(유전자재조합)|[M118341]릭시세나티드",
  "main_item_ingr_eng": "Insulin Glargine (rDNA)/Lixisenatide",
  "edi_code": "652001071",
  "atc_code": "A10AE54",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707854",
+ "history_fetched_at": "2026-09-08T08:52:32Z",
  "revisions": [
   {
    "revision_id": "201707854-bd90364f",
@@ -20,7 +21,7 @@
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201707854/EE",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:52:32Z",
-   "last_observed_at": "2026-09-08T08:52:32Z"
+   "last_observed_at": "2026-09-12T16:32:35Z"
   },
   {
    "revision_id": "201707854-e11736d0",
@@ -42,6 +43,5 @@
    "first_observed_at": "2026-09-08T08:52:32Z",
    "last_observed_at": "2026-09-08T08:52:32Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:52:32Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20220715",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040634]침강탄산칼슘|[M050379]리파제|[M050448]메타규산알루민산마그네슘|[M051800]프로자임|[M207094]탄산수소나트륨|[M223167]우르소데옥시콜산|[M261464]디아스타제·프로테아제·셀룰라제1000",
+ "main_item_ingr": "[M050379]리파제|[M051800]프로자임|[M261464]디아스타제·프로테아제·셀룰라제1000|[M223167]우르소데옥시콜산|[M207094]탄산수소나트륨|[M040634]침강탄산칼슘|[M050448]메타규산알루민산마그네슘",
  "main_item_ingr_eng": "Diastase·Protease·Cellulase 1000/Lipase/Magnesium Aluminometasilicate/Precipitated Calcium Carbonate/Prozyme/Sodium Bicarbonate/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202909",
+ "history_fetched_at": "2026-09-08T09:01:26Z",
  "revisions": [
   {
    "revision_id": "202202909-cdbaf20b",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:26Z",
-   "last_observed_at": "2026-09-08T09:01:26Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2022-07-15"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:26Z"
+ ]
 }

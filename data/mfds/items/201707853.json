@@ -7,11 +7,12 @@
  "permit_date": "20171109",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M096429]시아노코발라민|[M204304]피리독신염산염|[M223289]폴산",
+ "main_item_ingr": "[M223289]폴산|[M096429]시아노코발라민|[M204304]피리독신염산염",
  "main_item_ingr_eng": "Cyanocobalamin/Folic Acid/Pyridoxine Hydrochloride",
  "edi_code": "",
  "atc_code": "A11JA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707853",
+ "history_fetched_at": "2026-09-08T08:52:33Z",
  "revisions": [
   {
    "revision_id": "201707853-7e5aec46",
@@ -20,7 +21,7 @@
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201707853/EE",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:52:33Z",
-   "last_observed_at": "2026-09-08T08:52:33Z"
+   "last_observed_at": "2026-09-12T16:32:35Z"
   },
   {
    "revision_id": "201707853-4f4b5b23",
@@ -32,6 +33,5 @@
    "first_observed_at": "2026-09-08T08:52:33Z",
    "last_observed_at": "2026-09-08T08:52:33Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:52:33Z"
+ ]
 }

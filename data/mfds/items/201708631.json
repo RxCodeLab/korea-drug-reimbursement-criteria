@@ -7,11 +7,12 @@
  "permit_date": "20171229",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040006]감초|[M040070]당귀|[M040071]대추|[M040523]작약|[M040550]천궁|[M040790]황기|[M050036]육계|[M050752]생강|[M051364]숙지황",
+ "main_item_ingr": "[M040071]대추|[M050752]생강|[M040006]감초|[M050036]육계|[M040550]천궁|[M040070]당귀|[M040790]황기|[M051364]숙지황|[M040523]작약",
  "main_item_ingr_eng": "Angelica Gigas Root/Astragalus Root/Cinnamon Bark/Cnidium Rhizome/Jujube/Licorice/Peony Root/Prepared Rehmannia Root/Raw Ginger",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708631",
+ "history_fetched_at": "2026-09-08T08:52:45Z",
  "revisions": [
   {
    "revision_id": "201708631-ff9e97e1",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:52:45Z",
-   "last_observed_at": "2026-09-08T08:52:45Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2017-12-29"
   }
- ],
- "history_fetched_at": "2026-09-08T08:52:45Z"
+ ]
 }

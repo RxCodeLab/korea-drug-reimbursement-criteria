@@ -7,11 +7,12 @@
  "permit_date": "20131120",
  "cancel_date": "20231120",
  "status": "유효기간만료",
- "main_item_ingr": "[M081371]설파메톡사졸나트륨|[M102908]타우린|[M203443]아미노카프로산|[M256386]글리시리진산이칼륨",
+ "main_item_ingr": "[M081371]설파메톡사졸나트륨|[M256386]글리시리진산이칼륨|[M203443]아미노카프로산|[M102908]타우린",
  "main_item_ingr_eng": "Aminocaproic Acid/Dipotassium Glycyrrhizinate/Sodium Sulfamethoxazole/Taurine",
  "edi_code": "",
  "atc_code": "S01CC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310201",
+ "history_fetched_at": "2026-09-08T08:46:30Z",
  "revisions": [
   {
    "revision_id": "201310201-ffbe0497",
@@ -20,9 +21,8 @@
    "ee_doc_id": "6",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:46:30Z",
-   "last_observed_at": "2026-09-08T08:46:30Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:46:30Z"
+ ]
 }

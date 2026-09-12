@@ -7,11 +7,12 @@
  "permit_date": "20260327",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M207094]탄산수소나트륨|[M283009]에스오메프라졸마그네슘삼수화물펠렛",
+ "main_item_ingr": "[M283009]에스오메프라졸마그네슘삼수화물펠렛|[M207094]탄산수소나트륨",
  "main_item_ingr_eng": "Esomeprazole Magnesium Trihydrate Pellet/Sodium Bicarbonate",
  "edi_code": "643310300",
  "atc_code": "A02BC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600876",
+ "history_fetched_at": "2026-09-08T09:04:56Z",
  "revisions": [
   {
    "revision_id": "202600876-4ab9e9fb",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:56Z",
-   "last_observed_at": "2026-09-08T09:04:56Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-03-27"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:56Z"
+ ]
 }

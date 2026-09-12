@@ -7,11 +7,12 @@
  "permit_date": "20190415",
  "cancel_date": "20240415",
  "status": "유효기간만료",
- "main_item_ingr": "[M040306]수산화마그네슘|[M110253]노회 엑스|[M223167]우르소데옥시콜산|[M244350]판토텐산칼슘",
+ "main_item_ingr": "[M244350]판토텐산칼슘|[M110253]노회 엑스|[M223167]우르소데옥시콜산|[M040306]수산화마그네슘",
  "main_item_ingr_eng": "Aloe Extract/Calcium Pantothenate/Magnesium Hydroxide/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902278",
+ "history_fetched_at": "2026-09-08T08:54:49Z",
  "revisions": [
   {
    "revision_id": "201902278-8092f99e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:54:49Z",
-   "last_observed_at": "2026-09-08T08:54:49Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2019-04-15"
   }
- ],
- "history_fetched_at": "2026-09-08T08:54:49Z"
+ ]
 }

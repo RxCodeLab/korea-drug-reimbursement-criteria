@@ -7,11 +7,12 @@
  "permit_date": "20071226",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M253648]불활화폴리오바이러스 제1형 (바이러스주명: Mahoney주)|[M253649]불활화폴리오바이러스 제2형 (바이러스주명: MEF-1주)|[M253650]불활화폴리오바이러스 제3형 (바이러스주명: Saukett주)",
+ "main_item_ingr": "[M253650]불활화폴리오바이러스 제3형 (바이러스주명: Saukett주)|[M253649]불활화폴리오바이러스 제2형 (바이러스주명: MEF-1주)|[M253648]불활화폴리오바이러스 제1형 (바이러스주명: Mahoney주)",
  "main_item_ingr_eng": "Inactivated Polio Virus Type I (Stain: Mahoney)/Inactivated Polio Virus Type II (Stain: MEF-1)/Inactivated Polio Virus Type III (Stain: Saukett)",
  "edi_code": "",
  "atc_code": "J07BF03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713705",
+ "history_fetched_at": "2026-09-08T08:42:07Z",
  "revisions": [
   {
    "revision_id": "200713705-86a7d3cb",
@@ -20,9 +21,8 @@
    "ee_doc_id": "32",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:42:07Z",
-   "last_observed_at": "2026-09-08T08:42:07Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:42:07Z"
+ ]
 }

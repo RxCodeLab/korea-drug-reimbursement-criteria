@@ -7,11 +7,12 @@
  "permit_date": "20060622",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051882]피페로닐부톡시드|[M088901]피레트린엑스",
+ "main_item_ingr": "[M088901]피레트린엑스|[M051882]피페로닐부톡시드",
  "main_item_ingr_eng": "Piperonyl Butoxide/Pyrethrin Extract",
  "edi_code": "",
  "atc_code": "P03AC51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607886",
+ "history_fetched_at": "2026-09-08T08:40:32Z",
  "revisions": [
   {
    "revision_id": "200607886-dc727687",
@@ -20,9 +21,8 @@
    "ee_doc_id": "9",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:40:32Z",
-   "last_observed_at": "2026-09-08T08:40:32Z",
+   "last_observed_at": "2026-09-12T16:32:30Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:40:32Z"
+ ]
 }

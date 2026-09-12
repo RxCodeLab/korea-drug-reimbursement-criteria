@@ -7,7 +7,7 @@
  "permit_date": "19801224",
  "cancel_date": "20250401",
  "status": "유효기간만료",
- "main_item_ingr": "[M040006]감초|[M040071]대추|[M040202]반하|[M040336]시호|[M040789]황금|[M040792]황련|[M050752]생강|[M051291]인삼|[M096303]괄루인",
+ "main_item_ingr": "[M040071]대추|[M050752]생강|[M040006]감초|[M051291]인삼|[M040792]황련|[M040789]황금|[M040336]시호|[M096303]괄루인|[M040202]반하",
  "main_item_ingr_eng": "Bupleurum Root/Coptis Rhizome/Ginseng/Jujube/Licorice/Pinellia Tuber/Raw Ginger/Scutellaria Root/Trichosanthes Seed",
  "edi_code": "",
  "atc_code": "R05X",
@@ -20,7 +20,7 @@
    "ee_text": "기침, 기침으로 인한 가슴통증",
    "ee_doc_id": "5",
    "first_observed_at": "2026-08-28T13:23:38Z",
-   "last_observed_at": "2026-09-08T08:26:41Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23",
    "normalizer_version": 3
   }

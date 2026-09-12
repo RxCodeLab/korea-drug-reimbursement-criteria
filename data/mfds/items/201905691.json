@@ -7,11 +7,12 @@
  "permit_date": "20190813",
  "cancel_date": "20240813",
  "status": "유효기간만료",
- "main_item_ingr": "[M262705]황금건조엑스(3.2~4.0→1)\r\n|[M262708]반하건조엑스(5.9~7.3→1)\r\n|[M262710]감초건조엑스(5.4~6.6→1)\r\n|[M262711]생강건조엑스(26.0~31.7→1)\r\n|[M266085]인삼건조엑스(6.1~7.4→1)|[M266238]대추건조엑스(2.5~3.1→1)|[M270114]시호건조엑스(8.8~10.8→1)",
+ "main_item_ingr": "[M266238]대추건조엑스(2.5~3.1→1)|[M262711]생강건조엑스(26.0~31.7→1)\r\n|[M262710]감초건조엑스(5.4~6.6→1)\r\n|[M262708]반하건조엑스(5.9~7.3→1)\r\n|[M266085]인삼건조엑스(6.1~7.4→1)|[M262705]황금건조엑스(3.2~4.0→1)\r\n|[M270114]시호건조엑스(8.8~10.8→1)",
  "main_item_ingr_eng": "Bupleurum Root Dried Extract(8.8~10.8→1)/Ginseng Dried Extract (6.1~7.4→1)/Glycyrrhiza Dried Extract (5.4~6.6→1)/Jujube Dried Extract (2.5~3.1→1)/Pinellia Tuber Dried Extract (5.9~7.3→1)/Raw Ginger Dried Extract (26.0~31.7→1)/Scutellaria Root Dried Extract (3.2~4.0→1)",
  "edi_code": "",
  "atc_code": "A16AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905691",
+ "history_fetched_at": "2026-09-08T08:56:05Z",
  "revisions": [
   {
    "revision_id": "201905691-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:56:05Z",
-   "last_observed_at": "2026-09-08T08:56:05Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-08-13"
   }
- ],
- "history_fetched_at": "2026-09-08T08:56:05Z"
+ ]
 }

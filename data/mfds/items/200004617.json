@@ -7,11 +7,12 @@
  "permit_date": "20000713",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M203443]아미노카프로산|[M204304]피리독신염산염|[M222937]나파졸린염산염|[M222940]네오스티그민메틸황산염|[M223211]클로르페니라민말레산염|[M256191]콘드로이틴설페이트나트륨|[M256386]글리시리진산이칼륨",
+ "main_item_ingr": "[M256191]콘드로이틴설페이트나트륨|[M204304]피리독신염산염|[M256386]글리시리진산이칼륨|[M223211]클로르페니라민말레산염|[M222937]나파졸린염산염|[M222940]네오스티그민메틸황산염|[M203443]아미노카프로산",
  "main_item_ingr_eng": "Aminocaproic Acid/Chlorpheniramine Maleate/Dipotassium Glycyrrhizinate/Naphazoline Hydrochloride/Neostigmine Methylsulfate/Pyridoxine Hydrochloride/Sodium Chondroitin Sulfate",
  "edi_code": "",
  "atc_code": "S01XA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200004617",
+ "history_fetched_at": "2026-09-08T08:34:17Z",
  "revisions": [
   {
    "revision_id": "200004617-61f7171b",
@@ -20,7 +21,7 @@
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/200004617/EE",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:34:17Z",
-   "last_observed_at": "2026-09-08T08:34:17Z"
+   "last_observed_at": "2026-09-12T16:32:29Z"
   },
   {
    "revision_id": "200004617-fcc73948",
@@ -32,6 +33,5 @@
    "first_observed_at": "2026-09-08T08:34:17Z",
    "last_observed_at": "2026-09-08T08:34:17Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:34:17Z"
+ ]
 }

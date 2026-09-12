@@ -7,11 +7,12 @@
  "permit_date": "19911022",
  "cancel_date": "20250101",
  "status": "유효기간만료",
- "main_item_ingr": "[M222889]클렌부테롤염산염|[M233843]암브록솔염산염",
+ "main_item_ingr": "[M233843]암브록솔염산염|[M222889]클렌부테롤염산염",
  "main_item_ingr_eng": "Ambroxol Hydrochloride/Clenbuterol Hydrochloride",
  "edi_code": "",
  "atc_code": "R03CC63",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199102117",
+ "history_fetched_at": "2026-09-08T08:28:17Z",
  "revisions": [
   {
    "revision_id": "199102117-66bffb5a",
@@ -20,9 +21,8 @@
    "ee_doc_id": "14",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:28:17Z",
-   "last_observed_at": "2026-09-08T08:28:17Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:28:17Z"
+ ]
 }

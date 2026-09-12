@@ -7,11 +7,12 @@
  "permit_date": "20031111",
  "cancel_date": "20240229",
  "status": "취하",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040442]엽산|[M050884]엘시트룰린|[M085778]엘염산오르니친|[M086692]시아노코발라민|[M095151]엘염산아르기닌",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M040442]엽산|[M085778]엘염산오르니친|[M050884]엘시트룰린|[M095151]엘염산아르기닌|[M086692]시아노코발라민",
  "main_item_ingr_eng": "Cyanocobalamin/Folic Acid/L-Arginine Hydrochloride/L-Citrulline/L-Ornithine Hydrochloride/Nicotinamide",
  "edi_code": "",
  "atc_code": "A05BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301575",
+ "history_fetched_at": "2026-09-08T08:37:02Z",
  "revisions": [
   {
    "revision_id": "200301575-4c238b99",
@@ -20,9 +21,8 @@
    "ee_doc_id": "2",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:37:02Z",
-   "last_observed_at": "2026-09-08T08:37:02Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:37:02Z"
+ ]
 }

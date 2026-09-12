@@ -7,11 +7,12 @@
  "permit_date": "20260212",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040488]이노시톨|[M050436]메코발라민|[M050704]비오틴|[M051783]푸마르산철|[M102050]콜레칼시페롤농축분말|[M113513]아스코르브산 과립97%|[M204304]피리독신염산염|[M204437]L-시스테인|[M208932]γ-오리자놀|[M210377]아셀렌산나트륨오수화물|[M222995]리보플라빈부티레이트|[M223289]폴산|[M223292]푸르설티아민염산염|[M243785]산화아연|[M244748]판토텐산칼슘|[M247202]레티놀아세테이트 과립|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr": "[M223292]푸르설티아민염산염|[M222995]리보플라빈부티레이트|[M040064]니코틴산아미드|[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M050704]비오틴|[M223289]폴산|[M050436]메코발라민|[M208932]γ-오리자놀|[M051783]푸마르산철|[M247202]레티놀아세테이트 과립|[M113513]아스코르브산 과립97%|[M102050]콜레칼시페롤농축분말|[M255819]토코페롤아세테이트 2배산|[M040488]이노시톨|[M243785]산화아연|[M210377]아셀렌산나트륨오수화물|[M204437]L-시스테인",
  "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Biotin/Calcium Pantothenate/Cholecalciferol Concentrate Powder/Ferrous Fumarate/Folic Acid/Fursultiamine Hydrochloride/Gamma-Oryzanol/Inositol/L-Cysteine/Mecobalamin/Nicotinamide/Pyridoxine Hydrochloride/Retinol Acetate Granules/Riboflavin Butyrate/Sodium Selenite Pentahydrate/Tocopherol Acetate Powder 50%/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11AA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600394",
+ "history_fetched_at": "2026-09-08T09:04:46Z",
  "revisions": [
   {
    "revision_id": "202600394-fab1b4ee",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:46Z",
-   "last_observed_at": "2026-09-08T09:04:46Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-02-12"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:46Z"
+ ]
 }

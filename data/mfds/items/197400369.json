@@ -7,11 +7,12 @@
  "permit_date": "19741219",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M082760]복령가루|[M082761]인삼가루|[M084957]침향가루|[M091785]구기자가루|[M200168]꿀|[M248799]생지황의 착즙",
+ "main_item_ingr": "[M200168]꿀|[M084957]침향가루|[M091785]구기자가루|[M082760]복령가루|[M082761]인삼가루|[M248799]생지황의 착즙",
  "main_item_ingr_eng": "Aquilariae Lignum Powder/Ginseng Powder/Honey/Lycium Fruit Powder/Poria Powder/Rehmanniae Glutinosae Liboschitz var. Purpureae Makino",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400369",
+ "history_fetched_at": "2026-09-08T08:26:20Z",
  "revisions": [
   {
    "revision_id": "197400369-4e3c8d34",
@@ -20,9 +21,8 @@
    "ee_doc_id": "9",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:26:20Z",
-   "last_observed_at": "2026-09-08T08:26:20Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:26:20Z"
+ ]
 }

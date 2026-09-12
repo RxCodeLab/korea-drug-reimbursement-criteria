@@ -7,11 +7,12 @@
  "permit_date": "20110512",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M262141]정제불활화인플루엔자바이러스항원 A형 [A/California/7/2009,NYMC-181(H1N1)]|[M264137]정제불활화인플루엔자바이러스항원 A형 [A/Hong Kong/4801/2014, NYMC X-263B(H3N2)]|[M264138]정제불활화인플루엔자바이러스항원 B형 [B/Brisbane/60/2008, wild type]",
+ "main_item_ingr": "[M264138]정제불활화인플루엔자바이러스항원 B형 [B/Brisbane/60/2008, wild type]|[M264137]정제불활화인플루엔자바이러스항원 A형 [A/Hong Kong/4801/2014, NYMC X-263B(H3N2)]|[M262141]정제불활화인플루엔자바이러스항원 A형 [A/California/7/2009,NYMC-181(H1N1)]",
  "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A [A/California/7/2009,NYMC-181(H1N1)]/Purified Inactivated Influenza Virus Antigen A [A/Hong Kong/4801/2014, NYMC X-263B(H3N2)]/Purified Inactivated Influenza Virus Antigen B [B/Brisbane/60/2008, wild type]",
  "edi_code": "",
  "atc_code": "J07BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103138",
+ "history_fetched_at": "2026-09-08T08:44:37Z",
  "revisions": [
   {
    "revision_id": "201103138-5ab9813b",
@@ -20,9 +21,8 @@
    "ee_doc_id": "30",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:44:37Z",
-   "last_observed_at": "2026-09-08T08:44:37Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:44:37Z"
+ ]
 }

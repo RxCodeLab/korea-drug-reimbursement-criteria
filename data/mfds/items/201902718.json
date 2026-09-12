@@ -7,11 +7,12 @@
  "permit_date": "20190429",
  "cancel_date": "20240429",
  "status": "유효기간만료",
- "main_item_ingr": "[M082565]대황가루|[M082823]아선약가루|[M082927]용담가루|[M084756]현초가루|[M229810]황백가루|[M234405]육계가루",
+ "main_item_ingr": "[M229810]황백가루|[M082927]용담가루|[M082565]대황가루|[M234405]육계가루|[M084756]현초가루|[M082823]아선약가루",
  "main_item_ingr_eng": "Cinnamon Bark Powder/Gambir Powder/Gentian Root and Rhizome Powder/Geranium Herb Powder/Phellodendron Bark Powder/Rhubarb Powder",
  "edi_code": "",
  "atc_code": "A03A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902718",
+ "history_fetched_at": "2026-09-08T08:54:59Z",
  "revisions": [
   {
    "revision_id": "201902718-6f8cdeed",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:54:59Z",
-   "last_observed_at": "2026-09-08T08:54:59Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2019-04-29"
   }
- ],
- "history_fetched_at": "2026-09-08T08:54:59Z"
+ ]
 }

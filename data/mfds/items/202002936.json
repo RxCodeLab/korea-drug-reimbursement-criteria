@@ -7,11 +7,12 @@
  "permit_date": "20200423",
  "cancel_date": "20250423",
  "status": "유효기간만료",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M096428]벤포티아민|[M096429]시아노코발라민|[M204304]피리독신염산염|[M247683]콜린타르타르산염|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr": "[M096429]시아노코발라민|[M040064]니코틴산아미드|[M247683]콜린타르타르산염|[M204304]피리독신염산염|[M096428]벤포티아민|[M040133]리보플라빈|[M255819]토코페롤아세테이트 2배산|[M040262]산화마그네슘",
  "main_item_ingr_eng": "Benfotiamine/Choline Tartrate/Cyanocobalamin/Magnesium Oxide/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Tocopherol Acetate Powder 50%",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002936",
+ "history_fetched_at": "2026-09-08T08:58:30Z",
  "revisions": [
   {
    "revision_id": "202002936-6380138a",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:58:30Z",
-   "last_observed_at": "2026-09-08T08:58:30Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-04-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:58:30Z"
+ ]
 }

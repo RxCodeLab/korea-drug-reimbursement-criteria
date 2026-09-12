@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602727",
+ "item_name": "씨엠비오정(비오틴)",
+ "entp_name": "(주)씨엠지제약",
+ "permit_date": "20260911",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M050704]비오틴",
+ "main_item_ingr_eng": "Biotin",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602727",
+ "revisions": [
+  {
+   "revision_id": "202602727-84844158",
+   "content_sha256": "848441582374e424fdeb21a5b70d565b4d7f833712f9eff37140ef661fa84093",
+   "ee_text": "비오틴 결핍으로 인한 손·발톱 또는 모발 성장 장애",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-12T16:33:35Z",
+   "last_observed_at": "2026-09-12T16:33:35Z",
+   "official_revision_date": "2026-09-11"
+  }
+ ],
+ "history_fetched_at": "2026-09-12T16:33:35Z"
+}

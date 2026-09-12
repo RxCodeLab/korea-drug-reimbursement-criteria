@@ -7,11 +7,12 @@
  "permit_date": "20191114",
  "cancel_date": "20241114",
  "status": "유효기간만료",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M096428]벤포티아민|[M096429]시아노코발라민|[M204304]피리독신염산염|[M223240]토코페롤아세테이트|[M244350]판토텐산칼슘|[M258994]아스코르브산",
+ "main_item_ingr": "[M258994]아스코르브산|[M223240]토코페롤아세테이트|[M244350]판토텐산칼슘|[M040064]니코틴산아미드|[M096429]시아노코발라민|[M204304]피리독신염산염|[M040133]리보플라빈|[M096428]벤포티아민",
  "main_item_ingr_eng": "Ascorbic Acid/Benfotiamine/Calcium Pantothenate/Cyanocobalamin/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11EC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907926",
+ "history_fetched_at": "2026-09-08T08:57:02Z",
  "revisions": [
   {
    "revision_id": "201907926-7439dfa1",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:57:02Z",
-   "last_observed_at": "2026-09-08T08:57:02Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-11-14"
   }
- ],
- "history_fetched_at": "2026-09-08T08:57:02Z"
+ ]
 }

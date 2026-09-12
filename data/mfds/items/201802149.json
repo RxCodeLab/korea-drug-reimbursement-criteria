@@ -7,11 +7,12 @@
  "permit_date": "20180523",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M082390]덱스판테놀|[M093648]콜레칼시페롤농축물(유상형)|[M204304]피리독신염산염|[M222991]레티놀팔미테이트|[M222996]리보플라빈포스페이트나트륨|[M223240]토코페롤아세테이트|[M223258]티아민염산염|[M249150]d-비오틴|[M258994]아스코르브산",
+ "main_item_ingr": "[M223240]토코페롤아세테이트|[M223258]티아민염산염|[M222996]리보플라빈포스페이트나트륨|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M082390]덱스판테놀|[M249150]d-비오틴|[M093648]콜레칼시페롤농축물(유상형)|[M258994]아스코르브산|[M222991]레티놀팔미테이트",
  "main_item_ingr_eng": "Ascorbic Acid/Cholecalciferol Concentrate Oil/D-Biotin/Dexpanthenol/Nicotinamide/Pyridoxine Hydrochloride/Retinol Palmitate/Riboflavin Sodium Phosphate/Thiamine Hydrochloride/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802149",
+ "history_fetched_at": "2026-09-08T08:53:09Z",
  "revisions": [
   {
    "revision_id": "201802149-f09a26e7",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:53:09Z",
-   "last_observed_at": "2026-09-08T08:53:09Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2018-05-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:53:09Z"
+ ]
 }

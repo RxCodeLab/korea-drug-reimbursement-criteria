@@ -7,11 +7,12 @@
  "permit_date": "19880118",
  "cancel_date": "20260612",
  "status": "취하",
- "main_item_ingr": "[M103054]L-시스틴|[M214569]엘-시스틴",
+ "main_item_ingr": "[M214569]엘-시스틴|[M103054]L-시스틴",
  "main_item_ingr_eng": "L-Cystine",
  "edi_code": "",
  "atc_code": "V06DD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800788",
+ "history_fetched_at": "2026-09-08T08:27:36Z",
  "revisions": [
   {
    "revision_id": "198800788-0065a287",
@@ -20,9 +21,8 @@
    "ee_doc_id": "14",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:27:36Z",
-   "last_observed_at": "2026-09-08T08:27:36Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:27:36Z"
+ ]
 }

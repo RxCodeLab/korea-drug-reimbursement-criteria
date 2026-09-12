@@ -7,11 +7,12 @@
  "permit_date": "20250923",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040048]길경|[M040135]마황|[M040482]원지|[M050058]구아이페네신|[M051291]인삼",
+ "main_item_ingr": "[M040135]마황|[M051291]인삼|[M040482]원지|[M040048]길경|[M050058]구아이페네신",
  "main_item_ingr_eng": "Ephedra Herb/Ginseng/Guaifenesin/Platycodon Root/Polygala Root",
  "edi_code": "",
  "atc_code": "R05F",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502508",
+ "history_fetched_at": "2026-09-08T09:04:17Z",
  "revisions": [
   {
    "revision_id": "202502508-78dd308e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:17Z",
-   "last_observed_at": "2026-09-08T09:04:17Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:17Z"
+ ]
 }

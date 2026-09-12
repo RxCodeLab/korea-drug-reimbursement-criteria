@@ -7,11 +7,12 @@
  "permit_date": "20150225",
  "cancel_date": "20240425",
  "status": "취하",
- "main_item_ingr": "[M040064]니코틴산아미드|[M050704]비오틴|[M051783]푸마르산철|[M204304]피리독신염산염|[M222995]리보플라빈부티레이트|[M223289]폴산|[M223292]푸르설티아민염산염|[M243439]판토텐산칼슘|[M243785]산화아연|[M244365]셀레늄함유건조효모|[M255819]토코페롤아세테이트 2배산|[M255994]시아노코발라민1000배산|[M258994]아스코르브산",
+ "main_item_ingr": "[M223289]폴산|[M255819]토코페롤아세테이트 2배산|[M258994]아스코르브산|[M255994]시아노코발라민1000배산|[M204304]피리독신염산염|[M243439]판토텐산칼슘|[M040064]니코틴산아미드|[M222995]리보플라빈부티레이트|[M244365]셀레늄함유건조효모|[M243785]산화아연|[M051783]푸마르산철|[M050704]비오틴|[M223292]푸르설티아민염산염",
  "main_item_ingr_eng": "Ascorbic Acid/Biotin/Calcium Pantothenate/Cyanocobalamin Powder 0.1%/Ferrous Fumarate/Folic Acid/Fursultiamine Hydrochloride/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Butyrate/Selenium In Dried Yeast/Tocopherol Acetate Powder 50%/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500972",
+ "history_fetched_at": "2026-09-08T08:48:31Z",
  "revisions": [
   {
    "revision_id": "201500972-baad5362",
@@ -20,9 +21,8 @@
    "ee_doc_id": "9",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:48:31Z",
-   "last_observed_at": "2026-09-08T08:48:31Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:48:31Z"
+ ]
 }

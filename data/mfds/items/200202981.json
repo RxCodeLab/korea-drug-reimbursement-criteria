@@ -7,11 +7,12 @@
  "permit_date": "20020102",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050805]센나열매|[M081198]차전자피",
+ "main_item_ingr": "[M081198]차전자피|[M050805]센나열매",
  "main_item_ingr_eng": "Psyllium Husk/Sennae Fructus",
  "edi_code": "",
  "atc_code": "A06AC51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202981",
+ "history_fetched_at": "2026-09-08T08:36:25Z",
  "revisions": [
   {
    "revision_id": "200202981-8092f99e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "5",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:36:25Z",
-   "last_observed_at": "2026-09-08T08:36:25Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:36:25Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20190423",
  "cancel_date": "20260320",
  "status": "취하",
- "main_item_ingr": "[M040006]감초|[M040007]건강|[M040538]진피|[M040548]창출|[M040775]현호색|[M040811]회향|[M050036]육계|[M230875]l-멘톨",
+ "main_item_ingr": "[M040538]진피|[M050036]육계|[M040007]건강|[M040548]창출|[M040811]회향|[M040775]현호색|[M040006]감초|[M230875]l-멘톨",
  "main_item_ingr_eng": "Atractylodes Rhizome/Cinnamon Bark/Citrus Unshiu Peel/Corydalis Tuber/Fennel/Ginger/L-Menthol/Licorice",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902545",
+ "history_fetched_at": "2026-09-08T08:54:55Z",
  "revisions": [
   {
    "revision_id": "201902545-4377e7b5",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:54:55Z",
-   "last_observed_at": "2026-09-08T08:54:55Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2019-04-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:54:55Z"
+ ]
 }

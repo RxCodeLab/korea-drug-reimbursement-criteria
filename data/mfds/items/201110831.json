@@ -7,11 +7,12 @@
  "permit_date": "20111215",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050778]멜리사엽건조엑스|[M080879]은행엽엑스|[M086537]마늘유|[M095863]서양산사자60%에탄올엑스",
+ "main_item_ingr": "[M086537]마늘유|[M080879]은행엽엑스|[M050778]멜리사엽건조엑스|[M095863]서양산사자60%에탄올엑스",
  "main_item_ingr_eng": "Allium Sativum Oil/Ginkgo Leaf Extract/Hawthorn Berry 60% Ethanol Extract/Mellisa Folium Dry Extract",
  "edi_code": "",
  "atc_code": "C04AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110831",
+ "history_fetched_at": "2026-09-08T08:45:05Z",
  "revisions": [
   {
    "revision_id": "201110831-0f05338c",
@@ -20,9 +21,8 @@
    "ee_doc_id": "3",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:45:05Z",
-   "last_observed_at": "2026-09-08T08:45:05Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:45:05Z"
+ ]
 }

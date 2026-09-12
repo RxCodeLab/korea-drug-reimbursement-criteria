@@ -7,11 +7,12 @@
  "permit_date": "20250724",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040678]판크레아틴|[M100297]셀룰라제|[M223083]시메티콘|[M223167]우르소데옥시콜산",
+ "main_item_ingr": "[M223083]시메티콘|[M223167]우르소데옥시콜산|[M100297]셀룰라제|[M040678]판크레아틴",
  "main_item_ingr_eng": "Cellulase/Pancreatin/Simethicone/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A09AA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501892",
+ "history_fetched_at": "2026-09-08T09:04:06Z",
  "revisions": [
   {
    "revision_id": "202501892-286238c3",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:06Z",
-   "last_observed_at": "2026-09-08T09:04:06Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-07-24"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:06Z"
+ ]
 }

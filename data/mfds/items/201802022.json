@@ -7,11 +7,12 @@
  "permit_date": "20180511",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M259812]플루티카손푸로에이트(미분화)|[M259813]빌란테롤트리페나테이트(미분화)|[M259864]유메클리디늄브롬화물(미분화)",
+ "main_item_ingr": "[M259813]빌란테롤트리페나테이트(미분화)|[M259864]유메클리디늄브롬화물(미분화)|[M259812]플루티카손푸로에이트(미분화)",
  "main_item_ingr_eng": "Fluticasone Furoate Micronized/Umeclidinium Bromide Micronized/Vilanterol Trifenatate Micronized",
  "edi_code": "650003141",
  "atc_code": "R03AL08",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802022",
+ "history_fetched_at": "2026-09-08T08:53:08Z",
  "revisions": [
   {
    "revision_id": "201802022-cf4c6f24",
@@ -20,7 +21,7 @@
    "ee_doc_id": "23",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:53:08Z",
-   "last_observed_at": "2026-09-08T08:53:08Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2022-08-10"
   },
   {
@@ -43,6 +44,5 @@
    "first_observed_at": "2026-09-08T08:53:08Z",
    "last_observed_at": "2026-09-08T08:53:08Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:53:08Z"
+ ]
 }

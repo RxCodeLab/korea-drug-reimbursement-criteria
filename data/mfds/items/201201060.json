@@ -7,11 +7,12 @@
  "permit_date": "20120222",
  "cancel_date": "20260824",
  "status": "취하",
- "main_item_ingr": "[M070611]살리실산글리콜|[M203279]살리실산메틸|[M204418]d-캄파|[M223254]티몰|[M279284]L-멘톨",
+ "main_item_ingr": "[M070611]살리실산글리콜|[M223254]티몰|[M203279]살리실산메틸|[M204418]d-캄파|[M279284]L-멘톨",
  "main_item_ingr_eng": "D-Camphor/Glycol Salicylate/L-Menthol/Methyl Salicylate/Thymol",
  "edi_code": "",
  "atc_code": "M02AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201060",
+ "history_fetched_at": "2026-09-08T08:45:11Z",
  "revisions": [
   {
    "revision_id": "201201060-15a7defb",
@@ -20,9 +21,8 @@
    "ee_doc_id": "6",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:45:11Z",
-   "last_observed_at": "2026-09-08T08:45:11Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:45:11Z"
+ ]
 }

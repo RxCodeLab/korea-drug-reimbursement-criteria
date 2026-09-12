@@ -7,11 +7,12 @@
  "permit_date": "20170209",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040488]이노시톨|[M050704]비오틴|[M096428]벤포티아민|[M204304]피리독신염산염|[M208932]γ-오리자놀|[M223289]폴산|[M236913]제피아스코르브산|[M243439]판토텐산칼슘|[M243785]산화아연|[M244365]셀레늄함유건조효모|[M246848]우루소데옥시콜산|[M247683]콜린타르타르산염|[M255994]시아노코발라민1000배산",
+ "main_item_ingr": "[M223289]폴산|[M243439]판토텐산칼슘|[M255994]시아노코발라민1000배산|[M050704]비오틴|[M247683]콜린타르타르산염|[M204304]피리독신염산염|[M040133]리보플라빈|[M236913]제피아스코르브산|[M246848]우루소데옥시콜산|[M244365]셀레늄함유건조효모|[M243785]산화아연|[M208932]γ-오리자놀|[M096428]벤포티아민|[M040488]이노시톨|[M040064]니코틴산아미드",
  "main_item_ingr_eng": "Ascorbic Acid Coated/Benfotiamine/Biotin/Calcium Pantothenate/Choline Tartrate/Cyanocobalamin Powder 0.1%/Folic Acid/Gamma-Oryzanol/Inositol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Selenium In Dried Yeast/Ursodeoxycholic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700700",
+ "history_fetched_at": "2026-09-08T08:51:30Z",
  "revisions": [
   {
    "revision_id": "201700700-fd5a5421",
@@ -20,9 +21,8 @@
    "ee_doc_id": "2",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:51:30Z",
-   "last_observed_at": "2026-09-08T08:51:30Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:51:30Z"
+ ]
 }

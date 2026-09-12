@@ -7,11 +7,12 @@
  "permit_date": "20190925",
  "cancel_date": "20240925",
  "status": "유효기간만료",
- "main_item_ingr": "[M262712]진피건조엑스(4.5~5.6→1)\r\n|[M266088]감초건조엑스(5.4~6.6→1)|[M270114]시호건조엑스(8.8~10.8→1)|[M270224]천궁건조엑스 (4.3~5.3→1)|[M270285]작약건조엑스(5.3~6.5→1)|[M270339]지각건조엑스(4.7~5.8→1)|[M270340]향부자건조엑스(4.6~5.6→1)",
+ "main_item_ingr": "[M266088]감초건조엑스(5.4~6.6→1)|[M270340]향부자건조엑스(4.6~5.6→1)|[M270339]지각건조엑스(4.7~5.8→1)|[M270285]작약건조엑스(5.3~6.5→1)|[M270224]천궁건조엑스 (4.3~5.3→1)|[M262712]진피건조엑스(4.5~5.6→1)\r\n|[M270114]시호건조엑스(8.8~10.8→1)",
  "main_item_ingr_eng": "Aurantii Fructus Immaturus Dried Extract (4.7~5.8→1)/Bupleurum Root Dried Extract(8.8~10.8→1)/Citrus Unshiu Peel Dried Extract (4.5~5.6→1)/Cnidium Rhizome Dried Extract (4.3~5.3→1)/Cyperus Rhizome Dried Extract (4.6~5.6→1)/Glycyrrhiza Dried Extract (5.4~6.6→1)/Peony Root Dried Extract (5.3~6.5→1)",
  "edi_code": "",
  "atc_code": "A16AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906832",
+ "history_fetched_at": "2026-09-08T08:56:29Z",
  "revisions": [
   {
    "revision_id": "201906832-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:56:29Z",
-   "last_observed_at": "2026-09-08T08:56:29Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-09-25"
   }
- ],
- "history_fetched_at": "2026-09-08T08:56:29Z"
+ ]
 }

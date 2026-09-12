@@ -7,11 +7,12 @@
  "permit_date": "20260630",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M270546]로수바스타틴칼슘(미분화)|[M282749]에제티미브(미분화)",
+ "main_item_ingr": "[M282749]에제티미브(미분화)|[M270546]로수바스타틴칼슘(미분화)",
  "main_item_ingr_eng": "Ezetimibe/Rosuvastatin Calcium Micronized",
  "edi_code": "",
  "atc_code": "C10BA06",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601889",
+ "history_fetched_at": "2026-09-08T09:05:25Z",
  "revisions": [
   {
    "revision_id": "202601889-ce7a8e64",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:25Z",
-   "last_observed_at": "2026-09-08T09:05:25Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-06-30"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:25Z"
+ ]
 }

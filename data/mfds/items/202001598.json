@@ -7,11 +7,12 @@
  "permit_date": "20200308",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040006]감초|[M040048]길경|[M040070]당귀|[M040073]대황|[M040135]마황|[M040198]박하|[M040205]방풍|[M040214]백출|[M040279]석고|[M040523]작약|[M040550]천궁|[M040564]치자|[M040789]황금|[M050752]생강|[M051105]연교|[M051936]형개|[M071732]활석|[M088654]망초",
+ "main_item_ingr": "[M040523]작약|[M040550]천궁|[M051105]연교|[M040198]박하|[M040205]방풍|[M040135]마황|[M040073]대황|[M071732]활석|[M040006]감초|[M040214]백출|[M051936]형개|[M040564]치자|[M050752]생강|[M040279]석고|[M040789]황금|[M040048]길경|[M040070]당귀|[M088654]망초",
  "main_item_ingr_eng": "Angelica Gigas Root/Atractylodes Rhizome White/Cnidium Rhizome/Ephedra Herb/Forsythia Fruit/Gardenia Fruit/Gypsum Fibrosum/Licorice/Mentha Herb/Natrii Sulfas/Peony Root/Platycodon Root/Raw Ginger/Rhubarb/Saposhnikovia Root/Schizonepeta Spike/Scutellaria Root/Talc",
  "edi_code": "",
  "atc_code": "A08AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001598",
+ "history_fetched_at": "2026-09-08T08:58:00Z",
  "revisions": [
   {
    "revision_id": "202001598-d3637b0b",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:58:00Z",
-   "last_observed_at": "2026-09-08T08:58:00Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2020-03-08"
   }
- ],
- "history_fetched_at": "2026-09-08T08:58:00Z"
+ ]
 }

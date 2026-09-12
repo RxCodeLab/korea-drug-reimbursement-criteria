@@ -7,11 +7,12 @@
  "permit_date": "20211221",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040262]산화마그네슘|[M050379]리파제|[M051800]프로자임|[M095125]수용성아줄렌|[M110604]당약 가루|[M223083]시메티콘|[M267745]디아스타제·프로테아제·셀룰라제",
+ "main_item_ingr": "[M050379]리파제|[M051800]프로자임|[M267745]디아스타제·프로테아제·셀룰라제|[M223083]시메티콘|[M040262]산화마그네슘|[M095125]수용성아줄렌|[M110604]당약 가루",
  "main_item_ingr_eng": "Diastase·Protease·Cellulase/Lipase/Magnesium Oxide/Prozyme/Simethicone/Soluble Azulene/Swertia Herb Powder",
  "edi_code": "",
  "atc_code": "A09AA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108052",
+ "history_fetched_at": "2026-09-08T09:00:53Z",
  "revisions": [
   {
    "revision_id": "202108052-926660c4",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:53Z",
-   "last_observed_at": "2026-09-08T09:00:53Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-12-21"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:53Z"
+ ]
 }

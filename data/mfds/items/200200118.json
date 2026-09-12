@@ -7,11 +7,12 @@
  "permit_date": "20020410",
  "cancel_date": "20230927",
  "status": "폐업",
- "main_item_ingr": "[M040186]목통|[M040205]방풍|[M050022]강활|[M050227]독활|[M051318]전호|[M051363]생지황|[M051932]현삼|[M051936]형개|[M096303]괄루인",
+ "main_item_ingr": "[M040205]방풍|[M051936]형개|[M050227]독활|[M050022]강활|[M051318]전호|[M096303]괄루인|[M051932]현삼|[M040186]목통|[M051363]생지황",
  "main_item_ingr_eng": "Akebia Stem/Aralia Continentalis Root/Ostericum Root/Peucedani Radix/Rehmanniae Radix Recens/Saposhnikovia Root/Schizonepeta Spike/Scrophularia Root/Trichosanthes Seed",
  "edi_code": "",
  "atc_code": "N02BG",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200118",
+ "history_fetched_at": "2026-09-08T08:35:59Z",
  "revisions": [
   {
    "revision_id": "200200118-bd8baaf1",
@@ -20,9 +21,8 @@
    "ee_doc_id": "11",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:35:59Z",
-   "last_observed_at": "2026-09-08T08:35:59Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2010-04-09"
   }
- ],
- "history_fetched_at": "2026-09-08T08:35:59Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20250429",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M203364]슈도에페드린염산염|[M243192]트리프롤리딘염산염",
+ "main_item_ingr": "[M243192]트리프롤리딘염산염|[M203364]슈도에페드린염산염",
  "main_item_ingr_eng": "Pseudoephedrine Hydrochloride/Triprolidine Hydrochloride",
  "edi_code": "",
  "atc_code": "R01BA52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501032",
+ "history_fetched_at": "2026-09-08T09:03:52Z",
  "revisions": [
   {
    "revision_id": "202501032-8b323ba1",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:52Z",
-   "last_observed_at": "2026-09-08T09:03:52Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-04-29"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:52Z"
+ ]
 }

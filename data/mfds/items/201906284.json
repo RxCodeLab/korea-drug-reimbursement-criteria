@@ -7,11 +7,12 @@
  "permit_date": "20190904",
  "cancel_date": "20240904",
  "status": "유효기간만료",
- "main_item_ingr": "[M082621]게스토덴|[M223147]에티닐에스트라디올",
+ "main_item_ingr": "[M223147]에티닐에스트라디올|[M082621]게스토덴",
  "main_item_ingr_eng": "Ethinyl Estradiol/Gestodene",
  "edi_code": "",
  "atc_code": "G03AA10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906284",
+ "history_fetched_at": "2026-09-08T08:56:18Z",
  "revisions": [
   {
    "revision_id": "201906284-3ce3ac5f",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:56:18Z",
-   "last_observed_at": "2026-09-08T08:56:18Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-09-04"
   }
- ],
- "history_fetched_at": "2026-09-08T08:56:18Z"
+ ]
 }

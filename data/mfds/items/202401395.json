@@ -7,11 +7,12 @@
  "permit_date": "20240605",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040262]산화마그네슘|[M040634]침강탄산칼슘|[M050436]메코발라민|[M096428]벤포티아민|[M102050]콜레칼시페롤농축분말|[M204304]피리독신염산염|[M223167]우르소데옥시콜산|[M236913]제피아스코르브산|[M243785]산화아연|[M244748]판토텐산칼슘|[M255819]토코페롤아세테이트 2배산|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr": "[M255819]토코페롤아세테이트 2배산|[M102050]콜레칼시페롤농축분말|[M236913]제피아스코르브산|[M050436]메코발라민|[M204304]피리독신염산염|[M244748]판토텐산칼슘|[M040064]니코틴산아미드|[M096428]벤포티아민|[M223167]우르소데옥시콜산|[M243785]산화아연|[M040262]산화마그네슘|[M040634]침강탄산칼슘|[M256191]콘드로이틴설페이트나트륨",
  "main_item_ingr_eng": "Ascorbic Acid Coated/Benfotiamine/Calcium Pantothenate/Cholecalciferol Concentrate Powder/Magnesium Oxide/Mecobalamin/Nicotinamide/Precipitated Calcium Carbonate/Pyridoxine Hydrochloride/Sodium Chondroitin Sulfate/Tocopherol Acetate Powder 50%/Ursodeoxycholic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401395",
+ "history_fetched_at": "2026-09-08T09:03:01Z",
  "revisions": [
   {
    "revision_id": "202401395-878cc4d9",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:01Z",
-   "last_observed_at": "2026-09-08T09:03:01Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2024-06-05"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:01Z"
+ ]
 }

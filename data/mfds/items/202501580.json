@@ -7,11 +7,12 @@
  "permit_date": "20250626",
  "cancel_date": "20260707",
  "status": "취하",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M040634]침강탄산칼슘|[M050704]비오틴|[M051783]푸마르산철|[M091023]피토나디온5%|[M091374]무수인산수소칼슘|[M117558]시아노코발라민 1000배산|[M204304]피리독신염산염|[M222991]레티놀팔미테이트|[M223240]토코페롤아세테이트|[M223262]티아민질산염|[M223289]폴산|[M243785]산화아연|[M244365]셀레늄함유건조효모|[M244748]판토텐산칼슘|[M245627]농축콜레칼시페롤유|[M246028]황산망간수화물|[M258994]아스코르브산",
+ "main_item_ingr": "[M245627]농축콜레칼시페롤유|[M246028]황산망간수화물|[M223240]토코페롤아세테이트|[M223262]티아민질산염|[M040133]리보플라빈|[M040064]니코틴산아미드|[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M117558]시아노코발라민 1000배산|[M040262]산화마그네슘|[M243785]산화아연|[M222991]레티놀팔미테이트|[M258994]아스코르브산|[M091023]피토나디온5%|[M223289]폴산|[M050704]비오틴|[M244365]셀레늄함유건조효모|[M040634]침강탄산칼슘|[M091374]무수인산수소칼슘|[M051783]푸마르산철",
  "main_item_ingr_eng": "Anhydrous Dibasic Calcium Phosphate/Ascorbic Acid/Biotin/Calcium Pantothenate/Cholecalciferol Concentrate Oil/Cyanocobalamin Powder 0.1%/Ferrous Fumarate/Folic Acid/Magnesium Oxide/Manganese Sulfate Hydrate/Nicotinamide/Phytonadione 5%/Precipitated Calcium Carbonate/Pyridoxine Hydrochloride/Retinol Palmitate/Riboflavin/Selenium In Dried Yeast/Thiamine Nitrate/Tocopherol Acetate/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11AA03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501580",
+ "history_fetched_at": "2026-09-08T09:04:01Z",
  "revisions": [
   {
    "revision_id": "202501580-303652a1",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:01Z",
-   "last_observed_at": "2026-09-08T09:04:01Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-06-26"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:01Z"
+ ]
 }

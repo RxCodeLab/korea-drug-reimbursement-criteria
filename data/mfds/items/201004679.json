@@ -7,11 +7,12 @@
  "permit_date": "20100726",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M071571]폴리비닐알코올|[M215556]포비돈 K30",
+ "main_item_ingr": "[M215556]포비돈 K30|[M071571]폴리비닐알코올",
  "main_item_ingr_eng": "Polyvinyl Alcohol/Povidone K30",
  "edi_code": "",
  "atc_code": "S01XA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004679",
+ "history_fetched_at": "2026-09-08T08:44:09Z",
  "revisions": [
   {
    "revision_id": "201004679-15343634",
@@ -20,9 +21,8 @@
    "ee_doc_id": "8",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:44:09Z",
-   "last_observed_at": "2026-09-08T08:44:09Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:44:09Z"
+ ]
 }

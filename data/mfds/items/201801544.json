@@ -7,11 +7,12 @@
  "permit_date": "20180410",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M261227]지각연조엑스(1.4∼1.7→1)\r\n|[M262505]복령연조엑스(14.0~17.1→1)|[M262506]천궁연조엑스(3.0~3.7→1)|[M262508]반하연조엑스(1.8~2.2→1)|[M262510]감초연조엑스(2.4~2.9→1)|[M262511]생강연조엑스(12.3~15.0→1)|[M267552]진피연조엑스(2.6~3.2→1)|[M267584]청피연조엑스(1.8∼2.2→1)|[M267585]백출연조엑스(1.4∼1.7→1)",
+ "main_item_ingr": "[M262511]생강연조엑스(12.3~15.0→1)|[M262510]감초연조엑스(2.4~2.9→1)|[M267585]백출연조엑스(1.4∼1.7→1)|[M261227]지각연조엑스(1.4∼1.7→1)\r\n|[M267584]청피연조엑스(1.8∼2.2→1)|[M267552]진피연조엑스(2.6~3.2→1)|[M262505]복령연조엑스(14.0~17.1→1)|[M262508]반하연조엑스(1.8~2.2→1)|[M262506]천궁연조엑스(3.0~3.7→1)",
  "main_item_ingr_eng": "Atractylodes Rhizome White Soft Extract (1.4∼1.7→1)/Aurantii Fructus Immaturus Soft Extract (1.4∼1.7→1)/Citrii Unshiu Immature Peel Soft Extract (1.8∼2.2→1)/Citrus Unshiu Peel Soft Extract (2.6∼3.2→1)/Cnidium Rhizome Soft Extract (3.0~3.7→1)/Glycyrrhiza Soft Extract (2.4~2.9→1)/Pinellia Tuber Soft Extract (1.8~2.2→1)/Poria Soft Extract (14.0~17.1→1)/Raw Ginger Soft Extract (12.3~15.0→1)",
  "edi_code": "",
  "atc_code": "A16AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801544",
+ "history_fetched_at": "2026-09-08T08:53:02Z",
  "revisions": [
   {
    "revision_id": "201801544-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:53:02Z",
-   "last_observed_at": "2026-09-08T08:53:02Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2018-04-10"
   }
- ],
- "history_fetched_at": "2026-09-08T08:53:02Z"
+ ]
 }

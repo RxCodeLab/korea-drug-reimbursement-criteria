@@ -7,11 +7,12 @@
  "permit_date": "20240726",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M088551]바실루스리케니포르미스균|[M244748]판토텐산칼슘",
+ "main_item_ingr": "[M244748]판토텐산칼슘|[M088551]바실루스리케니포르미스균",
  "main_item_ingr_eng": "Bacillus Licheniformis/Calcium Pantothenate",
  "edi_code": "649606381",
  "atc_code": "A07FA51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401810",
+ "history_fetched_at": "2026-09-08T09:03:11Z",
  "revisions": [
   {
    "revision_id": "202401810-a13348c6",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:11Z",
-   "last_observed_at": "2026-09-08T09:03:11Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2024-07-26"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:11Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20150206",
  "cancel_date": "20250206",
  "status": "유효기간만료",
- "main_item_ingr": "[M084756]현초가루|[M223039]베르베린염화물수화물|[M223110]아크리놀수화물",
+ "main_item_ingr": "[M223110]아크리놀수화물|[M223039]베르베린염화물수화물|[M084756]현초가루",
  "main_item_ingr_eng": "Acrinol Hydrate/Berberine Chloride Hydrate/Geranium Herb Powder",
  "edi_code": "",
  "atc_code": "A07AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500644",
+ "history_fetched_at": "2026-09-08T08:48:27Z",
  "revisions": [
   {
    "revision_id": "201500644-1d914b41",
@@ -20,7 +21,7 @@
    "ee_doc_id": "8",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:48:27Z",
-   "last_observed_at": "2026-09-08T08:48:27Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2020-01-20"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:48:27Z",
    "last_observed_at": "2026-09-08T08:48:27Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:48:27Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20070215",
  "cancel_date": "20250701",
  "status": "유효기간만료",
- "main_item_ingr": "[M222992]로페라미드염산염|[M223039]베르베린염화물수화물|[M223110]아크리놀수화물|[M256107]엔테로코쿠스페칼리스 F-100균",
+ "main_item_ingr": "[M223110]아크리놀수화물|[M223039]베르베린염화물수화물|[M222992]로페라미드염산염|[M256107]엔테로코쿠스페칼리스 F-100균",
  "main_item_ingr_eng": "Acrinol Hydrate/Berberine Chloride Hydrate/Enterococcus Faecalis T-110/Loperamide Hydrochloride",
  "edi_code": "",
  "atc_code": "A07DA53",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702038",
+ "history_fetched_at": "2026-09-08T08:41:03Z",
  "revisions": [
   {
    "revision_id": "200702038-82361ba9",
@@ -20,9 +21,8 @@
    "ee_doc_id": "12",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:41:03Z",
-   "last_observed_at": "2026-09-08T08:41:03Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:41:03Z"
+ ]
 }

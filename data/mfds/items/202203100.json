@@ -7,11 +7,12 @@
  "permit_date": "20220727",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M086116]농축콜레칼시페롤|[M223292]푸르설티아민염산염|[M243785]산화아연|[M247202]레티놀아세테이트 과립",
+ "main_item_ingr": "[M040262]산화마그네슘|[M243785]산화아연|[M086116]농축콜레칼시페롤|[M040064]니코틴산아미드|[M040133]리보플라빈|[M223292]푸르설티아민염산염|[M247202]레티놀아세테이트 과립",
  "main_item_ingr_eng": "Cholecalciferol Concentrate/Fursultiamine Hydrochloride/Magnesium Oxide/Nicotinamide/Retinol Acetate Granules/Riboflavin/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203100",
+ "history_fetched_at": "2026-09-08T09:01:29Z",
  "revisions": [
   {
    "revision_id": "202203100-bb479694",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:29Z",
-   "last_observed_at": "2026-09-08T09:01:29Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2022-07-27"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:29Z"
+ ]
 }

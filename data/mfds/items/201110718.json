@@ -7,11 +7,12 @@
  "permit_date": "20111209",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M082909]크롬함유건조효모|[M089702]셀레늄함유건조효모|[M258994]아스코르브산",
+ "main_item_ingr": "[M089702]셀레늄함유건조효모|[M082909]크롬함유건조효모|[M258994]아스코르브산",
  "main_item_ingr_eng": "Ascorbic Acid/Chromium in Dried Yeast/Selenium In Dried Yeast",
  "edi_code": "",
  "atc_code": "A11GB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110718",
+ "history_fetched_at": "2026-09-08T08:45:04Z",
  "revisions": [
   {
    "revision_id": "201110718-950830af",
@@ -20,9 +21,8 @@
    "ee_doc_id": "6",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:45:04Z",
-   "last_observed_at": "2026-09-08T08:45:04Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:45:04Z"
+ ]
 }

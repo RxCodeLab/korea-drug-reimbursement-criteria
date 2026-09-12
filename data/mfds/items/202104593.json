@@ -7,11 +7,12 @@
  "permit_date": "20210615",
  "cancel_date": "20260615",
  "status": "유효기간만료",
- "main_item_ingr": "[M050379]리파제|[M223167]우르소데옥시콜산|[M267745]디아스타제·프로테아제·셀룰라제",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M267745]디아스타제·프로테아제·셀룰라제|[M050379]리파제",
  "main_item_ingr_eng": "Diastase·Protease·Cellulase/Lipase/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104593",
+ "history_fetched_at": "2026-09-08T09:00:16Z",
  "revisions": [
   {
    "revision_id": "202104593-286238c3",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:16Z",
-   "last_observed_at": "2026-09-08T09:00:16Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-06-15"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:16Z"
+ ]
 }

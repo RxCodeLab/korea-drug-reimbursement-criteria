@@ -7,11 +7,12 @@
  "permit_date": "19840906",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M081340]사낙타제|[M081341]메이세라제|[M081342]오리파제2S|[M090580]푸록타제|[M227507]췌장성 소화효소 TA",
+ "main_item_ingr": "[M227507]췌장성 소화효소 TA|[M081342]오리파제2S|[M081341]메이세라제|[M090580]푸록타제|[M081340]사낙타제",
  "main_item_ingr_eng": "Olipase 2S/Pancreatin TA/Proctase",
  "edi_code": "",
  "atc_code": "A09AA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400083",
+ "history_fetched_at": "2026-09-08T08:26:55Z",
  "revisions": [
   {
    "revision_id": "198400083-7452ccaf",
@@ -20,9 +21,8 @@
    "ee_doc_id": "12",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:26:55Z",
-   "last_observed_at": "2026-09-08T08:26:55Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:26:55Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20200429",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040629]탄산마그네슘|[M040634]침강탄산칼슘|[M081083]비오디아스타제2000|[M110460]스코폴리아 엑스3배산|[M110604]당약 가루|[M207094]탄산수소나트륨|[M256363]메틸메티오닌설포늄염화물|[M257953]리파제AP12|[M273972]자소엽 건조엑스(7.8∼9.5→1)",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M040629]탄산마그네슘|[M207094]탄산수소나트륨|[M257953]리파제AP12|[M081083]비오디아스타제2000|[M273972]자소엽 건조엑스(7.8∼9.5→1)|[M110604]당약 가루|[M110460]스코폴리아 엑스3배산|[M256363]메틸메티오닌설포늄염화물",
  "main_item_ingr_eng": "Biodiastase 2000/Lipase AP12/Magnesium Carbonate/Methylmethionine Sulfonium Chloride/Perilla Leaf Dried Extract (7.8∼9.5→1)/Precipitated Calcium Carbonate/Scopolia Extract Powder 33.3%/Sodium Bicarbonate/Swertia Herb Powder",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003212",
+ "history_fetched_at": "2026-09-08T08:58:39Z",
  "revisions": [
   {
    "revision_id": "202003212-84f114a5",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:58:39Z",
-   "last_observed_at": "2026-09-08T08:58:39Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-04-29"
   }
- ],
- "history_fetched_at": "2026-09-08T08:58:39Z"
+ ]
 }

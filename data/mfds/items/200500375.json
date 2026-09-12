@@ -7,7 +7,7 @@
  "permit_date": "20050930",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040702]포도당|[M051111]염화마그네슘|[M212447]아세트산 무수물|[M217500]염화칼슘수화물",
+ "main_item_ingr": "[M212447]아세트산 무수물|[M040702]포도당|[M051111]염화마그네슘|[M040438]염화칼륨|[M217500]염화칼슘수화물|[M040426]염화나트륨",
  "main_item_ingr_eng": "Calcium Chloride Hydrate/Glacial Acetic Acid/Glucose/Magnesium Chloride/Potassium Chloride/Sodium Chloride",
  "edi_code": "645102560",
  "atc_code": "B05ZA",
@@ -20,7 +20,7 @@
    "ee_text": "급ㆍ만성신부전, 급성 약물중독환자에 사용되는 인공신장투석의 관류액",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:24:07Z",
-   "last_observed_at": "2026-09-08T08:38:53Z",
+   "last_observed_at": "2026-09-12T16:32:30Z",
    "official_revision_date": "2017-09-23",
    "normalizer_version": 3
   }

@@ -7,11 +7,12 @@
  "permit_date": "20130821",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M071725]황색바셀린|[M080248]경질유동파라핀|[M222724]페닐레프린염산염",
+ "main_item_ingr": "[M222724]페닐레프린염산염|[M071725]황색바셀린|[M080248]경질유동파라핀",
  "main_item_ingr_eng": "Light Liquid Paraffin/Phenylephrine Hydrochloride/Yellow Petrolatum",
  "edi_code": "",
  "atc_code": "C05AX03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308908",
+ "history_fetched_at": "2026-09-08T08:46:15Z",
  "revisions": [
   {
    "revision_id": "201308908-759f4a9f",
@@ -20,9 +21,8 @@
    "ee_doc_id": "10",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:46:15Z",
-   "last_observed_at": "2026-09-08T08:46:15Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:46:15Z"
+ ]
 }

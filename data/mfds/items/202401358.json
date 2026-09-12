@@ -7,11 +7,12 @@
  "permit_date": "20240531",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050379]리파제|[M051231]락토바실루스스포로게네스균|[M110317]판크레아틴 장용과립|[M115954]시메티콘 산|[M261464]디아스타제·프로테아제·셀룰라제1000",
+ "main_item_ingr": "[M115954]시메티콘 산|[M110317]판크레아틴 장용과립|[M050379]리파제|[M051231]락토바실루스스포로게네스균|[M261464]디아스타제·프로테아제·셀룰라제1000",
  "main_item_ingr_eng": "Diastase·Protease·Cellulase 1000/Lactobacillus Sporogenes/Lipase/Pancreatin Enteric Coated Granules/Simethicone Powder",
  "edi_code": "",
  "atc_code": "A09AA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401358",
+ "history_fetched_at": "2026-09-08T09:03:01Z",
  "revisions": [
   {
    "revision_id": "202401358-2cd8d905",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:01Z",
-   "last_observed_at": "2026-09-08T09:03:01Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2024-05-31"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:01Z"
+ ]
 }

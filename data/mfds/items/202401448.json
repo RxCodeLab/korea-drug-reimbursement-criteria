@@ -7,11 +7,12 @@
  "permit_date": "20240614",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040629]탄산마그네슘|[M040634]침강탄산칼슘|[M050379]리파제|[M081083]비오디아스타제2000|[M207094]탄산수소나트륨|[M256363]메틸메티오닌설포늄염화물",
+ "main_item_ingr": "[M040634]침강탄산칼슘|[M040629]탄산마그네슘|[M207094]탄산수소나트륨|[M050379]리파제|[M081083]비오디아스타제2000|[M256363]메틸메티오닌설포늄염화물",
  "main_item_ingr_eng": "Biodiastase 2000/Lipase/Magnesium Carbonate/Methylmethionine Sulfonium Chloride/Precipitated Calcium Carbonate/Sodium Bicarbonate",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401448",
+ "history_fetched_at": "2026-09-08T09:03:03Z",
  "revisions": [
   {
    "revision_id": "202401448-28dc9a59",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:03Z",
-   "last_observed_at": "2026-09-08T09:03:03Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2024-06-14"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:03Z"
+ ]
 }

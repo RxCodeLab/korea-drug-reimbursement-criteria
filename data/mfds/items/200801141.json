@@ -7,11 +7,12 @@
  "permit_date": "20080128",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M115795]세인트존스워트80%메탄올 건조엑스|[M256377]서양승마추출액",
+ "main_item_ingr": "[M256377]서양승마추출액|[M115795]세인트존스워트80%메탄올 건조엑스",
  "main_item_ingr_eng": "Cimicifuga Rhizome Extract/St. John's Wort 80% Methanol Dried Extract",
  "edi_code": "",
  "atc_code": "G02CX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801141",
+ "history_fetched_at": "2026-09-08T08:42:12Z",
  "revisions": [
   {
    "revision_id": "200801141-a2f6eb1b",
@@ -20,9 +21,8 @@
    "ee_doc_id": "22",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:42:12Z",
-   "last_observed_at": "2026-09-08T08:42:12Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:42:12Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20031212",
  "cancel_date": "20260401",
  "status": "유효기간만료",
- "main_item_ingr": "[M099850]이소프로판올|[M257839]알킬디아미노에틸글리신염산염액40%",
+ "main_item_ingr": "[M257839]알킬디아미노에틸글리신염산염액40%|[M099850]이소프로판올",
  "main_item_ingr_eng": "Alkyldiaminoethylglycine Hydrochloride Solution 40%/Isopropanol",
  "edi_code": "",
  "atc_code": "D08AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302820",
+ "history_fetched_at": "2026-09-08T08:37:15Z",
  "revisions": [
   {
    "revision_id": "200302820-fe58152c",
@@ -20,7 +21,7 @@
    "ee_doc_id": "12",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:37:15Z",
-   "last_observed_at": "2026-09-08T08:37:15Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2021-04-21"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:37:15Z",
    "last_observed_at": "2026-09-08T08:37:15Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:37:15Z"
+ ]
 }

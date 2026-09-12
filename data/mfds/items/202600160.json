@@ -7,11 +7,12 @@
  "permit_date": "20260119",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040063]니코틴산|[M040064]니코틴산아미드|[M222991]레티놀팔미테이트|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr": "[M255819]토코페롤아세테이트 2배산|[M222991]레티놀팔미테이트|[M040064]니코틴산아미드|[M040063]니코틴산",
  "main_item_ingr_eng": "Nicotinamide/Nicotinic Acid/Retinol Palmitate/Tocopherol Acetate Powder 50%",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600160",
+ "history_fetched_at": "2026-09-08T09:04:40Z",
  "revisions": [
   {
    "revision_id": "202600160-b64aa75d",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:40Z",
-   "last_observed_at": "2026-09-08T09:04:40Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-01-19"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:40Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20191121",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M040488]이노시톨|[M050704]비오틴|[M051415]푸르설티아민|[M096428]벤포티아민|[M117558]시아노코발라민 1000배산|[M204304]피리독신염산염|[M223167]우르소데옥시콜산|[M223289]폴산|[M236913]제피아스코르브산|[M243257]판토텐산칼슘|[M244376]셀레늄함유건조효모|[M244641]산화아연|[M255819]토코페롤아세테이트 2배산|[M281085]콜레칼시페롤농축분말",
+ "main_item_ingr": "[M243257]판토텐산칼슘|[M051415]푸르설티아민|[M117558]시아노코발라민 1000배산|[M050704]비오틴|[M223289]폴산|[M040262]산화마그네슘|[M040064]니코틴산아미드|[M236913]제피아스코르브산|[M281085]콜레칼시페롤농축분말|[M244641]산화아연|[M255819]토코페롤아세테이트 2배산|[M204304]피리독신염산염|[M096428]벤포티아민|[M040133]리보플라빈|[M244376]셀레늄함유건조효모|[M223167]우르소데옥시콜산|[M040488]이노시톨",
  "main_item_ingr_eng": "Ascorbic Acid Coated/Benfotiamine/Biotin/Calcium Pantothenate/Cholecalciferol Concentrate Powder/Cyanocobalamin Powder 0.1%/Folic Acid/Fursultiamine/Inositol/Magnesium Oxide/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Selenium In Dried Yeast/Tocopherol Acetate Powder 50%/Ursodeoxycholic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908022",
+ "history_fetched_at": "2026-09-08T08:57:05Z",
  "revisions": [
   {
    "revision_id": "201908022-dab2f465",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:57:05Z",
-   "last_observed_at": "2026-09-08T08:57:05Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-11-21"
   }
- ],
- "history_fetched_at": "2026-09-08T08:57:05Z"
+ ]
 }

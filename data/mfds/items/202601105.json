@@ -7,11 +7,12 @@
  "permit_date": "20260416",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040306]수산화마그네슘|[M080745]노회엑스|[M223167]우르소데옥시콜산",
+ "main_item_ingr": "[M040306]수산화마그네슘|[M223167]우르소데옥시콜산|[M080745]노회엑스",
  "main_item_ingr_eng": "Aloe Extract/Magnesium Hydroxide/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A06AB20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601105",
+ "history_fetched_at": "2026-09-08T09:05:02Z",
  "revisions": [
   {
    "revision_id": "202601105-edea8414",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:02Z",
-   "last_observed_at": "2026-09-08T09:05:02Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-04-16"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:02Z"
+ ]
 }

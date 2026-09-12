@@ -7,11 +7,12 @@
  "permit_date": "20260529",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M044300]포도당일수화물|[M090685]글루콘산나트륨|[M102093]염화마그네슘육수화물|[M240607]아세트산나트륨삼수화물",
+ "main_item_ingr": "[M090685]글루콘산나트륨|[M102093]염화마그네슘육수화물|[M040438]염화칼륨|[M240607]아세트산나트륨삼수화물|[M040426]염화나트륨|[M044300]포도당일수화물",
  "main_item_ingr_eng": "Glucose Monohydrate/Magnesium Chloride Hexahydrate/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride/Sodium Gluconate",
  "edi_code": "678901391",
  "atc_code": "B05BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601573",
+ "history_fetched_at": "2026-09-08T09:05:15Z",
  "revisions": [
   {
    "revision_id": "202601573-4f34bbb2",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:15Z",
-   "last_observed_at": "2026-09-08T09:05:15Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-05-29"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:15Z"
+ ]
 }

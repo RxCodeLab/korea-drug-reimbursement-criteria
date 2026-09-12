@@ -7,11 +7,12 @@
  "permit_date": "20211111",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M111600]오르소시폰 가루|[M112209]다엽 가루",
+ "main_item_ingr": "[M112209]다엽 가루|[M111600]오르소시폰 가루",
  "main_item_ingr_eng": "Green Tea Powder/Orthosiphon Powder",
  "edi_code": "",
  "atc_code": "A08AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107439",
+ "history_fetched_at": "2026-09-08T09:00:47Z",
  "revisions": [
   {
    "revision_id": "202107439-ce281beb",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:47Z",
-   "last_observed_at": "2026-09-08T09:00:47Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-11-11"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:47Z"
+ ]
 }

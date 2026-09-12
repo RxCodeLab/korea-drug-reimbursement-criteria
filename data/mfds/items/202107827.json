@@ -7,11 +7,12 @@
  "permit_date": "20211207",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M080610]바실루스서브틸리스균|[M249960]사카로마이세스보울라르디균|[M253700]클로스트리듐부티리쿰토아균",
+ "main_item_ingr": "[M249960]사카로마이세스보울라르디균|[M080610]바실루스서브틸리스균|[M253700]클로스트리듐부티리쿰토아균",
  "main_item_ingr_eng": "Bacillus Subtilis/Clostridium Butyricum Toa/Saccharomyces Boulardii",
  "edi_code": "",
  "atc_code": "A07FA51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107827",
+ "history_fetched_at": "2026-09-08T09:00:51Z",
  "revisions": [
   {
    "revision_id": "202107827-a13348c6",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:51Z",
-   "last_observed_at": "2026-09-08T09:00:51Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-12-07"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:51Z"
+ ]
 }

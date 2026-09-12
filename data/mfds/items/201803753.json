@@ -7,11 +7,12 @@
  "permit_date": "20180917",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051015]알란토인|[M051499]크로타미톤|[M215133]에녹솔론|[M223254]티몰|[M249662]프레드니솔론발레로아세테이트|[M279284]L-멘톨",
+ "main_item_ingr": "[M051015]알란토인|[M215133]에녹솔론|[M051499]크로타미톤|[M223254]티몰|[M279284]L-멘톨|[M249662]프레드니솔론발레로아세테이트",
  "main_item_ingr_eng": "Allantoin/Crotamiton/Enoxolone/L-Menthol/Prednisolone Valeroacetate/Thymol",
  "edi_code": "",
  "atc_code": "D07XA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803753",
+ "history_fetched_at": "2026-09-08T08:53:36Z",
  "revisions": [
   {
    "revision_id": "201803753-c6f35182",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:53:36Z",
-   "last_observed_at": "2026-09-08T08:53:36Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2018-09-17"
   }
- ],
- "history_fetched_at": "2026-09-08T08:53:36Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20200810",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040006]감초|[M040007]건강|[M040048]길경|[M040070]당귀|[M040139]맥문동|[M040205]방풍|[M040214]백출|[M040225]복령|[M040258]산약|[M040336]시호|[M040478]우황|[M040523]작약|[M040550]천궁|[M040769]행인|[M040789]황금|[M050036]육계|[M050191]대두황권|[M050541]백렴|[M050891]신곡|[M050905]아교|[M051133]영양각|[M051197]용뇌|[M051291]인삼|[M090765]포황|[M251442]l-무스콘",
+ "main_item_ingr": "[M040139]맥문동|[M251442]l-무스콘|[M051197]용뇌|[M050541]백렴|[M040007]건강|[M051291]인삼|[M090765]포황|[M050891]신곡|[M050191]대두황권|[M050036]육계|[M040523]작약|[M051133]영양각|[M050905]아교|[M040006]감초|[M040258]산약|[M040789]황금|[M040070]당귀|[M040205]방풍|[M040214]백출|[M040336]시호|[M040048]길경|[M040769]행인|[M040225]복령|[M040550]천궁|[M040478]우황",
  "main_item_ingr_eng": "Ampelopsis Radix/Angelica Gigas Root/Apricot Kernel/Asini Corii Colla/Atractylodes Rhizome White/Bomeolum/Bupleurum Root/Cattle Gallstone/Cinnamon Bark/Cnidium Rhizome/Dioscorea Rhizome/Gazellae seu Saigae Cornu/Ginger/Ginseng/Glycine Semen Germinatum/L-Muscone/Licorice/Liriope Tuber/Massa Medicata Fermentata/Peony Root/Platycodon Root/Poria/Saposhnikovia Root/Scutellaria Root/Typhae Pollen",
  "edi_code": "",
  "atc_code": "C01EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005722",
+ "history_fetched_at": "2026-09-08T08:59:20Z",
  "revisions": [
   {
    "revision_id": "202005722-333b997b",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:59:20Z",
-   "last_observed_at": "2026-09-08T08:59:20Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-08-10"
   }
- ],
- "history_fetched_at": "2026-09-08T08:59:20Z"
+ ]
 }

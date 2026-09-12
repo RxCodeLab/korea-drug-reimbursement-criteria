@@ -7,11 +7,12 @@
  "permit_date": "20260812",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040262]산화마그네슘|[M050436]메코발라민|[M081871]글리세로인산마그네슘|[M084707]크롬함유건조효모|[M204304]피리독신염산염|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr": "[M040262]산화마그네슘|[M081871]글리세로인산마그네슘|[M204304]피리독신염산염|[M050436]메코발라민|[M255819]토코페롤아세테이트 2배산|[M084707]크롬함유건조효모",
  "main_item_ingr_eng": "Chromium in Dried Yeast/Magnesium Glycerophosphate/Magnesium Oxide/Mecobalamin/Pyridoxine Hydrochloride/Tocopherol Acetate Powder 50%",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602361",
+ "history_fetched_at": "2026-09-08T09:05:36Z",
  "revisions": [
   {
    "revision_id": "202602361-fee447d4",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:36Z",
-   "last_observed_at": "2026-09-08T09:05:36Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-08-12"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:36Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20070213",
  "cancel_date": "20250618",
  "status": "취하",
- "main_item_ingr": "[M103653]하마메리스틴크D1|[M103654]밀레포리움틴크D3|[M103655]벨라돈나틴크D2|[M103656]아코니툼틴크D2|[M103658]카모밀라틴크D3|[M103659]심피툼틴크D6|[M103660]벨리스페렌니스틴크D2|[M103661]에치나세아플푸르틴크D2|[M103662]에치나세아안구스티폴틴크D2|[M103663]히페리쿰틴크D2|[M103664]헤파설프리스D3|[M207423]카렌두라틴크 D2|[M210529]아르니카틴크D2",
+ "main_item_ingr": "[M103655]벨라돈나틴크D2|[M103656]아코니툼틴크D2|[M103658]카모밀라틴크D3|[M103659]심피툼틴크D6|[M103660]벨리스페렌니스틴크D2|[M103654]밀레포리움틴크D3|[M103653]하마메리스틴크D1|[M207423]카렌두라틴크 D2|[M210529]아르니카틴크D2|[M103662]에치나세아안구스티폴틴크D2|[M103661]에치나세아플푸르틴크D2|[M103663]히페리쿰틴크D2|[M103664]헤파설프리스D3",
  "main_item_ingr_eng": "Aconitum Tincture D2/Arnica Tincture D2/Belladonna Tincture D2/Bellis Perennis Tincture D2/Calendula Tincture D2/Chamomilla Tincture D3/Echinacea Angustifolia Tincture D2/Echinacea Purpurea Tincture/Hamamelis Tincture D1/Hepar Sulfuris D3/Hypericum Tincture D2/Millefolium Tincture D3/Symphytum Tincture D6",
  "edi_code": "",
  "atc_code": "M09AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701919",
+ "history_fetched_at": "2026-09-08T08:41:03Z",
  "revisions": [
   {
    "revision_id": "200701919-fccc6c5a",
@@ -20,7 +21,7 @@
    "ee_doc_id": "11",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:41:03Z",
-   "last_observed_at": "2026-09-08T08:41:03Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2020-01-06"
   },
   {
@@ -43,6 +44,5 @@
    "first_observed_at": "2026-09-08T08:41:03Z",
    "last_observed_at": "2026-09-08T08:41:03Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:41:03Z"
+ ]
 }

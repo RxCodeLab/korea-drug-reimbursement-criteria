@@ -7,11 +7,12 @@
  "permit_date": "20140523",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040308]건조수산화알루미늄겔|[M040629]탄산마그네슘|[M040631]탄산수소나트륨|[M040634]침강탄산칼슘",
+ "main_item_ingr": "[M040308]건조수산화알루미늄겔|[M040629]탄산마그네슘|[M040634]침강탄산칼슘|[M040631]탄산수소나트륨",
  "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel/Magnesium Carbonate/Precipitated Calcium Carbonate/Sodium Bicarbonate",
  "edi_code": "",
  "atc_code": "A02AH",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402369",
+ "history_fetched_at": "2026-09-08T08:47:04Z",
  "revisions": [
   {
    "revision_id": "201402369-48cfb7db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "5",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:47:04Z",
-   "last_observed_at": "2026-09-08T08:47:04Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:47:04Z"
+ ]
 }

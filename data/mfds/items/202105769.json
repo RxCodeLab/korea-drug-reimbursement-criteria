@@ -7,11 +7,12 @@
  "permit_date": "20210805",
  "cancel_date": "20260805",
  "status": "유효기간만료",
- "main_item_ingr": "[M082071]판크레아틴장용과립|[M100297]셀룰라제|[M223083]시메티콘|[M223167]우르소데옥시콜산|[M261920]디아스타제·프로테아제100",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M100297]셀룰라제|[M261920]디아스타제·프로테아제100|[M223083]시메티콘|[M082071]판크레아틴장용과립",
  "main_item_ingr_eng": "Cellulase/Diastase·Protease 100/Pancreatin Enteric Coated Granules/Simethicone/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A09AA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105769",
+ "history_fetched_at": "2026-09-08T09:00:26Z",
  "revisions": [
   {
    "revision_id": "202105769-286238c3",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:26Z",
-   "last_observed_at": "2026-09-08T09:00:26Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-08-05"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:26Z"
+ ]
 }

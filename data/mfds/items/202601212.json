@@ -7,11 +7,12 @@
  "permit_date": "20260424",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M110553]콜레칼시페롤 과립|[M210377]아셀렌산나트륨오수화물|[M243785]산화아연|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr": "[M110553]콜레칼시페롤 과립|[M255819]토코페롤아세테이트 2배산|[M243785]산화아연|[M210377]아셀렌산나트륨오수화물",
  "main_item_ingr_eng": "Cholecalciferol Granules/Sodium Selenite Pentahydrate/Tocopherol Acetate Powder 50%/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11CC55",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601212",
+ "history_fetched_at": "2026-09-08T09:05:06Z",
  "revisions": [
   {
    "revision_id": "202601212-37643f60",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:06Z",
-   "last_observed_at": "2026-09-08T09:05:06Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-04-24"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:06Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20210913",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040006]감초|[M040007]건강|[M040048]길경|[M040071]대추|[M040523]작약|[M040536]지실",
+ "main_item_ingr": "[M040048]길경|[M040006]감초|[M040071]대추|[M040523]작약|[M040536]지실|[M040007]건강",
  "main_item_ingr_eng": "Ginger/Jujube/Licorice/Peony Root/Platycodon Root/Poncirus Immature Fruit",
  "edi_code": "",
  "atc_code": "J01XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106516",
+ "history_fetched_at": "2026-09-08T09:00:35Z",
  "revisions": [
   {
    "revision_id": "202106516-d2110385",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:35Z",
-   "last_observed_at": "2026-09-08T09:00:35Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-09-13"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:35Z"
+ ]
 }

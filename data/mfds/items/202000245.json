@@ -7,11 +7,12 @@
  "permit_date": "20200116",
  "cancel_date": "20250116",
  "status": "유효기간만료",
- "main_item_ingr": "[M050687]비사코딜|[M081950]도큐세이트나트륨|[M223167]우르소데옥시콜산",
+ "main_item_ingr": "[M050687]비사코딜|[M223167]우르소데옥시콜산|[M081950]도큐세이트나트륨",
  "main_item_ingr_eng": "Bisacodyl/Docusate Sodium/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A06AB52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000245",
+ "history_fetched_at": "2026-09-08T08:57:30Z",
  "revisions": [
   {
    "revision_id": "202000245-e82d2aef",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:57:30Z",
-   "last_observed_at": "2026-09-08T08:57:30Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2020-01-16"
   }
- ],
- "history_fetched_at": "2026-09-08T08:57:30Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20141217",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M261974]정제디프테리아톡소이드 (디프테리아균 Park-Williams No.8주)|[M261975]정제파상풍톡소이드 (파상풍균 Harvard A-47주)|[M261976]정제백일해방어항원 (백일해균 Tohama1상주)",
+ "main_item_ingr": "[M261976]정제백일해방어항원 (백일해균 Tohama1상주)|[M261975]정제파상풍톡소이드 (파상풍균 Harvard A-47주)|[M261974]정제디프테리아톡소이드 (디프테리아균 Park-Williams No.8주)",
  "main_item_ingr_eng": "Purified B. Pertussis Protecting Antigen (Strain: Tohama, Phase 1)/Purified Diphtheria Toxoid (Strain: Park-Williams No.8)/Purified Tetanus Toxoid (Strain: Harvard)",
  "edi_code": "",
  "atc_code": "J07AJ52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405907",
+ "history_fetched_at": "2026-09-08T08:48:08Z",
  "revisions": [
   {
    "revision_id": "201405907-efe5746f",
@@ -20,9 +21,8 @@
    "ee_doc_id": "8",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:48:08Z",
-   "last_observed_at": "2026-09-08T08:48:08Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:48:08Z"
+ ]
 }

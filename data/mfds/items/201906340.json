@@ -7,11 +7,12 @@
  "permit_date": "20190906",
  "cancel_date": "20240906",
  "status": "유효기간만료",
- "main_item_ingr": "[M116712]길경 연조엑스(2.3~2.8→1)|[M117845]황금연조엑스(1.5~1.9→1)|[M117856]연교 연조엑스(3.6~4.4→1)|[M117955]작약 연조엑스(2.8~3.4→1)|[M268062]지각연조엑스(1.5∼1.8→1)|[M268064]감초연조엑스(2.1∼2.5→1)|[M268188]당귀연조엑스(2.8~3.4→1)|[M268711]박하연조엑스(3.2∼4.0→1)|[M268979]생지황연조엑스(3.6~4.9→1)|[M269893]치자연조엑스(2.1~2.6→1)|[M269894]황련연조엑스(4.1~5.6→1)",
+ "main_item_ingr": "[M268711]박하연조엑스(3.2∼4.0→1)|[M268188]당귀연조엑스(2.8~3.4→1)|[M268979]생지황연조엑스(3.6~4.9→1)|[M268062]지각연조엑스(1.5∼1.8→1)|[M269894]황련연조엑스(4.1~5.6→1)|[M116712]길경 연조엑스(2.3~2.8→1)|[M269893]치자연조엑스(2.1~2.6→1)|[M117845]황금연조엑스(1.5~1.9→1)|[M268064]감초연조엑스(2.1∼2.5→1)|[M117955]작약 연조엑스(2.8~3.4→1)|[M117856]연교 연조엑스(3.6~4.4→1)",
  "main_item_ingr_eng": "Angelica Gigas Root Soft Extract (2.8∼3.4→1)/Aurantii Fructus Immaturus Soft Extract (1.5~1.8→1)/Coptis Rhizome Soft Extract (4.1~5.6→1)/Forsythia Fruit Soft Extract (3.6~4.4→1)/Gardenia Fruit Soft Extract (2.1~2.6→1)/Licorice Soft Extract(2.1~2.5→1)/Mentha Herb Soft Extract (3.2∼4.0→1)/Peony Root Soft Extract (2.8~3.4→1)/Platycodon Root Soft Extract (2.3~2.8→1)/Rehmanniae Radix Recens Soft Extract (3.6~4.9→1)/Scutellaria Root Soft Extract (1.5~1.9→1)",
  "edi_code": "",
  "atc_code": "A01AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906340",
+ "history_fetched_at": "2026-09-08T08:56:19Z",
  "revisions": [
   {
    "revision_id": "201906340-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:56:19Z",
-   "last_observed_at": "2026-09-08T08:56:19Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-09-06"
   }
- ],
- "history_fetched_at": "2026-09-08T08:56:19Z"
+ ]
 }

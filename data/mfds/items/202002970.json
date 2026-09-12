@@ -7,11 +7,12 @@
  "permit_date": "20200424",
  "cancel_date": "20250424",
  "status": "유효기간만료",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040488]이노시톨|[M050704]비오틴|[M096428]벤포티아민|[M113501]농축콜레칼시페롤 산|[M117558]시아노코발라민 1000배산|[M204304]피리독신염산염|[M223167]우르소데옥시콜산|[M223289]폴산|[M229534]감마오리자놀|[M236913]제피아스코르브산|[M243654]산화아연|[M244350]판토텐산칼슘|[M247683]콜린타르타르산염|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr": "[M223289]폴산|[M236913]제피아스코르브산|[M243654]산화아연|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M244350]판토텐산칼슘|[M096428]벤포티아민|[M040133]리보플라빈|[M113501]농축콜레칼시페롤 산|[M117558]시아노코발라민 1000배산|[M050704]비오틴|[M247683]콜린타르타르산염|[M040488]이노시톨|[M223167]우르소데옥시콜산|[M255819]토코페롤아세테이트 2배산|[M229534]감마오리자놀",
  "main_item_ingr_eng": "Ascorbic Acid Coated/Benfotiamine/Biotin/Calcium Pantothenate/Cholecalciferol Concentrate Powder/Choline Tartrate/Cyanocobalamin Powder 0.1%/Folic Acid/Gamma-Oryzanol/Inositol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Tocopherol Acetate Powder 50%/Ursodeoxycholic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002970",
+ "history_fetched_at": "2026-09-08T08:58:32Z",
  "revisions": [
   {
    "revision_id": "202002970-2aefd511",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:58:32Z",
-   "last_observed_at": "2026-09-08T08:58:32Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-04-24"
   }
- ],
- "history_fetched_at": "2026-09-08T08:58:32Z"
+ ]
 }

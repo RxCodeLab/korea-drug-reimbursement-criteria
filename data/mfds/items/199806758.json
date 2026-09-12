@@ -7,11 +7,12 @@
  "permit_date": "19981217",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040141]메글루민|[M040141]메글루민|[M086220]도타|[M086220]도타|[M086651]산화가돌리늄|[M086651]산화가돌리늄",
+ "main_item_ingr": "[M040141]메글루민|[M086651]산화가돌리늄|[M086220]도타|[M040141]메글루민|[M086651]산화가돌리늄|[M086220]도타",
  "main_item_ingr_eng": "DOTA/Gadolinium Oxide/Meglumine",
  "edi_code": "654900011,654900021,654900031,654900041,654900051,654900061",
  "atc_code": "V08CA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806758",
+ "history_fetched_at": "2026-09-08T08:32:26Z",
  "revisions": [
   {
    "revision_id": "199806758-5f2ec2dd",
@@ -20,9 +21,8 @@
    "ee_doc_id": "24",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:32:26Z",
-   "last_observed_at": "2026-09-08T08:32:26Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:32:26Z"
+ ]
 }

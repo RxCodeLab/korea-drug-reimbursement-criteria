@@ -7,11 +7,12 @@
  "permit_date": "20180313",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223167]우르소데옥시콜산|[M223240]토코페롤아세테이트|[M223262]티아민질산염|[M243785]산화아연|[M244365]셀레늄함유건조효모|[M250857]β-카로틴현탁액30%|[M258994]아스코르브산",
+ "main_item_ingr": "[M223262]티아민질산염|[M223167]우르소데옥시콜산|[M244365]셀레늄함유건조효모|[M243785]산화아연|[M250857]β-카로틴현탁액30%|[M258994]아스코르브산|[M223240]토코페롤아세테이트",
  "main_item_ingr_eng": "Ascorbic Acid/Beta-Carotene Suspension 30%/Selenium In Dried Yeast/Thiamine Nitrate/Tocopherol Acetate/Ursodeoxycholic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11AB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801145",
+ "history_fetched_at": "2026-09-08T08:52:56Z",
  "revisions": [
   {
    "revision_id": "201801145-d27bcce5",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:52:56Z",
-   "last_observed_at": "2026-09-08T08:52:56Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2018-03-13"
   }
- ],
- "history_fetched_at": "2026-09-08T08:52:56Z"
+ ]
 }

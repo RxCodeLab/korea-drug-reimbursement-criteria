@@ -7,11 +7,12 @@
  "permit_date": "20220414",
  "cancel_date": "20260106",
  "status": "취하",
- "main_item_ingr": "[M223212]d-클로르페니라민말레산염|[M223279]페닐레프린염산염",
+ "main_item_ingr": "[M223279]페닐레프린염산염|[M223212]d-클로르페니라민말레산염",
  "main_item_ingr_eng": "D-Chlorpheniramine Maleate/Phenylephrine Hydrochloride",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201560",
+ "history_fetched_at": "2026-09-08T09:01:15Z",
  "revisions": [
   {
    "revision_id": "202201560-e4b23214",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:15Z",
-   "last_observed_at": "2026-09-08T09:01:15Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2022-04-14"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:15Z"
+ ]
 }

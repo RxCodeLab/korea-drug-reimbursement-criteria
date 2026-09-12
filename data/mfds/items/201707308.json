@@ -7,11 +7,12 @@
  "permit_date": "20170928",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040044]농글리세린|[M088336]백색바셀린|[M222724]페닐레프린염산염|[M246661]프라목신염산염",
+ "main_item_ingr": "[M246661]프라목신염산염|[M222724]페닐레프린염산염|[M088336]백색바셀린|[M040044]농글리세린",
  "main_item_ingr_eng": "Concentrated Glycerin/Phenylephrine Hydrochloride/Pramoxine Hydrochloride/White Petrolatum",
  "edi_code": "",
  "atc_code": "C05A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707308",
+ "history_fetched_at": "2026-09-08T08:52:26Z",
  "revisions": [
   {
    "revision_id": "201707308-cb11424e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "2",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:52:26Z",
-   "last_observed_at": "2026-09-08T08:52:26Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2017-09-29"
   }
- ],
- "history_fetched_at": "2026-09-08T08:52:26Z"
+ ]
 }

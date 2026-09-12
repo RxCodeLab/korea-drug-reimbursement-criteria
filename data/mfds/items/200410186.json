@@ -7,11 +7,12 @@
  "permit_date": "20040830",
  "cancel_date": "20241029",
  "status": "취하",
- "main_item_ingr": "[M051015]알란토인|[M111680]L-아스파라긴산마그네슘·칼륨등량혼합물|[M222937]나파졸린염산염|[M222940]네오스티그민메틸황산염|[M223211]클로르페니라민말레산염",
+ "main_item_ingr": "[M111680]L-아스파라긴산마그네슘·칼륨등량혼합물|[M222937]나파졸린염산염|[M222940]네오스티그민메틸황산염|[M051015]알란토인|[M223211]클로르페니라민말레산염",
  "main_item_ingr_eng": "Allantoin/Chlorpheniramine Maleate/L-Aspartate Magnesium·Potassium etc. Mixture/Naphazoline Hydrochloride/Neostigmine Methylsulfate",
  "edi_code": "",
  "atc_code": "S01GA51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410186",
+ "history_fetched_at": "2026-09-08T08:38:41Z",
  "revisions": [
   {
    "revision_id": "200410186-19232b52",
@@ -20,9 +21,8 @@
    "ee_doc_id": "6",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:38:41Z",
-   "last_observed_at": "2026-09-08T08:38:41Z",
+   "last_observed_at": "2026-09-12T16:32:30Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:38:41Z"
+ ]
 }

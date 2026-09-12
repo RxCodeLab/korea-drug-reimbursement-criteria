@@ -7,11 +7,12 @@
  "permit_date": "20260721",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M117558]시아노코발라민 1000배산|[M223289]폴산|[M244748]판토텐산칼슘|[M251365]폴리사카리드철착염",
+ "main_item_ingr": "[M223289]폴산|[M117558]시아노코발라민 1000배산|[M251365]폴리사카리드철착염|[M244748]판토텐산칼슘",
  "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin Powder 0.1%/Folic Acid/Polysaccharide Iron Complex",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602105",
+ "history_fetched_at": "2026-09-08T09:05:32Z",
  "revisions": [
   {
    "revision_id": "202602105-635e8644",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:32Z",
-   "last_observed_at": "2026-09-08T09:05:32Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-07-21"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:32Z"
+ ]
 }

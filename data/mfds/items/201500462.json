@@ -7,11 +7,12 @@
  "permit_date": "20150128",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M261482]불활화 콜레라균(V.cholerae O1 Inaba Cairo 48 classical biotype, Heat inactivated)|[M261483]불활화 콜레라균(V.cholerae O1 Inaba Phil 6973 El Tor biotype, Formalin inactivated|[M261484]불활화 콜레라균(V.cholerae O1 Ogawa Cairo 50  classical biotype, Formalin inactivated)|[M261485]불활화 콜레라균(V.cholerae O1 Ogawa Cairo 50  classical biotype, Heat inactivated)|[M261486]불활화 콜레라균(V.cholerae O139 4260B, Formalin inactivated)",
+ "main_item_ingr": "[M261486]불활화 콜레라균(V.cholerae O139 4260B, Formalin inactivated)|[M261485]불활화 콜레라균(V.cholerae O1 Ogawa Cairo 50  classical biotype, Heat inactivated)|[M261484]불활화 콜레라균(V.cholerae O1 Ogawa Cairo 50  classical biotype, Formalin inactivated)|[M261483]불활화 콜레라균(V.cholerae O1 Inaba Phil 6973 El Tor biotype, Formalin inactivated|[M261482]불활화 콜레라균(V.cholerae O1 Inaba Cairo 48 classical biotype, Heat inactivated)",
  "main_item_ingr_eng": "V.Cholerae O1 Inaba Cairo 48 Classical Biotype, Heat Inactivated/V.Cholerae O1 Inaba Phil 6973 El Tor Biotype, Formalin Inactivated/V.Cholerae O1 Ogawa Cairo 50 Classical Biotype, Formalin Inactivated/V.Cholerae O1 Ogawa Cairo 50 Classical Biotype, Heat Inactivated/V.Cholerae O139 4260B, Formalin Inactivated",
  "edi_code": "",
  "atc_code": "J07AE01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500462",
+ "history_fetched_at": "2026-09-08T08:48:25Z",
  "revisions": [
   {
    "revision_id": "201500462-a01df1d1",
@@ -20,9 +21,8 @@
    "ee_doc_id": "9",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:48:25Z",
-   "last_observed_at": "2026-09-08T08:48:25Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:48:25Z"
+ ]
 }

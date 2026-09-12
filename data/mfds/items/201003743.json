@@ -7,11 +7,12 @@
  "permit_date": "20100528",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M250078]불활화 콜레라균(V. cholerae Inaba 48 classical biotype, heat inactivated)|[M250079]불활화 콜레라균(V. cholerae Ogawa 50 classical biotype, heat inactivated)|[M250080]불활화 콜레라균(V. cholerae Ogawa 50 classical biotype, Formalin inactivated)|[M250081]유전자재조합콜레라독소 B (Vibrio cholerae Inaba 213 classical biotype, Recombinant, 숙주: Vibrio cholera 213, 벡터: pKK223-3)|[M252095]불활화 콜레라균(V. Cholerae Inaba 6973 El Tor biotype, Formalin inactivated)",
+ "main_item_ingr": "[M250081]유전자재조합콜레라독소 B (Vibrio cholerae Inaba 213 classical biotype, Recombinant, 숙주: Vibrio cholera 213, 벡터: pKK223-3)|[M250080]불활화 콜레라균(V. cholerae Ogawa 50 classical biotype, Formalin inactivated)|[M250079]불활화 콜레라균(V. cholerae Ogawa 50 classical biotype, heat inactivated)|[M250078]불활화 콜레라균(V. cholerae Inaba 48 classical biotype, heat inactivated)|[M252095]불활화 콜레라균(V. Cholerae Inaba 6973 El Tor biotype, Formalin inactivated)",
  "main_item_ingr_eng": "Cholera Toxoid B (rDNA, Strain: Vibrio Cholerae Inaba 213 Classical Biotype, Host: Vibrio Cholera 213, Vector: pKK223-3)/V.Cholerae Inaba 48 Classical Biotype, Heat Inactivated/V.Cholerae Inaba 6973 El Tor Biotype, Formalin Inactivated/V.Cholerae Ogawa 50 Classical Biotype, Formalin Inactivated/V.Cholerae Ogawa 50 Classical Biotype, Heat Inactivated",
  "edi_code": "",
  "atc_code": "J07AE01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003743",
+ "history_fetched_at": "2026-09-08T08:44:05Z",
  "revisions": [
   {
    "revision_id": "201003743-8a5a4eb4",
@@ -20,7 +21,7 @@
    "ee_doc_id": "45",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:44:05Z",
-   "last_observed_at": "2026-09-08T08:44:05Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2018-08-24"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:44:05Z",
    "last_observed_at": "2026-09-08T08:44:05Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:44:05Z"
+ ]
 }

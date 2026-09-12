@@ -7,11 +7,12 @@
  "permit_date": "20140627",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M286567]정제불활화인플루엔자바이러스항원A형[A/Missouri/11/2025 (H1N1)pdm09-like strain (A/Switzerland/6849/2025, IVR-278)]|[M286568]정제불활화인플루엔자바이러스항원A형[A/Darwin/1454/2025 (H3N2)-like strain (A/Michigan/105/2025, SAN-049A)]|[M286569]정제불활화인플루엔자바이러스항원B형[B/Tokyo/EIS13-175/2025-like strain (B/Tokyo/EIS13-175/2025, wild type)]",
+ "main_item_ingr": "[M286569]정제불활화인플루엔자바이러스항원B형[B/Tokyo/EIS13-175/2025-like strain (B/Tokyo/EIS13-175/2025, wild type)]|[M286568]정제불활화인플루엔자바이러스항원A형[A/Darwin/1454/2025 (H3N2)-like strain (A/Michigan/105/2025, SAN-049A)]|[M286567]정제불활화인플루엔자바이러스항원A형[A/Missouri/11/2025 (H1N1)pdm09-like strain (A/Switzerland/6849/2025, IVR-278)]",
  "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A [A/Darwin/1454/2025 (H3N2)-like strain (A/Michigan/105/2025, SAN-049A)]/Purified Inactivated Influenza Virus Antigen A [A/Missouri/11/2025 (H1N1)pdm09-like strain (A/Switzerland/6849/2025, IVR-278)]/Purified Inactivated Influenza Virus Antigen B [B/Tokyo/EIS13-175/2025-like strain (B/Tokyo/EIS13-175/2025, wild type)]",
  "edi_code": "",
  "atc_code": "J07BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402881",
+ "history_fetched_at": "2026-09-08T08:47:13Z",
  "revisions": [
   {
    "revision_id": "201402881-f736285b",
@@ -20,7 +21,7 @@
    "ee_doc_id": "29",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:47:13Z",
-   "last_observed_at": "2026-09-08T08:47:13Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2025-04-30"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:47:13Z",
    "last_observed_at": "2026-09-08T08:47:13Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:47:13Z"
+ ]
 }

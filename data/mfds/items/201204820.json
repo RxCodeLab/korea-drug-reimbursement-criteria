@@ -7,11 +7,12 @@
  "permit_date": "20120518",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M223167]우르소데옥시콜산|[M223262]티아민질산염",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M223262]티아민질산염|[M040133]리보플라빈",
  "main_item_ingr_eng": "Riboflavin/Thiamine Nitrate/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A05AA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201204820",
+ "history_fetched_at": "2026-09-08T08:45:17Z",
  "revisions": [
   {
    "revision_id": "201204820-75799157",
@@ -20,9 +21,8 @@
    "ee_doc_id": "2",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:45:17Z",
-   "last_observed_at": "2026-09-08T08:45:17Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:45:17Z"
+ ]
 }

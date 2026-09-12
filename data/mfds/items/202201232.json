@@ -7,11 +7,12 @@
  "permit_date": "20220329",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040805]건조황산제일철|[M102050]콜레칼시페롤농축분말",
+ "main_item_ingr": "[M102050]콜레칼시페롤농축분말|[M040805]건조황산제일철",
  "main_item_ingr_eng": "Cholecalciferol Concentrate Powder/Dried Ferrous Sulfate",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201232",
+ "history_fetched_at": "2026-09-08T09:01:13Z",
  "revisions": [
   {
    "revision_id": "202201232-2ff5372e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:13Z",
-   "last_observed_at": "2026-09-08T09:01:13Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2022-03-29"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:13Z"
+ ]
 }

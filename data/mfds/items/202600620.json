@@ -7,11 +7,12 @@
  "permit_date": "20260227",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M283910]정제불활화인플루엔자바이러스표면항원B형[B/Michigan/01/2021]|[M286186]정제불활화인플루엔자바이러스표면항원A형[A/Victoria/4897/2022(IVR-238)(H1N1)]|[M286187]정제불활화인플루엔자바이러스표면항원A형[A/Darwin/9/2021(IVR-228)(H3N2)]",
+ "main_item_ingr": "[M286186]정제불활화인플루엔자바이러스표면항원A형[A/Victoria/4897/2022(IVR-238)(H1N1)]|[M286187]정제불활화인플루엔자바이러스표면항원A형[A/Darwin/9/2021(IVR-228)(H3N2)]|[M283910]정제불활화인플루엔자바이러스표면항원B형[B/Michigan/01/2021]",
  "main_item_ingr_eng": "Purified Inactivated Influenza Virus Surface Antigen A [A/Victoria/4897/2022 (IVR-238)(H1N1)]/Purified influenza virus antigen(Split virion, Inactivated) A [A/Darwin/9/2021, IVR-228(H3N2)]/Purified influenza virus antigen(Split virion, Inactivated) B [B/Michigan/01/2021]",
  "edi_code": "",
  "atc_code": "J07BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600620",
+ "history_fetched_at": "2026-09-08T09:04:51Z",
  "revisions": [
   {
    "revision_id": "202600620-47e9eb39",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:51Z",
-   "last_observed_at": "2026-09-08T09:04:51Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-02-27"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:51Z"
+ ]
 }

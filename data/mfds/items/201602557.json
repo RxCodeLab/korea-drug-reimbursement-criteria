@@ -7,11 +7,12 @@
  "permit_date": "20160509",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M244695]불활화 폴리오바이러스 제2형(바이러스주: MEF-1주)|[M245920]파상풍톡소이드와접합된헤모필루스인플루엔자비형균다당류[균주: Haemophilus influenzae type b 1482(제조원균주번호 2164), 접합단백질용 균주: Clostridium tetani Havard 49205(제조원균주번호 1472C)]|[M247156]디프테리아 톡소이드(균주명:1514-N-3S주)|[M247157]파상풍톡소이드(균주명:1472-C주)|[M247158]백일해톡소이드(균주명:1591주)|[M247159]필라멘트 헤마글루티닌(균주명:1591주)|[M253648]불활화폴리오바이러스 제1형 (바이러스주명: Mahoney주)|[M253650]불활화폴리오바이러스 제3형 (바이러스주명: Saukett주)",
+ "main_item_ingr": "[M245920]파상풍톡소이드와접합된헤모필루스인플루엔자비형균다당류[균주: Haemophilus influenzae type b 1482(제조원균주번호 2164), 접합단백질용 균주: Clostridium tetani Havard 49205(제조원균주번호 1472C)]|[M253650]불활화폴리오바이러스 제3형 (바이러스주명: Saukett주)|[M244695]불활화 폴리오바이러스 제2형(바이러스주: MEF-1주)|[M253648]불활화폴리오바이러스 제1형 (바이러스주명: Mahoney주)|[M247159]필라멘트 헤마글루티닌(균주명:1591주)|[M247158]백일해톡소이드(균주명:1591주)|[M247157]파상풍톡소이드(균주명:1472-C주)|[M247156]디프테리아 톡소이드(균주명:1514-N-3S주)",
  "main_item_ingr_eng": "B. Pertussis Toxoid (Strain: 1591)/Diphtheria Toxoid (Strain: 1514-N-3S)/Filament Hemagglutinin (Strain: 1591)/Haemophilus Influenzae Type B Polysaccharide·Tetanus Toxoid Conjugate (Strain: Haemophilus Influenzae Type B 1482, Strain: Clostridium Tetani Havard 49205)/Inactivated Polio Virus Type I (Stain: Mahoney)/Inactivated Polio Virus Type II (Stain: MEF-1)/Inactivated Polio Virus Type III (Stain: Saukett)/Tetanus Toxoid (Strain: 1472-C)",
  "edi_code": "",
  "atc_code": "J07CA06",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602557",
+ "history_fetched_at": "2026-09-08T08:50:33Z",
  "revisions": [
   {
    "revision_id": "201602557-057886e5",
@@ -20,9 +21,8 @@
    "ee_doc_id": "14",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:50:33Z",
-   "last_observed_at": "2026-09-08T08:50:33Z",
+   "last_observed_at": "2026-09-12T16:32:34Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:50:33Z"
+ ]
 }

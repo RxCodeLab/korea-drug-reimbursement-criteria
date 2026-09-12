@@ -7,11 +7,12 @@
  "permit_date": "20061020",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040086]도인|[M040187]목향|[M040188]몰약|[M040548]창출|[M040787]황|[M050107]금은화|[M050397]마치현|[M050751]상지|[M050755]석검|[M051105]연교|[M051234]유지|[M051238]유향|[M051394]청피|[M051958]황단|[M082147]도지",
+ "main_item_ingr": "[M050751]상지|[M051234]유지|[M040548]창출|[M040787]황|[M050755]석검|[M051394]청피|[M040086]도인|[M082147]도지|[M040188]몰약|[M051105]연교|[M050397]마치현|[M051958]황단|[M050107]금은화|[M040187]목향|[M051238]유향",
  "main_item_ingr_eng": "Atractylodes Rhizome/Aucklandiae Radix/Citrii Unshiu Immaturi Pericarpium/Fat Milk/Forsythia Fruit/Lonicera Flower/Minium/Mori Ramulus/Myrrh/Olibanum/Peach Kernel/Portulacae Herba/Prunus Persica Stoker/Pyrrosiae Folium/Sulfur",
  "edi_code": "",
  "atc_code": "D09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606412",
+ "history_fetched_at": "2026-09-08T08:40:25Z",
  "revisions": [
   {
    "revision_id": "200606412-8bcb55eb",
@@ -20,9 +21,8 @@
    "ee_doc_id": "6",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:40:25Z",
-   "last_observed_at": "2026-09-08T08:40:25Z",
+   "last_observed_at": "2026-09-12T16:32:30Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:40:25Z"
+ ]
 }

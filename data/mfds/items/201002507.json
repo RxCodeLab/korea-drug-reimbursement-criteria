@@ -7,11 +7,12 @@
  "permit_date": "20100406",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051415]푸르설티아민|[M084984]카제인가수분해물|[M089480]레시친|[M244748]판토텐산칼슘",
+ "main_item_ingr": "[M084984]카제인가수분해물|[M089480]레시친|[M244748]판토텐산칼슘|[M051415]푸르설티아민",
  "main_item_ingr_eng": "Calcium Pantothenate/Casein Hydrolysate/Fursultiamine/Lecithin",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002507",
+ "history_fetched_at": "2026-09-08T08:43:55Z",
  "revisions": [
   {
    "revision_id": "201002507-e0448a8e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "2",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:43:55Z",
-   "last_observed_at": "2026-09-08T08:43:55Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:43:55Z"
+ ]
 }

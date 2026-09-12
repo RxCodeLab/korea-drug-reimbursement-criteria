@@ -7,11 +7,12 @@
  "permit_date": "20260128",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040030]구기자|[M040030]구기자|[M040064]니코틴산아미드|[M040064]니코틴산아미드|[M051291]인삼|[M051291]인삼|[M102908]타우린|[M102908]타우린|[M204304]피리독신염산염|[M204304]피리독신염산염",
+ "main_item_ingr": "[M102908]타우린|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M040030]구기자|[M051291]인삼|[M102908]타우린|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M040030]구기자|[M051291]인삼",
  "main_item_ingr_eng": "Ginseng/Lycium Fruit/Nicotinamide/Pyridoxine Hydrochloride/Taurine",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600236",
+ "history_fetched_at": "2026-09-08T09:04:43Z",
  "revisions": [
   {
    "revision_id": "202600236-e44cdf86",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:43Z",
-   "last_observed_at": "2026-09-08T09:04:43Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-01-28"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:43Z"
+ ]
 }

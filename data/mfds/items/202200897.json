@@ -7,11 +7,12 @@
  "permit_date": "20220302",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M243785]산화아연|[M258994]아스코르브산",
+ "main_item_ingr": "[M258994]아스코르브산|[M243785]산화아연",
  "main_item_ingr_eng": "Ascorbic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11GB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200897",
+ "history_fetched_at": "2026-09-08T09:01:09Z",
  "revisions": [
   {
    "revision_id": "202200897-610decf8",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:09Z",
-   "last_observed_at": "2026-09-08T09:01:09Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2022-03-02"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:09Z"
+ ]
 }

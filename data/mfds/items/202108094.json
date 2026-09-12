@@ -7,11 +7,12 @@
  "permit_date": "20211223",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040488]이노시톨|[M096428]벤포티아민|[M096429]시아노코발라민|[M202809]감마-오리자놀|[M204304]피리독신염산염|[M223289]폴산|[M243785]산화아연|[M244748]판토텐산칼슘|[M247683]콜린타르타르산염|[M249983]D-비오틴|[M258994]아스코르브산",
+ "main_item_ingr": "[M204304]피리독신염산염|[M244748]판토텐산칼슘|[M223289]폴산|[M040064]니코틴산아미드|[M040133]리보플라빈|[M096428]벤포티아민|[M202809]감마-오리자놀|[M040488]이노시톨|[M258994]아스코르브산|[M243785]산화아연|[M096429]시아노코발라민|[M249983]D-비오틴|[M247683]콜린타르타르산염",
  "main_item_ingr_eng": "Ascorbic Acid/Benfotiamine/Calcium Pantothenate/Choline Tartrate/Cyanocobalamin/D-Biotin/Folic Acid/Gamma-Oryzanol/Inositol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108094",
+ "history_fetched_at": "2026-09-08T09:00:54Z",
  "revisions": [
   {
    "revision_id": "202108094-97b8d36b",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:54Z",
-   "last_observed_at": "2026-09-08T09:00:54Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-12-23"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:54Z"
+ ]
 }

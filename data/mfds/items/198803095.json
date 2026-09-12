@@ -7,11 +7,12 @@
  "permit_date": "19880726",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040083]덱스트란70|[M040083]덱스트란70|[M040083]덱스트란70|[M040083]덱스트란70|[M102967]히프로멜로오스|[M102967]히프로멜로오스|[M102967]히프로멜로오스|[M102967]히프로멜로오스",
+ "main_item_ingr": "[M040083]덱스트란70|[M102967]히프로멜로오스|[M040083]덱스트란70|[M102967]히프로멜로오스|[M040083]덱스트란70|[M102967]히프로멜로오스|[M040083]덱스트란70|[M102967]히프로멜로오스",
  "main_item_ingr_eng": "Dextran 70/Hypromellose",
  "edi_code": "",
  "atc_code": "S01XA20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198803095",
+ "history_fetched_at": "2026-09-08T08:27:45Z",
  "revisions": [
   {
    "revision_id": "198803095-18ccb27b",
@@ -20,9 +21,8 @@
    "ee_doc_id": "17",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:27:45Z",
-   "last_observed_at": "2026-09-08T08:27:45Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:27:45Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20100810",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M250353]정제B형간염표면항원단백(벡터: pYLBC ADHII/GAP ub sAg, 숙주: Saccharomyces cerevisiae AB110)|[M250353]정제B형간염표면항원단백(벡터: pYLBC ADHII/GAP ub sAg, 숙주: Saccharomyces cerevisiae AB110)|[M250572]불활화백일해균(백일해균 262, 345, 358 균주)|[M250572]불활화백일해균(백일해균 262, 345, 358 균주)|[M250573]디프테리아톡소이드(디프테리아 Park-Williams 8/W균주)|[M250573]디프테리아톡소이드(디프테리아 Park-Williams 8/W균주)|[M250574]파상풍톡소이드(Harvard 43415 균주)|[M250574]파상풍톡소이드(Harvard 43415 균주)|[M252358]헤모필루스인플루엔자비형균협막다당류.파상풍톡소이드접합체(헤모필루스인플루엔자비형균주 ATCC31441, 파상풍균주 Harvard43415)|[M252358]헤모필루스인플루엔자비형균협막다당류.파상풍톡소이드접합체(헤모필루스인플루엔자비형균주 ATCC31441, 파상풍균주 Harvard43415)",
+ "main_item_ingr": "[M252358]헤모필루스인플루엔자비형균협막다당류.파상풍톡소이드접합체(헤모필루스인플루엔자비형균주 ATCC31441, 파상풍균주 Harvard43415)|[M250572]불활화백일해균(백일해균 262, 345, 358 균주)|[M250573]디프테리아톡소이드(디프테리아 Park-Williams 8/W균주)|[M250574]파상풍톡소이드(Harvard 43415 균주)|[M250353]정제B형간염표면항원단백(벡터: pYLBC ADHII/GAP ub sAg, 숙주: Saccharomyces cerevisiae AB110)|[M250574]파상풍톡소이드(Harvard 43415 균주)|[M250573]디프테리아톡소이드(디프테리아 Park-Williams 8/W균주)|[M250572]불활화백일해균(백일해균 262, 345, 358 균주)|[M252358]헤모필루스인플루엔자비형균협막다당류.파상풍톡소이드접합체(헤모필루스인플루엔자비형균주 ATCC31441, 파상풍균주 Harvard43415)|[M250353]정제B형간염표면항원단백(벡터: pYLBC ADHII/GAP ub sAg, 숙주: Saccharomyces cerevisiae AB110)",
  "main_item_ingr_eng": "Diphtheria Toxoid (Strain: Park-Williams No.8)/Haemophilus Influenzae Type B Capsular Polysaccharide·Tetanus Toxoid Conjugate (Strain: Haemophilus Influenzae Type B, ATCC 31441, Strain: Clostridium Tetani, Harvard 43415)/Inactivated B. Pertussis (Strain: 262, 345, 358)/Purified Hepatitis B Surface Antigen Protein (Host: Saccharomyces Cerevisiae AB110, Vector: pYLBC ADHII/GAP ub sAg)/Tetanus Toxoid (Strain: Harvard 43415)",
  "edi_code": "",
  "atc_code": "J07CA11",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004928",
+ "history_fetched_at": "2026-09-08T08:44:11Z",
  "revisions": [
   {
    "revision_id": "201004928-26913390",
@@ -20,9 +21,8 @@
    "ee_doc_id": "26",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:44:11Z",
-   "last_observed_at": "2026-09-08T08:44:11Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:44:11Z"
+ ]
 }

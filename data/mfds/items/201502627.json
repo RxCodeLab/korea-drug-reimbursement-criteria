@@ -7,11 +7,12 @@
  "permit_date": "20150430",
  "cancel_date": "20250430",
  "status": "유효기간만료",
- "main_item_ingr": "[M200675]베타메타손디프로피오네이트|[M249551]칼시포트리올일수화물",
+ "main_item_ingr": "[M249551]칼시포트리올일수화물|[M200675]베타메타손디프로피오네이트",
  "main_item_ingr_eng": "Betamethasone Dipropionate/Calcipotriol Monohydrate",
  "edi_code": "",
  "atc_code": "D05AX52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502627",
+ "history_fetched_at": "2026-09-08T08:48:56Z",
  "revisions": [
   {
    "revision_id": "201502627-8160fb25",
@@ -20,7 +21,7 @@
    "ee_doc_id": "22",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:48:56Z",
-   "last_observed_at": "2026-09-08T08:48:56Z",
+   "last_observed_at": "2026-09-12T16:32:34Z",
    "official_revision_date": "2022-11-02"
   },
   {
@@ -43,6 +44,5 @@
    "first_observed_at": "2026-09-08T08:48:56Z",
    "last_observed_at": "2026-09-08T08:48:56Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:48:56Z"
+ ]
 }

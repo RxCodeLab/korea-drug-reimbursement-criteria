@@ -7,11 +7,12 @@
  "permit_date": "20190304",
  "cancel_date": "20240304",
  "status": "유효기간만료",
- "main_item_ingr": "[M051962]황산망간|[M071715]황산구리|[M082821]염화크롬|[M207833]아셀렌산|[M217501]황산아연수화물",
+ "main_item_ingr": "[M207833]아셀렌산|[M082821]염화크롬|[M051962]황산망간|[M071715]황산구리|[M217501]황산아연수화물",
  "main_item_ingr_eng": "Chromic Chloride Hydrate/Copper Sulfate/Manganese Sulfate/Selenious Acid/Zinc Sulfate Hydrate",
  "edi_code": "",
  "atc_code": "B05XA31",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901316",
+ "history_fetched_at": "2026-09-08T08:54:24Z",
  "revisions": [
   {
    "revision_id": "201901316-f4790d07",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:54:24Z",
-   "last_observed_at": "2026-09-08T08:54:24Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2019-03-04"
   }
- ],
- "history_fetched_at": "2026-09-08T08:54:24Z"
+ ]
 }

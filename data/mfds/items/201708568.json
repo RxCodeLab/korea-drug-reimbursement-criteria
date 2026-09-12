@@ -7,11 +7,12 @@
  "permit_date": "20171226",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M266585]인삼연조엑스(3.2~4.0→1)|[M266591]진피연조엑스(2.3~2.8→1)|[M266614]시호연조엑스(3.6~4.4→1)|[M267152]승마연조엑스(4.3~5.9→1)|[M267153]황기연조엑스(3.2~4.0→1)|[M268064]감초연조엑스(2.1∼2.5→1)|[M268184]백출연조엑스(2.8~3.4→1)|[M268188]당귀연조엑스(2.8~3.4→1)",
+ "main_item_ingr": "[M266614]시호연조엑스(3.6~4.4→1)|[M267152]승마연조엑스(4.3~5.9→1)|[M266591]진피연조엑스(2.3~2.8→1)|[M268188]당귀연조엑스(2.8~3.4→1)|[M268064]감초연조엑스(2.1∼2.5→1)|[M268184]백출연조엑스(2.8~3.4→1)|[M266585]인삼연조엑스(3.2~4.0→1)|[M267153]황기연조엑스(3.2~4.0→1)",
  "main_item_ingr_eng": "Angelica Gigas Root Soft Extract (2.8∼3.4→1)/Astragalus Root Soft Extract (3.2~4.0→1)/Atractylodes Rhizome White Soft Extract (2.8∼3.4→1)/Bupleurum Root Soft Extract (3.6~4.4→1)/Cimicifuga Rhizome Soft Extract (4.3~5.9→1)/Citrus Unshiu Peel Soft Extract (2.3~2.8→1)/Ginseng Soft Extract (3.2~4.0→1)/Licorice Soft Extract(2.1~2.5→1)",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708568",
+ "history_fetched_at": "2026-09-08T08:52:44Z",
  "revisions": [
   {
    "revision_id": "201708568-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:52:44Z",
-   "last_observed_at": "2026-09-08T08:52:44Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2017-12-26"
   }
- ],
- "history_fetched_at": "2026-09-08T08:52:44Z"
+ ]
 }

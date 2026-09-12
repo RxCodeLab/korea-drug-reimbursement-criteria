@@ -7,11 +7,12 @@
  "permit_date": "20160913",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M250026]엠트리시타빈|[M256270]이산화규소흡착코비시스타트|[M264728]엘비테그라비르(미분화)|[M278212]테노포비르알라페나미드헤미푸마르산염",
+ "main_item_ingr": "[M256270]이산화규소흡착코비시스타트|[M278212]테노포비르알라페나미드헤미푸마르산염|[M250026]엠트리시타빈|[M264728]엘비테그라비르(미분화)",
  "main_item_ingr_eng": "Cobicistat Silicone Dioxide/Elvitegravir Micronized/Emtricitabine/Tenofovir Alafenamide HemiFumarate",
  "edi_code": "625900090",
  "atc_code": "J05AR18",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605531",
+ "history_fetched_at": "2026-09-08T08:51:13Z",
  "revisions": [
   {
    "revision_id": "201605531-669b41e6",
@@ -20,7 +21,7 @@
    "ee_doc_id": "18",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:51:13Z",
-   "last_observed_at": "2026-09-08T08:51:13Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2019-08-19"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:51:13Z",
    "last_observed_at": "2026-09-08T08:51:13Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:51:13Z"
+ ]
 }

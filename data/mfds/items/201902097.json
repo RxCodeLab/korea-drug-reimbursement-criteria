@@ -7,11 +7,12 @@
  "permit_date": "20190405",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040264]살리실산|[M051015]알란토인|[M284425]에탄올(95)",
+ "main_item_ingr": "[M051015]알란토인|[M040264]살리실산|[M284425]에탄올(95)",
  "main_item_ingr_eng": "Allantoin/Ethanol 95%/Salicylic Acid",
  "edi_code": "",
  "atc_code": "D10AX30",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902097",
+ "history_fetched_at": "2026-09-08T08:54:44Z",
  "revisions": [
   {
    "revision_id": "201902097-04c5d9bb",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:54:44Z",
-   "last_observed_at": "2026-09-08T08:54:44Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2019-04-05"
   }
- ],
- "history_fetched_at": "2026-09-08T08:54:44Z"
+ ]
 }

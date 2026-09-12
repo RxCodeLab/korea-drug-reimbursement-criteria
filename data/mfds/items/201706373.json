@@ -7,11 +7,12 @@
  "permit_date": "20170731",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M116712]길경 연조엑스(2.3~2.8→1)|[M117331]지각 연조엑스(1.5~1.8→1)|[M117955]작약 연조엑스(2.8~3.4→1)|[M266597]방풍연조엑스(2.5~3.1→1)|[M266599]백지연조엑스(3.6~4.4→1)|[M266601]황금연조엑스(1.5~1.9→1)|[M266612]연교연조엑스(3.6~4.4→1)|[M266614]시호연조엑스(3.6~4.4→1)|[M269893]치자연조엑스(2.1~2.6→1)|[M272009]감초 연조엑스(2.1∼2.5→1)|[M275846]형개 연조엑스(4.3~5.9→1)|[M279374]당귀연조엑스(2.8~3.4→1)|[M279375]천궁연조엑스(2.1~2.6→1)",
+ "main_item_ingr": "[M266599]백지연조엑스(3.6~4.4→1)|[M266601]황금연조엑스(1.5~1.9→1)|[M117331]지각 연조엑스(1.5~1.8→1)|[M266614]시호연조엑스(3.6~4.4→1)|[M279375]천궁연조엑스(2.1~2.6→1)|[M279374]당귀연조엑스(2.8~3.4→1)|[M266597]방풍연조엑스(2.5~3.1→1)|[M266612]연교연조엑스(3.6~4.4→1)|[M275846]형개 연조엑스(4.3~5.9→1)|[M116712]길경 연조엑스(2.3~2.8→1)|[M117955]작약 연조엑스(2.8~3.4→1)|[M269893]치자연조엑스(2.1~2.6→1)|[M272009]감초 연조엑스(2.1∼2.5→1)",
  "main_item_ingr_eng": "Angelica Dahurica Root Soft Extract (3.6~4.4→1)/Angelica Gigas Root Soft Extract (2.8∼3.4→1)/Aurantii Fructus Immaturus Soft Extract (1.5~1.8→1)/Bupleurum Root Soft Extract (3.6~4.4→1)/Cnidium Rhizome Soft Extract (2.1∼2.6→1)/Forsythia Fruit Soft Extract (3.6~4.4→1)/Gardenia Fruit Soft Extract (2.1~2.6→1)/Licorice Soft Extract(2.1~2.5→1)/Peony Root Soft Extract (2.8~3.4→1)/Platycodon Root Soft Extract (2.3~2.8→1)/Saposhnikovia Root Soft Extract (2.5~3.1→1)/Schizonepeta Spike Soft Extract (4.3~5.9→1)/Scutellaria Root Soft Extract (1.5~1.9→1)",
  "edi_code": "",
  "atc_code": "R01B",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706373",
+ "history_fetched_at": "2026-09-08T08:52:10Z",
  "revisions": [
   {
    "revision_id": "201706373-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "3",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:52:10Z",
-   "last_observed_at": "2026-09-08T08:52:10Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:52:10Z"
+ ]
 }

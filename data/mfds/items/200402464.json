@@ -7,11 +7,12 @@
  "permit_date": "20040512",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M284617]오르소시폰엽40%에탄올건조엑스(5→1)|[M284618]레스트애로우근30%에탄올건조엑스(6.5→1)|[M284619]골든로드50%에탄올건조엑스(5.5→1)",
+ "main_item_ingr": "[M284618]레스트애로우근30%에탄올건조엑스(6.5→1)|[M284617]오르소시폰엽40%에탄올건조엑스(5→1)|[M284619]골든로드50%에탄올건조엑스(5.5→1)",
  "main_item_ingr_eng": "Goldenrod 50% Ethanol Dried Extract (5.5→1)/Orthosiphonis Folium 40% Ethanol Dried Extract (5→1)/Restarrow Root 30% Ethanol Dried Extract (6.5→1)",
  "edi_code": "",
  "atc_code": "G04BX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402464",
+ "history_fetched_at": "2026-09-08T08:38:05Z",
  "revisions": [
   {
    "revision_id": "200402464-da3f76b8",
@@ -20,9 +21,8 @@
    "ee_doc_id": "9",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:38:05Z",
-   "last_observed_at": "2026-09-08T08:38:05Z",
+   "last_observed_at": "2026-09-12T16:32:30Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:38:05Z"
+ ]
 }

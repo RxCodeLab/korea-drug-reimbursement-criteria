@@ -7,11 +7,12 @@
  "permit_date": "20010906",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M247040]약독홍역생바이러스(바이러스주: Schwarz strain)|[M247041]약독유행성이하선염생바이러스(바이러스주: RIT4385 strain)|[M247042]약독풍진생바이러스(바이러스주: Wistar RA 27/3 strain)",
+ "main_item_ingr": "[M247040]약독홍역생바이러스(바이러스주: Schwarz strain)|[M247042]약독풍진생바이러스(바이러스주: Wistar RA 27/3 strain)|[M247041]약독유행성이하선염생바이러스(바이러스주: RIT4385 strain)",
  "main_item_ingr_eng": "Live Attenuated Measles Virus/Live Attenuated Mumps Virus (Strain: RIT4385)/Live Attenuated Rubella Virus (Strain: Wistar RA 27/3)",
  "edi_code": "",
  "atc_code": "J07BD52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108707",
+ "history_fetched_at": "2026-09-08T08:35:46Z",
  "revisions": [
   {
    "revision_id": "200108707-2ffc2944",
@@ -20,9 +21,8 @@
    "ee_doc_id": "22",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:35:46Z",
-   "last_observed_at": "2026-09-08T08:35:46Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:35:46Z"
+ ]
 }

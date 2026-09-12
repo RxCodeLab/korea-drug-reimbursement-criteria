@@ -7,11 +7,12 @@
  "permit_date": "20250207",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040200]박하유|[M200188]노닐산바닐릴아미드|[M203279]살리실산메틸|[M204423]dl-캄파|[M223254]티몰|[M230875]l-멘톨",
+ "main_item_ingr": "[M200188]노닐산바닐릴아미드|[M223254]티몰|[M203279]살리실산메틸|[M040200]박하유|[M230875]l-멘톨|[M204423]dl-캄파",
  "main_item_ingr_eng": "DL-Camphor/L-Menthol/Mentha Herb Oil/Methyl Salicylate/Thymol/Vanillyl Nonylamide",
  "edi_code": "",
  "atc_code": "M02AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500259",
+ "history_fetched_at": "2026-09-08T09:03:40Z",
  "revisions": [
   {
    "revision_id": "202500259-2c185cb5",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:40Z",
-   "last_observed_at": "2026-09-08T09:03:40Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-02-07"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:40Z"
+ ]
 }

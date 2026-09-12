@@ -7,11 +7,12 @@
  "permit_date": "19950718",
  "cancel_date": "20231004",
  "status": "취하",
- "main_item_ingr": "[M084735]펠로디핀|[M111248]메토프롤롤숙신산염",
+ "main_item_ingr": "[M111248]메토프롤롤숙신산염|[M084735]펠로디핀",
  "main_item_ingr_eng": "Felodipine/Metoprolol Succinate",
  "edi_code": "",
  "atc_code": "C07FB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199504241",
+ "history_fetched_at": "2026-09-08T08:29:54Z",
  "revisions": [
   {
    "revision_id": "199504241-27222081",
@@ -20,9 +21,8 @@
    "ee_doc_id": "13",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:29:54Z",
-   "last_observed_at": "2026-09-08T08:29:54Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:29:54Z"
+ ]
 }

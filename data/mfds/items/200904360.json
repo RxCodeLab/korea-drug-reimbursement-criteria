@@ -7,11 +7,12 @@
  "permit_date": "20090622",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M246674]디프테리아톡소이드(균주명:C.diphtheriae L34T1주)|[M246675]파상풍톡소이드(균주명: C.tetani Boston II 60주)|[M251558]백일해톡소이드(균주명: B. Pertussis 10536주)|[M251559]FHA(균주명: B. Pertussis 10536주)|[M251560]FIM 2+3(균주명: B. Pertussis 10536주)|[M251561]PRN(균주명: B. Pertussis 10536주)",
+ "main_item_ingr": "[M251561]PRN(균주명: B. Pertussis 10536주)|[M251560]FIM 2+3(균주명: B. Pertussis 10536주)|[M251559]FHA(균주명: B. Pertussis 10536주)|[M251558]백일해톡소이드(균주명: B. Pertussis 10536주)|[M246675]파상풍톡소이드(균주명: C.tetani Boston II 60주)|[M246674]디프테리아톡소이드(균주명:C.diphtheriae L34T1주)",
  "main_item_ingr_eng": "B. Pertussis Filamentous Hemagglutinin (FHA) (Strain: 10536)/B. Pertussis Toxoid (Strain: 10536)/Diphtheria Toxoid (Strain: C.diphtheriae L34T1)/Fimbriae 2+3 (Strain: B. pertussis 10536)/PRN (Strain: B. Pertussis 10536)/Tetanus Toxoid (Strain: Boston II 60)",
  "edi_code": "",
  "atc_code": "J07AJ52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904360",
+ "history_fetched_at": "2026-09-08T08:43:20Z",
  "revisions": [
   {
    "revision_id": "200904360-2cd7543b",
@@ -20,7 +21,7 @@
    "ee_doc_id": "41",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:43:20Z",
-   "last_observed_at": "2026-09-08T08:43:20Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2026-06-05"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:43:20Z",
    "last_observed_at": "2026-09-08T08:43:20Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:43:20Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20140430",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040131]리도카인|[M040421]에피네프린|[M040423]염산",
+ "main_item_ingr": "[M040423]염산|[M040421]에피네프린|[M040131]리도카인",
  "main_item_ingr_eng": "Epinephrine/Hydrochloric Acid/Lidocaine",
  "edi_code": "",
  "atc_code": "N01BB52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402047",
+ "history_fetched_at": "2026-09-08T08:47:00Z",
  "revisions": [
   {
    "revision_id": "201402047-160ca4f3",
@@ -20,9 +21,8 @@
    "ee_doc_id": "10",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:47:00Z",
-   "last_observed_at": "2026-09-08T08:47:00Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:47:00Z"
+ ]
 }

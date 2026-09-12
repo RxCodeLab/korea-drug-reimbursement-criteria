@@ -7,11 +7,12 @@
  "permit_date": "20191211",
  "cancel_date": "20241211",
  "status": "유효기간만료",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M040488]이노시톨|[M050704]비오틴|[M096428]벤포티아민|[M204304]피리독신염산염|[M222995]리보플라빈부티레이트|[M223167]우르소데옥시콜산|[M223289]폴산|[M223357]히드록소코발라민아세트산염|[M229534]감마오리자놀|[M243654]산화아연|[M244350]판토텐산칼슘|[M244376]셀레늄함유건조효모|[M247683]콜린타르타르산염|[M248795]피리독살포스페이트수화물|[M255819]토코페롤아세테이트 2배산|[M256378]농축콜레칼시페롤 과립|[M258994]아스코르브산",
+ "main_item_ingr": "[M222995]리보플라빈부티레이트|[M244376]셀레늄함유건조효모|[M040133]리보플라빈|[M248795]피리독살포스페이트수화물|[M204304]피리독신염산염|[M223357]히드록소코발라민아세트산염|[M040064]니코틴산아미드|[M244350]판토텐산칼슘|[M223289]폴산|[M229534]감마오리자놀|[M223167]우르소데옥시콜산|[M096428]벤포티아민|[M258994]아스코르브산|[M255819]토코페롤아세테이트 2배산|[M256378]농축콜레칼시페롤 과립|[M050704]비오틴|[M040262]산화마그네슘|[M243654]산화아연|[M247683]콜린타르타르산염|[M040488]이노시톨",
  "main_item_ingr_eng": "Ascorbic Acid/Benfotiamine/Biotin/Calcium Pantothenate/Cholecalciferol Concentrate Granules/Choline Tartrate/Folic Acid/Gamma-Oryzanol/Hydroxocobalamin Acetate/Inositol/Magnesium Oxide/Nicotinamide/Pyridoxal Phosphate Hydrate/Pyridoxine Hydrochloride/Riboflavin/Riboflavin Butyrate/Selenium In Dried Yeast/Tocopherol Acetate Powder 50%/Ursodeoxycholic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908339",
+ "history_fetched_at": "2026-09-08T08:57:14Z",
  "revisions": [
   {
    "revision_id": "201908339-b1ee3a8b",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:57:14Z",
-   "last_observed_at": "2026-09-08T08:57:14Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-12-11"
   }
- ],
- "history_fetched_at": "2026-09-08T08:57:14Z"
+ ]
 }

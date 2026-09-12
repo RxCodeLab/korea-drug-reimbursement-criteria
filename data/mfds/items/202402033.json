@@ -7,11 +7,12 @@
  "permit_date": "20240823",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M204422]dl-메틸에페드린염산염|[M223183]카페인무수물|[M223211]클로르페니라민말레산염|[M261072]디히드로코데인타르타르산염",
+ "main_item_ingr": "[M223183]카페인무수물|[M204422]dl-메틸에페드린염산염|[M223211]클로르페니라민말레산염|[M261072]디히드로코데인타르타르산염",
  "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dihydrocodeine Tartrate",
  "edi_code": "",
  "atc_code": "R05DA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402033",
+ "history_fetched_at": "2026-09-08T09:03:15Z",
  "revisions": [
   {
    "revision_id": "202402033-da6ae941",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:15Z",
-   "last_observed_at": "2026-09-08T09:03:15Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2024-08-23"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:15Z"
+ ]
 }

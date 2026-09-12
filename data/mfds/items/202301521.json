@@ -7,11 +7,12 @@
  "permit_date": "20230511",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040006]감초|[M040007]건강|[M040538]진피|[M040548]창출|[M040775]현호색|[M040811]회향|[M050036]육계",
+ "main_item_ingr": "[M040006]감초|[M040775]현호색|[M040811]회향|[M040548]창출|[M050036]육계|[M040007]건강|[M040538]진피",
  "main_item_ingr_eng": "Atractylodes Rhizome/Cinnamon Bark/Citrus Unshiu Peel/Corydalis Tuber/Fennel/Ginger/Licorice",
  "edi_code": "",
  "atc_code": "A16AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301521",
+ "history_fetched_at": "2026-09-08T09:02:03Z",
  "revisions": [
   {
    "revision_id": "202301521-5c988f87",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:03Z",
-   "last_observed_at": "2026-09-08T09:02:03Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2023-05-11"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:03Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20030729",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051785]테가푸르|[M051785]테가푸르|[M250313]기메라실|[M250313]기메라실|[M250314]오테라실칼륨|[M250314]오테라실칼륨",
+ "main_item_ingr": "[M051785]테가푸르|[M250313]기메라실|[M250314]오테라실칼륨|[M051785]테가푸르|[M250313]기메라실|[M250314]오테라실칼륨",
  "main_item_ingr_eng": "Gimeracil/Oteracil Potassium/Tegafur",
  "edi_code": "645401930,645401940",
  "atc_code": "L01BC53",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300393",
+ "history_fetched_at": "2026-09-08T08:36:44Z",
  "revisions": [
   {
    "revision_id": "200300393-fe9114de",
@@ -20,7 +21,7 @@
    "ee_doc_id": "45",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:36:44Z",
-   "last_observed_at": "2026-09-08T08:36:44Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2026-06-01"
   },
   {
@@ -53,6 +54,5 @@
    "first_observed_at": "2026-09-08T08:36:44Z",
    "last_observed_at": "2026-09-08T08:36:44Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:36:44Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20240501",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M110553]콜레칼시페롤 과립|[M223262]티아민질산염|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr": "[M256191]콘드로이틴설페이트나트륨|[M223262]티아민질산염|[M110553]콜레칼시페롤 과립",
  "main_item_ingr_eng": "Cholecalciferol Granules/Sodium Chondroitin Sulfate/Thiamine Nitrate",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401074",
+ "history_fetched_at": "2026-09-08T09:02:57Z",
  "revisions": [
   {
    "revision_id": "202401074-82afa3d6",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:57Z",
-   "last_observed_at": "2026-09-08T09:02:57Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2024-05-01"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:57Z"
+ ]
 }

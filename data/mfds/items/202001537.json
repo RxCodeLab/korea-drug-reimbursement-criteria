@@ -7,11 +7,12 @@
  "permit_date": "20200305",
  "cancel_date": "20250305",
  "status": "유효기간만료",
- "main_item_ingr": "[M262708]반하건조엑스(5.9~7.3→1)\r\n|[M266235]복령건조엑스(90.9~111.1→1)|[M266236]후박건조엑스(18.2~22.2→1)|[M266238]대추건조엑스(2.5~3.1→1)|[M266239]생강건조엑스(26.0~31.7→1)|[M266240]자소엽건조엑스(9.1~11.1→1)",
+ "main_item_ingr": "[M266238]대추건조엑스(2.5~3.1→1)|[M266239]생강건조엑스(26.0~31.7→1)|[M266240]자소엽건조엑스(9.1~11.1→1)|[M266236]후박건조엑스(18.2~22.2→1)|[M266235]복령건조엑스(90.9~111.1→1)|[M262708]반하건조엑스(5.9~7.3→1)",
  "main_item_ingr_eng": "Jujube Dried Extract (2.5~3.1→1)/Magnolia Bark Dried Extract (18.2~22.2→1)/Perilla Leaf Dried Extract (9.1~11.1→1)/Pinellia Tuber Dried Extract (5.9~7.3→1)/Poria Dried Extract (90.9~111.1→1)/Raw Ginger Dried Extract (26.0~31.7→1)",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001537",
+ "history_fetched_at": "2026-09-08T08:57:59Z",
  "revisions": [
   {
    "revision_id": "202001537-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:57:59Z",
-   "last_observed_at": "2026-09-08T08:57:59Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2020-03-05"
   }
- ],
- "history_fetched_at": "2026-09-08T08:57:59Z"
+ ]
 }

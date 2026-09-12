@@ -7,11 +7,12 @@
  "permit_date": "20191217",
  "cancel_date": "20241217",
  "status": "유효기간만료",
- "main_item_ingr": "[M222838]디플루코르톨론발레레이트|[M222880]이소코나졸질산염",
+ "main_item_ingr": "[M222880]이소코나졸질산염|[M222838]디플루코르톨론발레레이트",
  "main_item_ingr_eng": "Diflucortolone Valerate/Isoconazole Nitrate",
  "edi_code": "",
  "atc_code": "D01AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908452",
+ "history_fetched_at": "2026-09-08T08:57:17Z",
  "revisions": [
   {
    "revision_id": "201908452-80835a16",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:57:17Z",
-   "last_observed_at": "2026-09-08T08:57:17Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-12-17"
   }
- ],
- "history_fetched_at": "2026-09-08T08:57:17Z"
+ ]
 }

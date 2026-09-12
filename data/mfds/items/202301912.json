@@ -7,11 +7,12 @@
  "permit_date": "20230622",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M040262]산화마그네슘|[M040488]이노시톨|[M050704]비오틴|[M096428]벤포티아민|[M096429]시아노코발라민|[M110553]콜레칼시페롤 과립|[M113513]아스코르브산 과립97%|[M202809]감마-오리자놀|[M204304]피리독신염산염|[M223167]우르소데옥시콜산|[M223289]폴산|[M243785]산화아연|[M244748]판토텐산칼슘",
+ "main_item_ingr": "[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M050704]비오틴|[M223289]폴산|[M096429]시아노코발라민|[M113513]아스코르브산 과립97%|[M040064]니코틴산아미드|[M040133]리보플라빈|[M202809]감마-오리자놀|[M243785]산화아연|[M223167]우르소데옥시콜산|[M040262]산화마그네슘|[M110553]콜레칼시페롤 과립|[M040488]이노시톨|[M096428]벤포티아민",
  "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Benfotiamine/Biotin/Calcium Pantothenate/Cholecalciferol Granules/Cyanocobalamin/Folic Acid/Gamma-Oryzanol/Inositol/Magnesium Oxide/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Ursodeoxycholic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301912",
+ "history_fetched_at": "2026-09-08T09:02:10Z",
  "revisions": [
   {
    "revision_id": "202301912-e04d3dcb",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:10Z",
-   "last_observed_at": "2026-09-08T09:02:10Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2023-06-22"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:10Z"
+ ]
 }

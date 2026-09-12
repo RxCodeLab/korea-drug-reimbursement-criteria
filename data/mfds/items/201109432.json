@@ -7,11 +7,12 @@
  "permit_date": "20111101",
  "cancel_date": "20231215",
  "status": "취하",
- "main_item_ingr": "[M082761]인삼가루|[M082761]인삼가루|[M223240]토코페롤아세테이트|[M223240]토코페롤아세테이트",
+ "main_item_ingr": "[M082761]인삼가루|[M223240]토코페롤아세테이트|[M082761]인삼가루|[M223240]토코페롤아세테이트",
  "main_item_ingr_eng": "Ginseng Powder/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109432",
+ "history_fetched_at": "2026-09-08T08:44:56Z",
  "revisions": [
   {
    "revision_id": "201109432-78115dde",
@@ -20,9 +21,8 @@
    "ee_doc_id": "5",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:44:56Z",
-   "last_observed_at": "2026-09-08T08:44:56Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:44:56Z"
+ ]
 }

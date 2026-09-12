@@ -7,11 +7,12 @@
  "permit_date": "20090218",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040629]탄산마그네슘|[M229291]건조수산화알루미늄 겔",
+ "main_item_ingr": "[M229291]건조수산화알루미늄 겔|[M040629]탄산마그네슘",
  "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel/Magnesium Carbonate",
  "edi_code": "",
  "atc_code": "A02AD01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901321",
+ "history_fetched_at": "2026-09-08T08:43:06Z",
  "revisions": [
   {
    "revision_id": "200901321-f9179604",
@@ -20,7 +21,7 @@
    "ee_doc_id": "8",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:43:06Z",
-   "last_observed_at": "2026-09-08T08:43:06Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2020-05-12"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:43:06Z",
    "last_observed_at": "2026-09-08T08:43:06Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:43:06Z"
+ ]
 }

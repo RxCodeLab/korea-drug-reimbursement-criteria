@@ -7,11 +7,12 @@
  "permit_date": "19991201",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040185]목단피|[M040225]복령|[M040257]산수유|[M040258]산약|[M040638]택사|[M050037]계지|[M051364]숙지황|[M201585]정제부자",
+ "main_item_ingr": "[M040225]복령|[M040257]산수유|[M040258]산약|[M050037]계지|[M051364]숙지황|[M201585]정제부자|[M040638]택사|[M040185]목단피",
  "main_item_ingr_eng": "Alisma Rhizome/Cinnamomi Ramulus/Cornus Fruit/Dioscorea Rhizome/Moutan Root Bark/Poria/Prepared Rehmannia Root/Pulvis Aconiti Tuberis Purificaum",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199904683",
+ "history_fetched_at": "2026-09-08T08:33:09Z",
  "revisions": [
   {
    "revision_id": "199904683-7e52958e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "6",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:33:09Z",
-   "last_observed_at": "2026-09-08T08:33:09Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:33:09Z"
+ ]
 }

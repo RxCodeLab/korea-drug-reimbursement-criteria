@@ -7,11 +7,12 @@
  "permit_date": "20200915",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040629]탄산마그네슘|[M201415]옥세타자인|[M242935]건조수산화알루미늄겔",
+ "main_item_ingr": "[M242935]건조수산화알루미늄겔|[M040629]탄산마그네슘|[M201415]옥세타자인",
  "main_item_ingr_eng": "Dried Aluminium Hydroxide Gel/Magnesium Carbonate/Oxethazaine",
  "edi_code": "",
  "atc_code": "A02AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006366",
+ "history_fetched_at": "2026-09-08T08:59:24Z",
  "revisions": [
   {
    "revision_id": "202006366-3ba523b3",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:59:24Z",
-   "last_observed_at": "2026-09-08T08:59:24Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-09-15"
   }
- ],
- "history_fetched_at": "2026-09-08T08:59:24Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20240528",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040262]산화마그네슘|[M222935]글루콘산칼슘수화물|[M223369]인산수소칼슘수화물|[M245627]농축콜레칼시페롤유",
+ "main_item_ingr": "[M223369]인산수소칼슘수화물|[M222935]글루콘산칼슘수화물|[M245627]농축콜레칼시페롤유|[M040262]산화마그네슘",
  "main_item_ingr_eng": "Calcium Gluconate Hydrate/Cholecalciferol Concentrate Oil/Dibasic Calcium Phosphate Hydrate/Magnesium Oxide",
  "edi_code": "",
  "atc_code": "A12AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401312",
+ "history_fetched_at": "2026-09-08T09:03:00Z",
  "revisions": [
   {
    "revision_id": "202401312-ee81046a",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:00Z",
-   "last_observed_at": "2026-09-08T09:03:00Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2024-05-28"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:00Z"
+ ]
 }

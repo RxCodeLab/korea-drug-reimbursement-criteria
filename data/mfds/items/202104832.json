@@ -7,11 +7,12 @@
  "permit_date": "20210624",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040004]갈근|[M040006]감초|[M040789]황금|[M040792]황련",
+ "main_item_ingr": "[M040006]감초|[M040789]황금|[M040792]황련|[M040004]갈근",
  "main_item_ingr_eng": "Coptis Rhizome/Licorice/Pueraria Root/Scutellaria Root",
  "edi_code": "",
  "atc_code": "N07XX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104832",
+ "history_fetched_at": "2026-09-08T09:00:18Z",
  "revisions": [
   {
    "revision_id": "202104832-95bf1e6f",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:18Z",
-   "last_observed_at": "2026-09-08T09:00:18Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-06-24"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:18Z"
+ ]
 }

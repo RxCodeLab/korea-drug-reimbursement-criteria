@@ -7,11 +7,12 @@
  "permit_date": "20210503",
  "cancel_date": "20260503",
  "status": "유효기간만료",
- "main_item_ingr": "[M050687]비사코딜|[M081899]센나엽가루|[M081950]도큐세이트나트륨|[M085757]티니벨리센나열매가루",
+ "main_item_ingr": "[M050687]비사코딜|[M085757]티니벨리센나열매가루|[M081899]센나엽가루|[M081950]도큐세이트나트륨",
  "main_item_ingr_eng": "Bisacodyl/Docusate Sodium/Senna Leaf Powder/Tinnevelly Senna Fruit Powder",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103656",
+ "history_fetched_at": "2026-09-08T09:00:09Z",
  "revisions": [
   {
    "revision_id": "202103656-5b266025",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:09Z",
-   "last_observed_at": "2026-09-08T09:00:09Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-05-03"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:09Z"
+ ]
 }

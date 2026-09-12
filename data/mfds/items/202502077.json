@@ -7,11 +7,12 @@
  "permit_date": "20250811",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040003]간유|[M040064]니코틴산아미드|[M040133]리보플라빈|[M096428]벤포티아민|[M117064]베타-카로틴 현탁액30%|[M243785]산화아연|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr": "[M117064]베타-카로틴 현탁액30%|[M040133]리보플라빈|[M256191]콘드로이틴설페이트나트륨|[M040064]니코틴산아미드|[M243785]산화아연|[M096428]벤포티아민|[M040003]간유",
  "main_item_ingr_eng": "Benfotiamine/Beta-Carotene Suspension 30%/Cod Liver Oil/Nicotinamide/Riboflavin/Sodium Chondroitin Sulfate/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502077",
+ "history_fetched_at": "2026-09-08T09:04:11Z",
  "revisions": [
   {
    "revision_id": "202502077-b895d2f6",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:11Z",
-   "last_observed_at": "2026-09-08T09:04:11Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-08-11"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:11Z"
+ ]
 }

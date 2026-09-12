@@ -7,11 +7,12 @@
  "permit_date": "20160523",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040702]포도당|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M243246]아세트산나트륨수화물",
+ "main_item_ingr": "[M040702]포도당|[M243246]아세트산나트륨수화물|[M051111]염화마그네슘|[M217500]염화칼슘수화물|[M040438]염화칼륨|[M040426]염화나트륨",
  "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose/Magnesium Chloride/Potassium Chloride/Sodium Acetate Hydrate/Sodium Chloride",
  "edi_code": "677402381,677402382,677402383",
  "atc_code": "B05ZA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602796",
+ "history_fetched_at": "2026-09-08T08:50:38Z",
  "revisions": [
   {
    "revision_id": "201602796-852dab32",
@@ -20,9 +21,8 @@
    "ee_doc_id": "9",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:50:38Z",
-   "last_observed_at": "2026-09-08T08:50:38Z",
+   "last_observed_at": "2026-09-12T16:32:34Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:50:38Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20240625",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M086528]벨라돈나총알칼로이드|[M223183]카페인무수물|[M223211]클로르페니라민말레산염",
+ "main_item_ingr": "[M223183]카페인무수물|[M223211]클로르페니라민말레산염|[M086528]벨라돈나총알칼로이드",
  "main_item_ingr_eng": "Anhydrous Caffeine/Belladonna Total Alkaloid/Chlorpheniramine Maleate",
  "edi_code": "",
  "atc_code": "R06AB54",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401530",
+ "history_fetched_at": "2026-09-08T09:03:05Z",
  "revisions": [
   {
    "revision_id": "202401530-e4b23214",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:05Z",
-   "last_observed_at": "2026-09-08T09:03:05Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2024-06-25"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:05Z"
+ ]
 }

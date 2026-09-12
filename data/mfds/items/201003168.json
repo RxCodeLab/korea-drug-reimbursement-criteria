@@ -7,11 +7,12 @@
  "permit_date": "20100430",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M222894]티몰롤말레산염|[M222894]티몰롤말레산염|[M244311]도르졸라미드염산염|[M244311]도르졸라미드염산염",
+ "main_item_ingr": "[M244311]도르졸라미드염산염|[M222894]티몰롤말레산염|[M244311]도르졸라미드염산염|[M222894]티몰롤말레산염",
  "main_item_ingr_eng": "Dorzolamide Hydrochloride/Timolol Maleate",
  "edi_code": "645304111,645306271",
  "atc_code": "S01ED51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003168",
+ "history_fetched_at": "2026-09-08T08:43:59Z",
  "revisions": [
   {
    "revision_id": "201003168-12a08797",
@@ -20,9 +21,8 @@
    "ee_doc_id": "12",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:43:59Z",
-   "last_observed_at": "2026-09-08T08:43:59Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:43:59Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20180806",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M266601]황금연조엑스(1.5~1.9→1)|[M266607]지실연조엑스(3.6~4.4→1)|[M266614]시호연조엑스(3.6~4.4→1)|[M268068]작약연조엑스(2.8~3.4→1)|[M268072]대황연조엑스(2.3∼2.8→1)|[M268073]반하연조엑스(0.7~0.8→1)",
+ "main_item_ingr": "[M268073]반하연조엑스(0.7~0.8→1)|[M266607]지실연조엑스(3.6~4.4→1)|[M268072]대황연조엑스(2.3∼2.8→1)|[M268068]작약연조엑스(2.8~3.4→1)|[M266601]황금연조엑스(1.5~1.9→1)|[M266614]시호연조엑스(3.6~4.4→1)",
  "main_item_ingr_eng": "Bupleurum Root Soft Extract (3.6~4.4→1)/Peony Root Soft Extract (2.8~3.4→1)/Pinellia Tuber Soft Extract (0.7∼0.8→1)/Poncirus Immature Fruit Soft Extract (3.6~4.4→1)/Rhubarb Soft Extract (2.3∼2.8→1)/Scutellaria Root Soft Extract (1.5~1.9→1)",
  "edi_code": "",
  "atc_code": "A16AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803195",
+ "history_fetched_at": "2026-09-08T08:53:29Z",
  "revisions": [
   {
    "revision_id": "201803195-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:53:29Z",
-   "last_observed_at": "2026-09-08T08:53:29Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2018-08-06"
   }
- ],
- "history_fetched_at": "2026-09-08T08:53:29Z"
+ ]
 }

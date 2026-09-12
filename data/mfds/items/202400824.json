@@ -7,11 +7,12 @@
  "permit_date": "20240411",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040702]포도당|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr": "[M256191]콘드로이틴설페이트나트륨|[M040702]포도당|[M040438]염화칼륨|[M040426]염화나트륨",
  "main_item_ingr_eng": "Glucose/Potassium Chloride/Sodium Chloride/Sodium Chondroitin Sulfate",
  "edi_code": "",
  "atc_code": "S01XA20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400824",
+ "history_fetched_at": "2026-09-08T09:02:53Z",
  "revisions": [
   {
    "revision_id": "202400824-d37de34c",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:53Z",
-   "last_observed_at": "2026-09-08T09:02:53Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2024-04-11"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:53Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20260211",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M090094]락토바실루스아시도필루스균",
+ "main_item_ingr": "[M090094]락토바실루스아시도필루스균|[M040133]리보플라빈",
  "main_item_ingr_eng": "Lactobacillus Acidophilus/Riboflavin",
  "edi_code": "",
  "atc_code": "A07FA51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600393",
+ "history_fetched_at": "2026-09-08T09:04:46Z",
  "revisions": [
   {
    "revision_id": "202600393-a13348c6",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:46Z",
-   "last_observed_at": "2026-09-08T09:04:46Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-02-11"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:46Z"
+ ]
 }

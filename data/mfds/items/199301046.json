@@ -7,11 +7,12 @@
  "permit_date": "19931126",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M020122]클로람페니콜|[M222954]덱사메타손디나트륨인산염|[M223237]테트라히드로졸린염산염",
+ "main_item_ingr": "[M223237]테트라히드로졸린염산염|[M222954]덱사메타손디나트륨인산염|[M020122]클로람페니콜",
  "main_item_ingr_eng": "Chloramphenicol/Dexamethasone Disodium Phosphate/Tetrahydrozoline Hydrochloride",
  "edi_code": "",
  "atc_code": "S01CA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301046",
+ "history_fetched_at": "2026-09-08T08:28:47Z",
  "revisions": [
   {
    "revision_id": "199301046-cda1bfb8",
@@ -20,9 +21,8 @@
    "ee_doc_id": "13",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:28:47Z",
-   "last_observed_at": "2026-09-08T08:28:47Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:28:47Z"
+ ]
 }

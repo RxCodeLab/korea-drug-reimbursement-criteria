@@ -7,11 +7,12 @@
  "permit_date": "20231108",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040070]당귀|[M040185]목단피|[M040329]승마|[M040792]황련|[M051363]생지황",
+ "main_item_ingr": "[M051363]생지황|[M040792]황련|[M040070]당귀|[M040185]목단피|[M040329]승마",
  "main_item_ingr_eng": "Angelica Gigas Root/Cimicifuga Rhizome/Coptis Rhizome/Moutan Root Bark/Rehmanniae Radix Recens",
  "edi_code": "",
  "atc_code": "A01AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303093",
+ "history_fetched_at": "2026-09-08T09:02:30Z",
  "revisions": [
   {
    "revision_id": "202303093-dabaa4b0",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:30Z",
-   "last_observed_at": "2026-09-08T09:02:30Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2023-11-08"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:30Z"
+ ]
 }

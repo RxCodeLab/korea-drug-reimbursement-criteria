@@ -7,11 +7,12 @@
  "permit_date": "20110208",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040488]이노시톨|[M084809]인삼30%에탄올엑스|[M102908]타우린|[M223167]우르소데옥시콜산|[M223262]티아민질산염",
+ "main_item_ingr": "[M084809]인삼30%에탄올엑스|[M223262]티아민질산염|[M040488]이노시톨|[M102908]타우린|[M223167]우르소데옥시콜산",
  "main_item_ingr_eng": "Ginseng 30% Ethanol Extract/Inositol/Taurine/Thiamine Nitrate/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100578",
+ "history_fetched_at": "2026-09-08T08:44:27Z",
  "revisions": [
   {
    "revision_id": "201100578-23a0f921",
@@ -20,9 +21,8 @@
    "ee_doc_id": "5",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:44:27Z",
-   "last_observed_at": "2026-09-08T08:44:27Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:44:27Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20210616",
  "cancel_date": "20231220",
  "status": "취하",
- "main_item_ingr": "[M040064]니코틴산아미드|[M096428]벤포티아민|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223167]우르소데옥시콜산|[M223240]토코페롤아세테이트",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M223240]토코페롤아세테이트|[M222996]리보플라빈포스페이트나트륨|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M096428]벤포티아민",
  "main_item_ingr_eng": "Benfotiamine/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Tocopherol Acetate/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104599",
+ "history_fetched_at": "2026-09-08T09:00:17Z",
  "revisions": [
   {
    "revision_id": "202104599-3008f369",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:17Z",
-   "last_observed_at": "2026-09-08T09:00:17Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-06-16"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:17Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20260210",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040634]침강탄산칼슘|[M040634]침강탄산칼슘|[M089852]라베프라졸나트륨",
+ "main_item_ingr": "[M089852]라베프라졸나트륨|[M040634]침강탄산칼슘|[M040634]침강탄산칼슘",
  "main_item_ingr_eng": "Precipitated Calcium Carbonate/Rabeprazole Sodium",
  "edi_code": "642106460",
  "atc_code": "A02BC54",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600357",
+ "history_fetched_at": "2026-09-08T09:04:45Z",
  "revisions": [
   {
    "revision_id": "202600357-82eda990",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:45Z",
-   "last_observed_at": "2026-09-08T09:04:45Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-02-10"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:45Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20260429",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050058]구아이페네신|[M051259]이부프로펜|[M204422]dl-메틸에페드린염산염|[M222957]덱스트로메토르판브롬화수소산염수화물|[M223062]브롬헥신염산염",
+ "main_item_ingr": "[M050058]구아이페네신|[M222957]덱스트로메토르판브롬화수소산염수화물|[M223062]브롬헥신염산염|[M204422]dl-메틸에페드린염산염|[M051259]이부프로펜",
  "main_item_ingr_eng": "Bromhexine Hydrochloride/DL-Methylephedrine Hydrochloride/Dextromethorphan Hydrobromide Hydrate/Guaifenesin/Ibuprofen",
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601272",
+ "history_fetched_at": "2026-09-08T09:05:08Z",
  "revisions": [
   {
    "revision_id": "202601272-95a7f754",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:08Z",
-   "last_observed_at": "2026-09-08T09:05:08Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-04-29"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:08Z"
+ ]
 }

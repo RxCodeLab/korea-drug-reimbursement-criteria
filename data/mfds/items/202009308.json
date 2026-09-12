@@ -7,11 +7,12 @@
  "permit_date": "20201229",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040438]염화칼륨|[M044300]포도당일수화물|[M080356]황산마그네슘수화물|[M081583]정제대두유|[M088656]글리신|[M207040]엘-글루타민산|[M207042]엘-히스티딘|[M207047]엘-페닐알라닌|[M207048]엘-프롤린|[M207049]엘-아르기닌|[M207050]엘-알라닌|[M207051]엘-세린|[M207057]엘-아스파라긴산|[M207070]글리세로인산나트륨(무수물로서)|[M207071]엘-트레오닌|[M207072]엘-트리프토판|[M207073]엘-티로신|[M207074]엘-발린|[M217500]염화칼슘수화물|[M224258]엘-메티오닌|[M224275]엘-리신염산염|[M224624]엘-이소류신|[M227966]아세트산나트륨수화물|[M230895]엘-류신",
+ "main_item_ingr": "[M080356]황산마그네슘수화물|[M040438]염화칼륨|[M227966]아세트산나트륨수화물|[M207057]엘-아스파라긴산|[M207040]엘-글루타민산|[M088656]글리신|[M207042]엘-히스티딘|[M224624]엘-이소류신|[M230895]엘-류신|[M224275]엘-리신염산염|[M081583]정제대두유|[M207049]엘-아르기닌|[M207070]글리세로인산나트륨(무수물로서)|[M044300]포도당일수화물|[M207050]엘-알라닌|[M224258]엘-메티오닌|[M207047]엘-페닐알라닌|[M207048]엘-프롤린|[M207051]엘-세린|[M207071]엘-트레오닌|[M207072]엘-트리프토판|[M207073]엘-티로신|[M207074]엘-발린|[M217500]염화칼슘수화물",
  "main_item_ingr_eng": "Anhydrous Sodium Glycerophosphate/Calcium Chloride Hydrate/Glucose Monohydrate/Glycine/L-Alanine/L-Arginine/L-Aspartic Acid/L-Glutamic Acid/L-Histidine/L-Isoleucine/L-Leucine/L-Lysine Hydrochloride/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine/Magnesium Sulfate Hydrate/Potassium Chloride/Refined Soybean Oil/Sodium Acetate Hydrate",
  "edi_code": "",
  "atc_code": "B05BA10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009308",
+ "history_fetched_at": "2026-09-08T08:59:48Z",
  "revisions": [
   {
    "revision_id": "202009308-22fb93f3",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:59:48Z",
-   "last_observed_at": "2026-09-08T08:59:48Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-12-29"
   }
- ],
- "history_fetched_at": "2026-09-08T08:59:48Z"
+ ]
 }

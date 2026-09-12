@@ -7,11 +7,12 @@
  "permit_date": "20140224",
  "cancel_date": "20240224",
  "status": "유효기간만료",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M203450]아스코르브산|[M218189]농축콜레칼시페롤(분말형)|[M222991]레티놀팔미테이트|[M223258]티아민염산염",
+ "main_item_ingr": "[M222991]레티놀팔미테이트|[M040133]리보플라빈|[M223258]티아민염산염|[M203450]아스코르브산|[M040064]니코틴산아미드|[M218189]농축콜레칼시페롤(분말형)",
  "main_item_ingr_eng": "Ascorbic Acid/Cholecalciferol Concentrate Powder/Nicotinamide/Retinol Palmitate/Riboflavin/Thiamine Hydrochloride",
  "edi_code": "",
  "atc_code": "A11AA04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400842",
+ "history_fetched_at": "2026-09-08T08:46:48Z",
  "revisions": [
   {
    "revision_id": "201400842-cd2b712f",
@@ -20,9 +21,8 @@
    "ee_doc_id": "10",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:46:48Z",
-   "last_observed_at": "2026-09-08T08:46:48Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:46:48Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "19970901",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M020072]스피라마이신|[M040170]메트로니다졸",
+ "main_item_ingr": "[M040170]메트로니다졸|[M020072]스피라마이신",
  "main_item_ingr_eng": "Metronidazole/Spiramycin",
  "edi_code": "",
  "atc_code": "J01RA04",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701456",
+ "history_fetched_at": "2026-09-08T08:31:02Z",
  "revisions": [
   {
    "revision_id": "199701456-33ab93bd",
@@ -20,9 +21,8 @@
    "ee_doc_id": "7",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:31:02Z",
-   "last_observed_at": "2026-09-08T08:31:02Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:31:02Z"
+ ]
 }

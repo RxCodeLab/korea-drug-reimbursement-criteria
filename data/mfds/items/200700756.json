@@ -7,11 +7,12 @@
  "permit_date": "20070118",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M040488]이노시톨|[M050979]아스파라긴산|[M051783]푸마르산철|[M070019]건조간장가루|[M081627]글라이신|[M082926]글루타치온(환원형)|[M083069]글루타민|[M084469]데속시콜린산|[M085347]염산오르니친|[M086831]주석산콜린|[M086923]치옥트산|[M090757]메치오닌|[M095195]아르기닌|[M095818]레시틴|[M096429]시아노코발라민|[M200199]농축간장엑스|[M202904]니코틴아마이드|[M204304]피리독신염산염|[M204438]L-시스테인염산염|[M223240]토코페롤아세테이트|[M223262]티아민질산염|[M240076]판토텐산칼슘|[M258994]아스코르브산",
+ "main_item_ingr": "[M051783]푸마르산철|[M200199]농축간장엑스|[M070019]건조간장가루|[M095818]레시틴|[M223240]토코페롤아세테이트|[M258994]아스코르브산|[M223262]티아민질산염|[M040133]리보플라빈|[M202904]니코틴아마이드|[M204304]피리독신염산염|[M086923]치옥트산|[M084469]데속시콜린산|[M040488]이노시톨|[M086831]주석산콜린|[M240076]판토텐산칼슘|[M096429]시아노코발라민|[M090757]메치오닌|[M204438]L-시스테인염산염|[M095195]아르기닌|[M083069]글루타민|[M050979]아스파라긴산|[M085347]염산오르니친|[M082926]글루타치온(환원형)|[M081627]글라이신",
  "main_item_ingr_eng": "Arginine/Ascorbic Acid/Aspartic Acid/Calcium Pantothenate/Choline Tartrate/Cyanocobalamin/Desoxycholic Acid/Dried Liver Powder/Ferrous Fumarate/Glutamine/Glutathione (Reduced)/Glycine/Inositol/L-Cysteine Hydrochloride/Lecithin/Liver Concentrate Extract/Methionine/Nicotinamide/Ornithine Hydrochloride/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate/Thioctic Acid/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700756",
+ "history_fetched_at": "2026-09-08T08:40:54Z",
  "revisions": [
   {
    "revision_id": "200700756-c03489f5",
@@ -20,9 +21,8 @@
    "ee_doc_id": "2",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:40:54Z",
-   "last_observed_at": "2026-09-08T08:40:54Z",
+   "last_observed_at": "2026-09-12T16:32:30Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:40:54Z"
+ ]
 }

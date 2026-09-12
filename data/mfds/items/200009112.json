@@ -7,11 +7,12 @@
  "permit_date": "20000530",
  "cancel_date": "20240401",
  "status": "폐업",
- "main_item_ingr": "[M255049]정제 불활화 인플루엔자바이러스 항원 A형[A/California/07/2009 X-179A (H1N1)]|[M255049]정제 불활화 인플루엔자바이러스 항원 A형[A/California/07/2009 X-179A (H1N1)]|[M261196]정제불활화 인플루엔자바이러스항원 B형[B/Phuket/3073/2013]|[M261196]정제불활화 인플루엔자바이러스항원 B형[B/Phuket/3073/2013]|[M262401]정제 불활화 인플루엔자바이러스 항원 A형[A/South Australia/55/2014 IVR-175(H3N2)]|[M262401]정제 불활화 인플루엔자바이러스 항원 A형[A/South Australia/55/2014 IVR-175(H3N2)]",
+ "main_item_ingr": "[M255049]정제 불활화 인플루엔자바이러스 항원 A형[A/California/07/2009 X-179A (H1N1)]|[M262401]정제 불활화 인플루엔자바이러스 항원 A형[A/South Australia/55/2014 IVR-175(H3N2)]|[M261196]정제불활화 인플루엔자바이러스항원 B형[B/Phuket/3073/2013]|[M255049]정제 불활화 인플루엔자바이러스 항원 A형[A/California/07/2009 X-179A (H1N1)]|[M262401]정제 불활화 인플루엔자바이러스 항원 A형[A/South Australia/55/2014 IVR-175(H3N2)]|[M261196]정제불활화 인플루엔자바이러스항원 B형[B/Phuket/3073/2013]",
  "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A [A/California/07/2009 X-179A (H1N1)]/Purified Inactivated Influenza Virus Antigen A [A/South Australia/55/2014 IVR-175 (H3N2)]/Purified Inactivated Influenza Virus Antigen B [B/Phuket/3073/2013]",
  "edi_code": "",
  "atc_code": "J07BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009112",
+ "history_fetched_at": "2026-09-08T08:34:41Z",
  "revisions": [
   {
    "revision_id": "200009112-794bfcb1",
@@ -20,9 +21,8 @@
    "ee_doc_id": "17",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:34:41Z",
-   "last_observed_at": "2026-09-08T08:34:41Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:34:41Z"
+ ]
 }

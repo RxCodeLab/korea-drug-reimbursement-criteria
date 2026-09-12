@@ -7,11 +7,12 @@
  "permit_date": "19800402",
  "cancel_date": "20230927",
  "status": "폐업",
- "main_item_ingr": "[M040073]대황|[M040564]치자|[M051297]인진호|[M099914]인진호탕연조엑스",
+ "main_item_ingr": "[M099914]인진호탕연조엑스|[M040073]대황|[M040564]치자|[M051297]인진호",
  "main_item_ingr_eng": "Artemisiae Capillaris Herba/Artemisiae Capillaris Herba Decoction Soft Extract (10→1)/Gardenia Fruit/Rhubarb",
  "edi_code": "",
  "atc_code": "A05",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198000048",
+ "history_fetched_at": "2026-09-08T08:26:40Z",
  "revisions": [
   {
    "revision_id": "198000048-be162544",
@@ -20,9 +21,8 @@
    "ee_doc_id": "7",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:26:40Z",
-   "last_observed_at": "2026-09-08T08:26:40Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:26:40Z"
+ ]
 }

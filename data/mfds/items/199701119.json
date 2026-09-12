@@ -7,7 +7,7 @@
  "permit_date": "19970718",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M088656]글리신|[M103054]L-시스틴|[M103060]L-트레오닌|[M202247]L-아스파르트산|[M204427]L-글루탐산|[M204435]L-세린|[M204442]L-페닐알라닌|[M209360]L-발린|[M209366]L-알라닌|[M214313]L-티로신|[M214861]L-프롤린|[M218015]L-트립토판|[M218567]L-메티오닌|[M222530]L-이소류신|[M222531]L-류신|[M222998]L-리신염산염|[M223095]L-아르기닌염산염|[M252661]L-히스티딘염산염수화물",
+ "main_item_ingr": "[M222531]L-류신|[M222998]L-리신염산염|[M218567]L-메티오닌|[M204442]L-페닐알라닌|[M103060]L-트레오닌|[M218015]L-트립토판|[M209360]L-발린|[M223095]L-아르기닌염산염|[M103054]L-시스틴|[M214313]L-티로신|[M222530]L-이소류신|[M252661]L-히스티딘염산염수화물|[M088656]글리신|[M209366]L-알라닌|[M204427]L-글루탐산|[M202247]L-아스파르트산|[M214861]L-프롤린|[M204435]L-세린",
  "main_item_ingr_eng": "Glycine/L-Alanine/L-Arginine Hydrochloride/L-Aspartic Acid/L-Cystine/L-Glutamic Acid/L-Histidine Hydrochloride Hydrate/L-Isoleucine/L-Leucine/L-Lysine Hydrochloride/L-Methionine/L-Phenylalanine/L-Proline/L-Serine/L-Threonine/L-Tryptophan/L-Tyrosine/L-Valine",
  "edi_code": "",
  "atc_code": "B05BA01",
@@ -20,7 +20,7 @@
    "ee_text": "다음 상태의 아미노산 보급 : 저단백혈증, 저영양상태, 수술전후",
    "ee_doc_id": "13",
    "first_observed_at": "2026-08-28T13:23:48Z",
-   "last_observed_at": "2026-09-08T08:30:55Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23",
    "normalizer_version": 3
   }

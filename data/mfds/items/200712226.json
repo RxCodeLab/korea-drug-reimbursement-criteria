@@ -7,11 +7,12 @@
  "permit_date": "20071108",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051110]염화리소짐|[M088762]동클로로필린나트륨|[M089686]초산토코페롤50%|[M103048]제피형아스코르빈산96%TypeSC",
+ "main_item_ingr": "[M088762]동클로로필린나트륨|[M103048]제피형아스코르빈산96%TypeSC|[M051110]염화리소짐|[M089686]초산토코페롤50%",
  "main_item_ingr_eng": "Ascorbic Acid Coated Type SC 96%/Chlorophyllin Copper Sodium/Lysozyme Chloride/Tocopherol Acetate 50%",
  "edi_code": "",
  "atc_code": "A01AD",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712226",
+ "history_fetched_at": "2026-09-08T08:42:01Z",
  "revisions": [
   {
    "revision_id": "200712226-bbc16353",
@@ -20,9 +21,8 @@
    "ee_doc_id": "5",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:42:01Z",
-   "last_observed_at": "2026-09-08T08:42:01Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:42:01Z"
+ ]
 }

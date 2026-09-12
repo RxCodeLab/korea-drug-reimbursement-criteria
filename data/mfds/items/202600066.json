@@ -7,11 +7,12 @@
  "permit_date": "20260108",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050058]구아이페네신|[M204422]dl-메틸에페드린염산염|[M223211]클로르페니라민말레산염|[M261072]디히드로코데인타르타르산염|[M267961]펠라고니움시도이데스11%에탄올건조엑스(5.5~6.6→1)",
+ "main_item_ingr": "[M267961]펠라고니움시도이데스11%에탄올건조엑스(5.5~6.6→1)|[M223211]클로르페니라민말레산염|[M204422]dl-메틸에페드린염산염|[M050058]구아이페네신|[M261072]디히드로코데인타르타르산염",
  "main_item_ingr_eng": "Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dihydrocodeine Tartrate/Guaifenesin/Pelargonium Sidoides 11% Ethanol Dried Extract (5.5∼6.6→1)",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600066",
+ "history_fetched_at": "2026-09-08T09:04:38Z",
  "revisions": [
   {
    "revision_id": "202600066-be8be936",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:38Z",
-   "last_observed_at": "2026-09-08T09:04:38Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-01-08"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:38Z"
+ ]
 }

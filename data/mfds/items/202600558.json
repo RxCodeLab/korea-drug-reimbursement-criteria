@@ -7,11 +7,12 @@
  "permit_date": "20260224",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040262]산화마그네슘|[M040488]이노시톨|[M050436]메코발라민|[M051415]푸르설티아민|[M081871]글리세로인산마그네슘|[M083577]비스벤티아민|[M096428]벤포티아민|[M096429]시아노코발라민|[M102050]콜레칼시페롤농축분말|[M102908]타우린|[M222869]아스파르트산마그네슘수화물|[M222995]리보플라빈부티레이트|[M223167]우르소데옥시콜산|[M223289]폴산|[M244748]판토텐산칼슘|[M247683]콜린타르타르산염|[M248795]피리독살포스페이트수화물|[M249983]D-비오틴",
+ "main_item_ingr": "[M096428]벤포티아민|[M083577]비스벤티아민|[M222995]리보플라빈부티레이트|[M248795]피리독살포스페이트수화물|[M096429]시아노코발라민|[M050436]메코발라민|[M040488]이노시톨|[M249983]D-비오틴|[M102908]타우린|[M081871]글리세로인산마그네슘|[M222869]아스파르트산마그네슘수화물|[M051415]푸르설티아민|[M223289]폴산|[M040064]니코틴산아미드|[M244748]판토텐산칼슘|[M102050]콜레칼시페롤농축분말|[M223167]우르소데옥시콜산|[M247683]콜린타르타르산염|[M040262]산화마그네슘",
  "main_item_ingr_eng": "Benfotiamine/Bisbentiamine/Calcium Pantothenate/Cholecalciferol Concentrate Powder/Choline Tartrate/Cyanocobalamin/D-Biotin/Folic Acid/Fursultiamine/Inositol/Magnesium Aspartate Hydrate/Magnesium Glycerophosphate/Magnesium Oxide/Mecobalamin/Nicotinamide/Pyridoxal Phosphate Hydrate/Riboflavin Butyrate/Taurine/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600558",
+ "history_fetched_at": "2026-09-08T09:04:49Z",
  "revisions": [
   {
    "revision_id": "202600558-631b0a8e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:49Z",
-   "last_observed_at": "2026-09-08T09:04:49Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-02-24"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:49Z"
+ ]
 }

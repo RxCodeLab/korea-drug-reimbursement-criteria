@@ -7,11 +7,12 @@
  "permit_date": "20080703",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M237067]인유두종바이러스-16 L1 (숙주: Trichoplusia ni Hi-5 Rix4446, 벡터: rBaculo4449)|[M237068]인유두종바이러스-18 L1 (숙주: Trichoplusia ni Hi-5 Rix4446, 벡터: rBaculo4450)",
+ "main_item_ingr": "[M237068]인유두종바이러스-18 L1 (숙주: Trichoplusia ni Hi-5 Rix4446, 벡터: rBaculo4450)|[M237067]인유두종바이러스-16 L1 (숙주: Trichoplusia ni Hi-5 Rix4446, 벡터: rBaculo4449)",
  "main_item_ingr_eng": "Human Papilloma Virus Type 16 L1 Protein (Host: Trichoplusia ni Hi-5 Rix4446, Vector: rBaculo4449)/Human Papilloma Virus Type 18 L1 Protein (Host: Trichoplusia ni Hi-5 Rix4446, Vector: rBaculo4450)",
  "edi_code": "",
  "atc_code": "J07BM02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807369",
+ "history_fetched_at": "2026-09-08T08:42:40Z",
  "revisions": [
   {
    "revision_id": "200807369-7de25427",
@@ -20,9 +21,8 @@
    "ee_doc_id": "29",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:42:40Z",
-   "last_observed_at": "2026-09-08T08:42:40Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:42:40Z"
+ ]
 }

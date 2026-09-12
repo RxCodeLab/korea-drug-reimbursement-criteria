@@ -7,11 +7,12 @@
  "permit_date": "20260827",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M204304]피리독신염산염|[M223081]스코폴라민브롬화수소산염수화물|[M223183]카페인무수물|[M223211]클로르페니라민말레산염",
+ "main_item_ingr": "[M040064]니코틴산아미드|[M223081]스코폴라민브롬화수소산염수화물|[M204304]피리독신염산염|[M223211]클로르페니라민말레산염|[M223183]카페인무수물",
  "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/Nicotinamide/Pyridoxine Hydrochloride/Scopolamine Hydrobromide Hydrate",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602508",
+ "history_fetched_at": "2026-09-08T09:05:42Z",
  "revisions": [
   {
    "revision_id": "202602508-54917551",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:42Z",
-   "last_observed_at": "2026-09-08T09:05:42Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-08-27"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:42Z"
+ ]
 }

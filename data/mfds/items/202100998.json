@@ -7,11 +7,12 @@
  "permit_date": "20210202",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M211346]폴리에틸렌글리콜400|[M211346]폴리에틸렌글리콜400|[M244671]프로필렌글리콜|[M244671]프로필렌글리콜",
+ "main_item_ingr": "[M244671]프로필렌글리콜|[M211346]폴리에틸렌글리콜400|[M244671]프로필렌글리콜|[M211346]폴리에틸렌글리콜400",
  "main_item_ingr_eng": "Polyethylene Glycol 400/Propylene Glycol",
  "edi_code": "",
  "atc_code": "S01XA20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100998",
+ "history_fetched_at": "2026-09-08T08:59:54Z",
  "revisions": [
   {
    "revision_id": "202100998-a7b21308",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:59:54Z",
-   "last_observed_at": "2026-09-08T08:59:54Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2021-02-02"
   }
- ],
- "history_fetched_at": "2026-09-08T08:59:54Z"
+ ]
 }

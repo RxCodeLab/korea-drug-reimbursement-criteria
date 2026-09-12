@@ -7,11 +7,12 @@
  "permit_date": "20160217",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M096429]시아노코발라민|[M204304]피리독신염산염|[M223258]티아민염산염|[M244748]판토텐산칼슘|[M268656]밀크시슬열매건조엑스",
+ "main_item_ingr": "[M096429]시아노코발라민|[M244748]판토텐산칼슘|[M040064]니코틴산아미드|[M204304]피리독신염산염|[M040133]리보플라빈|[M223258]티아민염산염|[M268656]밀크시슬열매건조엑스",
  "main_item_ingr_eng": "Calcium Pantothenate/Cyanocobalamin/Milk-Thistle Fruit Dried Extract/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Hydrochloride",
  "edi_code": "",
  "atc_code": "A05BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600909",
+ "history_fetched_at": "2026-09-08T08:50:14Z",
  "revisions": [
   {
    "revision_id": "201600909-cb5b178a",
@@ -20,9 +21,8 @@
    "ee_doc_id": "4",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:50:14Z",
-   "last_observed_at": "2026-09-08T08:50:14Z",
+   "last_observed_at": "2026-09-12T16:32:34Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:50:14Z"
+ ]
 }

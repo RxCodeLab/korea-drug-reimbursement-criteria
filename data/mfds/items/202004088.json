@@ -7,11 +7,12 @@
  "permit_date": "20200529",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040262]산화마그네슘|[M204304]피리독신염산염|[M223240]토코페롤아세테이트|[M223262]티아민질산염|[M243178]감마오리자놀",
+ "main_item_ingr": "[M223240]토코페롤아세테이트|[M040262]산화마그네슘|[M204304]피리독신염산염|[M223262]티아민질산염|[M243178]감마오리자놀",
  "main_item_ingr_eng": "Gamma-Oryzanol/Magnesium Oxide/Pyridoxine Hydrochloride/Thiamine Nitrate/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004088",
+ "history_fetched_at": "2026-09-08T08:59:02Z",
  "revisions": [
   {
    "revision_id": "202004088-4bd01f28",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:59:02Z",
-   "last_observed_at": "2026-09-08T08:59:02Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-05-29"
   }
- ],
- "history_fetched_at": "2026-09-08T08:59:02Z"
+ ]
 }

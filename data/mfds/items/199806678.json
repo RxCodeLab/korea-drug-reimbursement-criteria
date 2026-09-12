@@ -12,6 +12,7 @@
  "edi_code": "646300114,646300122,646300123,646300124,646300125,646300126,646300127,646300128,646300241",
  "atc_code": "V08AB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806678",
+ "history_fetched_at": "2026-09-08T08:32:24Z",
  "revisions": [
   {
    "revision_id": "199806678-2b557456",
@@ -20,7 +21,7 @@
    "ee_doc_id": "38",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:32:24Z",
-   "last_observed_at": "2026-09-08T08:32:24Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2024-09-05"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:32:24Z",
    "last_observed_at": "2026-09-08T08:32:24Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:32:24Z"
+ ]
 }

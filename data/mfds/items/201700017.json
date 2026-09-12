@@ -7,11 +7,12 @@
  "permit_date": "20170103",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040118]정제라놀린|[M071725]황색바셀린",
+ "main_item_ingr": "[M071725]황색바셀린|[M040118]정제라놀린",
  "main_item_ingr_eng": "Purified Lanolin/Yellow Petrolatum",
  "edi_code": "",
  "atc_code": "D02AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700017",
+ "history_fetched_at": "2026-09-08T08:51:25Z",
  "revisions": [
   {
    "revision_id": "201700017-e13df164",
@@ -20,9 +21,8 @@
    "ee_doc_id": "2",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:51:25Z",
-   "last_observed_at": "2026-09-08T08:51:25Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:51:25Z"
+ ]
 }

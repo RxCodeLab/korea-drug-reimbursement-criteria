@@ -7,11 +7,12 @@
  "permit_date": "20260903",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M204304]피리독신염산염|[M249960]사카로마이세스보울라르디균",
+ "main_item_ingr": "[M249960]사카로마이세스보울라르디균|[M204304]피리독신염산염",
  "main_item_ingr_eng": "Pyridoxine Hydrochloride/Saccharomyces Boulardii",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602635",
+ "history_fetched_at": "2026-09-08T09:05:44Z",
  "revisions": [
   {
    "revision_id": "202602635-bc61baa7",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:44Z",
-   "last_observed_at": "2026-09-08T09:05:44Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-09-03"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:44Z"
+ ]
 }

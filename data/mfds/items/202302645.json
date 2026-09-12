@@ -7,11 +7,12 @@
  "permit_date": "20230905",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M083577]비스벤티아민|[M084707]크롬함유건조효모|[M096429]시아노코발라민|[M204304]피리독신염산염|[M210377]아셀렌산나트륨오수화물|[M243785]산화아연|[M246028]황산망간수화물",
+ "main_item_ingr": "[M246028]황산망간수화물|[M084707]크롬함유건조효모|[M210377]아셀렌산나트륨오수화물|[M243785]산화아연|[M096429]시아노코발라민|[M204304]피리독신염산염|[M083577]비스벤티아민",
  "main_item_ingr_eng": "Bisbentiamine/Chromium in Dried Yeast/Cyanocobalamin/Manganese Sulfate Hydrate/Pyridoxine Hydrochloride/Sodium Selenite Pentahydrate/Zinc Oxide",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302645",
+ "history_fetched_at": "2026-09-08T09:02:22Z",
  "revisions": [
   {
    "revision_id": "202302645-ebf67336",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:22Z",
-   "last_observed_at": "2026-09-08T09:02:22Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2023-09-05"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:22Z"
+ ]
 }

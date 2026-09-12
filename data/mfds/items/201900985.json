@@ -7,11 +7,12 @@
  "permit_date": "20190218",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M262152]정제불활화 인플루엔자바이러스 표면항원 B형[B/Phuket/3073/2013]|[M283909]정제불활화인플루엔자바이러스표면항원A형[A/Victoria/4897/2022, IVR-238(H1N1)]|[M283910]정제불활화인플루엔자바이러스표면항원B형[B/Michigan/01/2021]|[M284483]정제불활화인플루엔자바이러스표면항원A형[A/Thailand/8/2022, IVR-237(H3N2)]",
+ "main_item_ingr": "[M283909]정제불활화인플루엔자바이러스표면항원A형[A/Victoria/4897/2022, IVR-238(H1N1)]|[M284483]정제불활화인플루엔자바이러스표면항원A형[A/Thailand/8/2022, IVR-237(H3N2)]|[M283910]정제불활화인플루엔자바이러스표면항원B형[B/Michigan/01/2021]|[M262152]정제불활화 인플루엔자바이러스 표면항원 B형[B/Phuket/3073/2013]",
  "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen B [B/Phuket/3073/2013]/Purified Inactivated Influenza Virus Surface Antigen A [A/Thailand/8/2022, IVR-237(H3N2)]/Purified influenza virus antigen(Split virion, Inactivated) A [A/Victoria/4897/2022, IVR-238(H1N1)]/Purified influenza virus antigen(Split virion, Inactivated) B [B/Michigan/01/2021]",
  "edi_code": "",
  "atc_code": "J07BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900985",
+ "history_fetched_at": "2026-09-08T08:54:17Z",
  "revisions": [
   {
    "revision_id": "201900985-650f2efc",
@@ -20,7 +21,7 @@
    "ee_doc_id": "8",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:54:17Z",
-   "last_observed_at": "2026-09-08T08:54:17Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2020-06-12"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:54:17Z",
    "last_observed_at": "2026-09-08T08:54:17Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:54:17Z"
+ ]
 }

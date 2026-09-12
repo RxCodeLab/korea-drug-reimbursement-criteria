@@ -7,11 +7,12 @@
  "permit_date": "20260710",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M203279]살리실산메틸|[M260019]dl-멘톨",
+ "main_item_ingr": "[M260019]dl-멘톨|[M203279]살리실산메틸",
  "main_item_ingr_eng": "DL-Menthol/Methyl Salicylate",
  "edi_code": "",
  "atc_code": "M02AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602009",
+ "history_fetched_at": "2026-09-08T09:05:31Z",
  "revisions": [
   {
    "revision_id": "202602009-62f03911",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:31Z",
-   "last_observed_at": "2026-09-08T09:05:31Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-07-10"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:31Z"
+ ]
 }

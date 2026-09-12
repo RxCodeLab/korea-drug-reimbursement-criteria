@@ -7,11 +7,12 @@
  "permit_date": "19690505",
  "cancel_date": "20250304",
  "status": "취하",
- "main_item_ingr": "[M040574]카올린|[M051732]펙틴|[M223040]베르베린탄닌산염",
+ "main_item_ingr": "[M051732]펙틴|[M040574]카올린|[M223040]베르베린탄닌산염",
  "main_item_ingr_eng": "Berberine Tannate/Kaolin/Pectin",
  "edi_code": "",
  "atc_code": "A07",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196900042",
+ "history_fetched_at": "2026-09-08T08:26:16Z",
  "revisions": [
   {
    "revision_id": "196900042-41151b68",
@@ -20,9 +21,8 @@
    "ee_doc_id": "17",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:26:16Z",
-   "last_observed_at": "2026-09-08T08:26:16Z",
+   "last_observed_at": "2026-09-12T16:32:27Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:26:16Z"
+ ]
 }

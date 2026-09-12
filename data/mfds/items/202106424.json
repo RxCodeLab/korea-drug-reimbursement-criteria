@@ -5,13 +5,14 @@
  "item_name": "이텍스부스피론정10밀리그램(부스피론염산염)",
  "entp_name": "(주)테라젠이텍스",
  "permit_date": "20210908",
- "cancel_date": "",
- "status": "정상",
+ "cancel_date": "20260908",
+ "status": "유효기간만료",
  "main_item_ingr": "[M222852]부스피론염산염",
  "main_item_ingr_eng": "Buspirone Hydrochloride",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106424",
+ "history_fetched_at": "2026-09-08T09:00:34Z",
  "revisions": [
   {
    "revision_id": "202106424-c96fc2d3",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:34Z",
-   "last_observed_at": "2026-09-08T09:00:34Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-09-08"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:34Z"
+ ]
 }

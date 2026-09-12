@@ -7,11 +7,12 @@
  "permit_date": "20181026",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M104500]파상풍톡소이드(균주명:Massachusetts주)|[M104501]디프테리아톡소이드(균주명:Mass8주)|[M245422]백일해톡소이드(균주명:Tohama주, 1상)|[M245423]불활화백일해균선모적혈구응집소(균주명:Tohama주, 1상)|[M245424]불활화백일해균69kDa외막단백질(균주명:Tohama주, 1상)|[M268523]불활화폴리오바이러스제1형(바이러스주명:Mahoney주)|[M268524]불활화폴리오바이러스제2형(바이러스주명:MEF-1주)|[M268525]불활화폴리오바이러스제3형(바이러스주명:Saukett주)|[M268526]헤모필루스인플루엔자비형협막다당류와파상풍톡소이드의접합체(균주명:Haemophilus influenzae,S20752주)",
+ "main_item_ingr": "[M268526]헤모필루스인플루엔자비형협막다당류와파상풍톡소이드의접합체(균주명:Haemophilus influenzae,S20752주)|[M268525]불활화폴리오바이러스제3형(바이러스주명:Saukett주)|[M268524]불활화폴리오바이러스제2형(바이러스주명:MEF-1주)|[M268523]불활화폴리오바이러스제1형(바이러스주명:Mahoney주)|[M245424]불활화백일해균69kDa외막단백질(균주명:Tohama주, 1상)|[M245423]불활화백일해균선모적혈구응집소(균주명:Tohama주, 1상)|[M245422]백일해톡소이드(균주명:Tohama주, 1상)|[M104500]파상풍톡소이드(균주명:Massachusetts주)|[M104501]디프테리아톡소이드(균주명:Mass8주)",
  "main_item_ingr_eng": "B. Pertussis Toxoid (Strain: Tohama, Phase 1)/Diphtheria Toxoid (Strain: Mass8 Strain)/Haemophilus Influenzae Type B Polysaccharide·Tetanus Toxoid Conjugate (Strain: Haemophilus Influenzae,S20752)/Inactivated B. Pertussis B69kDa outer membrane Protein (Strain: Tohama, Phase 1)/Inactivated B. pertussis Filamentous Hemagglutinin (Strain: Tohama, Phase 1)/Inactivated Polio Virus Type I (Stain: Mahoney)/Inactivated Polio Virus Type II (Stain: MEF-1)/Inactivated Polio Virus Type III (Stain: Saukett)/Tetanus Toxoid (Strain: Massachusetts)",
  "edi_code": "",
  "atc_code": "J07CA06",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804243",
+ "history_fetched_at": "2026-09-08T08:53:45Z",
  "revisions": [
   {
    "revision_id": "201804243-8c905966",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:53:45Z",
-   "last_observed_at": "2026-09-08T08:53:45Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2018-10-26"
   }
- ],
- "history_fetched_at": "2026-09-08T08:53:45Z"
+ ]
 }

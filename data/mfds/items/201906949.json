@@ -7,11 +7,12 @@
  "permit_date": "20190930",
  "cancel_date": "20240930",
  "status": "유효기간만료",
- "main_item_ingr": "[M040006]감초|[M040007]건강|[M040135]마황|[M040202]반하|[M040293]세신|[M040445]오미자|[M040523]작약|[M050037]계지",
+ "main_item_ingr": "[M040445]오미자|[M040293]세신|[M050037]계지|[M040006]감초|[M040007]건강|[M040135]마황|[M040523]작약|[M040202]반하",
  "main_item_ingr_eng": "Asiasarum Root and Rhizome/Cinnamomi Ramulus/Ephedra Herb/Ginger/Licorice/Peony Root/Pinellia Tuber/Schisandra Fruit",
  "edi_code": "",
  "atc_code": "R05F",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906949",
+ "history_fetched_at": "2026-09-08T08:56:33Z",
  "revisions": [
   {
    "revision_id": "201906949-e4a5f91e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:56:33Z",
-   "last_observed_at": "2026-09-08T08:56:33Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-09-30"
   }
- ],
- "history_fetched_at": "2026-09-08T08:56:33Z"
+ ]
 }

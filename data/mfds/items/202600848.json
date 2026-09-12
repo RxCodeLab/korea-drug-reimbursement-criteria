@@ -7,11 +7,12 @@
  "permit_date": "20260326",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040678]판크레아틴|[M100297]셀룰라제|[M223167]우르소데옥시콜산|[M227778]디메티콘|[M249960]사카로마이세스보울라르디균",
+ "main_item_ingr": "[M223167]우르소데옥시콜산|[M227778]디메티콘|[M100297]셀룰라제|[M040678]판크레아틴|[M249960]사카로마이세스보울라르디균",
  "main_item_ingr_eng": "Cellulase/Dimethicone/Pancreatin/Saccharomyces Boulardii/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A09AA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600848",
+ "history_fetched_at": "2026-09-08T09:04:56Z",
  "revisions": [
   {
    "revision_id": "202600848-8d2c93aa",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:56Z",
-   "last_observed_at": "2026-09-08T09:04:56Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-03-26"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:56Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "19871124",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040442]엽산|[M040488]이노시톨|[M051914]헤모글로빈|[M082390]덱스판테놀|[M085143]간장엑스|[M089482]아미노에칠설폰산|[M096429]시아노코발라민|[M240075]염산피리독신",
+ "main_item_ingr": "[M040442]엽산|[M085143]간장엑스|[M096429]시아노코발라민|[M089482]아미노에칠설폰산|[M040064]니코틴산아미드|[M240075]염산피리독신|[M082390]덱스판테놀|[M051914]헤모글로빈|[M040488]이노시톨",
  "main_item_ingr_eng": "Cyanocobalamin/Dexpanthenol/Folic Acid/Hemoglobin/Inositol/Liver Extract/Nicotinamide/Pyridoxine Hydrochloride/Taurine",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700095",
+ "history_fetched_at": "2026-09-08T08:27:19Z",
  "revisions": [
   {
    "revision_id": "198700095-ba65ef67",
@@ -20,9 +21,8 @@
    "ee_doc_id": "4",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:27:19Z",
-   "last_observed_at": "2026-09-08T08:27:19Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:27:19Z"
+ ]
 }

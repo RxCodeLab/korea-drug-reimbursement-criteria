@@ -7,11 +7,12 @@
  "permit_date": "20040114",
  "cancel_date": "20240229",
  "status": "취하",
- "main_item_ingr": "[M081581]마늘유동엑스|[M089565]L-아스파라긴산-L-오르니친|[M241582]초산토코페롤",
+ "main_item_ingr": "[M241582]초산토코페롤|[M081581]마늘유동엑스|[M089565]L-아스파라긴산-L-오르니친",
  "main_item_ingr_eng": "Allium Sativum Fluid Extract/L-Ornithine-L-Aspartate Hydrate/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A05BA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402294",
+ "history_fetched_at": "2026-09-08T08:38:00Z",
  "revisions": [
   {
    "revision_id": "200402294-d735d9cf",
@@ -20,9 +21,8 @@
    "ee_doc_id": "3",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:38:00Z",
-   "last_observed_at": "2026-09-08T08:38:00Z",
+   "last_observed_at": "2026-09-12T16:32:30Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:38:00Z"
+ ]
 }

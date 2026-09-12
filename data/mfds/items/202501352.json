@@ -7,11 +7,12 @@
  "permit_date": "20250530",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M082729]글루콘산아연|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223262]티아민질산염|[M241790]베타인염산염",
+ "main_item_ingr": "[M241790]베타인염산염|[M082729]글루콘산아연|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M222996]리보플라빈포스페이트나트륨|[M223262]티아민질산염",
  "main_item_ingr_eng": "Betaine Hydrochloride/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Thiamine Nitrate/Zinc Gluconate",
  "edi_code": "",
  "atc_code": "A11EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501352",
+ "history_fetched_at": "2026-09-08T09:03:57Z",
  "revisions": [
   {
    "revision_id": "202501352-c6602d47",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:57Z",
-   "last_observed_at": "2026-09-08T09:03:57Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-05-30"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:57Z"
+ ]
 }

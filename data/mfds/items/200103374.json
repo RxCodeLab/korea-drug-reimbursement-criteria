@@ -7,11 +7,12 @@
  "permit_date": "20010516",
  "cancel_date": "20250212",
  "status": "취하",
- "main_item_ingr": "[M051704]말레인산페니라민|[M259063]페니레프린염산염",
+ "main_item_ingr": "[M259063]페니레프린염산염|[M051704]말레인산페니라민",
  "main_item_ingr_eng": "Pheniramine Maleate/Phenylephrine Hydrochloride",
  "edi_code": "",
  "atc_code": "R01AB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200103374",
+ "history_fetched_at": "2026-09-08T08:35:37Z",
  "revisions": [
   {
    "revision_id": "200103374-343df25d",
@@ -20,9 +21,8 @@
    "ee_doc_id": "11",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:35:37Z",
-   "last_observed_at": "2026-09-08T08:35:37Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:35:37Z"
+ ]
 }

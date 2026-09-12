@@ -7,11 +7,12 @@
  "permit_date": "20250619",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040040]합성규산알루미늄|[M040629]탄산마그네슘|[M040634]침강탄산칼슘|[M110397]정향 가루|[M110408]용담 가루|[M110414]회향 가루|[M110429]고목 가루|[M110566]진피 가루|[M110597]육두구 가루|[M113524]육계 가루|[M207094]탄산수소나트륨|[M261464]디아스타제·프로테아제·셀룰라제1000",
+ "main_item_ingr": "[M110566]진피 가루|[M110408]용담 가루|[M110429]고목 가루|[M207094]탄산수소나트륨|[M040634]침강탄산칼슘|[M110397]정향 가루|[M110597]육두구 가루|[M110414]회향 가루|[M261464]디아스타제·프로테아제·셀룰라제1000|[M040040]합성규산알루미늄|[M040629]탄산마그네슘|[M113524]육계 가루",
  "main_item_ingr_eng": "Cinnamon Bark Powder/Citrus Unshiu Peel Powder/Clove Powder/Diastase·Protease·Cellulase 1000/Fennel Powder/Gentian Root and Rhizome Powder/Magnesium Carbonate/Nutmeg Powder/Picrasma Wood Powder/Precipitated Calcium Carbonate/Sodium Bicarbonate/Synthetic Aluminium Silicate",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501520",
+ "history_fetched_at": "2026-09-08T09:04:00Z",
  "revisions": [
   {
    "revision_id": "202501520-cdbaf20b",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:00Z",
-   "last_observed_at": "2026-09-08T09:04:00Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-06-19"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:00Z"
+ ]
 }

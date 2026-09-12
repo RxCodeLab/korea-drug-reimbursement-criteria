@@ -7,11 +7,12 @@
  "permit_date": "20211026",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040262]산화마그네슘|[M096429]시아노코발라민|[M204304]피리독신염산염|[M204437]L-시스테인|[M252430]글루콘산제이철나트륨착염|[M258994]아스코르브산|[M281505]피돌산마그네슘",
+ "main_item_ingr": "[M204437]L-시스테인|[M096429]시아노코발라민|[M258994]아스코르브산|[M281505]피돌산마그네슘|[M040262]산화마그네슘|[M252430]글루콘산제이철나트륨착염|[M204304]피리독신염산염",
  "main_item_ingr_eng": "Ascorbic Acid/Cyanocobalamin/L-Cysteine/Magnesium Oxide/Magnesium Pidolate/Pyridoxine Hydrochloride/Sodium Ferric Gluconate Complex",
  "edi_code": "",
  "atc_code": "B03AE",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107134",
+ "history_fetched_at": "2026-09-08T09:00:43Z",
  "revisions": [
   {
    "revision_id": "202107134-5f1f3c01",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:43Z",
-   "last_observed_at": "2026-09-08T09:00:43Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-10-26"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:43Z"
+ ]
 }

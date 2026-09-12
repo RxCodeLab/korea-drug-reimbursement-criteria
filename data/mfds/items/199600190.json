@@ -7,11 +7,12 @@
  "permit_date": "19961031",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M202893]네오마이신황산염|[M223043]베타메타손발레레이트",
+ "main_item_ingr": "[M223043]베타메타손발레레이트|[M202893]네오마이신황산염",
  "main_item_ingr_eng": "Betamethasone Valerate/Neomycin Sulfate",
  "edi_code": "",
  "atc_code": "D07CC01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199600190",
+ "history_fetched_at": "2026-09-08T08:30:00Z",
  "revisions": [
   {
    "revision_id": "199600190-18799c31",
@@ -20,9 +21,8 @@
    "ee_doc_id": "9",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:30:00Z",
-   "last_observed_at": "2026-09-08T08:30:00Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:30:00Z"
+ ]
 }

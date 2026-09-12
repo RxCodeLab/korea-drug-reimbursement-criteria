@@ -7,11 +7,12 @@
  "permit_date": "20221223",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M081480]미녹시딜|[M089174]피나스테리드",
+ "main_item_ingr": "[M089174]피나스테리드|[M081480]미녹시딜",
  "main_item_ingr_eng": "Finasteride/Minoxidil",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204627",
+ "history_fetched_at": "2026-09-08T09:01:46Z",
  "revisions": [
   {
    "revision_id": "202204627-ec0d4928",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:46Z",
-   "last_observed_at": "2026-09-08T09:01:46Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2022-12-23"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:46Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20191216",
  "cancel_date": "20241216",
  "status": "유효기간만료",
- "main_item_ingr": "[M040629]탄산마그네슘|[M040634]침강탄산칼슘|[M113810]스코폴리아 엑스10배산|[M207094]탄산수소나트륨|[M216095]규산알루민산마그네슘",
+ "main_item_ingr": "[M113810]스코폴리아 엑스10배산|[M040629]탄산마그네슘|[M040634]침강탄산칼슘|[M207094]탄산수소나트륨|[M216095]규산알루민산마그네슘",
  "main_item_ingr_eng": "Magnesium Aluminosilicate/Magnesium Carbonate/Precipitated Calcium Carbonate/Scopolia Extract Powder 10%/Sodium Bicarbonate",
  "edi_code": "",
  "atc_code": "A02AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908443",
+ "history_fetched_at": "2026-09-08T08:57:17Z",
  "revisions": [
   {
    "revision_id": "201908443-3ba523b3",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:57:17Z",
-   "last_observed_at": "2026-09-08T08:57:17Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-12-16"
   }
- ],
- "history_fetched_at": "2026-09-08T08:57:17Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20150903",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M262510]감초연조엑스(2.4~2.9→1)|[M262723]반하연조엑스(1.9~2.4→1)\r\n|[M262724]황금연조엑스(1.8~2.2→1)\r\n|[M262725]인삼연조엑스(2.2~2.7→1)\r\n|[M262727]건강연조엑스(2.2~2.7→1)\r\n|[M262728]황련연조엑스(4.5~5.5→1)\r\n|[M262729]생강연조엑스(6.5~8.0→1)\r\n|[M262730]대추연조엑스(1.2~1.5→1)",
+ "main_item_ingr": "[M262730]대추연조엑스(1.2~1.5→1)\r\n|[M262729]생강연조엑스(6.5~8.0→1)\r\n|[M262728]황련연조엑스(4.5~5.5→1)\r\n|[M262727]건강연조엑스(2.2~2.7→1)\r\n|[M262510]감초연조엑스(2.4~2.9→1)|[M262725]인삼연조엑스(2.2~2.7→1)\r\n|[M262724]황금연조엑스(1.8~2.2→1)\r\n|[M262723]반하연조엑스(1.9~2.4→1)",
  "main_item_ingr_eng": "Coptis Rhizome Soft Extract (4.5~5.5→1)/Ginger Soft Extract (2.2~2.7→1)/Ginseng Soft Extract (2.2~2.7→1)/Glycyrrhiza Soft Extract (2.4~2.9→1)/Jujube Soft Extract (1.2~1.5→1)/Pinellia Tuber Soft Extract (1.9~2.4→1)/Raw Ginger Soft Extract (6.5~8.0→1)/Scutellaria Root Soft Extract (1.8~2.2→1)",
  "edi_code": "",
  "atc_code": "A16AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506377",
+ "history_fetched_at": "2026-09-08T08:49:33Z",
  "revisions": [
   {
    "revision_id": "201506377-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "5",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:49:33Z",
-   "last_observed_at": "2026-09-08T08:49:33Z",
+   "last_observed_at": "2026-09-12T16:32:34Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:49:33Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20230905",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M040262]산화마그네슘|[M050436]메코발라민|[M202809]감마-오리자놀|[M204304]피리독신염산염|[M244365]셀레늄함유건조효모|[M255819]토코페롤아세테이트 2배산",
+ "main_item_ingr": "[M040262]산화마그네슘|[M202809]감마-오리자놀|[M255819]토코페롤아세테이트 2배산|[M204304]피리독신염산염|[M244365]셀레늄함유건조효모|[M050436]메코발라민|[M040133]리보플라빈",
  "main_item_ingr_eng": "Gamma-Oryzanol/Magnesium Oxide/Mecobalamin/Pyridoxine Hydrochloride/Riboflavin/Selenium In Dried Yeast/Tocopherol Acetate Powder 50%",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302653",
+ "history_fetched_at": "2026-09-08T09:02:23Z",
  "revisions": [
   {
    "revision_id": "202302653-45f9e691",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:23Z",
-   "last_observed_at": "2026-09-08T09:02:23Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2023-09-05"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:23Z"
+ ]
 }

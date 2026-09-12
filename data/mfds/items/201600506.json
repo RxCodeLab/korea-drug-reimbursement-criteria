@@ -7,11 +7,12 @@
  "permit_date": "20160126",
  "cancel_date": "20260126",
  "status": "유효기간만료",
- "main_item_ingr": "[M095125]수용성아줄렌|[M250372]세틸피리디늄염화물수화물",
+ "main_item_ingr": "[M250372]세틸피리디늄염화물수화물|[M095125]수용성아줄렌",
  "main_item_ingr_eng": "Cetylpyridinium Chloride Hydrate/Soluble Azulene",
  "edi_code": "",
  "atc_code": "A01AB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600506",
+ "history_fetched_at": "2026-09-08T08:50:09Z",
  "revisions": [
   {
    "revision_id": "201600506-0eeeff1b",
@@ -20,9 +21,8 @@
    "ee_doc_id": "3",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:50:09Z",
-   "last_observed_at": "2026-09-08T08:50:09Z",
+   "last_observed_at": "2026-09-12T16:32:34Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:50:09Z"
+ ]
 }

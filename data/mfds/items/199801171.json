@@ -7,11 +7,12 @@
  "permit_date": "19980407",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M020009]황산네오마이신|[M040819]초산히드로코르티손|[M050391]센텔라아시아티카정량추출물",
+ "main_item_ingr": "[M050391]센텔라아시아티카정량추출물|[M040819]초산히드로코르티손|[M020009]황산네오마이신",
  "main_item_ingr_eng": "Centella Asiatica Titrated Extract/Hydrocortisone Acetate/Neomycin Sulfate",
  "edi_code": "",
  "atc_code": "D07CA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801171",
+ "history_fetched_at": "2026-09-08T08:31:48Z",
  "revisions": [
   {
    "revision_id": "199801171-4ba7b2e2",
@@ -20,9 +21,8 @@
    "ee_doc_id": "7",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:31:48Z",
-   "last_observed_at": "2026-09-08T08:31:48Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:31:48Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20191111",
  "cancel_date": "20241111",
  "status": "유효기간만료",
- "main_item_ingr": "[M114239]클로르헥시딘아세테이트|[M226737]세트리마이드",
+ "main_item_ingr": "[M226737]세트리마이드|[M114239]클로르헥시딘아세테이트",
  "main_item_ingr_eng": "Cetrimide/Chlorhexidine Acetate",
  "edi_code": "",
  "atc_code": "D08AC52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907863",
+ "history_fetched_at": "2026-09-08T08:57:01Z",
  "revisions": [
   {
    "revision_id": "201907863-3189e653",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:57:01Z",
-   "last_observed_at": "2026-09-08T08:57:01Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-11-11"
   }
- ],
- "history_fetched_at": "2026-09-08T08:57:01Z"
+ ]
 }

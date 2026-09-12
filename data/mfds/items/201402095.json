@@ -7,11 +7,12 @@
  "permit_date": "20140502",
  "cancel_date": "20240502",
  "status": "유효기간만료",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M204304]피리독신염산염|[M223095]L-아르기닌염산염|[M223183]카페인무수물|[M223239]토코페롤숙시네이트칼슘|[M223262]티아민질산염|[M259386]L-아스코르브산나트륨|[M259387]마늘엑스가루(100→1)|[M259388]황기건조엑스(8→1)|[M259389]자오가건조엑스(25→1)",
+ "main_item_ingr": "[M259389]자오가건조엑스(25→1)|[M259388]황기건조엑스(8→1)|[M259387]마늘엑스가루(100→1)|[M040064]니코틴산아미드|[M259386]L-아스코르브산나트륨|[M204304]피리독신염산염|[M040133]리보플라빈|[M223262]티아민질산염|[M223183]카페인무수물|[M223095]L-아르기닌염산염|[M223239]토코페롤숙시네이트칼슘",
  "main_item_ingr_eng": "Acanthopanacis Senticosi Radix Et Rhizoma Dried Extract (25→1)/Allium Sativum Extract Powder (100→1)/Anhydrous Caffeine/Astragalus Root Dried Extract (8→1)/L-Arginine Hydrochloride/L-Sodium Ascorbate/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin/Thiamine Nitrate/Tocopherol Calcium Succinate",
  "edi_code": "",
  "atc_code": "A11EX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402095",
+ "history_fetched_at": "2026-09-08T08:47:01Z",
  "revisions": [
   {
    "revision_id": "201402095-e0272441",
@@ -20,9 +21,8 @@
    "ee_doc_id": "8",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:47:01Z",
-   "last_observed_at": "2026-09-08T08:47:01Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:47:01Z"
+ ]
 }

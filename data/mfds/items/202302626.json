@@ -7,11 +7,12 @@
  "permit_date": "20230904",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M204422]dl-메틸에페드린염산염|[M223183]카페인무수물|[M223211]클로르페니라민말레산염|[M256386]글리시리진산이칼륨",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M204422]dl-메틸에페드린염산염|[M256386]글리시리진산이칼륨|[M223183]카페인무수물",
  "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Dipotassium Glycyrrhizinate",
  "edi_code": "",
  "atc_code": "R06AB54",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302626",
+ "history_fetched_at": "2026-09-08T09:02:22Z",
  "revisions": [
   {
    "revision_id": "202302626-f3c91fc8",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:22Z",
-   "last_observed_at": "2026-09-08T09:02:22Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2023-09-04"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:22Z"
+ ]
 }

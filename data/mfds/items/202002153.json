@@ -7,11 +7,12 @@
  "permit_date": "20200327",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040006]감초|[M040061]노회|[M040073]대황|[M040523]작약|[M040536]지실|[M050036]육계|[M050752]생강|[M081198]차전자피|[M082795]센나엽",
+ "main_item_ingr": "[M082795]센나엽|[M040536]지실|[M040061]노회|[M050752]생강|[M050036]육계|[M040523]작약|[M040006]감초|[M081198]차전자피|[M040073]대황",
  "main_item_ingr_eng": "Aloe/Cinnamon Bark/Licorice/Peony Root/Poncirus Immature Fruit/Psyllium Husk/Raw Ginger/Rhubarb/Senna Leaf",
  "edi_code": "",
  "atc_code": "A06AB56",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002153",
+ "history_fetched_at": "2026-09-08T08:58:13Z",
  "revisions": [
   {
    "revision_id": "202002153-ef2fae9a",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:58:13Z",
-   "last_observed_at": "2026-09-08T08:58:13Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-03-27"
   }
- ],
- "history_fetched_at": "2026-09-08T08:58:13Z"
+ ]
 }

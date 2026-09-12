@@ -7,11 +7,12 @@
  "permit_date": "20201005",
  "cancel_date": "20251005",
  "status": "유효기간만료",
- "main_item_ingr": "[M267585]백출연조엑스(1.4∼1.7→1)|[M267648]택사연조엑스(2.8∼3.4→1)|[M279618]복령연조엑스(14.0∼17.1→1)|[M279619]육계연조엑스(7.9∼9.6→1)|[M279620]저령건조엑스(56.8∼69.4→1)",
+ "main_item_ingr": "[M267585]백출연조엑스(1.4∼1.7→1)|[M279618]복령연조엑스(14.0∼17.1→1)|[M279619]육계연조엑스(7.9∼9.6→1)|[M267648]택사연조엑스(2.8∼3.4→1)|[M279620]저령건조엑스(56.8∼69.4→1)",
  "main_item_ingr_eng": "Alisma Rhizome Soft Extract(2.8∼3.4→1)/Atractylodes Rhizome White Soft Extract (1.4∼1.7→1)/Cinnamon Bark Soft Extract (7.9~9.6→1)/Polyporus Sclerotium Dry Extract(56.8∼69.4→1)/Poria Soft Extract (14.0~17.1→1)",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006737",
+ "history_fetched_at": "2026-09-08T08:59:27Z",
  "revisions": [
   {
    "revision_id": "202006737-613e9c21",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:59:27Z",
-   "last_observed_at": "2026-09-08T08:59:27Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-10-05"
   }
- ],
- "history_fetched_at": "2026-09-08T08:59:27Z"
+ ]
 }

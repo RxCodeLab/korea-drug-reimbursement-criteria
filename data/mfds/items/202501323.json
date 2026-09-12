@@ -7,11 +7,12 @@
  "permit_date": "20250528",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050058]구아이페네신|[M223287]펜톡시베린시트르산염|[M264046]DL-메틸에페드린염산염",
+ "main_item_ingr": "[M050058]구아이페네신|[M264046]DL-메틸에페드린염산염|[M223287]펜톡시베린시트르산염",
  "main_item_ingr_eng": "DL-Methylephedrine Hydrochloride/Guaifenesin/Pentoxyverine Citrate",
  "edi_code": "",
  "atc_code": "R05FB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501323",
+ "history_fetched_at": "2026-09-08T09:03:57Z",
  "revisions": [
   {
    "revision_id": "202501323-da6ae941",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:57Z",
-   "last_observed_at": "2026-09-08T09:03:57Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-05-28"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:57Z"
+ ]
 }

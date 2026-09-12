@@ -7,11 +7,12 @@
  "permit_date": "20070810",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M083422]레비스티근|[M083423]로즈마리엽|[M084362]센토리초|[M217070]도그로스(시노스바티실)",
+ "main_item_ingr": "[M084362]센토리초|[M217070]도그로스(시노스바티실)|[M083422]레비스티근|[M083423]로즈마리엽",
  "main_item_ingr_eng": "Centaury/Dog Rose/Levistici Radix/Rosemary Leaf",
  "edi_code": "",
  "atc_code": "G04BX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709458",
+ "history_fetched_at": "2026-09-08T08:41:48Z",
  "revisions": [
   {
    "revision_id": "200709458-4c2f1874",
@@ -20,9 +21,8 @@
    "ee_doc_id": "6",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:41:48Z",
-   "last_observed_at": "2026-09-08T08:41:48Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:41:48Z"
+ ]
 }

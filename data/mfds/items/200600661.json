@@ -7,11 +7,12 @@
  "permit_date": "20060104",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M082346]무이라푸아마목부엑스|[M082346]무이라푸아마목부엑스|[M082349]요힘베피엑스|[M082349]요힘베피엑스|[M086217]다미아나엽엑스|[M086217]다미아나엽엑스|[M086424]무이라푸아마목부가루|[M086424]무이라푸아마목부가루|[M089480]레시친|[M089480]레시친|[M090214]다미아나엽가루|[M090214]다미아나엽가루",
+ "main_item_ingr": "[M082349]요힘베피엑스|[M086424]무이라푸아마목부가루|[M086217]다미아나엽엑스|[M090214]다미아나엽가루|[M089480]레시친|[M082346]무이라푸아마목부엑스|[M082349]요힘베피엑스|[M086217]다미아나엽엑스|[M089480]레시친|[M090214]다미아나엽가루|[M086424]무이라푸아마목부가루|[M082346]무이라푸아마목부엑스",
  "main_item_ingr_eng": "Cortex Yohimbe Extract/Damiana Folium Extract/Damiana Folium Powder/Lecithin/Muira Puama Extract/Muira Puama Powder",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600661",
+ "history_fetched_at": "2026-09-08T08:39:53Z",
  "revisions": [
   {
    "revision_id": "200600661-fb6a1728",
@@ -20,9 +21,8 @@
    "ee_doc_id": "4",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:39:53Z",
-   "last_observed_at": "2026-09-08T08:39:53Z",
+   "last_observed_at": "2026-09-12T16:32:30Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:39:53Z"
+ ]
 }

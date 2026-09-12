@@ -7,11 +7,12 @@
  "permit_date": "19930203",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M070024]겐티아나엑스|[M070153]대황엑스|[M080706]황련엑스|[M080707]황백엑스|[M084423]알로에|[M084429]울금엑스|[M088824]예덕엑스|[M104809]당약엑스(2.5:1)|[M201438]우담",
+ "main_item_ingr": "[M080707]황백엑스|[M070153]대황엑스|[M084429]울금엑스|[M088824]예덕엑스|[M070024]겐티아나엑스|[M201438]우담|[M084423]알로에|[M104809]당약엑스(2.5:1)|[M080706]황련엑스",
  "main_item_ingr_eng": "Aloe/Bovis Fel/Coptis Rhizome Extract/Curcuma Root Radix Extract/Gentian Extract/Mallotus Japonia Extract/Phellodendron Bark Extract/Rhubarb Extract/Swertia Herb Extract (2.5:1)",
  "edi_code": "",
  "atc_code": "A16AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199300309",
+ "history_fetched_at": "2026-09-08T08:28:42Z",
  "revisions": [
   {
    "revision_id": "199300309-a704daf1",
@@ -20,9 +21,8 @@
    "ee_doc_id": "8",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:28:42Z",
-   "last_observed_at": "2026-09-08T08:28:42Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:28:42Z"
+ ]
 }

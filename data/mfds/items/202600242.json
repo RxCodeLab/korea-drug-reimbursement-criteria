@@ -7,11 +7,12 @@
  "permit_date": "20260128",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051015]알란토인|[M249378]헤파린나트륨|[M278679]덱스판테놀",
+ "main_item_ingr": "[M249378]헤파린나트륨|[M051015]알란토인|[M278679]덱스판테놀",
  "main_item_ingr_eng": "Allantoin/Dexpanthenol/Heparin Sodium",
  "edi_code": "",
  "atc_code": "D03AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600242",
+ "history_fetched_at": "2026-09-08T09:04:43Z",
  "revisions": [
   {
    "revision_id": "202600242-c7a0b9cd",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:43Z",
-   "last_observed_at": "2026-09-08T09:04:43Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-01-28"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:43Z"
+ ]
 }

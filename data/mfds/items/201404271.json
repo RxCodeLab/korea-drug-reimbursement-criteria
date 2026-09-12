@@ -7,11 +7,12 @@
  "permit_date": "20140919",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050687]비사코딜|[M081950]도큐세이트나트륨",
+ "main_item_ingr": "[M081950]도큐세이트나트륨|[M050687]비사코딜",
  "main_item_ingr_eng": "Bisacodyl/Docusate Sodium",
  "edi_code": "",
  "atc_code": "A06AB52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404271",
+ "history_fetched_at": "2026-09-08T08:47:39Z",
  "revisions": [
   {
    "revision_id": "201404271-19fd76fa",
@@ -20,7 +21,7 @@
    "ee_doc_id": "9",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:47:39Z",
-   "last_observed_at": "2026-09-08T08:47:39Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2022-01-17"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:47:39Z",
    "last_observed_at": "2026-09-08T08:47:39Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:47:39Z"
+ ]
 }

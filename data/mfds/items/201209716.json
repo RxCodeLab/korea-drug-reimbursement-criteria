@@ -7,11 +7,12 @@
  "permit_date": "20121214",
  "cancel_date": "20231101",
  "status": "취하",
- "main_item_ingr": "[M254968]사람트롬빈|[M254968]사람트롬빈|[M254968]사람트롬빈|[M255947]사람응고성단백질|[M255947]사람응고성단백질|[M255947]사람응고성단백질",
+ "main_item_ingr": "[M254968]사람트롬빈|[M255947]사람응고성단백질|[M254968]사람트롬빈|[M255947]사람응고성단백질|[M254968]사람트롬빈|[M255947]사람응고성단백질",
  "main_item_ingr_eng": "Clottable Protein/Human Thrombin",
  "edi_code": "",
  "atc_code": "B02BC30",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201209716",
+ "history_fetched_at": "2026-09-08T08:45:39Z",
  "revisions": [
   {
    "revision_id": "201209716-87116b0c",
@@ -20,9 +21,8 @@
    "ee_doc_id": "34",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:45:39Z",
-   "last_observed_at": "2026-09-08T08:45:39Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:45:39Z"
+ ]
 }

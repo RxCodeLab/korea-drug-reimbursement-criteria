@@ -7,11 +7,12 @@
  "permit_date": "20180810",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M222937]나파졸린염산염|[M222965]디부카인염산염|[M223051]벤제토늄염화물|[M223211]클로르페니라민말레산염",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M222965]디부카인염산염|[M223051]벤제토늄염화물|[M222937]나파졸린염산염",
  "main_item_ingr_eng": "Benzethonium Chloride/Chlorpheniramine Maleate/Dibucaine Hydrochloride/Naphazoline Hydrochloride",
  "edi_code": "",
  "atc_code": "D08AJ58",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803284",
+ "history_fetched_at": "2026-09-08T08:53:30Z",
  "revisions": [
   {
    "revision_id": "201803284-c9320aef",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:53:30Z",
-   "last_observed_at": "2026-09-08T08:53:30Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2018-08-10"
   }
- ],
- "history_fetched_at": "2026-09-08T08:53:30Z"
+ ]
 }

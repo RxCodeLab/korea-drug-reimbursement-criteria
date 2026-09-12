@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602670",
+ "item_name": "라티카점안액5%(레코플라본수화물)",
+ "entp_name": "아주약품(주)",
+ "permit_date": "20260908",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286771]레코플라본수화물",
+ "main_item_ingr_eng": "Recoflavone Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602670",
+ "revisions": [
+  {
+   "revision_id": "202602670-342298dc",
+   "content_sha256": "342298dca7afedc557fb4b9453c8ed0ad75380ea1b2ce6ba23f1845c45be3e16",
+   "ee_text": "성인 안구건조증 환자의 각결막 상피 장애의 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-12T16:32:42Z",
+   "last_observed_at": "2026-09-12T16:32:42Z",
+   "official_revision_date": "2026-09-08"
+  }
+ ],
+ "history_fetched_at": "2026-09-12T16:32:42Z"
+}

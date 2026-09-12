@@ -7,11 +7,12 @@
  "permit_date": "20260714",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040262]산화마그네슘|[M040488]이노시톨|[M050436]메코발라민|[M096428]벤포티아민|[M102050]콜레칼시페롤농축분말|[M202809]감마-오리자놀|[M222995]리보플라빈부티레이트|[M223167]우르소데옥시콜산|[M223289]폴산|[M243785]산화아연|[M244365]셀레늄함유건조효모|[M244748]판토텐산칼슘|[M248795]피리독살포스페이트수화물|[M249983]D-비오틴|[M258994]아스코르브산",
+ "main_item_ingr": "[M258994]아스코르브산|[M050436]메코발라민|[M223289]폴산|[M249983]D-비오틴|[M248795]피리독살포스페이트수화물|[M244748]판토텐산칼슘|[M040064]니코틴산아미드|[M222995]리보플라빈부티레이트|[M040488]이노시톨|[M096428]벤포티아민|[M102050]콜레칼시페롤농축분말|[M244365]셀레늄함유건조효모|[M202809]감마-오리자놀|[M040262]산화마그네슘|[M243785]산화아연|[M223167]우르소데옥시콜산",
  "main_item_ingr_eng": "Ascorbic Acid/Benfotiamine/Calcium Pantothenate/Cholecalciferol Concentrate Powder/D-Biotin/Folic Acid/Gamma-Oryzanol/Inositol/Magnesium Oxide/Mecobalamin/Nicotinamide/Pyridoxal Phosphate Hydrate/Riboflavin Butyrate/Selenium In Dried Yeast/Ursodeoxycholic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602029",
+ "history_fetched_at": "2026-09-08T09:05:31Z",
  "revisions": [
   {
    "revision_id": "202602029-5713a0de",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:31Z",
-   "last_observed_at": "2026-09-08T09:05:31Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-07-14"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:31Z"
+ ]
 }

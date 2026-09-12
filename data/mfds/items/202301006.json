@@ -7,11 +7,12 @@
  "permit_date": "20230322",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050139]녹용|[M081871]글리세로인산마그네슘|[M204304]피리독신염산염|[M211060]홍삼70%에탄올연조엑스(5→1)|[M222996]리보플라빈포스페이트나트륨|[M223262]티아민질산염|[M233018]락트산칼슘수화물|[M243785]산화아연",
+ "main_item_ingr": "[M243785]산화아연|[M081871]글리세로인산마그네슘|[M233018]락트산칼슘수화물|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223262]티아민질산염|[M211060]홍삼70%에탄올연조엑스(5→1)|[M050139]녹용",
  "main_item_ingr_eng": "Calcium Lactate Hydrate/Cervi Parvum Cornu/Magnesium Glycerophosphate/Pyridoxine Hydrochloride/Red Ginseng 70% Ethanol Soft Extract/Riboflavin Sodium Phosphate/Thiamine Nitrate/Zinc Oxide",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301006",
+ "history_fetched_at": "2026-09-08T09:01:56Z",
  "revisions": [
   {
    "revision_id": "202301006-c01471aa",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:56Z",
-   "last_observed_at": "2026-09-08T09:01:56Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2023-03-22"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:56Z"
+ ]
 }

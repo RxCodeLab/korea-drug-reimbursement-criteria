@@ -7,11 +7,12 @@
  "permit_date": "20200521",
  "cancel_date": "20260824",
  "status": "취하",
- "main_item_ingr": "[M040488]이노시톨|[M061119]인삼30%에탄올건조엑스|[M102908]타우린|[M223167]우르소데옥시콜산|[M223262]티아민질산염",
+ "main_item_ingr": "[M102908]타우린|[M223167]우르소데옥시콜산|[M040488]이노시톨|[M223262]티아민질산염|[M061119]인삼30%에탄올건조엑스",
  "main_item_ingr_eng": "Inositol/Taurine/Thiamine Nitrate/Ursodeoxycholic Acid/White Ginseng 30% Ethanol Dried Extract",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003682",
+ "history_fetched_at": "2026-09-08T08:58:53Z",
  "revisions": [
   {
    "revision_id": "202003682-f4eff65e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:58:53Z",
-   "last_observed_at": "2026-09-08T08:58:53Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-05-21"
   }
- ],
- "history_fetched_at": "2026-09-08T08:58:53Z"
+ ]
 }

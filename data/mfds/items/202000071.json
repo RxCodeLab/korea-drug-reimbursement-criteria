@@ -7,11 +7,12 @@
  "permit_date": "20200106",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M116810]인삼 연조엑스(2.2~2.7→1)|[M117330]길경 연조엑스(1.8~2.2→1)|[M117331]지각 연조엑스(1.5~1.8→1)|[M117335]복령 연조엑스(30.0~36.7→1)|[M117336]천궁 연조엑스(2.6~3.1→1)|[M117340]감초 연조엑스(2.8~3.4→1)|[M117341]생강 연조엑스(7.5~9.2→1)|[M117723]시호 연조엑스(4.5~5.6→1)|[M117977]강활 연조엑스(2.4~2.9→1)|[M117978]독활 연조엑스(3.1~3.8→1)|[M117980]박하 연조엑스(3.4~4.2→1)",
+ "main_item_ingr": "[M117340]감초 연조엑스(2.8~3.4→1)|[M117335]복령 연조엑스(30.0~36.7→1)|[M117330]길경 연조엑스(1.8~2.2→1)|[M117331]지각 연조엑스(1.5~1.8→1)|[M117336]천궁 연조엑스(2.6~3.1→1)|[M117723]시호 연조엑스(4.5~5.6→1)|[M117978]독활 연조엑스(3.1~3.8→1)|[M117977]강활 연조엑스(2.4~2.9→1)|[M117341]생강 연조엑스(7.5~9.2→1)|[M117980]박하 연조엑스(3.4~4.2→1)|[M116810]인삼 연조엑스(2.2~2.7→1)",
  "main_item_ingr_eng": "Aralia Continentalis Root Soft Extract(3.1~3.8→1)/Aurantii Fructus Immaturus Soft Extract (1.5~1.8→1)/Bupleurum Root Soft Extract (4.5~5.6→1)/Cnidium Rhizome Soft Extract (2.6~3.1→1)/Ginseng Soft Extract (2.2~2.7→1)/Glycyrrhiza Soft Extract (2.8~3.4→1)/Mentha Herb Soft Extract (3.4~4.2→1)/Ostericum Root Soft Extract (2.4~2.9→1)/Platycodon Root Soft Extract (1.8~2.2→1)/Poria Soft Extract (30.0~36.7→1)/Raw Ginger Soft Extract (7.5~9.2→1)",
  "edi_code": "",
  "atc_code": "N02BG",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000071",
+ "history_fetched_at": "2026-09-08T08:57:25Z",
  "revisions": [
   {
    "revision_id": "202000071-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:57:25Z",
-   "last_observed_at": "2026-09-08T08:57:25Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2020-01-06"
   }
- ],
- "history_fetched_at": "2026-09-08T08:57:25Z"
+ ]
 }

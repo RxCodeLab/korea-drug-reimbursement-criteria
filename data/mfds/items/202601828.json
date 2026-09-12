@@ -7,11 +7,12 @@
  "permit_date": "20260629",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M020020]니스타틴|[M200243]니푸라텔",
+ "main_item_ingr": "[M200243]니푸라텔|[M020020]니스타틴",
  "main_item_ingr_eng": "Nifuratel/Nystatin",
  "edi_code": "",
  "atc_code": "G01AA51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601828",
+ "history_fetched_at": "2026-09-08T09:05:21Z",
  "revisions": [
   {
    "revision_id": "202601828-c96d2118",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:21Z",
-   "last_observed_at": "2026-09-08T09:05:21Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-06-29"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:21Z"
+ ]
 }

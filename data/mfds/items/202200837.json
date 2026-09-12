@@ -7,11 +7,12 @@
  "permit_date": "20220223",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M040262]산화마그네슘|[M040488]이노시톨|[M050436]메코발라민|[M083577]비스벤티아민|[M096428]벤포티아민|[M102908]타우린|[M204304]피리독신염산염|[M223015]DL-메티오닌|[M223167]우르소데옥시콜산|[M223289]폴산|[M243785]산화아연|[M244748]판토텐산칼슘|[M247683]콜린타르타르산염|[M249150]d-비오틴|[M250837]오로트산수화물|[M255949]농축콜레칼시페롤과립",
+ "main_item_ingr": "[M250837]오로트산수화물|[M204304]피리독신염산염|[M040133]리보플라빈|[M040488]이노시톨|[M083577]비스벤티아민|[M050436]메코발라민|[M223289]폴산|[M249150]d-비오틴|[M244748]판토텐산칼슘|[M223167]우르소데옥시콜산|[M223015]DL-메티오닌|[M102908]타우린|[M040262]산화마그네슘|[M243785]산화아연|[M255949]농축콜레칼시페롤과립|[M247683]콜린타르타르산염|[M096428]벤포티아민",
  "main_item_ingr_eng": "Benfotiamine/Bisbentiamine/Calcium Pantothenate/Cholecalciferol Concentrate Granules/Choline Tartrate/D-Biotin/DL-Methionine/Folic Acid/Inositol/Magnesium Oxide/Mecobalamin/Orotic Acid Hydrate/Pyridoxine Hydrochloride/Riboflavin/Taurine/Ursodeoxycholic Acid/Zinc Oxide",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200837",
+ "history_fetched_at": "2026-09-08T09:01:09Z",
  "revisions": [
   {
    "revision_id": "202200837-a27bca12",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:09Z",
-   "last_observed_at": "2026-09-08T09:01:09Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2022-02-23"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:09Z"
+ ]
 }

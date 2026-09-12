@@ -7,11 +7,12 @@
  "permit_date": "20050414",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040141]메글루민|[M249816]메글루민·가도펜테테이트",
+ "main_item_ingr": "[M249816]메글루민·가도펜테테이트|[M040141]메글루민",
  "main_item_ingr_eng": "Meglumine/Meglumine Gadopentetate",
  "edi_code": "",
  "atc_code": "V08CA01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500085",
+ "history_fetched_at": "2026-09-08T08:38:47Z",
  "revisions": [
   {
    "revision_id": "200500085-0f3e19d3",
@@ -20,9 +21,8 @@
    "ee_doc_id": "5",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:38:47Z",
-   "last_observed_at": "2026-09-08T08:38:47Z",
+   "last_observed_at": "2026-09-12T16:32:30Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:38:47Z"
+ ]
 }

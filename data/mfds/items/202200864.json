@@ -7,11 +7,12 @@
  "permit_date": "20220225",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M040262]산화마그네슘|[M096428]벤포티아민|[M096429]시아노코발라민|[M204304]피리독신염산염|[M208932]γ-오리자놀|[M223240]토코페롤아세테이트|[M243785]산화아연|[M244365]셀레늄함유건조효모",
+ "main_item_ingr": "[M244365]셀레늄함유건조효모|[M243785]산화아연|[M208932]γ-오리자놀|[M096429]시아노코발라민|[M204304]피리독신염산염|[M040133]리보플라빈|[M096428]벤포티아민|[M223240]토코페롤아세테이트|[M040262]산화마그네슘",
  "main_item_ingr_eng": "Benfotiamine/Cyanocobalamin/Gamma-Oryzanol/Magnesium Oxide/Pyridoxine Hydrochloride/Riboflavin/Selenium In Dried Yeast/Tocopherol Acetate/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200864",
+ "history_fetched_at": "2026-09-08T09:01:09Z",
  "revisions": [
   {
    "revision_id": "202200864-fad50e50",
@@ -20,7 +21,7 @@
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202200864/EE",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:09Z",
-   "last_observed_at": "2026-09-08T09:01:09Z"
+   "last_observed_at": "2026-09-12T16:32:39Z"
   },
   {
    "revision_id": "202200864-ed61c870",
@@ -32,6 +33,5 @@
    "first_observed_at": "2026-09-08T09:01:09Z",
    "last_observed_at": "2026-09-08T09:01:09Z"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:09Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "19970204",
  "cancel_date": "20240308",
  "status": "취하",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040126]초산레티놀|[M040133]리보플라빈|[M040262]산화마그네슘|[M040397]에르고칼시페롤|[M040515]인산일수소칼슘|[M040799]황산동|[M040806]황산칼륨|[M051783]푸마르산철|[M051962]황산망간|[M071150]질산치아민|[M081978]알로에엑스|[M086692]시아노코발라민|[M088252]아스코르빈산|[M089480]레시친|[M099839]산화아연|[M102805]백삼가루|[M240075]염산피리독신|[M240076]판토텐산칼슘|[M241582]초산토코페롤",
+ "main_item_ingr": "[M086692]시아노코발라민|[M040397]에르고칼시페롤|[M040133]리보플라빈|[M040262]산화마그네슘|[M040126]초산레티놀|[M040064]니코틴산아미드|[M102805]백삼가루|[M089480]레시친|[M099839]산화아연|[M040515]인산일수소칼슘|[M241582]초산토코페롤|[M071150]질산치아민|[M081978]알로에엑스|[M088252]아스코르빈산|[M240075]염산피리독신|[M040799]황산동|[M040806]황산칼륨|[M051783]푸마르산철|[M051962]황산망간|[M240076]판토텐산칼슘",
  "main_item_ingr_eng": "Aloe Extract/Ascorbic Acid/Calcium Pantothenate/Cupric Sulfate Hydrate/Cyanocobalamin/Dibasic Calcium Phosphate Hydrate/Ergocalciferol/Ferrous Fumarate/Lecithin/Magnesium Oxide/Manganese Sulfate/Nicotinamide/Potassium Sulfate/Pyridoxine Hydrochloride/Retinol Acetate/Riboflavin/Thiamine Nitrate/Tocopherol Acetate/White Ginseng Powder/Zinc Oxide",
  "edi_code": "",
  "atc_code": "A11AB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701942",
+ "history_fetched_at": "2026-09-08T08:31:10Z",
  "revisions": [
   {
    "revision_id": "199701942-8053313e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "2",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:31:10Z",
-   "last_observed_at": "2026-09-08T08:31:10Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:31:10Z"
+ ]
 }

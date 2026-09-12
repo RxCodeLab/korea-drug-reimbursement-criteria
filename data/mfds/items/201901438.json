@@ -7,11 +7,12 @@
  "permit_date": "20190308",
  "cancel_date": "20240308",
  "status": "유효기간만료",
- "main_item_ingr": "[M217121]아이비엽30%에탄올엑스(5~7.5→1)|[M251833]황련수포화부탄올건조엑스(4.5~7→1)",
+ "main_item_ingr": "[M251833]황련수포화부탄올건조엑스(4.5~7→1)|[M217121]아이비엽30%에탄올엑스(5~7.5→1)",
  "main_item_ingr_eng": "Coptis Butanol Dried Extract(4.5~7→1)/Ivy Leaf 30% Ethanol Extract (5~7.5→1)",
  "edi_code": "",
  "atc_code": "R05CA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901438",
+ "history_fetched_at": "2026-09-08T08:54:28Z",
  "revisions": [
   {
    "revision_id": "201901438-a4776d39",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:54:28Z",
-   "last_observed_at": "2026-09-08T08:54:28Z",
+   "last_observed_at": "2026-09-12T16:32:36Z",
    "official_revision_date": "2019-03-08"
   }
- ],
- "history_fetched_at": "2026-09-08T08:54:28Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20240105",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M081907]알라닌|[M088656]글리신|[M256563]글루탐산",
+ "main_item_ingr": "[M256563]글루탐산|[M081907]알라닌|[M088656]글리신",
  "main_item_ingr_eng": "Alanine/Glutamic Acid/Glycine",
  "edi_code": "",
  "atc_code": "G04CX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400042",
+ "history_fetched_at": "2026-09-08T09:02:37Z",
  "revisions": [
   {
    "revision_id": "202400042-e4671fbf",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:37Z",
-   "last_observed_at": "2026-09-08T09:02:37Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2024-01-05"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:37Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20160125",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M213777]인유두종바이러스 6형 L1 단백질|[M213778]인유두종바이러스 11형 L1 단백질|[M213779]인유두종바이러스 16형 L1 단백질|[M213780]인유두종바이러스 18형 L1 단백질|[M263457]인유두종바이러스 31형 L1 단백질|[M263458]인유두종바이러스 33형 L1 단백질|[M263459]인유두종바이러스 45형 L1 단백질|[M263460]인유두종바이러스 52형 L1 단백질|[M263461]인유두종바이러스 58형 L1 단백질",
+ "main_item_ingr": "[M263461]인유두종바이러스 58형 L1 단백질|[M263460]인유두종바이러스 52형 L1 단백질|[M263459]인유두종바이러스 45형 L1 단백질|[M263458]인유두종바이러스 33형 L1 단백질|[M263457]인유두종바이러스 31형 L1 단백질|[M213780]인유두종바이러스 18형 L1 단백질|[M213779]인유두종바이러스 16형 L1 단백질|[M213778]인유두종바이러스 11형 L1 단백질|[M213777]인유두종바이러스 6형 L1 단백질",
  "main_item_ingr_eng": "Human Papilloma Virus Type 11 L1 Protein/Human Papilloma Virus Type 16 L1 Protein/Human Papilloma Virus Type 18 L1 Protein/Human Papilloma Virus Type 31 L1 Protein/Human Papilloma Virus Type 33 L1 Protein/Human Papilloma Virus Type 45 L1 Protein/Human Papilloma Virus Type 52 L1 Protein/Human Papilloma Virus Type 58 L1 Protein/Human Papilloma Virus Type 6 L1 Protein",
  "edi_code": "",
  "atc_code": "J07BM03",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600488",
+ "history_fetched_at": "2026-09-08T08:50:09Z",
  "revisions": [
   {
    "revision_id": "201600488-45acfd1a",
@@ -20,7 +21,7 @@
    "ee_doc_id": "29",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:50:09Z",
-   "last_observed_at": "2026-09-08T08:50:09Z",
+   "last_observed_at": "2026-09-12T16:32:34Z",
    "official_revision_date": "2020-07-09"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:50:09Z",
    "last_observed_at": "2026-09-08T08:50:09Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:50:09Z"
+ ]
 }

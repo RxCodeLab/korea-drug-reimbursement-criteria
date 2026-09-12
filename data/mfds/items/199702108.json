@@ -7,7 +7,7 @@
  "permit_date": "19970519",
  "cancel_date": "20250701",
  "status": "유효기간만료",
- "main_item_ingr": "[M040070]당귀|[M040086]도인|[M051351]지각|[M051363]생지황|[M088617]마인",
+ "main_item_ingr": "[M088617]마인|[M040086]도인|[M051351]지각|[M051363]생지황|[M040070]당귀",
  "main_item_ingr_eng": "Angelica Gigas Root/Aurantii Fructus Immaturus/Cannabis Semen/Peach Kernel/Rehmanniae Radix Recens",
  "edi_code": "",
  "atc_code": "A06AX",
@@ -20,7 +20,7 @@
    "ee_text": "노인성 변비",
    "ee_doc_id": "7",
    "first_observed_at": "2026-08-28T13:23:48Z",
-   "last_observed_at": "2026-09-08T08:31:13Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2009-04-30",
    "normalizer_version": 3
   }

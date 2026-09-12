@@ -7,11 +7,12 @@
  "permit_date": "20210617",
  "cancel_date": "20260617",
  "status": "유효기간만료",
- "main_item_ingr": "[M040306]수산화마그네슘|[M080745]노회엑스|[M096428]벤포티아민|[M204304]피리독신염산염|[M223167]우르소데옥시콜산|[M244748]판토텐산칼슘",
+ "main_item_ingr": "[M040306]수산화마그네슘|[M096428]벤포티아민|[M244748]판토텐산칼슘|[M204304]피리독신염산염|[M080745]노회엑스|[M223167]우르소데옥시콜산",
  "main_item_ingr_eng": "Aloe Extract/Benfotiamine/Calcium Pantothenate/Magnesium Hydroxide/Pyridoxine Hydrochloride/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A06AB20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104651",
+ "history_fetched_at": "2026-09-08T09:00:17Z",
  "revisions": [
   {
    "revision_id": "202104651-8092f99e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:17Z",
-   "last_observed_at": "2026-09-08T09:00:17Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-06-17"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:17Z"
+ ]
 }

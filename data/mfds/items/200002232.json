@@ -7,11 +7,12 @@
  "permit_date": "20000210",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M089506]진피엑스산|[M089507]후박엑스산|[M089576]사인엑스산|[M089587]택사엑스산|[M089604]지실엑스산|[M089626]맥아엑스산|[M089698]산사엑스산",
+ "main_item_ingr": "[M089576]사인엑스산|[M089604]지실엑스산|[M089587]택사엑스산|[M089507]후박엑스산|[M089506]진피엑스산|[M089626]맥아엑스산|[M089698]산사엑스산",
  "main_item_ingr_eng": "Alisma Rhizome Extract Powder/Amomum Fruit Extract Powder/Citrus Unshiu Peel Extract Powder/Hawthorn Fruit Extract Powder/Hordei Fructus Germinatus Extract Powder/Magnolia Bark Extract Powder/Poncirus Immature Fruit Extract Powder",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002232",
+ "history_fetched_at": "2026-09-08T08:33:53Z",
  "revisions": [
   {
    "revision_id": "200002232-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "6",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:33:53Z",
-   "last_observed_at": "2026-09-08T08:33:53Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:33:53Z"
+ ]
 }

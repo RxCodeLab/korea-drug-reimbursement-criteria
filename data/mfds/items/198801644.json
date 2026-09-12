@@ -7,11 +7,12 @@
  "permit_date": "19880324",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040218]베타메타손|[M040218]베타메타손|[M251936]덱스클로르페니라민말레이트|[M251936]덱스클로르페니라민말레이트",
+ "main_item_ingr": "[M251936]덱스클로르페니라민말레이트|[M040218]베타메타손|[M251936]덱스클로르페니라민말레이트|[M040218]베타메타손",
  "main_item_ingr_eng": "Betamethasone/Dexchlorpheniramine Maleate",
  "edi_code": "",
  "atc_code": "H02BX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198801644",
+ "history_fetched_at": "2026-09-08T08:27:38Z",
  "revisions": [
   {
    "revision_id": "198801644-0a04733d",
@@ -20,9 +21,8 @@
    "ee_doc_id": "8",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:27:38Z",
-   "last_observed_at": "2026-09-08T08:27:38Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:27:38Z"
+ ]
 }

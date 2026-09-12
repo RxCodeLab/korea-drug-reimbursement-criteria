@@ -7,11 +7,12 @@
  "permit_date": "20070530",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040200]박하유|[M040200]박하유|[M040200]박하유|[M040200]박하유|[M256450]고추 80 % 에탄올 연조엑스|[M256450]고추 80 % 에탄올 연조엑스|[M256450]고추 80 % 에탄올 연조엑스|[M256450]고추 80 % 에탄올 연조엑스|[M279284]L-멘톨|[M279284]L-멘톨|[M279284]L-멘톨|[M279284]L-멘톨",
+ "main_item_ingr": "[M256450]고추 80 % 에탄올 연조엑스|[M279284]L-멘톨|[M040200]박하유|[M256450]고추 80 % 에탄올 연조엑스|[M279284]L-멘톨|[M040200]박하유|[M256450]고추 80 % 에탄올 연조엑스|[M279284]L-멘톨|[M040200]박하유|[M256450]고추 80 % 에탄올 연조엑스|[M279284]L-멘톨|[M040200]박하유",
  "main_item_ingr_eng": "Capsicum 80% Ethanol Soft Extract/L-Menthol/Mentha Herb Oil",
  "edi_code": "",
  "atc_code": "M02AB",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706254",
+ "history_fetched_at": "2026-09-08T08:41:33Z",
  "revisions": [
   {
    "revision_id": "200706254-2da3b1b8",
@@ -20,9 +21,8 @@
    "ee_doc_id": "7",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:41:33Z",
-   "last_observed_at": "2026-09-08T08:41:33Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:41:33Z"
+ ]
 }

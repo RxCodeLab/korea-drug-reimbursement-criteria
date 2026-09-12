@@ -7,7 +7,7 @@
  "permit_date": "20031206",
  "cancel_date": "20260101",
  "status": "유효기간만료",
- "main_item_ingr": "[M040006]감초|[M040071]대추|[M040523]작약|[M050037]계지|[M050752]생강|[M212865]이상물건조엑스",
+ "main_item_ingr": "[M212865]이상물건조엑스|[M040006]감초|[M050752]생강|[M040071]대추|[M040523]작약|[M050037]계지",
  "main_item_ingr_eng": "As Dried Extract/Cinnamomi Ramulus/Jujube/Licorice/Peony Root/Raw Ginger",
  "edi_code": "",
  "atc_code": "A03",
@@ -20,7 +20,7 @@
    "ee_text": "복부팽만감이 있는 다음 증상 : 대변이 조금 나올 뿐 배변이 끝난 느낌이 없는 상태, 복통",
    "ee_doc_id": "8",
    "first_observed_at": "2026-08-28T13:24:02Z",
-   "last_observed_at": "2026-09-08T08:37:01Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2009-04-30",
    "normalizer_version": 3
   }

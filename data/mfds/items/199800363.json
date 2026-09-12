@@ -7,7 +7,7 @@
  "permit_date": "19980530",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040702]포도당|[M095241]젖산나트륨액|[M217500]염화칼슘수화물",
+ "main_item_ingr": "[M040702]포도당|[M040426]염화나트륨|[M040438]염화칼륨|[M217500]염화칼슘수화물|[M095241]젖산나트륨액",
  "main_item_ingr_eng": "Calcium Chloride Hydrate/Glucose/Potassium Chloride/Sodium Chloride/Sodium Lactate Solution",
  "edi_code": "645101062,645101072",
  "atc_code": "B05BB02",
@@ -20,7 +20,7 @@
    "ee_text": "○ 순환혈액량 및 조직간액의 감소시 세포외액의 보급ㆍ보정 ○ 대사성 산증의 보정 ○ 에너지 보급",
    "ee_doc_id": "14",
    "first_observed_at": "2026-08-28T13:23:49Z",
-   "last_observed_at": "2026-09-08T08:31:39Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23",
    "normalizer_version": 3
   }

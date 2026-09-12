@@ -7,11 +7,12 @@
  "permit_date": "20110718",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M238042]옥시코돈염산염|[M246655]날록손염산염이수화물",
+ "main_item_ingr": "[M246655]날록손염산염이수화물|[M238042]옥시코돈염산염",
  "main_item_ingr_eng": "Naloxone Hydrochloride Dihydrate/Oxycodone Hydrochloride",
  "edi_code": "678000210",
  "atc_code": "N02AA55",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104437",
+ "history_fetched_at": "2026-09-08T08:44:46Z",
  "revisions": [
   {
    "revision_id": "201104437-27c8ed7b",
@@ -20,7 +21,7 @@
    "ee_doc_id": "19",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:44:46Z",
-   "last_observed_at": "2026-09-08T08:44:46Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-12-08"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:44:46Z",
    "last_observed_at": "2026-09-08T08:44:46Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:44:46Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20200413",
  "cancel_date": "20250413",
  "status": "유효기간만료",
- "main_item_ingr": "[M081480]미녹시딜|[M204304]피리독신염산염|[M223240]토코페롤아세테이트|[M230875]l-멘톨",
+ "main_item_ingr": "[M230875]l-멘톨|[M223240]토코페롤아세테이트|[M204304]피리독신염산염|[M081480]미녹시딜",
  "main_item_ingr_eng": "L-Menthol/Minoxidil/Pyridoxine Hydrochloride/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "D11AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002607",
+ "history_fetched_at": "2026-09-08T08:58:22Z",
  "revisions": [
   {
    "revision_id": "202002607-bbdac689",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:58:22Z",
-   "last_observed_at": "2026-09-08T08:58:22Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-04-13"
   }
- ],
- "history_fetched_at": "2026-09-08T08:58:22Z"
+ ]
 }

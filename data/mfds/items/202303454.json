@@ -7,11 +7,12 @@
  "permit_date": "20231228",
  "cancel_date": "20240723",
  "status": "취하",
- "main_item_ingr": "[M236913]제피아스코르브산|[M249960]사카로마이세스보울라르디균",
+ "main_item_ingr": "[M249960]사카로마이세스보울라르디균|[M236913]제피아스코르브산",
  "main_item_ingr_eng": "Ascorbic Acid Coated/Saccharomyces Boulardii",
  "edi_code": "",
  "atc_code": "A07FA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303454",
+ "history_fetched_at": "2026-09-08T09:02:36Z",
  "revisions": [
   {
    "revision_id": "202303454-a13348c6",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:36Z",
-   "last_observed_at": "2026-09-08T09:02:36Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2023-12-28"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:36Z"
+ ]
 }

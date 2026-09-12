@@ -7,11 +7,12 @@
  "permit_date": "20180424",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M261223]마황연조엑스(2.2∼2.7→1)\r\n|[M262504]작약연조엑스(3.3~4.0→1)|[M262510]감초연조엑스(2.4~2.9→1)|[M262511]생강연조엑스(12.3~15.0→1)|[M262512]대추연조엑스(1.5∼1.9→1)|[M266359]계지연조엑스(6.2∼7.6→1)|[M266531]갈근연조엑스(3.0∼3.7→1)",
+ "main_item_ingr": "[M262512]대추연조엑스(1.5∼1.9→1)|[M262511]생강연조엑스(12.3~15.0→1)|[M262510]감초연조엑스(2.4~2.9→1)|[M266359]계지연조엑스(6.2∼7.6→1)|[M262504]작약연조엑스(3.3~4.0→1)|[M261223]마황연조엑스(2.2∼2.7→1)\r\n|[M266531]갈근연조엑스(3.0∼3.7→1)",
  "main_item_ingr_eng": "Cinnamomi Ramulus Soft Extract (6.2~7.6→1)/Ephedra Herb Soft Extract (2.2~2.7→1)/Glycyrrhiza Soft Extract (2.4~2.9→1)/Jujube Soft Extract (1.5~1.9→1)/Peony Root Soft Extract (3.3~4.0→1)/Pueraria Root Soft Extract (3.0~3.7→1)/Raw Ginger Soft Extract (12.3~15.0→1)",
  "edi_code": "",
  "atc_code": "R05X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801744",
+ "history_fetched_at": "2026-09-08T08:53:04Z",
  "revisions": [
   {
    "revision_id": "201801744-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:53:04Z",
-   "last_observed_at": "2026-09-08T08:53:04Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2018-04-24"
   }
- ],
- "history_fetched_at": "2026-09-08T08:53:04Z"
+ ]
 }

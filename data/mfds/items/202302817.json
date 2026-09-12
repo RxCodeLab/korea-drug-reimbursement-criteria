@@ -7,11 +7,12 @@
  "permit_date": "20230925",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M262177]아비라테론아세테이트(미분화)|[M269158]니라파립토실산염일수화물",
+ "main_item_ingr": "[M269158]니라파립토실산염일수화물|[M262177]아비라테론아세테이트(미분화)",
  "main_item_ingr_eng": "Abiraterone Acetate Micronized/Niraparib Tosylate Monohydrate",
  "edi_code": "",
  "atc_code": "L01XK52",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302817",
+ "history_fetched_at": "2026-09-08T09:02:24Z",
  "revisions": [
   {
    "revision_id": "202302817-8c146380",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:24Z",
-   "last_observed_at": "2026-09-08T09:02:24Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2023-09-25"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:24Z"
+ ]
 }

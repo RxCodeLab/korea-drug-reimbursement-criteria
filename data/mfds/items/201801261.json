@@ -7,11 +7,12 @@
  "permit_date": "20180323",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M080565]무정형에스신|[M095647]살리실산글리콜레이트|[M249378]헤파린나트륨",
+ "main_item_ingr": "[M095647]살리실산글리콜레이트|[M080565]무정형에스신|[M249378]헤파린나트륨",
  "main_item_ingr_eng": "Aescin Amorphous/Glycol Salicylate/Heparin Sodium",
  "edi_code": "",
  "atc_code": "M02AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801261",
+ "history_fetched_at": "2026-09-08T08:52:57Z",
  "revisions": [
   {
    "revision_id": "201801261-5f18bbb7",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:52:57Z",
-   "last_observed_at": "2026-09-08T08:52:57Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2018-03-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:52:57Z"
+ ]
 }

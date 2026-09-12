@@ -7,11 +7,12 @@
  "permit_date": "20210713",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M203279]살리실산메틸|[M223240]토코페롤아세테이트|[M230875]l-멘톨",
+ "main_item_ingr": "[M223240]토코페롤아세테이트|[M230875]l-멘톨|[M203279]살리실산메틸",
  "main_item_ingr_eng": "L-Menthol/Methyl Salicylate/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "M02AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105331",
+ "history_fetched_at": "2026-09-08T09:00:23Z",
  "revisions": [
   {
    "revision_id": "202105331-20bb4999",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:23Z",
-   "last_observed_at": "2026-09-08T09:00:23Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-07-13"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:23Z"
+ ]
 }

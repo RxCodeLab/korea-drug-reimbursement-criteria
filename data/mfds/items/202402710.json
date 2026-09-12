@@ -7,11 +7,12 @@
  "permit_date": "20241118",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M040806]황산칼륨|[M223083]시메티콘|[M258980]무수황산나트륨",
+ "main_item_ingr": "[M223083]시메티콘|[M040438]염화칼륨|[M040426]염화나트륨|[M040806]황산칼륨|[M258980]무수황산나트륨",
  "main_item_ingr_eng": "Anhydrous Sodium Sulfate/Potassium Chloride/Potassium Sulfate/Simethicone/Sodium Chloride",
  "edi_code": "",
  "atc_code": "A06AD10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402710",
+ "history_fetched_at": "2026-09-08T09:03:28Z",
  "revisions": [
   {
    "revision_id": "202402710-96c57701",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:28Z",
-   "last_observed_at": "2026-09-08T09:03:28Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2024-11-18"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:28Z"
+ ]
 }

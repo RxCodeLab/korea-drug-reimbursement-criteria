@@ -7,11 +7,12 @@
  "permit_date": "20210712",
  "cancel_date": "20230914",
  "status": "취하",
- "main_item_ingr": "[M090403]발사르탄|[M222875]암로디핀베실산염|[M256664]아토르바스타틴칼슘수화물",
+ "main_item_ingr": "[M256664]아토르바스타틴칼슘수화물|[M090403]발사르탄|[M222875]암로디핀베실산염",
  "main_item_ingr_eng": "Amlodipine Besylate/Atorvastatin Calcium Hydrate/Valsartan",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105302",
+ "history_fetched_at": "2026-09-08T09:00:22Z",
  "revisions": [
   {
    "revision_id": "202105302-83f7f81c",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:22Z",
-   "last_observed_at": "2026-09-08T09:00:22Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-07-12"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:22Z"
+ ]
 }

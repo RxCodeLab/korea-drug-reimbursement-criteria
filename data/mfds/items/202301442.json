@@ -7,11 +7,12 @@
  "permit_date": "20230503",
  "cancel_date": "20240828",
  "status": "취하",
- "main_item_ingr": "[M040059]노스카핀|[M070009]감초가루|[M082634]길경가루|[M223183]카페인무수물|[M223211]클로르페니라민말레산염|[M223249]트리메토퀴놀염산염수화물",
+ "main_item_ingr": "[M223249]트리메토퀴놀염산염수화물|[M223211]클로르페니라민말레산염|[M040059]노스카핀|[M223183]카페인무수물|[M070009]감초가루|[M082634]길경가루",
  "main_item_ingr_eng": "Anhydrous Caffeine/Chlorpheniramine Maleate/Glycyrrhiza Powder/Noscapine/Platycodon Root Powder/Trimetoquinol Hydrochloride Hydrate",
  "edi_code": "",
  "atc_code": "R05F",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301442",
+ "history_fetched_at": "2026-09-08T09:02:02Z",
  "revisions": [
   {
    "revision_id": "202301442-78dd308e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:02:02Z",
-   "last_observed_at": "2026-09-08T09:02:02Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2023-05-03"
   }
- ],
- "history_fetched_at": "2026-09-08T09:02:02Z"
+ ]
 }

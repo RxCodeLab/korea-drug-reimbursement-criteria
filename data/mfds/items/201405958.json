@@ -7,11 +7,12 @@
  "permit_date": "20141219",
  "cancel_date": "20241219",
  "status": "유효기간만료",
- "main_item_ingr": "[M040264]살리실산|[M051015]알란토인|[M261256]이소프로필메틸페놀",
+ "main_item_ingr": "[M051015]알란토인|[M261256]이소프로필메틸페놀|[M040264]살리실산",
  "main_item_ingr_eng": "Allantoin/Isopropyl Methylphenol/Salicylic Acid",
  "edi_code": "",
  "atc_code": "D10AX30",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405958",
+ "history_fetched_at": "2026-09-08T08:48:09Z",
  "revisions": [
   {
    "revision_id": "201405958-66df88f9",
@@ -20,9 +21,8 @@
    "ee_doc_id": "5",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:48:09Z",
-   "last_observed_at": "2026-09-08T08:48:09Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:48:09Z"
+ ]
 }

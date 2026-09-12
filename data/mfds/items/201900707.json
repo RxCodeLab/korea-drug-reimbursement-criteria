@@ -7,11 +7,12 @@
  "permit_date": "20190129",
  "cancel_date": "20240129",
  "status": "유효기간만료",
- "main_item_ingr": "[M102050]콜레칼시페롤농축분말|[M253432]바제독시펜아세테이트",
+ "main_item_ingr": "[M253432]바제독시펜아세테이트|[M102050]콜레칼시페롤농축분말",
  "main_item_ingr_eng": "Bazedoxifene Acetate/Cholecalciferol Concentrate Powder",
  "edi_code": "",
  "atc_code": "G03X",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900707",
+ "history_fetched_at": "2026-09-08T08:54:10Z",
  "revisions": [
   {
    "revision_id": "201900707-59b781e9",
@@ -20,7 +21,7 @@
    "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/201900707/EE",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:54:10Z",
-   "last_observed_at": "2026-09-08T08:54:10Z"
+   "last_observed_at": "2026-09-12T16:32:36Z"
   },
   {
    "revision_id": "201900707-447e09fe",
@@ -32,6 +33,5 @@
    "first_observed_at": "2026-09-08T08:54:10Z",
    "last_observed_at": "2026-09-08T08:54:10Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:54:10Z"
+ ]
 }

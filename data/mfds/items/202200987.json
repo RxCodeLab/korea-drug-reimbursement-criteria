@@ -7,11 +7,12 @@
  "permit_date": "20220308",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M117829]인삼 연조엑스(3.2~4.0→1)|[M117939]오미자 연조엑스(3.6~4.4→1)|[M272556]맥문동 연조엑스(2.4∼2.9→1)",
+ "main_item_ingr": "[M272556]맥문동 연조엑스(2.4∼2.9→1)|[M117829]인삼 연조엑스(3.2~4.0→1)|[M117939]오미자 연조엑스(3.6~4.4→1)",
  "main_item_ingr_eng": "Ginseng Soft Extract (3.2~4.0→1)/Liriope Tuber Soft Extract (2.4∼2.9→1)/Schisandra Fruit Soft Extract (3.6~4.4→1)",
  "edi_code": "",
  "atc_code": "A13A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200987",
+ "history_fetched_at": "2026-09-08T09:01:10Z",
  "revisions": [
   {
    "revision_id": "202200987-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:10Z",
-   "last_observed_at": "2026-09-08T09:01:10Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2022-03-08"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:10Z"
+ ]
 }

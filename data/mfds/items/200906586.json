@@ -7,11 +7,12 @@
  "permit_date": "20090828",
  "cancel_date": "20250701",
  "status": "유효기간만료",
- "main_item_ingr": "[M060580]후박가루|[M081393]센나열매가루|[M082563]노회가루|[M082565]대황가루|[M097831]차전자피가루",
+ "main_item_ingr": "[M060580]후박가루|[M082563]노회가루|[M082565]대황가루|[M081393]센나열매가루|[M097831]차전자피가루",
  "main_item_ingr_eng": "Aloe Powder/Magnolia Bark Powder/Psyllium Husk Powder/Rhubarb Powder/Sennae Fructus Powder",
  "edi_code": "",
  "atc_code": "A06A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906586",
+ "history_fetched_at": "2026-09-08T08:43:30Z",
  "revisions": [
   {
    "revision_id": "200906586-ac62d426",
@@ -20,9 +21,8 @@
    "ee_doc_id": "5",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:43:30Z",
-   "last_observed_at": "2026-09-08T08:43:30Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:43:30Z"
+ ]
 }

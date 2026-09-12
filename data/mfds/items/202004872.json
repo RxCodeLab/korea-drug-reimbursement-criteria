@@ -7,11 +7,12 @@
  "permit_date": "20200706",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050857]시메티딘|[M051022]히드로탈시트|[M207094]탄산수소나트륨|[M216095]규산알루민산마그네슘",
+ "main_item_ingr": "[M207094]탄산수소나트륨|[M051022]히드로탈시트|[M216095]규산알루민산마그네슘|[M050857]시메티딘",
  "main_item_ingr_eng": "Cimetidine/Hydrotalcite/Magnesium Aluminosilicate/Sodium Bicarbonate",
  "edi_code": "",
  "atc_code": "A02AH",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004872",
+ "history_fetched_at": "2026-09-08T08:59:12Z",
  "revisions": [
   {
    "revision_id": "202004872-d81be63c",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:59:12Z",
-   "last_observed_at": "2026-09-08T08:59:12Z",
+   "last_observed_at": "2026-09-12T16:32:38Z",
    "official_revision_date": "2020-07-06"
   }
- ],
- "history_fetched_at": "2026-09-08T08:59:12Z"
+ ]
 }

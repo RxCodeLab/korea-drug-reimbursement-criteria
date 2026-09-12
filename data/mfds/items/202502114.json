@@ -7,11 +7,12 @@
  "permit_date": "20250813",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040521]자근|[M263497]일당귀",
+ "main_item_ingr": "[M263497]일당귀|[M040521]자근",
  "main_item_ingr_eng": "Angelica Root/Lithospermum Root",
  "edi_code": "",
  "atc_code": "D11AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502114",
+ "history_fetched_at": "2026-09-08T09:04:11Z",
  "revisions": [
   {
    "revision_id": "202502114-853b00b3",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:04:11Z",
-   "last_observed_at": "2026-09-08T09:04:11Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-08-13"
   }
- ],
- "history_fetched_at": "2026-09-08T09:04:11Z"
+ ]
 }

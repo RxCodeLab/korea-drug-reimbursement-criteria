@@ -7,11 +7,12 @@
  "permit_date": "19990731",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051617]트레티노인|[M223129]에리트로마이신",
+ "main_item_ingr": "[M223129]에리트로마이신|[M051617]트레티노인",
  "main_item_ingr_eng": "Erythromycin/Tretinoin",
  "edi_code": "",
  "atc_code": "D10AD51",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901996",
+ "history_fetched_at": "2026-09-08T08:32:47Z",
  "revisions": [
   {
    "revision_id": "199901996-04c5d9bb",
@@ -20,9 +21,8 @@
    "ee_doc_id": "7",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:32:47Z",
-   "last_observed_at": "2026-09-08T08:32:47Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:32:47Z"
+ ]
 }

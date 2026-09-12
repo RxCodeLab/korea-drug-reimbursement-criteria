@@ -7,11 +7,12 @@
  "permit_date": "20211108",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M117774]오미자 연조엑스(1.4~1.8→1)|[M272010]감초 연조엑스(2.4∼2.9→1)|[M272557]맥문동 연조엑스(2.7∼3.3→1)|[M273273]시호 연조엑스(5.3∼6.5→1)|[M273951]인삼 연조엑스(3.6∼4.4→1)|[M274954]지모 연조엑스(2.3∼2.8→1)|[M275017]치자 연조엑스(2.5∼3.0→1)|[M275881]황금 연조엑스(1.9∼2.4→1)|[M275889]황련 연조엑스(4.8~5.8→1)|[M281660]천문동연조엑스(1.6∼2.0→1)|[M281661]용담연조엑스(2.0∼2.4→1)",
+ "main_item_ingr": "[M272557]맥문동 연조엑스(2.7∼3.3→1)|[M275017]치자 연조엑스(2.5∼3.0→1)|[M281661]용담연조엑스(2.0∼2.4→1)|[M275889]황련 연조엑스(4.8~5.8→1)|[M281660]천문동연조엑스(1.6∼2.0→1)|[M273951]인삼 연조엑스(3.6∼4.4→1)|[M272010]감초 연조엑스(2.4∼2.9→1)|[M275881]황금 연조엑스(1.9∼2.4→1)|[M117774]오미자 연조엑스(1.4~1.8→1)|[M274954]지모 연조엑스(2.3∼2.8→1)|[M273273]시호 연조엑스(5.3∼6.5→1)",
  "main_item_ingr_eng": "Asparagus Tuber Soft Extract(1.6∼2.0→1)/Anemarrhena Rhizome Soft Extract (2.3∼2.8→1)/Bupleurum Root Soft Extract (5.3∼6.5→1)/Coptis Rhizome Soft Extract (4.8~5.8→1)/Gardenia Fruit Soft Extract (2.5∼3.0→1)/Gentian Root and Rhizome Soft Extract(2.0∼2.4→1)/Ginseng Soft Extract (3.6∼4.4→1)/Glycyrrhiza Soft Extract (2.4∼2.9→1)/Liriope Tuber Soft Extract (2.7∼3.3→1)/Schisandra Fruit Soft Extract (1.4~1.8→1)/Scutellaria Root Soft Extract (1.9∼2.4→1)",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107357",
+ "history_fetched_at": "2026-09-08T09:00:46Z",
  "revisions": [
   {
    "revision_id": "202107357-3e6842a2",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:46Z",
-   "last_observed_at": "2026-09-08T09:00:46Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-11-08"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:46Z"
+ ]
 }

@@ -7,11 +7,12 @@
  "permit_date": "20060620",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M236690]사포그릴레이트염산염|[M261406]사르포그렐레이트염산염",
+ "main_item_ingr": "[M261406]사르포그렐레이트염산염|[M236690]사포그릴레이트염산염",
  "main_item_ingr_eng": "Sarpogrelate Hydrochloride",
  "edi_code": "648200160",
  "atc_code": "B01AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605468",
+ "history_fetched_at": "2026-09-08T08:40:23Z",
  "revisions": [
   {
    "revision_id": "200605468-381085c5",
@@ -20,9 +21,8 @@
    "ee_doc_id": "12",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:40:23Z",
-   "last_observed_at": "2026-09-08T08:40:23Z",
+   "last_observed_at": "2026-09-12T16:32:30Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:40:23Z"
+ ]
 }

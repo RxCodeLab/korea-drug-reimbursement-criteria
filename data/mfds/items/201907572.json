@@ -7,11 +7,12 @@
  "permit_date": "20191030",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M113501]농축콜레칼시페롤 산|[M113513]아스코르브산 과립97%",
+ "main_item_ingr": "[M113513]아스코르브산 과립97%|[M113501]농축콜레칼시페롤 산",
  "main_item_ingr_eng": "Ascorbic Acid Granules 97%/Cholecalciferol Concentrate Powder",
  "edi_code": "",
  "atc_code": "A11JA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907572",
+ "history_fetched_at": "2026-09-08T08:56:53Z",
  "revisions": [
   {
    "revision_id": "201907572-77704a4d",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:56:53Z",
-   "last_observed_at": "2026-09-08T08:56:53Z",
+   "last_observed_at": "2026-09-12T16:32:37Z",
    "official_revision_date": "2019-10-30"
   }
- ],
- "history_fetched_at": "2026-09-08T08:56:53Z"
+ ]
 }

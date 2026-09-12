@@ -7,11 +7,12 @@
  "permit_date": "20240806",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M284831]정제불활화인플루엔자바이러스항원B형[B/Singapore/INFTT-16-0610/2016]|[M285576]정제불활화인플루엔자바이러스항원B형[B/Singapore/WUH4618/2021]|[M285578]정제불활화인플루엔자바이러스항원A형[A/Victoria/800/2024 CVR-289 (H3N2)]|[M285579]정제불활화인플루엔자바이러스항원A형[A/Georgia/12/2022 CVR-167 (H1N1)]",
+ "main_item_ingr": "[M285576]정제불활화인플루엔자바이러스항원B형[B/Singapore/WUH4618/2021]|[M284831]정제불활화인플루엔자바이러스항원B형[B/Singapore/INFTT-16-0610/2016]|[M285578]정제불활화인플루엔자바이러스항원A형[A/Victoria/800/2024 CVR-289 (H3N2)]|[M285579]정제불활화인플루엔자바이러스항원A형[A/Georgia/12/2022 CVR-167 (H1N1)]",
  "main_item_ingr_eng": "Purified Inactivated Influenza Virus Antigen A [A/Georgia/12/2022 CVR-167 (H1N1)]/Purified Inactivated Influenza Virus Antigen A [A/Victoria/800/2024 CVR-289 (H3N2)]/Purified Inactivated Influenza Virus Antigen B [B/Singapore/INFTT-16-0610/2016]/Purified Inactivated Influenza Virus Antigen B [B/Singapore/WUH4618/2021]",
  "edi_code": "",
  "atc_code": "J07BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401917",
+ "history_fetched_at": "2026-09-08T09:03:12Z",
  "revisions": [
   {
    "revision_id": "202401917-d74fdda5",
@@ -20,7 +21,7 @@
    "ee_doc_id": "7",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:03:12Z",
-   "last_observed_at": "2026-09-08T09:03:12Z",
+   "last_observed_at": "2026-09-12T16:32:40Z",
    "official_revision_date": "2025-07-04"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T09:03:12Z",
    "last_observed_at": "2026-09-08T09:03:12Z"
   }
- ],
- "history_fetched_at": "2026-09-08T09:03:12Z"
+ ]
 }

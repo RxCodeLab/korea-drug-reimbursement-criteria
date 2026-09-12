@@ -7,11 +7,12 @@
  "permit_date": "20210310",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040133]리보플라빈|[M204304]피리독신염산염|[M236913]제피아스코르브산",
+ "main_item_ingr": "[M204304]피리독신염산염|[M040133]리보플라빈|[M236913]제피아스코르브산",
  "main_item_ingr_eng": "Ascorbic Acid Coated/Pyridoxine Hydrochloride/Riboflavin",
  "edi_code": "",
  "atc_code": "A11JA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102215",
+ "history_fetched_at": "2026-09-08T09:00:02Z",
  "revisions": [
   {
    "revision_id": "202102215-1770acb4",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:02Z",
-   "last_observed_at": "2026-09-08T09:00:02Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-03-10"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:02Z"
+ ]
 }

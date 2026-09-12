@@ -7,11 +7,12 @@
  "permit_date": "20041203",
  "cancel_date": "20251016",
  "status": "취하",
- "main_item_ingr": "[M040110]염산디펜히드라민|[M081416]초산아연",
+ "main_item_ingr": "[M081416]초산아연|[M040110]염산디펜히드라민",
  "main_item_ingr_eng": "Diphenhydramine Hydrochloride/Zinc Acetate Hydrate",
  "edi_code": "",
  "atc_code": "D04AA32",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400283",
+ "history_fetched_at": "2026-09-08T08:37:32Z",
  "revisions": [
   {
    "revision_id": "200400283-1a6a5e34",
@@ -20,9 +21,8 @@
    "ee_doc_id": "4",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:37:32Z",
-   "last_observed_at": "2026-09-08T08:37:32Z",
+   "last_observed_at": "2026-09-12T16:32:29Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:37:32Z"
+ ]
 }

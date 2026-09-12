@@ -7,11 +7,12 @@
  "permit_date": "20180208",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M223289]폴산|[M251365]폴리사카리드철착염|[M265578]시아노코발라민1000배산",
+ "main_item_ingr": "[M251365]폴리사카리드철착염|[M265578]시아노코발라민1000배산|[M223289]폴산",
  "main_item_ingr_eng": "Cyanocobalamin Powder 0.1%/Folic Acid/Polysaccharide Iron Complex",
  "edi_code": "",
  "atc_code": "B03AE01",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800754",
+ "history_fetched_at": "2026-09-08T08:52:51Z",
  "revisions": [
   {
    "revision_id": "201800754-635e8644",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:52:51Z",
-   "last_observed_at": "2026-09-08T08:52:51Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2018-02-08"
   }
- ],
- "history_fetched_at": "2026-09-08T08:52:51Z"
+ ]
 }

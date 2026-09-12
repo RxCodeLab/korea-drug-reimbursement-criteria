@@ -7,11 +7,12 @@
  "permit_date": "20090722",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M282088]정제불활화인플루엔자바이러스항원B형[B/Austria/1359417/2021 BVR-26]|[M286102]정제불활화인플루엔자바이러스항원A형[A/Switzerland/6849/2025 IVR-278(H1N1)]|[M286103]정제불활화인플루엔자바이러스항원A형[A/Singapore/GP20238/2024 IVR-277(H3N2)]|[M286539]정제불활화인플루엔자바이러스항원A형[A/Michigan/105/2025 SAN-049A(H3N2)]|[M286540]정제불활화인플루엔자바이러스항원B형[B/Tokyo/EIS13-175/2025]|[M286541]정제불활화인플루엔자바이러스항원A형[A/Switzerland/6849/2025 IVR-278(H1N1)]",
+ "main_item_ingr": "[M282088]정제불활화인플루엔자바이러스항원B형[B/Austria/1359417/2021 BVR-26]|[M286103]정제불활화인플루엔자바이러스항원A형[A/Singapore/GP20238/2024 IVR-277(H3N2)]|[M286102]정제불활화인플루엔자바이러스항원A형[A/Switzerland/6849/2025 IVR-278(H1N1)]|[M286540]정제불활화인플루엔자바이러스항원B형[B/Tokyo/EIS13-175/2025]|[M286539]정제불활화인플루엔자바이러스항원A형[A/Michigan/105/2025 SAN-049A(H3N2)]|[M286541]정제불활화인플루엔자바이러스항원A형[A/Switzerland/6849/2025 IVR-278(H1N1)]",
  "main_item_ingr_eng": "Purified  influenza  virus  antigen A/Michigan/105/2025 SAN-049A/Purified  influenza  virus  antigen B/Tokyo/EIS13-175/2025/Purified Inactivated Influenza Virus Antigen A [A/Singapore/GP20238/2024 IVR-277(H3N2)]/Purified Inactivated Influenza Virus Antigen A [A/Switzerland/6849/2025 IVR-278(H1N1)]/Purified Influenza Virus Antigen B type(Split virion, Inactivated)[B/Austria/1359417/2021, BVR-26]",
  "edi_code": "",
  "atc_code": "J07BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905820",
+ "history_fetched_at": "2026-09-08T08:43:27Z",
  "revisions": [
   {
    "revision_id": "200905820-794bfcb1",
@@ -20,9 +21,8 @@
    "ee_doc_id": "40",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:43:27Z",
-   "last_observed_at": "2026-09-08T08:43:27Z",
+   "last_observed_at": "2026-09-12T16:32:31Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:43:27Z"
+ ]
 }

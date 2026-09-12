@@ -7,11 +7,12 @@
  "permit_date": "20230320",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050058]구아이페네신|[M222957]덱스트로메토르판브롬화수소산염수화물|[M223211]클로르페니라민말레산염|[M223249]트리메토퀴놀염산염수화물",
+ "main_item_ingr": "[M223211]클로르페니라민말레산염|[M050058]구아이페네신|[M223249]트리메토퀴놀염산염수화물|[M222957]덱스트로메토르판브롬화수소산염수화물",
  "main_item_ingr_eng": "Chlorpheniramine Maleate/Dextromethorphan Hydrobromide Hydrate/Guaifenesin/Trimetoquinol Hydrochloride Hydrate",
  "edi_code": "",
  "atc_code": "R05FA02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300973",
+ "history_fetched_at": "2026-09-08T09:01:56Z",
  "revisions": [
   {
    "revision_id": "202300973-11763752",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:01:56Z",
-   "last_observed_at": "2026-09-08T09:01:56Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2023-03-20"
   }
- ],
- "history_fetched_at": "2026-09-08T09:01:56Z"
+ ]
 }

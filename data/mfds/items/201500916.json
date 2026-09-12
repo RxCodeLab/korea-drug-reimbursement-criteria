@@ -7,11 +7,12 @@
  "permit_date": "20150224",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M286539]정제불활화인플루엔자바이러스항원A형[A/Michigan/105/2025 SAN-049A(H3N2)]|[M286540]정제불활화인플루엔자바이러스항원B형[B/Tokyo/EIS13-175/2025]|[M286541]정제불활화인플루엔자바이러스항원A형[A/Switzerland/6849/2025 IVR-278(H1N1)]",
+ "main_item_ingr": "[M286541]정제불활화인플루엔자바이러스항원A형[A/Switzerland/6849/2025 IVR-278(H1N1)]|[M286539]정제불활화인플루엔자바이러스항원A형[A/Michigan/105/2025 SAN-049A(H3N2)]|[M286540]정제불활화인플루엔자바이러스항원B형[B/Tokyo/EIS13-175/2025]",
  "main_item_ingr_eng": "Purified  influenza  virus  antigen A/Michigan/105/2025 SAN-049A/Purified  influenza  virus  antigen B/Tokyo/EIS13-175/2025/Purified Inactivated Influenza Virus Antigen A [A/Switzerland/6849/2025 IVR-278(H1N1)]",
  "edi_code": "",
  "atc_code": "J07BB02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500916",
+ "history_fetched_at": "2026-09-08T08:48:30Z",
  "revisions": [
   {
    "revision_id": "201500916-b7b92aef",
@@ -20,7 +21,7 @@
    "ee_doc_id": "52",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:48:30Z",
-   "last_observed_at": "2026-09-08T08:48:30Z",
+   "last_observed_at": "2026-09-12T16:32:33Z",
    "official_revision_date": "2026-04-27"
   },
   {
@@ -33,6 +34,5 @@
    "first_observed_at": "2026-09-08T08:48:30Z",
    "last_observed_at": "2026-09-08T08:48:30Z"
   }
- ],
- "history_fetched_at": "2026-09-08T08:48:30Z"
+ ]
 }

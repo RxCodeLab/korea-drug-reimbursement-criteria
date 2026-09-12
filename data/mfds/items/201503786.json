@@ -7,11 +7,12 @@
  "permit_date": "20150611",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050081]글루콘산망간|[M085156]글루콘산구리|[M222934]글루콘산제일철수화물",
+ "main_item_ingr": "[M222934]글루콘산제일철수화물|[M050081]글루콘산망간|[M085156]글루콘산구리",
  "main_item_ingr_eng": "Copper Gluconate/Ferrous Gluconate Hydrate/Manganese Gluconate",
  "edi_code": "",
  "atc_code": "B03AE10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503786",
+ "history_fetched_at": "2026-09-08T08:49:12Z",
  "revisions": [
   {
    "revision_id": "201503786-4a80c7a8",
@@ -20,9 +21,8 @@
    "ee_doc_id": "4",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:49:12Z",
-   "last_observed_at": "2026-09-08T08:49:12Z",
+   "last_observed_at": "2026-09-12T16:32:34Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:49:12Z"
+ ]
 }

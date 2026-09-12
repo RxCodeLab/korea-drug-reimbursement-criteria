@@ -7,11 +7,12 @@
  "permit_date": "19820113",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M020054]바시트라신|[M202893]네오마이신황산염|[M233313]폴리믹신B황산염",
+ "main_item_ingr": "[M233313]폴리믹신B황산염|[M202893]네오마이신황산염|[M020054]바시트라신",
  "main_item_ingr_eng": "Bacitracin/Neomycin Sulfate/Polymyxin B Sulfate",
  "edi_code": "",
  "atc_code": "D06AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200102",
+ "history_fetched_at": "2026-09-08T08:26:47Z",
  "revisions": [
   {
    "revision_id": "198200102-98e72d9e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "12",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:26:47Z",
-   "last_observed_at": "2026-09-08T08:26:47Z",
+   "last_observed_at": "2026-09-12T16:32:28Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:26:47Z"
+ ]
 }

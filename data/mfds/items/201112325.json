@@ -7,11 +7,12 @@
  "permit_date": "20111230",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040658]트롬빈|[M051001]아프로티닌|[M086701]사람피브리노겐농축물",
+ "main_item_ingr": "[M086701]사람피브리노겐농축물|[M051001]아프로티닌|[M040658]트롬빈",
  "main_item_ingr_eng": "Aprotinin/Human Fibrinogen Concentrate Solution/Thrombin",
  "edi_code": "643604880,643605491",
  "atc_code": "B02",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201112325",
+ "history_fetched_at": "2026-09-08T08:45:07Z",
  "revisions": [
   {
    "revision_id": "201112325-fd0a9007",
@@ -20,9 +21,8 @@
    "ee_doc_id": "37",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:45:07Z",
-   "last_observed_at": "2026-09-08T08:45:07Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:45:07Z"
+ ]
 }

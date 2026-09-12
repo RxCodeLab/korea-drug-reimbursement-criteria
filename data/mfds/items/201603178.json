@@ -7,11 +7,12 @@
  "permit_date": "20160602",
  "cancel_date": "20260602",
  "status": "유효기간만료",
- "main_item_ingr": "[M040064]니코틴산아미드|[M040133]리보플라빈|[M204304]피리독신염산염|[M222991]레티놀팔미테이트|[M223240]토코페롤아세테이트|[M223258]티아민염산염|[M258994]아스코르브산",
+ "main_item_ingr": "[M204304]피리독신염산염|[M223240]토코페롤아세테이트|[M222991]레티놀팔미테이트|[M223258]티아민염산염|[M258994]아스코르브산|[M040133]리보플라빈|[M040064]니코틴산아미드",
  "main_item_ingr_eng": "Ascorbic Acid/Nicotinamide/Pyridoxine Hydrochloride/Retinol Palmitate/Riboflavin/Thiamine Hydrochloride/Tocopherol Acetate",
  "edi_code": "",
  "atc_code": "A11JA",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603178",
+ "history_fetched_at": "2026-09-08T08:50:44Z",
  "revisions": [
   {
    "revision_id": "201603178-acb57e22",
@@ -20,9 +21,8 @@
    "ee_doc_id": "6",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:50:44Z",
-   "last_observed_at": "2026-09-08T08:50:44Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:50:44Z"
+ ]
 }

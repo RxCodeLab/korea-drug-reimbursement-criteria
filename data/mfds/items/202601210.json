@@ -7,11 +7,12 @@
  "permit_date": "20260424",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040010]겐티아나|[M040018]고목|[M040040]합성규산알루미늄|[M040486]육두구|[M040527]정향|[M040629]탄산마그네슘|[M040634]침강탄산칼슘|[M040811]회향|[M050036]육계|[M207094]탄산수소나트륨|[M267745]디아스타제·프로테아제·셀룰라제|[M282715]진피(陳皮)",
+ "main_item_ingr": "[M040527]정향|[M040010]겐티아나|[M040018]고목|[M207094]탄산수소나트륨|[M040634]침강탄산칼슘|[M040486]육두구|[M040811]회향|[M050036]육계|[M267745]디아스타제·프로테아제·셀룰라제|[M040040]합성규산알루미늄|[M040629]탄산마그네슘|[M282715]진피(陳皮)",
  "main_item_ingr_eng": "Cinnamon Bark/Citrus Unshiu Peel/Clove/Diastase·Protease·Cellulase/Fennel/Gentian/Magnesium Carbonate/Nutmeg/Picrasma Wood/Precipitated Calcium Carbonate/Sodium Bicarbonate/Synthetic Aluminium Silicate",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601210",
+ "history_fetched_at": "2026-09-08T09:05:06Z",
  "revisions": [
   {
    "revision_id": "202601210-ff11fb0c",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:06Z",
-   "last_observed_at": "2026-09-08T09:05:06Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-04-24"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:06Z"
+ ]
 }

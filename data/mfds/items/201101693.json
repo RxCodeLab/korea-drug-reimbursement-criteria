@@ -7,11 +7,12 @@
  "permit_date": "20110325",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051756]포비돈|[M071571]폴리비닐알코올|[M223237]테트라히드로졸린염산염",
+ "main_item_ingr": "[M071571]폴리비닐알코올|[M051756]포비돈|[M223237]테트라히드로졸린염산염",
  "main_item_ingr_eng": "Polyvinyl Alcohol/Povidone/Tetrahydrozoline Hydrochloride",
  "edi_code": "",
  "atc_code": "S01XA20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101693",
+ "history_fetched_at": "2026-09-08T08:44:32Z",
  "revisions": [
   {
    "revision_id": "201101693-849040b4",
@@ -20,9 +21,8 @@
    "ee_doc_id": "7",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:44:32Z",
-   "last_observed_at": "2026-09-08T08:44:32Z",
+   "last_observed_at": "2026-09-12T16:32:32Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:44:32Z"
+ ]
 }

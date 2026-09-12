@@ -7,11 +7,12 @@
  "permit_date": "20260714",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040064]니코틴산아미드|[M102908]타우린|[M204304]피리독신염산염|[M222996]리보플라빈포스페이트나트륨|[M223167]우르소데옥시콜산|[M223262]티아민질산염|[M278679]덱스판테놀",
+ "main_item_ingr": "[M102908]타우린|[M204304]피리독신염산염|[M040064]니코틴산아미드|[M222996]리보플라빈포스페이트나트륨|[M223262]티아민질산염|[M223167]우르소데옥시콜산|[M278679]덱스판테놀",
  "main_item_ingr_eng": "Dexpanthenol/Nicotinamide/Pyridoxine Hydrochloride/Riboflavin Sodium Phosphate/Taurine/Thiamine Nitrate/Ursodeoxycholic Acid",
  "edi_code": "",
  "atc_code": "A11JC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602036",
+ "history_fetched_at": "2026-09-08T09:05:32Z",
  "revisions": [
   {
    "revision_id": "202602036-be2ad843",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:05:32Z",
-   "last_observed_at": "2026-09-08T09:05:32Z",
+   "last_observed_at": "2026-09-12T16:32:41Z",
    "official_revision_date": "2026-07-14"
   }
- ],
- "history_fetched_at": "2026-09-08T09:05:32Z"
+ ]
 }

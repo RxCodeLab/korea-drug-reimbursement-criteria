@@ -7,11 +7,12 @@
  "permit_date": "20170529",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M262723]반하연조엑스(1.9~2.4→1)\r\n|[M262725]인삼연조엑스(2.2~2.7→1)\r\n|[M266245]시호연조엑스(4.5~5.6→1)|[M266246]황금연조엑스(2.0~2.5→1)|[M266247]감초연조엑스(2.3~2.8→1)|[M266248]생강연조엑스(6.1~7.4→1)|[M266249]대추연조엑스(1.2~1.4→1)",
+ "main_item_ingr": "[M266249]대추연조엑스(1.2~1.4→1)|[M266248]생강연조엑스(6.1~7.4→1)|[M266247]감초연조엑스(2.3~2.8→1)|[M262723]반하연조엑스(1.9~2.4→1)\r\n|[M262725]인삼연조엑스(2.2~2.7→1)\r\n|[M266246]황금연조엑스(2.0~2.5→1)|[M266245]시호연조엑스(4.5~5.6→1)",
  "main_item_ingr_eng": "Bupleurum Root Soft Extract (4.5~5.6→1)/Ginseng Soft Extract (2.2~2.7→1)/Glycyrrhiza Soft Extract (2.3~2.8→1)/Jujube Soft Extract (1.2~1.4→1)/Pinellia Tuber Soft Extract (1.9~2.4→1)/Raw Ginger Soft Extract (6.1~7.4→1)/Scutellaria Root Soft Extract (2.0~2.5→1)",
  "edi_code": "",
  "atc_code": "A16AX",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702656",
+ "history_fetched_at": "2026-09-08T08:51:54Z",
  "revisions": [
   {
    "revision_id": "201702656-9ffab8db",
@@ -20,9 +21,8 @@
    "ee_doc_id": "9",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:51:54Z",
-   "last_observed_at": "2026-09-08T08:51:54Z",
+   "last_observed_at": "2026-09-12T16:32:35Z",
    "official_revision_date": "2017-09-23"
   }
- ],
- "history_fetched_at": "2026-09-08T08:51:54Z"
+ ]
 }

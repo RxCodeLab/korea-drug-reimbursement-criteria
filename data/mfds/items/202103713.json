@@ -7,11 +7,12 @@
  "permit_date": "20210506",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040187]목향|[M040792]황련|[M040793]황백|[M040813]후박|[M050036]육계|[M050185]당약|[M207094]탄산수소나트륨",
+ "main_item_ingr": "[M207094]탄산수소나트륨|[M050185]당약|[M040792]황련|[M050036]육계|[M040813]후박|[M040187]목향|[M040793]황백",
  "main_item_ingr_eng": "Aucklandiae Radix/Cinnamon Bark/Coptis Rhizome/Magnolia Bark/Phellodendron Bark/Sodium Bicarbonate/Swertia Herb",
  "edi_code": "",
  "atc_code": "A09A",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103713",
+ "history_fetched_at": "2026-09-08T09:00:09Z",
  "revisions": [
   {
    "revision_id": "202103713-5c988f87",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:09Z",
-   "last_observed_at": "2026-09-08T09:00:09Z",
+   "last_observed_at": "2026-09-12T16:32:39Z",
    "official_revision_date": "2021-05-06"
   }
- ],
- "history_fetched_at": "2026-09-08T09:00:09Z"
+ ]
 }
