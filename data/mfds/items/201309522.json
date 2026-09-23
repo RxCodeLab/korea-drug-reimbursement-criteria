@@ -12,8 +12,18 @@
  "edi_code": "678900980,678900981,678900982,678900984",
  "atc_code": "B05BA10",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309522",
- "history_fetched_at": "2026-08-28T13:24:33Z",
+ "history_fetched_at": "2026-09-23T17:12:38Z",
  "revisions": [
+  {
+   "revision_id": "201309522-67939b47",
+   "content_sha256": "67939b475957cb97dc299a1925764d860175086157fbf6b81125410c8c1c899f",
+   "ee_text": "경구 또는 위장관 영양보급이 불가능 또는 불충분하거나 또는 제한되어 경정맥 영양공급을 실시해야 하는 2세 이상의 소아 및 성인에게 수분, 전해질, 아미노산, 칼로리, 필수 지방산 및 오메가-3 지방산의 보급.",
+   "ee_doc_id": "73",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-23T17:12:38Z",
+   "last_observed_at": "2026-09-23T17:12:38Z",
+   "official_revision_date": "2026-09-22"
+  },
   {
    "revision_id": "201309522-4d1c815e",
    "content_sha256": "4d1c815e06b51cc439b0cebd3ee59614cda6dc4fb6f596ee2b757da90ab80f65",
