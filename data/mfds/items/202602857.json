@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602857",
+ "item_name": "옵티카르핀점안액1%(필로카르핀염산염)(1회용)",
+ "entp_name": "이연제약(주)",
+ "permit_date": "20260922",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M223342]필로카르핀염산염",
+ "main_item_ingr_eng": "Pilocarpine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602857",
+ "revisions": [
+  {
+   "revision_id": "202602857-f931f553",
+   "content_sha256": "f931f55365135f3225ea5e4f00b1a0302df89ab173ce9478913ba14f942aac9a",
+   "ee_text": "녹내장, 진단 또는 치료를 목적으로 하는 축동",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-26T17:32:18Z",
+   "last_observed_at": "2026-09-26T17:32:18Z",
+   "official_revision_date": "2026-09-22"
+  }
+ ],
+ "history_fetched_at": "2026-09-26T17:32:18Z"
+}

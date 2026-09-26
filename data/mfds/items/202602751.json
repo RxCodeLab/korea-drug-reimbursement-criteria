@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602751",
+ "item_name": "쿨리브세미정",
+ "entp_name": "(주)팜젠사이언스",
+ "permit_date": "20260914",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M103222]노회건조엑스|[M040306]수산화마그네슘|[M223167]우르소데옥시콜산",
+ "main_item_ingr_eng": "Aloe Dried Extract/Magnesium Hydroxide/Ursodeoxycholic Acid",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602751",
+ "revisions": [
+  {
+   "revision_id": "202602751-edea8414",
+   "content_sha256": "edea8414889b743f8a1a543d0092dccbda946bf96bac60762edf22a0e4502d7e",
+   "ee_text": "변비, 변비에 따른 다음 증상의 완화 : 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-26T17:31:20Z",
+   "last_observed_at": "2026-09-26T17:31:20Z",
+   "official_revision_date": "2026-09-14"
+  }
+ ],
+ "history_fetched_at": "2026-09-26T17:31:20Z"
+}

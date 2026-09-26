@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602821",
+ "item_name": "펜미론캡슐(펜토산폴리설페이트나트륨)",
+ "entp_name": "(주)동구바이오제약",
+ "permit_date": "20260918",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M099554]펜토산폴리설페이트나트륨",
+ "main_item_ingr_eng": "Pentosan Polysulfate Sodium",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602821",
+ "revisions": [
+  {
+   "revision_id": "202602821-2dfa1ec6",
+   "content_sha256": "2dfa1ec61544b58521df5277e1a66b5ef3ebbfb08821aa19038893ce9af94904",
+   "ee_text": "간질성 방광염으로 인한 방광통, 배뇨곤란",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-09-26T17:31:58Z",
+   "last_observed_at": "2026-09-26T17:31:58Z",
+   "official_revision_date": "2026-09-18"
+  }
+ ],
+ "history_fetched_at": "2026-09-26T17:31:58Z"
+}
