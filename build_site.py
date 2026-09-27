@@ -148,11 +148,17 @@ def mfds_build_id(encoded: dict) -> str:
 
 
 def withdrawal_label(record: dict) -> str:
-    """'2024-04-25 취하' for products no longer marketed; empty while marketed."""
+    """'2024-04-25 허가 취하' for products whose permit ended; empty while it is valid.
+
+    The MFDS status is kept as written; '허가' says it is the permit that ended, so '유효기간만료' is not read
+    as the drug's shelf life.
+    """
     status = record.get("status") or ""
     if status in ("", "정상"):
         return ""
-    return f"{iso_date(str(record.get('cancel_date') or ''))} {status}".strip()
+    # 폐업 is the company closing, not the permit.
+    subject = "업체" if status == "폐업" else "허가"
+    return f"{iso_date(str(record.get('cancel_date') or ''))} {subject} {status}".strip()
 
 
 def write_mfds_shards(output, rows: list[list[object]], encoded: dict, build: str) -> None:

@@ -649,7 +649,10 @@ def test_korean_names_prefer_shared_prefix_and_originator(monkeypatch):
     # 만료정 is neither the originator nor marketed, so it is not listed.
     groups = [[{"identity": "k", "title": "Dapagliflozin 경구제 (품명: 다파엔정 등)"}]]
     names = build_site.criteria_names(groups, products)["k"]
-    assert names == {"ingredient": "다파글리플로진", "brands": [("포시가정", "2024-04-25 취하"), ("다파진정", "")]}
+    assert names == {"ingredient": "다파글리플로진", "brands": [("포시가정", "2024-04-25 허가 취하"), ("다파진정", "")]}
+    assert build_site.withdrawal_label({"status": "유효기간만료", "cancel_date": "20250522"}) == "2025-05-22 허가 유효기간만료"
+    assert build_site.withdrawal_label({"status": "폐업", "cancel_date": "20230927"}) == "2023-09-27 업체 폐업"
+    assert build_site.withdrawal_label({"status": "정상", "cancel_date": ""}) == ""
     assert build_site.name_aliases(names) == "다파글리플로진\n포시가정, 다파진정"
     assert build_site.base_ingredient("리오시구앗(미분화)") == "리오시구앗"
     assert build_site.base_ingredient("펙수프라잔염산염") == "펙수프라잔"

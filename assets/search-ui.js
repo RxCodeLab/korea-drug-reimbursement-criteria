@@ -134,7 +134,7 @@ function mfdsGroupNode(index,bucket){
   const group=el('details',undefined,'product'),summary=el('summary');
   summary.append(shortProductName(representative.item_name,representative.main_item_ingr));
   if(representative.withdrawn)summary.append(el('span',` (${representative.withdrawn})`,'count'));
-  if(bucket.length>1)summary.append(el('span',` 외 ${(bucket.length-1).toLocaleString()}개`+(withdrawn?` (취하·취소 ${withdrawn.toLocaleString()}개 포함)`:''),'count'));
+  if(bucket.length>1)summary.append(el('span',` 외 ${(bucket.length-1).toLocaleString()}개`+(withdrawn?` (허가 종료 ${withdrawn.toLocaleString()}개 포함)`:''),'count'));
   group.append(summary);
   const permit=representative.permit_date?`허가 ${dateLabel(representative.permit_date)}`:'허가일 미상';
   const meta=el('p',[`대표 품목: ${representative.item_name}`,representative.entp_name,permit,representative.withdrawn].filter(Boolean).join(' · '),'meta group-meta');
