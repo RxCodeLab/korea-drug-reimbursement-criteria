@@ -18,15 +18,21 @@ _REQUIRED_ROLES = {"annex", "notice"}
 _ROLES = {"annex", "notice", "qa", "transition", "reason", "comparison", "other"}
 _FORMAT_RANK = {"hwpx": 0, "hwp": 1, "pdf": 2}
 
-# 아래 정규식은 documents.normalize_punctuation을 거친 텍스트(ASCII 구분 기호)만 다룬다.
+# These patterns expect text already passed through documents.normalize_punctuation (ASCII punctuation).
 RE_CLASS_HEADER = re.compile(r"^\[(\d{3}|일반원칙)\]\s*(\S.*)$")
 RE_ITEM_NO = re.compile(r"^\[(\d{3}|일반원칙)\]$")
 RE_ACTION = re.compile(r"\[\s*(신\s*설|변\s*경|삭\s*제)\s*\]")
 RE_PUMMYEONG = re.compile(r"\(품명\s*:")
 RE_NUMBERED_CONDITION = re.compile(r"^\d+[.)]")
 RE_PAGE_NUMBER = re.compile(r"^-\s*\d+\s*-$")
-# 제목 줄 뒤에 공백 없이 이어지는 본문 첨 줄. 이 줄부터는 제목에 붙이지 않는다.
+# First body line that directly follows a title; it is not part of the title.
 RE_BODY_START = re.compile(r"^(허가사항|식품의약품안전처장|각\s*약제|동\s*약제|약값|아래와|[○※●□■-]\s*\S)")
+# Starts another annex (e.g. the TB pre-review procedure after the last criterion). Ends the current criterion.
+RE_ANNEX_START = re.compile(r"^\[별지\s*\d*\]$")
+# Running page header repeated at the top of annex pages.
+RE_RUNNING_HEADER = re.compile(r"^[ⅠⅡⅢⅣⅤ]\.\s*약제")
+# Shorter sections after an annex marker are leftover headers, not content.
+MIN_ANNEX_SECTION_CHARS = 200
 
 
 def _canonical(value: Any) -> bytes:
@@ -106,13 +112,13 @@ def _clean_body(lines: list[str], class_no: str, title: str) -> str:
 
 
 def _is_layout_artifact(line: str) -> bool:
-    """쪽 번호·표 머리글·빈 줄처럼 원문 내용이 아닌 줄."""
+    """Page numbers, table headers and blank lines."""
     compact = re.sub(r"\s+", "", line)
     return not compact or compact in {"구분", "세부인정기준및방법"} or RE_PAGE_NUMBER.fullmatch(line.strip()) is not None
 
 
 def _artifact_follows(lines: list[str], start: int, window: int = 4) -> bool:
-    """이어지는 몇 줄 안에 쪽 번호나 표 머리글이 있으면 True(쪽 나눔 직전이란 뜻)."""
+    """True when a page number or table header follows shortly, i.e. a page break is near."""
     return any(
         _is_layout_artifact(lines[k]) and lines[k].strip()
         for k in range(start, min(len(lines), start + window))
@@ -120,16 +126,31 @@ def _artifact_follows(lines: list[str], start: int, window: int = 4) -> bool:
 
 
 def split_blocks(text: str) -> list[dict[str, str]]:
+    return split_annex(text)[0]
+
+
+def split_annex(text: str) -> tuple[list[dict[str, str]], list[dict[str, str]]]:
+    """Criteria blocks, and the other annex sections that follow a '[별지 N]' marker (title, body)."""
     lines = normalize_punctuation(text).split("\n")
     blocks: list[dict[str, Any]] = []
+    sections: list[list[str]] = []
+    section: list[str] | None = None
     action = ""
     class_header = ""
-    # 한 쪽에 분류 헤더가 여럿 연달아 나오면 항목은 자기 분류번호의 헤더를 가진다.
+    # When several class headers appear on one page, each item keeps the header of its own class number.
     class_headers: dict[str, str] = {}
     current: dict[str, Any] | None = None
     i = 0
     while i < len(lines):
         line = lines[i].strip()
+        if RE_ANNEX_START.match(line):
+            if current:
+                blocks.append(current)
+                current = None
+            section = [line]
+            sections.append(section)
+            i += 1
+            continue
         match = RE_ACTION.search(line)
         if match and len(line) < 80:
             action = re.sub(r"\s", "", match.group(1))
@@ -139,11 +160,11 @@ def split_blocks(text: str) -> list[dict[str, str]]:
         if match and not RE_PUMMYEONG.search(line):
             class_header = line
             class_headers[match.group(1)] = line
-            # 분류 헤더 줄은 표 머리글이다. 그대로 두면 바로 앞 항목의 본문 끝에 다음 분류명이 붙는다.
+            # A class header line is a table header; left in, it would end up at the end of the previous item.
             i += 1
             continue
         item = RE_ITEM_NO.match(line)
-        # '[113] Cannabidiol (품명: …)'처럼 분류번호와 제목이 한 줄에 온 항목. 품명이 있으면 분류 헤더가 아니라 항목이다.
+        # '[113] Cannabidiol (품명: …)': class number and title on one line. With 품명 it is an item, not a header.
         inline_item = None if item or not match else (match if RE_PUMMYEONG.search(line) else None)
         if item or inline_item:
             number = (item or inline_item).group(1)
@@ -161,8 +182,9 @@ def split_blocks(text: str) -> list[dict[str, str]]:
                     continue
             if current:
                 blocks.append(current)
+            section = None
             title_lines: list[str] = [inline_item.group(2).strip()] if inline_item else []
-            # 쪽 나눔으로 본문 첫 줄이 제목보다 앞에 놀인 경우 그 줄들을 본문으로 돌린다.
+            # A page break can put the first body lines before the title; move them back into the body.
             displaced: list[str] = []
             j = i + 1
             title_closed = bool(title_lines) and title_lines[0].endswith(")")
@@ -203,13 +225,16 @@ def split_blocks(text: str) -> list[dict[str, str]]:
             if number == "일반원칙":
                 item_header = f"[일반원칙] {title}"
             else:
-                item_header = class_headers.get(number, class_header)
+                # Only a header with the item's own class number; another class's header would mislabel it.
+                item_header = class_headers.get(number, "")
             current = {"action": action, "class_no": number, "class_header": item_header,
                        "title": title, "body_lines": displaced}
             i = j
             continue
         if current is not None:
             current["body_lines"].append(lines[i])
+        elif section is not None:
+            section.append(lines[i])
         i += 1
     if current:
         blocks.append(current)
@@ -223,13 +248,23 @@ def split_blocks(text: str) -> list[dict[str, str]]:
             continue
         result.append({"action": block["action"], "class_no": block["class_no"],
                        "class_header": block["class_header"], "title": title, "body": body})
-    return result
+    return result, [section for section in map(_annex_section, sections) if section]
+
+
+def _annex_section(lines: list[str]) -> dict[str, str] | None:
+    marker, rest = lines[0], [line for line in lines[1:] if not RE_RUNNING_HEADER.match(line.strip())]
+    body = "\n".join(line.rstrip() for line in rest).strip()
+    body = re.sub(r"\n{3,}", "\n\n", body)
+    if len(body) < MIN_ANNEX_SECTION_CHARS:
+        return None
+    heading = next((line.strip() for line in rest if line.strip() and not line.strip().startswith("[")), "")
+    return {"title": f"{marker} {heading}".strip(), "body": body}
 
 
 def norm_title(class_no: str, title: str) -> str:
-    """항목 식별자. 품명 앞머리를 공백·가운뎃점 없이 소문자로 만든다.
+    """Item identity: the title before (품명, lowercased without spaces or middle dots.
 
-    NFKC로 Ⅷ→VIII, ㎍→μg 같은 호환 문자를 풀어 같은 약제가 표기만 다른 고시에서 두 이력으로 갈라지지 않게 한다.
+    NFKC folds compatibility characters (Ⅷ→VIII, ㎍→μg) so spelling variants across notices stay one history.
     """
     head = re.split(r"\(품명", title)[0]
     return f"[{class_no}]" + re.sub(r"[\s·ㆍ]+", "", unicodedata.normalize("NFKC", head)).lower()
@@ -279,7 +314,7 @@ def _parse_version(version_dir: Path, meta: dict[str, Any]) -> dict[str, Any]:
                 raise ExtractionError("문서에서 텍스트를 추출하지 못했습니다")
             record["parser_status"] = "complete"
             if attachment["role"] == "annex":
-                parsed = split_blocks(text)
+                parsed, sections = split_annex(text)
                 if not parsed:
                     raise ExtractionError("별지에서 유효한 기준 블록을 찾지 못했습니다")
                 for block in parsed:
@@ -289,6 +324,12 @@ def _parse_version(version_dir: Path, meta: dict[str, Any]) -> dict[str, Any]:
                     seen_blocks.add(identity)
                     entries.append({**block, "attachment_ordinal": attachment["ordinal"],
                                     "attachment_sha256": attachment["sha256"], "block_identity": identity[1]})
+                # Non-criteria annexes are kept as documents, like notices and Q&A files.
+                for number, section in enumerate(sections, 1):
+                    entries.append({"action": "annex", "class_no": "", "class_header": "",
+                                    "title": section["title"], "body": section["body"],
+                                    "attachment_ordinal": attachment["ordinal"], "attachment_sha256": attachment["sha256"],
+                                    "block_identity": f"__annex__{attachment['sha256']}__{number}"})
             else:
                 identity = f"__{attachment['role']}__{attachment['sha256']}"
                 entries.append({"action": attachment["role"], "class_no": "", "class_header": "",

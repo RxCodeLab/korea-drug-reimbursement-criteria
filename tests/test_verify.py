@@ -64,6 +64,18 @@ def test_boundary_check_rejects_foreign_item_header_inside_body() -> None:
     assert len(errors) == 1 and "[222]" in errors[0]
 
 
+def test_boundary_check_rejects_annex_inside_body() -> None:
+    body = "사전 승인을 받은 경우에 한하여 인정함.\n[별지 3]\n다제내성결핵 치료 신약 사전심사 절차"
+    errors = verify.entry_boundary_errors(_document([_entry("Ravulizumab 주사제 (품명: 울토미리스주)", body)]))
+    assert len(errors) == 1 and "[별지 3]" in errors[0]
+
+
+def test_boundary_check_rejects_class_header_of_another_class() -> None:
+    entry = {**_entry("Daptomycin 주사제 (품명: 펜토신주)", "본문"), "class_no": "611", "class_header": "[218] 동맥경화용제"}
+    errors = verify.entry_boundary_errors(_document([entry]))
+    assert len(errors) == 1 and "[611]" in errors[0]
+
+
 def test_boundary_check_rejects_required_attachment_without_entries() -> None:
     attachments = [_attachment(1, "annex"), _attachment(2, "notice"), _attachment(3, "qa")]
     errors = verify.entry_boundary_errors(_document([_entry("A(품명: 가)", "본문", ordinal=1)], attachments))

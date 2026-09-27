@@ -13,9 +13,11 @@ from common import DATA, DB_PATH, RAW, has_credential_query
 
 NORMALIZED = DATA / "normalized"
 MFDS_ITEMS = DATA / "mfds" / "items"
-# 제목이 이보다 길면 본문이 제목으로 샐킨 것이다. 실제 제목은 복합제·품명 나열을 포함해도 200자를 넘지 않는다.
+# Longer titles mean body text leaked into the title; real titles, product lists included, stay under 200 chars.
 MAX_TITLE_CHARS = 200
 RE_ITEM_HEADER_LINE = re.compile(r"^\[(\d{3}|일반원칙)\]$")
+# Same marker as ingest.RE_ANNEX_START: a new annex, which must never be inside a criterion body.
+RE_ANNEX_START = re.compile(r"^\[별지\s*\d*\]$")
 REQUIRED_ROLES = {"annex", "notice"}
 
 
@@ -30,17 +32,20 @@ def digest(path: Path) -> tuple[int, str]:
 
 
 def entry_boundary_errors(document: dict) -> list[str]:
-    """정규화 문서 한 건의 항목 경계 오류. 제목에 본문이 들어가거나 본문에 다른 항목이 합쳐진 경우를 걸러낸다."""
+    """Boundary errors in one normalized document: body text in a title, or another item or annex in a body."""
     errors: list[str] = []
     entries = document["entries"]
     for entry in entries:
         title = entry["title"]
         if not entry["class_no"]:
             continue
+        header_no = re.match(r"^\[(\d{3})\]", entry["class_header"])
+        if header_no and header_no.group(1) != entry["class_no"]:
+            errors.append(f"항목 분류번호 [{entry['class_no']}]와 분류 헤더 {entry['class_header'][:30]}가 다릅니다: {title[:60]}")
         if len(title) > MAX_TITLE_CHARS:
             errors.append(f"항목 제목이 {MAX_TITLE_CHARS}자를 넘습니다(본문이 제목에 섮임): {title[:60]}…")
         for line in entry["body"].split("\n"):
-            if RE_ITEM_HEADER_LINE.fullmatch(line.strip()):
+            if RE_ITEM_HEADER_LINE.fullmatch(line.strip()) or RE_ANNEX_START.fullmatch(line.strip()):
                 errors.append(f"항목 본문에 다른 항목 헤더 {line.strip()}이 들어 있습니다: {title[:60]}")
                 break
     entry_counts: dict[int, int] = {}
@@ -164,8 +169,7 @@ def validate_database(normalized: dict[str, dict]) -> list[str]:
     errors: list[str] = []
     if len(expected_keys) != expected_entries:
         errors.append("정규화 항목 식별자(일련번호, 첨부 순번, block_identity)가 중복됩니다")
-    # FTS5 integrity-check는 INSERT 구문이라 쓰기 가능한 연결이 필요하다. 게시 직전 관문이 검사 대상을 쓸 수 있어서는
-    # 안 되므로 임시 사본을 검사하고 원본은 손대지 않는다.
+    # FTS5 integrity-check is an INSERT and needs a writable connection; check a temporary copy, never the original.
     try:
         with tempfile.TemporaryDirectory(prefix="verify-db-") as scratch:
             copy = Path(scratch) / DB_PATH.name
@@ -202,7 +206,7 @@ def _check_database_copy(
                 f"SQLite 항목 {len(stored_keys)}개가 정규화 항목 {expected_entries}개와 일치하지 않습니다"
                 f" (누락 예={missing} 추가 예={extra})"
             )
-        # 외부 content FTS는 count(*)가 원본 테이블을 읽으므로 색인 자체를 검사해야 한다. 실패하면 예외가 난다.
+        # count(*) on an external-content FTS reads the source table, so check the index itself (raises on failure).
         con.execute("INSERT INTO fts(fts) VALUES('integrity-check')")
         for sequence, document in normalized.items():
             for entry in document["entries"][:1]:
@@ -220,7 +224,7 @@ def _check_database_copy(
 
 
 def _fts_phrase(text: str) -> str:
-    """제목의 첫 단어를 FTS5 구문 인용 토큰으로 만든다."""
+    """The title's first word as a quoted FTS5 phrase token."""
     words = [w for w in re.split(r"[^0-9A-Za-z가-힣]+", text) if w]
     return '"' + (words[0] if words else text).replace('"', '""') + '"'
 

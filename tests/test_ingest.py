@@ -615,3 +615,58 @@ def test_split_blocks_accepts_class_number_and_title_on_one_line() -> None:
     assert first["body"] == "식품의약품안전처장이 인정한 범위 내에서 인정함."
     assert second["title"] == "Fremanezumab 주사제 (품명: 아조비오토인젝터주, 아조비프리필드시린지주)"
     assert second["body"] == "허가사항 범위 내에서 인정함."
+
+
+def test_split_annex_ends_last_criterion_at_next_annex() -> None:
+    procedure = "□ 심사 대상\n ○ 다제내성결핵을 진료한 주치의가 신약 사용 전 심사를 요청하는 경우\n" * 5
+    text = "\n".join([
+        "[639]",
+        "Ravulizumab 주사제 (품명: 울토미리스주)",
+        "1. 사전 승인을 받은 경우에 한하여 인정함.",
+        "[별지 3]",
+        "Ⅱ. 약제 2. 약제별 세부인정 기준 및 방법 [기타]",
+        "[붙임]",
+        "다제내성결핵 치료 신약 사전심사 절차 및 방법",
+        procedure,
+        "[별지 2]",
+        "Ⅱ. 약제 2. 약제별 세부인정 기준 및 방법",
+        "[640]",
+        "Next 주사제 (품명: 다음주)",
+        "허가사항 범위 내에서 인정함.",
+    ])
+
+    blocks, sections = ingest.split_annex(text)
+
+    assert [block["title"] for block in blocks] == ["Ravulizumab 주사제 (품명: 울토미리스주)", "Next 주사제 (품명: 다음주)"]
+    assert blocks[0]["body"] == "1. 사전 승인을 받은 경우에 한하여 인정함."
+    # The procedure becomes its own section; the header-only '[별지 2]' leftover is dropped.
+    (section,) = sections
+    assert section["title"] == "[별지 3] 다제내성결핵 치료 신약 사전심사 절차 및 방법"
+    assert section["body"].startswith("[붙임]\n다제내성결핵 치료 신약 사전심사 절차 및 방법\n□ 심사 대상")
+    assert "Ⅱ. 약제" not in section["body"]
+    assert ingest.split_blocks(text) == blocks
+
+
+def test_split_annex_keeps_action_and_class_header_after_next_annex_marker() -> None:
+    # Real layout: a new annex repeats the running header with its action tag and the class header.
+    text = "\n".join([
+        "[별지 1]",
+        "Ⅱ. 약제 2. 약제별 세부인정 기준 및 방법 [신설]",
+        "[232] 소화성궤양용제",
+        "[232]",
+        "Fexuprazan 경구제 (품명: 펙수클루정)",
+        "허가사항 범위 내에서 투여 시 요양급여를 인정함.",
+        "[별지 2]",
+        "Ⅱ. 약제 2. 약제별 세부인정 기준 및 방법 [변경]",
+        "[119] 기타의 중추신경용약",
+        "[119]",
+        "Modafinil 경구제 (품명: 프로비질정)",
+        "허가사항 범위 내에서 인정함.",
+    ])
+
+    blocks, sections = ingest.split_annex(text)
+
+    assert [(block["action"], block["class_header"]) for block in blocks] == [
+        ("신설", "[232] 소화성궤양용제"), ("변경", "[119] 기타의 중추신경용약")]
+    assert blocks[0]["body"] == "허가사항 범위 내에서 투여 시 요양급여를 인정함."
+    assert sections == []

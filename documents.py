@@ -9,7 +9,7 @@ from pathlib import Path
 # 환경 문제(pypdf 미설치)는 문서 오류로 위장되지 않고 import 시점에 그대로 터져야 한다.
 from pypdf import PdfReader
 
-PARSER_VERSION = "documents-16-rhwp-0.8.4"
+PARSER_VERSION = "documents-17-rhwp-0.8.4"
 _MAX_RHWP_OUTPUT = 128 * 1024 * 1024
 _MAX_STDERR = 8 * 1024
 _HEADER = re.compile(r"^\[(?:\d{3}|일반원칙)\](?:\s+\S.*)?$")
