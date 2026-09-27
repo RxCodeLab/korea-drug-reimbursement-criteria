@@ -1,12 +1,12 @@
 # 약제 급여기준 변경 이력 검색
 
-보건복지부 고시 「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」의 건강보험 약제 급여기준을 성분명이나 제품명으로 찾고 시행일별로 무엇이 신설·변경·삭제되었는지 확인하는 검색 서비스입니다. 식약처 허가 품목의 효능·효과(허가 적응증)도 함께 볼 수 있습니다.
+건강보험 약제 급여기준(보건복지부 고시 「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」)을 성분명이나 제품명으로 찾고, 시행일별로 무엇이 신설·변경·삭제되었는지 확인하는 검색 서비스입니다. 약제별 보험 인정기준과 허가사항 초과 사용 시 급여 기준, 약값 전액 본인부담 기준을 개정 이력과 함께 볼 수 있습니다. 식약처 허가 품목의 효능·효과(허가 적응증)와 그 변경 이력도 함께 조회됩니다.
 
 **[검색 서비스 열기](https://rxcodelab.github.io/korea-drug-reimbursement-criteria/)**
 
 > 검색 결과는 원문을 가공한 참고자료입니다. 실제 급여 적용이나 청구를 판단할 때는 최신 고시 원문을 확인하세요.
 
-*English:* A search tool for the reimbursement criteria of drugs under Korea's National Health Insurance (MOHW notice on drug-specific coverage criteria). It shows how each criterion changed over time, with effective dates and notice numbers, alongside the MFDS-approved indications of matching products. Data is collected six days a week from official open APIs and is also published as a SQLite snapshot.
+*English:* Search Korea's National Health Insurance drug reimbursement criteria (the Ministry of Health and Welfare notice on drug-specific coverage criteria, also referred to as HIRA drug reimbursement standards) by ingredient or brand name. Each criterion shows its full revision history with effective dates and notice numbers, alongside the MFDS (Ministry of Food and Drug Safety) approved indications of matching products and how those indications changed. Data is collected six days a week from official open APIs and is also published as a SQLite snapshot.
 
 ## 검색할 수 있는 내용
 

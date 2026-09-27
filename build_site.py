@@ -411,7 +411,7 @@ BASE_CSS = (
 
 HTML = r'''<!doctype html>
 <html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>약제 급여기준 변경 이력 검색</title>
+<title>약제 급여기준 변경 이력 검색 - 건강보험 약제 급여기준·식약처 허가사항 조회</title>
 __HEAD_META__
 <style>
 __BASE_CSS__
@@ -789,8 +789,9 @@ def intro_html(latest_effective: str) -> str:
             f'<p class="examples">예시 {buttons}</p></section>')
 
 
-INDEX_DESCRIPTION = ("보건복지부 약제 급여기준의 신설·변경·삭제 이력과 시행일·고시번호를 성분명(한글·영문)과 "
-                     "제품명으로 검색합니다. 식약처 허가 적응증도 함께 보여줍니다.")
+INDEX_DESCRIPTION = ("건강보험 약제 급여기준(보건복지부 고시 「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」)의 "
+                     "신설·변경·삭제 이력을 성분명(한글·영문), 제품명, 시행일, 고시번호로 조회합니다. "
+                     "식약처 허가 효능·효과(적응증)와 그 변경 이력도 함께 보여 줍니다.")
 
 
 def index_head(latest_notice: str) -> str:
