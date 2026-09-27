@@ -1,3 +1,4 @@
+import collections
 import json
 import re
 
@@ -111,17 +112,20 @@ def test_static_index_is_deterministic_and_contains_provenance(tmp_path, monkeyp
     assert first == second
     row = json.loads(first)[0]
     assert row["sequence"] == "seq-1"
-    assert row["source_sha256"] == "a" * 64
     assert "다파글리플로진" in row["body"]
+    # Only fields the page reads; hashes stay in the SQLite snapshot.
+    assert set(row) <= set(build_site.CRITERIA_INDEX_FIELDS) and "source_sha256" not in row
     page = (public / "index.html").read_text(encoding="utf-8")
     assert 'const actionLabels={"notice":"고시문"' in page
     assert '"notice":"고시문"' in page and '"comparison":"변경대비표"' in page
     assert 'const roleRanks={"notice":0' in page
     assert "관련 고시문 및 첨부자료" in page
-    assert "효능·효과가 같은 품목은 함께 표시합니다." in page
+    assert "효능·효과가 같은 품목은 함께 묶었습니다." in page
     assert "source_sha256.slice" not in page
     assert "const list=el('ul')" not in page
-    assert "개 품목 (${representative.item_name}" in page
+    assert "summary.append(representative.item_name)" in page
+    # Example searches, with the newest effective date from the data.
+    assert 'data-q="다파글리플로진"' in page and 'data-q="2025-01-01"' in page
     # 저장 순서가 현재 개정 우선이므로 클라이언트는 재정렬하지 않는다.
     assert "const revisions=doc.revisions||[];" in page
     assert ".slice().sort" not in page
@@ -178,14 +182,14 @@ def test_build_index_adds_role_and_ordinal(tmp_path, monkeypatch):
     monkeypatch.setattr(build_site, "PUBLIC", public)
 
     build_site.main()
-    rows = json.loads((public / "search-index.json").read_text(encoding="utf-8"))
-    by_key = {row["key"]: row for row in rows}
-    criterion = by_key["[219]dapagliflozin경구제"]
-    assert criterion["role"] == ""
-    assert criterion["ordinal"] == 1
-    notice = by_key["__notice__" + "b" * 64]
+    criteria = json.loads((public / "search-index.json").read_text(encoding="utf-8"))
+    documents = json.loads((public / "documents-index.json").read_text(encoding="utf-8"))
+    assert [row["key"] for row in criteria] == ["[219]dapagliflozin경구제"]
+    assert "role" not in criteria[0] and "ordinal" not in criteria[0]
+    (notice,) = documents
     assert notice["role"] == "notice"
     assert notice["ordinal"] == 2
+    assert set(notice) <= set(build_site.DOCUMENT_INDEX_FIELDS)
 
 
 def test_has_clean_current_text_rejects_only_stale_markup_leftovers():
@@ -221,34 +225,31 @@ def test_search_script_inlines_core_before_ui_with_no_placeholders_left():
 
 
 def test_encode_mfds_index_round_trips_every_row():
-    """사전 인코딩은 되돌리면 원래 행과 정확히 같아야 한다 — 브라우저가 이 규칙으로 복원한다."""
-    fields = list(build_site.MFDS_INDEX_FIELDS)
+    """Decoding the columns gives back every row; the browser relies on the same rules."""
     rows = [
-        ["1", "가정", "제약갑", "성분A", "IngredientA", "20200101", 2, "a" * 12],
-        ["2", "나정", "제약갑", "성분A", "IngredientA", "20200101", 1, "b" * 12],
-        ["3", "다정", "제약을", "성분B", "", "20210202", 3, "a" * 12],
+        ["1", "가정", "제약갑", "성분A", "IngredientA", "20200101", 2, "a" * 64, ""],
+        ["2", "나정", "제약갑", "성분A", "IngredientA", "20200101", 1, "b" * 64, "2024-04-25 취하"],
+        ["3", "다정", "제약을", "성분B", "", "20210202", 3, "a" * 64, ""],
     ]
     written = build_site.encode_mfds_index(rows)
 
-    restored = []
-    for packed in written["rows"]:
-        row = list(packed)
-        for field, table in written["dicts"].items():
-            row[fields.index(field)] = table[row[fields.index(field)]]
-        restored.append(row)
-    assert restored == rows
-    # 반복 값은 사전에 한 번만 담긴다.
-    assert written["dicts"]["entp_name"] == ["제약갑", "제약을"]
-    assert written["dicts"]["main_item_ingr_eng"] == ["IngredientA", ""]
-    # 사전으로 빠지지 않는 열은 값이 그대로 남는다.
-    assert [row[fields.index("item_name")] for row in written["rows"]] == ["가정", "나정", "다정"]
+    dicts = written["dicts"]
+    fields = build_site.MFDS_INDEX_FIELDS
+    decode = lambda field, r: dicts[field][written[field][r]] if field in dicts else written[field][r]
+    restored = [[str(written["item_seq"][r]), *(decode(field, r) for field in fields[1:7]), decode("withdrawn", r)]
+                for r in range(len(rows))]
+    assert restored == [row[:7] + row[8:] for row in rows]
+    # Same indication hash, same group id; hashes themselves are not shipped.
+    assert written["content_group"] == [0, 1, 0]
+    assert written["item_seq"] == [1, 2, 3]
+    assert dicts["entp_name"] == ["제약갑", "제약을"]
+    assert dicts["withdrawn"] == ["", "2024-04-25 취하"]
 
 
 def test_encode_mfds_index_handles_empty_rows():
     written = build_site.encode_mfds_index([])
-    assert written == {"fields": list(build_site.MFDS_INDEX_FIELDS),
-                       "dicts": {field: [] for field in build_site.MFDS_INDEX_DICT_FIELDS},
-                       "rows": []}
+    assert written["item_name"] == [] and written["content_group"] == []
+    assert written["dicts"] == {field: [] for field in build_site.MFDS_INDEX_DICT_FIELDS}
 
 
 def test_build_mfds_public_writes_search_and_detail_indexes(tmp_path, monkeypatch):
@@ -306,25 +307,35 @@ def test_build_mfds_public_writes_search_and_detail_indexes(tmp_path, monkeypatc
     monkeypatch.setattr(build_site, "MFDS_ITEMS", source)
     monkeypatch.setattr(build_site, "PUBLIC", public)
 
-    index = build_site.build_mfds_public()
+    index, build = build_site.build_mfds_public()
 
     assert index == [
-        ["202600002", "무관 품목", "시험제약", "Dapagliflozin", "Dapagliflozin", "20260101", 1, "b" * 12],
-        ["202600001", "시험약", "시험제약", "Dapagliflozin", "Dapagliflozin", "20260101", 1, "a" * 12],
+        ["202600002", "무관 품목", "시험제약", "Dapagliflozin", "Dapagliflozin", "20260101", 1, "b" * 64, ""],
+        ["202600001", "시험약", "시험제약", "Dapagliflozin", "Dapagliflozin", "20260101", 1, "a" * 64, ""],
     ]
     written = json.loads((public / "mfds" / "search-index.json").read_text(encoding="utf-8"))
-    assert written == build_site.encode_mfds_index(index)
-    assert written["fields"] == list(build_site.MFDS_INDEX_FIELDS)
-    assert "status" not in written["fields"] and "last_observed_at" not in written["fields"] and "source_url" not in written["fields"]
-    # 반복되는 열은 사전으로 빠지고 행에는 정수 인덱스만 남는다. 두 행이 같은 제조사·성분이라 사전은 1개씩이다.
-    assert written["dicts"]["entp_name"] == ["시험제약"]
-    assert written["dicts"]["content_key"] == ["b" * 12, "a" * 12]
-    entp_at = list(build_site.MFDS_INDEX_FIELDS).index("entp_name")
-    assert [row[entp_at] for row in written["rows"]] == [0, 0]
+    encoded = build_site.encode_mfds_index(index)
+    assert written == {**encoded, "build": build} and build == build_site.mfds_build_id(encoded)
+    assert set(written) == {"item_seq", "item_name", "revision_count", "content_group", "dicts", "build",
+                            *build_site.MFDS_INDEX_DICT_FIELDS}
+    # Both rows share manufacturer and ingredient, so each dictionary has one entry.
+    assert written["dicts"]["entp_name"] == ["시험제약"] and written["entp_name"] == [0, 0]
+    assert written["content_group"] == [0, 1]
     assert json.loads((public / "mfds" / "items" / "202600001.json").read_text(encoding="utf-8")) == item
     assert json.loads((public / "mfds" / "items" / "202600002.json").read_text(encoding="utf-8")) == unrematched_item
     # 옛 파싱 버그로 본문이 깨진 레코드는 재수집되기 전까지 색인과 상세 어느 쪽에도 실리지 않는다.
     assert not (public / "mfds" / "items" / "202600003.json").exists()
+
+
+def test_mfds_build_id_changes_when_shard_layout_changes(monkeypatch):
+    encoded = build_site.encode_mfds_index([
+        ["1", "약", "제약", "성분", "Ingredient", "20200101", 1, "a" * 64, ""],
+    ])
+    original = build_site.mfds_build_id(encoded)
+    monkeypatch.setattr(build_site, "MFDS_BLOCK_ROWS", build_site.MFDS_BLOCK_ROWS + 1)
+    assert build_site.mfds_build_id(encoded) != original
+    monkeypatch.setattr(build_site, "MFDS_GRAM_BUCKETS", build_site.MFDS_GRAM_BUCKETS + 1)
+    assert build_site.mfds_build_id(encoded) != original
 
 
 def test_criterion_groups_and_items_are_newest_first():
@@ -411,29 +422,34 @@ def test_static_page_has_footer_and_no_disclaimer(tmp_path, monkeypatch):
     assert "최근 갱신: 2024-12-31" in page
     assert "new URLSearchParams(location.search).get('q')" in page
     assert "https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=" in page
-    # 품명 검색은 정확→전방→부분문자열→성분 계층이며 부분수열 매칭은 없어야 한다
-    assert "const mfdsTier=" in page
+    assert "const mfdsTier=" not in page  # test-only reference, kept out of the page
     assert "fuzzyContains" not in page
     # 정확 일치는 순위만 올린다. 다른 검색어의 결과를 지우면 안내한 OR 검색 계약과 어긋난다.
     assert "matches.filter(match=>match[0]===0)" not in page
     assert "if(tier<4)matches.push([tier,r])" in page and "matches.sort((a,b)=>a[0]-b[0])" in page
-    # 허가 색인은 첫 검색어 입력 때 한 번만 받고, 검색 키는 로드 시 1회 계산하며, 입력은 debounce 한다
-    assert "function ensureMfds()" in page and "fetch('mfds/search-index.json')" in page.split("function ensureMfds()")[1]
-    assert "fetch('mfds/search-index.json')" not in page.split("function ensureMfds()")[0]
-    assert "rows.map(searchableCriterion)" in page and "record.hay.includes(term)" in page
+    # Product data loads on demand; search keys are computed once at load; input is debounced.
+    # The full product index is fetched only by fullIndex(); searches use fragment files first.
+    assert "mfds/search-index.json" in page.split("function fullIndex()")[1].split("function productsFor")[0]
+    assert page.count("mfds/search-index.json") == 1
+    # Every product file is checked against the page's build.
+    assert 'const mfdsBuild="' in page and "file.build!==mfdsBuild" in page
+    # Documents load last, and never while the MFDS index is downloading.
+    assert "data.mfds.state==='loading')return;" in page.split("function ensureDocuments()")[1]
+    assert "raw.map(searchableCriterion)" in page and "record.hay.includes(term)" in page
     assert "setTimeout(render,150)" in page
-    # 데이터셋별 실패를 구분해 알린다
-    assert "급여기준 색인을 불러오지 못했습니다" in page and "허가 품목 색인을 불러오지 못했습니다" in page
+    # Each dataset reports its own failure.
+    assert "급여기준 색인을 불러오지 못했습니다" in page and "허가 품목을 불러오지 못했습니다" in page and "사이트가 갱신되었습니다" in page
     # 상세 페이지 URL은 최신 제목이 아니라 항목 식별자에서 나온다
     assert 'href="criteria/219-dapagliflozin%EA%B2%BD%EA%B5%AC%EC%A0%9C.html"' in page
-    # 묶음 대표는 계층이 가장 좋은 품목이어야 한다
-    assert "products.reduce((best,item)=>item.tier<best.tier?item:best" in page
-    # 로드 시에는 품목 객체를 만들지 않는다 — 그리는 그룹만 materializeMfds로 실체화한다
+    # A group's representative is its best-tier product.
+    assert "if(match[0]<best[0])best=match;" in page
+    # No product objects at load time; only drawn groups call materializeMfds.
     assert "function buildMfdsIndex(" in page and "function materializeMfds(" in page
-    assert "bucket.map(match=>materializeMfds(index,match[1],match[0]))" in page
+    # Only the representative and history products of a drawn group become objects.
+    assert "materializeMfds(index,best[1],best[0])" in page and "bucket.map(match=>materializeMfds" not in page
     # SEO: canonical·JSON-LD·크롤러 파일·정적 약제 목록
     assert '<link rel="canonical" href="https://rxcodelab.github.io/korea-drug-reimbursement-criteria/">' in page
-    assert 'application/ld+json' in page and '"SearchAction"' in page
+    assert 'application/ld+json' in page and '"Dataset"' in page and '"SearchAction"' not in page
     assert "수록된 약제 급여기준" in page
     assert "Dapagliflozin 경구제" in page  # JS 없이 크롤러가 읽는 정적 목록
     robots = (public / "robots.txt").read_text(encoding="utf-8")
@@ -450,6 +466,8 @@ def test_static_page_has_footer_and_no_disclaimer(tmp_path, monkeypatch):
     assert 'rel="canonical"' in detail
     assert pages[0].name == "219-dapagliflozin경구제.html"
     assert sitemap.count("<loc>") == 2
+    assert "<lastmod>2024-12-31</lastmod>" in sitemap
+    assert '"BreadcrumbList"' in detail and '"dateModified":"2024-12-31"' in detail
     assert "history.replaceState" in page
     # 시행일(2026-04-01·20260401)과 고시번호도 검색 대상에 포함된다
     assert "dateLabel(record.effective_date)+'\\n'+record.effective_date" in page
@@ -512,9 +530,10 @@ def test_cli_query_follows_web_substring_contract(tmp_path, monkeypatch):
 def test_cli_haystack_matches_browser_search_key():
     """파이썬 haystack과 브라우저 searchableCriterion은 같은 필드를 같은 순서·구분자로 잇는다."""
     page = build_site.render_index_page([], "")
-    assert ("hay:(record.title+'\\n'+record.body+'\\n'+record.class_header+'\\n'"
-            "+dateLabel(record.effective_date)+'\\n'+record.effective_date+'\\n고시 제'+record.notice_number+'호')"
-            ".toLocaleLowerCase('ko')") in page
+    # The browser also appends Korean name aliases, which the CLI database does not have.
+    assert ("hay:(record.title+'\\n'+record.body+'\\n'+(record.class_header||'')+'\\n'"
+            "+dateLabel(record.effective_date)+'\\n'+record.effective_date+'\\n고시 제'+record.notice_number+'호'"
+            "+(record.aliases?'\\n'+record.aliases:'')).toLowerCase()") in page
     record = criterion_record("a", "20260401", "2026-92", title="Dapagliflozin 경구제", class_header="[219] 기타",
                               notice_number="2026-92")
     assert search.haystack(record) == "\n".join([
@@ -607,3 +626,165 @@ def test_colliding_slugs_get_order_independent_suffixes():
     assert forward == backward
     assert forward[c] != forward[d] and all(slug.startswith("100-drug-a-") for slug in forward.values())
     assert build_site.page_slugs([c]) == {c: "100-drug-a"}
+
+
+def test_korean_names_prefer_shared_prefix_and_originator(monkeypatch):
+    assert build_site.ingredient_parts("[M1]메글루민|[M1]메글루민|[M2]도타") == ["메글루민", "도타"]
+    assert build_site.brand_name("포시가정10밀리그램(다파글리플로진프로판디올수화물)") == "포시가정"
+    labels = collections.Counter({"다파글리플로진프로판디올수화물": 5, "다파글리플로진": 1, "다파글리플로진 + 메트포르민": 3})
+    assert build_site.korean_ingredient(labels) == "다파글리플로진"
+    assert build_site.korean_ingredient(collections.Counter({"암피실린나트륨 + 설박탐나트륨": 2})) == "암피실린나트륨 + 설박탐나트륨"
+
+    product = lambda seq, name, ingr, permit, status="정상", cancel="": {
+        "item_seq": seq, "item_name": name, "main_item_ingr": ingr, "main_item_ingr_eng": "Dapagliflozin",
+        "permit_date": permit, "status": status, "cancel_date": cancel}
+    products = [
+        product("3", "다파진정10밀리그램", "[M1]다파글리플로진프로판디올수화물", "20230101"),
+        product("1", "포시가정10밀리그램(다파글리플로진프로판디올수화물)", "[M1]다파글리플로진프로판디올수화물", "20131126", "취하", "20240425"),
+        product("2", "포시가정5밀리그램(다파글리플로진프로판디올수화물)", "[M1]다파글리플로진프로판디올수화물", "20131126", "취하", "20240425"),
+        product("4", "무관정", "[M9]무관", "20200101"),
+        product("7", "만료정10밀리그램", "[M1]다파글리플로진프로판디올수화물", "20200101", "유효기간만료", "20250101"),
+    ]
+    products[3]["main_item_ingr_eng"] = "Unrelated"
+    # 만료정 is neither the originator nor marketed, so it is not listed.
+    groups = [[{"identity": "k", "title": "Dapagliflozin 경구제 (품명: 다파엔정 등)"}]]
+    names = build_site.criteria_names(groups, products)["k"]
+    assert names == {"ingredient": "다파글리플로진", "brands": [("포시가정", "2024-04-25 취하"), ("다파진정", "")]}
+    assert build_site.name_aliases(names) == "다파글리플로진 포시가정 다파진정"
+    assert build_site.base_ingredient("리오시구앗(미분화)") == "리오시구앗"
+    assert build_site.base_ingredient("펙수프라잔염산염") == "펙수프라잔"
+    assert build_site.base_ingredient("발프로산") == "발프로산"
+    assert build_site.base_ingredient("미분화부데소니드") == "부데소니드"
+    assert build_site.base_ingredient("오데빅시바트1.5수화물") == "오데빅시바트"
+    # The notice's own title comes first; the 식약처 name follows in parentheses.
+    assert build_site.page_heading("Dapagliflozin 경구제", {**names, "ingredient": "다파글리플로진"}) == (
+        "Dapagliflozin 경구제 급여기준 변경 이력 (다파글리플로진)")
+    # Long or missing Korean names are left out.
+    assert build_site.page_heading("Agalsidase β 35mg 주사제", {**names, "ingredient": "아갈시다제베타(재조합인간알파갈락토시다제A)"}) == (
+        "Agalsidase β 35mg 주사제 급여기준 변경 이력")
+    assert build_site.page_heading("Dapagliflozin 경구제", None) == "Dapagliflozin 경구제 급여기준 변경 이력"
+    # Injection criteria list injection products only.
+    injection = [{**products[0], "item_seq": "5", "item_name": "다파주"}, {**products[0], "item_seq": "6", "item_name": "다파정"}]
+    only = build_site.criteria_names([[{"identity": "i", "title": "Dapagliflozin 주사제"}]], injection)["i"]
+    assert only["brands"] == [("다파주", "")]
+
+
+def test_criteria_page_links_general_principle_and_siblings(tmp_path, monkeypatch):
+    public = tmp_path / "public"
+    monkeypatch.setattr(build_site, "PUBLIC", public)
+    document = normalized_document()
+    drug, notice = document["entries"]
+    drug.update(class_no="396", class_header="[396] 당뇨병용제", block_identity="[396]dapagliflozin경구제",
+                body="[일반원칙] 당뇨병용제 “세부사항” 범위 내")
+    sibling = {**drug, "title": "Empagliflozin 경구제", "block_identity": "[396]empagliflozin경구제", "body": "본문"}
+    general = {**drug, "class_no": "일반원칙", "class_header": "[일반원칙] 당뇨병용제", "title": "당뇨병용제",
+               "block_identity": "[일반원칙]당뇨병용제", "body": "일반원칙 본문"}
+    document["entries"] = [drug, sibling, general, notice]
+
+    catalog = build_site.build_criteria_pages(build_site.criteria_groups([document]), "")
+
+    page = (public / "criteria" / "396-dapagliflozin경구제.html").read_text(encoding="utf-8")
+    assert '함께 적용되는 일반원칙: <a href="%EC%9D%BC%EB%B0%98%EC%9B%90%EC%B9%99-%EB%8B%B9%EB%87%A8%EB%B3%91%EC%9A%A9%EC%A0%9C.html">당뇨병용제</a>' in page
+    assert "같은 분류의 급여기준" in page and "Empagliflozin 경구제" in page
+    listing = build_site.static_drug_list(catalog)
+    # General principles come first, then classes by number.
+    assert "<h3>일반원칙</h3>" in listing and listing.index("<h3>일반원칙</h3>") < listing.index("[396] 당뇨병용제")
+
+
+def test_site_files_are_copied_except_readme(tmp_path, monkeypatch):
+    site = tmp_path / "site"
+    public = tmp_path / "public"
+    site.mkdir()
+    public.mkdir()
+    (site / "README.txt").write_text("notes", encoding="utf-8")
+    (site / "naverabc.html").write_text("naver-site-verification: naverabc.html", encoding="utf-8")
+    monkeypatch.setattr(build_site, "SITE_FILES", site)
+    monkeypatch.setattr(build_site, "PUBLIC", public)
+    build_site.copy_static_files()
+    assert (public / "naverabc.html").is_file() and not (public / "README.txt").exists()
+
+
+def test_korean_ingredient_handles_spelling_salts_and_forms():
+    Counter = collections.Counter
+    # Spelling variants: the majority name wins instead of their shared prefix (was '클래리').
+    assert build_site.korean_ingredient(Counter({"클래리트로마이신": 171, "클래리트로마이신제피과립": 41,
+                                                 "클래리스로마이신제피과립": 1}), "Clarithromycin") == "클래리트로마이신"
+    assert build_site.korean_ingredient(Counter({"사이클로스포린": 33, "시클로스포린": 4}), "Cyclosporine") == "사이클로스포린"
+    # A salt named in the English title stays (was '디메틸').
+    assert build_site.korean_ingredient(Counter({"디메틸푸마르산염(미분화)": 2, "디메틸푸마르산염": 2}),
+                                        "Dimethyl fumarate") == "디메틸푸마르산염"
+    # A shorter base covers longer products that start with it.
+    assert build_site.korean_ingredient(Counter({"아데노신트리포스페이트이나트륨삼수화물": 11, "아데노신": 2}),
+                                        "Adenosine") == "아데노신"
+    assert build_site.korean_ingredient(Counter({"란소프라졸과립": 2}), "Lansoprazole") == "란소프라졸"
+    # Products without a recorded ingredient do not blank the name.
+    assert build_site.korean_ingredient(Counter({"": 1, "아스피린": 5}), "Aspirin") == "아스피린"
+    assert build_site.korean_ingredient(Counter({"": 3}), "Aspirin") == ""
+
+
+def test_criteria_listing_several_drugs_get_no_korean_name():
+    item = {"item_seq": "1", "item_name": "란스톤캡슐", "main_item_ingr": "[M1]란소프라졸과립",
+            "main_item_ingr_eng": "Lansoprazole", "permit_date": "20200101", "status": "정상"}
+    title = "프로톤 펌프 억제 경구제 Omeprazole(품명: 유한로섹캡슐 등), Lansoprazole(품명: 란스톤캡슐 등)"
+    assert build_site.criteria_names([[{"identity": "k", "title": title}]], [item]) == {}
+
+
+def test_unique_titles_fall_back_to_the_full_notice_title():
+    group = lambda identity, title: [{"identity": identity, "title": title, "class_no": "395"}]
+    groups = [group("a", "Agalsidase β 35mg 주사제 (품명: 파브라자임주)"), group("b", "Cyclosporine 경구제 (품명: 사이폴엔)"),
+              group("c", "Cyclosporine 경구제 (품명: 산디문)")]
+    names = {"a": {"ingredient": "아갈시다제베타", "brands": []}}
+    titles = build_site.unique_titles(groups, names)
+    assert titles == {"a": "Agalsidase β 35mg 주사제 급여기준 변경 이력 (아갈시다제베타)",
+                      "b": "Cyclosporine 경구제 (품명: 사이폴엔) 급여기준 변경 이력",
+                      "c": "Cyclosporine 경구제 (품명: 산디문) 급여기준 변경 이력"}
+
+
+def test_catalog_groups_by_class_number_across_header_wordings():
+    entry = lambda title, header: {"title": title, "path": f"criteria/{title}.html", "class_no": "142", "class_header": header}
+    listing = build_site.static_drug_list([entry("A", "[142] 자격요법제"), entry("B", "[142] 자격료법제"),
+                                           entry("C", "[142] 자격요법제")])
+    assert listing.count("<h3>") == 1 and "<h3>[142] 자격요법제</h3>" in listing
+
+
+def test_mfds_shards_cover_every_row_and_fragment(tmp_path):
+    rows = [
+        ["3", "다파진정", "시험제약", "다파글리플로진", "Dapagliflozin", "20200101", 1, "a" * 64, ""],
+        ["1", "가정", "시험제약", "메트포르민", "Metformin", "20210101", 2, "b" * 64, "2024-04-25 취하"],
+        ["2", "나정", "다른제약", "다파글리플로진|메트포르민", "Dapagliflozin/Metformin", "20220101", 1, "a" * 64, ""],
+    ]
+    encoded = build_site.encode_mfds_index(rows)
+    build = build_site.mfds_build_id(encoded)
+    build_site.write_mfds_shards(tmp_path, rows, encoded, build)
+
+    blocks = [json.loads(path.read_text(encoding="utf-8")) for path in sorted((tmp_path / "blocks").glob("*.json"))]
+    assert sorted(r for block in blocks for r in block["row"]) == [0, 1, 2]  # each row in exactly one block
+    assert all(block["build"] == build for block in blocks)
+    # Blocks cluster rows by ingredient; values are spelled out, not dictionary ids.
+    assert blocks[0]["main_item_ingr"] == ["다파글리플로진", "다파글리플로진|메트포르민", "메트포르민"]
+    grams = {}
+    for path in (tmp_path / "grams").glob("*.json"):
+        file = json.loads(path.read_text(encoding="utf-8"))
+        assert file["build"] == build
+        grams.update(file["grams"])
+    assert len(list((tmp_path / "grams").glob("*.json"))) == build_site.MFDS_GRAM_BUCKETS
+    for text in ("다파", "파글", "metf", "시험"):
+        assert all(text[i:i + 2] in grams for i in range(len(text) - 1))
+    # Fragments with punctuation or spaces are not indexed.
+    assert all(gram.isalnum() for gram in grams) and "a/" not in grams
+    assert blocks[0]["withdrawn"] == ["", "", "2024-04-25 취하"]
+    # Same value as gramBucket in assets/search-core.js (tests/search-core.test.js).
+    assert build_site.gram_bucket("다파") == 40
+
+
+def test_product_link_searches_names_without_punctuation():
+    newest = {"title": "Tiotropium 흡입제 (품명: 스피리바)", "class_no": "229", "class_header": "[229] 기타",
+              "effective_date": "20250101", "notice_date": "20241231", "notice_number": "2024-1", "sequence": "s",
+              "action": "변경", "body": "본문"}
+    names = {"ingredient": "티오트로퓸 · 브롬화티오트로피움", "brands": []}
+    page = build_site.criteria_page(newest, [newest], "criteria/x.html", names)
+    assert 'href="../?q=%ED%8B%B0%EC%98%A4%ED%8A%B8%EB%A1%9C%ED%93%B8"' in page  # '티오트로퓸' only: one phrase
+    assert "식약처 허가 성분명: 티오트로퓸 · 브롬화티오트로피움" in page
+    combo = {**newest, "title": "Nirmatrelvir+ Ritonavir 경구제 (품명: 팍스로비드정)"}
+    page = build_site.criteria_page(combo, [combo], "criteria/y.html", {"ingredient": "니르마트렐비르 + 리토나비르", "brands": []})
+    assert 'href="../?q=Nirmatrelvir"' in page
