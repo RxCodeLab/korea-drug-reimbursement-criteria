@@ -4,13 +4,14 @@ const assert = require('node:assert');
 const core = require('../assets/search-core.js');
 
 // Same shape as build_site.encode_mfds_index output: one array per field, dictionary ids for repeated values.
+const fieldOf = (row, field) => row[field];
 const columnar = rows => {
   const dictFields = ['entp_name', 'main_item_ingr', 'main_item_ingr_eng', 'permit_date', 'withdrawn'];
   const index = { dicts: {} };
   for (const field of dictFields) {
-    const table = [...new Set(rows.map(row => row[field]))];
+    const table = [...new Set(rows.map(row => fieldOf(row, field)))];
     index.dicts[field] = table;
-    index[field] = rows.map(row => table.indexOf(row[field]));
+    index[field] = rows.map(row => table.indexOf(fieldOf(row, field)));
   }
   const groups = [...new Set(rows.map(row => row.content))];
   index.content_group = rows.map(row => groups.indexOf(row.content));
@@ -190,7 +191,7 @@ const shards = (rows, blockRows) => {
     files[`blocks/${block}.json`] = { build: 'b', row: ids,
       ...Object.fromEntries(['item_seq', 'item_name', 'revision_count', 'entp_name', 'main_item_ingr', 'main_item_ingr_eng', 'permit_date', 'withdrawn']
         .map(field => [field, ids.map(i => field === 'item_seq' ? rows[i].seq : field === 'item_name' ? rows[i].name
-          : field === 'revision_count' ? (rows[i].revisions ?? 1) : rows[i][field])])),
+          : field === 'revision_count' ? (rows[i].revisions ?? 1) : fieldOf(rows[i], field))])),
       content_group: ids.map(i => columnar(rows).content_group[i]) };
     blocks.push(ids);
     for (const i of ids) for (const text of [rows[i].name, rows[i].main_item_ingr, rows[i].main_item_ingr_eng, rows[i].entp_name]) {
@@ -265,4 +266,61 @@ test('fragments skip punctuation; a term with no indexed fragment uses the full 
   const result = await core.productResults(['a-'], shards(rows, 1), async () => { usedFull = true; return full; });
   assert.ok(usedFull);
   assert.deepEqual(result.matches.map(([, row]) => full.seqs[row]), [1]);
+});
+
+// A few entries of build_site.PRODUCT_STRIPPED, longest first as the page receives them.
+const SUFFIXES = ['프로판디올수화물', '포르메이트', '오수화물', '시트르산', '염산염', '나트륨', '수화물'];
+test('productBase drops salts but keeps salts that name the drug', () => {
+  assert.equal(core.productBase('다파글리플로진프로판디올수화물', SUFFIXES), '다파글리플로진');
+  assert.equal(core.productBase('메만틴 염산염', SUFFIXES), '메만틴');
+  assert.equal(core.productBase('아셀렌산나트륨오수화물', SUFFIXES), '아셀렌산나트륨');
+  assert.equal(core.productBase('다파글리플로진시트르산(미분화)', SUFFIXES), '다파글리플로진');
+  // An acid, inorganic or hydrogen stem means the salt is the drug itself.
+  assert.equal(core.productBase('알긴산나트륨', SUFFIXES), '알긴산나트륨');
+  assert.equal(core.productBase('탄산수소나트륨', SUFFIXES), '탄산수소나트륨');
+  assert.equal(core.productBaseLabel('메트포르민염산염|다파글리플로진프로판디올수화물', SUFFIXES), '다파글리플로진|메트포르민');
+});
+
+test('indicationGroups puts salt variants under one ingredient heading', () => {
+  const index = core.buildMfdsIndex(columnar([
+    product(1, '가정', { main_item_ingr: '다파글리플로진프로판디올수화물', content: 'k1' }),
+    product(2, '나정', { main_item_ingr: '다파글리플로진포르메이트', content: 'k1' }),
+  ]));
+  const groups = core.indicationGroups(index, [[3, 0], [3, 1]], SUFFIXES);
+  assert.deepEqual(groups.map(g => g.ingredient), ['다파글리플로진']);
+  assert.deepEqual(groups[0].groups.map(bucket => bucket.map(match => match[1])), [[0, 1]]);
+});
+
+test('groupRepresentative prefers a marketed product in the best tier and counts withdrawn others', () => {
+  const index = core.buildMfdsIndex(columnar([
+    product(1, '오리지널정', { withdrawn: '2024-04-25 취하' }),
+    product(2, '제네릭정'),
+    product(3, '다른제네릭정', { withdrawn: '2025-01-01 취소' }),
+  ]));
+  const { best, withdrawn } = core.groupRepresentative(index, [[3, 0], [3, 1], [3, 2]]);
+  assert.equal(best[1], 1);
+  assert.equal(withdrawn, 2);
+  // A better tier still wins over marketing status.
+  assert.equal(core.groupRepresentative(index, [[0, 0], [3, 1]]).best[1], 0);
+  // All withdrawn: the first (oldest) stays.
+  assert.equal(core.groupRepresentative(index, [[3, 0], [3, 2]]).best[1], 0);
+});
+
+test('shortProductName drops parentheses that repeat the ingredient only', () => {
+  assert.equal(core.shortProductName('포시가정10밀리그램(다파글리플로진프로판디올수화물)', '다파글리플로진프로판디올수화물'), '포시가정10밀리그램');
+  assert.equal(core.shortProductName('직듀오서방정(다파글리플로진/메트포르민염산염)', '메트포르민염산염|다파글리플로진'), '직듀오서방정');
+  assert.equal(core.shortProductName('가정(수출용)', '다파글리플로진'), '가정(수출용)');
+  assert.equal(core.shortProductName('나정', '다파글리플로진'), '나정');
+});
+
+test('numberedLines breaks only at the next item number', () => {
+  const text = "1. 제 2형 당뇨병: '사용상의 주의사항, 11. 전문가를 위한 정보' 참고 2. 만성 심부전 3. 만성 신장병";
+  assert.equal(core.numberedLines(text), "1. 제 2형 당뇨병: '사용상의 주의사항, 11. 전문가를 위한 정보' 참고\n2. 만성 심부전\n3. 만성 신장병");
+  assert.equal(core.numberedLines('번호 없는 문장'), '번호 없는 문장');
+  assert.equal(core.numberedLines('이 약은 1. 가 2. 나'), '이 약은\n1. 가\n2. 나');
+});
+
+test('productBaseLabel gives one label for a combination in any order', () => {
+  assert.equal(core.productBaseLabel('메트포르민염산염|다파글리플로진프로판디올수화물', SUFFIXES),
+               core.productBaseLabel('다파글리플로진프로판디올수화물|메트포르민염산염', SUFFIXES));
 });

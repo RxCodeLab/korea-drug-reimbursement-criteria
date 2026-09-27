@@ -62,14 +62,36 @@ function materializeMfds(index,row,tier){
 // 'A|B' -> ['A', 'B'] (the build already removed ingredient codes and repeats).
 const ingredientParts=raw=>String(raw||'').split('|').filter(Boolean);
 const ingredientLabel=raw=>ingredientParts(raw).join(' + ')||'성분 미상';
-// Groups by ingredient label, then by identical current indication. Ordered by best tier, single ingredients
-// before combinations.
-function indicationGroups(index,matches){
+// Ingredient name without salt, hydrate and formulation words, so salt variants share a heading
+// (다파글리플로진프로판디올수화물 -> 다파글리플로진). suffixes is build_site.PRODUCT_STRIPPED, longest first. A stem
+// ending in 산, 화 or 소 is an acid or inorganic name, and there the salt is the drug itself (알긴산나트륨,
+// 수산화마그네슘, 탄산수소나트륨).
+function productBase(label,suffixes){
+  label=label.replace(/\s*\([^()]*\)$/,'').trim()||label;
+  label=(label.startsWith('미분화')?label.slice(3):label).trim()||label;
+  for(;;){
+    const suffix=suffixes.find(s=>label.endsWith(s)),rest=suffix?label.slice(0,-suffix.length).trimEnd():'';
+    if(!suffix||rest.replace(/\s/g,'').length<3||!/[가-힣]/.test(rest)||/[산화소]$/.test(rest))return label.replace(/(?<=[가-힣])[\d.]+$/,'');
+    label=rest;
+  }
+}
+// Parts repeat across thousands of ingredient values, so each is worked out once per suffix list.
+const baseCache=new WeakMap();
+function cachedBase(part,suffixes){
+  let cache=baseCache.get(suffixes);if(!cache){cache=new Map();baseCache.set(suffixes,cache)}
+  let base=cache.get(part);if(base===undefined){base=productBase(part,suffixes);cache.set(part,base)}
+  return base;
+}
+// Parts are sorted so one combination has one heading whatever order the permit lists them in.
+const productBaseLabel=(raw,suffixes)=>[...new Set(ingredientParts(raw).map(part=>cachedBase(part,suffixes)))].sort().join('|');
+// Groups by ingredient name without salts (productBase), then by identical current indication. Ordered by best
+// tier, single ingredients before combinations. Names are worked out once per distinct ingredient.
+function indicationGroups(index,matches,suffixes=[]){
   const byIngredient=new Map(),rankOf=new Map(),labelOf=new Map();
   for(const match of matches){
     const row=match[1],id=index.ingr.ids[row];
     let label=labelOf.get(id);
-    if(label===undefined){label=ingredientLabel(index.ingr.table[id]);labelOf.set(id,label);
+    if(label===undefined){label=ingredientLabel(productBaseLabel(index.ingr.table[id],suffixes));labelOf.set(id,label);
       if(!rankOf.has(label))rankOf.set(label,match[0]*2+(label.includes(' + ')?1:0))}
     let groups=byIngredient.get(label);
     if(!groups){groups=new Map();byIngredient.set(label,groups)}
@@ -131,6 +153,34 @@ async function productResults(terms,load,fullIndex){
   const index=!ids||ids.length>FULL_INDEX_BLOCKS?await fullIndex():buildMfdsIndex(mergeBlocks(await Promise.all(ids.map(id=>load(`blocks/${id}.json`)))));
   return {index,matches:matchMfds(index,terms)};
 }
-return {MFDS_DETAIL_URL,GRAM_BUCKETS,searchTerms,NOTICE_TERM,FULL_INDEX_BLOCKS,MIN_PRODUCT_TERM,productTerms,gramsOf,gramBucket,candidateBlocks,mergeBlocks,productResults,MFDS_GROUP_LIMIT,CRITERIA_LIMIT,TRUNCATED,dateLabel,baseName,brandName,searchableCriterion,distinctClassHeader,byNewest,groupsBy,groupCriteria,buildMfdsIndex,matchMfds,materializeMfds,ingredientParts,ingredientLabel,indicationGroups};
+// The group's shown product: best tier, then a marketed one, then the bucket's order (oldest permit first).
+// withdrawn counts the other products that are no longer marketed.
+function groupRepresentative(index,bucket){
+  const off=match=>index.withdrawn.table[index.withdrawn.ids[match[1]]]?1:0;
+  let best=bucket[0],withdrawn=0;
+  for(const match of bucket)if(match[0]<best[0]||(match[0]===best[0]&&off(match)<off(best)))best=match;
+  for(const match of bucket)if(match!==best)withdrawn+=off(match);
+  return {best,withdrawn};
+}
+const compact=text=>String(text).replace(/[\s·ㆍ]/g,'');
+// '포시가정10밀리그램(다파글리플로진프로판디올수화물)' -> '포시가정10밀리그램' when the parentheses repeat an ingredient
+// shown in the group heading; other notes such as '(수출용)' stay.
+function shortProductName(name,ingredientRaw){
+  const match=/^(.*\S)\s*\(([^()]*)\)$/.exec(name);
+  if(!match)return name;
+  const inside=compact(match[2]);
+  return ingredientParts(ingredientRaw).some(part=>{const head=compact(part).slice(0,3);return head.length===3&&inside.includes(head)})?match[1]:name;
+}
+// Puts '1. … 2. … 3. …' items of one paragraph on their own lines. Only the next number in sequence starts a
+// line, so a reference such as '11. 전문가를 위한 정보' inside item 1 stays in place.
+function numberedLines(text){
+  let next=1;
+  return String(text).replace(/(^|\s+)(\d{1,2})\.\s/g,(all,space,number)=>{
+    if(Number(number)!==next)return all;
+    next++;
+    return(next===2&&!space?'':'\n')+number+'. ';
+  }).replace(/^\n/,'');
+}
+return {productBase,productBaseLabel,groupRepresentative,shortProductName,numberedLines,MFDS_DETAIL_URL,GRAM_BUCKETS,searchTerms,NOTICE_TERM,FULL_INDEX_BLOCKS,MIN_PRODUCT_TERM,productTerms,gramsOf,gramBucket,candidateBlocks,mergeBlocks,productResults,MFDS_GROUP_LIMIT,CRITERIA_LIMIT,TRUNCATED,dateLabel,baseName,brandName,searchableCriterion,distinctClassHeader,byNewest,groupsBy,groupCriteria,buildMfdsIndex,matchMfds,materializeMfds,ingredientParts,ingredientLabel,indicationGroups};
 })();
 if(typeof module!=='undefined'&&module.exports)module.exports=SearchCore;

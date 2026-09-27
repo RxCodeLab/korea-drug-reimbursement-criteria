@@ -298,6 +298,14 @@ def base_ingredient(label: str, english: str = "") -> str:
     return re.sub(r"(?<=[가-힣])[\d.]+$", "", label)
 
 
+# Salt, hydrate and formulation words the search page drops from product ingredient names to group salt variants
+# under one heading (productBase in assets/search-core.js). The criteria title salts plus words seen in product names.
+PRODUCT_SUFFIXES = ("무수유당혼합물", "비스L-프롤린", "2L-프롤린", "L-프롤린", "포르메이트", "시트르산", "고체분산체",
+                    "이토실산염", "토실산염", "브롬화수소산염", "아스파르트산염", "니코틴산염", "살리실산염", "히벤즈산염",
+                    "마그네슘염", "나트륨염", "칼륨염", "칼슘염", "사수화물", "오수화물", "육수화물", "칠수화물", "팔수화물", "구수화물", "십수화물")
+PRODUCT_STRIPPED = tuple(sorted({*STRIPPED_SUFFIXES, *PRODUCT_SUFFIXES}, key=lambda suffix: (-len(suffix), suffix)))
+
+
 def korean_ingredient(labels: collections.Counter, english: str = "") -> str:
     """The base name covering most matched products (a shorter base covers its salt variants)."""
     bases: collections.Counter = collections.Counter()
@@ -369,10 +377,14 @@ def criteria_names(groups: list[list[dict]], products: list[dict]) -> dict[str, 
 
 
 def name_aliases(names: dict | None) -> str:
-    """Extra search text for a criterion; only names that its page also shows."""
+    """Extra search text for a criterion; only names that its page also shows.
+
+    The ingredient on the first line and the brands, comma-separated, on the second; the search page
+    shows them under the title.
+    """
     if not names:
         return ""
-    return " ".join([names["ingredient"], *(brand for brand, _ in names["brands"])]).strip()
+    return "\n".join([names["ingredient"], ", ".join(brand for brand, _ in names["brands"])]).strip()
 
 
 # Shared by the search page and the static criteria pages.
@@ -401,19 +413,22 @@ __BASE_CSS__
 input{width:100%;box-sizing:border-box;padding:.8rem;font:inherit;color:inherit;background:var(--bg);border:1px solid var(--muted);border-radius:6px}input:focus{border-color:var(--accent)}
 #status{margin:.45rem 0;font-size:.95rem}.intro{margin:1.5rem 0;color:var(--muted)}.examples{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center}
 .examples button{font:inherit;color:var(--fg);background:var(--soft);border:1px solid var(--line);border-radius:999px;padding:.3rem .9rem;cursor:pointer}
-.block{margin:1.8rem 0;scroll-margin-top:7rem}.block>h2,.related>summary>h2{font-size:1.2rem;margin:0 0 .4rem;padding-bottom:.35rem;border-bottom:2px solid var(--fg)}
-.criterion{padding:.5rem 0 .9rem;border-bottom:1px solid var(--line)}.criterion:last-child{border-bottom:0}.criterion h3,.mfds h3{font-size:1.05rem;margin:.6rem 0 .2rem}.mfds h3{margin-top:1.3rem}.criterion>.meta{margin:0 0 .5rem;font-size:.92rem}
+.block{margin:1.8rem 0;scroll-margin-top:7rem}.block>h2,.related>summary>h2{font-size:1.3rem;margin:0 0 .4rem;padding-bottom:.35rem;border-bottom:2px solid var(--fg)}
+.criterion{padding:.5rem 0 .9rem;border-bottom:1px solid var(--line)}.criterion:last-child{border-bottom:0}.criterion h3{font-size:1.1rem;margin:.6rem 0 .2rem}.criterion>.meta{margin:0 0 .5rem;font-size:.92rem}.criterion>.names{margin:-.3rem 0 .5rem}
+.mfds h3{font-size:1rem;margin:1.5rem 0 .3rem;padding-left:.55rem;border-left:3px solid var(--accent)}.mfds>.meta{font-size:.92rem}.group-meta{font-size:.9rem;margin:.4rem 0}
+.ee{white-space:pre-line;overflow-wrap:anywhere;line-height:1.7;margin:.4rem 0;padding:.7rem .8rem;background:var(--soft);border-radius:4px}.rev>.ee{margin-bottom:.2rem}
+.current{border:1px solid var(--line);border-radius:6px;margin:.45rem 0;padding:.5rem .8rem}.current>.revision{margin-top:0}
 details{border:1px solid var(--line);border-radius:6px;margin:.45rem 0;padding:.5rem .8rem}summary{cursor:pointer;font-weight:600}.rev.latest{border-left:3px solid var(--accent)}
 .older{border:0;padding:0}.older>summary{color:var(--accent);font-weight:500;padding:.2rem 0}.older>.rev{margin-left:1rem}
 .badge{display:inline-block;padding:0 .5rem;border-radius:999px;font-size:.8rem;font-weight:600;line-height:1.7;color:var(--muted);background:var(--soft)}
 .badge[data-kind="신설"]{color:var(--new);background:var(--new-bg)}.badge[data-kind="변경"]{color:var(--chg);background:var(--chg-bg)}.badge[data-kind="삭제"]{color:var(--del);background:var(--del-bg)}.badge[data-kind="latest"]{color:var(--bg);background:var(--accent)}
 .count{color:var(--muted);font-weight:400}.nw{white-space:nowrap}.revision{font-weight:700;margin:.8rem 0 .2rem}.empty{padding:2rem 0;color:var(--muted)}
 .more{display:block;width:100%;margin:.8rem 0;padding:.7rem;font:inherit;color:var(--fg);background:var(--soft);border:1px solid var(--line);border-radius:6px;cursor:pointer}.more:hover,.examples button:hover{border-color:var(--muted)}
-.related{border:0;padding:0}.related>summary{list-style:none}.related>summary::-webkit-details-marker{display:none}.related>summary>h2::after{content:" ▸";color:var(--muted)}.related[open]>summary>h2::after{content:" ▾"}
+.related{border:0;padding:0}.related>summary{list-style:none}.related>summary::-webkit-details-marker{display:none}.related>summary>h2::after{content:"펼치기";margin-left:.6rem;padding:.05rem .65rem;font-size:.8rem;font-weight:600;vertical-align:middle;color:var(--accent);border:1px solid var(--line);border-radius:999px}.related[open]>summary>h2::after{content:"접기"}
 .catalog{margin-top:2rem;color:var(--muted);font-size:.9rem}.catalog h3{font-size:.95rem;margin:1rem 0 .3rem;color:var(--fg)}.catalog ul{columns:2;margin:.3rem 0;padding-left:1.2rem}@media(max-width:600px){.catalog ul{columns:1}}
 </style></head><body>
 <h1>약제 급여기준 변경 이력 검색</h1><p class="hint">보건복지부 약제 급여기준의 신설·변경·삭제 이력과 식약처 허가 적응증을 찾습니다.</p>
-<div class="bar"><input id="q" type="search" autocomplete="off" placeholder="성분명·제품명 (예: 다파글리플로진, dapagliflozin)" aria-label="검색어" autofocus><p id="status" class="meta" aria-live="polite">급여기준 색인 불러오는 중…</p></div>
+<div class="bar"><input id="q" type="search" autocomplete="off" placeholder="성분명·제품명 (예: 다파글리플로진, dapagliflozin)" aria-label="검색어" enterkeyhint="search"><p id="status" class="meta" aria-live="polite">급여기준 색인 불러오는 중…</p></div>
 __INTRO__<main id="results"></main>
 __DRUG_CATALOG__
 <footer>__FOOTER_LABEL__<a href="https://github.com/RxCodeLab/korea-drug-reimbursement-criteria">데이터 수집·검증 과정 보기</a></footer>
@@ -811,6 +826,7 @@ def render_index_page(catalog: list[dict], footer_label: str, latest_effective: 
         .replace("__ACTION_LABELS__", json.dumps(ACTION_LABELS, ensure_ascii=False, separators=(",", ":")))
         .replace("__ROLE_RANKS__", json.dumps(role_ranks, ensure_ascii=False, separators=(",", ":")))
         .replace("__MFDS_BUILD__", json.dumps(mfds_build))
+        .replace("__PRODUCT_SUFFIXES__", json.dumps(PRODUCT_STRIPPED, ensure_ascii=False, separators=(",", ":")))
         .replace(FOOTER_LABEL_PLACEHOLDER, footer_label)
         .replace("__DRUG_CATALOG__", static_drug_list(catalog))
     )

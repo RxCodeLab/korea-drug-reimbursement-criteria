@@ -123,7 +123,7 @@ def test_static_index_is_deterministic_and_contains_provenance(tmp_path, monkeyp
     assert "효능·효과가 같은 품목은 함께 묶었습니다." in page
     assert "source_sha256.slice" not in page
     assert "const list=el('ul')" not in page
-    assert "summary.append(representative.item_name)" in page
+    assert "summary.append(shortProductName(representative.item_name" in page
     # Example searches, with the newest effective date from the data.
     assert 'data-q="다파글리플로진"' in page and 'data-q="2025-01-01"' in page
     # 저장 순서가 현재 개정 우선이므로 클라이언트는 재정렬하지 않는다.
@@ -442,7 +442,7 @@ def test_static_page_has_footer_and_no_disclaimer(tmp_path, monkeypatch):
     # 상세 페이지 URL은 최신 제목이 아니라 항목 식별자에서 나온다
     assert 'href="criteria/219-dapagliflozin%EA%B2%BD%EA%B5%AC%EC%A0%9C.html"' in page
     # A group's representative is its best-tier product.
-    assert "if(match[0]<best[0])best=match;" in page
+    assert "groupRepresentative(index,bucket)" in page
     # No product objects at load time; only drawn groups call materializeMfds.
     assert "function buildMfdsIndex(" in page and "function materializeMfds(" in page
     # Only the representative and history products of a drawn group become objects.
@@ -650,7 +650,7 @@ def test_korean_names_prefer_shared_prefix_and_originator(monkeypatch):
     groups = [[{"identity": "k", "title": "Dapagliflozin 경구제 (품명: 다파엔정 등)"}]]
     names = build_site.criteria_names(groups, products)["k"]
     assert names == {"ingredient": "다파글리플로진", "brands": [("포시가정", "2024-04-25 취하"), ("다파진정", "")]}
-    assert build_site.name_aliases(names) == "다파글리플로진 포시가정 다파진정"
+    assert build_site.name_aliases(names) == "다파글리플로진\n포시가정, 다파진정"
     assert build_site.base_ingredient("리오시구앗(미분화)") == "리오시구앗"
     assert build_site.base_ingredient("펙수프라잔염산염") == "펙수프라잔"
     assert build_site.base_ingredient("발프로산") == "발프로산"
@@ -667,6 +667,16 @@ def test_korean_names_prefer_shared_prefix_and_originator(monkeypatch):
     injection = [{**products[0], "item_seq": "5", "item_name": "다파주"}, {**products[0], "item_seq": "6", "item_name": "다파정"}]
     only = build_site.criteria_names([[{"identity": "i", "title": "Dapagliflozin 주사제"}]], injection)["i"]
     assert only["brands"] == [("다파주", "")]
+
+
+def test_page_receives_product_suffixes_longest_first():
+    """productBase in assets/search-core.js takes the first suffix that fits, so longer ones must come first."""
+    lengths = [len(suffix) for suffix in build_site.PRODUCT_STRIPPED]
+    assert lengths == sorted(lengths, reverse=True)
+    assert {"프로판디올수화물", "오수화물", "염산염"} <= set(build_site.PRODUCT_STRIPPED)
+    page = build_site.render_index_page([], "")
+    injected = page.split("const productSuffixes=", 1)[1].split(";", 1)[0]
+    assert json.loads(injected) == list(build_site.PRODUCT_STRIPPED)
 
 
 def test_criteria_page_links_general_principle_and_siblings(tmp_path, monkeypatch):

@@ -1,10 +1,12 @@
 // DOM rendering. render_index_page substitutes placeholders by plain string replace, so never spell them out in comments.
-const {MFDS_GROUP_LIMIT,CRITERIA_LIMIT,TRUNCATED,dateLabel,searchableCriterion,distinctClassHeader,byNewest,groupsBy,groupCriteria,buildMfdsIndex,matchMfds,materializeMfds,indicationGroups,productTerms,productResults,searchTerms}=SearchCore;
+const {MFDS_GROUP_LIMIT,CRITERIA_LIMIT,TRUNCATED,dateLabel,searchableCriterion,distinctClassHeader,byNewest,groupsBy,groupCriteria,buildMfdsIndex,matchMfds,materializeMfds,indicationGroups,productTerms,productResults,searchTerms,groupRepresentative,shortProductName,numberedLines,ingredientLabel}=SearchCore;
 const q=document.querySelector('#q'),status=document.querySelector('#status'),root=document.querySelector('#results'),intro=document.querySelector('#intro');
+const pageTitle=document.title;
 const el=(tag,text,cls)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n};
 const actionLabels=__ACTION_LABELS__;
 const actionLabel=action=>actionLabels[action]??action;
 const roleRanks=__ROLE_RANKS__;
+const productSuffixes=__PRODUCT_SUFFIXES__;
 const roleRank=role=>roleRanks[role]??Object.keys(roleRanks).length;
 // Keeps the date and notice number from breaking at their hyphens on narrow screens.
 const versionHeader=record=>{const f=document.createDocumentFragment();f.append(el('span',`${dateLabel(record.effective_date)} 시행`,'nw'),' · ',el('span',`고시 제${record.notice_number}호`,'nw'));return f};
@@ -55,6 +57,11 @@ function criterionNode(items){
   if(latest)meta.push(`최근 개정 ${dateLabel(latest.effective_date)} 시행`);
   meta.push(`개정 이력 ${(data.criteria.revisionsOf.get(newest.key)||items.length).toLocaleString()}건`);
   article.append(el('p',meta.join(' · '),'meta'));
+  // Korean names from the MFDS items the title matches; they are why a brand search finds this criterion.
+  if(newest.aliases){
+    const[ingredient,brands]=newest.aliases.split('\n');
+    article.append(el('p',`식약처 허가 성분명: ${ingredient}`+(brands?` · 허가 품목: ${brands} 등`:''),'meta names'));
+  }
   article.append(revisionNode(newest,latest===newest));
   if(items.length>1){
     const older=items.slice(1);
@@ -82,53 +89,71 @@ function appendDocuments(groups,container){
     container.append(section);
   }
 }
-// Resolves false on failure so the caller can allow another try.
-function loadMfdsItem(item,target,currentOnly){
-  target.textContent='불러오는 중…';
-  return fetch(`mfds/items/${item.item_seq}.json`).then(r=>{if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json()}).then(doc=>{
-    const revisions=doc.revisions||[];
-    if(!revisions.length){target.textContent='효능·효과 정보가 없습니다.';return true;}
-    if(currentOnly){target.textContent=revisions[0].ee_text;return true;}
-    target.textContent=revisions.map((revision,index)=>{
-      const label=index===0?'현재':'이전';
-      const date=revision.official_revision_date?`허가사항 변경일 ${revision.official_revision_date}`:`최초 관찰 ${revision.first_observed_at.slice(0,10)} · 최종 관찰 ${revision.last_observed_at.slice(0,10)}`;
-      return `[${label} · ${date}]\n${revision.ee_text}`;
-    }).join('\n\n');
-    return true;
-  }).catch(()=>{target.textContent='상세 정보를 불러오지 못했습니다. 접었다가 다시 펼쳐 보세요.';return false});
+// Runs load on first open; a load that resolves false runs again on the next open.
+function onFirstOpen(details,load){
+  let state='idle';
+  details.addEventListener('toggle',()=>{if(!details.open||state!=='idle')return;state='busy';load().then(ok=>{state=ok?'done':'idle'})});
 }
-// Only the representative (best tier) and the product with the longest history become objects; a group
-// of identical injections can hold thousands of products.
+// Resolves the item file, or null when it could not be fetched.
+const loadItem=item=>getJson(`mfds/items/${item.item_seq}.json`).catch(()=>null);
+const revisionDate=revision=>revision.official_revision_date?`허가사항 변경일 ${revision.official_revision_date}`
+  :`${revision.first_observed_at.slice(0,10)} ~ ${revision.last_observed_at.slice(0,10)} 확인`;
+const eeText=text=>el('div',numberedLines(text),'ee');
+// Current indication and its earlier versions, laid out like a criterion's latest and earlier revisions.
+function currentNode(revision){
+  const box=el('div',undefined,'current rev latest'),head=el('p',undefined,'revision');
+  head.append(badge('최신','latest'),' ',revisionDate(revision));
+  box.append(head,eeText(revision.ee_text));
+  return box;
+}
+function olderNode(count,note,loadDoc){
+  const older=el('details',undefined,'older');older.append(el('summary',`이전 효능·효과 ${count.toLocaleString()}건`));
+  onFirstOpen(older,()=>{
+    older.querySelector(':scope>p')?.remove();
+    return loadDoc().then(doc=>{
+      if(!doc){older.append(el('p','불러오지 못했습니다. 접었다가 다시 펼쳐 보세요.','meta'));return false}
+      if(note)older.append(el('p',note,'meta'));
+      for(const revision of(doc.revisions||[]).slice(1)){
+        const node=el('details',undefined,'rev'),summary=el('summary');
+        summary.append(badge('이전'),' ',revisionDate(revision));
+        node.append(summary,eeText(revision.ee_text));older.append(node);
+      }
+      return true;
+    });
+  });
+  return older;
+}
+// Only the representative and the product with the longest history become objects; a group of identical
+// injections can hold thousands of products.
 function mfdsGroupNode(index,bucket){
-  let best=bucket[0],richest=bucket[0];
-  for(const match of bucket){
-    if(match[0]<best[0])best=match;
-    if(index.revisions[match[1]]>index.revisions[richest[1]])richest=match;
-  }
+  const{best,withdrawn}=groupRepresentative(index,bucket);
+  let richest=best;
+  for(const match of bucket)if(index.revisions[match[1]]>index.revisions[richest[1]])richest=match;
   const representative=materializeMfds(index,best[1],best[0]);
   const historyProduct=representative.revision_count>1?representative:materializeMfds(index,richest[1],richest[0]);
-  const group=el('details'),summary=el('summary');
-  summary.append(representative.item_name);
+  const group=el('details',undefined,'product'),summary=el('summary');
+  summary.append(shortProductName(representative.item_name,representative.main_item_ingr));
   if(representative.withdrawn)summary.append(el('span',` (${representative.withdrawn})`,'count'));
-  if(bucket.length>1)summary.append(el('span',` 외 ${(bucket.length-1).toLocaleString()}개`,'count'));
+  if(bucket.length>1)summary.append(el('span',` 외 ${(bucket.length-1).toLocaleString()}개`+(withdrawn?` (취하·취소 ${withdrawn.toLocaleString()}개 포함)`:''),'count'));
   group.append(summary);
-  const permit=representative.permit_date?dateLabel(representative.permit_date):'허가일 미상';
-  const meta=el('p',[`대표 품목: ${representative.item_name}`,representative.entp_name,permit,representative.withdrawn].filter(Boolean).join(' · '),'meta');
+  const permit=representative.permit_date?`허가 ${dateLabel(representative.permit_date)}`:'허가일 미상';
+  const meta=el('p',[`대표 품목: ${representative.item_name}`,representative.entp_name,permit,representative.withdrawn].filter(Boolean).join(' · '),'meta group-meta');
   const source=el('a','식약처 원문');
   source.href=representative.source_url;source.target='_blank';source.rel='noopener';
   meta.append(document.createTextNode(' · '),source);
-  group.append(meta);
-  const indication=el('pre','펼쳐서 현재 효능·효과를 확인하세요.');
-  group.append(indication);
-  let loaded=false;
-  group.addEventListener('toggle',()=>{if(!group.open||loaded)return;loaded=true;loadMfdsItem(representative,indication,true).then(ok=>{loaded=ok})});
-  if(historyProduct.revision_count>1){
-    const history=el('details'),historySummary=el('summary',`${historyProduct.item_name} 허가사항 변화 ${historyProduct.revision_count}건`),historyBody=el('pre','펼쳐서 변화 이력을 확인하세요.');
-    history.append(historySummary,historyBody);
-    let historyLoaded=false;
-    history.addEventListener('toggle',()=>{if(!history.open||historyLoaded)return;historyLoaded=true;loadMfdsItem(historyProduct,historyBody,false).then(ok=>{historyLoaded=ok})});
-    group.append(history);
-  }
+  const body=el('div');body.append(el('p','불러오는 중…','meta'));
+  group.append(meta,body);
+  onFirstOpen(group,()=>loadItem(representative).then(doc=>{
+    if(!doc){body.replaceChildren(el('p','효능·효과를 불러오지 못했습니다. 접었다가 다시 펼쳐 보세요.','meta'));return false}
+    const revisions=doc.revisions||[];
+    body.replaceChildren(revisions.length?currentNode(revisions[0]):el('p','효능·효과 정보가 없습니다.','meta'));
+    if(historyProduct.revision_count>1){
+      const same=historyProduct===representative;
+      body.append(olderNode(historyProduct.revision_count-1,same?'':`같은 효능·효과를 가진 ${historyProduct.item_name}의 변경 이력입니다.`,
+        same?()=>Promise.resolve(doc):()=>loadItem(historyProduct)));
+    }
+    return true;
+  }));
   return group;
 }
 function mfdsNode(index,matches){
@@ -136,7 +161,7 @@ function mfdsNode(index,matches){
   section.append(el('h2',`식약처 허가 품목 ${matches.length.toLocaleString()}개`));
   section.append(el('p','효능·효과가 같은 품목은 함께 묶었습니다. 건강보험 급여 여부와 무관한 식약처 허가 정보입니다.','meta'));
   const units=[];
-  for(const ingredient of indicationGroups(index,matches))for(const bucket of ingredient.groups)units.push([ingredient.ingredient,bucket]);
+  for(const ingredient of indicationGroups(index,matches,productSuffixes))for(const bucket of ingredient.groups)units.push([ingredient.ingredient,bucket]);
   let heading=null;
   paged(section,units.length,MFDS_GROUP_LIMIT,(i,frag)=>{
     const[ingredient,bucket]=units[i];
@@ -177,7 +202,8 @@ function documentsNode(documents){
   return related;
 }
 function renderStatus(){
-  const count=(n,label,unit,id)=>{const text=`${label} ${n.toLocaleString()}${unit}`;return n?jump(text,id):text};
+  // Empty sections are left out; the empty-result message covers a query that finds nothing.
+  const count=(n,label,unit,id)=>n?jump(`${label} ${n.toLocaleString()}${unit}`,id):null;
   setStatus(data.criteria.state==='loading'?stateNotes():[
     count(view.criteria.length,'급여기준','개','sec-criteria'),
     view.products.state==='ready'&&count(view.products.matches.length,'허가 품목','개','sec-mfds'),
@@ -194,6 +220,7 @@ function render(force){
   // A failed product search is retried when the same query is entered again.
   if(!force&&view&&view.query===terms.join(' ')&&view.products.state!=='failed')return;
   root.replaceChildren();intro.hidden=terms.length>0;view=null;
+  document.title=terms.length?`${q.value.trim()} - ${pageTitle}`:pageTitle;
   if(!terms.length){setStatus(data.criteria.state==='ready'?[`급여기준 ${data.criteria.latest.size.toLocaleString()}개 · 개정 이력 ${data.criteria.revisions.toLocaleString()}건 수록`,...stateNotes()]:stateNotes());return}
   const products=productTerms(terms);
   // 'short' notes the two-character minimum; 'none' is a date or notice-number query, which names no product.
@@ -293,4 +320,8 @@ function pauseDocuments(){
   if(view)renderStatus();
 }
 q.addEventListener('input',()=>{syncUrl();scheduleRender()});
+// Enter searches at once; on touch screens it also closes the keyboard so the results are visible.
+q.addEventListener('keydown',event=>{if(event.key!=='Enter')return;clearTimeout(renderTimer);render();if(matchMedia('(pointer:coarse)').matches)q.blur()});
+// Focus the box only on a fresh desktop visit; on phones and ?q= links the keyboard would cover the results.
+if(!initialQuery&&matchMedia('(pointer:fine)').matches)q.focus();
 intro.addEventListener('click',event=>{const button=event.target.closest('button[data-q]');if(!button)return;q.value=button.dataset.q;syncUrl();render()});
