@@ -31,6 +31,9 @@ RE_BODY_START = re.compile(r"^(허가사항|식품의약품안전처장|각\s*�
 RE_ANNEX_START = re.compile(r"^\[별지\s*\d*\]$")
 # Running page header repeated at the top of annex pages.
 RE_RUNNING_HEADER = re.compile(r"^[ⅠⅡⅢⅣⅤ]\.\s*약제")
+# General-principle titles sit in a narrow table cell and wrap into short lines ('보조생식술에' / '사용되는' /
+# '호르몬약제'); short lines before the body are the rest of the title.
+GENERAL_TITLE_LINE_MAX = 12
 # Shorter sections after an annex marker are leftover headers, not content.
 MIN_ANNEX_SECTION_CHARS = 200
 
@@ -210,19 +213,28 @@ def split_annex(text: str) -> tuple[list[dict[str, str]], list[dict[str, str]]]:
                     break
                 if number == "일반원칙" and candidate:
                     j += 1
-                    while j < len(lines):
+                    while j < len(lines) and len(title_lines) < 8:
                         continuation = lines[j].strip()
-                        if not continuation.startswith("("):
+                        joined = " ".join(title_lines)
+                        open_paren = joined.count("(") > joined.count(")")
+                        if (not continuation or RE_ITEM_NO.match(continuation) or RE_CLASS_HEADER.match(continuation)
+                                or RE_NUMBERED_CONDITION.match(continuation)
+                                or (RE_BODY_START.match(continuation) and not open_paren)):
+                            break
+                        if not (open_paren or continuation.startswith("(")
+                                or len(continuation) <= GENERAL_TITLE_LINE_MAX):
                             break
                         title_lines.append(continuation)
                         j += 1
-                        while title_lines[-1].count("(") > title_lines[-1].count(")") and j < len(lines):
-                            title_lines.append(lines[j].strip())
-                            j += 1
                     break
                 j += 1
-            title = " ".join(title_lines).strip()
+            title = _join_title_lines(title_lines)
             if number == "일반원칙":
+                # The page header often spells the full name with its spacing: prefer it when it is the same name.
+                header_name = RE_CLASS_HEADER.match(class_headers.get("일반원칙", "") or "[일반원칙]")
+                header_name = header_name.group(2).strip() if header_name else ""
+                if header_name and re.sub(r"\s+", "", header_name) == re.sub(r"\s+", "", title):
+                    title = header_name
                 item_header = f"[일반원칙] {title}"
             else:
                 # Only a header with the item's own class number; another class's header would mislabel it.
@@ -259,6 +271,18 @@ def _annex_section(lines: list[str]) -> dict[str, str] | None:
         return None
     heading = next((line.strip() for line in rest if line.strip() and not line.strip().startswith("[")), "")
     return {"title": f"{marker} {heading}".strip(), "body": body}
+
+
+def _join_title_lines(lines: list[str]) -> str:
+    """Joins wrapped title lines; a Latin word split inside parentheses ('(COV' / 'ID-19)') is rejoined."""
+    title = ""
+    for line in lines:
+        if not line:
+            continue
+        inside = title.count("(") > title.count(")")
+        glue = "" if inside and re.search(r"[A-Za-z0-9]$", title) and re.match(r"[A-Za-z0-9]", line) else " "
+        title = f"{title}{glue}{line}" if title else line
+    return title.strip()
 
 
 def norm_title(class_no: str, title: str) -> str:

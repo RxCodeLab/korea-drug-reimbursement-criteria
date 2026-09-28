@@ -670,3 +670,29 @@ def test_split_annex_keeps_action_and_class_header_after_next_annex_marker() -> 
         ("신설", "[232] 소화성궤양용제"), ("변경", "[119] 기타의 중추신경용약")]
     assert blocks[0]["body"] == "허가사항 범위 내에서 투여 시 요양급여를 인정함."
     assert sections == []
+
+
+def test_split_blocks_keeps_wrapped_general_principle_title() -> None:
+    # Real layouts: the title cell wraps into short lines; the page header may spell the full name.
+    text = "\n".join([
+        "[일반원칙] 보조생식술에 사용되는 호르몬 약제",
+        "구 분 세부인정기준및방법",
+        "[일반원칙]",
+        "보조생식술에",
+        "사용되는",
+        "호르몬약제",
+        "1. 각 약제의 허가사항 및 급여기준 범위 내에서 투여 시 요양급",
+        "여를 인정함.",
+        "[일반원칙]",
+        "코로나바이러스",
+        "감염증-19(COV",
+        "ID-19) 치료제",
+        "관련본인부담",
+        "경감등",
+        "허가사항 범위를 초과하여 투여 시 요양급여를 인정함.",
+    ])
+    first, second = ingest.split_blocks(text)
+    assert first["title"] == "보조생식술에 사용되는 호르몬 약제"
+    assert first["body"].startswith("1. 각 약제의")
+    assert second["title"] == "코로나바이러스 감염증-19(COVID-19) 치료제 관련본인부담 경감등"
+    assert second["body"] == "허가사항 범위를 초과하여 투여 시 요양급여를 인정함."
