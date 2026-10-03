@@ -5,9 +5,9 @@
  "item_name": "동아제약밸러민시럽",
  "entp_name": "동아제약(주)",
  "permit_date": "20210929",
- "cancel_date": "",
- "status": "정상",
- "main_item_ingr": "[M281505]피돌산마그네슘|[M040262]산화마그네슘|[M222996]리보플라빈포스페이트나트륨",
+ "cancel_date": "20260929",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040262]산화마그네슘|[M222996]리보플라빈포스페이트나트륨|[M281505]피돌산마그네슘",
  "main_item_ingr_eng": "Magnesium Oxide/Magnesium Pidolate/Riboflavin Sodium Phosphate",
  "edi_code": "",
  "atc_code": "A11JB",
@@ -21,7 +21,7 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:37Z",
-   "last_observed_at": "2026-09-26T17:30:45Z",
+   "last_observed_at": "2026-10-03T17:23:24Z",
    "official_revision_date": "2021-09-29"
   }
  ]

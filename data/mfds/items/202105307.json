@@ -5,8 +5,8 @@
  "item_name": "연세의료원에프디지주사액(2-데옥시-2-플루오로-D-글루코스(18F)액)",
  "entp_name": "연세의료원",
  "permit_date": "20210713",
- "cancel_date": "20260713",
- "status": "유효기간만료",
+ "cancel_date": "",
+ "status": "정상",
  "main_item_ingr": "[M112445]2-데옥시-2-플루오로-D-글루코스(18F) 액",
  "main_item_ingr_eng": "2-Deoxy-2-Fluoro-D-Glucose (18F) Solution",
  "edi_code": "074100010",
@@ -21,7 +21,7 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T09:00:23Z",
-   "last_observed_at": "2026-09-26T17:30:44Z",
+   "last_observed_at": "2026-10-03T17:22:55Z",
    "official_revision_date": "2021-07-13"
   }
  ]

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602986",
+ "item_name": "라제프오디정0.1밀리그램(라모세트론염산염)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20261001",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M255325]라모세트론염산염",
+ "main_item_ingr_eng": "Ramosetron Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602986",
+ "revisions": [
+  {
+   "revision_id": "202602986-c6ed040d",
+   "content_sha256": "c6ed040d54650161398a0f94e6648233ec64ef92f4f7c3c0c776422aedc945d4",
+   "ee_text": "항암제(시스플라틴 등) 투여로 인한 구역 및 구토의 방지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-10-03T17:25:04Z",
+   "last_observed_at": "2026-10-03T17:25:04Z",
+   "official_revision_date": "2026-10-01"
+  }
+ ],
+ "history_fetched_at": "2026-10-03T17:25:04Z"
+}

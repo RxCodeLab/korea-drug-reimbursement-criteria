@@ -5,9 +5,9 @@
  "item_name": "메모론에스연질캡슐",
  "entp_name": "영일제약(주)",
  "permit_date": "20070409",
- "cancel_date": "",
- "status": "정상",
- "main_item_ingr": "[M082696]동클로로필|[M040397]에르고칼시페롤|[M243499]레티놀팔미테이트유|[M082813]사유",
+ "cancel_date": "20261001",
+ "status": "유효기간만료",
+ "main_item_ingr": "[M040397]에르고칼시페롤|[M082696]동클로로필|[M082813]사유|[M243499]레티놀팔미테이트유",
  "main_item_ingr_eng": "Chlorophyllin Copper/Ergocalciferol/Retinol Palmitate Oil/Snake Oil",
  "edi_code": "",
  "atc_code": "A11JC",
@@ -21,7 +21,7 @@
    "ee_doc_id": "11",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:41:22Z",
-   "last_observed_at": "2026-09-26T17:30:10Z",
+   "last_observed_at": "2026-10-03T17:22:29Z",
    "official_revision_date": "2017-09-23"
   }
  ]

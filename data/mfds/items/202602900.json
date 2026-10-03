@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602900",
+ "item_name": "에이디마이신동결건조주50밀리그램(독소루비신염산염)",
+ "entp_name": "(주)보령",
+ "permit_date": "20260928",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222835]독소루비신염산염",
+ "main_item_ingr_eng": "Doxorubicin Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602900",
+ "revisions": [
+  {
+   "revision_id": "202602900-5d0999fb",
+   "content_sha256": "5d0999fb1cbedd067b133aa9ad1b9639cdf4a2463b9fadbac9fe93a5baa69dec",
+   "ee_text": "악성 림프종(림프육종, 호지킨병 및 비호지킨병), 소화기암(위암, 간암, 직장암, 담낭 및 담관암, 결장암, 췌장암), 급성골수성백혈병, 연조직골육종, 유방암, 난소암, 폐암, 기관지암, 방광암, 윌름즈종양",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-10-03T17:23:31Z",
+   "last_observed_at": "2026-10-03T17:23:31Z",
+   "official_revision_date": "2026-09-28"
+  }
+ ],
+ "history_fetched_at": "2026-10-03T17:23:31Z"
+}

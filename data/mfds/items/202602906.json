@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202602906",
+ "item_name": "동국생명과학이오파미돌300주사액(수출용)",
+ "entp_name": "동국생명과학(주)",
+ "permit_date": "20260928",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M085529]이오파미돌",
+ "main_item_ingr_eng": "Iopamidol",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602906",
+ "revisions": [
+  {
+   "revision_id": "202602906-f9b42d1a",
+   "content_sha256": "f9b42d1a4ac264db8d4f6b714bd35bc80ffc65c5caba979e647f936c14d3e0b7",
+   "ee_text": "(주사제 300 mgI/mL) 1. 뇌수조조영 2. 척수조영 3. 혈관조영 : 동맥조영, 정맥조영 4. 정맥요로조영(IVP) 5. CT 조영증강",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-10-03T17:23:33Z",
+   "last_observed_at": "2026-10-03T17:23:33Z",
+   "official_revision_date": "2026-09-28"
+  }
+ ],
+ "history_fetched_at": "2026-10-03T17:23:33Z"
+}

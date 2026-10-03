@@ -7,7 +7,7 @@
  "permit_date": "19800920",
  "cancel_date": "20240503",
  "status": "취하",
- "main_item_ingr": "[M226008]셀룰라제4000|[M071237]췌장성효소|[M070806]아진타미드",
+ "main_item_ingr": "[M070806]아진타미드|[M071237]췌장성효소|[M226008]셀룰라제4000",
  "main_item_ingr_eng": "Azintamide/Cellulase 4000/Pancreatin",
  "edi_code": "",
  "atc_code": "A09A",
@@ -21,7 +21,7 @@
    "ee_doc_id": "8",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:26:40Z",
-   "last_observed_at": "2026-09-26T17:30:03Z",
+   "last_observed_at": "2026-10-03T17:22:24Z",
    "official_revision_date": "2017-09-23"
   }
  ]
