@@ -28,7 +28,7 @@ def _step(source: str, job: str, name: str) -> str:
 
 def test_workflow_parses_as_yaml():
     document = yaml.safe_load(_source())
-    assert set(document["jobs"]) == {"build", "publish-data", "report-upstream", "deploy-pages"}
+    assert set(document["jobs"]) == {"build", "publish-data", "report-upstream", "resolve-upstream", "deploy-pages"}
     build_steps = [step.get("name") for step in document["jobs"]["build"]["steps"]]
     assert "Run tests" in build_steps
 
@@ -136,7 +136,7 @@ def test_secret_audit_scans_collection_state_file():
 
 def test_upstream_failure_opens_or_updates_issue():
     source = _source()
-    report = source.split("\n  report-upstream:\n", 1)[1].split("\n  deploy-pages:\n", 1)[0]
+    report = source.split("\n  report-upstream:\n", 1)[1].split("\n\n  resolve-upstream:\n", 1)[0]
     assert "permissions:\n      issues: write" in report
     assert "GH_TOKEN: ${{ github.token }}" in report
     assert "gh issue list --label upstream-failure --state open" in report
@@ -144,6 +144,18 @@ def test_upstream_failure_opens_or_updates_issue():
     assert "gh issue comment" not in report  # 장애가 길어져도 댓글이 매일 쌓이지 않는다
     assert "GITHUB_STEP_SUMMARY" in report
     assert "exit 1" not in report
+
+
+def test_upstream_recovery_closes_open_issue():
+    source = _source()
+    recover = source.split("\n  resolve-upstream:\n", 1)[1].split("\n\n  deploy-pages:\n", 1)[0]
+    assert (
+        "if: needs.build.outputs.law_fetch == 'success' && "
+        "needs.build.outputs.mfds_fetch == 'success'"
+    ) in recover
+    assert "permissions:\n      issues: write" in recover
+    assert "gh issue list --label upstream-failure --state open" in recover
+    assert "gh issue close" in recover
 
 
 def test_publish_data_commits_collection_state_file():
