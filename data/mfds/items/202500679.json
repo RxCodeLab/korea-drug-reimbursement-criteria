@@ -12,8 +12,18 @@
  "edi_code": "650003321",
  "atc_code": "R03DX09",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500679",
- "history_fetched_at": "2026-08-27T12:13:53Z",
+ "history_fetched_at": "2026-11-05T18:33:22Z",
  "revisions": [
+  {
+   "revision_id": "202500679-b9eb9bc6",
+   "content_sha256": "b9eb9bc6f2a8a280c135a3b4c97799fb14357e8b3e84bf0c6001c81af6079fc8",
+   "ee_text": "1. 성인 및 청소년(12세 이상)에서 기존 치료에 적절하게 조절되지 않는 다음의 중증 호산구성 천식(SEA) 치료의 추가 유지 요법 - 치료 시작 시 혈중 호산구 150 cells/uL 이상 또는 - 치료 시작 전 12개월 이내에 혈중 호산구 300 cells/uL 이상 2. 성인에서 다발혈관염을 동반한 호산구육아종증(EGPA)의 추가 유지 요법 3. 성인에서 과다호산구증후군(HES)의 추가 유지 요법(FIP1L1-PDGFRα 양성 환자 제외) 4. 성인에서 흡입용 코르티코스테로이드(ICS), 장기 지속형 베타2-작용제(LABA), 장기 지속형 무스카린 길항제(LAMA) 병용요법으로 적절히 조절되지 않는, 혈중 호산구 수가 증가된 만성폐쇄성폐질환(COPD)의 추가 유지 요법",
+   "ee_doc_id": "10",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-05T18:33:22Z",
+   "last_observed_at": "2026-11-05T18:33:22Z",
+   "official_revision_date": "2026-10-22"
+  },
   {
    "revision_id": "202500679-8c526249",
    "content_sha256": "8c5262494ce54549517aeb577cc8d8203089b9dcfbcd17e012f6f5642edd9170",

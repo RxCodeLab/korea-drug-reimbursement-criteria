@@ -12,8 +12,18 @@
  "edi_code": "",
  "atc_code": "L04AC18",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201668",
- "history_fetched_at": "2026-09-06T21:47:32Z",
+ "history_fetched_at": "2026-11-05T18:33:21Z",
  "revisions": [
+  {
+   "revision_id": "202201668-59121fd3",
+   "content_sha256": "59121fd37a135364a85d98f35a4e7cc0edba98a94cbeddb550b37ae3edcdb778",
+   "ee_text": "성인(18세 이상) 1. 판상 건선 광선요법 또는 전신치료요법(생물학적 요법 포함)을 필요로 하는 중등도에서 중증의 성인 판상 건선의 치료 2. 건선성 관절염 이전에 DMARDs(disease-modifying anti-rheumatic drug)에 대한 반응이 적절하지 않거나 내약성이 없는 성인의 활동성 건선성 관절염의 치료 3. 손발바닥 농포증 보편적인 치료에 반응이 불충분하거나, 또는 내약성이 없는 중등도에서 중증의 성인 손발바닥 농포증의 치료 소아 1. 판상 건선 광선요법 또는 전신치료요법(생물학적 요법 포함)을 필요로 하는 체중 40kg 이상의 6세 이상 소아에서 중등도에서 중증 판상 건선의 치료",
+   "ee_doc_id": "19",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-05T18:33:21Z",
+   "last_observed_at": "2026-11-05T18:33:21Z",
+   "official_revision_date": "2026-10-26"
+  },
   {
    "revision_id": "202201668-8cf1014a",
    "content_sha256": "8cf1014a91c168ce814fa9ff4e1ce71890bde2e3883a5abaf2b3529ee613d376",

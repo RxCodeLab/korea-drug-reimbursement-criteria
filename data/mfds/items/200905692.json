@@ -12,8 +12,18 @@
  "edi_code": "",
  "atc_code": "R06AX13",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905692",
- "history_fetched_at": "2026-09-08T08:43:26Z",
+ "history_fetched_at": "2026-11-05T18:33:19Z",
  "revisions": [
+  {
+   "revision_id": "200905692-c78ef2d3",
+   "content_sha256": "c78ef2d3b805a1fef75ae9ce3a57611bd33b9c710933f22114aebc5fae560c57",
+   "ee_text": "알레르기성 비염(재채기, 코막힘, 가려움, 눈의 작열감(화끈감)), 만성 특발성(원인 불명의) 두드러기",
+   "ee_doc_id": "28",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-05T18:33:19Z",
+   "last_observed_at": "2026-11-05T18:33:19Z",
+   "official_revision_date": "2026-10-15"
+  },
   {
    "revision_id": "200905692-266bda52",
    "content_sha256": "266bda52ccb61875a92c97f9d24fcfcd6752852a4644dfc4c1982b8e94e52b37",

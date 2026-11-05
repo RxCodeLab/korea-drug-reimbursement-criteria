@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603106",
+ "item_name": "히알케어주(히알루론산나트륨)",
+ "entp_name": "한림제약(주)",
+ "permit_date": "20261012",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222910]히알루론산나트륨",
+ "main_item_ingr_eng": "Sodium Hyaluronate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603106",
+ "revisions": [
+  {
+   "revision_id": "202603106-9f107156",
+   "content_sha256": "9f1071561d00f055c13be3be3ef3b23d2e95ddbab64924f258c5ac2f2b5c967a",
+   "ee_text": "백내장수술(수정체이식),각막이식수술,녹내장수술등 각종 안과수술 보조제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-05T18:33:23Z",
+   "last_observed_at": "2026-11-05T18:33:23Z",
+   "official_revision_date": "2026-10-12"
+  }
+ ],
+ "history_fetched_at": "2026-11-05T18:33:23Z"
+}

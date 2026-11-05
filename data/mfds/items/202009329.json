@@ -12,16 +12,47 @@
  "edi_code": "671706750",
  "atc_code": "N05AX12",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009329",
- "history_fetched_at": "2026-08-27T13:27:21Z",
+ "history_fetched_at": "2026-11-05T18:33:20Z",
  "revisions": [
+  {
+   "revision_id": "202009329-9c290d1a",
+   "content_sha256": "9c290d1a04933931cd1e7c5f2dee8e5477df1a556fcb67d3564f7aa0f0a3d086",
+   "ee_text": "1. 조현병 2. 양극성 장애와 관련된 급성 조증 및 혼재 삽화의 치료 3. 주요우울장애 치료의 부가요법제 4. 자폐장애와 관련된 과민증 5. 뚜렛장애",
+   "ee_doc_id": "17",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-05T18:33:20Z",
+   "last_observed_at": "2026-11-05T18:33:20Z",
+   "official_revision_date": "2026-10-28"
+  },
+  {
+   "revision_id": "202009329-efd4a48e",
+   "content_sha256": "efd4a48eb8401f7c6f811a9cc028f55ee18b6f975bfa5b7f26d11e6b91be8f05",
+   "ee_text": "1. 정신분열병 2. 양극성 장애와 관련된 조증 및 혼재삽화의 치료 3. 주요우울장애 치료의 부가요법제 4. 자폐장애와 관련된 과민증 5. 뚜렛장애",
+   "ee_doc_id": "7",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-08-29",
+   "first_observed_at": "2026-11-05T18:33:20Z",
+   "last_observed_at": "2026-11-05T18:33:20Z"
+  },
   {
    "revision_id": "202009329-9510b2f0",
    "content_sha256": "9510b2f0ef66195ac637f4421816f8c10eb0d06f4d434bfd1532a98a6ec93cec",
    "ee_text": "1. 조현병 2. 양극성 장애와 관련된 조증 및 혼재삽화의 치료 3. 주요우울장애 치료의 부가요법제 4. 자폐장애와 관련된 과민증 5. 뚜렛장애",
-   "ee_doc_id": "HTTPS://NEDRUG.MFDS.GO.KR/PBP/CMN/PDFDOWNLOAD/202009329/EE",
+   "ee_doc_id": "8",
    "first_observed_at": "2026-08-27T13:27:21Z",
    "last_observed_at": "2026-10-03T17:22:55Z",
-   "normalizer_version": 3
+   "normalizer_version": 3,
+   "official_revision_date": "2022-08-29"
+  },
+  {
+   "revision_id": "202009329-5e470943",
+   "content_sha256": "5e470943fa7cedc64244f0489a7d39bf0d3fd1044d4e1bdd0c29e5383f1674d0",
+   "ee_text": "1. 정신분열병 2. 양극성 장애와 관련된 조증 및 혼재삽화의 치료 3. 뚜렛장애",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "official_revision_date": "2022-01-10",
+   "first_observed_at": "2026-11-05T18:33:20Z",
+   "last_observed_at": "2026-11-05T18:33:20Z"
   },
   {
    "revision_id": "202009329-7b80ea17",
