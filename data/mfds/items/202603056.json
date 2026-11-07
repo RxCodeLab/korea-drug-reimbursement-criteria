@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603056",
+ "item_name": "에페오토인젝터주8밀리그램(에페글레나타이드)",
+ "entp_name": "한미약품(주)",
+ "permit_date": "20261007",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M267909]에페글레나타이드",
+ "main_item_ingr_eng": "Efpeglenatide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603056",
+ "revisions": [
+  {
+   "revision_id": "202603056-8136881e",
+   "content_sha256": "8136881e4bab598880aa57362100db6436bbb31b94078e48cbccd7732a2f1291",
+   "ee_text": "이 약은 아래와 같은 성인 환자의 만성 체중 관리를 위해 저열량 식이요법 및 운동요법의 보조제로서 투여한다. - 당뇨를 동반하지 않은 초기 체질량지수(BMI) 30kg/m2 이상인 비만 환자, 또는 - 당뇨를 동반하지 않고 한 가지 이상의 체중 관련 동반 질환(예. 고혈압, 이상지질혈증, 수면무호흡 또는 심혈관 질환)이 있는 초기 체질량지수(BMI)가 27kg/m2 이상 30kg/m2 미만인 과체중 환자",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:53:09Z",
+   "last_observed_at": "2026-11-07T18:53:09Z",
+   "official_revision_date": "2026-10-07"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:53:09Z"
+}

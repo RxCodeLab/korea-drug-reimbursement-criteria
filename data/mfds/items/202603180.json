@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603180",
+ "item_name": "퀸락정50밀리그램(리프레티닙)",
+ "entp_name": "한국오노약품공업주식회사",
+ "permit_date": "20261016",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286861]리프레티닙",
+ "main_item_ingr_eng": "Ripretinib",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603180",
+ "revisions": [
+  {
+   "revision_id": "202603180-aa622293",
+   "content_sha256": "aa622293322e4fc56d81474d1d29da19999b6299873ba009a4eba5a5b2ab997c",
+   "ee_text": "이전에 이매티닙을 포함한 세 가지 이상의 키나아제 억제제로 치료받은 적이 있는 성인 진행성 위장관기질종양(GIST) 환자의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:54:34Z",
+   "last_observed_at": "2026-11-07T18:54:34Z",
+   "official_revision_date": "2026-10-16"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:54:34Z"
+}

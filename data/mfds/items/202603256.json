@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603256",
+ "item_name": "일펜싹정",
+ "entp_name": "일양약품(주)",
+ "permit_date": "20261026",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M051259]이부프로펜|[M110153]감초 가루|[M110838]작약 가루",
+ "main_item_ingr_eng": "Glycyrrhiza Powder/Ibuprofen/Peony Root Powder",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603256",
+ "revisions": [
+  {
+   "revision_id": "202603256-28c2ac3f",
+   "content_sha256": "28c2ac3f20f7f14e47ad6aa7de582c54f45b7725a9708f58f18f902f8b313abb",
+   "ee_text": "○ 두통, 치통, 발치(이를 뽑음) 후 동통(통증), 인후통, 귀의 통증, 관절통, 신경통, 요통, 근육통, 견통(어깨결림), 타박통, 골절통, 염좌통(삔 통증), 월경통(생리통), 외상통의 진통 ○ 오한(춥고 떨리는 증상), 발열 시의 해열",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:55:16Z",
+   "last_observed_at": "2026-11-07T18:55:16Z",
+   "official_revision_date": "2026-10-26"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:55:16Z"
+}

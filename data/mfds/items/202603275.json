@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603275",
+ "item_name": "마그네민디정",
+ "entp_name": "한국프라임제약(주)",
+ "permit_date": "20261027",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M204304]피리독신염산염|[M243785]산화아연|[M244748]판토텐산칼슘|[M255050]락트산마그네슘수화물",
+ "main_item_ingr_eng": "Calcium Pantothenate/Magnesium Lactate Hydrate/Pyridoxine Hydrochloride/Zinc Oxide",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603275",
+ "revisions": [
+  {
+   "revision_id": "202603275-39a75f73",
+   "content_sha256": "39a75f73c495c3ed9c0bd0f077ff742bc4fbee707b905c613d1170a685c93277",
+   "ee_text": "1. 다음 경우의 비타민 B6의 보급 -임신･수유기 -병중･병후(병을 앓는 동안이나 회복 후)의 체력 저하 시 2. 아연의 보급 3. 마그네슘결핍으로 인한 근육경련",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:56:04Z",
+   "last_observed_at": "2026-11-07T18:56:04Z",
+   "official_revision_date": "2026-10-27"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:56:04Z"
+}

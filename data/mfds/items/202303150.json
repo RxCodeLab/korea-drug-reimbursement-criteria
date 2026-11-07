@@ -12,8 +12,18 @@
  "edi_code": "",
  "atc_code": "N02CD07",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303150",
- "history_fetched_at": "2026-09-08T09:02:31Z",
+ "history_fetched_at": "2026-11-07T18:52:49Z",
  "revisions": [
+  {
+   "revision_id": "202303150-077da341",
+   "content_sha256": "077da34184660c6c600efb6d8c8096b5f746673dd3800156a6de4c36896b5e56",
+   "ee_text": "1. 성인(18세 이상)에서의 전조증상을 수반하거나 수반하지 않는 편두통의 급성치료 2. 성인(18세 이상)에서의 편두통의 예방",
+   "ee_doc_id": "14",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:52:49Z",
+   "last_observed_at": "2026-11-07T18:52:49Z",
+   "official_revision_date": "2026-11-05"
+  },
   {
    "revision_id": "202303150-f1fac29d",
    "content_sha256": "f1fac29d1b60ca15338f47cd5043cd9c21000e278731f5a65667b6bd7146f28f",

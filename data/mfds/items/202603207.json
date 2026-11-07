@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603207",
+ "item_name": "리브델지캡슐(셀라델파리신이수화물)",
+ "entp_name": "길리어드사이언스코리아(유)",
+ "permit_date": "20261020",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286795]셀라델파리신이수화물",
+ "main_item_ingr_eng": "Seladelpar Lysine Dihydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603207",
+ "revisions": [
+  {
+   "revision_id": "202603207-5f9d3e93",
+   "content_sha256": "5f9d3e9386d586d84846c7bce70a7215ad2f6e2182e08659c5df86ec4b9e8bf1",
+   "ee_text": "원발성 담즙성 담관염(PBC) 성인 환자의 치료 - 우르소데옥시콜산(UDCA)에 반응이 불충분한 환자에서 UDCA와 병용요법 - UDCA에 내약성이 없는 환자에서 이 약의 단독요법 비대상성 간경화 (예, 복수, 정맥류 출혈 및 간성 뇌병증)가 있거나 치료 중 비대상성 간경화가 발생한 환자에서 이 약의 투여는 권장되지 않는다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:54:53Z",
+   "last_observed_at": "2026-11-07T18:54:53Z",
+   "official_revision_date": "2026-10-20"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:54:53Z"
+}

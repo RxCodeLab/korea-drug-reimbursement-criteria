@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603373",
+ "item_name": "히디아리뉴겔(히알루론산나트륨)",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20261104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M222910]히알루론산나트륨",
+ "main_item_ingr_eng": "Sodium Hyaluronate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603373",
+ "revisions": [
+  {
+   "revision_id": "202603373-8926b684",
+   "content_sha256": "8926b684b7aaa01e6fbc2f303418306236bb6f5cab15810fd925d47eec2fe8f1",
+   "ee_text": "무통성 상처의 조직 재생 촉진",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:57:11Z",
+   "last_observed_at": "2026-11-07T18:57:11Z",
+   "official_revision_date": "2026-11-04"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:57:11Z"
+}

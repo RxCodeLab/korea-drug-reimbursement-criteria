@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603247",
+ "item_name": "마이오클리어점안액0.05%(아트로핀황산염)(1회용)",
+ "entp_name": "(주)라이트팜텍",
+ "permit_date": "20261023",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M110023]아트로핀황산염",
+ "main_item_ingr_eng": "Atropine Sulfate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603247",
+ "revisions": [
+  {
+   "revision_id": "202603247-cf605ba5",
+   "content_sha256": "cf605ba5f6e27a7df4b9de8f30019a70285f0d8687e99b32070904edbe72318f",
+   "ee_text": "소아 근시 진행 억제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:55:12Z",
+   "last_observed_at": "2026-11-07T18:55:12Z",
+   "official_revision_date": "2026-10-23"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:55:12Z"
+}

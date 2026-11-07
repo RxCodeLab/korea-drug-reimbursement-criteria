@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603375",
+ "item_name": "엠블라비오주1.5g/0.5g(아즈트레오남/아비박탐)",
+ "entp_name": "한국화이자제약(주)",
+ "permit_date": "20261104",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M081747]아즈트레오남|[M267822]아비박탐나트륨",
+ "main_item_ingr_eng": "Avibactam Sodium/Aztreonam",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603375",
+ "revisions": [
+  {
+   "revision_id": "202603375-219acf69",
+   "content_sha256": "219acf69558563c6df66dd94cacedaa075c48af5bd969506a64245bd35c25c71",
+   "ee_text": "1. 적응증 이 약은 성인 환자에서 다음 감염의 치료에 사용된다: • 복잡성 복강내 감염 (cIAI)(메트로니다졸과 병용 투여) • 인공호흡기 관련 폐렴(VAP)을 포함한 원내감염 폐렴(HAP) 2. 유효균종 복잡성 복강내 감염 (cIAI): 그람-음성균 Escherichia coli, Klebsiella pneumoniae, Klebsiella oxytoca, Enterobacter cloacae complex, Citrobacter freundii complex, Proteus mirabilis. 인공호흡기 관련 폐렴(VAP)을 포함한 원내감염 폐렴(HAP): 그람-음성균 Klebsiella pneumoniae, Enterobacter cloacae complex, Serratia marcescens, Escherichia coli, Klebsiella oxytoca, Stenotrophomonas maltophilia, Proteus mirabilis, Morganella morganii. 약물 내성균의 발현을 줄이고 이 약 및 다른 항생제의 효과를 유지하기 위해, 이 약은 유효 균종에 의한 감염임이 확인되거나 또는 유효 균종에 의한 것이라고 의심되는 감염 시에만 사용한다. 배양 및 감수성 정보가 있는 경우, 항균 요법의 선택 또는 변경 시 이를 우선적으로 고려해야 하며, 이러한 정보가 없는 경우에는 지역 역학 자료 및 감수성 패턴이 경험적 치료 선택에 참고될 수 있다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:57:10Z",
+   "last_observed_at": "2026-11-07T18:57:10Z",
+   "official_revision_date": "2026-11-04"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:57:10Z"
+}

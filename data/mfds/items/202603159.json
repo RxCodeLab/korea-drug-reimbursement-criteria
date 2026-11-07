@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603159",
+ "item_name": "자스케이드정18밀리그램(네란도밀라스트)",
+ "entp_name": "한국베링거인겔하임(주)",
+ "permit_date": "20261015",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286763]네란도밀라스트",
+ "main_item_ingr_eng": "Nerandomilast",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603159",
+ "revisions": [
+  {
+   "revision_id": "202603159-bb5efbcb",
+   "content_sha256": "bb5efbcb319281966e4a2736afff113f5012c34aabbdb5a040afeb5023b9cdd1",
+   "ee_text": "특발성폐섬유증의 치료",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:54:32Z",
+   "last_observed_at": "2026-11-07T18:54:32Z",
+   "official_revision_date": "2026-10-15"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:54:32Z"
+}

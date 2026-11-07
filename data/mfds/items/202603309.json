@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603309",
+ "item_name": "헌터라제아이씨브이주(이두설파제 베타)",
+ "entp_name": "(주)녹십자",
+ "permit_date": "20261029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M286838]이두설파제 베타",
+ "main_item_ingr_eng": "Idursulfase beta",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603309",
+ "revisions": [
+  {
+   "revision_id": "202603309-c6f75e0d",
+   "content_sha256": "c6f75e0d1a554488eff3668f9e9c94f90823e7944aed57a729f0655f66f6bb57",
+   "ee_text": "신경병증성 헌터증후군(뮤코다당증 II형, MPS II) 소아 환자에서, 이두설파제 또는 이두설파제 베타 정맥제제와 병용하여 효소대체요법으로 사용한다. 이 약의 유효성은 뇌척수액(CSF) 내 헤파란 황산염(Heparan Sulfate, HS)의 감소에 근거하였으며 이 약의 유효성을 치료적 확증시험에서 입증한 자료는 없다.",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:56:32Z",
+   "last_observed_at": "2026-11-07T18:56:32Z",
+   "official_revision_date": "2026-10-29"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:56:32Z"
+}

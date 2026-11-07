@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603398",
+ "item_name": "동아제약비스카르현탁액",
+ "entp_name": "동아제약(주)",
+ "permit_date": "20261105",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M246203]DL-카르니틴염산염|[M251876]비스무트차살리실산염",
+ "main_item_ingr_eng": "Bismuth Subsalicylate/DL-Carnitine Hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603398",
+ "revisions": [
+  {
+   "revision_id": "202603398-1d914b41",
+   "content_sha256": "1d914b4143613a0c9c4ae07070e163524f6fb085b4b522ee9b9d72fcc1fae60e",
+   "ee_text": "설사, 체함, 묽은 변, 토사",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:57:54Z",
+   "last_observed_at": "2026-11-07T18:57:54Z",
+   "official_revision_date": "2026-11-05"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:57:54Z"
+}

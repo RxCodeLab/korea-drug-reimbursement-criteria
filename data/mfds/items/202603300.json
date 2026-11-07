@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603300",
+ "item_name": "프란큐건조시럽(프란루카스트수화물)",
+ "entp_name": "삼천당제약(주)",
+ "permit_date": "20261029",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M087212]프란루카스트수화물",
+ "main_item_ingr_eng": "Pranlukast Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603300",
+ "revisions": [
+  {
+   "revision_id": "202603300-0ea0dd5f",
+   "content_sha256": "0ea0dd5fb831dc9e4316c289ce344db6cebbad921d352b2ecfcba58ce968cbd2",
+   "ee_text": "1. 기관지천식 2. 통년성 알레르기 비염",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:56:02Z",
+   "last_observed_at": "2026-11-07T18:56:02Z",
+   "official_revision_date": "2026-10-29"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:56:02Z"
+}

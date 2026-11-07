@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603369",
+ "item_name": "디쿠아온점안액5%(디쿠아포솔나트륨)(1회용)",
+ "entp_name": "(주)휴비스트제약",
+ "permit_date": "20261103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M253703]디쿠아포솔나트륨",
+ "main_item_ingr_eng": "Diquafosol Tetrasodium",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603369",
+ "revisions": [
+  {
+   "revision_id": "202603369-bf5d9bdf",
+   "content_sha256": "bf5d9bdf211fee21cdea2f65ab9c69879238c7fd276dacef9a9705c8e7cbf711",
+   "ee_text": "안구건조증과 관련한 증상(각결막 상피 장애)의 개선",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:57:09Z",
+   "last_observed_at": "2026-11-07T18:57:09Z",
+   "official_revision_date": "2026-11-03"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:57:09Z"
+}

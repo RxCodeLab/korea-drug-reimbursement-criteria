@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603132",
+ "item_name": "보신위정10밀리그램(보노프라잔푸마르산염)",
+ "entp_name": "한국휴텍스제약(주)",
+ "permit_date": "20261013",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M269283]보노프라잔푸마르산염",
+ "main_item_ingr_eng": "Vonoprazan Fumarate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603132",
+ "revisions": [
+  {
+   "revision_id": "202603132-3fd05efd",
+   "content_sha256": "3fd05efd167aaacebdb2783c2d2eb003dc5ab17280bffaaf599b420088db2446",
+   "ee_text": "위궤양, 미란성 위식도역류질환, 미란성 위식도역류질환 치료후 유지요법, 비스테로이드소염진통제(NSAIDs) 투여 시 위궤양 또는 십이지장궤양 재발 방지",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:54:28Z",
+   "last_observed_at": "2026-11-07T18:54:28Z",
+   "official_revision_date": "2026-10-13"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:54:28Z"
+}

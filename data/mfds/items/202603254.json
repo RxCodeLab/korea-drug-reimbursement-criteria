@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603254",
+ "item_name": "카르마린정350밀리그램(밀크시슬열매건조엑스)",
+ "entp_name": "메딕스제약(주)",
+ "permit_date": "20261026",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M268656]밀크시슬열매건조엑스",
+ "main_item_ingr_eng": "Milk-Thistle Fruit Dried Extract",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603254",
+ "revisions": [
+  {
+   "revision_id": "202603254-09048089",
+   "content_sha256": "0904808952d898bb136b01ec9f46117f6e4ef7db3aa4de31b0083d549826c638",
+   "ee_text": "다음 질환의 보조치료 : 독성 간질환, 만성간염, 간경변",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:55:58Z",
+   "last_observed_at": "2026-11-07T18:55:58Z",
+   "official_revision_date": "2026-10-26"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:55:58Z"
+}

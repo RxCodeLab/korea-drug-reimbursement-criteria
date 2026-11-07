@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603236",
+ "item_name": "피이지산",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20261023",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M103014]폴리에틸렌글리콜3350|[M207094]탄산수소나트륨|[M257776]무수황산나트륨",
+ "main_item_ingr_eng": "Anhydrous Sodium Sulfate/Polyethylene Glycol 3350/Potassium Chloride/Sodium Bicarbonate/Sodium Chloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603236",
+ "revisions": [
+  {
+   "revision_id": "202603236-7fac64aa",
+   "content_sha256": "7fac64aabd5be0dbc0f898a33ff4314a5ddd76dd655ea75e7d7abc9a083efa6e",
+   "ee_text": "대장 X선 검사, 대장내시경검사, 직장경검사(탈장, 치질), 정맥요로조영(IVP), 복부외과수술 시의 전처치용 하제",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:55:10Z",
+   "last_observed_at": "2026-11-07T18:55:10Z",
+   "official_revision_date": "2026-10-23"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:55:10Z"
+}

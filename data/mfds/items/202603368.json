@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603368",
+ "item_name": "반라피아필름코팅정0.75밀리그램(아트라센탄염산염)",
+ "entp_name": "한국노바티스(주)",
+ "permit_date": "20261103",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M266436]아트라센탄염산염",
+ "main_item_ingr_eng": "Atrasentan hydrochloride",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603368",
+ "revisions": [
+  {
+   "revision_id": "202603368-57a92b20",
+   "content_sha256": "57a92b2075c1ccd08e17b7275a09174f1ebf4b195c275ef058959f3560a74b6d",
+   "ee_text": "요중 단백질 대 크레아티닌 비율(UPCR)이 1.5 g/g 이상인 성인 원발성 IgA 신병증(immunoglobulin A nephropathy, IgAN)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-07T18:57:08Z",
+   "last_observed_at": "2026-11-07T18:57:08Z",
+   "official_revision_date": "2026-11-03"
+  }
+ ],
+ "history_fetched_at": "2026-11-07T18:57:08Z"
+}
