@@ -7,11 +7,12 @@
  "permit_date": "20261103",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040678]판크레아틴|[M100297]셀룰라제|[M227778]디메티콘|[M268886]우담즙건조엑스",
+ "main_item_ingr": "[M227778]디메티콘|[M268886]우담즙건조엑스|[M100297]셀룰라제|[M040678]판크레아틴",
  "main_item_ingr_eng": "Cellulase/Dimethicone/Ox Bile Dried Extract/Pancreatin",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603355",
+ "history_fetched_at": "2026-11-07T18:57:11Z",
  "revisions": [
   {
    "revision_id": "202603355-286238c3",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-11-07T18:57:11Z",
-   "last_observed_at": "2026-11-07T18:57:11Z",
+   "last_observed_at": "2026-11-14T19:18:24Z",
    "official_revision_date": "2026-11-03"
   }
- ],
- "history_fetched_at": "2026-11-07T18:57:11Z"
+ ]
 }

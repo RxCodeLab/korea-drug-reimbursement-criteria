@@ -7,7 +7,7 @@
  "permit_date": "20100719",
  "cancel_date": "20240402",
  "status": "취하",
- "main_item_ingr": "[M081531]철단백추출물|[M086692]시아노코발라민|[M223289]폴산",
+ "main_item_ingr": "[M223289]폴산|[M086692]시아노코발라민|[M081531]철단백추출물",
  "main_item_ingr_eng": "Cyanocobalamin/Ferritin Extract/Folic Acid",
  "edi_code": "",
  "atc_code": "B03AE01",
@@ -21,7 +21,7 @@
    "ee_doc_id": "7",
    "normalizer_version": 3,
    "first_observed_at": "2026-09-08T08:44:08Z",
-   "last_observed_at": "2026-11-07T18:52:35Z",
+   "last_observed_at": "2026-11-14T19:18:09Z",
    "official_revision_date": "2017-09-23"
   }
  ]

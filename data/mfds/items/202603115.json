@@ -7,11 +7,12 @@
  "permit_date": "20261013",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040262]산화마그네슘|[M223262]티아민질산염|[M255819]토코페롤아세테이트 2배산|[M256191]콘드로이틴설페이트나트륨",
+ "main_item_ingr": "[M040262]산화마그네슘|[M255819]토코페롤아세테이트 2배산|[M223262]티아민질산염|[M256191]콘드로이틴설페이트나트륨",
  "main_item_ingr_eng": "Magnesium Oxide/Sodium Chondroitin Sulfate/Thiamine Nitrate/Tocopherol Acetate Powder 50%",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603115",
+ "history_fetched_at": "2026-11-07T18:53:57Z",
  "revisions": [
   {
    "revision_id": "202603115-1e343e77",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-11-07T18:53:57Z",
-   "last_observed_at": "2026-11-07T18:53:57Z",
+   "last_observed_at": "2026-11-14T19:18:24Z",
    "official_revision_date": "2026-10-13"
   }
- ],
- "history_fetched_at": "2026-11-07T18:53:57Z"
+ ]
 }

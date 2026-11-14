@@ -7,11 +7,12 @@
  "permit_date": "20261019",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M050687]비사코딜|[M110283]센나열매 가루",
+ "main_item_ingr": "[M110283]센나열매 가루|[M050687]비사코딜",
  "main_item_ingr_eng": "Bisacodyl/Sennae Fructus Powder",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603188",
+ "history_fetched_at": "2026-11-07T18:54:50Z",
  "revisions": [
   {
    "revision_id": "202603188-8092f99e",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-11-07T18:54:50Z",
-   "last_observed_at": "2026-11-07T18:54:50Z",
+   "last_observed_at": "2026-11-14T19:18:24Z",
    "official_revision_date": "2026-10-19"
   }
- ],
- "history_fetched_at": "2026-11-07T18:54:50Z"
+ ]
 }

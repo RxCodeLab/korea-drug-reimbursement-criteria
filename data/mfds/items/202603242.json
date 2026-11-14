@@ -7,11 +7,12 @@
  "permit_date": "20261023",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M051259]이부프로펜|[M082487]파마브롬",
+ "main_item_ingr": "[M082487]파마브롬|[M051259]이부프로펜",
  "main_item_ingr_eng": "Ibuprofen/Pamabrom",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603242",
+ "history_fetched_at": "2026-11-07T18:55:11Z",
  "revisions": [
   {
    "revision_id": "202603242-814509c3",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-11-07T18:55:11Z",
-   "last_observed_at": "2026-11-07T18:55:11Z",
+   "last_observed_at": "2026-11-14T19:18:24Z",
    "official_revision_date": "2026-10-23"
   }
- ],
- "history_fetched_at": "2026-11-07T18:55:11Z"
+ ]
 }

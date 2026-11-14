@@ -7,11 +7,12 @@
  "permit_date": "20261020",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M232855]도네페질염산염|[M242614]메만틴염산염",
+ "main_item_ingr": "[M242614]메만틴염산염|[M232855]도네페질염산염",
  "main_item_ingr_eng": "Donepezil Hydrochloride/Memantine Hydrochloride",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603196",
+ "history_fetched_at": "2026-11-07T18:54:52Z",
  "revisions": [
   {
    "revision_id": "202603196-5d0a705a",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-11-07T18:54:52Z",
-   "last_observed_at": "2026-11-07T18:54:52Z",
+   "last_observed_at": "2026-11-14T19:18:24Z",
    "official_revision_date": "2026-10-20"
   }
- ],
- "history_fetched_at": "2026-11-07T18:54:52Z"
+ ]
 }

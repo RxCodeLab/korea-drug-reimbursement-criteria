@@ -7,11 +7,12 @@
  "permit_date": "20261023",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040426]염화나트륨|[M040438]염화칼륨|[M103014]폴리에틸렌글리콜3350|[M207094]탄산수소나트륨|[M257776]무수황산나트륨",
+ "main_item_ingr": "[M207094]탄산수소나트륨|[M040438]염화칼륨|[M040426]염화나트륨|[M257776]무수황산나트륨|[M103014]폴리에틸렌글리콜3350",
  "main_item_ingr_eng": "Anhydrous Sodium Sulfate/Polyethylene Glycol 3350/Potassium Chloride/Sodium Bicarbonate/Sodium Chloride",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603236",
+ "history_fetched_at": "2026-11-07T18:55:10Z",
  "revisions": [
   {
    "revision_id": "202603236-7fac64aa",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-11-07T18:55:10Z",
-   "last_observed_at": "2026-11-07T18:55:10Z",
+   "last_observed_at": "2026-11-14T19:18:24Z",
    "official_revision_date": "2026-10-23"
   }
- ],
- "history_fetched_at": "2026-11-07T18:55:10Z"
+ ]
 }

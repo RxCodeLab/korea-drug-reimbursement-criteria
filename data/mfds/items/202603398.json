@@ -7,11 +7,12 @@
  "permit_date": "20261105",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M246203]DL-카르니틴염산염|[M251876]비스무트차살리실산염",
+ "main_item_ingr": "[M251876]비스무트차살리실산염|[M246203]DL-카르니틴염산염",
  "main_item_ingr_eng": "Bismuth Subsalicylate/DL-Carnitine Hydrochloride",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603398",
+ "history_fetched_at": "2026-11-07T18:57:54Z",
  "revisions": [
   {
    "revision_id": "202603398-1d914b41",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-11-07T18:57:54Z",
-   "last_observed_at": "2026-11-07T18:57:54Z",
+   "last_observed_at": "2026-11-14T19:18:24Z",
    "official_revision_date": "2026-11-05"
   }
- ],
- "history_fetched_at": "2026-11-07T18:57:54Z"
+ ]
 }

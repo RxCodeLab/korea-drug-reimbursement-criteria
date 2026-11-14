@@ -7,11 +7,12 @@
  "permit_date": "20261106",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040353]아세트아미노펜|[M203364]슈도에페드린염산염|[M222996]리보플라빈포스페이트나트륨|[M223211]클로르페니라민말레산염|[M264046]DL-메틸에페드린염산염",
+ "main_item_ingr": "[M222996]리보플라빈포스페이트나트륨|[M264046]DL-메틸에페드린염산염|[M223211]클로르페니라민말레산염|[M203364]슈도에페드린염산염|[M040353]아세트아미노펜",
  "main_item_ingr_eng": "Acetaminophen/Chlorpheniramine Maleate/DL-Methylephedrine Hydrochloride/Pseudoephedrine Hydrochloride/Riboflavin Sodium Phosphate",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603409",
+ "history_fetched_at": "2026-11-07T18:57:25Z",
  "revisions": [
   {
    "revision_id": "202603409-6110e228",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-11-07T18:57:25Z",
-   "last_observed_at": "2026-11-07T18:57:25Z",
+   "last_observed_at": "2026-11-14T19:18:24Z",
    "official_revision_date": "2026-11-06"
   }
- ],
- "history_fetched_at": "2026-11-07T18:57:25Z"
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "complete": true,
+ "item_seq": "202603485",
+ "item_name": "페라비르주15밀리리터(페라미비르수화물)",
+ "entp_name": "(주)한국팜비오",
+ "permit_date": "20261113",
+ "cancel_date": "",
+ "status": "정상",
+ "main_item_ingr": "[M250603]페라미비르수화물",
+ "main_item_ingr_eng": "Peramivir Hydrate",
+ "edi_code": "",
+ "atc_code": "",
+ "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603485",
+ "revisions": [
+  {
+   "revision_id": "202603485-81177b81",
+   "content_sha256": "81177b811173aaae0f1ace36a9dff8a3f685cff22fd87e0fee812bd6d86e8400",
+   "ee_text": "성인 및 6개월 이상 소아의 A형 또는 B형 인플루엔자 바이러스 감염증의 치료(인플루엔자 감염의 초기증상 발현 48시간 이내에 투여를 시작해야 한다.)",
+   "ee_doc_id": "1",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-14T19:20:08Z",
+   "last_observed_at": "2026-11-14T19:20:08Z",
+   "official_revision_date": "2026-11-13"
+  }
+ ],
+ "history_fetched_at": "2026-11-14T19:20:08Z"
+}

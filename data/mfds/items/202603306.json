@@ -7,11 +7,12 @@
  "permit_date": "20261029",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M040353]아세트아미노펜|[M203364]슈도에페드린염산염|[M223211]클로르페니라민말레산염",
+ "main_item_ingr": "[M040353]아세트아미노펜|[M223211]클로르페니라민말레산염|[M203364]슈도에페드린염산염",
  "main_item_ingr_eng": "Acetaminophen/Chlorpheniramine Maleate/Pseudoephedrine Hydrochloride",
  "edi_code": "",
  "atc_code": "",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603306",
+ "history_fetched_at": "2026-11-07T18:56:03Z",
  "revisions": [
   {
    "revision_id": "202603306-536d8b05",
@@ -20,9 +21,8 @@
    "ee_doc_id": "1",
    "normalizer_version": 3,
    "first_observed_at": "2026-11-07T18:56:03Z",
-   "last_observed_at": "2026-11-07T18:56:03Z",
+   "last_observed_at": "2026-11-14T19:18:24Z",
    "official_revision_date": "2026-10-29"
   }
- ],
- "history_fetched_at": "2026-11-07T18:56:03Z"
+ ]
 }
