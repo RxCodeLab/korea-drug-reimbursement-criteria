@@ -7,13 +7,23 @@
  "permit_date": "20190118",
  "cancel_date": "",
  "status": "정상",
- "main_item_ingr": "[M278212]테노포비르알라페나미드헤미푸마르산염|[M250026]엠트리시타빈|[M268156]빅테그라비르나트륨",
+ "main_item_ingr": "[M268156]빅테그라비르나트륨|[M250026]엠트리시타빈|[M278212]테노포비르알라페나미드헤미푸마르산염",
  "main_item_ingr_eng": "Bictegravir Sodium/Emtricitabine/Tenofovir Alafenamide HemiFumarate",
  "edi_code": "625900130",
  "atc_code": "J05AR20",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900267",
- "history_fetched_at": "2026-09-08T08:54:05Z",
+ "history_fetched_at": "2026-11-16T22:16:48Z",
  "revisions": [
+  {
+   "revision_id": "201900267-faad25ad",
+   "content_sha256": "faad25ad213d86296a4fa42c1bf331f701eda41166f0f5ac920a82b032fa4e44",
+   "ee_text": "성인 및 6세 이상이고 체중 25 kg 이상인 소아 환자의 HIV-1 감염 치료를 위해 다음의 경우에 사용한다. - 항레트로바이러스 치료 경험이 없는 환자, 또는 - 항레트로바이러스 치료 경험이 있고 바이러스학적으로 억제되지 않은, 통합효소억제제, 엠트리시타빈 또는 테노포비르에 대해 알려지거나 의심되는 내성관련 치환이 없는 환자, 또는 - 기존 항레트로바이러스 치료 요법에 안정된 바이러스 수치 억제 효과를 보이며 (HIV-1 RNA<50 copies/mL) 빅테그라비르 또는 테노포비르에 대해 알려지거나 의심되는 내성관련 치환이 없는 환자",
+   "ee_doc_id": "39",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-16T22:16:48Z",
+   "last_observed_at": "2026-11-16T22:16:48Z",
+   "official_revision_date": "2026-11-15"
+  },
   {
    "revision_id": "201900267-98919ded",
    "content_sha256": "98919ded6a6a44512a9270e6b4003da175e2dfd962e81ddc590420377d1ff13f",
