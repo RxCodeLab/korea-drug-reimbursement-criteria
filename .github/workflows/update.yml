@@ -263,6 +263,27 @@ jobs:
             gh issue create --title "[수집 실패] $today" --label upstream-failure --body "$body"
           fi
 
+  # 실패로 열려 있던 issue는 수집이 복구되면 닫는다.
+  resolve-upstream:
+    needs: build
+    if: needs.build.outputs.law_fetch == 'success' && needs.build.outputs.mfds_fetch == 'success'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Close resolved upstream failure issues
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          open_numbers="$(gh issue list --label upstream-failure --state open --json number --jq '.[].number')"
+          [ -n "$open_numbers" ] || exit 0
+          for number in $open_numbers; do
+            gh issue close "$number" --comment "상위 데이터 수집이 복구되어 이슈를 닫습니다.
+          - 실행 로그: $RUN_URL"
+          done
+
   deploy-pages:
     needs: build
     runs-on: ubuntu-latest
