@@ -12,8 +12,18 @@
  "edi_code": "",
  "atc_code": "M02AC",
  "source_url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501274",
- "history_fetched_at": "2026-08-28T13:25:37Z",
+ "history_fetched_at": "2026-11-26T21:42:21Z",
  "revisions": [
+  {
+   "revision_id": "202501274-42763c4d",
+   "content_sha256": "42763c4d4a921d1fb8d3712159da0087145a0769d42c600c436bbb774ae12000",
+   "ee_text": "- 다음 증상의 진통·소염(항염): 삠, 타박상, 근육통, 관절통, 골(뼈)절통, 요(허리)통, 어깨결림, 신경통, 류마티스통증 - 피부가려움, 벌레물린데 - 동창(언 상처)",
+   "ee_doc_id": "6",
+   "normalizer_version": 3,
+   "first_observed_at": "2026-11-26T21:42:21Z",
+   "last_observed_at": "2026-11-26T21:42:21Z",
+   "official_revision_date": "2026-11-26"
+  },
   {
    "revision_id": "202501274-549addfe",
    "content_sha256": "549addfe8305af3958c50540183297d47f4351a1b822c991a4e347bdda38f3fe",
